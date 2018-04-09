@@ -282,7 +282,7 @@ oct dec hex entity
 324 212  d4 <umac/   umacr     \=u            ū   u     u macron
 325 213  d5 <ocar/             \v{o}          ǒ   o     o hacek
 326 214  d6 <aemac/            \=\ae          ǣ   ae    ae ligature macron
-327 215  d7 <oemac/            \=\oe          ōē  oe    oe ligature macron
+327 215  d7 <oemac/            \=\oe          œ̄   oe    oe ligature macron
 330 216  d8          par       $\parallel$    ‖   ||    double vertical bar
                                                         (s)
 331 217  d9  *
@@ -455,7 +455,7 @@ decimal  hex    char  definition
   213    d5      ǒ   <ocar/ o with caron (hacek) (inverted
                       circumflex) above 
   214    d6      ǣ   <aemac/ = "ae" ligature with a macron
-  215    d7      ōē  <oemac/ = "oe" ligature with a macron
+  215    d7      œ̄   <oemac/ = "oe" ligature with a macron
   216    d8      ‖   <par/ double vertical bar (short length; the long
                      length is the graphics character 186)
                      This precedes words marked with a double
