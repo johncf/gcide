@@ -1,13 +1,16 @@
-The README file
+**Important Note:** This is an unofficial fork of [GNU CIDE][gcide].
 
-  To accompany the GNU version of the set of files (CIDE.*) containing 
+[gcide]: <https://savannah.gnu.org/projects/gcide/>
+
+```
+ To accompany the GNU version of the set of files (CIDE.*) containing
                 the electronic version of the
        Collaborative International Dictionary of English.
                    (called also GCIDE)
-       These files contain Version 0.51 (January 2012)
     * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+```
 
-* OVERVIEW
+## Overview
 
 This document describes the GNU version of the Collaborative International
 Dictionary of English.  It is organized into a series of chapters,
@@ -16,20 +19,28 @@ sections, which are marked with two asterisks.  For those readers who use
 Emacs, this structure corresponds to its "Outline mode", which will be
 enabled automatically upon loading this file.
 
-The chapter "INTRODUCTION" describes the structure of this package.  The
-chapter "STRUCTURE OF THE DICTIONARY" describes the dictionary structure in
-general.  An overview of the markup tags is provided in the chapter "TAGS".
+The chapter [Introduction][] describes the structure of this package.  The
+chapter [Structure of the Dictionary][] describes the dictionary structure in
+general.  An overview of the markup tags is provided in the chapter [Tags][].
 A detailed information about dictionary markup can be obtained from a set of
 ancillary files included in this package, which are described in the chapter
-"ANCILLARY FILES".
+[Ancillary Files][].
 
-The chapter "DICTIONARY LOOKUP" describes how to use GNU Dico for reading
+The chapter [Dictionary Lookup][] describes how to use GNU Dico for reading
 this dictionary.  Finally, other versions of the Webster dictionary are
-listed in the chapter "OTHER VERSIONS OF THE DICTIONARY".
-    
-* INTRODUCTION
+listed in the chapter [Other Versions of the Dictionary][].
 
-The dictionary was derived from the
+[Introduction]: #introduction
+[Structure of the Dictionary]: #structure-of-the-dictionary
+[Tags]: #tags
+[Ancillary Files]: #ancillary-files
+[Dictionary Lookup]: #dictionary-lookup
+[Other Versions of the Dictionary]: #other-versions-of-the-dictionary
+
+## Introduction
+
+```
+          The dictionary was derived from the
          Webster's Revised Unabridged Dictionary
                  Version published 1913
                by the  C. & G. Merriam Co.
@@ -43,6 +54,7 @@ and has been supplemented with some of the definitions from
                  of Princeton University
                   under the direction of
                    Prof. George Miller
+```
 
 and is being proof-read and supplemented by volunteers from around the
 world.  This is an unfunded project, and future enhancement of this
@@ -54,7 +66,7 @@ illustrative quotations giving recent examples of usage of the words in
 their various senses will be very helpful, since most quotations in the
 original 1913 dictionary are now well over 100 years old.
 
-* LICENSE
+## License
 
 GCIDE is free software; you can redistribute it and/or modify it under the
 terms of the GNU General Public License as published by the Free Software
@@ -73,7 +85,7 @@ This dictionary is maintained by Patrick Cassidy and Sergey Poznyakoff.
 
 Please send bug reports and suggestions to <gcide@gnu.org>.
 
-* STRUCTURE OF THE DICTIONARY
+## Structure of the Dictionary
 
 When the archive is unpacked, the main dictionary text of the GCIDE will be
 found in 26 files named "CIDE.*", where the asterisk indicates which letter
@@ -92,6 +104,7 @@ At the bottom of each paragraph in this dictionary, there is a bracketed and
 tagged "source" indicated.  This tells from where the definition or other
 text in that paragraph came, as follows:
 
+```
 [<source>1913 Webster</source>]
   =  From the original 1890 dictionary.
 [<source>Webster 1913 Suppl.</source>]
@@ -104,25 +117,28 @@ text in that paragraph came, as follows:
                                      published
 [<source>XXX</source>]
    = Added by one of the volunteers.
+```
 
 The original definitions have been tagged and in some cases reformatted or
 slightly rearranged.  If substantive information is added from a second
 source, usually the additional source is also noted, as in:
 
+```
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]
+```
 
-This version is tagged with SGML-like tags of the form <pos>...</pos> so
+This version is tagged with SGML-like tags of the form `<pos>...</pos>` so
 that the original typography (italics, bold, block quotes) can be
 reproduced.  A list of the most important tags for fields in the dictionary
 is given below.  The tags also serve the more important function of allowing
 the information content to be conveniently imported into computer programs
 or databases.  The set of tags used is described in the accompanying file
-"tagset.txt".  ***NOTE*** the paragraph tags <p>...</p> do *not* always nest
-properly with certain other tags, such as <note> and <cs> ("collocation
+"tagset.txt".  ***NOTE*** the paragraph tags `<p>...</p>` do *not* always nest
+properly with certain other tags, such as `<note>` and `<cs>` ("collocation
 section"), which in some cases span multiple paragraphs.  If you are using a
 tag parser which detects improper nesting, you should first either delete
 the paragraph tags or convert them to non-tag symbols, or, if possible, set
-the parser to ignore the <p>...</p> tags.
+the parser to ignore the `<p>...</p>` tags.
 
 The unusual characters (such as Greek or the European accented characters,
 as well as special characters used in the pronunciations) are described in
@@ -130,11 +146,11 @@ the accompanying file "webfont.txt".  Some information on the pronunciation
 system used may be found by viewing the file "pronunc.jpg", and additional
 explanations of pronunciation are in the file "pronunc.txt".
 
-Each paragraph of the original text is enclosed within tags of the form <p>
-. . . </p>.  Within these paragraphs there are no line breaks, and some of
+Each paragraph of the original text is enclosed within tags of the form
+`<p>...</p>`.  Within these paragraphs there are no line breaks, and some of
 the paragraphs are over 12,000 characters long, which may prove too long to
 be handled by some editors.  At some points, embedded line breaks within a
-"paragraph" are marked by a <br/ "entity".  The file can therefore be
+"paragraph" are marked by a `<br/` "entity".  The file can therefore be
 converted, if necessary, to a form with shorter lines, and subsequently
 reconverted back to the form having one line per paragraph.
 
@@ -142,27 +158,29 @@ If additional line breaks are added, then in order to remove the line breaks
 and reconstruct the original paragraphs, so that the page width can be
 adjusted, perform the following manipulations:
 
+```
   (1) convert each line break to a space.
   (2) convert the string "</p>  " (</p> followed by two spaces)
-     to </p> followed by two line breaks.
+      to </p> followed by two line breaks.
   (3) convert the string "<br/ " (<br/ followed by one space)
-     to <br/ followed by one line break.
-     
+      to <br/ followed by one line break.
+```
+
 A more sophisticated formatting of spaces within paragraphs may require the
 use of the fully-tagged master files.  If you have a need for these files,
 contact Patrick Cassidy: cassidy@micra.com.
 
 The approximate beginning of each page is marked by an SGML comment of the
-form <-- p. 345 -->.  (The exact beginning was in some cases in the middle
+form `<-- p. 345 -->`.  (The exact beginning was in some cases in the middle
 of a paragraph, which we decided was not a good location for these
 page-number comments, so the page number was usually moved to the next
 paragraph break).  Pages which have been proofread by volunteers (e.g., with
-initials VOL) will have a note within that page comment: <-- p. 345 pr=VOL
--->.  Pages which have not been proofread yet (most of them) will have
+initials VOL) will have a note within that page comment: `<-- p. 345 pr=VOL
+-->`.  Pages which have not been proofread yet (most of them) will have
 varying numbers of typographical errors in them.  We still (January 2012)
 need proofreaders to get the errors out of these dictionary files.
 
-** Warning
+### Warning
 
 This version is only a first typing, and has numerous typographic errors,
 including errors in the field-marks.  In addition, the user must keep in
@@ -185,11 +203,12 @@ to a more accurate, more modern, and more useful state. Anyone willing to
 assist in any way in constructing such a knowledge base should contact
 its maintainers at <gcide@gnu.org>.
 
-* TAGS
+## Tags
 
 Most important tags used in the GCIDE:
 
-<hw> tags the headword
+```
+<hw>          tags the headword
 <pr>          pronunciation
 <pos>         part of speech
 <ety>         etymology
@@ -209,62 +228,63 @@ Most important tags used in the GCIDE:
 <p>           paragraph
 <b>           bold type
 <it>          italic type
+```
 
 For other tags, see the file "tagset.txt"
 
-* ANCILLARY FILES
+## Ancillary Files
 
 In addition to the main text of the dictionary, additional explanatory
 material about this version of the dictionary is available in the ancillary
 files:
 
-** COPYING
+* `COPYING`
 
-The license terms for distributing and modifying this dictionary.
+  The license terms for distributing and modifying this dictionary.
 
-** INFO
+* `INFO`
 
-Short information about the dictionary.  It is used by GNU Dico dictionary
-server.  The first line of this file provides a short database description.
-The entire file is sent as the response to SHOW INFO command.
+  Short information about the dictionary.  It is used by GNU Dico dictionary
+  server.  The first line of this file provides a short database description.
+  The entire file is sent as the response to SHOW INFO command.
 
-** abbrevn.lst
+* `abbrevn.lst`
 
-List of the abbreviations used in the dictionary.
+  List of the abbreviations used in the dictionary.
 
-** authors.lst
+* `authors.lst`
 
-List of authors whose works are quoted in the dictionary.
+  List of authors whose works are quoted in the dictionary.
 
-** pronunc.txt
+* `pronunc.txt`
 
-Description of the special markup used in this dictionary to represent
-pronunciations.
+  Description of the special markup used in this dictionary to represent
+  pronunciations.
 
-** pronunc.jpg
+* `pronunc.jpg`
 
-A copy of the dictionary page describing the pronunciation symbols used in
-the original work.
+  A copy of the dictionary page describing the pronunciation symbols used in
+  the original work.
 
-** symbols.jpg
+* `symbols.jpg`
 
-This file lists original pronunciation symbols with the corresponding markup
-entities used in this version.
+  This file lists original pronunciation symbols with the corresponding markup
+  entities used in this version.
 
-** tagset.txt
+* `tagset.txt`
 
-Description of the markup tags.
+  Description of the markup tags.
 
-** titlepage.png
+* `titlepage.png`
 
-A copy of the original title page.
+  A copy of the original title page.
 
-** webfont.txt
+* `webfont.txt`
 
-Description of the special escape sequences used in this dictionary.  This
-file also explains the Greek transliteration syntax used in it.
+  Description of the special escape sequences used in this dictionary.  This
+  file also explains the Greek transliteration syntax used in it.
 
-* DICTIONARY LOOKUP
+## Dictionary Lookup
 
 The dictionary home page <http://gcide.gnu.org.ua> provides an on-line
 lookup facility.
@@ -280,36 +300,37 @@ the dictionary server.
 See <http://www.gnu.org.ua/software/dico> for more information, including
 links to download and documentation.
 
-* OTHER VERSIONS OF THE DICTIONARY
+## Other Versions of the Dictionary
 
 There are several other derivative versions of this dictionary on the
 internet, in some cases reformatted or provided with an interface.  Those
 that I am aware of are:
 
-** Dicoweb 
+### Dicoweb
 
 This version of GCIDE is available online at the GNU Dico web site:
 
-  http://dicoweb.gnu.org.ua/?db=gcide
+<http://dicoweb.gnu.org.ua/?db=gcide>
 
-The site provides extensive search facilities.  
+The site provides extensive search facilities.
 
-** Project Gutenberg
+### Project Gutenberg
 
-In the extext96 directory of Project Gutenberg
-(http://www.gutenberg.org/dirs/etext96), there is a version of the original
-1913 dictionary, which is in the **public domain**.  The main files are
-labeled pgw050*.*.  The tags for that version are a subset of those used in
-this GNU version.
+In the [etext96 directory][] of Project Gutenberg, there is a version of the
+original 1913 dictionary, which is in the **public domain**.  The main files
+are labeled pgw050*.*.  The tags for that version are a subset of those used
+in this GNU version.
 
-** The DICT development group
+[etext96 directory]: http://www.gutenberg.org/dirs/etext96
+
+### The DICT development group
 
 This group has created a program to index and search this dictionary.  The
 program can be downloaded and used locally, but at present is available only
 in a Unix-compatible executable version.  See their web site at
-http://www.dict.org.
+<http://www.dict.org>.
 
-** The University of Chicago ARTFL project
+### The University of Chicago ARTFL project
 
 Mark Olsen and Gavin LaRowe at the University of Chicago have converted the
 original 1913 dictionary to HTML and have provided an interface allowing
@@ -317,18 +338,8 @@ search of the headwords.  When the supplemented version has developed
 sufficiently to warrant the effort, a similar searchable version may be
 posted there as well.  The search page is at:
 
-  http://humanities.uchicago.edu/forms_unrest/webster.form.html
+<http://humanities.uchicago.edu/forms_unrest/webster.form.html>
 
 That page will provide links to other ARTFL projects and contact information
 for the ARTFL group, who alone can provide information about the HTML
 version or interface.
-
-
-
-Local Variables:
-mode: outline
-paragraph-separate: "[ 	]*$"
-version-control: never
-fill-column: 76
-End:
-
