@@ -3754,7 +3754,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>main memory</ent><br/
-<hw>main memory</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>The memory in a computer that holds programs and data for rapid access during execution of a program; it usually hold the largest quantity of rapid-access storage in a computer; -- also called <altname>RAM</altname> (<altname>random access memory</altname>.  It is contrasted to <contr>ROM</contr>, <contr>disk data storage</contr>, <contr>cache</contr>, <contr>registers</contr> and other forms of data storage.</def><br/
+<hw>main memory</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>The memory in a computer that holds programs and data for rapid access during execution of a program; it usually hold the largest quantity of rapid-access storage in a computer; -- also called <altname>RAM</altname> (<altname>random access memory</altname>).  It is contrasted to <contr>ROM</contr>, <contr>disk data storage</contr>, <contr>cache</contr>, <contr>registers</contr> and other forms of data storage.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mainor</ent><br/
@@ -28605,7 +28605,7 @@ To the <qex>mislead</qex> and lonely traveler.</q> <rj><qau>Milton.</qau></rj><b
 <p><-- p. 931 --></p>
 
 <p><ent>Misprize</ent><br/
-<hw>Mis*prize"</hw> <pr>(m<icr/s*pr<imac/z")</pr>, <pos>v. t.</pos> <ety>[OF. <ets>mesprisier</ets> to deprise, F. <ets>m<eacute/priser</ets>; pref. amiss, wrong (L. <ets>minus</ets> less + LL. <ets>pretium</ets> price. See <er>price</er>, <er>Prize</er>, <pos>v.</pos>]</ety> <def>To slight or undervalue.</def><br/
+<hw>Mis*prize"</hw> <pr>(m<icr/s*pr<imac/z")</pr>, <pos>v. t.</pos> <ety>[OF. <ets>mesprisier</ets> to deprise, F. <ets>m<eacute/priser</ets>; pref. amiss, wrong (L. <ets>minus</ets> less + LL. <ets>pretium</ets> price.) See <er>price</er>, <er>Prize</er>, <pos>v.</pos>]</ety> <def>To slight or undervalue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O, for those vanished hours, so much <qex>misprized</qex>!</q> <rj><qau>Hillhouse.</qau></rj><br/
@@ -36118,7 +36118,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morioplasty</ent><br/
-<hw>Mo"ri*o*plas`ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ piece (dim. of <?/ a part + <ets>-plasty</ets>.]</ety> <fld>(Surg.)</fld> <def>The restoration of lost parts of the body.</def><br/
+<hw>Mo"ri*o*plas`ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ piece (dim. of <?/ a part) + <ets>-plasty</ets>.]</ety> <fld>(Surg.)</fld> <def>The restoration of lost parts of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 945 --></p>

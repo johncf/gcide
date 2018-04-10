@@ -23230,7 +23230,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Guan</ent><br/
-<hw>Guan</hw> <pr>(gw<aum/n)</pr>, <pos>n.</pos> <fld>((Zool.)</fld> <def>Any one of many species of large gallinaceous birds of Central and South America, belonging to <gen>Penelope</gen>, <gen>Pipile</gen>, <gen>Ortalis</gen>, and allied genera. Several of the species are often domesticated.</def><br/
+<hw>Guan</hw> <pr>(gw<aum/n)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of many species of large gallinaceous birds of Central and South America, belonging to <gen>Penelope</gen>, <gen>Pipile</gen>, <gen>Ortalis</gen>, and allied genera. Several of the species are often domesticated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guana</ent><br/

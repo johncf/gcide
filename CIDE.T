@@ -1003,7 +1003,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tactics</ent><br/
-<hw>Tac"tics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>taktika`</grk> pl., and <grk>taktikh`</grk> (sc. <grk>te`chnh</grk>, sing., fr. <grk>taktiko`s</grk> fit for ordering or arranging, fr. <grk>ta`ssein</grk>, <grk>ta`ttein</grk>, to put in order, to arrange: cf. F. <ets>tactique</ets>.]</ety> <sn>1.</sn> <def>The science and art of disposing military and naval forces in order for battle, and performing military and naval evolutions. It is divided into <xex>grand tactics</xex>, or the tactics of battles, and <xex>elementary tactics</xex>, or the tactics of instruction.</def><br/
+<hw>Tac"tics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>taktika`</grk> pl., and <grk>taktikh`</grk> (sc. <grk>te`chnh</grk>) sing., fr. <grk>taktiko`s</grk> fit for ordering or arranging, fr. <grk>ta`ssein</grk>, <grk>ta`ttein</grk>, to put in order, to arrange: cf. F. <ets>tactique</ets>.]</ety> <sn>1.</sn> <def>The science and art of disposing military and naval forces in order for battle, and performing military and naval evolutions. It is divided into <xex>grand tactics</xex>, or the tactics of battles, and <xex>elementary tactics</xex>, or the tactics of instruction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Hence, any system or method of procedure.</def><br/
@@ -4108,7 +4108,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 <p><note><hand/ The United States and Great Britain impose no duties on exports; hence, in these countries the <ex>tariff</ex> refers only to imports.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ A tariff may be imposed solely for, and with reference to, the production of revenue (called a <col><b>revenue tariff</b></col>, or <col><b>tariff for revenue</b></col>, or for the artificial fostering of home industries (<col><b>a projective tariff</b></col>), or as a means of coercing foreign governments, as in case of <col><b>retaliatory tariff</b></col>.</note><br/
+<p><note><hand/ A tariff may be imposed solely for, and with reference to, the production of revenue (called a <col><b>revenue tariff</b></col>, or <col><b>tariff for revenue</b></col>), or for the artificial fostering of home industries (<col><b>a projective tariff</b></col>), or as a means of coercing foreign governments, as in case of <col><b>retaliatory tariff</b></col>.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>The duty, or rate of duty, so imposed; <as>as, the <ex>tariff</ex> on wool; a <ex>tariff</ex> of two cents a pound.</as></def><br/
@@ -42005,7 +42005,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Twit</ent><br/
-<hw>Twit</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Twitted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Twitting</conjf>.]</vmorph> <ety>[OE. <ets>atwiten</ets>, AS. <ets><ae/tw<imac/tan</ets> to reproach, blame; <ets>aet</ets> at + <ets>w<imac/tan</ets> to reproach, blame; originally, to observe, see, hence, to observe what is wrong (cf. the meanings of E. <ets>animadvert</ets>; akin to G. ver<ets>weisen</ets> to censure, OHG. fir<ets>w<imac/zan</ets>, Goth. fra<ets>weitan</ets> to avenge, L. <ets>videre</ets> to see. See <er>Vision</er>, <er>Wit</er>.]</ety> <def>To vex by bringing to notice, or reminding of, a fault, defect, misfortune, or the like; to revile; to reproach; to upbraid; to taunt; <as>as, he <ex>twitted</ex> his friend of falsehood</as>.</def><br/
+<hw>Twit</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Twitted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Twitting</conjf>.]</vmorph> <ety>[OE. <ets>atwiten</ets>, AS. <ets><ae/tw<imac/tan</ets> to reproach, blame; <ets>aet</ets> at + <ets>w<imac/tan</ets> to reproach, blame; originally, to observe, see, hence, to observe what is wrong (cf. the meanings of E. <ets>animadvert</ets>); akin to G. ver<ets>weisen</ets> to censure, OHG. fir<ets>w<imac/zan</ets>, Goth. fra<ets>weitan</ets> to avenge, L. <ets>videre</ets> to see. See <er>Vision</er>, <er>Wit</er>.]</ety> <def>To vex by bringing to notice, or reminding of, a fault, defect, misfortune, or the like; to revile; to reproach; to upbraid; to taunt; <as>as, he <ex>twitted</ex> his friend of falsehood</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This these scoffers <qex>twitted</qex> the Christians with.</q> <rj><qau>Tillotson.</qau></rj><br/

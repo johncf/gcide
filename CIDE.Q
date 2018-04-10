@@ -198,7 +198,7 @@
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>The quarter of a circle, or of the circumference of a circle, an arc of 90<deg/, or one subtending a right angle at the center.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Anal. (Geom.)</fld> <def>One of the four parts into which a plane is divided by the coordinate axes. The upper right-hand part is the <xex>first quadrant</xex>; the upper left-hand part the <xex>second</xex>; the lower left-hand part the <xex>third</xex>; and the lower right-hand part the <xex>fourth quadrant</xex>.</def><br/
+<p><sn>3.</sn> <fld>(Anal. Geom.)</fld> <def>One of the four parts into which a plane is divided by the coordinate axes. The upper right-hand part is the <xex>first quadrant</xex>; the upper left-hand part the <xex>second</xex>; the lower left-hand part the <xex>third</xex>; and the lower right-hand part the <xex>fourth quadrant</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>An instrument for measuring altitudes, variously constructed and mounted for different specific uses in astronomy, surveying, gunnery, etc., consisting commonly of a graduated arc of 90<deg/, with an index or vernier, and either plain or telescopic sights, and usually having a plumb line or spirit level for fixing the vertical or horizontal direction.</def><br/

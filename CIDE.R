@@ -7257,7 +7257,7 @@ More feathers to our wings.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source> +<source>PJC</source>]</p>
 
 <p><ent>Reassessment</ent><br/
-<hw>Re`as*sess"ment</hw> <pr>(r<emac/`<acr/s*s<ecr/s"m<eit/nt</pr>, <pos>n.</pos> <def>A renewed or second assessment.</def><br/
+<hw>Re`as*sess"ment</hw> <pr>(r<emac/`<acr/s*s<ecr/s"m<eit/nt)</pr>, <pos>n.</pos> <def>A renewed or second assessment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reassign</ent><br/

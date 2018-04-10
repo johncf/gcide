@@ -18920,7 +18920,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Not <qex>lither</qex> in business, fervent in spirit.</q> <rj><qau>Bp. Woolton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Professor Skeat thinks <ldquo/ the <xex>lither</xex> sky<rdquo/ as found in Shakespeare's Henry VI. ((Part I. IV. VII., 21) means the stagnant or pestilential sky.</note></p>
+<p><note><hand/ Professor Skeat thinks <ldquo/ the <xex>lither</xex> sky<rdquo/ as found in Shakespeare's Henry VI. (Part I. IV. VII., 21) means the stagnant or pestilential sky.</note></p>
 
 <p>-- <wordforms><wf>Li"ther*ly</wf>, <pos>adv.</pos> <mark>[Obs.]</mark>. -- <wf>Li"ther*ness</wf>, <pos>n.</pos> <mark>[Obs.]</mark></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -21460,7 +21460,7 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Locust</ent><br/
-<hw>Lo"cust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>locusta</ets> locust, grasshopper.  Cf. <er>Lobster</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of long-winged, migratory, orthopterous insects, of the family <fam>Acridid<ae/</fam>, allied to the grasshoppers; esp., (<spn>Edipoda migratoria</spn>, syn. <spn>Pachytylus migratoria</spn>, and <spn>Acridium perigrinum</spn>, of Southern Europe, Asia, and Africa. In the United States the related species with similar habits are usually called <altname>grasshoppers</altname>. See <er>Grasshopper</er>.</def><br/
+<hw>Lo"cust</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>locusta</ets> locust, grasshopper.  Cf. <er>Lobster</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of long-winged, migratory, orthopterous insects, of the family <fam>Acridid<ae/</fam>, allied to the grasshoppers; esp., (<spn>Edipoda migratoria</spn>), syn. <spn>Pachytylus migratoria</spn>, and <spn>Acridium perigrinum</spn>, of Southern Europe, Asia, and Africa. In the United States the related species with similar habits are usually called <altname>grasshoppers</altname>. See <er>Grasshopper</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ These insects are at times so numerous in Africa and the south of Asia as to devour every green thing; and when they migrate, they fly in an immense cloud. In the United States the harvest flies are improperly called <xex>locusts</xex>. See <er>Cicada</er>.</note><br/

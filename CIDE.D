@@ -16753,7 +16753,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <hw>De*riv"a*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>derivativus</ets>: cf. F. <ets>d<eacute/rivatif</ets>.]</ety> <def>Obtained by derivation; derived; not radical, original, or fundamental; originating, deduced, or formed from something else; secondary; <as>as, a <ex>derivative</ex> conveyance; a <ex>derivative</ex> word.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def><specif>Hence,</specif> unoriginal (said of art or other intellectual products.</def><br/
+<p><sn>2.</sn> <def><specif>Hence,</specif> unoriginal (said of art or other intellectual products).</def><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Derivative circulation</b></col>, <cd>a modification of the circulation found in some parts of the body, in which the arteries empty directly into the veins without the interposition of capillaries.</cd>  <rj><au>Flint.</au></rj></cs></p>
@@ -17140,7 +17140,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <hw>Der"rick</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Orig., a gallows, from a hangman named <ets>Derrick</ets>. The name is of Dutch origin; D. <ets>Diederik</ets>, <ets>Dierryk</ets>, prop. meaning, chief of the people; cf. AS. <ets>pe<oacute/dric</ets>, E. <ets>Theodoric</ets>, G. <ets>Dietrich</ets>. See <er>Dutch</er>, and <er>Rich</er>.]</ety> <sn>1.</sn> <def>A mast, spar, or tall frame, supported at the top by stays or guys, and usually pivoted at the base, with suitable tackle for hoisting heavy weights, such as stones in building.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mining)</fld> <def>The pyramidal structure or tower over a deep drill hole, such as that of an oil well (also called an <ecol><b>oil derrick</b></ecol> .</def><br/
+<p><sn>2.</sn> <fld>(Mining)</fld> <def>The pyramidal structure or tower over a deep drill hole, such as that of an oil well (also called an <ecol><b>oil derrick</b></ecol>).</def><br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><cs><col><b>Derrick crane</b></col>, <cd>a combination of the derrick and the crane, having facility for hoisting and also for swinging the load horizontally.</cd></cs><br/
@@ -45278,7 +45278,7 @@ That, like a wounded snake, <qex>drags</qex> its slow length along.</q> <rj><qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dragoon</ent><br/
-<hw>Dra*goon"</hw> <pr>(dr<adot/*g<oomac/n")</pr>, <pos>n.</pos> <ety>[F. <ets>dragon</ets> dragon, dragoon, fr. L. <ets>draco</ets> dragon, also, a cohort's standard (with a dragon on it). The name was given from the sense <ets>standard</ets>. See <er>Dragon</er>.]</ety> <sn>1.</sn> <fld>((Mil.)</fld> <def>Formerly, a soldier who was taught and armed to serve either on horseback or on foot; now, a mounted soldier; a cavalry man.</def><br/
+<hw>Dra*goon"</hw> <pr>(dr<adot/*g<oomac/n")</pr>, <pos>n.</pos> <ety>[F. <ets>dragon</ets> dragon, dragoon, fr. L. <ets>draco</ets> dragon, also, a cohort's standard (with a dragon on it). The name was given from the sense <ets>standard</ets>. See <er>Dragon</er>.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>Formerly, a soldier who was taught and armed to serve either on horseback or on foot; now, a mounted soldier; a cavalry man.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A variety of pigeon.</def>  <rj><au>Clarke.</au></rj><br/
