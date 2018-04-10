@@ -893,7 +893,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Naphthene</ent><br/
-<hw>Naph"thene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A peculiar hydrocarbon fraction occuring as an ingredient of some crude petroleums, mostly mixtures of derivatives of the five- and six-membered saturated cyclic alkanes, cyclopentane and cyclohexane, having the general formula C<sub>n</sub>H<sub>2n</sub>.</def><br/
+<hw>Naph"thene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A peculiar hydrocarbon fraction occuring as an ingredient of some crude petroleums, mostly mixtures of derivatives of the five- and six-membered saturated cyclic alkanes, cyclopentane and cyclohexane, having the general formula <chform>CnH2n</chform>.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>Naphthide</ent><br/
