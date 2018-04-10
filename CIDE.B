@@ -42132,7 +42132,7 @@ The barks of trees thou <qex>browsedst</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brucine</ent><br/
-<hw>Bru"cine</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>brucine</ets>, fr. James <ets>Bruce</ets>, a Scottish traveler.]</ety> <fld>(Chem.)</fld> <def>A powerful vegetable alkaloid, found, associated with strychnine, in the seeds of different species of <gen>Strychnos</gen>, especially in the <er><it>Nux vomica</it></er>. It is less powerful than strychnine. Called also <altname>brucia</altname> and <altname>brucina</altname>.</def><br/
+<hw>Bru"cine</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>brucine</ets>, fr. James <ets>Bruce</ets>, a Scottish traveler.]</ety> <fld>(Chem.)</fld> <def>A powerful vegetable alkaloid, found, associated with strychnine, in the seeds of different species of <gen>Strychnos</gen>, especially in the <er>Nux vomica</er>. It is less powerful than strychnine. Called also <altname>brucia</altname> and <altname>brucina</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brucite</ent><br/

@@ -44474,7 +44474,7 @@ And guilty dumbness, witnessed my surprise.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><ent>downstairs</ent><br/
 <ent>downstair</ent><br/
-<mhw><hw>downstair</hw>, <hw>downstairs</hw></mhw> <pos>adj.</pos>  <def>on or of the lower floors of a building, especially the ground floor; <as>as, the downstairs (or <ex>downstair</ex> phone; the house has no <ex>downstairs</ex> bathroom</as>.  Opposite of <ant>upstairs</ant>.</def><br/
+<mhw><hw>downstair</hw>, <hw>downstairs</hw></mhw> <pos>adj.</pos>  <def>on or of the lower floors of a building, especially the ground floor; <as>as, the <ex>downstairs</ex> (or <ex>downstair</ex>) phone; the house has no <ex>downstairs</ex> bathroom</as>.  Opposite of <ant>upstairs</ant>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>downstairs</ent><br/
