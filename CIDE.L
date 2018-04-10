@@ -9955,7 +9955,7 @@ Read, whilst you arm you.</q> <rj><qau>Fairfax.</qau></rj><br/
 <syn><b>Syn. --</b> tall-growing.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>Having long legs.</def> <wns>[wns=2]</wns> <rj><au>Thackeray.</au></rj><br/
+<p><sn>2.</sn> <def>Having long legs.</def> <rj><au>Thackeray.</au></rj> <wns>[wns=2]</wns><br/
 <syn><b>Syn. --</b> long-legged, long-shanked.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -15127,7 +15127,7 @@ Controlling majesty.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>the translation is . . . <qex>light-handed</qex> . . . and generally unobtrusive.</q>  <rj><qau>New Yorker.</qau></rj></p>
 
 <p><ent>Light-headed</ent><br/
-<hw>Light"-head`ed</hw> <pr>(l<imac/t"h<ecr/d`<ecr/d)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Disordered in the head; dizzy; feeling faint; delirious.</def> <wns>[wns=1]</wns> <rj><au>Walpole.</au></rj><br/
+<hw>Light"-head`ed</hw> <pr>(l<imac/t"h<ecr/d`<ecr/d)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Disordered in the head; dizzy; feeling faint; delirious.</def> <rj><au>Walpole.</au></rj> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> faint, swooning, lightheaded.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 

@@ -41282,7 +41282,7 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>domain</qex> over which the poetic spirit ranges.</q> <rj><qau>J. C. Shairp.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Landed property; estate; especially, the land about the mansion house of a lord, and in his immediate occupancy; demesne.</def>  <wns>[wns=2]</wns> <rj><au>Shenstone.</au></rj><br/
+<p><sn>3.</sn> <def>Landed property; estate; especially, the land about the mansion house of a lord, and in his immediate occupancy; demesne.</def> <rj><au>Shenstone.</au></rj> <wns>[wns=2]</wns><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Law)</fld> <def>Ownership of land; an estate or patrimony which one has in his own right; absolute proprietorship; paramount or sovereign ownership.</def><br/

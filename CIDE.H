@@ -1965,7 +1965,7 @@ Portioned in <qex>halves</qex> between us.</q> <rj><qau>Tennyson.</qau></rj><br/
 <mhw><hw>half"heart`ed</hw>, <hw>Half"-heart`ed</hw></mhw> <pr>(-h<aum/rt`<ecr/d)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Wanting in heart or spirit; ungenerous; unkind.</def>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Lacking zeal or courage; performed with less than a full effort; lukewarm; unenthusiastic; <as>as, a <ex>half-hearted</ex> attempt</as>; -- of actions.</def> <wns>[wns=1]</wns> <rj><au>H. James.</au></rj><br/
+<p><sn>2.</sn> <def>Lacking zeal or courage; performed with less than a full effort; lukewarm; unenthusiastic; <as>as, a <ex>half-hearted</ex> attempt</as>; -- of actions.</def> <rj><au>H. James.</au></rj> <wns>[wns=1]</wns><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><ent>half-holiday</ent><br/
@@ -23948,7 +23948,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hot-headed</ent><br/
-<hw>Hot"-head`ed</hw>, <pos>a.</pos> <def>quickly and easily aroused to anger; fiery; violent; rash; hasty; impetuous; vehement; <as>as, a <ex>hot-headed</ex> commander</as>.</def> <wns>[wns=1]</wns> <rj><au>Macaulay.</au></rj><br/
+<hw>Hot"-head`ed</hw>, <pos>a.</pos> <def>quickly and easily aroused to anger; fiery; violent; rash; hasty; impetuous; vehement; <as>as, a <ex>hot-headed</ex> commander</as>.</def> <rj><au>Macaulay.</au></rj> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> choleric, irascible, hotheaded, hot-tempered, quick-tempered, short-tempered.</syn><br/
 [<source>1913 Webster</source>]</p>
 

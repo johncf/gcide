@@ -6755,7 +6755,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bart.</ent><br/
-<hw>Bart.</hw> <pos>n.</pos> <def>an abbreviation of <er>baronet</er>.</def> <mark>[Abbrev.]</mark> <ldquo/Since he was a baronet he had to be addressed as <person>Sir Henry Jones, Bart.</person><ldquo/<br/
+<hw>Bart.</hw> <pos>n.</pos> <def>an abbreviation of <er>baronet</er>.</def> <mark>[Abbrev.]</mark> <ldquo/Since he was a baronet he had to be addressed as <person>Sir Henry Jones, Bart.</person><rdquo/<br/
 <syn><b>Syn. --</b> baronet.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -22324,7 +22324,7 @@ The case of his patient.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>I spy a <qex>black</qex>, suspicious, threatening cloud.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Fig.: Dismal, gloomy, or forbidding, like darkness; destitute of moral light or goodness; atrociously wicked; cruel; mournful; calamitous; horrible.</def>  <ldquo/This day's <xex>black</xex> fate.<rdquo/   <ldquo/<xex>Black</xex> villainy.<rdquo/  <ldquo/Arise, <xex>black</xex> vengeance.<rdquo/  <ldquo/Black day.<rdquo/ <ldquo/<xex>Black</xex> despair.<rdquo/  <rj><au>Shak.</au></rj><br/
+<p><sn>3.</sn> <def>Fig.: Dismal, gloomy, or forbidding, like darkness; destitute of moral light or goodness; atrociously wicked; cruel; mournful; calamitous; horrible.</def>  <ldquo/This day's <xex>black</xex> fate.<rdquo/   <ldquo/<xex>Black</xex> villainy.<rdquo/  <ldquo/Arise, <xex>black</xex> vengeance.<rdquo/  <ldquo/<xex>Black</xex> day.<rdquo/ <ldquo/<xex>Black</xex> despair.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Expressing menace, or discontent; threatening; sullen; foreboding; <as>as, to regard one with <ex>black</ex> looks</as>.</def><br/

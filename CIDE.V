@@ -12322,7 +12322,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <hw>Vol"ley</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To be thrown out, or discharged, at once; to be discharged in a volley, or as if in a volley; to make a volley or volleys.</def>  <rj><au>Tennyson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <sd>(a)</sd> <fld>(Tennis)</fld> <def>To return the ball before it touches the ground.</def>  <sd>(b)</sd> <sd>(Cricket)</sd> <def>To send the ball full to the top of the wicket.</def>  <rj><au>R. A. Proctor.</au></rj><br/
+<p><sn>2.</sn> <sd>(a)</sd> <fld>(Tennis)</fld> <def>To return the ball before it touches the ground.</def>  <sd>(b)</sd> <fld>(Cricket)</fld> <def>To send the ball full to the top of the wicket.</def>  <rj><au>R. A. Proctor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volley ball</ent><br/
