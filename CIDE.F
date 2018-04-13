@@ -21425,7 +21425,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 <hw>Fo"cal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>focal</ets>. See <er>Focus</er>.]</ety> <def>Belonging to,or concerning, a focus; as, a focal point.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Focal distance, or length, of a lens or mirror</b></col> <fld>(Opt.)</fld>, <cd>the distance of the focus from the surface of the lens or mirror, or more exactly, in the case of a lens, from its optical center.</cd> --<col><b>Focal distance of a telescope</b></col>, <cd>the distance of the image of an object from the object glass.</cd></cs><br/
+<p><cs><mcol><col><b>Focal distance</b></col>, or <col><b>Focal length</b></col>, <col><b>of a lens or mirror</b></col></mcol> <fld>(Opt.)</fld>, <cd>the distance of the focus from the surface of the lens or mirror, or more exactly, in the case of a lens, from its optical center.</cd> --<col><b>Focal distance of a telescope</b></col>, <cd>the distance of the image of an object from the object glass.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Focalization</ent><br/

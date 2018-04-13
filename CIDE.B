@@ -2632,7 +2632,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Ba"laam</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A paragraph describing something wonderful, used to fill out a newspaper column; -- an allusion to the miracle of Balaam's ass speaking.</def> <au>Numb. xxii. 30.</au> <mark>[Cant]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Balaam basket or box</b></col> <fld>(Print.)</fld>, <cd>the receptacle for rejected articles.</cd>  <rj><au>Blackw. Mag.</au></rj></cs><br/
+<p><cs><col><b>Balaam basket</b></col> or <col><b>Balaam box</b></col> <fld>(Print.)</fld>, <cd>the receptacle for rejected articles.</cd>  <rj><au>Blackw. Mag.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Balachong</ent><br/
@@ -47298,7 +47298,7 @@ The faithless column, and the crumbling <qex>bust</qex>.</q> <rj><qau>Pope.</qau
 <p><sn>3.</sn> <def>To go bankrupt.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>to go bust</b></col> <cd>to go bankrupt.</cd>  <col><b>or bust</b></col> <cd>or collapse from the effort; -- used in phrases expressing determination to do something; <as>as, Oregon <ex>or bust</ex>, meaning <ldquo/We will get to Oregon or die trying.<rdquo/</as></cd></cs><br/
+<p><cs><col><b>to go bust</b></col> <cd>to go bankrupt.</cd> -- <col><b>or bust</b></col> <cd>or collapse from the effort; -- used in phrases expressing determination to do something; <as>as, Oregon <ex>or bust</ex>, meaning <ldquo/We will get to Oregon or die trying.<rdquo/</as></cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>bustard</ent><br/

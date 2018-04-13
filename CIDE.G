@@ -6929,7 +6929,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><sn>2.</sn> <def>A treatise on this science.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Astronomical</b></col>, <col><b>or Mathematical</b></col></mcol>, <cd>geography treats of the earth as a planet, of its shape, its size, its lines of latitude and longitude, its zones, and the phenomena due to to the earth's diurnal and annual motions.</cd> -- <col><b>Physical geography</b></col><cd> treats of the conformation of the earth's surface, of the distribution of land and water, of minerals, plants, animals, etc., and applies the principles of physics to the explanation of the diversities of climate, productions, etc.</cd> -- <col><b>Political geography</b></col><cd> treats of the different countries into which earth is divided with regard to political and social and institutions and conditions.</cd></cs><br/
+<p><cs><mcol><col><b>Astronomical geography</b></col>, or <col><b>Mathematical geography</b></col></mcol>, <cd>treats of the earth as a planet, of its shape, its size, its lines of latitude and longitude, its zones, and the phenomena due to to the earth's diurnal and annual motions.</cd> -- <col><b>Physical geography</b></col> <cd>treats of the conformation of the earth's surface, of the distribution of land and water, of minerals, plants, animals, etc., and applies the principles of physics to the explanation of the diversities of climate, productions, etc.</cd> -- <col><b>Political geography</b></col> <cd>treats of the different countries into which earth is divided with regard to political and social and institutions and conditions.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Geolatry</ent><br/
@@ -15218,7 +15218,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p>-- <col><b>Good cheap</b></col>, <cd>literally, good bargain; reasonably cheap.</cd></p>
 
-<p>-- <col><b>Good consideration</b></col> <fld>(Law)</fld>. <sd>(a)</sd> <cd>A consideration of blood or of natural love and affection.</cd> <au>Blackstone.</au> <sd>(b)</sd> <cd>A valuable consideration, or one which will sustain a contract.</cd> -- <col><b>Good fellow</b></col>, <cd>a person of companionable qualities.</cd> <mark>[Familiar]</mark> -- <mcol><col><b>Good folk</b></col>, <col><b>or Good people</b></col></mcol>, <cd>fairies; brownies; pixies, etc.</cd> <mark>[Colloq. Eng. & Scot.]</mark> -- <col><b>Good for nothing</b></col>. <sd>(a)</sd> <cd>Of no value; useless; worthless.</cd> <sd>(b)</sd> <cd>Used substantively, an idle, worthless person.</cd><br/
+<p>-- <col><b>Good consideration</b></col> <fld>(Law)</fld>. <sd>(a)</sd> <cd>A consideration of blood or of natural love and affection.</cd> <au>Blackstone.</au> <sd>(b)</sd> <cd>A valuable consideration, or one which will sustain a contract.</cd> -- <col><b>Good fellow</b></col>, <cd>a person of companionable qualities.</cd> <mark>[Familiar]</mark> -- <mcol><col><b>Good folk</b></col>, or <col><b>Good people</b></col></mcol>, <cd>fairies; brownies; pixies, etc.</cd> <mark>[Colloq. Eng. & Scot.]</mark> -- <col><b>Good for nothing</b></col>. <sd>(a)</sd> <cd>Of no value; useless; worthless.</cd> <sd>(b)</sd> <cd>Used substantively, an idle, worthless person.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>My father always said I was born to be a <qex>good for nothing</qex>.</q> <rj><qau>Ld. Lytton.</qau></rj></p>
