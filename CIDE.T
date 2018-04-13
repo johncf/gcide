@@ -5863,7 +5863,7 @@ Her fragrant flowers, her trees with precious <qex>tears</qex>.</q> <rj><qau>Dry
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tear</ent><br/
-<hw>Tear</hw> <pr>(t<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Tore</conjf> <pr>(t<omac/r)</pr>, ((<mark>Obs.</mark> <conjf>Tare</conjf>) <pr>(t<acir/r)</pr>; <pos>p. p.</pos> <conjf>Torn</conjf> <pr>(t<omac/rn)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Tearing</conjf>.]</vmorph> <ety>[OE. <ets>teren</ets>, AS. <ets>teran</ets>; akin to OS. far<ets>terian</ets> to destroy, D. <ets>teren</ets> to consume, G. <ets>zerren</ets> to pull, to tear, <ets>zehren</ets> to consume, Icel. <ets>t>ae/ra</ets>, Goth. <ets>gata<iacute/ran</ets> to destroy, Lith. <ets>dirti</ets> to flay, Russ. <ets>drate</ets> to pull, to tear, Gr. <grk>de`rein</grk> to flay, Skr. <ets>dar</ets> to burst. <root/63.  Cf. <er>Darn</er>, <er>Epidermis</er>, <er>Tarre</er>, <er>Tirade</er>.]</ety> <sn>1.</sn> <def>To separate by violence; to pull apart by force; to rend; to lacerate; <as>as, to <ex>tear</ex> cloth; to <ex>tear</ex> a garment; to <ex>tear</ex> the skin or flesh.</as></def><br/
+<hw>Tear</hw> <pr>(t<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Tore</conjf> <pr>(t<omac/r)</pr>, (<mark>Obs.</mark> <conjf>Tare</conjf>) <pr>(t<acir/r)</pr>; <pos>p. p.</pos> <conjf>Torn</conjf> <pr>(t<omac/rn)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Tearing</conjf>.]</vmorph> <ety>[OE. <ets>teren</ets>, AS. <ets>teran</ets>; akin to OS. far<ets>terian</ets> to destroy, D. <ets>teren</ets> to consume, G. <ets>zerren</ets> to pull, to tear, <ets>zehren</ets> to consume, Icel. <ets>t>ae/ra</ets>, Goth. <ets>gata<iacute/ran</ets> to destroy, Lith. <ets>dirti</ets> to flay, Russ. <ets>drate</ets> to pull, to tear, Gr. <grk>de`rein</grk> to flay, Skr. <ets>dar</ets> to burst. <root/63.  Cf. <er>Darn</er>, <er>Epidermis</er>, <er>Tarre</er>, <er>Tirade</er>.]</ety> <sn>1.</sn> <def>To separate by violence; to pull apart by force; to rend; to lacerate; <as>as, to <ex>tear</ex> cloth; to <ex>tear</ex> a garment; to <ex>tear</ex> the skin or flesh.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Tear</qex> him to pieces; he's a conspirator.</q> <rj><qau>Shak.</qau></rj><br/
@@ -23736,7 +23736,7 @@ Oft whip her dainty self.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Toolshed</ent><br/
 <hw>Tool"shed</hw>. <def>a small closed structure in which tools are stored, often found in the back yard of a residence.</def><br/
-[<source>{JC</source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>Tool steel</ent><br/
 <hw>Tool steel</hw>. <def>Hard steel, usually crucible steel, capable of being tempered so as to be suitable for tools.</def><br/
