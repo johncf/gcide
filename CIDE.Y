@@ -802,7 +802,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>year-long</ent><br/
 <ent>yearlong</ent><br/
-<hw>year"-long</hw> <hw>year"long</hw> <pr>(?)</pr>, <pos>adj.</pos> <sn>1.</sn>  <def>lasting through a year.</def> <illu>attending <ex>year-long</ex> courses</illu><br/
+<mhw><hw>year"-long</hw> <hw>year"long</hw> <pr>(?)</pr></mhw>, <pos>adj.</pos> <sn>1.</sn>  <def>lasting through a year.</def> <illu>attending <ex>year-long</ex> courses</illu><br/
 <syn><b>Syn. --</b> yearlong.</syn><br/
 [<source>WordNet 1.5</source> + <source>CM</source>]</p>
 

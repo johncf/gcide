@@ -17010,10 +17010,9 @@ Beneath the visiting moon.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Re*mark"er</hw> <pr>(-?r)</pr>, <pos>n.</pos> <def>One who remarks.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Remarque proof</ent><br/
-<ent>Remark</ent><br/
+<p><ent>Remark</ent><br/
 <ent>Remarque</ent><br/
-<mhw><hw>Re*marque"</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Remark</hw></mhw>. <fld>(Engraving)</fld> <sd>(a)</sd> <def>A small design etched on the margin of a plate and supposed to be removed after the earliest proofs have been taken; also, any feature distinguishing a particular stage of the plate.</def> <sd>(b)</sd> <def>A print or proof so distinguished; -- commonly called a <altname><hw>Remarque proof</hw></altname>.</def><br/
+<mhw><hw>Re*marque"</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Remark</hw></mhw>. <fld>(Engraving)</fld> <sd>(a)</sd> <def>A small design etched on the margin of a plate and supposed to be removed after the earliest proofs have been taken; also, any feature distinguishing a particular stage of the plate.</def> <sd>(b)</sd> <def>A print or proof so distinguished; -- commonly called a <altname>Remarque proof</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Remarriage</ent><br/

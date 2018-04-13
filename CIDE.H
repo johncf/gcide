@@ -12421,7 +12421,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><ent>Hemselven</ent><br/
 <ent>Hemselve</ent><br/
 <ent>Hemself</ent><br/
-<mhw><hw>Hem*self"</hw> <pr>(?)</pr>, <hw>Hem*selve"</hw> <pr>(<?/)</pr></mhw>, <hw>Hem*selv"en</hw> <pr>(<?/)</pr>, <pos>pron. pl.</pos> <ety>[See <er>Hem</er>, <pos>pron.</pos>]</ety> <def>Themselves; -- used reflexively.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<mhw><hw>Hem*self"</hw> <pr>(?)</pr>, <hw>Hem*selve"</hw> <pr>(<?/)</pr>, <hw>Hem*selv"en</hw> <pr>(<?/)</pr></mhw>, <pos>pron. pl.</pos> <ety>[See <er>Hem</er>, <pos>pron.</pos>]</ety> <def>Themselves; -- used reflexively.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemstitch</ent><br/
@@ -16601,7 +16601,7 @@ Of the same herd, <qex>himself</qex> the same had done.</q> <rj><qau>Denham.</qa
 <p><ent>Himselven</ent><br/
 <ent>Himselve</ent><br/
 <ent>Himself</ent><br/
-<mhw><hw>Him*self"</hw> <pr>(?)</pr>, <hw>Him*selve"</hw> <pr>(<?/)</pr></mhw>, <hw>Him*selv"en</hw> (<?/), <pos>pron. pl.</pos> <def>Themselves. See <er>Hemself</er>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<mhw><hw>Him*self"</hw> <pr>(?)</pr>, <hw>Him*selve"</hw> <pr>(<?/)</pr>, <hw>Him*selv"en</hw> <pr>(<?/)</pr></mhw>, <pos>pron. pl.</pos> <def>Themselves. See <er>Hemself</er>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Himselve</ent><br/

@@ -27708,7 +27708,7 @@ When that him <qex>luste</qex>.</q> <rj><qau>Chaucer.</qau></rj>
 
 <p><ent>Lustre</ent><br/
 <ent>Luster</ent><br/
-<hw>Lus"ter</hw> <hw>Lus"tre</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>lustrum</ets>: cf. F. <ets>lustre</ets>.]</ety> <def>A period of five years; a lustrum.</def><br/
+<mhw><hw>Lus"ter</hw> <hw>Lus"tre</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[L. <ets>lustrum</ets>: cf. F. <ets>lustre</ets>.]</ety> <def>A period of five years; a lustrum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Both of us have closed the tenth <qex>luster</qex>.</q> <rj><qau>Bolingbroke.</qau></rj><br/

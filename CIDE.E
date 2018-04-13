@@ -13751,9 +13751,8 @@ To catch the fish; what <qex>engines</qex> doth he make?</q> <rj><qau>Bunyan.</q
 <p><sn>2.</sn> <def>To use contrivance and effort for; to guide the course of; to manage; <as>as, to <ex>engineer</ex> a bill through Congress</as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Corps of Engineers</ent><br/
-<ent>Engineer Corps</ent><br/
-<hw>En`gi*neer" Corps</hw>. <sd>(a)</sd> <def>In the United States army, the <hw>Corps of Engineers</hw>, a corps of officers and enlisted men consisting of one band and three battalions of engineers commanded by a brigadier general, whose title is Chief of Engineers. It has charge of the construction of fortifications for land and seacoast defense, the improvement of rivers and harbors, the construction of lighthouses, etc., and, in time of war, supervises the engineering operations of the armies in the field.</def> <sd>(b)</sd> <def>In the United States navy, a corps made up of the engineers, which was amalgamated with the line by act of March 3, 1899. It consisted of <xex>assistant</xex> and <xex>passed assistant engineers</xex>, ranking with ensigns and lieutenants, <xex>chief engineers</xex>, ranking from lieutenant to captain, and <xex>engineer in chief</xex>, ranking with commodore and having charge of the Bureau of Steam Engineering.</def><br/
+<p><ent>Engineer Corps</ent><br/
+<hw>En`gi*neer" Corps</hw>. <sd>(a)</sd> <def>In the United States army, the <altname>Corps of Engineers</altname>, a corps of officers and enlisted men consisting of one band and three battalions of engineers commanded by a brigadier general, whose title is Chief of Engineers. It has charge of the construction of fortifications for land and seacoast defense, the improvement of rivers and harbors, the construction of lighthouses, etc., and, in time of war, supervises the engineering operations of the armies in the field.</def> <sd>(b)</sd> <def>In the United States navy, a corps made up of the engineers, which was amalgamated with the line by act of March 3, 1899. It consisted of <xex>assistant</xex> and <xex>passed assistant engineers</xex>, ranking with ensigns and lieutenants, <xex>chief engineers</xex>, ranking from lieutenant to captain, and <xex>engineer in chief</xex>, ranking with commodore and having charge of the Bureau of Steam Engineering.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Engineering</ent><br/
@@ -33856,10 +33855,8 @@ To my proportioned strength.</q> <rj><qau>Milton.</qau></rj><br/
 <syn><b>Syn. --</b> patch.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><ent>eye-piece</ent><br/
-<ent>eyepiece</ent><br/
-<hw>eye"piece`</hw> <hw>eye"-piece`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Opt.)</fld> <def>The lens, or combination of lenses, at the eye end of a microscope, telescope or other optical instrument, through which the image formed by the mirror or object glass is viewed.</def><br/
-<syn><b>Syn. --</b> ocular.</syn><br/
+<p><ent>Eyepiece</ent><br/
+<hw>Eye"piece`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Opt.)</fld> <def>The lens, or combination of lenses, at the eye end of a microscope, telescope or other optical instrument, through which the image formed by the mirror or object glass is viewed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Collimating eyepiece</b></col>. <cd>See under <er>Collimate</er>.</cd> -- <mcol><col><b>Negative</b></col>, or <col><b>Huyghenian</b></col>, <col><b>eyepiece</b></col></mcol>, <cd>an eyepiece consisting of two plano-convex lenses with their curved surfaces turned toward the object glass, and separated from each other by about half the sum of their focal distances, the image viewed by the eye being formed between the two lenses. it was devised by Huyghens, who applied it to the telescope. Campani applied it to the microscope, whence it is sometimes called <altname>Campani's eyepiece</altname>.</cd> -- <col><b>Positive eyepiece</b></col>, <cd>an eyepiece consisting of two plano-convex lenses placed with their curved surfaces toward each other, and separated by a distance somewhat less than the focal distance of the one nearest eye, the image of the object viewed being beyond both lenses; -- called also, from the name of the inventor, <altname>Ramsden's eyepiece</altname>.</cd> -- <mcol><col><b>terrestrial</b></col>, or <col><b>Erecting eyepiece</b></col></mcol>, <cd>an eyepiece used in telescopes for viewing terrestrial objects, consisting of three, or usually four, lenses, so arranged as to present the image of the object viewed in an erect position.</cd></cs><br/

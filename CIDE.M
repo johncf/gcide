@@ -9804,9 +9804,8 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 <hw>Mar"ga*rous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Margaric; -- formerly designating a supposed acid.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Margary's fluid</ent><br/
-<ent>Margaryize</ent><br/
-<hw>Mar"ga*ry*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>-ized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>-izing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[(J. J. Lloyd) <etsep>Margary</etsep>, inventor of the process + <ets>-ize</ets>.]</ety> <def>To impregnate (wood) with a preservative solution of copper sulphate (often called <hw>Mar"ga*ry's flu"id</hw> <pr>(-r<icr/z)</pr>).</def><br/
+<p><ent>Margaryize</ent><br/
+<hw>Mar"ga*ry*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>-ized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>-izing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[(J. J. Lloyd) <etsep>Margary</etsep>, inventor of the process + <ets>-ize</ets>.]</ety> <def>To impregnate (wood) with a preservative solution of copper sulphate (often called <ecol><b>Mar"ga*ry's flu"id</b></ecol> <pr>(-r<icr/z)</pr>).</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Margate fish</ent><br/

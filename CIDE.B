@@ -27177,7 +27177,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>blue-bottle</ent><br/
 <ent>Bluebottle</ent><br/
-<mhw><hw>Blue"bot`tle</hw></mhw>, <hw>blue-bottle</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>an annual Eurasian plant (<spn>Centaurea cyanus</spn>) which grows in grain fields; -- called also <altname>bachelor's button</altname>. It receives its name from its blue bottle-shaped flowers.  Varieties cultivated in North America have showy heads of blue or purple or pink or white flowers</def><br/
+<mhw><hw>Blue"bot`tle</hw>, <hw>blue-bottle</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>an annual Eurasian plant (<spn>Centaurea cyanus</spn>) which grows in grain fields; -- called also <altname>bachelor's button</altname>. It receives its name from its blue bottle-shaped flowers.  Varieties cultivated in North America have showy heads of blue or purple or pink or white flowers</def><br/
 <syn><b>Syn. --</b> cornflower, bachelor's button.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 

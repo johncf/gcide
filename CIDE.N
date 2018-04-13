@@ -2371,9 +2371,8 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ This word is now seldom used except in the latter sense, as applied to children, or in sportive censure.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Nauheim bath</ent><br/
-<ent>Nauheim treatment</ent><br/
-<hw>Nau"heim treat`ment</hw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>Orig., a method of therapeutic treatment administered, esp. for chronic diseases of the curculatory system, at <city>Bad Nauheim</city>, Germany, by <person>G. Schott</person>, consisting in baths in the natural mineral waters of that place, which are charged with carbonic acid, and the use of a graduated course of rest, physical exercises, massage, etc.; hence, any similar treatment using waters artificially charged with the essential ingredients of the natural mineral waters of Bad Nauheim.  Hence, <hw>Nauheim bath</hw>, etc.</def><br/
+<p><ent>Nauheim treatment</ent><br/
+<hw>Nau"heim treat`ment</hw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>Orig., a method of therapeutic treatment administered, esp. for chronic diseases of the curculatory system, at <city>Bad Nauheim</city>, Germany, by <person>G. Schott</person>, consisting in baths in the natural mineral waters of that place, which are charged with carbonic acid, and the use of a graduated course of rest, physical exercises, massage, etc.; hence, any similar treatment using waters artificially charged with the essential ingredients of the natural mineral waters of Bad Nauheim.  Hence, <altname>Nauheim bath</altname>, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>naumachia</ent><br/
@@ -2829,10 +2828,8 @@ When he would he shall have <qex>nay</qex>.</q> <rj><qau>Old Prov.</qau></rj><br
 <syn><b>Syn. --</b> boorish, clownish, loutish, oafish.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><ent>Neanderthal man</ent><br/
-<ent>Neanderthal race</ent><br/
-<ent>Neanderthal</ent><br/
-<hw>Ne*an"der*thal`</hw> <pr>(?)</pr>, <pos>prop. a.</pos> <sn>1.</sn> <fld>(Anthropol.)</fld> <def>Of, pertaining to, or named from, the Neanderthal, a valley in the Rhine Province, in which were found parts of a skeleton of an early type of man.  The skull is characterized by extreme dolichocephaly, flat, retreating forehead, with closed frontal sutures, and enormous superciliary ridges.  The cranial capacity is estimated at about 1,220 cubic centimeters, being about midway between that of the <gen>Pithecanthropus</gen> and modern man.</def>  <specif>Hence,</specif> <def>pertaining to or designating the <hw>Neanderthal race</hw>, or <hw>Neanderthal man</hw>, a species of extinct robust humans, believed to have been widespread in the Middle Paleolithic in Europe and western Asia; <as>as, a <ex>Neanderthal</ex> skull</as>.</def><br/
+<p><ent>Neanderthal</ent><br/
+<hw>Ne*an"der*thal`</hw> <pr>(?)</pr>, <pos>prop. a.</pos> <sn>1.</sn> <fld>(Anthropol.)</fld> <def>Of, pertaining to, or named from, the Neanderthal, a valley in the Rhine Province, in which were found parts of a skeleton of an early type of man.  The skull is characterized by extreme dolichocephaly, flat, retreating forehead, with closed frontal sutures, and enormous superciliary ridges.  The cranial capacity is estimated at about 1,220 cubic centimeters, being about midway between that of the <gen>Pithecanthropus</gen> and modern man.</def>  <specif>Hence,</specif> <def>pertaining to or designating the <ecol><b>Neanderthal race</b></ecol>, or <ecol><b>Neanderthal man</b></ecol>, a species of extinct robust humans, believed to have been widespread in the Middle Paleolithic in Europe and western Asia; <as>as, a <ex>Neanderthal</ex> skull</as>.</def><br/
 <syn><b>Syn. --</b> Neanderthalian.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
@@ -4843,9 +4840,8 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <hw>Ne`o-Hel"len*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Hellenism as surviving or revival in modern times; the practice or pursuit of ancient Greek ideals in modern life, art, or literature, as in the Renaissance.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><ent>Pointillism</ent><br/
-<ent>Neoimpressionism</ent><br/
-<hw>Ne`o*im*pres"sion*ism</hw> <pr>(n<emac/`<osl/*<icr/m*pr<ecr/sh"<ucr/n*<icr/z'm)</pr>, <pos>n.</pos> <fld>(Painting)</fld> <def>A theory or practice which is a further development, on more rigorously scientific lines, of the theory and practice of Impressionism, originated by <person>George Seurat</person> (1859-91), and carried on by <person>Paul Signac</person> (1863- -) and others.  Its method is marked by the laying of pure primary colors in minute dots upon a white ground, any given line being produced by a variation in the proportionate quantity of the primary colors employed.  This method is also known as <altname><hw>Pointillism</hw></altname> (stippling).</def><br/
+<p><ent>Neoimpressionism</ent><br/
+<hw>Ne`o*im*pres"sion*ism</hw> <pr>(n<emac/`<osl/*<icr/m*pr<ecr/sh"<ucr/n*<icr/z'm)</pr>, <pos>n.</pos> <fld>(Painting)</fld> <def>A theory or practice which is a further development, on more rigorously scientific lines, of the theory and practice of Impressionism, originated by <person>George Seurat</person> (1859-91), and carried on by <person>Paul Signac</person> (1863- -) and others.  Its method is marked by the laying of pure primary colors in minute dots upon a white ground, any given line being produced by a variation in the proportionate quantity of the primary colors employed.  This method is also known as <altname>Pointillism</altname> (stippling).</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Neo-Kantian</ent><br/

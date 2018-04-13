@@ -11285,7 +11285,7 @@ Descends.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Where</ent><br/
 <ent>Wher</ent><br/
-<hw>Wher</hw> <pr>(?)</pr>, <hw>Where</hw> <pr>(<?/)</pr>, <pos>pron. & conj.</pos> <ety>[See <er>Whether</er>.]</ety> <def>Whether.</def>  <altsp>[Sometimes written <asp>whe'r</asp>.]</altsp> <mark>[Obs.]</mark>  <rj><au>Piers Plowman.</au></rj><br/
+<mhw><hw>Wher</hw> <pr>(?)</pr>, <hw>Where</hw> <pr>(<?/)</pr></mhw>, <pos>pron. & conj.</pos> <ety>[See <er>Whether</er>.]</ety> <def>Whether.</def>  <altsp>[Sometimes written <asp>whe'r</asp>.]</altsp> <mark>[Obs.]</mark>  <rj><au>Piers Plowman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Men must enquire (this is mine assent),<br/
