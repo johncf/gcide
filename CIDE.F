@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><q>A dictionary containing a natural history requires too many <qex>hands</qex>, as well as too much time, ever to be hoped for.</q> <rj><qau>Locke.</qau></rj></p>
-
 <p><-- p. 535 --></p>
 
 <p><centered><point26>F.</point26></centered></p>

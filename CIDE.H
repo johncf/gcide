@@ -3699,8 +3699,6 @@ Have made you master of the field this day.</q> <rj><qau>Spenser.</qau></rj><br/
 <syn><b>Syn. --</b> work force, manpower, men.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><q>A dictionary containing a natural history requires too many <qex>hands</qex>, as well as too much time, ever to be hoped for.</q> <rj><qau>Locke.</qau></rj></p>
-
 <p><ent>Handsaw</ent><br/
 <hw>Hand"saw`</hw> <pr>(h<acr/nd"s<add/`)</pr> <pos>n.</pos> <def>A saw used with one hand.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -30510,6 +30508,4 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hythe</hw> <pr>(h<imac/<th/)</pr>, <pos>n.</pos> <def>A small haven. See <er>Hithe</er>.</def> <mark>[Obs.]</mark></p>
 
 <p><-- bottom of page 722.  Next page is 723, starting "I" --></p>
-
-<p><q>A dictionary containing a natural history requires too many <qex>hands</qex>, as well as too much time, ever to be hoped for.</q> <rj><qau>Locke.</qau></rj></p>
 
