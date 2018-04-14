@@ -10793,7 +10793,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Redde</ent><br/
-<hw>Red"de</hw> <pr>(-de)</pr>, <def><pos>obs. imp.</pos> of <er>Read</er>, or <er>Rede</er>.</def>  <rj><au>Chaucer.</au></rj><br/
+<hw>Red"de</hw> <pr>(-de)</pr>, <pos>obs. imp.</pos> <mord>of <er>Read</er>, or <er>Rede</er>.</mord>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redden</ent><br/
@@ -33813,7 +33813,7 @@ Of maiden <qex>rondure</qex>, like the rose half-blown.</q> <rj><qau>Lowell.</qa
 
 <p><ent>Ronnen</ent><br/
 <ent>Ronne</ent><br/
-<hw>Ron"ne</hw> <pr>(?)</pr>, <def><pos>obs. imp. pl.</pos></def>, and <hw>Ron"nen</hw> <pr>(<?/)</pr>, <def><pos>obs. p. p.</pos> of <er>Renne</er>, to run.</def>  <rj><au>Chaucer.</au></rj><br/
+<hw>Ron"ne</hw> <pr>(?)</pr>, <pos>obs. imp. pl.</pos>, and <hw>Ron"nen</hw> <pr>(<?/)</pr>, <pos>obs. p. p.</pos> <mord>of <er>Renne</er></mord>, <def>to run.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ront</ent><br/

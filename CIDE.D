@@ -46706,7 +46706,7 @@ And <qex>dreamt</qex> the future fight</q>. <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Dreint</ent><br/
 <ent>Dreinte</ent><br/
-<hw>Drein"te</hw> <pr>(?)</pr>, <wordforms><pos>imp.</pos>, <hw>Dreint</hw> <pr>(<?/)</pr>,</wordforms> <def><pos>p. p.</pos> of <er>Drench</er> to drown.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Drein"te</hw> <pr>(?)</pr>, <pos>imp.</pos>, <hw>Dreint</hw> <pr>(<?/)</pr>, <pos>p. p.</pos> <mord>of <er>Drench</er></mord>, <def>to drown.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dreissena</ent><br/
@@ -46992,7 +46992,7 @@ Caught and reflected the flame, as shields of armies the sunshine.</q> <rj><qau>
 
 <p><ent>Dreynt</ent><br/
 <ent>Dreynte</ent><br/
-<hw>Dreyn"te</hw> <pr>(?)</pr>, <wordforms><pos>imp.</pos>, <hw>Dreynt</hw> <pr>(<?/)</pr></wordforms>, <def><pos>p. p.</pos>, of <er>Drench</er> to drown.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Dreyn"te</hw> <pr>(?)</pr>, <pos>imp.</pos>, <hw>Dreynt</hw> <pr>(<?/)</pr>, <pos>p. p.</pos> <mord>of <er>Drench</er></mord>, <def>to drown.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drib</ent><br/

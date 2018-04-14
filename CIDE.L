@@ -9451,7 +9451,7 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leet</ent><br/
-<hw>Leet</hw> <pr>(l<emac/t)</pr>, <pos>obs. imp.</pos> <def>of <er>Let</er>, to allow.</def> <rj><au>Chaucer.</au></rj><br/
+<hw>Leet</hw> <pr>(l<emac/t)</pr>, <pos>obs. imp.</pos> <mord>of <er>Let</er></mord>, <def>to allow.</def> <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leet</ent><br/
