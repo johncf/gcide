@@ -20454,7 +20454,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Greenroom</ent><br/
-<hw>Green"room`</hw> (gr<emac/n"room`), <pos>n.</pos> <def>The retiring room of actors and actresses in a theater.</def><br/
+<hw>Green"room`</hw> <pr>(gr<emac/n"room`)</pr>, <pos>n.</pos> <def>The retiring room of actors and actresses in a theater.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Greensand</ent><br/

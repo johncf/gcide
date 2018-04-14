@@ -20314,7 +20314,7 @@ That <qex>detriment</qex>, if such it be.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Deva</ent><br/
 <ent>Dev</ent><br/
-<mhw>\'d8<hw>Dev</hw> <pr>(?)</pr>, <it>or</it>  \'d8<hw>De"va</hw> (<?/)</mhw>, <pos>n.</pos> <ety>[Skr. <ets>d<?/va</ets>.  Cf. <er>Deity</er>.]</ety> <fld>(Hind. Myth.)</fld> <def>A god; a deity; a divine being; an idol; a king.</def><br/
+<mhw>\'d8<hw>Dev</hw> <pr>(?)</pr>, <it>or</it>  \'d8<hw>De"va</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Skr. <ets>d<?/va</ets>.  Cf. <er>Deity</er>.]</ety> <fld>(Hind. Myth.)</fld> <def>A god; a deity; a divine being; an idol; a king.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Devanagari</ent><br/

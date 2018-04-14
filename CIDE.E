@@ -24725,7 +24725,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Evade</ent><br/
-<hw>E*vade"</hw> (<?/), <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Evaded</conjf>; <pos>p. pr. & vb. n.</pos>. <conjf>Evading</conjf>.]</vmorph> <ety>[L. <ets>evadere</ets>, <ets>evasum</ets>, <ets>e</ets> out + <ets>vadere</ets> to go, walk: cf. F. s'<eacute/vader. See <er>Wade</er>.]</ety> <def>To get away from by artifice; to avoid by dexterity, subterfuge, address, or ingenuity; to elude; to escape from cleverly; <as>as, to <ex>evade</ex> a blow, a pursuer, a punishment; to <ex>evade</ex> the force of an argument</as>.</def><br/
+<hw>E*vade"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Evaded</conjf>; <pos>p. pr. & vb. n.</pos>. <conjf>Evading</conjf>.]</vmorph> <ety>[L. <ets>evadere</ets>, <ets>evasum</ets>, <ets>e</ets> out + <ets>vadere</ets> to go, walk: cf. F. s'<eacute/vader. See <er>Wade</er>.]</ety> <def>To get away from by artifice; to avoid by dexterity, subterfuge, address, or ingenuity; to elude; to escape from cleverly; <as>as, to <ex>evade</ex> a blow, a pursuer, a punishment; to <ex>evade</ex> the force of an argument</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The heathen had a method, more truly their own, of <qex>evading</qex> the Christian miracles.</q> <rj><qau>Trench.</qau></rj><br/

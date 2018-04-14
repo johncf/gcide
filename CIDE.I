@@ -22598,7 +22598,7 @@ to <qex>innovate</qex> God's worship.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Innuendo</ent><br/
-<hw>In`nu*en"do</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Innuedoes</plw>(<?/).</plu> <ety>[L., by intimation, by hinting, gerund of <ets>innuere</ets>, <ets>innutum</ets>, to give a nod, to intimate; pref. <ets>in-</ets> in, to + <ets>-nuere</ets> (in comp.) to nod. See <er>Nutation</er>.]</ety> <sn>1.</sn> <def>An oblique hint; a remote allusion or reference, usually derogatory to a person or thing not named; an insinuation.</def><br/
+<hw>In`nu*en"do</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Innuedoes</plw> <pr>(<?/)</pr>.</plu> <ety>[L., by intimation, by hinting, gerund of <ets>innuere</ets>, <ets>innutum</ets>, to give a nod, to intimate; pref. <ets>in-</ets> in, to + <ets>-nuere</ets> (in comp.) to nod. See <er>Nutation</er>.]</ety> <sn>1.</sn> <def>An oblique hint; a remote allusion or reference, usually derogatory to a person or thing not named; an insinuation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Mercury . . . owns it a marriage by an <qex>innuendo</qex>.</q> <rj><qau>Dryden.</qau></rj><br/

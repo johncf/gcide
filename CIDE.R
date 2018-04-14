@@ -11123,7 +11123,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redia</ent><br/
-\'d8<hw>Re"di*a</hw> <pr>(r?"d?*?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Rediae</plw> (-<emac/), E. <plw>Redias</plw> <pr>(-<?/z)</pr>.</plu> <ety>[NL.; of uncertain origin.]</ety> <fld>(Zool.)</fld> <def>A kind of larva, or nurse, which is prroduced within the sporocyst of certain trematodes by asexual generation. It in turn produces, in the same way, either another generation of rediae, or else cercariae within its own body. Called also <altname>proscolex</altname>, and <altname>nurse</altname>. See <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Re"di*a</hw> <pr>(r?"d?*?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Rediae</plw> <pr>(-<emac/)</pr>, E. <plw>Redias</plw> <pr>(-<?/z)</pr>.</plu> <ety>[NL.; of uncertain origin.]</ety> <fld>(Zool.)</fld> <def>A kind of larva, or nurse, which is prroduced within the sporocyst of certain trematodes by asexual generation. It in turn produces, in the same way, either another generation of rediae, or else cercariae within its own body. Called also <altname>proscolex</altname>, and <altname>nurse</altname>. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redient</ent><br/
@@ -14782,7 +14782,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Regulus</ent><br/
-<hw>Reg"u*lus</hw> <pr>(-l?s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Reguluses</plw> (-<?/z), L. <plw>Reguli</plw> <pr>(-l<?/)</pr>.</plu> <ety>[L., a petty king, prince, dim. of <ets>rex</ets>, <ets>regis</ets>, a king: cf. F. <ets>r<eacute/gule</ets>. See <er>Regal</er>.]</ety> <sn>1.</sn> <def>A petty king; a ruler of little power or consequence.</def><br/
+<hw>Reg"u*lus</hw> <pr>(-l?s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Reguluses</plw> <pr>(-<?/z)</pr>, L. <plw>Reguli</plw> <pr>(-l<?/)</pr>.</plu> <ety>[L., a petty king, prince, dim. of <ets>rex</ets>, <ets>regis</ets>, a king: cf. F. <ets>r<eacute/gule</ets>. See <er>Regal</er>.]</ety> <sn>1.</sn> <def>A petty king; a ruler of little power or consequence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Chem. & Metal.)</fld> <def>The button, globule, or mass of metal, in a more or less impure state, which forms in the bottom of the crucible in smelting and reduction of ores.</def><br/

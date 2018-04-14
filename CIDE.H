@@ -18608,7 +18608,7 @@ Defend us, good Heaven !</q> <rj><qau>Beau. &  FL.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hodman</ent><br/
-<hw>Hod"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hodmen</plw>(<?/).</plu> <def>A man who carries a hod; a mason's tender.</def><br/
+<hw>Hod"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hodmen</plw> <pr>(<?/)</pr>.</plu> <def>A man who carries a hod; a mason's tender.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hodmandod</ent><br/

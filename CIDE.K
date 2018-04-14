@@ -4215,7 +4215,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 
 <p><ent>Kiwikiwi</ent><br/
 <ent>Kivikivi</ent><br/
-<mhw>{ <hw>Ki`vi*ki"vi</hw> <pr>(?)</pr>, <hw>Ki`wi*ki"wi</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> <plw>Kivikivies</plw> (<?/), <plw>Kiwikiwies</plw> <pr>(<?/)</pr>.</plu> <fld>(Zool.)</fld> <def>Any species of <gen>Apteryx</gen>, esp. <spn>Apteryx australis</spn>; -- so called in imitation of its notes.  More commonly called <altname>kiwi</altname>. See <er>Apteryx</er>.</def><br/
+<mhw>{ <hw>Ki`vi*ki"vi</hw> <pr>(?)</pr>, <hw>Ki`wi*ki"wi</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> <plw>Kivikivies</plw> <pr>(<?/)</pr>, <plw>Kiwikiwies</plw> <pr>(<?/)</pr>.</plu> <fld>(Zool.)</fld> <def>Any species of <gen>Apteryx</gen>, esp. <spn>Apteryx australis</spn>; -- so called in imitation of its notes.  More commonly called <altname>kiwi</altname>. See <er>Apteryx</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kjoekken moeddings</ent><br/
