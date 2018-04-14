@@ -1437,7 +1437,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><-- p. 811 --></p>
 
 <p><ent>Kemb</ent><br/
-<hw>Kemb</hw> <pr>(k<ecr/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kembed</conjf> <pr>(k<ecr/md)</pr> or <conjf>Kempt</conjf> (k<ecr/mt; 215); <pos>p. pr. & vb. n.</pos> <conjf>Kembing</conjf>.]</vmorph> <ety>[OE. <ets>kemben</ets>, AS. <ets>cemban</ets>, fr. <ets>camb</ets> comb.]</ety> <def>To comb.</def> <mark>[Obs.]</mark><br/
+<hw>Kemb</hw> <pr>(k<ecr/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kembed</conjf> <pr>(k<ecr/md)</pr> or <conjf>Kempt</conjf> <pr>(k<ecr/mt; 215)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kembing</conjf>.]</vmorph> <ety>[OE. <ets>kemben</ets>, AS. <ets>cemban</ets>, fr. <ets>camb</ets> comb.]</ety> <def>To comb.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>His longe hair was <qex>kembed</qex> behind his back.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -4703,7 +4703,7 @@ The way into his mercy.</q> <rj><qau>Shak</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kneel</ent><br/
-<hw>Kneel</hw> <pr>(n<emac/l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knelt</conjf> <pr>(n<ecr/lt)</pr> or <conjf>Kneeled</conjf> (n<emac/ld); <pos>p. pr. & vb. n.</pos> <conjf>Kneeling</conjf>.]</vmorph> <ety>[OE. <ets>knelen</ets>, <ets>cneolien</ets>; akin to D. <ets>knielen</ets>, Dan. <ets>kn<ae/le</ets>. See <er>Knee</er>.]</ety> <def>To bend the knee; to fall or rest on the knees; -- sometimes with <ptcl>down</ptcl>.</def><br/
+<hw>Kneel</hw> <pr>(n<emac/l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knelt</conjf> <pr>(n<ecr/lt)</pr> or <conjf>Kneeled</conjf> <pr>(n<emac/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kneeling</conjf>.]</vmorph> <ety>[OE. <ets>knelen</ets>, <ets>cneolien</ets>; akin to D. <ets>knielen</ets>, Dan. <ets>kn<ae/le</ets>. See <er>Knee</er>.]</ety> <def>To bend the knee; to fall or rest on the knees; -- sometimes with <ptcl>down</ptcl>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/  The act of kneeling, when performed in front of a person, is often done as a sign of respect, humility, or supplication.  It has a similar significance when performed in front of religious objects, such as an altar or shrine.</note><br/

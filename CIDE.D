@@ -46471,7 +46471,7 @@ Till Fancy colored it and formed a <qex>dream</qex>.</q> <rj><qau>Pope.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dream</ent><br/
-<hw>Dream</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dreamed</conjf> <pr>(dr<emac/md)</pr> or <conjf>Dreamt</conjf> (dr<ecr/mt); <pos>p. pr. & vb. n.</pos> <conjf>Dreaming</conjf>.]</vmorph> <ety>[Cf. AS. <ets>dr<emac/man</ets>, <ets>dr<ymac/man</ets>, to rejoice. See <er>Dream</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To have ideas or images in the mind while in the state of sleep; to experience sleeping visions; -- often with <xex>of</xex>; <as>as, to <ex>dream</ex> of a battle, or of an absent friend</as>.</def><br/
+<hw>Dream</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dreamed</conjf> <pr>(dr<emac/md)</pr> or <conjf>Dreamt</conjf> <pr>(dr<ecr/mt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dreaming</conjf>.]</vmorph> <ety>[Cf. AS. <ets>dr<emac/man</ets>, <ets>dr<ymac/man</ets>, to rejoice. See <er>Dream</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To have ideas or images in the mind while in the state of sleep; to experience sleeping visions; -- often with <xex>of</xex>; <as>as, to <ex>dream</ex> of a battle, or of an absent friend</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To let the mind run on in idle revery or vagary; to anticipate vaguely as a coming and happy reality; to have a visionary notion or idea; to imagine.</def><br/
@@ -47560,7 +47560,7 @@ Who never <qex>drank</qex> to tobacco first nor last.</q> <rj><qau>Taylor (1630.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drive</ent><br/
-<hw>Drive</hw> <pr>(dr<imac/v)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Drove</conjf> <pr>(dr<omac/v)</pr>, formerly <conjf>Drave</conjf> (dr<amac/v); <pos>p. p.</pos> <conjf>Driven</conjf> <pr>(dr<icr/v'n)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Driving</conjf>.]</vmorph> <ety>[AS. <ets>dr<imac/fan</ets>; akin to OS. <ets>dr<imac/ban</ets>, D. <ets>drijven</ets>, OHG. <ets>tr<imac/ban</ets>, G. <ets>treiben</ets>, Icel. <ets>dr<imac/fa</ets>, Goth. <ets>dreiban</ets>.  Cf. <er>Drift</er>, <er>Drove</er>.]</ety> <sn>1.</sn> <def>To impel or urge onward by force in a direction away from one, or along before one; to push forward; to compel to move on; to communicate motion to; <as>as, to <ex>drive</ex> cattle; to <ex>drive</ex> a nail; smoke <ex>drives</ex> persons from a room.</as></def><br/
+<hw>Drive</hw> <pr>(dr<imac/v)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Drove</conjf> <pr>(dr<omac/v)</pr>, formerly <conjf>Drave</conjf> <pr>(dr<amac/v)</pr>; <pos>p. p.</pos> <conjf>Driven</conjf> <pr>(dr<icr/v'n)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Driving</conjf>.]</vmorph> <ety>[AS. <ets>dr<imac/fan</ets>; akin to OS. <ets>dr<imac/ban</ets>, D. <ets>drijven</ets>, OHG. <ets>tr<imac/ban</ets>, G. <ets>treiben</ets>, Icel. <ets>dr<imac/fa</ets>, Goth. <ets>dreiban</ets>.  Cf. <er>Drift</er>, <er>Drove</er>.]</ety> <sn>1.</sn> <def>To impel or urge onward by force in a direction away from one, or along before one; to push forward; to compel to move on; to communicate motion to; <as>as, to <ex>drive</ex> cattle; to <ex>drive</ex> a nail; smoke <ex>drives</ex> persons from a room.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A storm came on and <qex>drove</qex> them into Pylos.</q> <rj><qau>Jowett (Thucyd. ).</qau></rj><br/

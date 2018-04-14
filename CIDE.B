@@ -1874,7 +1874,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Baffle</ent><br/
-<hw>Baf"fle</hw> <pr>(b<acr/f"f'l)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Baffled</conjf> (-f'ld); <pos>p. pr. & vb. n.</pos> <conjf>Baffling</conjf> <pr>(-fl<icr/ng)</pr>.]</vmorph> <ety>[Cf. Lowland Scotch <ets>bauchle</ets> to treat contemptuously, <ets>bauch</ets> tasteless, abashed, jaded, Icel. <ets>b<amac/gr</ets> uneasy, poor, or <ets>b<amac/gr</ets>, n., struggle, <ets>b<ae/gja</ets> to push, treat harshly, OF. <ets>beffler</ets>, <ets>beffer</ets>, to mock, deceive, dial. G. <ets>b<aum/ppe</ets> mouth, <ets>beffen</ets> to bark, chide.]</ety><br/
+<hw>Baf"fle</hw> <pr>(b<acr/f"f'l)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Baffled</conjf> <pr>(-f'ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Baffling</conjf> <pr>(-fl<icr/ng)</pr>.]</vmorph> <ety>[Cf. Lowland Scotch <ets>bauchle</ets> to treat contemptuously, <ets>bauch</ets> tasteless, abashed, jaded, Icel. <ets>b<amac/gr</ets> uneasy, poor, or <ets>b<amac/gr</ets>, n., struggle, <ets>b<ae/gja</ets> to push, treat harshly, OF. <ets>beffler</ets>, <ets>beffer</ets>, to mock, deceive, dial. G. <ets>b<aum/ppe</ets> mouth, <ets>beffen</ets> to bark, chide.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To cause to undergo a disgraceful punishment, as a recreant knight.</def> <mark>[Obs.]</mark><br/
@@ -5129,7 +5129,7 @@ Henceforth I never will be Romeo.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bar</ent><br/
-<hw>Bar</hw> <pr>(b<aum/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Barred</conjf> (b<aum/rd); <pos>p. pr. & vb. n.</pos> <conjf>Barring</conjf>.]</vmorph> <ety>[ F. <ets>barrer</ets>. See <er>Bar</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To fasten with a bar; <as>as, to <ex>bar</ex> a door or gate</as>.</def><br/
+<hw>Bar</hw> <pr>(b<aum/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Barred</conjf> <pr>(b<aum/rd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Barring</conjf>.]</vmorph> <ety>[ F. <ets>barrer</ets>. See <er>Bar</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To fasten with a bar; <as>as, to <ex>bar</ex> a door or gate</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To restrict or confine, as if by a bar; to hinder; to obstruct; to prevent; to prohibit; <as>as, to <ex>bar</ex> the entrance of evil; distance <ex>bars</ex> our intercourse; the statute <ex>bars</ex> my right; the right is <ex>barred</ex> by time; a release <ex>bars</ex> the plaintiff's recovery</as>; -- sometimes with <xex>up</xex>.</def><br/
@@ -6764,7 +6764,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barter</ent><br/
-<hw>Bar"ter</hw> <pr>(b<aum/r"t<etil/r)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bartered</conjf> (b<aum/r"t<etil/rd); <pos>p. pr. & vb. n.</pos> <conjf>Bartering</conjf>.]</vmorph> <ety>[OE. <ets>bartren</ets>, OF. <ets>barater</ets>, <ets>bareter</ets>, to cheat, exchange, perh. fr. Gr. <grk>pra`ttein</grk> to do, deal (well or ill), use practices or tricks, or perh. fr. Celtic; cf. Ir. <ets>brath</ets> treachery, W. <ets>brad</ets>. Cf. <er>Barrator</er>.]</ety> <def>To traffic or trade, by exchanging one commodity for another, in distinction from a <xex>sale</xex> and <xex>purchase</xex>, in which money is paid for the commodities transferred; to truck.</def><br/
+<hw>Bar"ter</hw> <pr>(b<aum/r"t<etil/r)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bartered</conjf> <pr>(b<aum/r"t<etil/rd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bartering</conjf>.]</vmorph> <ety>[OE. <ets>bartren</ets>, OF. <ets>barater</ets>, <ets>bareter</ets>, to cheat, exchange, perh. fr. Gr. <grk>pra`ttein</grk> to do, deal (well or ill), use practices or tricks, or perh. fr. Celtic; cf. Ir. <ets>brath</ets> treachery, W. <ets>brad</ets>. Cf. <er>Barrator</er>.]</ety> <def>To traffic or trade, by exchanging one commodity for another, in distinction from a <xex>sale</xex> and <xex>purchase</xex>, in which money is paid for the commodities transferred; to truck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Barter</ent><br/
@@ -9057,7 +9057,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bawl</ent><br/
-<hw>Bawl</hw> <pr>(b<add/l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bawled</conjf> (b<add/ld); <pos>p. pr. & vb. n.</pos> <conjf>Bawling</conjf>.]</vmorph> <ety>[Icel. <ets>baula</ets> to low, bellow, as a cow; akin to Sw. <ets>b<oum/la</ets>; cf. AS <ets>bellan</ets>, G. <ets>bellen</ets> to bark, E. <ets>bellow</ets>, <ets>bull</ets>.]</ety> <sn>1.</sn> <def>To cry out with a loud, full sound; to cry with vehemence, as in calling or exultation; to shout; to vociferate.</def><br/
+<hw>Bawl</hw> <pr>(b<add/l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bawled</conjf> <pr>(b<add/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bawling</conjf>.]</vmorph> <ety>[Icel. <ets>baula</ets> to low, bellow, as a cow; akin to Sw. <ets>b<oum/la</ets>; cf. AS <ets>bellan</ets>, G. <ets>bellen</ets> to bark, E. <ets>bellow</ets>, <ets>bull</ets>.]</ety> <sn>1.</sn> <def>To cry out with a loud, full sound; to cry with vehemence, as in calling or exultation; to shout; to vociferate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To cry loudly, as a child from pain or vexation.</def><br/
@@ -9904,7 +9904,7 @@ The <qex>beacon</qex> of the wise.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bear</ent><br/
-<hw>Bear</hw> <pr>(b<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Bore</conjf> <pr>(b<omac/r)</pr> (formerly <conjf>Bare</conjf> <pr>(b<acir/r)</pr>); <pos>p. p.</pos> <conjf>Born</conjf> <pr>(b<ocir/rn)</pr>, <conjf>Borne</conjf> (b<omac/rn); <pos>p. pr. & vb. n.</pos> <conjf>Bearing</conjf>.]</vmorph> <ety>[OE. <ets>beren</ets>, AS. <ets>beran</ets>, <ets>beoran</ets>, to bear, carry, produce; akin to D. <ets>baren</ets> to bring forth, G. <ets>geb<aum/ren</ets>, Goth. <ets>ba<iacute/ran</ets> to bear or carry, Icel. <ets>bera</ets>, Sw. <ets>b<aum/ra</ets>, Dan. <ets>b<ae/re</ets>, OHG. <ets>beran</ets>, <ets>peran</ets>, L. <ets>ferre</ets> to bear, carry, produce, Gr. <grk>fe`rein</grk>, OSlav. <ets>brati</ets> to take, carry, OIr. <ets>berim</ets> I bear, Skr. <ets>bh<rsdot/</ets> to bear.  <root/92.  Cf. <er>Fertile</er>.]</ety> <sn>1.</sn> <def>To support or sustain; to hold up.</def><br/
+<hw>Bear</hw> <pr>(b<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Bore</conjf> <pr>(b<omac/r)</pr> (formerly <conjf>Bare</conjf> <pr>(b<acir/r)</pr>); <pos>p. p.</pos> <conjf>Born</conjf> <pr>(b<ocir/rn)</pr>, <conjf>Borne</conjf> <pr>(b<omac/rn)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bearing</conjf>.]</vmorph> <ety>[OE. <ets>beren</ets>, AS. <ets>beran</ets>, <ets>beoran</ets>, to bear, carry, produce; akin to D. <ets>baren</ets> to bring forth, G. <ets>geb<aum/ren</ets>, Goth. <ets>ba<iacute/ran</ets> to bear or carry, Icel. <ets>bera</ets>, Sw. <ets>b<aum/ra</ets>, Dan. <ets>b<ae/re</ets>, OHG. <ets>beran</ets>, <ets>peran</ets>, L. <ets>ferre</ets> to bear, carry, produce, Gr. <grk>fe`rein</grk>, OSlav. <ets>brati</ets> to take, carry, OIr. <ets>berim</ets> I bear, Skr. <ets>bh<rsdot/</ets> to bear.  <root/92.  Cf. <er>Fertile</er>.]</ety> <sn>1.</sn> <def>To support or sustain; to hold up.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To support and remove or carry; to convey.</def><br/
@@ -22261,7 +22261,7 @@ Like rats, oft <qex>bite</qex> the holy cords atwain.</q> <rj><qau>Shak.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Blab</ent><br/
-<hw>Blab</hw> <pr>(bl<acr/b)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blabbed</conjf> (bl<acr/bd); <pos>p. pr. & vb. n.</pos> <conjf>Blabbing</conjf>.]</vmorph> <ety>[Cf. OE. <ets>blaberen</ets>, or Dan. <ets>blabbre</ets>, G. <ets>plappern</ets>, Gael. <ets>blabaran</ets> a stammerer; prob. of imitative origin. Cf. also <er>Blubber</er>, <pos>v.</pos>]</ety> <def>To utter or tell unnecessarily, or in a thoughtless manner; to publish (secrets or trifles) without reserve or discretion; -- sometimes used with <ptcl>out</ptcl>.</def>  <rj><au>Udall.</au></rj><br/
+<hw>Blab</hw> <pr>(bl<acr/b)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blabbed</conjf> <pr>(bl<acr/bd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blabbing</conjf>.]</vmorph> <ety>[Cf. OE. <ets>blaberen</ets>, or Dan. <ets>blabbre</ets>, G. <ets>plappern</ets>, Gael. <ets>blabaran</ets> a stammerer; prob. of imitative origin. Cf. also <er>Blubber</er>, <pos>v.</pos>]</ety> <def>To utter or tell unnecessarily, or in a thoughtless manner; to publish (secrets or trifles) without reserve or discretion; -- sometimes used with <ptcl>out</ptcl>.</def>  <rj><au>Udall.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And yonder a vile physician <qex>blabbing</qex><br/
@@ -46284,7 +46284,7 @@ And pleased by novelty in spite of sense.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Burn</ent><br/
-<hw>Burn</hw> <pr>(b<ucir/rn)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Burned</conjf> (b<ucir/rnd) or <conjf>Burnt</conjf> (b<ucir/rnt); <pos>p. pr. & vb. n.</pos> <conjf>Burning</conjf>.]</vmorph> <ety>[OE. <ets>bernen</ets>, <ets>brennen</ets>, v. t., early confused with <ets>beornen</ets>, <ets>birnen</ets>, v. i., AS. <ets>b<ae/rnan</ets>, <ets>bernan</ets>, v. t., <ets>birnan</ets>, v. i.; akin to OS. <ets>brinnan</ets>, OFries. <ets>barna</ets>, <ets>berna</ets>, OHG. <ets>brinnan</ets>, <ets>brennan</ets>, G. <ets>brennen</ets>, OD. <ets>bernen</ets>, D. <ets>branden</ets>, Dan. <ets>br<ae/nde</ets>, Sw. <ets>br<aum/nna</ets>, <ets>brinna</ets>, Icel. <ets>brenna</ets>, Goth. <ets>brinnan</ets>, <ets>brannjan</ets> (in comp.), and possibly to E. <ets>fervent</ets>.]</ety> <sn>1.</sn> <def>To consume with fire; to reduce to ashes by the action of heat or fire; -- frequently intensified by <xex>up</xex>: <as>as, to <ex>burn</ex> up wood</as>.</def> <ldquo/We'll <xex>burn</xex> his body in the holy place.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Burn</hw> <pr>(b<ucir/rn)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Burned</conjf> <pr>(b<ucir/rnd)</pr> or <conjf>Burnt</conjf> <pr>(b<ucir/rnt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Burning</conjf>.]</vmorph> <ety>[OE. <ets>bernen</ets>, <ets>brennen</ets>, v. t., early confused with <ets>beornen</ets>, <ets>birnen</ets>, v. i., AS. <ets>b<ae/rnan</ets>, <ets>bernan</ets>, v. t., <ets>birnan</ets>, v. i.; akin to OS. <ets>brinnan</ets>, OFries. <ets>barna</ets>, <ets>berna</ets>, OHG. <ets>brinnan</ets>, <ets>brennan</ets>, G. <ets>brennen</ets>, OD. <ets>bernen</ets>, D. <ets>branden</ets>, Dan. <ets>br<ae/nde</ets>, Sw. <ets>br<aum/nna</ets>, <ets>brinna</ets>, Icel. <ets>brenna</ets>, Goth. <ets>brinnan</ets>, <ets>brannjan</ets> (in comp.), and possibly to E. <ets>fervent</ets>.]</ety> <sn>1.</sn> <def>To consume with fire; to reduce to ashes by the action of heat or fire; -- frequently intensified by <xex>up</xex>: <as>as, to <ex>burn</ex> up wood</as>.</def> <ldquo/We'll <xex>burn</xex> his body in the holy place.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To injure by fire or heat; to change destructively some property or properties of, by undue exposure to fire or heat; to scorch; to scald; to blister; to singe; to char; to sear; <as>as, to <ex>burn</ex> steel in forging; to <ex>burn</ex> one's face in the sun; the sun <ex>burns</ex> the grass</as>.</def><br/
@@ -46923,7 +46923,7 @@ In this I <qex>bury</qex> all unkindness, Cassius.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bush</ent><br/
-<hw>Bush</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bushed</conjf> (b<usdot/sht); <pos>p. pr. & vb. n.</pos> <conjf>Bushing</conjf>.]</vmorph> <sn>1.</sn> <def>To set bushes for; to support with bushes; <as>as, to <ex>bush</ex> peas</as>.</def><br/
+<hw>Bush</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bushed</conjf> <pr>(b<usdot/sht)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bushing</conjf>.]</vmorph> <sn>1.</sn> <def>To set bushes for; to support with bushes; <as>as, to <ex>bush</ex> peas</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To use a bush harrow on (land), for covering seeds sown; to harrow with a bush; <as>as, to <ex>bush</ex> a piece of land; to <ex>bush</ex> seeds into the ground</as>.</def><br/
@@ -47326,7 +47326,7 @@ The faithless column, and the crumbling <qex>bust</qex>.</q> <rj><qau>Pope.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bustle</ent><br/
-<hw>Bus"tle</hw> <pr>(b<ucr/s"s'l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bustled</conjf> (-s'ld); <pos>p. pr. & vb. n.</pos> <conjf>Bustling</conjf> (-sl<icr/ng).]</vmorph> <ety>[Cf. OE. <ets>buskle</ets>, perh. fr. AS. <ets>bysig</ets> busy, <ets>bysg-ian</ets> to busy + the verbal termination <ets>-le</ets>; or Icel. <ets>bustla</ets> to splash, bustle.]</ety> <def>To move noisily; to be rudely active; to move in a way to cause agitation or disturbance; <as>as, to <ex>bustle</ex> through a crowd</as>.</def><br/
+<hw>Bus"tle</hw> <pr>(b<ucr/s"s'l)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bustled</conjf> <pr>(-s'ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bustling</conjf> <pr>(-sl<icr/ng)</pr>.]</vmorph> <ety>[Cf. OE. <ets>buskle</ets>, perh. fr. AS. <ets>bysig</ets> busy, <ets>bysg-ian</ets> to busy + the verbal termination <ets>-le</ets>; or Icel. <ets>bustla</ets> to splash, bustle.]</ety> <def>To move noisily; to be rudely active; to move in a way to cause agitation or disturbance; <as>as, to <ex>bustle</ex> through a crowd</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And leave the world for me to <qex>bustle</qex> in.</q> <rj><qau>Shak.</qau></rj><br/
