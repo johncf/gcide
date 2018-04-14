@@ -10600,7 +10600,7 @@ But here thy sword can do thee little stead.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emprison</ent><br/
-<hw>Em*pris"on</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[<ets>Obs</ets>.]</ety> <def>See <er>Imprison</er>.</def><br/
+<hw>Em*pris"on</hw> <pr>(?)</pr>, <pos>v. t.</pos> <mark>[Obs.]</mark> <def>See <er>Imprison</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emprosthotonos</ent><br/
@@ -10736,7 +10736,7 @@ But here thy sword can do thee little stead.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empugn</ent><br/
-<hw>Em*pugn"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[<ets>Obs</ets>.]</ety> <def>See <er>Impugn</er>.</def><br/
+<hw>Em*pugn"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <mark>[Obs.]</mark> <def>See <er>Impugn</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empurple</ent><br/

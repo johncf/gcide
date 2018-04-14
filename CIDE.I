@@ -21799,7 +21799,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Injoin</ent><br/
-<hw>In*join"</hw> <pr>(?)</pr>, <pos>v. t.</pos>   <ety>[<ets>Obs</ets>.]</ety> <def>See <er>Enjoin</er>.</def><br/
+<hw>In*join"</hw> <pr>(?)</pr>, <pos>v. t.</pos>   <mark>[Obs.]</mark> <def>See <er>Enjoin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Injoint</ent><br/
@@ -35967,7 +35967,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isle</ent><br/
-<hw>Isle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Obs</ets>.]</ety> <def>See <er>Aisle</er>.</def><br/
+<hw>Isle</hw> <pr>(?)</pr>, <pos>n.</pos> <mark>[Obs.]</mark> <def>See <er>Aisle</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isle</ent><br/
