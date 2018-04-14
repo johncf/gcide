@@ -6248,7 +6248,7 @@ Few <qex>vernal</qex> joys can show?</q> <rj><qau>Keble.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Nat. Hist.)</fld> <def>Capable of turning; freely movable; <as>as, a <ex>versatile</ex> anther, which is fixed at one point to the filament, and hence is very easily turned around; a <ex>versatile</ex> toe of a bird.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>-- <wordforms><wf>Ver"sa*tile*ly</wf>, <pos>adv.</pos> -- -- <wf>Ver"sa*tile*ness</wf>, <pos>n.</pos></wordforms><br/
+<p>-- <wordforms><wf>Ver"sa*tile*ly</wf>, <pos>adv.</pos> -- <wf>Ver"sa*tile*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Versatility</ent><br/

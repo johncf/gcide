@@ -179,8 +179,8 @@
 <syn><b>Syn. --</b> genus <gen>Dacrymyces</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><ent>dactyl</ent><br/
-<hw>dac"tyl</hw> <pr>(d<acr/k"t<icr/l)</pr>, <pos>n.</pos> <ety>[L. <ets>dactylus</ets>, Gr. <grk>da`ktylos</grk> a finger, a dactyl.  Cf. <er>Digit</er>.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>A poetical foot of three sylables (<mdash/ <cre/ <cre/), one long followed by two short, or one accented followed by two unaccented; <as>as, L. <it>t<eum/gm<icr/n<ecr/</it>, E. <it>mer<bprime/ciful</it>; -- so called from the similarity of its arrangement to that of the joints of a finger.</as></def> <altsp>[Written also <asp>dactyle</asp>.]</altsp><br/
+<p><ent>Dactyl</ent><br/
+<hw>Dac"tyl</hw> <pr>(d<acr/k"t<icr/l)</pr>, <pos>n.</pos> <ety>[L. <ets>dactylus</ets>, Gr. <grk>da`ktylos</grk> a finger, a dactyl.  Cf. <er>Digit</er>.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>A poetical foot of three sylables (-- <cre/ <cre/), one long followed by two short, or one accented followed by two unaccented; <as>as, L. <it>t<eum/gm<icr/n<ecr/</it>, E. <it>mer<bprime/ciful</it>; -- so called from the similarity of its arrangement to that of the joints of a finger.</as></def> <altsp>[Written also <asp>dactyle</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A finger or toe; a digit.</def> <sd>(b)</sd> <def>The claw or terminal joint of a leg of an insect or crustacean.</def><br/
@@ -9545,7 +9545,7 @@ Is no <qex>deficience</qex> found.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>Serving to define or restrict; limiting; determining; <as>as, the <ex>definite</ex> article</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Definite article</b></col> <fld>(Gram.)</fld>, <cd>the article <xex>the</xex>, which is used to designate a particular person or thing, or a particular class of persons or things; -- also called a <xex>definitive</xex>. See <er>Definitive</er>, <pos>n.</pos></cd> - - <col><b>Definite inflorescence</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Determinate inflorescence</cref>, under <er>Determinate</er>.</cd> -- <col><b>Law of definite proportions</b></col> <fld>(Chem.)</fld>, <cd>the essential law of chemical combination that every definite compound always contains the same elements in the same proportions by weight; and, if two or more elements form more than one compound with each other, the relative proportions of each are fixed. Compare <xex>Law of multiple proportions</xex>, under <er>Multiple</er>.</cd></cs><br/
+<p><cs><col><b>Definite article</b></col> <fld>(Gram.)</fld>, <cd>the article <xex>the</xex>, which is used to designate a particular person or thing, or a particular class of persons or things; -- also called a <xex>definitive</xex>. See <er>Definitive</er>, <pos>n.</pos></cd> -- <col><b>Definite inflorescence</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Determinate inflorescence</cref>, under <er>Determinate</er>.</cd> -- <col><b>Law of definite proportions</b></col> <fld>(Chem.)</fld>, <cd>the essential law of chemical combination that every definite compound always contains the same elements in the same proportions by weight; and, if two or more elements form more than one compound with each other, the relative proportions of each are fixed. Compare <xex>Law of multiple proportions</xex>, under <er>Multiple</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Definite</ent><br/
@@ -10671,7 +10671,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Deign</ent><br/
-<hw>Deign</hw>, <pos>v. i.</pos> <def>To think worthy; to vouchsafe; to condescend; - - followed by an infinitive.</def><br/
+<hw>Deign</hw>, <pos>v. i.</pos> <def>To think worthy; to vouchsafe; to condescend; -- followed by an infinitive.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O <qex>deign</qex> to visit our forsaken seats.</q> <rj><qau>Pope.</qau></rj><br/
@@ -39783,7 +39783,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dochmius</ent><br/
-\'d8<hw>Doch"mi*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Pros.)</fld> <def>A foot of five syllables (usually <?/ -- -<?/ -).</def></p>
+\'d8<hw>Doch"mi*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Pros.)</fld> <def>A foot of five syllables (usually <cre/ -- -- <cre/ --).</def></p>
 
 <p><ent>Docibleness</ent><br/
 <ent>Docibility</ent><br/

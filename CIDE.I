@@ -19373,7 +19373,7 @@ To ineffable <qex>inflatus</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 
 <p><q>The nature of things is <qex>inflexible</qex>.</q> <rj><qau>I. Watts.</qau></rj></p>
 
-<p><syn><b>Syn.</b> -- -- Unbending; unyielding; rigid; inexorable; pertinacious; obstinate; stubborn; unrelenting.</syn><br/
+<p><syn><b>Syn.</b> -- Unbending; unyielding; rigid; inexorable; pertinacious; obstinate; stubborn; unrelenting.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflexibleness</ent><br/
@@ -34873,7 +34873,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 
 <p><cs><col><b>Irreducible case</b></col> <fld>(Alg.)</fld>, <cd>a particular case in the solution of a cubic equation, in which the formula commonly employed contains an imaginary quantity, and therefore fails in its application.</cd></cs></p>
 
-<p>-- <wordforms><wf>Ir`re*du"ci*ble*ness</wf>, <pos>n.</pos> -- -- <wf>Ir`re*du"ci*bly</wf>, <pos>adv.</pos></wordforms><br/
+<p>-- <wordforms><wf>Ir`re*du"ci*ble*ness</wf>, <pos>n.</pos> -- <wf>Ir`re*du"ci*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irreflection</ent><br/
