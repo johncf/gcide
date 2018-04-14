@@ -20691,10 +20691,10 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 
 <p><note><hand/  The feats of grenadiers have been memorialized in song, as in the following: (for the melody see http://www.acronet.net/~robokopp/english.html) <br/
 <br/
-<TITLE>Some talk of Alexander, and some of Hercules / The British Grenadiers</TITLE>
-<I>ca. 18th Century</I>
+<title>Some talk of Alexander, and some of Hercules / The British Grenadiers</title>
+<i>ca. 18th Century</i>
 <br/
-<H1>The British Grenadiers</H1>
+<h2>The British Grenadiers</h2>
 <br/
 Some talk of Alexander,<br/
 And some of Hercules<br/
