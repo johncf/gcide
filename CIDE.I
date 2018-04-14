@@ -14618,7 +14618,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Index</ent><br/
-<hw>In"dex</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Indexes</plw> <pr>(#)</pr>, L. <plw>Indices</plw> <pr>(#)</pr>(<?/).</plu> <ety>[L.: cf. F. <ets>index</ets>. See <er>Indicate</er>, <er>Diction</er>.]</ety><br/
+<hw>In"dex</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Indexes</plw> <pr>(#)</pr>, L. <plw>Indices</plw> <pr>(#)</pr>.</plu> <ety>[L.: cf. F. <ets>index</ets>. See <er>Indicate</er>, <er>Diction</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>That which points out; that which shows, indicates, manifests, or discloses; <as>as, the increasing unemployment rate is an <ex>index</ex> of how much the economy has slowed</as>.</def><br/
