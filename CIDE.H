@@ -29657,7 +29657,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyphenated American</ent><br/
-<hw>Hyphenated American</hw>.  <def>An American who is referred to by a hyphenated term with the first word indicating an origin in a foreign country, and the second term being <ldquo/American<rdquo/, as <stype>Irish-American</stype>, <stype>Italian-American</stype>, <stype>African-American</stype>, <stype>Asian-American</stype>.</def>  <mark>Used in reference to Americans of foreign birth or ancestry.  When used of Americans of European ancestry, it is often used to refer to those who have a strong attachment to the ancestral country or its culture.  It implies that the individual is imperfectly assimilated into American culture, and is sometimes used derogatively.</mark><br/
+<hw>Hyphenated American</hw>.  <def>An American who is referred to by a hyphenated term with the first word indicating an origin in a foreign country, and the second term being <ldquo/American<rdquo/, as <stype>Irish-American</stype>, <stype>Italian-American</stype>, <stype>African-American</stype>, <stype>Asian-American</stype>.</def>  <note>Used in reference to Americans of foreign birth or ancestry.  When used of Americans of European ancestry, it is often used to refer to those who have a strong attachment to the ancestral country or its culture.  It implies that the individual is imperfectly assimilated into American culture, and is sometimes used derogatively.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hyphomycetes</ent><br/
