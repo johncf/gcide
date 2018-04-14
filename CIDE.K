@@ -6311,11 +6311,14 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Kotow</ent><br/
-<hw>Ko*tow"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chinese, knock head.]</ety> <def>Same as <er>kowtow</er>, the more common spellings.</def> <mark>[China]</mark> <altsp>[Also spelled <asp>kowtow</asp>.]</altsp>  <rj><au>S. W. Williams.</au></rj><br/
+<hw>Ko*tow"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chinese, knock head.]</ety> <def>The prostration made by mandarins and others to their superiors, either as homage or worship, by knocking the forehead on the ground.  There are degrees in the rite, the highest being expressed by three knockings.</def> <mark>[China]</mark> <rj><au>S. W. Williams.</au></rj> <altsp>[Also spelled <asp>kowtow</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kotow</ent><br/
-<hw>Ko*tow"</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kotowed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kotowing</conjf>.]</vmorph> <sn>1.</sn> <def>To perform the kotow.  Now usually spelled <er>kowtow</er>.</def> <altsp>[Also spelled <asp>kowtow</asp>.]</altsp><br/
+<hw>Ko*tow"</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kotowed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kotowing</conjf>.]</vmorph> <sn>1.</sn> <def>To perform the kotow.</def> <altsp>Now usually spelled <asp>kowtow</asp>.</altsp><br/
+[<source>1913 Webster</source>]</p>
+
+<p><q>I have salaamed and <qex>kowtowed</qex> to him.</q> <rj><qau>H. James.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To defer to another in a servile or humiliating manner; to act obsequiously.</def><br/
@@ -6345,19 +6348,12 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Kowtow</ent><br/
-<hw>Kow*tow"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chinese, knock head.]</ety> <def>The prostration made by mandarins and others to their superiors, either as homage or worship, by knocking the forehead on the ground; same as <er>Kotow</er>.  There are degrees in the rite, the highest being expressed by three knockings.</def> <mark>[China]</mark> <altsp>[Also spelled <asp>kotow</asp>.]</altsp>  <rj><au>S. W. Williams.</au></rj><br/
+<hw>Kow*tow"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The same as <er>Kotow</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kowtow</ent><br/
-<hw>Kow*tow"</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kowtowed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kowtowing</conjf>.]</vmorph> <def>To perform the kowtow.  Same as <er>Kotow</er></def><br/
+<hw>Kow*tow"</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kowtowed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kowtowing</conjf>.]</vmorph> <def>See <er>Kotow</er>, <pos>v. i.</pos></def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><q>I have salaamed and <qex>kowtowed</qex> to him.</q> <rj><qau>H. James.</qau></rj><br/
-[<source>1913 Webster</source>]</p>
-
-<p><sn>2.</sn> <def>To defer to another in a servile or humiliating manner; to act obsequiously.</def><br/
-<syn><b>Syn. --</b> kotow.</syn><br/
-[<source>PJC</source>]</p>
 
 <p><ent>Kr</ent><br/
 <hw>Kr</hw> <pos>prop. n.</pos> <fld>(Chem.)</fld> <def>The chemical symbol for the element <sig>krypton</sig>, one of the six noble gases.</def> <mark>[abbrev.]</mark> <br/
