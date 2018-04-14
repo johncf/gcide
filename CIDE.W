@@ -12993,7 +12993,7 @@ Takes off thy dukedom; thou art but an earl.</q> <rj><qau>J. Fletcher.</qau></rj
 
 <p><ent>Whisky Ring</ent><br/
 <ent>Whiskey Ring</ent><br/
-<mhw>{ <hw>Whiskey Ring</hw>, <it>or</it>  <hw>Whisky Ring</hw>  }</mhw>. <mark>(U. S. Hist.)</mark> <def>A conspiracy of distillers and government officials during the administration of President Grant to defraud the government of the excise taxes. The frauds were detected in 1875 through the efforts of the Secretary of the Treasury <person>B. H. Bristow</person>, and most of the offenders were convicted.</def><br/
+<mhw>{ <hw>Whiskey Ring</hw>, <it>or</it>  <hw>Whisky Ring</hw>  }</mhw>. <fld>(U. S. Hist.)</fld> <def>A conspiracy of distillers and government officials during the administration of President Grant to defraud the government of the excise taxes. The frauds were detected in 1875 through the efforts of the Secretary of the Treasury <person>B. H. Bristow</person>, and most of the offenders were convicted.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Whiskin</ent><br/

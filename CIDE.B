@@ -44691,7 +44691,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bull Moose</ent><br/
-<hw>Bull Moose</hw>. (<mark>U. S. Politics</mark>) <sd>(a)</sd> <def>A follower of Theodore Roosevelt in the presidential campaign of 1912; -- a sense said to have originated from a remark made by  Roosevelt on a certain occasion that he felt <ldquo/like a bull moose.<rdquo/</def> <mark>[Cant]</mark> <sd>(b)</sd> <def>The figure of a bull moose used as the party symbol of the Progressive party in the presidential campaign of 1912.</def> -- <wordforms><wf>Bull Mooser</wf>. <mark>[Cant]</mark></wordforms><br/
+<hw>Bull Moose</hw>. <fld>(U. S. Politics)</fld> <sd>(a)</sd> <def>A follower of Theodore Roosevelt in the presidential campaign of 1912; -- a sense said to have originated from a remark made by  Roosevelt on a certain occasion that he felt <ldquo/like a bull moose.<rdquo/</def> <mark>[Cant]</mark> <sd>(b)</sd> <def>The figure of a bull moose used as the party symbol of the Progressive party in the presidential campaign of 1912.</def> -- <wordforms><wf>Bull Mooser</wf>. <mark>[Cant]</mark></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>bull-necked</ent><br/

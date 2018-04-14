@@ -14560,7 +14560,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Nul`li*fi*ca"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nullificatio</ets> contempt. See <er>Nullify</er>.]</ety> <def>The act of nullifying; a rendering void and of no effect, or of no legal effect.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Right of nullification</b></col> <mark>(U. S. Hist.)</mark>, <cd>the right claimed in behalf of a State to nullify or make void, by its sovereign act or decree, an enactment of the general government which it deems unconstitutional.</cd></cs><br/
+<p><cs><col><b>Right of nullification</b></col> <fld>(U. S. Hist.)</fld>, <cd>the right claimed in behalf of a State to nullify or make void, by its sovereign act or decree, an enactment of the general government which it deems unconstitutional.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nullifidian</ent><br/
