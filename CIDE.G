@@ -24566,7 +24566,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gummy</ent><br/
-<hw>Gum"my</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Compar. <er>Gummer</er> (<?/); superl. <er>Gummirst</er>.]</ety> <def>Consisting of gum; viscous; adhesive; producing or containing gum; covered with gum or a substance resembling gum.</def><br/
+<hw>Gum"my</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Gummer</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Gummirst</adjf>.]</amorph> <def>Consisting of gum; viscous; adhesive; producing or containing gum; covered with gum or a substance resembling gum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Kindles the <qex>gummy</qex> bark of fir or pine.</q> <rj><qau>Milton.</qau></rj><br/

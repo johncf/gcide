@@ -38945,7 +38945,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Divine</ent><br/
-<hw>Di*vine"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Compar. <er>Diviner</er> <pr>(<?/)</pr>; <ets>superl</ets>. <er>Divinest</er>.]</ety> <ety>[F. <ets>divin</ets>, L. <ets>divinus</ets> divine, divinely inspired, fr. <ets>divus</ets>, <ets>dius</ets>, belonging to a deity; akin to Gr. <?/, and L. <ets>deus</ets>, God. See <er>Deity</er>.]</ety> <sn>1.</sn> <def>Of or belonging to God; <as>as, <ex>divine</ex> perfections; the <ex>divine</ex> will.</as></def> <ldquo/The immensity of the <xex>divine</xex> nature.<rdquo/  <rj><au>Paley.</au></rj><br/
+<hw>Di*vine"</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Diviner</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Divinest</adjf>.]</amorph> <ety>[F. <ets>divin</ets>, L. <ets>divinus</ets> divine, divinely inspired, fr. <ets>divus</ets>, <ets>dius</ets>, belonging to a deity; akin to Gr. <?/, and L. <ets>deus</ets>, God. See <er>Deity</er>.]</ety> <sn>1.</sn> <def>Of or belonging to God; <as>as, <ex>divine</ex> perfections; the <ex>divine</ex> will.</as></def> <ldquo/The immensity of the <xex>divine</xex> nature.<rdquo/  <rj><au>Paley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Proceeding from God; <as>as, <ex>divine</ex> judgments</as>.</def> <ldquo/<xex>Divine</xex> protection.<rdquo/  <rj><au>Bacon.</au></rj><br/
