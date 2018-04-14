@@ -2949,7 +2949,7 @@ The pleasant <qex>garden</qex> of great Italy.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gargle</ent><br/
-<hw>Gar"gle</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Garggled</conjf> <pr>(?)</pr>, <pos>p. pr. & vb. n.</pos> <conjf>Gargling</conjf> (<?/).]</vmorph> <ety>[F. <ets>gargouiller</ets> to dabble, paddle, gargle.  Cf. <er>Gargoyle</er>, <er>Gurgle</er>.]</ety> <sn>1.</sn> <def>To wash or rinse, as the mouth or throat, particular the latter, agitating the liquid (water or a medicinal preparation) by an expulsion of air from the lungs.</def><br/
+<hw>Gar"gle</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Garggled</conjf> <pr>(?)</pr>, <pos>p. pr. & vb. n.</pos> <conjf>Gargling</conjf> <pr>(<?/)</pr>.]</vmorph> <ety>[F. <ets>gargouiller</ets> to dabble, paddle, gargle.  Cf. <er>Gargoyle</er>, <er>Gurgle</er>.]</ety> <sn>1.</sn> <def>To wash or rinse, as the mouth or throat, particular the latter, agitating the liquid (water or a medicinal preparation) by an expulsion of air from the lungs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To warble; to sing as if gargling</def> <mark>[Obs.]</mark>  <rj><au>Waller.</au></rj><br/
@@ -8895,7 +8895,7 @@ At the piteous hap of the fairy wight.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gild</ent><br/
-<hw>Gild</hw> <pr>(g<icr/ld)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gilded</conjf> or <conjf>Gilt</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Gilding</conjf>.]</vmorph> <ety>[AS. <ets>gyldan</ets>, from <ets>gold</ets> gold. <root/234. See <er>Gold</er>.]</ety> <sn>1.</sn> <def>To overlay with a thin covering of gold; to cover with a golden color; to cause to look like gold.</def> <ldquo/<xex>Gilded</xex> chariots.<rdquo/  <rj><au>Pope.</au></rj><br/
+<hw>Gild</hw> <pr>(g<icr/ld)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gilded</conjf> or <conjf>Gilt</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gilding</conjf>.]</vmorph> <ety>[AS. <ets>gyldan</ets>, from <ets>gold</ets> gold. <root/234. See <er>Gold</er>.]</ety> <sn>1.</sn> <def>To overlay with a thin covering of gold; to cover with a golden color; to cause to look like gold.</def> <ldquo/<xex>Gilded</xex> chariots.<rdquo/  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>No more the rising sun shall <qex>gild</qex> the morn.</q> <rj><qau>Pope.</qau></rj><br/

@@ -26567,7 +26567,7 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dip</ent><br/
-<hw>Dip</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dipped</conjf> <pr>(?)</pr> or <conjf>Dipt</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Dipping</conjf>.]</vmorph> <ety>[OE. <ets>dippen</ets>, <ets>duppen</ets>, AS. <ets>dyppan</ets>; akin to Dan. <ets>dyppe</ets>, Sw. <ets>doppa</ets>, and to AS. <ets>d<?/pan</ets> to baptize, OS. <ets>d<?/pian</ets>, D. <ets>doopen</ets>, G. <ets>taufen</ets>, Sw. <ets>d<oum/pa</ets>, Goth. <ets>daupjan</ets>, Lith. <ets>dubus</ets> deep, hollow, OSlav. <ets>dupl<?/</ets> hollow, and to E. <ets>dive</ets>.  Cf. <er>Deep</er>, <er>Dive</er>.]</ety> <sn>1.</sn> <def>To plunge or immerse; especially, to put for a moment into a liquid; to insert into a fluid and withdraw again.</def><br/
+<hw>Dip</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dipped</conjf> <pr>(?)</pr> or <conjf>Dipt</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dipping</conjf>.]</vmorph> <ety>[OE. <ets>dippen</ets>, <ets>duppen</ets>, AS. <ets>dyppan</ets>; akin to Dan. <ets>dyppe</ets>, Sw. <ets>doppa</ets>, and to AS. <ets>d<?/pan</ets> to baptize, OS. <ets>d<?/pian</ets>, D. <ets>doopen</ets>, G. <ets>taufen</ets>, Sw. <ets>d<oum/pa</ets>, Goth. <ets>daupjan</ets>, Lith. <ets>dubus</ets> deep, hollow, OSlav. <ets>dupl<?/</ets> hollow, and to E. <ets>dive</ets>.  Cf. <er>Deep</er>, <er>Dive</er>.]</ety> <sn>1.</sn> <def>To plunge or immerse; especially, to put for a moment into a liquid; to insert into a fluid and withdraw again.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The priest shall <qex>dip</qex> his finger in the blood.</q> <rj><qau>Lev. iv. 6.</qau></rj><br/
@@ -51746,7 +51746,7 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dwell</ent><br/
-<hw>Dwell</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dwelled</conjf> <pr>(?)</pr>, usually contracted into <conjf>Dwelt</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Dwelling</conjf>.]</vmorph> <ety>[OE. <ets>dwellen</ets>, <ets>dwelien</ets>, to err, linger, AS. <ets>dwellan</ets> to deceive, hinder, delay, <ets>dwelian</ets> to err; akin to Icel. <ets>dvelja</ets> to delay, tarry, Sw. <ets>dv<aum/ljas</ets> to dwell, Dan. <ets>dv<ae/le</ets> to linger, and to E. <ets>dull</ets>. See <er>Dull</er>, and cf. <er>Dwale</er>.]</ety> <sn>1.</sn> <def>To delay; to linger.</def> <mark>[Obs.]</mark><br/
+<hw>Dwell</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dwelled</conjf> <pr>(?)</pr>, usually contracted into <conjf>Dwelt</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dwelling</conjf>.]</vmorph> <ety>[OE. <ets>dwellen</ets>, <ets>dwelien</ets>, to err, linger, AS. <ets>dwellan</ets> to deceive, hinder, delay, <ets>dwelian</ets> to err; akin to Icel. <ets>dvelja</ets> to delay, tarry, Sw. <ets>dv<aum/ljas</ets> to dwell, Dan. <ets>dv<ae/le</ets> to linger, and to E. <ets>dull</ets>. See <er>Dull</er>, and cf. <er>Dwale</er>.]</ety> <sn>1.</sn> <def>To delay; to linger.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To abide; to remain; to continue.</def><br/

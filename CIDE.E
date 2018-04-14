@@ -13806,7 +13806,7 @@ Motion to all.</q> <rj><qau>Decker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Engird</ent><br/
-<hw>En*gird"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Engirded</conjf> or <conjf>Engirt</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Engirding</conjf>.]</vmorph> <ety>[Pref. <ets>en-</ets> + <ets>gird</ets>.  Cf. <er>Ingirt</er>.]</ety> <def>To gird; to encompass.</def>  <rj><au>Shak.</au></rj><br/
+<hw>En*gird"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Engirded</conjf> or <conjf>Engirt</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Engirding</conjf>.]</vmorph> <ety>[Pref. <ets>en-</ets> + <ets>gird</ets>.  Cf. <er>Ingirt</er>.]</ety> <def>To gird; to encompass.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Engirdle</ent><br/
@@ -27841,7 +27841,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exculpate</ent><br/
-<hw>Ex*cul"pate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exculpated</conjf> <pr>(?)</pr>, <ets>p. pr. & vb. n.</ets>. <conjf>Exculpating</conjf> (<?/).]</vmorph> <ety>[L. <ets>ex</ets> out + <ets>culpatus</ets>, p. p. of <ets>culpare</ets> to find fault with, to blame, <ets>culpa</ets> fault. See <er>Culpable</er>.]</ety> <def>To clear from alleged fault or guilt; to prove to be guiltless; to relieve of blame; to acquit.</def><br/
+<hw>Ex*cul"pate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exculpated</conjf> <pr>(?)</pr>, <ets>p. pr. & vb. n.</ets>. <conjf>Exculpating</conjf> <pr>(<?/)</pr>.]</vmorph> <ety>[L. <ets>ex</ets> out + <ets>culpatus</ets>, p. p. of <ets>culpare</ets> to find fault with, to blame, <ets>culpa</ets> fault. See <er>Culpable</er>.]</ety> <def>To clear from alleged fault or guilt; to prove to be guiltless; to relieve of blame; to acquit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He <qex>exculpated</qex> himself from being the author of the heroic epistle.</q> <rj><qau>Mason.</qau></rj><br/

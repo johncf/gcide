@@ -28342,7 +28342,7 @@ Embracing round this florid earth.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intergrave</ent><br/
-<hw>In`ter*grave"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Intergraved</conjf> <pr>(?)</pr>; <pos>p. p.</pos> <conjf>Intergraved</conjf> or <conjf>Intergraven</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Intergraving</conjf>.]</vmorph> <def>To grave or carve between; to engrave in the alternate sections.</def><br/
+<hw>In`ter*grave"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Intergraved</conjf> <pr>(?)</pr>; <pos>p. p.</pos> <conjf>Intergraved</conjf> or <conjf>Intergraven</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Intergraving</conjf>.]</vmorph> <def>To grave or carve between; to engrave in the alternate sections.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The work itself of the bases, was <qex>intergraven</qex>.</q> <rj><qau>3 Kings vii. 28 (Douay version. )</qau></rj></p>

@@ -1107,7 +1107,7 @@ And everlasting anguish be thy portion.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wake</ent><br/
-<hw>Wake</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Waked</conjf> <pr>(?)</pr> or <conjf>Woke</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Waking</conjf>.]</vmorph> <ety>[AS. <ets>wacan</ets>, <ets>wacian</ets>; akin to OFries. <ets>waka</ets>, OS. <ets>wak<?/n</ets>, D. <ets>waken</ets>, G. <ets>wachen</ets>, OHG. <ets>wahh<?/n</ets>, Icel. <ets>vaka</ets>, Sw. <ets>vaken</ets>, Dan. <ets>vaage</ets>, Goth. <ets>wakan</ets>, v. i., us<ets>wakjan</ets>, v. t., Skr. <ets>v<amac/jay</ets> to rouse, to impel. <?/<?/<?/<?/.  Cf. <er>Vigil</er>, <er>Wait</er>, <pos>v. i.</pos>, <er>Watch</er>, <pos>v. i.</pos>]</ety><br/
+<hw>Wake</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Waked</conjf> <pr>(?)</pr> or <conjf>Woke</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Waking</conjf>.]</vmorph> <ety>[AS. <ets>wacan</ets>, <ets>wacian</ets>; akin to OFries. <ets>waka</ets>, OS. <ets>wak<?/n</ets>, D. <ets>waken</ets>, G. <ets>wachen</ets>, OHG. <ets>wahh<?/n</ets>, Icel. <ets>vaka</ets>, Sw. <ets>vaken</ets>, Dan. <ets>vaage</ets>, Goth. <ets>wakan</ets>, v. i., us<ets>wakjan</ets>, v. t., Skr. <ets>v<amac/jay</ets> to rouse, to impel. <?/<?/<?/<?/.  Cf. <er>Vigil</er>, <er>Wait</er>, <pos>v. i.</pos>, <er>Watch</er>, <pos>v. i.</pos>]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To be or to continue awake; to watch; not to sleep.</def><br/

@@ -5875,7 +5875,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bargain</ent><br/
-<hw>Bar"gain</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bargained</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bargaining</conjf>.]</vmorph> <def>To transfer for a consideration; to barter; to trade; <as>as, to <ex>bargain</ex> one horse for another</as>.</def><br/
+<hw>Bar"gain</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bargained</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bargaining</conjf>.]</vmorph> <def>To transfer for a consideration; to barter; to trade; <as>as, to <ex>bargain</ex> one horse for another</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To bargain away</b></col>, <cd>to dispose of in a bargain; -- usually with a sense of loss or disadvantage; as, to <xex>bargain away</xex> one's birthright.</cd>  <ldquo/The heir . . . had somehow <xex>bargained away</xex> the estate.<rdquo/  <rj><au>G. Eliot.</au></rj></cs><br/
@@ -5997,7 +5997,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bark</ent><br/
-<hw>Bark</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Barked</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Barking</conjf>.]</vmorph> <sn>1.</sn> <def>To strip the bark from; to peel.</def><br/
+<hw>Bark</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Barked</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Barking</conjf>.]</vmorph> <sn>1.</sn> <def>To strip the bark from; to peel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To abrade or rub off any outer covering from; as to <xex>bark</xex> one's heel.</def><br/
@@ -7379,7 +7379,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basil</ent><br/
-<hw>Bas"il</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Basiled</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Basiling</conjf>.]</vmorph> <def>To grind or form the edge of to an angle.</def>  <rj><au>Moxon.</au></rj><br/
+<hw>Bas"il</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Basiled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Basiling</conjf>.]</vmorph> <def>To grind or form the edge of to an angle.</def>  <rj><au>Moxon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basil</ent><br/
@@ -7895,7 +7895,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bastardize</ent><br/
-<hw>Bas"tard*ize</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bastardized</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bastardizing</conjf>.]</vmorph> <sn>1.</sn> <def>To make or prove to be a bastard; to stigmatize as a bastard; to declare or decide legally to be illegitimate.</def><br/
+<hw>Bas"tard*ize</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bastardized</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bastardizing</conjf>.]</vmorph> <sn>1.</sn> <def>To make or prove to be a bastard; to stigmatize as a bastard; to declare or decide legally to be illegitimate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The law is so indulgent as not to <qex>bastardize</qex> the child, if born, though not begotten, in lawful wedlock.</q> <rj><qau>Blackstone.</qau></rj><br/
@@ -10920,7 +10920,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Becalm</ent><br/
-<hw>Be*calm"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Becalmed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Becalming</conjf>.]</vmorph> <sn>1.</sn> <def>To render calm or quiet; to calm; to still; to appease.</def><br/
+<hw>Be*calm"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Becalmed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Becalming</conjf>.]</vmorph> <sn>1.</sn> <def>To render calm or quiet; to calm; to still; to appease.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Soft whispering airs . . . <qex>becalm</qex> the mind.</q> <rj><qau>Philips.</qau></rj><br/
@@ -11047,7 +11047,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beckon</ent><br/
-<hw>Beck"on</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beckoned</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Beckoning</conjf>.]</vmorph> <def>To make a significant sign to; hence, to summon, as by a motion of the hand.</def><br/
+<hw>Beck"on</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beckoned</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Beckoning</conjf>.]</vmorph> <def>To make a significant sign to; hence, to summon, as by a motion of the hand.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>His distant friends, he <qex>beckons</qex> near.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -11069,7 +11069,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beclip</ent><br/
-<hw>Be*clip"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beclipped</conjf> (<?/).]</vmorph> <ety>[AS. <ets>beclyppan</ets>; pref. <ets>be</ets> + <ets>clyppan</ets> to embrace.]</ety> <def>To embrace; to surround.</def> <mark>[Obs.]</mark>  <rj><au>Wyclif.</au></rj><br/
+<hw>Be*clip"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beclipped</conjf> <pr>(<?/)</pr>.]</vmorph> <ety>[AS. <ets>beclyppan</ets>; pref. <ets>be</ets> + <ets>clyppan</ets> to embrace.]</ety> <def>To embrace; to surround.</def> <mark>[Obs.]</mark>  <rj><au>Wyclif.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Becloud</ent><br/
@@ -11277,11 +11277,11 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedash</ent><br/
-<hw>Be*dash"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedashed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedashing</conjf>.]</vmorph> <def>To wet by dashing or throwing water or other liquid upon; to bespatter.</def> <ldquo/Trees <xex>bedashed</xex> with rain.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Be*dash"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedashed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedashing</conjf>.]</vmorph> <def>To wet by dashing or throwing water or other liquid upon; to bespatter.</def> <ldquo/Trees <xex>bedashed</xex> with rain.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedaub</ent><br/
-<hw>Be*daub"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedaubed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedaubing</conjf>.]</vmorph> <def>To daub over; to besmear or soil with anything thick and dirty.</def><br/
+<hw>Be*daub"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedaubed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedaubing</conjf>.]</vmorph> <def>To daub over; to besmear or soil with anything thick and dirty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Bedaub</qex> foul designs with a fair varnish.</q> <rj><qau>Barrow.</qau></rj><br/
@@ -11297,7 +11297,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bedazzle</ent><br/
-<hw>Be*daz"zle</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedazzled</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedazzling</conjf> (<?/).]</vmorph> <def>To dazzle or make dim by a strong light.</def> <ldquo/<xex>Bedazzled</xex> with the sun.<rdquo/  <rj><au>Shak.</au></rj><br/
+<hw>Be*daz"zle</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedazzled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedazzling</conjf> <pr>(<?/)</pr>.]</vmorph> <def>To dazzle or make dim by a strong light.</def> <ldquo/<xex>Bedazzled</xex> with the sun.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedbug</ent><br/
@@ -11348,7 +11348,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedeck</ent><br/
-<hw>Be*deck"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedecked</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedecking</conjf>.]</vmorph> <def>To deck, ornament, or adorn; to grace.</def><br/
+<hw>Be*deck"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedecked</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedecking</conjf>.]</vmorph> <def>To deck, ornament, or adorn; to grace.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Bedecked</qex> with boughs, flowers, and garlands.</q> <rj><qau>Pennant.</qau></rj><br/
@@ -11381,7 +11381,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedevil</ent><br/
-<hw>Be*dev"il</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedevilled</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedeviling</conjf> or <conjf>Bedevilling</conjf>.]</vmorph> <sn>1.</sn> <def>To throw into utter disorder and confusion, as if by the agency of evil spirits; to bring under diabolical influence; to torment.</def><br/
+<hw>Be*dev"il</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedevilled</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedeviling</conjf> or <conjf>Bedevilling</conjf>.]</vmorph> <sn>1.</sn> <def>To throw into utter disorder and confusion, as if by the agency of evil spirits; to bring under diabolical influence; to torment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Bedeviled</qex> and used worse than St. Bartholomew.</q> <rj><qau>Sterne.</qau></rj><br/
@@ -11395,7 +11395,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedew</ent><br/
-<hw>Be*dew"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedewed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedewing</conjf>.]</vmorph> <def>To moisten with dew, or as with dew.</def> <ldquo/Falling tears his face <xex>bedew</xex>.<rdquo/  <rj><au>Dryden.</au></rj><br/
+<hw>Be*dew"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedewed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedewing</conjf>.]</vmorph> <def>To moisten with dew, or as with dew.</def> <ldquo/Falling tears his face <xex>bedew</xex>.<rdquo/  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedewer</ent><br/
@@ -11533,7 +11533,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedrench</ent><br/
-<hw>Be*drench"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedrenched</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bedrenching</conjf>.]</vmorph> <def>To drench; to saturate with moisture; to soak.</def>  <rj><au>Shak.</au></rj><br/
+<hw>Be*drench"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bedrenched</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bedrenching</conjf>.]</vmorph> <def>To drench; to saturate with moisture; to soak.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bedribble</ent><br/
@@ -16763,7 +16763,7 @@ All things both great and small.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bestrew</ent><br/
-<hw>Be*strew"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Bestrewed</conjf> <pr>(<?/)</pr>; <pos>p. p.</pos> <conjf>Bestrewed</conjf>, <conjf>Bestrown</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bestrewing</conjf>.]</vmorph> <def>To strew or scatter over; to besprinkle.</def> <altsp>[Spelt also <asp>bestrow</asp>.]</altsp>  <rj><au>Milton.</au></rj><br/
+<hw>Be*strew"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Bestrewed</conjf> <pr>(<?/)</pr>; <pos>p. p.</pos> <conjf>Bestrewed</conjf>, <conjf>Bestrown</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bestrewing</conjf>.]</vmorph> <def>To strew or scatter over; to besprinkle.</def> <altsp>[Spelt also <asp>bestrow</asp>.]</altsp>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bestride</ent><br/
@@ -17468,7 +17468,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bevel</ent><br/
-<hw>Bev"el</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beveled</conjf> (<?/) or <conjf>Bevelled</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Beveling</conjf> or <conjf>Bevelling</conjf>.]</vmorph> <def>To cut to a bevel angle; to slope the edge or surface of.</def><br/
+<hw>Bev"el</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Beveled</conjf> <pr>(<?/)</pr> or <conjf>Bevelled</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Beveling</conjf> or <conjf>Bevelling</conjf>.]</vmorph> <def>To cut to a bevel angle; to slope the edge or surface of.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bevel</ent><br/
@@ -17499,7 +17499,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bever</ent><br/
-<hw>Be"ver</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bevered</conjf> (<?/).]</vmorph> <def>To take a light repast between meals.</def> <mark>[Obs.]</mark><br/
+<hw>Be"ver</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bevered</conjf> <pr>(<?/)</pr>.]</vmorph> <def>To take a light repast between meals.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beverage</ent><br/
@@ -22224,7 +22224,7 @@ Like rats, oft <qex>bite</qex> the holy cords atwain.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bivouac</ent><br/
-<hw>Biv"ouac</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bivouacked</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bivouacking</conjf>.]</vmorph> <fld>(Mil.)</fld> <sd>(a)</sd> <def>To watch at night or be on guard, as a whole army.</def> <sd>(b)</sd> <def>To encamp for the night without tents or covering.</def><br/
+<hw>Biv"ouac</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bivouacked</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bivouacking</conjf>.]</vmorph> <fld>(Mil.)</fld> <sd>(a)</sd> <def>To watch at night or be on guard, as a whole army.</def> <sd>(b)</sd> <def>To encamp for the night without tents or covering.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Biweekly</ent><br/
@@ -28870,7 +28870,7 @@ The air attrite to fire.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Body</ent><br/
-<hw>Bod"y</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bodied</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bodying</conjf>.]</vmorph> <def>To furnish with, or as with, a body; to produce in definite shape; to embody.</def><br/
+<hw>Bod"y</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bodied</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bodying</conjf>.]</vmorph> <def>To furnish with, or as with, a body; to produce in definite shape; to embody.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To body forth</b></col>, <cd>to give from or shape to mentally.</cd><br/
@@ -32899,7 +32899,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bother</ent><br/
-<hw>Both"er</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bothered</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bothering</conjf>.]</vmorph> <ety>[Cf. Ir. <ets>buaidhirt</ets> trouble, <ets>buaidhrim</ets> I vex.]</ety> <def>To annoy; to trouble; to worry; to perplex. See <er>Pother</er>.</def><br/
+<hw>Both"er</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bothered</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bothering</conjf>.]</vmorph> <ety>[Cf. Ir. <ets>buaidhirt</ets> trouble, <ets>buaidhrim</ets> I vex.]</ety> <def>To annoy; to trouble; to worry; to perplex. See <er>Pother</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The imperative is sometimes used as an exclamation mildly imprecatory.</note><br/
@@ -33201,7 +33201,7 @@ same <qex>bottoms</qex> in which they were shipped.</q> <rj><qau>Bancroft.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bottom</ent><br/
-<hw>Bot"tom</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bottomed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Bottoming</conjf>.]</vmorph><br/
+<hw>Bot"tom</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bottomed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Bottoming</conjf>.]</vmorph><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To found or build upon; to fix upon as a support; -- followed by <xex>on</xex> or <xex>upon</xex>.</def><br/
@@ -34839,7 +34839,7 @@ Damning the poor, his tripple-bolted <qex>box</qex>.</q> <rj><qau>J. Warton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Box</ent><br/
-<hw>Box</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Boxed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Boxing</conjf>.]</vmorph><br/
+<hw>Box</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Boxed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Boxing</conjf>.]</vmorph><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To inclose in a box.</def><br/
@@ -38647,7 +38647,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Brenne</ent><br/
 <ent>Bren</ent><br/
-<mhw>{ <hw>Bren</hw> <pr>(<?/)</pr>, <hw>Bren"ne</hw> <pr>(<?/)</pr>, }</mhw> <pos>v. t. & i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Brent</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Brenning</conjf>.]</vmorph> <ety>[See <er>Burn</er>.]</ety> <def>To burn.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<mhw>{ <hw>Bren</hw> <pr>(<?/)</pr>, <hw>Bren"ne</hw> <pr>(<?/)</pr>, }</mhw> <pos>v. t. & i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Brent</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Brenning</conjf>.]</vmorph> <ety>[See <er>Burn</er>.]</ety> <def>To burn.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Consuming fire <qex>brent</qex> his shearing house or stall.</q> <rj><qau>W. Browne.</qau></rj><br/
@@ -44932,7 +44932,7 @@ With rising towers.</q> <rj><qau>Glover.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bum</ent><br/
-<hw>bum</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>bummed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>bumming</conjf> (<?/).]</vmorph> <ety>[See <er>Boom</er>, <pos>v. i.,</pos> to roar.]</ety> <def>To make murmuring or humming sound.</def>  <rj><au>Jamieson.</au></rj><br/
+<hw>bum</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>bummed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>bumming</conjf> <pr>(<?/)</pr>.]</vmorph> <ety>[See <er>Boom</er>, <pos>v. i.,</pos> to roar.]</ety> <def>To make murmuring or humming sound.</def>  <rj><au>Jamieson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>to bum around</b></col> <cd>to wander about idly or aimlessly.</cd></cs><br/
@@ -47805,7 +47805,7 @@ That's the <qex>butt end</qex> of a mother's blessing.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Butter</ent><br/
-<hw>But"ter</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Buttered</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Buttering</conjf>.]</vmorph> <sn>1.</sn> <def>To cover or spread with butter.</def><br/
+<hw>But"ter</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Buttered</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Buttering</conjf>.]</vmorph> <sn>1.</sn> <def>To cover or spread with butter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I know what's what. I know on which side<br/
@@ -48102,7 +48102,7 @@ My bread is <qex>buttered</qex>.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buttress</ent><br/
-<hw>But"tress</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Buttressed</conjf> (<?/); <pos>p. pr. & vb. n.</pos> <conjf>Buttressing</conjf>.]</vmorph> <def>To support with a buttress; to prop; to brace firmly.</def><br/
+<hw>But"tress</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Buttressed</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Buttressing</conjf>.]</vmorph> <def>To support with a buttress; to prop; to brace firmly.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To set it upright again, and to prop and <qex>buttress</qex> it up for duration.</q> <rj><qau>Burke.</qau></rj><br/
