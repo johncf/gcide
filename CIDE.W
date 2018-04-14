@@ -11742,7 +11742,7 @@ Rise on the earth, or earth rise on the sun, . . . <br/
 Solicit not thy thoughts with matters hid.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Whether or no</b></col>, <cd>in either case; in any case; as, I will go <xex>whether or no</xex>.</cd> -- <col><b>Whether that</b></col>, <cd>whether.</cd>  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col><b>Whether or no</b></col>, <cd>in either case; in any case; <as>as, I will go <ex>whether or no</ex></as>.</cd> -- <col><b>Whether that</b></col>, <cd>whether.</cd>  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Whethering</ent><br/

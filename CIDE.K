@@ -4112,7 +4112,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 
 <p><ent>Kiteflier</ent><br/
 <ent>Kiteflying</ent><br/
-<hw>Kite"fly`ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A mode of raising money, or sustaining one's credit, by the use of paper which is merely nominal; -- called also <altname>kiting</altname>.</def> -- <hw>Kite"fli`er</hw>, <pos>n.</pos> <def>See <er>Kite</er>, <pos>n.</pos>, 6.</def> <mark>[Cant]</mark>  <rj><au>McElrath.</au>  <au>Thackeray.</au></rj><br/
+<hw>Kite"fly`ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A mode of raising money, or sustaining one's credit, by the use of paper which is merely nominal; -- called also <altname>kiting</altname>.</def> -- <def2><hw>Kite"fli`er</hw>, <pos>n.</pos> <def>See <er>Kite</er>, <pos>n.</pos>, 6.</def> <mark>[Cant]</mark></def2>  <rj><au>McElrath.</au>  <au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kith</ent><br/
@@ -5165,7 +5165,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Knobstick</ent><br/
-<hw>Knob"stick`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who refuses to join, or withdraws from, a <colp>trade union</colp>.</def> <mark>[Cant, Eng.]</mark><br/
+<hw>Knob"stick`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who refuses to join, or withdraws from, a trade union.</def> <mark>[Cant, Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A stick, cane, or club terminating in a knob; esp., such a stick or club used as a weapon or missile; a knobkerrie.</def><br/

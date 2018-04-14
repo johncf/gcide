@@ -34859,8 +34859,7 @@ Whose constant cups lay <qex>fuming</qex> to his brain.</q> <rj><qau>Roscommon.<
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fun</ent><br/
-<hw>fun</hw> <pr>(f<ucr/n)</pr>, <pos>adj.</pos>  
-<amorph>[<pos>Compar.</pos> <adjf>funner</adjf> <pr>(f<ucr/n"n<etil/r)</pr> <mark>(colloquial or jocular)</mark>; <pos>superl.</pos> <adjf>funnest</adjf> <pr>(f<ucr/n"n<ecr/st)</pr> <mark>(colloquial or jocular)</mark>.]</amorph> <def>Of or pertaining to fun; causing pleasure or amusement; <as>as, a <ex>fun</ex> thing to do</as>.</def> <mark>[informal]</mark><br/
+<hw>fun</hw> <pr>(f<ucr/n)</pr>, <pos>adj.</pos> <amorph>[<pos>Compar.</pos> <adjf>funner</adjf> <pr>(f<ucr/n"n<etil/r)</pr> <mark>(colloquial or jocular)</mark>; <pos>superl.</pos> <adjf>funnest</adjf> <pr>(f<ucr/n"n<ecr/st)</pr> <mark>(colloquial or jocular)</mark>.]</amorph> <def>Of or pertaining to fun; causing pleasure or amusement; <as>as, a <ex>fun</ex> thing to do</as>.</def> <mark>[informal]</mark><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Funafuti</ent><br/
