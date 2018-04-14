@@ -20461,7 +20461,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 <hw>Green"sand`</hw> <pr>(-s<acr/nd`)</pr>, <pos>n.</pos> <fld>(Geol.)</fld> <def>A variety of sandstone, usually imperfectly consolidated, consisting largely of glauconite, a silicate of iron and potash of a green color, mixed with sand and a trace of phosphate of lime.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note> <hand/<ex>Greensand</ex> is often called <altname>marl</altname>, because it is a useful fertilizer. The greensand beds of the American Cretaceous belong mostly to the Upper Cretaceous.</note><br/
+<p><note><hand/ <ex>Greensand</ex> is often called <altname>marl</altname>, because it is a useful fertilizer. The greensand beds of the American Cretaceous belong mostly to the Upper Cretaceous.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Greenshank</ent><br/

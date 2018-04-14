@@ -9510,7 +9510,7 @@ All full of fresshe flowers, white and red.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Print.)</fld> <def>A kind of type, in size between minion and nonpare<?/l. It is used by English printers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note> <hand/ This line is printed in the type called <xex>emerald</xex>.</note><br/
+<p><note><hand/ This line is printed in the type called <xex>emerald</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emerald</ent><br/
