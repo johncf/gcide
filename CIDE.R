@@ -8664,7 +8664,7 @@ And draws and blows <qex>reciprocating</qex> air.</q> <rj><qau>Dryden.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reck</ent><br/
-<hw>Reck</hw> <pr>(r<ecr/k)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Recked</conjf> <pr>(r<ecr/kt)</pr> (<pos>obs. imp.</pos> <conjf>Roughte</conjf>); <pos>p. pr. & vb. n.</pos> <conjf>Recking</conjf>.]</vmorph> <ety>[AS. <ets>reccan</ets>, <ets>r<emac/can</ets>, to care for; akin to OS. <ets>r<omac/kian</ets>, OHG. <ets>ruochan</ets>, G. <ets>geruhen</ets>, Icel. <ets>r<ae/kja</ets>, also to E. <ets>reckon</ets>, <ets>rake</ets> an implement. See <er>Rake</er>, and cf. <er>Reckon</er>.]</ety> <sn>1.</sn> <def>To make account of; to care for; to heed; to regard.</def> <mark>[Archaic]</mark><br/
+<hw>Reck</hw> <pr>(r<ecr/k)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Recked</conjf> <pr>(r<ecr/kt)</pr> (<mark>obs.</mark> <pos>imp.</pos> <conjf>Roughte</conjf>); <pos>p. pr. & vb. n.</pos> <conjf>Recking</conjf>.]</vmorph> <ety>[AS. <ets>reccan</ets>, <ets>r<emac/can</ets>, to care for; akin to OS. <ets>r<omac/kian</ets>, OHG. <ets>ruochan</ets>, G. <ets>geruhen</ets>, Icel. <ets>r<ae/kja</ets>, also to E. <ets>reckon</ets>, <ets>rake</ets> an implement. See <er>Rake</er>, and cf. <er>Reckon</er>.]</ety> <sn>1.</sn> <def>To make account of; to care for; to heed; to regard.</def> <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This son of mine not <qex>recking</qex> danger.</q> <rj><qau>Sir P. Sidney.</qau></rj><br/
@@ -10793,7 +10793,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Redde</ent><br/
-<hw>Red"de</hw> <pr>(-de)</pr>, <pos>obs. imp.</pos> <mord>of <er>Read</er>, or <er>Rede</er>.</mord>  <rj><au>Chaucer.</au></rj><br/
+<hw>Red"de</hw> <pr>(-de)</pr>, <mark>obs.</mark> <pos>imp.</pos> <mord>of <er>Read</er>, or <er>Rede</er>.</mord>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Redden</ent><br/
@@ -33813,7 +33813,7 @@ Of maiden <qex>rondure</qex>, like the rose half-blown.</q> <rj><qau>Lowell.</qa
 
 <p><ent>Ronnen</ent><br/
 <ent>Ronne</ent><br/
-<hw>Ron"ne</hw> <pr>(?)</pr>, <pos>obs. imp. pl.</pos>, and <hw>Ron"nen</hw> <pr>(<?/)</pr>, <pos>obs. p. p.</pos> <mord>of <er>Renne</er></mord>, <def>to run.</def>  <rj><au>Chaucer.</au></rj><br/
+<hw>Ron"ne</hw> <pr>(?)</pr>, <mark>obs.</mark> <pos>imp. pl.</pos>, and <hw>Ron"nen</hw> <pr>(<?/)</pr>, <mark>obs.</mark> <pos>p. p.</pos> <mord>of <er>Renne</er></mord>, <def>to run.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ront</ent><br/
