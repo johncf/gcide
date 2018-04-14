@@ -26113,7 +26113,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ding</ent><br/
-<hw>Ding</hw> <pr>(d<icr/ng)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dinged</conjf> <pr>(?)</pr>, <conjf>Dang</conjf> (<mark>Obs</mark>.), or <conjf>Dung</conjf> (<mark>Obs</mark>.); <pos>p. pr. & vb. n.</pos> <conjf>Dinging</conjf>.]</vmorph> <ety>[OE. <ets>dingen</ets>, <ets>dengen</ets>; akin to AS. <ets>dencgan</ets> to knock, Icel. <ets>dengja</ets> to beat, hammer, Sw. <ets>d<aum/nga</ets>, G. <ets>dengeln</ets>.]</ety> <sn>1.</sn> <def>To dash; to throw violently.</def> <mark>[Obs.]</mark><br/
+<hw>Ding</hw> <pr>(d<icr/ng)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Dinged</conjf> <pr>(?)</pr>, <conjf>Dang</conjf> (<mark>Obs.</mark>), or <conjf>Dung</conjf> (<mark>Obs.</mark>); <pos>p. pr. & vb. n.</pos> <conjf>Dinging</conjf>.]</vmorph> <ety>[OE. <ets>dingen</ets>, <ets>dengen</ets>; akin to AS. <ets>dencgan</ets> to knock, Icel. <ets>dengja</ets> to beat, hammer, Sw. <ets>d<aum/nga</ets>, G. <ets>dengeln</ets>.]</ety> <sn>1.</sn> <def>To dash; to throw violently.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To <qex>ding</qex> the book a coit's distance from him.</q> <rj><qau>Milton.</qau></rj><br/

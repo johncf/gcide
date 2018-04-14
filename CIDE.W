@@ -9759,7 +9759,7 @@ My most sweet <qex>wench</qex>, and gifts to boot.</q> <rj><qau>Chapman.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wend</ent><br/
-<hw>Wend</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Wended</conjf>, <mark>Obs</mark>. <conjf>Went</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Wending</conjf>.]</vmorph> <ety>[AS. <ets>wendan</ets> to turn, to go, caus. of <ets>windan</ets> to wind; akin to OS. <ets>wendian</ets>, OFries. <ets>wenda</ets>, D. <ets>wenden</ets> to turn, G. <ets>wenden</ets>, Icel. <ets>venda</ets>, Sw. <ets>v<aum/nda</ets>, Dan. <ets>vende</ets>, Goth. <ets>wandjan</ets>.  See <er>Wind</er> to turn, and cf. <er>Went</er>.]</ety><br/
+<hw>Wend</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Wended</conjf>, <mark>Obs.</mark> <conjf>Went</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Wending</conjf>.]</vmorph> <ety>[AS. <ets>wendan</ets> to turn, to go, caus. of <ets>windan</ets> to wind; akin to OS. <ets>wendian</ets>, OFries. <ets>wenda</ets>, D. <ets>wenden</ets> to turn, G. <ets>wenden</ets>, Icel. <ets>venda</ets>, Sw. <ets>v<aum/nda</ets>, Dan. <ets>vende</ets>, Goth. <ets>wandjan</ets>.  See <er>Wind</er> to turn, and cf. <er>Went</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To go; to pass; to betake one's self.</def>  <ldquo/To Canterbury they <xex>wend</xex>.<rdquo/  <rj><au>Chaucer.</au></rj><br/

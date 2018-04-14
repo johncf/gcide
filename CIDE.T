@@ -19016,7 +19016,7 @@ Are brought your eyes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tie</ent><br/
-<hw>Tie</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Tied</conjf> <pr>(?)</pr> (<mark>Obs</mark>. <conjf>Tight</conjf> <pr>(<?/)</pr>); <pos>p. pr. & vb. n.</pos> <conjf>Tying</conjf> <pr>(?)</pr>.]</vmorph> <ety>[OE. <ets>ti<?/en</ets>, <ets>teyen</ets>, AS. <ets>t<imac/gan</ets>, <ets>ti<eacute/gan</ets>, fr. <ets>te<aacute/g</ets>, <ets>te<aacute/h</ets>, a rope; akin to Icel. <ets>taug</ets>, and AS. <ets>te<oacute/n</ets> to draw, to pull. See <er>Tug</er>, <pos>v. t.</pos>, and cf. <er>Tow</er> to drag.]</ety> <sn>1.</sn> <def>To fasten with a band or cord and knot; to bind.</def> <ldquo/<xex>Tie</xex> the kine to the cart.<rdquo/  <rj><au>1 Sam. vi. 7.</au></rj><br/
+<hw>Tie</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Tied</conjf> <pr>(?)</pr> (<mark>Obs.</mark> <conjf>Tight</conjf> <pr>(<?/)</pr>); <pos>p. pr. & vb. n.</pos> <conjf>Tying</conjf> <pr>(?)</pr>.]</vmorph> <ety>[OE. <ets>ti<?/en</ets>, <ets>teyen</ets>, AS. <ets>t<imac/gan</ets>, <ets>ti<eacute/gan</ets>, fr. <ets>te<aacute/g</ets>, <ets>te<aacute/h</ets>, a rope; akin to Icel. <ets>taug</ets>, and AS. <ets>te<oacute/n</ets> to draw, to pull. See <er>Tug</er>, <pos>v. t.</pos>, and cf. <er>Tow</er> to drag.]</ety> <sn>1.</sn> <def>To fasten with a band or cord and knot; to bind.</def> <ldquo/<xex>Tie</xex> the kine to the cart.<rdquo/  <rj><au>1 Sam. vi. 7.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>My son, keep thy father's commandment, and forsake not the law of thy mother: bind them continually upon thine heart, and <qex>tie</qex> them about thy neck.</q> <rj><qau>Prov. vi. 20,21.</qau></rj><br/
