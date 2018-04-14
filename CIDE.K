@@ -667,7 +667,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Katastate</ent><br/
-<hw>Kat"a*state</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. (<?/) down + (<?/) to cause to stand.]</ety> <fld>(Physiol.)</fld>  <def>A substance formed by a catabolic process; -- opposed to <contr>anastate</contr>. See <er>catabolic</er>.</def><br/
+<hw>Kat"a*state</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ down + <?/ to cause to stand.]</ety> <fld>(Physiol.)</fld>  <def>A substance formed by a catabolic process; -- opposed to <contr>anastate</contr>. See <er>catabolic</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kate</ent><br/
@@ -3303,7 +3303,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinematics</ent><br/
-<hw>Kin`e*mat"ics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. (<?/),(<?/) motion, fr. <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>The science which treats of motions considered in themselves, or apart from their causes; the comparison and relation of motions.</def><br/
+<hw>Kin`e*mat"ics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, <?/ motion, fr. <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>The science which treats of motions considered in themselves, or apart from their causes; the comparison and relation of motions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Kinematics forms properly an introduction to mechanics, as involving the mathematical principles which are to be applied to its data of forces.</note>  <rj><au>Nichol.</au></rj><br/
@@ -3316,7 +3316,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinesiatrics</ent><br/
-<hw>Kin`e*si*at"rics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. (<?/) motion (fr. <grk>kinei^n</grk> to move) + (<?/) pertaining to medicine, fr. (<?/) a physician.]</ety> <fld>(Med.)</fld> <def>A mode of treating disease by appropriate muscular movements; -- also termed <altname>kinesitherapy</altname>, <altname>kinesipathy</altname>, <altname>lingism</altname>, and the <altname>movement cure</altname>.</def><br/
+<hw>Kin`e*si*at"rics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ motion (fr. <grk>kinei^n</grk> to move) + <?/ pertaining to medicine, fr. <?/ a physician.]</ety> <fld>(Med.)</fld> <def>A mode of treating disease by appropriate muscular movements; -- also termed <altname>kinesitherapy</altname>, <altname>kinesipathy</altname>, <altname>lingism</altname>, and the <altname>movement cure</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinesipathy</ent><br/

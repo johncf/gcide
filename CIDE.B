@@ -35254,7 +35254,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brachelytra</ent><br/
-\'d8<hw>Brach*el"y*tra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. (<?/) short + <?/ a covering.]</ety> <fld>(Zool.)</fld> <def>A group of beetles having short elytra, as the rove beetles.</def><br/
+\'d8<hw>Brach*el"y*tra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ short + <?/ a covering.]</ety> <fld>(Zool.)</fld> <def>A group of beetles having short elytra, as the rove beetles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>brache</ent><br/

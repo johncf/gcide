@@ -1631,7 +1631,7 @@ Saying, he'll <qex>lade</qex> it dry to have his way.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ladrone</ent><br/
-<hw>La*drone"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>ladron</ets>, L. <ets>latro</ets> servant, robber, Gr. (<?/) a servant.]</ety> <def>A robber; a pirate; hence, loosely, a rogue or rascal.</def><br/
+<hw>La*drone"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>ladron</ets>, L. <ets>latro</ets> servant, robber, Gr. <?/ a servant.]</ety> <def>A robber; a pirate; hence, loosely, a rogue or rascal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lady</ent><br/
@@ -2976,7 +2976,7 @@ And grieved to find herself decayed so soon.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lampyris</ent><br/
-\'d8<hw>Lam*py"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glowworm, Gr. (<?/).]</ety> <fld>(Zool.)</fld> <def>A genus of coleopterous insects, including the glowworms.</def><br/
+\'d8<hw>Lam*py"ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., glowworm, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of coleopterous insects, including the glowworms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>LAN</ent><br/
@@ -4671,7 +4671,7 @@ Victorious by his benefit.</q> <rj><qau>Lovelace.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Larceny</ent><br/
-<hw>Lar"ce*ny</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Larcenies</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>larcin</ets>, OE. <ets>larrecin</ets>, L. <ets>latrocinium</ets>, fr. <ets>latro</ets> robber, mercenary, hired servant; cf. Gr. (<?/) hired servant.  Cf. <er>Latrociny</er>.]</ety> <fld>(Law)</fld> <def>The unlawful taking and carrying away of things personal with intent to deprive the right owner of the same; theft.  Cf. <er>Embezzlement</er>.</def><br/
+<hw>Lar"ce*ny</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Larcenies</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>larcin</ets>, OE. <ets>larrecin</ets>, L. <ets>latrocinium</ets>, fr. <ets>latro</ets> robber, mercenary, hired servant; cf. Gr. <?/ hired servant.  Cf. <er>Latrociny</er>.]</ety> <fld>(Law)</fld> <def>The unlawful taking and carrying away of things personal with intent to deprive the right owner of the same; theft.  Cf. <er>Embezzlement</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Grand larceny</b></col> <and/ <col><b>Petit larceny are</b></col></mcol> <cd>distinctions having reference to the nature or value of the property stolen. They are abolished in England.</cd> -- <mcol><col><b>Mixed larceny</b></col>, <it>or</it>  <col><b>Compound larceny</b></col></mcol>, <cd>that which, under statute, includes in it the aggravation of a taking from a building or the person.</cd> -- <col><b>Simple larceny</b></col>, <cd>that which is not accompanied with any aggravating circumstances.</cd></cs><br/
@@ -4686,7 +4686,7 @@ Victorious by his benefit.</q> <rj><qau>Lovelace.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lard</ent><br/
-<hw>Lard</hw> <pr>(l<aum/rd)</pr>, <pos>n.</pos> <ety>[F., bacon, pig's fat, L. <ets>lardum</ets>, <ets>laridum</ets>; cf. Gr. (<?/) fattened, fat.]</ety> <sn>1.</sn> <def>Bacon; the flesh of swine.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj><br/
+<hw>Lard</hw> <pr>(l<aum/rd)</pr>, <pos>n.</pos> <ety>[F., bacon, pig's fat, L. <ets>lardum</ets>, <ets>laridum</ets>; cf. Gr. <?/ fattened, fat.]</ety> <sn>1.</sn> <def>Bacon; the flesh of swine.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The fat of swine, esp. the internal fat of the abdomen; also, this fat melted and strained.</def><br/
@@ -5103,7 +5103,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngophony</ent><br/
-<hw>Lar`yn*goph"o*ny</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Larynx</ets> + Gr. (<?/) voice.]</ety> <def>The sound of the voice as heard through a stethoscope when the latter is placed upon the larynx.</def><br/
+<hw>Lar`yn*goph"o*ny</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Larynx</ets> + Gr. <?/ voice.]</ety> <def>The sound of the voice as heard through a stethoscope when the latter is placed upon the larynx.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngoscope</ent><br/
@@ -5130,7 +5130,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngotomy</ent><br/
-<hw>Lar`yn*got"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. (<?/); (<?/), (<?/), the larynx + <grk>te`mnein</grk> to cut: cf. F. <ets>laryngotomie</ets>.]</ety> <fld>(Surg.)</fld> <def>The operation of cutting into the larynx, from the outside of the neck, for assisting respiration when obstructed, or for removing foreign bodies.</def><br/
+<hw>Lar`yn*got"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <?/, <?/, the larynx + <grk>te`mnein</grk> to cut: cf. F. <ets>laryngotomie</ets>.]</ety> <fld>(Surg.)</fld> <def>The operation of cutting into the larynx, from the outside of the neck, for assisting respiration when obstructed, or for removing foreign bodies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laryngotracheal</ent><br/
@@ -6676,7 +6676,7 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laura</ent><br/
-<hw>Lau"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. Gr. (<?/) lane, defile, also, a kind of monastery.]</ety> <fld>(R. C. Ch.)</fld> <def>A number of hermitages or cells in the same neighborhood occupied by anchorites who were under the same superior.</def>  <rj><au>C. Kingsley.</au></rj><br/
+<hw>Lau"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. Gr. <?/ lane, defile, also, a kind of monastery.]</ety> <fld>(R. C. Ch.)</fld> <def>A number of hermitages or cells in the same neighborhood occupied by anchorites who were under the same superior.</def>  <rj><au>C. Kingsley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lauraceous</ent><br/
