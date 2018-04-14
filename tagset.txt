@@ -69,12 +69,12 @@ distinguish a word from the body of the text, and no explicit functional tag
 seemed apropriate.
 
 -------------------------------------------------------------------------
-Tag           Font         Description 
+Tag           Font         Description
 -------------------------------------------------------------------------
 <plain>       plain font   that used in the body of a definition -- normally
                            not marked, except within fields of a different
                            front.
-			   
+
 <it>          italic       in master files
 
 <i>           italic       for use in HTML presentation
@@ -84,104 +84,89 @@ Tag           Font         Description
 <b>           bold         for use in HTML presentation
 
 <colf>        bold,        Collocation font.  Same font as used in
-                           collocations. 
-              smaller      This is used only in the list of "un-"
-	      by 1 point   words not actually defined in the
-			   dictionary. 
-	                   Probably could be replaced by a segment mark
-			   for the entire list!  The "un-" words should
-			   be indexed as headwords.
-			   
-<ct>          bold         Same as <colf>, a font similar to that used 
-                           in collocations.  However, this tag is used
-			   in a table and could be set to a different
-			   font.
-			   
-<h1>          *            HTML tag -- largest heading font.
+                           collocations.
+              smaller      This is used only in the list of "un-" words
+              by 1 point   not actually defined in the dictionary.
+                           Probably could be replaced by a segment mark
+                           for the entire list!  The "un-" words should
+                           be indexed as headwords.
+
+<ct>          bold         Same as <colf>, a font similar to that used in
+                           collocations.  However, this tag is used in a
+                           table and could be set to a different font.
+
+<h1>          *            HTML tag -- largest heading font. (not used)
 
 <h2>          *            HTML tag -- second largest heading font.
+                           (used thrice)
 
-<headrow>     *            Marks a Row title in a table.
+<headrow>     *            Marks a Row title in a table. (only once)
 
 <hwf>                      Font the same as the headword <hw>, though
-                           the field is not a headword.  Used only
-			   once.
-			   
+                           the field is not a headword. (only once)
+
 <mitem>       *            Multiple items, a set of items in a table.
-<point ...>                A series of point size markers, many
-                           unique.
-			   
-<point1.5>    *            One of the tags of the form <point**> where **
-<point6>                   represents the typographic point size of the 
+
+<point ...>   *            A series of point size markers, many unique.
+<point1.5>                 One of the tags of the form <point**> where **
+<point6>                   represents the typographic point size of the
                            enclosed text.
-			   
+
 <pre>                      An HTML tag indicating that the enclosed
                            text is of teletype form, preformatted in a
                            uniform-spaced font.
-			   
+
 <sc>          small caps   used mostly for "a. d.",  "b. c."
                            This is the same font as in <er>, but has no
                            functional or semantic significance.
-			   
+
 <str>                      group of table data elements in a table.
+                           (only once)
 
 <sub>         subscript
 
 <subs>        subscript
 
+<sup>         superscript
+
 <sups>        superscript
 
 <supr>        superscript
 
-<sansserif>   Sans-serif
+<sansserif>   Sans-serif   (used once)
 
 <stypec>      Bold         collocation font, and also a subtype.
+                           (used once; repeating in grass)
 
-<tt>                       HTML tage -- teletype font
+<tt>                       HTML tag -- teletype font (mostly with <pre>)
 
 <universbold>              A squared bold font without serifs approximating
                            the "universe bold" font on the HP Laserjet4,
                            slightly larger than the capitals in a definition
                            body.  Used in expositions describing shapes,
                            such as "Y", "T", "U", "X", "V", "F".
-			   
-<vertical>                 Vertically organized column.
 
-<column1>                  Vertically organized column -- only part of a table
-                           which needs to be completed.  Used once.
-			   
+<vertical>                 Vertically organized column. (used once)
+
+<column1>                  Vertically organized column -- only part of a
+                           table which needs to be completed. (used once)
+
 <...type>                  A series of tags, many unique, designating
                            certain unusual fonts, such as "bourgeoistype"
                            for "bourgeois type", in the section on
                            typography.  Most of these occur only once, in
                            the section on fonts.  Some examples follow:
-<antiquetype>
-<blacklettertype>
-<boldfacetype>
-<bourgeoistype>
-<boxtype>
-<clarendontype>
-<englishtype>
-<extendedtype>
-<frenchelzevirtype>
-<germantype>
-<gothictype>
-<greatprimertype>
-<longprimertype>
-<miniontype>
-<nonpareiltype>
-<oldenglishtype>
-<oldstyletype>
-<pearltype>
-<picatype>
-<scripttype>
-<smpicatype>
-<typewritertype>
+<antiquetype>       <blacklettertype> <boldfacetype>  <bourgeoistype>
+<boxtype>           <clarendontype>   <englishtype>   <extendedtype>
+<frenchelzevirtype> <germantype>      <gothictype>    <greatprimertype>
+<longprimertype>    <miniontype>      <nonpareiltype> <oldenglishtype>
+<oldstyletype>      <pearltype>       <picatype>      <scripttype>
+<smpicatype>        <typewritertype>
 
 * Tags with semantic content:
 
 -------------------------------------------------------------------------
-Tag           Font         Meaning and Description 
+Tag           Font         Meaning and Description
 -------------------------------------------------------------------------
 <altsp>       *            Alternative spelling segment.  Almost always
                            contained within square brackets after the main
@@ -189,7 +174,7 @@ Tag           Font         Meaning and Description
                            "Spelled also" are in plain font; the actual
                            alternative spelling is marked by <asp> ...
                            </asp> tags within this segment.
-			   
+
 <ant>         italic       Antonym.
 
 <asp>         italic       Alternative spelling.  The actual word which is
@@ -213,7 +198,7 @@ Tag           Font         Meaning and Description
                            is typically right-justified, almost always
                            fitting on the same line with the last line of
                            the definition or quotation.
-			   
+
                            Within collocation segments, it is usually used
                            only after quotations, and is not
                            right-justified, except occasionally where it
@@ -234,7 +219,7 @@ Tag           Font         Meaning and Description
                            document.
 
 <branchof>    *            A field of knowledge which of which the headword
-                           is a division.
+                           is a division. (used twice)
 
 <caption>     *            Caption of a figure or table.
 
@@ -245,14 +230,15 @@ Tag           Font         Meaning and Description
                            headword.  Implied type of the agent is a
                            microorganism, and the tag must mark a disease.
 
-<causesp>     *            Same as <causes> without the italic type.
-<causedbyp>   *            Same as <causedby> without the italic type.
+<causesp>     *            Same as <causes> without the italic type. (not used)
 
 <causedby>    italic       inverse of <causes>: tags the causative agent of
                            an infectious disease, which is the headword.
                            The tag must mark a microorganism, virus, or
                            prion, and the implied type of the headword is a
                            disease.
+
+<causedbyp>   *            Same as <causedby> without the italic type. (used once)
 
 <centered>                 Used only for the single letter in the headers to
                            each letter of the alphabet.
@@ -263,25 +249,27 @@ Tag           Font         Meaning and Description
 <cnvto>       italic       Converted to: used to tag substances which are
                            products prepared by conversion from the
                            headword.  Usually chemicals or complex products
-                           from natuarl materials.  Rarely used up to 1998.
+                           from natuarl materials. (used thrice)
 
 <colheads>    *            List of heads for the columns of a table.
+                           (used once)
 
-<coltitle>    *            Title of a column in a table.
+<coltitle>    *            Title of a column in a table. (used once)
 
 <comm>        *            Comment -- differs from <note> in being in-line
                            with the definition paragraph.  Provides a little
-                           additional information.
+                           additional information. (used once)
 
 <company>     *            Name of a company (commercial firm).  Compare
-                           <org>. 
+                           <org>.
 
 <compof>      italic       Composed of.  Tags a substance of which the
                            headword is at least partly composed.  The
                            substance may be particulate, such as diatoms
-                           composing diatomaceous earth.
+                           composing diatomaceous earth. (used thrice)
 
 <contains>    *            marks an object contained within the headword.
+                           (used once)
 
 <contr>       italic       Contrasting word.  Not exactly an antonym, which
                            is marked <ant>, but a contrasting word which is
@@ -297,8 +285,10 @@ Tag           Font         Meaning and Description
                            buttons to access that entry.
 
 <date>        *            A Date, of any type, e.g. <date>Dec. 25</date>.
+                           (used only in CIDE.N)
 
 <datey>       *            Date-with-year tags a date containing a year.
+                           (used twice)
 
 <def>         *            A definition.  The definition may have subfields,
                            particularly <as> (an illustrative phrase
@@ -324,17 +314,17 @@ Tag           Font         Meaning and Description
 <divof>       *            Division of the headword, usually an
                            organization.  E. g. a faculty or department of a
                            university, or a United Nations agency.
+                           (used once)
 
 <edi>         *            Marks an education institution, a subtype of
-                           organization.
+                           organization. (used once)
 
 <emits>       *            Tags a physical object or form of radiation
-                           emitted by the headword.
+                           emitted by the headword. (used once)
 
-<figure>                   Just a place-holder for illustrations, but seldom
-                           used.
+<figure>                   Just a place-holder for illustrations. (used once)
 
-<film>        italic       Marks the name of a movie film.
+<film>        italic       Marks the name of a movie film. (used thrice)
 
 <fld>         italic       Field of specialization.  Most often used for
                            Zoology and Botany, but many "fields of
@@ -349,55 +339,56 @@ Tag           Font         Meaning and Description
 <hypen>       *            Hyperym.  Points to the hypernym from WordNet 1.5
                            Initially, used only for entries extracted from
                            WordNet 1.5.  Not present in the original 1913
-                           version.
-                                           
+                           version. (used 4 times, only in CIDE.A)
+
 <illu>        *            Illustrative usage -- mostly from WordNet, and
                            placed outside the definition, in contrast to
                            <as> usage.  These should be converted to
                            <as>...</as> illustrative usage format for
                            consistency.
 
-<illust>      *            Illustration place-holder.  Seldom used.
+<illust>      *            Illustration place-holder. (used 4 times)
 
 <img>         *            HTML usage -- points to an image file, usually
                            .gif or .jpg.  These have no closing tag, and
-                           will appear as errors in parsing.
-			   
+                           will appear as errors in parsing. (used twice)
+
 <intensi>     *            Points to a word whose meaning is an intensified
                            form of the headword. Taken from WordNet tags,
-                           used with some adjectives from WordNet.
-			   
+                           used with some adjectives from WordNet. (used once)
+
 <item>        *            Designates one item in a row of a table.  Used
                            only when intervening spaces do not serve
-                           properly as natural field separaters.
-			   
+                           properly as natural field separaters. (used twice)
+
 <itran>       italic       Translation into a foreign (non-English) language
                            of the previous word in the text -- italic font.
                            (<sig> is a translation into English)
-			   
-<itrans>      italic       Same as <itran>
+                           (used twice)
 
-<jour>        *            Title of a journal (periodical).
+<itrans>      italic       Same as <itran> (used twice)
 
-<matrix>      *            Always a filled rectangular array.
+<jour>        *            Title of a journal (periodical). (used once)
 
-<matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns).
+<matrix>      *            Always a filled rectangular array. (used twice)
+
+<matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns). (used once)
 
 <mstypec>     *            Multiple synonymous subtypes -- used in def. of
-                           "grass".
-			   
-<mtable>      *            Multiple table, encloses <table> figures.
+                           "grass". (used 4 times)
+
+<mtable>      *            Multiple table, encloses <table> figures. (used once)
 
 <musfig>      *            Music figure.  Only in a note under the entry
                            "Figure", the two numbers of each such field are
                            bold, 20 point type, stacked as in a fraction
                            with a bar between them, but also having a
                            horizontal stroke midway through each
-                           numeral. Unique to this entry.
-			   
+                           numeral. Unique to this entry. (used once)
+
 <p>           *            Paragraph tag, used always in pairs.  Line breaks
                            may be embedded inside the paragraphs.
-			   
+
 <person>      *            Marks the proper name of a person.  Used only
                            occasionally, but should be used more frequently
                            for cases where first names are abbreviated, to
@@ -411,25 +402,26 @@ Tag           Font         Meaning and Description
 
 <publ>        *            Marks the name of a publication other than book,
                            which is marked by <booki>.  It is often a
-                           magazine or journal.
-			   
+                           magazine or journal. (used 5 times)
+
 <qpers>       *            Tags the name of a person who is speaking, within
-                           a quotation.
-			   
-<qperson>                  Same as <qpers>
+                           a quotation. (used twice)
+
+<qperson>                  Same as <qpers> (used 4 times)
 
 <cp>          *            Collocation, plain text -- used to tag phrases
                            that should be parsed as a unit, but has no
-                           typographical significance.
-			   
+                           typographical significance. (used once)
+
 <qau>         italic       Always right-justified, as described for <au>.
 
-<ref>         *            A reference to a word in the vocabulary.
+<ref>         *            A reference to a word in the vocabulary. (used once)
 
 <refs>        *            Marks the set of references used for a longer
-                           article such as a biography.
-			   
+                           article such as a biography. (used once)
+
 <river>       *            Marks the name of a river -- a proper name.
+                           (used once)
 
 <rj>          *            Right justified.
 
@@ -438,8 +430,8 @@ Tag           Font         Meaning and Description
 <state>       *            Name of a geopolitical state, the first
                            subdivision of a country. Includes, e.g. Canadian
                            provinces.
-			   
-<subtypes>    *            Lists subtypes of the headword.
+
+<subtypes>    *            Lists subtypes of the headword. (used twice)
 
 <sup>         *            Superscript
 
@@ -447,17 +439,17 @@ Tag           Font         Meaning and Description
                            stacked, one over the other, *without* a
                            horizontal bar between (as in a fraction).  Used
                            only in one entry, for a musical notation.
-			   
+
 <table>       *            Always a filled rectangular array, having <row>
                            and <item> elements.
-			   
-<td>          *            Table datum - one cell in a table.
 
-<th>          *            Table header.
+<td>          *            Table datum - one cell in a table. (used twice)
 
-<tradename>   *            Tags a commercial Trade name.
+<th>          *            Table header. (used once)
 
-<ttitle>      *            Table title (Larger than normal font).
+<tradename>   *            Tags a commercial Trade name. (used once)
+
+<ttitle>      *            Table title. (used once)
 ====================================================================
 
 * Functional Tags
@@ -465,7 +457,7 @@ Tag           Font         Meaning and Description
 In the table below, font size comparatives are relative to the plain font.
 
 -------------------------------------------------------------------------
-Tag           Font         Meaning and Description 
+Tag           Font         Meaning and Description
 -------------------------------------------------------------------------
 <--    -->    *            Comment, not a tag.  These segments should be
                            deleted from the written or printed text.  Page
@@ -473,7 +465,7 @@ Tag           Font         Meaning and Description
                            such comments; these may be left in, if desired.
 
 <!   !>       *            A comment.  Used to indicate page numbers in the
-                           public domain version.
+                           public domain version.  (not in CIDE.* files)
 
 <abbr>        italic       Tag for abbreviations, when mentioned within the
                            definition text.
@@ -485,11 +477,12 @@ Tag           Font         Meaning and Description
 <altname>     italic       Alternative name.  Usually for plants or animals,
                            but also used for other cases where words are
                            introduced by "also called", "called also",
-                           "formerly called".  These are
-                           functionally *synonyms* for that word-sense.
+                           "formerly called".  These are functionally
+                           *synonyms* for that word-sense.
 
 <altnpluf>    italic       Same as <altname>, but the marked word is a
                            plural form, whereas the headword is singular.
+                           (used once, in CIDE.P)
 
 <amorph>      *            Adjective morphological segment, primarily the
                            comparative and superlative forms.  The
@@ -501,11 +494,11 @@ Tag           Font         Meaning and Description
                            headword.  Not conceptually a part of the actual
                            definition.
 
-<cd>          smaller      Collocation definition.  Similar in structure to 
-              spacing      headword definitions (the <def> field).  May     
-                           contain an <as> field.  Plain type, but with     
-                           closer spacing than main definitions.            
-                           
+<cd>          smaller      Collocation definition.  Similar in structure to
+              spacing      headword definitions (the <def> field).  May
+                           contain an <as> field.  Plain type, but with
+                           closer spacing than main definitions.
+
 
 <col>         bold,        Collocation.  A word combination containing the
               smaller by   headword (or a morphological derivative).
@@ -515,7 +508,7 @@ Tag           Font         Meaning and Description
 
 <colp>                     Collocation, no typographic significance.  Used
                            to mark a word combination defined in the
-                           dictionary without affect on font.
+                           dictionary without affect on font. (not used)
 
 <conjf>       small caps   The conjugated (non-infinitive) forms of verbs.
                            imp. & p. p. is common, as well as p. pr. &
@@ -528,7 +521,7 @@ Tag           Font         Meaning and Description
               spacing      (0.9 mm between lower-case letters, rather than
                            1.1 mm in the main body of the definition).  For
                            an on-line dictionary, reproducing this
-                           typography is probably pointless.
+                           typography is probably pointless. (multi-para)
 
 <decf>        small caps   Declension form. The actual morphological
                            variants of nouns or pronouns.  Should be
@@ -603,7 +596,7 @@ Tag           Font         Meaning and Description
                            transliterated using roman letters.  See
                            chapter "Greek transliteration" in file
                            "webfont.txt"
-			   
+
 <hw>          bold,        A headword.  Each main entry begins with the <hw>
               larger by    mark, and ends at the next <hw> mark.  The main
               2 points     entries are not otherwise explicitly marked as a
@@ -663,7 +656,7 @@ Tag           Font         Meaning and Description
                            paragraph.  Typographically, the notes following
                            the main definition may not be distinguishable
                            from additional sentences appended to the first
-                           sentence of a definition.
+                           sentence of a definition. (multi-para)
 
 <plu>         *            Plural.  The "plural" segment starts with a "pl."
                            which is italicised, but in this segment is not
@@ -696,7 +689,7 @@ Tag           Font         Meaning and Description
                            pronunciations there is a numbered reference to a
                            root form explained in an introductory section on
                            pronunciation.
-			   
+
                            Very few of the pronunciation fields have been
                            filled in.  The pronunciation markings use a more
                            complicated method than more modern dictionaries.
@@ -825,6 +818,7 @@ Tag           Font         Meaning and Description
                           subscript.  Used in place of <chform> when the
                           formula has a tag inside, which cannot now be
                           processed by the <chform> processing routine.
+                          (not used)
 
 <chname>      *           Chemical name.  Used to allow a IUPAC chemical
                           name to be processed as a unit in spite of
@@ -832,7 +826,7 @@ Tag           Font         Meaning and Description
 
 <see>         *           A "see" reference to related words, outside of the
                           main <def>definition</def> field.
-                  
+
 <mathex>      italic      Mathematical expression.  In this dictionary,
                           essentially all letters (used as variable labels)
                           in math expressions are in italic font.  The "+"
@@ -865,7 +859,7 @@ Tag           Font         Meaning and Description
               smaller font.
 
 <xlati>       italic       Translation (e.g. of Greek), in the body of a
-                           definition or etymology.  Used only twice.
+                           definition or etymology.  (used twice)
 
 <tran>        italic       Word translated: the word in italic is translated
                            by a subsequent word. Usually in etymologies,
@@ -888,7 +882,7 @@ Tag           Font         Meaning and Description
 
 <figtitle>    *            Figure title.
 
-<funct>       *            Tags a mathematical function or expression.
+<funct>       *            Tags a mathematical function. (not used)
 
 <chreact>     *            Chemical reaction.  Similar to chemical formulas
                            (which are contained but not explicitly marked),
@@ -897,7 +891,7 @@ Tag           Font         Meaning and Description
 <ptcl>        italic       Verb Particle.  Only a few particles were actually
                            marked, but in a future version more may be.
 
-<tabtitle>                 Table Title.  Used only once.
+<tabtitle>                 Table Title.  (used once)
 
 <title>       italic       Title of a literary work, movie, opera, musical
                            composition, etc.  Used rarely but should be used
@@ -913,11 +907,11 @@ Tag           Font         Meaning and Description
 
 <vinc>        *            Vinculum.  In a mathematical expression, a bar
                            extending over the expression within the field.
-                           Used only once.  This apparently serves the same
-                           function as a parentheses, of causing the
-                           expression within the field to be evaluated and
-                           the result used as the (mathematical) value of
-                           the field.
+                           This apparently serves the same function as a
+                           parentheses, of causing the expression within
+                           the field to be evaluated and the result used
+                           as the (mathematical) value of the field.
+                           (used once)
 
 <nul>         plain        Nultype.  An older version of <plain>.
 
@@ -995,7 +989,7 @@ or                         which is a consequence of possessing the headword
 
 <corpn>       *            Name of a business company, corporation, or
                            partnership.  Started using November 1988. Rare.
- 
+
 <corr>        italic       Correlative.  A word intimately associated with
                            the headword in a manner such that one cannot
                            appear without the other.  Not exactly an
@@ -1037,14 +1031,14 @@ or                         which is a consequence of possessing the headword
 <methodfor>   italic       Is a method to accomplish the action defined by
                            the headword.  Rarely used, and only in the
                            supplemental section.
-			   
+
 <examp>       italic       Example or instance of the headword, where the
                            tagged and emphasized word is not a proper
                            subtype.
 
 <sfield>      *            Subfield of the headword, which must be a field
                            of study or of knowledge.
-			   
+
 <stage>       italic       A stage of life of the headword -- for living
                            things, such as insects, whose life stages may
                            take different names.
@@ -1091,7 +1085,7 @@ or                         which is a consequence of possessing the headword
 * Biological classifications
 
 -------------------------------------------------------------------------
-Tag           Font         Meaning and Description 
+Tag           Font         Meaning and Description
 -------------------------------------------------------------------------
 <spn>         italic       Species name.  Used to mark the taxonomic names
                            of living things which are represented in italic
