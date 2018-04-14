@@ -4435,4 +4435,3 @@ With mended morals, <qex>quotha</qex>, -- fine new lives !</q> <rj><qau>Mrs. Bro
 <hw>Qu*ran"</hw> <pr>(k<usdot/*r<aum/n")</pr>, <pos>n.</pos> <def>See <er>Koran</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<-- Q ends and R begins in the middle of page 1181 -->

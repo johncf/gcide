@@ -13877,7 +13877,6 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Theriacal</ent><br/
 <ent>Theriac</ent><br/
-
 <mhw>{ <hw>The"ri*ac</hw> <pr>(?)</pr>, <hw>The*ri"a*cal</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>th<eacute/riacal</ets>.]</ety> <def>Of or pertaining to theriac; medicinal.</def> <ldquo/<xex>Theriacal</xex> herbs.<rdquo/  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -27492,7 +27491,6 @@ Leaving no <qex>tract</qex> behind.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tractile</ent><br/
-
 <hw>Tract"ile</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>trahere</ets>, <ets>tractum</ets>, to draw.]</ety> <def>Capable of being drawn out in length; ductile.</def>  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -36127,7 +36125,6 @@ And broken beaks of ships, the <qex>trophies</qex> of their wars.</q> <rj><qau>D
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tropic</ent><br/
-
 <hw>Trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Atrop</ets>ine + <ets>-ic</ets>.]</ety> <fld>(Chem.)</fld> <def>Of, pertaining to, or designating, an acid obtained from atropine and certain other alkaloids, as a white crystalline substance slightly soluble in water.</def><br/
 [<source>1913 Webster</source>]</p>
 

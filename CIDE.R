@@ -37144,8 +37144,6 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ru"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Russ. <ets>ruble</ets>.]</ety> <def>The unit of monetary value in Russia. <-- and, 1917-1992, in the Soviet Union --> It is divided into 100 copecks, and in the gold coin of the realm (as in the five and ten ruble pieces) is worth about 77 cents. The silver ruble is a coin worth about 60 cents.</def> <altsp>[Written also <asp>rouble</asp>.]</altsp><-- After the severe inflation of 1992-1996, the ruble is now exchanged at 5000 rubles to the dollar.  The Kopeck is no longer minted or used in trade, the smallest coin (1996) being the ruble. --><br/
 [<source>1913 Webster</source>]</p>
 
-<-- ##?? rubout -->
-
 <p><ent>Rubric</ent><br/
 <hw>Ru"bric</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>rubriche</ets>, OF. <ets>rubriche</ets>, F. <ets>rubrique</ets> ( cf. it. <ets>rubrica</ets>), fr. L. <ets>rubrica</ets> red earth for coloring, red chalk, the title of a law (because written in red), fr. <ets>ruber</ets> red. See <er>red</er>.]</ety> <def>That part of any work in the early manuscripts and typography which was colored red, to distinguish it from other portions.</def> Hence, specifically: <sd>(a)</sd> <def>A titlepage, or part of it, especially that giving the date and place of printing; also, the initial letters, etc., when printed in red.</def> <sd>(b)</sd> <fld>(Law books)</fld> <def>The title of a statute; -- so called as being anciently written in red letters.</def> <au>Bell.</au> <sd>(c)</sd> <fld>(Liturgies)</fld> <def>The directions and rules for the conduct of service, formerly written or printed in red; hence, also, an ecclesiastical or episcopal injunction; -- usually in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -39834,8 +39832,6 @@ That teach the <qex>rustic</qex> moralist to die.</q> <rj><qau>Gray.</qau></rj><
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>Rustic work.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<-- headword error in Rusticity.   PCP -->  <-- previous reader's additions at Rustle, Rustler, Rusty, in a Rut, Rutinose, Rytina  need reformatting if used.   I did this for Russian Roulette, but not others.  PCP -->
 
 <p><ent>Rusticity</ent><br/
 <hw>Rus*tic"ity</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rusticitas</ets>: cf. F. <ets>rusticit<eacute/</ets>.]</ety> <def>The quality or state of being rustic; rustic manners; rudeness; simplicity; artlessness.</def><br/

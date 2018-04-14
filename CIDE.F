@@ -13138,7 +13138,6 @@ You would be <qex>fingering</qex> them to anger me.</q> <rj><qau>Shak.</qau></rj
 <syn><b>Syn. --</b> fingerboard.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<-- ##?? see list of collocations beginning with "finger" -->
 <p><ent>Fingerprint</ent><br/
 <hw>Fin"ger*print</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Finger</ets> + <ets>print</ets>.]</ety> <sn>1.</sn> <def>an impression of the pattern of ridges on the skin of the last joint of a person's finger, left on a surface after a person has touched the surface.</def>  <note><ex>Fingerprints</ex> left by persons who have committed crimes are considered as reliable <isa>physical evidence</isa> linking an individual with a crime, because each person's fingerprints are distinctively different from those of others, allowing identification of a person with high confidence.</note> <br/
 [<source>PJC</source>]</p>
@@ -14414,9 +14413,10 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 <hw>Fish"y</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Consisting of fish; fishlike; having the qualities or taste of fish; abounding in fish.</def>  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Extravagant, like some stories about catching fish; improbable; also, rank or foul.</def> <mark>[Colloq.]</mark>
+<p><sn>2.</sn> <def>Extravagant, like some stories about catching fish; improbable; also, rank or foul.</def> <mark>[Colloq.]</mark><br/
+[<source>1913 Webster</source>]</p>
 
-<--3. creating suspicion that the surface appearances are misleading --><br/
+<p><-- 3. creating suspicion that the surface appearances are misleading --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fisk</ent><br/

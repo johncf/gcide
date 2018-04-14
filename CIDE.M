@@ -2925,10 +2925,11 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahatma</ent><br/
-<hw>Ma*hat"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>mah<amac/tman</ets>, lit., great-souled, wise.]</ety> <fld>(Theosophy)</fld> <def>One of a class of sages, or <ldquo/adepts,<rdquo/ reputed to have knowledge and powers of a higher order than those of ordinary men.</def>
+<hw>Ma*hat"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>mah<amac/tman</ets>, lit., great-souled, wise.]</ety> <fld>(Theosophy)</fld> <def>One of a class of sages, or <ldquo/adepts,<rdquo/ reputed to have knowledge and powers of a higher order than those of ordinary men.</def> -- <wordforms><wf>Ma*hat"ma*ism</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
-<note>The title was popularly applied to <person>Mohandas Karamchand Gandhi</person> in tribute to his wisdom, though not implying any supernatural powers; he is thus often referred to as <person>Mahatma Ghandi</person> or <person>The Mahatma</person>.  He was most noted for his advocacy of non-violence in resisting oppression, and played an important role in convincing Great Britain to grant independence to India and Pakistan.</note> -- <wordforms><wf>Ma*hat"ma*ism</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+<p><note>The title was popularly applied to <person>Mohandas Karamchand Gandhi</person> in tribute to his wisdom, though not implying any supernatural powers; he is thus often referred to as <person>Mahatma Ghandi</person> or <person>The Mahatma</person>.  He was most noted for his advocacy of non-violence in resisting oppression, and played an important role in convincing Great Britain to grant independence to India and Pakistan.</note><br/
+[<source>PJC</source>]</p>
 
 <p><ent>Mahatma Ghandi</ent><br/
 <hw>Ma*hat"ma Ghandi</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <def>See the note under <er>mahatma</er>.</def><br/

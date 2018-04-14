@@ -11817,7 +11817,6 @@ Smiles with gay fruits or with <qex>delightful</qex> green.</q> <rj><qau>Addison
 <p><ent>Deliquesce</ent><br/
 <hw>Del`i*quesce"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Deliquesced</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Deliquescing</conjf>.]</vmorph> <ety>[L. <ets>deliquescere</ets> to melt, dissolve; <ets>de-</ets> + <ets>liquescere</ets> to become fluid, melt, fr. <ets>liquere</ets> to be fluid. See <er>Liquid</er>.]</ety> <fld>(Chem.)</fld> <def>To dissolve gradually and become liquid by attracting and absorbing moisture from the air, as certain salts, acids, and alkalies.</def></p>
 
-<-- Unexpected spelling of "alkalis", but not wrong. PCP -->
 <p><q>In very moist air crystals of strontites <qex>deliquesce</qex>.</q> <rj><qau>Black.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -25937,7 +25936,6 @@ In military honor next.</q> <rj><qau>Philips.</qau></rj><br/
 <mhw>{ <hw>Dim"mish</hw> <pr>(?)</pr>, <hw>Dim"my</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Somewhat dim; <as>as, <ex>dimmish</ex> eyes</as>.</def> <ldquo/<xex>Dimmy</xex> clouds.<rdquo/  <rj><au>Sir P. Sidney.</au></rj></p>
 
 <p><ent>Dimness</ent><br/
-
 <hw>Dim"ness</hw>, <pos>n.</pos> <ety>[AS. <ets>dimness</ets>.]</ety> <sn>1.</sn> <def>The state or quality <?/ being dim; lack of brightness, clearness, or distinctness; dullness; obscurity.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -28118,7 +28116,8 @@ Unhouseled, <qex>disappointed</qex>, unaneled.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>In <qex>disappointment</qex> thou canst bless.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>That which disappoints.</def></p>
+<p><sn>2.</sn> <def>That which disappoints.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Miscarriage; frustration; balk.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -28128,9 +28127,10 @@ Unhouseled, <qex>disappointed</qex>, unaneled.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Disapprobation</ent><br/
-<hw>Dis*ap`pro*ba"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dis-</ets> + <ets>approbation</ets>: cf. F. <ets>d<eacute/sapprobation</ets>.  Cf. <er>Disapprove</er>.]</ety> <def>The act of disapproving; mental condemnation of what is judged wrong, unsuitable, or inexpedient; feeling of censure.</def>
+<hw>Dis*ap`pro*ba"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>dis-</ets> + <ets>approbation</ets>: cf. F. <ets>d<eacute/sapprobation</ets>.  Cf. <er>Disapprove</er>.]</ety> <def>The act of disapproving; mental condemnation of what is judged wrong, unsuitable, or inexpedient; feeling of censure.</def><br/
+[<source>1913 Webster</source>]</p>
 
-<q>We have ever expressed the most unqualified <qex>disapprobation</qex> of all the steps.</q> <rj><qau>Burke.</qau></rj><br/
+<p><q>We have ever expressed the most unqualified <qex>disapprobation</qex> of all the steps.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Disapprobatory</ent><br/
@@ -34943,7 +34943,6 @@ To <qex>disproportion</qex> me in every part.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Dis*pur"pose</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To dissuade; to frustrate; <as>as, to <ex>dispurpose</ex> plots</as>.</def> <mark>[R.]</mark>  <rj><au>A. Brewer.</au></rj></p>
 
 <p><ent>Dispurse</ent><br/
-
 <hw>Dis*purse"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To disburse.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 

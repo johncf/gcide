@@ -983,7 +983,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
       These lists are formatted as three words across in each main column of the dictionary (pages are three main columns across), i.e., forming three subcolumns in each main column.
    The words are alphabetically increasing as one goes down (not across) each subcolumn, and continuing at the top of the next subcolumn. --><br/
 [<source>1913 Webster</source>]</p>
-<br/
+
 <p><ent>Undoubtful</ent><br/
 <ent>Undomestic</ent><br/
 <ent>Undivine</ent><br/
@@ -1160,7 +1160,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <ent>Unabsurd</ent><br/
 <ent>Unabsolvable</ent><br/
 <ent>Unabolishable</ent><br/
-<pre><hw>Unabolishable</hw>  <def>See <er>abolishable</er>.</def><br/
+<p><hw>Unabolishable</hw>  <def>See <er>abolishable</er>.</def><br/
 <hw>Unabsolvable</hw>  <def>See <er>absolvable</er>.</def><br/
 <hw>Unabsurd</hw>  <def>See <er>absurd</er>.</def><br/
 <hw>Unabundant</hw>  <def>See <er>abundant</er>.</def><br/
@@ -1339,9 +1339,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Undivine</hw>  <def>See <er>divine</er>.</def><br/
 <hw>Undomestic</hw>  <def>See <er>domestic</er>.</def><br/
 <hw>Undoubtful</hw>  <def>See <er>doubtful</er>.</def><br/
-<colbreak/<-- end of subcol 1 (of 3) in col 3 (of 3) p. 1562. 
-   ca. 110 entries per sub column
---><br/
+<colbreak/<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unheritable</ent><br/
@@ -1454,7 +1452,6 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <ent>Undrinkable</ent><br/
 <ent>Undramatic</ent><br/
 <ent>Undrainable</ent><br/
-
 <hw>Undrainable</hw>  <def>See <er>drainable</er>.</def><br/
 <hw>Undramatic</hw>  <def>See <er>dramatic</er>.</def><br/
 <hw>Undrinkable</hw>  <def>See <er>drinkable</er>.</def><br/
@@ -1565,10 +1562,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unheedful</hw>  <def>See <er>heedful</er>.</def><br/
 <hw>Unhelpful</hw>  <def>See <er>helpful</er>.</def><br/
 <hw>Unheritable</hw>  <def>See <er>heritable</er>.</def><br/
-<colbreak/</pre><br/
-[<source>1913 Webster</source>]</p>
-
-<p><-- start subcol 3 of col 3 of page 1562 --><br/
+<colbreak/<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unobjectionable</ent><br/
@@ -1681,8 +1675,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <ent>Unhopeful</ent><br/
 <ent>Unhonorable</ent><br/
 <ent>Unhigh</ent><br/
-
-<pre><hw>Unhigh</hw>  <def>See <er>high</er>.</def><br/
+<hw>Unhigh</hw>  <def>See <er>high</er>.</def><br/
 <hw>Unhonorable</hw>  <def>See <er>honorable</er>.</def><br/
 <hw>Unhopeful</hw>  <def>See <er>hopeful</er>.</def><br/
 <hw>Unhostile</hw>  <def>See <er>hostile</er>.</def><br/
@@ -1792,11 +1785,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unniggard</hw>  <def>See <er>niggard</er>.</def><br/
 <hw>Unnoble</hw>  <def>See <er>noble</er>.</def><br/
 <hw>Unobjectionable</hw>  <def>See <er>objectionable</er>.</def><br/
-<colbreak/</pre><br/
-[<source>1913 Webster</source>]</p>
-
-<p><-- end of subcol 3 (of 3) in col 3 (of 3) p. 1562. 
-   ca. 110 entries per sub column --><br/
+<colbreak/<br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1563 ty=CM pr=PI --></p>
@@ -4265,9 +4254,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unmilked</hw>  <def>See <er>milked</er>.</def><br/
 <hw>Unmilled</hw>  <def>See <er>milled</er>.</def><br/
 <hw>Unminded</hw>  <def>See <er>minded</er>.</def><br/
-
 <-- p. 1564 ty=CM pr=PI -->
-
 <hw>Unmingled</hw>  <def>See <er>mingled</er>.</def><br/
 <hw>Unmissed</hw>  <def>See <er>missed</er>.</def><br/
 <hw>Unmitigated</hw>  <def>See <er>mitigated</er>.</def><br/
@@ -4773,7 +4760,8 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unwrought</hw>  <def>See <er>wrought</er>.</def><br/
 <hw>Unwrung</hw>  <def>See <er>wrung</er>.</def><br/
 <hw>Unyielded</hw>  <def>See <er>yielded</er>.</def><br/
- ----- and the like.</p>
+ ----- and the like.<br/
+[<source>1913 Webster</source>]</p>
 
 <p><sd>(c)</sd> <def>To present participles which come from intransitive verbs, or are themselves employed as adjectives, to mark the absence of the activity, disposition, or condition implied by the participle;</def> as, --<br/
 [<source>1913 Webster</source>]</p>
@@ -15034,7 +15022,6 @@ The more judicious Israelites <qex>unspelled</qex>.</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Unspike</ent><br/
-
 <hw>Un*spike"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[1st pref. <ets>un-</ets> + <ets>spike</ets>.]</ety> <def>To remove a spike from, as from the vent of a cannon.</def><br/
 [<source>1913 Webster</source>]</p>
 
