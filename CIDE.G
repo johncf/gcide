@@ -624,7 +624,7 @@ Hath left me <qex>gaged</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><cs><col><b>Gained day</b></col>, <cd>the calendar day gained in sailing eastward around the earth.</cd> -- <col><b>To gain ground</b></col>, <cd>to make progress; to advance in any undertaking; to prevail; to acquire strength or extent.</cd> -- <col><b>To gain over</b></col>, <cd>to draw to one's party or interest; to win over.</cd> -- <col><b>To gain the wind</b></col> <fld>(Naut.)</fld>, <cd>to reach the windward side of another ship.</cd></cs></p>
 
-<p><syn><b>Syn.</b> -- To obtain; acquire; get; procure; win; earn; attain; achieve.</syn> <usage> See <er>Obtain</er>. -- <er>To Gain</er>, <er>Win</er>. <xex>Gain</xex> implies only that we get something by exertion; <xex>win</xex>, that we do it in competition with others. A person <xex>gains</xex> knowledge, or <xex>gains</xex> a prize, simply by striving for it; he <xex>wins</xex> a victory, or <xex>wins</xex> a prize, by taking it in a struggle with others.</usage><br/
+<p><syn><b>Syn.</b> -- To obtain; acquire; get; procure; win; earn; attain; achieve.</syn> <usage> See <er>Obtain</er>. -- To <er>Gain</er>, <er>Win</er>. <xex>Gain</xex> implies only that we get something by exertion; <xex>win</xex>, that we do it in competition with others. A person <xex>gains</xex> knowledge, or <xex>gains</xex> a prize, simply by striving for it; he <xex>wins</xex> a victory, or <xex>wins</xex> a prize, by taking it in a struggle with others.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gain</ent><br/
@@ -23707,7 +23707,7 @@ That we do make our entrance several ways.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>But in known images of life I <qex>guess</qex><br/
 The labor greater.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p><syn><b>Syn.</b> -- To conjecture; suppose; surmise; suspect; divine; think; imagine; fancy.</syn> <usage> -- <er>To Guess</er>, <er>Think</er>, <er>Reckon</er>. <xex>Guess</xex> denotes, to attempt to hit upon at random; <as>as, to <ex>guess</ex> at a thing when blindfolded; to conjecture or form an opinion on hidden or very slight grounds: as, to <ex>guess</ex> a riddle; to <ex>guess</ex> out the meaning of an obscure passage</as>. The use of the word <ex>guess</ex> for think or believe, although abundantly sanctioned by good English authors, is now regarded as antiquated and objectionable by discriminating writers. It may properly be branded as a colloguialism and vulgarism when used respecting a purpose or a thing about which there is no uncertainty; <as>as, I <ex>guess</ex> I 'll go to bed</as>.</usage><br/
+<p><syn><b>Syn.</b> -- To conjecture; suppose; surmise; suspect; divine; think; imagine; fancy.</syn> <usage> -- To <er>Guess</er>, <er>Think</er>, <er>Reckon</er>. <xex>Guess</xex> denotes, to attempt to hit upon at random; <as>as, to <ex>guess</ex> at a thing when blindfolded; to conjecture or form an opinion on hidden or very slight grounds: as, to <ex>guess</ex> a riddle; to <ex>guess</ex> out the meaning of an obscure passage</as>. The use of the word <ex>guess</ex> for think or believe, although abundantly sanctioned by good English authors, is now regarded as antiquated and objectionable by discriminating writers. It may properly be branded as a colloguialism and vulgarism when used respecting a purpose or a thing about which there is no uncertainty; <as>as, I <ex>guess</ex> I 'll go to bed</as>.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Guess</ent><br/
