@@ -2994,9 +2994,9 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Kin`<ae/*sod"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Physiol.)</fld> <def>Kinesodic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>kinaesthesis</ent><br/
-<ent>kinaesthesia</ent><br/
-<mhw><hw>kin`aes*the"sia</hw>, <hw>kin`aes*the"sis</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>kinei^n</grk> to move + <?/ perception.]</ety> <fld>(Physiol.)</fld> <def>The perception attendant upon the movements of the muscles; the sensation accompanying movement of the muscles.</def>  <altsp>[Also spelled <asp>kin`es*the"sia</asp> and <asp>kin`es*the"sis</asp>.]</altsp> <rj><au>Bastian.</au></rj><br/
+<p><ent>Kinaesthesis</ent><br/
+<ent>Kinaesthesia</ent><br/
+<mhw><hw>Kin`<ae/s*the"sia</hw>, <hw>Kin`<ae/s*the"sis</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>kinei^n</grk> to move + <?/ perception.]</ety> <fld>(Physiol.)</fld> <def>The perception attendant upon the movements of the muscles; the sensation accompanying movement of the muscles.</def> <rj><au>Bastian.</au></rj> <altsp>[Also spelled <asp>kinesthesia</asp> and <asp>kinesthesis</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinesthetic</ent><br/
@@ -3331,23 +3331,22 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <hw>Kin`e*sod"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/ motion + <?/ way: cf. F. <ets>kin<eacute/sodigue</ets>.]</ety> <fld>(Physiol.)</fld> <def>Conveying motion; <as>as, <ex>kinesodic</ex> substance</as>; -- applied esp. to the spinal cord, because it is capable of conveying doth voluntary and reflex motor impulses, without itself being affected by motor impulses applied to it directly.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>kinetic</ent><br/
-<hw>ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/*n<ecr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def><br/
-[<source>1913 Webster</source>]</p>
-
-<p><cs><col><b>Kinetic energy</b></col>. <cd>See <er>Energy</er>, <pos>n.</pos> 4.</cd></cs><br/
-[<source>1913 Webster</source>]</p>
-
-<p><ent>kinesthetic</ent><br/
-<ent>kinesthesis</ent><br/
+<p><ent>kinesthesis</ent><br/
 <ent>kinesthesia</ent><br/
-<hw>kin`es*the"sia</hw>, <hw>kin`es*the"sis</hw> <hw>kin`es*thet"ic</hw> <def>See <er>kinaesthesia</er>, <er>kinaesthesis</er>, and <er>kinaesthetic</er>.</def><br/
+<mhw><hw>kin`es*the"sia</hw>, <hw>kin`es*the"sis</hw></mhw> <def>See <er>kinaesthesia</er>, <er>kinaesthesis</er>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>kinesthetics</ent><br/
 <hw>kin`es*thet"ics</hw> <pr>(k<icr/n`<ecr/s*th<ecr/t"<icr/ks)</pr>, <pos>n.</pos> <def>The ability to feel movements of the limbs and body.</def><br/
 <syn><b>Syn. --</b> kinesthesis, kinaesthesis, kinesthesia, kinaesthesia, muscle sense, sense of movement.</syn><br/
 [<source>WordNet 1.5</source>]</p>
+
+<p><ent>kinetic</ent><br/
+<hw>ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/*n<ecr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def><br/
+[<source>1913 Webster</source>]</p>
+
+<p><cs><col><b>Kinetic energy</b></col>. <cd>See <er>Energy</er>, <pos>n.</pos> 4.</cd></cs><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>kinetics</ent><br/
 <hw>ki*net"ics</hw> <pr>(k<icr/*n<ecr/t"<icr/ks <or/ k<isl/*n<ecr/t"<icr/ks)</pr>, <pos>n.</pos> <fld>(Physics)</fld> <def>See <er>Dynamics</er>.</def><br/
