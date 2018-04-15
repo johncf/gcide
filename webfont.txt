@@ -124,12 +124,12 @@ The "Uc" column gives the Unicode representation of the character.  The
 as best one can in 7-bit simple ASCII symbols without using the "entity"
 symbols.
 
-Comments: 
+Comments:
   (1) The symbol in the "entity" column is the SGML-like symbol used in the
       present Webster files; the symbol in the "ISO 8879" column is the
       symbol for the same character given in "The user's guide to ISO 8879"
       by Smith and Stutely.
-      
+
   (2) An asterisk "*" in the "entity" column means that this symbol and code
 value is not used in any form in GCIDE.
 
@@ -168,8 +168,8 @@ let me know.
 
 ----------------------------------------------------------------------------
      webfont       ISO 8879   TeX             Uc  ASC   Description
-------------------                               
-oct dec hex entity             
+------------------
+oct dec hex entity
 ----------------------------------------------------------------------------
 025  21  15  *                 \S             §   *     section symbol
 
@@ -221,7 +221,7 @@ oct dec hex entity
 251 169  a9 <sec/    Prime                    ˝   ''    seconds (of
                                                         degree or time)
                                                         Also, inches
-							or double prime.
+                                                        or double prime.
 252 170  aa  *
 253 171  ab <frac12/           $\frac{1}{2}$  ½   1/2   one-half
 254 172  ac <frac14/           $\frac{1}{4}$  ¼   1/4   one-quarter
@@ -230,22 +230,22 @@ oct dec hex entity
 257 175  af  *
 260 176  b0 <?/                                   (?)   Place-holder
                                                         for unknown or
-							illegible
-							character.   
+                                                        illegible
+                                                        character.
 261 177  b1  *
 262 178  b2  *
 263 179  b3  *
 264 180  b4  *                 $\updownarrow$ ↑   *     vertical arrow
 265 181  b5 <hand/                            ☞   *     pointing hand
                                                         (printer's "fist")
-266 182  b6 <bprime/           \"{}           ˝   ''    bold accent 
+266 182  b6 <bprime/           \"{}           ˝   ''    bold accent
                                                         (used in
-							pronunciations) 
-267 183  b7 <prime/  prime     \'{}           ´   '     light accent 
+                                                        pronunciations)
+267 183  b7 <prime/  prime     \'{}           ´   '     light accent
                                                         (used in
-							pronunciations) 
+                                                        pronunciations)
                                                         also minutes
-							(of arc or time) 
+                                                        (of arc or time)
 270 184  b8 <rdquo/  rdquo     ''             ”   "     close double quote
 271 185  b9  *
 272 186  ba  *                 $\parallel$    ‖   ||    vertical double bar
@@ -259,14 +259,14 @@ oct dec hex entity
 300 192  c0 <nsm/                             ṉ   ng    "n sub-macron"
 301 193  c1 <sharp/ sharp      $\sharp$       ♯   #     musical sharp
 302 194  c2 <flat/  flat       $\flat$        ♭   *     musical flat
-303 195  c3  *                 --             –   --    long dash (en-dash? )
+303 195  c3  *                 --             –   --    long dash (en-dash?)
 304 196  c4  *                 $-$            ―   -     horizontal line
 305 197  c5 <th/ (part 1)                         t     first part of
-                                                        th ligature 
-                                                        see 231 = e7 for part 2
+                                                        th ligature;
+                                                        see e7 for part 2
 306 198  c6 <imac/  imacr      \=i            ī   i     i macron
 307 199  c7 <emac/  emacr      \=e            ē   e     e macron
-310 200  c8 <dsdot/                           ḍ   d     Sanskrit/Tamil d dot 
+310 200  c8 <dsdot/                           ḍ   d     Sanskrit/Tamil d dot
 311 201  c9 <nsdot/                           ṇ   n     Sanskrit/Tamil n dot
 312 202  ca <tsdot/                           ṭ   t     Sanskrit/Tamil t dot
 313 203  cb <ecr/              \u{e}          ĕ   e     e breve
@@ -284,41 +284,36 @@ oct dec hex entity
 326 214  d6 <aemac/            \=\ae          ǣ   ae    ae ligature macron
 327 215  d7 <oemac/            \=\oe          œ̄   oe    oe ligature macron
 330 216  d8          par       $\parallel$    ‖   ||    double vertical bar
-                                                        (s)
 331 217  d9  *
 332 218  da  *
 333 219  db  *
 334 220  dc <ucr/   ubreve     \u{u}          ŭ   u     u breve
 335 221  dd <acr/   abreve     \u{a}          ă   a     a breve
 336 222  de <cre/   ssmile     \u{}           ˘   ~     crescent
-                                                        (like a breve,
-							but vertically
-							centered -- 
-                                                        represents the
-							short accent
-							in poetic
-							meter) 
+                                                        (like a breve, but
+                                                        vertically centered
+                                                        -- represents the
+                                                        short accent in
+                                                        poetic meter)
 337 223  df <ymac/             \=y            ȳ   y     y macron
 
-340 224  e0  <asl/                                a     a "semilong"
-                                                        (has a macron
-                                                        above with a
-                                                        short vertical
-                                                        bar on top the
-                                                        center of the
-                                                        macron) 
-                                                        Used in
-                                                        pronunciations. 
-341 225  e1  <esl/                                      e "semilong"
-342 226  e2  <isl/                                      i "semilong"
-343 227  e3  <osl/                                      o "semilong"
-344 228  e4  <usl/                                      u "semilong"
+340 224  e0  <asl/                            ā̇   a     a "semilong"
+                                                        (has a macron with a
+                                                        short vertical bar
+                                                        on top in middle)
+                                                        (unicode symbol
+                                                        shown has a dot
+                                                        instead of a short
+                                                        vertical bar)
+341 225  e1  <esl/                            ē̇   e     e "semilong"
+342 226  e2  <isl/                            ī̇   i     i "semilong"
+343 227  e3  <osl/                            ō̇   o     o "semilong"
+344 228  e4  <usl/                            ū̇   u     u "semilong"
 345 229  e5  <adot/                           ȧ   a     a with dot above
-346 230  e6  *                                μ   mu    small Greek mu
+346 230  e6  <mu/                             μ   mu    small Greek mu
 347 231  e7  <th/ (part 2)                              second part of
-                                                        th ligature; 
-                                                        see 197 = c5
-                                                        for part 1
+                                                        th ligature;
+                                                        see c5 for part 1
 350 232  e8  *
 351 233  e9  *
 352 234  ea  *
@@ -343,7 +338,7 @@ oct dec hex entity
 374 252  fc   *
 375 253  fd   *
 376 254  fe   *
-377 255  ff   *                 
+377 255  ff   *
 ----------------------------------------------------------------------------
 
 The table below gives some additional information about some of the more
@@ -386,18 +381,18 @@ decimal  hex    char  definition
                       replaced within headwords in the full ASCII version
                       by an open-single-quote (` = ASCII 96, not the same
                       as 191, \'bf).   This mark is used also for
-		      minutes of a degree, and for "prime" to modify
-		      variables in mathematical expressions.
-		      -- two of these in sequence represent seconds of
-		      a degree, or double prime.  The seconds symbol
-		      is also represented by <sec/ (hex a9).
+                      minutes of a degree, and for "prime" to modify
+                      variables in mathematical expressions.
+                      -- two of these in sequence represent seconds of
+                      a degree, or double prime.  The seconds symbol
+                      is also represented by <sec/ (hex a9).
   184    b8     ”     close double quotes (used with 189 [= \'bd],
-                      open quote) 
+                      open quote)
   186    ba     ‖     vertical double bar - represents the symbol used
                       in the printed dictionary before a headword to
-		      signify that the word was adopted without
-		      anglicization from a foreign language but in the
-		      full-ASCII version this function uses \'d8 -- see 216
+                      signify that the word was adopted without
+                      anglicization from a foreign language but in the
+                      full-ASCII version this function uses \'d8 -- see 216
   188    bc     §     <sect/ section mark
   189    bd     “     open double quotes (used with 184, close quote)
   190    be     ā     <amac/ a macron
@@ -412,13 +407,13 @@ decimal  hex    char  definition
   196    c4     ―     graphic horizontal line
   195+208       –—    combination for a very long dash.  In the
                       original typing, the dash char 208 was used for
-		      both non-breaking hyphen (in hyphenated words),
-		      and for the em-dash used as an introductory mark
-		      for various segments.  The em-dash should be
-		      distinguished from the hyphen, but that
-		      conversion hasn't yet been done.  In the full
-		      ASCII version, a double hypen "--" represent the
-		      m-dash.
+                      both non-breaking hyphen (in hyphenated words),
+                      and for the em-dash used as an introductory mark
+                      for various segments.  The em-dash should be
+                      distinguished from the hyphen, but that
+                      conversion hasn't yet been done.  In the full
+                      ASCII version, a double hypen "--" represent the
+                      m-dash.
   197    c5      t    <th/ (part 1) first of a pair of characters
   197+231 =      th   used to represent the th ligature --
                       <th/ represents the "th" sound of "mother"
@@ -436,14 +431,14 @@ decimal  hex    char  definition
                      - in some etymologies and pronunciation
   207    cf      ‐   short dash, used in hyphenated words, and in
                      breaking syllables where no accent is used. But
-		     sometimes the typists used the normal hyphen
-		     [45], or the long dash (decimal 208) for that
-		     purpose.  The normal hyphen is the same length
-		     as the long dash, but one pixel higher in the
-		     character box. 
+                     sometimes the typists used the normal hyphen
+                     [45], or the long dash (decimal 208) for that
+                     purpose.  The normal hyphen is the same length
+                     as the long dash, but one pixel higher in the
+                     character box.
                      # In headwords, in the full ASCII version, this
                      short dash is represented by the asterisk "*".
-  208    d0      —   <mdash/ = represents the long dash, used for the em 
+  208    d0      —   <mdash/ = represents the long dash, used for the em
                      dash which often precedes certain sections within a
                      definition, and which separates some sections,
                      such as wordforms or collocations within a
@@ -453,36 +448,36 @@ decimal  hex    char  definition
   211    d3      ō   <omac/ = o macron
   212    d4      ū   <umac/ = u macron
   213    d5      ǒ   <ocar/ o with caron (hacek) (inverted
-                      circumflex) above 
+                      circumflex) above
   214    d6      ǣ   <aemac/ = "ae" ligature with a macron
   215    d7      œ̄   <oemac/ = "oe" ligature with a macron
   216    d8      ‖   <par/ double vertical bar (short length; the long
                      length is the graphics character 186)
                      This precedes words marked with a double
-		     vertical bar in the original dictionary,
-		     signifying that the word was adopted directly
-		     into English without modification of the spelling.
+                     vertical bar in the original dictionary,
+                     signifying that the word was adopted directly
+                     into English without modification of the spelling.
   220    dc      ŭ   <ucr/ = u with crescent above - used in some etymologies
   221    dd      ă   <acr/ = a with crescent above - used in some etymologies
   222    de      ˘   <cre/ = "crescent", an upward-curving crescent
                      used as a poetic meter mark
-  223    df      ȳ   <ymac/ = y macron (used in Anglo-Saxon?) 
+  223    df      ȳ   <ymac/ = y macron (used in Anglo-Saxon?)
   229    e5      ȧ   <adot/ = a with a dot above (for pronunciations)
   231    e7      h   <th/ (part 2) second of a two-character combination
   197+231 = th       used to represent the th ligature in pronunciations
                      <th/ represents the "th" sound of "mother"
   235    eb      ð   <edh/ = Old English and Icelandic "edh", (or "eth")
                      like a Greek delta with a hatch mark through
-		     the ascender. Used to represent the
-		     Anglo-Saxon/Icelandic/Gothic character, in
-		     etymologies, pronounced like "th"
+                     the ascender. Used to represent the
+                     Anglo-Saxon/Icelandic/Gothic character, in
+                     etymologies, pronounced like "th"
   237    ed      þ   <thorn/ "thorn", an Old English and Icelandic
                      character, appears like a "p" with an extended
                      ascender.
                      Used to represent the
-		     Anglo-Saxon/Icelandic/Gothic character, in
-		     etymologies, pronounced like "th" in "thorn"
-		     and also as in "brother"
+                     Anglo-Saxon/Icelandic/Gothic character, in
+                     etymologies, pronounced like "th" in "thorn"
+                     and also as in "brother"
   238    ee      ã   <atil/ a with tilde above - in some etymologies
   244    f4      ȝ   <yogh/ like a script "3" or "z". Used in Old English
                      etymologies, analogous to "y"
@@ -524,7 +519,7 @@ represented by ` (gravis).  The grave accent (βαρεῖα) is represented by ~
    a`  -- ά
    a~  -- ὰ
    a^  -- ᾶ
-   
+
 Some examples of the combined forms (aspirant + accent):
 
    'a` -- ἄ
@@ -534,7 +529,7 @@ Some examples of the combined forms (aspirant + accent):
    "a~ -- ἂ,
    "a~ -- ἃ
 
-   
+
 ** Iota subscriptum
 
 Iota subscript is represented by comma placed after the affected vowel.  If
@@ -545,14 +540,14 @@ example:
     'a`, --  ᾄ
 
 ** Diaeresis
-    
+
 Diaeresis is represented by a colon immediately after the affected vowel.
 If the vowel is accented, the accent is placed after the colon, e.g.:
 
     i:  --  ϊ
     i:^ --  ῗ
     i:` --  ῒ
-    
+
 ** Letters
 
 The table below shows, for each Greek letter, the corresponding markup
