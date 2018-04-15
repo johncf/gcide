@@ -731,7 +731,7 @@
 <p><note><hand/ The common mackerel (<spn>Scomber scombrus</spn>), which inhabits both sides of the North Atlantic, is one of the most important food fishes.  It is mottled with green and blue.  The Spanish mackerel (<spn>Scomberomorus maculatus</spn>), of the American coast, is covered with bright yellow circular spots.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bull mackerel</b></col>, <col><b>Chub mackerel</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Chub</er>.</cd> -- <col><b>Frigate mackerel</b></col>. <cd>See under <er>Frigate</er>.</cd> -- <col><b>Horse mackerel</b></col> . <cd>See under <er>Horse</er>.</cd> -- <col><b>Mackerel bird</b></col> <fld>(Zool.)</fld>, <cd>the wryneck; -- so called because it arrives in England at the time when mackerel are in season.</cd> -- <col><b>Mackerel cock</b></col> <fld>(Zool.)</fld>, <cd>the Manx shearwater; -- so called because it precedes the appearance of the mackerel on the east coast of Ireland.</cd> -- <col><b>Mackerel guide</b></col>. <fld>(Zool.)</fld> <cd>See <er>Garfish</er> <sd>(a)</sd>.</cd> -- <col><b>Mackerel gull</b></col> <fld>(Zool.)</fld> <cd>any one of several species of gull which feed upon or follow mackerel, as the kittiwake.</cd> -- <col><b>Mackerel midge</b></col> <fld>(Zool.)</fld>, <cd>a very small oceanic gadoid fish of the North Atlantic.  It is about an inch and a half long and has four barbels on the upper jaw.  It is now considered the young of the genus <gen>Onos</gen>, or <gen>Motella</gen>.</cd> -- <col><b>Mackerel plow</b></col>, <cd>an instrument for creasing the sides of lean mackerel to improve their appearance.</cd> <au>Knight.</au> -- <col><b>Mackerel shark</b></col> <fld>(Zool.)</fld>, <cd>the porbeagle.</cd> -- <mcol><col><b>Mackerel sky</b></col>, <it>or</it> <col><b>Mackerel-back sky</b></col></mcol>, <cd>a sky flecked with small white clouds; a cirro-cumulus. See <er>Cloud</er>.</cd></cs><br/
+<p><cs><mcol><col><b>Bull mackerel</b></col>, <col><b>Chub mackerel</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Chub</er>.</cd> -- <col><b>Frigate mackerel</b></col>. <cd>See under <er>Frigate</er>.</cd> -- <col><b>Horse mackerel</b></col> . <cd>See under <er>Horse</er>.</cd> -- <col><b>Mackerel bird</b></col> <fld>(Zool.)</fld>, <cd>the wryneck; -- so called because it arrives in England at the time when mackerel are in season.</cd> -- <col><b>Mackerel cock</b></col> <fld>(Zool.)</fld>, <cd>the Manx shearwater; -- so called because it precedes the appearance of the mackerel on the east coast of Ireland.</cd> -- <col><b>Mackerel guide</b></col>. <fld>(Zool.)</fld> <cd>See <er>Garfish</er> <sdr>(a)</sdr>.</cd> -- <col><b>Mackerel gull</b></col> <fld>(Zool.)</fld> <cd>any one of several species of gull which feed upon or follow mackerel, as the kittiwake.</cd> -- <col><b>Mackerel midge</b></col> <fld>(Zool.)</fld>, <cd>a very small oceanic gadoid fish of the North Atlantic.  It is about an inch and a half long and has four barbels on the upper jaw.  It is now considered the young of the genus <gen>Onos</gen>, or <gen>Motella</gen>.</cd> -- <col><b>Mackerel plow</b></col>, <cd>an instrument for creasing the sides of lean mackerel to improve their appearance.</cd> <au>Knight.</au> -- <col><b>Mackerel shark</b></col> <fld>(Zool.)</fld>, <cd>the porbeagle.</cd> -- <mcol><col><b>Mackerel sky</b></col>, <it>or</it> <col><b>Mackerel-back sky</b></col></mcol>, <cd>a sky flecked with small white clouds; a cirro-cumulus. See <er>Cloud</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Mackerel sky</qex> and mare's-tails<br/
@@ -10067,7 +10067,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marine mine</ent><br/
-<hw>ma*rine" mine`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mil.)</fld> <def>A military explosive device designed to be placed on or under the surface of a body of water, and to explode when ships pass nearby or come in contact with it.  Its function is to destroy enemy ships or deny hostile naval forces access to certain areas of the sea, usually near the shoreline.  Also called <altname>underwater mine</altname> and <altname>floating mine</altname>, and previously referred to as a <altname>torpedo</altname> (See <er>torpedo</er>{2} <sd>(a)</sd>).</def><br/
+<hw>ma*rine" mine`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mil.)</fld> <def>A military explosive device designed to be placed on or under the surface of a body of water, and to explode when ships pass nearby or come in contact with it.  Its function is to destroy enemy ships or deny hostile naval forces access to certain areas of the sea, usually near the shoreline.  Also called <altname>underwater mine</altname> and <altname>floating mine</altname>, and previously referred to as a <altname>torpedo</altname> (See <er>torpedo</er>{2} <sdr>(a)</sdr>).</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mariner</ent><br/
@@ -15231,7 +15231,7 @@ On power you know I must obey ?</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>13.</sn> <pluf>pl.</pluf> <fld>(Geol.)</fld> <def>Beds or strata; <as>as, coal <ex>measures</ex>; lead <ex>measures</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>linear measure</b></col>, <col><b>lineal measure</b></col>, <it>or</it> <col><b>long measure</b></col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col><b>Liquid measure</b></col>, <cd>the measure of liquids.</cd> -- <col><b>Square measure</b></col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col><b>To have hard measure</b></col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col><b>To take measures</b></col>, <cd>to make preparations; to provide means.</cd> -- <col><b>To take one's measure</b></col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col><b>To tread a measure</b></col>, <cd>to dance in the style so called. See 9 <sd>(a)</sd>.</cd></cs><br/
+<p><cs><mcol><col><b>linear measure</b></col>, <col><b>lineal measure</b></col>, <it>or</it> <col><b>long measure</b></col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col><b>Liquid measure</b></col>, <cd>the measure of liquids.</cd> -- <col><b>Square measure</b></col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col><b>To have hard measure</b></col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col><b>To take measures</b></col>, <cd>to make preparations; to provide means.</cd> -- <col><b>To take one's measure</b></col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col><b>To tread a measure</b></col>, <cd>to dance in the style so called. See 9 <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Say to her, we have measured many miles<br/
@@ -16771,7 +16771,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megapode</ent><br/
-<hw>Meg"a*pode</hw> <pr>(m<ecr/g"<adot/*p<omac/d)</pr>, <pos>n.</pos> <ety>[<ets>Mega-</ets> + Gr. <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of large-footed, gallinaceous birds of the genera <gen>Megapodius</gen> and <gen>Leipoa</gen>, inhabiting Australia and other Pacific islands.  Called also <altname>mound builder</altname>, <altname>scrub fowl</altname>, <altname>moundbird</altname>, and <altname>brush turkey</altname>.  See <cref>Jungle fowl</cref> <sd>(b)</sd> under <er>Jungle</er>, and <er>Leipoa</er>.</def><br/
+<hw>Meg"a*pode</hw> <pr>(m<ecr/g"<adot/*p<omac/d)</pr>, <pos>n.</pos> <ety>[<ets>Mega-</ets> + Gr. <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of large-footed, gallinaceous birds of the genera <gen>Megapodius</gen> and <gen>Leipoa</gen>, inhabiting Australia and other Pacific islands.  Called also <altname>mound builder</altname>, <altname>scrub fowl</altname>, <altname>moundbird</altname>, and <altname>brush turkey</altname>.  See <cref>Jungle fowl</cref> <sdr>(b)</sdr> under <er>Jungle</er>, and <er>Leipoa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megapolis</ent><br/
@@ -17170,7 +17170,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanure</ent><br/
-<hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>'oura`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sd>(a)</sd>.</def><br/
+<hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>'oura`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanuric</ent><br/
@@ -19726,7 +19726,7 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merou</ent><br/
-\'d8<hw>M<eacute/`rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>See <er>Jack</er>, 8 <sd>(c)</sd>.</def><br/
+\'d8<hw>M<eacute/`rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>See <er>Jack</er>, 8 <sdr>(c)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merovingian</ent><br/
@@ -20423,7 +20423,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 <mhw>{ <hw>Mes*qui"te</hw> <pr>(m<ecr/s*k<emac/"t<asl/)</pr>, <hw>Mes*quit"</hw> <pr>(m<ecr/s*k<emac/t")</pr> }</mhw>, <pos>n.</pos> <ety>[Sp. <ets>mezquite</ets>; said to be a Mexican Indian word.]</ety> <fld>(Bot.)</fld> <def>Aany of several small spiny trees or shrubs of the southwestern part of North America belonging to the genus <gen>Prosopis</gen> having small flowers in axillary cylindrical spikes followed by large sugar-rich pods, especially the <stype>honey mesquite</stype>, and <stype>screw-pod mesquite</stype>.</def><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
-<p><cs><col><b>Honey mesquite</b></col>. <cd>See <er>Algaroba</er> <sd>(b)</sd>.</cd> -- <col><b>Screw-pod mesquite</b></col>, <cd>a smaller tree (<spn>Prosopis pubescens</spn>), having spiral pods used as fodder and sometimes as food by the Indians.</cd> -- <col><b>Mesquite grass</b></col>, <cd>a rich native grass in Western Texas (<spn>Bouteloua oligostachya</spn>, and other species); -- so called from its growing in company with the mesquite tree; -- called also <altname>muskit grass</altname>, <altname>grama grass</altname>.</cd></cs><br/
+<p><cs><col><b>Honey mesquite</b></col>. <cd>See <er>Algaroba</er> <sdr>(b)</sdr>.</cd> -- <col><b>Screw-pod mesquite</b></col>, <cd>a smaller tree (<spn>Prosopis pubescens</spn>), having spiral pods used as fodder and sometimes as food by the Indians.</cd> -- <col><b>Mesquite grass</b></col>, <cd>a rich native grass in Western Texas (<spn>Bouteloua oligostachya</spn>, and other species); -- so called from its growing in company with the mesquite tree; -- called also <altname>muskit grass</altname>, <altname>grama grass</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesquite bean</ent><br/
@@ -37396,7 +37396,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 <p><sn>4.</sn> <def>Anything which gradually and silently eats, consumes, or wastes any other thing.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Moth blight</b></col> <fld>(Zool.)</fld>, <cd>any plant louse of the genus <gen>Aleurodes</gen>, and related genera. They are injurious to various plants.</cd> -- <col><b>Moth gnat</b></col> <fld>(Zool.)</fld>, <cd>a dipterous insect of the genus <gen>Bychoda</gen>, having fringed wings.</cd> -- <col><b>Moth hunter</b></col> <fld>(Zool.)</fld>, <cd>the goatsucker.</cd> -- <col><b>Moth miller</b></col> <fld>(Zool.)</fld>, <cd>a clothes moth. See <er>Miller</er>, 3, <sd>(a)</sd>.</cd> -- <col><b>Moth mullein</b></col> <fld>(Bot.)</fld>, <cd>a common herb of the genus <gen>Verbascum</gen> (<spn>Verbascum Blattaria</spn>), having large wheel-shaped yellow or whitish flowers.</cd></cs><br/
+<p><cs><col><b>Moth blight</b></col> <fld>(Zool.)</fld>, <cd>any plant louse of the genus <gen>Aleurodes</gen>, and related genera. They are injurious to various plants.</cd> -- <col><b>Moth gnat</b></col> <fld>(Zool.)</fld>, <cd>a dipterous insect of the genus <gen>Bychoda</gen>, having fringed wings.</cd> -- <col><b>Moth hunter</b></col> <fld>(Zool.)</fld>, <cd>the goatsucker.</cd> -- <col><b>Moth miller</b></col> <fld>(Zool.)</fld>, <cd>a clothes moth. See <er>Miller</er>, 3, <sdr>(a)</sdr>.</cd> -- <col><b>Moth mullein</b></col> <fld>(Bot.)</fld>, <cd>a common herb of the genus <gen>Verbascum</gen> (<spn>Verbascum Blattaria</spn>), having large wheel-shaped yellow or whitish flowers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mothball</ent><br/
@@ -40212,7 +40212,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any species of the genus <gen>Mullus</gen>, or family <fam>Mullidae</fam>; called also <altname>red mullet</altname>, and <altname>surmullet</altname>, esp. the plain surmullet (<spn>Mullus barbatus</spn>), and the striped surmullet (<spn>Mullus surmulletus</spn>) of Southern Europe.  The former is the mullet of the Romans. It is noted for the brilliancy of its colors. See <er>Surmullet</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>French mullet</b></col>. <cd>See <er>Ladyfish</er> <sd>(a)</sd>.</cd></cs><br/
+<p><cs><col><b>French mullet</b></col>. <cd>See <er>Ladyfish</er> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mullet</ent><br/

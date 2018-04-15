@@ -11119,7 +11119,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Geodesy & Signal Service)</fld> <def>An instrument for making signals to an observer at a distance, by means of the sun's rays thrown from a mirror.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Min.)</fld> <def>See <er>Bloodstone</er> <sd>(a)</sd>.</def><br/
+<p><sn>4.</sn> <fld>(Min.)</fld> <def>See <er>Bloodstone</er> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Heliotrope purple</b></col>, <cd>a grayish purple color.</cd></cs><br/
@@ -19219,7 +19219,7 @@ Of Bolingbroke.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holder-forth</ent><br/
-<hw>Hold"er-forth`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who speaks in public; an haranguer; a preacher.  See <cref>hold forth</cref> <sd>(b)</sd> under <er>hold</er>.</def>  <rj><au>Addison.</au></rj><br/
+<hw>Hold"er-forth`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who speaks in public; an haranguer; a preacher.  See <cref>hold forth</cref> <sdr>(b)</sdr> under <er>hold</er>.</def>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holdfast</ent><br/
@@ -24042,7 +24042,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <def>The language of the Hottentots, which is remarkable for its clicking sounds; the <altname>Khoisan</altname> language.</def><br/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
-<p><cs><col><b>Hottentot cherry</b></col> <fld>(Bot.)</fld>, <cd>a South African plant of the genus <gen>Cassine</gen> (<spn>Cassine maurocenia</spn>), having handsome foliage, with generally inconspicuous white or green flowers.</cd> <au>Loudon.</au> -- <col><b>Hottentot's bread</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Elephant's foot</cref> <sd>(a)</sd>, under <er>Elephant</er>.</cd></cs><br/
+<p><cs><col><b>Hottentot cherry</b></col> <fld>(Bot.)</fld>, <cd>a South African plant of the genus <gen>Cassine</gen> (<spn>Cassine maurocenia</spn>), having handsome foliage, with generally inconspicuous white or green flowers.</cd> <au>Loudon.</au> -- <col><b>Hottentot's bread</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Elephant's foot</cref> <sdr>(a)</sdr>, under <er>Elephant</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hottentotism</ent><br/

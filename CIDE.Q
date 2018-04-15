@@ -1367,7 +1367,7 @@ Did <qex>quarrel</qex> with the noblest grace she owed.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarry</ent><br/
-<hw>Quar"ry</hw>, <pos>n.</pos> <ety>[OE. <ets>quarrere</ets>, OF. <ets>quariere</ets>, F. <ets>carri<egrave/re</ets>, LL. <ets>quadraria</ets> a quarry, whence squared (<ets>quadrati</ets>) stones are dug, fr. <ets>quadratus</ets> square. See <er>Quadrate</er>.]</ety> <def>A place, cavern, or pit where stone is taken from the rock or ledge, or dug from the earth, for building or other purposes; a stone pit. See 5th <er>Mine</er> <sd>(a)</sd>.</def><br/
+<hw>Quar"ry</hw>, <pos>n.</pos> <ety>[OE. <ets>quarrere</ets>, OF. <ets>quariere</ets>, F. <ets>carri<egrave/re</ets>, LL. <ets>quadraria</ets> a quarry, whence squared (<ets>quadrati</ets>) stones are dug, fr. <ets>quadratus</ets> square. See <er>Quadrate</er>.]</ety> <def>A place, cavern, or pit where stone is taken from the rock or ledge, or dug from the earth, for building or other purposes; a stone pit. See 5th <er>Mine</er> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarry</ent><br/

@@ -3657,7 +3657,7 @@ Whilst the <qex>landskip</qex> round it measures.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Langteraloo</ent><br/
-<hw>Lang`ter*a*loo"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Loo</er>.]</ety> <def>An old game at cards. See <er>Loo</er> <sd>(a)</sd>.</def>  <rj><au>Tatler.</au></rj><br/
+<hw>Lang`ter*a*loo"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Loo</er>.]</ety> <def>An old game at cards. See <er>Loo</er> <sdr>(a)</sdr>.</def>  <rj><au>Tatler.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Language</ent><br/
@@ -7535,7 +7535,7 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <sd>(a)</sd> <def>A job, price, or profit.</def> <mark>[Prov. Eng.]</mark> <au>Wright.</au> <sd>(b)</sd> <def> A share of the proceeds or profits of an enterprise; <as>as, when a man ships for a whaling voyage, he agrees for a certain <ex>lay</ex></as>.</def> <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Textile Manuf.)</fld> <sd>(a)</sd> <def>A measure of yarn; a lea. See 1st <er>Lea</er> <sd>(a)</sd>.</def> <sd>(b)</sd> <def>The lathe of a loom. See <er>Lathe</er>, 3.</def><br/
+<p><sn>4.</sn> <fld>(Textile Manuf.)</fld> <sd>(a)</sd> <def>A measure of yarn; a lea. See 1st <er>Lea</er> <sdr>(a)</sdr>.</def> <sd>(b)</sd> <def>The lathe of a loom. See <er>Lathe</er>, 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A plan; a scheme.</def> <mark>[Slang]</mark>  <rj><au>Dickens.</au></rj><br/
@@ -9736,7 +9736,7 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legalist</ent><br/
-<hw>Le"gal*ist</hw>, <pos>n.</pos> <def>One who practices or advocates strict conformity to law; in theology, one who holds to the law of works. See <er>Legal</er>, 2 <sd>(a)</sd>.</def><br/
+<hw>Le"gal*ist</hw>, <pos>n.</pos> <def>One who practices or advocates strict conformity to law; in theology, one who holds to the law of works. See <er>Legal</er>, 2 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legality</ent><br/
@@ -24613,7 +24613,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lotophagi</ent><br/
-\'d8<hw>Lo*toph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/; <?/ the lotus + <?/ to eat.]</ety> <fld>(Class. Myth.)</fld> <def>A people visited by Ulysses in his wanderings. They subsisted on the lotus. See <er>Lotus</er> <sd>(b)</sd>, and <er>Lotus-eater</er>.</def><br/
+\'d8<hw>Lo*toph"a*gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. Gr. <?/; <?/ the lotus + <?/ to eat.]</ety> <fld>(Class. Myth.)</fld> <def>A people visited by Ulysses in his wanderings. They subsisted on the lotus. See <er>Lotus</er> <sdr>(b)</sdr>, and <er>Lotus-eater</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lotos</ent><br/
@@ -24891,7 +24891,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 
 <p><ent>Louvre</ent><br/
 <ent>Louver</ent><br/
-<mhw>{ <hw>Lou"ver</hw>, <hw>Lou"vre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>lover</ets>, OF. <ets>lover</ets>, <ets>lovier</ets>; <ets>or l'ouvert</ets> the opening, fr. <ets>overt</ets>, <ets>ouvert</ets>, p. p. of <ets>ovrir</ets>, <ets>ouvrir</ets>, to open, F. <ets>ouvrir</ets>.  Cf. <er>Overt</er>.]</ety> <fld>(Arch.)</fld> <def>A small lantern. See <er>Lantern</er>, 2 <sd>(a)</sd>.</def> <altsp>[Written also <asp>lover</asp>, <asp>loover</asp>, <asp>lovery</asp>, and <asp>luffer</asp>.]</altsp></p>
+<mhw>{ <hw>Lou"ver</hw>, <hw>Lou"vre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>lover</ets>, OF. <ets>lover</ets>, <ets>lovier</ets>; <ets>or l'ouvert</ets> the opening, fr. <ets>overt</ets>, <ets>ouvert</ets>, p. p. of <ets>ovrir</ets>, <ets>ouvrir</ets>, to open, F. <ets>ouvrir</ets>.  Cf. <er>Overt</er>.]</ety> <fld>(Arch.)</fld> <def>A small lantern. See <er>Lantern</er>, 2 <sdr>(a)</sdr>.</def> <altsp>[Written also <asp>lover</asp>, <asp>loover</asp>, <asp>lovery</asp>, and <asp>luffer</asp>.]</altsp></p>
 
 <p><sn>2.</sn> <def>Same as <cref>louver boards</cref>, below</def><br/
 [<source>PJC</source>]</p>

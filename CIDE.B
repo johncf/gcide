@@ -30783,7 +30783,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <hw>Bon"net*ed</hw>, <pos>a.</pos> <sn>1.</sn> <def>Wearing a bonnet.</def> <ldquo/<xex>Bonneted</xex> and shawled.<rdquo/  <rj><au>Howitt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Fort.)</fld> <def>Protected by a bonnet. See <er>Bonnet</er>, 4 <sd>(a)</sd>.</def><br/
+<p><sn>2.</sn> <fld>(Fort.)</fld> <def>Protected by a bonnet. See <er>Bonnet</er>, 4 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bonnethead</ent><br/
@@ -44730,7 +44730,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>PJC</source>]</p>
 
 <p><ent>Bullpout</ent><br/
-<hw>Bull"pout`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Bullhead</er>, 1 <sd>(b)</sd>.</def><br/
+<hw>Bull"pout`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Bullhead</er>, 1 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bull-roarer</ent><br/

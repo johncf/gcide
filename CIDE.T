@@ -1045,7 +1045,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The hooded merganser.</def> <mark>[Local, U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Tadpole fish</b></col>. <fld>(Zool.)</fld> <cd>See <er>Forkbeard</er> <sd>(a)</sd>.</cd></cs><br/
+<p><cs><col><b>Tadpole fish</b></col>. <fld>(Zool.)</fld> <cd>See <er>Forkbeard</er> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taedium</ent><br/
@@ -2034,7 +2034,7 @@ And hint he writ it, if the thing should <qex>take</qex>.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taking-off</ent><br/
-<hw>Tak"ing-off`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Removal; murder. See <cref>To take off</cref> <sd>(c)</sd>, under <er>Take</er>, <pos>v. t.</pos></def><br/
+<hw>Tak"ing-off`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Removal; murder. See <cref>To take off</cref> <sdr>(c)</sdr>, under <er>Take</er>, <pos>v. t.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The deep damnation of his <qex>taking-off</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -17195,7 +17195,7 @@ From <qex>crowds</qex> that hide a monarch from himself.</q> <rj><qau>Johnson.</
 <hw>Throt"tler</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, throttles, or chokes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Flasher</er>, 3 <sd>(b)</sd>.</def> <mark>[Prov. Eng.]</mark><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Flasher</er>, 3 <sdr>(b)</sdr>.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Through</ent><br/
@@ -17381,7 +17381,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 <p><sn>6.</sn> <fld>(Mach.)</fld> <def>The extreme movement given to a sliding or vibrating reciprocating piece by a cam, crank, eccentric, or the like; travel; stroke; <as>as, the <ex>throw</ex> of a slide valve</as>. Also, frequently, the length of the radius of a crank, or the eccentricity of an eccentric; <as>as, the <ex>throw</ex> of the crank of a steam engine is equal to half the stroke of the piston</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Pottery)</fld> <def>A potter's wheel or table; a jigger. See 2d <er>Jigger</er>, 2 <sd>(a)</sd>.</def><br/
+<p><sn>7.</sn> <fld>(Pottery)</fld> <def>A potter's wheel or table; a jigger. See 2d <er>Jigger</er>, 2 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <def>A turner's lathe; a throwe.</def> <mark>[Prov. Eng.]</mark><br/
@@ -22914,7 +22914,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomcod</ent><br/
-<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sd>(a)</sd>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, 8. <sd>(c)</sd>.</def><br/
+<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sdr>(a)</sdr>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, 8. <sd>(c)</sd>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tome</ent><br/
@@ -25720,7 +25720,7 @@ Of the turtle, crane, and beaver.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Toter</ent><br/
-<hw>Tot"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Tote</er> to carry.]</ety> <fld>(Zool.)</fld> <def>The stone roller. See <cref>Stone roller</cref> <sd>(a)</sd>, under <er>Stone</er>.</def><br/
+<hw>Tot"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Tote</er> to carry.]</ety> <fld>(Zool.)</fld> <def>The stone roller. See <cref>Stone roller</cref> <sdr>(a)</sdr>, under <er>Stone</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>T'other</ent><br/
@@ -26215,7 +26215,7 @@ Become the <qex>touches</qex> of sweet harmony.</q> <rj><qau>Shak.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><ent>Tough-cake</ent><br/
-<hw>Tough"-cake`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Tough-pitch</er> <sd>(b)</sd>.</def><br/
+<hw>Tough"-cake`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Tough-pitch</er> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toughen</ent><br/
@@ -34956,7 +34956,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triquetrum</ent><br/
-<hw>Tri*que"trum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triquetra</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>One of the bones of the carpus; the cuneiform. See <er>Cuneiform</er> <sd>(b)</sd>.</def><br/
+<hw>Tri*que"trum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Triquetra</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>One of the bones of the carpus; the cuneiform. See <er>Cuneiform</er> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triradiated</ent><br/
@@ -39897,7 +39897,7 @@ And full of peace, now tossed and <qex>turbulent</qex>.</q> <rj><qau>Milton.</qa
 <p><sn>4.</sn> <fld>(Zool.)</fld> <def>The plum weevil. See <er>Curculio</er>, and <cref>Plum weevil</cref>, under <er>Plum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Turk's cap</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Turk's-cap lily. See under <er>Lily</er>.</cd> <sd>(b)</sd> <cd>A tulip.</cd> <sd>(c)</sd> <cd>A plant of the genus <gen>Melocactus</gen>; Turk's head. See <cref>Melon cactus</cref>, under <er>Melon</er>.</cd> -- <col><b>Turk's head</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld> <cd>A knot of turbanlike form worked on a rope with a piece of small line.</cd> <au>R. H. Dana, Jr.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>See <cref>Turk's cap</cref> <sd>(c)</sd> above.</cd> -- <col><b>Turk's turban</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Ranunculus</gen>; crowfoot.</cd></cs><br/
+<p><cs><col><b>Turk's cap</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Turk's-cap lily. See under <er>Lily</er>.</cd> <sd>(b)</sd> <cd>A tulip.</cd> <sd>(c)</sd> <cd>A plant of the genus <gen>Melocactus</gen>; Turk's head. See <cref>Melon cactus</cref>, under <er>Melon</er>.</cd> -- <col><b>Turk's head</b></col>. <sd>(a)</sd> <fld>(Naut.)</fld> <cd>A knot of turbanlike form worked on a rope with a piece of small line.</cd> <au>R. H. Dana, Jr.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>See <cref>Turk's cap</cref> <sdr>(c)</sdr> above.</cd> -- <col><b>Turk's turban</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Ranunculus</gen>; crowfoot.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turkeis</ent><br/

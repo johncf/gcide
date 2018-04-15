@@ -4865,7 +4865,7 @@ Than that earth should stand at <qex>gaze</qex> like Joshua's moon in Ajalon!</q
 <p><sn>8.</sn> <fld>(Mech.)</fld> <sd>(a)</sd> <def>A toothed wheel, or cogwheel; <as>as, a spur <ex>gear</ex>, or a bevel <ex>gear</ex></as>; also, toothed wheels, collectively.</def> <sd>(b)</sd> <def>An apparatus for performing a special function; gearing; <as>as, the feed <ex>gear</ex> of a lathe</as>.</def> <sd>(c)</sd> <def>Engagement of parts with each other; <as>as, in <ex>gear</ex>; out of <ex>gear</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>9.</sn> <pluf>pl.</pluf> <fld>(Naut.)</fld> <def>See 1st <er>Jeer</er> <sd>(b)</sd>.</def><br/
+<p><sn>9.</sn> <pluf>pl.</pluf> <fld>(Naut.)</fld> <def>See 1st <er>Jeer</er> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>10.</sn> <def>Anything worthless; stuff; nonsense; rubbish.</def> <mark>[Obs. or Prov. Eng.]</mark>  <rj><au>Wright.</au></rj><br/
@@ -22484,7 +22484,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><ent>Groundsill</ent><br/
 <ent>Groundsel</ent><br/
-<mhw><hw>Ground"sel</hw> <pr>(?)</pr>, <hw>Ground"sill`</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[<ets>Ground</ets> + <ets>sill</ets>.]</ety> <def>See <cref>Ground plate</cref> <sd>(a)</sd>, under <er>Ground</er></def><br/
+<mhw><hw>Ground"sel</hw> <pr>(?)</pr>, <hw>Ground"sill`</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[<ets>Ground</ets> + <ets>sill</ets>.]</ety> <def>See <cref>Ground plate</cref> <sdr>(a)</sdr>, under <er>Ground</er></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>groundsheet</ent><br/

@@ -18698,7 +18698,7 @@ Do 'twixt their fingers <qex>flip</qex> their cherry stones.</q> <rj><qau>W. Bro
 <p><sn>12.</sn> <def>a vehicle on which an exhibit or display is mounted, driven or pulled as part of a parade.  The float often is based on a large flat platform, and may contain a very elaborate structure with a tableau or people.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Float board</b></col>, <cd>one of the boards fixed radially to the rim of an undershot water wheel or of a steamer's paddle wheel; -- a vane.</cd> -- <col><b>Float case</b></col> <fld>(Naut.)</fld>, <cd>a caisson used for lifting a ship.</cd> -- <mcol><col><b>Float copper</b></col> <it>or</it> <col><b>Float gold</b></col></mcol> <fld>(Mining)</fld>, <cd>fine particles of metallic copper or of gold suspended in water, and thus liable to be lost.</cd> -- <col><b>Float ore</b></col>, <cd>water-worn particles of ore; fragments of vein material found on the surface, away from the vein outcrop.</cd> <au>Raymond.</au> -- <col><b>Float stone</b></col> <fld>(Arch.)</fld>, <cd>a siliceous stone used to rub stonework or brickwork to a smooth surface.</cd> -- <col><b>Float valve</b></col>, <cd>a valve or cock acted upon by a float. See <er>Float</er>, 1 <sd>(b)</sd>.</cd></cs><br/
+<p><cs><col><b>Float board</b></col>, <cd>one of the boards fixed radially to the rim of an undershot water wheel or of a steamer's paddle wheel; -- a vane.</cd> -- <col><b>Float case</b></col> <fld>(Naut.)</fld>, <cd>a caisson used for lifting a ship.</cd> -- <mcol><col><b>Float copper</b></col> <it>or</it> <col><b>Float gold</b></col></mcol> <fld>(Mining)</fld>, <cd>fine particles of metallic copper or of gold suspended in water, and thus liable to be lost.</cd> -- <col><b>Float ore</b></col>, <cd>water-worn particles of ore; fragments of vein material found on the surface, away from the vein outcrop.</cd> <au>Raymond.</au> -- <col><b>Float stone</b></col> <fld>(Arch.)</fld>, <cd>a siliceous stone used to rub stonework or brickwork to a smooth surface.</cd> -- <col><b>Float valve</b></col>, <cd>a valve or cock acted upon by a float. See <er>Float</er>, 1 <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Float</ent><br/
@@ -20987,7 +20987,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluxions</ent><br/
-<hw>Flux"ions</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Math.)</fld> <def>See <er>Fluxion</er>, 6<sd>(b)</sd>.</def><br/
+<hw>Flux"ions</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Math.)</fld> <def>See <er>Fluxion</er>, 6<sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluxive</ent><br/
@@ -23315,7 +23315,7 @@ Late <qex>footed</qex> in the kingdom?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Footplate</ent><br/
-<hw>Foot"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Locomotives)</fld> <def>See <er>Footboard</er> <sd>(a)</sd>.</def><br/
+<hw>Foot"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Locomotives)</fld> <def>See <er>Footboard</er> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Foot pound</ent><br/
@@ -24180,7 +24180,7 @@ And will you count such <qex>forcement</qex> treachery?</q> <rj><qau>J. Webster.
 <p><sn>2.</sn> <fld>(Gardening)</fld> <def>The art of raising plants, flowers, and fruits at an earlier season than the natural one, as in a hitbed or by the use of artificial heat.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Forcing bed</b></col> <it>or</it> <col><b>Forcing pit</b></col></mcol>, <cd>a plant bed having an under layer of fermenting manure, the fermentation yielding bottom heat for forcing plants; a hotbed.</cd> -- <col><b>Forcing engine</b></col>, <cd>a fire engine.</cd> -- <col><b>Forcing fit</b></col> <fld>(Mech.)</fld>, <cd>a tight fit, as of one part into a hole in another part, which makes it necessary to use considerable force in putting the two parts together.</cd> -- <col><b>Forcing house</b></col>, <cd>a greenhouse for the forcing of plants, fruit trees, etc.</cd> -- <col><b>Forcing machine</b></col>, <cd>a powerful press for putting together or separating two parts that are fitted tightly one into another, as for forcing a crank on a shaft, or for drawing off a car wheel from the axle.</cd> -- <col><b>Forcing pump</b></col>. <cd>See <er>Force pump</er> <sd>(b)</sd>.</cd></cs><br/
+<p><cs><mcol><col><b>Forcing bed</b></col> <it>or</it> <col><b>Forcing pit</b></col></mcol>, <cd>a plant bed having an under layer of fermenting manure, the fermentation yielding bottom heat for forcing plants; a hotbed.</cd> -- <col><b>Forcing engine</b></col>, <cd>a fire engine.</cd> -- <col><b>Forcing fit</b></col> <fld>(Mech.)</fld>, <cd>a tight fit, as of one part into a hole in another part, which makes it necessary to use considerable force in putting the two parts together.</cd> -- <col><b>Forcing house</b></col>, <cd>a greenhouse for the forcing of plants, fruit trees, etc.</cd> -- <col><b>Forcing machine</b></col>, <cd>a powerful press for putting together or separating two parts that are fitted tightly one into another, as for forcing a crank on a shaft, or for drawing off a car wheel from the axle.</cd> -- <col><b>Forcing pump</b></col>. <cd>See <er>Force pump</er> <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Forcipal</ent><br/

@@ -20549,7 +20549,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Far.)</fld> <def>A stub, like soft horn, about the size of a chestnut, situated behind and below the pastern joint.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Anat.)</fld> <def>See 2d <er>Calcar</er>, 3 <sd>(b)</sd>.</def><br/
+<p><sn>4.</sn> <fld>(Anat.)</fld> <def>See 2d <er>Calcar</er>, 3 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ergotic</ent><br/

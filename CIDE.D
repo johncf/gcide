@@ -794,7 +794,7 @@ She, I'll swear, hath corns.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ The word <xex>daisy</xex> is also used for composite plants of other genera, as <gen>Erigeron</gen>, or fleabane.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Michaelmas daisy</b></col> <fld>(Bot.)</fld>, <cd>any plant of the genus <gen>Aster</gen>, of which there are many species.</cd> -- <col><b>Oxeye daisy</b></col> <fld>(Bot.)</fld>, <cd>the whiteweed. See <er>Daisy</er> <sd>(b)</sd>.</cd></cs><br/
+<p><cs><col><b>Michaelmas daisy</b></col> <fld>(Bot.)</fld>, <cd>any plant of the genus <gen>Aster</gen>, of which there are many species.</cd> -- <col><b>Oxeye daisy</b></col> <fld>(Bot.)</fld>, <cd>the whiteweed. See <er>Daisy</er> <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>daisy bush</ent><br/
@@ -50081,7 +50081,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dulcamarin</ent><br/
-<hw>Dul`ca*ma"rin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A glucoside extracted from the bittersweet (<spn>Solanum Dulcamara</spn>), as a yellow amorphous substance. It probably occasions the compound taste. See <er>Bittersweet</er>, 3<sd>(a)</sd>.</def><br/
+<hw>Dul`ca*ma"rin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A glucoside extracted from the bittersweet (<spn>Solanum Dulcamara</spn>), as a yellow amorphous substance. It probably occasions the compound taste. See <er>Bittersweet</er>, 3<sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dulce</ent><br/

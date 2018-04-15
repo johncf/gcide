@@ -722,6 +722,8 @@ Tag           Font         Meaning and Description
                            lettered subdefinition when it is referred to at
                            another point in the text.
 
+<sdr>         italic       Subdefinition reference.
+
 <ship>        italic       The name of a ship.  Rarely used.
 
 <sing>        *            Singular. Analogous to the <plu> segment, but

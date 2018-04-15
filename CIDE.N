@@ -56,7 +56,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nabk</ent><br/
-\'d8<hw>Nabk</hw> <pr>(n<acr/bk)</pr>, <pos>n.</pos> <ety>[Ar. <ets>nabiqa</ets>, <ets>nibqa</ets>.]</ety> <fld>(Bot.)</fld> <def>The edible berries of the <spn>Zizyphys Lotus</spn>, a tree of Northern Africa, and Southwestern Europe.</def> <altsp>[Written also <asp>nubk</asp>.]</altsp> See <er>Lotus</er> <sd>(b)</sd>, and <er>Sadr</er>.<br/
+\'d8<hw>Nabk</hw> <pr>(n<acr/bk)</pr>, <pos>n.</pos> <ety>[Ar. <ets>nabiqa</ets>, <ets>nibqa</ets>.]</ety> <fld>(Bot.)</fld> <def>The edible berries of the <spn>Zizyphys Lotus</spn>, a tree of Northern Africa, and Southwestern Europe.</def> <altsp>[Written also <asp>nubk</asp>.]</altsp> See <er>Lotus</er> <sdr>(b)</sdr>, and <er>Sadr</er>.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nabob</ent><br/
@@ -10654,7 +10654,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>No; not any; -- used adjectively before a vowel, in old style; <as>as, thou shalt have <ex>none</ex> assurance of thy life</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>None of</b></col>, <cd>not at all; not; nothing of; -- used emphatically.</cd> <ldquo/They knew that I was <xex>none of</xex> the register that entered their admissions in the universities.<rdquo/ <au>Fuller.</au> -- <col><b>None-so-pretty</b></col> <fld>(Bot.)</fld>, <cd>the <spn>Saxifraga umbrosa</spn>. See <cref>London pride</cref> <sd>(a)</sd>, under <er>London</er>.</cd></cs><br/
+<p><cs><col><b>None of</b></col>, <cd>not at all; not; nothing of; -- used emphatically.</cd> <ldquo/They knew that I was <xex>none of</xex> the register that entered their admissions in the universities.<rdquo/ <au>Fuller.</au> -- <col><b>None-so-pretty</b></col> <fld>(Bot.)</fld>, <cd>the <spn>Saxifraga umbrosa</spn>. See <cref>London pride</cref> <sdr>(a)</sdr>, under <er>London</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>None</ent><br/
@@ -14130,7 +14130,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nucellus</ent><br/
-\'d8<hw>Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, 3 <sd>(a)</sd>.</def><br/
+\'d8<hw>Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, 3 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nucha</ent><br/

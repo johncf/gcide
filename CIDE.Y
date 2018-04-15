@@ -169,7 +169,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yakamilk</ent><br/
-<hw>Yak"a*milk</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Trumpeter</er>, 3 <sd>(a)</sd>.</def><br/
+<hw>Yak"a*milk</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Trumpeter</er>, 3 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yakare</ent><br/
@@ -1349,7 +1349,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yernut</ent><br/
-<hw>Yer"nut`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Dan. <ets>jordn<oum/d</ets>, Sw. <ets>jordn<oum/t</ets>, earthnut.  Cf. <er>Jarnut</er>.]</ety> <def>An earthnut, or groundnut.  See <er>Groundnut</er> <sd>(d)</sd>.</def>  <altsp>[Written also <asp>yarnut</asp>.]</altsp><br/
+<hw>Yer"nut`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Dan. <ets>jordn<oum/d</ets>, Sw. <ets>jordn<oum/t</ets>, earthnut.  Cf. <er>Jarnut</er>.]</ety> <def>An earthnut, or groundnut.  See <er>Groundnut</er> <sdr>(d)</sdr>.</def>  <altsp>[Written also <asp>yarnut</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yerst</ent><br/
