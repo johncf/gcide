@@ -36305,13 +36305,15 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>2.</sn>  <fld>(Chem.)</fld> <def>same as <er>Isomer</er>.</def> <mark>[archaic]</mark> <br/
 [<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
-<p><ent>isomeric</ent><br/
-<hw>i`so*mer"ic</hw> <pr>(<imac/`s<osl/*m<ecr/r"<icr/k)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <grk>me`ros</grk> part: cf. F. <ets>isom<eacute/rique</ets>.]</ety> <fld>(Chem.)</fld> <def>Having the same chemical composition and molecular weight; having the same number of atoms of each kind in the molecule; -- said of chemical compounds with known chemical composition.  This property used to be called <altname>metameric</altname> to distinguish it from other forms of isomerism.</def><br/
+<p><ent>Isomeric</ent><br/
+<hw>I`so*mer"ic</hw> <pr>(<imac/`s<osl/*m<ecr/r"<icr/k)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <grk>me`ros</grk> part: cf. F. <ets>isom<eacute/rique</ets>.]</ety> <fld>(Chem.)</fld> <sn>1.</sn> <def>Having the same percentage composition; -- said of two or more different substances which contain the same ingredients in the same proportions by weight, often used with <xex>with</xex>.</def> Specif.: <sd>(a)</sd> <def>Polymeric; <it>i. e.</it>, having the same elements united in the same proportion by weight, but with different molecular weights; <as>as, acetylene and benzine are <ex>isomeric</ex> (<ex>polymeric</ex>) with each other in this sense</as>. See <er>Polymeric</er>.</def> <sd>(b)</sd> <def>Metameric; <it>i. e.</it>, having the same elements united in the same proportions by weight, and with the same molecular weight, but with a different structure or arrangement of the ultimate parts; <as>as, ethyl alcohol and methyl ether are <ex>isomeric</ex> (<ex>metameric</ex>) with each other in this sense</as>. See <er>Metameric</er>.</def><br/
+[<source>1913 Webster</source>]</p>
+
+<p><sn>2.</sn> <def>Having the same chemical composition and molecular weight; having the same number of atoms of each kind in the molecule; -- said of chemical compounds with known chemical composition.  This property used to be called <altname>metameric</altname> to distinguish it from other forms of isomerism.</def><br/
 [<source>PJC</source>]</p>
 
-<p><note><hand/  Formerly the term <ex>isomeric</ex> applied also to comopounds having the same percentage chemical composition, even if the number of atoms in a molecule differed.  In the 1913 dictionary <ex>isomeric</ex> was defined as:<br/
-<ldquo/Having the same percentage composition; -- said of two or more different substances which contain the same ingredients in the same proportions by weight, often used with <xex>with</xex>. Specif.: <sd>(a)</sd> Polymeric; <it>i. e.</it>, having the same elements united in the same proportion by weight, but with different molecular weights; <as>as, acetylene and benzine are <ex>isomeric</ex> (<ex>polymeric</ex>) with each other in this sense</as>. See <er>Polymeric</er>. <sd>(b)</sd> Metameric; <it>i. e.</it>, having the same elements united in the same proportions by weight, and with the same molecular weight, but with a different structure or arrangement of the ultimate parts; <as>as, ethyl alcohol and methyl ether are <ex>isomeric</ex> (<ex>metameric</ex>) with each other in this sense</as>. See <er>Metameric</er>.<rdquo/</note><br/
-[<source>1913 Webster</source>]</p>
+<p><note><hand/  Formerly (as can be seen in def. 1.), the term <ex>isomeric</ex> applied to comopounds having the same percentage chemical composition, even if the number of atoms in a molecule differed. Such a sense has become obsolete these days.<br/
+[<source>PJC</source>]</p>
 
 <p><ent>Isomeride</ent><br/
 <hw>I*som"er*ide</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An isomer.</def> <mark>[R.]</mark><br/
