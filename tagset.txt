@@ -427,6 +427,8 @@ Tag           Font         Meaning and Description
 
 <row>         *            Designates a row in a table.
 
+<ship>        *            The name of a ship. (used once)
+
 <state>       *            Name of a geopolitical state, the first
                            subdivision of a country. Includes, e.g. Canadian
                            provinces.
@@ -723,8 +725,6 @@ Tag           Font         Meaning and Description
                            another point in the text.
 
 <sdr>         italic       Subdefinition reference.
-
-<ship>        italic       The name of a ship.  Rarely used.
 
 <sing>        *            Singular. Analogous to the <plu> segment, but
                            more rarely used, mostly for Indian tribes, which
