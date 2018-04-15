@@ -7128,7 +7128,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elevatory</ent><br/
-<hw>El"e*va`to*ry</hw>, <pos>n.</pos> <ety>[Cf. F. <ets><eacute/l<eacute/vatoire</ets>.]</ety> <fld>(Surg.)</fld> <def>See <er>Elevator</er>, <pos>n.</pos> <sd>(e)</sd>.</def>  <rj><au>Dunglison.</au></rj><br/
+<hw>El"e*va`to*ry</hw>, <pos>n.</pos> <ety>[Cf. F. <ets><eacute/l<eacute/vatoire</ets>.]</ety> <fld>(Surg.)</fld> <def>See <er>Elevator</er>, <pos>n.</pos> <sdr>(e)</sdr>.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 480 --></p>

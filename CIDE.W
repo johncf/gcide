@@ -18610,7 +18610,7 @@ In a <qex>withewyndes</qex> wise ybounden about.</q> <rj><qau>Piers Plowman.</qa
 <hw>With"y</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Withies</plw> <pr>(#)</pr>.</plu> <ety>[OE. <ets>withe</ets>, <ets>wipi</ets>, AS. <ets>w<imac/<?/ig</ets> a willow, willow twig; akin to G. <ets>weide</ets> willow, OHG. <ets>w<imac/da</ets>, Icel. <ets>v<imac/<?/ja</ets>, a withy, Sw. <ets>vide</ets> a willow twig, Dan. <ets>vidie</ets> a willow, osier, Gr. <?/, and probably to L. <ets>vitis</ets> a vine, <ets>viere</ets> to plait, Russ. <ets>vite</ets>. <root/141.  Cf. <er>Wine</er>, <er>Withe</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <fld>(Bot.)</fld> <def>The osier willow (<spn>Salix viminalis</spn>).  See <er>Osier</er>, <pos>n.</pos> <sd>(a)</sd>.</def><br/
+<p><sn>1.</sn> <fld>(Bot.)</fld> <def>The osier willow (<spn>Salix viminalis</spn>).  See <er>Osier</er>, <pos>n.</pos> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A withe.  See <er>Withe</er>, 1.</def><br/
@@ -23491,7 +23491,7 @@ If the dear host's neck were <qex>wried</qex>.</q> <rj><qau>R. Browning.</qau></
 <p><sn>1.</sn> <def>The letter Y.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A kind of crotch.  See <er>Y</er>, <pos>n.</pos> <sd>(a)</sd>.</def><br/
+<p><sn>2.</sn> <def>A kind of crotch.  See <er>Y</er>, <pos>n.</pos> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wyke</ent><br/

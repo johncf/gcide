@@ -22914,7 +22914,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomcod</ent><br/
-<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sdr>(a)</sdr>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, 8. <sd>(c)</sd>.</def><br/
+<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sdr>(a)</sdr>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, 8. <sdr>(c)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tome</ent><br/
@@ -23496,7 +23496,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 <p><sn>1.</sn> <def>The weight of goods carried in a boat or a ship.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The cubical content or burden of a vessel, or vessels, in tons; or, the amount of weight which one or several vessels may carry. See <er>Ton</er>, <pos>n.</pos> <sd>(b)</sd>.</def><br/
+<p><sn>2.</sn> <def>The cubical content or burden of a vessel, or vessels, in tons; or, the amount of weight which one or several vessels may carry. See <er>Ton</er>, <pos>n.</pos> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A fleet . . . with an aggregate <qex>tonnage</qex> of 60,000 seemed sufficient to conquer the world.</q> <rj><qau>Motley.</qau></rj><br/
@@ -40505,7 +40505,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Turn"sole`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>tournesol</ets>, It. <ets>tornasole</ets>; <ets>tornare</ets> to turn (LL. <ets>tornare</ets>) + <ets>sole</ets> the sun, L. <ets>sol</ets>. See <er>Turn</er>, <er>Solar</er>, <pos>a.</pos>, and cf. <er>Heliotrope</er>.]</ety> <altsp>[Written also <asp>turnsol</asp>.]</altsp> <sn>1.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A plant of the genus <gen>Heliotropium</gen>; heliotrope; -- so named because its flowers are supposed to turn toward the sun.</def> <sd>(b)</sd> <def>The sunflower.</def> <sd>(c)</sd> <def>A kind of spurge (<spn>Euphorbia Helioscopia</spn>).</def> <sd>(d)</sd> <def>The euphorbiaceous plant <spn>Chrozophora tinctoria</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Litmus.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>A purple dye obtained from the plant turnsole. See def. 1 <sd>(d)</sd>.</def><br/
+<p><sn>2.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Litmus.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>A purple dye obtained from the plant turnsole. See def. 1 <sdr>(d)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnspit</ent><br/

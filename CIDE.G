@@ -25145,7 +25145,7 @@ bitter; whereas there is nothing <qex>gustable</qex> sweeter.</q> <rj><qau>Harve
 <p><sn>4.</sn> <def>The sac of silk taken from a silkworm (when ready to spin its cocoon), for the purpose of drawing it out into a thread. This, when dry, is exceedingly strong, and is used as the snood of a fish line.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blind gut</b></col>. <cd>See <er>Caecum</er>, <pos>n.</pos> <sd>(b)</sd>.</cd></cs><br/
+<p><cs><col><b>Blind gut</b></col>. <cd>See <er>Caecum</er>, <pos>n.</pos> <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gut</ent><br/
