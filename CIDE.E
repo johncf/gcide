@@ -12591,7 +12591,6 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><ent>endogenic</ent><br/
 <ent>endogenetic</ent><br/
 <mhw><hw>en`do*ge*net"ic</hw>, <hw>en`do*gen"ic</hw></mhw> <pos>adj.</pos> <sn>1.</sn> <fld>(Biol.)</fld>  <def>Relating to or arising from an internal process; same as <er>endogenous</er>.</def><br/
-<syn><b>Syn. --</b>.</syn><br/
 [<source>WordNet 1.5</source></p>
 
 <p><sn>2.</sn> <fld>(Geol.)</fld>  <def>Relating to the interior of the earth; of or pertaining to a metamorphic process occurring within a planet. Opposed to <contr>exogenetic</contr>.</def><br/

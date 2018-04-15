@@ -974,7 +974,7 @@ The flattery and the strife!</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>dalton</ent><br/
 <hw>dalton</hw> <pos>n.</pos> <ety>[from the chemist <person>John Dalton</person>, proponent of the modern atomic theory of matter.]</ety> <def>a unit of mass, approximately 1.66 x 10<exp>-24</exp> grams; -- it is approximately equal to the mass of one hydrogen atom, but the exact value differs slightly as used in physics and chemistry. It is used mostly to describe the size of proteins and nucleic acids in biochemistry.</def>  <note>Molecular weights are often expressed as dimensionless units, the unit being understood (in chemistry) to be the atomic mass unit with carbon equal to 14.   Thus having a <ldquo/molecular weight of 255<rdquo/ means the same as each molecule having a mass of 255 daltons.</note><br/
-<syn><b>Syn.</b> atomic mass unit.</syn><br/
+<syn><b>Syn.</b> -- atomic mass unit.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Daltonian</ent><br/
@@ -40650,7 +40650,7 @@ He dons a surcoat which he <qex>doffs</qex> at morn.</q> <rj><qau> Emerson.</qau
 
 <p><sn>3.</sn> <def>A doctrinal notion asserted without regard to evidence or truth; an arbitrary dictum.</def></p>
 
-<p><syn><b>Syn.</b> --  tenet; opinion; proposition; doctrine.</syn>  <usage>-- <er>Dogma</er>, <er>Tenet</er>. A <xex>tenet</xex> is that which is maintained as true with great firmness; <as>as, the <ex>tenets</ex> of our holy religion</as>. A <xex>dogma</xex> is that which is laid down with authority as indubitably true, especially a religious doctrine; <as>as, the <ex>dogmas</ex> of the church</as>. A <xex>tenet</xex> rests on its own intrinsic merits or demerits; a <xex>dogma</xex> rests on authority regarded as competent to decide and determine. <xex>Dogma</xex> has in our language acquired, to some extent, a repulsive sense, from its carrying with it the idea of undue authority or assumption. This is more fully the case with its derivatives <xex>dogmatical</xex> and <xex>dogmatism</xex>.</usage><br/
+<p><syn><b>Syn.</b> -- tenet; opinion; proposition; doctrine.</syn>  <usage>-- <er>Dogma</er>, <er>Tenet</er>. A <xex>tenet</xex> is that which is maintained as true with great firmness; <as>as, the <ex>tenets</ex> of our holy religion</as>. A <xex>dogma</xex> is that which is laid down with authority as indubitably true, especially a religious doctrine; <as>as, the <ex>dogmas</ex> of the church</as>. A <xex>tenet</xex> rests on its own intrinsic merits or demerits; a <xex>dogma</xex> rests on authority regarded as competent to decide and determine. <xex>Dogma</xex> has in our language acquired, to some extent, a repulsive sense, from its carrying with it the idea of undue authority or assumption. This is more fully the case with its derivatives <xex>dogmatical</xex> and <xex>dogmatism</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>dogmatic</ent><br/

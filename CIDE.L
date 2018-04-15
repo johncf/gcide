@@ -8954,7 +8954,7 @@ That <qex>leaves</qex> the print of blood where'er it walks.</q> <rj><qau>Shak.<
 
 <p><cs><col><b>To leave alone</b></col>. <sd>(a)</sd> <cd>To leave in solitude.</cd> <sd>(b)</sd> <cd>To desist or refrain from having to do with; <as>as, <ex>to leave</ex> dangerous chemicals <ex>alone</ex></as>.</cd> -- <col><b>To leave off</b></col>. <sd>(a)</sd> <cd>To desist from; to forbear; to stop; <as>as, <ex>to leave off</ex> work at six o'clock</as>.</cd> <sd>(b)</sd> <cd>To cease wearing or using; to omit to put in the usual position; <as>as, <ex>to leave off</ex> a garment; <ex>to leave off</ex> the tablecloth</as>.</cd> <sd>(c)</sd> <cd>To forsake; <as>as, <ex>to leave off</ex> a bad habit</as>.</cd> -- <col><b>To leave out</b></col>, <cd>to omit; <as>as, <ex>to leave out</ex> a word or name in writing</as>.</cd> -- <col><b>To leave to one's self</b></col>, <cd>to let (one) be alone; to cease caring for (one).</cd></cs></p>
 
-<p><syn>Syn>- To quit; depart from; forsake; abandon; relinquish; deliver; bequeath; give up; forego; resign; surrender; forbear. See <er>Quit</er>.</syn><br/
+<p><syn><b>Syn.</b> -- To quit; depart from; forsake; abandon; relinquish; deliver; bequeath; give up; forego; resign; surrender; forbear. See <er>Quit</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leave</ent><br/

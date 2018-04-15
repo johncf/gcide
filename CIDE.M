@@ -1391,7 +1391,7 @@ It would have <qex>madded</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>madder family</ent><br/
 <hw>madder family</hw> <pos>n.</pos> <def>A widely distributed natural family of mostly tropical trees and shrubs and herbs including coffee; chinchona; gardenia; madder; bedstraws; nd partridgeberry.</def><br/
-<syn>   Rubiaceae, family Rubiaceae, madder family --</syn><br/
+<syn><b>Syn.</b> -- Rubiaceae, family Rubiaceae, madder family.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Madderwort</ent><br/

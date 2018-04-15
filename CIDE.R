@@ -15487,7 +15487,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 <p><q>I will be glad and <qex>rejoice</qex> in thy mercy.</q> <rj><qau>Ps. xxxi. 7.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> To delight; joy; exult; triumph.</syn><br/
+<p><syn><b>Syn.</b> -- To delight; joy; exult; triumph.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rejoice</ent><br/
@@ -16731,7 +16731,7 @@ Their streaming volumes of <qex>relucent</qex> gold.</q> <rj><qau>Glover.</qau><
 <p><ent>Reluctancy</ent><br/
 <ent>Reluctance</ent><br/
 <mhw>{ <hw>Re*luc"tance</hw> <pr>(r?-l?k"t<it>a</it>ns)</pr>, <hw>Re*luc"tan*cy</hw> <pr>(-t<it>a</it>n-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[See <er>Reluctant</er>.]</ety> <sn>1.</sn> <def>The state or quality of being reluctant; repugnance; aversion of mind; unwillingness; -- often followed by an infinitive, or by <xex>to</xex> and a noun, formerly sometimes by <xex>against</xex>.</def> <ldquo/Tempering the severity of his looks with a <xex>reluctance</xex> to the action.<rdquo/  <rj><au>Dryden.</au></rj><br/
-<syn><b>Syn.</b> See <er>Dislike</er>.</syn><br/
+<syn><b>Syn.</b> -- See <er>Dislike</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He had some <qex>reluctance</qex> to obey the summons.</q> <rj><qau>Sir W. Scott.</qau></rj><br/

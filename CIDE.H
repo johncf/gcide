@@ -6692,7 +6692,7 @@ His rival's conquest.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatteria</ent><br/
-\'d8<hw>Hat*te"ri*a</hw> <pr>(h<acr/t*t<emac/"r<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A New Zealand lizard, which, in anatomical character, differs widely from all other existing lizards.  It is the only living representative of the order <ord>Rhynchocephala</ord>, of which many Mesozoic fossil species are known; -- called also <altname>Sphenodon</altname>, <altname>tuatara</altname>, and <altname>Tuatera</altname>.</def><br/
+\'d8<hw>Hat*te"ri*a</hw> <pr>(h<acr/t*t<emac/"r<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A New Zealand lizard, which, in anatomical character, differs widely from all other existing lizards.  It is the only living representative of the order <ord>Rhynchocephala</ord>, of which many Mesozoic fossil species are known; -- called also <altname>Sphenodon</altname>, <altname>Tuatara</altname>, and <altname>Tuatera</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatting</ent><br/
@@ -13378,7 +13378,7 @@ One of the number.</q> <rj><qau>Addison.</qau></rj><br/
 
 <p><ent>Hereafter</ent><br/
 <hw>Here*aft"er</hw>, <pos>n.</pos> <def>A future existence or state.</def>
-<-- Syn. afterlife, the life to come, future life, eternal bliss, eternal reward, --><br/
+<-- Syn. -- afterlife, the life to come, future life, eternal bliss, eternal reward, --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>'Tis Heaven itself that points out an <qex>hereafter</qex>.</q> <rj><qau>Addison.</qau></rj><br/
@@ -19490,7 +19490,7 @@ Came to the mariner's <qex>hollo</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 
 <p><cs><col><b>Hollow newel</b></col> <fld>(Arch.)</fld>, <cd>an opening in the center of a winding staircase in place of a newel post, the stairs being supported by the wall; an open newel; also, the stringpiece or rail winding around the well of such a staircase.</cd> -- <col><b>Hollow quoin</b></col> <fld>(Engin.)</fld>, <cd>a pier of stone or brick made behind the lock gates of a canal, and containing a hollow or recess to receive the ends of the gates.</cd> -- <col><b>Hollow root</b></col>. <fld>(Bot.)</fld> <cd>See <er>Moschatel</er>.</cd> -- <col><b>Hollow square</b></col>. <cd>See <er>Square</er>.</cd> -- <col><b>Hollow ware</b></col>, <cd>hollow vessels; -- a trade name for cast-iron kitchen utensils, earthenware, etc.</cd></cs></p>
 
-<p><syn><b>Syn.</b>- Concave; sunken; low; vacant; empty; void; false; faithless; deceitful; treacherous.</syn><br/
+<p><syn><b>Syn.</b> -- Concave; sunken; low; vacant; empty; void; false; faithless; deceitful; treacherous.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hollow</ent><br/

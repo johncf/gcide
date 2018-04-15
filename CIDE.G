@@ -5648,7 +5648,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><cs><col><b>General agent</b></col> <fld>(Law)</fld>, <cd>an agent whom a principal employs to transact all his business of a particular kind, or to act in his affairs generally.</cd> -- <col><b>General assembly</b></col>. <cd>See the Note under <er>Assembly</er>.</cd> -- <mcol><col><b>General average</b></col>, <col><b>General Court</b></col></mcol>. <cd>See under <er>Average</er>, <er>Court</er>.</cd> -- <col><b>General court-martial</b></col> <fld>(Mil.)</fld>, <cd>the highest military and naval judicial tribunal.</cd> -- <col><b>General dealer</b></col> <fld>(Com.)</fld>, <cd>a shopkeeper who deals in all articles in common use.</cd> -- <col><b>General demurrer</b></col> <fld>(Law)</fld>, <cd>a demurrer which objects to a pleading in general terms, as insufficient, without specifying the defects.</cd> <au>Abbott.</au> -- <col><b>General epistle</b></col>, <cd>a canonical epistle.</cd> -- <col><b>General guides</b></col> <fld>(Mil.)</fld>, <cd>two sergeants (called the <xex>right</xex>, and the <xex>left</xex>, <xex>general guide</xex>) posted opposite the right and left flanks of an infantry battalion, to preserve accuracy in marching.</cd> <au>Farrow.</au> -- <col><b>General hospitals</b></col> <fld>(Mil.)</fld>, <cd>hospitals established to receive sick and wounded sent from the field hospitals.</cd> <au>Farrow.</au>  <col><b>General issue</b></col> <fld>(Law)</fld>, <cd>an issue made by a general plea, which traverses the whole declaration or indictment at once, without offering any special matter to evade it.</cd> <au>Bouvier.</au> <au>Burrill.</au> -- <col><b>General lien</b></col> <fld>(Law)</fld>, <cd>a right to detain a chattel, etc., until payment is made of any balance due on a general account.</cd> -- <col><b>General officer</b></col> <fld>(Mil.)</fld>, <cd>any officer having a rank above that of colonel.</cd> -- <col><b>General orders</b></col> <fld>(Mil.)</fld>, <cd>orders from headquarters published to the whole command.</cd> -- <col><b>General practitioner</b></col>, <cd>in the United States, one who practices medicine in all its branches without confining himself to any specialty; in England, one who practices both as physician and as surgeon.</cd> -- <col><b>General ship</b></col>, <cd>a ship not chartered or let to particular parties.</cd> -- <col><b>General term</b></col> <fld>(Logic)</fld>, <cd>a term which is the sign of a general conception or notion.</cd> -- <col><b>General verdict</b></col> <fld>(Law)</fld>, <cd>the ordinary comprehensive verdict in civil actions, <ldquo/for the plaintiff<rdquo/ or <ldquo/for the defendant<rdquo/.</cd> <au>Burrill.</au> -- <col><b>General warrant</b></col> <fld>(Law)</fld>, <cd>a warrant, now illegal, to apprehend suspected persons, without naming individuals.</cd></cs></p>
 
-<p><syn><b>Syn.</b> <er>General</er>, <er>Common</er>, <er>Universal</er>.</syn> <usage> <xex>Common</xex> denotes primarily that in which many share; and hence, that which is often met with. <xex>General</xex> is stronger, denoting that which pertains to a majority of the individuals which compose a <xex>genus</xex>, or whole. <xex>Universal</xex>, that which pertains to all without exception. To be able to read and write is so <xex>common</xex> an attainment in the United States, that we may pronounce it <xex>general</xex>, though by no means <xex>universal</xex>.</usage><br/
+<p><syn><b>Syn.</b> -- <er>General</er>, <er>Common</er>, <er>Universal</er>.</syn> <usage> <xex>Common</xex> denotes primarily that in which many share; and hence, that which is often met with. <xex>General</xex> is stronger, denoting that which pertains to a majority of the individuals which compose a <xex>genus</xex>, or whole. <xex>Universal</xex>, that which pertains to all without exception. To be able to read and write is so <xex>common</xex> an attainment in the United States, that we may pronounce it <xex>general</xex>, though by no means <xex>universal</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>General</ent><br/
@@ -18309,7 +18309,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 
 <p><q><qex>Grant</qex> that the Fates have firmed by their decree.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><syn><b>Syn.</b>-- To give; confer; bestow; convey; transfer; admit; allow; concede. See <er>Give</er>.</syn><br/
+<p><syn><b>Syn.</b> -- To give; confer; bestow; convey; transfer; admit; allow; concede. See <er>Give</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grant</ent><br/
@@ -21187,7 +21187,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj><br/
 
 <p><q>The ridges of <qex>grim</qex> war.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><syn><b>Syn.</b>-- Fierce; ferocious; furious; horrid; horrible; frightful; ghastly; grisly; hideous; stern; sullen; sour.</syn><br/
+<p><syn><b>Syn.</b> -- Fierce; ferocious; furious; horrid; horrible; frightful; ghastly; grisly; hideous; stern; sullen; sour.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grimace</ent><br/

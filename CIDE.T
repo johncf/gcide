@@ -25600,7 +25600,7 @@ And full of peace, now <qex>tossed</qex> and turbulent.</q> <rj><qau>Milton.</qa
 <p><cs><col><b>Total abstinence</b></col>. <cd>See <er>Abstinence</er>, <pos>n.</pos>, 1.</cd> -- <col><b>Total depravity</b></col>. <fld>(Theol.)</fld> <cd>See <cref>Original sin</cref>, under <er>Original</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn>Whole; entire; complete. See <er>Whole</er>.</syn><br/
+<p><syn><b>Syn.</b> -- Whole; entire; complete. See <er>Whole</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Total</ent><br/

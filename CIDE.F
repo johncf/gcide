@@ -22354,7 +22354,7 @@ Agreed to travel.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><cs><col><b>Follow board</b></col> <fld>(Founding)</fld>, <cd>a board on which the pattern and the flask lie while the sand is rammed into the flask.</cd> <au>Knight.</au> -- <col><b>To follow the hounds</b></col>, <cd>to hunt with dogs.</cd> -- <col><b>To follow suit</b></col> <fld>(Card Playing)</fld>, <cd>to play a card of the same suit as the leading card; hence, colloquially, to follow an example set.</cd> -- <col><b>To follow up</b></col>, <cd>to pursue indefatigably.</cd></cs></p>
 
-<p><syn><b>Syn.</b>- To pursue; chase; go after; attend; accompany; succeed; imitate; copy; embrace; maintain.</syn> <usage>- To <er>Follow</er>, <er>Pursue</er>. To <xex>follow</xex> (v.t.) denotes simply to go after; to <xex>pursue</xex> denotes to follow with earnestness, and with a view to attain some definite object; <as>as, a hound <ex>pursues</ex> the deer</as>. So a person <xex>follows</xex> a companion whom he wishes to overtake on a journey; the officers of justice <xex>pursue</xex> a felon who has escaped from prison.</usage><br/
+<p><syn><b>Syn.</b> -- To pursue; chase; go after; attend; accompany; succeed; imitate; copy; embrace; maintain.</syn> <usage> -- To <er>Follow</er>, <er>Pursue</er>. To <xex>follow</xex> (v.t.) denotes simply to go after; to <xex>pursue</xex> denotes to follow with earnestness, and with a view to attain some definite object; <as>as, a hound <ex>pursues</ex> the deer</as>. So a person <xex>follows</xex> a companion whom he wishes to overtake on a journey; the officers of justice <xex>pursue</xex> a felon who has escaped from prison.</usage><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Follow</ent><br/
@@ -22597,7 +22597,7 @@ To trust man on his oath or bond.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Fondle</ent><br/
 <hw>Fon"dle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Fondled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Fondling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[From <er>Fond</er>, <pos>v.</pos>]</ety> <def>To treat or handle with tenderness or in a loving manner; to caress; <as>as, a nurse <ex>fondles</ex> a child</as>.</def></p>
 
-<p><syn><b>Syn.</b>- See <er>Caress</er>.</syn><br/
+<p><syn><b>Syn.</b> -- See <er>Caress</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fondler</ent><br/
