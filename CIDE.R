@@ -4108,7 +4108,7 @@ The <qex>rapids</qex> are near, and the daylight's past.</q> <rj><qau>Moore.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raptorial</ent><br/
-<hw>Rap*to"ri*al</hw> <pr>(r<acr/p*t<omac/"r<icr/*<ait/l)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>Rapacious; living upon prey; -- said especially of certain birds.</def> <sd>(b)</sd> <def>Adapted for seizing prey; -- said of the legs, claws, etc., of insects, birds, and other animals.</def> <sd>(c)</sd> <def>Of or pertaining to the <ord>Raptores</ord>. See <xex>Illust.</xex> <sd>(f)</sd> of <er>Aves</er>.</def><br/
+<hw>Rap*to"ri*al</hw> <pr>(r<acr/p*t<omac/"r<icr/*<ait/l)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>Rapacious; living upon prey; -- said especially of certain birds.</def> <sd>(b)</sd> <def>Adapted for seizing prey; -- said of the legs, claws, etc., of insects, birds, and other animals.</def> <sd>(c)</sd> <def>Of or pertaining to the <ord>Raptores</ord>. See <xex>Illust.</xex> (f) of <er>Aves</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raptorious</ent><br/
@@ -11890,7 +11890,7 @@ Of Hermes.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reeding</ent><br/
-<hw>Reed"ing</hw> <pr>(r<emac/d"<icr/ng)</pr>, <pos>n.</pos> <ety>[From 4th <er>Reed</er>.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A small convex molding; a reed (see <xex>Illust.</xex> <sd>(i)</sd> of <er>Molding</er>); one of several set close together to decorate a surface; also, decoration by means of reedings; -- the reverse of <contr>fluting</contr>.</def><br/
+<hw>Reed"ing</hw> <pr>(r<emac/d"<icr/ng)</pr>, <pos>n.</pos> <ety>[From 4th <er>Reed</er>.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A small convex molding; a reed (see <xex>Illust.</xex> (i) of <er>Molding</er>); one of several set close together to decorate a surface; also, decoration by means of reedings; -- the reverse of <contr>fluting</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Several <ex>reedings</ex> are often placed together, parallel to each other, either projecting from, or inserted into, the adjoining surface. The decoration so produced is then called, in general, <ex>reeding</ex>.</note><br/
