@@ -3010,7 +3010,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <hw>Il*lu"mi*na`ting</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Giving or producing light; used for illumination.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Illuminating gas</b></col>. <cd>See <er>Gas</er>, <pos>n.</pos>, 2 <sd>(a)</sd>.</cd></cs><br/
+<p><cs><col><b>Illuminating gas</b></col>. <cd>See <er>Gas</er>, <pos>n.</pos>, 2 <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illumination</ent><br/

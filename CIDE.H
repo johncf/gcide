@@ -8097,7 +8097,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>6.</sn> <fld>(Masonry)</fld> <def>That end of a stone or brick which is presented outward.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heading course</b></col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> 3 <sd>(a)</sd>.</cd> -- <col><b>Heading joint</b></col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs><br/
+<p><cs><col><b>Heading course</b></col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> 3 <sdr>(a)</sdr>.</cd> -- <col><b>Heading joint</b></col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>head-in-the-clouds</ent><br/

@@ -7167,7 +7167,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basement</ent><br/
-<hw>Base"ment</hw> <pr>(b<amac/sm<eit/nt)</pr>, <pos>n.</pos> <ety>[F. <ets>soubassement</ets>. Of uncertain origin. Cf. <er>Base</er>, <pos>a.</pos>, <er>Bastion</er>.]</ety> <fld>(Arch.)</fld> <def>The outer wall of the ground story of a building, or of a part of that story, when treated as a distinct substructure.  (See <er>Base</er>, <pos>n.</pos>, 3 <sd>(a)</sd>.)  Hence: The rooms of a ground floor, collectively.</def><br/
+<hw>Base"ment</hw> <pr>(b<amac/sm<eit/nt)</pr>, <pos>n.</pos> <ety>[F. <ets>soubassement</ets>. Of uncertain origin. Cf. <er>Base</er>, <pos>a.</pos>, <er>Bastion</er>.]</ety> <fld>(Arch.)</fld> <def>The outer wall of the ground story of a building, or of a part of that story, when treated as a distinct substructure.  (See <er>Base</er>, <pos>n.</pos>, 3 <sdr>(a)</sdr>.)  Hence: The rooms of a ground floor, collectively.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Basement membrane</b></col> <fld>(Anat.)</fld>, <cd>a delicate membrane composed of a single layer of flat cells, forming the substratum upon which, in many organs, the epithelioid cells are disposed.</cd></cs><br/

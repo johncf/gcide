@@ -1463,7 +1463,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 <hw>Tail"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Arch.)</fld> <def>The part of a projecting stone or brick inserted in a wall.</def>  <rj><au>Gwilt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Surg.)</fld> <def>Same as <er>Tail</er>, <pos>n.</pos>, 8 <sd>(a)</sd>.</def><br/
+<p><sn>2.</sn> <fld>(Surg.)</fld> <def>Same as <er>Tail</er>, <pos>n.</pos>, 8 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Sexual intercourse.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -18052,7 +18052,7 @@ Nor the all-dreaded <qex>thunderstone</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thurling</ent><br/
-<hw>Thurl"ing</hw>, <pos>n.</pos> <fld>(Mining)</fld> <def>Same as <er>Thurl</er>, <pos>n.</pos>, 2 <sd>(a)</sd>.</def><br/
+<hw>Thurl"ing</hw>, <pos>n.</pos> <fld>(Mining)</fld> <def>Same as <er>Thurl</er>, <pos>n.</pos>, 2 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thurrok</ent><br/
@@ -39298,7 +39298,7 @@ With <qex>tuneless</qex> pipe, beside the murmuring Loire!</q> <rj><qau>Goldsmit
 <p><sn>5.</sn> <fld>(Bot.)</fld> <def>A natural covering; an integument; <as>as, the <ex>tunic</ex> of a seed</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Zool.)</fld> <def>See <er>Mantle</er>, <pos>n.</pos>, 3 <sd>(a)</sd>.</def><br/
+<p><sn>6.</sn> <fld>(Zool.)</fld> <def>See <er>Mantle</er>, <pos>n.</pos>, 3 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tunicary</ent><br/

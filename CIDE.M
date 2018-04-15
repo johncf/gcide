@@ -11718,7 +11718,7 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 <hw>Mas"lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>missellane</ets>, <ets>misceline</ets>, <ets>miscelin</ets>, <ets>meslin</ets>, fr. <ets>miscellane</ets>. See <er>Miscellane</er>.]</ety> <sn>1.</sn> <def>A mixture composed of different materials</def>; especially: <sd>(a)</sd> <def>A mixture of metals resembling brass.</def> <sd>(b)</sd> <def>A mixture of different sorts of grain, as wheat and rye.</def> <altsp>[Written also <asp>meslin</asp>, <asp>mislin</asp>, <asp>maselyn</asp>, <asp>mastlin</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A vessel made of maslin, 1 <sd>(a)</sd>.</def> <mark>[Obs.]</mark><br/
+<p><sn>2.</sn> <def>A vessel made of maslin, 1 <sdr>(a)</sdr>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Mead eke in a <qex>maselyn</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/

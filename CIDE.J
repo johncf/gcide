@@ -3318,10 +3318,10 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>2.</sn> <fld>(Pottery)</fld> <sd>(a)</sd> <def>A horizontal table carrying a revolving mold, on which earthen vessels are shaped by rapid motion; a potter's wheel.</def> <sd>(b)</sd> <def>A template or tool by which vessels are shaped on a potter's wheel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A light tackle, consisting of a double and single block and the fall, used for various purposes, as to increase the purchase on a topsail sheet in hauling it home; the watch tackle.</def> <au>Totten.</au> <sd>(b)</sd> <def>A small fishing vessel, rigged like a yawl.</def> <mark>[New Eng.]</mark> <sd>(c)</sd> <def>A supplementary sail. See <er>Dandy</er>, <pos>n.</pos>, 2 <sd>(b)</sd>.</def><br/
+<p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A light tackle, consisting of a double and single block and the fall, used for various purposes, as to increase the purchase on a topsail sheet in hauling it home; the watch tackle.</def> <au>Totten.</au> <sd>(b)</sd> <def>A small fishing vessel, rigged like a yawl.</def> <mark>[New Eng.]</mark> <sd>(c)</sd> <def>A supplementary sail. See <er>Dandy</er>, <pos>n.</pos>, 2 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, 4 <sd>(i)</sd>.</def><br/
+<p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, 4 <sdr>(i)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A small glass or measuring vessel holding 1<frac12/ ounces (45 ml), used mostly for measuring liquor or drinking whiskey; also, the quantity of liquid held in a jigger.</def><br/

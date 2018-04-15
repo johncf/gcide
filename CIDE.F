@@ -12840,7 +12840,7 @@ With gradual conscience to a perfect night.</q> <rj><qau>Browning.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fine</ent><br/
-<hw>Fine</hw>, <pos>v. i.</pos> <def>To pay a fine. See <er>Fine</er>, <pos>n.</pos>, 3 <sd>(b)</sd>.</def> <mark>[R.]</mark><br/
+<hw>Fine</hw>, <pos>v. i.</pos> <def>To pay a fine. See <er>Fine</er>, <pos>n.</pos>, 3 <sdr>(b)</sdr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Men <qex>fined</qex> for the king's good will; or that he would remit his anger; women <qex>fined</qex> for leave to marry.</q> <rj><qau>Hallam.</qau></rj><br/
@@ -16208,7 +16208,7 @@ He <qex>flashes</qex> into one gross crime or other.</q> <rj><qau>Shak.</qau></r
 <p><sn>2.</sn> <def>To convey as by a flash; to light up, as by a sudden flame or light; <as>as, to <ex>flash</ex> a message along the wires; to <ex>flash</ex> conviction on the mind.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Glass Making)</fld> <def>To cover with a thin layer, as objects of glass with glass of a different color. See <er>Flashing</er>, <pos>n.</pos>, 3 <sd>(b)</sd>.</def><br/
+<p><sn>3.</sn> <fld>(Glass Making)</fld> <def>To cover with a thin layer, as objects of glass with glass of a different color. See <er>Flashing</er>, <pos>n.</pos>, 3 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>To trick up in a showy manner.</def><br/
@@ -18017,7 +18017,7 @@ Makes <qex>flexible</qex> the knees of knotted oaks.</q> <rj><qau>Shak.</qau></r
 <hw>Fli"er</hw> <pr>(fl<imac/"<etil/r)</pr>, <pos>n.</pos> <ety>[Form <er>Fly</er>, <pos>v.</pos>; cf. <er>Flyer</er>]</ety> <sn>1.</sn> <def>One who flies or flees; a runaway; a fugitive.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mach.)</fld> <def>A fly. See <er>Fly</er>, <pos>n.</pos>, 9, and 13 <sd>(b)</sd>.</def><br/
+<p><sn>2.</sn> <fld>(Mach.)</fld> <def>A fly. See <er>Fly</er>, <pos>n.</pos>, 9, and 13 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Spinning)</fld> <def>See <er>Flyer</er>, <pos>n.</pos>, 5.</def><br/
@@ -19471,7 +19471,7 @@ Which, taken at the <qex>flood</qex>, leads on to fortune.</q> <rj><qau>Shak.</q
 <p><sn>3.</sn> <fld>(Com. & Finance)</fld> <def>Act of financing, or floating, a commercial venture or an issue of bonds, stock, or the like.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Center of flotation</b></col>. <fld>(Shipbuilding)</fld> <sd>(a)</sd> <cd>The center of any given plane of flotation.</cd> <sd>(b)</sd> <cd>More commonly, the middle of the length of the load water line.</cd> <au>Rankine.</au> -- <mcol><col><b>Plane of flotation</b></col>, <it>or</it> <col><b>Line of flotation</b></col></mcol>, <cd>the plane or line in which the horizontal surface of a fluid cuts a body floating in it. See <er>Bearing</er>, <pos>n.</pos>, 9 <sd>(c)</sd>.</cd> -- <col><b>Surface of flotation</b></col> <fld>(Shipbuilding)</fld>, <cd>the imaginary surface which all the planes of flotation touch when a vessel rolls or pitches; the envelope of all such planes.</cd></cs><br/
+<p><cs><col><b>Center of flotation</b></col>. <fld>(Shipbuilding)</fld> <sd>(a)</sd> <cd>The center of any given plane of flotation.</cd> <sd>(b)</sd> <cd>More commonly, the middle of the length of the load water line.</cd> <au>Rankine.</au> -- <mcol><col><b>Plane of flotation</b></col>, <it>or</it> <col><b>Line of flotation</b></col></mcol>, <cd>the plane or line in which the horizontal surface of a fluid cuts a body floating in it. See <er>Bearing</er>, <pos>n.</pos>, 9 <sdr>(c)</sdr>.</cd> -- <col><b>Surface of flotation</b></col> <fld>(Shipbuilding)</fld>, <cd>the imaginary surface which all the planes of flotation touch when a vessel rolls or pitches; the envelope of all such planes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flotation process</ent><br/

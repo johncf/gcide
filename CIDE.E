@@ -7516,7 +7516,7 @@ The dark Earth follows wheeled in her <qex>ellipse</qex>.</q> <rj><qau>Tennyson.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ellipsoid</ent><br/
-<hw>El*lip"soid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ellipse</ets> + <ets>-oid</ets>: cf. F. <ets>ellipsoide</ets>.]</ety> <fld>(Geom.)</fld> <def>A solid, all plane sections of which are ellipses or circles. See <er>Conoid</er>, <pos>n.</pos>, 2 <sd>(a)</sd>.</def><br/
+<hw>El*lip"soid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ellipse</ets> + <ets>-oid</ets>: cf. F. <ets>ellipsoide</ets>.]</ety> <fld>(Geom.)</fld> <def>A solid, all plane sections of which are ellipses or circles. See <er>Conoid</er>, <pos>n.</pos>, 2 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The ellipsoid has three principal plane sections, <xex>a</xex>, <xex>b</xex>, and <xex>c</xex>, each at right angles to the other two, and each dividing the solid into two equal and symmetrical parts. The lines of meeting of these principal sections are the axes, or principal diameters of the ellipsoid. The point where the three planes meet is the center.</note><br/

@@ -4205,7 +4205,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>A curtain or covering; -- applied to various membranous partitions, especially to the soft palate. See under <er>Palate</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>See <er>Veil</er>, <pos>n.</pos>, 3 <sd>(b)</sd>.</def> <sd>(b)</sd> <def>A thin membrane surrounding the sporocarps of quillworts <gen>Isoetes</gen>).</def><br/
+<p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>See <er>Veil</er>, <pos>n.</pos>, 3 <sdr>(b)</sdr>.</def> <sd>(b)</sd> <def>A thin membrane surrounding the sporocarps of quillworts <gen>Isoetes</gen>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A veil-like organ or part.</def> Especially: <sd>(a)</sd> <def>The circular membrane that partially incloses the space beneath the umbrella of hydroid medusae.</def> <sd>(b)</sd> <def>A delicate funnel-like membrane around the flagellum of certain Infusoria. See <xex>Illust.</xex> <it>a</it> of <er>Protozoa</er>.</def><br/
@@ -13182,7 +13182,7 @@ At such bold words <qex>vouched</qex> with a deed so bold.</q> <rj><qau>Milton.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vouchor</ent><br/
-<hw>Vouch"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Voucher</er>, 3 <sd>(b)</sd>.</def><br/
+<hw>Vouch"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Voucher</er>, 3 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vouchsafe</ent><br/

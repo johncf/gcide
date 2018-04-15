@@ -7896,7 +7896,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A larger species (<spn>Lucinia philomela</spn>), of Eastern Europe, having similar habits; the thrush nightingale. The name is also applied to other allied species.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Mock nightingale</b></col>. <fld>(Zool.)</fld> <cd>See <er>Blackcap</er>, <pos>n.</pos>, 1 <sd>(a)</sd>.</cd></cs><br/
+<p><cs><col><b>Mock nightingale</b></col>. <fld>(Zool.)</fld> <cd>See <er>Blackcap</er>, <pos>n.</pos>, 1 <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nightish</ent><br/

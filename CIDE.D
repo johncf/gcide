@@ -45818,7 +45818,7 @@ About him, and lies down to pleasant dreams.</q> <rj><qau>Bryant.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Draughts</ent><br/
-<hw>Draughts</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>A mild vesicatory. See <er>Draught</er>, <pos>n.</pos>, 3 <sd>(c)</sd>.</def><br/
+<hw>Draughts</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>A mild vesicatory. See <er>Draught</er>, <pos>n.</pos>, 3 <sdr>(c)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Draughts</ent><br/
@@ -48140,7 +48140,7 @@ That visit my sad heart.</q> <rj><qau> Shak.</qau></rj><br/
 <p><sn>7.</sn> <def>Act of dropping; sudden fall or descent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Ague drop</b></col>, <col><b>Black drop</b></col></mcol>. <cd>See under <er>Ague</er>, <er>Black</er>.</cd> -- <col><b>Drop by drop</b></col>, <cd>in small successive quantities; in repeated portions.</cd> <ldquo/Made to taste <xex>drop by drop</xex> more than the bitterness of death.<rdquo/ <au>Burke.</au> -- <col><b>Drop curtain</b></col>. <cd>See <er>Drop</er>, <pos>n.</pos>, 4. <sd>(d)</sd>.</cd> -- <col><b>Drop forging</b></col>. <fld>(Mech.)</fld> <sd>(a)</sd> <cd>A forging made in dies by a drop hammer.</cd> <sd>(b)</sd> <cd>The process of making drop forgings.</cd> -- <col><b>Drop hammer</b></col> <fld>(Mech.)</fld>, <cd>a hammer for forging, striking up metal, etc., the weight being raised by a strap or similar device, and then released to drop on the metal resting on an anvil or die.</cd> -- <col><b>Drop kick</b></col> <fld>(Football)</fld>, <cd>a kick given to the ball as it rebounds after having been dropped from the hands.</cd> -- <col><b>Drop lake</b></col>, <cd>a pigment obtained from Brazil wood.</cd> <au>Mollett.</au> -- <col><b>Drop letter</b></col>, <cd>a letter to be delivered from the same office where posted.</cd> -- <col><b>Drop press</b></col> <fld>(Mech.)</fld>, <cd>a drop hammer; sometimes, a dead-stroke hammer; -- also called <xex>drop</xex>.</cd> -- <col><b>Drop scene</b></col>, <cd>a drop curtain on which a scene is painted. See <er>Drop</er>, <pos>n.</pos>, 4. <sd>(d)</sd>.</cd> -- <col><b>Drop seed</b></col>. <fld>(Bot.)</fld> <cd>See the List under <er>Glass</er>.</cd> -- <col><b>Drop serene</b></col>. <fld>(Med.)</fld> <cd>See <er>Amaurosis</er>.</cd></cs><br/
+<p><cs><mcol><col><b>Ague drop</b></col>, <col><b>Black drop</b></col></mcol>. <cd>See under <er>Ague</er>, <er>Black</er>.</cd> -- <col><b>Drop by drop</b></col>, <cd>in small successive quantities; in repeated portions.</cd> <ldquo/Made to taste <xex>drop by drop</xex> more than the bitterness of death.<rdquo/ <au>Burke.</au> -- <col><b>Drop curtain</b></col>. <cd>See <er>Drop</er>, <pos>n.</pos>, 4. <sdr>(d)</sdr>.</cd> -- <col><b>Drop forging</b></col>. <fld>(Mech.)</fld> <sd>(a)</sd> <cd>A forging made in dies by a drop hammer.</cd> <sd>(b)</sd> <cd>The process of making drop forgings.</cd> -- <col><b>Drop hammer</b></col> <fld>(Mech.)</fld>, <cd>a hammer for forging, striking up metal, etc., the weight being raised by a strap or similar device, and then released to drop on the metal resting on an anvil or die.</cd> -- <col><b>Drop kick</b></col> <fld>(Football)</fld>, <cd>a kick given to the ball as it rebounds after having been dropped from the hands.</cd> -- <col><b>Drop lake</b></col>, <cd>a pigment obtained from Brazil wood.</cd> <au>Mollett.</au> -- <col><b>Drop letter</b></col>, <cd>a letter to be delivered from the same office where posted.</cd> -- <col><b>Drop press</b></col> <fld>(Mech.)</fld>, <cd>a drop hammer; sometimes, a dead-stroke hammer; -- also called <xex>drop</xex>.</cd> -- <col><b>Drop scene</b></col>, <cd>a drop curtain on which a scene is painted. See <er>Drop</er>, <pos>n.</pos>, 4. <sdr>(d)</sdr>.</cd> -- <col><b>Drop seed</b></col>. <fld>(Bot.)</fld> <cd>See the List under <er>Glass</er>.</cd> -- <col><b>Drop serene</b></col>. <fld>(Med.)</fld> <cd>See <er>Amaurosis</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drop</ent><br/
@@ -50077,7 +50077,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Dulcamara</ent><br/
-<hw>Dul`ca*ma"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dulcis</ets> sweet + <ets>amarus</ets> bitter.]</ety> <fld>(Bot.)</fld> <def>A plant (<spn>Solanum Dulcamara</spn>). See <er>Bittersweet</er>, <pos>n.</pos>, 3 <sd>(a)</sd>.</def><br/
+<hw>Dul`ca*ma"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>dulcis</ets> sweet + <ets>amarus</ets> bitter.]</ety> <fld>(Bot.)</fld> <def>A plant (<spn>Solanum Dulcamara</spn>). See <er>Bittersweet</er>, <pos>n.</pos>, 3 <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dulcamarin</ent><br/
