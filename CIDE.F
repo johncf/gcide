@@ -29822,10 +29822,9 @@ The armed ships.</q> <rj><qau>Fairfax.</qau></rj><br/
 <hw>Fraun"ho*fer lines`</hw> <pr>(?)</pr> <pos>prop. n. pl.</pos>. <fld>(Physics.)</fld> <def>The lines of the spectrum; especially and properly, the dark lines of the solar spectrum, so called because first accurately observed and interpreted by <person><etsep>Fraunhofer</etsep></person>, a German physicist.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>fraxin</ent><br/
-<hw>frax"in</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Fraxinus</er>.]</ety> <fld>(Chem.)</fld> <def>A colorless crystalline substance (<chform>C16H18O10</chform>) found in the bark of the ash (<gen>Fraxinus</gen>), and along with esculin in the bark of the horse-chestnut.  It is structurally a derivative of a coumarin glucoside. It shows a delicate blue-green fluorescence in alkaline solutions; -- called also <altname>paviin</altname> and <altname>fraxoside</altname>.</def> <au>MI-11</au>br/
-<syn><b>Syn. -- </b> <chname>8-(<beta/-D-Glucopyranosyloxy)-7-hydroxy-6-methoxy-2H-1-benzopyran-2-one</chname>; also, <chname>7,8-dihydroxy-6-methoxy-coumarin-8-<beta/-D-glucoside</chname>; <chname>fraxetin-8-glucoside</chname>.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+<p><ent>Fraxin</ent><br/
+<hw>Frax"in</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Fraxinus</er>.]</ety> <fld>(Chem.)</fld> <def>A colorless crystalline substance, regarded as a glucoside, and found in the bark of the ash (<gen>Fraxinus</gen>), and along with esculin in the bark of the horse-chestnut. It shows a delicate fluorescence in alkaline solutions; -- called also <altname>paviin</altname>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Fraxinus</ent><br/
 \'d8<hw>Frax"i*nus</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., the ash tree.]</ety> <fld>(Bot.)</fld> <def>A genus of deciduous forest trees, found in the north temperate zone, and including the true ash trees.</def><br/

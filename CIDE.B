@@ -3526,9 +3526,8 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Ballooning</ent><br/
-<hw>Bal*loon"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The art or practice of managing balloons or voyaging in them; the sport of riding in balloons.</def><br/
-<syn>balloonry (archaic)</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+<hw>Bal*loon"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The art or practice of managing balloons or voyaging in them.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Stock Exchange)</fld> <def>The process of temporarily raising the value of a stock, as by fictitious sales.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>

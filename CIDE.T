@@ -24722,8 +24722,8 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Tore</hw>, <pos>n.</pos> <ety>[See <er>Torus</er>.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>Same as <er>Torus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Geom.)</fld> <def>same as <er>torus</er>.</def><br/
-[<source>PJC</source>]</p>
+<p><sn>2.</sn> <fld>(Geom.)</fld> <sd>(a)</sd> <def>The surface described by the circumference of a circle revolving about a straight line in its own plane.</def> <sd>(b)</sd> <def>The solid inclosed by such a surface; -- sometimes called an <altname>anchor ring</altname>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Toreador</ent><br/
 <hw>To"re*a*dor`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. <ets>torear</ets> to fight bulls, fr.L. <ets>taurus</ets> a bull.]</ety> <def>A bullfighter.</def><br/
@@ -25412,8 +25412,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>The receptacle, or part of the flower on which the carpels stand.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Geom.)</fld> <sd>(a)</sd> <def>The surface described by the circumference of a circle revolving about a straight line in its own plane.</def> <sd>(b)</sd> <def>The solid inclosed by such a surface; -- sometimes called an <altname>anchor ring</altname>.</def><br/
-<syn><b>Syn. --</b>3d Tore{2}.</syn><br/
+<p><sn>4.</sn> <fld>(Geom.)</fld> <def>See 3d <er>Tore</er>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torved</ent><br/
