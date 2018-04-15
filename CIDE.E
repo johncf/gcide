@@ -8036,7 +8036,7 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 
 <p><ent>Elytrum</ent><br/
 <ent>Elytron</ent><br/
-<mhw><hw>El"y*tron</hw> <pr>(?; 277)</pr>, <hw>El"y*trum</hw> <pr>(-tr<?/m)</pr></mhw> <pos>n.</pos>; <plu><it>pl.</it> <plw>Elytra</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`lytron</grk>, fr. <grk>'ely`ein</grk> to roll round.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>One of the anterior pair of wings in the Coleoptera and some other insects, when they are thick and serve only as a protection for the posterior pair.</def> See <er>Coleoptera</er>. <sd>(b)</sd> <def>One of the shieldlike dorsal scales of certain annelids. See <er>Ch<ae/topoda</er>.</def><br/
+<mhw><hw>El"y*tron</hw> <pr>(?; 277)</pr>, <hw>El"y*trum</hw> <pr>(-tr<?/m)</pr></mhw> <pos>n.</pos>; <plu><it>pl.</it> <plw>Elytra</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`lytron</grk>, fr. <grk>'ely`ein</grk> to roll round.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>One of the anterior pair of wings in the Coleoptera and some other insects, when they are thick and serve only as a protection for the posterior pair. See <er>Coleoptera</er>.</def> <sd>(b)</sd> <def>One of the shieldlike dorsal scales of certain annelids. See <er>Ch<ae/topoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elzevir</ent><br/

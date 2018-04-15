@@ -2895,7 +2895,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <p><q>With busy <qex>hammers</qex> closing rivets up.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Something which in form or action resembles the common hammer</def>; as: <sd>(a)</sd> <def>That part of a clock which strikes upon the bell to indicate the hour.</def> <sd>(b)</sd> <def>The padded mallet of a piano, which strikes the wires, to produce the tones.</def> <sd>(c)</sd> <fld>(Anat.)</fld> <def>The malleus.</def> See under <er>Ear</er>. <sd>(d)</sd> <fld>(Gun.)</fld> <def>That part of a gunlock which strikes the percussion cap, or firing pin; the cock; formerly, however, a piece of steel covering the pan of a flintlock musket and struck by the flint of the cock to ignite the priming.</def> <sd>(e)</sd> <def>Also, a person or thing that smites or shatters; <as>as, St. Augustine was the <ex>hammer</ex> of heresies.</as></def><br/
+<p><sn>2.</sn> <def>Something which in form or action resembles the common hammer</def>; as: <sd>(a)</sd> <def>That part of a clock which strikes upon the bell to indicate the hour.</def> <sd>(b)</sd> <def>The padded mallet of a piano, which strikes the wires, to produce the tones.</def> <sd>(c)</sd> <fld>(Anat.)</fld> <def>The malleus. See under <er>Ear</er>.</def> <sd>(d)</sd> <fld>(Gun.)</fld> <def>That part of a gunlock which strikes the percussion cap, or firing pin; the cock; formerly, however, a piece of steel covering the pan of a flintlock musket and struck by the flint of the cock to ignite the priming.</def> <sd>(e)</sd> <def>Also, a person or thing that smites or shatters; <as>as, St. Augustine was the <ex>hammer</ex> of heresies.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He met the stern legionaries [of Rome] who had been the <ldquo/massive iron <qex>hammers</qex><rdquo/ of the whole earth.</q> <rj><qau>J. H. Newman.</qau></rj><br/
@@ -18796,7 +18796,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hognut</ent><br/
-<hw>Hog"nut`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The pignut.</def> See <er>Hickory</er>. <sd>(b)</sd> <def>In England, the <spn>Bunium flexuosum</spn>, a tuberous plant.</def><br/
+<hw>Hog"nut`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The pignut. See <er>Hickory</er>.</def> <sd>(b)</sd> <def>In England, the <spn>Bunium flexuosum</spn>, a tuberous plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hogo</ent><br/
