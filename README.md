@@ -1,6 +1,9 @@
 **Important Note:** This is an unofficial fork of [GNU CIDE][gcide].
+You are now in the **readme** branch of this repository. Checkout the
+[**master** branch][master] for actual updates.
 
-[gcide]: <https://savannah.gnu.org/projects/gcide/>
+[gcide]: https://savannah.gnu.org/projects/gcide/
+[master]: https://github.com/johncf/gcide/tree/master
 
 ```
  To accompany the GNU version of the set of files (CIDE.*) containing
