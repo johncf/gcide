@@ -2,6 +2,8 @@
 You are now in the **readme** branch of this repository. Checkout the
 [**master** branch][master] for actual updates.
 
+**Also see:** [Diff with upstream](https://github.com/johncf/gcide/compare/reference...master?w=1#files_bucket).
+
 [gcide]: https://savannah.gnu.org/projects/gcide/
 [master]: https://github.com/johncf/gcide/tree/master
 
