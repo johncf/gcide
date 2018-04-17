@@ -6007,8 +6007,8 @@ That <qex>reaches</qex> blame.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><mcol><col><b>To reach after</b></col> <it>or</it> <col><b>To reach for</b></col> <it>or</it> <col><b>To reach at</b></col></mcol>, <cd>to make efforts to attain to or obtain.</cd><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>He would be in the posture of the mind <qex>reaching after</qex> a positive idea of infinity.</q> <rj><qau>Locke.</qau></rj><br/
-[<source>1913 Webster</source>]</cs></p>
+<p><q>He would be in the posture of the mind <qex>reaching after</qex> a positive idea of infinity.</q> <rj><qau>Locke.</qau></rj></cs><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Reach</ent><br/
 <hw>Reach</hw>, <pos>n.</pos> <sn>1.</sn> <def>The act of stretching or extending; extension; power of reaching or touching with the person, or a limb, or something held or thrown; <as>as, the fruit is beyond my <ex>reach</ex>; to be within <ex>reach</ex> of cannon shot.</as></def><br/
@@ -14237,10 +14237,10 @@ But perfect shadows in a sunshine day?</q> <rj><qau>Marlowe.</qau></rj><br/
 
 <p><ent>Regiment</ent><br/
 <hw>Reg"i*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Regimented</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Regimenting</conjf>.]</vmorph> <sn>1.</sn> <def>To form into a regiment or into regiments.</def>  <rj><au>Washington.</au></rj><br/
-[<source>1913 Webster</source>]<br/
-[<source>Webster 1913 Suppl.</source>]</p>
+[<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To form into classified units or bodies; to systematize according to classes, districts or the like.</def></p>
+<p><sn>2.</sn> <def>To form into classified units or bodies; to systematize according to classes, districts or the like.</def><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>The people are organized or <qex>regimented</qex> into bodies, and special functions are relegated to the several units.</q>  <rj><qau>J. W. Powell.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>

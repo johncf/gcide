@@ -255,7 +255,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A finical person; a fop; -- applied especially to English fops of about 1775, who affected the mannerisms and clothing of continental Europe.</def>  <rj><au>Goldsmith.</au></rj><br/
-[<source>1913 Webster</source>]<-- See lyrics of Yankee Doodle --></p>
+[<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <pluf>pl.</pluf> <fld>(U. S. Hist.)</fld> <def>The designation of a body of Maryland soldiers in the Revolutionary War, distinguished by a rich uniform.</def>  <rj><au>W. Irving.</au></rj><br/
 [<source>1913 Webster</source>]</p>

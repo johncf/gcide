@@ -15917,9 +15917,8 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ber"tha</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>berthe</ets>, fr. <ets>Berthe</ets>, a woman's name.]</ety> <def>A kind of collar or cape worn by ladies.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Big Bertha</b></col> <pr>(<?/)</pr>, <pos>n.</pos> <cd>a large cannon used by the German army during World War I.</cd><br/
-[<source>PJC</source>]</cs><br/
-[<source>1913 Webster</source>]</p>
+<p><cs><col><b>Big Bertha</b></col> <pr>(<?/)</pr>, <pos>n.</pos> <cd>a large cannon used by the German army during World War I.</cd></cs><br/
+[<source>PJC</source>]</p>
 
 <p><ent>Berthage</ent><br/
 <hw>Berth"age</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A place for mooring vessels in a dock or harbor.</def><br/

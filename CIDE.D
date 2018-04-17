@@ -13120,13 +13120,13 @@ Aristocrat, <qex>democrat</qex>, autocrat.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Democraty</ent><br/
-<hw>De*moc"ra*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Democracy.</def> <mark>[Obs.]</mark> <rj><au>Milton.</au></rj></p>
+<hw>De*moc"ra*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Democracy.</def> <mark>[Obs.]</mark> <rj><au>Milton.</au></rj><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>demodulator</ent><br/
 <hw>demodulator</hw> <pos>n.</pos> <fld>(Electronics)</fld> <def>An electronic device which extracts the modulation from a radio carrier wave, and outputs the original information-bearing signal.</def><br/
 <syn><b>Syn. --</b> detector.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><-- p. 389 --></p>
 
@@ -44195,19 +44195,24 @@ Sleep, Death's twin brother, times my breath.</q> <rj><qau>Tennyson.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Down</xex> is sometimes used elliptically, standing for <xex>go down</xex>, <xex>come down</xex>, <xex>tear down</xex>, <xex>take down</xex>, <xex>put down</xex>, <xex>haul down</xex>, <xex>pay down</xex>, and the like, especially in command or exclamation.<br/
-<br/
-<q><qex>Down</qex>, therefore, and beg mercy of the duke.</q> <rj><qau>Shak.</qau></rj><br/
-[<source>1913 Webster</source>]<br/
-<br/
-<q>If he be hungry more than wanton, bread alone will <qex>down</qex>.</q> <rj><qau>Locke.</qau></rj><br/
-<br/
-<xex>Down</xex> is also used intensively; as, to be loaded <xex>down</xex>; to fall <xex>down</xex>; to hang <xex>down</xex>; to drop <xex>down</xex>; to pay <xex>down</xex>.<br/
-<br/
-<q>The temple of Her<egrave/ at Argos was burnt <qex>down</qex>.</q> <rj><qau>Jowett (Thucyd.).</qau></rj><br/
-<br/
-<xex>Down</xex>, as well as <xex>up</xex>, is sometimes used in a conventional sense; as, <xex>down</xex> East.<br/
-<br/
-<q>Persons in London say <qex>down</qex> to Scotland, etc., and those in the provinces, <qex>up</qex> to London.</q> <rj><qau>Stormonth.</qau></rj>
+[<source>1913 Webster</source>]</p>
+
+<p><q><qex>Down</qex>, therefore, and beg mercy of the duke.</q> <rj><qau>Shak.</qau></rj><br/
+[<source>1913 Webster</source>]</p>
+
+<p><q>If he be hungry more than wanton, bread alone will <qex>down</qex>.</q> <rj><qau>Locke.</qau></rj><br/
+[<source>1913 Webster</source>]</p>
+
+<p><xex>Down</xex> is also used intensively; as, to be loaded <xex>down</xex>; to fall <xex>down</xex>; to hang <xex>down</xex>; to drop <xex>down</xex>; to pay <xex>down</xex>.<br/
+[<source>1913 Webster</source>]</p>
+
+<p><q>The temple of Her<egrave/ at Argos was burnt <qex>down</qex>.</q> <rj><qau>Jowett (Thucyd.).</qau></rj><br/
+[<source>1913 Webster</source>]</p>
+
+<p><xex>Down</xex>, as well as <xex>up</xex>, is sometimes used in a conventional sense; as, <xex>down</xex> East.<br/
+[<source>1913 Webster</source>]</p>
+
+<p><q>Persons in London say <qex>down</qex> to Scotland, etc., and those in the provinces, <qex>up</qex> to London.</q> <rj><qau>Stormonth.</qau></rj>
 </note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -51910,9 +51915,10 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To dye in the grain</b></col>, <col><b>To dye in the wool</b></col></mcol> (<mark>Fig.</mark>), <cd>to dye firmly; to imbue thoroughly.</cd><br/
-[<source>1913 Webster</source>]<br/
-<br/
-<q>He might truly be termed a legitimate son of the revenue system <qex>dyed in the wool</qex>.</q> <rj><qau>Hawthorne.</qau></rj></cs></p>
+[<source>1913 Webster</source>]</p>
+
+<p><q>He might truly be termed a legitimate son of the revenue system <qex>dyed in the wool</qex>.</q> <rj><qau>Hawthorne.</qau></rj></cs><br/
+[<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Stain</er>.</syn><br/
 [<source>1913 Webster</source>]</p>

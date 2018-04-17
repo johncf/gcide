@@ -12077,8 +12077,7 @@ Or roughening waste, their humble <qex>texture</qex> weave.</q> <rj><qau>Thomson
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Same as <er>Thallogen</er>.</def><br/
-[<source>1913 Webster</source>]<-- ##is this identical to thallophyte??
- --></p>
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Thallous</ent><br/
 <hw>Thal"lous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Of or pertaining to thallium; derived from, or containing, thallium; specifically, designating those compounds in which the element has a lower valence as contrasted with the <contr>thallic</contr> compounds.</def> <altsp>[Written also <asp>thallious</asp>.]</altsp><br/
@@ -16452,8 +16451,7 @@ Hangs <qex>menacing</qex>.</q> <rj><qau>Somerville.</qau></rj><br/
 
 <p><ent>Three-color</ent><br/
 <hw>Three"-col`or</hw>, <pos>a.</pos> <def>Designating, or pert. to, a photomechanical process employing printings in three colors, as red, yellow, and blue.</def><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Three-cornered</ent><br/
 <hw>Three"-cor`nered</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having three corners, or angles; <as>as, a <ex>three-cornered</ex> hat</as>.</def><br/
@@ -16552,8 +16550,7 @@ Hangs <qex>menacing</qex>.</q> <rj><qau>Somerville.</qau></rj><br/
 
 <p><ent>Three-port</ent><br/
 <hw>Three"-port`</hw>, <pos>a.</pos> <def>Having three ports; specif.: Designating a type of two-cycle internal-combustion engine in which the mixture enters the crank case through a port uncovered by the piston near the end of its stroke.</def><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Three-quarter</ent><br/
 <hw>Three"-quar`ter</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Paint.)</fld> <def>Measuring thirty inches by twenty-five; -- said of portraitures.</def><br/
@@ -16576,8 +16573,7 @@ Hangs <qex>menacing</qex>.</q> <rj><qau>Somerville.</qau></rj><br/
 
 <p><ent>Three-torque system of control</ent><br/
 <hw>Three"-torque` system of control</hw>. <fld>(Aeronautics)</fld> <def>Any system of rudders by which the pilot can exert a turning moment about each of the three rectangular axes of an aeroplane or airship.</def><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Three-valved</ent><br/
 <hw>Three"-valved`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Consisting of, or having, three valves; opening with three valves; <as>as, a <ex>three-valved</ex> pericarp</as>.</def><br/
@@ -17025,8 +17021,7 @@ That pants and reaches after distant good.</q> <rj><qau>Addison.</qau></rj><br/
 
 <p><ent>Thrombin</ent><br/
 <hw>Throm"bin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Thrombus</er>.]</ety> <fld>(Biochem.)</fld> <def>The enzyme which converts fibrinogen into fibrin.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Thrombosis</ent><br/
 \'d8<hw>Throm*bo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Thrombus</er>.]</ety> <fld>(Med.)</fld> <def>The obstruction of a blood vessel by a clot formed at the site of obstruction; -- distinguished from <contr>embolism</contr>, which is produced by a clot or foreign body brought from a distance.</def> -- <wordforms><wf>Throm*bot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
@@ -17394,8 +17389,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>spoken with deliberate underemphasis; <as>as, a <ex>throwaway</ex> line in a play</as>.</def><br/
-[<source>PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>throwaway</ent><br/
 <hw>throw"a*way</hw> <pos>n.</pos> <sn>1.</sn> <def>an advertisement (usually printed on a page or in a leaflet) intended for wide distribution.</def><br/
@@ -17403,21 +17397,18 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>words spoken in a casual way with conscious underemphasis.</def><br/
-[<source>WordNet 1.5</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>throwback</ent><br/
 <hw>throw"back</hw>, <pos>n.</pos> <sn>1.</sn> <def>the reappearance in an organism of characteristics of an earlier ancestral type; atavism.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>an organisms having characteristics of an earlier ancestral type.</def><br/
-[<source>PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>Throw back</ent><br/
 <hw>Throw back</hw>, <pos>v. i.</pos> <def>to revert to an ancestral type or character.</def> <ldquo/A large proportion of the steerage passengers <xex>throw back</xex> to their Darwinian ancestry.<rdquo/ <rj><au>The Century.</au></rj><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Throw-crook</ent><br/
 <hw>Throw"-crook`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Agric.)</fld> <def>An instrument used for twisting ropes out of straw.</def><br/
@@ -17440,8 +17431,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 
 <p><ent>Throwing stick</ent><br/
 <hw>Throw"ing stick`</hw>. <fld>(Anthropol.)</fld> <def>An instrument  used by various savage races for throwing a spear; -- called also <altname>throw stick</altname> and <altname>spear thrower</altname>.  One end of the stick receives the butt of the spear, as upon a hook or thong, and the other end is grasped with the hand, which also holds the spear, toward the middle, above it with the finger and thumb, the effect being to bring the place of support nearer the center of the spear, and practically lengthen the arm in the act of throwing.  In Mexico, one such device is called the <stype>atlatl</stype>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
 
 <p><ent>Thrown</ent><br/
 <hw>Thrown</hw> <pr>(thr<omac/n)</pr>, <def><pos>a. & p. p.</pos> from <er>Throw</er>, <pos>v.</pos></def><br/
@@ -17655,21 +17645,21 @@ And often reaches, and his <qex>thrusts</qex> renews.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thud</ent><br/
-<hw>Thud</hw> <pr>(th<ucr/d)</pr>, <pos>v. i. & t.</pos> <def>To make, or strike so as to make, a dull sound, or thud.</def></p>
+<hw>Thud</hw> <pr>(th<ucr/d)</pr>, <pos>v. i. & t.</pos> <def>To make, or strike so as to make, a dull sound, or thud.</def><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
-<p><q>Hardly the softest <qex>thudding</qex> of velvety pads.</q>  <rj><qau>A. C. Doyle.</qau></rj></p>
+<p><q>Hardly the softest <qex>thudding</qex> of velvety pads.</q>  <rj><qau>A. C. Doyle.</qau></rj><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>The waves break into spray, dash and rumble and <qex>thud</qex> below your feet.</q>  <rj><qau>H. F. Brown.</qau></rj><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thug</ent><br/
 <hw>Thug</hw> <pr>(th<ucr/g; 277)</pr>, <pos>n.</pos> <ety>[Hind. <ets>thag</ets> a deceiver, robber.]</ety> <sn>1.</sn> <def>One of an association of robbers and murderers in India who practiced murder by stealthy approaches, and from religious motives. They have been nearly exterminated by the British government.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An assassin; a ruffian; a rough.</def> <ldquo/<xex>Thugs</xex> and midnight rounders.<rdquo/  <rj><au>The Century.</au></rj><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thuggee</ent><br/
 <hw>Thug*gee"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets><tsdot/hag<imac/</ets>.]</ety> <def>The practice of secret or stealthy murder by Thugs.</def> <ldquo/One of the suppressors of <xex>Thuggee</xex>.<rdquo/  <rj><au>J. D. Hooker.</au></rj><br/
@@ -25928,15 +25918,14 @@ quitted it.</q> <rj><qau>Addison.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Naut)</fld> <def>To be brought, as a sail, so close to the wind that its weather leech shakes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To touch and go</b></col> <fld>(Naut.)</fld>, <cd>to touch bottom lightly and without damage, as a vessel in motion.</cd> -- <col><b>To touch at</b></col>, <cd>to come or go to, without tarrying; <as>as, the ship <ex>touched at</ex> Lisbon</as>.</cd> -- <mcol><col><b>To touch on</b></col> <it>or</it> <col><b>To touch upon</b></col></mcol>, <sd>(a)</sd> <cd>to come or go to for a short time.</cd> <mark>[R.]</mark>  <br/
-[<source>1913 Webster</source>]<br/
-<br/
-<q>I made a little voyage round the lake, and <qex>touched on</qex> the several towns that lie on its coasts.</q> <rj><qau>Addison.</qau></rj><br/
-[<source>1913 Webster</source>]<br/
-<br/
-<sd>(b)</sd> <cd>to discuss briefly, as only a small part of a discourse.</cd></cs><br/
-[<source>PJC</source>]</p>
+<p><cs><col><b>To touch and go</b></col> <fld>(Naut.)</fld>, <cd>to touch bottom lightly and without damage, as a vessel in motion.</cd> -- <col><b>To touch at</b></col>, <cd>to come or go to, without tarrying; <as>as, the ship <ex>touched at</ex> Lisbon</as>.</cd> -- <mcol><col><b>To touch on</b></col> <it>or</it> <col><b>To touch upon</b></col></mcol>, <sd>(a)</sd> <cd>to come or go to for a short time.</cd> <mark>[R.]</mark><br/
+[<source>1913 Webster</source>]</p>
 
+<p><q>I made a little voyage round the lake, and <qex>touched on</qex> the several towns that lie on its coasts.</q> <rj><qau>Addison.</qau></rj><br/
+[<source>1913 Webster</source>]</p>
+
+<p><sd>(b)</sd> <cd>to discuss briefly, as only a small part of a discourse.</cd></cs><br/
+[<source>PJC</source>]</p>
 
 <p><ent>Touch</ent><br/
 <hw>Touch</hw>, <pos>n.</pos> <ety>[Cf. F. <ets>touche</ets>. See <er>Touch</er>, <pos>v.</pos> ]</ety> <sn>1.</sn> <def>The act of touching, or the state of being touched; contact.</def><br/

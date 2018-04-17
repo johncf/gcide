@@ -9741,8 +9741,8 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Legality</ent><br/
 <hw>Le*gal"i*ty</hw> <pr>(l<esl/*g<acr/l"<icr/*t<ycr/)</pr>, <pos>n.</pos> <ety>[Cf. LL. <ets>legalitas</ets>, F. <ets>l<eacute/galit<eacute/</ets>. Cf. <er>Loyalty</er>.]</ety> <sn>1.</sn> <def>The state or quality of being legal; conformity to law.</def><br/
-[<source>1913 Webster</source>]</p> 
- 
+[<source>1913 Webster</source>]</p>
+
 <p><sn>2.</sn> <fld>(Theol.)</fld> <def>A conformity to, and resting upon, the letter of the law.</def><br/
 [<source>1913 Webster</source>]</p>
 

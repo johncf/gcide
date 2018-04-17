@@ -15852,7 +15852,6 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Individualism</ent><br/
 <hw>In`di*vid"u*al*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>individualisme</ets>.]</ety><br/
-[<source>1913 Webster</source>]<br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>The quality of being individual; individuality; personality.</def><br/

@@ -5206,7 +5206,7 @@ And black <qex>Gehenna</qex> called, the type of Hell.</q> <rj><qau>Milton.</qau
 <p><ent>gelechiid</ent><br/
 <hw>gelechiid</hw> <pos>n.</pos> <def>a small slender-winged moth whose larvae are agricultural pests.</def><br/
 <syn><b>Syn. --</b> gelechiid moth.</syn><br/
-[<source>WordNet 1.5</source>]</p>	
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gelechiidae</ent><br/
 <hw>Gelechiidae</hw> <pos>n.</pos> <def>A family of moths which include important economic pests, feeding on the seeds of the cotton boll.</def><br/

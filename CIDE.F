@@ -12857,12 +12857,14 @@ With gradual conscience to a perfect night.</q> <rj><qau>Browning.</qau></rj><br
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Fine</ent><br/
-<hw>Fine</hw> <pr>(f<imac/n)</pr>, <pos>v. i.</pos> <def>To become fine (in any one of various senses); <as>as, the ale will <ex>fine</ex>; the weather <ex>fined</ex></as>.</def></p>
+<hw>Fine</hw> <pr>(f<imac/n)</pr>, <pos>v. i.</pos> <def>To become fine (in any one of various senses); <as>as, the ale will <ex>fine</ex>; the weather <ex>fined</ex></as>.</def><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>To fine</b></col> <col><b>away, down, off</b></col></mcol>, <cd>gradually to become fine; to diminish; to dwindle.</cd></p>
+<p><cs><mcol><col><b>To fine</b></col> <col><b>away, down, off</b></col></mcol>, <cd>gradually to become fine; to diminish; to dwindle.</cd><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
-<p><q>I watched her [the ship] . . . gradually <qex>fining</qex> down in the westward until I lost of her hull.</q>  <rj><qau>W. C. Russel.</qau></rj><br/
-[<source>Webster 1913 Suppl.</source>]</cs></p>
+<p><q>I watched her [the ship] . . . gradually <qex>fining</qex> down in the westward until I lost of her hull.</q>  <rj><qau>W. C. Russel.</qau></rj></cs><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>fineable</ent><br/
 <hw>fineable</hw> <pos>adj.</pos>  <def>liable to a fine.</def><br/
