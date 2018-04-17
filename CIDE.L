@@ -12023,8 +12023,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leuchaemia</ent><br/
-\'d8<hw>Leu*ch<ae/"mi*a</hw> <pr>(l<usl/*k<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>See <er>Leukemia</er>.</def> <altsp>[Written also <asp>leukemia</asp>, <asp>leukaemia</asp>,a nd <asp>leucemia</asp>.]</altsp><br/
--- <wordforms><wf>Leu*ch<ae/m"ic</wf> <pr>(l<usl/*k<ecr/m"<icr/k)</pr>, <pos>a.</pos>  <altsp>[Written also <asp>leukemic</asp> and <asp>leukaemic</asp>.]</altsp></wordforms><br/
+\'d8<hw>Leu*ch<ae/"mi*a</hw> <pr>(l<usl/*k<emac/"m<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>leyko`s</grk> white + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>See <er>Leukemia</er>.</def> <altsp>[Written also <asp>leukemia</asp>, <asp>leukaemia</asp>,a nd <asp>leucemia</asp>.]</altsp> -- <wordforms><wf>Leu*ch<ae/m"ic</wf> <pr>(l<usl/*k<ecr/m"<icr/k)</pr>, <pos>a.</pos>  <altsp>[Written also <asp>leukemic</asp> and <asp>leukaemic</asp>.]</altsp></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leucinic</ent><br/

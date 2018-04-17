@@ -11151,8 +11151,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enantiomer</ent><br/
-<hw>E*nan"ti*o*mer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'enanti`os</grk> opposite + <ets>-mer</ets>.]</ety> <fld>(Chem.)</fld> <def>either of a pair of optical isomers of a chemical substance whose molecules are mirror images of each other, <it>i. e.</it>, are related to each other as a right-handed to a left-handed glove; -- meaningful only for structures which have internal asymmetry.</def><br/
--- <wordforms><wf>E*nan`ti*o*mer"ic</wf>, <pos>a.</pos></wordforms><br/
+<hw>E*nan"ti*o*mer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'enanti`os</grk> opposite + <ets>-mer</ets>.]</ety> <fld>(Chem.)</fld> <def>either of a pair of optical isomers of a chemical substance whose molecules are mirror images of each other, <it>i. e.</it>, are related to each other as a right-handed to a left-handed glove; -- meaningful only for structures which have internal asymmetry.</def> -- <wordforms><wf>E*nan`ti*o*mer"ic</wf>, <pos>a.</pos></wordforms><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Enantiomorphous</ent><br/

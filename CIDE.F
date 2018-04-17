@@ -991,8 +991,7 @@ Hath borne his <qex>faculties</qex> so meek.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> craze; mania.</syn><br/
 [<source>PJC</source>]</p>
 
-<p> -- <wordforms><wf>Fad"dist</wf>, <pos>n.</pos></wordforms><br/
--- <wordforms><wf>Fad"dish</wf>, <pos>a.</pos></wordforms><br/
+<p>-- <wordforms><wf>Fad"dist</wf>, <pos>n.</pos> -- <wf>Fad"dish</wf>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fadaise</ent><br/
@@ -27508,9 +27507,8 @@ Which, taken at the flood, leads on to <qex>fortune</qex>.</q> <rj><qau>Shak.</q
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>fortuneteller</ent><br/
-<hw>for"tune*tel`ler</hw> <pos>n.</pos> <def>a person who claims to be able to foretell events in the future of another person.</def><br/
+<hw>for"tune*tel`ler</hw> <pos>n.</pos> <def>a person who claims to be able to foretell events in the future of another person.</def> -- <wordforms><wf>for"tune*tel`ling</wf>, <pos>n.</pos></wordforms><br/
 <syn><b>Syn. --</b> fortune teller, fortune-teller.</syn><br/
--- <wordforms><wf>for"tune*tel`ling</wf>, <pos>n.</pos></wordforms><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><ent>Fortunize</ent><br/
