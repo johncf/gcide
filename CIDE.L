@@ -15312,7 +15312,8 @@ Touched <qex>lightly</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>light-skinned</ent><br/
-<hw>light-skinned</hw> <pos>adj.</pos> <def>having skin of a light colored hue.</def> [Narrower terms: <stype>white (vs. black) </stype>] <source>WordNet 1.5</source>]</p>
+<hw>light-skinned</hw> <pos>adj.</pos> <def>having skin of a light colored hue.</def> [Narrower terms: <stype>white (vs. black) </stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Lightsome</ent><br/
 <hw>Light"some</hw> <pr>(l<imac/t"s<ucr/m)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having light; lighted; not dark or gloomy; bright.</def><br/
@@ -25482,7 +25483,8 @@ Breathes <qex>low</qex> between the sunset and the moon.</q> <rj><qau>Tennyson.<
 <syn><b>Syn. --</b> lower-class (vs. upper-class).</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>characteristic of the lower classes.</def> [Narrower terms: <stype>non-U, vulgar</stype>] <source>PJC</source>]</p>
+<p><sn>2.</sn> <def>characteristic of the lower classes.</def> [Narrower terms: <stype>non-U, vulgar</stype>]<br/
+[<source>PJC</source>]</p>
 
 <p><ent>low-cost</ent><br/
 <hw>low-cost</hw> <pos>adj.</pos>  <def>inexpensive; cheap.  Opposite of <ant>expensive</ant>.</def><br/

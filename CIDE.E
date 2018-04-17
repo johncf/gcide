@@ -28759,7 +28759,8 @@ Like a bright <qex>exhalation</qex> in the evening.</q> <rj><qau>Shak.</qau></rj
 <syn><b>Syn. --</b> burned-out(prenominal), burnt-out(prenominal), burned out(predicate), burnt out(predicate), fagged, fatigued, played-out(prenominal), played out(predicate), spent, washed-out(prenominal), washed out(predicate), worn-out(prenominal), worn out(predicate).</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <def>used up; completely consumed.</def> <wns>[wns=2]</wns>[Narrower terms: <stype>gone, expended, spent</stype>] <source>WordNet 1.5</source> <source>+PJC</source>]</p>
+<p><sn>2.</sn> <def>used up; completely consumed.</def> <wns>[wns=2]</wns>[Narrower terms: <stype>gone, expended, spent</stype>]<br/
+[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
 <p><sn>3.</sn>  <def>emptied by being pumped out or having a vacuum created.   Opposite of <ant>unexhausted</ant>.</def><br/
 <syn><b>Syn. --</b> exhausted, evacuated.</syn><br/

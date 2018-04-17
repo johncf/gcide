@@ -20494,7 +20494,8 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 
 <p><ent>hominid</ent><br/
 <ent>hominian</ent><br/
-<mhw><hw>hominian</hw> <hw>hominid</hw></mhw> <pos>adj.</pos> <def>characterizing the family <fam>Hominidae</fam>, which includes <spn>Homo sapiens</spn> <varn>sapiens</varn> as well as extinct species of manlike creatures.</def> [Narrower terms: <stype>human (vs. nonhuman) </stype>] <source>WordNet 1.5</source>]</p>
+<mhw><hw>hominian</hw> <hw>hominid</hw></mhw> <pos>adj.</pos> <def>characterizing the family <fam>Hominidae</fam>, which includes <spn>Homo sapiens</spn> <varn>sapiens</varn> as well as extinct species of manlike creatures.</def> [Narrower terms: <stype>human (vs. nonhuman) </stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>hominid</ent><br/
 <ent>hominian</ent><br/
@@ -22106,7 +22107,8 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>hootenanny</ent><br/
-<hw>hoot"en*an*ny</hw> <pos>n.</pos> <sn>1.</sn> <def>An informal social gathering or concert featuring mostly folk songs, sometimes dancing, and where the audience often participates in the singing.</def> [<source>PJC</source>]</p>
+<hw>hoot"en*an*ny</hw> <pos>n.</pos> <sn>1.</sn> <def>An informal social gathering or concert featuring mostly folk songs, sometimes dancing, and where the audience often participates in the singing.</def><br/
+[<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Same as <er>whatchamacallit</er>; a thingumbob.</def> <mark>[Obsolescent, chiefly dial.]</mark><br/
 [<source>PJC</source>]</p>

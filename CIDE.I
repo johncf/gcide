@@ -18771,7 +18771,8 @@ And as silently steal away.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>infighting</ent><br/
-<hw>infighting</hw> <pos>n.</pos> <ety>[<ets>in-</ets> + <ets>fighting</ets>.]</ety> <sn>1.</sn> <def>contention among members of the same organization (usually concealed from outsiders), sometimes of a bitter, intense, or prolonged character.</def> <note>[Such <ex>infighting</ex> may lead to <hascons><er>factionalism</er></hascons>.]</note>  <source>PJC</source>]</p>
+<hw>infighting</hw> <pos>n.</pos> <ety>[<ets>in-</ets> + <ets>fighting</ets>.]</ety> <sn>1.</sn> <def>contention among members of the same organization (usually concealed from outsiders), sometimes of a bitter, intense, or prolonged character.</def> <note>[Such <ex>infighting</ex> may lead to <hascons><er>factionalism</er></hascons>.]</note> <br/
+[<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>fighting, such as boxing, at close quarters.</def><br/
 [<source>PJC</source>]</p>
@@ -20496,7 +20497,8 @@ To artist <qex>ingenuity</qex> and skill.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ingested</ent><br/
-<hw>ingested</hw> <pos>adj.</pos> <def>taken into the stomach.</def> [Narrower terms: <stype>eaten (vs. uneaten)</stype>] <source>WordNet 1.5</source>]</p>
+<hw>ingested</hw> <pos>adj.</pos> <def>taken into the stomach.</def> [Narrower terms: <stype>eaten (vs. uneaten)</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ingestion</ent><br/
 <hw>In*ges"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ingestio</ets>: cf. F. <ets>ingestion</ets>.]</ety> <fld>(Physiol.)</fld> <def>The act of taking or putting into the stomach; <as>as, the <ex>ingestion</ex> of milk or other food</as>.</def><br/
@@ -32382,7 +32384,8 @@ Is risen to <qex>invade</qex> us.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>In*va"sive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[LL. <ets>invasivus</ets>: cf. F. <ets>invasif</ets>. See <er>Invade</er>.]</ety> <sn>1.</sn> <def>Tending to invade; characterized by invasion; aggressive.</def> <ldquo/<xex>Invasive</xex> war.<rdquo/  <rj><au>Hoole.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Med.)</fld> <def>tending to spread, especially tending to intrude into healthy tissue; -- used mostly of tumors.</def> [Narrower terms: <stype>malignant</stype>] <source>PJC</source>]</p>
+<p><sn>2.</sn> <fld>(Med.)</fld> <def>tending to spread, especially tending to intrude into healthy tissue; -- used mostly of tumors.</def> [Narrower terms: <stype>malignant</stype>]<br/
+[<source>PJC</source>]</p>
 
 <p><ent>Invect</ent><br/
 <hw>In*vect"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To inveigh.</def> <mark>[Obs.]</mark>  <rj><au>Beau. & Fl.</au></rj><br/

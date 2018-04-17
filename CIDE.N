@@ -10798,7 +10798,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonexplosive</ent><br/
-<hw>nonexplosive</hw> <pos>adj.</pos> <def>Not explosive.</def> [Narrower terms: <stype>noncombustible (vs. combustible), incombustible</stype>] <source>WordNet 1.5</source>]</p>
+<hw>nonexplosive</hw> <pos>adj.</pos> <def>Not explosive.</def> [Narrower terms: <stype>noncombustible (vs. combustible), incombustible</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Nonexportation</ent><br/
 <hw>Non*ex`por*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A failure of exportation; a not exporting of commodities.</def><br/
@@ -10832,7 +10833,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonflammable</ent><br/
-<hw>nonflammable</hw> <pos>adj.</pos> <def>Not easily ignited, and burning only slowly if ignited.</def> [Narrower terms: <stype>noncombustible (vs. combustible), incombustible</stype>] <source>WordNet 1.5</source>]</p>
+<hw>nonflammable</hw> <pos>adj.</pos> <def>Not easily ignited, and burning only slowly if ignited.</def> [Narrower terms: <stype>noncombustible (vs. combustible), incombustible</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Nonfulfillment</ent><br/
 <hw>Non`ful*fill"ment</hw>, <pos>n.</pos> <def>Neglect or failure to fulfill.</def><br/
@@ -11212,7 +11214,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>nonparallel</hw> <pos>adj.</pos> <sn>1.</sn> <def>not parallel; -- of lines or linear objects.  Opposite of <ant>parallel</ant>.</def> [Narrower terms: <stype>bias, catacorner, cata-cornered, catercorner, cater-cornered, catty-corner, catty-cornered, diagonal, kitty-corner, kitty-cornered, oblique, skew, skewed, slanted </stype>; <stype>crossed, decussate, intersectant, intersecting</stype>; <stype>cross-grained </stype>; <stype>diagonal</stype>; <stype>orthogonal, orthographic, rectangular, right-angled </stype>; <stype>right, perpendicular</stype>; <stype>angled </stype>; <stype>convergent</stype>] <see>Also See: <er>convergent</er>, <er>divergent</er>, <er>diverging</er>.</see><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn> <fld>(Computers)</fld> <def>Not using parallel processing; -- of computers.</def> [Narrower terms: <stype>serial</stype>] <source>PJC</source>]</p>
+<p><sn>2.</sn> <fld>(Computers)</fld> <def>Not using parallel processing; -- of computers.</def> [Narrower terms: <stype>serial</stype>]<br/
+[<source>PJC</source>]</p>
 
 <p><ent>nonparasitic</ent><br/
 <hw>nonparasitic</hw> <fld>(Biology)</fld> <pos>adj.</pos> <def>Not parasitic.</def><br/
@@ -11383,7 +11386,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>nonreciprocating</ent><br/
-<hw>nonreciprocating</hw> <pos>adj.</pos> <def>not reciprocating.</def> [Narrower terms: <stype>nonreciprocal (vs. reciprocal)</stype>] <source>WordNet 1.5</source>]</p>
+<hw>nonreciprocating</hw> <pos>adj.</pos> <def>not reciprocating.</def> [Narrower terms: <stype>nonreciprocal (vs. reciprocal)</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonrecombinant</ent><br/
 <hw>nonrecombinant</hw> <pos>adj.</pos> <fld>(Genetics)</fld> <def>not produced by genetic recombination.</def><br/
@@ -11801,7 +11805,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonvolatilizable</ent><br/
-<hw>nonvolatilizable</hw> <pos>adj.</pos> <def>not able to be volatilized.</def> [Narrower terms: <stype>nonvolatile (vs. volatile)</stype>] <source>WordNet 1.5</source>]</p>
+<hw>nonvolatilizable</hw> <pos>adj.</pos> <def>not able to be volatilized.</def> [Narrower terms: <stype>nonvolatile (vs. volatile)</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonwashable</ent><br/
 <hw>nonwashable</hw> <pos>adj.</pos> <def>not washable; damaged by washing; -- used mostly of clothing, especially clothing that must be cleaned by a dry-cleaning process.  Opposite of <ant>washable</ant>.</def><br/

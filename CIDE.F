@@ -34289,7 +34289,8 @@ That stands upon the swell at <qex>full</qex> of tide.</q> <rj><qau>Shak.</qau><
 
 <p><ent>Full-grown</ent><br/
 <hw>Full"-grown`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having reached the limits of growth; mature; fully developed; -- used mostly of living organisms; <as>as, A <ex>full-grown</ex> lion can easily kill an unarmed man.</as>.</def> <ldquo/<xex>Full-grown</xex> wings.<rdquo/ <rj><au>Lowell.</au></rj><br/
-<syn><b>Syn. --</b> adult, big, fully grown, grown, grownup.</syn>[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
+<syn><b>Syn. --</b> adult, big, fully grown, grown, grownup.</syn><br/
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Full-hearted</ent><br/
 <hw>Full"-heart`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Full of courage or confidence.</def>  <rj><au>Shak.</au></rj><br/

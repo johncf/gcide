@@ -17321,7 +17321,8 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>better-off</ent><br/
-<hw>better-off</hw> <pos>adj.</pos> <sn>1.</sn> <def>being in a more prosperous condition.</def> <illu><ex>better-off</ex> than his classmate</illu> [Narrower terms: <stype>rich (vs. poor)</stype>] <source>WordNet 1.5</source>]</p>
+<hw>better-off</hw> <pos>adj.</pos> <sn>1.</sn> <def>being in a more prosperous condition.</def> <illu><ex>better-off</ex> than his classmate</illu> [Narrower terms: <stype>rich (vs. poor)</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>in a more fortunate condition.</def> <illu>she would have been <ex>better off</ex> if she had stuck to her Bible</illu><br/
 <syn><b>Syn. --</b> better off.</syn><br/
@@ -33090,11 +33091,11 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>bottleneck</ent><br/
 <hw>bottleneck</hw> <pos>v. t.</pos> <def>same as <er>obstruct</er>; <as>as, his laziness has <ex>bottlenecked</ex> our efforts to reform the system</as>.</def><br/
- [<source>WordNet 1.5</source>]</p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>bottleneck</ent><br/
 <hw>bottleneck</hw> <pos>v. i.</pos> <def>to become narrower as one approaches a point; -- said of roads; <as>as, right by the bridge, the road <ex>bottlenecks</ex></as>.</def><br/
- [<source>WordNet 1.5</source>]</p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bottle-neck frame</ent><br/
 <hw>Bot"tle-neck` frame"</hw>. <fld>(Automobiles)</fld> <def>An inswept frame.</def> <mark>[Colloq.]</mark><br/
