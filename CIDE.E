@@ -7121,7 +7121,11 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>7.</sn> <fld>(A<eum/ronautics)</fld> <def>A movable plane or group of planes used to control the altitude or fore-and-aft poise or inclination of an airship or flying machine.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>Elevator head</b></col>, <col><b>Elevator leg</b></col>, <and/ <col><b>Elevator boot</b></col></mcol>, <cd>the boxes in which the upper pulley, belt, and lower pulley, respectively, run in a grain elevator.</cd> [<source>1913 Webster</source>] -- <col><b>Elevator shoes</b></col>, <cd>shoes having unusually thick soles and heels, designed to make a person appear taller than he or she actually is.</cd> [<source>PJC</source>]</cs></p>
+<p><cs><mcol><col><b>Elevator head</b></col>, <col><b>Elevator leg</b></col>, <and/ <col><b>Elevator boot</b></col></mcol>, <cd>the boxes in which the upper pulley, belt, and lower pulley, respectively, run in a grain elevator.</cd><br/
+[<source>1913 Webster</source>]</p>
+
+<p>-- <col><b>Elevator shoes</b></col>, <cd>shoes having unusually thick soles and heels, designed to make a person appear taller than he or she actually is.</cd></cs><br/
+[<source>PJC</source>]</p>
 
 <p><ent>Elevatory</ent><br/
 <hw>El"e*va`to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to raise, or having power to elevate; <as>as, <ex>elevatory</ex> forces</as>.</def><br/
