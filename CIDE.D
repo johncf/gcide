@@ -49943,7 +49943,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 <p><ent>Duff</ent><br/
 <hw>Duff</hw> <pr>(d<ucr/f)</pr>, <pos>n.</pos> <def>the buttocks; <as>as, get off your <ex>duff</ex> and get to work</as>.</def> <mark>[slang]</mark><br/
 <syn><b>Syn. --</b> rump; ass.</syn>
-[<source></source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>Duff</ent><br/
 <hw>Duff</hw> <pr>(d<ucr/f)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Duffed</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Duffing</conjf>.]</vmorph> <ety>[Etym. uncertain.]</ety> <mark>[Colloq. or Slang]</mark> <sn>1.</sn>  <def>To treat or manipulate so as to give a specious appearance to; to fake; hence, to cheat.</def><br/

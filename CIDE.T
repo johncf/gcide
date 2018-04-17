@@ -24395,7 +24395,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Topologist</ent><br/
 <hw>To*pol"o*gist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a mathematician specializing in topology.</def> <ldquo/A <ex>topologist</ex> is someone who doesn't know the difference between a donut and a coffee cup.<rdquo/<br/
-[<source></source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>Topology</ent><br/
 <hw>To*pol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ place + <ets>-logy</ets>.]</ety> <def>The art of, or method for, assisting the memory by associating the thing or subject to be remembered with some place.</def> <mark>[R.]</mark><br/
