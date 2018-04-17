@@ -11506,7 +11506,8 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonrhythmic</ent><br/
-<hw>nonrhythmic</hw> <pos>adj.</pos> <def>not rhythmic.</def> [Narrower terms: <stype>unrhythmical (vs. rhythmical), unrhythmic</stype>]<br/ [<source>WordNet 1.5</source>]</p>
+<hw>nonrhythmic</hw> <pos>adj.</pos> <def>not rhythmic.</def> [Narrower terms: <stype>unrhythmical (vs. rhythmical), unrhythmic</stype>]<br/
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonrigid</ent><br/
 <hw>nonrigid</hw> <pos>adj.</pos> <fld>(Aeronautics)</fld> <def>Not rigid; especially, designating an airship having a shape maintained only by internal gas pressure and without a supporting structure.  Opposite of <ant>rigid</ant>.</def><br/

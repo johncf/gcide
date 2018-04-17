@@ -30297,8 +30297,8 @@ As I would be forgiven.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Free-hearted</ent><br/
 <ent>freehearted</ent><br/
-<mhw><hw>free"heart`ed</hw>, <hw>Free"-heart`ed</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <def>Open; frank; unreserved; liberal; generous; <as>as, <ex>free-hearted</ex> mirth</as>.  Opposite of <ant>stingy</ant>.</def><br/
-<syn><b>Syn. --</b> benevolent.</syn><br/ -- <wordforms><wf>Free"-heart`ed*ly</wf>, <pos>adv.</pos> -- <wf>Free"-heart`ed*ness</wf>, <pos>n.</pos></wordforms><br/
+<mhw><hw>free"heart`ed</hw>, <hw>Free"-heart`ed</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <def>Open; frank; unreserved; liberal; generous; <as>as, <ex>free-hearted</ex> mirth</as>.  Opposite of <ant>stingy</ant>.</def> -- <wordforms><wf>Free"-heart`ed*ly</wf>, <pos>adv.</pos> -- <wf>Free"-heart`ed*ness</wf>, <pos>n.</pos></wordforms><br/
+<syn><b>Syn. --</b> benevolent.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Freehold</ent><br/
@@ -30451,7 +30451,7 @@ Because we <qex>freely</qex> love.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><ent>Free-spoken</ent><br/
 <hw>Free"-spo`ken</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Accustomed to speak without reserve; willing to speak out without subtlety.</def>  <rj><au>Bacon.</au></rj><br/
-<syn><b>Syn. --</b> bluff, blunt, candid, frank, outspoken, plainspoken, point-blank.</syn><br/<br/
+<syn><b>Syn. --</b> bluff, blunt, candid, frank, outspoken, plainspoken, point-blank.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p>-- <wordforms><wf>Free"-spo`ken*ness</wf>, <pos>n.</pos></wordforms><br/

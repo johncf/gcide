@@ -22101,7 +22101,7 @@ Truth, justice, and the Esperanto way: ELNA, the leading Esperanto organization 
 <br/
 Locally, the Esperanto Society of New England has about 50 members.<br/
 <br/
-One hobbit, one orc, one elf, one dwarf - one language?: J. R. R. Tolkien, who taught philology at Oxford University when not writing <ldquo/The Hobbit<rdquo/ and <ldquo/The Lord of the Rings,<rdquo/ gave Esperanto his endorsement, sort of.<br/\<br/
+One hobbit, one orc, one elf, one dwarf - one language?: J. R. R. Tolkien, who taught philology at Oxford University when not writing <ldquo/The Hobbit<rdquo/ and <ldquo/The Lord of the Rings,<rdquo/ gave Esperanto his endorsement, sort of.<br/
 <ldquo/My advice to all who have the time or inclination to concern themselves with the international language movement would be: `Back Esperanto loyally.'<rdquo/<br/
 <br/
 Friends in high places: At least six Nobel Prize winners have been Esperantists. So was Yugloslavia's postwar ruler Josip Broz Tito.<br/

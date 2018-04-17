@@ -990,7 +990,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 
 <p><ent>Tactical</ent><br/
 <ent>Tactic</ent><br/
-<mhw>{ <hw>Tac"tic</hw> <pr>(?)</pr>, <hw>Tac"tic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <grk>taktiko`s</grk>. See <er>tactics</er>.]</ety> <def>Of or pertaining to military or naval tactics; hence, pertaining to, or characterized by, planning or maneuvering for the short term; -- contrasted with <contr>strategic</contr>, planning for the long term.</def><br/ -- <wordforms><wf>Tac"tic*al*ly</wf>, <pos>adv.</pos></wordforms><br/
+<mhw>{ <hw>Tac"tic</hw> <pr>(?)</pr>, <hw>Tac"tic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <grk>taktiko`s</grk>. See <er>tactics</er>.]</ety> <def>Of or pertaining to military or naval tactics; hence, pertaining to, or characterized by, planning or maneuvering for the short term; -- contrasted with <contr>strategic</contr>, planning for the long term.</def> -- <wordforms><wf>Tac"tic*al*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tactic</ent><br/
@@ -25296,7 +25296,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of tropical short-tailed snakes, which are not venomous.  One species (<spn>Tortrix scytalae</spn>) is handsomely banded with black, and is sometimes worn alive by the natives of Brazil for a necklace.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1521 --><br/</p>
+<p><-- p. 1521 --></p>
 
 <p><ent>Tortulous</ent><br/
 <hw>Tor"tu*lous</hw> <pr>(t<ocir/r"t<usl/*l<ucr/s; 135)</pr>, <pos>a.</pos> <fld>(Nat. Hist.)</fld> <def>Swelled out at intervals like a knotted cord.</def><br/

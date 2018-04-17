@@ -18986,7 +18986,8 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>big band</ent><br/
-<hw>big band</hw>, <def>A band that is the size of an orchestra, usually playing mostly jazz or swing music.  The <ex>big band</ex> typically features both ensemble and solo playing, sometimes has a lead singer, and is often located in a night club where the patrons may dance to its music.  The <ex>big bands</ex> were popular from the late 1920's to the 1940's.  Contrasted with <er>combo</er>, which has fewer players.</def><br/ [<source>PJC</source>]</p>
+<hw>big band</hw>, <def>A band that is the size of an orchestra, usually playing mostly jazz or swing music.  The <ex>big band</ex> typically features both ensemble and solo playing, sometimes has a lead singer, and is often located in a night club where the patrons may dance to its music.  The <ex>big bands</ex> were popular from the late 1920's to the 1940's.  Contrasted with <er>combo</er>, which has fewer players.</def><br/
+[<source>PJC</source>]</p>
 
 <p><ent>big bang</ent><br/
 <hw>big bang</hw> <pos>n.</pos> <fld>(Astron.)</fld> <def>The explosive event marking the beginning of the known universe, according to <er>big bang theory</er>; the beginning of time.</def> <note>The <ex>big bang</ex> is likened to a massive explosion from a point containing all of the matter and energy of the beginning universe, which started the expansion and evolution of the universe which continues today.  The evidence for such an event includes the apparently expanding size of the present universe, and a background microwave radiation of about 3<deg/ Kelvin, equal to that predicted from mathematical models of such an explosive event.</note><br/
@@ -39443,7 +39444,7 @@ Round about the <qex>bridestake</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brie</ent><br/
-<hw>Brie</hw> <pos>n.</pos> <def>same as <er>Brie cheese</er>.</def><br/<br/
+<hw>Brie</hw> <pos>n.</pos> <def>same as <er>Brie cheese</er>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Brie cheese</ent><br/

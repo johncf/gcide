@@ -9234,7 +9234,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <syn><b>Syn. --</b> deactivate.</syn><br/
 [<source>WordNet 1.5</source> <source>+PJC</source>]</p>
 
-<p><note><hand/  To <ex>inactivate</ex> an enzyme or chemical usually renders it permanently inactive; to <ex>inactivate</ex> a machine (as by turning a switch) may be reversible, and for machines and devices, the term <contr>deactivate</contr> is usually used.  The distinction is worth preserving.</note><br/<br/
+<p><note><hand/  To <ex>inactivate</ex> an enzyme or chemical usually renders it permanently inactive; to <ex>inactivate</ex> a machine (as by turning a switch) may be reversible, and for machines and devices, the term <contr>deactivate</contr> is usually used.  The distinction is worth preserving.</note><br/
 [<source>PJC</source>]</p>
 
 <p><ent>inactivation</ent><br/
@@ -37181,7 +37181,8 @@ To stroll and teach from town to town.</q> <rj><qau>Hudibras.</qau></rj><br/
 <syn><b>Syn. --</b> bitty, bittie, teensy, teentsy, teeny, wee, weeny, weensy, teensy-weensy.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
-<p><q>It was an <qex>itsy-bitsy</qex> teeny-weeny  yellow polka-dot bikini<br/ that she wore for the first time today.</q> <qau>Song lyrics</qau><br/
+<p><q>It was an <qex>itsy-bitsy</qex> teeny-weeny  yellow polka-dot bikini<br/
+that she wore for the first time today.</q> <qau>Song lyrics</qau><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ittria</ent><br/

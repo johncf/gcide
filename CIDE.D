@@ -24838,7 +24838,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>digitoxin</ent><br/
-<hw>dig`i*tox"in</hw> <pr>(d<icr/j`<icr/*t<ocr/k"s<icr/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>.  It is a white, crystalline substance (<chform>C41H64O13</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-14-hydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycoside</b></ecol></isa> group.</def> <au>MI11</au><br/<br/
+<hw>dig`i*tox"in</hw> <pr>(d<icr/j`<icr/*t<ocr/k"s<icr/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>.  It is a white, crystalline substance (<chform>C41H64O13</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-14-hydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycoside</b></ecol></isa> group.</def> <au>MI11</au><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Digitule</ent><br/
@@ -24960,7 +24960,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>digoxin</ent><br/
-<hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,12<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/<br/
+<hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,12<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Digram</ent><br/
@@ -34088,7 +34088,8 @@ A herd of beeves <qex>disperse</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>dispirited</ent><br/
-<hw>dis*pir"it*ed</hw>, <pos>a.</pos> <def>Depressed in spirits; deprived of cheer or enthusiasm; disheartened; discouraged; daunted.</def><br/ <syn><b>Syn. --</b> depressed, down(predicate), downcast, downhearted, low, low-spirited, disheartened, discouraged, demoralized.</syn><br/
+<hw>dis*pir"it*ed</hw>, <pos>a.</pos> <def>Depressed in spirits; deprived of cheer or enthusiasm; disheartened; discouraged; daunted.</def><br/
+<syn><b>Syn. --</b> depressed, down(predicate), downcast, downhearted, low, low-spirited, disheartened, discouraged, demoralized.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><wordforms>-- <wf>Dis*pir"it*ed*ly</wf>, <pos>adv.</pos> -- <wf>Dis*pir"it*ed</wf>, <pos>n.</pos></wordforms><br/
@@ -50385,7 +50386,7 @@ To blush like a banner bathed in slaughter.</q> <rj><qau>Percival.</qau></rj><br
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>dumb down</ent><br/
-<hw>dumb` down"</hw>  <pr>(d<ucr/m` doun")</pr>, <pos>v. t.</pos> <def>To render simpler, so as to be comprehensible or usable by unintelligent people; to simplify; -- of texts or devices.</def><br/<br/
+<hw>dumb` down"</hw>  <pr>(d<ucr/m` doun")</pr>, <pos>v. t.</pos> <def>To render simpler, so as to be comprehensible or usable by unintelligent people; to simplify; -- of texts or devices.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>dumbfounded</ent><br/

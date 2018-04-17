@@ -5146,7 +5146,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Mal`e*fac"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>malefacere</ets> to do evil; <ets>male</ets> ill, evil + <ets>facere</ets> to do. See <er>Malice</er>, and <er>Fact</er>.]</ety> <sn>1.</sn> <def>An evil doer; one who commits a crime; one subject to public prosecution and punishment; a criminal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>One who does wrong by injuring another, although not a criminal.  Opposite of <ant>benefactor</ant>.</def> <rj><au>H. Brooke.</au>  <au>Fuller.</au></rj><br/ <ldquo/Malefactors of great wealth.<rdquo/
+<p><sn>2.</sn> <def>One who does wrong by injuring another, although not a criminal.  Opposite of <ant>benefactor</ant>.</def> <rj><au>H. Brooke.</au>  <au>Fuller.</au></rj> <ldquo/Malefactors of great wealth.<rdquo/
 [<source>1913 Webster</source> <source>+PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- Evil doer; criminal; culprit; felon; convict.</syn><br/
@@ -11474,7 +11474,7 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 
 <p><note>Picture of <b>Masai women and children</b> standing by the roadside.<br/
  (Photographed in Kenya 1983 by PJC)<br/
-<img src="images\masaiwom.jpg"></img><br/<br/
+<img src="images\masaiwom.jpg"></img><br/
 </note><br/
 [<source>PJC</source>]</p>
 

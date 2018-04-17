@@ -4171,7 +4171,7 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 \'d8<mhw><hw>Gaudeamus</hw>, <hw>Gaudeamus igitur</hw></mhw> <pr>(gou`d<amac/*<adot/"m<oocr/s`)</pr>, <pos>pr. n.</pos> <ety>[L.]</ety>  <def>The name of a Latin song originating in the thirteenth century, celebrating the joy of youth as students in a university, and suggesting that they take advantage of youth before they succomb to inevitable old age and death.  It is still sung by students, often with verses altered to include themes pertinent to particular schools.</def><br/
 <br/
 <song><title>Gaudeamus Igitur</title><br/
-<br/<text>
+<br/
 Gaudeamus igitur			Let us rejoice therefore<br/
 Juvenes dum sumus			While we are young.<br/
 Post jucundum juventutem		After a pleasant youth<br/
@@ -11797,7 +11797,7 @@ aircraft or missile determines its latitude and longitude by measuring
 the transmission time from several orbiting satellites.  GPS
 is more precise than any other navigation system available, yielding
 position accurate within 10 meters 95% of the time.</def><br/
-<syn><b>Syn. --</b> GPS.</syn><br/<br/
+<syn><b>Syn. --</b> GPS.</syn><br/
 [<source>RH</source>]</p>
 
 <p><note>  The precision of the GPS is dependent upon the very high timing accuracy of atomic clocks.  Although the military originally intentionally degraded the signal and thus the accuracy for civilian users, GPS was nevertheless more precise than any other navigation system available.  In 2000,  <person>President Clinton</person> issued an executive order discontinuing the degrading of the signal for civilians.</note><br/
