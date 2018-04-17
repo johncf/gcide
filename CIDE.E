@@ -33575,8 +33575,8 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 <p><-- p. 534 --></p>
 
 <p><ent>Exuviate</ent><br/
-<hw>Ex*u"vi*ate</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exuviated</conjf>, <pos>p. pr. & vb. n.</pos> <conjf>Exuviating</conjf>.]</vmorph> <pr>(<?/)</pr> <ety>[From <er>Exuviae</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>To she<br/
-[<source>1913 Webster</source>]d an old covering or condition preliminary to taking on a new one; to molt.</def></p>
+<hw>Ex*u"vi*ate</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exuviated</conjf>, <pos>p. pr. & vb. n.</pos> <conjf>Exuviating</conjf>.]</vmorph> <pr>(<?/)</pr> <ety>[From <er>Exuviae</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>To shed an old covering or condition preliminary to taking on a new one; to molt.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><q>There is reason to suppose that very old crayfish do not <qex>exuviate</qex> every year.</q> <rj><qau>Huxley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
