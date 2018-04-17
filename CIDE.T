@@ -16497,9 +16497,8 @@ Hangs <qex>menacing</qex>.</q> <rj><qau>Somerville.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Three-mile</ent><br/
-<hw>Three"-mile`</hw>, <pos>a.</pos> <def>Of or pertaining to three miles; <as>as, <col><b>the three-mile limit</b></col>, or the limit of the marine belt (the <mcol><col><b>three-mile belt</b></col> <it>or</it> <col><b>three-mile zone</b></col></mcol>) of three miles included in territorial waters (which see) of a state</as>.</def><br/
-[<source>Webster 1913 Suppl.</source>]<br/
-[<source>1913 Webster</source>]</p>
+<hw>Three"-mile`</hw>, <pos>a.</pos> <def>Of or pertaining to three miles; <as>as, the <ex>three-mile</ex> limit, or the limit of the marine belt of three miles (the <ecol><b>three-mile belt</b></ecol> <it>or</it> <ecol><b>three-mile zone</b></ecol>) included in territorial waters (which see) of a state</as>.</def><br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Three-nerved</ent><br/
 <hw>Three"-nerved`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having three nerves.</def><br/
