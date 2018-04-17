@@ -17390,14 +17390,6 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 <p><sn>9.</sn> <fld>(Mining)</fld> <def>The amount of vertical displacement produced by a fault; -- according to the direction it is designated as an <xex>upthrow</xex>, or a <xex>downthrow</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>throw away</ent><br/
-<hw>throw away</hw> <pos>v. t.</pos> <sn>1.</sn> <def>to discard.</def><br/
-[<source>PJC</source>]</p>
-
-<p><sn>2.</sn> <def>to waste or squander.</def><br/
-[<source>PJC</source>]<br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>throwaway</ent><br/
 <hw>throw"a*way</hw> <pos>a.</pos> <sn>1.</sn> <def>designed to be discarded after a single use; disposable.</def><br/
 [<source>PJC</source>]</p>
