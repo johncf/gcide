@@ -417,14 +417,14 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <ent>Jack-o'-lantern</ent><br/
 <mhw><hw>Jack"-o'-lan`tern</hw>, <hw>Jack"-with-a-lan`tern</hw></mhw> <pr>(?)</pr>, <pos>n.</pos>  <sn>1.</sn> <fld>(Biol.)</fld> <def>A large orange-colored luminescent mushroom, <spn>Clitocybe illudens</spn>, also classified as <spn>Omphalotus olearius</spn>.  It is poisonous and is sometimes found on hardwood tree stumps.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> jack-a-lantern, <spn>Clitocybe illudens</spn>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a pale light sometimes seen at night over marshy ground; an <er>ignis fatuus</er>; a will-o'-the-wisp</def>. <wns>[wns=2]</wns><ldquo/[Newspaper speculations] supplying so many more <xex>jack-o'-lanterns</xex> to the future historian.<rdquo/ <au>Lowell.</au><br/
 <syn><b>Syn. --</b> friar's lantern, ignis fatuus, will-o'-the-wisp.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>A lantern carved from a hollowed-out pumpkin, with holes cut in the rind and so shaped that when it is illuminated by a candle inside,  the features of a human face, cat's face, etc. appear in a glowing yellow color.  It is used mostly as a decoration at Halloween.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Jackpot</ent><br/
 <hw>Jackpot</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Same as <cref>jack pot</cref>.  See under <er>jack</er>.</def><br/
@@ -482,7 +482,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>One of a set of straws of strips of ivory, bone, wood, etc., for playing a child's game, the jackstraws being thrown confusedly together on a table, to be gathered up singly by a hooked instrument, without touching or disturbing the rest of the pile. See <er>Spilikin</er>.  A modern variation, called <contr>pick-up-sticks</contr> (U.S. 1940+), is played with thin wooden sticks of different colors, each color having different values for scoring; the sticks are dislodged from the pile with the hand or with one of the sticks.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>jackstraws</ent><br/
 <hw>jack"straws`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The game played with jackstraws{2}, which resembles <contr>pick-up-sticks</contr>.</def><br/
@@ -869,7 +869,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 
 <p><ent>Jaguar</ent><br/
 <hw>Ja*guar"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Braz. <ets>yago<aacute/ra</ets>: cf. & Pg. <ets>jaguar</ets>.]</ety> <fld>(Zool.)</fld> <def>A large and powerful feline animal (<spn>Panthera onca</spn>, formerly <spn>Felis onca</spn>), ranging from Texas and Mexico to Patagonia. It is usually brownish yellow, with large, dark, somewhat angular rings, each generally inclosing one or two dark spots. It is chiefly arboreal in its habits. It is also called the <altname>panther</altname> and the <altname>American tiger</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jaguarondi</ent><br/
 \'d8<hw>Ja`gua*ron"di</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A South American wild cat (<spn>Felis jaguarondi</spn>), having a long, slim body and very short legs. Its color is grayish brown, varied with a blackish hue. It is arboreal in its habits and feeds mostly on birds.</def><br/
@@ -1128,7 +1128,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><ent>Jambul</ent><br/
 <ent>Jambool</ent><br/
 <mhw>{ <hw>Jam"bool</hw>, <hw>Jam"bul</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Hind. <ets>jamb<umac/</ets>, <ets>jamb<umac/l</ets>, prop., the rose-apple tree or its fruit, fr. Skr. <ets>jambu</ets>, <ets>jamb<umac/</ets>.]</ety> <def>The Java plum; also, a drug obtained from its bark and seeds, formerly used as a remedy for diabetes.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Jamboree</ent><br/
 <hw>Jam`bo*ree"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Etym. uncertain. Cf. <er>Jambone</er>.]</ety> <sn>1.</sn> <def>A noisy or unrestrained carousal or frolic; a spree.</def> <mark>[Slang]</mark>  <rj><au>Kipling.</au></rj></p>
@@ -1191,7 +1191,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><ent>jammed</ent><br/
 <hw>jammed</hw> <pos>adj.</pos>  <def>filled to capacity or overfilled; <as>as, the auditorium was <ex>jammed</ex> to the rafters</as>.</def><br/
 <syn><b>Syn. --</b> full, jam-packed, packed.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>jampack</ent><br/
 <hw>jampack</hw> <pos>v. t.</pos> <sn>1.</sn> <def>to stuff; to fill completely and tightly; to jam{1}.</def><br/
@@ -1309,10 +1309,10 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 
 <p><ent>Janitor</ent><br/
 <hw>Jan"i*tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>janua</ets> a door.]</ety> <sn>1.</sn> <def>A door-keeper; a porter.</def> <mark>[Archaic]</mark><br/
-[<source>1913 Webster</source> <source>PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>One who is employed to care for a public building, or a building occupied for offices, suites of rooms, etc.; a caretaker; -- the duties may include removal of trash, cleaning of the rooms and public areas, and minor repairs.</def><br/
-[<source>1913 Webster</source> <source>PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Janitrix</ent><br/
 <ent>Janitress</ent><br/
@@ -1962,7 +1962,7 @@ Launched by the vigor of a Roman arm?</q> <rj><qau>Addison.</qau></rj><br/
 
 <p><ent>jazz</ent><br/
 <hw>jazz</hw> <pos>n.</pos> <sn>1.</sn> <def>A type of music that originated in New Orleans around 1900 and developed through increasingly complex styles, but generally featuring intricate rhythms, improvisation, prominent solo segments, and great freedom in harmonic idiom played frequently in a polyphonic style, on various instruments including horn, saxophone, piano and percussion, but rarely stringed instruments.</def> <wns>[wns=1]</wns><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>empty or insincere or exaggerated talk; <as>as, don't give me any of that <ex>jazz</ex></as>.</def> <wns>[wns=2]</wns><br/
 <syn><b>Syn. --</b> wind, idle words, nothingness.</syn><br/
@@ -2253,7 +2253,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><ent>jello</ent><br/
 <ent>Jell-O</ent><br/
 <mhw><hw>Jell"-O</hw>, <hw>jell"o</hw></mhw> <pos>n.</pos> <ety>[a trademark.]</ety> <def>a brand of sweetened fruit-flavored powdered mixture, packaged so that it can be conveniently dissolved in hot water and solidified into a gelatin, used as a dessert, sometimes with pieces of fruit mixed in; also the gelatin dessert thus prepared; sometimes used metaphorically; <as>as, when he pulled a gun on me, my knees turned to <ex>Jell-O</ex>.</as>.</def> <mark>[Trademark]</mark> <note>Jell-O was originally a trademark and is still protected by trademark law, but is often used as one word, uncapitalized in informal writing.</note><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>jelly</ent><br/
 <hw>jel"ly</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Jellies</plw> <pr>(#)</pr>.</plu> <ety>[ Formerly <ets>gelly</ets>, <ets>gely</ets>, F. <ets>gel<eacute/e</ets> jelly, frost, fr. <ets>geler</ets> to freeze. L. <ets>gelare</ets>; akin to <ets>gelu</ets> frost. See <er>Gelid</er>.]</ety><br/
@@ -2332,7 +2332,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Jenny ass</b></col> <fld>(Zool.)</fld>, <cd>a female ass; also, a female of certain other animals.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jenny</ent><br/
 <hw>Jen"ny</hw>, <pos>n.</pos> <ety>[A corruption of <ets>gin</ets> an engine; influenced by <ets>Jenny</ets>, the proper name. See <er>Gin</er> an engine, and cf. <er>Ginny-carriage</er>.]</ety> <def>A machine for spinning a number of threads at once, -- used in factories.  Also called <altname>spinning jenny</altname>.</def><br/
@@ -2968,7 +2968,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Jew's frankincense</b></col>, <cd>gum styrax, or benzoin.</cd> -- <col><b>Jew's mallow</b></col> <fld>(Bot.)</fld>, <cd>an annual herb (<spn>Corchorus olitorius</spn>) cultivated in Syria and Egypt as a pot herb, and in India for its fiber.</cd> -- <col><b>Jew's pitch</b></col>, <cd>asphaltum; bitumen.</cd> -- <col><b>The Wandering Jew</b></col>, <cd>an imaginary personage, who, for his cruelty to Christ during his passion, is doomed to wander on the earth till Christ's second coming.</cd> -- <col><b>Wandering Jew</b></col>, <cd>any of several house plants of the genera <gen>Zebrina</gen> and <gen>Tradescantia</gen> having white-striped leaves, especially the creeping plants <spn>Zebrina pendula</spn> and <spn>Tradescantia fluminensis</spn>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jew</ent><br/
 <hw>Jew</hw> <pr>(j<umac/ <it>or</it> j<oomac/)</pr>, <pos>a.</pos>  <def>Of or pertaining to Jews; Jewish; -- usually considered offensive.</def> <mark>[offensive]</mark> <br/
@@ -3055,7 +3055,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Jewess</ent><br/
 <hw>Jew"ess</hw>, <pos>n.</pos>, <mord><pos>fem.</pos> of <er>Jew</er></mord>. <def>A female Jew; a Hebrew woman; a female adherent of Judaism.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jewfish</ent><br/
 <hw>Jew"fish`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sn>1.</sn> <def>A very large serranoid fish (<spn>Promicrops itaiara</spn>) of Florida and the Gulf of Mexico. It often reaches the weight of five hundred pounds. Its color is olivaceous or yellowish, with numerous brown spots. Called also <altname>guasa</altname>, and <altname>warsaw</altname>.</def><br/
@@ -3309,7 +3309,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of several species of small red mites (esp. <spn>Tetranychus irritans</spn> and <spn>Tetranychus Americanus</spn>) of the family <fam>Trombiculidae</fam>, which, in the larval or leptus stage, burrow beneath the skin of man and various animals, causing great annoyance.  Also called <altname>chigger</altname>.</def> <mark>[Southern U. S.]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Jigger</ent><br/
 <hw>Jig"ger</hw>, <pos>n.</pos> <ety>[See <er>Jig</er>, <pos>n. & v.</pos>]</ety>  <sn>1.</sn> <def>One who, or that which, jigs; specifically, a miner who sorts or cleans ore by the process of jigging; also, the sieve used in jigging.</def><br/
@@ -3529,7 +3529,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A statesman who pursues, or who favors, aggressive, domineering policy in foreign affairs; a bellicose superpatriot or chavinist.</def> <mark>[Cant, Eng.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ This sense arose from a doggerel song which was popular during the Turco-Russian war of 1877 and 1878. The first two lines were as follows: --<br/
 [<source>1913 Webster</source>]</p>
@@ -3618,7 +3618,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 
 <p><ent>jitterbug</ent><br/
 <hw>jitterbug</hw> <pos>n.</pos> <def>a fast and vigorous American dance that was popular in the 1940s, having few standardized steps and personalized with various twirls, twists, and acrobatic moves; it was performed often to the accompaniment of swing or boogie-woogie tunes.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>jitterbug</ent><br/
 <hw>jitterbug</hw> <pos>v. i.</pos> <def>to do the jitterbug.</def><br/
@@ -3632,7 +3632,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><ent>jittery</ent><br/
 <hw>jittery</hw> <pos>adj.</pos>  <def>being in a tense state; easily upset or frightened; -- of a person.</def><br/
 <syn><b>Syn. --</b> edgy, fidgety, high-strung, in suspense(predicate), jumpy, nervous, nervy, overstrung, restive, uneasy, uptight.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>jiujitsu</ent><br/
 <hw>jiujitsu</hw> <pos>n.</pos> <ety>[Jap., <tran>soft technique</tran>.]</ety> <def>a method of self-defense without weapons that was developed in China and Japan; holds and blows are supplemented by clever use of the attacker's own weight and strength.</def><br/
@@ -3684,7 +3684,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>By the job</b></col>, <cd>at a stipulated sum for the work, or for each piece of work done; -- distinguished from <contr>time work</contr>; <as>as, the house was built <ex>by the job</ex></as>.</cd> -- <col><b>Job lot</b></col>, <cd>a quantity of goods, usually miscellaneous, sold out of the regular course of trade, at a certain price for the whole; <as>as, these articles were included in a <ex>job lot</ex></as>.</cd> -- <col><b>Job master</b></col>, <cd>one who lest out horses and carriages for hire, as for family use.</cd> <mark>[Eng.]</mark> -- <col><b>Job printer</b></col>, <cd>one who does miscellaneous printing, esp. circulars, cards, billheads, etc.</cd> -- <col><b>Odd job</b></col>, <cd>miscellaneous work of a petty kind; occasional work, of various kinds, or for various people.</cd> -- <col><b>to do a job on</b></col>, <cd>to harm badly or destroy.</cd> <mark>[slang]</mark>  -- <col><b>on the job</b></col>, <cd>alert; performing a responsibility well.</cd> <mark>[slang]</mark></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Job</ent><br/
 <hw>Job</hw> <pr>(j<ocr/b)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Jobbed</conjf> <pr>(j<ocr/bd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Jobbing</conjf>.]</vmorph><br/
@@ -4018,7 +4018,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 
 <p><ent>Jogger</ent><br/
 <hw>Jog"ger</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who jogs; <as>as, the paths in Central Park on a summer Saturday are filled with <ex>joggers</ex></as>.</def>  <rj><au>Dryden.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jogging</ent><br/
 <hw>Jog"ging</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of giving a jog or jogs; traveling at a jog.</def><br/
@@ -4271,7 +4271,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>10.</sn>  <def>a disreputable establishment, or a place of low resort, as for smoking opium; -- also used for a commercial establishment, implying a less than impeccable reputation, but often in jest; <as>as, talking about a high-class <ex>joint</ex> is an oxymoron</as>.</def> <mark>[Slang]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>11.</sn>  <def>a marijuana cigarette.</def> <mark>[Slang]</mark><br/
 [<source>PJC</source>]</p>
@@ -4481,7 +4481,7 @@ To pleasant laughter.</q> <rj><qau>Gay.</qau></rj><br/
 <p><ent>joking</ent><br/
 <hw>joking</hw> <pos>adj.</pos> <def>intended as a joke; -- of communications.</def><br/
 <syn><b>Syn. --</b> jesting, jocose, jocular, jocund.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>no joking matter</b></col> <cd>a serious matter.</cd></cs><br/
 [<source>PJC</source>]</p>
@@ -4788,7 +4788,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>joule</ent><br/
 <hw>joule</hw> <pr>(j<oomac/l)</pr>, <pos>n.</pos> <ety>[From the distinguished English physicist, <person>James Prescott <etsep>Joule</etsep></person> (1818-1889).]</ety> <fld>(Physics.)</fld> <def>A unit of work which is equal to 10<exp>7</exp> ergs (the unit of work in the C. G. S. system of units), and is equivalent to one watt-second, the energy expended in one second by an electric current of one ampere in a resistance of one ohm; also called the <altname>absolute joule</altname>.  It is abbreviated <abbr>J</abbr> or <abbr>j</abbr>.  The <stype>international joule</stype> is slightly larger, being 1.000167 times the absolute joule.  The absolute <ex>joule</ex> is approximately equal to 0.737562 foot pounds, 0.239006 gram-calories (small calories),  and 3.72506 x 10<exp>-7</exp> horsepower-hours, and 0.000948451 B.t.u.</def>  <au>HCP61</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Joule's equivalent</b></col>. <cd>See under <er>Equivalent</er>, <pos>n.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -4853,7 +4853,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The periodical collection and publication of current news; the business of managing, editing, or writing for, journals, newspapers, magazines, broadcasting media such as radio or television, or other news media such as distribution over the internet; <as>as, political <ex>journalism</ex>; broadcast <ex>journalism</ex>; print <ex>journalism</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q><qex>Journalism</qex> is now truly an estate of the realm.</q> <rj><qau>Ed. Rev.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -4866,7 +4866,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>One whose occupation is to write for any of the public news media, such as newspapers, magazines, radio, television, or internet; also, an editorial or other professional writer for a periodical.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Journalistic</ent><br/
 <hw>Jour"nal*is"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to journals, journalism, or to journalists; contained in, or characteristic of, the public journals; <as>as, <ex>journalistic</ex> literature or enterprise</as>.</def><br/
@@ -4898,7 +4898,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <specif>Hence:</specif> <mark>[figurative]</mark>, <def>A passage through life, or a passage through any significant experience, or from one state to another.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q><qex>We</qex> must all have the same <qex>journey's</qex> end.</q> <rj><qau>Bp. Stillingfleet.</qau></rj></p>
 
@@ -4934,7 +4934,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Journeyman</ent><br/
 <hw>Jour"ney*man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Journeymen</plw> <pr>(<?/)</pr>.</plu> <sn>1.</sn> <def>Formerly, a man hired to work by the day; now, commonly, one who has finished an apprenticeship and is a competent worker in a handicraft or trade, but has not received recognition as a master; -- distinguished from <contr>apprentice</contr> and from <contr>master workman</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>I have thought some of nature's <qex>journeymen</qex> had made men, and not made them well.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -4951,7 +4951,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Joust</ent><br/
 <hw>Joust</hw> <pr>(joust <it>or</it> j<ucr/st; 277)</pr>, <pos>v. i.</pos> <ety>[OE. <ets>justen</ets>, <ets>jousten</ets>, OF. <ets>jouster</ets>, <ets>jouster</ets>, <ets>joster</ets>, F. <ets>jouter</ets>, fr. L. <ets>juxta</ets> near to, nigh, from the root of <ets>jungere</ets> to join. See <er>Join</er>, and cf. <er>Jostle</er>.]</ety> <sn>1.</sn> <def>To engage in mock combat on horseback, as two knights in the lists; to tilt.</def> <altsp>[Written also <asp>just</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>For the whole army to <qex>joust</qex> and tourney.</q> <rj><qau>Holland.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5501,7 +5501,7 @@ And to be <qex>judged</qex> by him.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Judge-made</ent><br/
 <hw>Judge"-made`</hw>, <pos>a.</pos> <def>Created by judges or judicial decision; -- applied esp. to law applied or established by the judicial interpretation of statutes so as extend or restrict their scope, as to meet new cases, to provide new or better remedies, etc., and often used opprobriously of acts of judicial interpretation considered as doing this.  <ex>Judge-made</ex> law is contrasted with <contr>statutory law</contr> and <contr>civil law</contr>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>The law of the 13th century was <qex>judge-made</qex> law in a fuller and more literal sense than the law of any succeeding century has been.</q>  <rj><qau>Sir Frederick Pollock.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -5705,7 +5705,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>judo</ent><br/
 <hw>judo</hw> <pos>n.</pos> <def>a sport adapted from jujitsu, originally a method of self-defense without weapons, and similar to wrestling; it was developed in Japan.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Jug</ent><br/
 <hw>Jug</hw> <pr>(j<ucr/g)</pr>, <pos>n.</pos> <ety>[Prob. fr. <ets>Jug</ets>, a corruption of, or nickname for, <ets>Joanna</ets>; cf. 2d <ets>Jack</ets>, and <ets>Jill</ets>. See <er>Johannes</er>.]</ety><br/
@@ -5779,7 +5779,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The principal seat of the worship of Juggernaut (Jagannath) is at P<ucir/ri in Orissa. At certain times the idol is drawn from the temple by the multitude, on a high car with sixteen wheels. The idol is considered to contain the bones of <persfn>Krishna</persfn> and to possess a soul. The principal festivals are the <ecol><b>Snanayatra</b></ecol>, when the idol is bathed, and the <ecol><b>Rathayatra</b></ecol>, when the image is drawn upon a car adorned with obscene paintings. Formerly it was erroneously supposed that fanatical devotees threw themselves under the wheels of this car, to be crushed as a sacrifice to the god. It is now known that any death within the temple of Jagannath is considered to render the place unclean, and any spilling of blood in the presence of the idol is a pollution.  As a result of this erroneous belief, however, the word <er>juggernaut</er> is now used principally in the figurative sense 2.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Any large, unstoppable force, power, or popular movement which defeats or destroys any person who gets in its way or attempts to stop it; <as>as, for years the Notre Dame football team was an unstoppable <ex>juggernaut</ex>; after the early primaries, Johnson's campaign became a <ex>juggernaut</ex>, crushing all rivals</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -5789,7 +5789,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To play tricks by sleight of hand; to cause amusement and sport by tricks of skill; to conjure; especially, to maintian several objects in the air at one time by tossing them up with one hand, catching them with the other hand, and passing them from the catching to the tossing hand.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To practice artifice or imposture.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -5832,7 +5832,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>One who juggles; one who practices or exhibits tricks by sleight of hand; one skilled in legerdemain; a conjurer.</def> <mark>[Archaic]</mark> <note>This sense is now expressed by <altname>magician</altname> or <altname>conjurer</altname>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>As nimble <qex>jugglers</qex> that deceive the eye.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -6223,7 +6223,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To jump a claim</b></col>, <cd>to enter upon and take possession of land to which another has acquired a claim by prior entry and occupation.</cd> <mark>[Western U. S. & Australia]</mark> <see>See <er>Claim</er>, <pos>n.</pos>, 3.</see> -- <col><b>To jump one's bail</b></col>, <cd>to abscond while at liberty under bail bonds.</cd>  <mark>[Slang, U. S.]</mark> -- <col><b>To jump the gun</b></col>, <cd>to begin to run (in a footrace) before the starting gun has fired; hence, <mark>(fig.)</mark> to begin any activity before the designated starting time.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jump</ent><br/
 <hw>Jump</hw>, <pos>n.</pos> <sn>1.</sn> <def>The act of jumping; a leap; a spring; a bound.</def> <ldquo/To advance by <xex>jumps</xex>.<rdquo/  <rj><au>Locke.</au></rj><br/
@@ -6368,7 +6368,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Jumpy</ent><br/
 <hw>Jump"y</hw> <pr>(?)</pr>, <pos>a.</pos>  <amorph>[<pos>Compar.</pos> <adjf>Jumpier</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Jumpiest</adjf>.]</amorph> <def>Jumping, or inducing to jump; characterized by jumps;</def> <specif>hence,</specif> <def>extremely nervous; jittery.</def><br/
 <syn><b>Syn. --</b> edgy, fidgety, high-strung, in suspense(predicate), jittery, nervous, nervy, overstrung, restive, uneasy, uptight.</syn><br/
-[<source>Webster 1913 Suppl.</source> <source>WordNet 1.5</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Juncaceae</ent><br/
 <hw>Juncaceae</hw> <pos>n.</pos>  <def>A natural family of tufted herbs resembling grasses, including the true <members>rushes</members>; called also the <altname>rush family</altname>.</def><br/
@@ -6503,7 +6503,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Less advanced in age than another; younger.  Abbreviated <abbr>Jr.</abbr></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ <xex>Junior</xex> is applied to distinguish the younger of two persons bearing the same name in the same family, and is opposed to <contr>senior or elder</contr>. Commonly applied to a son who has the same Christian name as his father.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -6522,7 +6522,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 
 <p><sn>5.</sn> <def>of or relating to the third year of a four-year term; -- used of the third or next to final year in a U. S. high school or college.  See <er>junior</er>{2}, <pos>n.</pos>.</def><br/
 <syn><b>Syn. --</b> third-year.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Junior</ent><br/
 <hw>Jun"ior</hw>, <pos>n.</pos> <sn>1.</sn> <def>A younger person.</def><br/
@@ -6720,7 +6720,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>One of the planets, being the fifth from the sun, the brightest except Venus, and the largest of them all, its mean radius being about 43,345 miles (69,758 kilometers), almost exactly one-tenth that of the sun. It revolves about the sun in 4,332.6 days, at a mean distance of 5.2025 from the sun (778,140,000 km), the earth's mean distance (the <ecol><b>astronomical unit</b></ecol>) being taken as unity.  It has a mass of 1.901 x 10<exp>27</exp> kg, about one-thousandth that of the sun, and more than the remainder of the planets combined.  It has an average solar day equal to 9.842 earth hours.  The rapid revolution causes a noticeable flattening at the poles; the diameter at the equator is 71,370 km, and at the poles 66,644 km.</def> <au>HCP61</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Jupiter's beard</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A South European herb, with cymes of small red blossoms (<spn>Centranthus ruber</spn>)</cd>. <sd>(b)</sd> <cd>The houseleek (<spn>Sempervivum tectorum</spn>); -- so called from its massive inflorescence, like the sculptured beard of Jove</cd>. <au>Prior.</au> <sd>(c)</sd> <cd>the cloverlike <spn>Anthyllis Barba-Jovis</spn>.</cd> -- <col><b>Jupiter's staff</b></col> <fld>(Bot.)</fld>, <cd>the common mullein; -- so called from its long, rigid spike of yellow blossoms.</cd></cs></p>
 
@@ -6761,7 +6761,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 
 <p><ent>Jurassic</ent><br/
 <hw>Ju*ras"sic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Geol.)</fld> <def>Of the age of the middle Mesozoic, about 190 to 140 million years ago, including, as divided in England and Europe, the Lias, O<oum/lite, and Wealden; -- named from certain rocks of the <etsep>Jura</etsep> mountains.  It was noted for the predominance of dinosaurs on land, and the development of the first birds and mammals.</def> -- <def2><pos>n.</pos> <def>The Jurassic period or formation; -- called also the <altname>Jura</altname>.</def></def2><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jurat</ent><br/
 <hw>Ju"rat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prov. F. <ets>jurat</ets>, fr. L. <ets>juratus</ets> sworn, <ets>p. p.</ets> of <ets>jurare</ets> to swear. See <er>Jury</er>, <pos>n.</pos>]</ety><br/
@@ -6901,7 +6901,7 @@ You maim'd the <qex>jurisdiction</qex> of all bishops.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Law)</fld> <def>A body of people, selected according to law, impaneled and sworn to inquire into and try any matter of fact, and to render their true verdict according to the evidence legally adduced.  In criminal trials the number of such persons is usually twelve, but in civil cases and in grand juries it may different.  See <cref>Grand jury</cref> under <er>Grand</er>, and <er>Inquest</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The <qex>jury</qex>, passing on the prisoner's life.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -6927,7 +6927,7 @@ You maim'd the <qex>jurisdiction</qex> of all bishops.</q> <rj><qau>Shak.</qau><
 <p><ent>jury-rigged</ent><br/
 <hw>ju"ry-rigged`</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Naut.)</fld> <def>Rigged for temporary service; done or made using whatever materials are available; makeshift; <as>as, the survivors used <ex>jury-rigged</ex> fishing gear</as>. See <er>Jury</er>, <pos>a.</pos></def><br/
 <syn><b>Syn. --</b> improvised, makeshift.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jussi</ent><br/
 <hw>Jus"si</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A delicate fiber, produced in the Philippine Islands from an unidentified plant, of which dresses, etc., are made.</def><br/

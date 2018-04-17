@@ -253,7 +253,7 @@
 
 <p><ent>Xenon</ent><br/
 <hw>Xen"on</hw> <pr>(z<ecr/n"<ocr/n; z<emac/"n<ocr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xe`non</grk>, neut. of <grk>xe`nos</grk> strange.]</ety> <fld>(Chem.)</fld> <def>A very heavy, inert gaseous element of the noble gas group, occurring in the atmosphere in the proportion of one volume is about 20 millions.  It was discovered by <person>Ramsay</person> and <person>Travers</person> in 1898.  It can be condensed to a liquid boiling at -107<deg/ C., and to a solid which melts at -111.9<deg/ C.  Symbol <it>Xe</it> (formerly also <it>X</it>); atomic number 54; atomic weight 131.3.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Xenogamy</ent><br/
 <hw>Xe*nog"a*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xe`nos</grk> strange, foreign + <grk>ga`mos</grk> marriage.]</ety> <fld>(Bot.)</fld> <def>Cross fertilization.</def><br/
@@ -461,7 +461,7 @@
 <p><ent>X-ray</ent><br/
 <ent>X ray</ent><br/
 <mhw><hw>X ray</hw>, <hw>X-ray</hw></mhw> <pr>(<ecr/ks"r<amac/`)</pr>, <pos>n.</pos> <ety>[so called by its discoverer because of its enigmatical character, <it>x</it> being an algebraic symbol for an unknown quantity.]</ety> <fld>(Physics)</fld> <def>Originally, any of the rays produced when cathode rays strike upon surface of a solid (as a copper target or the wall of the vacuum tube); now defined as electromagnetic radiation with a wavelength of 0.1 to 10 nanometers. X-rays are noted for their penetration of many opaque substances, as wood and flesh, their action on photographic plates, and their fluorescent effects. They were called <altname>X rays</altname> by their discoverer, <person>W. K. R<oum/ntgen</person>, but were also referred to for some time as <altname>Roentgen rays</altname>. The term <ex>X-ray</ex> has become the most common designation.  They also ionize gases, but cannot be reflected, or polarized, or deflected by a magnetic field.  They are used in examining objects opaque to visible light, as for imaging bones or other structures inside the human body, and for detecting flaws in metal objects, such as in welds.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>X-ray</ent><br/
 <ent>X ray</ent><br/
@@ -728,7 +728,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Mus.)</fld> <def>Originally, an instrument common among the Russians, Poles, and Tartars, consisting of a series of strips of wood or glass graduated in length to the musical scale, resting on belts of straw, and struck with two small hammers; now any similar musical instrument composed of a series of bars of graduated length.  Called in Germany <altname>strohfiedel</altname>, or <altname>straw fiddle</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>An instrument to determine the vibrative properties of different kinds of wood.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>

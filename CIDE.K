@@ -46,7 +46,7 @@
 
 <p><ent>Kaaba</ent><br/
 <hw>Ka*a"ba</hw> <pr>(k<adot/*<amac/"b<adot/)</pr>, <pos>prop. n.</pos> <ety>[Ar. <ets>ka'bah</ets>, lit., a square building, fr. <ets>ka'b</ets> cube.]</ety> <def>The small and nearly cubical stone building, in the court of the Great Mosque at Mecca, toward which all Muslims must pray.  It contains a sacred black stone, believed by Muslims to be one of the precious stones of paradise, and to have been brought to Abraham when he was contructing the Kaaba, by the Angel Gabriel.  The Kaaba itself predates Mohammed, having been a pantheon which contained Arab idols, which were destroyed by Mohammed.</def> <altsp>[Written also <asp>caaba</asp>, <asp>kaabeh</asp> and <asp>kaabah</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kaama</ent><br/
 <hw>Kaa"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The hartbeest.</def><br/
@@ -139,7 +139,7 @@
 
 <p><ent>Kahau</ent><br/
 <hw>Ka*hau"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name, from its cry.]</ety> <fld>(Zool.)</fld> <def>A long-nosed monkey (<spn>Nasalis larvatus</spn>, formerly <spn>Semnopithecus nasalis</spn>), native of Borneo. The general color of the body is bright chestnut, with the under parts, shoulders, and sides of the head, golden yellow, and the top of the head and upper part of the back brown. Called also <altname>proboscis monkey</altname>.  It is now an endangered species.</def> <altsp>[Written also <asp>kaha</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kail</ent><br/
 <hw>Kail</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>A kind of headless cabbage. Same as <er>Kale</er>, 1.</def><br/
@@ -394,7 +394,7 @@
 
 <p><ent>Kamtschadales</ent><br/
 <hw>Kam"tscha*dales</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[from the older spelling <ets>Kamtschatka</ets> for Kamchatka.]</ety>  <fld>(Ethnol.)</fld> <def>An aboriginal tribe inhabiting the southern part of the Kamchatka peninsula; called also <altname>Kamchadals</altname> and <altname>Itelmen</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kan</ent><br/
 <hw>Kan</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To know; to ken.</def> <mark>[Obs.]</mark> <see>See <er>Ken</er>.</see><br/
@@ -1237,7 +1237,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>A fruit that keeps well; <as>as, the Roxbury Russet is a good <ex>keeper</ex></as>.</def> <specif>Hence:</specif> <def>Anything perishable that remains in good condition longer than usual.</def> <rj><au> Downing.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <def>An iron bar that is placed on the poles of a horseshoe magnet, and held in place there by the magnetic force, to preserve the strength of the magnet when not in use.</def><br/
 [<source>PJC</source>]</p>
@@ -1263,7 +1263,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Conformity; congruity; harmony; consistency; <as>as, these subjects are in <ex>keeping</ex> with each other; his levity is not in <ex>keeping</ex> with the seriousness of the occasion</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Paint.)</fld> <def>Harmony or correspondence between the different parts of a work of art; <as>as, the foreground of this painting is not in <ex>keeping</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1652,7 +1652,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 
 <p><ent>keratin</ent><br/
 <hw>ker"a*tin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn.]</ety> <fld>(Physiol. Chem.)</fld> <def>A sulfur-containing fibrous protein constituting the main structural protein of hard epidermal tissues, such as horn, hair, feathers, nails, claws, hoofs, and the like. It is an insoluble substance, and, unlike elastin, is not dissolved even by gastric or pancreatic juice. By decomposition with sulphuric acid it yields leucine and tyrosine plus various other acid-stable amino acids.  The amino acid composition varies, but it usually has a high percentage of cystine, which stabilizes and insolubilizes the protein by forming intrachain linkages.  A softer form of keratin is present in the epidermis and whalebone.  Called also <altname>epidermose</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Keratitis</ent><br/
 \'d8<hw>Ker`a*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ke`ras</grk>, <grk>-atos</grk>, horn + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the cornea.</def><br/
@@ -1860,7 +1860,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 
 <p><ent>Kerosene</ent><br/
 <hw>Ker"o*sene`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ wax.]</ety> <def>An oil used for illuminating purposes, formerly obtained from the distillation of mineral wax, bituminous shale, etc., and hence called also <altname>coal oil</altname>. It is now produced in immense quantities, chiefly by the distillation and purification of petroleum. It consists chiefly of several hydrocarbons of the methane series, having from 10 to 16 carbon atoms in each molecule, and having a higher boiling point (175 - 325<deg/ C) than gasoline or the petroleum ethers, and a lower boling point than the oils.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kerse</ent><br/
 <ent>Kers</ent><br/
@@ -2051,7 +2051,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>One of a set of small movable parts on an instrument or machine which, by being depressed, serves as the means of operating it; the complete set of keys is usually called the <partof>keyboard</partof>; <as>as, the <ex>keys</ex> of a piano, an organ, an accordion, a computer keyboard, or of a typewriter.</as>  The keys may operate parts of the instrument by a mechanical action, as on a piano, or by closing an electrical circuit, as on a computer keyboard.  See also senses 12 and 13.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>A position or condition which affords entrance, control, pr possession, etc.; <as>as, the <ex>key</ex> of a line of defense; the <ex>key</ex> of a country; the <ex>key</ex> of a political situation</as>.</def> <specif>Hence,</specif> <def>that which serves to unlock, open, discover, or solve something unknown or difficult; <as>as, the <ex>key</ex> to a riddle; the <ex>key</ex> to a problem.</as>  Similarly, see also senses 14 and 15.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2168,14 +2168,14 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Keynesian</ent><br/
 <hw>Keynesian</hw> <pos>adj.</pos> <sn>1.</sn> <def>Of or pertaining to <person>John Maynard <etsep>Keynes</etsep></person>; conforming to the theories of Keynesianism; -- especially, the term is used to refer to the macroeconomic theories and politico-economic policies proposed by <persfn>Keynes</persfn> and his followers, especially in regards to their advocacy of governmental action to maintain low unemployment through government spending.  Keynes's book <ldquo/The General Theory of Employment, Interest, and Money<rdquo/ (Macmillan, 1936) had a strong influence on views of the government's role in the economy through the 1970's.</def> <wns>[wns=1]</wns><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A  believer in the theories of Keynesianism.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Keynesianism</ent><br/
 <hw>Keynesianism</hw> <pos>adj.</pos> <def>the macroeconomic theories and politico-economic policies of British economist <person>John Maynard <etsep>Keynes</etsep></person> (1883-1946) and his followers; -- used especially in reference to their advocacy of governmental action to maintain low unemployment through government spending.  See <er>Keynes</er>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Keynote</ent><br/
 <hw>Key"note`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Mus.)</fld> <def>The tonic or first tone of the scale in which a piece or passage is written; the fundamental tone of the chord, to which all the modulations of the piece are referred; -- called also <altname>key tone</altname>.</def><br/
@@ -2336,7 +2336,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn>  <def>Portland cement when thrown or blown into the recesses of carved stonework to intensify the shadows.</def></p>
 
 <p><cs><col><b>To put the kibosh on</b></col>, <cd>to dispose of; to squelch; to terminate; put an end to; to do for.</cd> <mark>[Slang]</mark></cs><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Kiby</ent><br/
 <hw>Kib"y</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Affected with kibes.</def>  <rj><au>Skelton.</au></rj><br/
@@ -2363,7 +2363,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>To kick the beam</b></col>, <cd>to fit up and strike the beam; -- said of the lighter arm of a loaded balance; hence, to be found wanting in weight.</cd> <au>Milton.</au> -- <col><b>To kick the bucket</b></col>, <cd>to lose one's life; to die.</cd> <mark>[Colloq. & Low]</mark> -- <col><b>To kick oneself</b></col>, <cd>to experience strong regret; <as>as, he <ex>kicked himself</ex> for not investing in the stock market in 1995</as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kick</ent><br/
 <hw>Kick</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To thrust out the foot or feet with violence; to strike out with the foot or feet, as in defense or in bad temper; esp., to strike backward, as a horse does, or to have a habit of doing so.</def> <specif>Hence,</specif> <mark>(figuratively)</mark>: <def>To show ugly resistance, opposition, or hostility; to spurn.</def><br/
@@ -2456,7 +2456,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 
 <p><ent>kick off</ent><br/
 <hw>kick` off"</hw> <pos>v. i.</pos> <fld>(Football)</fld>  <def>To kick the football from the center of the field to start a football game or to resume it after a score; <as>as, they <ex>kicked off</ex> at two o'clock</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>kick off</ent><br/
 <hw>kick` off"</hw> <pos>v. t.</pos> <def>to begin; to commence; <as>as, they <ex>kicked off</ex> the rally with a playing of the national anthem</as>.</def><br/
@@ -2626,7 +2626,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Habit; disposition; sort; kind; <as>as, a man of a different <ex>kidney</ex></as>.</def>  <rj><au>Shak.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>There are in later times other decrees, made by popes of another <qex>kidney</qex>.</q> <rj><qau>Barrow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2648,7 +2648,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><ent>Kidney-shaped</ent><br/
 <ent>Kidney-form</ent><br/
 <mhw>{ <hw>Kid"ney-form`</hw> <pr>(?)</pr>, <hw>Kid"ney-shaped`</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Having the form or shape of a kidney; reniform; <as>as, a <ex>kidney-shaped</ex> leaf; a <ex>kidney-shaped</ex> swimming pool</as>.</def>  <rj><au>Gray.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kidneywort</ent><br/
 <hw>Kid"ney*wort`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A kind of saxifrage <spn>(Saxifrage stellaris)</spn>.</def> <sd>(b)</sd> <def>The navelwort.</def><br/
@@ -2743,7 +2743,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>To cause to cease; to quell; to calm; to still; <as>as, in seamen's language, a shower of rain <ex>kills</ex> the wind; new sound insultation <ex>killed</ex> the loud noises from outside</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Be comforted, good madam; the great rage,<br/
 You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj><br/
@@ -2928,7 +2928,7 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>kilter</ent><br/
 <hw>kil"ter</hw> <pr>(k<icr/l"t<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. Gael. & Ir. <ets>cealt</ets> clothes, Gael. <ets>cealltair</ets> spear, castle, cause, Prov. E. <ets>kilter</ets> tool, instrument.  Cf. <er>Kilt</er>.]</ety> <def>Regular order or proper condition.  Same as <er>kelter</er>, but <er>kilter</er> is the more common spelling in the U. S.  Used chiefly in the phrase <ecol><b>out of kilter</b></ecol>, meaning out of order or irregular in some manner.</def> <altsp>[Also spelled <asp>kelter</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kilting</ent><br/
 <hw>Kilt"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Dressmaking)</fld> <def>A perpendicular arrangement of flat, single plaits, each plait being folded so as to cover half the breadth of the preceding one.</def><br/
@@ -2951,7 +2951,7 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>kimono</ent><br/
 <hw>ki*mo"no</hw> <pr>(k<icr/*m<omac/"n<omac/; Jap. k<icr/m"<omac/*n<omac/)</pr>, <pos>n.</pos>; <plu>pl. <plw>-nos</plw> <pr>(k<icr/*m<omac/"n<omac/z)</pr></plu>. <ety>[Jap., <tr>article of clothing</tr>, fr. <ets>ki</ets> to wear + <ets>mono</ets> thing.]</ety> <sn>1.</sn> <def>A kind of loose robe or gown tied with a sash, worn as a traditional outer garment by Japanese women and men.  Women may wear it with a broad sash called an <er>obi</er>, having a large bow in the back.  At present (1998), most Japanese wear it only at home or on ceremonial occasions, western-style clothing being more common in the workplace.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>A similar gown worn as a dressing gown by women of Western nations.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -3362,11 +3362,11 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>kinetograph</ent><br/
 <hw>ki*ne"to*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ movable + <ets>-graph</ets>.]</ety> <fld>(Physics)</fld> <sd>(a)</sd> <def>A camera for making chronophotographs.</def> <mark>[obsolescent]</mark> <sd>(b)</sd> <def>A machine for the projection of chronophotographs upon a screen for the purpose of producing the effect of an animated picture.</def> <mark>[obsolescent]</mark> <sd>(c)</sd> <def>A combined animated-picture machine and phonograph in which sounds appropriate to the scene are automatically uttered by the latter instrument.  It has been superseded by recording techniques allowing the sounds to be recorded directly on the motion-picture film.</def> <mark>[obsolescent]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>kinetophone</ent><br/
 <hw>ki*ne"to*phone</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Kinetic</er>, <er>Phone</er>.]</ety> <def>A machine combining a kinetoscope and a phonograph synchronized so as to reproduce a scene and its accompanying sounds.  It has been superseded by recording techniques allowing the sounds to be recorded directly on the motion-picture film.</def> <mark>[obsolescent]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Kinetoscope</ent><br/
 <hw>Ki*ne"to*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Originally a tradename, 1894.]</ety> <def>An obsolete form of moving picture viewer, in which a film carrying successive instantaneous views of a moving scene travels uniformly through the field of a magnifying glass. The observer sees each picture, momentarily, through a slit in a revolving disk, and these glimpses, blended by persistence of vision, give the impression of continuous motion.  It has been superseded by more recent versions of movie projector and electronic video viewers.</def><br/
@@ -3489,7 +3489,7 @@ Most learned reverend sir, into our <qex>kingdom</qex>.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>An extensive scientific division distinguished by leading or ruling characteristics; a principal division; a department; <as>as, the mineral <ex>kingdom</ex></as>.  In modern biology, the division of life into five <ex>kingdoms</ex> is widely used for classification.</def> <ldquo/The animal and vegetable <xex>kingdoms</xex>.<rdquo/ <rj><qau>Locke.</qau></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Animal kingdom</b></col>. <cd>See under <er>Animal</er>.</cd> -- <col><b>Kingdom of God</b></col>. <sd>(a)</sd> <cd>The universe.</cd> <sd>(b)</sd> <cd>That spiritual realm of which God is the acknowledged sovereign.</cd> <sd>(c)</sd> <cd>The authority or dominion of God.</cd> -- <col><b>Mineral kingdom</b></col>. <cd>See under <er>Mineral</er>.</cd> -- <col><b>United Kingdom</b></col>. <cd>See under <er>United</er>.</cd> -- <col><b>Vegetable kingdom</b></col>. <cd>See under <er>Vegetable</er>.</cd></cs></p>
 
@@ -3984,10 +3984,10 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <specif>Hence:</specif> <def>A collection of tools or other objects to be used for a specific purpose, often contained in a box which may be carried conveniently; a working outfit, as of a workman, a soldier, and the like; <as>as, a plumber's <ex>kit</ex>; a doctor's <ex>kit</ex>; a cosmetic <ex>kit</ex>; a first-aid <ex>kit</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <def>A group of separate parts, things, or individuals; -- used with <xex>whole</xex>, and generally contemptuously; <as>as, the whole <ex>kit</ex> of them; the whole <ex>kit</ex> and kaboodle</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>kitambilla</ent><br/
 <hw>kitambilla</hw> <pos>n.</pos> <sn>1.</sn> <def>A small shrubby spiny tree (<spn>Dovyalis hebecarpa</spn>) cultivated for its maroon-purple fruit with sweet purple pulp tasking like gooseberries; it is native to Sri Lanka and India.</def><br/
@@ -4197,7 +4197,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <ety>[Etym. uncertain.]</ety> <fld>(Gaming)</fld> <def>The percentage taken out of a pool to pay for refreshments, or for the expenses of the table;</def> <specif>by extension,</specif> <def>any pool of money aggregated from small contributions.</def>  <rj><au>R. F. Foster.</au></rj><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Kittysol</ent><br/
 <hw>Kit*ty*sol"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>quitasol</ets>.]</ety> <def>The Chinese paper parasol.</def><br/
@@ -4261,7 +4261,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <p><ent>Kleenex</ent><br/
 <hw>Kleenex</hw> <pos>prop. n.</pos> <ety>[Trademark]</ety>  <def>A piece of soft absorbent tissue paper (usually two or more thin layers) used as a disposable handkerchief; -- still a current trademark, but often used generically.</def> <mark>[Trademark]</mark> <br/
 <syn><b>Syn. --</b> tissue.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Kleptomania</ent><br/
 <hw>Klep`to*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>kle`pths</grk> thief + E. <ets>mania</ets>.]</ety> <def>A propensity to steal, claimed to be irresistible. This does not constitute legal irresponsibility.</def>  <rj><au>Wharton.</au></rj><br/
@@ -4336,7 +4336,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A readiness in performance; aptness at doing a specific task; skill; aptitude; facility; dexterity; -- often used with <ptcl>for</ptcl>; <as>as, a <ex>knack</ex> for playing the guitar</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The fellow . . . has not the <qex>knack</qex> with his shears.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -4444,7 +4444,7 @@ And had a kind of <qex>knack</qex> at rhyme.</q> <rj><qau>Swift.</qau></rj><br/
 
 <p><ent>Knapsack</ent><br/
 <hw>Knap"sack`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>knapzak</ets>; <ets>knappen</ets> to eat + <ets>zak</ets> a bag. See <er>Knap</er>, <pos>v. t.</pos>, and <er>Sack</er>.]</ety> <def>A case of canvas, leather, nylon, or other sturdy fabric, fitted with straps, for carrying on the back the food, clothing, or other supplies for a soldier or a traveler; <as>as, to hike up the mountain with lunch in a <ex>knapsack</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>And each one fills his <qex>knapsack</qex> or his scrip<br/
 With some rare thing that on the field is found.</q> <rj><qau>Drayton.</qau></rj><br/
@@ -4746,7 +4746,7 @@ The way into his mercy.</q> <rj><qau>Shak</qau></rj><br/
 
 <p><ent>Knell</ent><br/
 <hw>Knell</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>knel</ets>, <ets>cnul</ets>, AS. <ets>cnyll</ets>, fr. <ets>cnyllan</ets> to sound a bell; cf. D. & G. <ets>knallen</ets> to clap, crack, G. & Sw. <ets>knall</ets> a clap, crack, loud sound, Dan. <ets>knalde</ets> to clap, crack.  Cf. <er>Knoll</er>, <ets>n. & v.</ets>]</ety> <def>The stroke of a bell tolled at a funeral or at the death of a person; a death signal; a passing bell;</def> <specif>hence,</specif> <mark>(figuratively)</mark>, <def>a warning or harbinger of, or a sound indicating, the passing away of anything; -- also called <altname>death knell</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The dead man's <qex>knell</qex><br/
 Is there scarce asked for who.</q> <rj><qau>Shak.</qau></rj><br/
@@ -4809,7 +4809,7 @@ Of hopes laid waste, <qex>knells</qex> in that word, <ldquo/alone<rdquo/.</q> <r
 
 <p><ent>Knickknack</ent><br/
 <hw>Knick"knack`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Knack</er>.]</ety> <def>A trifle or toy; a bawble; a gewgaw; a tchotchke.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Knickknackatory</ent><br/
 <hw>Knick"knack`a*to*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A collection of knickknacks.</def>  <rj><au>Richardson.</au></rj><br/
@@ -4992,7 +4992,7 @@ You 'll gain at least a <qex>knighthood</qex>, or the bays.</q> <rj><qau>Pope.</
 
 <p><ent>knish</ent><br/
 <hw>knish</hw> <pr>(k'n<icr/sh")</pr>, <pos>n.</pos> <fld>(Russian and Jewish Cookery)</fld> <def>A fried, or sometimes baked, turnover made from a round or square sheet of dough containing a filling, usually of meat or potatoes.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Knit</ent><br/
 <hw>Knit</hw> <pr>(n<icr/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knit</conjf> or <conjf>Knitted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Knitting</conjf>.]</vmorph> <ety>[OE. <ets>knitten</ets>, <ets>knutten</ets>, As. <ets>cnyttan</ets>, fr. <ets>cnotta</ets> knot; akin to Icel. <ets>kn<ymac/ta</ets>, Sw. <ets>knyta</ets>, Dan. <ets>knytte</ets>. See <er>Knot</er>.]</ety> <sn>1.</sn> <def>To form into a knot, or into knots; to tie together, as cord; to fasten by tying.</def><br/
@@ -5257,7 +5257,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To assign to a bidder at an auction, by a blow or knock of the auctioneer's hammer; to sell at an auction; <as>as, the vase was <ex>knocked down</ex> at two thousand dollars</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>To take apart; to dissassemble; <as>as, to <ex>knock down</ex> a rifle for cleaning</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -5295,7 +5295,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <ent>knock-down-and-drag-out</ent><br/
 <mhw><hw>knock-down-and-drag-out</hw>, <hw>knockdown-dragout</hw></mhw> <pos>adj.</pos>  <def>marked by extreme violence; -- of fights; also used metaphorically of fierce contests; <as>as, a <ex>knock-down-and-drag-out</ex> fight; a <ex>knockdown-dragout</ex> competition for the browser market</as>.</def><br/
 <syn><b>Syn. --</b> ferocious, fierce, knockdown-dragout, tearing.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>knocked-out</ent><br/
 <hw>knocked-out</hw> <pos>adj.</pos>  <def>damaged; -- not used of persons; <as>as, the gym has some of the most <ex>knocked-out</ex> equipment since Vic Tanny</as>.  Opposite of <ant>undamaged</ant>.</def> <mark>[prenominal]</mark><br/
@@ -5806,7 +5806,7 @@ Hath trifled former <qex>knowings</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Know-it-all</ent><br/
 <hw>Know"-it-all`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who knows everything;</def> <specif>hence,</specif> <def>a person who makes pretension to great knowledge, especially one whose didactic conversational habit conspicuously reveals his belief that he has superior knowledge on many subjects; a wiseacre; a know-all; -- usually ironical.</def> <mark>[Colloq. & pejorative]</mark>  <note>the use of this term implies that the speaker disapproves of this behavior, and may think that it is unjustified</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Knowleche</ent><br/
 <hw>Knowl"eche</hw> <pr>(?)</pr>, <pos>n. & v.</pos> <mark>[Obs.]</mark> <def>See <er>Knowledge</er>.</def><br/
@@ -6030,7 +6030,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 
 <p><ent>Koala</ent><br/
 <hw>Ko*a"la</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A tailless furry marsupial (<spn>Phascolarctos cinereus</spn>), found in Australia. The female carries her young on the back of her neck. Called also <altname>Australian bear</altname>, <altname>koala bear</altname>, <altname>native bear</altname>, and <altname>native sloth</altname>.  The <ex>koala</ex> lives almost all of its life in trees, moves sluggishly like a sloth, and eats eucalyptus leaves almost exclusively.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Koba</ent><br/
 <ent>Kob</ent><br/
@@ -6064,7 +6064,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 
 <p><ent>Kodak</ent><br/
 <hw>Ko"dak</hw> <pr>(k<omac/"d<acr/k)</pr>, <pos>n.</pos> <ety>[An invented name.]</ety> <sn>1.</sn> <def>A kind of portable photographic camera, esp. adapted for snapshot work, in which a succession of negatives is made upon a continuous roll of sensitized film; -- originally a trademark name of the Eastman Kodak Company, but from early 1900's through the 1930's it was popularly applied to almost any hand camera.</def> <mark>[Trademark]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>A photograph taken with a kodak.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -6089,7 +6089,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <p><ent>Koellia</ent><br/
 <hw>Koellia</hw> <pos>n.</pos> <fld>(Bot.)</fld> <def>The genus comprising the American mountain mint, synonymous with <gen>Pycnanthemum</gen>.</def><br/
 <syn><b>Syn. --</b> Pycnanthemum, genus <gen>Pycnanthemum</gen>, genus <gen>Koellia</gen>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Koff</ent><br/
 <hw>Koff</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>kof</ets>.]</ety> <def>A two-masted Dutch vessel.</def></p>
@@ -6493,7 +6493,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 
 <p><ent>Krupp gun</ent><br/
 <hw>Krupp` gun"</hw> <pr>(kr<oocr/p`g<ucr/n")</pr> <pos>n.</pos>. <def>A breech-loading steel cannon manufactured at the works of Friedrich <etsep>Krupp</etsep>, at Essen in Prussia.  Guns of over eight-inch bore are made up of several concentric cylinders; those of a smaller size are forged solid.</def> <mark>[obsolescent]</mark>  <rj><au>Knight.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kruppize</ent><br/
 <hw>Krupp"ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Kruppized</conjf> <pr>(<?/)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Kruppizing</conjf>.]</vmorph> <fld>(Metal.)</fld> <def>To treat by, or subject to, the Krupp process.</def><br/
@@ -6547,7 +6547,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <ent>Ku Klux</ent><br/
 <ent>Kuklux</ent><br/
 <mhw><hw>Ku`klux"</hw>, <hw>Ku` Klux"</hw>, <hw>Ku` Klux" Klan</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <def>The name adopted in the southern part of the United States by a secret political organization, active for several years after the close of the Civil War, and having for its aim the repression of the political power of the freed negroes; -- called also <altname>Kuklux Klan</altname> and <altname>the Klan</altname>.  It exerienced a revival in the 1920's, in the north as well as the south, and persists as a weak organization into the 1990's.  Its goals were primarily anti-negro and anti-Catholic, and its tactics included terrorist attacks on negroes for the purpose of intimidation with the goal of continuing segregation.  The signature activity of the Klan was the burning of a cross, either at rallies of Klansmen, or on the property of African-Americans which they hoped to intimidate.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kulan</ent><br/
 <hw>Ku"lan</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Koulan</er>.</def></p>
@@ -6581,7 +6581,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <p><ent>kurchatovium</ent><br/
 <hw>kurchatovium</hw> <pos>n.</pos> <ety>[From <person>Igor <etsep>Kurchatov</etsep></person>, a Russian scientist who worked on the atomic bomb.]</ety> <def>A transuranic element of atomic number 104, symbol <it>Ku</it>; also called <altname>rutherfordium</altname>, symbol <it>Rf</it>.  It is produced in very small quantities by nuclear reactions.  In November 1993 the nomenclature committe of the American Chemical Society approved the name <altname>rutherfordium</altname> for element 104.  Russsian investigators who claim to have first discovered element 104, isotope 260 (half-life 0.3 seconds) in 1964 at Dubna proposed the name <ex>kurchatovium</ex>.  However, investigators at Berkely in 1969 produced several isotopes of element 104 but were unable to produce isotope 260; they reported finding isotope 257, with a half-life of 4-5 seconds, isotope 259 with a half-life of 3-4 seconds, and isotope 258 with a shorter half-life.</def><br/
 <syn><b>Syn. --</b> rutherfordium, Rf, Ku, unnilquadium, Unq, element 104, atomic number 104.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>kurchi</ent><br/
 <ent>kurchee</ent><br/
@@ -6591,7 +6591,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 
 <p><ent>Kurd</ent><br/
 <hw>Kurd</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <def>A member of a people who inhabit a mountainous region of Western Asia, sometimes referred to as Kurdistan, spread over an area including adjoining parts of Turkey, Iran, Iraq, Armenia, Azerbaijan, and Syria.  The people of this region speak Kurdish and are mostly Moslem.</def> <altsp>[Written also <asp>Koord</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kurdish</ent><br/
 <hw>Kurd"ish</hw>, <pos>prop. a.</pos> <def>Of or pertaining to the Kurds, the Kurdish language, or Kurdistan.</def> <altsp>[Written also <asp>Koordish</asp>.]</altsp><br/

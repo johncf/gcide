@@ -30,7 +30,7 @@
 
 <p><ent>B-52</ent><br/
 <hw>B-52</hw> <pos>n.</pos> <def>A large long-range bomber airplane of the U. S. military aircraft fleet; <it>B-</it> stands for bomber.  It has the capability of delivering nuclear weapons.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Ba</ent><br/
 <hw>Ba</hw> <pr>(b<aum/)</pr>, <pos>v. t.</pos> <ety>[Cf. OF.  <ets>baer</ets> to open the mouth, F. <ets>bayer</ets>.]</ety> <def>To kiss.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -386,7 +386,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 <p><ent>baby-walker</ent><br/
 <hw>baby-walker</hw> <pos>n.</pos> <def>a framework on small wheels or casters designed to support small children while they are learning to walk, and usually having a fabric support that permits the child to sit.  Called also <altname>walker</altname> and <altname>go-cart</altname>.</def><br/
 <syn><b>Syn. --</b> walker, go-cart</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bac</ent><br/
 <hw>Bac</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. See <er>Back</er> a vat.]</ety>  <sn>1.</sn> <def>A broad, flat-bottomed ferryboat, usually worked by a rope.</def><br/
@@ -973,7 +973,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <sd>(a)</sd> <def>A premature explosion in the cylinder of a gas or oil engine during the exhaust or the compression stroke, tending to drive the piston in a direction reverse to that in which it should travel; also called a <altname>knock</altname> or <altname>ping</altname>.</def> <sd>(b)</sd> <def>an explosion in the exhaust passages of an internal combustion engine.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Back-fire</ent><br/
 <ent>Backfire</ent><br/
@@ -985,7 +985,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>back-formation</ent><br/
 <hw>back"-for*ma`tion</hw> <pos>n.</pos> <fld>(Linguistics)</fld>  <sn>1.</sn> <def>a word invented (usually unwittingly by subtracting an affix) on the assumption that a familiar word derives from it, such as <examp>emote</examp> from emotion.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the process of inventing a back-formation{1}.</def><br/
 [<source>PJC</source>]</p>
@@ -1003,7 +1003,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>backgammon</ent><br/
 <hw>back`gam"mon</hw>, <pos>v. t.</pos> <def>In the game of backgammon, to beat by ending the game before the loser is clear of his first <ldquo/table<rdquo/.  When played for betting purposes, the winner in such a case scores three times the wagered amount.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>background</ent><br/
 <hw>back"ground`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Back</ets>, a. + <ets>ground</ets>.]</ety><br/
@@ -1043,7 +1043,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>To place in the background</b></col>, <cd>to make of little consequence.</cd> <col><b>To keep in the background</b></col>, <cd>to remain unobtrusive, inconspicuous or out of sight; -- of people.</cd> <col><b>deep background</b></col>, <fld>(Journalism)</fld> <cd>the status of an interview which must not be quoted in a publication, even without attribution.  Compare <er>background</er>{8}.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>backgrounding</ent><br/
 <hw>back"ground*ing</hw> <pos>n.</pos> <fld>(Computers)</fld>  <def>The execution of low priority programs while higher priority programs are not using the processing system.</def><br/
@@ -1342,7 +1342,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>backswimmer</ent><br/
 <hw>back"swim`mer</hw> <pos>n.</pos> <def>any of numerous predaceous aquatic insects of the family <fam>Notonectidae</fam> (such as <styp><spn>Notonecta undulata</spn></styp>) that swim on their backs and may inflict painful bites; -- also called <altname>boat bug</altname>.</def> <au>[RHUD]</au><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>back-to-back</ent><br/
 <hw>back-to-back</hw> <pos>adj.</pos> <sn>1.</sn> <def>occurring immediately one after the other; consecutive.</def> <illu><ex>back-to-back</ex> home runs</illu><br/
@@ -1505,7 +1505,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Backwoodsman</ent><br/
 <hw>Back"woods"man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Backwoodsmen</plw> <pr>(<?/)</pr>.</plu> <def>A man living in the forest in or beyond the new settlements, especially on the western frontiers of the United States in former times.</def>  <rj><au>Fisher Ames.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Backworm</ent><br/
 <hw>Back"worm`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[2d <ets>back</ets>, n. + <ets>worm</ets>.]</ety> <def>A disease of hawks.  See <er>Filanders</er>.</def>  <rj><au>Wright.</au></rj><br/
@@ -1636,7 +1636,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 
 <p><ent>bacteriostasis</ent><br/
 <hw>bacteriostasis</hw> <pos>n.</pos> <def>inhibition of the growth of bacteria, without outright killing of the organism.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>bacteriostat</ent><br/
 <hw>bacteriostat</hw> <pos>n.</pos> <def>a chemical or biological material that inhibits bacterial growth.</def><br/
@@ -1659,7 +1659,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 
 <p><ent>Bacterium</ent><br/
 <hw>Bac*te"ri*um</hw> <pr>(b<acr/k*t<emac/"r<icr/*<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it>  <plw>Bacteria</plw> <pr>(b<acr/k*t<emac/"r<icr/*<adot/)</pr>.</plu> <ety>[NL., fr. Gr. <grk>bakth`rion</grk>, <grk>ba`ktron</grk>, a staff: cf. F. <ets>bact<eacute/rie</ets>.]</ety> <fld>(Biol.)</fld> <def>A microscopic single-celled organism having no distinguishable nucleus, belonging to the kingdom Monera.  Bacteria have varying shapes, usually taking the form of a jointed rodlike filament, or a small sphere, but also in certain cases having a branched form.  Bacteria are destitute of chlorophyll, but in those members of the phylum <phylum>Cyanophyta</phylum> (the blue-green algae) other light-absorbing pigments are present.  They are the smallest of microscopic organisms which have their own metabolic processes carried on within cell membranes, viruses being smaller but not capable of living freely.  The bacteria are very widely diffused in nature, and multiply with marvelous rapidity, both by fission and by spores.  Bacteria may require oxygen for their energy-producing metabolism, and these are called <stype>aerobes</stype>; or may multiply in the absence of oxygen, these forms being <stype>anaerobes</stype>.  Certain species are active agents in fermentation, while others appear to be the cause of certain infectious diseases.  The branch of science with studies bacteria is <er>bacteriology</er>, being a division of <er>microbiology</er>.  See <er>Bacillus</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>bacterize</ent><br/
 <hw>bacterize</hw> <pos>v.</pos> <def>to subject to the action of bacteria.</def><br/
@@ -1685,7 +1685,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 <p><ent>baculiform</ent><br/
 <hw>baculiform</hw> <pos>adj.</pos> <def>shaped like a rod.</def><br/
 <syn><b>Syn. --</b> baccilar, bacillary, bacilliform, rod-shaped.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Baculine</ent><br/
 <hw>Bac"u*line</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L.  <ets>baculum</ets> staff.]</ety> <def>Of or pertaining to the rod or punishment with the rod.</def><br/
@@ -2022,7 +2022,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>bagel</ent><br/
 <hw>ba"gel</hw> <pr>(b<amac/"g'l)</pr>, <pos>n.</pos> <ety>[Yiddish <ets>beygl</ets>, prob. fr. dial. G. <ets>Beugel</ets>. <au>RHUD</au>]</ety> <def>a glazed leavened doughnut-shaped roll with a hard crust.</def> <note>A similar roll in Russia is called a <it>bublik</it>.</note><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>bagful</ent><br/
 <hw>bag"ful</hw> <pr>(b<acr/g"f<usdot/l)</pr>, <pos>n.</pos> <def>The quantity that a bag will hold; <as>as, he ate a <ex>bagful</ex> of popcorn</as>.</def><br/
@@ -2961,7 +2961,7 @@ mix it with pigeon's dung and quicklime.</q> <rj><qau>Smollett.</qau></rj><br/
 <p><ent>bald-headed</ent><br/
 <ent>baldheaded</ent><br/
 <mhw><hw>bald"head`ed</hw>, <hw>bald"-head`ed</hw></mhw>, <pos>a.</pos> <def>Having a bald head; lacking hair on all or most of the scalp; -- alsp called <altname>bald</altname> and <altname>bald-pated</altname>; <as>as, a <ex>bald-headed</ex> gentleman</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Baldly</ent><br/
 <hw>Bald"ly</hw>, <pos>adv.</pos> <def>Nakedly; without reserve; inelegantly.</def><br/
@@ -3005,7 +3005,7 @@ Sustained the sword that glittered at his side.</q> <rj><qau>Pope.</qau></rj><br
 <p><ent>baldy</ent><br/
 <hw>baldy</hw> <pos>n.</pos> <def>a person who has a bald head; -- a deprecatory term.</def><br/
 <syn><b>Syn. --</b> baldhead, baldpate.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bale</ent><br/
 <hw>Bale</hw> <pr>(b<amac/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>bale</ets>, OF. <ets>bale</ets>, F. <ets>balle</ets>, LL. <ets>bala</ets>, fr. OHG. <ets>balla</ets>, <ets>palla</ets>, <ets>pallo</ets>, G. <ets>ball</ets>, <ets>balle</ets>, <ets>ballen</ets>, ball, round pack; cf. D. <ets>baal</ets>. Cf. <er>Ball</er> a round body.]</ety> <def>A bundle or package of goods in a cloth cover, and corded for storage or transportation; also, a bundle of straw, hay, etc., put up compactly for transportation.</def><br/
@@ -3266,7 +3266,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>10.</sn> <fld>(Baseball)</fld> <def>A pitched ball, not struck at by the batter, which fails to pass over the home plate at a height not greater than the batter's shoulder nor less than his knee (i.e. it is outside the strike zone).  If the pitcher pitches four balls before three strikes are called, the batter advances to first base, and the action of pitching four balls is called a <partof>walk</partof>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>10.</sn> <def>a testicle; usually used in the plural.</def> <mark>[vulgar]</mark> <br/
 [<source>PJC</source>]</p>
@@ -3293,7 +3293,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Ball</ent><br/
 <hw>Ball</hw>, <pos>n.</pos> <ety>[F. <ets>bal</ets>, fr. OF. <ets>baler</ets> to dance, fr. LL. <ets>ballare</ets>.  Of uncertain origin; cf. Gr. <grk>ba`llein</grk> to toss or throw, or <grk>pa`llein</grk>, <grk>pa`llesqai</grk>, to leap, bound, <grk>balli`zein</grk> to dance, jump about; or cf. 1st <er>Ball</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A social assembly for the purpose of dancing; -- usually applied to an occasion lavish or formal.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A very enjoyable time; <as>as, we had a <ex>ball</ex> at the wedding</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -3446,7 +3446,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Pertaining to ballistics{2}, or to a projectile in a gravitational field.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>frenzied; very angry; -- used mostly in the phrase <col><b>go ballistic</b></col>.</def> <mark>[Colloq.]</mark> <br/
 [<source>PJC</source>]</p>
@@ -3542,7 +3542,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Balloonry</ent><br/
 <hw>Bal*loon"ry</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>The art or practice of ascending in a balloon; an older term for <er>ballooning</er>.</def> <mark>[Archaic]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ballot</ent><br/
 <hw>Bal"lot</hw> <pr>(b<acr/l"l<ucr/t)</pr>, <pos>n.</pos> <ety>[F. <ets>ballotte</ets>, fr. It. <ets>ballotta</ets>. See <er>Ball</er> round body.]</ety><br/
@@ -3552,7 +3552,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The act of secret voting, whether by balls, written or printed ballots or tickets, or by use of a voting machine; the system of voting secretly.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The insufficiency of the <qex>ballot</qex>.</q> <rj><qau>Dickens.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -3585,7 +3585,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Ballotage</ent><br/
 <hw>Bal"lot*age</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>ballottage</ets>.]</ety> <def>In France, a second ballot taken after an indecisive first ballot to decide between two or several candidates; a <altname>runoff election</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Ballotation</ent><br/
 <hw>Bal`lo*ta"tion</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Voting by ballot.</def> <mark>[Obs.]</mark>  <rj><au>Sir H. Wotton.</au></rj><br/
@@ -3615,7 +3615,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Ballproof</ent><br/
 <hw>Ball"proof`</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Incapable of being penetrated by balls from firearms; bulletproof.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ballroom</ent><br/
 <hw>Ball"room`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A room for balls or dancing.</def><br/
@@ -3851,12 +3851,12 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 <p><ent>Balustrade</ent><br/
 <hw>Bal"us*trade`</hw> <pr>(-tr<amac/d`)</pr>, <pos>n.</pos> <ety>[F. <ets>balustrade</ets>, It. <ets>balaustrata</ets> fr. <ets>balaustro</ets>. See <er>Baluster</er>.]</ety> <fld>(Arch.)</fld> <def>A row of balusters topped by a rail, serving as an open parapet, as along the edge of a balcony, terrace, bridge, or the eaves of a building, or as a guard railing on a staircase; -- it serves as a guard to prevent people from falling.</def><br/
 <syn><b>Syn. --</b> bannister, banister, balusters, handrail, guard rail.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Balzac</ent><br/
 <hw>Balzac</hw> <pos>n.</pos> <def>Honore de Balzac, a French novelist; b. 1799, d. 1850.</def> <mark>[Person]</mark> <br/
 <syn><b>Syn. --</b> Honore Balzac.</syn>
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Balzacian</ent><br/
 <hw>Balzacian</hw> <pos>adj.</pos> <def>of, pertaining to, or characteristic of Honore Balzac.</def><br/
@@ -4054,7 +4054,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Band saw</b></col>, <cd>a saw in the form of an endless steel belt, with teeth on one edge, running over wheels.</cd> -- <col><b>big band</b></col>, <cd>a band that is the size of an orchestra, usually playing mostly jazz or swing music.  The <ex>big band</ex> typically features both ensemble and solo playing, sometimes has a lead singer, and is often located in a night club where the patrons may dance to its music.  The <ex>big bands</ex> were popular from the late 1920's to the 1940's.  Contrasted with <er>combo</er>, which has fewer players.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Band</ent><br/
 <hw>Band</hw> <pr>(b<acr/nd)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Banded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Banding</conjf>.]</vmorph> <sn>1.</sn> <def>To bind or tie with a band.</def><br/
@@ -4106,7 +4106,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><sn>2.</sn> <def>A hurried repair; a temporary fix for a minor problem.</def> <note>The term has been used metaphorically to mean an <sig>ineffective cosmetic solution</sig>, when used on a serious problem.</note><br/
 <syn><b>Syn. --</b> quick fix, quickie, quicky.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bandala</ent><br/
 \'d8<hw>Ban*da"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A fabric made in Manila from the older leaf sheaths of the <prodby>abaca</prodby> (<spn>Musa textilis</spn>).</def><br/
@@ -4423,7 +4423,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Bangle</ent><br/
 <hw>Ban"gle</hw>, <pos>n.</pos> <ety>[Hind. <ets>bangr<imac/</ets> bracelet, bangle.]</ety> <def>An ornamental circlet, of glass, gold, silver, or other material, worn mostly by women, upon the wrist or ankle; a ring bracelet.  It differs from other bracelets in being rigid and not articulated, in contrast to bracelets made of links.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Bangle ear</b></col>, <cd>a loose hanging ear of a horse, like that of a spaniel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -4488,7 +4488,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn>  (<singf>sing.</singf> or <pluf>pl.</pluf>) <def>The balustrade of a staircase.  Formerly used in this sense mostly in the plural, now mostly in the singular.</def>  <altsp>[Also spelled <asp>bannister</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>He struggled to ascend the pulpit stairs, holding hard on the <qex>banisters</qex>.<rj>  <qau>Sir W. Scott.</qau></rj></q></p>
 
@@ -4584,7 +4584,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>In certain games, as dominos, a fund of pieces from which the players are allowed to draw; in Monopoly, the fund of money used to pay bonuses due to the players, or to which they pay fines.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <def>a place where something is stored and held available for future use;</def> <specif>specifically</specif>, <def>an organization that stores biological products for medical needs; <as>as, a blood <ex>bank</ex>, an organ <ex>bank</ex>, a sperm <ex>bank</ex></as>.</def><br/
 [<source>PJC</source>]</p>
@@ -4679,7 +4679,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 
 <p><sn>4.</sn> <def>A promissory note issued by an authorized bank, payable to the bearer on demand and intended to circulate as government-authorized money; in the United States such notes may only be issued by a Federal Reserve Bank; <as>as, he peeled off five one-thousand-zloty banknotes</as>.</def><br/
 <syn><b>Syn. --</b> bill, note, government note, bank bill, banker's bill, bank note, Federal Reserve note, greenback.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>bank on</ent><br/
 <hw>bank on</hw>, <pos>v. t.</pos> <def>Depend on; be confident of.</def><br/
@@ -4688,7 +4688,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 <p><ent>bankroll</ent><br/
 <hw>bankroll</hw> <pos>n.</pos> <sn>1.</sn> <def>the money carried on one's person.</def> <rdquo/He shot his <ex>bankroll</ex> on a bob-tailed nag.<rdquo/<br/
 <syn><b>Syn. --</b> roll, wad.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>one's total supply of money; funds.</def><br/
 [<source>PJC</source>]</p>
@@ -5425,7 +5425,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A social entertainment, where people assemble, usually in the open air, at which a meal is prepared on a barbecue grill.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A floor, on which coffee beans are sun-dried.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -5528,7 +5528,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>barbershop</ent><br/
 <hw>barbershop</hw> <pos>n.</pos> <def>a shop where a barber works, especially one where men can get their hair cut.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Barbet</ent><br/
 <hw>Bar"bet</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>barbet</ets>, fr. <ets>barbe</ets> beard, long hair of certain animals. See <er>Barb</er> beard.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A variety of small dog, having long curly hair.</def> <sd>(b)</sd> <def>A bird of the family <fam>Bucconid<ae/</fam>, allied to the Cuckoos, having a large, conical beak swollen at the base, and bearded with five bunches of stiff bristles; the puff bird.  It inhabits tropical America and Africa.</def> <sd>(c)</sd> <def>A larva that feeds on aphids.</def><br/
@@ -6396,7 +6396,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Hence, overly complicated, or ornamented to excess; in bad taste; grotesque; odd.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Irregular in form; -- said esp. of a pearl.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -6514,7 +6514,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Barrel</ent><br/
 <hw>Bar"rel</hw> <pr>(b<acr/r"r<ecr/l)</pr>, <pos>n.</pos><ety>[OE. <ets>barel</ets>, F. <ets>baril</ets>, prob. fr. <ets>barre</ets> bar. Cf. <er>Barricade</er>.]</ety> <sn>1.</sn> <def>A round vessel or cask, of greater length than breadth, and bulging in the middle, made of staves bound with hoops, and having flat ends or heads; <as>as, a cracker <ex>barrel</ex></as>.  Sometimes applied to a similar cylindrical container made of metal, usually called a <contr>drum</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The quantity which constitutes a full barrel.  This varies for different articles and also in different places for the same article, being regulated by custom or by law.  A barrel of wine is 31<frac12/ gallons; a barrel of flour is 196 pounds.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -6701,7 +6701,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Barrio</ent><br/
 \'d8<hw>Bar"ri*o</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Barrios</plw> <pr>(#)</pr></plu>. <ety>[Sp.]</ety> <def>In Spain and countries colonized by Spain, a village, ward, or district outside a town or city to whose jurisdiction it belongs; in Spanish-speaking areas of cities in the United States, it is a neighborhood, ward, or quarter inside a town.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Barrister</ent><br/
 <hw>Bar"ris*ter</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[From <er>Bar</er>, <pos>n.</pos>]</ety> <def>Counselor at law; a counsel admitted to plead at the bar, and undertake the public trial of causes, as distinguished from an attorney or solicitor. See <er>Attorney</er>.</def> <mark>[Eng.]</mark><br/
@@ -7322,7 +7322,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Basidiomycetes</ent><br/
 \'d8<hw>Ba*sid`i*o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>a phylum of fungi  with the Basidiomycota</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>basidiomycetous</ent><br/
 <hw>basidiomycetous</hw> <pos>adj.</pos> <def>of or pertaining to basidiomycetes.</def><br/
@@ -7331,7 +7331,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Basidiomycota</ent><br/
 \'d8<hw>Ba*sid`i*o*my*co"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Bot.)</fld> <ety>[NL., fr. NL. & E. <ets>basidium</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large subdivision of the kingdom <it>Fungi</it> coextensive with the phylum <phylum>Basidiomycetes</phylum>, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc.  Among the classes of the Basidiomycota are: <styp><class>Gasteromycetes</class></styp> (puffballs); <styp><class>Tiliomycetes</class></styp> (comprising the orders <ord>Ustilaginales</ord> (smuts) and <ord>Uredinales</ord> (rusts)); and <styp><class>Hymenomycetes</class></styp> (mushrooms; toadstools; agarics; bracket fungi).</def> <note>In the 1913 Webster, the Basidiomycetes were defined as "co<oum/rdinate with the <phylum>Ascomycetes</phylum>", and other fungal phyla (the <phylum>Zygomycota</phylum> and <phylum>Deuteromycota</phylum>) were not mentioned.</note><br/
 <syn><b>Syn. --</b> Basidiomycota, subdivision Basidiomycota, subdivision Basidiomycotina.</syn><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Basidiomycotina</ent><br/
 <hw>Basidiomycotina</hw> <pos>n.</pos> <def>same as <er>Basidiomycota</er>.</def><br/
@@ -7586,7 +7586,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Basket fish</b></col> <fld>(Zool.)</fld>, <cd>an ophiuran of the genus <gen>Astrophyton</gen>, having the arms much branched. See <er>Astrophyton</er>.</cd> -- <col><b>Basket hilt</b></col>, <cd>a hilt with a covering wrought like basketwork to protect the hand.</cd> <au>Hudibras.</au> <specif>Hence,</specif> <wordforms><col><b>Basket-hilted</b></col>, <pos>a.</pos></wordforms> -- <col><b>Basket work</b></col>, <cd>work consisting of plaited osiers or twigs.</cd> -- <col><b>Basket worm</b></col> <fld>(Zool.)</fld>, <cd>a lepidopterous insect of the genus <gen>Thyridopteryx</gen> and allied genera, esp. <spn>Thyridopteryx ephemer<ae/formis</spn>.  The larva makes and carries about a bag or basket-like case of silk and twigs, which it afterwards hangs up to shelter the pupa and wingless adult females.</cd>  -- <col><b>collection basket</b></col>, <cd>a small basket{1} mounted on the end of a pole, used in churches to collect donations from those attending a church service; -- the long pole allows the collector to hold the basket in front of those at the end of the pew, while the collector remains in the aisle.</cd> <col><b>waste basket</b></col>, <cd>a basket{4} used to hold waste matter, such as discarded paper, commonly shaped like a truncated cone, with the wide end open and at the top.  Vessels of other shapes, such as oblong containers, are also called <ex>waste baskets</ex>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Basket</ent><br/
 <hw>Bas"ket</hw>, <pos>v. t.</pos> <def>To put into a basket.</def> <mark>[R.]</mark><br/
@@ -7595,7 +7595,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Basketball</ent><br/
 <hw>Bas"ket*ball`</hw>, <pos>n.</pos> <sn>1.</sn> <def>A ball game, usually played indoors in an area called the basketball court, in which two opposing teams of five players each contest with each other to toss a large inflated ball (the basketball) into opposite goals (baskets) resembling baskets, each typically a cylindrical mesh suspended from a circular rim which is held ten feet above the court.  A goal scored by passing the basketball through the basket may count from one to three points, depending on the situation in which it was thrown.</def><br/
 <syn><b>Syn. --</b> basketball game.</syn><br/
-[<source>Webster 1913 Suppl.</source> <source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The inflatable ball used in the game of basketball.</def><br/
 [<source>PJC</source>]</p>
@@ -8012,7 +8012,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Basutos</ent><br/
 <hw>Ba*su"tos</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Basuto</singw> <pr>(<?/)</pr>.</sing> <fld>(Ethnol.)</fld> <def>A warlike South African people of the Bantu stock, divided into many tribes, at one time subjected by the English. They formerly practiced cannibalism, but have now adopted many European customs.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Basyle</ent><br/
 <hw>Bas"yle</hw> <pr>(b<acr/s"<icr/l <it>or</it> b<amac/s"<icr/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ba`sis</grk> base + <grk>"y`lh</grk> wood. See <er>-yl</er>.]</ety> <fld>(Chem.)</fld> <def>A positive or nonacid constituent of compound, either elementary, or, if compound, performing the functions of an element.</def><br/
@@ -8036,7 +8036,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A part of a brick with one whole end; a brickbat.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>5.</sn> <fld>(Mining)</fld> <def>Shale or bituminous shale.</def>  <rj><au>Kirwan.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -8065,7 +8065,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Bat</ent><br/
 <hw>Bat</hw>, <pos>v. i.</pos> <def>To use a bat, as in a game of baseball; when used with a numerical postmodifier it indicates a baseball player's performance (as a decimal) at bat; <as>as, he <ex>batted</ex> .270 in 1993 (i.e. he got safe hits in 27 percent of his official turns at bat)</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Bat</ent><br/
 <hw>Bat</hw>, <pos>v. t. & i.</pos> <sn>1.</sn> <def>To bate or flutter, as a hawk.</def> <mark>[Obs. or Prov. Eng.]</mark><br/
@@ -8389,7 +8389,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 <p><ent>bathtub</ent><br/
 <hw>bath"tub</hw> <pos>n.</pos> <def>A relatively large tub used to take a bath, usually a permanent fixture in a bathroom; it is an open container that is filled with water, in which a person immerses himself for the purpose of washing the body.</def><br/
 <syn><b>Syn. --</b> bath, tub.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>bathyal</ent><br/
 <hw>bathyal</hw> <pos>adj.</pos> <def>of or pertaining to bathymetry.</def><br/
@@ -8430,7 +8430,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>bathysphere</ent><br/
 <hw>bath"y*sphere</hw> <pos>n.</pos> <def>a spherical deep diving apparatus (lowered by a cable) for underwater exploration; it is constructed with a strong steel shell to withstand high pressures at the ocean bottom.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Batidaceae</ent><br/
 <hw>Batidaceae</hw> <pos>n.</pos> <def>a natural family coextensive with genus <gen>Batis</gen>; the saltworts.</def><br/
@@ -8520,7 +8520,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>Batsman</ent><br/
 <hw>Bats"man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Batsmen</plw> <pr>(<?/)</pr>.</plu> <def>The one who wields the bat in cricket, baseball, etc.; in baseball, the <ex>batsman</ex> is usually called the <altname>batter</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Batwing</ent><br/
 <ent>Bat's-wing</ent><br/
@@ -8561,7 +8561,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>Battalion</ent><br/
 <hw>Bat*tal"ion</hw> <pr>(b<acr/t*t<acr/l"y<ucr/n; 106)</pr>, <pos>n.</pos> <ety>[F. <ets>bataillon</ets>, fr. It. <ets>battaglione</ets>. See <er>Battalia</er>.]</ety>  <sn>1.</sn> <def>A body of troops; esp. a body of troops or an army in battle array.</def> <mark>[archaic]</mark> <ldquo/The whole <xex>battalion</xex> views.<rdquo/  <rj><au>Milton.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Mil.)</fld> <def>An infantry command of two or more companies, which is the tactical unit of the infantry, or the smallest command which is self-supporting upon the battlefield, and also the unit in which the strength of the infantry of an army is expressed.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -8676,7 +8676,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>Batter</ent><br/
 <hw>Bat"ter</hw> <pr>(b<acr/t"t<etil/r)</pr>, <pos>n.</pos> <def>The one who wields the bat in baseball; the one whose turn it is at bat; formerly called the <altname>batsman</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>battered</ent><br/
 <hw>battered</hw> <pos>adj.</pos> <sn>1.</sn> <def>In deplorable condition; <as>as, the <ex>battered</ex> old Ford station wagon</as>.</def><br/
@@ -8858,7 +8858,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>battleship</ent><br/
 <hw>bat"tle*ship`</hw>. <fld>(Nav.)</fld> <ety>[shortened from <ets>line-of-battle ship</ets>, i.e. the most heavily armored ship suited to be in  the front line of a naval battle.]</ety> <def>An armor-plated warship built of steel and heavily armed, generally having over ten thousand tons displacement, and intended to be fit to combat the heaviest enemy ships in line of battle; the most heavily armed and armored class of warship at any given time.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Battologist</ent><br/
 <hw>Bat*tol"o*gist</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>One who battologizes.</def><br/
@@ -9261,7 +9261,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bayonet clutch</b></col>. <cd>See <er>Clutch</er>.</cd> -- <col><b>Bayonet joint</b></col>, <cd>a form of coupling similar to that by which a bayonet is fixed on the barrel of a musket.</cd>  <rj><au>Knight.</au></rj>  -- <col><b>bayonet mount</b></col>, <fld>(photography)</fld> <cd>a coupling mechanism for attaching removable lenses to the body of a camera, using a <cref>bayonet socket</cref>.</cd> -- <col><b>bayonet socket</b></col>, <cd>a coupling mechanism for attaching matching cylindrical parts to each other, where each of which has an arced L-shaped slot with the longer side perpendicular to the axis of the cylinder, such that the slots slide inside each other.  There is also  usually a knoblike projection on the mount so that when the two parts to be connected are fully inserted in proper alignment, they are locked in place.  It is designed for rapid coupling and decoupling, requiring the turning of one part through only a small arc, in place of a screw-type arrangement, which requires several full turns.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Bayonet</ent><br/
 <hw>Bay"o*net</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Bayoneted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Bayoneting</conjf>.]</vmorph> <sn>1.</sn> <def>To stab with a bayonet.</def><br/
@@ -9425,7 +9425,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 
 <p><ent>Beach comber</ent><br/
 <hw>Beach" comb`er</hw> <pr>(<?/)</pr>. <def>A long, curling wave rolling in from the ocean. See <er>Comber</er>.</def> <mark>[Amer., archaic]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>beachcomber</ent><br/
 <hw>beachcomber</hw>. <altsp>[Written also <asp>beach-comber</asp> or <asp>beach comber</asp>.]</altsp> <fld>(Naut.)</fld> <sn>1.</sn> <def>A vagrant seaman, usually of low character, who loiters about seaports, particularly on the shores and islands of the Pacific Ocean.</def><br/
@@ -10540,7 +10540,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A round or course which is frequently gone over; <as>as, a watchman's <ex>beat</ex></as>; analogously, for newspaper reporters, the subject or territory that they are assigned to cover; <as>as, the Washington <ex>beat</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <def>A place of habitual or frequent resort.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11781,7 +11781,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>beefalo</ent><br/
 <hw>beef"a*lo</hw> <pr>(b<emac/"f<adot/*l<osl/)</pr>, <pos>n.</pos> <def>a hardy breed of beef cattle derived as a cross between the American bison and domestic cattle, usually being genetically <frac38/ bison and <frac58/ domestic bovine; -- it yields leaner beef than conventional breeds.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>beefburger</ent><br/
 <hw>beef"burg*er</hw> <pos>n.</pos> <def>a fried cake of minced beef served on a bun.</def><br/
@@ -13709,7 +13709,7 @@ I <qex>believe</qex> that Jesus Christ is the Son of God.</q> <rj><qau>Acts viii
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>an aggressively hostile or warlike attitude or nature; a readiness to fight or offend, with little or no provocation.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Belligerent</ent><br/
 <hw>Bel*lig"er*ent</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L. <ets>bellum</ets> war + <ets>gerens</ets>, <ets>-entis</ets>, waging, <pos>p. pr.</pos> of <ets>gerere</ets> to wage: cf. F. <ets>bellig<eacute/rant</ets>. See <er>Bellicose</er>, <er>Jest</er>.]</ety> <sn>1.</sn> <def>Waging war; carrying on war.</def> <ldquo/<xex>Belligerent</xex> powers.<rdquo/  <rj><au>E. Everett.</au></rj><br/
@@ -15147,7 +15147,7 @@ The lamp of life deny ?</q> <rj><qau>Heber.</qau></rj><br/
 <p><ent>bennie</ent><br/
 <hw>ben"nie</hw> <pos>n.</pos> <def>a slang name for Benzedrine, a trademark for one brand of amphetamine; -- also used generically for any brand of amphetamine.</def> <mark>[slang]</mark>  <altsp>[Also spelled <asp>benny</asp>.]</altsp><br/
 <syn><b>Syn. --</b> Benzedrine.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>benniseed</ent><br/
 <hw>benniseed</hw> <pos>n.</pos> <def>the small oval seed of the sesame plant.</def><br/
@@ -15544,7 +15544,7 @@ And true subjection everlastingly.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Bercy</ent><br/
 <hw>Ber"cy</hw> <pos>n.</pos> <def>a sauce prepared from butter creamed with white wine, shallots, parsley and fish stock; -- also called <altname>Bercy sauce</altname>.</def><br/
 <syn><b>Syn. --</b> Bercy butter.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Berdash</ent><br/
 <hw>Ber"dash</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A kind of neckcloth.</def> <mark>[Obs.]</mark><br/
@@ -15616,7 +15616,7 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>beret</ent><br/
 <hw>beret</hw> <pos>n.</pos> <def>a cap made of soft cloth with no brim or bill, widening somewhat outward from a close-fitting headband to a flat top, which often has a button or tab in its center.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Beretta</ent><br/
 <hw>Be*ret"ta</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Same as <er>Berretta</er>.</def><br/
@@ -15731,7 +15731,7 @@ Is utterly <qex>bereft</qex> you; all is lost.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>berkelium</ent><br/
 <hw>ber*ke"li*um</hw> <pr>(b<etil/r*k<emac/"l<esl/*<ucr/m)</pr>, <pos>n.</pos> <ety>[from the city of <etsep>Berkeley</etsep>, California, location of the University of California campus where it was discovered.]</ety> <def>a chemical element of the transuranic series.  Chemical symbol Bk; atomic number 97; atomic weight 247.  It is a radioactive element, with no stable isotopes; the longest-lived isotope is of mass number 247.07, decaying by alpha-emission with a half-life of 1,400 years.  The isotope with atomic weight 249 has a half-life of 314 days, and was isolated in weighable quantities.</def><br/
 <syn><b>Syn. --</b> Bk.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Berlin</ent><br/
 <hw>Berlin</hw> <pos>prop. n.</pos> <fld>(Geography)</fld> <def>The capital <isa>city</isa> of <country>Germany</country>.  Population (2000) =  3,471,418.</def><br/
@@ -17360,7 +17360,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 
 <p><ent>Betulin</ent><br/
 <hw>Bet"u*lin</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L. <ets>betula</ets> birch tree.]</ety> <fld>(Chem.)</fld> <def>a term originally applied to a substance obtained as a resin or tar by extraction from the outer bark of the common European white birch (<spn>Betula alba</spn>); now referring to the chemical compound (<chform>C30H50O2</chform>) having a cyclopentanophenanthrene ring system, which is the main constituent of that extract, and which may be obtained crystalline; -- called also <altname>birch camphor</altname>.</def>  <rj><au>Watts.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Betumble</ent><br/
 <hw>Be*tum"ble</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Betumbled</conjf> <pr>(<?/)</pr>.]</vmorph> <def>To throw into disorder; to tumble.</def> <mark>[R.]</mark><br/
@@ -18731,7 +18731,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 
 <p><ent>Bielid</ent><br/
 <hw>Bie"lid</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Astron.)</fld> <def>See <er>Andromede</er> and cf. <er>Biela's comet</er>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Biennial</ent><br/
 <hw>Bi*en"ni*al</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L. <ets>biennalis</ets> and <ets>biennis</ets>, fr. <ets>biennium</ets> a space of two years; <ets>bis</ets> twice + <ets>annus</ets> year. Cf. <er>Annual</er>.]</ety> <sn>1.</sn> <def>Happening, or taking place, once in two years; <as>as, a <ex>biennial</ex> election</as>.</def><br/
@@ -19098,7 +19098,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 
 <p><ent>Bignonia</ent><br/
 <hw>Big*no"ni*a</hw> <pr>(<?/)</pr>, <pos>prop. n.</pos> <ety>[Named from the <person>Abb<eacute/ <etsep>Bignon</etsep></person>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A large genus of American, mostly tropical, climbing shrubs, having compound leaves and showy somewhat tubular flowers.  <spn>Bignonia capreolata</spn> is the cross vine of the Southern United States.  The trumpet creeper (also called the trumpet vine), with large red tubular flowers, was formerly considered to be of this genus, but is now classified as <spn>Campsis radicans</spn>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>any member of the family <fam>Bignoniaceae</fam>, including the <stype>bignonia{1}</stype>, <stype>catalpa</stype>, <stype>trumpet creeper</stype>, and <stype>princess tree</stype>.  They typically have brightly colored tubular (trumpet-shaped) flowers.</def><br/
 [<source>PJC</source>]</p>
@@ -19565,7 +19565,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A flat surface, as of a panel or of a fence, on which bills are posted; a bulletin board.</def> <specif>especially,</specif> <def>A large board out of doors and visible to passers-by, on which the space is rented for advertising purposes; also, the advertising displayed on such a board.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Bill book</ent><br/
 <hw>Bill" book`</hw> <pr>(<?/)</pr>. <fld>(Com.)</fld> <def>A book in which a person keeps an account of his notes, bills, bills of exchange, etc., thus showing all that he issues and receives.</def><br/
@@ -19727,7 +19727,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 
 <p><ent>Billy</ent><br/
 <hw>Bil"ly</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A club; esp., a policeman's club.  Also called <altname>billy club</altname></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Wool Manuf.)</fld> <def>A slubbing or roving machine.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20564,7 +20564,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj><br/
 <p><ent>biotin</ent><br/
 <hw>bi"o*tin</hw> <pos>n.</pos> <def>a B vitamin (<chform>C10H16N2O3S</chform>) that aids in body growth; -- called also <altname>vitamin H</altname> and <altname>coenzyme R</altname>.  It functions as a coenzyme in many carboxylation reactions.</def> <note>Biotin binds tightly to the substance avidin, found in raw egg-whites.  Rats or chick on a diet high in raw egg-white may develop skin lesions and retarded growth, which can be prevented by adding biotin to the diet.</note> <au>[MI11]</au><br/
 <syn><b>Syn. --</b> .</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Biotite</ent><br/
 <hw>Bi"o*tite</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[From <ets>Biot</ets>, a French naturalist.]</ety> <fld>(Min.)</fld> <def>Mica containing iron and magnesia, generally of a black or dark green color; -- a common constituent of crystalline rocks. See <er>Mica</er>.</def><br/
@@ -21573,7 +21573,7 @@ A genuine lady, or a church, is known.</q> <rj><qau>Saxe.</qau></rj><br/
 
 <p><ent>Bison</ent><br/
 <hw>Bi"son</hw> <pr>(b<imac/"s<ocr/n; 277)</pr>, <pos>n.</pos> <ety>[L. <ets>bison</ets>, Gr. <grk>bi`swn</grk>, a wild ox; akin to OHG. <ets>wisunt</ets>, <ets>wisant</ets>, G. <ets>wisent</ets>, AS. <ets>wesend</ets>, Icel. <ets>v<imac/sundr</ets>: cf. F. <ets>bison</ets>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The aurochs or European bison.</def> <sd>(b)</sd> <def>The American bison buffalo (<spn>Bison Americanus</spn>), a large, gregarious bovine quadruped with shaggy mane and short black horns, which formerly roamed in herds over most of the temperate portion of North America, but by 1900 was restricted to very limited districts in the region of the Rocky Mountains, and was almost hunted to extinction.</def>  <note>Efforts at conservation of the American bison resulted in setting aside several reserves, and by 1990 a few stable herds were established, numbering from hundreds to thousands, roaming certain public areas, such as Yellowstone Park, some reserves in Canada, and some private reserves.  Some bison are kept as range animals for food, and the American bison has been bred with domestic cattle to form a cross called the <er>beefalo</er>.  The American bison is commonly (though improperly) called a buffalo; an image of the bison appeared on the inverse of the U. S. five-cent coin (nickel) from 1913 to 1937, and that coin was referred to as the <er>buffalo nickel</er>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>bisontine</ent><br/
 <hw>bisontine</hw> <pr>(b<imac/*s<ocr/n*t<imac/n")</pr> <pos>adj.</pos> <def>of, relating to, or characteristic of bison.</def><br/
@@ -22669,7 +22669,7 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Black Friday</ent><br/
 <hw>Black Friday</hw>. <def>Any Friday on which a public disaster has occurred, as: In England, December 6, 1745, when the news of the landing of the Pretender reached London, or May 11, 1866,  when a financial panic commenced.  In the United States, September 24, 1869, and September 18, 1873, on which financial panics began, and especially October 29, 1929, when a dramatic drop in stock prices contributed to the factors which began the great depression of the 1930's.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>The last week of October 1929 remains forever imprinted in the American memory.<br/
     It was, of course, the week of the Great Crash, the stock market collapse that signaled the collapse of the world economy and the Great Depression of the 1930s. From an all-time high of 381 in early September 1929, the Dow Jones Industrial Average drifted down to a level of 326 on October 22, then, in a series of traumatic selling waves, to 230 in the course of the following six trading days.<br/
@@ -23033,7 +23033,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj><br/
 <p><ent>black-tie</ent><br/
 <hw>black-tie</hw> <pos>adj.</pos> <def>requiring semiformal evening clothes, e. g. a black bowtie and a tuxedo or dinner jacket for men, and a formal dress for women; contrasted with <contr>white-tie</contr>, for a fully formal occasion, and with <contr>informal</contr>, and <contr>casual</contr>.</def> <illu>a <ex>black-tie</ex> dinner</illu><br/
 <syn><b>Syn. --</b> semi-formal, semiformal.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>blacktop</ent><br/
 <hw>blacktop</hw> <pos>n.</pos> <sn>1.</sn> <def>a bituminous material used for providing a smooth paving to a road.</def><br/
@@ -23074,7 +23074,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj><br/
 
 <p><ent>blackwater</ent><br/
 <hw>black"wa*ter</hw> <pos>n.</pos> <def>any of several human or animal diseases characterized by dark urine resulting from rapid breakdown of red blood cells; -- used especially of <styp><col><b>blackwater fever</b></col></styp>, a severe form of malaria caused by the blood parasite <spn>Plasmodium falciparum</spn>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Blackwood</ent><br/
 <hw>Black"wood</hw> <pr>(bl<acr/k"w<oocr/d)</pr>, <pos>n.</pos> <def>A name given to several dark-colored timbers. The East Indian black wood is from the tree <spn>Dalbergia latifolia</spn>.</def>  <rj><au>Balfour.</au></rj><br/
@@ -23726,14 +23726,14 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>blaring</ent><br/
 <hw>blar"ing</hw> <pos>adj.</pos> <def>harshly or unpleasantly loud (in sound intensity); -- used mostly of electronic entertainment devices, such as TV, radio, or phonograph.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>blarney</ent><br/
 <hw>blar"ney</hw> <pr>(bl<aum/r"n<ycr/)</pr>, <pos>n.</pos> <ety>[<etsep>Blarney</etsep>, a village and castle near Cork in Ireland.]</ety> <def>Smooth, wheedling talk; flattery.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Blarney stone</b></col>, <cd>a stone in Blarney castle, Ireland (built in 1446), said to make those who kiss it proficient in the use of blarney.</cd> <note>The origin of the stone is uncertain.  In order to kiss the Blarney stone, which is located in the side of the castle, one must be held upside-down by the feet and lowered into the proper position from an opening in an overhang in the parapet.  It is an experience eschewed by some tourists.</note></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Blarney</ent><br/
 <hw>Blar"ney</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blarneyed</conjf> <pr>(-n<icr/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blarneying</conjf>.]</vmorph> <def>To influence by blarney; to wheedle with smooth talk; to make or accomplish by blarney.</def> <ldquo/<xex>Blarneyed</xex> the landlord.<rdquo/  <rj><au>Irving.</au></rj><br/
@@ -24001,7 +24001,7 @@ And gan to puffen and to <qex>blaste</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><ent>blastodisc</ent><br/
 <hw>blastodisc</hw> <pos>n.</pos> <def>a disc-shaped layer of cells on the surface of the yolk mass of an egg (such as that of a bird) which develops to form the embryo.</def><br/
 <syn><b>Syn. --</b> germinal disc, germinal area.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>blastoff</ent><br/
 <hw>blast"off`</hw> <pos>n.</pos> <def>the launching of a rocket, especially of a spacecraft, under its own power.</def><br/
@@ -25243,7 +25243,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>blindfolded</ent><br/
 <hw>blind"fold*ed</hw> <pos>adj.</pos>  <def>having a blindfold placed over the eyes; -- done to prevent the wearer from seeing.</def><br/
 <syn><b>Syn. --</b> blindfold.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Blinding</ent><br/
 <hw>Blind"ing</hw>, <pos>a.</pos> <def>Making blind or as if blind; depriving of sight or of understanding; obscuring; <as>as, <ex>blinding</ex> tears; <ex>blinding</ex> snow</as>.</def><br/
@@ -25301,7 +25301,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>blini</ent><br/
 <hw>bli"ni</hw> <pr>(bl<emac/"n<emac/; bl<icr/"n<emac/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>blin</singw>.</sing> <ety>[Russian.]</ety> <def>Russian pancakes of buckwheat flour and yeast, sometimes made from white flour; they are usually served folded over, with caviar and sour cream on the inside; -- properly, it is a plural word (from the Russian plural of <it>blin</it>) but in America, often used as singular; thus the common plural <plw>blinis</plw>.</def><br/
 <syn><b>Syn. --</b> bliny, blinis.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>blinks</ent><br/
 <hw>blinks</hw> <pr>(bl<icr/<nsm/ks)</pr>, <pos>n.</pos> <def>a typ of small Indian lettuce (<spn>Montia lamprosperma</spn>) of northern regions.</def><br/
@@ -25397,7 +25397,7 @@ through <qex>blinkers</qex> of authority.</q> <rj><qau>M. Green.</qau></rj><br/
 <p><ent>blintze</ent><br/
 <ent>blintz</ent><br/
 <mhw><hw>blintz</hw>, <hw>blintze</hw></mhw> <pos>n.</pos>; <plu><it>pl.</it> <plw>blintzes</plw>.</plu> <ety>[Yiddish <ets>blintze</ets>, fr. Byelorussian <ets>blinets</ets>, dimin. of Russ. <ets>blin</ets>.  See also <er>blin</er> and <er>blini</er>.]</ety> <fld>(Jewish Cookery)</fld>  <def>a thin wheat pancake folded around a filling (such as cheese or fruit) and sauteed, fried, or baked.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>bliny</ent><br/
 <hw>blin"y</hw> <pr>(bl<emac/"n<emac/)</pr>, <pos>n.</pos> <def>same as <er>blini</er>.</def><br/
@@ -25559,13 +25559,13 @@ So buxom, <qex>blithe</qex>, and debonair.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>blitz</ent><br/
 <hw>blitz</hw> <pos>n.</pos> <sn>1.</sn> <fld>(football)</fld> <def>a quick move by defensive players toward the passer on the offensive team, as soon as the ball is snapped; -- it is used when the defensive teams assumes that a pass will be attempted, and risks allowing substantial gains by the offensive team if other plays are in fact planned.</def><br/
 <syn><b>Syn. --</b> safety linebacker blitzing.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a rapid and violent military attack with intensive aerial bombardment.  Same as <er>blitzkrieg</er></def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>any vigorous and intensive attack, bombardment, or assault, literally or figuratively; <as>as, they used a <ex>blitz</ex> of television commercials to launch their new product</as>; the German <ex>blitz</ex> on London.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>same as <er>blitz chess</er>.</def><br/
 [<source>PJC</source>]</p>
@@ -26214,7 +26214,7 @@ And <qex>blood</qex> their points.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><sn>2.</sn>  <def>having the nature or habits of a parasite or leech; living off another; -- of plants or persons; <as>as, a <ex>bloodsucking</ex> blackmailer; <ex>bloodsucking</ex> lawyers</as>.</def><br/
 <syn><b>Syn. --</b> parasitic, parasitical, leechlike.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bloodthirsty</ent><br/
 <hw>Blood"thirst`y</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Eager to shed blood; cruel; sanguinary; murderous; having a bloodlust.</def> -- <wordforms><wf>Blood"thirst`i*ness</wf> (<?/), <pos>n.</pos></wordforms><br/
@@ -26840,11 +26840,11 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>blowfish</ent><br/
 <hw>blow"fish</hw> <pos>n.</pos> <sn>1.</sn> <def>a fish eaten as a delicacy, especially in Japan.  It is highly dangerous because of a potent nerve poison (tetrodotoxin) in its ovaries and liver.  Chefs require special training to learn how to remove the poisonous parts, and in Japan they must be licensed.</def> <note>In Japan it is called <altname>fugu</altname>.  Deaths due to ingestion of the meat of this fish occur almost every year.</note><br/
 <syn><b>Syn. --</b> sea squab, puffer, puffer fish.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>any of numerous marine fishes of the family <fam>Tetraodontidae</fam> whose elongated spiny body can inflate itself with water or air to form a globe; several species contain <prod>tetrodotoxin</prod>, a potent nerve poison; they are closely related to spiny puffers.</def><br/
 <syn><b>Syn. --</b> puffer, globefish.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Blowfly</ent><br/
 <hw>Blow"fly`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any species of fly of the genus <gen>Musca</gen> that deposits its eggs or young larv<ae/ (called <xex>flyblows</xex> and <xex>maggots</xex>) upon meat or other animal products.</def><br/
@@ -26888,7 +26888,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 <ent>blowjob</ent><br/
 <mhw><hw>blow"job`</hw>, <hw>blow" job`</hw></mhw> <pos>n.</pos> <def>An act of <er>fellatio</er>, a form of <isa>oral sex</isa>; --  a slang term.  See <er>blow</er>{11}, <pos>v. i.</pos></def> <mark>[Vulgar slang]</mark><br/
 <syn><b>Syn. --</b> cock sucking.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>blowlamp</ent><br/
 <hw>blow"lamp</hw> <pos>n.</pos> <def>A burner that produces a hot flame.</def><br/
@@ -27307,7 +27307,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>blue-pencil</ent><br/
 <hw>blue-pencil</hw> <pos>v. t.</pos> <def>to change, delete, or abridge (a portion of a text) with a blue pencil (or as if with a blue pencil), as in the editing process; -- of books, etc.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bluepoll</ent><br/
 <hw>Blue"poll`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Blue</ets> + <ets>poll</ets> head.]</ety> <fld>(Zool.)</fld> <def>A kind of salmon (<spn>Salmo Cambricus</spn>) found in Wales.</def><br/
@@ -27466,7 +27466,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Something, as indigo or other preparations, used to give a bluish tint, especially to white clothing when being washed.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Bluish</ent><br/
 <hw>Blu"ish</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Somewhat blue; <as>as, <ex>bluish</ex> veins</as>.</def>  <ldquo/<xex>Bluish</xex> mists.<rdquo/ <au>Dryden.</au> -- <wordforms><wf>Blu"ish*ly</wf>, <pos>adv.</pos> -- <wf>Blu"ish*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -28035,7 +28035,7 @@ As thunder when the clouds in autumn crack.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>boardwalk</ent><br/
 <hw>board"walk</hw> <pos>n.</pos> <def>a walkway made of wooden boards; usually at a seaside.  The more elaborate boardwalks at shore resorts are lined with many commercial retail establishments, on the side of the walk opposite the ocean.</def> <ldquo/On the Boardwalk in Atlantic City<rdquo/<br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Boarfish</ent><br/
 <hw>Boar"fish`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A Mediterranean fish (<spn>Capros aper</spn>), of the family <fam>Caproid<ae/</fam>; -- so called from the resemblance of the extended lips to a hog's snout.</def> <sd>(b)</sd> <def>An Australian percoid fish (<spn>Histiopterus recurvirostris</spn>), valued as a food fish.</def><br/
@@ -28441,7 +28441,7 @@ For anything but eels.</q> <rj><qau>Saxe.</qau></rj><br/
 <p><ent>bobbysoxer</ent><br/
 <hw>bob"by*sox`er</hw> <pos>n.</pos> <def>an adolescent girl wearing bobby socks (common in the 1940s); -- sometimes used for any adolescent girl, especially one following the latest youthful fashion .</def><br/
 <syn><b>Syn. --</b> bobbysocker.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>bobcat</ent><br/
 <hw>bob"cat</hw> <pr>(b<ocr/b"k<acr/t`)</pr>, <pos>n.</pos> <sn>1.</sn> <def>small lynx (<spn>Lynx rufus</spn>) of North America.</def><br/
@@ -28478,7 +28478,7 @@ For anything but eels.</q> <rj><qau>Saxe.</qau></rj><br/
 
 <p><sn>2.</sn> <def>a long racing sled (for 2 or more people), having two pairs of runners, with the front pair connected to a steering mechanism.  They are usually raced one at a time down a steeply sloping path or specially constructed chute, with sharp banked curves, and attain high speeds.</def><br/
 <syn><b>Syn. --</b> bobsled.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bobstay</ent><br/
 <hw>Bob"stay`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Bob</ets> + <ets>stay</ets>.]</ety> <fld>(Naut.)</fld> <def>A rope or chain to confine the bowsprit of a ship downward to the stem or cutwater; -- usually in the <pluf>pl.</pluf></def><br/
@@ -29016,7 +29016,7 @@ Of treacherous earth, subsiding where they tread.</q> <rj><qau>R. Jago.</qau></r
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Golf)</fld> <def>a score one stroke over par for a hole; formerly, the definition of <ex>bogey</ex> was the same as that now used for <altname>par</altname>, i.e., an ideal score or number of strokes, for each hole, against which players compete; -- it was said to be so called because assumed to be the score of an imaginary first-rate player called Colonel <etsep>Bogey</etsep>.  Now the standard score is called <altname>par</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn>  <fld>(Mil.)</fld> <def>an unidentified aircraft; in combat situations, such craft not identified as friendly are assumed to be hostile.</def><br/
 [<source>PJC</source>]</p>
@@ -29583,7 +29583,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj><br/
 <p><ent>bollock</ent><br/
 <hw>bollock</hw> <pos>n.</pos> <def>one of the two male reproductive glands; a testis; -- usually spelled <asp>ballock</asp>, and usually used in the plural.</def> <br/
 <syn><b>Syn. --</b> gonad, testicle, ball, nut, egg.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a pulley-block at the head of a topmast.</def><br/
 <syn><b>Syn. --</b> bullock block.</syn><br/
@@ -30355,7 +30355,7 @@ According to my <qex>bond</qex>, nor more nor less.</q> <rj><qau>Shak.</qau></rj
 <p><-- p. 165 pr= PJC --></p>
 
 <p><sn>9.</sn> <fld>(Chem.)</fld> <def>A unit of chemical attraction between atoms; <as>as, oxygen has two <ex>bonds</ex> of affinity</as>.  Also called <cref>chemical bond</cref>.  It is often represented in graphic formul<ae/ by a short line or dash. See <xex>Diagram</xex> of <er>Benzene nucleus</er>, and <er>Valence</er>.  Several types of bond are distinguished by chemists, as <cref>double bond</cref>, <cref>triple bond</cref>, <cref>covalent bond</cref>, <cref>hydrogen bond</cref>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>10.</sn> <fld>(Elec.)</fld> <def>A heavy copper wire or rod connecting adjacent rails of an electric railway track when used as a part of the electric circuit.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -30367,7 +30367,7 @@ According to my <qex>bond</qex>, nor more nor less.</q> <rj><qau>Shak.</qau></rj
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><cs><col><b>Arbitration bond</b></col>. <cd>See under <er>Arbitration</er>.</cd> -- <col><b>Bond creditor</b></col> <fld>(Law)</fld>, <cd>a creditor whose debt is secured by a bond.</cd> <au>Blackstone.</au> -- <col><b>covalent bond</b></col>, <cd>an attractive force between two atoms of a molecule generated by the merging of an electron orbital of each atom into a combined orbital in the molecule.  Such bonds vary in strength, but in molecules of substances typically encountered in human experience (as, water or alcohol) they are sufficiently strong to persist and maintain the identity and integrity of the molecule over appreciable periods of time.  Each such bond satisfies one unit of <er>valence</er> for each of the atoms thus bonded.  Contrasted with <cref>hydrogen bond</cref>, which is weaker and does not satisfy the valence of either atom involved.</cd> -- <mcol><col><b>double bond</b></col>, <col><b>triple bond</b></col></mcol>, <cd>a <isa><cref>covalent bond</cref></isa> which involves the merging of orbitals of two (or three) electrons on each of the two connected atoms, thus satisfying two (or three) units of valence on each of the bonded atoms.  When two carbon atoms are thus bonded, the bond (and the compound) are said to be <it>unsaturated</it>.</cd> -- <col><b>Bond debt</b></col> <fld>(Law)</fld>, <cd>a debt contracted under the obligation of a bond.</cd> <au>Burrows.</au> -- <col><b>hydrogen bond</b></col>, <cd>a non-covalent bond between hydrogen and another atom, usually oxygen or nitrogen.  It does not involve the sharing of electrons between the bonded atoms, and therefore does not satisfy the valence of either atom.  Hydrogen bonds are weak (ca. 5 kcal/mol) and may be frequently broken and reformed in solution at room temperature.</cd> -- <mcol><col><b>Bond of a slate</b></col> <it>or</it> <col><b>lap of a slate</b></col></mcol>, <cd>the distance between the top of one slate and the bottom or drip of the second slate above, i. e., the space which is covered with three thicknesses; also, the distance between the nail of the under slate and the lower edge of the upper slate.</cd> -- <col><b>Bond timber</b></col>, <cd>timber worked into a wall to tie or strengthen it longitudinally.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- Chains; fetters; captivity; imprisonment.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -30627,7 +30627,7 @@ Resolved he would not make my <qex>bondage</qex> hard.</q> <rj><qau>Dryden.</qau
 
 <p><ent>bonemeal</ent><br/
 <hw>bone"meal`</hw> <pos>n.</pos> <def>ground bones, used as a fertilizer or as a component in animal feed; -- it is high in phosphate content.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>boner</ent><br/
 <hw>boner</hw> <pos>n.</pos> <sn>1.</sn> <def>an embarrassing mistake.</def><br/
@@ -30724,7 +30724,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>any of a variety of scombroid fishes of the genera <gen>Sarda</gen> or <gen>Euthynnus</gen>, with a size intermediate between those of the smaller mackerels and the tunas.  It is applied especially to the <altname>skipjack tuna</altname> (<spn>Euthynnus pelamis</spn>, syn. <spn>Katsuwonus pelamis</spn>, formerly <spn>Sarda Mediterranea</spn>, also called <altname>skipjack</altname>) of the Atlantic, an important and abundant food fish on the coast of the United States, and (<spn>Sarda Chilensis</spn>) of the Pacific, and other related species. These are large and active fishes, of a blue color above and silver below, with black oblique stripes.</def> <au>MW10</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>The medregal (<spn>Seriola fasciata</spn>), an edible fish of the southern part of the United States and the West Indies.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -30946,7 +30946,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <p><-- p. 166 pr=KC --></p>
 
 <p><cs><col><b>Booby hatch</b></col> <sd>(a)</sd> <fld>(Naut.)</fld>, <cd>a kind of wooden hood over a hatch, readily removable.</cd> <sd>(b)</sd>, <cd>an insane asylum.</cd> <mark>[Colloq.]</mark> -- <col><b>Booby hut</b></col>, <cd>a carriage body put upon sleigh runners.</cd> <mark>[Local, U. S.]</mark> <au>Bartlett.</au> -- <col><b>Booby hutch</b></col>, <cd>a clumsy covered carriage or seat, used in the eastern part of England.</cd> <au>Forby.</au> -- <col><b>Booby prize</b></col>, <cd>an award for the poorest performance in a competition; hence, metaphorically, the recognition of a strikingly inferior or incompetent performance.</cd> -- <col><b>Booby trap</b></col> <sd>(a)</sd>, <cd>a schoolboy's practical joke, as a shower bath when a door is opened.</cd>  <sd>(b)</sd>, <cd>any concealed device causing surprise or injury when a usually harmless object is touched; -- in military operations, typically containing an explosive charge.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Booby</ent><br/
 <hw>Boo"by</hw> <pr>(b<oomac/"b<ycr/)</pr>, <pos>a.</pos> <def>Having the characteristics of a booby; stupid.</def><br/
@@ -30995,7 +30995,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <ent>Boogeyman</ent><br/
 <mhw>{<hw>Boog"ey*man</hw> <pr>(b<oocr/g"<emac/*m<acr/n)</pr>, <hw>Bo"gey*man</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Something frightful, as a specter; anything imaginary that causes needless fright; something used to excite needless fear; also, something really dangerous, or an imaginary monster, used to frighten children, etc.</def> <ldquo/Go to sleep or the <xex>Boogeyman</xex> will get you.<rdquo/<br/
 <syn><b>Syn.</b> -- Hobgoblin; goblin; specter; ogre; scarecrow; booger; bugaboo; bugbear.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>boogie</ent><br/
 <hw>boogie</hw>> <pr>(b<oocr/"g<emac/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Music)</fld> <def>An instrumental version of the blues (especially for piano).</def><br/
@@ -31046,7 +31046,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><sn>5.</sn> <def>Six tricks taken by one side, in the game of bridge or whist, being the minimum number of tricks that must be taken before any additional tricks are counted as part of the score for that hand; in certain other games, two or more corresponding cards, forming a set.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <fld>(Drama)</fld> <def>a written version of a play or other dramatic composition; -- used in preparing for a performance.</def>
 <syn><b>Syn. --</b> script, playscript.</syn><br/
@@ -31075,7 +31075,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Book account</b></col>, <cd>an account or register of debt or credit in a book.</cd> -- <col><b>Book debt</b></col>, <cd>a debt for items charged to the debtor by the creditor in his book of accounts.</cd> -- <col><b>Book learning</b></col>, <cd>learning acquired from books, as distinguished from practical knowledge.</cd> <ldquo/Neither does it so much require <xex>book learning</xex> and scholarship, as good natural sense, to distinguish true and false.<rdquo/ <au>Burnet.</au> -- <col><b>Book louse</b></col> <fld>(Zool.)</fld>, <cd>one of several species of minute, wingless insects injurious to books and papers. They belong to the <spn>Pseudoneuroptera</spn>.</cd> -- <col><b>Book moth</b></col> <fld>(Zool.)</fld>, <cd>the name of several species of moths, the larv<ae/ of which eat books.</cd> -- <col><b>Book oath</b></col>, <cd>an oath made on <er>The Book</er>, or Bible.</cd> -- <col><b>The Book of Books</b></col>, <cd>the Bible.</cd> -- <col><b>Book post</b></col>, <cd>a system under which books, bulky manuscripts, etc., may be transmitted by mail.</cd> -- <col><b>Book scorpion</b></col> <fld>(Zool.)</fld>, <cd>one of the false scorpions (<spn>Chelifer cancroides</spn>) found among books and papers. It can run sidewise and backward, and feeds on small insects.</cd> -- <col><b>Book stall</b></col>, <cd>a stand or stall, often in the open air, for retailing books.</cd> -- <col><b>Canonical books</b></col>. <cd>See <er>Canonical</er>.</cd> -- <col><b>In one's books</b></col>, <cd>in one's favor.</cd>  <ldquo/I was so much <xex>in his books</xex>, that at his decease he left me his lamp.<rdquo/ <au>Addison.</au> -- <col><b>To bring to book</b></col>. <sd>(a)</sd> <cd>To compel to give an account.</cd> <sd>(b)</sd> <cd>To compare with an admitted authority.</cd> <ldquo/<xex>To bring</xex> it manifestly <xex>to book</xex> is impossible.<rdquo/ <au>M. Arnold.</au>  -- <col><b>by the book</b></col>,  <cd>according to standard procedures; using the correct or usual methods.</cd> -- <col><b>cook the books</b></col>,  <cd>make fallacious entries in or otherwise manipulate a financial record book for fraudulent purposes.</cd> -- <col><b>To curse by bell, book, and candle</b></col>. <cd>See under <er>Bell</er>.</cd> -- <col><b>To make book</b></col> <fld>(Horse Racing)</fld>, <cd>to conduct a business of accepting or placing bets from others on horse races.</cd> -- <col><b>To make a book</b></col> <fld>(Horse Racing)</fld>, <cd>to lay bets (recorded in a pocket book) against the success of every horse, so that the bookmaker wins on all the unsuccessful horses and loses only on the winning horse or horses.</cd> -- <col><b>off the books</b></col>, <cd>not recorded in the official financial records of a business; -- usually used of payments made in cash to fraudulently avoid payment of taxes or of employment benefits.</cd> -- <mcol><col><b>one for the book</b></col>, <col><b>one for the books</b></col></mcol>, <cd>something extraordinary, such as a record-breaking performance or a remarkable accomplishment.</cd> -- <col><b>To speak by the book</b></col>, <cd>to speak with minute exactness.</cd> -- <col><b>to throw the book at</b></col>, <cd>to impose the maximum fine or penalty for an offense; -- usually used of judges imposing penalties for criminal acts.</cd> -- <col><b>Without book</b></col>. <sd>(a)</sd> <cd>By memory.</cd> <sd>(b)</sd> <cd>Without authority.</cd> -- <col><b>to write the book</b></col>, <cd>to be the leading authority in a field; -- usually used in the past tense; <as>as, he's not just an average expert, he <ex>wrote the book</ex></as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Book</ent><br/
 <hw>Book</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Booked</conjf> <pr>(b<oocr/kt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Booking</conjf>.]</vmorph> <sn>1.</sn> <def>To enter, write, or register in a book or list.</def><br/
@@ -31085,7 +31085,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To enter the name of (any one) in a book for the purpose of securing a passage, conveyance, or seat; to reserve{2}; also, to make an arrangement for a reservation; <as>as, to be <ex>booked</ex> for Southampton; to <ex>book</ex> a seat in a theater; to <ex>book</ex> a reservation at a restaurant</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>To mark out for; to destine or assign for; <as>as, he is <ex>booked</ex> for the valedictory</as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -32365,17 +32365,17 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>borscht</ent><br/
 <hw>borscht</hw> <pos>n.</pos> <ety>[Yiddish <ets>borscht</ets>, fr. Russian]</ety> <def>a Russian soup usually containing beet juice as a foundation, and often served with sour cream.  Also, as used in the U.S., a sour cabbage soup, called in Russian <altname>shchi</altname>.</def><br/
 <syn><b>Syn. --</b> borsch, borsh, borsht, borshch, bortsch.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>borsh</ent><br/
 <hw>borsh</hw> <pos>n.</pos> <ety>[Yiddish <ets>borscht</ets>, fr. Russian]</ety> <def>a Russian soup usually containing beet juice as a foundation, and often served with sour cream.  Also, as used in the U.S., a sour cabbage soup, called in Russian <altname>shchi</altname>.</def><br/
 <syn><b>Syn. --</b> borsch, borscht, borsht, borshch, bortsch.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>borshch</ent><br/
 <hw>borshch</hw> <pos>n.</pos> <ety>[Yiddish <ets>borscht</ets>, fr. Russian]</ety> <def>a Russian soup usually containing beet juice as a foundation, and often served with sour cream.  Also, as used in the U.S., a sour cabbage soup, called in Russian <altname>shchi</altname>.</def><br/
 <syn><b>Syn. --</b> borsch, borsh, borscht, borsht, bortsch.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Borsholder</ent><br/
 <hw>Bors"hold`er</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>borsolder</ets>; prob. fr. AS. <ets>borg</ets>, gen. <ets>borges</ets>, pledge + <ets>ealdor</ets> elder. See <er>Borrow</er>, and <er>Elder</er>, <pos>a.</pos>]</ety> <fld>(Eng. Law)</fld> <def>The head or chief of a tithing, or borough (see 2d <er>Borough</er>); the headborough; a parish constable.</def>  <rj><au>Spelman.</au></rj><br/
@@ -32384,7 +32384,7 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>borsht</ent><br/
 <hw>borsht</hw> <pos>n.</pos> <ety>[Russian]</ety> <def>a Russian soup usually containing beet juice as a foundation, and often served with sour cream.  Also, as used in the U.S., a sour cabbage soup, called in Russian <altname>shchi</altname>.</def><br/
 <syn><b>Syn. --</b> borsch, borsh, borscht, borshch, bortsch.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Borstal</ent><br/
 <hw>Borstal</hw> <pos>n.</pos> <def>a British reform school for youths between 16 and 22.</def><br/
@@ -32397,7 +32397,7 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>bortsch</ent><br/
 <hw>bortsch</hw> <pos>n.</pos> <ety>[Russian]</ety> <def>a Russian soup usually containing beet juice as a foundation, and often served with sour cream.  Also, as used in the U.S., a sour cabbage soup, called in Russian <altname>shchi</altname>.</def><br/
 <syn><b>Syn. --</b> borsch, borsh, borscht, borshch, bortsch.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Boruret</ent><br/
 <hw>Bo"ru*ret</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A boride.</def> <mark>[Obs.]</mark><br/
@@ -33107,7 +33107,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 <ent>Bottle-nose</ent><br/
 <mhw><hw>Bot"tle-nose`</hw> <hw>Bot"tle-nosed` dolphin</hw></mhw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld>  <sn>1.</sn> <def>A grey cetacean of the Dolphin family, of several species, as <spn>Delphinus Tursio</spn> and <spn>Lagenorhyncus leucopleurus</spn>, of Europe.</def> <note>Also <spn>Tursiops truncatus</spn> -- a synonym?</note><br/
 <syn><b>Syn. --</b> bottlenose dolphin.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The puffin.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -33327,7 +33327,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 <p><ent>bouffant</ent><br/
 <hw>bouffant</hw> <pos>adj.</pos> <def>being puffed out; -- used mostly of hair style, and sometimes clothing; <as>as, a <ex>bouffant</ex> hairdo</as>; a <ex>bouffant</ex> skirt.</def><br/
 <syn><b>Syn. --</b> puffy.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bouffe</ent><br/
 \'d8<hw>Bouffe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., buffoon.]</ety> <def>Comic opera. See <er>Opera Bouffe</er>.</def><br/
@@ -36814,7 +36814,7 @@ From the dark covert drove the prey.</q> <rj><qau>Scott, (Marmion, ii. int.).</q
 
 <p><ent>bratwurst</ent><br/
 <hw>brat"wurst</hw> <pr>(br<acr/t"w<ucir/rst; br<acr/t"w<oocr/rst; br<acr/t"v<ucir/rst; br<aum/t"w<ucir/rst; G. br<acr/t"v<oocr/rsht)</pr>, <pos>n.</pos> <ety>[German.]</ety> <def>a small pork sausage seasoned with spices and herbs, and usually served broiled or sauteed.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Braunite</ent><br/
 <hw>Braun"ite</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>A native oxide of manganese, of dark brownish black color. It was named from a Mr. <etsep>Braun</etsep> of Gotha.</def><br/
@@ -37597,7 +37597,7 @@ Poor gentleman! he droops apace.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To break down</b></col>. <sd>(a)</sd> <cd>To come down by breaking; <as>as, the coach <ex>broke down</ex></as>.</cd> <sd>(b)</sd> <cd>To fail in any undertaking; to halt before successful completion; <as>as, the negotiations <ex>broke down</ex> due to irreconcilable demands</as>.</cd> <sd>(c)</sd> <cd>To cease functioning or to malfunction; <as>as, the car <ex>broke down</ex> in the middle of the highway</as>.</cd><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>He had <qex>broken down</qex> almost at the outset.</q> <rj><qau>Thackeray.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -37754,7 +37754,7 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 <p><ent>break-in</ent><br/
 <hw>break-in</hw> <pos>n.</pos> <def>an act of trespassing into a closed structure such as a house or place of busineess for an unlawful purpose, usually as part of a burglary.</def><br/
 <syn><b>Syn. --</b> housebreaking, breaking and entering.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>breaking</ent><br/
 <hw>breaking</hw> <pos>adj.</pos> <sn>1.</sn> <def><pos>p. pr. & vb. n.</pos> of <er>break</er>, <pos>v. i.</pos></def><br/
@@ -37794,7 +37794,7 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>a sudden change of situation, such as making an important discovery, that permits further rapid advances toward a goal.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mil.)</fld> <def>a penetration of an enemy's defense in depth and strength.</def><br/
 [<source>WordNet 1.5</source>]</p>
@@ -37803,11 +37803,11 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 <ent>Breakup</ent><br/
 <mhw><hw>Break"up`</hw>, <hw>Break"-up`</hw></mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Disruption; coming apart; a separation and dispersion of the parts or members; <as>as, a <ex>break-up</ex> of a meeting, assembly, or dinner party; the <ex>break-up</ex> of a spacecraft on re-entry into the atmosphere</as>.</def><br/
 <syn><b>Syn. --</b> separation, detachment.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the termination of a relationship; a <ex>break-up</ex> of the government; the <ex>break-up</ex> of a marriage; the <ex>break-up</ex> of a business partnership; the <ex>break-up</ex> of a comedy team.</def><br/
 <syn><b>Syn. --</b> dissolution.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Breakwater</ent><br/
 <hw>Break"wa`ter</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Any structure or contrivance, as a mole, or a wall at the mouth of a harbor, to break the force of waves, and afford protection from their violence.</def><br/
@@ -38064,7 +38064,7 @@ when not a <qex>breath</qex> of wind flies o'er its surface.</q> <rj><qau>Addiso
 <p><q><qex>Breathes</qex> there a man with soul so dead<br/
 Who never to himself hath said,<br/
 This is my own, my native land!</q> <rj><qau>Sir W. Scott [The Lay of the Last Minstrel].</qau></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To take breath; to rest from action.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -40123,7 +40123,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>brinksmanship</ent><br/
 <ent>brinkmanship</ent><br/
 <mhw><hw>brink"man*ship</hw>, <hw>brinks"man*ship</hw></mhw> <pos>n.</pos> <ety>[<ets>brink</ets> + <ets>-manship</ets>. (1956).]</ety> <def>the policy or practise of pushing a dangerous situation to the brink of disaster (to the limits of safety), in order to achieve the most advantageous outcome; -- used especially of diplomatic maneuvers in crisis situations, and originally applied to the policies of <person>John Foster Dulles</person> under President Eisenhower.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Briny</ent><br/
 <hw>Brin"y</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[From <er>Brine</er>.]</ety> <def>Of or pertaining to brine, or to the sea; partaking of the nature of brine; salt; <as>as, a <ex>briny</ex> taste; the <ex>briny</ex> flood</as>.</def><br/
@@ -40151,7 +40151,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Briquette</ent><br/
 <ent>briquet</ent><br/
 <mhw><hw>bri*quet"</hw>, <hw>Bri*quette"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Also <asp>briquet</asp>.]</altsp> <ety>[F., dim. of <ets>brique</ets> brick.]</ety>   <sn>1.</sn> <def>A block of compacted charcoal, coal dust, or peat, etc., used as a fuel.  Charcoal <ex>briquettes</ex> are a common fuel used for the outdoor barbecue grill.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>A block of artificial stone in the form of a brick, used for paving; also, a molded sample of solidified cement or mortar for use as a test piece for showing the strength of the material.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -40163,7 +40163,7 @@ Hath but a losing office.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>brisance</ent><br/
 <hw>bri"sance</hw> <pos>n.</pos> <def>the shattering or crushing effect of a sudden release of energy as in an explosion; -- used especially as a measure of such a shattering power, applied to high explosives.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>brisant</ent><br/
 <hw>bri"sant</hw> <pos>adj.</pos> <sn>1.</sn> <def>of or pertaining to brisance.</def><br/
@@ -40786,7 +40786,7 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 
 <p><ent>Broadway</ent><br/
 <hw>Broadway</hw> <pos>n.</pos> <sn>1.</sn> <def>a street in Manhattan famous for its restaurants and its theaters in the Times Square area.  At its intersection with Seventh Avenue, it forms Times Square, an area with impressive displays of bright lights, particularly advertising; it is considered by some to be the cultural center of New York City.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the theater district of Manhattan, located near Times Square.</def><br/
 [<source>PJC</source>]</p>
@@ -40870,7 +40870,7 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 
 <p><ent>Brochure</ent><br/
 \'d8<hw>Bro*chure"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>brocher</ets> to stitch. See <er>Broach</er>, <pos>v. t.</pos>]</ety> <def>A printed and stitched book containing only a few leaves; a pamphlet; a single sheet folded to make four pages.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Brock</ent><br/
 <hw>Brock</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>broc</ets>, fr. W. <ets>broch</ets>; akin to Ir. & Gael. <ets>broc</ets>, Corn. & Armor. <ets>broch</ets>; cf. Ir. & Gael. <ets>breac</ets> speckled.]</ety> <fld>(Zool.)</fld> <def>A badger.</def><br/
@@ -41257,7 +41257,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 
 <p><ent>Bromidiom</ent><br/
 <hw>Bro*mid"i*om</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Bromide</ets> + <ets>idiom</ets>.]</ety> <def>A conventional comment or saying, such as those characteristic of bromides{2}; a bromide{3}.</def> <mark>[Slang]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Brominate</ent><br/
 <hw>Bro"mi*nate</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <def>See <er>Bromate</er>, <pos>v. t.</pos></def><br/
@@ -41421,7 +41421,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj><b
 
 <p><ent>Brontosaurus</ent><br/
 \'d8<hw>Bron`to*sau"rus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>bronth`</grk> thunder + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of large sauropod American dinosaurs of the jurassic era, or an individual of that genus. A length of sixty feet is believed to have been attained by these reptiles.  The genus is also called <altname>Apatosaurus</altname>, and individuals of the genus are also called <altname>brontosaurs</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Brontotherium</ent><br/
 \'d8<hw>Bron`to*the"ri*um</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ thunder + <?/ beast.]</ety> <fld>(Paleon.)</fld> <def>A genus of large extinct mammals from the miocene strata of western North America. They were allied to the rhinoceros, but the skull bears a pair of powerful horn cores in front of the orbits, and the fore feet were four-toed. See <xex>Illustration</xex> in Appendix.</def><br/
@@ -41739,7 +41739,7 @@ Crouch to the wicked ten?</q> <rj><qau>Macaulay.</qau></rj><br/
 
 <p><ent>Brother</ent><br/
 <hw>Broth"er</hw> <pr>(br<ucr/<th/"<etil/r)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Brothers</plw> <pr>(br<ucr/<th/"<etil/rz)</pr> or <plw>Brethren</plw> <pr>(br<ecr/<th/"r<ecr/n)</pr>. See <er>Brethren</er>.</plu> <ety>[OE. <ets>brother</ets>, AS. <ets>br<omac/<edh/or</ets>; akin to OS. <ets>brothar</ets>, D. <ets>broeder</ets>, OHG. <ets>pruodar</ets>, G. <ets>bruder</ets>, Icel. <ets>br<omac/<edh/ir</ets>, Sw. & Dan. <ets>broder</ets>, Goth. <ets>br<omac/<thorn/ar</ets>, Ir. <ets>brathair</ets>, W. <ets>brawd</ets>, pl. <ets>brodyr</ets>, Lith. <ets>brolis</ets>, Lett. <ets>brahlis</ets>, Russ. <ets>brat'</ets>, Pol. & Serv. <ets>brat</ets>, OSlav. <ets>bratr<ucr/</ets>, L. <ets>frater</ets>, Skr. <ets>bhr<amac/t<rsdot/</ets>, Zend <ets>bratar</ets> brother, Gr. <grk>fra`thr</grk>, <grk>fra`twr</grk>, a clansman. The common plural is <plw>Brothers</plw>; in the solemn style, <plw>Brethren</plw>, OE. pl. <ets>brether</ets>, <ets>bretheren</ets>, AS. dative sing. <ets>br<emac/<edh/er</ets>, nom. pl. <ets>br<omac/<edh/or</ets>, <ets>br<omac/<edh/ru</ets>. <root/258. Cf. <er>Friar</er>, <er>Fraternal</er>.]</ety> <sn>1.</sn> <def>A male person who has the same father and mother with another person, or who has one of them only. In the latter case he is more definitely called a <stype>half brother</stype>, or <stype>brother of the half blood</stype>.</def> <note>A brother having the same mother but different fathers is called a <stype>uterine brother</stype>, and one having the same father but a different mother is called an <stype>agnate brother</stype>, or in <fld>(Law)</fld>  a <stype>consanguine brother</stype>.  A brother having the same father and mother is called a <stype>brother-german</stype> or <stype>full brother</stype>.  The same modifying terms are applied to <er>sister</er> or <er>sibling</er>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Two of us in the churchyard lie,<br/
 My sister and my <qex>brother</qex>.</q> <rj><qau>Wordsworth.</qau></rj><br/
@@ -41850,7 +41850,7 @@ Make they but of their <qex>brethren</qex>, men of men?</q> <rj><qau>Milton.</qa
 <p><ent>Broussonetia</ent><br/
 <hw>Broussonetia</hw> <pos>n.</pos> <def>a genus of shade trees including the <stype>paper mulberry</stype> (<spn>Broussonetia papyrifera</spn>) of East Asia.</def><br/
 <syn><b>Syn. --</b> genus <gen>Broussonetia</gen>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Brow</ent><br/
 <hw>Brow</hw> <pr>(brou)</pr>, <pos>n.</pos> <ety>[OE. <ets>browe</ets>, <ets>bruwe</ets>, AS. <ets>br<umac/</ets>; akin to AS. <ets>br<aemac/w</ets>, <ets>bre<aacute/w</ets>, eyelid, OFries. <ets>br<emac/</ets>, D. <ets>braauw</ets>, Icel. <ets>br<amac/</ets>, <ets>br<umac/n</ets>, OHG. <ets>pr<amac/wa</ets>, G. <ets>braue</ets>, OSlav. <ets>br<ucr/v<icr/</ets>, Russ. <ets>brove</ets>, Ir. <ets>brai</ets>, Ir. & Gael. <ets>abhra</ets>, Armor. <ets>abrant</ets>, Gr. <grk>'ofry`s</grk>, Skr. <ets>bhr<umac/</ets>. Cf. <er>Bray</er> a bank, <er>Bridge</er>.]</ety> <sn>1.</sn> <def>The prominent ridge over the eye, with the hair that covers it, forming an arch above the orbit.</def><br/
@@ -42149,7 +42149,7 @@ The barks of trees thou <qex>browsedst</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Brugmansia</ent><br/
 <hw>Brugmansia</hw> <pos>n.</pos> <def>a genus of plants of the nightshade family, including some plants often placed in the genus <gen>Datura</gen>, such as the angel's trumpets.</def><br/
 <syn><b>Syn. --</b> genus <gen>Brugmansia</gen>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bruh</ent><br/
 \'d8<hw>Bruh</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <ety>[Native name.]</ety> <def>The rhesus monkey. See <er>Rhesus</er>.</def><br/
@@ -42322,7 +42322,7 @@ Amid the lists our hero takes his stand.</q> <rj><qau>T. Warton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>land covered with brush{5}; in Australia, a dense growth of vegetation in good soil, including shrubs and trees, mostly small.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <fld>(Elec.)</fld> <def>A bundle of flexible wires or thin plates of metal, used to conduct an electrical current to or from the commutator of a dynamo, electric motor, or similar apparatus.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -43172,7 +43172,7 @@ His features too in <qex>buckle</qex> see.</q> <rj><qau>Churchill.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>To prepare for action; to apply with vigor and earnestness; -- formerly, generally used reflexively, but by mid 20th century, usually used with <ptcl>down</ptcl>; -- <as>as, the programmers <ex>buckled down</ex> and worked late hours to finish the project in time for the promised delivery date</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Cartwright <qex>buckled</qex> himself to the employment.</q> <rj><qau>Fuller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -43560,7 +43560,7 @@ Deformed, unfeatured, and a skin of <qex>buff</qex>.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>Buff</ent><br/
 <hw>Buff</hw>, <pos>v. t.</pos> <def>to polish with a soft cloth, especially one similar to a <er>buff{5}</er>. See <er>Buff</er>, <pos>n.</pos>, 5.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Buff</ent><br/
 <hw>Buff</hw>, <pos>v. t.</pos> <ety>[OF. <ets>bufer</ets> to cuff, buffet. See <er>Buffet</er> a blow.]</ety> <def>To strike.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
@@ -43746,7 +43746,7 @@ Turns you from sound philosophy aside.</q> <rj><qau>Pope.</qau></rj><br/
 
 <p><ent>buffeted</ent><br/
 <hw>buffeted</hw> <pos>adj.</pos> <def>struck repeatedly; -- used especially of impact from winds, and sometimes metaphorically; <as>as, <ex>buffeted</ex> by criticism</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Buffeter</ent><br/
 <hw>Buf"fet*er</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>One who buffets; a boxer.</def>  <rj><au>Jonson.</au></rj><br/
@@ -43881,7 +43881,7 @@ The <qex>bug</qex> which you would fright me with I seek.</q> <rj><qau>Shak.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ According to popular usage in England and among housekeepers in America around 1900, <ex>bug</ex>, when not joined with some qualifying word, was used specifically for <altname>bedbug</altname>.  As a general term it is now used very loosely in America as a colloquial term to mean any small crawling thing, such as an insect or arachnid, and was formerly used still more loosely in England.  <ldquo/God's rare workmanship in the ant, the poorest <xex>bug</xex> that creeps.<rdquo/ <au>Rogers</au> (<au>Naaman</au>). <ldquo/This <xex>bug</xex> with gilded wings.<rdquo/ <au>Pope.</au></note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <fld>(Computers)</fld> <def>An error in the coding of a computer program, especially one causing the program to malfunction or fail.  See, for example, <er>year 2000 bug</er>.</def> <ldquo/That's not a <xex>bug</xex>, it's a feature!<rdquo/<br/
 [<source>PJC</source>]</p>
@@ -44560,7 +44560,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj><br
 <p><ent>bulletproof</ent><br/
 <ent>bullet-proof</ent><br/
 <mhw><hw>bul"let-proof`</hw>, <hw>bul"let*proof`</hw></mhw> <pr>(<?/)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Capable of resisting the force of a bullet; resistant to penetration by a bullet; armored; <as>as, a <ex>bulletproof</ex> vest; a <ex>bulletproof</ex> window</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>designed so as to be resistant to abuse or misuse and incapable of malfunction under normal use; <as>as, a <ex>bulletproof</ex> computer program</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -44580,7 +44580,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj><br
 <ent>Bullfight</ent><br/
 <mhw>{ <hw>Bull"fight`</hw> <pr>(<?/)</pr>, <hw>Bull"fight`ing</hw>  }</mhw>, <pos>n.</pos> <def>a sport of great antiquity, in which men torment, and fight with, a bull or bulls in an arena, for public amusement, -- still popular in Spain, Portugal and Latin American.  In the Spanish version a matador kills the bull with a sword after the bull has been weakened by wounds from small barbed rods, and after he has displayed courage and artistic skill in causing the bull to charge many times while he stands still or nearly still.  In some versions the bull is not killed.  Occasionally the matador is wounded or killed by the bull.</def> -- <wordforms><wf>Bull"fight`er</wf> <pr>(<?/)</pr>, <pos>n.</pos></wordforms><br/
 <syn><b>Syn. --</b> corrida.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>bullfighting</ent><br/
 <hw>bullfighting</hw> <pos>n.</pos> <def>the activity at a bullfight.</def><br/
@@ -45101,7 +45101,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 <p><ent>bumpkinly</ent><br/
 <hw>bump"kin*ly</hw> <pos>adj.</pos> <def>unsophisticated in a manner resembling a lifelong resident of rural areas; <as>as, <ex>bumpkinly</ex> country boys</as>.</def><br/
 <syn><b>Syn. --</b> hick, rustic, unsophisticated.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bumptious</ent><br/
 <hw>Bump"tious</hw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Self-conceited; forward; pushing.</def> <mark>[Colloq.]</mark>  <rj><au>Halliwell.</au></rj><br/
@@ -45118,7 +45118,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 <p><ent>Bunn</ent><br/
 <ent>Bun</ent><br/
 <mhw>{ <hw>Bun</hw>, <hw>Bunn</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Scot. <ets>bun</ets>, <ets>bunn</ets>, OE. <ets>bunne</ets>, <ets>bonne</ets>; fr. Celtic; cf. Ir. <ets>bunna</ets>, Gael. <ets>bonnach</ets>, or OF. <ets>bugne</ets> tumor, Prov. F. <ets>bugne</ets> a kind of pancake; akin to OHG. <ets>bungo</ets> bulb, MHG. <ets>bunge</ets>, Prov. E. <ets>bung</ets> heap, cluster, <ets>bunny</ets> a small swelling.]</ety> <sn>1.</sn> <def>any of a variety of slightly sweetened or plain raised cakes or bisquits, often having a glazing of sugar and milk on the top crust; <as>as, a hot cross <ex>bun</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a type of coiffure in which the hair is gathered into a coil or knot at the top of the head.</def><br/
 [<source>PJC</source>]</p>
@@ -45852,7 +45852,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Government officials, collectively; -- used especially of nonelected government officials.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Bureaucrat</ent><br/
 <hw>Bu*reau"crat</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>An official of a bureau; esp. an official confirmed in a narrow and arbitrary routine.</def>  <rj><au>C. Kingsley.</au></rj><br/
@@ -45860,7 +45860,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>bureaucratese</ent><br/
 <hw>bureaucratese</hw> <pos>n.</pos> <def>the formal and often obscure style of writing characteristic of some government officials; officialese; -- it is characterized by euphemisms, circumlocutions, vague abstractions, and circumlocutions.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Bureaucratical</ent><br/
 <ent>Bureaucratic</ent><br/
@@ -46182,7 +46182,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>burled</ent><br/
 <hw>burled</hw> <pr>(b<ucir/rld)</pr>, <pos>adj.</pos> <def>having an irregular pattern from the grain of a tree burl{2}, or one resembling such a pattern, in contrast to the regular wood grain consisting of parallel or concentric lines; -- of wood.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Burler</ent><br/
 <hw>Burl"er</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>One who burls or dresses cloth.</def><br/
@@ -46494,7 +46494,7 @@ And spread and <qex>burnish</qex> as his brothers do.</q> <rj><qau>Dryden.</qau>
 
 <p><ent>burn out</ent><br/
 <hw>burn out</hw> <pos>v. i.</pos> <sn>1.</sn> <def>To burn till the fuel is exhausted; <as>as, when the candle <ex>burned out</ex> the room was totally dark; the firefighters couldn't control the oil tank fire and had to let it <ex>burn out</ex> by itself</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To stop functioning due to failure of some component caused by the heat of the electrical current used in its operation; -- of electrical devices.</def><br/
 [<source>PJC</source>]</p>
@@ -47411,7 +47411,7 @@ With foreign quarrels.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>busybodied</ent><br/
 <hw>busybodied</hw> <pos>adj.</pos>  <def>intruding unasked into the affairs of others.</def><br/
 <syn><b>Syn. --</b> interfering, meddlesome, meddling, officious, busy.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Busybody</ent><br/
 <hw>Bus"y*bod`y</hw> <pr>(-b<ocr/d`<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Busybodies</plw> <pr>(-b<ocr/d`<icr/z)</pr>.</plu> <def>One who officiously concerns himself with the affairs of others; a meddling person.</def><br/
@@ -47427,7 +47427,7 @@ With foreign quarrels.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>busywork</ent><br/
 <hw>busywork</hw> <pos>n.</pos> <def>active work of little value, performed merely to occupy time, avoid boredom, or to look busy; <as>as, while he was waiting he filled the days with <ex>busywork</ex></as>.</def><br/
 <syn><b>Syn. --</b> make-work.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>But</ent><br/
 <hw>But</hw> <pr>(b<ucr/t)</pr>, <pos>prep.</pos>, <pos>adv. & conj.</pos> <ety>[OE. <ets>bute</ets>, <ets>buten</ets>, AS. <ets>b<umac/tan</ets>, without, on the outside, except, besides; pref. <ets>be-</ets> + <ets><umac/tan</ets> outward, without, fr. <ets><umac/t</ets> out. Primarily, <ets>b<umac/tan</ets>, as well as <ets><umac/t</ets>, is an adverb. <root/198. See <er>By</er>, <er>Out</er>; cf. <er>About</er>.]</ety> <sn>1.</sn> <def>Except with; unless with; without.</def> <mark>[Obs.]</mark><br/
@@ -47512,7 +47512,7 @@ Thou her afford, full shortly I her dead shall see.</q> <rj><qau>Spenser.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The end; esp. the larger or thicker end, or the blunt, in distinction from the sharp, end.  Now disused in this sense, being replaced by <er>butt</er>{2}.  See 1st <er>Butt</er>.</def> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>But end</b></col>, <cd>the larger or thicker end; <as>as, the <ex>but end</ex> of a log; the <ex>but end</ex> of a musket.</as> See <er>Butt</er>, <pos>n.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -47524,7 +47524,7 @@ Thou her afford, full shortly I her dead shall see.</q> <rj><qau>Spenser.</qau><
 <p><ent>butacaine</ent><br/
 <hw>butacaine</hw> <pos>n.</pos> <def>a white crystalline ester (<chform>C18H30N2O2</chform>) that is applied to mucous membranes as a topical anesthetic.  Chemically it is <chname>3-(di-n-butylamino)-1-propanol 4-aminobenzoate</chname> (<chform>H2N.C6H4.CO.O.(CH2)3N(C4H9)2</chform>).  It is usually used as the sulfate salt.</def><br/
 <syn><b>Syn. --</b> butacaine sulfate.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>butadiene</ent><br/
 <hw>butadiene</hw> <pos>n.</pos> <def>a gaseous hydrocarbon <chform>C4H6</chform>; -- it is used as a monomer unit in making synthetic rubbers.</def><br/
@@ -47696,7 +47696,7 @@ And very sea mark of my utmost sail.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The larger or thicker end of anything; the blunt end, in distinction from the sharp end; <as>as, the <ex>butt</ex> of a rifle</as>.  Formerly also spelled <asp>but</asp>.  See 2nd <er>but</er>, <pos>n.</pos> sense 2.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A mark to be shot at; a target.</def>  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -48216,7 +48216,7 @@ So <qex>buxom</qex>, blithe, and debonair.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><sn>3.</sn>  <def>having a pronounced womanly shape.</def> <mark>[chiefly dialect]</mark><br/
 <syn><b>Syn. --</b> bosomy, curvaceous, full-bosomed, sonsie, sonsy, voluptuous.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p>--  <wordforms><wf>Bux"om*ly</wf>, <pos>adv.</pos> -- <wf>Bux"om*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>

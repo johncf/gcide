@@ -68,7 +68,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To utter inarticulate sounds with rapidity; -- used of fowls as well as people; <as>as, <ex>gabbling</ex> geese</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gabble</ent><br/
 <hw>Gab"ble</hw>, <pos>n.</pos> <sn>1.</sn> <def>Loud or rapid talk without meaning.</def><br/
@@ -317,7 +317,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 
 <p><ent>Gadolinium</ent><br/
 <hw>Gad`o*lin"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gadolinite</er>.]</ety> <fld>(Chem.)</fld> <def>A rare earth metallic element of the Lanthanide series, with a characteristic spectrum, found associated with yttrium and other rare earth elements.  Symbol, <it>Gd</it>; it has an atomic number of 64, an atomic weight of 157.25 (C=12.011), and a valence of +3.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gadsman</ent><br/
 <hw>Gads"man</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who uses a gad or goad in driving.</def><br/
@@ -996,7 +996,7 @@ From their soft wings.</q> <rj><qau>Milton.</qau></rj><br/
 <ent>galere</ent><br/
 <mhw><hw>galere</hw>, <hw>gal<egrave/re</hw></mhw> <pr>(g<adot/*l<etil/r)</pr> <pos>n.</pos> <ety>[F. gallery.]</ety> <def>A group of people with some common characteristic, especially a coterie of undesirable people.</def><br/
 <syn><b>Syn. --</b> rogue's gallery.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Galericulate</ent><br/
 <hw>Gal`er*ic"u*late</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>galericulum</ets>, dim. of <ets>galerum</ets> a hat or cap, fr. <ets>galea</ets> helmet.]</ety> <def>Covered as with a hat or cap.</def>  <rj><au>Smart.</au></rj><br/
@@ -1644,7 +1644,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence:</specif> <def>An overshoe worn in wet weather, especially a waterproof rubber overshoe extending over the ankle, worn over one's regular shoes; now usually written <asp>galosh</asp>.  It is used mostly in the plural; <as>as, it's raining, so put your <ex>galoshes</ex> on</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A gaiter, or legging, covering the upper part of the shoe and part of the leg.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2180,7 +2180,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 
 <p><ent>Gamma ray</ent><br/
 <hw>Gam"ma ray</hw>.  <pos>n.</pos> <fld>(Physics)</fld> <def>A very penetrating electromagnetic ray not appreciably deflected by a magnetic or electric field, emitted by radioactive substances.  <ex>Gamma rays</ex> are photons of electromagnetic radiation having a wavelength shorter than that of X-rays, (i. e. shorter than 0.1 nanometer) and are correspondingly more penetrating than X-rays.  In addition to being given off in certain types of radioactive decay, they may be found in cosmic radiation, though they are largely absorbed by the earth's atmosphere.  Gamma-ray detectors orbited above the atmosphere have found bursts of gamma radiation, in some cases associated with visually observed supernova explosions, but in most cases from unidentified sources.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Gammer</ent><br/
 <hw>Gam"mer</hw> <pr>(g<acr/m"m<etil/r)</pr>, <pos>n.</pos> <ety>[Possibly contr. fr. <ets>godmother</ets>; but prob. fr. <ets>grammer</ets> for <ets>grandmother</ets>.  Cf. <er>Gaffer</er>.]</ety> <def>An old wife; an old woman; -- correlative of <contr>gaffer</contr>, an old man.</def><br/
@@ -2206,7 +2206,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 
 <p><ent>Gammon</ent><br/
 <hw>Gam"mon</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To beat in the game of backgammon, before an antagonist has been able to get his <ldquo/men<rdquo/ or counters home and withdraw any of them from the board; <as>as, to <ex>gammon</ex> a person</as>.  In certain variants of the game one who <ex>gammons</ex> an opponent scores twice the normal value of the game.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To impose on; to hoax; to cajole.</def> <mark>[Colloq.]</mark>  <rj><au>Hood.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2306,7 +2306,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 
 <p><ent>Gandhi</ent><br/
 <hw>Gandhi</hw> <pos>adj.</pos> <def><person>Mohandas Gandhi</person>, a Hindu nationalist and religious leader, who preached non-violent resistance to oppression.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Gandhian</ent><br/
 <hw>Gandhian</hw> <pos>adj.</pos> <def>of or pertaining to <person>Mohandas Gandhi</person>.</def><br/
@@ -2321,7 +2321,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 <ent>Ganesa</ent><br/
 <mhw><hw>Ga*ne"sa</hw>, <hw>Ganesh</hw>, <hw>Ganesha</hw></mhw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Hindu Myth.)</fld> <def>The Hindu god of wisdom, prudence and prophesy; the remover of obstacles.</def><br/
 <syn><b>Syn. --</b> Ganapati.</syn><br/
-[<source>1913 Webster</source> <source>WordNet 1.5</source>]</p>
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><note><hand/ He is represented as a short, fat, red-colored man, with a large belly and the head of an elephant.</note>  <rj><au>Balfour.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2708,7 +2708,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 
 <p><ent>Garage</ent><br/
 <hw>Ga`rage"</hw> <pr>(g<adot/`r<aum/zh" <it>or</it> g<adot/`r<aum/j" <it>or</it>  (<it>Brit.</it>) g<adot/r"<asl/j)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>an enclosed structure for housing or parking motor vehicles, especially automobiles.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <fld>(A<eum/ronautics)</fld> <def>A shed for housing an airship or flying machine; a hangar.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -2734,7 +2734,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 <p><ent>garand</ent><br/
 <hw>garand</hw> <pos>n.</pos> <ety>[From the inventor, <person>John C. <etsep>Garand</etsep></person>.]</ety> <def>A semiautomatic rifle, also called the <altname>M-1</altname>, used by soldiers of the U. S. army in World War II and Korea.  It was the standard weapon issued to infantrymen.</def><br/
 <syn><b>Syn. --</b> Garand rifle, M-1, M-1 rifle.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Garancin</ent><br/
 <hw>Gar"an*cin</hw> <pr>(?; 104)</pr>, <pos>n.</pos> <ety>[F. <ets>garance</ets> madder, LL. <ets>garantia</ets>.]</ety> <fld>(Chem.)</fld> <def>An extract of madder by sulphuric acid. It consists essentially of alizarin.</def><br/
@@ -2820,7 +2820,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>A serving boy or man; a waiter; -- used in direct address; <as>as, <ex>garcon</ex>, please bring a glass of water</as> -- in Eng. chiefly applied to French waiters.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Gard</ent><br/
 <hw>Gard</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Garde</er>, <er>Yard</er>]</ety> <def>Garden.</def> <mark>[Obs.]</mark> <ldquo/Trees of the <xex>gard</xex>.<rdquo/  <rj><au>F. Beaumont.</au></rj><br/
@@ -3535,7 +3535,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 <ent>Gasoline</ent><br/
 <mhw><hw>Gas"o*line</hw>, <hw>Gas"o*lene</hw></mhw> <pr>(? <or/ ?; 104)</pr>, <pos>n.</pos> <def>A highly volatile mixture of fluid hydrocarbons, obtained mostly from petroleum, as also by the distillation of bituminous coal. It is used as a fuel for most automobiles and for many other vehicles with internal combustion engines.  The <ex>gasoline</ex> of commerce is typically blended with additives to improve its performance in internal combustion engines.  <ex>Gasoline</ex> was also used in the early 1900's in making air gas, and in giving illuminating power to water gas. See <er>Carburetor</er>.</def><br/
 <syn><b>Syn. --</b> petrol[Brit].</syn>
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gasolene engine</ent><br/
 <ent>Gasoline engine</ent><br/
@@ -3924,7 +3924,7 @@ Both stile and <qex>gate</qex>, horse way and footpath.</q> <rj><qau>Shak.</qau>
 
 <p><ent>gateau</ent><br/
 <mhw><hw>ga*teau"</hw>, <hw>g<acir/*teau"</hw></mhw> <pr>(g<adot/*t<omac/")</pr>, <pos>n.</pos> <ety>[F. cake.]</ety> <fld>(Cookery)</fld> <def>Any of various rich and elaborate cakes, particularly a light sponge cake having a rich filling or rich icing, such as <stype>gateau foret noire</stype> (Black Forest Cake).</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>gatecrash</ent><br/
 <hw>gate"crash`</hw> <pos>v. t.</pos> <def>To enter uninvited into a party or other social event.</def><br/
@@ -5061,7 +5061,7 @@ And black <qex>Gehenna</qex> called, the type of Hell.</q> <rj><qau>Milton.</qau
 
 <p><ent>geisha</ent><br/
 <hw>gei"sha</hw> <pr>(g<amac/"sh<adot/)</pr>, <pos>n.</pos>; <plu>pl. <plw>geisha</plw> <pr>(g<amac/"sh<adot/)</pr>, <plw>Geishas</plw> <pr>(g<amac/"sh<adot/z)</pr></plu>. <ety>[Jap., art person.]</ety> <def>A Japanese singing and dancing girl, trained to provide entertainment and company for a man or group of men.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Geissler tube</ent><br/
 <hw>Geis"sler tube`</hw> <pr>(?)</pr>. <fld>(Elec.)</fld> <def>A glass tube provided with platinum electrodes, and containing some gas under very low tension, which becomes luminous when an electrical discharge is passed through it; -- so called from the name of a noted maker in germany. It is called also <altname>Pl<uum/cker tube</altname>, from the German physicist who devised it.</def><br/
@@ -7321,7 +7321,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><ent>gerenuk</ent><br/
 <hw>ger"e*nuk</hw> <pr>(g<ecr/r"<esl/*n<oocr/k)</pr>, <pos>n.</pos> <def>A slender East African antelope (<spn>Litocranius walleri</spn>) with a long slim neck and backward-curving horns; called also <altname>Waller's gazelle</altname>, and in German <altname>Giraffengazelle</altname>.  It feeds on the foliage of bushes and trees, and often stands erect on its hind legs, leaning against the bush, to browse on the higher branches; in this habit it is distinctive and easy to recognize.</def><br/
 <syn><b>Syn. --</b> <spn>Litocranius walleri</spn>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Gerfalcon</ent><br/
 <hw>Ger"fal`con</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Gyrfalcon</er>.</def><br/
@@ -7439,7 +7439,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 
 <p><ent>Germanium</ent><br/
 <hw>Ger*ma"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <etsep>Germania</etsep> Germany.]</ety> <fld>(Chem.)</fld> <def>A rare element, discovered in 1885 in a silver ore (<partof>argyrodite</partof>) at Freiberg. It is a brittle, silver-white metal, chemically intermediate between the metals and nonmetals, resembles tin, and is in general identical with the predicted <altname>ekasilicon</altname>. Symbol Ge. Atomic number 32.  Atomic weight 72.59.  It has excellent semiconductor properties, and is used in transistors and diodes.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Germanization</ent><br/
 <hw>Ger`man*i*za"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of Germanizing.</def>  <rj><au>M. Arnold.</au></rj><br/
@@ -7474,7 +7474,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><ent>germicidal</ent><br/
 <hw>ger"mi*ci`dal</hw> <pr>(j<etil/r"m<icr/*s<imac/`d<ait/l)</pr>, <pos>a.</pos> <ety>[<ets>Germ</ets> + L. <ets>caedere</ets> to kill + <ets>-al</ets>.]</ety> <fld>(Biol.)</fld> <def>Destructive to germs; -- applied to any agent which has a killing action upon living microorganisms, particularly bacteria or viruses, which are the cause of many infectious diseases.</def><br/
 <syn><b>Syn. --</b> antiseptic.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>germicide</ent><br/
 <hw>ger"mi*cide</hw> <pr>(j<etil/r"m<icr/*s<imac/d)</pr>, <pos>n.</pos>   <def>A germicidal agent.</def> -- <def2><pos>a.</pos> <def>Germicidal.</def></def2><br/
@@ -7541,7 +7541,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Med.)</fld> <def>The theory which attributes contagious and infectious diseases, suppurative lesions, etc., to the agency of germs, i.e. pathogenic microorganisms. The science of bacteriology was developed after this theory had been established.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Germule</ent><br/
 <hw>Germ"ule</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Dim. fr. <ets>germ</ets>.]</ety> <fld>(Biol.)</fld> <def>A small germ.</def><br/
@@ -7954,7 +7954,7 @@ In every <qex>gesture</qex> dignity and love.</q> <rj><qau>Milton.</qau></rj><br
 <p><ent>Gettysburg</ent><br/
 <hw>Gettysburg</hw> <pos>prop. n.</pos> <def>The name of a battle of the American Civil War fought in and around the town of <city>Gettysburg</city>, Pennsylavania, in 1863.  At this battle, the defeat of <person>General Robert E. Lee's</person> invading Confederate army was a major victory for the Union, and is considered by many a turning point in the war, after which victory by the Confederacy was no longer thought possible; <as>as, many thousands died at <ex>Gettysburg</ex></as>.  See also <er>Gettysburg Address</er>.</def><br/
 <syn><b>Syn. --</b> battle of Gettysburg.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Gettysburg Address</ent><br/
 <hw>Gettysburg Address</hw> <pos>prop. n.</pos> <def>The popular name of a speech given by <person>Abraham Lincoln</person> on <datey>November 19, 1863</datey>, on the battlefield near Gettysburg, Pennsylvania, USA, as part of a ceremony to dedicate a portion of that battlefield as a cemetary for soldiers who died fighting there.  See note below.</def><br/
@@ -8403,7 +8403,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 
 <p><ent>gibberellin</ent><br/
 <hw>gibberellin</hw> <pos>n.</pos> <fld>(Chem.)</fld>, <def>Any of a number plant growth hormones, the first of which was isolated in 1938 from the fungus <spn>Gibberella fujikuroi</spn>; more than 60 related gibberelins are known.  The most important is <stype>gibberellin A<sub>3</sub></stype>, also called <stype>gibberellic acid</stype>.  They are used in agriculture for promoting plant growth.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>gibberish</ent><br/
 <hw>gib"ber*ish</hw> <pr>(j<icr/b"b<etil/r*<icr/sh <it>or</it>  g<icr/b"b<etil/r*<icr/sh)</pr>, <pos>n.</pos> <ety>[From <er>Gibber</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>Rapid and inarticulate talk; unintelligible language; unmeaning words.</def><br/
@@ -8878,7 +8878,7 @@ At the piteous hap of the fairy wight.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 
 <p><ent>Gilbert</ent><br/
 <hw>Gilbert</hw> <pos>prop. n.</pos> <def><person>William Schwenk Gilbert</person>, an English dramatist born at London Nov. 18, 1836.  He is most famous for his collaborations with <person>Sir Arthur Sullivan</person> on a number of humorous light operas which are known as <ldquo/Gilbert and Sullivan Operas<rdquo/.  His first play was <ldquo/Dulcamara<rdquo/ (1866).  He also wrote <ldquo/The Palace of Truth<rdquo/ (1870), <ldquo/Pygmalion and Galatea<rdquo/ (1871), <ldquo/Sweethearts<rdquo/ (1874), <ldquo/Engaged<rdquo/ (1877), <ldquo/The Mountebanks<rdquo/ (1891), and in collaboration with Sir A. Sullivan (who wrote the music), he wrote <ldquo/The Sorcerer<rdquo/ (1877), <ldquo/H. M. S. Pinafore<rdquo/ (1878), <ldquo/The Pirates of Penzance<rdquo/ (1879), <ldquo/Patience<rdquo/ (1881), <ldquo/Iolanthe<rdquo/ (1883), <ldquo/The Mikado<rdquo/ (1885), <ldquo/Ruddygore<rdquo/ (1887), <ldquo/The Yeomen of the Guard<rdquo/ (1888), <ldquo/The Gondoliers<rdquo/ (1889), and <ldquo/Utopia, limited<rdquo/ (1893).  The light operas proved very popular and continue to be performed over one hundred years later.  He also published other works.</def><br/
-[<source>Century Dict. 1906</source> <source>+PJC</source>]</p>
+[<source>Century Dict. 1906</source> + <source>PJC</source>]</p>
 
 <p><ent>Gilbert and Sullivan</ent><br/
 <hw>Gilbert and Sullivan</hw> <def><person>William Schwenk Gilbert</person> and <person>Sir Arthur Sullivan</person>, who collaborated on a number of light operas.  See <er>Gilbert</er>.</def><br/
@@ -9127,13 +9127,13 @@ Translated by John Maier and John Gardner<br/
 
 <p><sn>2.</sn> <def>A toy; a pretty thing; an ornamental object of no great value.</def><br/
 <syn><b>Syn. --</b> trinket, gewgaw, knickknack, tchotchke.</syn><br/
-[<source>WordNet 1.5</source>  <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>gimcracks</ent><br/
 <ent>gimcrackery</ent><br/
 <mhw><hw>gimcrackery</hw>, <hw>gimcracks</hw></mhw> <pos>n.</pos> <def>Ornamental objects of no great value.</def><br/
 <syn><b>Syn. --</b> falderal, folderol, frills, nonsense, trumpery, trinkets, gewgaws, knickknacks, tchotchkes.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>gimel</ent><br/
 <hw>gimel</hw> <pos>n.</pos> <def>the 3rd letter of the Hebrew alphabet.</def><br/
@@ -9348,7 +9348,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 <ent>ginmill</ent><br/
 <mhw><hw>ginmill</hw>, <hw>gin mill</hw></mhw> <pos>n.</pos> <def>A commercial establishment where alcoholic drinks are served over a counter; a barroom; -- a disparaging term suggesting a cheap or disreputable bar.</def><br/
 <syn><b>Syn. --</b> barroom, bar-room, bar, saloon, taproom.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Ginnee</ent><br/
 <hw>Gin"nee</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ginn</plw> <pr>(<?/)</pr>.</plu> <def>See <er>Jinnee</er>.</def><br/
@@ -9414,7 +9414,7 @@ Hung at his girdle, white as morn<eacute/ milk.</q> <rj><qau>Chaucer.</qau></rj>
 
 <p><ent>giraffe</ent><br/
 <hw>gi*raffe"</hw> <pr>(j<icr/*r<acr/f"; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>girafe</ets>, Sp. <ets>girafa</ets>, from Ar. <ets>zur<amac/fa</ets>, <ets>zar<amac/fa</ets>.]</ety> <fld>(Zool.)</fld> <def>An African ruminant (<spn>Giraffa camelopardalis</spn> formerly <spn>Camelopardalis giraffa</spn>) related to the deers and antelopes, but placed in a family (<fam>Giraffidae</fam>) by itself; the camelopard. It is the tallest of quadriped animals, being sometimes twenty feet from the hoofs to the top of the head. Its neck is very long, and its fore legs are much longer than its hind legs.  There are three types, having different patterns of spots on the pelt and different territories: the <stype>Reticulated Giraffe</stype>, the <stype>Masai Giraffe</stype>, and the <stype>Uganda Giraffe</stype>.  Intermediate crosses are also observed.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Giraffidae</ent><br/
 <hw>Giraffidae</hw> <pos>prop. n.</pos> <def>The natural family of mammals including the giraffes.</def><br/
@@ -9723,7 +9723,7 @@ And <qex>girt</qex> thee with the sword.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The measure around any object, such as a body at the waist or belly, or a box ; the circumference of anything; <as>as, in order to be acceptable for mailing, the total of height and <ex>girth</ex> of a package must not exceed 63 inches</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>He's a lusty, jolly fellow, that lives well, at least three yards in the <qex>girth</qex>.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -10764,7 +10764,7 @@ The running of one <qex>glass</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <p><ent>glass blower</ent><br/
 <ent>glassblower</ent><br/
 <mhw><hw>glass"blow*er</hw>, <hw>glass" blow*er</hw></mhw> <pos>n.</pos> <sn>1.</sn> <def>someone skilled creating objects such as bottles, vases, or other decorative or practical items from molten glass, especially one whose occupation is to make objects by blowing and shaping hot glass in its viscous semiliquid state.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>glass blowing</ent><br/
 <ent>glassblowing</ent><br/
@@ -11773,7 +11773,7 @@ And with indented <qex>glides</qex> did slip away.</q> <rj><qau>Shak.</qau></rj>
 <p><ent>glob</ent><br/
 <hw>glob</hw> <pos>n.</pos> <sn>1.</sn> <def>a compact mass, especially of a semiliquid or viscous substance; <as>as, a <ex>glob</ex> of glue fell on my shoe</as>.</def><br/
 <syn><b>Syn. --</b> ball, clod, lump, clump, chunk.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>global</ent><br/
 <hw>glob"al</hw> <pos>adj.</pos> <sn>1.</sn> <def>involving the entire earth; not limited or provincial in scope; <as>as, <ex>global</ex> war; <ex>global</ex> monetary policy</as>.</def><br/
@@ -12954,7 +12954,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 <p><ent>glutaeus</ent><br/
 <ent>gluteus</ent><br/
 <mhw><hw>glu*te"us</hw>, \'d8<hw>glu*t<ae/"us</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gluteal</er>.]</ety> <fld>(Anat.)</fld> <def>Any of several muscles in the buttocks of man and most mammals, especially the great muscle of the buttock (the <stype>gluteus maximus</stype>); also, the corresponding muscle in many lower animals.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ In man, the <xex>gluteus</xex> is composed of three distinct parts, which extend and abduct the thigh, and help support the body in standing.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -13054,7 +13054,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A carnivorous mammal (<spn>Gulo gulo</spn> formerly <spn>Gulo luscus</spn>), of the weasel family <fam>Mustelid<ae/</fam>, about the size of a large badger; called also <altname>wolverine</altname>, <altname>wolverene</altname> and <altname>carcajou</altname>. It was formerly believed to be inordinately voracious, whence the name. It is a native of the northern parts of America, Europe, and Asia.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Glutton bird</b></col> <fld>(Zool.)</fld>, <cd>the giant fulmar (<spn>Ossifraga gigantea</spn>); -- called also <altname>Mother Carey's goose</altname>, and <altname>mollymawk</altname>.</cd></cs>
 <-- glutton for punishment = one persistent in an effort in spite of harmful results --><br/
@@ -13930,7 +13930,7 @@ With rapid wheels.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A base, station, or bound used in various games as the point or object which a team must reach in order to score points; in certain games, the point which the ball or puck must pass in order for points to be scored.  In football, it is a line between two posts across which the ball must pass in order to score points; in soccer or ice hockey, it is a net at each end of the soccer field into which the soccer ball or hocjey puck must be propelled; in basketball, it is the basket{7} suspended from the backboard, through which the basketball must pass.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Sport)</fld> <def>The act or instance of propelling the ball or puck into or through the goal{3}, thus scoring points; <as>as, to score a <ex>goal</ex></as>.</def><br/
 [<source>PJC</source>]</p>
@@ -14488,7 +14488,7 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 <p><ent>go-getter</ent><br/
 <hw>go-getter</hw> <pos>n.</pos> <def>a person disposed to initiate action, rather than take instructions; an enterprising person; a person with a strong drive to accomplish useful goals; especially, one whose career progresses rapidly.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> whizz-kid, whiz-kid, ball of fire.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Goggle</ent><br/
 <hw>Gog"gle</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Goggled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Goggling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[Cf. Ir. & Gael. <ets>gog</ets> a nod, slight motion.]</ety> <def>To roll the eyes; to stare.</def><br/
@@ -15039,7 +15039,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>gon"iff</ent><br/
 <hw>gon"iff</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From Yiddish, prob. fr.  Heb. <ets>gann<amac/bh</ets> thief.]</ety> <def>A pickpocket or thief.</def> <altsp>[Also spelled <asp>ganef</asp>, <asp>gonif</asp>, and <asp>gonoph</asp>.]</altsp>  <mark>[Eng. Slang]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gonimia</ent><br/
 \'d8<hw>Go*nim"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ productive, fr. <?/ that which generates.]</ety> <fld>(Bot.)</fld> <def>Bluish green granules which occur in certain lichens, as <gen>Collema</gen>, <gen>Peltigera</gen>, etc., and which replace the more usual gonidia.</def><br/
@@ -15089,7 +15089,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Gonococcus</ent><br/
 \'d8<hw>Gon`o*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ semen, the genitals + NL. & E. <ets>coccus</ets>.]</ety> <fld>(Med.)</fld> <def>A microorganism (Neisseria gonnorrhoeae) of the genus <gen>Neisseria</gen> (formerly <gen>Micrococcus</gen>), found in the secretion in gonorrhea, and constituting the cause of this disease.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gonoph</ent><br/
 <hw>Gon"oph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From Yiddish, prob. fr.  Heb. <ets>gann<amac/bh</ets> thief.]</ety> <def>A pickpocket or thief.</def> <altsp>[Also spelled <asp>ganef</asp>, <asp>gonif</asp>, and <asp>goniff</asp>.]</altsp>  <mark>[Eng. Slang]</mark> <rj><au>Dickens.</au></rj><br/
@@ -15105,7 +15105,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>gonorrhoea</ent><br/
 <ent>gonorrhea</ent><br/
 <mhw>{ <hw>gon`or*rhe"a</hw>, <hw>gon`or*rh<oe/"a</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>gonorrhoea</ets>, Gr. <?/; <?/ that which begets, semen, the genitals + <?/ to flow: cf. F. <ets>gonorrh<eacute/e</ets>.]</ety> <fld>(Med.)</fld> <def>A contagious inflammatory disease of the genitourinary tract, affecting especially the urethra and vagina, and characterized by a mucopurulent discharge, pain in urination, and chordee; clap.  It is caused by infection with the bacterium <spn>Neiseria gonorrheae</spn>, and is commonly transmitted  by sexual intercourse.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gonorrhoeal</ent><br/
 <ent>Gonorrheal</ent><br/
@@ -15325,7 +15325,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>good-hearted</ent><br/
 <hw>good-hearted</hw> <pos>adj.</pos> <def>benevolent.</def> <ant>malevolent</ant><br/
 <syn><b>Syn. --</b> kind, kindly, openhearted.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Good-humored</ent><br/
 <hw>Good`-hu"mored</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a cheerful spirit and demeanor; cheerful; good-tempered. See <er>Good-natured</er>.</def> <wns>[wns=2]</wns><br/
@@ -15523,17 +15523,17 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>goofproof</ent><br/
 <hw>goof"proof`</hw> <pos>a.</pos> <def>such as will function properly even if treated badly or ineptly; foolproof; -- of devices, plans, recipes, etc.; <as>as, nothing running under Windows is completely <ex>goofproof</ex>.</as></def><br/
 <syn><b>Syn. --</b> foolproof.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>goofproof</ent><br/
 <hw>goof"proof`</hw> <pos>v. t.</pos> <def>To design (a device or plan of action) so that it will function properly even if treated badly or executed ineptly; foolproof.</def><br/
 <syn><b>Syn. --</b> foolproof.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>goofy</ent><br/
 <hw>goofy</hw> <pos>adj.</pos>  <def>foolish and silly, or appearing silly; <as>as, he wore a <ex>goofy</ex> hat</as>.</def><br/
 <syn><b>Syn. --</b> cockamamie, cockamamy, fool(prenominal), sappy, silly, wacky, zany, unreasonable.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>google</ent><br/
 <hw>goo"gle</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>To search for Web pages containing a word or phrase, using the Google web site (www.google.com); <as>as, I <ex>googled</ex> <ldquo/ontology<rdquo/ and found 351,000 references</as>.</def> <mark>[recent]</mark> <br/
@@ -16585,7 +16585,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A constitutional disease, occurring by paroxysms. It consists in an inflammation of the fibrous and ligamentous parts of the joints, and almost always attacks first the great toe, next the smaller joints, after which it may attack the greater articulations. It is attended with various sympathetic phenomena, particularly in the digestive organs. It may also attack internal organs, as the stomach, the intestines, etc.  It is an inherited disease of purine metaboism, which causes an increased level of uric acid in the blood, and leads to deposition of crystals of sodium urate in cartilage within joints and in connective tissue.  It can be alleviated by a diet low in purines, and is treated by drugs which block formation of uric acid.</def>  <rj><au>Dunglison.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A disease of cornstalks. See <cref>Corn fly</cref>, under <er>Corn</er>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -17840,7 +17840,7 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 families or householders, they shall set up a <qex>grammar</qex> school, the master thereof being able to instruct youth so far as they may be fitted for the University.</q> <rj><qau>Mass. Records (1647).</qau></rj></p>
 
 <p><sd>(b)</sd> <cd>In the American system of graded common schools, at one time the term referred to an intermediate school between the primary school and the high school, in which the principles of English grammar were taught; now, it is synonymous with <altname>primary school</altname> or <altname>elementary school</altname>, being the first school at which children are taught subjects required by the state educational laws.  In different communities, the <ex>grammar school</ex> (primary school) may have grades 1 to 4, 1 to 6, or 1 to 8, usually together with a kindergarten.  Schools between the primary school and high school are now commonly termed <contr>middle school</contr> or <contr>intermediate school</contr>.</cd><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Grammar</ent><br/
 <hw>Gram"mar</hw>, <pos>v. i.</pos> <def>To discourse according to the rules of grammar; to use grammar.</def> <mark>[Obs.]</mark>  <rj><au>Beau. & Fl.</au></rj><br/
@@ -17923,7 +17923,7 @@ families or householders, they shall set up a <qex>grammar</qex> school, the mas
 
 <p><ent>Gramophone</ent><br/
 <hw>Gram"o*phone</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a thing drawn or written (fr. <?/ write) + <ets>-phone</ets>, as in <ets>telephone</ets>.  Originally a trademark.]</ety> <def>An instrument for recording, preserving, and reproducing sounds, the record being a tracing of a phonautograph etched in some solid material. Reproduction is accomplished by means of a system attached to an elastic diaphragm.  This older term is almost completely replaced for modern devices by the word <er>phonograph</er> (or <er>hi-fi</er>), and technological changes have made the term sound antiquated, and it is usually used to refer to older non-electronic versions of the phonograph.</def> <mark>[obsolescent]</mark> <br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Grampus</ent><br/
 <hw>Gram"pus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Grampuses</plw> <pr>(#)</pr>.</plu> <ety>[Probably corrupted from It. <ets>gran pesce</ets> great fish, or Sp. <ets>gran pez</ets>, or Pg. <ets>gran peixe</ets>, all fr. L. <ets>grandis piscis</ets>. See <er>Grand</er>, and <er>Fish</er>. the animal.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A toothed delphinoid cetacean, of the genus <gen>Grampus</gen>, esp. <spn>G. griseus</spn> of Europe and America, which is valued for its oil. It grows to be fifteen to twenty feet long; its color is gray with white streaks. Called also <altname>cowfish</altname>. The California grampus is <spn>G. Stearnsii</spn>.</def><br/
@@ -17950,7 +17950,7 @@ families or householders, they shall set up a <qex>grammar</qex> school, the mas
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence:</specif> (<mark>Fig.</mark>), <def>A region fertile in grain; in this sense, equivalent to <altname>breadbasket</altname>, used figuratively; <as>as, Ukraine, the <ex>granary</ex> of the Soviet Union</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The exhaustless <qex>granary</qex> of a world.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -18324,7 +18324,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>The thing or property granted; a gift; a boon.</def>  <specif>Especially:</specif> <def>a sum of money given to an institution, group, or individual for a specific purpose, such as for scientific research; <as>as, he got a million-dollar <ex>grant</ex> from the National Institutes of Health to study cancer.</as></def>  <note>Grants for research and other purposes are given usually by government agencies, charitable foundations, or industrial organizations.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Law)</fld> <def>A transfer of property by deed or writing; especially, an appropriation or conveyance made by the government; <as>as, a <ex>grant</ex> of land or of money</as>; also, the deed or writing by which the transfer is made.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -18459,7 +18459,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>The large yellow fruit of the <spn>Citrus paradisi</spn>, having somewhat acid juicy pulp.  It is a popular breakfast food.</def> <wns>[wns=2]</wns><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Grapeless</ent><br/
 <hw>Grape"less</hw>, <pos>a.</pos> <def>Wanting grapes or the flavor of grapes.</def><br/
@@ -18486,14 +18486,14 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 
 <p><ent>-graph</ent><br/
 <hw>-graph</hw> <pr>(-gr<adot/f)</pr> <ety>[From Gr. <grk>gra`fein</grk> to write. See <er>Graphic</er>.]</ety> <def>A suffix signifying <sig>something written</sig> (as in <er>digraph</er>), <sig>a writing</sig>; also, <sig>a writer</sig> or <sig>an instrument that produces a written or visible record of a measurement</sig>, such as a spectro<ex>graph</ex>; <as>as, auto<ex>graph</ex>, crysto<ex>graph</ex>, tele<ex>graph</ex>, photo<ex>graph</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Graph</ent><br/
 <hw>Graph</hw> <pr>(gr<adot/f)</pr>, <pos>n.</pos> <ety>[See <er>-graph</er>.]</ety> <fld>(Math.)</fld> <sn>1.</sn> <def>A curve or surface, the locus of a point whose coordinates are the variables in the equation of the locus; <as>as, a <ex>graph</ex> of the exponential function</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A diagram symbolizing a system of interrelations of variable quantities using points represented by spots, or by lines to represent the relations of continuous variables.  More than one set of interrelations may be presented on one graph, in which case the spots or lines are typically distinguishable from each other, as by color, shape, thickness, continuity, etc.  A diagram in which relationships between variables are represented by other visual means is sometimes called a <ex>graph,</ex> as in a <stype>bar graph</stype>, but may also be called a <contr>chart</contr>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>grapheme</ent><br/
 <hw>graph"eme</hw> <pos>n.</pos> <fld>(Linguistics)</fld> <def>a written symbol that is used to represent speech.</def><br/
@@ -18583,7 +18583,7 @@ To see her <qex>granges</qex> and her bernes wide.</q> <rj><qau>Chaucer.</qau></
 
 <p><ent>graphology</ent><br/
 <hw>gra*phol"o*gy</hw> <pr>(gr<adot/*f<ocr/l"<osl/*j<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>gra`fein</grk> to write + <ets>-logy</ets>: cf. F. <ets>graphologie</ets>.]</ety> <sn>1.</sn> <def>The art of judging of a person's character, disposition, and aptitude from his handwriting; called <altname>graphoanalysis</altname> by its practitioners.  Though its practitioners consider it a science, it is widely considered a pseudoscience, as is astrology.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>The system or notation used in dealing with graphs.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -18942,7 +18942,7 @@ functionally subtypes --></p>
 <p><ent>Grasshopper</ent><br/
 <hw>Grass"hop`per</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any jumping, orthopterous insect, of the families <fam>Acridid<ae/</fam> and <fam>Locustid<ae/</fam>, having large hind legs adapted for leaping, and chewing mouth parts. The species and genera are very numerous and some are very destructive to crops.  The former family includes the Western grasshopper or locust (<spn>Caloptenus spretus</spn>), noted for the great extent of its ravages in the region beyond the Mississippi. In the Eastern United States the red-legged (<spn>Caloptenus femurrubrum</spn> and <spn>C. atlanis</spn>) are closely related species, but their ravages are less important. They are closely related to the migratory locusts of the Old World. See <er>Locust</er>.</def>
 <-- atlanis in original. Atlantis? --><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The meadow or green grasshoppers belong to the <fam>Locustid<ae/</fam>. They have long antenn<ae/, large ovipositors, and stridulating organs at the base of the wings in the male. The European great green grasshopper (<spn>Locusta viridissima</spn>) belongs to this family. The common American green species mostly belong to <gen>Xiphidium</gen>, <gen>Orchelimum</gen>, and <gen>Conocephalus</gen>.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -19548,7 +19548,7 @@ Importing health and <qex>graveness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>graviton</ent><br/
 <hw>graviton</hw> <pos>n.</pos> <fld>(Physics)</fld> <def>A theoretical gauge boson that mediates the (extremely weak) gravitational interactions between particles; the quantum of the gravitational field, having zero rest mass and a spin of 2.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Gravity</ent><br/
 <hw>Grav"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gravities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>gravitas</ets>, fr. <ets>gravis</ets> heavy; cf. F. <ets>gravit<eacute/</ets>. See <er>Grave</er>, <pos>a.</pos>, <er>Grief</er>.]</ety> <sn>1.</sn> <def>The state of having weight; beaviness; <as>as, the <ex>gravity</ex> of lead</as>.</def><br/
@@ -19804,23 +19804,23 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <p><ent>greased</ent><br/
 <hw>greased</hw> <pos>adj.</pos> <def>smeared with oil or grease to reduce friction; <as>as, a <ex>greased</ex> pig is too <hascons>slippery</hascons> to hold</as>.</def><br/
 <syn><b>Syn. --</b> lubricated.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Greaser</ent><br/
 <hw>Greas"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, greases; specifically, a person employed to lubricate the working parts of machinery, engines, carriages, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A nickname sometimes applied in contempt to a Mexican or other Latin-American of the lowest type; -- derogatory and offensive.</def> <mark>[Low, U. S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>grease-gun</ent><br/
 <ent>grease gun</ent><br/
 <mhw><hw>grease gun</hw>, <hw>grease-gun</hw></mhw> <pos>n.</pos> <def>A device held in the hand, having a supply of grease and attached to a reservoir of pressurized air, used to force grease between adjacent moving parts of a machine, especially in the bearings of motor vehicles.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>greasepaint</ent><br/
 <hw>greasepaint</hw> <pos>n.</pos> <sn>1.</sn> <def>a greasy substance containing pigments, used as makeup by actors, clowns, and other entertainers; <as>as, the smell of the <ex>greasepaint,</ex> the roar of the crowd</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Theatrical makeup, generally.</def><br/
 [<source>PJC</source>]</p>
@@ -20817,7 +20817,7 @@ For the British Grenadiers.<br/
 <p><ent>grey-headed</ent><br/
 <hw>grey-headed</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>gray-headed</er>.</def><br/
 <syn><b>Syn. --</b> gray, grey, gray-haired, grey-haired, gray-headed, hoar, hoary.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Greyhound</ent><br/
 <hw>Grey"hound`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>graihund</ets>, <ets>greihound</ets>, <ets>greahund</ets>, <ets>grihond</ets>, Icel. <ets>greyhundr</ets>; <ets>grey</ets> greyhound + <ets>hundr</ets> dog; cf. AS. <ets>gr<imac/ghund</ets>. The origin of the first syllable is unknown.]</ety> <sn>1.</sn> <def>A slender, graceful breed of dogs, remarkable for keen sight and swiftness. It is one of the oldest varieties known, and is figured on the Egyptian monuments.</def> <altsp>[Written also <asp>grayhound</asp>.]</altsp><br/
@@ -20843,7 +20843,7 @@ For the British Grenadiers.<br/
 <p><ent>Grias</ent><br/
 <hw>Grias</hw> <pos>n.</pos> <def>The genus of trees including the anchovy pear tree <spn>Grias cauliflora</spn>, whose fruit is somewhat like the mango.</def><br/
 <syn><b>Syn. --</b> genus <gen>Grias</gen>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Gribble</ent><br/
 <hw>Grib"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Prov. E. grib to bite.]</ety> <fld>(Zool.)</fld> <def>A small marine isopod crustacean (<spn>Limnoria lignorum</spn> or <spn>Limnoria terebrans</spn>), which burrows into and rapidly destroys submerged timber, such as the piles of wharves, both in Europe and America.</def><br/
@@ -21336,7 +21336,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A student that studies hard; a dig; a wonk.</def> <mark>[College Slang]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Grinded</ent><br/
 <hw>Grind"ed</hw>, <mark>obs.</mark> <pos>p. p.</pos> <mord>of <er>Grind</er></mord>. <def>Ground.</def>  <rj><au>Sir W. Scott.</au></rj><br/
@@ -21397,7 +21397,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To hold one's nose to the grindstone</b></col>,  <col><b>To bring one's nose to the grindstone</b></col></mcol>, <cd>to oppress one; to keep one in a condition of servitude.</cd> -- <col><b>To put one's nose to the grindstone</b></col> <sd>(a)</sd> <cd>to oppress one; to cause one to work hard and steadily.</cd> <sd>(b)</sd> <cd>to set oneself to a long and arduous task.</cd>  -- <col><b>To keep one's nose to the grindstone</b></col> <cd>to continue at a long and arduous task; to apply oneself steadily to one's duties.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>They might be ashamed, for lack of courage, to suffer the Laced<ae/monians to <qex>hold their noses to the grindstone</qex>.</q> <rj><qau>Sir T. North.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21458,7 +21458,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>6.</sn>  <def>A gripsack; a hand bag; a satchel or suitcase.</def> <mark>[Colloq.]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn>  <fld>(Med.)</fld> <def>The influenza; grippe.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -22062,7 +22062,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><ent>groovy</ent><br/
 <hw>groov"y</hw> <pr>(gr<oomac/"v<ycr/)</pr>, <pos>a.</pos> <def>Very pleasant or very enjoyable; marvelous; wonderful; excellent; -- expressing strong approval, usually of enjoyable experiences.</def> <mark>[informal, 1960's]</mark> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> bang-up, bully, cool, corking, cracking, dandy, far-out, great, keen, neat, nifty, not bad(predicate), out-of-sight, outtasight, peachy, psychedelic, slap-up, swell, smashing.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Very chic; <as>as, <ex>groovy</ex> clothes</as>.</def> <mark>[British informal]</mark> <wns>[wns=2]</wns><br/
 <syn><b>Syn. --</b> swagger.</syn><br/
@@ -22119,7 +22119,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><ent>Groschen</ent><br/
 \'d8<hw>Grosch"en</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A small silver coin and money of account of Germany, worth about two cents. It was discontinued in the new monetary system of the empire and not subsequeently used.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Grosgrain</ent><br/
 <hw>Gros"grain`</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.  Cf. <er>Grogram</er>.]</ety> <def>Of a coarse texture; -- applied to silk with a heavy thread running crosswise.</def><br/
@@ -22501,7 +22501,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><ent>Groundwork</ent><br/
 <hw>Ground"work`</hw> <pr>(ground"w<ucir/rk`)</pr>, <pos>n.</pos> <def>That which forms the foundation or support of anything; the basis; the essential or fundamental part; first principle; <as>as, development of a convenient DNA sequencing technique layed the <ex>groundwork</ex> for many of the subsequent advances in molecular genetics</as>.</def>  <rj><au>Dryden.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Group</ent><br/
 <hw>Group</hw> <pr>(gr<oomac/p)</pr>, <pos>n.</pos> <ety>[F <ets>groupe</ets>, It. <ets>gruppo</ets>, <ets>groppo</ets>, cluster, bunch, packet, group; of G. origin: cf. G. <ets>kropf</ets> craw, crop, tumor, bunch. See <er>Crop</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A cluster, crowd, or throng; an assemblage, either of persons or things, collected without any regular form or arrangement; <as>as, a <ex>group</ex> of men or of trees; a <ex>group</ex> of isles</as>.</def><br/
@@ -22529,7 +22529,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><ent>grouped</ent><br/
 <hw>grouped</hw> <pos>adj.</pos> <def>arranged into groups, each having some feature in common.</def><br/
 <syn><b>Syn. --</b> sorted.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Grouper</ent><br/
 <hw>Group"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Corrupted fr. Pg. <ets>garupa</ets> crupper.  Cf. <er>Garbupa</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>One of several species of valuable food fishes of the genus <gen>Epinephelus</gen>, of the family <fam>Serranid<ae/</fam>, as the red grouper, or brown snapper  (<spn>Epinephelus morio</spn>), and the black grouper, or warsaw (<spn>Epinephelus nigritus</spn>), both from Florida and the Gulf of Mexico.</def> <sd>(b)</sd> <def>The tripletail (<gen>Lobotes</gen>).</def> <sd>(c)</sd> <def>In California, the name is often applied to the rockfishes.</def> <altsp>[Written also <asp>groper</asp>, <asp>gruper</asp>, and <asp>trooper</asp>.]</altsp><br/
@@ -22702,7 +22702,7 @@ Had <qex>grown</qex> Suspicion's sanctuary.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>4.</sn> <def><pos>p. pr.</pos> of <er>grow</er> (definition 3); <as>as, <ex>growing</ex> plants</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Growl</ent><br/
 <hw>Growl</hw> <pr>(groul)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Growled</conjf> <pr>(grould)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Growling</conjf>.]</vmorph> <ety>[D. <ets>grollen</ets> to grunt, murmur, be angry; akin to G. <ets>grollen</ets> to be angry.]</ety> <def>To utter a deep guttural sound, as an angry dog; to give forth an angry, grumbling sound.</def>  <rj><au>Gay.</au></rj><br/
@@ -23603,7 +23603,7 @@ For this fool <qex>gudgeon</qex>, this opinion.</q> <rj><qau>Shak.</qau></rj><br
 
 <p><ent>Guenon</ent><br/
 \'d8<hw>Guenon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>Any of several long-tailed arboreal African monkeys, of the genera <gen>Cercopithecus</gen> and <gen>Erythrocebus</gen> (formerly classified as <gen>Cercocebus</gen>), such as as the green monkey (<spn>Cercopithecus callitrichus</spn>) and grivet (<spn>Cercopithecus griseo-viridis</spn>).</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gueparde</ent><br/
 \'d8<hw>Gue`parde"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F.  <ets>gu<eacute/pard</ets>.]</ety> <fld>(Zool.)</fld> <def>The cheetah.</def><br/
@@ -24157,13 +24157,13 @@ was first struck, was proclaimed in 1663, and to go for twenty shillings; but it
 
 <p><ent>Guinea pig</ent><br/
 <hw>Guin"ea pig`</hw> <ety>[Prob. a mistake for <ets>Guiana pig</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A small Brazilian rodent (<spn>Cavia porcellus</spn> or <spn>Cavia cobaya</spn>), about seven inches in length and usually of a white color, with spots of orange and black.  Called also <altname>cavy</altname>.  It is the domesticated form of the wild cavy, often kept as a pet and used commonly as an experimental animal in laboratory research.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence,</specif> <mark>[figuratively]</mark>: <def>Any animal or person used in an experiment; -- also applied to people who are unwillingly or unknowingly subjected by authorities to policies or procedures which might cause bodily or mental harm.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A contemptuous sobriquet.</def> <mark>[Obs.]</mark> <au>Smollett</au><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Guinea-pig director</ent><br/
 <hw>Guin"ea-pig` di*rec"tor</hw>. <def>A director (usually one holding a number of directorships) who serves merely or mainly for the fee (in England, often a guinea) paid for attendance.</def> <mark>[Colloq.]</mark><br/
@@ -24605,7 +24605,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 <p><ent>gumptious</ent><br/
 <hw>gumptious</hw> <pos>adj.</pos> <sn>1.</sn>  <def>enterprising.</def><br/
 <syn><b>Syn. --</b> energetic, industrious, up-and-coming.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>gumshield</ent><br/
 <hw>gumshield</hw> <pos>n.</pos> <fld>(Sport)</fld> <def>A piece of athletic equipment that protects an athlete's mouth.</def><br/
@@ -24657,7 +24657,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Armstrong gun</b></col>, <cd>a wrought iron breech-loading cannon named after its English inventor, Sir William <xex>Armstrong</xex>.</cd> -- <mcol><col><b>Big gun</b></col> <it>or</it> <col><b>Great gun</b></col></mcol>, <cd>a piece of heavy ordnance</cd>; hence  (Fig.), <cd>a person superior in any way; <as>as, bring in the <ex>big guns</ex> to tackle the problem</as>.</cd> -- <col><b>Gun barrel</b></col>, <cd>the barrel or tube of a gun.</cd> -- <col><b>Gun carriage</b></col>, <cd> the carriage on which a gun is mounted or moved.</cd> -- <col><b>Gun cotton</b></col> <fld>(Chem.)</fld>, <cd>a general name for a series of explosive nitric ethers of cellulose, obtained by steeping cotton in nitric and sulphuric acids. Although there are formed substances containing nitric acid radicals, yet the results exactly resemble ordinary cotton in appearance. It burns without ash, with explosion if confined, but quietly and harmlessly if free and open, and in small quantity. Specifically, the lower nitrates of cellulose which are insoluble in ether and alcohol in distinction from the highest (<xex>pyroxylin</xex>) which is soluble. See <er>Pyroxylin</er>, and cf. <er>Xyloidin</er>. The gun cottons are used for blasting and somewhat in gunnery: for making celluloid when compounded with camphor; and the soluble variety (<xex>pyroxylin</xex>) for making collodion. See <er>Celluloid</er>, and <er>Collodion</er>. Gun cotton is frequenty but improperly called <altname>nitrocellulose</altname>. It is not a <it>nitro</it> compound, but an <isa>ester</isa> of nitric acid.</cd> -- <col><b>Gun deck</b></col>. <cd>See under <er>Deck</er>.</cd> -- <col><b>Gun fire</b></col>, <cd>the time at which the morning or the evening gun is fired.</cd> -- <col><b>Gun metal</b></col>, <cd>a bronze, ordinarily composed of nine parts of copper and one of tin, used for cannon, etc.  The name is also given to certain strong mixtures of cast iron.</cd> -- <col><b>Gun port</b></col> <fld>(Naut.)</fld>, <cd>an opening in a ship through which a cannon's muzzle is run out for firing.</cd> -- <col><b>Gun tackle</b></col> <fld>(Naut.)</fld>, <cd>the blocks and pulleys affixed to the side of a ship, by which a gun carriage is run to and from the gun port.</cd> -- <col><b>Gun tackle purchase</b></col> <fld>(Naut.)</fld>, <cd>a tackle composed of two single blocks and a fall.</cd> <au>Totten.</au> -- <col><b>Krupp gun</b></col>, <cd>a wrought steel breech-loading cannon, named after its German inventor, <person>Herr Krupp</person>.</cd> -- <col><b>Machine gun</b></col>, <cd>a breech-loading gun or a group of such guns, mounted on a carriage or other holder, and having a reservoir containing cartridges which are loaded into the gun or guns and fired in rapid succession.  In earlier models, such as the <stype>Gatling gun</stype>, the cartridges were loaded by machinery operated by turning a crank. In modern versions the loading of cartidges is accomplished by levers operated by the recoil of the explosion driving the bullet, or by the pressure of gas within the barrel.  Several hundred shots can be fired in a minute by such weapons, with accurate aim. The <stype>Gatling gun</stype>, <stype>Gardner gun</stype>, <stype>Hotchkiss gun</stype>, and <stype>Nordenfelt gun</stype>, named for their inventors, and the French <stype>mitrailleuse</stype>, are <ex>machine guns</ex>.</cd> -- <col><b>To blow great guns</b></col> <fld>(Naut.)</fld>, <cd>to blow a gale. See <er>Gun</er>, <pos>n.</pos>, 3.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gun</ent><br/
 <hw>Gun</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To practice fowling or hunting small game; -- chiefly in participial form; <as>as, to go gunning</as>.</def></p>
@@ -24732,7 +24732,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Gunner's daughter</b></col>, <cd>the gun to which men or boys were lashed for punishment.</cd> <mark>[Sailor's slang]</mark>  <rj><au>W. C. Russell.</au></rj> -- <col><b>tail gunner</b></col> <fld>(Mil.)</fld> <cd>A member of the crew of a bomber airplane who operates the defensive gun at the rear of the airplane.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gunnery</ent><br/
 <hw>Gun"ner*y</hw> <pr>(?)</pr>, <pos>n.</pos> <def>That branch of military science which comprehends the theory of projectiles, and the manner of constructing and using ordnance.</def><br/
@@ -24754,7 +24754,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Gunny bag</b></col> <it>or</it>  <col><b>Gunny sack</b></col></mcol>, <cd>a sack made of gunny or burlap, used for coarse commodities.  In the southern U. S. similar sacks are called <altname>crocus sack</altname>, <altname>croker sack</altname>, <altname>towsack</altname>, and <altname>grass sack</altname>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gunocracy</ent><br/
 <hw>Gu*noc"ra*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gyneocracy</er>.</def><br/

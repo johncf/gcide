@@ -1419,7 +1419,7 @@ May <qex>walk</qex> again.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To cause to walk; to lead, drive, or ride with a slow pace; <as>as, to <ex>walk</ex> one's horses; to <ex>walk</ex> the dog</as>.</def>  <ldquo/ I will rather trust . . . a thief to <xex>walk</xex> my ambling gelding.<rdquo/  <rj><au>Shak.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <ety>[AS. <ets>wealcan</ets> to roll.  See <er>Walk</er> to move on foot.]</ety> <def>To subject, as cloth or yarn, to the fulling process; to full.</def>  <mark>[Obs. or Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -1546,7 +1546,7 @@ The cloth that had wrought.</q> <rj><qau>Percy's Reliques.</qau></rj><br/
 
 <p><sn>2.</sn> <specif>Hence:</specif> <mark>(colloquially)</mark> <def>A one-sided contest; an uncontested, or an easy, victory.</def><br/
 <syn><b>Syn. --</b> walk; cake-walk.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Walkyr</ent><br/
 <hw>Wal"kyr</hw>, <pos>n.</pos> <fld>(Scand. Myth.)</fld> <def>See <er>Valkyria</er>.</def><br/
@@ -1817,7 +1817,7 @@ That with his singing <qex>walled</qex> that city.</q> <rj><qau>Chaucer.</qau></
 
 <p><ent>Wall Street</ent><br/
 <hw>Wall Street</hw>. <def>A street towards the southern end of the borough of Manhattan, New York City, extending from Broadway to the East River; -- so called from the old wall which extended along it when the city belonged to the Dutch. It is the chief financial center of the United States, hence the name is often used for the money market and the financial interests of the country; -- in American financial publications, also referred to as <altname>the street</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Wallwort</ent><br/
 <hw>Wall"wort`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The dwarf elder, or danewort (<spn>Sambucus Ebulus</spn>).</def><br/
@@ -3938,7 +3938,7 @@ That justice <qex>warrants</qex>, and that wisdom guides.</q> <rj><qau>Addison.<
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(j)</sd> <def>A thin coat of metal applied in a liquid form on any object, for beauty or preservation;  -- called also <altname>washing</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>The blade of an oar, or the thin part which enters the water.</def>  <sd>(b)</sd> <def>The backward current or disturbed water caused by the action of oars, or of a steamer's screw or paddles, etc.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4338,7 +4338,7 @@ And <qex>waste</qex> its sweetness on the desert air.</q> <rj><qau>Gray.</qau></
 
 <p><ent>Waste</ent><br/
 <hw>Waste</hw> <pr>(w<amac/st)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To be diminished; to lose bulk, substance, strength, value, or the like, gradually; to be consumed; to dwindle; to grow less; -- commonly used with <ptcl>away</ptcl>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The time <qex>wasteth</qex> night and day.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -4841,7 +4841,7 @@ Their earthy charge.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Water bed</ent><br/
 <hw>Wa"ter bed`</hw> <pr>(?)</pr>. <def>A kind of mattress made of, or covered with, waterproof fabric and filled with water, thus providing uniform support to the body lying on it; -- also a bed constructed so as to contain such a mattress. It is used in hospitals for bedridden patients, as well as in some private homes.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Water beech</ent><br/
 <hw>Wa"ter beech`</hw> <pr>(?)</pr>. <fld>(Bot.)</fld> <def>The American hornbeam.  See <er>Hornbeam</er>.</def><br/
@@ -5777,7 +5777,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The line of division between two adjacent rivers or lakes with respect to the flow of water by natural channels into them; the natural boundary of a basin; -- called also <altname>divide</altname> and <altname>water parting</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>a point in time marking an important transition between two situations, or phases of an activity; a turning point.</def><br/
 [<source>PJC</source>]</p>
@@ -5934,7 +5934,7 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A tower or standpipe used as a water storage reservoir, to deliver water at a required head of pressure, as to a fountain.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Water tree</ent><br/
 <hw>Wa"ter tree`</hw> <pr>(?)</pr>. <fld>(Bot.)</fld> <def>A climbing shrub (<spn>Tetracera alnifolia</spn> syn. <spn>Tetracera potatoria</spn>) of <geog>Western Africa</geog>, which pours out a watery sap from the freshly cut stems.</def><br/
@@ -6105,7 +6105,7 @@ A little lonely church in days of yore.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>6.</sn>  <fld>(Bot.)</fld> <def>In Australasia, any tree of the genus <gen>Acacia</gen>; -- so called from the <xex>wattles</xex>, or hurdles, which the early settlers made of the long, pliable branches or of the split stems of the slender species.  The bark of such trees is also called <ex>wattle</ex>.  See also <cref>Savanna wattle</cref>, under <er>Savanna</er>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Wattle turkey</b></col>. <fld>(Zool.)</fld> <cd>Same as <er>Brush turkey</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -8110,7 +8110,7 @@ Could not be <qex>wedged</qex> in more.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Wedge-formed characters</b></col>, <col><b>Wedge-shaped characters</b></col></mcol>. <cd>See <cref>Arrow-headed characters</cref>, under <er>Arrowheaded</er>, and cf. <er>cuneiform</er>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>wedge gage</ent><br/
 <ent>wedge gauge</ent><br/
@@ -8347,7 +8347,7 @@ Crouched fawning in the <qex>weed</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Week-end</ent><br/
 <hw>Week"-end"</hw>, <pos>n.</pos> <def>The end of the week, usually comprising the period from Friday evening to Monday morning, observed commonly as a period of respite from work or school; <as>as, to visit one for a <ex>week-end</ex></as>; also, a house party during a week-end.  Contrasted to <contr>work days</contr>.</def> <note>Where work days continue throught Saturday morning, the <ex>weekend</ex> starts on Saturday at noon.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Weekly</ent><br/
 <hw>Week"ly</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to a week, or week days; <as>as, <ex>weekly</ex> labor</as>.</def><br/
@@ -9752,7 +9752,7 @@ My most sweet <qex>wench</qex>, and gifts to boot.</q> <rj><qau>Chapman.</qau></
 
 <p><ent>Wenchless</ent><br/
 <hw>Wench"less</hw>, <pos>a.</pos> <def>Being without a wench.</def>  <rj><au>Shak.</au></rj> <ldquo/Mr. Clinton, <ex>wenchless</ex> of late, has sublimated with public apologies.<rdquo/<br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Wend</ent><br/
 <hw>Wend</hw> <pr>(w<ecr/nd)</pr>, <mark>obs.</mark> <def><pos>p. p.</pos> of <er>Wene</er>.</def>  <rj><au>Chaucer.</au></rj><br/
@@ -10458,7 +10458,7 @@ Or <qex>wet</qex> the thirsty earth with falling showers.</q> <rj><qau>Milton.</
 <p><ent>Whopper</ent><br/
 <ent>Whapper</ent><br/
 <mhw>{ <hw>Whap"per</hw> <pr>(?)</pr>, <hw>Whop"per</hw>  }</mhw>, <pos>n.</pos> <ety>[See <er>Whap</er>.]</ety> <def>Something uncommonly large of the kind; something astonishing; -- applied especially to a bold lie.  Now (1998) usually spelled <asp>whopper</asp>.</def>  <mark>[Colloq.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Whopping</ent><br/
 <ent>Whapping</ent><br/
@@ -13109,7 +13109,7 @@ Takes off thy dukedom; thou art but an earl.</q> <rj><qau>J. Fletcher.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Whispering gallery</b></col>, <it>or</it> <col><b>Whispering dome</b></col></mcol>, <cd>one of such a form that sounds produced in certain parts of it are concentrated by reflection from the walls to another part, so that whispers or feeble sounds are audible at a much greater distance than under ordinary circumstances.  The dome of the U. S. capitol building is one example.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Whisperingly</ent><br/
 <hw>Whis"per*ing*ly</hw>, <pos>adv.</pos> <def>In a whisper, or low voice; in a whispering manner; with whispers.</def>  <rj><au>Tennyson.</au></rj><br/
@@ -13603,7 +13603,7 @@ The <qex>whiteness</qex> of his soul, and thus men o'er him wept.</q> <rj><qau>B
 
 <p><ent>White person</ent><br/
 <hw>White person</hw>. <def>A person of the Caucasian race (<au>6 Fed. Rep. 256</au>).</def> <note>In the time of slavery in the United States <ex>white person</ex> was generally construed as a person without admixture of colored blood. In various statutes and decisions in different States since 1865 <xex>white person</xex> is construed as in effect (as of 1913): one not having any negro blood (Ark., Okla.); one having less than one eighth of negro blood (Ala., Fla., Ga., Ind., Ky., Md., Minn., Miss., Mo., N.C., S.C., Tenn., Tex.); one having less than one fourth (Mich., Neb., Ore., Va.); one having less than one half (Ohio).  Since the passage of civil rights legislation in the 1960's and 1970's, the term has little legal significance -- for some purposes, as in filling out questionnaires, a person's race is whatever the person claims it to be.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>White noise</ent><br/
 <hw>White noise</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a mixture or random noise sounds extending over the entire audible frequency spectrum with approximately equal intensity at all frequencies.  It is used in certain experiments, as in psychology, to prevent subjects from hearing meaningful sounds.</def><br/
@@ -16817,7 +16817,7 @@ But fancy turns its point to him.</q> <rj><qau>Moore.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>To cut off the wings of or to wound in the wing; to disable a wing of; <as>as, to <ex>wing</ex> a bird</as>; also, <mark>[fig.]</mark> to wound the arm of a person.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>To wing a flight</b></col>, <cd>to exert the power of flying; to fly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -17324,7 +17324,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> Chiefly in <pluf>pl.</pluf> <def>The system of wires used to operate the puppets in a puppet show;</def> <specif>hence</specif> <fld>(Chiefly Political Slang)</fld>, <def>the network of hidden influences controlling the action of a person or organization; <as>as, to pull the <ex>wires</ex> for office</as>; -- in this sense, synonymous with <altname>strings</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn>  <def>One who picks women's pockets.</def> <mark>[Thieves' Slang]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -17406,7 +17406,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj><br/
 
 <p><ent>Wireless</ent><br/
 <hw>Wire"less</hw>, <pos>a.</pos> <def>Having no wire;</def> <specif>specif.</specif> <fld>(Elec.)</fld>, <def>designating, or pertaining to, a method of telegraphy, telephony, or other information transmisssion, in which the messages, data, etc., are transmitted through space by electric waves; <as>as, a <ex>wireless</ex> message</as>;  a <ex>wireless</ex> network; a <ex>wireless</ex> keyboard.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><cs>-- <mcol><col><b>Wireless telegraphy</b></col> <it>or</it> <col><b>Wireless telegraph</b></col></mcol> <fld>(Elec.)</fld>, <cd>any system of telegraphy employing no connecting wire or wires between the transmitting and receiving stations.</cd> <note>Although more or less successful researchers were made on the subject by <person>Joseph Henry</person>, <person>Hertz</person>, <person>Oliver Lodge</person>, and others, the first commercially successful system was that of <person>Guglielmo Marconi</person>, patented in March, 1897. Marconi employed electric waves of high frequency set up by an induction coil in an oscillator, these waves being launched into space through a lofty antenna. The receiving apparatus consisted of another antenna in circuit with a coherer and  small battery for operating through a relay the ordinary telegraphic receiver. This apparatus contains the essential features of all the systems now in use.</note> -- <col><b>Wireless telephone</b></col>, <cd>an apparatus or contrivance for wireless telephony.</cd> -- <col><b>Wireless telephony</b></col>, <cd>telephony without wires, usually employing electric waves of high frequency emitted from an oscillator or generator, as in wireless telegraphy. A telephone transmitter causes fluctuations in these waves, it being the fluctuations only which affect the receiver.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -17468,7 +17468,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>The wires or conductors employed in any system in which electric voltages or current are transmitted between components.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Wiry</ent><br/
 <hw>Wir"y</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>wiery</ets>.]</ety><br/
@@ -19206,7 +19206,7 @@ More softly round the open <qex>wold</qex>.</q> <rj><qau>Tennyson.</qau></rj><br
 
 <p><ent>Wollaston's doublet</ent><br/
 <hw>Wol"las*ton's dou"blet</hw> <pr>(?)</pr>. <ety>[After <person>W. H. <etsep>Wollaston</etsep></person>, English physicist.]</ety> <fld>(Optics)</fld> <def>A magnifying glass consisting of two plano-convex lenses. It is designed to correct spherical aberration and chromatic dispersion.</def> <note>Under "wollastonite" the eponymous inventor is described as a chemist.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Wolle</ent><br/
 <hw>Wolle</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Wool.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -19215,7 +19215,7 @@ More softly round the open <qex>wold</qex>.</q> <rj><qau>Tennyson.</qau></rj><br
 <p><ent>Wolverine</ent><br/
 <ent>Wolverene</ent><br/
 <mhw>{ <hw>Wol`ver*ene"</hw>, <hw>Wol`ver*ine"</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Wolf</er>, with a dim suffix; prob. so called from its supposed wolfish qualities.]</ety> <sn>1.</sn> <fld>(Zool.)</fld>  <def>A carnivorous mammal (<spn>Gulo gulo</spn> formerly <spn>Gulo luscus</spn>), of the weasel family <fam>Mustelidae</fam>, about the size of a large badger; called also <altname>glutton</altname> and <altname>carcajou</altname>. It is a native of the northern parts of America, Europe, and Asia.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A nickname for an inhabitant of Michigan.</def>  <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -19355,7 +19355,7 @@ Came out of her pitying <qex>womanhood</qex>.</q> <rj><qau>Tennyson.</qau></rj><
 
 <p><ent>Woman's Christian Temperance Union</ent><br/
 <hw>Woman's Christian Temperance Union</hw>. <def>An association of women formed in the United States in 1874, for the advancement of temperance by organizing preventive, educational, evangelistic, social, and legal work.  It is also known as the <altname>Women's Christian Temperance Union</altname> and by its acronym <altname>WCTU</altname> or <altname>W.C.T.U.</altname>.  It was one of the political forces leading to passage of the constitutional amendment, later repealed, which prohibited the sale of alcoholic beverages.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Womb</ent><br/
 <hw>Womb</hw> <pr>(w<oomac/m)</pr>, <pos>n.</pos> <ety>[OE. <ets>wombe</ets>, <ets>wambe</ets>, AS. <ets>wamb</ets>, <ets>womb</ets>; akin to D. <ets>wam</ets> belly, OS. & OHG. <ets>wamba</ets>, G. <ets>wamme</ets>, <ets>wampe</ets>, Icel. <ets>v<oum/mb</ets>, Sw. <ets>v<aring/mb</ets>, Dan. <ets>vom</ets>, Goth. <ets>wamba</ets>.]</ety> <sn>1.</sn> <def>The belly; the abdomen.</def>  <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -23414,7 +23414,7 @@ If the dear host's neck were <qex>wried</qex>.</q> <rj><qau>R. Browning.</qau></
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>Any one of several species of Old World birds of the genus <gen>Jynx</gen> or subfamily <fam>Jynginae</fam>, allied to the woodpeckers; especially, the common European species (<spn>Jynx torguilla</spn>); -- so called from its habit of turning the neck around in different directions. Called also <altname>cuckoo's mate</altname>, <altname>snakebird</altname>, <altname>summer bird</altname>, <altname>tonguebird</altname>, and <altname>writheneck</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Wrynecked</ent><br/
 <hw>Wry"necked`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a distorted neck; having the deformity called <er>wryneck{1}</er>.</def><br/

@@ -100,7 +100,7 @@ But has one <qex>vacant</qex> chair.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Not filled or occupied by an incumbent, possessor, or officer; unoccupied; <as>as, a <ex>vacant</ex> throne; a <ex>vacant</ex> house; a <ex>vacant</ex> apartment; a <ex>vacant</ex> parish</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Special dignities which <qex>vacant</qex> lie<br/
 For thy best use and wearing.</q> <rj><qau>Shak.</qau></rj><br/
@@ -169,7 +169,7 @@ In <qex>vacant</qex> or in pensive mood.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <def>A period of intermission of regular paid work or employment, or of studies and exercises at an educational institution; the time during which a person temporarily ceases regular duties of any kind and performs other activites, usually some form of liesure; holidays; recess (at a school); <as>as, the spring <ex>vacation</ex>; to spend one's <ex>vacation</ex> travelling; to paint the house while on <ex>vacation</ex></as>.  <ex>Vacation</ex> is typically used for rest, travel, or recreation, but may be used for any purpose.  In Britain this sense of <ex>vacation</ex> is usually referred to as <altname>holiday</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sd>(c)</sd> <def>The time when an office is vacant;</def> <specif>esp.</specif> <fld>(Eccl.)</fld>, <def>the time when a see, or other spiritual dignity, is vacant.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -192,7 +192,7 @@ In <qex>vacant</qex> or in pensive mood.</q> <rj><qau>Wordsworth.</qau></rj><br/
 
 <p><ent>Vaccinate</ent><br/
 <hw>Vac"ci*nate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Vaccinated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Vaccinating</conjf>.]</vmorph> <ety>[See <er>Vaccine</er>.]</ety> <def>To inoculate with the cowpox by means of a virus, called <xex>vaccine</xex>, taken either directly or indirectly from cows; now, generally, to administer (by injection or otherwise) any vaccine with the objective of rendering the recipient immune to an infectious disease.  One who has been thus immunized by vaccination is said to be <col>vaccinated against</col> a particular disease.  One may be thus immunized (vaccinated) also by oral ingestion or inhalation of a vaccine.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vaccination</ent><br/
 <hw>Vac`ci*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act, art, or practice of vaccinating, or inoculating with the cowpox, in order to prevent or mitigate an attack of smallpox.  Cf. <er>Inoculation</er>.</def><br/
@@ -1158,7 +1158,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Valkyria</ent><br/
 <hw>Val*kyr"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Icel. <ets>valkyrja</ets> (akin to AS. <ets>w<ae/lcyrie</ets>); <ets>valr</ets> the slain + <ets>kj<omac/sa</ets> to choose. See <er>Valhalla</er>, and <er>Choose</er>.]</ety> <fld>(Scand. Myth.)</fld> <def>One of the maidens of Odin, represented as awful and beautiful, who presided over battle and marked out those who were to be slain, and who also ministered at the feasts of heroes in Valhalla.  Now commonly written <altname>Valkyrie</altname>.</def> <altsp>[Written also <asp>Valkyr</asp>, <asp>Valkyrie</asp>, <asp>Walkyrie</asp> and <asp>Walkyr</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Valkyrian</ent><br/
 <hw>Val*kyr"i*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to the Valkyries; hence, relating to battle.</def> <ldquo/Ourself have often tried <xex>Valkyrian</xex> hymns.<rdquo/  <rj><au>Tennyson.</au></rj><br/
@@ -1558,11 +1558,11 @@ Repassed.</q> <rj><qau>Pope.</qau></rj><br/
 
 <p><ent>vamoose</ent><br/
 <hw>va*moose"</hw> <pr>(v<acr/*m<oomac/s")</pr>, <pos>v. i. & t.</pos> <ety>[Sp. <ets>vamos</ets> let us go.]</ety> <def>To depart quickly; to depart from.</def> <altsp>[Written also <asp>vamos</asp>, and <asp>vamose</asp>.]</altsp> <mark>[Slang, Eng. & U. S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>vamose</ent><br/
 <hw>va*mose"</hw> <pr>(v<adot/*m<omac/s")</pr>, <pos>v. i. & t.</pos> <ety>[Sp. <ets>vamos</ets> let us go.]</ety> <def>To vamoose; -- an older spelling and pronunciation variant.</def> <altsp>[Written also <asp>vamos</asp>, and <asp>vamoose</asp>.]</altsp> <mark>[Slang, Eng. & U. S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vamp</ent><br/
 <hw>Vamp</hw> <pr>(v<acr/mp)</pr>, <pos>v. i.</pos> <def>To advance; to travel.</def> <mark>[Obs.]</mark><br/
@@ -1722,7 +1722,7 @@ His <qex>vans</qex> no longer could his flight sustain.</q> <rj><qau>Dryden.</qa
 
 <p><ent>Vanadium</ent><br/
 <hw>Va*na"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Icel. <ets>Vanad<imac/s</ets>, a surname of the Scandinavian goddess Freya.]</ety> <fld>(Chem.)</fld> <def>A rare element of the nitrogen-phosphorus group, found combined, in vanadates, in certain minerals, and reduced as an infusible, grayish-white metallic powder. It is intermediate between the metals and the non-metals, having both basic and acid properties. Symbol V (or Vd, rarely). Atomic weight 50.94 (C12=12.000).</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vanadium bronze</ent><br/
 <hw>Va*na"di*um bronze`</hw> <pr>(?)</pr>. <fld>(Chem.)</fld> <def>A yellow pigment consisting of a compound of vanadium.</def><br/
@@ -1730,7 +1730,7 @@ His <qex>vans</qex> no longer could his flight sustain.</q> <rj><qau>Dryden.</qa
 
 <p><ent>Vanadous</ent><br/
 <hw>Van"a*dous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Of or pertaining to vanadium; obtained from vanadium; -- said of an acid containing one equivalent of vanadium and two of oxygen; specifically, designating those compounds in which vanadium has a lower valence as contrasted with the <contr>vanadic</contr> compounds; <as>as, <ex>vanadous</ex> acid</as></def> <altsp>[Sometimes written also <asp>vanadious</asp>.]</altsp>.<br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vanadyl</ent><br/
 <hw>Van"a*dyl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Vanad</ets>ium + <ets>-yl</ets>.]</ety> <fld>(Chem.)</fld> <def>The hypothetical radical <chform>VO</chform>, regarded as a characteristic residue of certain vanadium compounds.</def><br/
@@ -2298,7 +2298,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><ent>Vapor tension</ent><br/
 <ent>Vapor pressure</ent><br/
 <mhw>{ <hw>Vapor pressure</hw> <it>or</it> <hw>Vapor tension</hw>  }</mhw>. <fld>(Physics)</fld> <def>The pressure or tension of a confined body of vapor of a chemical substance in equilibrium with the solid or liquid form of the substance.  The pressure of a given saturated vapor is a function of the temperature only, and may be measured by introducing a small quantity of the substance into a barometer and noting the depression of the column of mercury.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vapory</ent><br/
 <hw>Va"por*y</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Full of vapors; vaporous.</def><br/
@@ -2614,7 +2614,7 @@ What changes, what <qex>diversities</qex>, have been!</q> <rj><qau>Blackmore.</q
 
 <p><ent>Variety show</ent><br/
 <hw>Variety show</hw>. <def>A stage entertainment, live or televised, of successive separate performances, usually songs, dances, acrobatic feats, dramatic sketches, exhibitions of trained animals, or any specialties. When performed live in a theater, it was often called a <altname>vaudeville show</altname>, but when television became a dominant form of entertainment live vaudeville performances almost completely ceased.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Variety store</ent><br/
 <hw>Variety store</hw>. <def>a retail store selling a wide variety of items, especially of low price, as in a <stype>five and ten</stype>.</def><br/
@@ -4161,7 +4161,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 
 <p><ent>Velocipedist</ent><br/
 <hw>Ve*loc"i*pe`dist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who rides on a velocipede; a cyclist.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Velocity</ent><br/
 <hw>Ve*loc"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Velocities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>velocitas</ets>, from <ets>velox</ets>, <ets>-ocis</ets>, swift, quick; perhaps akin to <ets>volare</ets> to fly (see <er>Volatile</er>): cf. F. <ets>v<eacute/locit<eacute/</ets>.]</ety><br/
@@ -6719,7 +6719,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><ent>Very night signals</ent><br/
 <ent>Very's night signals</ent><br/
 <mhw>{ <hw>Ver"y's night signals</hw>, <it>or</it>  <hw>Ver"y night signals</hw>  }</mhw> <pr>(?)</pr>. <ety>[After Lieut. <person>Samuel W. <etsep>Very</etsep></person>, who invented the system in 1877.]</ety> <fld>(Naut.)</fld> <def>A system of signaling in which balls of red and green fire are fired from a pistol, the arrangement in groups denoting numbers having a code significance.  The pistol used to fire the signal flare is called a <col><b>Very pistol</b></col>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vesbium</ent><br/
 <hw>Ves"bi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>Vesuvius</ets>, contr. <ets>Vesbius</ets>, Vesuvius.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of which little is known. It is said by Scacchi to have been extracted from a yellowish incrustation from the cracks of a Vesuvian lava erupted in 1631.</def> <note>It is not a recognized element.  Actual identity?</note><br/
@@ -7602,7 +7602,7 @@ Upon his harp, to deaden its <qex>vibrations</qex>.</q> <rj><qau>Longfellow.</qa
 
 <p><ent>Vibrator</ent><br/
 <hw>Vi"bra*tor</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One that vibrates, or causes vibration or oscillation of any kind;</def> <specif>specif.</specif> <sd>(a)</sd> <fld>(Elec.)</fld> (1) <def>A trembler, as of an electric bell.</def> (2) <def>A vibrating reed for transmitting or receiving pulsating currents in a harmonic telegraph system.</def> (3) <def>A device for vibrating the pen of a siphon recorder to diminish frictional resistance on the paper.</def> (4) <def>An oscillator.</def> <sd>(b)</sd> <def>An ink-distributing roller in a printing machine, having an additional vibratory motion.</def> <sd>(a)</sd> <fld>(Music)</fld> <def>A vibrating reed, esp. in a reed organ.</def> <sd>(d)</sd> <fld>(Weaving)</fld> <def>Any of various vibrating devices, as one for slackening the warp as a shed opens.</def> <sd>(e)</sd> <def>An attachment, usually pneumatic, in a molding machine to shake the pattern loose.</def>  <sd>(f)</sd> <def>a small electrical device held in the hand, with a motor that causes the device and hand to vibrate, and is used for vibratory massage.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vibratory</ent><br/
 <hw>Vi"bra*to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>vibratoire</ets>.]</ety> <def>Consisting in, or causing, vibration, or oscillation; vibrating; <as>as, a <ex>vibratory</ex> motion; a <ex>vibratory</ex> power</as>.</def><br/
@@ -9207,7 +9207,7 @@ As he was bid.</q> <rj><qau>B. Jonson.</qau></rj><br/
 
 <p><ent>Vingt et un</ent><br/
 \'d8<hw>Vingt` et` un"</hw> <pr>(?)</pr>. <ety>[F., twenty and one.]</ety> <def>A game at cards, played by two or more persons. The fortune of each player depends upon obtaining from the dealer such cards that the sum of their pips, or spots, is twenty-one, or a number near to it; -- also called <altname>blackjack</altname>, or <altname>twenty-one</altname>.</def> <note>There are several variations (such as <stype>Caribbean blackjack</stype>).  In the most common variation played in casinos, there is one dealer who plays for the house, and up to seven players.  The players and dealer each receive two cards, the dealer's cards usually being one face up and one face down.  The players each in turn decide whether they will request additional cards (<ldquo/hit<rdquo/), the objective being to reach a sum of card values as close as possible to twenty-one, without exceeding that number.  If, on hitting, the player's total card values exceed 21, he has <ldquo/busted<rdquo/, and lost his bet.  Otherwise, the player wins only if his total card values exceed those of the dealer.  <ldquo/picture cards<rdquo/ (or <ldquo/face cards<rdquo/, being the jack, queen, and king) are counted as having a value of ten.  The ace may count as one or eleven, at the player's option.  Other than to hit, there are also other possible actions by the player, such as to <ldquo/double down<rdquo/ (receive only one additional card, while doubling the initial bet), or to <ldquo/split<rdquo/ (if the first two cards have the same value).</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vingtun</ent><br/
 <hw>Vingt`un"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Contraction for <er>Vingt et un</er>.</def><br/
@@ -10149,13 +10149,13 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Virus</ent><br/
 <hw>Vi"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a slimy liquid, a poisonous liquid, poison, stench; akin to Gr. <?/ poison, Skr. <ets>visha</ets>.  Cf. <er>Wizen</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Contagious or poisonous matter, as of specific ulcers, the bite of snakes, etc.; -- applied to organic poisons.</def> <mark>[Archaic]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the causative agent of a disease, .</def> <mark>[obsolescent]</mark><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>any of numerous submicroscopic complex organic objects which have genetic material and may be considered as living organisms but have no proper cell membrane, and thus cannot by themselves perform metabolic processes, requiring entry into a host cell in order to multiply.  The simplest viruses have no lipid envelope and may be considered as complex aggregates of molecules, sometimes only a nucleic acid (DNA or RNA) and a coat protein.  They are sometimes viewed as being on the borderline between living and nonliving objects.  They are smaller than living cells in size, usually between 20 and 300 nm; thus they pass through standard filters, and were previously referred to as <altname>filterable virus</altname>.  The manifestations of disease caused by multiplication of viruses in cells may be due to destruction of the cells caused by subversion of the cellular metabolic processes by the virus, or by synthesis of a virus-specific toxin.  Viruses may infect animals, plants, or microorganisms; those infecting bacteria are also called <stype>bacteriophages</stype>.  Certain bacteriophages may be non-destructive and benign in the host; -- see <er>bacteriophage</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>Fig.: Any morbid corrupting quality in intellectual or moral conditions; something that poisons the mind or the soul; <as>as, the <ex>virus</ex> of obscene books</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -10285,7 +10285,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physics)</fld> <def>A property possessed by a viscous fluid, being a resistance to the forces causing a fluid to flow, caused by interactions between the molecules of the fluid and between the fluid and the walls of the conduit through which it moves; also, a measure of such a property.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Viscount</ent><br/
 <hw>Vis"count`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>vicounte</ets>, OF. <ets>visconte</ets>, <ets>vescunte</ets>, F. <ets>vicomte</ets>, LL. <ets>vicecomes</ets>; L. <ets>vice</ets> (see <er>Vice</er>, <pos>a.</pos>) + <ets>comes</ets> a companion, LL., a count.  See <er>Count</er>.]</ety> <sn>1.</sn> <fld>(O. Eng. Law)</fld> <def>An officer who formerly supplied the place of the count, or earl; the sheriff of the county.</def><br/
@@ -10656,7 +10656,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>to see in the imagination; to form a mental image of.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>No one who has not seen them [glaciers] can possibly <qex>visualize</qex> them.</q> <rj><qau>Lubbock.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -10765,12 +10765,12 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><ent>vitamin A1</ent><br/
 <hw>vitamin A1</hw> <pos>n.</pos>  <def>retinol (<chform>C20H30O</chform>), one of the substances also called <altname>vitamin A</altname>.  It is also called more specifically <altname>vitamin A alcohol</altname>.  It is a required factor for human nutrition.  The USP unit of activity is equal to 0.30 micrograms of retinol.</def><br/
 <syn><b>Syn. --</b> retinol.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>vitamin A2</ent><br/
 <hw>vitamin A2</hw> <pos>n.</pos>  <def>dehydroretinol (<chform>C20H28O</chform>), one of the substances also called <altname>vitamin A</altname>.  It has about 40% of the bioactivity of vitamin A1.</def><br/
 <syn><b>Syn. --</b> dehydroretinol.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>vitamin B</ent><br/
 <hw>vitamin B</hw> <pos>n.</pos>  <def>a group of water-soluble vitamins originally thought to be a single vitamin but now separated into several B vitamins.</def><br/
@@ -10845,18 +10845,18 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><ent>vitamin K</ent><br/
 <hw>vitamin K</hw> <pos>n.</pos> <fu>(1929)</fu> <ety>[from G. <ets>K</ets>oagulationsvitamin.]</ety> <def>either of two fat-soluble vitamins (vitamin K1 or vitamin K2) that help clot blood by participating in the fromation of prothrombin.</def>
 <syn><b>Syn. --</b> naphthoquinone.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>vitamin K1</ent><br/
 <hw>vitamin K1</hw> <pos>n.</pos> <def>one of the two K vitamins, (<chform>C31H46O2</chform>).  It is fat-soluble and occurs naturally as the <it>trans</it> isomer. Chemically it is <chname>2-methyl-3-phytyl-1,4,-naphthoquinone</chname>.</def><br/
 <syn><b>Syn. --</b> phylloquinone, phytonadione, antihemorrhagic vitamin.</syn>.<br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>vitamins K2</ent><br/
 <ent>vitamin K2</ent><br/
 <mhw><hw>vitamin K2</hw>, <hw>vitamins K2</hw></mhw> <pos>n.</pos> <def>one of the two K vitamins, actually a mixture of homologous fat-soluble substituted naphthoquinones (called <altname>menaquinones</altname>), (<chform>C11H7O2[C5H8]nH</chform>), where n may be 1 to 13 but is mostly 7 to 9.  The term is also used for synthetic compounds resembling vitamin K2 and having the same physiological action.  The individual components of vitamin K2 are also referred to by the number of isoprenyl units in the side chain (the number n in the formula), as for menadione, having no units at that position of the naphthaquinone ring, and also called vitamin K2(0) (and also called <er>vitamin K3</er>).</def> <au>[MI11]</au><br/
 <syn><b>Syn. --</b> menaquinones, antihemorrhagic vitamin.</syn>.<br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>vitamin K3</ent><br/
 <hw>vitamin K3</hw> <pos>n.</pos> <def>menadione, (<chform>C11H8O2</chform>) being chemically <chname>2-methyl-1,4,-naphthoquinone</chname>.  Having no side chain in the 3 position, it cannot exert all functions of a true K vitamin and the designation as vitamin K3 has been discouraged</def> <au>[MI11]</au><br/
@@ -12937,7 +12937,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Vortex atom</b></col> <fld>(Chem.)</fld>, <cd>a hypothetical ring-shaped mass of elementary matter in continuous vortical motion. It was conveniently regarded in certain early mathematical models as the typical form and structure of the chemical atom, but is no longer considered a useful model, having been superseded by quantum mechanics.</cd> -- <col><b>Vortex wheel</b></col>, <cd>a kind of turbine.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vortex filament</ent><br/
 <hw>Vor"tex fil"a*ment</hw>. <def>A vortex tube of infinitesimal cross section.</def><br/
@@ -12957,7 +12957,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 
 <p><ent>Vortex theory</ent><br/
 <hw>Vortex theory</hw>. <fld>(Chem. & Physics)</fld> <def>The theory, advanced by Thomson (Lord Kelvin) on the basis of investigation by Helmholtz, that the atoms are vortically moving ring-shaped masses (or masses of other forms having a similar internal motion) of a homogeneous, incompressible, frictionless fluid. Various properties of such atoms (<col><b>vortex atoms</b></col>) can be mathematically deduced.  This theory is now (1998) obsolete, and has been superseded by quantum mechanics, which provides more accurate and detailed explanations of atomic behavior.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vortex tube</ent><br/
 <hw>Vortex tube</hw>. <fld>(Physics)</fld> <def>An imaginary tube within a rotating fluid, formed by drawing the vortex lines through all points of a closed curve.</def><br/

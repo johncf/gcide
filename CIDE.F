@@ -375,7 +375,7 @@ This tempest, and deserve the name of king.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To face down</b></col>, <cd>to put down by bold or impudent opposition.</cd> <ldquo/He <xex>faced</xex> men <xex>down</xex>.<rdquo/ <au>Prior.</au> -- <col><b>To face (a thing) out</b></col>, <cd>to persist boldly or impudently in an assertion or in a line of conduct.</cd>  <ldquo/That thinks with oaths <xex>to face</xex> the matter <xex>out</xex>.<rdquo/ <au>Shak.</au> -- <col><b>to face the music</b></col> <cd>to admit error and accept reprimand or punishment as a consequence for having failed or having done something wrong; to willingly experience an unpleasant situation out of a sense of duty or obligation; <as>as, as soon as he broke the window with the football, Billy knew he would have to <ex>face the music</ex></as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Face</ent><br/
 <hw>Face</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To carry a false appearance; to play the hypocrite.</def> <ldquo/To lie, to <xex>face</xex>, to forge.<rdquo/  <rj><au>Spenser.</au></rj><br/
@@ -483,7 +483,7 @@ This tempest, and deserve the name of king.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><ent>face-to-face</ent><br/
 <hw>face-to-face</hw> <pos>adj.</pos> <sn>1.</sn> <def>without intervening persons; involving direct communication between persons in each other's presence; -- of conversation or confrontation; <as>as, <ex>face-to-face</ex> negotiations</as>.</def><br/
 <syn><b>Syn. --</b> person-to-person.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>having the front parts facing each other.</def><br/
 [<source>PJC</source>]</p>
@@ -581,7 +581,7 @@ Lost Paradise, deceived by me.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>facilitated</ent><br/
 <hw>facilitated</hw> <pos>adj.</pos> <def>freed from difficulty or impediment.  Contrasted with <ant>delayed</ant>.</def><br/
 <syn><b>Syn. --</b> expedited.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Facilitation</ent><br/
 <hw>Fa*cil`i*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of facilitating or making easy.</def><br/
@@ -808,7 +808,7 @@ That owes me for a hundred tun of wine.</q> <rj><qau>Marlowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>One of the elements, circumstances, or influences which contribute to produce a result; a constituent; a contributory cause.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The materal and dynamical <qex>factors</qex> of nutrition.</q> <rj><qau>H. Spencer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -836,7 +836,7 @@ That owes me for a hundred tun of wine.</q> <rj><qau>Marlowe.</qau></rj><br/
 <hw>Fac*to"ri*al</hw>, <pos>n.</pos> <fld>(Math.)</fld> <sd>(a)</sd> <pluf>pl.</pluf> <def>A name given to the factors of a continued product when the former are derivable from one and the same function F(x) by successively imparting a constant increment or decrement <xex>h</xex> to the independent variable. Thus the product <mathex>F(x).F(x + h).F(x + 2h) . . . F[x + (n-1)h]</mathex> is called a <xex>factorial term</xex>, and its several factors take the name of <xex>factorials</xex>.</def>  <rj><au>Brande & C.</au></rj></p>
 
 <p><sd>(b)</sd> <def>The product of the consecutive whole numbers from unity up to any given number; <as>thus, 5 <ex>factorial</ex> is the product of 5 times four times three times two times one, or 120</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Factoring</ent><br/
 <hw>Fac"tor*ing</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Math.)</fld> <def>The act of resolving into factors.</def><br/
@@ -1207,7 +1207,7 @@ Made a dim silver twilight.</q> <rj><qau>Keats.</qau></rj><br/
 <p><ent>faggot</ent><br/
 <hw>fag"got</hw> <pr>(f<acr/g"<ucr/t)</pr>, <pos>n.</pos> <ety>[perh. from <ets>fagot{5}</ets>, a shriveled old woman.]</ety> <def>a male homosexual; -- always used disparagingly and considered offensive.</def> <mark>[Slang, disparaging]</mark> <br/
 <syn><b>Syn. --</b> fagot, fag, fairy, pansy, queer, poof, poove, pouf.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>a bundle of sticks and branches bound together; -- same as <er>fagot{1}</er>.</def><br/
 <syn><b>Syn. --</b> fagot.</syn><br/
@@ -1216,7 +1216,7 @@ Made a dim silver twilight.</q> <rj><qau>Keats.</qau></rj><br/
 <p><ent>Fagopyrum</ent><br/
 <hw>Fagopyrum</hw> <pos>prop. n.</pos> <def>a genus of plants of the buckwheat family, including the buckwheat <spn>Fagopyrum esculentum</spn>; in some classifications included in the genus <gen>Polygonum</gen>.</def><br/
 <syn><b>Syn. --</b> genus <gen>Fagopyrum</gen>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>fagot</ent><br/
 <hw>fag"ot</hw> <pr>(f<acr/g"<ucr/t)</pr> <pos>n.</pos> <ety>[F., prob. aug. of L. <ets>fax</ets>, <ets>facis</ets>, torch, perh. orig., a bundle of sticks; cf. Gr. <grk>fa`kelos</grk> bundle, fagot.  Cf. <er>Fagotto</er>.]</ety> <sn>1.</sn> <def>A bundle of sticks, twigs, or small branches of trees, used for fuel, for raising batteries, filling ditches, or other purposes in fortification; a fascine.</def>  <rj><au>Shak.</au></rj><br/
@@ -1276,7 +1276,7 @@ Made a dim silver twilight.</q> <rj><qau>Keats.</qau></rj><br/
 <p><ent>Faience</ent><br/
 <ent>faience</ent><br/
 <mhw><hw>faience</hw>, \'d8<hw>Fa`<ium/*ence"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <etsep>Faenza</etsep>, a town in Italy, the original place of manufacture.]</ety> <def>Glazed earthenware; esp., a fine variety that which is decorated with colorful designs in an opaque glaze.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fail</ent><br/
 <hw>Fail</hw> <pr>(f<amac/l)</pr> <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Failed</conjf> <pr>(f<amac/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Failing</conjf>.]</vmorph> <ety>[F. <ets>failir</ets>, fr. L. <ets>fallere</ets>, <ets>falsum</ets>, to deceive, akin to E. <ets>fall</ets>. See <er>Fail</er>, and cf. <er>Fallacy</er>, <er>False</er>, <er>Fault</er>.]</ety> <sn>1.</sn> <def>To be wanting; to fall short; to be or become deficient in any measure or degree up to total absence; to cease to be furnished in the usual or expected manner, or to be altogether cut off from supply; to be lacking; <as>as, streams <ex>fail</ex>; crops <ex>fail</ex>.</as></def><br/
@@ -1678,12 +1678,12 @@ Anyplace but there.</q> <rj><qau>Song (1904: words by Andrew B. Sterling, music 
 
 <p><ent>fair and square</ent><br/
 <hw>fair and square</hw> <pos>adv.</pos> <def>justly; honestly; equitably; impartially.  Opposite of <ant>unfairly</ant>.</def>  <mark>[Colloq.]</mark><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>fair-and-square</ent><br/
 <hw>fair-and-square</hw> <pos>adj.</pos> <def>fair and honest; just.  Opposite of <ant>unfair</ant>.</def>  <mark>[Colloq.]</mark><br/
 <syn><b>Syn. --</b> honest.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fair catch</ent><br/
 <hw>Fair catch</hw>. <fld>(Football)</fld> <def>A catch made by a player on side who makes a prescribed signal that he will not attempt to advance the ball when caught. He must not then be interfered with.</def><br/
@@ -1703,7 +1703,7 @@ Anyplace but there.</q> <rj><qau>Song (1904: words by Andrew B. Sterling, music 
 
 <p><sn>2.</sn>  <def>favorite; considered especially talented or promising; <as>as, the <ex>fair-haired</ex> boy of the literary set</as>.</def> <mark>[prenominal]</mark> <mark>[informal]</mark><br/
 <syn><b>Syn. --</b> blue-eyed(prenominal), white-haired(prenominal), white-headed.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fairhood</ent><br/
 <hw>Fair"hood</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Fairness; beauty.</def> <mark>[Obs.]</mark>  <rj><au>Foxe.</au></rj><br/
@@ -1878,7 +1878,7 @@ Hath hurtful power over true virginity.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>That which is believed on any subject, whether in science, politics, or religion; especially <fld>(Theol.)</fld>, a system of religious belief of any kind; <as>as, the Jewish or Muslim <ex>faith</ex>; the Christian <ex>faith</ex></as>; also, the creed or belief of a Christian society or church.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Which to believe of her,<br/
 Must be a <qex>faith</qex> that reason without miracle<br/
@@ -2973,11 +2973,11 @@ As things acquainted and <qex>familiar</qex> to us.</q> <rj><qau>Shak.</qau></rj
 <p><ent>familiarized</ent><br/
 <hw>familiarized</hw> <pos>adj.</pos>  <def>having become familiar.</def><br/
 <syn><b>Syn. --</b> adjusted, acquainted.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>familiarizing</ent><br/
 <hw>familiarizing</hw> <pos>adj.</pos> <def>serving to familiarize.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Familiarly</ent><br/
 <hw>Fa"mil"iar*ly</hw>, <pos>adv.</pos> <def>In a familiar manner.</def><br/
@@ -4032,7 +4032,7 @@ Still forever <qex>fare</qex> thee <qex>well</qex>.</q> <rj><qau>Byron.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Studiously sought; not easily or naturally deduced or introduced; forced; strained; hence, implausible or improbable.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>far-flung</ent><br/
 <hw>far-flung</hw> <pos>adj.</pos> <def>widely spread or distributed; <as>as, the <ex>far-flung</ex> corners of the Empire</as>.</def><br/
@@ -4169,7 +4169,7 @@ Still forever <qex>fare</qex> thee <qex>well</qex>.</q> <rj><qau>Byron.</qau></r
 <p><ent>farmland</ent><br/
 <hw>farmland</hw> <pos>n.</pos> <def>a rural area where farming is practiced; land actually under cultivation or capable of supporting crops.</def><br/
 <syn><b>Syn. --</b> farming area.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Farmost</ent><br/
 <hw>Far"most`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Most distant; farthest.</def><br/
@@ -4810,7 +4810,7 @@ Into the wood <qex>fast by</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>fastbreak</ent><br/
 <hw>fast"break`</hw> <pos>n.</pos> <fld>(basketball)</fld> <def>a rapid dash to get a shot at one's own basket as soon as possible after taking possession of the ball; -- often occurring after the opposing team has shot at their basket.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fasten</ent><br/
 <hw>Fas"ten</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Fastened</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Fastening</conjf> <pr>(?)</pr>.]</vmorph> <ety>[AS. <ets>f<ae/stnian</ets>; akin to OHG. <ets>festin<omac/n</ets>. See <er>Fast</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>To fix firmly; to make fast; to secure, as by a knot, lock, bolt, etc.; <as>as, to <ex>fasten</ex> a chain to the feet; to <ex>fasten</ex> a door or window.</as></def><br/
@@ -5155,7 +5155,7 @@ That our devices still are overthrown.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>fat-free</ent><br/
 <hw>fat-free</hw> <pos>adj.</pos> <def>containing no fat; -- of foods.  Opposite of <ant>fat-containing</ant>.</def><br/
 <syn><b>Syn. --</b> fatless, nonfat.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fathead</ent><br/
 <hw>Fat"head`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A cyprinoid fish of the Mississippi valley (<spn>Pimephales promelas</spn>); -- called also <altname>black-headed minnow</altname>.</def> <sd>(b)</sd> <def>A labroid food fish of California; the redfish.</def><br/
@@ -5164,7 +5164,7 @@ That our devices still are overthrown.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>fatheaded</ent><br/
 <hw>fat"head`ed</hw> <pos>adj.</pos>  <def>same as <er>stupid</er>.  Opposite of <ant>smart</ant>.</def> <mark>[informal]</mark><br/
 <syn><b>Syn. --</b> blockheaded, boneheaded, loggerheaded, thick, thickheaded, thick-skulled, wooden-headed.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Father</ent><br/
 <hw>Fa"ther</hw> <pr>(f<aum/"<th/<etil/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>fader</ets>, AS. <ets>f<ae/der</ets>; akin to OS. <ets>fadar</ets>, D. <ets>vader</ets>, OHG. <ets>fatar</ets>, G. <ets>vater</ets>, Icel. <ets>fa<edh/ir</ets> Sw. & Dan. <ets>fader</ets>, OIr. <ets>athir</ets>, L. <ets>pater</ets>, Gr. <grk>path`r</grk>, Skr. <ets>pitr</ets>, perh. fr. Skr. <ets>p<amac/</ets> protect. <root/75, 247.  Cf. <er>Papa</er>, <er>Paternal</er>, <er>Patriot</er>, <er>Potential</er>, <er>Pablum</er>.]</ety> <sn>1.</sn> <def>One who has begotten a child, whether son or daughter; a generator; a male parent.</def><br/
@@ -5483,7 +5483,7 @@ To lead their business.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>fattened</ent><br/
 <hw>fattened</hw> <pos>adj.</pos> <def>fed until grown and ready for slaughter or for sale in the market; -- of market animals.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fattener</ent><br/
 <hw>Fat"ten*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who, or that which, fattens; that which gives fatness or fertility.</def><br/
@@ -5812,7 +5812,7 @@ So goodly and erect, though <qex>faulty</qex> since.</q> <rj><qau>Milton.</qau><
 
 <p><ent>faux pas</ent><br/
 \'d8<hw>faux` pas"</hw> <pr>(f<omac/` p<adot/")</pr>. <ety>[F. See <er>False</er>, and <er>Pas</er>.]</ety> <def>A false step; a mistake or wrong measure;</def> <specif>especially,</specif> <def>a slip or misstep in social etiquette; a blunder in conduct or manners that causes embarassment; <as>as, he committed the <ex>faux pas</ex> of mentioning John's former wife</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Favaginous</ent><br/
 <hw>Fa*vag"i*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>favus</ets> a honeycomb.]</ety> <def>Formed like, or resembling, a honeycomb.</def><br/
@@ -6165,7 +6165,7 @@ Or like a <qex>fawning</qex> parasite, obeyest.</q> <rj><qau>Milton.</qau></rj><
 
 <p><ent>faze</ent><br/
 <hw>faze</hw> <pr>(f<amac/z)</pr>, <pos>v. t.</pos> <def>To cause to become disconcerted or disturbed.  A variant form of <er>Feeze</er>.</def> <ldquo/The perpetual need to learn new software doesn't <ex>faze</ex> him.<rdquo/<br/
-[<source>1913 Webster</source> <source>+PJC</source> ]</p>
+[<source>1913 Webster</source> + <source>PJC</source> ]</p>
 
 <p><ent>fazzolet</ent><br/
 <hw>faz"zo*let`</hw> <pr>(f<acr/z"z<osl/*l<ecr/t`)</pr>, <pos>n.</pos> <ety>[It. <ets>fazzoletto</ets>.]</ety> <def>A handkerchief.</def> <mark>[R.]</mark>  <rj><au>Percival.</au></rj><br/
@@ -7187,7 +7187,7 @@ At <qex>feed</qex> or fountain never had I found.</q> <rj><qau>Milton.</qau></rj
 <ent>feedbag</ent><br/
 <mhw><hw>feedbag</hw>, <hw>feed bag</hw></mhw> <pos>n.</pos> <def>a canvas bag that is used to feed an animal (such as a horse or mule); animal feed such as oats are placed in the bag, and it is fastened at the top of the head, covering the muzzle.  The animal may then eat the contents while thus wearing the feedbag.</def><br/
 <syn><b>Syn. --</b> nosebag.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Feeder</ent><br/
 <hw>Feed"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, gives food or supplies nourishment; steward.</def><br/
@@ -7212,7 +7212,7 @@ At <qex>feed</qex> or fountain never had I found.</q> <rj><qau>Milton.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>A branch railroad, stage line, air route, or the like; a side line which increases the business of the main line.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <fld>(Mining)</fld> <sd>(a)</sd> <def>A small lateral lode falling into the main lode or mineral vein.</def> <au>Ure.</au> <sd>(b)</sd> <def>A strong discharge of gas from a fissure; a blower.</def> <au>Raymond.</au><br/
 [<source>1913 Webster</source>]</p>
@@ -7623,7 +7623,7 @@ In your dear highness' love.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Felis</ent><br/
 \'d8<hw>Fe"lis</hw> <pr>(f<emac/"l<icr/s)</pr>, <pos>prop. n.</pos> <ety>[L., cat.]</ety> <fld>(Zool.)</fld> <def>A genus of mostly small carnivorous mammals, including the domestic cat, puma, ocelot, and margay, which share the inability to roar due to bone structure in the larynx.  The lion, tiger, and other large roaring cats were once included in <gen>Felis</gen> but are now assigned to the genus <gen>Panthera</gen>.  The lynx (<spn>Felis lynx</spn>) is also called <spn>Lynx lynx</spn>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fell</ent><br/
 <hw>Fell</hw> <pr>(f<ecr/l)</pr>, <def><pos>imp.</pos> of <er>Fall</er>.</def><br/
@@ -8723,7 +8723,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Ferments are of two kinds: (<stype>a</stype>) Formed or organized ferments. (<stype>b</stype>) Unorganized or structureless ferments. The latter are now called <stype>enzymes</stype> and were formerly called <stype>soluble ferments</stype> or <stype>chemical ferments</stype>. Ferments of the first class are as a rule simple microscopic vegetable organisms, and the fermentations which they engender are due to their growth and development; as, the <stype>acetic ferment</stype>, the <stype>butyric ferment</stype>, etc. See <er>Fermentation</er>. Ferments of the second class, on the other hand, are chemical substances; as a rule they are proteins soluble in glycerin and precipitated by alcohol. In action they are catalytic and, mainly, hydrolytic. Good examples are pepsin of the dastric juice, ptyalin of the salvia, and disease of malt.  Before 1960 the term "ferment" to mean "enzyme" fell out of use.  Enzymes are now known to be <er>globular protein</er>s, capable of catalyzing a wide variety of chemical reactions, not merely hydrolytic.  The full set of enzymes causing production of ethyl alcohol from sugar has been identified and individually purified and studied.  See <er>enzyme</er>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Intestine motion; heat; tumult; agitation.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -8780,7 +8780,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Fermentation</ent><br/
 <hw>Fer`men*ta"tion</hw> <pr>(f<etil/r`m<ecr/n*t<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>fermentation</ets>.]</ety> <sn>1.</sn> <def>The process of undergoing an effervescent change, as by the action of yeast;</def> <specif>in a wider sense</specif> <fld>(Physiol. Chem.)</fld>, <def>the transformation of an organic substance into new compounds by the action of a <er>ferment{1}</er>, whether in the form of living organisms or enzymes. It differs in kind according to the nature of the ferment which causes it.</def>  <note>In industrial microbiology <ex>fermentation</ex> usually refers to the production of chemical substances by use of microorganisms.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A state of agitation or excitement, as of the intellect or the feelings.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -8872,7 +8872,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><ent>ferned</ent><br/
 <hw>ferned</hw> <pos>adj.</pos> <def>abounding in or covered with ferns.</def> [Narrower terms: <stype>braky </stype>] <ant>fernless</ant><br/
 <syn><b>Syn. --</b> ferny.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fernery</ent><br/
 <hw>Fern"er*y</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A place for rearing ferns.</def><br/
@@ -8885,7 +8885,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><ent>fernlike</ent><br/
 <hw>fernlike</hw> <pos>adj.</pos> <def>resembling ferns especially in leaf shape; <as>as, the <ex>fernlike</ex> shadows of locust leaves</as>.</def><br/
 <syn><b>Syn. --</b> ferny.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fernticle</ent><br/
 <hw>Fern"ti*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A freckle on the skin, resembling the seed of fern.</def> <mark>[Prov. Eng.]</mark><br/
@@ -8991,7 +8991,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Ferret</ent><br/
 <hw>Fer"ret</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>furet</ets>, cf. LL. <ets>furo</ets>; prob. fr. L. <ets>fur</ets> thief (cf. <er>Furtive</er>); cf. Arm. <ets>fur</ets> wise, sly.]</ety> <fld>(Zool.)</fld> <def>An animal of the Weasel family (<spn>Mustela furo</spn> syn. <spn>Putorius furo</spn>), about fourteen inches in length, of a pale yellow or white color, with red eyes.  It is a native of Africa, but has been domesticated in Europe.  Ferrets are used to drive rabbits and rats out of their holes.  They are sometimes kept as pets.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ferret</ent><br/
 <hw>Fer"ret</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ferreted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Ferreting</conjf>.]</vmorph> <ety>[Cf. F. <ets>fureter</ets>. See <er>Ferret</er>, <pos>n.</pos>]</ety> <def>To drive or hunt out of a lurking place, as a ferret does the cony; to search out by patient and sagacious efforts; -- often used with <ptcl>out</ptcl>; <as>as, to <ex>ferret</ex> out a secret</as>.</def><br/
@@ -9071,7 +9071,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Ferris wheel</ent><br/
 <hw>Fer"ris wheel</hw> <pr>(?)</pr>. <def>An amusement device consisting of a giant power-driven vertically oriented steel wheel, revolvable on its horizontal stationary axle, and carrying a number of balanced passenger cars or open seats around its rim; the seats are suspended so as to remain horizontal as the wheel rotates, and, depending on the size of the wheel, the passengers when they reach the top may have a grand vista of the surrounding area; -- so called after <person>G. W. G. Ferris</person>, American engineer, who erected the first of its kind for the World's Columbian Exposition in Chicago in 1893.</def> <note>Ferris wheels are often found at traveling fairs and at permanent amusement parks.  The <stype>Reisenrad</stype> in Vienna is one of the world's largest and most famous Ferris wheels.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Ferro-</ent><br/
 <hw>Fer"ro-</hw> <pr>(<?/)</pr>. <fld>(Chem.)</fld> <def>A prefix, or combining form, indicating <xex>ferrous iron</xex> as an ingredient; <as>as, <ex>ferro</ex>cyanide</as>.</def><br/
@@ -9083,7 +9083,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Ferro-concrete</ent><br/
 <hw>Fer"ro-con"crete</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Arch. & Engin.)</fld> <def>Concrete strengthened by a core or foundation skeleton of iron or steel bars, strips, etc. Floors, columns, piles, water pipes, etc., have been successfully made of it. Called also <altname>armored concrete steel</altname>, and most commonly <altname>reenforced concrete</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Ferrocyanate</ent><br/
 <hw>Fer`ro*cy"a*nate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ferro-</ets> + <ets>cyanate</ets>: cf. F. <ets>ferrocyanate</ets>.]</ety> <fld>(Chem.)</fld> <def>A salt of ferrocyanic acid; a ferrocyanide.</def><br/
@@ -9286,7 +9286,7 @@ More rich than other climes' <qex>fertility</qex>.</q> <rj><qau>Byron.</qau></rj
 <p><ent>fertilized</ent><br/
 <hw>fertilized</hw> <pos>adj.</pos> <sn>1.</sn> <def>united with a male gamete to begin the development of an individual embryo; -- of female gametes.</def><br/
 <syn><b>Syn. --</b> impregnated, inseminated.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>made more suitable for growth of crops by addition of fertilizer{2}; -- of soil.</def><br/
 <syn><b>Syn. --</b> enriched.</syn><br/
@@ -9902,7 +9902,7 @@ More than my shanks and wrists.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Fetwah</ent><br/
 \'d8<hw>Fet"wah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <def>A written decision of a Turkish mufti some point of law; also applied to opinions by certain other Islamic religious authorities on points of Islamic law, such as in Iran.</def> <altsp>[Also spelled <asp>fatwah</asp> and <asp>fatwa</asp>.]</altsp> <rj><au>Whitworth.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Feu</ent><br/
 <hw>Feu</hw> <pr>(f<umac/)</pr>, <pos>n.</pos> <ety>[See 2d <er>Feud</er>, and <er>Fee</er>.]</ety> <fld>(Scots Law)</fld> <def>A free and gratuitous right to lands made to one for service to be performed by him; a tenure where the vassal, in place of military services, makes a return in grain or in money.</def>  <rj><au>Burrill.</au></rj><br/
@@ -10178,11 +10178,11 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Fiance</ent><br/
 \'d8<hw>Fi`an`c<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A betrothed man; the man to whom one is betrothed.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fiancee</ent><br/
 \'d8<hw>Fi`an`c<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A betrothed woman; the woman to whom one is betrothed.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fiants</ent><br/
 <hw>Fi"ants</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>fiente</ets> dung.]</ety> <def>The dung of the fox, wolf, boar, or badger.</def><br/
@@ -10643,7 +10643,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <fld>(Naut.)</fld> <def>an ornament on a ship's bow, curved like the volute or scroll at the head of a violin.  Sometimes it serves the function of a <er>billhead</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fiddleneck</ent><br/
 <hw>fiddleneck</hw> <pos>n.</pos> <def>hairy annual plant (<spn>Phacelia tanacetifolia</spn>) of California to Mexico with crowded cymes of small blue to lilac or mauve flowers.</def><br/
@@ -10918,7 +10918,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj><br/
 <ent>field-test</ent><br/
 <mhw><hw>field-test</hw>, <hw>field test</hw></mhw> <pos>v. t.</pos> <def>to test something in the field, <it>i. e.</it> under the actual conditions under which it will be used; <as>as, The Army <ex>field-tested</ex> the new tanks</as>.  Used in contrast with testing in a laboratory or under controlled conditions.</def><br/
 <syn><b>Syn. --</b> field test.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fieldwork</ent><br/
 <hw>Field"work`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mil.)</fld> <def>Any temporary fortification thrown up by an army in the field; -- commonly in the plural.</def><br/
@@ -10991,7 +10991,7 @@ Is bent, all hell contains no fouler <qex>fiend</qex>.</q> <rj><qau>Pope.</qau><
 <p><ent>fierceness</ent><br/
 <hw>fierceness</hw> <pos>n.</pos> <def>the quality of being fierce; ferocity; fury; vehemence.</def><br/
 <syn><b>Syn. --</b> ferocity, furiousness, fury, vehemence, violence, wildness, strength.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fieri facias</ent><br/
 \'d8<hw>Fi"e*ri fa"ci*as</hw> <pr>(?)</pr>. <ety>[L., cause it to be done.]</ety> <fld>(Law)</fld> <def>A judicial writ that lies for one who has recovered in debt or damages, commanding the sheriff that he cause to be made of the goods, chattels, or real estate of the defendant, the sum claimed.</def>  <rj><au>Blackstone. Cowell.</au></rj><br/
@@ -11158,7 +11158,7 @@ Is bent, all hell contains no fouler <qex>fiend</qex>.</q> <rj><qau>Pope.</qau><
 <p><ent>fifty-fifty</ent><br/
 <hw>fifty-fifty</hw> <pos>adj.</pos> <def>equally large; -- of probabilities.</def><br/
 <syn><b>Syn. --</b> even.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>fifty-fifty</ent><br/
 <hw>fifty-fifty</hw> <pos>n.</pos> <def>a lottery in which the organizers retain fifty percent of the money wagered, and distribute fifty percent of the wagered money to the winner.</def><br/
@@ -11679,11 +11679,11 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Filaria</ent><br/
 <hw>Fi*la"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>filariae</plw>.</plu> <ety>[NL., fr. L. <ets>filum</ets> a thread.]</ety> <fld>(Zool.)</fld> <def>a small, slender nematode worm of the family <fam>Onchocercidae</fam> (<fam>Filariidae</fam>) of many species, parasitic when adult in various animals, including man.  They may live within the blood, or in other bodily fluids, or within tissues or cavities of the body.  Infection with such organisms may be transmitted by blood-sucking arthropods.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Filaria</ent><br/
 \'d8<hw>Fi*la"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>filum</ets> a thread.]</ety> <fld>(Zool.)</fld> <def>a former genus comprised of certain nematodes, now classed as belonging to several genera within the family <fam>Onchocercidae</fam>.   See <er>Onchocerca</er> and <er>Guinea worm</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Filarial</ent><br/
 <hw>Fi*la"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Zool. & Med.)</fld> <def>Of, pertaining to, or caused by, filari<ae/ and allied parasitic worms.</def><br/
@@ -11694,10 +11694,10 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Filariasis</ent><br/
 <hw>Fil`a*ri"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <sn>1.</sn> <fld>(Zool., Med.)</fld> <def>the presence of filariae within the body of an organism; infection with filariae. It is mostly found in tropical and subtropical regions.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>a disease caused by nematodes in the blood or tissues of the body causing blockage of lymphatic vessels.  Death of the adult worms may lead to inflammation and permanent fibrosis; the condition may lead to serious symptoms, such as elephantiasis or blindness.  See <er>river blindness</er></def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>filariid</ent><br/
 <hw>filariid</hw> <pos>adj.</pos> <def>of or pertaining to family <fam>Filariidae</fam>.</def><br/
@@ -11728,7 +11728,7 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In England <xex>filberts</xex> are usually large hazelnuts, especially the nuts from selected and cultivated trees.  The American hazelnuts are of two other species, <spn>Corylus Americana</spn> and <spn>Corylus cornuta</spn>, and are also sometimes called <ex>filberts</ex>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>The tree bearing the filbert; the hazelnut tree.</def><br/
 [<source>PJC</source>]</p>
@@ -12088,7 +12088,7 @@ Yet <qex>filed with</qex> my abilities.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>That which fills; filling; filler; specif., an embankment, as in railroad construction, to fill a hollow or ravine; also, the place which is to be filled.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Filled cheese</ent><br/
 <hw>Filled cheese</hw>. <def>An inferior kind of cheese made from skim milk with a fatty <ldquo/filling,<rdquo/ such as oleomargarine or lard, to replace the fat removed in the cream.</def><br/
@@ -12267,7 +12267,7 @@ Yet <qex>filed with</qex> my abilities.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>hence, any thin layer covering a surface.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A slender thread, as that of a cobweb.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -12374,7 +12374,7 @@ Yet <qex>filed with</qex> my abilities.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>filter-tipped</ent><br/
 <hw>filter-tipped</hw> <pos>adj.</pos> <def>having a tip designed to filter the smoke; -- of a cigarette or cigar; <as>as, <ex>filter-tipped</ex> cigarettes</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Filth</ent><br/
 <hw>Filth</hw> <pr>(f<icr/lth)</pr>, <pos>n.</pos> <ety>[OE. <ets>filthe</ets>, <ets>ful<edh/e</ets>, AS. <ets>f<ymac/l<edh/</ets>, fr. <ets>f<umac/l</ets> foul; akin to OHG. <ets>f<umac/lida</ets>. See <er>Foul</er>, and cf. <er>File</er>.]</ety> <sn>1.</sn> <def>Foul matter; anything that soils or defiles; dirt; nastiness.</def><br/
@@ -12696,14 +12696,14 @@ This paper, thus sealed up.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Finder</ent><br/
 <hw>Find"er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, finds;</def> <specif>specifically</specif> <fld>(Astron.)</fld>, <def>a small telescope of low power and large field of view, attached to a larger telescope, for the purpose of finding an object more readily, called also a <altname>finder telescope</altname> or <altname>finder scope</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Micros.)</fld> <def>A slide ruled in squares, so as to assist in locating particular points in the field of vision.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Fin de siecle</ent><br/
 \'d8<hw>Fin` de si<egrave/"cle</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>Lit., end of the century; -- mostly used adjectively in English to signify: belonging to, or characteristic of, the close of the 19th century.  At that time the phrase was also intended to imply <ldquo/modern<rdquo/ or <ldquo/up-to-date;<rdquo/ <as>as, <ex>fin-de-si<egrave/cle</ex> ideas</as>.</def> <note>As the twentieth century comes to a close, the meaning may change.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Findfault</ent><br/
 <hw>Find"fault`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A censurer or caviler.</def> <mark>[Obs.]</mark><br/
@@ -13084,7 +13084,7 @@ You would be <qex>fingering</qex> them to anger me.</q> <rj><qau>Shak.</qau></rj
 <p><ent>finger cot</ent><br/
 <hw>finger cot</hw> <pos>n.</pos> <def>a close-fitting sheath worn at the end of a finger, for protection of the finger or to avoid soiling the object touched.</def><br/
 <syn><b>Syn. --</b> fingerstall, cot{3}.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fingered</ent><br/
 <hw>Fin"gered</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having fingers.</def><br/
@@ -13156,7 +13156,7 @@ You would be <qex>fingering</qex> them to anger me.</q> <rj><qau>Shak.</qau></rj
 
 <p><ent>fingerprint</ent><br/
 <hw>fin"ger*print</hw> <pos>v. t.</pos> <def>to take an impression of the fingerprints of (a person); <as>as, to <ex>fingerprint</ex> applicants for a gun permit</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>fingerprinting</ent><br/
 <hw>fingerprinting</hw> <pos>n.</pos> <def>The procedure of taking inked impressions of a person's fingerprints.</def><br/
@@ -13549,7 +13549,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>To fire up</b></col>, <sn>1.</sn> <cd>to light up the fires of, as of an engine;</cd> <specif>also,</specif> <mark>figuratively</mark>, <cd>to start up any machine.</cd> -- <sn>2.</sn> <cd>to render enthusiastic; -- of people.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fire</ent><br/
 <hw>Fire</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To take fire; to be kindled; to kindle.</def><br/
@@ -13582,7 +13582,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A rare phenomenon often associated with or caused by lightning, resembling a luminous ball of fire passing rapidly through the air or along solid objects, then disappearing, and sometimes exploding.  It seldom lasts more than a few seconds.  Also called <altname>ball lightning</altname>, <altname>globe lightning</altname>, <altname>globular lightning</altname>, or <altname>kugelblitz</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A large mass of fire caused by a large explosion, as of inflammable liquids or a nuclear device.  The larger <ex>fireballs</ex>, as of nuclear explosions, rise seemingly intact into the air and may reach high altitudes while still glowing.</def><br/
 [<source>PJC</source>]</p>
@@ -13650,7 +13650,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>firecracker</ent><br/
 <hw>fire"crack`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A small explosive device consisting of a paper or cardboard cylinder having only sufficient explosive mixture to make a loud bang, ignited by a short fuse, and used mostly as an entertainment or in celebrations. Same as  <er>Cracker</er>., <pos>n.</pos>, 3.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Firecrest</ent><br/
 <hw>Fire"crest`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small European kinglet (<spn>Regulus ignicapillus</spn>), having a bright red crest; -- called also <altname>fire-crested wren</altname>.</def><br/
@@ -13658,7 +13658,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>firedamp</ent><br/
 <hw>firedamp</hw> <pos>n.</pos> <def>a mixture of gases (mostly methane) that forms in coal mines and becomes explosive when mixed with air.  It is a source of serious hazard in coal mining operations.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Firedog</ent><br/
 <hw>Fire"dog`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A support for wood in a fireplace; an andiron.</def><br/
@@ -13700,7 +13700,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The common American species belong to the genera <gen>Photinus</gen> (especially <spn>Photinus pyralis</spn>) and <gen>Photuris</gen>, in which both sexes are winged. The name is also applied to luminous species of <fam>Elaterid<ae/</fam>. See <er>Fire beetle</er>.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Firefly luciferin</ent><br/
 <hw>Fire"fly` lu*cif"er*in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Biochem.)</fld> <def>a type of <er>luciferin</er> produced by the firefly <spn>Photinus pyralis</spn>.</def> <note>Its structure has been elucidated, and chemically it is recognized as <chname>4,5-Dihydro-2-(6-hydroxy-2-benzothiazol-2-yl)-4-thiazolecarboxylic acid</chname>, <chform>C11H8N3O2S2</chform>.  It has found use in a very sensitive assay for ATP, in which concentrations of ATP as low as 10<exp>-11</exp> molar can be detected.  <au>[MI11]</au></note><br/
@@ -13714,7 +13714,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>fire hydrant</ent><br/
 <hw>fire hydrant</hw> <pos>n.</pos> <def>an upright hydrant that can supply large volumes of water to use in fighting a fire.  They are commonly placed at intervals at the street edge of a sidewalk, spaced for convenience in suppressing fires in towns.</def><br/
 <syn><b>Syn. --</b> fireplug, plug.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fireless</ent><br/
 <hw>Fire"less</hw>, <pos>a.</pos> <def>Destitute of fire.</def><br/
@@ -13753,7 +13753,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>fireplug</ent><br/
 <hw>fireplug</hw> <pos>n.</pos> <def>an upright hydrant that can supply large volumes of water to use in fighting a fire.  They are commonly placed at intervals at the street edge of a sidewalk for convenience in suppressing fires in towns.</def><br/
 <syn><b>Syn. --</b> fire hydrant, plug.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>firepower</ent><br/
 <hw>firepower</hw> <pos>n.</pos> <sn>1.</sn> <fld>(military)</fld> <def>The relative capacity for delivering weapons fire on a target; <as>as, the battleship has more <ex>firepower</ex> than a cruiser</as>.</def><br/
@@ -13854,7 +13854,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>fire"work`</hw> <pr>(f<imac/r"w<ucir/rk`)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A device for producing a striking display of light, or a figure or figures in plain or colored fire, by the combustion of materials that burn in some peculiar manner, as gunpowder, sulphur, metallic filings, and various salts; also called a <altname>pyrotechnic device</altname>.  The most common feature of fireworks is a paper or pasteboard tube filled with the combustible material.  A number of these tubes or cases are often combined so as to make, when kindled, a great variety of figures in fire, often variously colored. The skyrocket is a common form of <ex>firework</ex>. The art of designing fireworks for purposes of entertainment is called <er>pyrotechnics</er>.  The name <ex>firework</ex> is also given to various combustible preparations used in war.</def></p>
 
 <p><sn>2.</sn> <pluf>pl.</pluf> <def>A pyrotechnic exhibition; an entertainment consisting of the discharge of fireworks{1}.</def> <mark>[Obs. in the sing.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Night before last, the Duke of Richmond gave a <qex>firework</qex>.</q> <rj><qau>Walpole.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -14170,7 +14170,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 
 <p><ent>first-string</ent><br/
 <hw>first-string</hw> <pos>adj.</pos> <def>First to play in a game; not reserved as a substitute; -- of members of a team.  Also used in non-sports contexts to mean <er>first-rate</er>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>first-year</ent><br/
 <hw>first-year</hw> <pos>adj.</pos>  <def>Being in the first year of an experience especially in a U. S. high school or college; -- of a person.</def><br/
@@ -15151,7 +15151,7 @@ Resolved to <qex>fix</qex> forever here.</q> <rj><qau>Waller.</qau></rj><br/
 
 <p><ent>fizz</ent><br/
 <hw>fizz</hw> <pr>(f<icr/z)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>fizzed</conjf> <pr>(f<icr/zd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>fizzing</conjf>.]</vmorph> <ety>[Cf. Icel. <ets>f<imac/sa</ets> to break wind, Dan. <ets>fise</ets> to foist, fizzle, OSw. <ets>fisa</ets>, G. <ets>fisten</ets>, <ets>feisten</ets>.  Cf. <er>Foist</er>.]</ety> <def>To make a hissing sound, such as that of a burning fuse or a bubbling carbonated beverage.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fizz</ent><br/
 <hw>Fizz</hw>, <pos>n.</pos> <def>A hissing sound; <as>as, the <ex>fizz</ex> of a fly</as>.</def><br/
@@ -15171,7 +15171,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To make a ridiculous failure in an undertaking, especially after a good start; to achieve nothing.</def> <mark>[Colloq. or Low]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>A four-day rally in stocks <qex>fizzled</qex> yesterday amid renewed fears that strong economic growth may prompt the Federal Reserve to raise interest rates.</q> <rj><qau>Sharon R.  King (N. Y. Times, May 6, 1998).</qau></rj><br/
 [<source>PJC</source>]</p>
@@ -15751,7 +15751,7 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 <p><ent>flamefish</ent><br/
 <hw>flamefish</hw> <pos>n.</pos> <def>a bright red perchlike fish (<spn>Apogon maculatus</spn>) found in tropical Atlantic coastal waters.</def><br/
 <syn><b>Syn. --</b> <spn>Apogon maculatus</spn>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>flame flower</ent><br/
 <ent>flameflower</ent><br/
@@ -16193,7 +16193,7 @@ He <qex>flashes</qex> into one gross crime or other.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>flash in the pan</b></col>, <cd>a failure or a poor performance, especially after a normal or auspicious start; also, a person whose initial performance appears augur success but who fails to achieve anything notable.  From 4th <er>pan</er>, <pos>n.</pos>, sense 3 -- part of a flintlock.  Occasionally, the powder in the pan of a flintlock would flash without conveying the fire to the charge, and the ball would fail to be discharged.  Thus, a good or even spectacular beginning that eventually achieves little came to be called a <ex>flash in the pan</ex>.</cd> -- <col><b>To flash in the pan</b></col>, <cd>to fail of success, especially after a normal or auspicious start. <mark>[Colloq.]</mark> See under <er>Flash</er>, a burst of light.</cd> <rj><au>Bartlett.</au></rj></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- <er>Flash</er>, <er>Glitter</er>, <er>Gleam</er>, <er>Glisten</er>, <er>Glister</er>.</syn> <usage> <xex>Flash</xex> differs from <xex>glitter</xex> and <xex>gleam</xex>, denoting a flood or wide extent of light. The latter words may express the issuing of light from a small object, or from a pencil of rays. <xex>Flash</xex> differs from other words, also, in denoting suddenness of appearance and disappearance. <xex>Flashing</xex> differs from <xex>exploding</xex> or <xex>disploding</xex> in not being accompanied with a loud report. To <xex>glisten</xex>, or <xex>glister</xex>, is to shine with a soft and fitful luster, as eyes suffused with tears, or flowers wet with dew.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -16241,7 +16241,7 @@ He <qex>flashes</qex> into one gross crime or other.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>The time during which a flash is visible; an instant; a very brief period; <as>as, I'll be back in a <ex>flash</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The Persians and Macedonians had it for a <qex>flash</qex>.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -16525,7 +16525,7 @@ Passing these <qex>flats</qex>, are taken by the tide.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Arch.)</fld> <def>A floor, loft, or story in a building;</def> <specif>especially,</specif> <def>a floor of a house, which forms a complete residence in itself; an apartment taking up a whole floor.  In this latter sense, the usage is more common in British English.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn> <fld>(Mining)</fld> <def>A horizontal vein or ore deposit auxiliary to a main vein; also, any horizontal portion of a vein not elsewhere horizontal.</def>  <rj><au>Raymond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -16715,7 +16715,7 @@ Because you are a <qex>flat</qex>.</q> <rj><qau>Holmes.</qau></rj><br/
 <p><ent>flattened</ent><br/
 <hw>flattened</hw> <pos>adj.</pos> <sn>1.</sn>  <def>shaped like a thin sheet.</def><br/
 <syn><b>Syn. --</b> planate.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Biol)</fld> <def>flattened laterally along the whole length e.g. certain leafstalks or flatfishes.</def><br/
 <syn><b>Syn. --</b> compressed, flat.</syn><br/
@@ -16895,7 +16895,7 @@ To draw men as they ought be, not as they are.</q> <rj><qau>Goldsmith.</qau></rj
 
 <p><ent>Flaunt</ent><br/
 <hw>Flaunt</hw>, <pos>v. t.</pos> <def>To display ostentatiously; to make an impudent show of.</def> <ldquo/If you've got it, <xex>flaunt</xex> it.<rdquo/<br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Flaunt</ent><br/
 <hw>Flaunt</hw>, <pos>n.</pos> <def>Anything displayed for show.</def> <mark>[Obs.]</mark><br/
@@ -18662,7 +18662,7 @@ Do 'twixt their fingers <qex>flip</qex> their cherry stones.</q> <rj><qau>W. Bro
 
 <p><ent>Float</ent><br/
 <hw>Float</hw> <pr>(fl<omac/t)</pr>, <pos>n.</pos><ety>[OE. <ets>flote</ets> ship, boat, fleet, AS. <ets>flota</ets> ship, fr. <ets>fle<oacute/tan</ets> to float; akin to D. <ets>vloot</ets> fleet, G. <ets>floss</ets> raft, Icel. <ets>floti</ets> float, raft, fleet, Sw. <ets>flotta</ets>. <root/ 84. See <er>Fleet</er>, <pos>v. i.</pos>, and cf. <er>Flotilla</er>, <er>Flotsam</er>, <er>Plover</er>.]</ety> <sn>1.</sn> <def>Anything which floats or rests on the surface of a fluid, as to sustain weight, or to indicate the height of the liquid surface, or mark the place of, something.</def> Specifically: <sd>(a)</sd> <def>A mass of timber or boards fastened together, and conveyed down a stream by the current; a raft.</def> <sd>(b)</sd> <def>The hollow, metallic ball of a self-acting faucet, which floats upon the water in a cistern or boiler.</def> <sd>(c)</sd> <def>The cork or quill used in angling, to support the bait line, and indicate the bite of a fish.</def> <sd>(d)</sd> <def>Anything used to buoy up whatever is liable to sink; an inflated bag or pillow used by persons learning to swim; a life preserver.</def> <sd>(e)</sd> <def>The hollow, metallic ball which floats on the fuel in the fuel tank of a vehicle to indicate the level of the fuel surface, and thus the amount of fuel remaining.</def> <sd>(f)</sd> <def>A hollow elongated tank mounted under the wing of a seaplane which causes the plane to float when resting on the surface of the water.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>This reform bill . . . had been used as a <qex>float</qex> by the conservative ministry.</q> <rj><qau>J. P. Peters.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -20183,7 +20183,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 <p><ent>Fluegel</ent><br/
 <ent>Flugel</ent><br/
 \'d8<hw>Fl<uum/"gel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., a wing.]</ety> <fld>(Mus.)</fld> <sn>1.</sn> <def>A grand piano or a harpsichord, both being wing-shaped.</def> <mark>[archaic]</mark> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A <er>flugelhorn</er>.</def><br/
 [<source>PJC</source>]</p>
@@ -20207,7 +20207,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Fluid</xex> is a generic term, including liquids and gases as species. Water, air, and steam are <xex>fluids</xex>. By analogy, the term was sometimes applied to electricity and magnetism, as in phrases electric <xex>fluid</xex>, magnetic <xex>fluid</xex>, though not strictly appropriate; such usage has disappeared.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><mcol><col><b>Fluid dram</b></col>, <it>or</it> <col><b>Fluid drachm</b></col></mcol>, <cd>a measure of capacity equal to one eighth of a fluid ounce.</cd> -- <col><b>Fluid ounce</b></col>. <sd>(a)</sd> <cd>In the United States, a measure of capacity, in apothecaries' or wine measure, equal to one sixteenth of a pint or 29.57 cubic centimeters. This, for water, is about 1.04158 ounces avoirdupois, or 455.6 grains.</cd> <sd>(b)</sd> <cd>In England, a measure of capacity equal to the twentieth part of an imperial pint. For water, this is the weight of the avoirdupois ounce, or 437.5 grains.</cd> -- <col><b>Fluids of the body</b></col>. <fld>(Physiol.)</fld> <cd>The circulating blood and lymph, the chyle, the gastric, pancreatic, and intestinal juices, the saliva, bile, urine, aqueous humor, and muscle serum are the more important <xex>fluids of the body</xex>. The tissues themselves contain a large amount of combined water, so much, that an entire human body dried <xex>in vacuo</xex> with a very moderate degree of heat gives about 66 per cent of water.</cd> -- <mcol><col><b>Burning fluid</b></col>, <col><b>Elastic fluid</b></col>, <col><b>Electric fluid</b></col>, <col><b>Magnetic fluid</b></col>, etc.</mcol> <cd>See under <er>Burning</er>, <er>Elastic</er>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -20314,7 +20314,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 
 <p><ent>Flunk</ent><br/
 <hw>Flunk</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To fail in; to fail to pass (a test, examination, or course of study).</def> <mark>[Colloq. U.S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To shirk, as a task or duty.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20411,7 +20411,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 
 <p><ent>Fluorescence</ent><br/
 <hw>Flu`o*res"cence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Fluor</er>.]</ety> <fld>(Chemistry, Optics)</fld> <def>A luminescence emitted by certain substances due to the absorption of radiation at one wavelength, and the almost instantaneous re-emission of radiation at another, usually longer wavelength.  The re-radiation stops almost as soon as the incident radiation is halted, thus distinguishing this phenomenon from <contr>phosphorescence</contr>, in which re-radiation of light may continue for some time after the incident radiation is halted.</def> <note>The color of the radiated light typically differs from the apparent color of the material, as when green crystals of fluor spar afford blue reflections. It is due not to the difference in the color of a distinct surface layer, but to the power which the substance has of modifying the light incident upon it, by first absorbing the light to achieve an excited state, and then radiating light to resume the ground energy level. The light emitted by fluorescent substances is in general of longer wavelength than the incident light.  The radiation can also be induced by ionizing radiation which is not electromagnetic, such as alpha or beta rays, and cathode rays.  This property is possessed by fluorspar, uranium glass, sulphide of calcium, and many other substances.  It finds use in analytical instruments to detect or measure radiation, and in some commercial applications.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Fluorescent</ent><br/
 <hw>Flu`o*res"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having the property of fluorescence.</def><br/
@@ -20620,7 +20620,7 @@ Was Monte Rosa, hanging there!</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <ety>[From F. or Sp. <ets>flux</ets>.  Cf. <er>Flux</er>.]</ety> <def>A hand of cards, all of the same suit; -- especially significant in poker, where five cards of the same suit constitute a <ex>flush</ex>, which beats a straight but is beaten by a full house or four of a kind.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Flush</ent><br/
 <hw>Flush</hw>, <pos>a.</pos> <sn>1.</sn> <def>Full of vigor; fresh; glowing; bright.</def><br/
@@ -21117,7 +21117,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>17.</sn> <fld>(Baseball)</fld> <def>A batted ball that flies to a considerable distance, usually high in the air; also, the flight of a ball so struck; <as>as, it was caught on the <ex>fly</ex></as>.  Also called <altname>fly ball</altname>.</def> <ldquo/a <xex>fly</xex> deep into right field<rdquo/<br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>18.</sn> <fld>(Cotton Manuf.)</fld> <def>Waste cotton.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -21250,7 +21250,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 
 <p><ent>Flying squirrel</ent><br/
 <hw>Fly"ing squir"rel</hw> <pr>(? or ?)</pr>. <fld>(Zool.)</fld> <def>One of a group of squirrels, of the genus <gen>Glaucomys</gen> (formerly <gen>Pteromus</gen> and <gen>Sciuropterus</gen> [1913 Webster]), especially <spn>Glaucomys volans</spn> and <spn>Glaucomys sabrinus</spn>, having parachute-like folds of skin extending from the fore to the hind legs, which enable them to make very long, gliding leaps.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The species of Pteromys are large, with bushy tails, and inhabit southern Asia and the East Indies; those of Sciuropterus are smaller, with flat tails, and inhabit the northern parts of Europe, Asia, and America. The American species <spn>(Sciuropterus volucella)</spn> is also called Assapan. The Australian flying squirrels, or flying phalangers, are marsupials. See <cref>Flying phalanger</cref> (above).</note><br/
 [<source>1913 Webster</source>]</p>
@@ -21301,7 +21301,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 <ent>flyswat</ent><br/
 <mhw><hw>fly"swat</hw> , <hw>fly"swat*ter</hw></mhw> <pos>n.</pos> <def>An implement with a flat part (a mesh of metal or plastic) and a long handle, used to kill insects by striking them.  The handle is typically about one foot long and the flat mesh at the end (usually of plastic) is about 5 inces square.</def><br/
 <syn><b>Syn. --</b> swatter.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>flytrap</ent><br/
 <hw>fly"trap</hw> <pr>(fl<imac/"tr<acr/p)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A trap for catching flies.</def><br/
@@ -21312,7 +21312,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 
 <p><ent>flywheel</ent><br/
 <hw>flywheel</hw> <pos>n.</pos> <def>A heavy wheel or disk which stores kinetic energy by rotating on a shaft, and by its momentum smoothes the operation of a reciprocating engine by reducing fluctuations of speed.  It is used in certain types of machinery, such as automobiles.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ Flywheels rotating at high speed have also been proposed as a means to store kinetic energy for use as a low-polluting source of energy in vehicles.</note><br/
 [<source>PJC</source>]</p>
@@ -21320,7 +21320,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 <p><ent>FM</ent><br/
 <hw>FM</hw> <pos>n.</pos> <ety>[<ets>F</ets>requency <ets>M</ets>odulaiton.]</ety> <def>A method of transmitting radio signals by modulating the frequency of the carrier wave; -- opposed to AM (amplitude modulation), in which the signal modulates the amplitude, rather than the frequency of the carrier wave.</def> <mark>[acron.]</mark> <br/
 <syn><b>Syn. --</b> frequency modulation.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fm</ent><br/
 <hw>Fm</hw> <pos>prop. n.</pos> <def>The chemical symbol for <er>Fermium</er>, a transuranic element.</def><br/
@@ -21457,7 +21457,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 <ent>fo'c'sle</ent><br/
 <mhw><hw>fo'c'sle</hw>, <hw>fo'c's'le</hw></mhw> <pr>(f<omac/k"s'l)</pr>, <pos>n.</pos> <def>The <er>forecastle</er>, a superstructure in the bow of a merchant ship where the crew is housed; -- the spelling is intended to reflect the common pronunciation among seamen.</def><br/
 <syn><b>Syn. --</b> forecastle.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Focus</ent><br/
 <hw>Fo"cus</hw> <pr>(f<omac/"k<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Focuses</plw> <pr>(f<omac/"k<ucr/s*<ecr/z)</pr>, L. <plw>Foci</plw> <pr>(f<omac/"s<imac/)</pr>.</plu> <ety>[L. <ets>focus</ets> hearth, fireplace; perh. akin to E. <ets>bake</ets>.  Cf. <er>Curfew</er>, <er>Fuel</er>, <er>Fusil</er> the firearm.]</ety> <sn>1.</sn> <fld>(Opt.)</fld> <def>A point in which the rays of light meet, after being reflected or refracted, and at which the image is formed; <as>as, the <ex>focus</ex> of a lens or mirror.</as></def><br/
@@ -22274,7 +22274,7 @@ Agreed to travel.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><ent>folk tale</ent><br/
 <ent>folktale</ent><br/
 <mhw><hw>folktale</hw>, <hw>folk tale</hw></mhw> <pos>n.</pos> <def>a tale circulated by word of mouth among the common folk, especially one forming part of the tradition of a culture.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Follicle</ent><br/
 <hw>Fol"li*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>folliculus</ets> a small bag, husk, pod, dim of <ets>follis</ets> bellows, an inflated ball, a leathern money bag, perh. akin to E. <ets>bellows</ets>: cf. F. <ets>follicule</ets>.  Cf. 2d <er>Fool</er>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A simple podlike pericarp which contains several seeds and opens along the inner or ventral suture, as in the peony, larkspur and milkweed.</def><br/
@@ -22422,7 +22422,7 @@ Agreed to travel.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>follow-through</ent><br/
 <hw>follow-through</hw> <pos>n.</pos> <sn>1.</sn> <def>Carrying a process, plan, or project to full completion; <as>as, I appreciated his <ex>follow-through</ex> on his promise</as>.  The term usually is used in reference to the period after some point in time at which the actor is given freedom to pursue the project.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Golf, Baseball, Tennis)</fld> <def>The remainder of a stroke with a club, bat, or racket after the ball has been hit.</def><br/
 [<source>PJC</source>]</p>
@@ -22430,7 +22430,7 @@ Agreed to travel.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><ent>follow-up</ent><br/
 <hw>follow-up</hw> <pos>n.</pos> <sn>1.</sn> <def>a second (or subsequent) action to increase the effectiveness of an initial action.  Also used attributively; <as>as a <ex>follow-up</ex> visit</as>.</def>  <note>A <ex>follow-up</ex> may be of various types.  After a medical examination, a second examination (or <stype>reexamination</stype>) to obtain additional information regarding some fact discovered in the first examination is considered a <ex>follow-up</ex>.  A second visit or phone call in pursuit of a sale or other request would also be a <ex>follow-up</ex>.</note><br/
 <syn><b>Syn. --</b> reexamination, review.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Journalism)</fld> <def>A subsequent story providing information discovered or events happening after a first story was published.</def><br/
 [<source>PJC</source>]</p>
@@ -23069,7 +23069,7 @@ Late <qex>footed</qex> in the kingdom?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The game played with a football{1}, by two opposing teams of players moving the ball between goals at opposite ends of a rectangular playing field.  Outside the United States <ex>football</ex> refers to soccer, and in England, also to rugby, but in the United States the shape of the ball and the rules of the game are different.</def>  <rj><au>Arbuthnot.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Soccer or rugby.</def> <mark>[Brit.]</mark> <br/
 [<source>PJC</source>]</p>
@@ -24465,7 +24465,7 @@ The <qex>fore end</qex> of my time.</q> <rj><qau>Shak.</qau></rj></p>
 <p><ent>forecasting</ent><br/
 <hw>fore"cast*ing</hw> <pos>n.</pos> <def>The process of calculating and predicting future events, usually based on extrapolation from past experience, and with varying degress of uncertainty.</def><br/
 <syn><b>Syn. --</b> prediction, foretelling.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Forecastle</ent><br/
 <hw>Fore"cas`tle</hw> <pr>(?; <xex>sailors say</xex> <?/)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A short upper deck forward, formerly raised like a castle, to command an enemy's decks.</def> <sd>(b)</sd> <def>That part of the upper deck of a vessel forward of the foremast, or of the after part of the fore channels.</def> <sd>(c)</sd> <def>In merchant vessels, the forward part of the vessel, under the deck, where the sailors live.</def><br/
@@ -25887,7 +25887,7 @@ And <qex>forged</qex> to cheat such gulls as you.</q> <rj><qau>Hudibras.</qau></
 <p><ent>forged</ent><br/
 <hw>forged</hw> <pr>(f<omac/rjd)</pr>, <pos>adj.</pos> <sn>1.</sn>  <def>Not genuine; counterfeit; -- used mostly of signatures and documents.  See <er>forge</er>, <pos>v. t.</pos>, 4.</def><br/
 <syn><b>Syn. --</b> bad.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>shaped by strong pressure in a press, or by heatng and hammering; -- of metal objects.</def>  <note>Also used metaphorically of results requiring intense or difficult effort.</note><br/
 [<source>PJC</source>]</p>
@@ -26626,7 +26626,7 @@ In judging eyes, as libertines from wits.</q> <rj><qau>Young.</qau></rj><br/
 <p><ent>format</ent><br/
 <hw>format</hw> <pos>v. t.</pos> <def>to set into a specific format; -- of printed matter or data recorded on a data storage medium.</def><br/
 <syn><b>Syn. --</b> arrange.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Formate</ent><br/
 <hw>For"mate</hw> <pr>(f<ocir/r"m<asl/t)</pr>, <pos>n.</pos> <ety>[See <er>Formic</er>.]</ety> <fld>(Chem.)</fld> <def>A salt of formic acid.</def> <altsp>[Written also <asp>formiate</asp>.]</altsp><br/
@@ -26878,7 +26878,7 @@ In judging eyes, as libertines from wits.</q> <rj><qau>Young.</qau></rj><br/
 
 <p><ent>formulated</ent><br/
 <hw>formulated</hw> <pos>adj.</pos> <def>reduced to a systematic form; reduced to a formula.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Formulation</ent><br/
 <hw>For`mu*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act, process, or result of formulating or reducing to a formula.</def><br/
@@ -27511,7 +27511,7 @@ Which, taken at the flood, leads on to <qex>fortune</qex>.</q> <rj><qau>Shak.</q
 <p><ent>fortuneteller</ent><br/
 <hw>for"tune*tel`ler</hw> <pos>n.</pos> <def>a person who claims to be able to foretell events in the future of another person.</def> -- <wordforms><wf>for"tune*tel`ling</wf>, <pos>n.</pos></wordforms><br/
 <syn><b>Syn. --</b> fortune teller, fortune-teller.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fortunize</ent><br/
 <hw>For"tun*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To regulate the fortune of; to make happy.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
@@ -27604,7 +27604,7 @@ Is eaten by the canker ere it blow.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>One who sends forward anything;</def> <specif>specifically</specif>, <fld>(Com.)</fld> <def>one who transmits goods; a forwarding merchant, such as a <styp><ecol><b>freight forwarder</b></ecol></styp>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Bookbinding)</fld> <def>One employed in forwarding.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -28004,7 +28004,7 @@ Are apt to <qex>fossilize</qex> her girlish mirth.</q> <rj><qau>Mrs. Browning.</
 
 <p><ent>Foulard</ent><br/
 \'d8<hw>Fou`lard"</hw> <pr>(f. f<oomac/`l<adot/r"; E. f<oomac/`l<aum/rd")</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A thin, washable material of silk, or silk and cotton, usually with a printed pattern on it.  It was originally imported from India, but now also made elsewhere.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>an article of clothing made of <er>foulard{1}</er>, such as a neckpiece.</def><br/
 [<source>PJC</source>]</p>
@@ -28039,7 +28039,7 @@ Are apt to <qex>fossilize</qex> her girlish mirth.</q> <rj><qau>Mrs. Browning.</
 <p><ent>foul-smelling</ent><br/
 <hw>foul-smelling</hw> <pos>adj.</pos>  <def>emitting an unpleasasnt odor.</def><br/
 <syn><b>Syn. --</b> fetid, foul, funky, noisome, smelly, putrid, stinking.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Foul-spoken</ent><br/
 <hw>Foul"-spo`ken</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Using profane, scurrilous, slanderous, or obscene language; same as <er>foul-mouthed</er>.</def>  <rj><au>Shak.</au></rj><br/
@@ -28908,7 +28908,7 @@ To pluck the speckled <qex>foxgloves</qex> from their stem.</q> <rj><qau>W. Brow
 <p><ent>fractionation</ent><br/
 <hw>frac`tion*a"tion</hw> <pos>n.</pos> <def>the act or process of separating a mixture into portions of different composition, as in distillation or <cref>fractional crystallization</cref>.</def><br/
 <syn><b>Syn. --</b> fractional process.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Petroleum industry)</fld> <def>Separation of crude oil into components of differing composition by <cref>fractional distillation</cref>.</def><br/
 [<source>PJC</source>]</p>
@@ -29235,7 +29235,7 @@ Almighty! thine this universal <qex>frame</qex>.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A kind of open case or structure made for admitting, inclosing, or supporting things, as that which incloses or contains a window, door, picture, etc.; that on which anything is held or stretched</def>; as: <sd>(a)</sd> <def>The skeleton structure which supports the boiler and machinery of a locomotive upon its wheels.</def> <sd>(b)</sd> <fld>(Founding)</fld> <def>A molding box or flask, which being filled with sand serves as a mold for castings.</def> <sd>(c)</sd> <def>The ribs and stretchers of an umbrella or other structure with a fabric covering.</def> <sd>(d)</sd> <def>A structure of four bars, adjustable in size, on which cloth, etc., is stretched for quilting, embroidery, etc.</def> <sd>(e)</sd> <fld>(Hort.)</fld> <def>A glazed portable structure for protecting young plants from frost.</def> <sd>(f)</sd> <fld>(Print.)</fld> <def>A stand to support the type cases for use by the compositor.</def>   <sd>(f)</sd> <def>a pair of glasses without the lenses; that part of a pair of glasses that excludes the lenses.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Mach.)</fld> <def>A term applied, especially in England, to certain machines built upon or within framework; <as>as, a stocking <ex>frame</ex>; lace <ex>frame</ex>; spinning <ex>frame</ex>, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -29251,7 +29251,7 @@ To pay this debt of love but to a brother.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>Particular state or disposition, as of the mind; humor; temper; mood; <as>as, to be always in a happy <ex>frame</ex></as>.  Same as <altname><er>frame of mind</er></altname></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <def>Contrivance; the act of devising or scheming.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -29384,7 +29384,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Francophobe</ent><br/
 <hw>Francophobe</hw> <pos>prop. n.</pos> <def>a person who hates or fears France, French culture, or the French people.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Francophonic</ent><br/
 <ent>Francophone</ent><br/
@@ -29475,7 +29475,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Frank</ent><br/
 <hw>Frank</hw>, <pos>n.</pos> <ety>[See <er>Frank</er>, <pos>a.</pos>]</ety> <def>The privilege of sending letters or other mail matter, free of postage, or without charge; also, the sign, mark, or signature denoting that a letter or other mail matter is to go free of postage.  Called also the <altname><ecol><b>franking privilege</b></ecol></altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>I have said so much, that, if I had not a <qex>frank</qex>, I must burn my letter and begin again.</q>  <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -29673,7 +29673,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 
 <p><sn>4.</sn> <def>A social club for male college undergraduates.  They often have secret initiation rites, and are named by the use of two or three Greek letters.  The corresponding association for women students is called a <contr>sorority</contr>.</def><br/
 <syn><b>Syn. --</b> frat.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fraternization</ent><br/
 <hw>Fra`ter*ni*za"tion</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <def>The act of fraternizing or uniting as brothers.</def><br/
@@ -29836,7 +29836,7 @@ The armed ships.</q> <rj><qau>Fairfax.</qau></rj><br/
 
 <p><ent>fray</ent><br/
 <hw>fray</hw> <pr>(fr<amac/)</pr>, <pos>n.</pos> <ety>[Abbreviated from <ets>affray</ets>.]</ety> <def>An angry quarrel; an affray; contest; combat; broil.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Who began this bloody <qex>fray</qex>?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -29890,7 +29890,7 @@ When 'gainst the oak his antlers <qex>frayed</qex>.</q> <rj><qau>Sir W. Scott.</
 
 <p><ent>Frazzle</ent><br/
 <hw>Fraz"zle</hw>, <pos>n.</pos> <sn>1.</sn> <def>The act or result of frazzling; the condition or quality of being frazzled; the tag end; a frayed-out end.</def> <mark>[Prov. Eng. & U. S.]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>My fingers are all scratched to <qex>frazzles</qex>.</q>  <rj><qau>Kipling.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -30145,7 +30145,7 @@ As I would be forgiven.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>free-and-easy</ent><br/
 <hw>free-and-easy</hw> <pos>adj.</pos> <sn>1.</sn> <def>unconstrained and informal; <as>as, an informal <ex>free-and-easy</ex> manner</as>.  Opposite of <ant>stiff</ant>, <ant>starchy</ant>, <ant>formal</ant>.</def><br/
 <syn><b>Syn. --</b> casual.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>lacking normal concern for propriety.</def><br/
 <syn><b>Syn. --</b> free-and-easy.</syn><br/
@@ -30258,12 +30258,12 @@ As I would be forgiven.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>freedwoman</ent><br/
 <hw>freedwoman</hw> <pos>n.</pos> <def>a woman who has been freed from slavery.  Correlative of <contr>freedman</contr>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>free enterprise</ent><br/
 <hw>free enterprise</hw> <pos>n.</pos> <sn>1.</sn> <def>an economic system having predominantly private ownership of the means of production, and relying chiefly on market forces to allocate goods and resources and to determine prices, and having a minimum of governmental interference in economic decisions; also, the political doctrine advocating such a system as the economic system of a country.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> market economy, laissez-faire economy.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The conduct of business according to the principles of the free enterprise doctrine; the conduct of economic activity without governmental interference.</def><br/
 [<source>PJC</source>]</p>
@@ -30350,7 +30350,7 @@ As I would be forgiven.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>free-living</ent><br/
 <hw>free-living</hw> <pos>adj.</pos> <fld>(Biology)</fld>  <def>Living independently of other organisms; not parasitic or commensal.</def> <note>eating other organisms is not considered "dependence" in this sense.</note><br/
 <syn><b>Syn. --</b> nonparasitic, nonsymbiotic.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Free-love</ent><br/
 <hw>Free"-love`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The doctrine or practice of consorting with the opposite sex, at pleasure, without marriage.</def><br/
@@ -30395,7 +30395,7 @@ Because we <qex>freely</qex> love.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><ent>Free-martin</ent><br/
 <hw>Free"-mar`tin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An imperfect female calf, twinborn with a male, which is sterile as a result of exposure to masculinizing hormones.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Freemason</ent><br/
 <hw>Free"ma`son</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One of an ancient and secret association or fraternity, said to have been at first composed of masons or builders in stone, but now consisting of persons who are united for social enjoyment and mutual assistance.</def><br/
@@ -30598,7 +30598,7 @@ That almost <qex>freezes</qex> up the heat of life.</q> <rj><qau>Shak.</qau></rj
 <p><ent>freeze-dried</ent><br/
 <hw>freeze-dried</hw> <pos>adj.</pos>  <def>dried by freezing and applying a vacuum; -- used of tissue or blood or serum or other biological substances.</def> <note>This technique is gentler than other drying techniques and caused less damage or deterioration to sensitive substances.  It is used primarily as a method to preserve foods or substances, and permit storage without deterioration.</note><br/
 <syn><b>Syn. --</b> lyophilized, lyophilised.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Freeze-dry</ent><br/
 <hw>Freeze"-dry`</hw> <pr>(fr<emac/z"-dr<imac/`)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Freeze-dried</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Freeze-drying</conjf>.]</vmorph> <def>to remove the moisture from (e.g. food) by first freezing and then subjecting to a high vacuum; -- used as a mild method for drying foods or chemicals while causing little decomposition, in contrast to heat-drying.</def>  <note>This is a relatively gently drying process used to preserve food or sensitive biological materials.  For biochemical materials, the term <stype><er>lyophilize</er></stype> is often used.</note><br/
@@ -31841,7 +31841,7 @@ Are <qex>friendly</qex> met.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 <p><ent>Fringillidae</ent><br/
 <hw>Fringillidae</hw> <pos>n.</pos> <def>A natural family of birds of the finch group having short conical bills adapted for eating seeds, including finches, goldfinches, bullfinches, chaffinches, siskins, canaries, cardinals, grosbeaks, crossbills, linnets, and buntings.  This family at one time included the sparrows of the family <fam>Emberizinae</fam>, but has more recently been restricted in usage.</def><br/
 <syn><b>Syn. --</b> family <fam>Fringillidae</fam>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Fringilline</ent><br/
 <hw>Frin*gil"line</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Pertaining to the family <fam>Fringillid<ae/</fam>; characteristic of finches; sparrowlike.</def><br/
@@ -32420,7 +32420,7 @@ The life <qex>from out</qex> young hearts.</q> <rj><qau>Byron.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The forehead, countenance, or personal presence, as expressive of character or temper, and especially, of boldness of disposition, sometimes of impudence; seeming; <as>as, a bold <ex>front</ex>; a hardened <ex>front</ex></as>;</def> <specif>hence,</specif> <def>an attitude and demeanor intended to represent one's feelings, even if not actually felt; <as>as, to put on a good <ex>front</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>With smiling <qex>fronts</qex> encountering.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -32741,7 +32741,7 @@ obscurity: it is the <qex>frost</qex> smoke of arctic winters.</q> <rj><qau>Kane
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Provided with a surface finish which is matte or with a very fine grain, reminiscent of the surface texture of frost; <as>as, <ex>frosted</ex> glass</as>.  Opposed to <ant>polished</ant> or <ant>burnished</ant>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q><qex>Frosted</qex> work is introduced as a foil or contrast to burnished work.</q> <rj><qau>Knight.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -33630,7 +33630,7 @@ His end and <qex>frustrate</qex> thine ?</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>fucked-up</ent><br/
 <hw>fucked-up</hw> <pos>adj.</pos> <def>snarled or stalled in complete confusion.</def> <mark>[Vulgar slang]</mark><br/
 <syn><b>Syn. --</b> snafued, fouled up.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>fucker</ent><br/
 <hw>fucker</hw> <pos>n.</pos> <def>a stupid foolish man.</def> <mark>[vulgar slang]</mark><br/
@@ -34206,7 +34206,7 @@ That stands upon the swell at <qex>full</qex> of tide.</q> <rj><qau>Shak.</qau><
 <p><ent>full-bosomed</ent><br/
 <hw>full-bosomed</hw> <pos>adj.</pos> <def>having a pronounced womanly shape, with well-developed breasts.</def> <mark>[informal]</mark><br/
 <syn><b>Syn. --</b> bosomy, buxom, curvaceous, sonsie, sonsy, voluptuous.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Full-bottomed</ent><br/
 <hw>Full"-bot"tomed</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Full and large at the bottom, as wigs worn by certain civil officers in Great Britain.</def><br/
@@ -35181,7 +35181,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 
 <p><ent>Fungi</ent><br/
 <hw>Fun"gi</hw> <pr>(f<ucr/n"j<imac/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>fungus</singw>.</sing> <fld>(Biol.)</fld> <def>A group of thallophytic plant-like organisms of low organization, destitute of chlorophyll, in which reproduction is mainly accomplished by means of asexual spores, which are produced in a great variety of ways, though sexual reproduction is known to occur in certain <stype>Phycomycetes</stype>, or so-called algal fungi. They include the molds, mildews, rusts, smuts, mushrooms, toadstools, puff balls, and the allies of each.  In the two-kingdom classification system they were classed with the plants, but in the modern five-kingdom classification, they are not classed as plants, but are classed in their own separate kingdom <it>fungi</it>, which includes the phyla <phylum>Zygomycota</phylum> (including simple fungi such as bread molds), <phylum>Ascomycota</phylum> (including the yeasts), <phylum>Basidiomycota</phylum> (including the mushrooms, smuts, and rusts), and <phylum>Deuteromycota</phylum> (the <er>fungi imperfecti</er>).  Some of the forms, such as the yeasts, appear as single-celled microorganisms, but all of the fungi are are eukaryotic, thus distinguishing them from the prokaryotic microorganisms of the kingdon <it>Monera</it>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The <ex>Fungi</ex> appear to have originated by degeneration from various alg<ae/, losing their chlorophyll on assuming a parasitic or saprophytic life. In an earlier classification they were divided into the subclasses <stype>Phycomycetes</stype>, the lower or algal fungi; the <stype>Mesomycetes</stype>, or intermediate fungi; and the <stype>Mycomycetes</stype>, or the higher fungi; by others into the <stype>Phycomycetes</stype>; the <stype>Ascomycetes</stype>, or sac-spore fungi; and the <stype>Basidiomycetes</stype>, or basidial-spore fungi.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -35218,7 +35218,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 
 <p><ent>Fungi Imperfecti</ent><br/
 \'d8<hw>Fun"gi Im`per*fec"ti</hw> <pr>(?)</pr>, <pos>pl.</pos> <ety>[L. <ets>imperfecti</ets> imperfect.]</ety> <fld>(Bot.)</fld> <def>A heterogenous phylum of fungi which lack a sexual phase, or of which the sexual phase is not known. Some undoubtedly represent the conidium stages of various Ascomycetes. It is not considered a natural phylum, and is also called the <altname>Deuteromycota</altname>.  The group is divided into the orders <ord>Sph<ae/ropsidales</ord>, <ord>Melanconiales</ord>, and <ord>Moniliales</ord>.  It includes the genera <gen>Penicillium</gen> and <gen>Aspergillus</gen>, which reproduce asexually by means of conidia.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Fungilliform</ent><br/
 <hw>Fun*gil"li*form</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Shaped like a small fungus.</def><br/
@@ -36000,7 +36000,7 @@ and the like.</q> <rj><qau>Burke.</qau></rj><br/
 <p><ent>Fuze</ent><br/
 <ent>Fuse</ent><br/
 <mhw>{ <hw>Fuse</hw>, <it>or</it> <hw>Fuze</hw> }</mhw>, <pos>n.</pos>  <fld>(Elec.)</fld> <def>A wire, bar, or strip of fusible metal inserted for safety in an electric circuit.  When the current increases beyond a certain safe strength, the metal melts, interrupting the circuit and thereby preventing possibility of damage.  It serves the same function as a <contr>circuit breaker</contr>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>fused</ent><br/
 <hw>fused</hw> <pos>adj.</pos>  <def>joined together into a whole.</def><br/
@@ -36030,7 +36030,7 @@ and the like.</q> <rj><qau>Burke.</qau></rj><br/
 <p><ent>Fusel oil</ent><br/
 <ent>Fusel</ent><br/
 <mhw><hw>Fu"sel</hw> <pr>(?)</pr>, <pos>n.</pos>, <hw>Fu"sel oil</hw></mhw>. <ety>[G. <ets>fusel</ets> bad liquor.]</ety> <fld>(Chem.)</fld> <def>A hot, acrid, oily liquid, accompanying many alcoholic liquors (as potato whisky, corn whisky, etc.), as an undesirable ingredient, and consisting of several of the higher alcohols and compound ethers, but mostly of amyl alcohol;</def> <specif>hence,</specif> <def>amyl alcohol or a mixture of amyl alcohols.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fuselage</ent><br/
 <hw>fu"se*lage</hw> <pos>n.</pos> <ety>[F. <ets>fusel</ets> spindle-shaped + <ets>-age</ets>; fr. L. <ets>fusus</ets> spindle.]</ety> <fld>(A<eum/ronautics)</fld> <def>The central, approximately cylindrical portion of an airplane which carries the passengers, crew, and cargo.  It usually forms the main structural portion of an airplane, and to it are typically attached the wings, tail, and sometimes the engines.  In single-propeller airplanes, the propeller is typically fixed at the front of the <ex>fuselage</ex>, although variants have been produced with the propeller at the rear.  Some airplanes have no fuselage, properly so called.</def><br/

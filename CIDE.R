@@ -650,7 +650,7 @@ That shall be <qex>racked</qex> even to the uttermost.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To rack one's brains</b></col> <it>or</it> <col><b>To rack one's brains out</b></col> <it>or</it> <col><b>To rack one's wits</b></col></mcol>, <cd>to exert one's thinking processes to the utmost for the purpose of accomplishing something; <as>as, I <ex>racked my brains out</ex> trying to find a way to solve the problem</as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- To torture; torment; rend; tear.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -1207,7 +1207,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 
 <p><ent>Radio-</ent><br/
 <hw>Ra"di*o-</hw> <pr>(r<amac/"d<icr/*<osl/-)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to, or employing, or operated by, radiant energy, specifically that of electromagnetic waves with frequencies between those of infrared radiation and X-rays; hence, pertaining to, or employed in, broadcast radio or television, microwaves, radiotelephones, etc.; <as>as, <ex>radio</ex> waves</as>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>of or pertaining to broadcast radio; <as>as, a <ex>radio</ex> program</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -1240,7 +1240,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>An image or picture produced upon a sensitive surface, as of a photographic or fluorescent plate, by some form of penetrating radiation other than light, as X-rays, beta rays, etc.; esp., a picture of the internal structure of opaque objects traversed by the rays; a skiagraph.  When the picture is produced upon photographic film by X-rays, the picture is usually called an <altname>X-ray photo</altname> or <altname>X-ray</altname>.  When an image is produced on photographic film by a radioactive substance in close proximity to the film, in a manner so as to record the spatial distribution of the radioactive substance, the resulting image is called an <stype>autoradiograph</stype> or <stype><er>autoradiogram</er></stype>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>radiograph</ent><br/
 <hw>ra"di*o*graph</hw> <pr>(r<amac/"d<icr/*<osl/*gr<acr/f)</pr>, <pos>v. t.</pos> <def>To make a radiograph of.</def> -- <wordforms><wf>ra`di*og"ra*pher</wf> <pr>(r<amac/`d<icr/*<ocr/g"r<adot/*f<etil/r)</pr>, <pos>n.</pos></wordforms><br/
@@ -1331,7 +1331,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 
 <p><ent>Radiotherapy</ent><br/
 <hw>Ra`di*o*ther"a*py</hw> <pr>(r<amac/`d<icr/*<ocr/*th<ecr/r"<adot/*p<ycr/)</pr>, <pos>n.</pos>  <ety>[<ets>Radio-</ets> + <ets>therapy</ets>.]</ety> <fld>(Med.)</fld> <def>Treatment of disease by means of x-rays or radioactivity.  Radiotherapy of cancer is based on the fact that cancer cells are more sensitive to radiation than most other cells in the body.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>radiothorium</ent><br/
 <hw>ra`di*o*tho"ri*um</hw> <pr>(r<amac/`d<icr/*<ocr/*th<ocir/r"<emac/*<ucr/m)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>an earlier name for the thorium isotope <altname>thorium-228</altname>, given by its discoverer <person>Otto Hahn</person>.  It is a radioactive substance formed as one of series of products in the chain of radioactive decay of thorium.  Its immediate predecessor in the chain is Actinium-228, and it decays by alpha emission to radium-224 with a half-life of 1.91 years.  The name <ex>radiothorium</ex> was given prior to the full understanding of the nature of isotopes of elements.</def><br/
@@ -1353,7 +1353,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 
 <p><ent>Radium</ent><br/
 <hw>Ra`di*um</hw> <pr>(r<amac/"d<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>radius</ets> ray.]</ety> <fld>(Chem.)</fld> <def>An intensely radioactive metallic element found (combined) in minute quantities in pitchblende, and various other uranium minerals. Symbol, <it>Ra</it>; atomic weight, 226.4.  Radium was discovered by M. and <person>Mme. Curie</person>, of Paris, who in 1902 separated compounds of it by a tedious process from pitchblende.  Its compounds color flames carmine and give a characteristic spectrum.  It is divalent, resembling barium chemically.  The main isotope of radium found in pitchblende, radium-226, has a half-life of 1620 years, decaying first by alpha emission to <er>radon</er>.</def> <note>Radium preparations are remarkable for maintaining themselves at a higher temperature than their surroundings, and for their radiations, which are of three kinds: <emits>alpha rays</emits>, <emits>beta rays</emits>, and <emits>gamma rays</emits> (see these terms). The beta and gamma rays seen in radium preparations are in fact due to disintegration of decay products of radium rather than the radium itself.  By reason of these rays they ionize gases, affect photographic plates, cause sores on the skin, and produce many other striking effects. Their degree of activity depends on the proportion of radium present, but not on its state of chemical combination or on external conditions.  The radioactivity of radium is therefore an atomic property, and is due to an inherent instability of the atomic nucleus which causes its decay in a process whose rate is first order. The disintegration of the radium nucleus is only the first in a series of nuclear disintegrations leading to production of a series of elements and isotopes.  The chain has at least seven stages; the successive main products have been studied and are <er>radon</er>, a gaseous radioactive element belonging chemically to the inert noble gas series (originally called  <ecol><b>radium emanation</b></ecol> or <ecol><b>exradio</b></ecol>, <ecol><b>radium A</b></ecol>, <ecol><b>radium B</b></ecol>, <ecol><b>radium C</b></ecol>, etc.  The successive products are unstable isotopes of several different elements, each with an atomic weight a little lower than its predecessor. Lead is the stable end product. At the same time, the light gas helium is formed, being generated when the expelled alpha particles (positively charged helium nuclei) acquire electrons.  Radium, in turn, is formed in the pitchblende ore by a slow disintegration of uranium.  Natural radium and also an isotope (radium-228, also called mesothorium I) formed by the decay of thorium, were at one time used to make a luminous paint for watch dials, until the danger of the radioactivity became fully appreciated, and use of such material in watches was discontinued.  See also <er>mesothorium</er>.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Radius</ent><br/
 <hw>Ra"di*us</hw> <pr>(r<amac/"d<icr/*<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Radii</plw> <pr>(r<amac/"d<icr/*<imac/)</pr>; E. <plw>Radiuses</plw> <pr>(r<amac/"d<icr/*<ucr/s*<ecr/z)</pr>.</plu> <ety>[L., a staff, rod, spoke of a wheel, radius, ray. See <er>Ray</er> a divergent line.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>A right line drawn or extending from the center of a circle to the periphery; the semidiameter of a circle or sphere.</def><br/
@@ -1805,7 +1805,7 @@ Of brazen chariots <qex>raged</qex>; dire was the noise.</q> <rj><qau>Milton.</q
 
 <p><ent>Ragtime</ent><br/
 <hw>Rag"time`</hw>, <pos>n.</pos> <fld>(Mus.)</fld> <def>a rhythm with a regular accompaniment in two-four time and a melody characterized by syncopation, first recognized in many negro melodies; also a style of American music in this rhythm.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Ragguled</ent><br/
 <ent>Raguled</ent><br/
@@ -1958,7 +1958,7 @@ The moonlight <qex>raid</qex>, the morning fight.</q> <rj><qau>Sir W. Scott.</qa
 
 <p><ent>Railing</ent><br/
 <hw>Rail"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>A barrier made of a rail or of rails, together with vertical supports.  The typical railing in the interior of structures or on porches has a horizontal rail near waist height, and multiple vertical supports.  Its function is usually to provide a safety barrier at the edge of a verticle drop to prevent falls.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Rails in general; also, material for making rails.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3391,7 +3391,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>The keeper of a public park or forest; formerly, a sworn officer of a forest, appointed by the king's letters patent, whose business was to walk through the forest, recover beasts that had strayed beyond its limits, watch the deer, present trespasses to the next court held for the forest, etc.</def> <mark>[Eng.]</mark> <note><ex>Rangers</ex> in U.S. national parks and national monuments perform a similar function.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Rangership</ent><br/
 <hw>Ran"ger*ship</hw>, <pos>n.</pos> <def>The office of the keeper of a forest or park.</def> <mark>[Eng.]</mark><br/
@@ -3938,7 +3938,7 @@ Shall they revive! nor death her <qex>rapes</qex> restore.</q> <rj><qau>Sandys.<
 <p><ent>Rapids</ent><br/
 <ent>Rapid</ent><br/
 <mhw><hw>Rap"id</hw>, <hw>Rap"ids</hw></mhw> <pr>(r<acr/p"<icr/dz)</pr> , <pos>n.</pos> <ety>[Cf. F. <ets>rapide</ets>. See <er>Rapid</er>, <pos>a.</pos>]</ety> <def>The part of a river where the current moves with great swiftness, but without actual waterfall or cascade; sometimes called <altname>whitewater</altname>; -- usually used in the plural; <as>as, the Lachine <ex>rapids</ex> in the St. Lawrence</as>.  For boaters on the river, it is a place that can be hazardous, with danger of capsizing or crashing into large rocks.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Row, brothers, row, the stream runs fast,<br/
 The <qex>rapids</qex> are near, and the daylight's past.</q> <rj><qau>Moore.</qau></rj><br/
@@ -4608,7 +4608,7 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 
 <p><ent>Rat</ent><br/
 <hw>Rat</hw> <pr>(r<acr/t)</pr>, <pos>n.</pos> <ety>[AS. <ets>r<ae/t</ets>; akin to D. <ets>rat</ets>, OHG. <ets>rato</ets>, <ets>ratta</ets>, G. <ets>ratte</ets>, <ets>ratze</ets>, OLG. <ets>ratta</ets>, LG. & Dan. <ets>rotte</ets>, Sw. <ets>r<aring/tta</ets>, F. <ets>rat</ets>, Ir. & Gael <ets>radan</ets>, Armor. <ets>raz</ets>, of unknown origin.  Cf. <er>Raccoon</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of several species of small rodents of the genus <gen>Rattus</gen> (formerly included in <gen>Mus</gen>) and allied genera, of the family <fam>Muridae</fam>, distinguished from mice primarily by being larger.  They infest houses, stores, and ships, especially the <styp><ecol><b>Norway rat</b></ecol></styp>, also called <stype>brown rat</stype>, (<spn>Rattus norvegicus</spn> formerly <spn>Mus decumanus</spn>), the <styp><ecol><b>black rat</b></ecol></styp> (<spn>Rattus rattus</spn> formerly <spn>Mus rattus</spn>), and the <styp><ecol><b>roof rat</b></ecol></styp> (formerly <spn>Mus Alexandrinus</spn>, now included in <spn>Rattus rattus</spn>). These were introduced into America from the Old World.  The white rat used most commonly in laboratories is primarily a strain derived from <spn>Rattus rattus</spn>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A round and tapering mass of hair, or similar material, used by women to support the puffs and rolls of their natural hair.</def> <mark>[Local, U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -4708,7 +4708,7 @@ No honor's got by such a maim.</q> <rj><qau>Hudibras.</qau></rj><br/
 
 <p><ent>Rate</ent><br/
 <hw>Rate</hw> <pr>(r<amac/t)</pr>, <pos>v. t. & i.</pos> <ety>[Perh. fr. E. <ets>rate</ets>, v. t., to value at a certain rate, to estimate, but more prob. fr. Sw. <ets>rata</ets> to find fault, to blame, to despise, to hold cheap; cf. Icel. <ets>hrat</ets> refuse, <ets>hrati</ets> rubbish.]</ety> <def>To chide with vehemence; to scold; to censure violently; to berate.</def>  <rj><au>Spenser.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Go, <qex>rate</qex> thy minions, proud, insulting boy!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5287,7 +5287,7 @@ As loud as thine <qex>rattle</qex> the welkin's ear.</q> <rj><qau>Shak.</qau></r
 
 <p><ent>Rattlesnake</ent><br/
 <hw>Rat"tle*snake`</hw> <pr>(r<acr/t"t'l*sn<amac/k`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of several species of venomous American snakes belonging to the genera <gen>Crotalus</gen> and <gen>Caudisona</gen>, or <gen>Sistrurus</gen>; sometimes also called <altname>rattler</altname>.  They have a series of horny interlocking joints at the end of the tail which make a sharp rattling sound when shaken.  The common rattlesnake of the Northern United States (<spn>Crotalus horridus</spn>), and the <stype>diamondback rattlesnake</stype> (also called <altname>diamondback rattler</altname>, and <altname>diamondback</altname>) of the South and East (<spn>Crotalus adamanteus</spn>) and West (<spn>Crotalus atrox</spn>), are the best known. See <xex>Illust.</xex> of <er>Fang</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Ground rattlesnake</b></col> <fld>(Zool.)</fld>, <cd>a small rattlesnake (<spn>Caudisona miliaria</spn> or <spn>Sistrurus miliaria</spn>) of the Southern United States, having a small rattle. It has nine large scales on its head.</cd> -- <col><b>Rattlesnake fern</b></col> <fld>(Bot.)</fld>, <cd>a common American fern (<spn>Botrychium Virginianum</spn>) having a triangular decompound frond and a long-stalked panicle of spore cases rising from the middle of the frond.</cd> -- <col><b>Rattlesnake grass</b></col> <fld>(Bot.)</fld>, <cd>a handsome American grass (<spn>Glyceria Canadensis</spn>) with an ample panicle of rather large ovate spikelets, each one composed of imbricated parts and slightly resembling the rattle of the rattlesnake. Sometimes called <altname>quaking grass</altname>.</cd> -- <col><b>Rattlesnake plantain</b></col> <fld>(Bot.)</fld>, <cd>See under <er>Plantain</er>.</cd> -- <col><b>Rattlesnake root</b></col> <fld>(Bot.)</fld>, <cd>a name given to certain American species of the composite genus <gen>Prenanthes</gen> (<spn>Prenanthes alba</spn> and <spn>Prenanthes serpentaria</spn>), formerly asserted to cure the bite of the rattlesnake.  Called also <altname>lion's foot</altname>, <altname>gall of the earth</altname>, and <altname>white lettuce</altname>.</cd> -- <col><b>Rattlesnake's master</b></col> <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A species of Agave (<spn>Agave Virginica</spn>) growing in the Southern United States</cd>. <sd>(b)</sd> <cd>An umbelliferous plant (<spn>Eryngium yuccaefolium</spn>) with large bristly-fringed linear leaves</cd>. <sd>(c)</sd> <cd>A composite plant, the blazing star (<spn>Liatris squarrosa</spn>).</cd> -- <col><b>Rattlesnake weed</b></col> <fld>(Bot.)</fld>, <cd>a plant of the composite genus <gen>Hieracium</gen> (<spn>Hieracium venosum</spn>); -- probably so named from its spotted leaves. See also <er>Snakeroot</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -5749,7 +5749,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bundle of rays</b></col>. <fld>(Geom.)</fld> <cd>See <cref>Pencil of rays</cref>, below.</cd> -- <col><b>Extraordinary ray</b></col> <fld>(Opt.)</fld>, <cd>that one of two parts of a ray divided by double refraction which does not follow the ordinary law of refraction.</cd> -- <col><b>Ordinary ray</b></col> <fld>(Opt.)</fld> <cd>that one of the two parts of a ray divided by double refraction which follows the usual or ordinary law of refraction.</cd> -- <col><b>Pencil of rays</b></col> <fld>(Geom.)</fld>, <cd>a definite system of rays.</cd> -- <mcol><col><b>Ray flower</b></col>, <it>or</it> <col><b>Ray floret</b></col></mcol> <fld>(Bot.)</fld>, <cd>one of the marginal flowers of the capitulum in such composite plants as the aster, goldenrod, daisy, and sunflower.  They have an elongated, strap-shaped corolla, while the corollas of the disk flowers are tubular and five-lobed.</cd> -- <col><b>Ray point</b></col> <fld>(Geom.)</fld>, <cd>the common point of a pencil of rays.</cd> -- <mcol><col><b>Roentgen ray</b></col>, <col><b>R<oum/ntgen ray</b></col></mcol> <pr>(r<etil/nt"g<ecr/n r<amac/`)</pr> <fld>(Phys.)</fld>, <cd>a form of electromagnetic radiation generated in a very highly exhausted vacuum tube by an electrical discharge; now more commonly called <altname>X-ray</altname>.  It is composed of electromagnetic radiation of wavelength shorter than that of ultraviolet light but longer than that of gamma rays.  It is capable of passing through many bodies opaque to light, and producing photographic and fluorescent effects by which means pictures showing the internal structure of opaque objects are made, called <xex>X-rays</xex>, <xex>radiographs</xex>, <xex>sciagraphs</xex>, <xex>X-ray photographs</xex>, <xex>radiograms</xex>. So called from the discoverer, <person>W. C. <etsep>R<oum/ntgen</etsep></person>.</cd> -- <col><b>X ray</b></col>, <cd>the R<oum/ntgen ray; -- so called by its discoverer because of its enigmatical character, <it>x</it> being an algebraic symbol for an unknown quantity.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ray</ent><br/
 <hw>Ray</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rayed</conjf> <pr>(r<amac/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Raying</conjf>.]</vmorph> <ety>[Cf. OF. <ets>raier</ets>, <ets>raiier</ets>, <ets>rayer</ets>, L. <ets>radiare</ets> to irradiate. See <er>Ray</er>, <pos>n.</pos>, and cf. <er>Radiate</er>.]</ety> <sn>1.</sn> <def>To mark with long lines; to streak.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -7237,7 +7237,7 @@ More feathers to our wings.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Reassemble</ent><br/
 <ent>re-assemble</ent><br/
 <mhw><hw>Re`as*sem"ble</hw>, <hw>Re`-as*sem"ble</hw></mhw> <pr>(r<emac/`<acr/s*s<ecr/m"b'l)</pr>, <pos>v. t. & i.</pos> <def>To assemble again; -- usually after having taking something apart.  Usually used without the hyphen.</def><br/
-[<source>1913 Webster</source>  <source>WordNet 1.5</source>]</p>
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Reassert</ent><br/
 <hw>Re`as*sert"</hw> <pr>(r<emac/`<acr/s*s<etil/rt")</pr>, <pos>v. t.</pos> <def>To assert again or anew; to maintain after an omission to do so.</def><br/
@@ -7312,7 +7312,7 @@ Till dauntless Pallas <qex>reassured</qex> the rest.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>Reattach</ent><br/
 <hw>Re`at*tach"</hw> <pr>(r<emac/`<acr/t*t<acr/ch")</pr>, <pos>v. t.</pos> <def>To attach again.</def> <note>The object reattached may have been an integral part which had never been "attached" (trans), e.g., to reattach a severed finger.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Reattachment</ent><br/
 <hw>Re`at*tach"ment</hw> <pr>(r<emac/`<acr/t*t<acr/ch"m<eit/nt)</pr>, <pos>n.</pos> <def>The act of reattaching; a second attachment.</def><br/
@@ -8305,7 +8305,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>Secret or abstruse part; <as>as, the difficulties and <ex>recesses</ex> of science; the deepest <ex>recesses</ex> of the mind</as>.</def>  <rj><au>I. Watts.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <fld>(Bot. & Zool.)</fld> <def>A sinus.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -8763,7 +8763,7 @@ Than ever did the adviser.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To reckon for</b></col>, <cd>to answer for; to pay the account for.</cd> <ldquo/If they fail in their bounden duty, they shall <xex>reckon for</xex> it one day.<rdquo/ <au>Bp. Sanderson.</au> -- <mcol><col><b>To reckon on</b></col> <col><b>To reckon upon</b></col></mcol>, <cd>to count or depend on; to include as a factor within one's considerations.</cd> -- <col><b>To reckon with</b></col>, <sd>(a)</sd> <cd>to settle accounts or claims with; -- used literally or figuratively.</cd> <sd>(b)</sd> <cd>to include as a factor in one's plans or calculations; to anticipate.</cd> <sd>(c)</sd> <cd>to deal with; to handle; <as>as, I have to <ex>reckon with</ex> raising three children as well as doing my job</as>.</cd> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>After a long time the lord of those servants cometh, and <qex>reckoneth with</qex> them.</q> <rj><qau>Matt. xxv. 19.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -8804,7 +8804,7 @@ Than ever did the adviser.</q> <rj><qau>Burns.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>To be out of her reckoning</b></col>, <cd>to be at a distance from the place indicated by the reckoning; -- said of a ship.</cd> -- <col><b>day of reckoning</b></col> <cd>the day or time when one must pay one's debts, fulfill one's obligations, or be punished for one's transgressions.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Reclaim</ent><br/
 <hw>Re*claim"</hw> <pr>(r<emac/*kl<amac/m")</pr>, <pos>v. t.</pos> <def>To claim back; to demand the return of as a right; to attempt to recover possession of.</def><br/
@@ -10790,7 +10790,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A hospital or ambulance service established as a result of, though not provided for by, the Geneva convention of 1864; any of the national societies for alleviating the sufferings of the sick and wounded war, also giving aid and relief during great calamities; also, a member or worker of such a society; -- so called from the badge of neutrality; the Geneva cross.</def> <note>In islamic countries, a similarly motivated affiliated organization is called the <contr>Red Crescent</contr>.  The American Red Cross was founded in 1881, largely due to the initiative of Clara Barton.  The <a href="http://www.redcross.org">American Red Cross</a> maintains a web page on the internet, where additional information can be found.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Redde</ent><br/
 <hw>Red"de</hw> <pr>(-de)</pr>, <mark>obs.</mark> <pos>imp.</pos> <mord>of <er>Read</er>, or <er>Rede</er>.</mord>  <rj><au>Chaucer.</au></rj><br/
@@ -11244,7 +11244,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Red-light district</ent><br/
 <hw>Red-light district</hw>. <def>A district or neighborhood in which houses of prostitution are located; -- so called in allusion to the red light kept in front of many such resorts at night.</def> <mark>[Colloq. or Cant]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Red light</ent><br/
 <hw>Red light</hw>. <sn>1.</sn> <def>an electrically operated set of lights at a road intersection which has different lights visible to traffic from different directions, designed to control vehicle traffic through the intersection.  Each set of lights typically has a colored red light and also green and amber lights; the color of the light which is lighted at any one time changes automatically to control the flow of traffic through the intersection, allowing flow from different directions in alternating succession.  Also called <altname><er>traffic light</er></altname>, <altname>traffic signal</altname> or <altname><er>stop light</er></altname>.  When the red light is illuminated the signal means to stop; green means to go; and amber means to stop or procede through the intersection with caution.  In simple intersections of two roads, a red light visible to traffic on one road will usually be accompanied by a green light visible to traffic on the intersecting road.  In some locations the lights may be set to be illuminated in other sequences or combinations; a blinking red light is typically equivalent to a <ldquo/stop<rdquo/ sign, and a blinking amber light typically means <ldquo/procede with caution<rdquo/.</def><br/
@@ -11488,14 +11488,14 @@ Of those whom fate pursues and wants oppress.</q> <rj><qau>Dryden.</qau></rj><br
 
 <p><ent>Redskin</ent><br/
 <hw>Red"skin`</hw> <pr>(-sk?n`)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A common appellation for a North American Indian; -- so called from the color of the skin.  It is now considered pejorative by some persons of North American Indian heritage.</def>  <rj><au>Cooper.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Football)</fld>  <def>A member of the <memberof><org>Washington Redskins</org></memberof>, a football team.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Redstart</ent><br/
 <hw>Red"start`</hw> <pr>(-st?rt`)</pr>, <pos>n.</pos> <ety>[<ets>Red</ets> + <ets>start</ets> tail.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small, handsome European singing bird (<spn>Phoenicurus phoenicurus</spn>, formerly <spn>Ruticilla phoenicurus</spn>), allied to the nightingale; -- called also <altname>redtail</altname>, <altname>brantail</altname>, <altname>fireflirt</altname>, <altname>firetail</altname>.  The black redstart is <spn>Phoenicurus ochruros</spn> (formerly <spn>Phoenicurus tithys</spn>), and is now rare and protected by law in England.  The name is also applied to several other species of <spn>Ruticilla</spn> and allied genera, native of India.</def> <sd>(b)</sd> <def>An American fly-catching warbler (<spn>Setophaga ruticilla</spn>).  The male is black, with large patches of orange-red on the sides, wings, and tail.  The female is olive, with yellow patches.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Redstreak</ent><br/
 <hw>Red"streak`</hw> <pr>(-str?k`)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A kind of apple having the skin streaked with red and yellow, -- a favorite English cider apple.</def>  <rj><au>Mortimer.</au></rj><br/
@@ -11590,7 +11590,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <fld>(Chem.)</fld> <def>To add an electron to an atom or ion.</def> <specif>Specifically:</specif> <def>To remove oxygen from; to deoxidize.</def> <fld>(Metallurgy)</fld> <def>To bring to the metallic state by separating from combined oxygen and impurities; <as>as, metals are <ex>reduced</ex> from their ores</as>.</def> <fld>(Chem.)</fld>  <def>To combine with, or to subject to the action of, hydrogen or any other reducing agent; <as>as, ferric iron is <ex>reduced</ex> to ferrous iron; aldehydes can be <ex>reduced</ex> to alcohols by lithium hydride;</as> -- opposed to <ant>oxidize</ant>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>8.</sn> <fld>(Med.)</fld> <def>To restore to its proper place or condition, as a displaced organ or part; <as>as, to <ex>reduce</ex> a dislocation, a fracture, or a hernia</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -12187,7 +12187,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 <p><ent>Reenforced concrete</ent><br/
 <hw>Reenforced concrete</hw>. <def>Concrete having within its mass a system of iron or steel supports, such as bars, rods, or a heavy mesh, to provide increased tensile strength and shear resistance.  Same as <er>Ferro-concrete</er>.</def><br/
 <syn><b>Syn. --</b> reinforced concrete.</syn>
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Reenforcement</ent><br/
 <hw>Re`en*force"ment</hw> <pr>(r?`?n*f?rs"m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of reenforcing, or the state of being reenforced.</def><br/
@@ -14918,10 +14918,10 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 
 <p><ent>Reichstag</ent><br/
 \'d8<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people. This term is no longer (in 1997) applied to the German parliament. See also <er>Bundesrath</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The national representative body of Hungary, consisting of a House of Magnates (including archdukes, peers, high officials of the Roman Catholic, Greek, and Protestant Churches, and certain other dignitaries) and a House of Representatives (in 1912 consisting of 453 members). See <er>Legislative</er>, <er>Diet</er>.</def> <mark>[archaic]</mark> <br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Reif</ent><br/
 <hw>Reif</hw> <pr>(r<emac/f)</pr>, <pos>n.</pos> <ety>[AS. <ets>re<aacute/f</ets>.]</ety> <def>Robbery; spoil.</def> <mark>[Obs.]</mark><br/
@@ -15115,7 +15115,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To rein in</b></col> <it>or</it> <col><b>To rein up</b></col></mcol>, <sd>(a)</sd> <cd>to check the speed of, or cause to stop, by drawing the reins.</cd> <specif>Hence,</specif> <sd>(a)</sd> <cd>to cause (a person) to slow down or cease some activity; -- <ex>to rein in</ex> is used commonly of superiors in a chain of command, ordering a subordinate to moderate or cease some activity deemed excessive.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Rein</ent><br/
 <hw>Rein</hw>, <pos>v. i.</pos> <def>To be guided by reins.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
@@ -15177,7 +15177,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Reinforced concrete</ent><br/
 <hw>Re`in*forced con"crete</hw>. <def>Concrete having within its mass a system of iron or steel supports, such as bars, rods, or a heavy mesh, to provide increased tensile strength and shear resistance.  Same as <er>Ferro-concrete</er>.</def> <altsp>[Also spelled <asp>reenforced concrete</asp>.]</altsp><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Reinforcement</ent><br/
 <hw>Re`in*force"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>See <er>Reenforcement</er>.</def><br/
@@ -18290,7 +18290,7 @@ Against the truth and thee unholy leagued.</q> <rj><qau>Sylvester.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Card Playing)</fld> <def>To revoke; to play a card that cannot legally be played according to the rules.</def> <mark>[R.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Renerve</ent><br/
 <hw>Re*nerve"</hw> <pr>(r?-n?rv")</pr>, <pos>v. t.</pos> <def>To nerve again; to give new vigor to; to reinvigorate.</def><br/
@@ -18412,10 +18412,10 @@ That did <qex>renew</qex> old Aeson.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>an infusion or preparation of the calf stomach lining, used for coagulating milk.  The active principle in this coagulating action is the enzyme <er>rennin</er>.</def> <altsp>[Written also <asp>runnet</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Cheese rennet</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Cheese</er>.</cd> -- <col><b>Rennet ferment</b></col> <fld>(Physiol. Chem.)</fld>, <cd>the enzyme <er>rennin</er>, present in rennet and in variable quantity in the gastric juice of most animals, which has the power of curdling milk. The enzyme presumably acts by changing the casein of milk from a soluble to an insoluble form.</cd> -- <col><b>Rennet stomach</b></col> <fld>(Anat.)</fld>, <cd>the fourth stomach, or abomasum, of ruminants.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Renneted</ent><br/
 <hw>Ren"net*ed</hw>, <pos>a.</pos> <def>Provided or treated with rennet.</def> <mark>[R.]</mark> <ldquo/Pressed milk <xex>renneted</xex>.<rdquo/  <rj><au>Chapman.</au></rj><br/
@@ -18783,7 +18783,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 <ent>re-organize</ent><br/
 <mhw><hw>Re*or"gan*ize</hw>, <hw>Re-or"gan*ize</hw></mhw> <pr>(r<esl/*<ocir/r"g<ait/n*<imac/z)</pr>, <pos>v. t. & i.</pos> <def>To organize again or anew; <as>as, to <ex>reorganize</ex> a society or an army</as>.</def><br/
 <syn><b>Syn. --</b> regroup.</syn><br/
-[<source>1913 Webster</source>  <source>WordNet 1.5</source>]</p>
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Reorient</ent><br/
 <hw>Re*o"ri*ent</hw> <pr>(r?-?"r?-<it>e</it>nt)</pr>, <pos>a.</pos> <def>Rising again.</def> <mark>[R.]</mark><br/
@@ -18927,7 +18927,7 @@ Of sleep, which instantly fell on me.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The act of making amends or giving satisfaction or compensation for a wrong, injury, etc.; also, the thing done or given; amends; satisfaction; indemnity; --used, e.g. in the phrase <col><b>make reparation</b></col>, <col><b>pay reparations</b></col>, <it>or</it> <col><b>make reparations</b></col>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>I am sensible of the scandal I have given by my loose writings, and make what <qex>reparation</qex> I am able.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21865,7 +21865,7 @@ Or exercise their spite in human woe?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Hence, to keep in store for future or special use; to withhold from present use for another purpose or time; to keep; to retain; to make a reservation{7}.</def>  <rj><au>Gen. xxvii. 35.</au></rj> <note>In cases where one person or party makes a request to an agent that some accommodation (such as a hotel room or place at a restaurant) be kept (<ex>reserved</ex>) for their use at a particular time, the word <ex>reserve</ex> applies both to the action of the person making the request, and to the action of the agent who takes the approproriate action (such as a notation in a book of reservations) to be certain that the accommodation is available at that time.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Hast thou seen the treasures of the hail, which I have <qex>reserved</qex> against the time of trouble?</q> <rj><qau>Job xxxviii. 22,23.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21909,7 +21909,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <fld>(Mil.)</fld> <sd>(a)</sd> <def>A body of troops in the rear of an army drawn up for battle, reserved to support the other lines as occasion may require; a force or body of troops kept for an exigency.</def> <sd>(b)</sd>  <def>troops trained but released from active service, retained as a formal part of the military force, and liable to be recalled to active service in cases of national need (see <er>Army organization</er>, above).</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <fld>(Banking)</fld> <def>Funds kept on hand to meet liabilities.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -22225,7 +22225,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>That which remains of a molecule after the removal of a portion of its constituents; hence, an atom or group regarded as a portion of a molecule; a <altname>moiety</altname> or <altname>group</altname>; -- used as nearly equivalent to <altname>radical</altname>, but in a more general sense.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The term <xex>radical</xex> is sometimes restricted to groups containing carbon, the term <xex>residue</xex> and <altname>moiety</altname> being applied to the others.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -22805,7 +22805,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 [<source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Electronics)</fld> <def>An electric phenomenon corresponding to that of acoustic resonance, due to the existance of certain relations of the capacity, inductance, resistance, and frequency of an alternating circuit; the tuning of a radio transmitter or receiver to send or detect waves of specific frequencies depends on this phenomenon.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Pulmonary resonance</b></col> <fld>(Med.)</fld>, <cd>the sound heard on percussing over the lungs.</cd> -- <col><b>Vocal resonance</b></col> <fld>(Med.)</fld>, <cd>the sound transmitted to the ear when auscultation is made while the patient is speaking.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -24421,7 +24421,7 @@ At wakes and wassails.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Retailer</ent><br/
 <hw>Re*tail"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who retails anything; <as>as, a <ex>retailer</ex> of merchandise; a <ex>retailer</ex> of gossip</as>; -- used also of businesses, including large corporations; <as>as, <org>Sears, Roebuck</org> is one the the country's largest <ex>retailers</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Retailment</ent><br/
 <hw>Re*tail"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of retailing.</def><br/
@@ -24909,7 +24909,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 
 <p><ent>Retinol</ent><br/
 <hw>Ret"i*nol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/<?/<?/ resin + L. <ets>ole</ets>um oil.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A hydrocarbon oil <chform>C32H16</chform>, obtained by the distillation of resin, -- used as a solvent, as an antiseptic, and in printer's ink.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>One of the compounds which function as vitamin A.  Called also <altname>vitamin A</altname>, <altname>vitamin A1</altname> and <altname>vitamin A alcohol</altname>.  See <er>vitamin A1</er>.</def><br/
 [<source>PJC</source>]</p>
@@ -28985,7 +28985,7 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Ricinine</ent><br/
 <hw>Ric"i*nine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ricinus</ets> castor-oil plant.]</ety> <fld>(Chem.)</fld> <def>A bitter white crystalline alkaloid (<chform>C8H8N2O2</chform>) extracted from the seeds of the castor-oil plant (<spn>Ricinus communalis</spn>).  Called also <altname>ricidine</altname>.  Ingestion may cause vomiting and various other toxic reactions, including liver and kidney damage, convulsions, hypotension, and death.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ricinoleate</ent><br/
 <hw>Ric`in*o"le*ate</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A salt of ricinoleic acid; -- formerly called <altname>palmate</altname>.</def><br/
@@ -28993,11 +28993,11 @@ Showers on her kings barbaric pearl and gold.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Ricinoleic</ent><br/
 <hw>Ric`in*o"le*ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or designating, a fatty acid analogous to oleic acid, obtained from castor oil as an oily substance, <chform>C18H34O3</chform> with a harsh taste. Formerly written <altname>ricinolic</altname> and formerly referred to as <altname>palmic</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>ricinoleic acid</ent><br/
 <hw>ric`in*o"le*ic ac"id</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An organic acid (<chform>C18H34O3</chform>) obtained from the castor-oil plant (<spn>Ricinus communis</spn>, or <spn>Palma Christi</spn>) and other species of the family <fam>Euphorbiaceae</fam>; chemicaly it is d-12-hydroxyoleic acid (<chform>CH3(CH2)5.CH(OH).CH2.CH=CH.(CH2)7COOH</chform>).   Formerly called <altname>palmic acid</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ricinolein</ent><br/
 <hw>Ric`in*o"le*in</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ricinus</ets> castor-oil plant + <ets>oleum</ets> oil.]</ety> <fld>(Chem.)</fld> <def>The glycerin salt of ricinoleic acid, occuring as a characteristic constituent of castor oil; -- formerly called <altname>palmin</altname>.</def><br/
@@ -31262,7 +31262,7 @@ Robbing a <qex>ripper</qex> of his fish.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 
 <p><ent>Riprap</ent><br/
 <hw>Rip"rap`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Rap</er>.]</ety> <fld>(Masonry)</fld> <def>A foundation or sustaining wall of stones thrown together without order, as in deep water or on a soft bottom, or in a river channel.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Riprap</ent><br/
 <hw>Rip"rap`</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Riprapped</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Riprapping</conjf>.]</vmorph> <def>To form a riprap in or <xex>upon</xex>.</def><br/
@@ -32939,7 +32939,7 @@ Supplants their footsteps.</q> <rj><qau>J. Philips .</qau></rj><br/
 
 <p><ent>Roger</ent><br/
 <hw>Rog"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From a proper name <ets>Roger</ets>.]</ety> <def>A black flag with white skull and crossbones, formerly used by pirates; -- called also <altname>Jolly Roger</altname> and <altname>pirate flag</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Rogue</ent><br/
 <hw>Rogue</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>rogue</ets> proud, haughty, supercilious; cf. Icel. <ets>hr<?/kr</ets> a rook, croaker (cf. <er>Rook</er> a bird), or Armor. <ets>rok</ets>, <ets>rog</ets>, proud, arogant.]</ety> <sn>1.</sn> <fld>(Eng.Law)</fld> <def>A vagrant; an idle, sturdy beggar; a vagabond; a tramp.</def><br/
@@ -33316,7 +33316,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Many of the species are brilliantly colored. The common European species (<spn>Coracias garrula</spn>) has the head, neck, and under parts light blue varied with green, the scapulars chestnut brown, and the tail blue, green, and black. The broad-billed rollers of India and Africa belong to the genus <gen>Eurystomus</gen>, as the oriental roller (<spn>Eurystomus orientalis</spn>), and the Australian roller, or dollar bird (<spn>Eurystomus Pacificus</spn>).  The latter is dark brown on the head and neck, sea green on the back, and bright blue on the throat, base of the tail, and parts of the wings.  It has a silvery-white spot on the middle of each wing.  The <stype>lilac-breasted roller</stype> of Africa is <spn>Corcia caudata</spn> <varn>caudata</varn>, a brightly colored bird of the family <fam>Corciidae</fam> having malachite green, blue, purple-lilac, brown and sea-green feathers from head to tail;  it is a popular sight with tourists in Africa.</note> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><h2>Zimbabwe Menu</h2><br/
     The Lilac-breasted Roller (also lilacbreasted roller, <spn>Coracias caudata</spn>) is a common resident in large parts of the Southern African region including <country>Zimbabwe</country>, <country>Zambia</country>, <country>Botswana</country>, <country>Namibia</country>, <country>Mozambique</country> and parts of <country>South Africa</country>.<br/
@@ -33341,7 +33341,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 
 <p><ent>Roller coaster</ent><br/
 <hw>Roller coaster</hw>. <def>An amusement railroad of varying design in which open cars coast by gravity over a long winding track in a closed circuit, with steep pitches and ascents, and in some cases loops in which the cars are briefly upside-down; typically, the cars are pulled by a chain device to the top of the first peak, after which gravity and momentum provide the only propulsive forces.  In some cases, the cars are suspended from a monorail rather than resting on a track, and such cars may be made to swing outward at an angle near to the horizontal.  It is a popular amusement at many amusement parks, but is sufficiently frightening to some people that they refuse to ride in one.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Roller skate</ent><br/
 <hw>Roll"er skate</hw>. <sn>1.</sn> <def>a shoe with a set of wheels attached so that the wearer can glide over a flat surface.  To move on such a device is reverred to as to skate or to rollerskate.  To rollerskate is a form of recreation or sport.</def><br/
@@ -33421,7 +33421,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 
 <p><ent>Romajikai</ent><br/
 <hw>Ro"ma*ji*ka`i</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Jap. <ets>r<omac/majikai</ets>, Roman character association.]</ety> <def>An association, including both Japanese and Europeans, having for its object the changing of the Japanese method of writing by substituting Roman letters for Japanese characters.  Laso known as <altname>Hyojun Romajikai</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Roman</ent><br/
 <hw>Ro"man</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Romanus</ets>, fr. <ets>Roma</ets> Rome: cf. F. <ets>romain</ets>.  Cf. <er>Romaic</er>, <er>Romance</er>, <er>Romantic</er>.]</ety> <sn>1.</sn> <def>Of or pertaining to Rome, or the Roman people; like or characteristic of Rome, the Roman people, or things done by Romans; <as>as, <ex>Roman</ex> fortitude; a <ex>Roman</ex> aqueduct; <ex>Roman</ex> art</as>.</def><br/
@@ -33830,7 +33830,7 @@ Of maiden <qex>rondure</qex>, like the rose half-blown.</q> <rj><qau>Lowell.</qa
 
 <p><ent>Roentgen ray</ent><br/
 <mhw><hw>R<oum/ntgen ray</hw>, <hw>Roentgen ray</hw></mhw>. <ety>[see <er>R<oum/ntgen</er>.]</ety> <fld>(Physics)</fld> <def>An <er>X-ray</er>; originally, the term was applied to any of the rays produced when cathode rays strike upon surface of a solid (as the wall of the vacuum tube), but now it refers specifically to electromagnetic radiation having wavelengths from 10<exp>-3</exp> nm to 10 nm, immediately below ultraviolet radiation on the wavelength scale.  R<oum/ntgen rays are noted for their penetration of opaque substances, as wood and flesh, their action on photographic plates, and their fluorescent effects.  They were called <altname>X rays</altname> by their discoverer, <person>W. K. R<oum/ntgen</person>.  They are one of the forms of <isa>ionizing radiation</isa>, which can have damaging effects on living cells.  They also ionize gases, but cannot be reflected, or polarized, or deflected by a magnetic field.  They are used in examining opaque objects, especially in medicine for visualizing organs and other objects inside the human body, as for locating fractures or bullets, and examining internal organs for abnormalities.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Rood</ent><br/
 <hw>Rood</hw> <pr>(r<oomac/d)</pr>, <pos>n.</pos> <ety>[AS. <ets>r<omac/d</ets> a cross; akin to OS. <ets>r<omac/da</ets>, D. <ets>roede</ets> rod, G. <ets>ruthe</ets>, <ets>rute</ets>, OHG. <ets>ruota</ets>.  Cf. <er>Rod</er> a measure.]</ety> <sn>1.</sn> <def>A representation in sculpture or in painting of the cross with Christ hanging on it.</def><br/
@@ -35183,7 +35183,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 
 <p><ent>Rotor</ent><br/
 <hw>Ro"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>The rotating part of a generator or motor.  Contrasted with <contr>stator</contr>, the stationary part.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Rotta</ent><br/
 <hw>Rot"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mus.)</fld> <def>See <er>Rota</er>.</def><br/
@@ -35778,7 +35778,7 @@ In a light fantastic <qex>round</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>14.</sn> <fld>(Mil.)</fld> <sd>(a)</sd> <def>A walk performed by a guard or an officer round the rampart of a garrison, or among sentinels, to see that the sentinels are faithful and all things safe; also, the guard or officer, with his attendants, who performs this duty; -- usually in the plural.</def> <sd>(b)</sd> <def>A general discharge of firearms by a body of troops in which each soldier fires once.</def> <sd>(c)</sd> <def>One piece of ammunition for a firearm, used by discharging one piece at a time; <as>as, each soldier carried a hundred <ex>rounds</ex> of ammunition</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>15.</sn> <fld>(Mus.)</fld> <def>A short vocal piece, resembling a catch in which three or four voices follow each other round in a species of canon in the unison.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -35787,7 +35787,7 @@ In a light fantastic <qex>round</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>17.</sn> <def>A vessel filled, as for drinking; <as>as, to drink a <ex>round</ex> od ale together</as>.</def> <mark>[R.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>18.</sn> <def>An assembly; a group; a circle; <as>as, a <ex>round</ex> of politicians</as>.</def>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -35919,7 +35919,7 @@ From whence clear memory may begin.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Roundabout</ent><br/
 <hw>Round"a*bout`</hw>, <pos>n.</pos> <sn>1.</sn> <def>A large horizontal wheel or frame, commonly with wooden horses, etc., on which children ride; a merry-go-round; a carousel.</def> <mark>[British]</mark>  <rj><au>Smart.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A dance performed in a circle.</def>  <rj><au>Goldsmith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -36627,7 +36627,7 @@ A goodly tree far distant to behold.</q> <rj><qau>milton.</qau></rj><br/
 
 <p><ent>Rowlock</ent><br/
 <hw>Row"lock</hw> <pr>(r<omac/"l<ocr/k <it>colloq.</it> r<ucr/l"<ucr/k)</pr>, <pos>n.</pos> <ety>[For <ets>oarlock</ets>; AS. <ets><amac/rloc</ets>, where the second part is akin to G. <ets>loch</ets> a hole, E. <ets>lock</ets> a fastening. See <er>Oar</er>, and <er>Lock</er>.]</ety> <sn>1.</sn> <fld>(Naut.)</fld> <def>A contrivance or arrangement serving as a fulcrum for an oar in rowing. It consists sometimes of a notch in the gunwale of a boat, sometimes of a pair of pins between which the oar rests on the edge of the gunwale, sometimes of a single pin passing through the oar, or of a metal fork or stirrup pivoted in the gunwale and suporting the oar; same as <er>oarlock</er>.</def> <mark>[Chiefly Brit.]</mark> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>One of the rings of masonry included in an arch having more than one ring.</def><br/
 [<source>PJC</source>]</p>
@@ -36919,7 +36919,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>India rubber; caoutchouc; gum elastic; -- also called <altname>natural rubber</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>Any substance, whether natural or synthetic, resembling India rubber with respect to its elasticity[1].</def><br/
 [<source>PJC</source>]</p>
@@ -37015,7 +37015,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>rubella</ent><br/
 \'d8<hw>ru*bel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>rubellus</ets> reddish.]</ety> <fld>(Med.)</fld> <def>An acute but mild viral infection characterized by a dusky red cutaneous eruption resembling that of measles, but attended by only mild respiratory problems or fever; -- called also <altname>German measles</altname>.  The infective virus is called <causedby>Rubella virus</causedby>, or <gen>Rubivirus</gen>. If contracted by a woman during the first several months of pregnancy, <ex>rubella</ex> may cause serious abnormalities in the fetus.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>rubella virus</ent><br/
 <hw>ru*bel"la vi"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The virus that causes <causes>rubella</causes>.</def><br/
@@ -38982,7 +38982,7 @@ Which all the while <qex>ran</qex> blood, great Caesar fell.</q> <rj><qau>Shak.<
 [<source>1913 Webster</source>]</p>
 
 <p><sn>15.</sn> <fld>(Sport)</fld> <def>In baseball, a complete circuit of the bases made by a player, which enables him to score one point; also, the point thus scored; in cricket, a passing from one wicket to the other, by which one point is scored; <as>as, a player made three <ex>runs</ex>; the side went out with two hundred <ex>runs</ex>; the Yankees scored three <ex>runs</ex> in the seventh inning</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The <ldquo/<qex>runs</qex><rdquo/ are made from wicket to wicket, the batsmen interchanging ends at each <qex>run</qex>.</q> <rj><qau>R. A. Proctor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -39003,7 +39003,7 @@ Which all the while <qex>ran</qex> blood, great Caesar fell.</q> <rj><qau>Shak.<
 [<source>1913 Webster</source>]</p>
 
 <p>-- <col><b>Home run</b></col>. <sd>(a)</sd> <cd>A running or returning toward home, or to the point from which the start was made.</cd> Cf. <cref>Home stretch</cref>. <sd>(b)</sd> <fld>(Baseball)</fld> <cd>See under <er>Home</er>.</cd> -- <mcol><col><b>The run</b></col>, <it>or</it> <col><b>The common run</b></col>, <it>or</it> <col><b>The run of the mill</b></col> etc.</mcol>, <cd>ordinary persons; the generality or average of people or things; also, that which ordinarily occurs; ordinary current, course, or kind.</cd><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>I saw nothing else that is superior to <qex>the common run</qex> of parks.</q> <rj><qau>Walpole.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -39680,7 +39680,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 <p><ent>Russian Orthodox Church</ent><br/
 <ent>Russian Church</ent><br/
 <mhw><hw>Rus"sian Church</hw>, <hw>Rus"sian Or"tho*dox Church</hw></mhw>. <def>The established church of the Russian empire up to the revolution of 1917, at which time the ruling Communist party tried to suppress all religious worship.  The czar was the nominal head of the church, but he never claimed the right of deciding questions of theology and dogma. It still forms a portion, by far the largest, of the Orthodox (Eastern) Church and is governed by the Patriarch and the Holy Synod. In 1988 the church, with official approval, celebrated the 1000 year anniversary of the baptism of Russia.  After breakup of the Soviet Union in 1991 the Russian Church began to regain some its old influence in Russian life, and the government turned over some of the confiscated churches back to church control.  The Russian Church was recognized anew as the official church of Russia, with special priveleges, by an act of the Russian Duma in 1997.  The Metropolitan of Moscow, as Patriarch of the church, is regarded as the first among equals in order of deference among bishops of the church.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Russianize</ent><br/
 <hw>Rus"sian*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To make Russian, or more or less like the Russians; <as>as, to <ex>Russianize</ex> the Poles</as>.</def><br/

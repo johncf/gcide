@@ -140,7 +140,7 @@
 <ent>Jahveh</ent><br/
 <mhw>{ <hw>Yah"weh</hw> <pr>(y<aum/"w<ecr/)</pr>, <hw>Yah"we</hw>, <pos>prop. n.</pos> Also <hw>Jah"veh</hw> <pr>(y<aum/"w<ecr/)</pr>, <hw>Jah"ve</hw>, <hw>Yahve</hw>, <hw>Yahveh</hw>, etc. }</mhw> <def>A modern transliteration of the Hebrew word translated <altname>Jehovah</altname> in the Bible; -- used by some critics to discriminate the tribal god of the ancient Hebrews from the Christian <ex>Jehovah</ex>.  <ex>Yahweh</ex> or <altname>Yahwe</altname> is the spelling now generally adopted by scholars.</def><br/
 <syn><b>Syn. --</b> Yahwe, Yahveh, Wahvey, Jahve, Jahveh, Jahvey, Jahweh, Jehovah.</syn><br/
-[<source>Webster 1913 Suppl.</source> <source>+WordNet 1.5</source> <source>+CM</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source> + <source>CM</source>]</p>
 
 <p><ent>Yahwism</ent><br/
 <ent>Jahvism</ent><br/
@@ -545,7 +545,7 @@ In which she had a cock, hight chanticleer.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A fore-and-aft-rigged vessel with two masts, a mainmast carrying a mainsail and jibs, taller than the mizzenmast and stepped a little farther forward than in a <contr>sloop</contr>, and with the mizzenmast, or jiggermast far aft, usually placed aft of the water line or aft the rudder post.  The mizzenmast of a yawl is smaller, and set further aft, than that of a <contr>sloop</contr>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+RH</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>RH</source>]</p>
 
 <p><ent>Yawl</ent><br/
 <hw>Yawl</hw>, <pos>v. i.</pos> <ety>[OE. <ets><yogh/aulen</ets>, <ets><yogh/oulen</ets>, <ets>gaulen</ets>, <ets>goulen</ets>, Icel. <ets>gaula</ets> to low, bellow.  Cf. <er>Gowl</er>.]</ety> <def>To cry out like a dog or cat; to howl; to yell.</def>  <rj><au>Tennyson.</au></rj><br/
@@ -1215,7 +1215,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 
 <p><ent>Yen</ent><br/
 \'d8<hw>Yen</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The unit of value and account in Japan. The <ex>yen</ex> is equal to 100 <xex>sen</xex>. From Japan's adoption of the gold standard, in 1897, to about 1913 the value of the yen was about 50 cents. In 1997 and 1998 the value of the yen varied from 80 per U. S. dollar to 120 per dollar.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Yend</ent><br/
 <hw>Yend</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To throw; to cast.</def>  <mark>[Prov. Eng.]</mark><br/
@@ -2008,7 +2008,7 @@ The conqueror are quickly broke.</q> <rj><qau>Hudibras.</qau></rj><br/
 
 <p><ent>Yom Kippur</ent><br/
 <hw>Yom` Kip*pur"</hw> <pr>(y<omac/m`k<icr/*p<oocr/r", y<aum/m`k<icr/*p<oocr/r")</pr>, <ety>[Heb. y<omac/m kipp<umac/r, day of atonement.]</ety> <fld>(Jewish Antiq.)</fld> <def>the only fast day of the Mosaic ritual, celebrated on the tenth day of the seventh month (Tishri), according to the rites described in Leviticus xvi. Also called <altname>Day of Atonement</altname>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Yon</ent><br/
 <hw>Yon</hw> <pr>(y<ocr/n)</pr>, <pos>a.</pos> <ety>[OE. <ets>yon</ets>, <ets><yogh/on</ets>, AS. <ets>geon</ets>; akin to G. <ets>jener</ets>, OHG. <ets>jen<emac/r</ets>, Icel. <ets>enn</ets>, <ets>inn</ets>; cf. Goth. <ets>jains</ets>. <root/188.  Cf. <er>Beyond</er>, <er>Yond</er>, <er>Yonder</er>.]</ety> <def>At a distance, but within view; yonder.</def>  <mark>[Poetic]</mark><br/
@@ -2175,7 +2175,7 @@ Their callow <qex>young</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>young-bearing</ent><br/
 <hw>young"-bear*ing</hw> <pr>(?)</pr>, <pos>adj.</pos> <sn>1.</sn>  <fld>(Zool.)</fld> <def>being the sex that produces ova and carries the fetus to a point where it can live outside the parent; -- of animals.</def> <mark>[prenominal]</mark><br/
 <syn><b>Syn. --</b> egg-producing(prenominal).</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>young-begetting</ent><br/
 <hw>young"-be*get`ting</hw> <pr>(?)</pr>, <pos>adj.</pos>  <fld>(Biology)</fld> <def>Being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation, usually male.  In contradistinction to <contr>female</contr> or <contr>androgynous</contr>.</def><br/
@@ -2218,7 +2218,7 @@ Their callow <qex>young</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Young Men's Christian Association</ent><br/
 <hw>Young Men's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and physical welfare of young men, founded, June 6, 1844, by George Williams (knighted therefor by Queen Victoria) in London. In 1851 it extended to the United States and Canada, and in 1855 representatives of similar organizations throughout Europe and America formed an international body. The movement has successfully expanded not only among young men in general, but also specifically among railroad men, in the army and navy, with provision for Indians and negroes, and a full duplication of all the various lines of oepration in the boys' departments.  It currently (1998) maintains buildings which usually have both recreational facilities and dormitories for dwelling.  It is usually called by its acronym <altname>YMCA</altname>.  See also the similar organizations <er>Young Women's Christian Association</er> and <er>YMHA</er>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Youngness</ent><br/
 <hw>Young"ness</hw>, <pos>n.</pos> <def>The quality or state of being young.</def><br/
@@ -2249,7 +2249,7 @@ Their callow <qex>young</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Young Women's Christian Association</ent><br/
 <hw>Young Women's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and economic welfare of young women, originating in 1855 with Lady Kinnaird's home for young women, and Miss Emma Robert's prayer union for young women,in England, which were combined in the year 1884 as a national association. Now nearly all the civilized countries, and esp. the United States, have local, national, and international organizations.  See also the similar organizations <er>Young Men's Christian Association</er> and <er>YMHA</er>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Younker</ent><br/
 <hw>Youn"ker</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>jonker</ets>, <ets>jonkeer</ets>; <ets>jong</ets> young + <ets>heer</ets> a lord, sir, gentleman.  See <er>Young</er>, <pos>a.</pos>]</ety> <def>A young person; a stripling; a yonker.</def>  <mark>[Obs. or Colloq.]</mark><br/
@@ -2467,7 +2467,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 
 <p><ent>Yttrium</ent><br/
 <hw>Yt"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from <ets>Ytter</ets>by, in Sweden.  See <er>Erbium</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of the boron-aluminium group, found in gadolinite and other rare minerals, and extracted as a dark gray powder.  Symbol <it>Y</it>.  Atomic number 39.  Atomic weight, 88.9.</def>  <altsp>[Written also <asp>ittrium</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ Associated with yttrium are certain rare elements, as erbium, ytterbium, samarium, etc., which are separated in a pure state with great difficulty. They are studied by means of their spark or phosphorescent spectra. Yttrium is now regarded as probably not a simple element, but as a mixture of several substances.</note><-- yttrium has been isolated as a pure element. --><br/
 [<source>1913 Webster</source>]</p>

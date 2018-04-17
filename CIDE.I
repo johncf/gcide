@@ -320,7 +320,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 
 <p><ent>icehouse</ent><br/
 <hw>ice"house`</hw> <pos>n.</pos> <def>a building used for storing ice, especially one built partly below ground and insulated so as to preserve ice obtained during the winter from frozen lakes or rivers.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Icelander</ent><br/
 <hw>Ice"land*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A native, or one of the Scandinavian people, of Iceland.</def><br/
@@ -637,7 +637,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Gr. Ch.)</fld> <def>A sacred picture representing the Virgin Mary, Christ, a saint, or a martyr, and having the same function as an image of such a person in the Latin Church.  The term is used especially for a highly stylized and conventionalized representation of a holy person, rich in symbolism and used in devotional services in many of the eastern Orthodox churches, especially the Greek and Russian Orthodox Churches.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>a symbol, especially a symbol whose form suggests its meaning or the object it represents.</def><br/
 [<source>PJC</source>]</p>
@@ -1016,7 +1016,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>One who holds the doctrine of idealism, in any sense.  In senses 4 and 5 of <er>idealism</er>, opposed to <contr>realist</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Idealistic</ent><br/
 <hw>I*de`al*is"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to idealists or their theories.</def><br/
@@ -1173,7 +1173,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>I*den"ti*fy</hw> <pr>(?)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To become the same; to coalesce in interest, purpose, use, effect, etc.</def> <mark>[Obs. or R.]</mark></p>
 
 <p><sn>2.</sn> <def>To coalesce in interest, purpose, use, effect, etc.; to associate oneself in name, goals, or feelings; usually used with <ptcl>with</ptcl>; <as>as, he <ex>identified</ex> with the grief she felt at her father's death</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>An enlightened self-interest, which, when well understood, they tell us will <qex>identify</qex> with an interest more enlarged and public.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -1375,7 +1375,7 @@ And to just <qex>idioms</qex> fix our doubtful speech.</q> <rj><qau>Prior.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A combination of words having a meaning peculiar to itself and not predictable as a combination of the meanings of the individual words, but sanctioned by usage; <as>as, an <ex>idiomatic</ex> expression</as>; less commonly, a single word used in a peculiar sense.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>It is not by means of rules that such <qex>idioms</qex> as the following are made current: <ldquo/I can <examp>make nothing</examp> of it.<rdquo/ <ldquo/He <examp>treats</examp> his subject <examp>home</examp>.<rdquo/  <au>Dryden</au>. <ldquo/It is that within us that <examp>makes for</examp> righteousness.<rdquo/ <au>M. Arnold</au>.</q> <rj><qau>Gostwick (Eng. Gram.)</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -1477,7 +1477,7 @@ And to just <qex>idioms</qex> fix our doubtful speech.</q> <rj><qau>Prior.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A human being destitute of the ordinary intellectual powers, whether congenital, developmental, or accidental; commonly, a person without understanding from birth; a natural fool.  In a former classification of mentally retarded people, <ex>idiot</ex> designated a person whose adult level of intelligence was equivalent to that of a three-year old or younger; this corresponded with an I.Q. level of approximately 25 or less.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Life . . . is a tale<br/
 Told by an <qex>idiot</qex>, full of sound and fury,<br/
@@ -1630,7 +1630,7 @@ Beside a wandering stream.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 
 <p><ent>Ido</ent><br/
 <hw>I"do</hw> <pr>(<emac/"d<omac/)</pr>, <pos>n.</pos> <def>An artificial international language, selected by the <ldquo/Delegation for the Adoption of an Auxillary International Language<rdquo/ (founded at Paris in 1901), made public in 1907, and subsequently greatly revised and extended by a permanent committee or <ldquo/Academy.<rdquo/   It is a revised and simplified form of <er>Esperanto</er>.  It combines systematically the advantages of previous schemes with a thoroughly logical word formation, and has neither accented constants nor arbitrarily coined pronominal words. For each idea that root is selected which is already most international, on the principle of the <ldquo/greatest facility for the greatest number of people.<rdquo/ The word <ldquo/Ido<rdquo/ means in the language itself <ldquo/offspring.<rdquo/ The official name is: <ldquo/Linguo Internaciona di la Delegitaro (Sistema Ido).<rdquo/</def> -- <wordforms><wf>I"dism</wf> <pr>(#)</pr>, <pos>n.</pos> -- <wf>I"dist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Idocrase</ent><br/
 <hw>Id"o*crase</hw> <pr>(<icr/d"<osl/*kr<amac/s; 277)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e'i^dos</grk> form + <grk>kra^sis</grk> mixture, from <grk>keranny`nai</grk> to mix; cf. F. <ets>idocrase</ets>.]</ety> <fld>(Min.)</fld> <def>Same as <er>Vesuvianite</er>.</def><br/
@@ -1930,7 +1930,7 @@ e-mail:  rod.beavon@westminster.org.uk</qau></rj><br/
 <p><ent>ignited</ent><br/
 <hw>ignited</hw> <pos>adj.</pos> <def>set afire or burning.</def><br/
 <syn><b>Syn. --</b> enkindled, kindled, lit, lighted.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>igniter</ent><br/
 <hw>igniter</hw> <pos>n.</pos> <sn>1.</sn> <def>a substance used to ignite or kindle a fire.</def><br/
@@ -2361,11 +2361,11 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Of that ilk</b></col>, <sd>(a)</sd> <cd>denoting that a person's surname and the title of his estate are the same; as, <xex>Grant of that ilk</xex>, i.e., <xex>Grant of Grant</xex>.</cd> <mark>[Scottish]</mark>   <rj><au>Jamieson.</au></rj>  <sd>(a)</sd>  <cd>Of the same kind.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ilk</ent><br/
 <hw>Ilk</hw> <pr>(<icr/lk)</pr>, <pos>n.</pos> <def>Kind; class; sort; type; <as>as, him and his <ex>ilk</ex></as>; -- sometimes used to indicate disapproval when applied to people.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ilke</ent><br/
 <hw>Il"ke</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Ilk</er>.]</ety> <def>Same.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -2672,7 +2672,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <ent>ill-humored</ent><br/
 <mhw><hw>ill-humored</hw> <hw>ill-humoured</hw></mhw> <pos>adj.</pos>  <def>ill-natured; having a sour, disagreeable, or surly disposition.  Opposite of <ant>good-natured</ant>.</def><br/
 <syn><b>Syn. --</b> crusty, curmudgeonly, gruff.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Illiberal</ent><br/
 <hw>Il*lib"er*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>illiberalis</ets>; pref. <ets>il-</ets> not + <ets>liberalis</ets> liberal: cf. F. <ets>illib<eacute/ral</ets>.]</ety> <sn>1.</sn> <def>Not liberal; not free or generous; close; niggardly; mean; sordid.</def> <ldquo/A thrifty and <xex>illiberal</xex> hand.<rdquo/  <rj><au>Mason.</au></rj><br/
@@ -2890,12 +2890,12 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <p><ent>ill-sorted</ent><br/
 <hw>ill-sorted</hw> <pos>adj.</pos> <def>not well matched.</def><br/
 <syn><b>Syn. --</b> incompatible, mismated, unsuited.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Ill-starred</ent><br/
 <hw>Ill"-starred`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Fated to be unfortunate; unlucky; <as>as, an <ex>ill-starred</ex> man or day</as>.</def><br/
 <syn><b>Syn. --</b> ill-fated, ill-omened, unlucky.</syn><br/
-[<source>1913 Webster</source> <source>WordNet 1.5</source>]</p>
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Ill-tempered</ent><br/
 <hw>Ill`-tem"pered</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of bad temper; grouchy; morose; crabbed; sour; peevish; fretful; quarrelsome.</def><br/
@@ -3893,7 +3893,7 @@ By whom in bliss <qex>imbosomed</qex> sat the Son.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A complicated and embarrassing state of things; a serious misunderstanding or disagreement, especially one that is bitter.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Wrestling to free itself from the baleful <qex>imbroglio</qex>.</q> <rj><qau>Carlyle.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5828,7 +5828,7 @@ Have we marched on without <qex>impediment</qex>.</q> <rj><qau>Shak.</qau></rj><
 <p><ent>impelled</ent><br/
 <hw>impelled</hw> <pos>adj.</pos>  <def>motivated by an irresistable compulsion.</def><br/
 <syn><b>Syn. --</b> driven.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Impellent</ent><br/
 <hw>Im*pel"lent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>impellens</ets>, p. pr. of <ets>impellere</ets>.]</ety> <def>Having the quality of impelling.</def><br/
@@ -6202,7 +6202,7 @@ These are <qex>imperial</qex> arts, and worthy thee.</q> <rj><qau>Dryden.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The policy, practice, or advocacy of seeking, or acquiescing in, the extension of the control, dominion, or empire of a nation, as by the acquirement of new, esp. distant, territory or dependencies, or by the closer union of parts more or less independent of each other for operations of war, copyright, internal commerce, etc.    The practise of building or extending an empire.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>The tide of English opinion began to turn about 1870, and since then it has run with increasing force in the direction of what is called <qex>imperialism</qex>.</q>  <rj><qau>James Bryce.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -6574,7 +6574,7 @@ Reason in madness!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Fig.: Impulse; incentive; stimulus; vigor; force; <as>as, the President's strong recommendation provided the <ex>impetus</ex> needed to pass the campaign reform bill</as>.</def>  <rj><au>Buckle.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Gun.)</fld> <def>The altitude through which a heavy body must fall to acquire a velocity equal to that with which a ball is discharged from a piece.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -7378,7 +7378,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>To impose on</b></col> <it>or</it> <col><b>To impose upon</b></col></mcol>, <sd>(a)</sd>  <cd>to pass or put a trick on; to delude; to cheat; to defraud.</cd> <ldquo/He <xex>imposes on</xex> himself, and mistakes words for things.<rdquo/  <rj><au>Locke.</au></rj>  <sd>(b)</sd> <cd>to place an unwelcome burden or obligation on (another person); <as>as, she <ex>imposed on</ex> her friend to drive her daughter to school</as>.</cd>   <sd>(c)</sd> <cd>to take unfair advantage of (a person, a friendship); <as>as, he <ex>imposed on</ex> his friendship with The Mayor to gain business</as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Impose</ent><br/
 <hw>Im*pose"</hw>, <pos>n.</pos> <def>A command; injunction.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
@@ -7604,7 +7604,7 @@ And fill the world with follies and <qex>impostures</qex>.</q> <rj><qau>Johnson.
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Law & Med.)</fld> <def>Lack of procreative power; inability to copulate, or beget children; also, sometimes, sterility; barrenness;</def> <specif>specifically, in males:</specif> <def>the inability to achieve or sustain a penile erection; erectile dysfunction.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>impregnated</ent><br/
 <hw>impregnated</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>fertilized</er>, 1.</def> <hascons>fertile (vs. infertile)</hascons><br/
@@ -7632,7 +7632,7 @@ Nor <qex>impotent</qex> to save.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>Wanting the power of procreation; unable to copulate; also, sometimes, sterile; barren;</def> <specif>specifically, in males:</specif> <def>unable to achieve or sustain a penile erection.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Impotent</ent><br/
 <hw>Im"po*tent</hw>, <pos>n.</pos> <def>One who is impotent.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
@@ -7644,7 +7644,7 @@ Nor <qex>impotent</qex> to save.</q> <rj><qau>Addison.</qau></rj><br/
 
 <p><ent>Impound</ent><br/
 <hw>Im*pound"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Impounded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Impounding</conjf>.]</vmorph> <def>To shut up or place in an inclosure called a <xex>pound</xex>; hence, to hold in the custody of some authority such as police or a court; <as>as, to <ex>impound</ex> stray cattle; to <ex>impound</ex> an illegally parked car; to <ex>impound</ex> a document for safe keeping.</as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>But taken and <qex>impounded</qex> as a stray,<br/
 The king of Scots.</q> <rj><qau>Shak.</qau></rj><br/
@@ -8613,7 +8613,7 @@ This sudden mischief never could have fallen.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To bring about, arrange, do, or make, immediately or on short notice, without previous preparation and with no known precedent as a guide.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Charles attempted to <qex>improvise</qex> a peace.</q> <rj><qau>Motley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -8697,7 +8697,7 @@ Usurp the chair of wit.</q> <rj><qau>B. Jonson.</qau></rj></p>
 
 <p><ent>Impudent</ent><br/
 <hw>Im"pu*dent</hw> <pr>(<icr/m"p<usl/*d<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>impudens</ets>, <ets>-entis</ets>; pref. <ets>im-</ets> not + <ets>pudens</ets> ashamed, modest, p. pr. of <ets>pudere</ets> to feel shame: cf. F. <ets>impudent</ets>.]</ety> <sn>1.</sn> <def>Behaving boldly, with contempt or disregard for propriety in behavior toward others; unblushingly forward; impertinent; saucy.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>More than <qex>impudent</qex> sauciness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -8778,7 +8778,7 @@ With open mouths, and <qex>impudently</qex> rail.</q> <rj><qau>Sandys.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A mental force which simply and directly urges to action; hasty inclination; sudden motive; momentary or transient influence of appetite or passion; propension; incitement; <as>as, a man of good <ex>impulses</ex>; passion often gives a violent <ex>impulse</ex> to the will; to buy something on <ex>impulse</ex>.</as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>These were my natural <qex>impulses</qex> for the undertaking.</q> <rj><qau>Dryden.</qau></rj></p>
 
@@ -9139,7 +9139,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Ins and outs</b></col>, <sd>(a)</sd> <cd>nooks and corners; twists and turns.</cd> <sd>(b)</sd> <cd>the peculiarities or technicalities (of a subject); intricacies; details; -- used with <ptcl>of</ptcl>; <as>as, he knew the <ex>ins and outs</ex> of the Washington power scene</as>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>All the <qex>ins and outs</qex> of this neighborhood.</q> <rj><qau>D. Jerrold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -9206,7 +9206,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 
 <p><ent>Inaccurate</ent><br/
 <hw>In*ac"cu*rate</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not accurate; not according to truth; inexact; not quite correct; incorrect; erroneous; <as>as, in <ex>inaccurate</ex> man, narration, copy, judgment, calculation, etc.</as></def>  <note>The term <ex>inaccurate</ex> is usually used when an assertion or result is near to the truth, but not exactly, or has some basis for belief; however, it is sometimes used as a gentle euphemism for <sig>wrong</sig> even if the error is flagrant.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The expression is plainly <qex>inaccurate</qex>.</q> <rj><qau>Bp. Hurd.</qau></rj></p>
 
@@ -9232,7 +9232,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <p><ent>inactivate</ent><br/
 <hw>inactivate</hw> <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>inactivated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>inactivating</conjf>.]</vmorph> <def>to make inactive; <as>as, boiling will <ex>inactivate</ex> most enzymes; acetylation of the antibiotic <ex>inactivated</ex> it</as>.</def><br/
 <syn><b>Syn. --</b> deactivate.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><note><hand/  To <ex>inactivate</ex> an enzyme or chemical usually renders it permanently inactive; to <ex>inactivate</ex> a machine (as by turning a switch) may be reversible, and for machines and devices, the term <contr>deactivate</contr> is usually used.  The distinction is worth preserving.</note><br/
 [<source>PJC</source>]</p>
@@ -9765,7 +9765,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 
 <p><ent>Inauguration Day</ent><br/
 <hw>In*au`gu*ra"tion Day</hw>. <def>The day on which the President of the United States is inaugurated, the 20th of January in every year next after a year divisible by four.  Prior to the adoption of the twentieth amendment to the Constitution of the United States (ratified February 6, 1933) the date was the 4th of March.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Inaugurator</ent><br/
 <hw>In*au"gu*ra`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who inaugurates.</def><br/
@@ -9955,7 +9955,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Incandescent lamp</b></col>, <col><b>Incandescent light</b></col>, <col><b>Incandescent light bulb</b></col></mcol> <fld>(Elec.)</fld>, <cd>a kind of lamp in which the light is produced by a thin filament of conducting material, now usually tungsten, but originally carbon, contained in a vacuum or an atmosphere of inert gas within a glass bulb, and heated to incandescence by an electric current. It was inventerd by Thomas Edison, and was once called the <altname>Edison lamp</altname>; -- called also <altname>incandescence lamp</altname>, and <altname>glowlamp</altname>.  This is one of the two most common sources of electric light, the other being the <contr>fluorescent light</contr>, <contr>fluorescent lamp</contr> or <contr>fluorescent bulb</contr>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Incanescent</ent><br/
 <hw>In`ca*nes"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>incanescens</ets>, p. pr. <ets>incanescere</ets> to become gray.]</ety> <def>Becoming hoary or gray; canescent.</def><br/
@@ -10555,7 +10555,7 @@ They batter'd day and night and entrance did await.</q> <rj><qau>Spenser.</qau><
 
 <p><ent>Incest</ent><br/
 <hw>In"cest</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>inceste</ets>, L. <ets>incestum</ets> unchastity, incest, fr. <ets>incestus</ets> unchaste; pref. <ets>in-</ets> not + <ets>castus</ets> chaste. See <er>Chaste</er>.]</ety> <def>The crime of cohabitation or sexual intercourse between persons related within the degrees wherein marriage is prohibited by law;</def> <specif>broadly,</specif> <def>sexual relations between closely related persons, usually taken as first cousins or closer.</def>  <rj><au>Shak.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Spiritual incest</b></col>. <fld>(Eccl. Law)</fld> <sd>(a)</sd> <cd>The crime of cohabitation committed between persons who have a spiritual alliance by means of baptism or confirmation.</cd> <sd>(b)</sd> <cd>The act of a vicar, or other beneficiary, who holds two benefices, the one depending on the collation of the other.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -10713,7 +10713,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Inchon</ent><br/
 <hw>Inchon</hw> <pos>prop. n.</pos> <def>The name of a town in Korea and of a battle in the Korean War (1950), in which United Nations forces made an amphibious landing at Inchon, a harbor on the west coast of Korea.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Inchpin</ent><br/
 <hw>Inch"pin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>inchipin</ets>, <ets>inche-pinne</ets>, <ets>inne-pinne</ets>.]</ety> <ety>[Cf. Gael. <ets>inne</ets>, <ets>innidh</ets>, bowel, entrail.]</ety> <def>The sweetbread of a deer.</def>  <rj><au>Cotgrave.</au></rj><br/
@@ -10906,10 +10906,10 @@ There riseth a new creation.</q> <rj><qau>Skelton.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>The act of incising, or cutting into a substance;</def> <specif>specifically:</specif> <fld>(Med.)</fld> <def>the cutting action made during surgery to gain access to the body parts under the skin.</def>  <rj><au>Milton.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>That which is produced by incising; the separation of the parts of any substance made by a cutting or pointed instrument; a cut; a gash;</def> <specif>specifically</specif> <fld>(Med.)</fld> <def>the cut in the skin made during surgery to gain access to the interior of the body.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Separation or solution of viscid matter by medicines.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -11446,7 +11446,7 @@ Of golden metal that must round my brow.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physics)</fld> <def>Not capable of being reduced to the form of a liquid by pressure; -- said of any gas above its <er>critical temperature</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Physics)</fld> <def>That can note be confined in, or excluded from, vessels, like ordinary fluids, gases, etc.; -- said of the imponderable fluids, heat, light, electricity, etc.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11919,7 +11919,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Wanting the legal or constitutional qualifications; inadmissible; <as>as, a person professedly wanting in religious belief is an <ex>incompetent</ex> witness in a court of law or equity; <ex>incompetent</ex> evidence; a mentally defective person is <ex>incompetent</ex> to care for himself and requires a legal guardian.</as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Richard III. had a resolution, out of hatred to his brethren, to disable their issues, upon false and <qex>incompetent</qex> pretexts, the one of attainder, the other of illegitimation.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -12730,7 +12730,7 @@ As it might come to seem the same in show.</q> <rj><qau>Daniel.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Formed into a corporation and registered with a government body as such; made a legal entity.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Incorporation</ent><br/
 <hw>In*cor`po*ra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>incorporatio</ets>: cf. F. <ets>incorporation</ets>.]</ety><br/
@@ -13368,7 +13368,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 [<source>PJC</source>]</p>
 
 <p><cs><mcol><col><b>Period of incubation</b></col>, <it>or</it>  <col><b>Stage of incubation</b></col></mcol> <fld>(Med.)</fld>, <cd>the period which elapses between exposure to the causes of an infectious disease and the attack resulting from it; the time during which an infective agent must grow in the body before producing overt symptoms of disease.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Incubative</ent><br/
 <hw>In"cu*ba*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to incubation, or to the period of incubation.</def><br/
@@ -13379,10 +13379,10 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An apparatus containing an enclosed chamber, used for the cultivation of micro<oum/rganisms or tissue cultures by maintaining a suitable temperature and atmospheric composition.  Some incubators have no provision for maintaining a special atmosphere, while in others, especially for anaerobic organisms and tissue culture, the moisture level and composition of the gases are also controlled.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn>  <fld>(Med.)</fld> <def>An apparatus consisting of enclosed chamber, for maintaining prematurely born babies in a favorable environment until able to thrive under normal conditions.  The temperature and level of oxygen in the atmosphere may be controlled.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Incubatory</ent><br/
 <hw>In*cu"ba*to*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Serving for incubation.</def><br/
@@ -13818,7 +13818,7 @@ Have wasted Sogdiana.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Indazole</ent><br/
 <hw>In"da*zole</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ind</ets>ol + <ets>az</ets>ote.]</ety> <fld>(Chem.)</fld> <def>A bicyclic nitrogenous compound, <chform>C7H6N2</chform>, analogous to indole, having a benzene ring fused to a pyrazole ring; called also <altname>indazol</altname> and <altname>benzopyrazole</altname>.  It can be produced from a diazo derivative of cinnamic acid.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inde</ent><br/
 <hw>Inde</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Azure-colored; of a bright blue color.</def> <mark>[Obs.]</mark>  <rj><au>Rom. of R.</au></rj><br/
@@ -14419,7 +14419,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><ent>indentured</ent><br/
 <hw>indentured</hw> <pos>adj.</pos>  <def>Bound by contract to work for another for a specified period of time.</def><br/
 <syn><b>Syn. --</b> apprenticed, articled, bound.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Independence</ent><br/
 <hw>In`de*pend"ence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>ind<eacute/pendance</ets>.]</ety><br/
@@ -14622,7 +14622,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>That which points out; that which shows, indicates, manifests, or discloses; <as>as, the increasing unemployment rate is an <ex>index</ex> of how much the economy has slowed</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Tastes are the <qex>indexes</qex> of the different qualities of plants.</q> <rj><qau>Arbuthnot.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -14631,7 +14631,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A table for facilitating reference to topics, names, and the like, in a book, usually giving the page on which a particular word or topic may be found; -- usually alphabetical in arrangement, and printed at the end of the volume.  Typically found only in non-fiction books.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>A prologue indicating what follows.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -14735,10 +14735,10 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 
 <p><ent>Indian corn</ent><br/
 <hw>Indian corn</hw> <fld>(Bot.)</fld>, <def>A cereal plant of the genus <gen>Zea</gen> (<spn>Zea Mays</spn>), also simply called <altname>corn</altname>, used widely as a food; the maize, a native plant of America;</def> <specif>more specifically:</specif> <def>a primitive variety of <spn>Zea Mays</spn> having variegated kernels on each cob, in distinction from the more commonly used <contr>yellow corn</contr>; it is often used as decoration  at Thanksgiving time. See <er>Corn</er>, and <er>Maize</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/  In modern American usage, the word <ex>corn</ex> when unmodified usually refers to yellow corn, and <ex>Indian corn</ex> refers to the variegated variety.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Indianeer</ent><br/
 <hw>In`di*an*eer"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>An Indiaman.</def><br/
@@ -14761,7 +14761,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Chem.)</fld> <def>A glucoside (<chform>C14H17NO6</chform>) obtained from woad (indigo plant, <spn>Isatis Tinctoria</spn>) and other plants (see <er>indigo</er>), as a yellow or light brown sirup. When purified it is obtained as spear-shaped crystals.  It has a nauseous bitter taste.  By the action of acids, enzymes, etc., it breaks down into sugar and indigo. It is the source of <cnvto>natural indigo</cnvto>.   Chemically it is the 3-glucoside of indole, <chname>H-indol-3-yl-<beta/-D-glucopyranoside</chname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physiol. Chem.)</fld> <def>An indigo-forming substance, found in urine, and other animal fluids, and convertible into red and blue indigo (<xex>urrhodin</xex> and <xex>uroglaucin</xex>). Chemically, it is indoxyl sulphate of potash, <chform>C8H6NSO4K</chform>, and is derived from the indol formed in the alimentary canal. Called also <altname>uroxanthin</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -14786,7 +14786,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>To show or manifest by symptoms; to point to as the proper remedies; <as>as, great prostration of strength <ex>indicates</ex> the use of stimulants</as>.  Opposite of <ant>contraindicate</ant>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mach.)</fld> <def>To investigate the condition or power of, as of steam engine, by means of an indicator.</def></p>
 
@@ -15801,7 +15801,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Indium</ent><br/
 <hw>In"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Indigo</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element, of atomic number 49, discovered in certain ores of zinc, by means of its characteristic spectrum of two indigo blue lines; hence, its name. In appearance it resembles zinc, being white or lead gray, soft, malleable and easily fusible, but in its chemical relation it resembles aluminium or gallium (valence +3). Symbol In. Atomic weight, 114.82.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><-- p. 754 --></p>
 
@@ -15900,7 +15900,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Individualize</ent><br/
 <hw>In`di*vid"u*al*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Individualized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Individualizing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[Cf. F. <ets>individualiser</ets>.]</ety> <def>To mark as an individual, or to distinguish from others by peculiar properties; to invest with individuality; to give distinctive character to; to make distinctive; to enable differentiation from others of similar type; -- of properties of things.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The peculiarities which <qex>individualize</qex> and distinguish the humor of Addison.</q> <rj><qau>N. Drake.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -16108,7 +16108,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Indol</ent><br/
 <ent>Indole</ent><br/
 <mhw><hw>In"dole</hw>, <hw>In"dol</hw></mhw> <pr>(<icr/n"d<omac/l)</pr>, <pos>n.</pos> <ety>[<ets>Ind</ets>igo + <ets>-ol</ets> of <ets>phenol</ets>.]</ety> <fld>(Chem., Physiol. Chem.)</fld> <def>A white, crystalline substance, <chform>C8H7N</chform>, obtained from blue indigo, and almost all indigo derivatives, by a process of reduction; chemically, it is <chname>2,3-benzopyrrole</chname>, a bicyclic heterocyclic compound, having a benzene ring fused to a pyrrole ring.  It is also formed from proteinaceous matter, together with skatol, by putrefaction, and by fusion with caustic potash, and is present in human excrement, as well as in the intestinal canal of some herbivora.  It is produced in rich growth media by the intestinal bacterium <spn>Escherichia coli</spn>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>indoleacetic acid</ent><br/
 <hw>in"dole*a*cet"ic ac"id</hw> <pr>(<icr/n"d<omac/l)</pr>, <pos>n.</pos>  <fld>(Chem., Bot.)</fld> <def>A plant hormone (<chform>C10H9NO2</chform>) recognized as the principle growth regulator in higher plants; called also <altname>heteroauxin</altname>.  Abbreviated <altname>IAA</altname>.  Chemically it is <chname>1H-indole-3-acetic acid</chname>.</def><br/
@@ -16217,7 +16217,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Indophenol</ent><br/
 <hw>In`do*phe"nol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ind</ets>igo + <ets>phenol</ets>.]</ety> <fld>(Chem.)</fld> <def>Any one of a series of artificial blue dyestuffs, resembling indigo in appearance, and obtained by the action of phenol on certain nitrogenous derivatives of quinone. Simple indophenol proper, the parent compound of the dye series, is a quinonimine derivative with the formula <chform>C12H9NO2</chform>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Indorsable</ent><br/
 <hw>In*dors"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being indorsed; transferable; convertible.</def><br/
@@ -16383,7 +16383,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>To bring on; to effect; to cause; <as>as, a fever <ex>induced</ex> by fatigue or exposure; anaphylactic shock <ex>induced</ex> by exposure to a allergen</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Sour things <qex>induces</qex> a contraction in the nerves.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -16904,13 +16904,13 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 
 <p><ent>-ine</ent><br/
 <hw>-ine</hw> <pr>(?; 104)</pr>. <sn>1.</sn> <fld>(Chem.)</fld> <def>A suffix, indicating that those substances of whose names it is a part are <xex>basic</xex>, in their nature, i.e. contain a basic nitrogen group.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ All organic bases, and basic substances (especially nitrogenous substances), are systematically written with the termination <xex>-ine</xex>; <as>as, quin<ex>ine</ex>, pyrid<ex>ine</ex>, morph<ex>ine</ex>, guanid<ex>ine</ex>, etc.</as>  Certain substances containing nitrogen though with net neutral character (as certain amino acids) also end in <ex>-ine</ex>, such valine and glycine.  All indifferent and neutral substances, as proteids, glycerides, glucosides, etc., should commonly be spelled with <xex>-in</xex>; as, gelat<xex>in</xex>, amygdal<xex>in</xex>, etc. This rule has no application to those numerous commercial or popular names with the termination <xex>-ine</xex>; as, gasol<xex>ine</xex>, vasel<xex>ine</xex>, etc.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Organ. Chem.)</fld> <def>A suffix, formerly used to indicate <sig>hydrocarbons of the second degree of unsaturation</sig>; i. e., members of the acetyline series; <as>as, <ex>hexine</ex>, <ex>heptine</ex>, etc.,</as> but now superseded by the ending <altname>-yne</altname>, as in prop<xex>yne</xex>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inearth</ent><br/
 <hw>In*earth"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To inter.</def> <mark>[R.]</mark>  <rj><au>Southey.</au></rj><br/
@@ -17026,7 +17026,7 @@ That cheer but not <qex>inebriate</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 
 <p><ent>Ineffective</ent><br/
 <hw>In`ef*fect"ive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>in-</ets> not + <ets>effective</ets>: cf. F. <ets>ineffectif</ets>.]</ety> <def>Not effective; not having the desired effect; ineffectual; futile; inefficient; useless; <as>as, an <ex>ineffective</ex> appeal; an <ex>ineffective</ex> herbal remedy</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The word of God, without the spirit, [is] a dead and <qex>ineffective</qex> letter.</q> <rj><qau>Jer. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -17116,7 +17116,7 @@ That cheer but not <qex>inebriate</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 
 <p><ent>Inefficient</ent><br/
 <hw>In`ef*fi"cient</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Not efficient; not producing the effect intended or desired, or achieiving the effect by unnnecessary and excessive expenditure of resources; inefficacious; <as>as, <ex>inefficient</ex> means or measures; <ex>inefficient</ex> methods are too expensive</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Incapable of, or indisposed to, effective action; habitually slack or remiss; effecting little or nothing; <as>as, <ex>inefficient</ex> workmen; an <ex>inefficient</ex> administrator.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -17436,7 +17436,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Physics)</fld> <def>That property of matter by which it tends when at rest to remain so, and when in motion to continue in motion, and in the same straight line or direction, unless acted on by some external force; -- sometimes called <altname>vis inerti<ae/</altname>.  The <ex>inertia</ex> of a body is proportional to its mass.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Inertness; indisposition to motion, exertion, or action; lack of energy; sluggishness.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -17513,7 +17513,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Not essential; not required to achieve a given purpose; unessential; unnecessary.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inestimable</ent><br/
 <hw>In*es"ti*ma*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>inaestimabilis</ets>: cf. F. <ets>inestimable</ets>. See <er>In-</er> not, and <er>Estimate</er>.]</ety> <def>Incapable of being estimated or computed; especially, too valuable or excellent to be measured or fully appreciated; above all price; <as>as, <ex>inestimable</ex> rights or privileges</as>.</def><br/
@@ -17872,7 +17872,7 @@ Of circuit <qex>inexpressible</qex> they stood.</q> <rj><qau>Milton.</qau></rj><
 
 <p><ent>Inexpressibles</ent><br/
 <hw>In`ex*press"i*bles</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>Breeches; trousers; ; underwear generally, especially women's; -- now usually referred to as <altname>unmentionables</altname>.</def> <mark>[Colloq. or Slang]</mark> <rj><au>Ld. Lytton.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inexpressibly</ent><br/
 <hw>In`ex*press"i*bly</hw>, <pos>adv.</pos> <def>In an inexpressible manner or degree; unspeakably; unutterably.</def>  <rj><au>Spectator.</au></rj><br/
@@ -18170,7 +18170,7 @@ More <qex>infamous</qex> by cursed Lycaon made.</q> <rj><qau>Dryden.</qau></rj><
 
 <p><ent>Infantile paralysis</ent><br/
 <hw>In"fan*tile pa*ral"y*sis</hw>. <fld>(Med.)</fld> <def>An acute viral disease, affecting almost exclusively infants and young adults, characterized by inflammation of the anterior horns of the gray substance of the spinal cord. It is attended with febrile symptoms, motor paralysis, and muscular atrophy, often producing permanent deformities. Called also <altname>acute anterior poliomyelitis</altname>, <altname>poliomyelitis</altname> and <altname>polio</altname>.  It is caused by any one of three polioviruses, and by the end of the twentieth century had been almost completely eradicated in developed countries by a widespread campaign of immunization.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Infantine</ent><br/
 <hw>In"fan*tine</hw> <pr>(?; 277)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>enfantin</ets>.]</ety> <def>Infantile; childish.</def><br/
@@ -18651,7 +18651,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 
 <p><ent>Infertile</ent><br/
 <hw>In*fer"tile</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>infertilis</ets>: cf. F. <ets>infertile</ets>. See <er>In-</er> not, and <er>Fertile</er>.]</ety> <def>Not fertile; not productive; barren; sterile; unable to propagate its kind; <as>as, an <ex>infertile</ex> soil</as>; an <ex>infertile</ex> hybrid; -- of living things and of soil or land.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Infertilely</ent><br/
 <hw>In*fer"tile*ly</hw>, <pos>adv.</pos> <def>In an infertile manner.</def><br/
@@ -18728,14 +18728,14 @@ And as silently steal away.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><ent>Infidel</ent><br/
 <hw>In"fi*del</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>infidelis</ets>; pref. <ets>in-</ets> not + <ets>fidelis</ets> faithful, fr. <ets>fides</ets> faith: cf. F. <ets>infid<egrave/le</ets>. See <er>Fidelity</er>.]</ety> <def>Not holding the faith; -- applied by Christians to one who does not believe in the inspiration of the Scriptures, and the supernatural origin of Christianity; used by Muslims to refer to those who do not believe in Islam.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The <qex>infidel</qex> writer is a great enemy to society.</q> <rj><qau>V. Knox.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infidel</ent><br/
 <hw>In"fi*del</hw>, <pos>n.</pos> <def>One who does not believe in the prevailing religious faith; a heathen; a freethinker; -- used especially by Christians and Muslims.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ <xex>Infidel</xex> is used by English writers to translate the equivalent word used Muslims in speaking of Christians and other disbelievers in Muslimism.</note></p>
 
@@ -18810,7 +18810,7 @@ And as silently steal away.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>The act or process of infiltrating, as of water into a porous substance, of a fluid into the cells of an organ or part of the body, or of persons into a hostile organization.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The substance which has entered the pores or cavities of a body.</def>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -19171,7 +19171,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>A morbid condition of any part of the body, consisting in congestion of the blood vessels, with obstruction of the blood current, and growth of morbid tissue. It is manifested outwardly by redness and swelling, attended with tenderness, heat and pain.  It may be caused by exposure to any number of injurious agents.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Violent excitement; heat; passion; animosity; turbulence; <as>as, an <ex>inflammation</ex> of the mind, of the body politic, or of parties</as>.</def>  <rj><au>Hooker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -19254,7 +19254,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Persistent expansion or increase in the general level of prices, usually caused by overissue of currency, and resulting in a reduced value of the currency.  It is contrasted with <contr>deflation</contr>, and is when it occurs to a very high degree is called <er>hyperinflation</er>.</def> <mark>[U.S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inflationist</ent><br/
 <hw>In*fla"tion*ist</hw>, <pos>n.</pos> <def>One who favors an increased or very large issue of paper money.</def> <mark>[U.S.]</mark><br/
@@ -19533,7 +19533,7 @@ On you hath frown'd, and poured, his <qex>influence</qex> bad?<rdquo/</q> <rj><q
 
 <p><ent>Influenza</ent><br/
 <hw>In`flu*en"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. <ets>influenza</ets> influence, an epidemic formerly attributed by astrologers to the influence of the heavenly bodies, influenza. See <er>Influence</er>.]</ety> <fld>(Med.)</fld> <def>An epidemic viral infectious disease characterized by acute nasal catarrh, or by inflammation of the throat or the bronchi, and usually accompanied by fever and general weakness; also called <altname>grippe</altname>.  It is caused by several forms of <causedby>RNA virus</causedby> which mutate readily and thereby render vaccines prepared against older forms ineffective, often requiring a new form of vaccine for each new outbreak.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Influx</ent><br/
 <hw>In"flux`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>influxus</ets>, fr. <ets>influere</ets>, <ets>influxum</ets>, to flow in: cf. F. <ets>influx</ets>. See <er>Influent</er>.]</ety> <sn>1.</sn> <def>The act of flowing in; <as>as, an <ex>influx</ex> of light</as>.</def><br/
@@ -19688,7 +19688,7 @@ was hanged.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any fact or set of facts, knowledge, news, or advice, whether communicated by others or obtained by personal study and investigation; any datum that reduces uncertainty about the state of any part of the world; intelligence; knowledge derived from reading, observation, or instruction.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Larger opportunities of <qex>information</qex>.</q> <rj><qau>Rogers.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -19900,7 +19900,7 @@ was hanged.</q> <rj><qau>Burke.</qau></rj><br/
 <p><ent>Infra-red</ent><br/
 <ent>Infrared</ent><br/
 <mhw><hw>In`fra*red"</hw>, <hw>In`fra-red"</hw></mhw> <pr>(?)</pr>, <pos>a.</pos>  <ety>[<ets>Infra-</ets> + <ets>red</ets>.]</ety> <sn>1.</sn> <fld>(Physics)</fld> <def>Lying outside the visible spectrum at its red end; -- said of rays having a longer wavelength (and thus less refrangible) than the extreme red rays, specifically those electromagnetic waves having a wavelength of between 700 nanometers and 1 millimeter.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>relating to, using, or producing infrared radiation.</def><br/
 [<source>PJC</source>]</p>
@@ -20225,7 +20225,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 
 <p><ent>Infusoria</ent><br/
 \'d8<hw>In`fu*so"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; -- so called because found in infusions which are left exposed to the air for a time. See <er>Infuse</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Protozoa, including a large number of species, all of minute size.  Formerly, the term was applied to any microbe found in infusions of decaying organic material, but the term is now applied more specifically to one of the classes of the phylum <phylum>Ciliophora</phylum>, of ciliated protozoans.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ (From 1913 dictionary): They are found in all seas, lakes, ponds, and streams, as well as in infusions of organic matter exposed to the air.  They are distinguished by having vibrating lashes or cilia, with which they obtain their food and swim about.  They are devided into the orders <ord>Flagellata</ord>, <ord>Ciliata</ord>, and <ord>Tentaculifera</ord>. See these words in the Vocabulary.</p>
 
@@ -20237,7 +20237,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Infusorial earth</b></col> <fld>(Geol.)</fld>, <cd>a deposit of fine, usually white, siliceous material, composed mainly of the shells of the microscopic plants called <compof>diatoms</compof>; also called <altname>diatomaceous earth</altname>, <altname>kieselguhr</altname>, and <altname>diatomite</altname>. It is used in polishing powder, and in the manufacture of dynamite.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Infusorian</ent><br/
 <hw>In`fu*so"ri*an</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>One of the Infusoria.</def><br/
@@ -20317,7 +20317,7 @@ The last of sounds, and what she hears relates.</q> <rj><qau>Sandys.</qau></rj><
 
 <p><ent>Ingena</ent><br/
 \'d8<hw>In*ge"na</hw> <pr>(<icr/n*g<emac/"n<adot/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The gorilla.</def> <mark>[Archaic]</mark> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ingender</ent><br/
 <hw>In*gen"der</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>See <er>Engender</er>.</def><br/
@@ -20869,7 +20869,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 <ent>in-group</ent><br/
 <mhw><hw>in"-group`</hw>, <hw>in" group`</hw></mhw> <pos>n.</pos> <def>an exclusive circle of people with a common purpose, interests, or attitudes, especially one that produces feelings of camaraderie, exclusivity, community, and solidarity.</def><br/
 <syn><b>Syn. --</b> clique, coterie, ingroup, inner circle, pack, camp.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Ingrowing</ent><br/
 <hw>In"grow`ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Growing or appearing to grow into some other substance.</def><br/
@@ -20877,10 +20877,10 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Ingrown</ent><br/
 <hw>In"grown`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having grown or appearing to grow into some other substance, especially a fingernail or toenail growing into the adjacent flesh.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Ingrown toenail</b></col>, <cd>a toenail whose edges have becoming imbedded in the adjacent flesh.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ingrowth</ent><br/
 <hw>In"growth`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A growth or development inward.</def>  <rj><au>J. LeConte.</au></rj><br/
@@ -21060,7 +21060,7 @@ Or other ground <qex>inhabitable</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>Inhalant</ent><br/
 <hw>In*hal"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An apparatus also called an <altname>inhaler</altname> (which see); also, that which is to be inhaled, especially a medicine taken by inhalation.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inhalation</ent><br/
 <hw>In`ha*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>inhalation</ets>.]</ety> <def>The act of inhaling; also, that which is inhaled.</def><br/
@@ -21086,7 +21086,7 @@ Or other ground <qex>inhabitable</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An apparatus for inhaling any vapor or volatile substance, such as ether or chloroform, or an aerosol mist of a solution, for medicinal purposes; <as>as, he alway carried his <ex>inhaler</ex> around in his pocket in case he had asthmatic attack</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>A contrivance to filter, as air, in order to protect the lungs from inhaling damp or cold air, noxious gases, dust, etc.; also, the respiratory apparatus for divers.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -21172,7 +21172,7 @@ Or other ground <qex>inhabitable</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <p><-- p. 764 --></p>
 
 <p><sn>2.</sn> <def>To receive or take by birth; to have by nature; to derive or acquire from ancestors, as mental or physical qualities, genes, or genetic traits; <as>as, he <ex>inherits</ex> a strong constitution, a tendency to disease, etc.; to <ex>inherit</ex> hemophilia</as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Prince Harry is valiant; for the cold blood he did naturally <qex>inherit</qex> of his father he hath . . . manured . . . with good store of fertile sherris.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21765,7 +21765,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 
 <p><ent>injectable</ent><br/
 <hw>injectable</hw> <pos>adj.</pos> <sn>1.</sn> <def>capable of being conveniently injected; -- used of drug preparations, such as sterile lyophilize medicine in a serum-capped vial.  Opposite of <ant>uninjectable</ant>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Requiring injection for administration; -- of drugs, especially those not active by oral administration.  Opposite of <contr>orally active</contr>.</def><br/
 [<source>PJC</source>]</p>
@@ -21784,7 +21784,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Injection cock</b></col>, <it>or</it> <col><b>Injection valve</b></col></mcol> <fld>(Steam Eng.)</fld>, <cd>the cock or valve through which cold water is admitted into a condenser.</cd> -- <col><b>Injection condenser</b></col>. <cd>See under <er>Condenser</er>.</cd> -- <col><b>Injection pipe</b></col>, <cd>the pipe through which cold water is through into the condenser of a steam engine.</cd> -- <col><b>fuel injection</b></col>, <cd>a method of inserting fuel into internal-combustion engines by directly forcing the liquid fuel into the combustion chamber at an appropriate point in the piston cycle; in contrast to <contr>carburetion</contr>, in which an air-fuel mixture is drawn in by the downward stroke of the piston.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Injector</ent><br/
 <hw>In*ject"or</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, injects.</def><br/
@@ -21874,7 +21874,7 @@ The high <qex>injunction</qex>, not to taste that fruit.</q> <rj><qau>Milton.</q
 
 <p><ent>injured</ent><br/
 <hw>injured</hw> <pos>adj.</pos> <sn>1.</sn> <def>having received an injury;-- usually used of physical or mental injury to persons.  Opposite of <ant>uninjured</ant>.</def> [Narrower terms: <stype>abraded, scraped, skinned </stype>; <stype>battle-scarred, scarred</stype>; <stype>bit, bitten, stung </stype>; <stype>black-and-blue, livid </stype>; <stype>bruised, contused, contusioned </stype>; <stype>bruised, hurt, wounded </stype>; <stype>burned</stype>; <stype>cut, gashed, slashed, split </stype>; <stype>disabled, hors de combat, out of action </stype>; <stype>disjointed, dislocated, separated </stype>; <stype>hurt, wounded </stype>; <stype>lacerated, mangled, torn</stype>; <stype>maimed, mutilated </stype>] <see>Also See: <er>broken</er>, <er>damaged</er>, <er>damaged</er>, <er>impaired</er>, <er>unsound</er>, <er>wronged</er>.</see><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>subjected to an injustice.</def><br/
 <syn><b>Syn. --</b> aggrieved.</syn><br/
@@ -22406,7 +22406,7 @@ Governs the <qex>inner</qex> man, the nobler part.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The state or turn of being in; specifically, in cricket, baseball, etc., each period during which both teams get one turn each at bat; <as>as, in baseball there are nine <ex>innings</ex> to a complete game;</as> -- often in the <pluf>pl.</pluf></def> <specif>Hence:</specif> <def>The turn or time of a person, or a party, in power; <as>as, the Whigs went out, and the Democrats had their <ex>innings</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <pluf>pl.</pluf> <def>Lands recovered from the sea.</def>  <rj><au>Ainsworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -22422,7 +22422,7 @@ Governs the <qex>inner</qex> man, the nobler part.</q> <rj><qau>Milton.</qau></r
 <p><ent>Innkeeper</ent><br/
 <hw>Inn"keep`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who keeps an inn; the proprietor or manager of an inn or hotel.</def><br/
 <syn><b>Syn. --</b> innholder.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Innocence</ent><br/
 <hw>In"no*cence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>innocence</ets>, L. <ets>innocentia</ets>. See <er>Innocent</er>.]</ety> <sn>1.</sn> <def>The state or quality of being innocent; freedom from that which is harmful or infurious; harmlessness.</def><br/
@@ -22729,7 +22729,7 @@ That Stella loves to talk with fellows.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>To communicate a disease to (a person) by inserting infectious matter in the skin or flesh, especially as a means of inducing immunological resistance to that or related diseases; <as>as, to <ex>inoculate</ex> a person with the virus of smallpox, rabies, etc.</as>  See <er>Vaccinate</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>Fig.: To introduce into the mind; -- used especially of harmful ideas or principles; to imbue; <as>as, to <ex>inoculate</ex> one with treason or infidelity</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -22749,10 +22749,10 @@ That Stella loves to talk with fellows.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>The act or practice of communicating a disease to a person in health, by inserting contagious matter in his skin or flesh, usually for the purpose of inducing immunity to the disease.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The use was formerly limited to the intentional communication of the smallpox, but is now extended to include any similar introduction of modified virus; as, the <xex>inoculation</xex> of rabies by Pasteur.  The organisms inoculated are usually an attentuated form of the disease-causing organism, which may multiply harmlessly in the body of the host, but induce immunity to the more virulent forms of the organism.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Fig.: The communication of principles, especially false principles, to the mind.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -22968,7 +22968,7 @@ In a smooth course, and <qex>inoffensive</qex> tide.</q> <rj><qau>Addison.</qau>
 
 <p><ent>inositol</ent><br/
 <hw>i*no"si*tol</hw> <pr>(<icr/*n<ocr/s"<icr/*t<ocr/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`s</grk>, <grk>'ino`s</grk>, strength, muscle.]</ety> <fld>(Physiol. Chem.)</fld> <def>A white crystalline substance (<chform>C6H12O6</chform>) with a sweet taste, widely distributed in certain animal tissues and fluids, particularly in the muscles of the heart and lungs, and also in some plants, as in unripe pease, beans, potato sprouts, etc.  Although isomeric with dextrose, it has no carbonyl (aldehyde or ketone) group, and is therefore not a carbohydrate, but a derivative of cyclohexane.  Called also <altname>inosite</altname>, <altname>cyclohexitol</altname>, <altname>cyclohexanehexol</altname>, <altname>hexahydroxycyclohexane</altname> and <altname>phaseomannite</altname>.  There are nine possible steroisomers, not all of which are found naturally.  The predominate natural form is <chname>cis-1,2,3,5-trans-4,6-cyclohexanehexol</chname>, also called <altname>myo-inositol</altname>.  The naturally occurring phytic acid in plants is the hexaphosphate of inositol, from which inositol may be manufactured;  phytin is the calcium-magnesium salt of phytic acid.  It is also a component of <partof>phosphatidylinositol</partof>.</def> <au>MI11</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inoxidizable</ent><br/
 <hw>In*ox"idi`za*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Incapable of being oxidized; <as>as, gold and platinum are <ex>inoxidizable</ex> in the air</as>.</def><br/
@@ -23939,7 +23939,7 @@ And form <qex>insensuous</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>That which is set in or inserted, such as a word or passage in a composition, or a narrow strip of embroidered lace, muslin, or cambric; <as>as, there were numerous <ex>insertions</ex> and corrections to the first draft</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Anat.)</fld> <def>The point or part by which a muscle or tendon is attached to the part to be moved; -- in contradistinction to its <contr>origin</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24073,7 +24073,7 @@ The Derby dilly, carrying three <qex>insides</qex>.</q> <rj><qau>Anti-Jacobin.</
 
 <p><ent>insider</ent><br/
 <hw>insider</hw> <pos>n.</pos> <def>an officer of a corporation or others who have access to private information about the corporation's operations, especially information relating to profitability.</def> <note>An <ex>insider</ex> is forbidden by U. S. securities laws to trade stock in publicly owned corporations based on the private information.  The definition of <ex>insider</ex> for the purpose of securities law has changed in the late 29th century to become more inclusive, whereas it initially was applied only to officers of a corporation.</note><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Insidiate</ent><br/
 <hw>In*sid"i*ate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>insidiatus</ets>, p. p. of <ets>insidiare</ets> to lie in ambush, fr. <ets>insidiae</ets>. See <er>Insidious</er>.]</ety> <def>To lie in ambush for.</def> <mark>[Obs.]</mark>  <rj><au>Heywood.</au></rj><br/
@@ -24409,7 +24409,7 @@ With earth's large mass.</q> <rj><qau>Crashaw.</qau></rj><br/
 
 <p><sn>2.</sn> <def>the quality of not being ignorable.</def><br/
 <syn><b>Syn. --</b> imperativeness, insistence.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Insistent</ent><br/
 <hw>In*sist"ent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>insistens</ets>, <ets>-entis</ets>, p. pr. of <ets>insistere</ets>.]</ety><br/
@@ -24871,7 +24871,7 @@ The breathing instruments <qex>inspire</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>To infuse into; to affect, as with a superior or supernatural influence; to fill with what animates, enlivens, or exalts; to communicate inspiration to; <as>as, to <ex>inspire</ex> a child with sentiments of virtue; to <ex>inspire</ex> a person to do extraordinary feats</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Erato, thy poet's mind <qex>inspire</qex>,<br/
 And fill his soul with thy celestial fire.</q> <rj><qau>Dryden.</qau></rj><br/
@@ -24981,7 +24981,7 @@ Thou wast <qex>installed</qex> in that high degree.</q> <rj><qau>Shak.</qau></rj
 
 <p><sn>1.</sn> <def>The act of installing; <as>as, the <ex>installation</ex> of the air conditioner took half an hour</as>.</def><br/
 <syn><b>Syn. --</b> installing, setting up.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence:</specif> <def>the act of installing (a person) or giving possession of an office, rank, or order, with the usual rites or ceremonies; <as>as, the <ex>installation</ex> of an ordained minister in a parish</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24990,7 +24990,7 @@ Thou wast <qex>installed</qex> in that high degree.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mech.)</fld> <def>The whole of a system of machines, apparatus, and accessories, sometimes including the buildings and gorounds on which they are located, when set up and arranged for practical working, as in electric lighting, transmission of power, etc.; <as>as, our <ex>installation</ex> in Baton Rouge can produce ten thousand gallons a day;  we should move our drying <ex>installation</ex> from building A to building B</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Mil.)</fld> <def>The whole of a military base, post, camp, outpost, etc., constructed and operated for support of military operations.</def><br/
 [<source>PJC</source>]</p>
@@ -25017,7 +25017,7 @@ With loyal blazon, evermore be blest.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A portion of a debt, or sum of money, which is divided into portions that are made payable at different times; that portion of a debt payed back in any one payment; <as>as, the next <ex>installment</ex> is due January first</as>.  Payment by <ex>installment</ex> is payment by parts at different times, the amounts and times being often definitely stipulated.</def>  <rj><au>Bouvier.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>a part of a broadcast serial.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> episode.</syn><br/
@@ -25054,7 +25054,7 @@ Are base respects of thrift, but none of love.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>That which offers itself or is offered as an illustrative case; something cited in proof or exemplification; a case occurring; an example; <as>as, we could find no <ex>instance</ex> of poisoning in the town within the past year</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Most remarkable <qex>instances</qex> of suffering.</q> <rj><qau>Atterbury.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -25128,7 +25128,7 @@ Are base respects of thrift, but none of love.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A point in time; a moment; a portion of time too short to be estimated; also, any particular moment; <as>as, the situation may change in an <ex>instant</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>There is scarce an <qex>instant</qex> between their flourishing and their not being.</q> <rj><qau>Hooker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -25691,7 +25691,7 @@ Fit to <qex>instruct</qex> her youth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>One who, or that which, is made a means, or is caused to serve a purpose; a medium, means, or agent; <as>as, their army was primarily an <ex>instrument</ex> of oppression</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Or useful serving man and <qex>instrument</qex>,<br/
 To any sovereign state.</q> <rj><qau>Shak.</qau></rj><br/
@@ -25997,14 +25997,14 @@ The hand more <qex>instrumental</qex> to the mouth.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>The material or substance used to insulate from either electrical or thermal conduction; <as>as, fiberglass is used as thermal <ex>insulation</ex> in the walls and roofs of houses</as>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Insulator</ent><br/
 <hw>In"su*la`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, insulates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Elec. & Thermotics)</fld> <def>A substance or object that insulates; a nonconductor; <as>as, polyurethane foam is a popular thermal <ex>insulator</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Insulite</ent><br/
 <hw>In"su*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>An insulating material, usually some variety of compressed cellulose, made of sawdust, paper pulp, cotton waste, etc.</def><br/
@@ -26183,7 +26183,7 @@ Yet never pass the <qex>insuperable</qex> line?</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>Insurant</ent><br/
 <hw>In*sur"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The person insured, called also the <altname>insured</altname>.</def>  <rj><au>Champness.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Insure</ent><br/
 <hw>In"sure</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Insured</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Insuring</conjf>.]</vmorph> <ety>[OE. <ets>ensuren</ets>, prob. for <ets>assuren</ets>, by a change of prefix. See 1st <er>In-</er>, and <er>Sure</er>, and cf. <er>Assure</er>, <er>Ensure</er>.]</ety> <altsp>[Written also <asp>ensure</asp>.]</altsp><br/
@@ -26464,18 +26464,18 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>Having different groups treated together as equals in one group; <as>as, racially <ex>integrated</ex> schools</as>.</def> [Narrower terms: <stype>co-ed, coeducational</stype>; <stype>desegrated, nonsegregated, unsegregated</stype>; <stype>interracial</stype>; <stype>mainstreamed</stype>] <see>Also See: <er>integrative</er>, <er>joint</er>, <er>united</er>.</see>  Antonym: <ant>segregated</ant>.<br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn>  <def>Resembling a living organism in organization or development.</def> [Narrower terms: <stype>organic</stype> (vs. inorganic)]<br/
 <syn><b>Syn. --</b> structured.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>5.</sn> <def>combined.  Opposite of <ant>uncombined</ant>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>6.</sn>  <def>having constituent parts mixed to form a single unit.  Opposite of <ant>unmixed</ant>.</def> [Narrower terms: <stype>blended[2]</stype>]<br/
 <syn><b>Syn. --</b> amalgamated, intermingled, mixed.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>integrating</ent><br/
 <hw>integrating</hw> <pos>n.</pos> <def>the action of incorporating a racial or religious group into a community.</def><br/
@@ -26784,7 +26784,7 @@ Received and gave him welcome there.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>intelligentsia</ent><br/
 <hw>intelligentsia</hw> <pos>n.</pos> <def>an educated and intellectual{2} elite; intellectuals, collectively or considered as a class.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Intelligibility</ent><br/
 <hw>In*tel`li*gi*bil"i*ty</hw> <pr>(?)</pr>, <ety>[Cf. F. <ets>intelligilibilit<eacute/</ets>.]</ety> <def>The quality or state of being intelligible; clearness; perspicuity; definiteness.</def><br/
@@ -28122,7 +28122,7 @@ Doth <qex>interest</qex> this fair quarrel.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Excitement of feeling, whether pleasant or painful, accompanying special attention to some object; concern; a desire to learn more about a topic or engage often in an activity.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ <xex>Interest</xex> expresses mental excitement of various kinds and degrees. It may be intellectual, or sympathetic and emotional, or merely personal; as, an <xex>interest</xex> in philosophical research; an <xex>interest</xex> in human suffering; the <xex>interest</xex> which an avaricious man takes in money getting.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -28209,7 +28209,7 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>interfaith</ent><br/
 <hw>interfaith</hw> <pos>adj.</pos> <def>involving persons of different religious faiths; <as>as, an <ex>interfaith</ex> marriage; <ex>interfaith</ex> good will</as>.</def><br/
 <syn><b>Syn. --</b> interdenominational.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Interfascicular</ent><br/
 <hw>In`ter*fas*cic"u*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Between fascicles or bundles; <as>as, the <ex>interfascicular</ex> spaces of connective tissue</as>.</def><br/
@@ -28224,10 +28224,10 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To come in collision; to be in opposition; to clash; -- usually used with <ptcl>with</ptcl>; <as>as, <ex>interfering</ex> claims, or commands; workers in a crowded shop may <ex>interfere</ex> with each other's activity</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To enter into, or take a part in, the concerns of others; to intermeddle; to interpose; -- used with <ptcl>in</ptcl> or <ptcl>with</ptcl>; <as>as, to <ex>interfere</ex> with the way I raise my children</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>To <qex>interfere</qex> with party disputes.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -28276,7 +28276,7 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Interferometer</ent><br/
 <hw>In`ter*fe*rom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Interfere</er> and <ets>-meter</ets>.]</ety> <fld>(Physics)</fld> <def>An instrument for measuring small movements, distances, or displacements by means of the interference of two beams of light; -- formerly also called also <altname>refractometer</altname>, but that word now has a different meaning.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Interflow</ent><br/
 <hw>In`ter*flow"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To flow in.</def> <mark>[R.]</mark>  <rj><au>Holland.</au></rj></p>
@@ -28967,7 +28967,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Interminable</ent><br/
 <hw>In*ter"mi*na*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>interminabilis</ets>: cf. F. <ets>interminable</ets>. See <er>Terminate</er>.]</ety> <def>Without termination; admitting no limit; boundless; endless; wearisomely protracted; <as>as, <ex>interminable</ex> space or duration; <ex>interminable</ex> sufferings; an <ex>interminable</ex> sermon</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>That wild <qex>interminable</qex> waste of waves.</q> <rj><qau>Grainger.</qau></rj></p>
 
@@ -29161,7 +29161,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>intern</ent><br/
 <hw>in*tern"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <pr>(<it>F. pron.</it> <acr/N`t<acir/rn")</pr> <sn>1.</sn> <fld>(Med.)</fld> <def>A resident physician in a hospital, especially one who has recently received the Doctorate and is practising under supervision of experienced physicians, as a continuation of the training process; a house physician; also called <altname>houseman</altname> in Britain.</def> <altsp>[Also spelled <asp>interne</asp>.]</altsp><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A person working as an apprentice to gain experience in an occupation; sometimes the position is paid a salary, and other times it is not; <as>as, a white house <ex>intern</ex>; an <ex>intern</ex> in a law firm</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -29292,7 +29292,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>internationalistic</ent><br/
 <hw>internationalistic</hw> <pos>adj.</pos>  <def>favoring cooperation among nations; -- of people and policies.</def><br/
 <syn><b>Syn. --</b> internationalist.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>internationality</ent><br/
 <hw>internationality</hw> <pos>n.</pos> <def>quality of being international in scope; <as>as, he applauded the <ex>internationality</ex> of scientific terminology</as>.</def><br/
@@ -29551,7 +29551,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Interpenetration</ent><br/
 <hw>In`ter*pen`e*tra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act or process of penetrating between or within other substances; mutual penetration; also, the result of a process of interpenetration.</def>  <rj><au>Milman.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Interpenetrative</ent><br/
 <hw>In`ter*pen"e*tra*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Penetrating among or between other substances; penetrating each the other; mutually penetrative.</def><br/
@@ -29579,7 +29579,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Interplanetary</ent><br/
 <hw>In`ter*plan"et*a*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Between planets; <as>as, <ex>interplanetary</ex> spaces; <ex>interplanetary</ex> travel</as>.</def>  <rj><au>Boyle.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Interplay</ent><br/
 <hw>In`ter*play`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Mutual action or influence; interaction; <as>as, the <ex>interplay</ex> of affection</as>.</def><br/
@@ -29634,7 +29634,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>To fill up intermediate terms of, as of a series, according to the law of the series; to introduce, as a number or quantity, in a partial series, according to the law of that part of the series; to estimate a value at a point intermediate between points of knwon value.  Compare <contr>extrapolate</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Interpolated</ent><br/
 <hw>In*ter"po*la`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Inserted in, or added to, the original; introduced; foisted in; changed by the insertion of new or spurious matter.</def><br/
@@ -29926,7 +29926,7 @@ Talker! the unreplying Fate?</q> <rj><qau>Emerson.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A point, mark, or sign, thus [?], indicating that the sentence with which it is connected is a question. It is used to express doubt, or to mark a query.  Usually called a <altname>question mark</altname>; called also <altname>interrogation point</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ In works printed in the Spanish language this mark is not only placed at the end of an interrogative sentence, but is also placed, inverted [as thus (<iques/)], at the beginning.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -30427,7 +30427,7 @@ A dreadful <qex>interval</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any interference that may affect the interests of others; especially, of one or more states with the affairs of another; -- the intervention of one state in the affairs of another is typically unwelcome by the state being intervened in, but some cases of mediation between states may be called <ex>intervention</ex>.  Opposed to <contr>nonintervention</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Let us decide our quarrels at home, without the <qex>intervention</qex>, of any foreign power.</q> <rj><qau>Sir W. Temple.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -31063,7 +31063,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 
 <p><ent>Intracellular</ent><br/
 <hw>In`tra*cel"lu*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol.)</fld> <def>Within a cell; <as>as, the <ex>intracellular</ex> movements seen in the pigment cells, the salivary cells, and in the protoplasm of some vegetable cells; <ex>intracellular</ex> enzymes</as>.  Contrasted with <contr>extracellular</contr>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Intracolic</ent><br/
 <hw>In`tra*col"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Within the colon; <as>as, the <ex>intracolic</ex> valve</as>.</def><br/
@@ -31196,7 +31196,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 
 <p><ent>Intransmissible</ent><br/
 <hw>In`trans*mis"si*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not capable of being transmitted; <as>as, an <ex>intransmissable</ex> illness</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Intransmutability</ent><br/
 <hw>In`trans*mu`ta*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being intransmutable.</def><br/
@@ -31247,7 +31247,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 
 <p><ent>Intrauterine</ent><br/
 <hw>In`tra*u"ter*ine</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Within the uterus or womb; <as>as, <ex>intrauterine</ex> hemorrhage; an <ex>intrauterine</ex> device</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>intrauterine device</ent><br/
 <hw>in`tra*u"ter*ine de*vice"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A <isa>contraceptive device</isa> consisting of a small, usually plastic object placed within the uterus to prevent conception; also called <altname>IUD</altname>.</def><br/
@@ -31639,7 +31639,7 @@ Which are too <qex>intrinse</qex> to unloose.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Specifically;</specif> <fld>(Zool.)</fld> <def>The insertion of the male copulatory organ into the female in the process of coitus.</def>  <rj><au>South.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Four populations [of the vlei rat] varied in a number of parameters of copulatory behavior, such as latency to first mount, number of <qex>intromissions</qex> per series, and latency to <qex>intromission</qex> after first ejaculation.</q> <rj><qau>Edith Dempster (African Small Mammals Newsletter, Issue No. 16, May 1996, Laboratoir Mammif<egrave/res & Oiseaux, Paris)</qau></rj><br/
 [<source>PJC</source>]</p>
@@ -31771,7 +31771,7 @@ Which are too <qex>intrinse</qex> to unloose.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>2.</sn>  <def>marked by concern predominantly with oneself or one's own feelings.  Contrasted with <contr>extroverted</contr>.</def><br/
 <syn><b>Syn. --</b> introvert, introvertive.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>introvertish</ent><br/
 <hw>introvertish</hw> <pos>adj.</pos> <def>somewhat introverted.</def><br/
@@ -31781,7 +31781,7 @@ Which are too <qex>intrinse</qex> to unloose.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>introvertive</ent><br/
 <hw>introvertive</hw> <pos>adj.</pos>  <def>same as <er>introverted</er>, 2.</def><br/
 <syn><b>Syn. --</b> introvert, introverted.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Intrude</ent><br/
 <hw>In*trude"</hw> <pr>(?)</pr>, <pos>v. i.</pos> <ety>[L. <ets>intrudere</ets>, <ets>intrusum</ets>; pref. <ets>in-</ets> in + <ets>trudere</ets> to thrust, akin to E. <ets>threat</ets>. See <er>Threat</er>.]</ety> <def>To thrust one's self in; to come or go in without invitation, permission, or welcome; to encroach; to trespass; <as>as, to <ex>intrude</ex> on families at unseasonable hours; to <ex>intrude</ex> on the lands of another.</as></def><br/
@@ -32046,7 +32046,7 @@ Discursive, or <qex>intuitive</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Inulin</ent><br/
 <hw>In"u*lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From NL. <spn><ets>Inula</ets> Helenium</spn>, the elecampane: cf. F. <ets>inuline</ets>.]</ety> <fld>(Chem.)</fld> <def>A substance of very wide occurrence. It is found dissolved in the sap of the roots and rhizomes of many composite and other plants, as <gen>Inula</gen>, <gen>Helianthus</gen>, <gen>Campanula</gen>, etc., and is extracted by solution as a tasteless, white, semicrystalline substance, resembling starch, with which it is isomeric, having fructose units in place of most of the glucose units. It is intermediate in nature between starch and sugar, and replaces starch as the reserve food in Compositae. Called also <altname>dahlin</altname>, <altname>helenin</altname>, <altname>alantin</altname>, <altname>alant starch</altname>, etc.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inuloid</ent><br/
 <hw>In"u*loid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Inul</ets>in + <ets>-oid</ets>.]</ety> <fld>(Chem.)</fld> <def>A substance resembling inulin, found in the unripe bulbs of the dahlia.</def><br/
@@ -32214,7 +32214,7 @@ Is risen to <qex>invade</qex> us.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>invading</ent><br/
 <hw>invading</hw> <pos>adj.</pos>  <def>same as <er>invasive</er>{1}.</def><br/
 <syn><b>Syn. --</b> incursive, invasive.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Invaginate</ent><br/
 <hw>In*vag"i*nate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To insert as in a sheath; to produce intussusception in.</def></p>
@@ -32235,7 +32235,7 @@ Is risen to <qex>invade</qex> us.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <specif>Specifically:</specif> <fld>(Biol., Embryology)</fld> <def>The inward movement of one part of the wall of a blastula, to form a gastrula; the process of gastrulation, in which layers of the ovum are differentiated.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ In <stype>embolic invagination</stype>, one half of the blastosphere is pushed in towards the other half, producing an embryonic form known as a <xex>gastrula</xex>. -- In <stype>epibolic invagination</stype>, a phenomenon in the development of some invertebrate ova, the epiblast appears to grow over or around the hypoblast.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -32288,7 +32288,7 @@ Is risen to <qex>invade</qex> us.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>invalidating</ent><br/
 <hw>invalidating</hw> <pos>adj.</pos>  <def>tending to invalidate or prove false.</def><br/
 <syn><b>Syn. --</b> disconfirming.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Invalidation</ent><br/
 <hw>In*val`i*da"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of inavlidating, or the state of being invalidated.</def><br/
@@ -32518,7 +32518,7 @@ Till him alive or dead she did <qex>invent</qex>.</q> <rj><qau>Spenser.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>That which is invented; an original contrivance or construction; a device; <as>as, this fable was the <ex>invention</ex> of Esop; that falsehood was her own <ex>invention</ex>; she patented five <ex>inventions</ex>.</as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>We entered by the drawbridge, which has an <qex>invention</qex> to let one fall if not premonished.</q> <rj><qau>Evelyn.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -32555,7 +32555,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Inventor</ent><br/
 <hw>In*vent"or</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>inventeur</ets>.]</ety> <def>One who invents or finds out something new; a contriver; especially, one who invents mechanical devices, new drugs, new processes, or other useful objects or procedures.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Inventorial</ent><br/
 <hw>In`ven*to"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to an inventory.</def> -- <wordforms><wf>In`ven*to"ri*al*ly</wf>, <pos>adv.</pos></wordforms>  <rj><au>Shak.</au></rj><br/
@@ -33186,7 +33186,7 @@ And bound them with <qex>inviolable</qex> bands.</q> <rj><qau>Spenser.</qau></rj
 
 <p><ent>Invisible</ent><br/
 <hw>In*vis"i*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>invisible</ets>, L. <ets>invisibilis</ets>. See <er>In-</er> not, and <er>Visible</er>.]</ety> <sn>1.</sn> <def>Incapable of being seen; not perceptible by vision; not visible.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>Not visible due to an inherent property, such as lack of color; <as>as, the <ex>invisible</ex> air; <ex>invisible</ex> ink</as>;</def> <sd>(b)</sd> <def>hidden from view; out of sight;</def> <sd>(c)</sd> <def>Not perceptible due to lack of light;</def> <sd>(d)</sd> <def>Too small or too distant to be perceived; <as>as, people on the ground <ex>invisible</ex> at cruising altitude</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>To us <qex>invisible</qex>, or dimly seen<br/
 In these thy lowest works.</q> <rj><qau>Milton.</qau></rj><br/
@@ -33776,7 +33776,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>Iodide</ent><br/
 <hw>I"o*dide</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A binary compound of iodine, or one which may be regarded as binary, in which iodine has a valence of -1; <as>as, potassium <ex>iodide</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>iodinate</ent><br/
 <hw>iodinate</hw> <pos>v.</pos>  <fld>(Chem.)</fld> <def>to cause to combine with iodine; <as>as, <ex>iodinate</ex> thyroxine</as>.</def><br/
@@ -33875,7 +33875,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>Iolite</ent><br/
 <hw>I"o*lite</hw> <pr>(<imac/"<osl/*l<imac/t)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`on</grk> a violet  + <ets>-lite</ets>.]</ety> <fld>(Min.)</fld> <def>A silicate of alumina, iron, and magnesia, having a bright blue color and vitreous luster; cordierite. It is remarkable for its dichroism, and is also called <altname>dichroite</altname>.  A variety called <stype>Caribbean iolite</stype> has a lighter blue color.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Io moth</ent><br/
 <hw>I"o moth`</hw> <pr>(?; 115)</pr>. <fld>(Zool.)</fld> <def>A large and handsome American moth (<spn>Hyperchiria Io</spn>), having a large, bright-colored spot on each hind wing, resembling the spots on the tail of a peacock. The larva is covered with prickly hairs, which sting like nettles.</def><br/
@@ -33948,7 +33948,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>ionize</ent><br/
 <hw>i"on*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ionized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ionizing</conjf> <pr>(?)</pr>.]</vmorph> <fld>(Physics, Chemistry)</fld> <def>To convert (an atom or molecule) into ions, e. g. by dissolving in water, by reaction with acid or alkali, or by interaction with ionizing radiation.  See <er>ionization</er>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>ionized</ent><br/
 <hw>ionized</hw> <pos>adj.</pos> <def>converted totally or partly into ions.  Opposite of <ant>nonionized</ant> and <ant>unionized</ant>.</def><br/
@@ -33964,7 +33964,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>ionosphere</ent><br/
 <hw>ionosphere</hw> <pos>n.</pos> <def>the outer region of the earth's atmosphere, beyond which is the <contr>exosphere</contr>; it contains a high concentration of free electrons and ions, and extends from about 50 miles to about 250 miles above the earth's surface, but the height shows daily and seasonal variation, and the composition of the particles in the ionosphere is also affected by events such as solar flares.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Ioqua shell</ent><br/
 <hw>I"o*qua shell`</hw> <pr>(?)</pr>. <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>The shell of a large Dentalium (<spn>Dentalium pretiosum</spn>), formerly used as shell money, and for ornaments, by the Indians of the west coast of North America.</def><br/
@@ -33978,7 +33978,7 @@ More images are available at the NASA site.</note>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <ety>[from iota being the smallest letter in the Greek alphabet.]</ety> <def>A very small quantity or degree; a jot; a particle.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>They never depart an <qex>iota</qex> from the authentic formulas of tyranny and usurpation.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -34063,7 +34063,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>Iran</ent><br/
 <hw>I`ran"</hw> <pr>(<emac/`r<aum/n")</pr>, <pos>n.</pos> <ety>[Mod. Persian <ets>Ir<amac/n</ets>.  Cf. <er>Aryan</er>.]</ety> <def>The native name of Persia, the name adopted by the modern nation of Iran.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Irani</ent><br/
 <hw>Irani</hw> <pos>n.</pos> <def>a native or inhabitant of Iran.</def><br/
@@ -34196,7 +34196,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>iridium</ent><br/
 <hw>i*rid"i*um</hw> <pr>(<isl/*r<icr/d"<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>iris</ets>, <ets>iridis</ets>, the rainbow. So called from the iridescence of some of its solutions. See <er>Iris</er>.]</ety> <fld>(Chem.)</fld> <def>A rare metallic element of atomic number 77, of the same group as platinum, which it much resembles, being silver-white and indifferent to most corrosive agents, but harder, more brittle, and with a higher melting temperature (2410<deg/ C, versus platinum 1772<deg/ C).  With the exception of osmium, it is the heaviest substance known, its specific gravity being 22.4. Symbol Ir. Atomic weight 192.22.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ Iridium usually occurs as a native alloy with osmium (<xex>iridosmine</xex> or <xex>osmiridium</xex>), which may occur alone or with platinum. Iridium, as an alloy with platinum, is used in bushing the vents of heavy ordnance. It is also used for the points of gold pens, and in a finely powdered condition (<xex>iridium black</xex>), for painting porcelain black.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -34254,7 +34254,7 @@ More images are available at the NASA site.</note>
 
 <p><ent>Iris diaphragm</ent><br/
 <hw>I"ris di"a*phragm</hw>. <def>An adjustable diaphragm, reminiscent of the iris of the eye in its action, by which the diameter of an approximately circular opening may be controlled, as for regulating the aperture of a lens; it consists of a number of movable thin curved plates fastened at regular intervals around the inside of a ring, the positions of which are simultaneously adjusted by a single knob on the outside of the lens. It is used in cameras and microscopes.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Irised</ent><br/
 <hw>I"rised</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Iris</er>.]</ety> <def>Having colors like those of the rainbow; iridescent.</def>  <rj><au>Holmes.</au></rj><br/
@@ -34272,7 +34272,7 @@ More images are available at the NASA site.</note>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The language of the Irish; also called <altname>Irish Gaelic</altname> or the <altname>Hiberno-Celtic</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>An old game resembling backgammon.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34421,7 +34421,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><ent>Ironbark tree</ent><br/
 <ent>Ironbark</ent><br/
 <mhw><hw>I"ron*bark`</hw>, <hw>I"ron*bark` tree`</hw></mhw> <pr>(?)</pr>. <fld>(Bot.)</fld> <def>The Australian <spn>Eucalyptus Sideroxylon</spn>, used largely by carpenters and shipbuilders; -- called also <altname>ironwood</altname>.  Also applied to other Australian eucalyptuses with a hard, solid bark</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ironbound</ent><br/
 <hw>I"ron*bound`</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Bound as with iron; rugged; <as>as, an <ex>ironbound</ex> coast</as>.</def><br/
@@ -34443,7 +34443,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 
 <p><ent>Ironclad</ent><br/
 <hw>I"ron*clad`</hw>, <pos>n.</pos> <def>A naval vessel having the parts above water covered and protected by iron or steel usually in large plates closely joined and made sufficiently thick and strong to resist heavy shot.  Modern naval vessels are made of steel throughout, and this term is only used in historical contexts.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ironclad</ent><br/
 <hw>I"ron*clad`</hw>, <pos>a.</pos> <sn>1.</sn> <def>having an outer covering of iron or steel; <as>as, an <ex>ironclad</ex> war vessel</as>.</def><br/
@@ -34635,7 +34635,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Made or consisting of iron; partaking of iron; iron; <as>as, <ex>irony</ex> chains; <ex>irony</ex> particles</as>; -- In this sense <altname>iron</altname> is the more common term.</def> <mark>[R.]</mark> <rj><au>Woodward.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Resembling iron in taste, hardness, or other physical property.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -34727,7 +34727,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>Act of irradiating, or state of being irradiated; <as>as, <ex>irradiation</ex> of foods with X-rays can preserve their freshness by killing the bacteria that cause spoilage </as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Illumination; irradiance; brilliancy.</def>  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -34750,7 +34750,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Not according to reason; having no rational basis; clearly contrary to reason; easily disproved by reasoning; absurd; -- of assertions and beliefs.</def> <specif>Hence, of actions:</specif> <def>foolish; unreasonable.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>It seemed utterly <qex>irrational</qex> any longer to maintain it.</q> <rj><qau>I. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -35237,7 +35237,7 @@ Against the <qex>irregular</qex> and wild Glendower.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Irresolvable nebul<ae/</b></col> <fld>(Astron.)</fld>, <cd>nebul<ae/ of a cloudlike appearance, which have not yet been resolved by the telescope into stars, and are often distant galaxies.  See <er>galaxy</er>{2}.</cd></cs> <rj><au>Sir W. Herschel.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Irresolvableness</ent><br/
 <hw>Ir`re*solv"a*ble*ness</hw>, <pos>n.</pos> <def>The quality or state of being irresolvable; irresolvability.</def><br/
@@ -35373,7 +35373,7 @@ Against the <qex>irregular</qex> and wild Glendower.</q> <rj><qau>Shak.</qau></r
 
 <p><ent>Irreversible</ent><br/
 <hw>Ir`re*vers"i*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Incapable of being reversed or turned about or back; incapable of being made to run backward; <as>as, an <ex>irreversible</ex> engine; an <ex>irreversible</ex> process; an <ex>irreversible</ex> reaction</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Incapable of being reversed, recalled, repealed, or annulled; <as>as, an <ex>irreversible</ex> sentence or decree</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -35589,11 +35589,11 @@ Prevent the rage of him who reigns above.</q> <rj><qau>Pope.</qau></rj><br/
 <p><ent>irritating</ent><br/
 <hw>irritating</hw> <pos>adj.</pos> <sn>1.</sn>  <def>causing annoyance.</def><br/
 <syn><b>Syn. --</b> annoying, galling, chafing, nettlesome, pesky, pestiferous, pestilent, plaguy, plaguey, teasing, vexatious, vexing.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn>  <def>causing irritation of living tissue; -- used of physical stimuli.</def><br/
 <syn><b>Syn. --</b> irritant, irritative.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>causing pain or physical discomfort; <as>as, an <ex>irritating</ex> burr under his stocking</as>.</def><br/
 <syn><b>Syn. --</b> painful.</syn><br/
@@ -36233,7 +36233,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To place in a detached situation; to place by itself or alone; to insulate; to separate from others; <as>as, to <ex>isolate</ex> an infected person from others; to <ex>isolate</ex> the troublemakers in a classroom</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Short <qex>isolated</qex> sentences were the mode in which ancient wisdom delighted to convey its precepts.</q> <rj><qau>Bp. Warburton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -36242,7 +36242,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>To separate (a substance) from all foreign substances; to make pure; to obtain in a free state; <as>as, to <ex>isolate</ex> the desired product from a reaction mixture</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Microbiol.)</fld> <def>To obtain a culture of a microorganism in pure form (from a complex mixture); <as>as, to <ex>isolate</ex> <spn>Eschericia coli</spn> from a patient's blood</as>.</def><br/
 [<source>PJC</source>]</p>
@@ -36295,7 +36295,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Isomer</ent><br/
 <hw>I"so*mer</hw> <pr>(<imac/"s<osl/*m<etil/r)</pr>, <pos>n.</pos> <ety>[See <er>Isomeric</er>.]</ety> <fld>(Chem.)</fld> <def>A compound which is isomeric with another body or compound; a compound having the same chemical composition as another compound; a member of an isomeric series.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/  An isomer may be a <altname>structural isomer</altname>, in which some of the atoms are bonded to different atoms (as in <chform>CH3.CH2.NH2</chform> and <chform>CH3.NH.CH3</chform>), or an <altname>optical isomer</altname>, in which the number and types of chemical bonds are identical, but the arrangement of the atoms in three-dimensional space is different; the latter are also called <altname>stereoisomers</altname>.</note><br/
 [<source>PJC</source>]</p>
@@ -36305,7 +36305,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <fld>(Chem.)</fld> <def>same as <er>Isomer</er>.</def> <mark>[archaic]</mark> <br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Isomeric</ent><br/
 <hw>I`so*mer"ic</hw> <pr>(<imac/`s<osl/*m<ecr/r"<icr/k)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <grk>me`ros</grk> part: cf. F. <ets>isom<eacute/rique</ets>.]</ety> <fld>(Chem.)</fld> <sn>1.</sn> <def>Having the same percentage composition; -- said of two or more different substances which contain the same ingredients in the same proportions by weight, often used with <xex>with</xex>.</def> Specif.: <sd>(a)</sd> <def>Polymeric; <it>i. e.</it>, having the same elements united in the same proportion by weight, but with different molecular weights; <as>as, acetylene and benzine are <ex>isomeric</ex> (<ex>polymeric</ex>) with each other in this sense</as>. See <er>Polymeric</er>.</def> <sd>(b)</sd> <def>Metameric; <it>i. e.</it>, having the same elements united in the same proportions by weight, and with the same molecular weight, but with a different structure or arrangement of the ultimate parts; <as>as, ethyl alcohol and methyl ether are <ex>isomeric</ex> (<ex>metameric</ex>) with each other in this sense</as>. See <er>Metameric</er>.</def><br/
@@ -36326,7 +36326,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Physical isomerism</b></col> <fld>(Chem.)</fld>, <cd>a former term for <cref>optical isomerism</cref>.</cd>  <col><b>optical isomerism</b></col> <fld>(Chem.)</fld>, <cd>the condition or relation of certain (<it>isomeric</it>) substances, which, while chemically identical (in that they have the same composition, the same molecular weights, and the same ultimate constitution), are yet physically different, as in their action on polarized light, as dextro- and l<ae/vo-tartaric acids, or the sugars galactose and glucose. In such compounds there is usually at least one unsymmetrical carbon atom and typically more than one.  See <er>Unsymmetrical</er>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Isomeromorphism</ent><br/
 <hw>I`so*mer`o*mor"phism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Isomer</ets> + Gr. <grk>morfh`</grk> form + <ets>-ism</ets>.]</ety> <fld>(Crystallog.)</fld> <def>Isomorphism between substances that are isomeric.</def></p>
@@ -36463,7 +36463,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>Isoprene</ent><br/
 <hw>I"so*prene</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <fld>(Chem.)</fld> <def>An oily, volatile unsaturated hydrocarbon (<chform>C5H8</chform>), obtained by the distillation of caoutchouc or gutta-percha, and used to make synthetic rubber by polymerization.  In organic chemistry, it is viewed conceptually as the building block of the terpene series of hydrocarbons.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Isopycnic</ent><br/
 <hw>I`so*pyc"nic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <grk>pykno`s</grk> dense.]</ety> <fld>(Physics)</fld> <def>Having equal density, as different regions of a medium; passing through points at which the density is equal; <as>as, an <ex>isopycnic</ex> line or surface</as>.</def><br/
@@ -36688,7 +36688,7 @@ The <qex>issue</qex> of the exploit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>9.</sn> <def>A point in debate or controversy on which the parties take affirmative and negative positions; a presentation of alternatives between which to choose or decide; a point of contention; a matter in controversy.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>10.</sn> <fld>(Law)</fld> <def>In pleading, a single material point of law or fact depending in the suit, which, being affirmed on the one side and denied on the other, is presented for determination. See <cref>General issue</cref>, under <er>General</er>, and <cref>Feigned issue</cref>, under <er>Feigned</er>.</def>  <rj><au>Blount. Cowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -37018,7 +37018,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 
 <p><ent>Itelmen</ent><br/
 <hw>Itelmen</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <sn>1.</sn>  <fld>(Ethnol.)</fld> <def>An aboriginal tribe inhabiting the southern part of the Kamchatka peninsula; called also <altname>Kamchadal</altname> and <altname>Kamtschadal</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The language of the Itelmen people.</def><br/
 [<source>PJC</source>]</p>
@@ -37032,7 +37032,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>An article; a separate particular in an account; <as>as, the <ex>items</ex> in a bill; he picked up four <ex>items</ex> at the drug store</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A hint; an innuendo.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -37059,7 +37059,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 
 <p><ent>Itemize</ent><br/
 <hw>I"tem*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To state in items, or by particulars; to list each item in a collection under discussion; <as>as, to <ex>itemize</ex> the cost of a railroad</as>.</def> <mark>[Local, U. S.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Iter</ent><br/
 \'d8<hw>I"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Eyre</er>.]</ety> <fld>(Anat.)</fld> <def>A passage; esp., the passage between the third and fourth ventricles in the brain; the aqueduct of Sylvius.</def><br/

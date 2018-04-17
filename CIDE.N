@@ -81,11 +81,11 @@
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>3.</sn>  <def>A streamlined enclosure on an airplane, as for the engine or for the cargo or passengers; -- formerly used to refer to the boatlike, inclosed body of an airplane which is usually now called the <altname>fuselage</altname>, and now referring mostly to the enclosure for the engine.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>nacho</ent><br/
 <hw>nacho</hw> <pos>n.</pos> <def>A tortilla chip topped with cheese and often chili-pepper or beans and then broiled; -- eaten as a snack or light meal.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nacker</ent><br/
 <hw>Nack"er</hw> <pr>(n<acr/k"<etil/r)</pr>, <pos>n.</pos> <def>See <er>Nacre</er>.</def>  <rj><au>Johnson.</au></rj><br/
@@ -151,7 +151,7 @@
 
 <p><ent>Naevus</ent><br/
 \'d8<hw>Nae"vus</hw> <pr>(n<emac/"v<ucr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Naevi</plw> <pr>(-v<imac/)</pr>.</plu> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A spot or mark on the skin of children when born; a birthmark; -- the term includes moles as wells a other types of birthmark, and is most commonly applied to reddish or brownish raised vascular areas of the skin, i. e., those consisting mainly of blood vessels, as dilated arteries, veins, or capillaries.</def> <altsp>[Usually spelled <asp>nevus</asp>.]</altsp><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nag</ent><br/
 <hw>Nag</hw> <pr>(n<acr/g)</pr>, <pos>n.</pos> <ety>[OE. <ets>nagge</ets>, D. <ets>negge</ets>; akin to E. <ets>neigh</ets>.]</ety> <sn>1.</sn> <def>A small horse; a pony; hence, any horse, especially one that is of inferior breeding or useless.</def><br/
@@ -171,7 +171,7 @@
 <p><ent>nagami</ent><br/
 <hw>nagami</hw> <pos>n.</pos> <def>A shrub (<spn>Fortunella margarita</spn>) bearing oval-fruited kumquats. See also <er>kumquat</er>.</def><br/
 <syn><b>Syn. --</b> nagami kumquat, oval kumquat, <spn>Fortunella margarita</spn>.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nagana</ent><br/
 <hw>Na*ga"na</hw> <pr>(n<adot/*g<aum/"n<adot/)</pr>, <pos>n.</pos> <ety>[Prob. native name.]</ety> <fld>(Med.)</fld> <def>A disease of horses and other domestic animals, transmitted by the tsetse fly; any trypanosomiasis, especially the variety caused by <causedbyp><spn>Trypanosoma brucei</spn></causedbyp>.</def> <mark>[South Africa]</mark><br/
@@ -263,7 +263,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Nail ball</b></col> <fld>(Ordnance)</fld>, <cd>a round projectile with an iron bolt protruding to prevent it from turning in the gun.</cd> -- <col><b>Nail plate</b></col>, <cd>iron in plates from which cut nails are made.</cd> -- <col><b>On the nail</b></col>, <cd>in hand; on the spot; immediately; without delay or time of credit; <as>as, to pay money <ex>on the nail</ex>; to pay cash <ex>on the nail</ex></as>.</cd> <ldquo/You shall have ten thousand pounds <xex>on the nail</xex>.<rdquo/ <au>Beaconsfield.</au> -- <col><b>To hit the nail on the head</b></col>, <sd>(a)</sd> <cd>to hit most effectively; to do or say a thing in the right way.</cd> <sd>(b)</sd> <cd>to describe the most important factor.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nail</ent><br/
 <hw>Nail</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Nailed</conjf> <pr>(n<amac/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Nailing</conjf>.]</vmorph> <ety>[AS. <ets>naeglian</ets>. See <er>Nail</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To fasten with a nail or nails; to close up or secure by means of nails; <as>as, to <ex>nail</ex> boards to the beams</as>.</def><br/
@@ -777,7 +777,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To be in a careless, secure state; to be unprepared; <as>as, to be caught <ex>napping</ex></as>.</def>  <rj><au>Wyclif.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>I took thee <qex>napping</qex>, unprepared.</q> <rj><qau>Hudibras.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -873,7 +873,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 
 <p><ent>Naphthalic</ent><br/
 <hw>Naph*tha"lic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Pertaining to, derived from, or related to, naphthalene; -- formerly used to denote any one of a series of acids derived from naphthalene, and called <xex>naphthalene acids</xex>, now specifically referring to <chname>1,8-naphthalenedicaboxylic acid</chname>, <chform>C12H8O4</chform>.</def> <sd>(b)</sd> <def>Formerly, designating an acid probably identical with <altname>phthalic</altname> acid.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Naphthalidine</ent><br/
 <hw>Naph*thal"i*dine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Naphthalene</ets> + tolu<ets>idine</ets>.]</ety> <fld>(Chem.)</fld> <def>Same as <er>Naphthylamine</er>.</def><br/
@@ -894,7 +894,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 
 <p><ent>Naphthene</ent><br/
 <hw>Naph"thene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A peculiar hydrocarbon fraction occuring as an ingredient of some crude petroleums, mostly mixtures of derivatives of the five- and six-membered saturated cyclic alkanes, cyclopentane and cyclohexane, having the general formula <chform>CnH2n</chform>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Naphthide</ent><br/
 <hw>Naph"thide</hw> <pr>(n<acr/f"th<icr/d <it>or</it> n<acr/f"th<imac/d)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A compound of naphthalene or its radical with a metallic element; <as>as, mercuric <ex>naphthide</ex></as>.</def><br/
@@ -948,7 +948,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Napkin pattern</b></col>. <cd>See <cref>Linen scroll</cref>, under <er>Linen</er>. -- <er>Napkin ring</er>, a ring of metal, ivory, or other material, used to inclose a table napkin.</cd> -- <col><b>paper napkin</b></col>, <cd>a napkin made of paper, intended to be disposed of after use.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Napless</ent><br/
 <hw>Nap"less</hw>, <pos>a.</pos> <def>Without nap; threadbare.</def>  <rj><au>Shak.</au></rj><br/
@@ -974,7 +974,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 
 <p><ent>Napoleon</ent><br/
 <hw>Na*po"le*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the Emperor <ets>Napoleon</ets> 1.]</ety> <sn>1.</sn> <def>A French gold coin of twenty francs, no longer minted or circulated.  It bore the portrait of <etsep>Napoleon I.</etsep> or <etsep>Napoleon III.</etsep></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Card Playing)</fld> <sd>(a)</sd> <def>A game in which each player holds five cards, the eldest hand stating the number of tricks he will bid to take, any subsequent player having the right to overbid him or a previous bidder, the highest bidder naming the trump and winning a number of points equal to his bid if he makes so many tricks, or losing the same number of points if he fails to make them.</def> <sd>(b)</sd> <def>A bid to take five tricks at napoleon.  It is ordinarily the highest bid; but sometimes bids are allowed of <xex>wellington</xex>, or of <xex>blucher</xex>, to take five tricks, or pay double, or treble, if unsuccessful.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -1168,7 +1168,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 <p><ent>Nargileh</ent><br/
 <ent>Nargile</ent><br/
 <mhw>{ <hw>Nar"gile</hw> <pr>(?)</pr>, <hw>Nar"gi*leh</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Per. <ets>n<amac/rgh<imac/l</ets>, prop., a cocoanut; prob. so called because first made of a cocoanut.]</ety> <def>An apparatus for smoking tobacco.  It has a long flexible tube, and the smoke is drawn through water.  Also called <er>hoookah</er> and <altname>water pipe</altname>.  Functionally similar to the <er>hubble-bubble</er>, a simplified form.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Narica</ent><br/
 \'d8<hw>Nar"i*ca</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The brown coati. See <er>Coati</er>.</def><br/
@@ -1367,7 +1367,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><sn>2.</sn>  <def>Capable of being shocked by behavior of others.  Opposite of <ant>unshockable</ant>.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> shockable.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p> -- <wordforms><wf>Nar"row-mind`ed*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -1472,7 +1472,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Nascent</ent><br/
 <hw>Nas"cent</hw> <pr>(n<acr/s"s<eit/nt; n<amac/"s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>nascens</ets>, <ets>-entis</ets>, p. pr. <ets>nasci</ets> to be born. See <er>Nation</er>, and cf. <er>Naissant</er>.]</ety> <sn>1.</sn> <def>Commencing, or in process of development; beginning to exist or to grow; coming into being; <as>as, a <ex>nascent</ex> germ</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q><qex>Nascent</qex> passions and anxieties.</q> <rj><qau>Berkley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -1640,7 +1640,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>the shrub bearing the <er>natal plum{1}</er>; a very large closely branched South African shrub (<spn>Carissa grandiflora</spn>) of the dogbane family having forked bright green spines, white flowers, shiny leaves, and red berries.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Natals</ent><br/
 <hw>Na"tals</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>One's birth, or the circumstances attending it.</def> <mark>[Obs.]</mark>  <rj><au>Fitz-Geffry.</au></rj><br/
@@ -1799,7 +1799,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 
 <p><ent>nationalist</ent><br/
 <hw>na"tion*al*ist</hw>, <pos>n.</pos> <sn>1.</sn> <def>One who advocates national unity and independence; -- as, for example, one of a party favoring Irish independence before 1918.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>One who advocates nationalism, in any sense.</def><br/
 [<source>PJC</source>]</p>
@@ -1830,7 +1830,7 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>The state or quality of belonging to or being connected with a nation or government by nativity, character, ownership, allegiance, etc.; <as>as, to record one's <ex>nationality</ex> on identification papers; the Soviet Union had citizens of many <ex>nationalities</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nationalization</ent><br/
 <hw>Na`tion*al*i*za"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of nationalizing, or the state of being nationalized.</def><br/
@@ -1869,13 +1869,13 @@ Presided o'er the monarch's <qex>natal</qex> hour.</q> <rj><qau>Prior.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Born in the region in which one lives; <as>as, a <ex>native</ex> inhabitant, race</as>; grown or originating in the region where used or sold; not foreign or <ant>imported</ant>; <as>as, <ex>native</ex> oysters, or strawberries</as>.  In the latter sense, synonymous with <altname>domestic</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>Original; constituting the original substance of anything; <as>as, <ex>native</ex> dust</as>.</def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>Conferred by birth; derived from origin; born with one; inherent; inborn; not acquired; <as>as, <ex>native</ex> genius, cheerfulness, wit, simplicity, rights, intelligence, etc.  Having the same meaning as <altname>congenital</altname>, but typically used for positive qualities, whereas <altname>congenital</altname> may be used for negative qualities.  See also <er>congenital</er></as></def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Courage is <qex>native</qex> to you.</q> <rj><qau>Jowett (Thucyd.).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -1898,7 +1898,7 @@ Than is the throne of Denmark to thy father.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Native</ent><br/
 <hw>Na"tive</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, is born in a place or country referred to; a denizen by birth; an animal, a fruit, or vegetable, produced in a certain region; <as>as, a <ex>native</ex> of France; the <ex>natives</ex> are restless</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Stock Breeding)</fld> <def>Any of the live stock found in a region, as distinguished from such as belong to pure and distinct imported breeds.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -2017,7 +2017,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>Connected by the ties of consanguinity.</def> <specif>especially,</specif> <def>Related by birth rather than by adoption; <as>as, one's <ex>natural</ex> mother</as>.</def>  <ldquo/<xex>Natural</xex> friends.<rdquo/  <rj><au>J. H. Newman.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>7.</sn> <specif>Hence:</specif> <def>Begotten without the sanction of law; born out of wedlock; illegitimate; bastard; <as>as, a <ex>natural</ex> child</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2034,7 +2034,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 <p><-- p. 965 --></p>
 
 <p><sn>10.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>Produced by natural organs, as those of the human throat, in distinction from instrumental music.</def> <sd>(b)</sd> <def>Of or pertaining to a key which has neither a flat nor a sharp for its signature, as the key of C major.</def> <sd>(c)</sd> <def>Applied to an air or modulation of harmony which moves by easy and smooth transitions, digressing but little from the original key.</def>  <sd>(d)</sd> <def>Neither flat nor sharp; -- of a tone.</def> <sd>(e)</sd> <def>Changed to the pitch which is neither flat nor sharp, by appending the sign <natural/; <as>as, A <ex>natural</ex></as>.</def> <rj><au>Moore (Encyc. of Music).</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>11.</sn> <def>Existing in nature or created by the forces of nature, in contrast to production by man; not made, manufactured, or processed by humans; <as>as, a <ex>natural</ex> ruby; a <ex>natural</ex> bridge; <ex>natural</ex> fibers;  a deposit of <ex>natural</ex> calcium sulfate</as>.  Opposed to <ant>artificial</ant>, <ant>man-made</ant>, <ant>manufactured</ant>, <ant>processed</ant> and <ant>synthetic</ant>.</def> <wns>[wns=2]</wns><br/
 [<source>PJC</source>]</p>
@@ -2050,7 +2050,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 <q>It should be borne in mind that the <qex>natural system</qex> of botany is natural only in the constitution of its genera, tribes, orders, etc., and in its grand divisions.</q> <rj><qau>Gray.</qau></rj><br/
 <br/
   -- <mcol><col><b>Natural theology</b></col>, <it>or</it> <col><b>Natural religion</b></col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, 3. -- <col><b>Natural vowel</b></col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd> <-- ##?? wrong examples!!?? an earlier def? cup, alone, --></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Native</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -2095,7 +2095,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>naturalist</ent><br/
 <hw>nat"u*ral*ist</hw>, <pos>n.</pos> <ety>[Cf. F. <ets>naturaliste</ets>.]</ety> <sn>1.</sn> <def>One versed in natural science; a student of natural history, esp. of the natural history of plants or animals; a botanist or zoologist.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>One who holds or maintains the doctrine of naturalism in religion.</def>  <rj><au>H. Bushnell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2147,7 +2147,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>planted randomly in soil so as to give an appearance of wild growth; <as>as, drifts of <ex>naturalized</ex> daffodils</as>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Naturally</ent><br/
 <hw>Nat"u*ral*ly</hw>, <pos>adv.</pos> <def>In a natural manner or way; according to the usual course of things; spontaneously.</def><br/
@@ -2171,7 +2171,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Nature</ent><br/
 <hw>Na"ture</hw> <pr>(?; 135)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>natura</ets>, fr. <ets>natus</ets> born, produced, p. p. of <ets>nasci</ets> to be born. See <er>Nation</er>.]</ety> <sn>1.</sn> <def>The existing system of things; the universe of matter, energy, time and space; the physical world; all of creation.  Contrasted with the world of mankind, with its mental and social phenomena.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>But looks through <qex>nature</qex> up to <qex>nature's</qex> God.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2688,7 +2688,7 @@ Immured in cypress shades, a sorcerer dwells.</q> <rj><qau>Milton.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>Prussian blue.</def> <mark>[archaic]</mark> <br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Nawab</ent><br/
 \'d8<hw>Na*wab"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Nabob</er>.]</ety> <sn>1.</sn> <def>A deputy ruler or viceroy in India; also, a title given by courtesy to other persons of high rank in the East.</def><br/
@@ -2703,7 +2703,7 @@ Immured in cypress shades, a sorcerer dwells.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><ent>nay</ent><br/
 <hw>nay</hw> <pr>(n<amac/)</pr>, <pos>adv.</pos> <ety>[Icel. <ets>nei</ets>; akin to E. <ets>no</ets>. See <er>No</er>, <pos>adv.</pos>]</ety> <sn>1.</sn> <def>No; -- a negative answer to a question asked, or a request made, now superseded by <altname>no</altname>.  Opposed to <ant>aye</ant> or <ant>yea</ant>. See also <er>Yes</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>And eke when I say <ldquo/ye,<rdquo/ ne say not <ldquo/<qex>nay</qex>.<rdquo/</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -3035,7 +3035,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Free from admixture or adulteration; good of its kind; <as>as, <ex>neat</ex> brandy; to drink one's vodka <ex>neat</ex></as>.</def> <specif>Hence:</specif> <fld>(Chem.)</fld> <def>Pure; undiluted; <as>as, dissolved in <ex>neat</ex> acetone</as>.</def>  <ldquo/Our old wine <xex>neat</xex>.<rdquo/  <rj><au>Chapman.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <def>Excellent in character, skill, or performance, etc.; nice; finished; adroit; <as>as, a <ex>neat</ex> design; a <ex>neat</ex> thief.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -3107,7 +3107,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Nebula</ent><br/
 <hw>Neb"u*la</hw> <pr>(n<ecr/b"<usl/*l<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nebulae</plw> <pr>(n<ecr/b"<usl/*l<emac/)</pr>.</plu> <ety>[L., mist, cloud; akin to Gr. <grk>nefe`lh</grk>, <grk>ne`fos</grk>, cloud, mist, G. <ets>nebel</ets> mist, OHG. <ets>nebul</ets>, D. <ets>nevel</ets>, Skr. <ets>nabhas</ets> cloud, mist.  Cf. <er>Nebule</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>A faint, cloudlike, self-luminous mass of matter situated beyond the solar system among the stars.  The term was originally applied to any diffuse luminous region.  Now, technically, it is applied to interstellar clouds of dust and gases (<altname>diffuse nebula</altname>).  However distant galaxies and very distant star clusters often appear like them in the telescope, such as the <stype>spiral nebula</stype> in Andromeda, known now to be a distant galaxy.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <sd>(a)</sd> <def>A white spot or a slight opacity of the cornea.</def> <sd>(b)</sd> <def>A cloudy appearance in the urine.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -3430,7 +3430,7 @@ The tyrant's plea, excused his devilish deeds.</q> <rj><qau>Milton.</qau></rj><b
 
 <p><ent>Necrobiosis</ent><br/
 \'d8<hw>Nec`ro*bi*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>nekro`s</grk> dead + <?/ way of life, fr. <?/ life.]</ety> <fld>(Biol. & Med.)</fld> <def>The death of a part of an organism by molecular disintegration and without loss of continuity, as in the processes of degeneration and atrophy; a normal dying out of cells in a tissue, in contrast to <contr>necrosis</contr>.</def>  <rj><au>Virchow.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Necrobiotic</ent><br/
 <hw>Nec`ro*bi*ot"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol. & Med.)</fld> <def>Of or pertaining to necrobiosis; <as>as, a <ex>necrobiotic</ex> metamorphosis</as>.</def><br/
@@ -3531,7 +3531,7 @@ By <qex>necromancy</qex> plac<egrave/d there.</q> <rj><qau>Drayton.</qau></rj><b
 
 <p><ent>Necrosis</ent><br/
 \'d8<hw>Ne*cro"sis</hw> <pr>(n<esl/*kr<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ne`krwsis</grk>, fr. <grk>nekroy^n</grk> to make dead, to mortify, <grk>nekro`s</grk> a dead body.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The pathologic death of part of a tissue due to irreversible damage.    Contrast to <contr>necrobiosis</contr>, which is a normal death of cells in a tissue.  Formerly, applied primarily to death of bone tissue.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A disease of trees, in which the branches gradually dry up from the bark to the center.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3828,7 +3828,7 @@ Rove idle, unemployed, and less <qex>need</qex> rest.</q> <rj><qau>Milton.</qau>
 <p><ent>Needlework</ent><br/
 <hw>Nee"dle*work`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Work executed with a needle; sewed work; sewing; embroidery, crocheting, quilting, or tapestry, etc.; also, the art, process, or occupation of creating objects with needles.</def><br/
 <syn><b>Syn. --</b> needlecraft.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>The combination of timber and plaster making the outside framework of some houses.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -4587,7 +4587,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 
 <p><ent>Nematoda</ent><br/
 <hw>Nem`a*to"da</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <fld>(Zool.)</fld> <def>A phylum of worms, having a long, round, and generally smooth body; the roundworms.  They are mostly parasites, in plants and animals, but some are free-living in soil or water.  Also called <altname>Nematoidea</altname>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>nematode</ent><br/
 <hw>nem"a*tode</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Same as <er>Nematoid</er>.</def><br/
@@ -4615,7 +4615,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 
 <p><ent>Nematoidea</ent><br/
 \'d8<hw>Nem`a*toi"de*a</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>nh^ma</grk>, <grk>nh`matos</grk>, thread + <ets>-oid</ets>.]</ety> <fld>(Zool.)</fld> <def>A phylum of worms, having a long, round, and generally smooth body; the roundworms.  Called also <altname>Nematodea</altname>, and more commonly <altname>Nematoda</altname>.  Formerly, it was classed as a taxonomic order.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The trichina, stomach worm, and pinworm of man belong to this group.  See also <cref>Vinegar eel</cref>, under <er>Vinegar</er>, and <er>Gapeworm</er>.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -4786,7 +4786,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 
 <p><ent>Neodymium</ent><br/
 <hw>Ne`o*dym"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Dee <er>Neo-</er>, and <er>Didymium</er>.]</ety> <fld>(Chem.)</fld> <def>The chemical element of atomic number 60, one of the <isa>rare earth</isa> elements.  Symbol <it>Nd</it>.  Atomic weight 144.27.</def>  <note>It is a rare metallic element occurring in combination with cerium, lanthanum, and other rare metals, and forming amethyst-colored salts.  It was originally thought to be part of a supposed new element <partof>didymium</partof>, obtained from cerite in 1843.  Later this was resolved into two elements, neodymium and praesodymium by <person>von Welsbach</person> in 1885.  It is chiefly trivalent.  It is a faintly yellow metal.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Neogaean</ent><br/
 <hw>Ne`o*gae"an</hw> <pr>(n<emac/`<osl/*j<emac/"<ait/n)</pr>, <pos>a.</pos> <ety>[<ets>Neo-</ets> + Gr. <grk>gai^a</grk> earth.]</ety> <fld>(Zool.)</fld> <def>Of or pertaining to the New World, or Western Hemisphere.</def><br/
@@ -4870,7 +4870,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 
 <p><ent>Neolithic</ent><br/
 <hw>Ne`o*lith"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Neo-</ets> + <ets>-lith</ets> + <ets>-ic</ets>.]</ety> <fld>(Archaeol. & Geol.)</fld> <def>Of or pertaining to, or designating, an era characterized by late remains in stone; the late stone age.  Estimated as beginning around 9000 <sc>b. c.</sc> in the Middle East, this period is characterized by the beginnings of farming, the domestication of animals, and the manufacture of textiles and pottery.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>The <qex>Neolithic</qex> era includes the latter half of the <ldquo/Stone age;<rdquo/ the human relics which belong to it are associated with the remains of animals not yet extinct.  The kitchen middens of Denmark, the lake dwellings of Switzerland, and the stockaded islands, or <ldquo/crannogs,<rdquo/ of the British Isles, belong to this era.</q> <rj><qau>Lubbock.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5102,11 +5102,11 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><ent>Nepalese</ent><br/
 <hw>Nep`a*lese"</hw> <pr>(? <or/ ?)</pr>, <pos>prop. a.</pos> <def>Of or pertaining to Nepal, a kingdom North of India; <as>as, <ex>Nepalese</ex> troops massed at the border</as>.</def> <altsp>[Formerly written <asp>Nepaulese</asp>.]</altsp><br/
 <syn><b>Syn. --</b> Nepali.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nepalese</ent><br/
 <hw>Nep`a*lese"</hw> <pr>(? <or/ ?)</pr>, <pos>prop. n. sing. & pl.</pos> <def>A native or natives of Nepal, or an inhabitant of Nepal.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nepali</ent><br/
 <hw>Nepali</hw> <pos>prop. adj.</pos>  <def>same as <er>Nepalese</er>.</def><br/
@@ -5208,7 +5208,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 
 <p><ent>nephrite</ent><br/
 <hw>neph"rite</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>n<eacute/phrite</ets>. See <er>nephritis</er>.]</ety> <fld>(Min.)</fld> <def>A hard compact mineral, of a dark green color, formerly worn as a remedy for diseases of the kidneys, whence its name; kidney stone; a kind of <isa>jade</isa>.  It varies in color from white to dark green.  It is the more common and less valuable variety of jade, the other being jadeite.  Large deposits are found in Australia.  Called also <altname>nephritic stone</altname>.  See also <er>Jade</er>.</def> <au>[MW10]</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nephritical</ent><br/
 <ent>Nephritic</ent><br/
@@ -5300,7 +5300,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>The remotest major planet of our solar system, discovered -- as a result of the computations of <persfn>Leverrier</persfn>, of Paris -- by <persfn>Galle</persfn>, of Berlin, September 23, 1846.  It is classed as a <isa>gas giant</isa>, and has a radius of 22,716 km and an estimated mass of 1.027 x 10<exp>26</exp> kg, with an average density of 2.27 g/cc.  Its mean distance from the sun is about 5,000,000,000 km (3,106,856,000 miles), and its period of revolution is about 164.78 years.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Neptune powder</b></col>, <cd>an explosive containing nitroglycerin, -- used in blasting.</cd> -- <col><b>Neptune's cup</b></col> <fld>(Zool.)</fld>, <cd>a very large, cup-shaped, marine sponge (<spn>Thalassema Neptuni</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -6079,7 +6079,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>Neuroglia</ent><br/
 \'d8<hw>Neu*rog"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ney^ron</grk> ligament + <grk>gli`a</grk> glue.]</ety> <fld>(Anat.)</fld> <def>The delicate connective tissue framework which supports the nervous matter and blood vessels of the brain and spinal cord; called also <altname>K<oum/lliker's reticulum</altname>.  It is composed of cells which are not neurons.   Once thought to serve merely a supporting funciton, they are now believed to have important metablolic functions.  Among them are the <parts>astrocytes</parts>, <parts>ependymal cells</parts>, <parts>oligodendroglia cells</parts>, and <parts>microglia cells</parts>.</def> <au>Stedman.</au><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Neurography</ent><br/
 <hw>Neu*rog"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Neuro-</ets> + <ets>-graphy</ets>.]</ety> <fld>(Anat.)</fld> <def>A description of the nerves.</def>  <rj><au>Dunglison.</au></rj><br/
@@ -6744,7 +6744,7 @@ Into a fairer form.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>newsroom</ent><br/
 <hw>news"room`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A room where news is collected and disseminated, located in the offices of a newspaper, magazine, or news broadcast organization; <as>as, the CBS <ex>newsroom</ex></as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A room where periodicals are sold; a reading room supplied with newspapers, magazines, etc.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -6759,7 +6759,7 @@ Into a fairer form.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>News-writer</ent><br/
 <hw>News"-writ`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who gathers news for, and writes, news-letters, articles in news periodicals, or items for broadcast on news programs.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Newsy</ent><br/
 <hw>News"y</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Full of news; abounding in information as to current events.</def> <mark>[Colloq.]</mark><br/
@@ -6771,7 +6771,7 @@ Into a fairer form.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>New Thought</ent><br/
 <hw>New` Thought"</hw>. <def>Any form of belief in mental healing, other than (1) Christian Science and (2) hypnotism or psychotherapy.  It was practised in the 19th century, and its central principle was affirmative thought, or suggestion, employed with the conviction that man produces changes in his health, his finances, and his life by the adoption of a favorable mental attitude.  As a therapeutic doctrine it stands for silent and absent mental treatment, and the theory that all diseases are mental in origin.  As a cult it has its unifying idea the inculcation of workable optimism in contrast with the <ldquo/old thought<rdquo/ of sin, evil, predestination, and pessimistic resignation.  The term is essentially synonymous with the term <altname>High Thought</altname>, used in England.</def> -- <wordforms><wf>New` Thought"er</wf>, <pos>n.</pos> -- <wf>New` Thought"ist</wf>, <pos>n.</pos></wordforms><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>newton<ent><br/
 <hw>new"ton</hw> <pr>(n<oomac/"t'n)</pr>, <pos>n.</pos> <ety>[Named in honor of <er>Isaac <ets>Newton</ets></er>.  ca. 1900.]</ety> <def>A unit of force of the Systeme Internationale system of units of measure, equal to the force that produces an acceleration of one meter per second per second when applied to a mass of one kilogram.  Abbreviated <altname>N</altname>.</def><br/
@@ -6865,7 +6865,7 @@ Was <qex>next</qex> her side; in order sat the rest.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>Nez Perces</ent><br/
 \'d8<hw>Nez" Per`c<eacute/s"</hw> <pr>(?)</pr>, <pluf>pl.</pluf>; <sing>sing. <singw>Nez Perc<eacute/</singw> <pr>(<?/)</pr></sing>. <ety>[F., pierced noses.]</ety> <fld>(Ethnol.)</fld> <def>A tribe of Indians, in the late 1800's mostly inhabiting Idaho.  They were involved under <person>Chief Joseph</person>, in the last major battle of the Indian wars, attempting to resist being moved to a reservation.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ngina</ent><br/
 \'d8<hw>Ngi"na</hw> <pr>(n'g<emac/"n<adot/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <def>The gorilla.</def><br/
@@ -7153,7 +7153,7 @@ Santa Claus is coming to town.</q> <rj><qau>Song.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>To mar; to deface; to make ragged, as by cutting nicks or notches in; to create a nick{2} in, deliberately or accidentally; <as>as, to <ex>nick</ex> the rim of a teacup</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>And thence proceed to <qex>nicking</qex> sashes.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -7282,7 +7282,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>nickname</ent><br/
 <hw>nick"name`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>ekename</ets> surname, hence, a nickname, <ets>an ekename</ets> being understood as <ets>a nekename</ets>, influenced also by E. <ets>nick</ets>, v. See <er>Eke</er>, and <er>Name</er>.]</ety> <def>A name given in affectionate familiarity, sportive familiarity, contempt, or derision; a familiar or an opprobrious appellation; <as>as, Nicholas's <ex>nickname</ex> is Nick</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nickname</ent><br/
 <hw>Nick"name`</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Nicknamed</conjf> <pr>(#)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Nicknaming</conjf>.]</vmorph> <def>To give a nickname to; to call by a nickname.</def><br/
@@ -7326,7 +7326,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Nicotine</ent><br/
 <hw>Nic"o*tine</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos> <ety>[F. <ets>nicotine</ets>. See <er>Nicotian</er>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid which is the active principle of tobacco (<chform>C10H14N2</chform>).  It occurs in tobacco plants (<spn>Nicotiana tabacum</spn> and <spn>Nicotiana rusticum</spn>) to the extent of 2 to 8%, in combination with malic acid or citric acid.  It is a colorless, transparent, oily liquid, having an acrid odor, and an acrid burning taste.  It is intensely poisonous.  The apparently addictive effects of tobacco smoking have been ascribed largely to the effect of nicotine, and the controlled administration of nicotine on various forms has been used as a technique for assisting efforts to stop the smoking habit.</def>  <rj><au>Ure.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nicotinic</ent><br/
 <hw>Nic`o*tin"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, nicotine; nicotic; -- used specifically to designate an acid related to pyridine, obtained by the oxidation of nicotine, and called <xex>nicotinic acid</xex>.</def><br/
@@ -7335,7 +7335,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>nicotinic acid</ent><br/
 <hw>nic`o*tin"ic ac"id</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An organic acid (<chform>C6H5NO2</chform>), a carboxylated derivative of pyridine, obtained by the oxidation of nicotine; called also <altname>niacin</altname> and <altname>antipellagra vitamin</altname>, and <altname>vitamin B<sub>5</sub></altname>.  Chemically it is <chname>3-pyridinecarboxylic acid</chname>.</def> <note>It is a cofactor in several enzymatic reactions, and is used to prevent a pellagra-like disease in dogs. <au>[MI11]</au></note><br/
 <syn><b>Syn. --</b> 3-pyridinecarboxylic acid, niacin, antipellagra vitamin.</syn>
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nicotinism</ent><br/
 <hw>Nic"o*tin*ism</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Nicotine</ets> + <ets>-ism</ets>.]</ety> <fld>(Med.)</fld> <def>The morbid condition produced by the excessive use of tobacco.</def><br/
@@ -7588,7 +7588,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>nigger</ent><br/
 <hw>nig"ger</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A negro; -- in vulgar derision or depreciation.  It is usually intended and interpreted as highly insulting and vulgar.</def> <mark>[Low, deprecatory, and vulgar]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Niggerhead</ent><br/
 <hw>Nig"ger*head`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A strong black chewing tobacco, usually in twisted plug form; negro head.</def> <mark>[archaic]</mark><br/
@@ -7834,7 +7834,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <p><ent>nightclub</ent><br/
 <hw>nightclub</hw> <pos>n.</pos> <def>An establishment providing entertainment (as singers, dancers, or comedy acts), usually open late into the night or early morning, typically serving alcoholic beverages and food.</def><br/
 <syn><b>Syn. --</b> cabaret.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>nightcrawler</ent><br/
 <hw>nightcrawler</hw> <pos>n.</pos> <def>A terrestrial worm that burrows into and helps aerate soil; an earthworm.  It often surfaces when the ground is cool or wet, and is used as bait by anglers.  The term is used mostly in the northern and western U. S.</def><br/
@@ -7862,7 +7862,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 
 <p><ent>Nightfall</ent><br/
 <hw>Night"fall`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The close of the day; the arrival of the night; the period at and just after dusk.</def>  <rj><au>Swift.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Night-faring</ent><br/
 <hw>Night"-far`ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Going or traveling in the night.</def>  <rj><au>Gay.</au></rj><br/
@@ -7943,10 +7943,10 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A trerrifying or oppressive dream characterized by a sense of helplessness in the face of danger, extreme uneasiness or discomfort (as of weight on the chest or stomach, impossibility of motion or speech, etc.) or extreme anxiety, from which one wakes in a troubled state of mind.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> Hence: <def>Any overwhelming, oppressive, or terrifying experience resembling a nightmare{2} especially in the inability to escape from an unpleasant situation.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>nightmarish</ent><br/
 <hw>nightmarish</hw> <pos>adj.</pos>  <def>Terrifying, as if in a nightmare{2}; resembling a nightmare{2}.</def><br/
@@ -8722,7 +8722,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Nitrate of silver</b></col>, <cd>a white crystalline salt (<chform>AgNO3</chform>), used in photography and as a cauterizing agent; -- called also <altname>lunar caustic</altname>, and more commonly called <altname>silver nitrate</altname>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nitrated</ent><br/
 <hw>Ni"tra*ted</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <fld>(Chem.)</fld> <def>Combined, or impregnated, with nitric acid, or some of its compounds.</def><br/
@@ -8766,7 +8766,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The process is going on at all times in porous soils and in water contaminated with nitrogenous matter, and is supposed to be due to the presence of a bacteria, such as members of the genus <gen>Azotobacter</gen>, formerly called <causedby>nitrification ferments</causedby>.  In former times the process was extensively made use of in the production of saltpeter.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nitrifier</ent><br/
 <hw>Ni"tri*fi`er</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An agent employed in nitrification.</def><br/
@@ -8781,11 +8781,11 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The nitriles are named with reference to the acids produced by their decomposition, thus, hydrocyanic acid is <stype>formic nitrile</stype>, methyl cyanide is <stype>acetonitrile</stype> (also <stype>acetic nitrile</stype>), and ethyl cyanide is <stype>propionitrile</stype> (from propionic acid).</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nitrite</ent><br/
 <hw>Ni"trite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>nitrite</ets>. See <er>Niter</er>.]</ety> <fld>(Chem.)</fld> <def>A salt or ester of nitrous acid; a compound bearing the <chform>-NO2</chform> radical.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Amyl nitrite</b></col>, <cd>a yellow oily volatile liquid, used in medicine as a depressant and a vaso-dilator.  Its inhalation produces an instantaneous flushing of the face.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -8854,7 +8854,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Nitrogen</ent><br/
 <hw>Ni`tro*gen</hw> <pr>(n<imac/"tr<osl/*j<ecr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>nitrum</ets> natron + <ets>-gen</ets>: cf. F. <ets>nitrog<egrave/ne</ets>. See <er>Niter</er>.]</ety> <fld>(Chem.)</fld> <def>A colorless nonmetallic element of atomic number 7, tasteless and odorless, comprising four fifths of the atmosphere by volume in the form of molecular nitrogen (<chform>N2</chform>).  It is chemically very inert in the free state, and as such is incapable of supporting life (hence the name <altname>azote</altname> still used by French chemists); but it forms many important compounds, such as ammonia, nitric acid, the cyanides, etc, and is a constituent of all organized living tissues, animal or vegetable.  Symbol N.  Atomic weight 14.007.  It was formerly regarded as a permanent noncondensible gas, but was liquefied in 1877 by <persfn>Cailletet</persfn> of Paris, and <persfn>Pictet</persfn> of Geneva, and boils at -195.8 <deg/ C at atmospheric pressure.  Liquid nitrogen is used as a refrigerant to store delicate materials, such as bacteria, cells, and other biological materials.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nitrogenize</ent><br/
 <hw>Ni"tro*gen*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Nitrogenized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Nitrogenizing</conjf>.]</vmorph> <fld>(Chem.)</fld> <def>To combine, or impregnate, with nitrogen or its compounds.</def><br/
@@ -9141,7 +9141,7 @@ I dare accept this your congratulation.</q> <rj><qau>Coleridge.</qau></rj><br/
 
 <p><ent>Nobel prize</ent><br/
 <hw>No*bel" prize</hw> <pr>(?)</pr> <pos>n.</pos>; <plu><it>pl.</it> <plw>No*bel" prizes</plw></plu>. <def>Prizes for the encouragement of men and women who work for the interests of humanity, established by the will of <person>Alfred B. <etsep>Nobel</etsep></person> (1833-1896), the Swedish inventor of dynamite, who left his entire estate for this purpose.  They are awarded yearly for what is regarded as the most important work during the year in physics, chemistry, medicine or physiology, idealistic literature, and service in the interest of peace.  The prizes, averaging $40,000 each, were first awarded in 1901.  The monetary value of the awards have increased each year, to near one million U. S. dollars by the end of the 20th century.</def> <note>The awards are administered by the <a HREF="http://www.nobel.se/index.html">Nobel Foundation</a>, which maintains a Web Page where the lists of prize winners and other information about the Nobel Prize may be found.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Nobert's lines</ent><br/
 <hw>No"bert's lines</hw> <pr>(?)</pr>. <ety>[After <person>F. A. <etsep>Nobert</etsep></person>, German manufacturer in Pomerania.]</ety> <def>Fine lines ruled on glass in a series of groups of different closeness of line, and used to test the power of a microscope.</def><br/
@@ -9330,7 +9330,7 @@ To <qex>nobler</qex> poets for a <qex>nobler</qex> song.</q> <rj><qau>Dryden.</q
 
 <p><ent>Noctambulation</ent><br/
 <hw>Noc*tam`bu*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nox</ets>, <ets>noctis</ets>, night + <ets>ambulare</ets> to walk: cf. F. <ets>noctambulation</ets>.]</ety> <def>Somnambulism; sleepwalking; walking in one's sleep.</def>  <rj><au>Quain.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Noctambulism</ent><br/
 <hw>Noc*tam"bu*lism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Somnambulism.</def><br/
@@ -9419,7 +9419,7 @@ To <qex>nobler</qex> poets for a <qex>nobler</qex> song.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Having a habit of seeking food or moving about at night; <as>as, <ex>nocturnal</ex> birds and insects; raccoons are <ex>nocturnal</ex>.</as>; -- of animals.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nocturnal</ent><br/
 <hw>Noc*tur"nal</hw>, <pos>n.</pos> <def>An instrument formerly used for taking the altitude of the stars, etc., at sea.</def>  <rj><au>I. Watts.</au></rj><br/
@@ -9519,7 +9519,7 @@ Ready with every <qex>nod</qex> to tumble down.</q> <rj><qau>Shak.</qau></rj><br
 <p><ent>Noddle</ent><br/
 <hw>Nod"dle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>nodil</ets>, <ets>nodle</ets>; perh. fr. <ets>nod</ets>, because the head is the nodding part of the body, or perh. akin to E. <ets>knot</ets>; cf. Prov. E. <ets>nod</ets> the nape of the neck.]</ety> <sn>1.</sn> <def>The head; also, <altname>noodle</altname>; -- used jocosely or contemptuously.</def><br/
 <syn><b>Syn. --</b> noggin.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Come, master, I have a project in my <qex>noddle</qex>.</q> <rj><qau>L'Estrange.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -9603,7 +9603,7 @@ Ready with every <qex>nod</qex> to tumble down.</q> <rj><qau>Shak.</qau></rj><br
 <p><ent>nodulated</ent><br/
 <hw>nodulated</hw> <pos>adj.</pos>  <def>Having nodules or occurring in the form of nodules.</def><br/
 <syn><b>Syn. --</b> nodular, noduled.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nodule</ent><br/
 <hw>Nod"ule</hw> <pr>(n<ocr/d"<usl/l)</pr>, <pos>n.</pos> <ety>[L. <ets>nodulus</ets>, dim. of <ets>nodus</ets> knot: cf. F. <ets>nodule</ets>.]</ety> <def>A rounded mass or irregular shape; a little knot or lump.</def><br/
@@ -10146,7 +10146,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 
 <p><ent>Nominee</ent><br/
 <hw>Nom`i*nee"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Nominate</er>, and <er>-ee</er>.]</ety> <def>A person named, or designated, by another, to any office, duty, or position; one nominated, or proposed, by others for office or for election to office.  One remains a <ex>nominee</ex> until one has been elected or has assumed the office.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nominor</ent><br/
 <hw>Nom"i*nor`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Nominate</er>, and <er>-or</er>.]</ety> <def>A nominator.</def> <mark>[Obs.]</mark>  <rj><au>Bentham.</au></rj><br/
@@ -10327,7 +10327,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 <p><ent>non-automatic</ent><br/
 <hw>non-automatic</hw> <pos>adj.</pos>  <def>same as <er>hand-operated</er>.</def><br/
 <syn><b>Syn. --</b> hand-operated.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>nonbearing</ent><br/
 <hw>nonbearing</hw> <pos>adj.</pos> <sn>1.</sn> <fld>(Arch.)</fld> <def>supporting no vertical weight other than its own; -- of a structural member; <as>as, a <ex>non-bearing</ex> wall</as>.</def> [Narrower terms: <stype>dividing(prenominal) </stype>] <ant>bearing</ant><br/
@@ -10507,7 +10507,7 @@ A chalice for the <qex>nonce</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Noncondensible</ent><br/
 <hw>Non`con*den"si*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not condensible; incapable of being liquefied; -- said of gases.</def> <mark>[archaic]</mark> <br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Noncondensing</ent><br/
 <hw>Non`con*dens"ing</hw>, <pos>a.</pos> <fld>(Steam Engine)</fld> <def>Not condensing; discharging the steam from the cylinder at a pressure nearly equal to or above that of the atmosphere and not into a condenser.</def><br/
@@ -10515,7 +10515,7 @@ A chalice for the <qex>nonce</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Nonconducting</ent><br/
 <hw>Non`con*duct"ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not conducting; nonconductive; not transmitting a fluid or force; -- used especially of electric current; <as>thus, in electricity, wax is a <ex>nonconducting</ex> substance</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonconduction</ent><br/
 <hw>Non`con*duc"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of not being able to conduct or transmit; failure to conduct.</def><br/
@@ -10694,7 +10694,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Nonelectric</ent><br/
 <hw>Non`e*lec"tric</hw>, <pos>n.</pos> <fld>(Physics)</fld> <def>A substance that is not an insulator (i. e., an electric); that which transmits electricity, as a metal; a conductor.</def> <mark>[archaic]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonemphatical</ent><br/
 <ent>Nonemphatic</ent><br/
@@ -10714,7 +10714,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A person or thing of little or no account; an unimportant person; -- usually used as a disparaging term.</def> <mark>[Colloq.]</mark><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Non-Episcopal</ent><br/
 <hw>Non`-E*pis"co*pal</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not Episcopal; not pertaining to the Episcopal church or system.</def><br/
@@ -10783,7 +10783,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Nonexistence</ent><br/
 <hw>Non`ex*ist"ence</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The state of not existing; absence of existence; the negation of being; -- usually used with reference to existince in the real world, or logical possiblity; <as>as, the <ex>nonexistence</ex> of vaporware does not go unnoticed long</as>.</def>  <rj><au>A. Baxter.</au></rj><br/
 <syn><b>Syn. --</b> nonentity{1}.</syn><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A thing that has no existence.</def>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -11017,7 +11017,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>nonlinear</ent><br/
 <hw>nonlinear</hw> <pos>adj.</pos> <sn>1.</sn> <fld>(Math.)</fld> <def>Not depictable graphically as a straight line; not changing by a constant amount for each unit of time, distance, or other independent variable.  Opposite of <ant>linear</ant>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>Containing variables of greater than the first degree; -- of an equation.  Opposite of <ant>linear</ant>.</def><br/
 [<source>PJC</source>]</p>
@@ -11037,7 +11037,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>nonliterate</ent><br/
 <hw>nonliterate</hw> <pos>adj.</pos>  <def>not using a writing system; -- of societies, cultures, or tribes.</def> [Narrower terms: <stype>uncivilized (vs. civilized)</stype>]<br/
 <syn><b>Syn. --</b> preliterate.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>nonliving</ent><br/
 <hw>nonliving</hw> <pos>adj.</pos>  <def>Not endowed with life; same as <er>inanimate</er>.  Opposite of <ant>living</ant> and <ant>animate</ant>.</def><br/
@@ -11046,7 +11046,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Nonmalignant</ent><br/
 <hw>Non`ma*lig"nant</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not malignant, as a disease; -- used especially of tumors; <as>as, a <ex>nonmalignant</ex> growth on the liver</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonmanufacturing</ent><br/
 <hw>Non*man`u*fac"tur*ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not carrying on manufactures.</def><br/
@@ -11062,7 +11062,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>nonmechanistic</ent><br/
 <hw>nonmechanistic</hw> <pos>adj.</pos> <def>not determined by a mechanical process; partly resulting from a creative process.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonmedullated</ent><br/
 <hw>Non*med"ul*la`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not medullated;</def> <specif>Specifically:</specif> <fld>(Anat.)</fld> <def>without a medulla or marrow, or without a medullary sheath; <as>as, a <ex>nonmedullated</ex> nerve fiber</as>.</def><br/
@@ -11070,7 +11070,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Nonmember</ent><br/
 <hw>Non*mem"ber</hw>, <pos>n.</pos> <def>One who is not a member; <as>as, <ex>nonmembers</ex> are not allowed in the club reading room</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonmembership</ent><br/
 <hw>Non*mem"ber*ship</hw>, <pos>n.</pos> <def>State of not being a member.</def><br/
@@ -11148,7 +11148,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Nonnucleated</ent><br/
 <hw>Non*nu"cle*a`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Without a nucleus; anucleate.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonny</ent><br/
 <hw>Non"ny</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A silly fellow; a ninny.</def><br/
@@ -11233,7 +11233,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A beautifully colored finch (<spn>Passerina ciris</spn>), native of the Southern United States.  The male has the head and neck deep blue, rump and under parts bright red, back and wings golden green, and the tail bluish purple.  Called also <altname>painted bunting</altname> and <altname>painted finch</altname>.</def> <sd>(b)</sd> <def>Any other similar bird of the same genus.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <fld>(Cookery)</fld> <def>A small sphere, less than 1 mm diamter, of colored sugar, used to decorate confections; -- usually used in the plural as though the name of a substance; <as>as, sprinkled with <ex>nonpareils</ex></as>.</def><br/
 [<source>PJC</source>]</p>
@@ -11354,7 +11354,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Not done by, or proceeding from, professional men; contrary to professional usage; unprofessional.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nonproficiency</ent><br/
 <hw>Non`pro*fi"cien*cy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Want of proficiency; failure to make progress.</def><br/
@@ -11371,7 +11371,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>non-profit-making</ent><br/
 <hw>non-profit-making</hw> <pos>adj.</pos>  <def>not commercially motivated; not profit-making; nonprofit; not for profit.</def> [Narrower terms: <stype>charitable, eleemosynary</stype>]<br/
 <syn><b>Syn. --</b> nonprofit.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Non pros.</ent><br/
 <hw>Non" pros.`</hw> <pr>(<?/)</pr>. <def>An abbreviation of <er>Non prosequitur</er>.</def><br/
@@ -11908,7 +11908,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Noonday</ent><br/
 <hw>Noon"day`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to midday; meridional; <as>as, the <ex>noonday</ex> heat; only mad dogs and Englishmen go out in the <ex>noonday</ex> sun</as>.</def> <ldquo/<xex>Noonday</xex> walks.<rdquo/  <rj><au>Addison.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Noon-flower</ent><br/
 <hw>Noon"-flow`er</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The goat's beard, whose flowers close at midday.</def><br/
@@ -11980,7 +11980,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>noradrenaline</ent><br/
 <hw>noradrenaline</hw> <pos>n.</pos> <def>Same as <er>norepinephrine</er>.</def><br/
 <syn><b>Syn. --</b> norepinephrine.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Norbertine</ent><br/
 <hw>Nor"bert*ine</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Premonstrant</er>.</def><br/
@@ -12062,7 +12062,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>norium</ent><br/
 <hw>no"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Chem.)</fld> <def>A supposed metal alleged to have been discovered in 1845 by the Swedish chemist <persfn>Swanberg</persfn> in zircon.  After many unsuccessful attempts to verify this new element, the element named <er>Hafnium</er> (atomic number 72) was discoverd in 1923 by <person>D. Coster</person> and <person>G. von Hevesey</person> in the zirconium-containing mineral zircon.  Hafnium, present at 1 to 5% in many zirconium-bearing minerals, but difficult to separate from zirconium, is probably the element that gave rise to the properties attributed to the hypothetical norium.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Norland</ent><br/
 <hw>Nor"land</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[For <ets>Northland</ets>.]</ety> <sn>1.</sn> <def>The land in the north; north country.</def> <mark>[Chiefly Poetic]</mark><br/
@@ -12080,7 +12080,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A rule or authoritative standard; a model; a type; <as>as, deviations from the <ex>norm</ex> are not tolerated</as>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Biol.)</fld> <def>A typical, structural unit; a type.</def>  <rj><au>Agassiz.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -12495,7 +12495,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Nose bit</b></col> <fld>(Carp.)</fld>, <cd>a bit similar to a gouge bit, but having a cutting edge on one side of its boring end.</cd> -- <col><b>Nose hammer</b></col> <fld>(Mach.)</fld>, <cd>a frontal hammer.</cd> -- <col><b>Nose hole</b></col> <fld>(Glass Making)</fld>, <cd>a small opening in a furnace, before which a globe of crown glass is held and kept soft at the beginning of the flattening process.</cd> -- <col><b>Nose key</b></col> <fld>(Carp.)</fld>, <cd>a fox wedge.</cd> -- <col><b>Nose leaf</b></col> <fld>(Zool.)</fld>, <cd>a thin, broad, membranous fold of skin on the nose of many species of bats.  It varies greatly in size and form.</cd> -- <col><b>Nose of wax</b></col>, <mark>(fig.)</mark>, <cd>a person who is pliant and easily influenced.</cd> <ldquo/A <xex>nose of wax</xex> to be turned every way.<rdquo/ <au>Massinger</au> -- <col><b>Nose piece</b></col>, <cd>the nozzle of a pipe, hose, bellows, etc.; the end piece of a microscope body, to which an objective is attached.</cd> -- <mcol><col><b>To hold one's nose to the grindstone</b></col>, <col><b>To put one's nose to the grindstone</b></col>, <it>or</it> <col><b>To bring one's nose to the grindstone</b></col></mcol>. <cd>See under <er>Grindstone</er>.</cd> -- <col><b>To lead by the nose</b></col>, <cd>to lead at pleasure, or to cause to follow submissively; to lead blindly, as a person leads a beast.</cd> <au>Shak.</au> -- <col><b>To put one's nose out of joint</b></col>, <cd>to humiliate one's pride, esp. by supplanting one in the affections of another.</cd> <mark>[Slang]</mark> -- <col><b>To thrust one's nose into</b></col>, <cd>to meddle officiously in.</cd> -- <col><b>To wipe one's nose of</b></col>, <cd>to deprive of; to rob.</cd> <mark>[Slang]</mark> -- <col><b>on the nose</b></col>, <sd>(a)</sd> <cd>exactly, accurately.</cd> <sd>(b)</sd> <fld>(racing)</fld> <cd>to win, as opposed to <contr>to place</contr> or <contr>to show</contr>.</cd></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nose</ent><br/
 <hw>Nose</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Nosed</conjf> <pr>(n<omac/zd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Nosing</conjf>.]</vmorph> <sn>1.</sn> <def>To smell; to scent; hence, to track, or trace out.</def><br/
@@ -12564,7 +12564,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>nosecount</ent><br/
 <hw>nosecount</hw> <pos>n.</pos> <def>A count of the number of persons present or who are to be included in a group; <as>as, get a <ex>nosecount</ex> of those who are planning to go</as>; also, a periodic count of the population.</def><br/
 <syn><b>Syn. --</b> census.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nosed</ent><br/
 <hw>Nosed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a nose, or such a nose; -- chiefly used in composition; <as>as, pug-<ex>nosed</ex></as>.</def><br/
@@ -13460,7 +13460,7 @@ Loth to displease any wight,<br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- In spite of; despite.</syn> <usage> -- <er>Notwithstanding</er>, <er>In spite of</er>, <er>Despite</er>. Of these, only <ex>notwithstanding</ex> can be used postpositively; <as>as, I will go, the weather <ex>notwithstanding</ex></as>.  With respect to meaning, these words and phrases are often interchanged, but there is a difference between them, chiefly in strength.  <xex>Notwithstanding</xex> is the weaker term, and simply points to some obstacle that may exist; as, I shall go, <xex>notwithstanding</xex> the rain.  <xex>In spite</xex> or <xex>despite of</xex> has reference primarily to active opposition to be encountered from others; as, <ldquo/I'll be, in man's <xex>despite</xex>, a monarch; <rdquo/ <ldquo/I'll keep mine own, <xex>despite of</xex> all the world.<rdquo/ <au>Shak.</au>  Hence, these words, when applied to <xex>things</xex>, suppose greater opposition than <xex>notwithstanding</xex>.  We should say. <rdquo/He was thrust rudely out of doors <xex>in spite of</xex> his entreaties,<rdquo/ rather than <ldquo/<xex>notwithstanding</xex><rdquo/.  On the other hand, it would be more civil to say, <ldquo/<xex>Notwithstanding</xex> all you have said, I must still differ with you.<rdquo/</usage><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Notwithstanding</ent><br/
 <hw>Not`with*stand"ing</hw>, <pos>adv. <or/ conj.</pos> <ety>[Originally the participle of <ets>withstand</ets>, with <ets>not</ets> prefixed.]</ety> <def>Nevertheless; however; although; <as>as, I shall go, <ex>notwithstanding</ex> it rains</as>.</def><br/
@@ -13649,11 +13649,11 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 <p><ent>Nouvelle riche</ent><br/
 <ent>Nouveau riche</ent><br/
 <mhw>{ \'d8<hw>Nou`veau" riche"</hw> <pr>(?)</pr>, <pos>m.</pos>, \'d8<hw>Nou`velle" riche"</hw> <pr>(?)</pr>, <pos>f.</pos> }</mhw>; <plu>pl. <pos>m.</pos> <plw>Noveaux riches</plw> <pr>(#)</pr>, <pos>f.</pos> <plw>Nouvelles riches</plw> <pr>(#)</pr></plu>. <ety>[F.]</ety> <def>A person newly rich.  Contrasted with <contr>old money</contr>.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Nova</ent><br/
 \'d8<hw>No"va</hw> <pr>(n<omac/"v<adot/)</pr>, <pos>n.</pos>; <plu>pl. L. <plw>Novae</plw> <pr>(n<omac/"v<emac/)</pr>, E. <plw>Novas</plw> <pr>(n<omac/"v<adot/z)</pr></plu>. <ety>[L., fem. sing. of <ets>novus</ets> new.]</ety> <fld>(Astron.)</fld> <def>A star which suddenly increases in brightness thousands of times, then fades back to near its original intensity.  It may appear as a <ldquo/new<rdquo/ star if its original brightness was too low for routine observation.  A star which suddenly increases in brightness to many millions of times its original intensity is a <er>supernova</er>, and the postulated mechanisms for the increases of brightness of novae and supernovae are different.</def> <note>The most important modern novae are: -- <col><b>No"va Co*ro"nae Bo`re*a"lis</b></col> <pr>(<?/)</pr> [1866]; <col><b>No"va Cyg"ni</b></col> <pr>(<?/)</pr> [1876]; <col><b>No"va An*dro"me*dae</b></col> <pr>(<?/)</pr> [1885]; <col><b>No"va Au*ri"gae</b></col> <pr>(<?/)</pr> [1891-92]; <col><b>No"va Per"se*i</b></col> <pr>(<?/)</pr> [1901]. There are two novae called <cref>Nova Persei</cref>. They are: <sd>(a)</sd> A small nova which appeared in 1881. <sd>(b)</sd> An extraordinary nova which appeared in Perseus in 1901.  It was first sighted on February 22, and for one night (February 23) was the brightest star in the sky.  By July it had almost disappeared, after which faint surrounding nebulous masses were discovered, apparently moving radially outward from the star at incredible velocity.</note><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Novaculite</ent><br/
 <hw>No*vac"u*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>novacula</ets> a sharp knife, razor: cf. F. <ets>novaculite</ets>.]</ety> <fld>(Min.)</fld> <def>A variety of siliceous slate, of which hones are made; razor stone; Turkey stone; hone stone; whet slate.</def><br/
@@ -13675,7 +13675,7 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>A substitution of a new debt for an old one; also, the remodeling of an old obligation; debt restructuring.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Novator</ent><br/
 <hw>No*va"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An innovator.</def> <mark>[Obs.]</mark><br/
@@ -13705,7 +13705,7 @@ She is the greatest beauty in the parish.</q> <rj><qau>Fielding.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A fictitious tale or narrative, longer than a short story, having some degree of complexity and development of characters; it is usually organized as a time sequence of events, and is commonly intended to exhibit the operation of the passions, and often of love.</def>  <rj><au>Dryden.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>4.</sn> <ety>[L. <ets>novellae</ets> (sc. <ets>constitutiones</ets>): cf. F. <ets>novelles</ets>.]</ety> <fld>(Law)</fld> <def>A new or supplemental constitution. See the Note under <er>Novel</er>, <pos>a.</pos></def><br/
 [<source>1913 Webster</source>]</p>
@@ -14246,7 +14246,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><ent>nuclear reactor</ent><br/
 <hw>nuclear reactor</hw> <pos>n.</pos> <fld>(phys.)</fld> <def>Any of several devices that maintain and control a sustained nuclear fission chain reaction, for the production of energy, heat, or artificial elements, or for research purposes.  The main fuel sustaining the reaction and consumed by the process is typically uranium or plutonium.</def>
 <syn><b>Syn. --</b> reactor, atomic pile, fission reactor, nuclear pile</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>nuclear resonance</ent><br/
 <hw>nuclear resonance</hw> <pos>n.</pos> <fld>(Physics)</fld>  <def>The resonance absorption of a gamma ray by a nucleus identical to the nucleus that emitted the gamma ray.</def><br/
@@ -14287,7 +14287,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 
 <p><ent>nucleic acid</ent><br/
 <hw>nu*cle"ic ac"id</hw> <pr>(n<oomac/*kl<amac/"<icr/k <acr/s"<icr/d <it>or</it> n<oomac/*kl<emac/"<icr/k)</pr>, <pos>n.</pos> <fld>(Chem., Biochem., Genetics)</fld> <def>A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units.</def> <note>The <ex>nucleic acids</ex> are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell.  The two natural types of nucleic adic are <styp><er>ribonucleic acid</er></styp> (RNA) and <styp><er>deoxyribonucleic acid</er></styp> (DNA).</note><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nucleiform</ent><br/
 <hw>Nu*cle"i*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>nucleus</ets> kernel + <ets>-form</ets>.]</ety> <def>Formed like a nucleus or kernel.</def><br/
@@ -14295,7 +14295,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 
 <p><ent>Nuclein</ent><br/
 <hw>Nu"cle*in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physiol. Chem.)</fld> <def>A constituent of the nuclei of all cells, containing protein and nucleic acid.  It is a colorless amorphous substance, readily soluble in alkaline fluids and especially characterized by its comparatively large content of phosphorus.  It also contains nitrogen and sulphur.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nucleobranch</ent><br/
 <hw>Nu"cle*o*branch</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Belonging to the Nucleobranchiata.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Nucleobranchiata</ord>.</def></def2><br/
@@ -14338,7 +14338,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 <p><ent>nucleon number</ent><br/
 <hw>nucleon number</hw> <pos>n.</pos> <def>The sum of the number of neutrons and protons in an atomic nucleus.</def>
 <syn><b>Syn. --</b> mass number.</syn><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nucleoplasm</ent><br/
 <hw>Nu"cle*o*plasm</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Nucleus</ets> + <ets>-plasm</ets>.]</ety> <fld>(Biol.)</fld> <def>The matter composing the nucleus of a cell; the protoplasm of the nucleus; karyoplasma.</def><br/
@@ -14354,7 +14354,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 
 <p><ent>nucleotide</ent><br/
 <hw>nucleotide</hw> <pos>n.</pos> <def>a phosphate ester of a nucleoside; one of the monomeric components of <partof>DNA</partof> or <partof>RNA</partof>.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Nucleus</ent><br/
 <hw>Nu"cle*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Nucleuses</plw> <pr>(#)</pr>, L. <plw>Nuclei</plw> <pr>(#)</pr>.</plu> <ety>[L., a kernel, dim. fr. <ets>nux</ets>, <ets>nucis</ets>, nut.  Cf. <er>Newel</er> post.]</ety><br/
@@ -14373,7 +14373,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Biol.)</fld> <def>A body, usually spheroidal, in a eukaryotic cell, distinguished from the surrounding protoplasm by a difference in refrangibility and in behavior towards chemical reagents, which contains the chromosomal genetic material, including the chromosomal DNA.  It is more or less protoplasmic, and consists of a clear fluid (achromatin) through which extends a network of fibers (chromatin) in which may be suspended a second rounded body, the nucleolus (see <er>Nucleoplasm</er>). See <cref>Cell division</cref>, under <er>Division</er>.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The nucleus is sometimes termed the <xex>endoplast</xex> or <xex>endoblast</xex>, and in the protozoa is supposed to be concerned in the female part of the reproductive process. See <er>Karyokinesis</er>.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -14462,7 +14462,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 
 <p><ent>Nudum pactum</ent><br/
 \'d8<hw>Nu"dum pac"tum</hw> <pr>(?)</pr>. <ety>[L., a nude pact.]</ety> <fld>(Law)</fld> <def>A bare, naked contract, without any consideration and therefore unenforceable in a court of law.</def>  <rj><au>Tomlins.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nugacity</ent><br/
 <hw>Nu*gac"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nugacitas</ets>, fr. <ets>nugax</ets>, <ets>-acis</ets>, trifling.]</ety> <def>Futility; trifling talk or behavior; drollery.</def> <mark>[R.]</mark>  <rj><au>Dr. H. More.</au></rj><br/
@@ -14755,7 +14755,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>numeracy</ent><br/
 <hw>numeracy</hw> <pos>n.</pos> <def>skill with numbers and mathematics; -- the skill with numbers analogous to <contr>literacy</contr>, the skill of reading.</def><br/
-[<source>WordNet 1.5</source> <source>+PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Numerable</ent><br/
 <hw>Nu"mer*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>numerabilis</ets>. See <er>Number</er>, <pos>v. t.</pos>]</ety> <def>Capable of being numbered or counted.</def><br/
@@ -14807,7 +14807,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ For convenience in reading, numbers are usually separated by commas into periods of three figures each, as 1,155,465; in continental Europe, periods are used for a similar division.  According to what is called the <ldquo/English<rdquo/ system, the billion is a million of millions, a trillion a million of billions, and each higher denomination is a million times the one preceding.  According to the system of the French and other Continental nations and also that of the United States, the billion is a thousand millions, and each higher denomination is a thousand times the preceding.</note><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Numerative</ent><br/
 <hw>Nu"mer*a*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to numeration; <as>as, a <ex>numerative</ex> system</as>.</def>  <rj><au>Eng. Cyc.</au></rj><br/
@@ -15239,7 +15239,7 @@ And <qex>nursed</qex> his youth along the marshy shore.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The place where nursing is carried on</def>; as: <sd>(a)</sd> <def>The place, or apartment, in a house, appropriated to the care of children.</def> <sd>(b)</sd> <def>A place where young of any species, plant or animal, are nourished preparatory to transfer elsewhere;</def> <specif>especially</specif> <def>a place where young trees, shrubs, vines, etc., are propagated for the purpose of transplanting; a plantation of young trees.</def> <sd>(c)</sd> <def>The place where anything is fostered and growth promoted.</def> <ldquo/Fair Padua, <xex>nursery</xex> of arts.<rdquo/  <rj><au>Shak.</au></rj><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>Christian families are the <qex>nurseries</qex> of the church on earth, as she is the <qex>nursery</qex> of the church in heaven.</q> <rj><qau>J. M. Mason.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -15528,7 +15528,7 @@ To draw <qex>nutrition</qex>, propagate, and rot.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>in a nutshell</b></col> <cd>in a summarized and very abbreviated form; -- of statments, descriptions, reports, and other communications; <as>as, to describe the convention <ex>in a nutshell</ex></as>.</cd> -- <mcol><col><b>To be in a nutshell</b></col> <it>or</it> <col><b>To lie in a nutshell</b></col>, <col><b></b></col></mcol>, <cd>to be within a small compass; to admit of very brief or simple determination or statement.</cd> <ldquo/The remedy <xex>lay in a nutshell</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></cs><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nutter</ent><br/
 <hw>Nut"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A gatherer of nuts.</def><br/

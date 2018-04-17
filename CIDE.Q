@@ -611,7 +611,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 
 <p><ent>Quadruplane</ent><br/
 <hw>Quad"ru*plane</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quadru-</ets> in comp. + E. <ets>plane</ets>.]</ety> <def>An airplane with four superposed main supporting surfaces. Contrasted with <contr>triplane</contr> <contr>biplane</contr> and <contr>monoplane</contr>.  They are now used only for hobbyist or historical activities.</def><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Quadruple</ent><br/
 <hw>Quad"ru*ple</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>quadruplus</ets>, from <ets>quattuor</ets> four: cf. F.  <ets>quadruple</ets>. See <er>Quadrate</er>, and cf. <er>Double</er>.]</ety> <def>Fourfold; <as>as, to make <ex>quadruple</ex> restitution; a <ex>quadruple</ex> alliance.</as></def><br/
@@ -705,7 +705,7 @@ And <qex>quaff</qex> with blameless Ethiops in the deep.</q> <rj><qau>Dryden.</q
 
 <p><ent>Quagga</ent><br/
 <hw>Quag"ga</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hottentot.]</ety> <fld>(Zool.)</fld> <def>A South African wild ass (<spn>Equus quagga</spn> syn. <spn>Hippotigris quagga</spn>).  The upper parts are reddish brown, becoming paler behind and behind and beneath, with dark stripes on the face, neck, and fore part of the body.  The species became extinct in the late 1800's, largely due to excessive hunting.</def><br/
-[<source>1913 Webster</source> <source>+PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Quaggy</ent><br/
 <hw>Quag"gy</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Quag</er>, <er>Quagmire</er>.]</ety> <def>Of the nature of a quagmire; yielding or trembling under the foot, as soft, wet earth; spongy; boggy.</def> <ldquo/O'er the watery strath, or <xex>quaggy</xex> moss.<rdquo/  <rj><au>Collins.</au></rj><br/
@@ -3000,7 +3000,7 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Quid</ent><br/
 <hw>Quid</hw> <pr>(kw<icr/d)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>quid</plw>.</plu> <ety>[Etym. uncertain.]</ety> <def>An English coin, a sovereign.</def> <mark>[Slang, Eng.]</mark><br/
-[<source>Webster 1913 Suppl.</source> <source>+PJC</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>They invited him to come to-morrow, . . . and bring half a <qex>quid</qex> with him.</q>  <rj><qau>Charles Reade.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
