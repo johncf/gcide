@@ -1006,7 +1006,6 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unanxious</hw>  <def>See <er>anxious</er>.</def><br/
 <hw>Unapocryphal</hw>  <def>See <er>apocryphal</er>.</def><br/
 <hw>Unapostolic</hw>  <def>See <er>apostolic</er>.</def><br/
-<colbreak/
 <hw>Unapparent</hw>  <def>See <er>apparent</er>.</def><br/
 <hw>Unappeasable</hw>  <def>See <er>appeasable</er>.</def><br/
 <hw>Unapplausive</hw>  <def>See <er>applausive</er>.</def><br/
@@ -1029,7 +1028,6 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unbeneficial</hw>  <def>See <er>beneficial</er>.</def><br/
 <hw>Unbenevolent</hw>  <def>See <er>benevolent</er>.</def><br/
 <hw>Unblamable</hw>  <def>See <er>blamable</er>.</def><br/
-<colbreak/
 <hw>Unblemishable</hw>  <def>See <er>blemishable</er>.</def><br/
 <hw>Unblissful</hw>  <def>See <er>blissful</er>.</def><br/
 <hw>Unboastful</hw>  <def>See <er>boastful</er>.</def><br/
@@ -1052,7 +1050,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unchary</hw>  <def>See <er>chary</er>.</def><br/
 <hw>Unchastisable</hw>  <def>See <er>chastisable</er>.</def><br/
 <hw>Uncheerful</hw>  <def>See <er>cheerful</er>.</def><br/
-<-- bottom of 2nd column, page 1562. -->
+<colbreak/<br/
 <hw>Uncheery</hw>  <def>See <er>cheery</er>.</def><br/
 <hw>Unchildish</hw>  <def>See <er>childish</er>.</def><br/
 <hw>Unchivalrous</hw>  <def>See <er>chivalrous</er>.</def><br/
@@ -1084,7 +1082,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Uncompellable</hw>  <def>See <er>compellable</er>.</def><br/
 <hw>Uncompetitive</hw>  <def>See <er>competitive</er>.</def><br/
 <hw>Uncomplaisant</hw>  <def>See <er>complaisant</er>.</def><br/
-<hw>Uncompliant</hw> <def>See <er>compliant</er>.</def> <-- was "uncomplaint", probably a typo  -->
+<hw>Uncompliant</hw> <def>See <er>compliant</er>.</def><br/
 <hw>Uncomplimentary</hw>  <def>See <er>complimentary</er>.</def><br/
 <hw>Unconcealable</hw>  <def>See <er>concealable</er>.</def><br/
 <hw>Unconcurrent</hw>  <def>See <er>concurrent</er>.</def><br/
@@ -1163,10 +1161,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Undivine</hw>  <def>See <er>divine</er>.</def><br/
 <hw>Undomestic</hw>  <def>See <er>domestic</er>.</def><br/
 <hw>Undoubtful</hw>  <def>See <er>doubtful</er>.</def><br/
-<colbreak/<br/
-[<source>1913 Webster</source>]</p>
-
-<p><hw>Undrainable</hw>  <def>See <er>drainable</er>.</def><br/
+<hw>Undrainable</hw>  <def>See <er>drainable</er>.</def><br/
 <hw>Undramatic</hw>  <def>See <er>dramatic</er>.</def><br/
 <hw>Undrinkable</hw>  <def>See <er>drinkable</er>.</def><br/
 <hw>Undurable</hw>  <def>See <er>durable</er>.</def><br/
@@ -1180,7 +1175,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unelective</hw>  <def>See <er>elective</er>.</def><br/
 <hw>Unelusive</hw>  <def>See <er>elusive</er>.</def><br/
 <hw>Unemotional</hw>  <def>See <er>emotional</er>.</def><br/
-<hw>Unemphatic</hw>  <def>See <er>emphatic</er>.</def>  <def>See <er>employable</er>.</def><br/
+<hw>Unemphatic</hw>  <def>See <er>emphatic</er>.</def><br/
 <hw>Unemployable</hw>  <def>See <er>employable</er>.</def><br/
 <hw>Unendurable</hw>  <def>See <er>endurable</er>.</def><br/
 <hw>Un-English</hw>  <def>See <er>-English</er>.</def><br/
@@ -1276,10 +1271,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unheedful</hw>  <def>See <er>heedful</er>.</def><br/
 <hw>Unhelpful</hw>  <def>See <er>helpful</er>.</def><br/
 <hw>Unheritable</hw>  <def>See <er>heritable</er>.</def><br/
-<colbreak/<br/
-[<source>1913 Webster</source>]</p>
-
-<p><hw>Unhigh</hw>  <def>See <er>high</er>.</def><br/
+<hw>Unhigh</hw>  <def>See <er>high</er>.</def><br/
 <hw>Unhonorable</hw>  <def>See <er>honorable</er>.</def><br/
 <hw>Unhopeful</hw>  <def>See <er>hopeful</er>.</def><br/
 <hw>Unhostile</hw>  <def>See <er>hostile</er>.</def><br/
@@ -1294,7 +1286,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unimmortal</hw>  <def>See <er>immortal</er>.</def><br/
 <hw>Unimplicit</hw>  <def>See <er>implicit</er>.</def><br/
 <hw>Unimportant</hw>  <def>See <er>important</er>.</def><br/
-<hw>Unimpressible</hw>  <def>See <er>impressible</er>.</def>  <def>See <er>>Unimpressible</er>.</def><br/
+<hw>Unimpressible</hw>  <def>See <er>impressible</er>.</def><br/
 <hw>Unimpressionable</hw>  <def>See <er>impressionable</er>.</def><br/
 <hw>Unimprovable</hw>  <def>See <er>improvable</er>.</def><br/
 <hw>Unimpugnable</hw>  <def>See <er>impugnable</er>.</def><br/
@@ -1389,7 +1381,6 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unniggard</hw>  <def>See <er>niggard</er>.</def><br/
 <hw>Unnoble</hw>  <def>See <er>noble</er>.</def><br/
 <hw>Unobjectionable</hw>  <def>See <er>objectionable</er>.</def><br/
-<colbreak/<br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1563 ty=CM pr=PI --></p>
@@ -1695,13 +1686,13 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unwrathful</hw>  <def>See <er>wrathful</er>.</def><br/
 <hw>Unwritable</hw>  <def>See <er>writable</er>.</def><br/
 <hw>Unzealous</hw>  <def>See <er>zealous</er>.</def><br/
- ------ and the like.<br/
-<colbreak/<br/
+ ----- and the like.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><sd>(b)</sd> <def>To past particles, or to adjectives formed after the analogy of past particles, to indicate the absence of the condition or state expressed by them</def>; as, --<br/
-<br/
-<hw>Unabased</hw>  <def>See <er>abased</er>.</def><br/
+[<source>1913 Webster</source>]</p>
+
+<p><hw>Unabased</hw>  <def>See <er>abased</er>.</def><br/
 <hw>Unabashed</hw>  <def>See <er>abashed</er>.</def><br/
 <hw>Unabated</hw>  <def>See <er>abated</er>.</def><br/
 <hw>Unabolished</hw>  <def>See <er>abolished</er>.</def><br/
@@ -1716,7 +1707,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unacknowledged</hw>  <def>See <er>acknowledged</er>.</def><br/
 <hw>Unacquired</hw>  <def>See <er>acquired</er>.</def><br/
 <hw>Unacted</hw>  <def>See <er>acted</er>.</def><br/
-<colbreak/
+<colbreak/<br/
 <hw>Unactuated</hw>  <def>See <er>actuated</er>.</def><br/
 <hw>Unadjectived</hw>  <def>See <er>adjectived</er>.</def><br/
 <hw>Unadjusted</hw>  <def>See <er>adjusted</er>.</def><br/
@@ -2047,7 +2038,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Undisputed</hw>  <def>See <er>disputed</er>.</def><br/
 <hw>Undisquieted</hw>  <def>See <er>disquieted</er>.</def><br/
 <hw>Undissembled</hw>  <def>See <er>dissembled</er>.</def><br/
-<colbreak/
+<colbreak/<br/
 <hw>Undissevered</hw>  <def>See <er>dissevered</er>.</def><br/
 <hw>Undissipated</hw>  <def>See <er>dissipated</er>.</def><br/
 <hw>Undissolved</hw>  <def>See <er>dissolved</er>.</def><br/
@@ -2378,8 +2369,11 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unmilked</hw>  <def>See <er>milked</er>.</def><br/
 <hw>Unmilled</hw>  <def>See <er>milled</er>.</def><br/
 <hw>Unminded</hw>  <def>See <er>minded</er>.</def><br/
-<-- p. 1564 ty=CM pr=PI -->
-<hw>Unmingled</hw>  <def>See <er>mingled</er>.</def><br/
+[<source>1913 Webster</source>]</p>
+
+<p><-- p. 1564 ty=CM pr=PI --></p>
+
+<p><hw>Unmingled</hw>  <def>See <er>mingled</er>.</def><br/
 <hw>Unmissed</hw>  <def>See <er>missed</er>.</def><br/
 <hw>Unmitigated</hw>  <def>See <er>mitigated</er>.</def><br/
 <hw>Unmixed</hw>  <def>See <er>mixed</er>.</def><br/
@@ -2709,7 +2703,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unspied</hw>  <def>See <er>spied</er>.</def><br/
 <hw>Unspoiled</hw>  <def>See <er>spoiled</er>.</def><br/
 <hw>Unspoken</hw>  <def>See <er>spoken</er>.</def><br/
-<colbreak/
+<colbreak/<br/
 <hw>Unspread</hw>  <def>See <er>spread</er>.</def><br/
 <hw>Unsquared</hw>  <def>See <er>squared</er>.</def><br/
 <hw>Unsqueezed</hw>  <def>See <er>squeezed</er>.</def><br/
@@ -3030,7 +3024,7 @@ Lays forth her purple grape.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Unpretending</hw>  <def>See <er>pretending</er>.</def><br/
 <hw>Unprevailing</hw>  <def>See <er>prevailing</er>.</def><br/
 <hw>Unprevaricating</hw>  <def>See <er>prevaricating</er>.</def><br/
-<colbreak/
+<colbreak/<br/
 <hw>Unprofiting</hw>  <def>See <er>profiting</er>.</def><br/
 <hw>Unpromising</hw>  <def>See <er>promising</er>.</def><br/
 <hw>Unproving</hw>  <def>See <er>proving</er>.</def><br/
