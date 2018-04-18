@@ -9317,7 +9317,7 @@ Avoided pinching cold and scorching <qex>heat</qex>!</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heat</ent><br/
-<hw>Heat</hw> <pr>(h<ecr/t)</pr>, <ety><pos>imp. & p. p.</pos> of <er>Heat</er>.</ety> <def>Heated; <as>as, the iron though <ex>heat</ex> red-hot</as>.</def> <mark>[Obs. or Archaic]</mark>  <rj><au>Shak.</au></rj><br/
+<hw>Heat</hw> <pr>(h<ecr/t)</pr>, <pos>imp. & p. p.</pos> <mord>of <er>Heat</er>.</mord> <def>Heated; <as>as, the iron though <ex>heat</ex> red-hot</as>.</def> <mark>[Obs. or Archaic]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>heated</ent><br/
@@ -14998,7 +14998,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexapla</ent><br/
-\'d8<hw>Hex"a*pla</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>Etym. <pos>pl.</pos>, but syntactically <pos>sing.</pos></ety> <ety>[NL., fr. Gr. <?/, fr. <?/, contr. <?/, sixfold.]</ety> <def>A collection of the Holy Scriptures in six languages or six versions in parallel columns; particularly, the edition of the Old Testament published by Origen, in the 3d century.</def><br/
+\'d8<hw>Hex"a*pla</hw> <pr>(?)</pr>, <pos>n.</pos> Etym. <pos>pl.</pos>, but syntactically <pos>sing.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/, contr. <?/, sixfold.]</ety> <def>A collection of the Holy Scriptures in six languages or six versions in parallel columns; particularly, the edition of the Old Testament published by Origen, in the 3d century.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexapod</ent><br/
