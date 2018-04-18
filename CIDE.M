@@ -1606,7 +1606,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ma*don"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. <ets>madonna</ets> my lady. See <er>Dame</er>, <er>Donna</er>, and cf. <er>Madame</er>, <er>Monkey</er>.]</ety> <sn>1.</sn> <def>My lady; -- a term of address in Italian formerly used as the equivalent of <xex>Madame</xex>, but for which <xex>Signora</xex> is now substituted. Sometimes introduced into English.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <plu>[<it>pl.</it> <er>Madonnas</er> <pr>(n<adot/z)</pr>.]</plu> <def>A picture of the Virgin Mary (usually with the babe).</def><br/
+<p><sn>2.</sn> <plu>[<it>pl.</it> <plw>Madonnas</plw> <pr>(n<adot/z)</pr>.]</plu> <def>A picture of the Virgin Mary (usually with the babe).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The Italian painters are noted for drawing the <qex>Madonnas</qex> by their own wives or mistresses.</q> <rj><qau>Rymer.</qau></rj><br/
@@ -32272,7 +32272,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 <hw>Mol"ly</hw>, <pos>n.</pos> <def>A pet or colloquial name for <xex>Mary</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Molly cottontail</b></col>. <fld>(Zool.)</fld> <cd>See <er>Cottontail</er>.</cd> -- <col><b>Molly Maguire</b></col> <pr>(m<adot/*gw<imac/r")</pr>; <plu><it>pl.</it> <er>Molly Maguires</er> <pr>(-gw<imac/rz)</pr>.</plu> <sd>(a)</sd> <cd>A member of a secret association formed among the tenantry in Ireland about 1843, principally for the purpose of intimidating law officers and preventing the service of legal writs.  Its members disguised themselves in the dress of women.</cd> <sd>(b)</sd> <cd>A member of a similar association of Irishmen organized in the anthracite coal region of Pennsylvania, about 1854, for the purpose of intimidating employers and officers of the law, and for avenging themselves by murder on persons obnoxious to them.  The society was broken up by criminal prosecutions in 1876.</cd></cs><br/
+<p><cs><col><b>Molly cottontail</b></col>. <fld>(Zool.)</fld> <cd>See <er>Cottontail</er>.</cd> -- <col><b>Molly Maguire</b></col> <pr>(m<adot/*gw<imac/r")</pr>; <plu><it>pl.</it> <plw>Molly Maguires</plw> <pr>(-gw<imac/rz)</pr>.</plu> <sd>(a)</sd> <cd>A member of a secret association formed among the tenantry in Ireland about 1843, principally for the purpose of intimidating law officers and preventing the service of legal writs.  Its members disguised themselves in the dress of women.</cd> <sd>(b)</sd> <cd>A member of a similar association of Irishmen organized in the anthracite coal region of Pennsylvania, about 1854, for the purpose of intimidating employers and officers of the law, and for avenging themselves by murder on persons obnoxious to them.  The society was broken up by criminal prosecutions in 1876.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mollycoddle</ent><br/

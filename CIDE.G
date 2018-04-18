@@ -518,7 +518,7 @@ Hath left me <qex>gaged</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>gagtooth</ent><br/
-<hw>gag"tooth`</hw> <pr>(g<acr/g"t<oomac/th`)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <er>Gagteeth</er> <pr>(g<acr/g"t<emac/th`)</pr>.</plu> <def>A projecting tooth.</def> <mark>[Obs.]</mark><br/
+<hw>gag"tooth`</hw> <pr>(g<acr/g"t<oomac/th`)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Gagteeth</plw> <pr>(g<acr/g"t<emac/th`)</pr>.</plu> <def>A projecting tooth.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>gag-toothed</ent><br/

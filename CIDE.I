@@ -2051,7 +2051,7 @@ Fled <qex>ignominious</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ig`no*ra"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we are ignorant. See <er>Ignore</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>We are ignorant; we ignore; -- being the word formerly written on a bill of indictment by a grand jury when there was not sufficient evidence to warrant them in finding it a true bill. The phrase now used is, <ldquo/No bill,<rdquo/ <ldquo/No true bill,<rdquo/ or <ldquo/Not found,<rdquo/ though in some jurisdictions <ldquo/Ignored<rdquo/ is still used.</def>  <rj><au>Wharton (Law Dict. ). Burn.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <plu>(pl. <plw>Ignoramuses</plw> <pr>(<?/)</pr>.)</plu> <def>A stupid, ignorant person; a vain pretender to knowledge; a dunce.</def><br/
+<p><sn>2.</sn> <plu>(<it>pl.</it> <plw>Ignoramuses</plw> <pr>(<?/)</pr>.)</plu> <def>A stupid, ignorant person; a vain pretender to knowledge; a dunce.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>An <qex>ignoramus</qex> in place and power.</q> <rj><qau>South.</qau></rj><br/

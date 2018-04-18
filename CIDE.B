@@ -2174,7 +2174,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bahai</ent><br/
-<hw>Ba*hai"</hw> <pr>(b<adot/*h<imac/")</pr>, <pos>n.</pos>; <plu>pl. <er>Bahais</er> <pr>(-h<imac/z)</pr>.</plu> <def>A member of the sect of the Babis consisting of the adherents of <persfn>Baha</persfn> (<person>Mirza Husain Ali</person>, entitled <ldquo/Baha 'u 'llah,<rdquo/ or, <ldquo/the Splendor of God<rdquo/), the elder half brother of <person>Mirza Yahya</person> of Nur, who succeeded the Bab as the head of the Babists.  <persfn>Baha</persfn> in 1863 declared himself the supreme prophet of the sect, and became its recognized head.  There are upwards of 20,000 Bahais in the United States.</def><br/
+<hw>Ba*hai"</hw> <pr>(b<adot/*h<imac/")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bahais</plw> <pr>(-h<imac/z)</pr>.</plu> <def>A member of the sect of the Babis consisting of the adherents of <persfn>Baha</persfn> (<person>Mirza Husain Ali</person>, entitled <ldquo/Baha 'u 'llah,<rdquo/ or, <ldquo/the Splendor of God<rdquo/), the elder half brother of <person>Mirza Yahya</person> of Nur, who succeeded the Bab as the head of the Babists.  <persfn>Baha</persfn> in 1863 declared himself the supreme prophet of the sect, and became its recognized head.  There are upwards of 20,000 Bahais in the United States.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Bahaism</ent><br/
@@ -32470,7 +32470,7 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bosjesman</ent><br/
-\'d8<hw>Bos"jes*man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <er>Bosjesmans</er>.</plu> <ety>[D. <ets>boschjesman</ets>.]</ety> <def>See <er>Bushman</er>.</def><br/
+\'d8<hw>Bos"jes*man</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bosjesmans</plw>.</plu> <ety>[D. <ets>boschjesman</ets>.]</ety> <def>See <er>Bushman</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bosk</ent><br/
