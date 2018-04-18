@@ -21415,11 +21415,11 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grint</ent><br/
-<hw>Grint</hw> <pr>(?)</pr>, <def><pos>3d pers. sing. pres.</pos> of <er>Grind</er>, <ety>contr. from <ets>grindeth</ets></ety>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Grint</hw> <pr>(?)</pr>, <pos>3d pers. sing. pres.</pos> <mord>of <er>Grind</er></mord>, <ety>contr. from <ets>grindeth</ets></ety>. <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grinte</ent><br/
-<hw>Grin"te</hw> <pr>(?)</pr>, <mark>obs.</mark> <def><pos>imp.</pos> of <er>Grin</er>, <pos>v. i.</pos>, 1.</def><br/
+<hw>Grin"te</hw> <pr>(?)</pr>, <mark>obs.</mark> <pos>imp.</pos> <mord>of <er>Grin</er>, <pos>v. i.</pos>, 1.</mord><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>[He] <qex>grinte</qex> with his teeth, so was he wroth.</q> <rj><qau>Chaucer.</qau></rj><br/

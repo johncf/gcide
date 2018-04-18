@@ -45412,7 +45412,7 @@ Filled the capacious deep and formed the main.</q> <rj><qau>Roscommon.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Draining</ent><br/
-<hw>Drain"ing</hw>, <pos>vb. n.</pos> <ety>of <er>Drain</er>, <pos>v. t.</pos></ety> <fld>(Agric.)</fld> <def>The art of carrying off surplus water, as from land.</def><br/
+<hw>Drain"ing</hw>, <pos>vb. n.</pos> <mord>of <er>Drain</er>, <pos>v. t.</pos></mord> <fld>(Agric.)</fld> <def>The art of carrying off surplus water, as from land.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Draining tile</b></col>. <cd>Same as <er>Draintile</er>.</cd></cs><br/
