@@ -42547,7 +42547,7 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 <table>
 1  American  9  Bourgeois
 <point1><bar/</point1> <point9><bar/</point9>
-1<frac12/  German  
+1<frac12/  German
 <point1.5><bar/</point1.5>
 2  Saxon   10  Long Primer
 <point2><bar/</point2> <point10><bar/</point10>

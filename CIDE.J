@@ -3148,8 +3148,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 5696 <it>p.</it>      <ldquo/      <ldquo/   28, 1935
 </tt></pre></p>
 
-<p><it>d</it>. = defective year; <it>d.l</it>. = defective leap year; 
-<it>p.</it> = perfect year; <it>p.l.</it> = perfect leap year; <it>r.</it> = regular year; <it>r.l.</it> = regular leap year.</note><br/
+<p><it>d</it>. = defective year; <it>d.l</it>. = defective leap year; <it>p.</it> = perfect year; <it>p.l.</it> = perfect leap year; <it>r.</it> = regular year; <it>r.l.</it> = regular leap year.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Jewry</ent><br/

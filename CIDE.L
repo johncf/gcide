@@ -9322,7 +9322,7 @@ Is left this vault to brag of.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Leech</qex>, heal thyself.</q> <rj><qau>Wyclif (Luke iv. 23).</qau></rj></p>
- 
+
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of numerous genera and species of annulose worms, belonging to the order <ord>Hirudinea</ord>, or Bdelloidea, esp. those species <-- formerly! --> used in medicine, as <spn>Hirudo medicinalis</spn> of Europe, and allied species.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -15671,7 +15671,7 @@ I shall not look upon his <qex>like</qex> again.</q> <rj><qau>Shak.</qau></rj><b
 
 <p><ent>Likeable</ent><br/
 <hw>Like"a*ble</hw> <pr>(l<imac/k"<adot/*b'l)</pr>, <pos>a.</pos> <def>See <er>Likable.</er></def><br/
-[<source>1913 Webster</source>]</p> 
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Likehood</ent><br/
 <hw>Like"hood</hw> <pr>(l<imac/k"h<oocr/d)</pr>, <pos>n.</pos> <def>Likelihood.</def> <mark>[Obs.]</mark>  <rj><au>South.</au></rj><br/

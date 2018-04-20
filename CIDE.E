@@ -4070,8 +4070,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 <hw>Ef"fort*less</hw>, <pos>a.</pos> <sn>1.</sn> <def>Making no effort.</def>  <rj><au>Southey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>requiring little or no effort; <as>as, an effortless 
-victory</as>.</def><br/
+<p><sn>2.</sn> <def>requiring little or no effort; <as>as, an effortless victory</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Effossion</ent><br/
@@ -29825,7 +29824,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>2.</sn> <def>causing expansion; <as>as, the <ex>expansive</ex> force of heat</as>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
- 
+
 <p><sn>3.</sn> <def>of much expanse; wide-extending; <as>as, an <ex>expansive</ex> view of the mountains</as>.</def><br/
 [<source>PJC</source>]</p>
 

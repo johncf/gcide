@@ -367,7 +367,7 @@
 
 <p><ent>xerox</ent><br/
 <hw>xe"rox</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To copy a printed document on a xerographic device.</def><br/
-[<source>WordNet 1.5</source>]</p> 
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>xi</ent><br/
 <hw>xi</hw> <pr>(?)</pr>, <pos>adj.</pos> <def>The Roman number symbolizing the value eleven.  Used after a noun it may symbolize the ordinal number; <as>as, Superbowl <ex>XI</ex></as>.</def><br/

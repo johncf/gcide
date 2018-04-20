@@ -4179,7 +4179,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 
 <p><ent>major league</ent><br/
 <hw>major league</hw> <pos>n.</pos> <fld>(Sports)</fld> <def>The most important league{2} in any sport (especially baseball); contrasted with <contr>minor league</contr>.  Its teams are more competent, its members are paid more, and its games attract more interest and publicity, than those of a minor league.</def><br/
-[<source>WordNet 1.5</source> + <source>PJC</source>]</p> 
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>major league</ent><br/
 <ent>major-league</ent><br/
@@ -5385,7 +5385,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>malicious mischief</ent><br/
 <hw>malicious mischief</hw> <pos>n.</pos> <fld>(Law)</fld>, <def>Malicious and willful destructionof or injury to the property of others; -- it is an offense at common law.</def> <au>Wharton.</au><br/
 <syn><b>Syn. --</b> vandalism, hooliganism.</syn><br/
-[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p> 
+[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>malign</ent><br/
 <hw>ma*lign"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>malignus</ets>, for <ets>maligenus</ets>, i. e., of a bad kind or nature; <ets>malus</ets> bad + the root of <ets>genus</ets> birth, race, kind: cf. F. <ets>malin</ets>, masc., <ets>maligne</ets>, fem. See <er>Malice</er>, <er>Gender</er>, and cf. <er>Benign</er>, <er>Malignant</er>.]</ety> <sn>1.</sn> <def>Having an evil disposition toward others; harboring violent enmity; malevolent; malicious; spiteful; -- opposed to <ant>benign</ant>.</def><br/
@@ -5825,7 +5825,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>malpighian body</ent><br/
 <hw>malpighian body</hw> <pos>n.</pos> <fld>(Anatomy)</fld>, <def>The capsule that contains a glomerulus at the expanded end of a nephron; also called <altname>malpighian corpuscle</altname> and <altname>Malpighian capsule</altname>.</def><br/
-[<source>WordNet 1.5</source>]</p> 
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>malpighian corpuscle</ent><br/
 <hw>malpighian corpuscle</hw> <pos>n.</pos> <fld>(Anatomy)</fld>, <def>See malpighian body.</def><br/
@@ -18777,7 +18777,7 @@ Of me more must be heard of.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>4.</sn> <specif>Hence:</specif> <fld>(Computers)</fld> <def>A list displayed on the computer screen, by which a program provides the user with different options for processing by the program.  It usually includes a mechanism, such as pointing by a mouse or selection by arrow keys, to select the desired option from those on the list.  Depending on how the menu is displayed, it may be a <stype>pop-up menu</stype> or <stype>pull-down menu</stype>.</def><br/
 [<source>PJC</source>]</p>
-	
+
 <p><ent>Menurae</ent><br/
 <hw>Menurae</hw> <pos>prop. n.</pos> <def>A suborder of birds including lyrebirds and scrubbirds.</def><br/
 <syn><b>Syn. --</b> suborder <subord>Menurae</subord>.</syn><br/
@@ -36585,7 +36585,7 @@ G --.         N -.         U ..-<br/
 1 .----       4 ....-          7 --...<br/
 2 ..---       5 .....          8 ---..<br/
 3 ...--       6 -....          9 ----.<br/
-0 -----      
+0 -----
 <br/
 <er>Punctuation</er><br/
 <br/
@@ -37723,7 +37723,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 <syn><b>Syn. --</b> movie, moving picture, flick.</syn>
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
-<p><sn>3.</sn> <def>The conceptual or informational content of a <er>motion picture</er>{1}; the actions or events represented in a <er>motion picture</er>{1}; the story line of a movie.</def>  <ldquo/One of the great punch lines in <xex>motion picture</xex> history is <lsquo/Round up the usual suspects.' from <lsquo/Casablanca'.<rdquo/ 
+<p><sn>3.</sn> <def>The conceptual or informational content of a <er>motion picture</er>{1}; the actions or events represented in a <er>motion picture</er>{1}; the story line of a movie.</def>  <ldquo/One of the great punch lines in <xex>motion picture</xex> history is <lsquo/Round up the usual suspects.' from <lsquo/Casablanca'.<rdquo/
 [<source>PJC</source>]</p>
 
 <p><ent>Motivate</ent><br/
