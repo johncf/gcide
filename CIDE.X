@@ -808,4 +808,3 @@
 <p><ent>Xyster</ent><br/
 <hw>Xys"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xysth`r</grk> a scraper.]</ety> <fld>(Surg.)</fld> <def>An instrument for scraping bones.</def><br/
 [<source>1913 Webster</source>]</p>
-

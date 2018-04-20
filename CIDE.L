@@ -24250,7 +24250,6 @@ My quondam barber.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>Forsaken; abandoned; solitary; bereft; <as>as, a lone, <ex>lorn</ex> woman</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-
 <p><ent>Lorry</ent><br/
 <ent>Lorrie</ent><br/
 <mhw>{ <hw>Lor"rie</hw>, <hw>Lor"ry</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lorries</plw> <pr>(#)</pr>.</plu> <ety>[Prob. from <ets>lurry</ets> to pull or lug.]</ety> <sn>1.</sn> <def>A small cart or wagon moving on rails, as those used on the tramways in mines to carry coal or rubbish; also, a barrow or truck for shifting baggage, as at railway stations.</def><br/
@@ -28884,4 +28883,3 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 <p><ent>Lytta</ent><br/
 \'d8<hw>Lyt"ta</hw> <pr>(l<icr/t"t<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lytt<ae/</plw> <pr>(-t<emac/)</pr>.</plu> <ety>[L., a worm said to grow under the tongue of dogs, and to cause canine madness, fr. Gr. <grk>ly`tta</grk>, <grk>ly`ssa</grk>, lit., madness.]</ety> <fld>(Anat.)</fld> <def>A fibrous and muscular band lying within the longitudinal axis of the tongue in many mammals, as the dog.</def><br/
 [<source>1913 Webster</source>]</p>
-

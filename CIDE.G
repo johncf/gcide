@@ -5790,7 +5790,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>General semantics</ent><br/
-<hw>Gen"er*al sem*an"tics</hw>, <pos>n.</pos> <fu>(1933)</fu> <def>a doctrine and philosophical approach to language and its relationship to thought and behavior, developed by Alfred Korzybski (1879-1950), which holds that the capacity to express ideas and thereby improve one's interaction with others and one's environment is enhanced by training in the more critical use of words and other symbols; -- sometimes also called <altname>semantics</altname>.</def> <note>More information can be found on the web site of the <a HREF="http://www.general-semantics.org/">Institute of General Semantics</a>.</note><br/
+<hw>Gen"er*al sem*an"tics</hw>, <pos>n.</pos> <fu>(1933)</fu> <def>a doctrine and philosophical approach to language and its relationship to thought and behavior, developed by Alfred Korzybski (1879-1950), which holds that the capacity to express ideas and thereby improve one's interaction with others and one's environment is enhanced by training in the more critical use of words and other symbols; -- sometimes also called <altname>semantics</altname>.</def> <note>More information can be found on the web site of the <a href="http://www.general-semantics.org/">Institute of General Semantics</a>.</note><br/
 [<source>PJC</source>]</p>
 
 <p><q><qex>General Semantics</qex> is the study of the relations between language, <ldquo/thought<rdquo/, and behavior: between how we talk, therefore how we think, therefore how we act.</q> <rj><qau>George Doris</qau></rj></p>
@@ -10683,7 +10683,6 @@ A lion now he stalks with fiery <qex>glare</qex>.</q> <rj><qau>Milton.</qau></rj
 <syn><b>Syn. --</b> family <fam>Glareolidae</fam>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-
 <p><-- p. 629 --></p>
 
 <p><ent>Glareous</ent><br/
@@ -12888,7 +12887,6 @@ That <qex>glues</qex> my lips, and will not let me speak.</q> <rj><qau>Shak.</qa
 <hw>glutted</hw> <pos>adj.</pos> <sn>1.</sn> <def>overfull; filled to excess.</def> <illu>a <ex>glutted</ex> market</illu><br/
 <syn><b>Syn. --</b> overfull.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
 
 <p><ent>Glumpy</ent><br/
 <hw>Glump"y</hw> <pr>(gl<ucr/mp"<ycr/)</pr>, <pos>a.</pos> <def>Glum; sullen; sulky.</def> <mark>[Colloq.]</mark> <ldquo/He was <xex>glumpy</xex> enough.<rdquo/  <rj><au>T. Hook.</au></rj><br/
@@ -16799,7 +16797,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gown</ent><br/
-<hw>Gown</hw> <pr>(goun)</pr>, <pos>n.</pos> <ety>[OE. <ets>goune</ets>, prob. from W. <ets>gwn</ets> gown, loose robe, akin to Ir. <ets>gunn</ets>, Gael. <ets>g<ugrave/n</ets>; cf. OF. <ets>gone</ets>, prob. of the same origin.]</ety> <sn>1.</sn> <def>A loose, flowing upper garment</def>; especially: <sd>(a)</sd> <def>The ordinary outer dress of a woman, especially one that is full-length/ex>.</def> <sd>(b)</sd> <def>The official robe of certain professional men and scholars, as university students and officers, barristers, judges, etc.; hence, the dress of peace; the dress of civil officers, in distinction from military.</def><br/
+<hw>Gown</hw> <pr>(goun)</pr>, <pos>n.</pos> <ety>[OE. <ets>goune</ets>, prob. from W. <ets>gwn</ets> gown, loose robe, akin to Ir. <ets>gunn</ets>, Gael. <ets>g<ugrave/n</ets>; cf. OF. <ets>gone</ets>, prob. of the same origin.]</ety> <sn>1.</sn> <def>A loose, flowing upper garment</def>; especially: <sd>(a)</sd> <def>The ordinary outer dress of a woman, especially one that is full-length.</def> <sd>(b)</sd> <def>The official robe of certain professional men and scholars, as university students and officers, barristers, judges, etc.; hence, the dress of peace; the dress of civil officers, in distinction from military.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He Mars deposed, and arms to <qex>gowns</qex> made yield.</q> <rj><qau>Dryden.</qau></rj></p>
@@ -26009,4 +26007,3 @@ Beguiled me to the very heart of loss.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I will <qex>gyve</qex> thee in thine own courtship.</q> <rj><qau>Shak.</qau></rj></p>
-

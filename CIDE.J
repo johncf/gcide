@@ -213,8 +213,6 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><cs><col><b>Blue jack</b></col>, <cd>blue vitriol; sulphate of copper.</cd> -- <col><b>Hydraulic jack</b></col>, <cd>a jack used for lifting, pulling, or forcing, consisting of a compact portable hydrostatic press, with its pump and a reservoir containing a supply of liquid, as oil.</cd> -- <col><b>Jack-at-a-pinch</b></col>. <sd>(a)</sd> <cd>One called upon to take the place of another in an emergency</cd>. <sd>(b)</sd> <cd>An itinerant parson who conducts an occasional service for a fee.</cd> -- <col><b>Jack-at-all-trades</b></col>, <cd>one who can turn his hand to any kind of work.</cd> -- <col><b>Jack-by-the-hedge</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erysimum</gen> (<spn>Erysimum alliaria</spn>, or <spn>Alliaria officinalis</spn>), which grows under hedges. It bears a white flower and has a taste not unlike garlic. Called also, in England, <altname>sauce-alone</altname>.</cd> <au>Eng. Cyc.</au> --  <col><b>Jack-in-office</b></col>, <cd>an insolent fellow in authority.</cd> <au>Wolcott.</au> -- <col><b>Jack-in-the-bush</b></col> <fld>(Bot.)</fld>, <cd>a tropical shrub with red fruit (<spn>Cordia Cylindrostachya</spn>).</cd> -- <col><b>Jack-in-the-green</b></col>, <cd>a chimney sweep inclosed in a framework of boughs, carried in Mayday processions.</cd> -- <col><b>Jack-of-the-buttery</b></col> <fld>(Bot.)</fld>, <cd>the stonecrop (<spn>Sedum acre</spn>).</cd> -- <col><b>Jack-of-the-clock</b></col>, <cd>a figure, usually of a man, on old clocks, which struck the time on the bell.</cd> -- <col><b>Jack-on-both-sides</b></col>, <cd>one who is or tries to be neutral.</cd> -- <col><b>Jack-out-of-office</b></col>, <cd>one who has been in office and is turned out.</cd> <au>Shak.</au> -- <col><b>Jack the Giant Killer</b></col>, <cd>the hero of a well-known nursery story.</cd> -- <col><b>Yellow Jack</b></col> <fld>(Naut.)</fld>, <cd>the yellow fever; also, the quarantine flag. See <cref>Yellow flag</cref>, under <er>Flag</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-
-
 <p><ent>Jack</ent><br/
 <hw>Jack</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>jaque</ets>, <ets>jacque</ets>, perh. from the proper name <ets>Jacques</ets>.  Cf. <er>Jacquerie</er>.]</ety> <def>A coarse and cheap medi<ae/val coat of defense, esp. one made of leather.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3109,6 +3107,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sc>Jewish Year</sc>       <sc>a. d.</sc><br/
 -----------------------------------------------------------</p>
+
 <p>
 5661 <it>p.</it>      begins    Sept.  24, 1900
 5662 <it>d.l.</it>    <ldquo/      <ldquo/   14, 1901
@@ -7407,4 +7406,3 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj><b
 <p><ent>Jymold</ent><br/
 <hw>Jym"old</hw> <pr>(j<icr/m"<ocr/ld)</pr>, <pos>a.</pos> <mark>[Obs.]</mark> <def>See <er>Gimmal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
-

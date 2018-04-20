@@ -13703,4 +13703,3 @@ Is bound in shallows and in miseries.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Vying</ent><br/
 <hw>Vy"ing</hw> <pr>(?)</pr>, <def><pos>a. & n.</pos> from <er>Vie</er>.</def>  -- <wordforms><wf>Vy"ing*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
-

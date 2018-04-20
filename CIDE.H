@@ -13860,7 +13860,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><cs><col><b>Hero worship</b></col>, <cd>extravagant admiration for great men, likened to the ancient worship of heroes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-1
+
 <p><q><qex>Hero worship</qex> exists, has existed, and will forever exist, universally among mankind.</q> <rj><qau>Carlyle.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -30511,4 +30511,3 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hythe</hw> <pr>(h<imac/<th/)</pr>, <pos>n.</pos> <def>A small haven. See <er>Hithe</er>.</def> <mark>[Obs.]</mark></p>
 
 <p><-- bottom of page 722.  Next page is 723, starting "I" --></p>
-

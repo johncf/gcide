@@ -1714,7 +1714,6 @@ The javelina's niche is the water holes and bushes in the canyon area where they
 Javelinas' status in the wild is very good right now. There are lots of them around and they're not dying off or going extinct.</q>  <qau>Tristan A.  (from http://www.blueplanetbiomes.org/javelina.htm, 2000.)</qau><br/
 [<source>PJC</source>]</p>
 
-
 <p><ent>Taj Mahal</ent><br/
 <hw>Taj Ma*hal"</hw> <pr>(t<aum/j m<adot/*h<aum/l")</pr>, <pos>prop. n.</pos> <ety>[Corruption of Per. <ets>Mumt<amac/z-i-Ma<hsdot/al</ets>, lit., the distinguished one of the palace, fr. Ar.]</ety> <def>A marble mausoleum built at <city>Agra</city>, <country>India</country>, by the Mogul Emperor <person>Shah Jahan</person>, in memory of his favorite wife.  In beauty of design and rich decorative detail it is one of the best examples of Saracenic architecture, and specifically of Mogul architecture.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -2792,7 +2791,7 @@ With Timur's death Transoxiana began a long period of decline, culminating in gr
 <br/
 Only in the 1980s did the veil begin to rise, and then within a few short years the former USSR disintegrated, resulting in the birth of independent Uzbekistan in 1991. Although ruled by a suspicious and innately cautious former Soviet aparatchik, Islam Karimov, Uzbekistan is today slowly opening to foreign tourism. It should do well. The cities of Bukhara and Khiva, together with Timur's capital at Samarkand, are truly magnificent. In places, it's as though time stood still. It didn't of course. The Soviets worked long and hard to restore what remained of Timurid Samarkand, and Uzbekistan stands to benefit greatly as a result. Moreover, the process continues apace, both in spiritual terms -- Timur is now an Uzbek national hero -- and at a more mundane level. Everywhere the chip of stonemasons' hammers is to be heard, and a whole new generation of skilled craftsmen is being trained to restore the architectural legacy of the "Iron Limper".<br/
 <br/
-The historic heart of Samarkand is the Registan, an open square dominated by three great madrassa , or Islamic colleges. <person>George Curzon</person>, later to become Viceroy of India, visited in 1899 and was moved enough to describe the Registan as "the noblest public square in the world". He continues: "No European spectacle can be adequately compared to it, in our inability to point to an open space in any western city that is commanded on three of its four sides by Gothic cathedrals of the finest order". The architecture is distinctively Timurid, being characterised by an extraordinarily lavish use of colour, especially emerald, azure, deep blue and gold. The great domes are fluted, the vast porticoes richly decorated with corkscrew columns and intricately-patterned glazed tiles. Astonishingly, the façade of the Shir Dor Madrassa on the east side of the square is decorated with half-tiger, half-lion creatures stalking deer, whilst a blazing sun with a human face rises behind the beast of prey's back. In Islam, such representational art is generally forbidden, and it is wonderful that these clearly heretical images have survived through the long centuries since they were created.<br/
+The historic heart of Samarkand is the Registan, an open square dominated by three great madrassa , or Islamic colleges. <person>George Curzon</person>, later to become Viceroy of India, visited in 1899 and was moved enough to describe the Registan as "the noblest public square in the world". He continues: "No European spectacle can be adequately compared to it, in our inability to point to an open space in any western city that is commanded on three of its four sides by Gothic cathedrals of the finest order". The architecture is distinctively Timurid, being characterised by an extraordinarily lavish use of colour, especially emerald, azure, deep blue and gold. The great domes are fluted, the vast porticoes richly decorated with corkscrew columns and intricately-patterned glazed tiles. Astonishingly, the fa<cced/ade of the Shir Dor Madrassa on the east side of the square is decorated with half-tiger, half-lion creatures stalking deer, whilst a blazing sun with a human face rises behind the beast of prey's back. In Islam, such representational art is generally forbidden, and it is wonderful that these clearly heretical images have survived through the long centuries since they were created.<br/
 <br/
 Samarkand -- let alone Uzbekistan -- has too many Timurid gems to describe in one short article, but after the Registan, the monumental Bibi Khanum Mosque is perhaps the most extraordinary sight in the city. Built for Timur's chief wife, <person>Saray Mulk Khanum</person>, this magnificent building was financed by the plunder brought back from Delhi in 1398; it is said that 95 elephants were used in hauling marble for the mosque. On Bibi Khanum's completion a chronicler was moved to write: "Its dome would have been unique had it not been for the heavens, and unique would have been its portal had it not been for the Milky Way".  Even so, historians have shown that in his plans for the Bibi Khanum, Timur's vision exceeded the architectural possibilities of the time.  Quite simply, the lofty iwan (portico) and the towering minarets were too ambitious for the technology of the time -- especially in a land prone to violent earthquakes. By all accounts, parts of the giant mosque began to collapse within months of its consecration.  Today all three massive azure domes have been restored, and work still continues, though this time with ferro-concrete supports hidden behind the elaborate glazed tilework, on the lofty iwan and minarets. When the restoration is complete in around 2002, Uzbekistan will have yet another architectural marvel to draw visitors.<br/
 <br/
@@ -5863,7 +5862,7 @@ Her fragrant flowers, her trees with precious <qex>tears</qex>.</q> <rj><qau>Dry
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Tear</ent><br/
-<hw>Tear</hw> <pr>(t<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Tore</conjf> <pr>(t<omac/r)</pr>, (<mark>Obs.</mark> <conjf>Tare</conjf>) <pr>(t<acir/r)</pr>; <pos>p. p.</pos> <conjf>Torn</conjf> <pr>(t<omac/rn)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Tearing</conjf>.]</vmorph> <ety>[OE. <ets>teren</ets>, AS. <ets>teran</ets>; akin to OS. far<ets>terian</ets> to destroy, D. <ets>teren</ets> to consume, G. <ets>zerren</ets> to pull, to tear, <ets>zehren</ets> to consume, Icel. <ets>t>ae/ra</ets>, Goth. <ets>gata<iacute/ran</ets> to destroy, Lith. <ets>dirti</ets> to flay, Russ. <ets>drate</ets> to pull, to tear, Gr. <grk>de`rein</grk> to flay, Skr. <ets>dar</ets> to burst. <root/63.  Cf. <er>Darn</er>, <er>Epidermis</er>, <er>Tarre</er>, <er>Tirade</er>.]</ety> <sn>1.</sn> <def>To separate by violence; to pull apart by force; to rend; to lacerate; <as>as, to <ex>tear</ex> cloth; to <ex>tear</ex> a garment; to <ex>tear</ex> the skin or flesh.</as></def><br/
+<hw>Tear</hw> <pr>(t<acir/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Tore</conjf> <pr>(t<omac/r)</pr>, (<mark>Obs.</mark> <conjf>Tare</conjf>) <pr>(t<acir/r)</pr>; <pos>p. p.</pos> <conjf>Torn</conjf> <pr>(t<omac/rn)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Tearing</conjf>.]</vmorph> <ety>[OE. <ets>teren</ets>, AS. <ets>teran</ets>; akin to OS. far<ets>terian</ets> to destroy, D. <ets>teren</ets> to consume, G. <ets>zerren</ets> to pull, to tear, <ets>zehren</ets> to consume, Icel. <ets>t<ae/ra</ets>, Goth. <ets>gata<iacute/ran</ets> to destroy, Lith. <ets>dirti</ets> to flay, Russ. <ets>drate</ets> to pull, to tear, Gr. <grk>de`rein</grk> to flay, Skr. <ets>dar</ets> to burst. <root/63.  Cf. <er>Darn</er>, <er>Epidermis</er>, <er>Tarre</er>, <er>Tirade</er>.]</ety> <sn>1.</sn> <def>To separate by violence; to pull apart by force; to rend; to lacerate; <as>as, to <ex>tear</ex> cloth; to <ex>tear</ex> a garment; to <ex>tear</ex> the skin or flesh.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Tear</qex> him to pieces; he's a conspirator.</q> <rj><qau>Shak.</qau></rj><br/
@@ -18265,11 +18264,8 @@ In autumn <qex>thwarts</qex> the night.</q> <rj><qau>Milton.</qau></rj><br/
 He rolled upon the fragrant ground.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- thyratron<br/
-[<source>1913 Webster</source>]</p>
-
-<p>    thyristor.  --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- thyratron
+       thyristor.  --></p>
 
 <p><ent>Thyro-</ent><br/
 <hw>Thy"ro-</hw> <pr>(?)</pr>. <def>A combining form used in anatomy to indicate <xex>connection with</xex>, or <xex>relation to</xex>, <xex>the thyroid body</xex> or <xex>the thyroid cartilage</xex>; <as>as, <ex>thyro</ex>hyal</as>.</def><br/
@@ -26719,11 +26715,9 @@ In <qex>towers</qex>, and curls, and periwigs.</q> <rj><qau>Hudibras.</qau></rj>
 <hw>Town"house`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A building devoted to the public used of a town; a townhall.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 2. a house in the city, usu. said of a second residence belonging to one who has a permanent residence elsewhere, as in the countryside. = town house (b) <br/
-[<source>1913 Webster</source>]</p>
+<p><-- 2. a house in the city, usu. said of a second residence belonging to one who has a permanent residence elsewhere, as in the countryside. = town house (b) --></p>
 
-<p> 3. Row House. --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- 3. Row House. --></p>
 
 <p><ent>Townish</ent><br/
 <hw>Town"ish</hw>, <pos>a.</pos> <def>Of or pertaining to the inhabitants of a town; like the town.</def> <mark>[R.]</mark>  <rj><au>Turbervile.</au></rj><br/
@@ -34094,14 +34088,14 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimethylene</ent><br/
-<hw>Tri*meth"yl*ene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A gaseous hydrocarbon, <chform>C3H6</chform>, isomeric with propylene and obtained from it indirectly. It is the base of a series of compounds analogous to the aromatic hydrocarbons.</def><-- usu. called cyclopropane, because the three carbons form a ring:<br/
+<hw>Tri*meth"yl*ene</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A gaseous hydrocarbon, <chform>C3H6</chform>, isomeric with propylene and obtained from it indirectly. It is the base of a series of compounds analogous to the aromatic hydrocarbons.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p>                   CH2
+<p><-- usu. called cyclopropane, because the three carbons form a ring:
+                   CH2
                   / \
                H2C---CH2
---><br/
-[<source>1913 Webster</source>]</p>
+--></p>
 
 <p><ent>Trimetric</ent><br/
 <hw>Tri*met"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>tri-</ets> + Gr. <?/ measure.]</ety> <fld>(Crystallog.)</fld> <def>Same as <er>Orthorhombic</er>.</def><br/
@@ -36093,11 +36087,9 @@ And broken beaks of ships, the <qex>trophies</qex> of their wars.</q> <rj><qau>D
 <p><sn>4.</sn> <def>Any evidence or memorial of victory or conquest; <as>as, every redeemed soul is a <ex>trophy</ex> of grace</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- 5.  An object memorializing a victory in a sporting contest.<br/
-[<source>1913 Webster</source>]</p>
+<p><-- 5.  An object memorializing a victory in a sporting contest. --></p>
 
-<p><note> Some trophies(5) are unique, temporary possession of the same object passing to the new victors of some periodic contest in subsequent occurrences.  Others are objects of little inherent worth, given by the authority sponsoring the contest to the victor.  A trophy is sometimes shaped like a cup, and in such cases may be called a <stype>cup</stype>, as the <stype>America's Cup</stype> (in Yacht racing).</note> --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- <note> Some trophies(5) are unique, temporary possession of the same object passing to the new victors of some periodic contest in subsequent occurrences.  Others are objects of little inherent worth, given by the authority sponsoring the contest to the victor.  A trophy is sometimes shaped like a cup, and in such cases may be called a <stype>cup</stype>, as the <stype>America's Cup</stype> (in Yacht racing).</note> --></p>
 
 <p><cs><col><b>Trophy money</b></col>, <cd>a duty paid formerly in England, annually, by housekeepers, toward providing harness, drums, colors, and the like, for the militia.</cd></cs>
 <-- Trophy room, a room in which trophies are kept. --><br/
@@ -42965,5 +42957,3 @@ Is difficult.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><ent>Tzetze</ent><br/
 <hw>Tzet"ze</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Same as <er>Tsetse</er>.</def><br/
 [<source>1913 Webster</source>]</p>
-
-

@@ -668,7 +668,7 @@ Lost Paradise, deceived by me.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Telecommunications)</fld> <def>A method for reproducing documents, drawing, or other planar image at a remote location by converting the document into coded electronic signals at one point, transmitting data via telephone line or radio signals to the remote point, and converting the signals back into a likeness of the original image.  The device used at each end to convert the image to and from electronic signals was originally called <uses>Facsimile telegraph</uses>, then <uses>telefax machine</uses>, and now more commonly <uses>fax machine</uses>.  The same process, using the same data transmission protocols, is now performed not only by devices dedicated exclusively to the telefax process, but also by computers and combined copying/scanning/telefax machines.  Also called <altname>telefax</altname> or <altname>fax</altname>.</def><br/
 [<source>PJC</source>]</p>
-s
+
 <p><cs><col><b>Facsimile telegraph</b></col>, <cd>a telegraphic apparatus reproducing messages in autograph; a fax machine.</cd></cs><br/
 [<source>1913 Webster</source>+ <source>PJC</source>]</p>
 
@@ -2107,7 +2107,6 @@ Among the faithless, <qex>faithful</qex> only he.</q> <rj><qau>Milton.</qau></rj
 <ent>falcon-gentil</ent><br/
 <mhw><hw>fal"con-gen`til</hw>, <hw>falcon-gentle</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>faucon-gentil</ets>. See <er>Falcon</er>, and <er>Genteel</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>any female falcon;</def> <specif>especially --</specif><br/
 [<source>PJC</source>]</p>
-
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>a female peregrine falcon (<spn>Falco peregrinus</spn>).</def><br/
 <syn><b>Syn. --</b> falcon-gentil.</syn><br/
@@ -4212,7 +4211,6 @@ Still forever <qex>fare</qex> thee <qex>well</qex>.</q> <rj><qau>Byron.</qau></r
 <p><ent>Faroese</ent><br/
 <hw>Fa`ro*ese`</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <def>An inhabitant, or, collectively, inhabitants, of the Faroe islands.</def><br/
 [<source>1913 Webster</source>]</p>
-
 
 <p><ent>Far-off</ent><br/
 <hw>Far"-off`</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Remote; <as>as, the <ex>far-off</ex> distance; troops landing on <ex>far-off</ex> shores</as>.  Cf. <cref>Far-off</cref>, under <er>Far</er>, adv.</def><br/
@@ -8803,17 +8801,17 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p>-- <col><b>Alcoholic fermentation</b></col>, <cd>the fermentation which saccharine bodies undergo when brought in contact with the yeast plant or Torula. The sugar is converted, either directly or indirectly, into alcohol and carbonic acid, the rate of action being dependent on the rapidity with which the Torul<ae/ develop.</cd> -- <col><b>Ammoniacal fermentation</b></col>, <cd>the conversion of the urea of the urine into ammonium carbonate, through the growth of the special urea ferment.</cd></p>
 
-<p><chreact>CON2H4 + 2H2O = (NH4)2CO3</chreact>
+<p><chreact>CON2H4 + 2H2O <rarr/ (NH4)2CO3</chreact>
 <note>    Urea.  Water.   Ammonium carbonate.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note>Whenever urine is exposed to the air in open vessels for several days it undergoes this alkaline fermentation.</note> -- <col><b>Butyric fermentation</b></col>, <cd>the decomposition of various forms of organic matter, through the agency of a peculiar worm-shaped vibrio, with formation of more or less butyric acid. It is one of the many forms of fermentation that collectively constitute putrefaction. See <cref>Lactic fermentation</cref>.</cd> -- <mcol><col><b>enzymatic fermentation</b></col> <it>or</it> <col><b>Fermentation by an unorganized ferment</b></col></mcol>. <cd>Fermentations of this class are purely chemical reactions, in which the enzyme acts as a simple catalytic agent. Of this nature are the decomposition or inversion of cane sugar into levulose and dextrose by boiling with dilute acids, the conversion of starch into dextrin and sugar by similar treatment, the conversion of starch into like products by the action of diastase of malt or ptyalin of saliva, the conversion of albuminous food into peptones and other like products by the action of pepsin-hydrochloric acid of the gastric juice or by the ferment of the pancreatic juice.</cd> -- <col><b>Fermentation theory of disease</b></col> <fld>(Biol. & Med.)</fld>, <cd>the theory that most if not all, infectious or zymotic disease are caused by the introduction into the organism of the living germs of ferments, or ferments already developed (organized ferments), by which processes of fermentation are set up injurious to health. See <er>Germ theory</er>.</cd> -- <col><b>Glycerin fermentation</b></col>, <cd>the fermentation which occurs on mixing a dilute solution of glycerin with a peculiar species of schizomycetes and some carbonate of lime, and other matter favorable to the growth of the plant, the glycerin being changed into butyric acid, caproic acid, butyl, and ethyl alcohol. With another form of bacterium (<spn>Bacillus subtilis</spn>) ethyl alcohol and butyric acid are mainly formed.</cd> -- <col><b>Lactic fermentation</b></col>, <cd>the transformation of milk sugar or other saccharine body into lactic acid, as in the souring of milk, through the agency of a special bacterium (<spn>Bacterium lactis</spn> of Lister). In this change the milk sugar, before assuming the form of lactic acid, presumably passes through the stage of glucose.</cd></p>
 
-<p><chreact>C12H22O11.H2O     -->     4C3H6O3</chreact>
+<p><chreact>C12H22O11.H2O     <rarr/     4C3H6O3</chreact>
 <note> Hydrated milk sugar.         Lactic acid.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>In the lactic fermentation of dextrose or glucose, the lactic acid which is formed is very prone to undergo butyric fermentation after the manner indicated in the following equation: <chreact>2C3H6O3 (lactic acid) --> C4H8O2 (butyric acid) + 2CO2 (carbonic acid) + 2H2 (hydrogen gas).</chreact></note> -- <col><b>Putrefactive fermentation</b></col>. <cd>See <er>Putrefaction</er>.</cd></cs><br/
+<p><note>In the lactic fermentation of dextrose or glucose, the lactic acid which is formed is very prone to undergo butyric fermentation after the manner indicated in the following equation: <chreact>2C3H6O3 (lactic acid) <rarr/ C4H8O2 (butyric acid) + 2CO2 (carbonic acid) + 2H2 (hydrogen gas).</chreact></note> -- <col><b>Putrefactive fermentation</b></col>. <cd>See <er>Putrefaction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fermentation tank</ent><br/
@@ -34856,7 +34854,7 @@ Whose constant cups lay <qex>fuming</qex> to his brain.</q> <rj><qau>Roscommon.<
 <hw>Fun</hw> <pr>(f<ucr/n)</pr>, <pos>n.</pos> <ety>[Perh. of Celtic origin; cf. Ir. & Gael. <ets>fonn</ets> pleasure.]</ety> <def>Sport; merriment; frolicsome amusement.</def> <ldquo/Oddity, frolic, and <xex>fun</xex>.<rdquo/  <rj><au>Goldsmith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To make fun of</b></col>, <cd>to hold up to, or turn into, ridicule.</cd></cs> -- <col><b>in fun</b></col>, <cd>jokingly; not seriously; for amusement.</cd> -- <col><b>like fun</b></col>, <cd>definitely not; -- used adverbially, mostly to contradict a prior assertion; A: <ldquo/He says he won't do it again.</rdquo/ -- B: <ldquo/<xex>Like fun</xex> he won't.</rdquo/.</cd><br/
+<p><cs><col><b>To make fun of</b></col>, <cd>to hold up to, or turn into, ridicule.</cd></cs> -- <col><b>in fun</b></col>, <cd>jokingly; not seriously; for amusement.</cd> -- <col><b>like fun</b></col>, <cd>definitely not; -- used adverbially, mostly to contradict a prior assertion; A: <ldquo/He says he won't do it again.<rdquo/ -- B: <ldquo/<xex>Like fun</xex> he won't.<rdquo/.</cd><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fun</ent><br/
@@ -36471,4 +36469,3 @@ had produced a corresponding <qex>fusion</qex> of creeds.</q> <rj><qau>C. Kingsl
 
 <p><ent>fytte</ent><br/
 <hw>Fytte</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Fit</er> a song.</def> <mark>[Archaic]</mark></p>
-

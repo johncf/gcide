@@ -2834,7 +2834,6 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <syn><b>Syn. --</b> disagreeable.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-
 <p>-- <wordforms><wf>Ill`-na"tured*ly</wf>, <pos>adv.</pos> -- <wf>Ill`-na"tured*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
@@ -37383,4 +37382,3 @@ The clasping <qex>ivy</qex> where to climb.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Izzard</ent><br/
 <hw>Iz"zard</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Formerly <ets>ezed</ets>, prob. fr. F.  <ets>et z<eacute/de</ets> and z.]</ety> <def>The letter <it>z</it>; -- formerly so called.</def></p>
-

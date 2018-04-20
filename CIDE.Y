@@ -2649,4 +2649,3 @@ In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.<
 <p><q>Our ship, <qex>I wis</qex>,<br/
 Shall be of another form than this.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-

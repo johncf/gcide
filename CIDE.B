@@ -22673,7 +22673,7 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><q>The last week of October 1929 remains forever imprinted in the American memory.<br/
     It was, of course, the week of the Great Crash, the stock market collapse that signaled the collapse of the world economy and the Great Depression of the 1930s. From an all-time high of 381 in early September 1929, the Dow Jones Industrial Average drifted down to a level of 326 on October 22, then, in a series of traumatic selling waves, to 230 in the course of the following six trading days.<br/
-    The stock market’s drop was far from over; it continued its sickening slide for nearly three more years, reaching an ultimate low of 41 in July 1932. But it was that last week of October 1929 that burned itself into the American consciousness.  After a decade of unprecedented boom and prosperity, there suddenly was panic, fear, a yawning gap in the American fabric. The party was over.</q> <qau>Wall street Journal, October 28, 1977</qau><br/
+    The stock market's drop was far from over; it continued its sickening slide for nearly three more years, reaching an ultimate low of 41 in July 1932. But it was that last week of October 1929 that burned itself into the American consciousness.  After a decade of unprecedented boom and prosperity, there suddenly was panic, fear, a yawning gap in the American fabric. The party was over.</q> <qau>Wall street Journal, October 28, 1977</qau><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Blackguard</ent><br/
@@ -23191,7 +23191,6 @@ Fetter a troublesome <qex>blade</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 
 <p><q><ldquo/Lower <qex>blade</qex><rdquo/ implies, of course, the lower instead of the upper surface of the tongue.</q>  <rj><qau>H. Sweet.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
-
 
 <p><-- p. 152 --></p>
 
@@ -23754,7 +23753,6 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn>  <def>uninterested and attaching little importance; -- of attitudes toward duties.</def> <illu>a <ex>blase</ex> attitude about housecleaning</illu><br/
 <syn><b>Syn. --</b> unconcerned.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
 
 <p><-- p. 153 --></p>
 
@@ -30998,7 +30996,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>boogie</ent><br/
-<hw>boogie</hw>> <pr>(b<oocr/"g<emac/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Music)</fld> <def>An instrumental version of the blues (especially for piano).</def><br/
+<hw>boogie</hw> <pr>(b<oocr/"g<emac/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Music)</fld> <def>An instrumental version of the blues (especially for piano).</def><br/
 <syn><b>Syn. --</b> boogie-woogie.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -36467,7 +36465,7 @@ Waved over by that flaming <qex>brand</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Brangle</ent><br/
-<hw>Bran"gle</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>brangled</ets> confused, entangled, Scot. <ets>brangle</ets> to shake, menace; probably a variant of <ets>wrangle</ets>, confused with <ets>brawl</ets>. <root/95.> ]</ety> <def>A wrangle; a squabble; a noisy contest or dispute.</def> <mark>[R.]</mark><br/
+<hw>Bran"gle</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>brangled</ets> confused, entangled, Scot. <ets>brangle</ets> to shake, menace; probably a variant of <ets>wrangle</ets>, confused with <ets>brawl</ets>. <root/95.]</ety> <def>A wrangle; a squabble; a noisy contest or dispute.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A <qex>brangle</qex> between him and his neighbor.</q> <rj><qau>Swift.</qau></rj><br/
@@ -48782,4 +48780,3 @@ I met this crown.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><-- p. 199 --></p>
-

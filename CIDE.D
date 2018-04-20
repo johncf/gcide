@@ -24960,7 +24960,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>digoxin</ent><br/
-<hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,12<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1->4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-12,14-dihydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/
+<hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Digram</ent><br/
@@ -30248,6 +30248,7 @@ The several caskets to this noble prince.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>3.</sn> <def>To obtain for the first time sight or knowledge of, as of a thing existing already, but not perceived or known; to find; to ascertain; to espy; to detect.</def> <wns>[wns=1,2,3,4,5,6,7,8]</wns><br/
 [<source>1913 Webster</source>]</p>
+
 <-- all 8 senses in WordNet seem to fit under this category. -->
 
 <p><q>Some to <qex>discover</qex> islands far away.</q> <rj><qau>Shak.</qau></rj><br/
@@ -52359,4 +52360,3 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 <p><note><hand/ The name is sometimes applied also to the koulan or onager. See <er>Koulan</er>.</note></p>
 
 <p><-- D ends and E begins in the middle of page 464 --></p>
-

@@ -11472,12 +11472,6 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 <p><sn>2.</sn> <def>An African tribe inhabiting parts of Kenya and Tanzania.</def><br/
 [<source>PJC</source>]</p>
 
-<p><note>Picture of <b>Masai women and children</b> standing by the roadside.<br/
- (Photographed in Kenya 1983 by PJC)<br/
-<img src="images\masaiwom.jpg"></img><br/
-</note><br/
-[<source>PJC</source>]</p>
-
 <p><ent>Mascagnite</ent><br/
 <ent>Mascagnin</ent><br/
 <mhw>{ <hw>Mas*ca"gnin</hw> <pr>(?)</pr>, <hw>Mas*ca"gnite</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>mascagnin</ets>.]</ety> <fld>(Min.)</fld> <def>Native sulphate of ammonia, found in volcanic districts; -- so named from <etsep>Mascagni</etsep>, who discovered it.</def><br/
@@ -39351,7 +39345,6 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q> . . . <company>Inco</company> is still much more advanced than other mining companies.  He says that the LKAB mine in <country>Sweden</country> is the closest rival.  He predicts that, by 2008, <company>Inco</company> can reach a new productivity plateau, doubling the current mining productivity from 3,350 tonnes to 6,350 tonnes per person per year. Another aim is to triple the mine cycle rate (the time to drill, blast and <qex>muck</qex> a round) from one cycle to three complete cycles per 24 hours.</q> <qau>http://www.canadianminingjournal.com/issues/apr00/page10.asp</qau><br/
 [<source>PJC</source>]</p>
 
-
 <p><ent>Muckender</ent><br/
 <hw>Muck"en*der</hw> <pr>(m<ucr/k"<ecr/n*d<etil/r)</pr>, <pos>n.</pos> <ety>[Sp. <ets>mocador</ets>.  Cf. <er>Mokadour</er>.]</ety> <def>A handkerchief.</def> <mark>[Obs.]</mark> <altsp>[Written also <asp>muckinder</asp>, <asp>muckiter</asp>, <asp>mockadour</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
@@ -44280,4 +44273,3 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 961 --></p>
-

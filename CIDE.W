@@ -5340,13 +5340,6 @@ Foretell new storms to those already spent.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Wa"ter*ish*ness</hw>, <pos>n.</pos> <def>The quality of being waterish.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>water jacket</ent><br/
-<-- <hw>water jacket</hw>.  A chamber surrounding a vessel or tube in which water may be circulated, thereby regulating the temperature or supply of heat to the vessel.  Used in laboratory and manufacturing equipment.<br/
-[<source>1913 Webster</source>]</p>
-
-<p>  water-jacketed.  adj. Having a water jacket; -- as, a water-jacketed condenser. --><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Water joint</ent><br/
 <hw>Wa"ter joint`</hw> <pr>(?)</pr>. <fld>(Arch.)</fld> <def>A joint in a stone pavement where the stones are left slightly higher than elsewhere, the rest of the surface being sunken or dished. The raised surface is intended to prevent the settling of water in the joints.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20066,11 +20059,9 @@ Warble his native <qex>wood-notes</qex> wild.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Wood"work`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Work made of wood; that part of any structure which is wrought of wood.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Fig. the hidden parts of a building, as between the walls.<br/
-[<source>1913 Webster</source>]</p>
+<p><-- Fig. the hidden parts of a building, as between the walls.--></p>
 
-<p>  Out of the woodwork.  Appearing suddenly, as if from within the walls. --><br/
-[<source>1913 Webster</source>]</p>
+<p><--  Out of the woodwork.  Appearing suddenly, as if from within the walls. --></p>
 
 <p><ent>Woodworm</ent><br/
 <hw>Wood"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <cref>Wood worm</cref>, under <er>Wood</er>.</def><br/
@@ -21686,12 +21677,8 @@ It see, and judge, and follow <qex>worthiness</qex>?</q> <rj><qau>Donne.</qau></
 <p>-- <wordforms><wf>Worth"less*ly</wf>, <pos>adv.</pos> -- <wf>Worth"less*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>worthwhile</ent><br/
-<-- <hw>worthwhile</hw>, <pos>adj.</pos> <def>Worth the time or effort spent.</def>  See worth while.<br/
-[<source>1913 Webster</source>]</p>
-
-<p> worthy. -- worthwhileness. --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- <ent>worthwhile</ent><br/
+<hw>worthwhile</hw>, <pos>adj.</pos> <def>Worth the time or effort spent.</def>  See worth while. --></p>
 
 <p><ent>Worthy</ent><br/
 <hw>Wor"thy</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Worthier</adjf> <pr>(<?/)</pr>; <pos>superl.</pos> <adjf>Worthiest.</adjf>]</amorph> <ety>[OE. <ets>worthi</ets>, <ets>wur<thorn/i</ets>, from <ets>worth</ets>, <ets>wur<thorn/</ets>, n.; cf. Icel. <ets>ver<edh/ugr</ets>, D. <ets>waardig</ets>, G. <ets>w<uum/rdig</ets>, OHG. <ets>wird<imac/g</ets>.  See <er>Worth</er>, <pos>n.</pos>]</ety><br/
@@ -23540,4 +23527,3 @@ If the dear host's neck were <qex>wried</qex>.</q> <rj><qau>R. Browning.</qau></
 <p><ent>Wyvern</ent><br/
 <hw>Wy"vern</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Her.)</fld> <def>Same as <er>Wiver</er>.</def><br/
 [<source>1913 Webster</source>]</p>
-

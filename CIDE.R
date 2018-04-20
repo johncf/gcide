@@ -10575,11 +10575,9 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 <hw>Re*cur"sion</hw> <pr>(-sh?n)</pr>, <pos>n.</pos> <ety>[L. <ets>recursio</ets>. See <er>Recur</er>.]</ety> <def>The act of recurring; return.</def> <mark>[Obs.]</mark>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- (Math.) The calculation of a mathematical expression (or a quantity) by repeating an operation on another expression which was derived by application of the same operation, on an expression which itself was the result of similar repeated applications of that same operation on prior results.  The series of operations is terminated by specifying an initial or terminal condition.<br/
-[<source>1913 Webster</source>]</p>
+<p><-- (Math.) The calculation of a mathematical expression (or a quantity) by repeating an operation on another expression which was derived by application of the same operation, on an expression which itself was the result of similar repeated applications of that same operation on prior results.  The series of operations is terminated by specifying an initial or terminal condition. --></p>
 
-<p>  (Computers) A programming technique in which a function calls itself as a subfunction.  Such calls may be repeated in series to arbitrary depth, provided that a terminating condition is given so that the final (deepest) call will return a value (rather than continue to recurse), which then permits the next higher call to return a value, and so forth, until the original call returns a value to the calling program. --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- (Computers) A programming technique in which a function calls itself as a subfunction.  Such calls may be repeated in series to arbitrary depth, provided that a terminating condition is given so that the final (deepest) call will return a value (rather than continue to recurse), which then permits the next higher call to return a value, and so forth, until the original call returns a value to the calling program. --></p>
 
 <p><ent>Recurvate</ent><br/
 <hw>Re*cur"vate</hw> <pr>(r?*k?r"v?t)</pr>, <pos>a.</pos> <ety>[L. <ets>recurvatus</ets>, p. p. of <ets>recurvare</ets>. See <er>Re-</er>, and <er>Curvate</er>.]</ety> <fld>(Bot.)</fld> <def>Recurved.</def><br/
@@ -11288,11 +11286,9 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj><br/
 Doubly <qex>redoubled</qex> strokes upon the foe.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- v. t. 2. (Contract bridge) To bid a redouble.<br/
-[<source>1913 Webster</source>]</p>
+<p><-- v. t. 2. (Contract bridge) To bid a redouble. --></p>
 
-<p>   <pos>n.</pos> An optional bid made by the side currently holding the highest bid for the contract, after the opposing side has doubled.  This bid increases the score for successfully making the contract, and increases the penalties for failing.  The score or penalty depends on the number of tricks over or under the contract, according to a defined schedule, and depending on the vulnerability of the side attempting the contract. --><br/
-[<source>1913 Webster</source>]</p>
+<p><-- <pos>n.</pos> An optional bid made by the side currently holding the highest bid for the contract, after the opposing side has doubled.  This bid increases the score for successfully making the contract, and increases the penalties for failing.  The score or penalty depends on the number of tricks over or under the contract, according to a defined schedule, and depending on the vulnerability of the side attempting the contract. --></p>
 
 <p><ent>Redouble</ent><br/
 <hw>Re*dou"ble</hw>, <pos>v. i.</pos> <def>To become greatly or repeatedly increased; to be multiplied; to be greatly augmented; <as>as, the noise <ex>redoubles</ex></as>.</def><br/
@@ -40147,4 +40143,3 @@ Never defied men braver.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 
 <p><-- Bottom of page 1263.  "S" begins at the top of page 1264 --><br/
 [<source>1913 Webster</source>]</p>
-
