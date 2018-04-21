@@ -18775,10 +18775,7 @@ To <qex>grapple</qex> with the house of Lancaster.</q> <rj><qau>Shak.</qau></rj>
 
 <p><note><hand/ The following list includes most of the grasses of the United States of special interest, except cereals.  Many of these terms will be found with definitions in the Vocabulary. See Illustrations in Appendix.</note></p>
 
-<p><-- the mark <stypec> . . . </stypec> indicates collocation font, but
-functionally subtypes --></p>
-
-<p><subtypes><stypec>Barnyard grass</stypec>, <cd>for hay. South. <spn>Panicum Grus-galli</spn>.</cd></p>
+<p><stypec>Barnyard grass</stypec>, <cd>for hay. South. <spn>Panicum Grus-galli</spn>.</cd></p>
 
 <p><stypec>Bent</stypec>, <cd>pasture and hay. <gen>Agrostis</gen>, several species.</cd></p>
 
@@ -18797,7 +18794,7 @@ functionally subtypes --></p>
 
 <p><stypec>Bunch grass</stypec>, <cd>grazing. Far West. <gen>Eriocoma</gen>, <gen>Festuca</gen>, <gen>Stips</gen>, etc.</cd></p>
 
-<p><mstypec><stypec>Chess</stypec>, <it>or</it> <stypec>Cheat</stypec></mstypec>, <cd>a weed. <spn>Bromus secalinus</spn>, etc.</cd></p>
+<p><stypec>Chess</stypec>, <it>or</it> <stypec>Cheat</stypec>, <cd>a weed. <spn>Bromus secalinus</spn>, etc.</cd></p>
 
 <p><stypec>Couch grass</stypec>. <cd>Same as <spn>Quick grass</spn> (below).</cd></p>
 
@@ -18840,7 +18837,7 @@ functionally subtypes --></p>
 
 <p><stypec>Meadow grass</stypec>, <cd>pasture, hay, lawn. <gen>Poa</gen>, several species.</cd></p>
 
-<p><mstypec><stypec>Mesquite grass</stypec>, <it>or</it> <stypec>Muskit grass</stypec></mstypec>. <cd>Same as <cref>Grama grass</cref> (above).</cd>
+<p><stypec>Mesquite grass</stypec>, <it>or</it> <stypec>Muskit grass</stypec>. <cd>Same as <cref>Grama grass</cref> (above).</cd>
 <-- here spelled "gramma" in original --></p>
 
 <p><stypec>Nimble Will</stypec>, <cd>a kind of drop seed. <spn>Muhlenbergia diffsa</spn>.</cd></p>
@@ -18851,7 +18848,7 @@ functionally subtypes --></p>
 
 <p><stypec>Quaking grass</stypec>, <cd>ornamental. <spn>Briza media</spn> and <spn>maxima</spn>.</cd></p>
 
-<p><mstypec><stypec>Quitch</stypec>, <stypec>or Quick</stypec>, <stypec>grass</stypec></mstypec>, <cd>etc., a weed. <spn>Agropyrum repens</spn>.</cd></p>
+<p><stypec>Quitch</stypec>, or <stypec>Quick</stypec>, <stypec>grass</stypec> etc., <cd>a weed. <spn>Agropyrum repens</spn>.</cd></p>
 
 <p><stypec>Ray grass</stypec>. <cd>Same as <cref>Rye grass</cref> (below).</cd></p>
 
@@ -18889,11 +18886,10 @@ functionally subtypes --></p>
 
 <p><stypec>Wire grass</stypec>, <cd>valuable in pastures. <spn>Poa compressa</spn>.</cd></p>
 
-<p><mstypec><stypec>Wood grass</stypec>, <stypec>Indian grass</stypec></mstypec>, <cd>hay. <spn>Chrysopogon nutans</spn>.</cd>
-</subtypes><br/
+<p><stypec>Wood grass</stypec>, <stypec>Indian grass</stypec>, <cd>hay. <spn>Chrysopogon nutans</spn>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Many plants are popularly called grasses which are not true grasses botanically considered, such as black <ex>grass</ex>, goose <ex>grass</ex>, star <ex>grass</ex>, etc.</note><br/
+<p><note><hand/ Many plants are popularly called grasses which are not true grasses botanically considered, such as <xex>black grass</xex>, <xex>goose grass</xex>, <xex>star grass</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Black grass</b></col>, <cd>a kind of small rush (<spn>Juncus Gerardi</spn>), growing in salt marshes, used for making salt hay.</cd>  -- <col><b>Grass of the Andes</b></col>, <cd>an oat grass, the <spn>Arrhenatherum avenaceum</spn> of Europe.</cd>-- <col><b>Grass of Parnassus</b></col>, <cd>a plant of the genus <gen>Parnassia</gen> growing in wet ground.  The European species is <spn>Parnassia palustris</spn>; in the United States there are several species.</cd> -- <col><b>Grass bass</b></col> <fld>(Zool.)</fld>, <cd>the calico bass.</cd> -- <col><b>Grass bird</b></col>, <cd>the dunlin.</cd> -- <col><b>Grass cloth</b></col>, <cd>a cloth woven from the tough fibers of the grass-cloth plant.</cd> -- <col><b>Grass-cloth plant</b></col>, <cd>a perennial herb of the Nettle family (<spn>B<oe/hmeria nivea</spn> syn. <spn>Urtica nivea</spn>), which grows in Sumatra, <country>China</country>, and Assam, whose inner bark has fine and strong fibers suited for textile purposes.</cd>  -- <col><b>Grass finch</b></col>. <cd><fld>(Zool.)</fld> <sd>(a)</sd> A common American sparrow  (<spn>Po<oum/c<ae/tes gramineus</spn>); -- called also <cref>vesper sparrow</cref> and <cref>bay-winged bunting</cref>. <sd>(b)</sd> Any Australian finch, of the genus <gen>Po<eum/phila</gen>, of which several species are known.</cd>  -- <col><b>Grass lamb</b></col>, <cd>a lamb suckled by a dam running on pasture land and giving rich milk.</cd>-- <col><b>Grass land</b></col>, <cd>land kept in grass and not tilled.</cd> --  <col><b>Grass moth</b></col> <fld>(Zool.)</fld>, <cd>one of many small moths of the genus <gen>Crambus</gen>, found in grass.</cd> -- <col><b>Grass oil</b></col>, <cd>a fragrant essential volatile oil, obtained in India from grasses of the genus <gen>Andropogon</gen>, etc.; -- used in perfumery under the name of <altname>citronella</altname>, <altname>ginger grass oil</altname>, <altname>lemon grass oil</altname>, <altname>essence of verbena</altname> etc.</cd> -- <col><b>Grass owl</b></col> <fld>(Zool.)</fld>, a <cd>South African owl  (<spn>Strix Capensis</spn>).</cd> -- <col><b>Grass parrakeet</b></col> <fld>(Zool.)</fld>, a<cd>ny of several species of Australian parrots, of the genus <gen>Euphemia</gen>; --  also applied to the zebra parrakeet.</cd> -- <col><b>Grass plover</b></col> <fld>(Zool.)</fld>, t<cd>he upland or field plover.</cd> -- <col><b>Grass poly</b></col> <fld>(Bot.)</fld>, a <cd>species of willowwort (<spn>Lythrum Hyssopifolia</spn>).</cd> <au>Johnson.</au> -- <col><b>Crass quit</b></col> <fld>(Zool.)</fld>, <cd>one of several tropical American finches of the genus <gen>Euetheia</gen>. The males have most of the head and chest black and often marked with yellow.</cd> -- <col><b>Grass snake</b></col>.  <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common English, or ringed, snake (<spn>Tropidonotus natrix</spn>).</cd> <sd>(b)</sd> <cd>The common green snake of the Northern United States. See <cref>Green snake</cref>, under <er>Green</er>.</cd>  -- <col><b>Grass snipe</b></col> <fld>(Zool.)</fld>, <cd>the pectoral sandpiper (<spn>Tringa maculata</spn>); -- called also <altname>jacksnipe</altname> in America.</cd> -- <col><b>Grass spider</b></col> <fld>(Zool.)</fld>, <cd>a common spider (<spn>Agelena n<ae/via</spn>), which spins flat webs on grass, conspicuous when covered with dew.</cd> -- <col><b>Grass sponge</b></col> <fld>(Zool.)</fld>, <cd>an inferior kind of commercial sponge from Florida and the Bahamas.</cd> --  <col><b>Grass table</b></col>. <cd><fld>(Arch.)</fld> See <cref>Earth table</cref>, under <er>Earth</er>.</cd> -- <col><b>Grass vetch</b></col> <fld>(Bot.)</fld>, <cd>a vetch (<spn>Lathyrus Nissolia</spn>), with narrow grasslike leaves.</cd> -- <col><b>Grass widow</b></col>.  <ety>[Cf. Prov. R. an unmarried mother, G. <ets>strohwittwe</ets> a mock widow, Sw. <ets>gr<aum/senka</ets> a grass widow.]</ety> <sd>(a)</sd> <cd>An unmarried woman who is a mother.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>A woman separated from her husband by abandonment or prolonged absence; a woman living apart from her husband.</cd> <mark>[Slang.]</mark> -- <col><b>Grass wrack</b></col> <fld>(Bot.)</fld> <cd>eelgrass.</cd> -- <col><b>To bring to grass</b></col> <fld>(Mining.)</fld>, <cd>to raise, as ore, to the surface of the ground.</cd> -- <mcol><col><b>To put to grass</b></col>, <col><b>To put out to grass</b></col></mcol>, <cd>to put out to graze a season, as cattle.</cd></cs><br/
