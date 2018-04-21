@@ -14078,7 +14078,7 @@ From thy implanted grace in man!</q> <rj><qau>Milton.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>first aid</ent><br/
-<hw>first` aid"</hw> <pr>(f<etil/rst` <amac/d")</pr>, <pos>n.</pos>  <def>Medical care provided immediately after an injury or sudden illness for the purpose of minimizing injurious effects, before more complete medical care becomes available.</as></def><br/
+<hw>first` aid"</hw> <pr>(f<etil/rst` <amac/d")</pr>, <pos>n.</pos>  <def>Medical care provided immediately after an injury or sudden illness for the purpose of minimizing injurious effects, before more complete medical care becomes available.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>firstborn</ent><br/

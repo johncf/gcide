@@ -26045,13 +26045,13 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>Less by a semitone in interval or difference of pitch; <as>as, a <ex>minor</ex> third</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Asia Minor</b></col> <fld>(Geog.)</fld>, <cd>the Lesser Asia; that part of Asia which lies between the Euxine, or Black Sea, on the north, and the Mediterranean on the south.</cd> -- <col><b>Minor mode</b></col> <fld>(Mus.)</fld>, <cd>that mode, or scale, in which the third and sixth are minor, -- much used for mournful and solemn subjects.</cd> -- <col><b>Minor orders</b></col> <fld>(Eccl.)</fld>, <cd>the rank of persons employed in ecclesiastical offices who are not in holy orders, as doorkeepers, acolytes, etc.</cd> -- <col><b>Minor scale</b></col> <fld>(Mus.)</fld> <cd>The form of the minor scale is various.  The strictly correct form has the third and sixth minor, with a semitone between the seventh and eighth, which involves an augmented second interval, or three semitones, between the sixth and seventh, as, <supr>6/F</supr>, <supr>7/G<sharp/</supr>, <supr>8/A</supr>.  But, for melodic purposes, both the sixth and the seventh are sometimes made major in the ascending, and minor in the descending, scale, thus: --<br/
+<p><cs><col><b>Asia Minor</b></col> <fld>(Geog.)</fld>, <cd>the Lesser Asia; that part of Asia which lies between the Euxine, or Black Sea, on the north, and the Mediterranean on the south.</cd> -- <col><b>Minor mode</b></col> <fld>(Mus.)</fld>, <cd>that mode, or scale, in which the third and sixth are minor, -- much used for mournful and solemn subjects.</cd> -- <col><b>Minor orders</b></col> <fld>(Eccl.)</fld>, <cd>the rank of persons employed in ecclesiastical offices who are not in holy orders, as doorkeepers, acolytes, etc.</cd> -- <col><b>Minor scale</b></col> <fld>(Mus.)</fld> <cd>The form of the minor scale is various.  The strictly correct form has the third and sixth minor, with a semitone between the seventh and eighth, which involves an augmented second interval, or three semitones, between the sixth and seventh, as, <supr>6/F</supr>, <supr>7/G<sharp/</supr>, <supr>8/A</supr>.  But, for melodic purposes, both the sixth and the seventh are sometimes made major in the ascending, and minor in the descending, scale. See <er>Major</er>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><illust><-- Comm: an illustration of a bar with ascending and descending notes on a minor scale --></illust><br/
 [<source>1913 Webster</source>]</p>
 
-<p>See <er>Major</er>.</cd> -- <col><b>Minor term of a syllogism</b></col> <fld>(Logic)</fld>, <cd>the subject of the conclusion.</cd></cs><br/
+<p>-- <col><b>Minor term of a syllogism</b></col> <fld>(Logic)</fld>, <cd>the subject of the conclusion.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Minor</ent><br/
