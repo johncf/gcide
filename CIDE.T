@@ -27023,7 +27023,7 @@ Of war or blood, but in the sylvan chase.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Fort.)</fld> <def>The ground plan of a work or works.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Syn</b></col>.<cd>-Vestige; mark; token. See <er>Vestige</er>.</cd></cs><br/
+<p><syn><b>Syn.</b> -- Vestige; mark; token. See <er>Vestige</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trace</ent><br/
