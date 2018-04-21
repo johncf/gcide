@@ -136,9 +136,10 @@ Tag           Font         Description
 <sansserif>   Sans-serif   (used once)
 
 <stypec>      Bold         collocation font, and also a subtype.
-                           (used once; repeating in grass)
 
 <tt>                       HTML tag -- teletype font (mostly with <pre>)
+
+<xex>         italic       An emphasized word or phrase.
 
 <universbold>              A squared bold font without serifs approximating
                            the "universe bold" font on the HP Laserjet4,
@@ -374,8 +375,7 @@ Tag           Font         Meaning and Description
 
 <matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns). (used once)
 
-<mstypec>     *            Multiple synonymous subtypes -- used in def. of
-                           "grass". (used 4 times)
+<mstypec>     *            Multiple synonymous subtypes. (not used)
 
 <mtable>      *            Multiple table, encloses <table> figures. (used once)
 
@@ -433,7 +433,7 @@ Tag           Font         Meaning and Description
                            subdivision of a country. Includes, e.g. Canadian
                            provinces.
 
-<subtypes>    *            Lists subtypes of the headword. (used twice)
+<subtypes>    *            Lists subtypes of the headword. (not used)
 
 <sup>         *            Superscript
 
