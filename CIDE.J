@@ -3082,8 +3082,8 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Jewish calendar</ent><br/
 <hw>Jew"ish cal"en*dar</hw>. <def>A lunisolar calendar in use among Hebraic peoples, reckoning from the year 3761 <sc>b. c.</sc>, the date traditionally given for the Creation.</def> <note>It received its present fixed form from Hillel II. about 360 <sc>a. d.</sc> The present names of the months, which are Babylonian-Assyrian in origin, replaced older ones, <xex>Abib</xex>, <xex>Bul</xex>, etc., at the time of the Babylonian Exile. Nineteen years constitute a lunar cycle, of which the 3d, 6th, 8th, 11th, 14th, 17th, and 19th years are leap years. The year 5663 [1902-3 <sc>a. d.</sc>] was the first year of the 299th lunar cycle. The common year is said to be <xex>defective</xex>, <xex>regular</xex>, or <xex>perfect</xex> (or <xex>abundant</xex>) according as it has 353, 354, or 355 days. The leap year has an intercalary month, and a total of 383 (defective), 384 (regular), or 385 (perfect, or abundant) days. The calendar is complicated by various rules providing for the harmonious arrangement of festivals, etc., so that no simple perpetual calendar can be constructed. The following table gives the months in order, with the number of days assigned to each. Only three months vary in length. They are: Heshvan, which has 30 days in perfect years; Kislev, which has 30 days in regular and perfect years; and Adar, which has 30 days in leap years. The ecclesiastical year commences with Nisan and the civil year with Tishri. The date of the first of Tishri, or the Jewish New Year, is also given for the Jewish years 5661-5696 (1900-1935 <sc>a. d.</sc>). From these tables it is possible to transform any Jewish date into Christian, or vice versa, for the years 1900-1935 <sc>a. d.</sc></p>
 
-<p><sc>Months of the Jewish Year</sc>.
-<pre><tt>
+<p><pre><tt>
+<sc>Months of the Jewish Year</sc>.
  1 <colf>Tishri</colf> . . . . . . 30
  2 <colf>Heshvan</colf> . . . . .  29 (<it>r. & d</it>.)
                                 or 30 (<it>p</it>.)
@@ -3100,51 +3100,46 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
  9 <colf>Sivan</colf> . . . . . . .30
 10 <colf>Tammux</colf> . . . . . . 29
 11 <colf>Ab</colf> . . . . . . . . 30
-12 <colf>Elul</colf> . . . . . . ..29</p>
+12 <colf>Elul</colf> . . . . . . ..29
 
-<p><-- note the use of double quotes here as "ditto" marks, which will
- throw off automatic quote matching!! --></p>
-
-<p><sc>Jewish Year</sc>       <sc>a. d.</sc><br/
------------------------------------------------------------</p>
-
-<p>
+<sc>Jewish Year</sc>       <sc>a. d.</sc>
+-----------------------------------------------------------
 5661 <it>p.</it>      begins    Sept.  24, 1900
-5662 <it>d.l.</it>    <ldquo/      <ldquo/   14, 1901
-5663 <it>p.</it>      <ldquo/      Oct.    2, 1902
-5664 <it>r.</it>      <ldquo/      Sept.  22, 1903
-5665 <it>p.l.</it>    <ldquo/      <ldquo/   10, 1904
-5666 <it>p.</it>      <ldquo/      <ldquo/   30, 1905
-5667 <it>r.</it>      <ldquo/      <ldquo/   20, 1906
-5668 <it>d.l.</it>    <ldquo/      <ldquo/    6, 1907
-5669 <it>p.</it>      <ldquo/      <ldquo/   26, 1908
-5670 <it>d.l.</it>    <ldquo/      <ldquo/   16, 1909
-5671 <it>r.</it>      <ldquo/      Oct.    4, 1910
-5672 <it>p.</it>      <ldquo/      Sept.  23, 1911
-5673 <it>p.l.</it>    <ldquo/      <ldquo/   12, 1912
-5674 <it>r.</it>      <ldquo/      Oct.    2, 1913
-5675 <it>d.</it>      <ldquo/      Sept.  21, 1914
-5676 <it>p.l.</it>    <ldquo/      <ldquo/    9, 1915
-5677 <it>r.</it>      <ldquo/      <ldquo/   28, 1916
-5678 <it>p.</it>      <ldquo/      <ldquo/   17, 1917
-5679 <it>d.l.</it>   begins     Sept.   7, 1918
-5680 <it>r.</it>      <ldquo/      <ldquo/   25, 1919
-5681 <it>p.l.</it>    <ldquo/      <ldquo/   13, 1920
-5682 <it>p.</it>      <ldquo/      Oct.    3, 1921
-5683 <it>d.</it>      <ldquo/      Sept.  23, 1922
-5684 <it>r.l.</it>    <ldquo/      <ldquo/   11, 1923
-5685 <it>p.</it>      <ldquo/      <ldquo/   29, 1924
-5686 <it>p.</it>      <ldquo/      <ldquo/   19, 1925
-5687 <it>d.l.</it>    <ldquo/      <ldquo/    9, 1926
-5688 <it>r.</it>      <ldquo/      <ldquo/   27, 1927
-5689 <it>p.l.</it>    <ldquo/      <ldquo/   15, 1928
-5690 <it>d.</it>      <ldquo/      Oct.    5, 1929
-5691 <it>r.</it>      <ldquo/      Sept.  23, 1930
-5692 <it>p.l.</it>    <ldquo/      <ldquo/   12, 1931
-5693 <it>p.</it>      <ldquo/      Oct.    1, 1932
-5694 <it>r.</it>      <ldquo/      Sept.  23, 1933
-5695 <it>d.l.</it>    <ldquo/      <ldquo/   10, 1934
-5696 <it>p.</it>      <ldquo/      <ldquo/   28, 1935
+5662 <it>d.l.</it>    begins    Sept.  14, 1901
+5663 <it>p.</it>      begins    Oct.    2, 1902
+5664 <it>r.</it>      begins    Sept.  22, 1903
+5665 <it>p.l.</it>    begins    Sept.  10, 1904
+5666 <it>p.</it>      begins    Sept.  30, 1905
+5667 <it>r.</it>      begins    Sept.  20, 1906
+5668 <it>d.l.</it>    begins    Sept.   6, 1907
+5669 <it>p.</it>      begins    Sept.  26, 1908
+5670 <it>d.l.</it>    begins    Sept.  16, 1909
+5671 <it>r.</it>      begins    Oct.    4, 1910
+5672 <it>p.</it>      begins    Sept.  23, 1911
+5673 <it>p.l.</it>    begins    Sept.  12, 1912
+5674 <it>r.</it>      begins    Oct.    2, 1913
+5675 <it>d.</it>      begins    Sept.  21, 1914
+5676 <it>p.l.</it>    begins    Sept.   9, 1915
+5677 <it>r.</it>      begins    Sept.  28, 1916
+5678 <it>p.</it>      begins    Sept.  17, 1917
+5679 <it>d.l.</it>    begins    Sept.   7, 1918
+5680 <it>r.</it>      begins    Sept.  25, 1919
+5681 <it>p.l.</it>    begins    Sept.  13, 1920
+5682 <it>p.</it>      begins    Oct.    3, 1921
+5683 <it>d.</it>      begins    Sept.  23, 1922
+5684 <it>r.l.</it>    begins    Sept.  11, 1923
+5685 <it>p.</it>      begins    Sept.  29, 1924
+5686 <it>p.</it>      begins    Sept.  19, 1925
+5687 <it>d.l.</it>    begins    Sept.   9, 1926
+5688 <it>r.</it>      begins    Sept.  27, 1927
+5689 <it>p.l.</it>    begins    Sept.  15, 1928
+5690 <it>d.</it>      begins    Oct.    5, 1929
+5691 <it>r.</it>      begins    Sept.  23, 1930
+5692 <it>p.l.</it>    begins    Sept.  12, 1931
+5693 <it>p.</it>      begins    Oct.    1, 1932
+5694 <it>r.</it>      begins    Sept.  23, 1933
+5695 <it>d.l.</it>    begins    Sept.  10, 1934
+5696 <it>p.</it>      begins    Sept.  28, 1935
 </tt></pre></p>
 
 <p><it>d</it>. = defective year; <it>d.l</it>. = defective leap year; <it>p.</it> = perfect year; <it>p.l.</it> = perfect leap year; <it>r.</it> = regular year; <it>r.l.</it> = regular leap year.</note><br/
