@@ -17091,7 +17091,7 @@ There was not such a <qex>gracious</qex> creature born.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grackle</ent><br/
-<hw>Grac"kle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>graculus</ets> jackdaw.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>One of several American blackbirds, of the family <fam>Icterid<ae/</fam>; <subtypes>as, the rusty grackle (<spn>Scolecophagus Carolinus</spn>); the boat-tailed grackle (see Boat-tail); the purple grackle (<spn>Quiscalus quiscula</spn>, or <spn>Q. versicolor</spn>).</subtypes> See <cref>Crow blackbird</cref>, under <er>Crow</er>.</def> <sd>(b)</sd> <def>An Asiatic bird of the genus <gen>Gracula</gen>. See <er>Myna</er>.</def><br/
+<hw>Grac"kle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>graculus</ets> jackdaw.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>One of several American blackbirds, of the family <fam>Icterid<ae/</fam>; as, the <stype>rusty grackle</stype> (<spn>Scolecophagus Carolinus</spn>); the <stype>boat-tailed grackle</stype> (see Boat-tail); the <stype>purple grackle</stype> (<spn>Quiscalus quiscula</spn>, or <spn>Q. versicolor</spn>). See <cref>Crow blackbird</cref>, under <er>Crow</er>.</def> <sd>(b)</sd> <def>An Asiatic bird of the genus <gen>Gracula</gen>. See <er>Myna</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gradate</ent><br/
