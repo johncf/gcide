@@ -14778,7 +14778,7 @@ Alike in what it gives, and what <qex>denies</qex>?</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>deoxyribonucleic acid</ent><br/
-<hw>deoxyribonucleic acid</hw> <pos>n.</pos> <def>a nucleic acid, usually of very high molecular weight, consisting of a linear sequence of monomer units of deoxyribonucleotides, occurring in most organisms in pairs of strands, wound together in the form of a double helix; it is the main component of chromosomes and contains the genetic information which is the basis of heredity, transmitted from parent to progeny, and found in all living organisms except for certain viruses which have RNA as their basic genetic material; -- usually referred to by the acronym <altname>DNA</altname>.</def><br/
+<hw>deoxyribonucleic acid</hw> <pos>n.</pos> <def>a nucleic acid, usually of very high molecular weight, consisting of a linear sequence of monomer units of deoxyribonucleotides, occurring in most organisms in pairs of strands, wound together in the form of a double helix; it is the main component of chromosomes and contains the genetic information which is the basis of heredity, transmitted from parent to progeny, and found in all living organisms except for certain viruses which have RNA as their basic genetic material; -- usually referred to by the acronym <abbr>DNA</abbr>.</def><br/
 <syn><b>Syn. --</b> DNA, desoxyribonucleic acid.</syn><br/
 [<source>PJC</source>]</p>
 

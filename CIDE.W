@@ -19347,7 +19347,7 @@ Came out of her pitying <qex>womanhood</qex>.</q> <rj><qau>Tennyson.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Woman's Christian Temperance Union</ent><br/
-<hw>Woman's Christian Temperance Union</hw>. <def>An association of women formed in the United States in 1874, for the advancement of temperance by organizing preventive, educational, evangelistic, social, and legal work.  It is also known as the <altname>Women's Christian Temperance Union</altname> and by its acronym <altname>WCTU</altname> or <altname>W.C.T.U.</altname>.  It was one of the political forces leading to passage of the constitutional amendment, later repealed, which prohibited the sale of alcoholic beverages.</def><br/
+<hw>Woman's Christian Temperance Union</hw>. <def>An association of women formed in the United States in 1874, for the advancement of temperance by organizing preventive, educational, evangelistic, social, and legal work.  It is also known as the <altname>Women's Christian Temperance Union</altname> and by its acronym <abbr>WCTU</abbr> or <altname>W.C.T.U.</altname>.  It was one of the political forces leading to passage of the constitutional amendment, later repealed, which prohibited the sale of alcoholic beverages.</def><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Womb</ent><br/

@@ -8192,7 +8192,7 @@ Bare <qex>victual</qex> for the mowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>videocasette recorder</ent><br/
-<hw>videocasette recorder</hw> <pos>n.</pos> <def>an electronic device which can record electronic signals, as from a television program, on magnetic tape contained in a videocassette, and can also play back the recording.  It is used, for example, to record television programs broadcast at some particular time, which can then be viewed at any subsequent time by attaching the videocasette recorder to a television receiver and playing the signals throught the television receiver.  Also called <altname>VCR</altname>.</def><br/
+<hw>videocasette recorder</hw> <pos>n.</pos> <def>an electronic device which can record electronic signals, as from a television program, on magnetic tape contained in a videocassette, and can also play back the recording.  It is used, for example, to record television programs broadcast at some particular time, which can then be viewed at any subsequent time by attaching the videocasette recorder to a television receiver and playing the signals throught the television receiver.  Also called <abbr>VCR</abbr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>videotape</ent><br/

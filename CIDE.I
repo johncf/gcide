@@ -16110,7 +16110,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>indoleacetic acid</ent><br/
-<hw>in"dole*a*cet"ic ac"id</hw> <pr>(<icr/n"d<omac/l)</pr>, <pos>n.</pos>  <fld>(Chem., Bot.)</fld> <def>A plant hormone (<chform>C10H9NO2</chform>) recognized as the principle growth regulator in higher plants; called also <altname>heteroauxin</altname>.  Abbreviated <altname>IAA</altname>.  Chemically it is <chname>1H-indole-3-acetic acid</chname>.</def><br/
+<hw>in"dole*a*cet"ic ac"id</hw> <pr>(<icr/n"d<omac/l)</pr>, <pos>n.</pos>  <fld>(Chem., Bot.)</fld> <def>A plant hormone (<chform>C10H9NO2</chform>) recognized as the principle growth regulator in higher plants; called also <altname>heteroauxin</altname>.  Abbreviated <abbr>IAA</abbr>.  Chemically it is <chname>1H-indole-3-acetic acid</chname>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Indolence</ent><br/
@@ -31249,7 +31249,7 @@ I am well enough.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>intrauterine device</ent><br/
-<hw>in`tra*u"ter*ine de*vice"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A <isa>contraceptive device</isa> consisting of a small, usually plastic object placed within the uterus to prevent conception; also called <altname>IUD</altname>.</def><br/
+<hw>in`tra*u"ter*ine de*vice"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A <isa>contraceptive device</isa> consisting of a small, usually plastic object placed within the uterus to prevent conception; also called <abbr>IUD</abbr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Intravalvular</ent><br/

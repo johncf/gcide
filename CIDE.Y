@@ -2096,7 +2096,7 @@ Yet I to them for judgment just do fly.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>York use</ent><br/
-<hw>York" use`</hw> <pr>(?)</pr>. <fld>(Eccl.)</fld> <def>The one of the three printed uses of England which was followed in the north. It was based on the Sarum use.  See <er>Use</er>, <altname>n</altname>., 6.</def>  <rj><au>Shipley.</au></rj><br/
+<hw>York" use`</hw> <pr>(?)</pr>. <fld>(Eccl.)</fld> <def>The one of the three printed uses of England which was followed in the north. It was based on the Sarum use.  See <er>Use</er>, <pos>n.</pos>, 6.</def>  <rj><au>Shipley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yot</ent><br/
@@ -2217,7 +2217,7 @@ Their callow <qex>young</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Young Men's Christian Association</ent><br/
-<hw>Young Men's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and physical welfare of young men, founded, June 6, 1844, by George Williams (knighted therefor by Queen Victoria) in London. In 1851 it extended to the United States and Canada, and in 1855 representatives of similar organizations throughout Europe and America formed an international body. The movement has successfully expanded not only among young men in general, but also specifically among railroad men, in the army and navy, with provision for Indians and negroes, and a full duplication of all the various lines of oepration in the boys' departments.  It currently (1998) maintains buildings which usually have both recreational facilities and dormitories for dwelling.  It is usually called by its acronym <altname>YMCA</altname>.  See also the similar organizations <er>Young Women's Christian Association</er> and <er>YMHA</er>.</def><br/
+<hw>Young Men's Christian Association</hw>. <def>An organization for promoting the spiritual, intellectual, social, and physical welfare of young men, founded, June 6, 1844, by George Williams (knighted therefor by Queen Victoria) in London. In 1851 it extended to the United States and Canada, and in 1855 representatives of similar organizations throughout Europe and America formed an international body. The movement has successfully expanded not only among young men in general, but also specifically among railroad men, in the army and navy, with provision for Indians and negroes, and a full duplication of all the various lines of oepration in the boys' departments.  It currently (1998) maintains buildings which usually have both recreational facilities and dormitories for dwelling.  It is usually called by its acronym <abbr>YMCA</abbr>.  See also the similar organizations <er>Young Women's Christian Association</er> and <er>YMHA</er>.</def><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Youngness</ent><br/

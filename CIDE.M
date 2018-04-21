@@ -2462,7 +2462,7 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>magnetic resonance imaging</ent><br/
-<hw>mag*net"ic res"on*ance im"ag*ing</hw> <pos>n.</pos> <fld>(Medicine)</fld>  <def>a medical diagnostic procedure utilizing the phenomenon of <er>nuclear magnetic resonance</er> to generate images of internal parts of the body.  It depends on the differential absorption of electromagnetic radiation by different types of living tissue in a magnetic field.  It is complementary to X-ray imaging in that the softer tissue show more prominently in magnetic resonance images, rather than bone, as with X-rays.  It is a non-invasive procedure, allowing such images to be obtained without penetration of the tissue by objects.  It is abbreviated <altname>MRI</altname>.  As with <er>computerized tomography</er>, the results are usually presented as images of sequential planar sections of that part of the body of concern to the physician.</def><br/
+<hw>mag*net"ic res"on*ance im"ag*ing</hw> <pos>n.</pos> <fld>(Medicine)</fld>  <def>a medical diagnostic procedure utilizing the phenomenon of <er>nuclear magnetic resonance</er> to generate images of internal parts of the body.  It depends on the differential absorption of electromagnetic radiation by different types of living tissue in a magnetic field.  It is complementary to X-ray imaging in that the softer tissue show more prominently in magnetic resonance images, rather than bone, as with X-rays.  It is a non-invasive procedure, allowing such images to be obtained without penetration of the tissue by objects.  It is abbreviated <abbr>MRI</abbr>.  As with <er>computerized tomography</er>, the results are usually presented as images of sequential planar sections of that part of the body of concern to the physician.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Magnetics</ent><br/
@@ -3755,7 +3755,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>main memory</ent><br/
-<hw>main memory</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>The memory in a computer that holds programs and data for rapid access during execution of a program; it usually hold the largest quantity of rapid-access storage in a computer; -- also called <altname>RAM</altname> (<altname>random access memory</altname>).  It is contrasted to <contr>ROM</contr>, <contr>disk data storage</contr>, <contr>cache</contr>, <contr>registers</contr> and other forms of data storage.</def><br/
+<hw>main memory</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>The memory in a computer that holds programs and data for rapid access during execution of a program; it usually hold the largest quantity of rapid-access storage in a computer; -- also called <abbr>RAM</abbr> (<altname>random access memory</altname>).  It is contrasted to <contr>ROM</contr>, <contr>disk data storage</contr>, <contr>cache</contr>, <contr>registers</contr> and other forms of data storage.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mainor</ent><br/
@@ -21873,7 +21873,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>methylenedioxymethamphetamine</ent><br/
-<hw>methylenedioxymethamphetamine</hw> <pos>n.</pos> <def>a drug designed to have the effects of amphetamines but to avoid the drug laws, but now a controlled substance.  Called also <altname>MDMA</altname>.</def><br/
+<hw>methylenedioxymethamphetamine</hw> <pos>n.</pos> <def>a drug designed to have the effects of amphetamines but to avoid the drug laws, but now a controlled substance.  Called also <abbr>MDMA</abbr>.</def><br/
 <syn><b>Syn. --</b> MDMA, Adam, ecstasy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -31327,7 +31327,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modus operandi</ent><br/
-\'d8<hw>Mo"dus op`er*an"di</hw> <pr>(<?/)</pr> <ety>[L.]</ety>, <def>manner of operating. Often abbreviated to <altname>MO</altname></def><br/
+\'d8<hw>Mo"dus op`er*an"di</hw> <pr>(<?/)</pr> <ety>[L.]</ety>, <def>manner of operating. Often abbreviated to <abbr>MO</abbr></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modus vivendi</ent><br/
@@ -43082,7 +43082,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mutual savings bank</ent><br/
-<hw>mutual savings bank</hw> <pos>n.</pos> <def>a state-chartered savings bank owned by its depositors and managed by a board of trustees.  Abbreviated <altname>MSB</altname>.</def><br/
+<hw>mutual savings bank</hw> <pos>n.</pos> <def>a state-chartered savings bank owned by its depositors and managed by a board of trustees.  Abbreviated <abbr>MSB</abbr>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mutuary</ent><br/
