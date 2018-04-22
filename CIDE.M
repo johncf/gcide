@@ -25314,7 +25314,7 @@ Into a manly stride.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Mil.)</fld> <def>An explosive device placed concealed in a location, on land or at sea, where an enemy vehicle or enemy personnel may pass through, having a triggering mechanism which detects people or vehicles, and which will explode and kill or maim personnel or destroy or damage vehicles.  A mine placed at sea (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{2} <sd>(a)</sd>) is also called an <ecol><b>marine mine</b></ecol> and <ecol><b>underwater mine</b></ecol> and sometimes called a <styp><ecol><b>floating mine</b></ecol></styp>, even though it may be anchored to the floor of the sea and not actually float freely.  A mine placed on land (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{3}), usually buried, is called a <ecol><b>land mine</b></ecol>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Mine dial</b></col>, <cd>a form of magnetic compass used by miners.</cd> -- <col><b>Mine pig</b></col>, <cd>pig iron made wholly from ore; in distinction from <contr>cinder pig</contr>, which is made from ore mixed with forge or mill cinder.</cd> -- <col><b>gold mine</b></col> <sd>(a)</sd> <cd>a mine where gold is obtained.</cd> <sd>(b)</sd> <mark>(Fig.)</mark> <cd>a rich source of wealth or other good; same as <er>Mine</er> 3.</cd></cs>  <rj><au>Raymond.</au></rj><br/
+<p><cs><col><b>Mine dial</b></col>, <cd>a form of magnetic compass used by miners.</cd> -- <col><b>Mine pig</b></col>, <cd>pig iron made wholly from ore; in distinction from <contr>cinder pig</contr>, which is made from ore mixed with forge or mill cinder.</cd> -- <col><b>gold mine</b></col> <sd>(a)</sd> <cd>a mine where gold is obtained.</cd> <sd>(b)</sd> <mark>(Fig.)</mark> <cd>a rich source of wealth or other good; same as <er>Mine</er>, <snr>3</snr>.</cd></cs>  <rj><au>Raymond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mined</ent><br/
@@ -39732,7 +39732,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muffish</ent><br/
-<hw>Muff"ish</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Muff</er>, <snr>4</snr> & 5.]</ety> <def>Stupid; awkward.</def> <mark>[Colloq.]</mark><br/
+<hw>Muff"ish</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Muff</er>, <snr>4</snr> & <snr>5</snr>.]</ety> <def>Stupid; awkward.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muffle</ent><br/

@@ -3413,7 +3413,7 @@ The tyrant's plea, excused his devilish deeds.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neckplate</ent><br/
-<hw>Neck"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gorget</er>, <snr>1</snr> and 2.</def><br/
+<hw>Neck"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gorget</er>, <snr>1</snr> & <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Necktie</ent><br/

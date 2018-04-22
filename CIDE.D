@@ -43464,7 +43464,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doublets</ent><br/
-<hw>Doub"lets</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Doublet</er>, <snr>6</snr> and 7.</def><br/
+<hw>Doub"lets</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Doublet</er>, <snr>6</snr> & <snr>7</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doubling</ent><br/

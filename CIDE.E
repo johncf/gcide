@@ -25988,7 +25988,7 @@ When death's approach is seen so terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Evolutionism</ent><br/
-<hw>Ev`o*lu"tion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The theory of, or belief in, evolution. See <er>Evolution</er>, <snr>6</snr> and 7.</def><br/
+<hw>Ev`o*lu"tion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The theory of, or belief in, evolution. See <er>Evolution</er>, <snr>6</snr> & <snr>7</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Evolutionist</ent><br/

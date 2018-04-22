@@ -36982,7 +36982,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubblestone</ent><br/
-<hw>Rub"ble*stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Rubble</er>, <snr>1</snr> and 2.</def><br/
+<hw>Rub"ble*stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Rubble</er>, <snr>1</snr> & <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubblework</ent><br/

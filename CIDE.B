@@ -22302,7 +22302,7 @@ The case of his patient.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>blabby</ent><br/
-<hw>blab"by</hw> <pos>adj.</pos>  <def>same as <er>blabbermouthed</er> 1.</def><br/
+<hw>blab"by</hw> <pos>adj.</pos>  <def>same as <er>blabbermouthed</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> bigmouthed, blabbermouthed, talkative.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 

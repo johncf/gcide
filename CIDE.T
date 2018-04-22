@@ -34416,7 +34416,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trior</ent><br/
-<hw>Tri"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Trier</er>, <snr>2</snr> and 3.</def><br/
+<hw>Tri"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Trier</er>, <snr>2</snr> & <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triose</ent><br/
