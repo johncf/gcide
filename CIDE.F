@@ -13647,7 +13647,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>firecracker</ent><br/
-<hw>fire"crack`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A small explosive device consisting of a paper or cardboard cylinder having only sufficient explosive mixture to make a loud bang, ignited by a short fuse, and used mostly as an entertainment or in celebrations. Same as  <er>Cracker</er>., <pos>n.</pos>, <snr>3</snr>.</def><br/
+<hw>fire"crack`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A small explosive device consisting of a paper or cardboard cylinder having only sufficient explosive mixture to make a loud bang, ignited by a short fuse, and used mostly as an entertainment or in celebrations. Same as  <er>Cracker</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Firecrest</ent><br/

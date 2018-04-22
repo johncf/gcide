@@ -17680,7 +17680,7 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 <hw>Grains</hw> <pr>(gr<amac/nz)</pr>, <pos>n. pl.</pos> <sn>1.</sn> <def>See 5th <er>Grain</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Pigeon's dung used in tanning.  See <er>Grainer.</er> <pos>n.</pos>, <snr>1</snr>.</def><br/
+<p><sn>2.</sn> <def>Pigeon's dung used in tanning.  See <er>Grainer</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grainy</ent><br/

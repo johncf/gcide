@@ -446,7 +446,7 @@ Blown <qex>vagabond</qex> or frustrate.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>A fugitive and a <qex>vagabond</qex> shalt thou be.</q> <rj><qau>Gen. iv. 12.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In English and American law, <xex>vagabond</xex> is used in bad sense, denoting one who is without a home; a strolling, idle, worthless person. <xex>Vagabonds</xex> are described in old English statutes as <ldquo/such as wake on the night and sleep on the day, and haunt customable taverns and alehouses, and routs about; and no man wot from whence they came, nor whither they go.<rdquo/ In American law, the term <xex>vagrant</xex> is employed in the same sense. Cf <er>Rogue</er>, <pos>n.</pos>, <snr>1</snr>.  <rj><au>Burrill.</au>  <au>Bouvier.</au></rj>
+<p><note><hand/ In English and American law, <xex>vagabond</xex> is used in bad sense, denoting one who is without a home; a strolling, idle, worthless person. <xex>Vagabonds</xex> are described in old English statutes as <ldquo/such as wake on the night and sleep on the day, and haunt customable taverns and alehouses, and routs about; and no man wot from whence they came, nor whither they go.<rdquo/ In American law, the term <xex>vagrant</xex> is employed in the same sense. Cf. <er>Rogue</er>, <pos>n.</pos>, <snr>1</snr>.  <rj><au>Burrill.</au>  <au>Bouvier.</au></rj>
 </note><br/
 [<source>1913 Webster</source>]</p>
 

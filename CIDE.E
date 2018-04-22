@@ -25464,7 +25464,7 @@ Therefore our <qex>everlasting</qex> farewell take;<br/
 Forever, and forever farewell, Cassius.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Everlasting flower</b></col>. <cd>Sane as <er>Everlasting</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Everlasting pea</b></col>, <cd>an ornamental plant (<spn>Lathyrus latifolius</spn>) related to the pea; -- so called because it is perennial.</cd></cs><br/
+<p><cs><col><b>Everlasting flower</b></col>. <cd>Same as <er>Everlasting</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Everlasting pea</b></col>, <cd>an ornamental plant (<spn>Lathyrus latifolius</spn>) related to the pea; -- so called because it is perennial.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Everlasting</ent><br/
@@ -33178,7 +33178,7 @@ To his confine.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Mus.)</fld> <def>Extended or contracted as much as possible; -- said of intervals; <as>as, an <ex>extreme</ex> sharp second; an <ex>extreme</ex> flat forth.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Extreme and mean ratio</b></col> <fld>(Geom.)</fld>, <cd>the relation of a line and its segments when the line is so divided that the whole is to the greater segment is to the less.</cd> -- <col><b>Extreme distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Distance</er>., <pos>n.</pos>, <snr>6</snr>.</cd> -- <col><b>Extreme unction</b></col>. <cd>See under <er>Unction</er>.</cd></cs><br/
+<p><cs><col><b>Extreme and mean ratio</b></col> <fld>(Geom.)</fld>, <cd>the relation of a line and its segments when the line is so divided that the whole is to the greater segment is to the less.</cd> -- <col><b>Extreme distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Distance</er>, <pos>n.</pos>, <snr>6</snr>.</cd> -- <col><b>Extreme unction</b></col>. <cd>See under <er>Unction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Although this adjective, being superlative in signification, is not properly subject to comparison, the superlative form not unfrequently occurs, especially in the older writers. <ldquo/Tried in his <xex>extremest</xex> state.<rdquo/ <au>Spenser.</au> <ldquo/<xex>Extremest</xex> hardships.<rdquo/ <au>Sharp.</au>  <ldquo/<xex>Extremest</xex> of evils.<rdquo/ <au>Bacon.</au> <ldquo/<xex>Extremest</xex> verge of the swift brook.<rdquo/ <au>Shak.</au> <ldquo/The sea's <xex>extremest</xex> borders.<rdquo/ <au>Addison.</au></note><br/

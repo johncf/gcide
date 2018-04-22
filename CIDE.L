@@ -3388,7 +3388,7 @@ The king himself divulged, the <qex>land</qex> believed.</q> <rj><qau>Dryden.</q
 <p><sn>4.</sn> <fld>(Aeronautics)</fld> <def>The act or process of bringing an aircraft to land after having been in the air; <as>as, the pilot made a perfect three-point <ex>landing</ex></as>.  Contrasted with <contr>take-off</contr>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Landing place</b></col>. <cd>me as <er>Landing</er>, <pos>n.</pos>, <snr>2</snr> & <snr>3</snr>.</cd></cs><br/
+<p><cs><col><b>Landing place</b></col>. <cd>Same as <er>Landing</er>, <pos>n.</pos>, <snr>2</snr> & <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>landing gear</ent><br/
