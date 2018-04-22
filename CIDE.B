@@ -639,7 +639,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 <p><cs><mcol><col><b>Hop back</b></col>, <col><b>Jack back</b></col></mcol>, <cd>the cistern which receives the infusion of malt and hops from the copper.</cd> --  <col><b>Wash back</b></col>, <cd>a vat in which distillers ferment the wort to form wash.</cd> -- <col><b>Water back</b></col>, <cd>a cistern to hold a supply of water; esp. a small cistern at the back of a stove, or a group of pipes set in the fire box of a stove or furnace, through which water circulates and is heated.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A ferryboat.  See <er>Bac</er>, 1.</def><br/
+<p><sn>2.</sn> <def>A ferryboat.  See <er>Bac</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Back</ent><br/
@@ -4671,7 +4671,7 @@ Neptune's smooth face, and cleave the yielding deep.</q> <rj><qau>Waller.</qau><
 <p><note><hand/ In the United States popularly called a <altname>bank bill</altname>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Formerly, a promissory note made by a banker, or banking company, payable to a specified person at a fixed date; a bank bill. See <er>Bank bill</er>, 2.</def> <mark>[Obs.]</mark><br/
+<p><sn>2.</sn> <def>Formerly, a promissory note made by a banker, or banking company, payable to a specified person at a fixed date; a bank bill. See <er>Bank bill</er>, <snr>2</snr>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A promissory note payable at a bank.</def><br/
@@ -5476,7 +5476,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A large fresh-water fish (<spn>Barbus vulgaris</spn>) found in many European rivers. Its upper jaw is furnished with four barbels.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <pluf>pl.</pluf> <def>Barbs or paps under the tongues of horses and cattle. See 1st <er>Barb</er>, 3.</def><br/
+<p><sn>3.</sn> <pluf>pl.</pluf> <def>Barbs or paps under the tongues of horses and cattle. See 1st <er>Barb</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>barbell</ent><br/
@@ -7783,7 +7783,7 @@ Your piquet parties, and your dear <qex>basset</qex>.</q> <rj><qau>Rowe.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bassock</ent><br/
-<hw>Bas"sock</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A hassock. See 2d <er>Bass</er>, 2.</def><br/
+<hw>Bas"sock</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A hassock. See 2d <er>Bass</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bassoon</ent><br/
@@ -7826,7 +7826,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>Bast</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[AS. <ets>b<ae/st</ets>; akin to Icel., Sw., Dan., D., & G. <ets>bast</ets>, of unknown origin. Cf. <er>Bass</er> the tree.]</ety> <sn>1.</sn> <def>The inner fibrous bark of various plants; esp. of the lime tree; hence, matting, cordage, etc., made therefrom.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A thick mat or hassock. See 2d <er>Bass</er>, 2.</def><br/
+<p><sn>2.</sn> <def>A thick mat or hassock. See 2d <er>Bass</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Basta</ent><br/
@@ -9692,7 +9692,7 @@ The <qex>beacon</qex> of the wise.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Beak"head`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Arch.)</fld> <def>An ornament used in rich Norman doorways, resembling a head with a beak.</def>  <rj><au>Parker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A small platform at the fore part of the upper deck of a vessel, which contains the water closets of the crew.</def> <sd>(b)</sd> <fld>(Antiq.)</fld> <def>Same as <er>Beak</er>, 3.</def><br/
+<p><sn>2.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A small platform at the fore part of the upper deck of a vessel, which contains the water closets of the crew.</def> <sd>(b)</sd> <fld>(Antiq.)</fld> <def>Same as <er>Beak</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Beakiron</ent><br/
@@ -14986,7 +14986,7 @@ Followed with <qex>benediction</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Striped gingham, originally brought from Bengal; Bengal stripes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bengal light</b></col>, <cd>a firework containing niter, sulphur, and antimony, and producing a sustained and vivid colored light, used in making signals and in pyrotechnics; -- called also <altname>blue light</altname>.</cd> -- <col><b>Bengal stripes</b></col>, <cd>a kind of cotton cloth woven with colored stripes. See <er>Bengal</er>, 3.</cd> -- <col><b>Bengal tiger</b></col>. <fld>(Zool.)</fld>. <cd>See <er>Tiger</er>.</cd></cs><br/
+<p><cs><col><b>Bengal light</b></col>, <cd>a firework containing niter, sulphur, and antimony, and producing a sustained and vivid colored light, used in making signals and in pyrotechnics; -- called also <altname>blue light</altname>.</cd> -- <col><b>Bengal stripes</b></col>, <cd>a kind of cotton cloth woven with colored stripes. See <er>Bengal</er>, <snr>3</snr>.</cd> -- <col><b>Bengal tiger</b></col>. <fld>(Zool.)</fld>. <cd>See <er>Tiger</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bengali</ent><br/
@@ -22460,7 +22460,7 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Black" bass`</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <sn>1.</sn> <def>An edible, fresh-water fish of the United States, of the genus <gen>Micropterus</gen>.  The small-mouthed kind is <spn>Micropterus dolomie<imac/</spn>; the large-mouthed is <spn>Micropterus salmoides</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>The sea bass. See <er>Blackfish</er>, 3.</def><br/
+<p><sn>2.</sn> <def>The sea bass. See <er>Blackfish</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Black belt</ent><br/
@@ -23207,7 +23207,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bladebone</ent><br/
-<hw>Blade"bone`</hw> <pr>(-b<omac/n`)</pr>, <pos>n.</pos> <def>The scapula. See <er>Blade</er>, 4.</def><br/
+<hw>Blade"bone`</hw> <pr>(-b<omac/n`)</pr>, <pos>n.</pos> <def>The scapula. See <er>Blade</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bladed</ent><br/
@@ -24331,7 +24331,7 @@ Do give thee fivefold <qex>blazon</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blazonry</ent><br/
-<hw>Bla"zon*ry</hw>, <pos>n.</pos> <sn>1.</sn> <def>Same as <er>Blazon</er>, 3.</def><br/
+<hw>Bla"zon*ry</hw>, <pos>n.</pos> <sn>1.</sn> <def>Same as <er>Blazon</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The principles of <qex>blazonry</qex>.</q> <rj><qau>Peacham.</qau></rj><br/
@@ -25448,7 +25448,7 @@ Full and perfect is.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blissus</ent><br/
-<hw>Blissus</hw> <pos>n.</pos> <def>a genus comprising the chinch bugs.  See <er>chinch</er>, 2.</def><br/
+<hw>Blissus</hw> <pos>n.</pos> <def>a genus comprising the chinch bugs.  See <er>chinch</er>, <snr>2</snr>.</def><br/
 <syn><b>Syn. --</b> genus <gen>Blissus</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -30785,7 +30785,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 <hw>Bon"net*ed</hw>, <pos>a.</pos> <sn>1.</sn> <def>Wearing a bonnet.</def> <ldquo/<xex>Bonneted</xex> and shawled.<rdquo/  <rj><au>Howitt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Fort.)</fld> <def>Protected by a bonnet. See <er>Bonnet</er>, 4 <sdr>(a)</sdr>.</def><br/
+<p><sn>2.</sn> <fld>(Fort.)</fld> <def>Protected by a bonnet. See <er>Bonnet</er>, <snr>4</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>bonnethead</ent><br/
@@ -33062,7 +33062,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Bot"tle*head`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A cetacean allied to the grampus; -- called also <altname>bottle-nosed whale</altname><-- bottle-nosed dolphin? -->.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ There are several species so named, as the pilot whales, of the genus <gen>Globicephalus</gen>, and one or more species of <gen>Hypero<oum/don</gen> (<spn>Hypero<oum/don bidens</spn>, etc.), found on the European coast. See <er>Blackfish</er>, 1.</note><br/
+<p><note><hand/ There are several species so named, as the pilot whales, of the genus <gen>Globicephalus</gen>, and one or more species of <gen>Hypero<oum/don</gen> (<spn>Hypero<oum/don bidens</spn>, etc.), found on the European coast. See <er>Blackfish</er>, <snr>1</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bottleholder</ent><br/
@@ -33350,7 +33350,7 @@ You must provide to <qex>bottom</qex> it on me.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bouge</ent><br/
-<hw>Bouge</hw>, <pos>n.</pos> <ety>[F. <ets>bouche</ets> mouth, victuals.]</ety> <def>Bouche (see <er>Bouche</er>, 2); food and drink; provisions.</def> <mark>[Obs.]</mark><br/
+<hw>Bouge</hw>, <pos>n.</pos> <ety>[F. <ets>bouche</ets> mouth, victuals.]</ety> <def>Bouche (see <er>Bouche</er>, <snr>2</snr>); food and drink; provisions.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q> [They] made room for a bombardman that brought <qex>bouge</qex> for a country lady or two, that fainted . . . with fasting.</q> <rj><qau>B. Jonson.</qau></rj><br/
@@ -39202,7 +39202,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bridal</ent><br/
-<hw>Brid"al</hw>, <pos>n.</pos> <ety>[OE. <ets>bridale</ets>, <ets>brudale</ets>, AS. <ets>br<ymac/dealo</ets> brideale, bridal feast. See <er>Bride</er>, and <er>Ale</er>, 2.]</ety> <def>A nuptial festival or ceremony; a marriage.</def><br/
+<hw>Brid"al</hw>, <pos>n.</pos> <ety>[OE. <ets>bridale</ets>, <ets>brudale</ets>, AS. <ets>br<ymac/dealo</ets> brideale, bridal feast. See <er>Bride</er>, and <er>Ale</er>, <snr>2</snr>.]</ety> <def>A nuptial festival or ceremony; a marriage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Sweet day, so cool, so calm, so bright,<br/
@@ -39403,7 +39403,7 @@ Round about the <qex>bridestake</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A span of rope, line, or chain made fast as both ends, so that another rope, line, or chain may be attached to its middle.</def> <sd>(b)</sd> <def>A mooring hawser.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bowline bridle</b></col>. <cd>See under <er>Bowline</er>.</cd> -- <col><b>Branches of a bridle</b></col>. <cd>See under <er>Branch</er>.</cd> -- <col><b>Bridle cable</b></col> <fld>(Naut.)</fld>, <cd>a cable which is bent to a bridle. See 4, above.</cd> -- <col><b>Bridle hand</b></col>, <cd>the hand which holds the bridle in riding; the left hand.</cd> -- <mcol><col><b>Bridle path</b></col>, <col><b>Bridle way</b></col></mcol>, <cd>a path or way for saddle horses and pack horses, as distinguished from a road for vehicles.</cd> -- <col><b>Bridle port</b></col> <fld>(Naut.)</fld>, <cd>a porthole or opening in the bow through which hawsers, mooring or bridle cables, etc., are passed.</cd> -- <col><b>Bridle rein</b></col>, <cd>a rein attached to the bit.</cd> -- <col><b>Bridle road</b></col>. <sd>(a)</sd> <cd>Same as <cref>Bridle path</cref>.</cd> <au>Lowell.</au> <sd>(b)</sd> <cd>A road in a pleasure park reserved for horseback exercise.</cd> -- <col><b>Bridle track</b></col>, <cd>a bridle path.</cd> -- <col><b>Scolding bridle</b></col>. <cd>See <er>Branks</er>, 2.</cd></cs><br/
+<p><cs><col><b>Bowline bridle</b></col>. <cd>See under <er>Bowline</er>.</cd> -- <col><b>Branches of a bridle</b></col>. <cd>See under <er>Branch</er>.</cd> -- <col><b>Bridle cable</b></col> <fld>(Naut.)</fld>, <cd>a cable which is bent to a bridle. See 4, above.</cd> -- <col><b>Bridle hand</b></col>, <cd>the hand which holds the bridle in riding; the left hand.</cd> -- <mcol><col><b>Bridle path</b></col>, <col><b>Bridle way</b></col></mcol>, <cd>a path or way for saddle horses and pack horses, as distinguished from a road for vehicles.</cd> -- <col><b>Bridle port</b></col> <fld>(Naut.)</fld>, <cd>a porthole or opening in the bow through which hawsers, mooring or bridle cables, etc., are passed.</cd> -- <col><b>Bridle rein</b></col>, <cd>a rein attached to the bit.</cd> -- <col><b>Bridle road</b></col>. <sd>(a)</sd> <cd>Same as <cref>Bridle path</cref>.</cd> <au>Lowell.</au> <sd>(b)</sd> <cd>A road in a pleasure park reserved for horseback exercise.</cd> -- <col><b>Bridle track</b></col>, <cd>a bridle path.</cd> -- <col><b>Scolding bridle</b></col>. <cd>See <er>Branks</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- A check; restrain.</syn><br/
@@ -43765,7 +43765,7 @@ Turns you from sound philosophy aside.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buffing apparatus</ent><br/
-<hw>Buff"ing ap`pa*ra"tus</hw> <pr>(<?/)</pr>. <def>See <er>Buffer</er>, 1.</def><br/
+<hw>Buff"ing ap`pa*ra"tus</hw> <pr>(<?/)</pr>. <def>See <er>Buffer</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buffle</ent><br/
@@ -44237,7 +44237,7 @@ Have cost a mass of public treasury.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A swelling, protuberant part; a bending outward, esp. when caused by pressure; <as>as, a <ex>bulge</ex> in a wall</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Naut.)</fld> <def>The bilge of a vessel. See <er>Bilge</er>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Naut.)</fld> <def>The bilge of a vessel. See <er>Bilge</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Bulge ways</b></col>. <fld>(Naut.)</fld> <cd>See <er>Bilge ways</er>.</cd></cs><br/
@@ -44717,7 +44717,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bullock's-eye</ent><br/
-<hw>Bul"lock's-eye`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Bull's-eye</er>, 3.</def><br/
+<hw>Bul"lock's-eye`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Bull's-eye</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bullon</ent><br/
@@ -44732,7 +44732,7 @@ And damm for <qex>bullion</qex>, go for current now.</q> <rj><qau>Sylvester.</qa
 [<source>PJC</source>]</p>
 
 <p><ent>Bullpout</ent><br/
-<hw>Bull"pout`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Bullhead</er>, 1 <sdr>(b)</sdr>.</def><br/
+<hw>Bull"pout`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Bullhead</er>, <snr>1</snr> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bull-roarer</ent><br/
@@ -45946,7 +45946,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ Before the Revolution, the representatives in the popular branch of the legislature of Virginia were called <xex>burgesses</xex>; they are now called <xex>delegates</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Burgess oath</b></col>. <cd>See <er>Burgher</er>, 2.</cd></cs><br/
+<p><cs><col><b>Burgess oath</b></col>. <cd>See <er>Burgher</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Burgess-ship</ent><br/
@@ -46535,7 +46535,7 @@ And spread and <qex>burnish</qex> as his brothers do.</q> <rj><qau>Dryden.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Burr</ent><br/
-<hw>Burr</hw> <pr>(b<ucir/r)</pr>, <pos>n.</pos> <ety>[See <er>Bur</er>.]</ety> <fld>(Bot.)</fld> <sn>1.</sn> <def>A prickly seed vessel. See <er>Bur</er>, 1.</def><br/
+<hw>Burr</hw> <pr>(b<ucir/r)</pr>, <pos>n.</pos> <ety>[See <er>Bur</er>.]</ety> <fld>(Bot.)</fld> <sn>1.</sn> <def>A prickly seed vessel. See <er>Bur</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The thin edge or ridge left by a tool in cutting or shaping metal, as in turning, engraving, pressing, etc.; also, the rough neck left on a bullet in casting.</def><br/
@@ -46916,7 +46916,7 @@ In this I <qex>bury</qex> all unkindness, Cassius.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>5.</sn> <fld>(Hunting)</fld> <def>The tail, or brush, of a fox.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To beat about the bush</b></col>, <cd>to approach anything in a round-about manner, instead of coming directly to it; -- a metaphor taken from hunting.</cd> -- <col><b>Bush bean</b></col> <fld>(Bot.)</fld>, <cd>a variety of bean which is low and requires no support (<spn>Phaseolus vulgaris</spn>, variety <varn>nanus</varn>). See <er>Bean</er>, 1.</cd> -- <mcol><col><b>Bush buck</b></col>, <it>or</it> <col><b>Bush goat</b></col></mcol> <fld>(Zool.)</fld>, <cd>a beautiful South African antelope (<spn>Tragelaphus sylvaticus</spn>); -- so called because found mainly in wooden localities. The name is also applied to other species.</cd> -- <col><b>Bush cat</b></col> <fld>(Zool.)</fld>, <cd>the serval. See <er>Serval</er>.</cd> -- <col><b>Bush chat</b></col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Pratincola</gen>, of the Thrush family.</cd> -- <col><b>Bush dog</b></col>. <fld>(Zool.)</fld> <cd>See <er>Potto</er>.</cd> -- <col><b>Bush hammer</b></col>. <cd>See <er>Bushhammer</er> in the Vocabulary.</cd> -- <col><b>Bush harrow</b></col> <fld>(Agric.)</fld> <cd>See under <er>Harrow</er>.</cd> -- <col><b>Bush hog</b></col> <fld>(Zool.)</fld>, <cd>a South African wild hog (<spn>Potamoch<oe/rus Africanus</spn>); -- called also <altname>bush pig</altname>, and <altname>water hog</altname>.</cd> -- <col><b>Bush master</b></col> <fld>(Zool.)</fld>, <cd>a venomous snake (<spn>Lachesis mutus</spn>) of Guinea; -- called also <altname>surucucu</altname>.</cd> -- <col><b>Bush pea</b></col> <fld>(Bot.)</fld>, <cd>a variety of pea that needs to be bushed.</cd> -- <col><b>Bush shrike</b></col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Thamnophilus</gen>, and allied genera; -- called also <altname>batarg</altname>. Many species inhabit tropical America.</cd> -- <col><b>Bush tit</b></col> <fld>(Zool.)</fld>, <cd>a small bird of the genus <gen>Psaltriparus</gen>, allied to the titmouse. <spn>Psaltriparus minimus</spn> inhabits California.</cd></cs><br/
+<p><cs><col><b>To beat about the bush</b></col>, <cd>to approach anything in a round-about manner, instead of coming directly to it; -- a metaphor taken from hunting.</cd> -- <col><b>Bush bean</b></col> <fld>(Bot.)</fld>, <cd>a variety of bean which is low and requires no support (<spn>Phaseolus vulgaris</spn>, variety <varn>nanus</varn>). See <er>Bean</er>, <snr>1</snr>.</cd> -- <mcol><col><b>Bush buck</b></col>, <it>or</it> <col><b>Bush goat</b></col></mcol> <fld>(Zool.)</fld>, <cd>a beautiful South African antelope (<spn>Tragelaphus sylvaticus</spn>); -- so called because found mainly in wooden localities. The name is also applied to other species.</cd> -- <col><b>Bush cat</b></col> <fld>(Zool.)</fld>, <cd>the serval. See <er>Serval</er>.</cd> -- <col><b>Bush chat</b></col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Pratincola</gen>, of the Thrush family.</cd> -- <col><b>Bush dog</b></col>. <fld>(Zool.)</fld> <cd>See <er>Potto</er>.</cd> -- <col><b>Bush hammer</b></col>. <cd>See <er>Bushhammer</er> in the Vocabulary.</cd> -- <col><b>Bush harrow</b></col> <fld>(Agric.)</fld> <cd>See under <er>Harrow</er>.</cd> -- <col><b>Bush hog</b></col> <fld>(Zool.)</fld>, <cd>a South African wild hog (<spn>Potamoch<oe/rus Africanus</spn>); -- called also <altname>bush pig</altname>, and <altname>water hog</altname>.</cd> -- <col><b>Bush master</b></col> <fld>(Zool.)</fld>, <cd>a venomous snake (<spn>Lachesis mutus</spn>) of Guinea; -- called also <altname>surucucu</altname>.</cd> -- <col><b>Bush pea</b></col> <fld>(Bot.)</fld>, <cd>a variety of pea that needs to be bushed.</cd> -- <col><b>Bush shrike</b></col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Thamnophilus</gen>, and allied genera; -- called also <altname>batarg</altname>. Many species inhabit tropical America.</cd> -- <col><b>Bush tit</b></col> <fld>(Zool.)</fld>, <cd>a small bird of the genus <gen>Psaltriparus</gen>, allied to the titmouse. <spn>Psaltriparus minimus</spn> inhabits California.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bush</ent><br/
@@ -47964,7 +47964,7 @@ My bread is <qex>buttered</qex>.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Butt hinge</ent><br/
-<hw>Butt" hinge`</hw> <pr>(<?/)</pr>. <def>See 1st <er>Butt</er>, 10.</def><br/
+<hw>Butt" hinge`</hw> <pr>(<?/)</pr>. <def>See 1st <er>Butt</er>, <snr>10</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>But-thorn</ent><br/
@@ -47983,7 +47983,7 @@ My bread is <qex>buttered</qex>.</q> <rj><qau>Ford.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Butt joint</ent><br/
-<hw>Butt" joint`</hw> <pr>(<?/)</pr>. <def>A joint in which the edges or ends of the pieces united come squarely together instead of overlapping. See 1st <er>Butt</er>, 8.</def><br/
+<hw>Butt" joint`</hw> <pr>(<?/)</pr>. <def>A joint in which the edges or ends of the pieces united come squarely together instead of overlapping. See 1st <er>Butt</er>, <snr>8</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Buttock</ent><br/

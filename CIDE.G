@@ -359,7 +359,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>The spar upon which the upper edge of a fore-and-aft sail is extended.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Same as <er>Gaffle</er>, 1.</def>  <rj><au>Wright.</au></rj><br/
+<p><sn>3.</sn> <def>Same as <er>Gaffle</er>, <snr>1</snr>.</def>  <rj><au>Wright.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gaff</ent><br/
@@ -3370,7 +3370,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ <xex>Gas</xex> is often used adjectively or in combination; as, <xex>gas</xex> fitter or <xex>gas</xex>fitter; <xex>gas</xex> meter or <xex>gas</xex>-meter, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Air gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing air through some volatile hydrocarbon, as the lighter petroleums. The air is so saturated with combustible vapor as to be a convenient illuminating and heating agent.</cd> -- <col><b>Gas battery</b></col> <fld>(Elec.)</fld>, <cd>a form of voltaic battery, in which gases, especially hydrogen and oxygen, are the active agents.</cd> -- <mcol><col><b>Gas carbon</b></col>, <col><b>Gas coke</b></col></mcol>, <cd>etc. See under <er>Carbon</er>, <er>Coke</er>, etc.</cd> -- <col><b>Gas coal</b></col>, <cd>a bituminous or hydrogenous coal yielding a high percentage of volatile matters, and therefore available for the manufacture of illuminating gas.</cd> <au>R. W. Raymond.</au> -- <col><b>Gas engine</b></col>, <cd>an engine in which the motion of the piston is produced by the combustion or sudden production or expansion of gas; -- especially, an engine in which an explosive mixture of gas and air is forced into the working cylinder and ignited there by a gas flame or an electric spark.</cd><-- = internal combustion engine --> -- <col><b>Gas fitter</b></col>, <cd>one who lays pipes and puts up fixtures for gas.</cd> -- <col><b>Gas fitting</b></col>. <sd>(a)</sd> <cd>The occupation of a gas fitter.</cd> <sd>(b)</sd> <pluf>pl.</pluf> <cd>The appliances needed for the introduction of gas into a building, as meters, pipes, burners, etc.</cd> -- <col><b>Gas fixture</b></col>, <cd>a device for conveying illuminating or combustible gas from the pipe to the gas-burner, consisting of an appendage of cast, wrought, or drawn metal, with tubes upon which the burners, keys, etc., are adjusted.</cd> -- <col><b>Gas generator</b></col>, <cd>an apparatus in which gas is evolved</cd>; as: <sd>(a)</sd> <cd>a retort in which volatile hydrocarbons are evolved by heat</cd>; <sd>(b)</sd> <cd>a machine in which air is saturated with the vapor of liquid hydrocarbon; a carburetor</cd>; <sd>(c)</sd> <cd>a machine for the production of carbonic acid gas, for a<eum/rating water, bread, etc.</cd> <au>Knight.</au> -- <col><b>Gas jet</b></col>, <cd>a flame of illuminating gas.</cd> -- <col><b>Gas machine</b></col>, <cd>an apparatus for carbureting air for use as illuminating gas.</cd> -- <col><b>Gas meter</b></col>, <cd>an instrument for recording the quantity of gas consumed in a given time, at a particular place.</cd> -- <col><b>Gas retort</b></col>, <cd>a retort which contains the coal and other materials, and in which the gas is generated, in the manufacture of gas.</cd> -- <col><b>Gas stove</b></col>, <cd>a stove for cooking or other purposes, heated by gas.</cd> -- <col><b>Gas tar</b></col>, <cd>coal tar.</cd> -- <col><b>Gas trap</b></col>, <cd>a drain trap; a sewer trap. See 4th <er>Trap</er>, 5.</cd> -- <col><b>Gas washer</b></col> <fld>(Gas Works)</fld>, <cd>an apparatus within which gas from the condenser is brought in contact with a falling stream of water, to precipitate the tar remaining in it.</cd> <au>Knight.</au> -- <col><b>Gas water</b></col>, <cd>water through which gas has been passed for purification; -- called also <altname>gas liquor</altname> and <altname>ammoniacal water</altname>, and used for the manufacture of sal ammoniac, carbonate of ammonia, and Prussian blue.</cd> <au>Tomlinson.</au> -- <col><b>Gas well</b></col>, <cd>a deep boring, from which natural gas is discharged.</cd> <au>Raymond.</au> -- <col><b>Gas works</b></col>, <cd>a manufactory of gas, with all the machinery and appurtenances; a place where gas is generated for lighting cities.</cd> -- <col><b>Laughing gas</b></col>. <cd>See under <er>Laughing</er>.</cd> -- <col><b>Marsh gas</b></col> <fld>(Chem.)</fld>, <cd>a light, combustible, gaseous hydrocarbon, <chform>CH4</chform>, produced artificially by the dry distillation of many organic substances, and occurring as a natural product of decomposition in stagnant pools, whence its name. It is an abundant ingredient of ordinary illuminating gas, and is the first member of the paraffin series. Called also <altname>methane</altname>, and in coal mines, <altname>fire damp</altname>.</cd> -- <col><b>Natural gas</b></col>, <cd>gas obtained from wells, etc., in Pennsylvania, Ohio, and elsewhere, and largely used for fuel and illuminating purposes. It is chiefly derived from the Coal Measures.</cd> -- <col><b>Olefiant gas</b></col> <fld>(Chem.)</fld>. <cd>See <er>Ethylene</er>.</cd> -- <col><b>Water gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing steam over glowing coals, whereby there results a mixture of hydrogen and carbon monoxide. This gives a gas of intense heating power, but destitute of light-giving properties, and which is charged by passing through some volatile hydrocarbon, as gasoline.<-- = <altname>synthesis gas</altname> --></cd></cs><br/
+<p><cs><col><b>Air gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing air through some volatile hydrocarbon, as the lighter petroleums. The air is so saturated with combustible vapor as to be a convenient illuminating and heating agent.</cd> -- <col><b>Gas battery</b></col> <fld>(Elec.)</fld>, <cd>a form of voltaic battery, in which gases, especially hydrogen and oxygen, are the active agents.</cd> -- <mcol><col><b>Gas carbon</b></col>, <col><b>Gas coke</b></col></mcol>, <cd>etc. See under <er>Carbon</er>, <er>Coke</er>, etc.</cd> -- <col><b>Gas coal</b></col>, <cd>a bituminous or hydrogenous coal yielding a high percentage of volatile matters, and therefore available for the manufacture of illuminating gas.</cd> <au>R. W. Raymond.</au> -- <col><b>Gas engine</b></col>, <cd>an engine in which the motion of the piston is produced by the combustion or sudden production or expansion of gas; -- especially, an engine in which an explosive mixture of gas and air is forced into the working cylinder and ignited there by a gas flame or an electric spark.</cd><-- = internal combustion engine --> -- <col><b>Gas fitter</b></col>, <cd>one who lays pipes and puts up fixtures for gas.</cd> -- <col><b>Gas fitting</b></col>. <sd>(a)</sd> <cd>The occupation of a gas fitter.</cd> <sd>(b)</sd> <pluf>pl.</pluf> <cd>The appliances needed for the introduction of gas into a building, as meters, pipes, burners, etc.</cd> -- <col><b>Gas fixture</b></col>, <cd>a device for conveying illuminating or combustible gas from the pipe to the gas-burner, consisting of an appendage of cast, wrought, or drawn metal, with tubes upon which the burners, keys, etc., are adjusted.</cd> -- <col><b>Gas generator</b></col>, <cd>an apparatus in which gas is evolved</cd>; as: <sd>(a)</sd> <cd>a retort in which volatile hydrocarbons are evolved by heat</cd>; <sd>(b)</sd> <cd>a machine in which air is saturated with the vapor of liquid hydrocarbon; a carburetor</cd>; <sd>(c)</sd> <cd>a machine for the production of carbonic acid gas, for a<eum/rating water, bread, etc.</cd> <au>Knight.</au> -- <col><b>Gas jet</b></col>, <cd>a flame of illuminating gas.</cd> -- <col><b>Gas machine</b></col>, <cd>an apparatus for carbureting air for use as illuminating gas.</cd> -- <col><b>Gas meter</b></col>, <cd>an instrument for recording the quantity of gas consumed in a given time, at a particular place.</cd> -- <col><b>Gas retort</b></col>, <cd>a retort which contains the coal and other materials, and in which the gas is generated, in the manufacture of gas.</cd> -- <col><b>Gas stove</b></col>, <cd>a stove for cooking or other purposes, heated by gas.</cd> -- <col><b>Gas tar</b></col>, <cd>coal tar.</cd> -- <col><b>Gas trap</b></col>, <cd>a drain trap; a sewer trap. See 4th <er>Trap</er>, <snr>5</snr>.</cd> -- <col><b>Gas washer</b></col> <fld>(Gas Works)</fld>, <cd>an apparatus within which gas from the condenser is brought in contact with a falling stream of water, to precipitate the tar remaining in it.</cd> <au>Knight.</au> -- <col><b>Gas water</b></col>, <cd>water through which gas has been passed for purification; -- called also <altname>gas liquor</altname> and <altname>ammoniacal water</altname>, and used for the manufacture of sal ammoniac, carbonate of ammonia, and Prussian blue.</cd> <au>Tomlinson.</au> -- <col><b>Gas well</b></col>, <cd>a deep boring, from which natural gas is discharged.</cd> <au>Raymond.</au> -- <col><b>Gas works</b></col>, <cd>a manufactory of gas, with all the machinery and appurtenances; a place where gas is generated for lighting cities.</cd> -- <col><b>Laughing gas</b></col>. <cd>See under <er>Laughing</er>.</cd> -- <col><b>Marsh gas</b></col> <fld>(Chem.)</fld>, <cd>a light, combustible, gaseous hydrocarbon, <chform>CH4</chform>, produced artificially by the dry distillation of many organic substances, and occurring as a natural product of decomposition in stagnant pools, whence its name. It is an abundant ingredient of ordinary illuminating gas, and is the first member of the paraffin series. Called also <altname>methane</altname>, and in coal mines, <altname>fire damp</altname>.</cd> -- <col><b>Natural gas</b></col>, <cd>gas obtained from wells, etc., in Pennsylvania, Ohio, and elsewhere, and largely used for fuel and illuminating purposes. It is chiefly derived from the Coal Measures.</cd> -- <col><b>Olefiant gas</b></col> <fld>(Chem.)</fld>. <cd>See <er>Ethylene</er>.</cd> -- <col><b>Water gas</b></col> <fld>(Chem.)</fld>, <cd>a kind of gas made by forcing steam over glowing coals, whereby there results a mixture of hydrogen and carbon monoxide. This gives a gas of intense heating power, but destitute of light-giving properties, and which is charged by passing through some volatile hydrocarbon, as gasoline.<-- = <altname>synthesis gas</altname> --></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 614 --></p>
@@ -3409,7 +3409,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gascoines</ent><br/
-<hw>Gas"coines</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Gaskins</er>, 1.</def>  <rj><au>Lyly.</au></rj><br/
+<hw>Gas"coines</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Gaskins</er>, <snr>1</snr>.</def>  <rj><au>Lyly.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gascon</ent><br/
@@ -3902,7 +3902,7 @@ Both stile and <qex>gate</qex>, horse way and footpath.</q> <rj><qau>Shak.</qau>
 <p><sn>6.</sn> <fld>(Founding)</fld> <sd>(a)</sd> <def>The channel or opening through which metal is poured into the mold; the ingate.</def> <sd>(b)</sd> <def>The waste piece of metal cast in the opening; a sprue or sullage piece.</def> <altsp>[Written also <asp>geat</asp> and <asp>git</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gate chamber</b></col>, <cd>a recess in the side wall of a canal lock, which receives the opened gate.</cd> -- <col><b>Gate channel</b></col>. <cd>See <er>Gate</er>, 5.</cd> -- <col><b>Gate hook</b></col>, <cd>the hook-formed piece of a gate hinge.</cd> -- <col><b>Gate money</b></col>, <cd>entrance money for admission to an inclosure.</cd> -- <col><b>Gate tender</b></col>, <cd>one in charge of a gate, as at a railroad crossing.</cd> -- <col><b>Gate valva</b></col>, <cd>a stop valve for a pipe, having a sliding gate which affords a straight passageway when open.</cd> -- <col><b>Gate vein</b></col> <fld>(Anat.)</fld>, <cd>the portal vein.</cd> -- <col><b>To break gates</b></col> <fld>(Eng. Univ.)</fld>, <cd>to enter a college inclosure after the hour to which a student has been restricted.</cd> -- <mcol><col><b>To stand in the gate</b></col> <it>or</it> <col><b>To stand in the gates</b></col></mcol>, <cd>to occupy places or advantage, power, or defense.</cd></cs><br/
+<p><cs><col><b>Gate chamber</b></col>, <cd>a recess in the side wall of a canal lock, which receives the opened gate.</cd> -- <col><b>Gate channel</b></col>. <cd>See <er>Gate</er>, <snr>5</snr>.</cd> -- <col><b>Gate hook</b></col>, <cd>the hook-formed piece of a gate hinge.</cd> -- <col><b>Gate money</b></col>, <cd>entrance money for admission to an inclosure.</cd> -- <col><b>Gate tender</b></col>, <cd>one in charge of a gate, as at a railroad crossing.</cd> -- <col><b>Gate valva</b></col>, <cd>a stop valve for a pipe, having a sliding gate which affords a straight passageway when open.</cd> -- <col><b>Gate vein</b></col> <fld>(Anat.)</fld>, <cd>the portal vein.</cd> -- <col><b>To break gates</b></col> <fld>(Eng. Univ.)</fld>, <cd>to enter a college inclosure after the hour to which a student has been restricted.</cd> -- <mcol><col><b>To stand in the gate</b></col> <it>or</it> <col><b>To stand in the gates</b></col></mcol>, <cd>to occupy places or advantage, power, or defense.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gate</ent><br/
@@ -5445,7 +5445,7 @@ A swelling knot is raised called a <qex>gem</qex>.</q> <rj><qau>Denham.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemmiparous</ent><br/
-<hw>Gem*mip"a*rous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>gemmipare</ets>.]</ety> <fld>(Biol.)</fld> <def>Producing buds; reproducing by buds. See <er>Gemmation</er>, 1.</def><br/
+<hw>Gem*mip"a*rous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>gemmipare</ets>.]</ety> <fld>(Biol.)</fld> <def>Producing buds; reproducing by buds. See <er>Gemmation</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gemmosity</ent><br/
@@ -6551,7 +6551,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>1.</sn> <def>To live like a gentile or heathen.</def> <mark>[Obs.]</mark>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To act the gentleman; -- with <xex>it</xex> (see <er>It</er>, 5).</def> <mark>[Obs.]</mark><br/
+<p><sn>2.</sn> <def>To act the gentleman; -- with <xex>it</xex> (see <er>It</er>, <snr>5</snr>).</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gentilize</ent><br/
@@ -8745,7 +8745,7 @@ I can command ?</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Mach.)</fld> <def>A rotatory cylinder, covered with wire teeth or teasels, for teaseling woolen cloth.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Gig machine</b></col>, <col><b>Gigging machine</b></col>, <col><b>Gig mill</b></col>, <it>or</it> <col><b>Napping machine</b></col></mcol>. <cd>See <er>Gig</er>, 4.</cd> -- <col><b>Gig saw</b></col>. <cd>See <er>Jig saw</er>.</cd></cs><br/
+<p><cs><mcol><col><b>Gig machine</b></col>, <col><b>Gigging machine</b></col>, <col><b>Gig mill</b></col>, <it>or</it> <col><b>Napping machine</b></col></mcol>. <cd>See <er>Gig</er>, <snr>4</snr>.</cd> -- <col><b>Gig saw</b></col>. <cd>See <er>Jig saw</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gig</ent><br/
@@ -15316,7 +15316,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goodgeon</ent><br/
-<hw>Good"geon</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>Same as <er>Gudgeon</er>, 5.</def><br/
+<hw>Good"geon</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>Same as <er>Gudgeon</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>good-hearted</ent><br/
@@ -15761,7 +15761,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordiacea</ent><br/
-\'d8<hw>Gor`di*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A division of nematoid worms, including the hairworms or hair eels (<gen>Gordius</gen> and <gen>Mermis</gen>). See <er>Gordius</er>, and <xex>Illustration</xex> in Appendix.</def><br/
+\'d8<hw>Gor`di*a"ce*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Gordian</er>, <snr>1</snr>.]</ety> <fld>(Zool.)</fld> <def>A division of nematoid worms, including the hairworms or hair eels (<gen>Gordius</gen> and <gen>Mermis</gen>). See <er>Gordius</er>, and <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordian</ent><br/
@@ -15779,7 +15779,7 @@ The twelve good rules, the royal game of <qex>goose</qex>.</q> <rj><qau>Goldsmit
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gordius</ent><br/
-\'d8<hw>Gor"di*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gordian</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A genus of long, slender, nematoid worms, parasitic in insects until near maturity, when they leave the insect, and live in water, in which they deposit their eggs; -- called also <altname>hair eel</altname>, <altname>hairworm</altname>, and <altname>hair snake</altname>, from the absurd, but common and widely diffused, notion that they are metamorphosed horsehairs.</def><br/
+\'d8<hw>Gor"di*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Gordian</er>, <snr>1</snr>.]</ety> <fld>(Zool.)</fld> <def>A genus of long, slender, nematoid worms, parasitic in insects until near maturity, when they leave the insect, and live in water, in which they deposit their eggs; -- called also <altname>hair eel</altname>, <altname>hairworm</altname>, and <altname>hair snake</altname>, from the absurd, but common and widely diffused, notion that they are metamorphosed horsehairs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gore</ent><br/
@@ -15953,7 +15953,7 @@ e spewed up his <qex>gorge</qex>, that all did him detest.</q> <rj><qau>Spenser.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgonean</ent><br/
-<hw>Gor*go"ne*an</hw> <pr>(g<ocir/r*g<omac/"n<esl/*<ait/n)</pr>, <pos>a.</pos> <def>See <er>Gorgonian</er>, 1.</def><br/
+<hw>Gor*go"ne*an</hw> <pr>(g<ocir/r*g<omac/"n<esl/*<ait/n)</pr>, <pos>a.</pos> <def>See <er>Gorgonian</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gorgoneion</ent><br/
@@ -19958,11 +19958,11 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great-granddaughter</ent><br/
-<hw>Great"-grand"daugh`ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, 10.]</ety> <def>A daughter of one's grandson or granddaughter.</def><br/
+<hw>Great"-grand"daugh`ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, <snr>10</snr>.]</ety> <def>A daughter of one's grandson or granddaughter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great-grandfather</ent><br/
-<hw>Great"-grand"fa`ther</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, 10.]</ety> <def>The father of one's grandfather or grandmother.</def><br/
+<hw>Great"-grand"fa`ther</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, <snr>10</snr>.]</ety> <def>The father of one's grandfather or grandmother.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great-grandmother</ent><br/
@@ -19970,7 +19970,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great-grandson</ent><br/
-<hw>Great"-grand"son`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, 10.]</ety> <def>A son of one's grandson or granddaughter.</def><br/
+<hw>Great"-grand"son`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Great</er>, <snr>10</snr>.]</ety> <def>A son of one's grandson or granddaughter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great-hearted</ent><br/

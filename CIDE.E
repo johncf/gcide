@@ -744,7 +744,7 @@ And guides the planets in their course.</q> <rj><qau>S. Rogers.</qau></rj><br/
 <p><note><hand/ <xex>Earth</xex> is used either adjectively or in combination to form compound words; as, <xex>earth</xex> apple or <xex>earth</xex>-apple; <xex>earth</xex> metal or <xex>earth</xex>-metal; <xex>earth</xex> closet or <xex>earth</xex>-closet.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Adamic earth</b></col>, <col><b>Bitter earth</b></col>, <col><b>Bog earth</b></col>, <col><b>Chian earth</b></col></mcol>, <cd>etc. See under <er>Adamic</er>, <er>Bitter</er>, etc.</cd> -- <col><b>Alkaline earths</b></col>. <cd>See under <er>Alkaline</er>.</cd> -- <col><b>Earth apple</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A potato.</cd> <sd>(b)</sd> <cd>A cucumber.</cd> -- <col><b>Earth auger</b></col>, <cd>a form of auger for boring into the ground; -- called also <altname>earth borer</altname>.</cd> -- <col><b>Earth bath</b></col>, <cd>a bath taken by immersing the naked body in earth for healing purposes.</cd> -- <col><b>Earth battery</b></col> <fld>(Physics)</fld>, <cd>a voltaic battery the elements of which are buried in the earth to be acted on by its moisture.</cd> -- <col><b>Earth chestnut</b></col>, <cd>the pignut.</cd> -- <col><b>Earth closet</b></col>, <cd>a privy or commode provided with dry earth or a similar substance for covering and deodorizing the f<ae/cal discharges.</cd> -- <col><b>Earth dog</b></col> <fld>(Zo<oum/l.)</fld>, <cd>a dog that will dig in the earth, or enter holes of foxes, etc.</cd> -- <mcol><col><b>Earth hog</b></col>, <col><b>Earth pig</b></col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>the aard-vark.</cd> -- <col><b>Earth hunger</b></col>, <cd>an intense desire to own land, or, in the case of nations, to extend their domain.</cd> -- <col><b>Earth light</b></col> <fld>(Astron.)</fld>, <cd>the light reflected by the earth, as upon the moon, and corresponding to moonlight; -- called also <altname>earth shine</altname>.</cd> <au>Sir J. Herschel.</au> -- <col><b>Earth metal</b></col>. <cd>See 1st <er>Earth</er>, 7. <fld>(Chem.)</fld></cd> -- <col><b>Earth oil</b></col>, <cd>petroleum.</cd> -- <mcol><col><b>Earth pillars</b></col> <it>or</it> <col><b>Earth pyramids</b></col></mcol> <fld>(Geol.)</fld>, <cd>high pillars or pyramids of earth, sometimes capped with a single stone, found in Switzerland.</cd> <au>Lyell.</au> -- <col><b>Earth pitch</b></col> <fld>(Min.)</fld>, <cd>mineral tar, a kind of asphaltum.</cd> -- <col><b>Earth quadrant</b></col>, <cd>a fourth of the earth's circumference.</cd> -- <col><b>Earth table</b></col> <fld>(Arch.)</fld>, <cd>the lowest course of stones visible in a building; the ground table.</cd> -- <col><b>On earth</b></col>, <cd>an intensive expression, oftenest used in questions and exclamations; <as>as, What <ex>on earth</ex> shall I do? Nothing <ex>on earth</ex> will satisfy him</as>.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><mcol><col><b>Adamic earth</b></col>, <col><b>Bitter earth</b></col>, <col><b>Bog earth</b></col>, <col><b>Chian earth</b></col></mcol>, <cd>etc. See under <er>Adamic</er>, <er>Bitter</er>, etc.</cd> -- <col><b>Alkaline earths</b></col>. <cd>See under <er>Alkaline</er>.</cd> -- <col><b>Earth apple</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A potato.</cd> <sd>(b)</sd> <cd>A cucumber.</cd> -- <col><b>Earth auger</b></col>, <cd>a form of auger for boring into the ground; -- called also <altname>earth borer</altname>.</cd> -- <col><b>Earth bath</b></col>, <cd>a bath taken by immersing the naked body in earth for healing purposes.</cd> -- <col><b>Earth battery</b></col> <fld>(Physics)</fld>, <cd>a voltaic battery the elements of which are buried in the earth to be acted on by its moisture.</cd> -- <col><b>Earth chestnut</b></col>, <cd>the pignut.</cd> -- <col><b>Earth closet</b></col>, <cd>a privy or commode provided with dry earth or a similar substance for covering and deodorizing the f<ae/cal discharges.</cd> -- <col><b>Earth dog</b></col> <fld>(Zo<oum/l.)</fld>, <cd>a dog that will dig in the earth, or enter holes of foxes, etc.</cd> -- <mcol><col><b>Earth hog</b></col>, <col><b>Earth pig</b></col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>the aard-vark.</cd> -- <col><b>Earth hunger</b></col>, <cd>an intense desire to own land, or, in the case of nations, to extend their domain.</cd> -- <col><b>Earth light</b></col> <fld>(Astron.)</fld>, <cd>the light reflected by the earth, as upon the moon, and corresponding to moonlight; -- called also <altname>earth shine</altname>.</cd> <au>Sir J. Herschel.</au> -- <col><b>Earth metal</b></col>. <cd>See 1st <er>Earth</er>, <snr>7</snr>. <fld>(Chem.)</fld></cd> -- <col><b>Earth oil</b></col>, <cd>petroleum.</cd> -- <mcol><col><b>Earth pillars</b></col> <it>or</it> <col><b>Earth pyramids</b></col></mcol> <fld>(Geol.)</fld>, <cd>high pillars or pyramids of earth, sometimes capped with a single stone, found in Switzerland.</cd> <au>Lyell.</au> -- <col><b>Earth pitch</b></col> <fld>(Min.)</fld>, <cd>mineral tar, a kind of asphaltum.</cd> -- <col><b>Earth quadrant</b></col>, <cd>a fourth of the earth's circumference.</cd> -- <col><b>Earth table</b></col> <fld>(Arch.)</fld>, <cd>the lowest course of stones visible in a building; the ground table.</cd> -- <col><b>On earth</b></col>, <cd>an intensive expression, oftenest used in questions and exclamations; <as>as, What <ex>on earth</ex> shall I do? Nothing <ex>on earth</ex> will satisfy him</as>.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Earth</ent><br/
@@ -1502,7 +1502,7 @@ Have <qex>eat</qex> our substance.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>And closing <qex>eaves</qex> of wearied eyes.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Eaves board</b></col> <fld>(Arch.)</fld>, <cd>an arris fillet, or a thick board with a feather edge, nailed across the rafters at the eaves of a building, to raise the lower course of slates a little, or to receive the lowest course of tiles; -- called also <altname>eaves catch</altname> and <altname>eaves lath</altname>.</cd> -- <mcol><col><b>Eaves channel</b></col>, <col><b>Eaves gutter</b></col>, <col><b>Eaves trough</b></col></mcol>. <cd>Same as <er>Gutter</er>, 1.</cd> -- <col><b>Eaves molding</b></col> <fld>(Arch.)</fld>, <cd>a molding immediately below the eaves, acting as a cornice or part of a cornice.</cd> -- <col><b>Eaves swallow</b></col> <fld>(Zo<oum/l.)</fld>. <sd>(a)</sd> <cd>The cliff swallow; -- so called from its habit of building retort-shaped nests of mud under the eaves of buildings. See <cref>Cliff swallow</cref>, under <er>Cliff</er>.</cd> <sd>(b)</sd> <cd>The European swallow.</cd></cs><br/
+<p><cs><col><b>Eaves board</b></col> <fld>(Arch.)</fld>, <cd>an arris fillet, or a thick board with a feather edge, nailed across the rafters at the eaves of a building, to raise the lower course of slates a little, or to receive the lowest course of tiles; -- called also <altname>eaves catch</altname> and <altname>eaves lath</altname>.</cd> -- <mcol><col><b>Eaves channel</b></col>, <col><b>Eaves gutter</b></col>, <col><b>Eaves trough</b></col></mcol>. <cd>Same as <er>Gutter</er>, <snr>1</snr>.</cd> -- <col><b>Eaves molding</b></col> <fld>(Arch.)</fld>, <cd>a molding immediately below the eaves, acting as a cornice or part of a cornice.</cd> -- <col><b>Eaves swallow</b></col> <fld>(Zo<oum/l.)</fld>. <sd>(a)</sd> <cd>The cliff swallow; -- so called from its habit of building retort-shaped nests of mud under the eaves of buildings. See <cref>Cliff swallow</cref>, under <er>Cliff</er>.</cd> <sd>(b)</sd> <cd>The European swallow.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eavesdrop</ent><br/
@@ -3102,7 +3102,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ed"i*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>edibilis</ets>, fr. <ets>edere</ets> to eat. See <er>Eat</er>.]</ety> <def>Fit to be eaten as food; eatable; esculent; <as>as, <ex>edible</ex> fishes</as>.</def> <au>Bacon.</au> -- <def2><pos>n.</pos> <def>Anything edible.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Edible bird's nest</b></col>. <cd>See <er>Bird's nest</er>, 2.</cd> -- <col><b>Edible crab</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any species of crab used as food, esp. the American blue crab (<spn>Callinectes hastatus</spn>). See <er>Crab</er>.</cd> -- <col><b>Edible frog</b></col> <fld>(Zo<oum/l.)</fld>, <cd>the common European frog (<spn>Rana esculenta</spn>), used as food.</cd> -- <col><b>Edible snail</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any snail used as food, esp. <spn>Helix pomatia</spn> and <spn>H. aspersa</spn> of Europe.</cd></cs><br/
+<p><cs><col><b>Edible bird's nest</b></col>. <cd>See <er>Bird's nest</er>, <snr>2</snr>.</cd> -- <col><b>Edible crab</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any species of crab used as food, esp. the American blue crab (<spn>Callinectes hastatus</spn>). See <er>Crab</er>.</cd> -- <col><b>Edible frog</b></col> <fld>(Zo<oum/l.)</fld>, <cd>the common European frog (<spn>Rana esculenta</spn>), used as food.</cd> -- <col><b>Edible snail</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any snail used as food, esp. <spn>Helix pomatia</spn> and <spn>H. aspersa</spn> of Europe.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edibleness</ent><br/
@@ -4682,7 +4682,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 <hw>E*gyp"tian</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Aegyptius</ets>, Gr. <?/, fr.  <?/ (L. <ets>Aegyptus</ets>) Egypt: cf. F. <ets><eacute/gyptien</ets>.  Cf. <er>Gypsy</er>.]</ety> <def>Pertaining to Egypt, in Africa.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Egyptian bean</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The beanlike fruit of an aquatic plant (<spn>Nelumbium speciosum</spn>), somewhat resembling the water lily.</cd> <sd>(b)</sd> <cd>See under <er>Bean</er>, 1.</cd> -- <col><b>Egyptian cross</b></col>. <cd>See <xex>Illust.</xex> (No. 6) of <er>Cross</er>.</cd> -- <col><b>Egyptian thorn</b></col> <fld>(Bot.)</fld>, <cd>a medium-sized tree (<spn>Acacia vera</spn>). It is one of the chief sources of the best gum arabic.</cd></cs><br/
+<p><cs><col><b>Egyptian bean</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The beanlike fruit of an aquatic plant (<spn>Nelumbium speciosum</spn>), somewhat resembling the water lily.</cd> <sd>(b)</sd> <cd>See under <er>Bean</er>, <snr>1</snr>.</cd> -- <col><b>Egyptian cross</b></col>. <cd>See <xex>Illust.</xex> (No. 6) of <er>Cross</er>.</cd> -- <col><b>Egyptian thorn</b></col> <fld>(Bot.)</fld>, <cd>a medium-sized tree (<spn>Acacia vera</spn>). It is one of the chief sources of the best gum arabic.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egyptian</ent><br/
@@ -5939,7 +5939,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 <p><sn>4.</sn> <def>powered by electricity; <as>as, <ex>electrical</ex> appliances; an <ex>electric</ex> toothbrush; an <ex>electric</ex> automobile</as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><mcol><col><b>Electric atmosphere</b></col>, <it>or</it>  <col><b>Electric aura</b></col></mcol>. <cd>See under <er>Aura</er>.</cd> -- <col><b>Electrical battery</b></col>. <cd>See <er>Battery</er>.</cd> -- <col><b>Electrical brush</b></col>. <cd>See under <er>Brush</er>.</cd> -- <col><b>Electric cable</b></col>. <cd>See <cref>Telegraph cable</cref>, under <er>Telegraph</er>.</cd> -- <col><b>Electric candle</b></col>. <cd>See under <er>Candle</er>.</cd> -- <col><b>Electric cat</b></col> <fld>(Zo<oum/l.)</fld>, <cd>one of three or more large species of African catfish of the genus <gen>Malapterurus</gen> (esp. <spn>M. electricus</spn> of the Nile). They have a large electrical organ and are able to give powerful shocks; -- called also <altname>sheathfish</altname>.</cd> -- <col><b>Electric clock</b></col>. <cd>See under <er>Clock</er>, and see <er>Electro-chronograph</er>.</cd> -- <col><b>Electric current</b></col>, <cd>a current or stream of electricity traversing a closed circuit formed of conducting substances, or passing by means of conductors from one body to another which is in a different electrical state.</cd> -- <mcol><col><b>Electric eel</b></col>, <it>or</it>  <col><b>Electrical eel</b></col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>a South American eel-like fresh-water fish of the genus <gen>Gymnotus</gen> (<spn>G. electricus</spn>), from two to five feet in length, capable of giving a violent electric shock. See <er>Gymnotus</er>.</cd> -- <col><b>Electrical fish</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any fish which has an electrical organ by means of which it can give an electrical shock. The best known kinds are the <stype>torpedo</stype>, the <stype>gymnotus</stype>, or <stype>electrical eel</stype>, and the <stype>electric cat</stype>. See <er>Torpedo</er>, and <er>Gymnotus</er>.</cd> -- <col><b>Electric fluid</b></col>, <cd>the supposed matter of electricity; lightning.</cd> <mark>[archaic]</mark> -- <col><b>Electrical image</b></col> <fld>(Elec.)</fld>, <cd>a collection of electrical points regarded as forming, by an analogy with optical phenomena, an image of certain other electrical points, and used in the solution of electrical problems.</cd> <au>Sir W. Thomson.</au> --  <mcol><col><b>Electric machine</b></col>, <it>or</it>   <col><b>Electrical machine</b></col></mcol>, <cd>an apparatus for generating, collecting, or exciting, electricity, as by friction.</cd> -- <col><b>Electric motor</b></col>. <cd>See <er>Electro-motor</er>, 2.</cd> -- <col><b>Electric osmose</b></col>. <fld>(Physics)</fld> <cd>See under <er>Osmose</er>.</cd> -- <col><b>Electric pen</b></col>, <cd>a hand pen for making perforated stencils for multiplying writings. It has a puncturing needle driven at great speed by a very small magneto-electric engine on the penhandle.</cd> -- <col><b>Electric railway</b></col>, <cd>a railway in which the machinery for moving the cars is driven by an electric current.</cd> -- <col><b>Electric ray</b></col> <fld>(Zo<oum/l.)</fld>, <cd>the torpedo.</cd> -- <col><b>Electric telegraph</b></col>. <cd>See <er>Telegraph</er>.</cd></cs><br/
+<p><cs><mcol><col><b>Electric atmosphere</b></col>, <it>or</it>  <col><b>Electric aura</b></col></mcol>. <cd>See under <er>Aura</er>.</cd> -- <col><b>Electrical battery</b></col>. <cd>See <er>Battery</er>.</cd> -- <col><b>Electrical brush</b></col>. <cd>See under <er>Brush</er>.</cd> -- <col><b>Electric cable</b></col>. <cd>See <cref>Telegraph cable</cref>, under <er>Telegraph</er>.</cd> -- <col><b>Electric candle</b></col>. <cd>See under <er>Candle</er>.</cd> -- <col><b>Electric cat</b></col> <fld>(Zo<oum/l.)</fld>, <cd>one of three or more large species of African catfish of the genus <gen>Malapterurus</gen> (esp. <spn>M. electricus</spn> of the Nile). They have a large electrical organ and are able to give powerful shocks; -- called also <altname>sheathfish</altname>.</cd> -- <col><b>Electric clock</b></col>. <cd>See under <er>Clock</er>, and see <er>Electro-chronograph</er>.</cd> -- <col><b>Electric current</b></col>, <cd>a current or stream of electricity traversing a closed circuit formed of conducting substances, or passing by means of conductors from one body to another which is in a different electrical state.</cd> -- <mcol><col><b>Electric eel</b></col>, <it>or</it>  <col><b>Electrical eel</b></col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>a South American eel-like fresh-water fish of the genus <gen>Gymnotus</gen> (<spn>G. electricus</spn>), from two to five feet in length, capable of giving a violent electric shock. See <er>Gymnotus</er>.</cd> -- <col><b>Electrical fish</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any fish which has an electrical organ by means of which it can give an electrical shock. The best known kinds are the <stype>torpedo</stype>, the <stype>gymnotus</stype>, or <stype>electrical eel</stype>, and the <stype>electric cat</stype>. See <er>Torpedo</er>, and <er>Gymnotus</er>.</cd> -- <col><b>Electric fluid</b></col>, <cd>the supposed matter of electricity; lightning.</cd> <mark>[archaic]</mark> -- <col><b>Electrical image</b></col> <fld>(Elec.)</fld>, <cd>a collection of electrical points regarded as forming, by an analogy with optical phenomena, an image of certain other electrical points, and used in the solution of electrical problems.</cd> <au>Sir W. Thomson.</au> --  <mcol><col><b>Electric machine</b></col>, <it>or</it>   <col><b>Electrical machine</b></col></mcol>, <cd>an apparatus for generating, collecting, or exciting, electricity, as by friction.</cd> -- <col><b>Electric motor</b></col>. <cd>See <er>Electro-motor</er>, <snr>2</snr>.</cd> -- <col><b>Electric osmose</b></col>. <fld>(Physics)</fld> <cd>See under <er>Osmose</er>.</cd> -- <col><b>Electric pen</b></col>, <cd>a hand pen for making perforated stencils for multiplying writings. It has a puncturing needle driven at great speed by a very small magneto-electric engine on the penhandle.</cd> -- <col><b>Electric railway</b></col>, <cd>a railway in which the machinery for moving the cars is driven by an electric current.</cd> -- <col><b>Electric ray</b></col> <fld>(Zo<oum/l.)</fld>, <cd>the torpedo.</cd> -- <col><b>Electric telegraph</b></col>. <cd>See <er>Telegraph</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Electric</ent><br/
@@ -7322,7 +7322,7 @@ Through provinces of thought yet unexplored.</q> <rj><qau>Young.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Alg.)</fld> <def>Act of causing a quantity to disappear from an equation; especially, in the operation of deducing from several equations containing several unknown quantities a less number of equations containing a less number of unknown quantities.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>The act of obtaining by separation, or as the result of eliminating; deduction. [See <er>Eliminate</er>, 4.]</def><br/
+<p><sn>3.</sn> <def>The act of obtaining by separation, or as the result of eliminating; deduction. [See <er>Eliminate</er>, <snr>4</snr>.]</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eliminative</ent><br/
@@ -11187,7 +11187,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enarmed</ent><br/
-<hw>En*armed"</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Her.)</fld> <def>Same as <er>Armed</er>, 3.</def><br/
+<hw>En*armed"</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Her.)</fld> <def>Same as <er>Armed</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enarration</ent><br/
@@ -12423,7 +12423,7 @@ Might be the be-all and the <qex>end-all</qex> here.</q> <rj><qau>Shak.</qau></r
 <hw>End"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Termination; concluding part; result; conclusion; destruction; death.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Gram.)</fld> <def>The final syllable or letter of a word; the part joined to the stem. See 3d <er>Case</er>, 5.</def><br/
+<p><sn>2.</sn> <fld>(Gram.)</fld> <def>The final syllable or letter of a word; the part joined to the stem. See 3d <er>Case</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Ending day</b></col>, <cd>day of death.</cd>  <rj><au>Chaucer.</au></rj></cs><br/
@@ -13266,7 +13266,7 @@ As might the strokes of two such arms <qex>endure</qex>.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>enfeebled</ent><br/
-<hw>enfeebled</hw> <pos>adj.</pos>  <def>same as <er>debilitated</er>, 2.</def><br/
+<hw>enfeebled</hw> <pos>adj.</pos>  <def>same as <er>debilitated</er>, <snr>2</snr>.</def><br/
 <syn><b>Syn. --</b> debilitated, infirm, seedy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -15649,7 +15649,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>7.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>To go into or upon, as lands, and take actual possession of them.</def> <sd>(b)</sd> <def>To place in regular form before the court, usually in writing; to put upon record in proper from and order; <as>as, to <ex>enter</ex> a writ, appearance, rule, or judgment</as>.</def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>8.</sn> <def>To make report of (a vessel or her cargo) at the customhouse; to submit a statement of (imported goods), with the original invoices, to the proper officer of the customs for estimating the duties. See <er>Entry</er>, 4.</def><br/
+<p><sn>8.</sn> <def>To make report of (a vessel or her cargo) at the customhouse; to submit a statement of (imported goods), with the original invoices, to the proper officer of the customs for estimating the duties. See <er>Entry</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>9.</sn> <def>To file or inscribe upon the records of the land office the required particulars concerning (a quantity of public land) in order to entitle a person to a right of pre<eum/mption.</def> <mark>[U.S.]</mark>  <rj><au>Abbott.</au></rj><br/
@@ -16371,7 +16371,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entomophaga</ent><br/
-\'d8<hw>En`to*moph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ntomon</grk> an insect +  <grk>fagei^n</grk> to eat.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>a group of hymenopterous insects whose larv<ae/ feed parasitically upon living insects. See <er>Ichneumon</er>, 2.</def><br/
+\'d8<hw>En`to*moph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ntomon</grk> an insect +  <grk>fagei^n</grk> to eat.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>a group of hymenopterous insects whose larv<ae/ feed parasitically upon living insects. See <er>Ichneumon</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A group of marsupials which are partly insectivorous, as the opossum.</def><br/
@@ -20549,7 +20549,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Far.)</fld> <def>A stub, like soft horn, about the size of a chestnut, situated behind and below the pastern joint.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Anat.)</fld> <def>See 2d <er>Calcar</er>, 3 <sdr>(b)</sdr>.</def><br/
+<p><sn>4.</sn> <fld>(Anat.)</fld> <def>See 2d <er>Calcar</er>, <snr>3</snr> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ergotic</ent><br/
@@ -21338,7 +21338,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 <mhw>{ <hw>E*ryth"rin</hw>, <hw>E*ryth"rine</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Gr. <grk>'eryqro`s</grk> red.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>A colorless crystalline substance, <chform>C20H22O10</chform>, extracted from certain lichens, as the various species of <gen>Rocella</gen>. It is a derivative of orsellinic acid. So called because of certain red compounds derived from it. Called also <altname>erythric</altname> acid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Min.)</fld> <def>See <er>Erythrite</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Min.)</fld> <def>See <er>Erythrite</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythrina</ent><br/
@@ -21594,7 +21594,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>PJC</source>]</p>
 
 <p><ent>Escarbuncle</ent><br/
-<hw>Es*car"bun*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>escarbuncle</ets>, F. <ets>escaboucle</ets>.]</ety> <fld>(Her.)</fld> <def>See <er>Carbuncle</er>, 3.</def><br/
+<hw>Es*car"bun*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>escarbuncle</ets>, F. <ets>escaboucle</ets>.]</ety> <fld>(Her.)</fld> <def>See <er>Carbuncle</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Escargatoire</ent><br/
@@ -24993,7 +24993,7 @@ To <qex>evangelize</qex> the nations.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>evaporated</ent><br/
-<hw>evaporated</hw> <pos>adj.</pos>  <def>reduced in volume by having moisture expelled before canning; same as <er>condensed</er>, 3; <as>as, unsweetened <ex>evaporated</ex> milk</as>.</def> <mark>[prenominal]</mark><br/
+<hw>evaporated</hw> <pos>adj.</pos>  <def>reduced in volume by having moisture expelled before canning; same as <er>condensed</er>, <snr>3</snr>; <as>as, unsweetened <ex>evaporated</ex> milk</as>.</def> <mark>[prenominal]</mark><br/
 <syn><b>Syn. --</b> condensed(prenominal).</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -25988,7 +25988,7 @@ When death's approach is seen so terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Evolutionism</ent><br/
-<hw>Ev`o*lu"tion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The theory of, or belief in, evolution. See <er>Evolution</er>, 6 and 7.</def><br/
+<hw>Ev`o*lu"tion*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The theory of, or belief in, evolution. See <er>Evolution</er>, <snr>6</snr> and 7.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Evolutionist</ent><br/
@@ -28756,7 +28756,7 @@ Like a bright <qex>exhalation</qex> in the evening.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>exhausted</ent><br/
-<hw>exhausted</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>burned-out</er>, 1.</def> <wns>[wns=1+3]</wns><br/
+<hw>exhausted</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>burned-out</er>, <snr>1</snr>.</def> <wns>[wns=1+3]</wns><br/
 <syn><b>Syn. --</b> burned-out(prenominal), burnt-out(prenominal), burned out(predicate), burnt out(predicate), fagged, fatigued, played-out(prenominal), played out(predicate), spent, washed-out(prenominal), washed out(predicate), worn-out(prenominal), worn out(predicate).</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -29699,7 +29699,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>To cause the particles or parts of to spread themselves or stand apart, thus increasing bulk without addition of substance; to make to occupy more space; to dilate; to distend; to extend every way; to enlarge; -- opposed to <ant>contract</ant>; <as>as, to <ex>expand</ex> the chest; heat <ex>expands</ex> all bodies; to <ex>expand</ex> the sphere of benevolence.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Math.)</fld> <def>To state in enlarged form; to develop; <as>as, to <ex>expand</ex> an equation</as>. See <er>Expansion</er>, 5.</def><br/
+<p><sn>3.</sn> <fld>(Math.)</fld> <def>To state in enlarged form; to develop; <as>as, to <ex>expand</ex> an equation</as>. See <er>Expansion</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Expand</ent><br/
@@ -32677,7 +32677,7 @@ That you <qex>extol</qex> me thus?</q> <rj><qau>Shak.</qau></rj></p>
 <hw>Ex*tort"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Extorted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Extorting</conjf>.]</vmorph> <ety>[L. <ets>extortus</ets>, p. p. of <ets>extorquere</ets> to twist or wrench out, to extort; <ets>ex</ets> out + <ets>torquere</ets> to turn about, twist. See <er>Torsion</er>.]</ety> <sn>1.</sn> <def>To wrest from an unwilling person by physical force, menace, duress, torture, or any undue or illegal exercise of power or ingenuity; to wrench away (from); to tear away; to wring (from); to exact; <as>as, to <ex>extort</ex> contributions from the vanquished; to <ex>extort</ex> confessions of guilt; to <ex>extort</ex> a promise; to <ex>extort</ex> payment of a debt.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>To get by the offense of extortion. See <er>Extortion</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>To get by the offense of extortion. See <er>Extortion</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Extort</ent><br/
@@ -33811,7 +33811,7 @@ To my proportioned strength.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>A metal ring or grommet, or short metallic tube, the ends of which can be bent outward and over to fasten it in place; -- used to line an eyelet hole.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Eyelet hole</b></col>, <cd>a hole made for an eyelet.</cd> -- <col><b>Eyelet punch</b></col>, <cd>a machine for punching eyelet holes and fastening eyelets, as in paper or cloth.</cd> -- <col><b>Eyelet ring</b></col>.  <cd>See <er>Eyelet</er>, 2.</cd></cs><br/
+<p><cs><col><b>Eyelet hole</b></col>, <cd>a hole made for an eyelet.</cd> -- <col><b>Eyelet punch</b></col>, <cd>a machine for punching eyelet holes and fastening eyelets, as in paper or cloth.</cd> -- <col><b>Eyelet ring</b></col>.  <cd>See <er>Eyelet</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eyeleteer</ent><br/

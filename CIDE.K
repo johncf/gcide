@@ -142,7 +142,7 @@
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kail</ent><br/
-<hw>Kail</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>A kind of headless cabbage. Same as <er>Kale</er>, 1.</def><br/
+<hw>Kail</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>A kind of headless cabbage. Same as <er>Kale</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any cabbage, greens, or vegetables.</def> <mark>[OE. or Scot.]</mark><br/
@@ -241,7 +241,7 @@
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>A variety of cabbage in which the leaves do not form a head, being nearly the original or wild form of the species.</def> <altsp>[Written also <asp>kail</asp>, and <asp>cale</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Kail</er>, 2.</def><br/
+<p><sn>2.</sn> <def>See <er>Kail</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Sea kale</b></col> <fld>(Bot.)</fld>, <cd>a European cruciferous herb (<spn>Crambe maritima</spn>), often used as a pot herb; sea cabbage.</cd></cs><br/
@@ -919,7 +919,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keelman</ent><br/
-<hw>Keel"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> -<plw>men</plw> <pr>(<?/)</pr>.</plu> <def>See <er>Keeler</er>, 1.</def><br/
+<hw>Keel"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> -<plw>men</plw> <pr>(<?/)</pr>.</plu> <def>See <er>Keeler</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>keel over</ent><br/
@@ -1346,7 +1346,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kell</ent><br/
-<hw>Kell</hw>, <pos>n.</pos> <ety>[A modification of <ets>kale</ets>.]</ety> <def>A sort of pottage; kale. See <er>Kale</er>, 2.</def>  <rj><au>Ainsworth.</au></rj><br/
+<hw>Kell</hw>, <pos>n.</pos> <ety>[A modification of <ets>kale</ets>.]</ety> <def>A sort of pottage; kale. See <er>Kale</er>, <snr>2</snr>.</def>  <rj><au>Ainsworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kell</ent><br/
@@ -1396,7 +1396,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kelpware</ent><br/
-<hw>Kelp"ware`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Kelp</er>, 2.</def><br/
+<hw>Kelp"ware`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Kelp</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kelson</ent><br/
@@ -2101,7 +2101,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>15.</sn> <fld>(Computers)</fld> <def>A word or other combination of symbols which serves as an index identifying and pointing to a particular record, file, or location which can be retrieved and displayed by a computer program; <as>as, a database using multi-word <ex>keys</ex></as>.  When the <ex>key</ex> is a word, it is also called a <stype>keyword</stype>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Key bed</b></col>. <cd>Same as <cref>Key seat</cref>.</cd> -- <col><b>Key bolt</b></col>, <cd>a bolt which has a mortise near the end, and is secured by a cotter or wedge instead of a nut.</cd> <col><b>Key bugle</b></col>. <cd>See <er>Kent bugle</er>.</cd> -- <mcol><col><b>Key of a position</b></col> <it>or</it> <col><b>Key of a country.</b></col></mcol> <fld>(Mil.)</fld> <cd>See <er>Key</er>, 4.</cd> -- <col><b>Key seat</b></col> <fld>(Mach.)</fld>, <cd>a bed or groove to receive a key which prevents one part from turning on the other.</cd> -- <col><b>Key way</b></col>, <cd>a channel for a key, in the hole of a piece which is keyed to a shaft; an internal key seat; -- called also <altname>key seat</altname>.</cd> -- <col><b>Key wrench</b></col> <fld>(Mach.)</fld>, <cd>an adjustable wrench in which the movable jaw is made fast by a key.</cd> -- <col><b>Power of the keys</b></col> <fld>(Eccl.)</fld>, <cd>the authority claimed by the ministry in some Christian churches to administer the discipline of the church, and to grant or withhold its privileges; -- so called from the declaration of Christ, <ldquo/I will give unto thee the <xex>keys</xex> of the kingdom of heaven.<rdquo/</cd> <au>Matt. xvi. 19.</au></cs><br/
+<p><cs><col><b>Key bed</b></col>. <cd>Same as <cref>Key seat</cref>.</cd> -- <col><b>Key bolt</b></col>, <cd>a bolt which has a mortise near the end, and is secured by a cotter or wedge instead of a nut.</cd> <col><b>Key bugle</b></col>. <cd>See <er>Kent bugle</er>.</cd> -- <mcol><col><b>Key of a position</b></col> <it>or</it> <col><b>Key of a country.</b></col></mcol> <fld>(Mil.)</fld> <cd>See <er>Key</er>, <snr>4</snr>.</cd> -- <col><b>Key seat</b></col> <fld>(Mach.)</fld>, <cd>a bed or groove to receive a key which prevents one part from turning on the other.</cd> -- <col><b>Key way</b></col>, <cd>a channel for a key, in the hole of a piece which is keyed to a shaft; an internal key seat; -- called also <altname>key seat</altname>.</cd> -- <col><b>Key wrench</b></col> <fld>(Mach.)</fld>, <cd>an adjustable wrench in which the movable jaw is made fast by a key.</cd> -- <col><b>Power of the keys</b></col> <fld>(Eccl.)</fld>, <cd>the authority claimed by the ministry in some Christian churches to administer the discipline of the church, and to grant or withhold its privileges; -- so called from the declaration of Christ, <ldquo/I will give unto thee the <xex>keys</xex> of the kingdom of heaven.<rdquo/</cd> <au>Matt. xvi. 19.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Key</ent><br/
@@ -3544,7 +3544,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kingling</ent><br/
-<hw>King"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Kinglet</er>, 1.</def> <au>Churchill.</au><br/
+<hw>King"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Kinglet</er>, <snr>1</snr>.</def> <au>Churchill.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kingly</ent><br/
@@ -4104,7 +4104,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kite</ent><br/
-<hw>Kite</hw>, <pos>v. i.</pos> <def>To raise money by <ldquo/kites;<rdquo/ <as>as, <ex>kiting</ex> transactions. See <er>Kite</er>, 6</as>.</def> <mark>[Cant]</mark><br/
+<hw>Kite</hw>, <pos>v. i.</pos> <def>To raise money by <ldquo/kites;<rdquo/ <as>as, <ex>kiting</ex> transactions. See <er>Kite</er>, <snr>6</snr></as>.</def> <mark>[Cant]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kite</ent><br/
@@ -4892,7 +4892,7 @@ Of C<oe/ur-de-Lion <qex>knighted</qex> in the field.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knight bachelor</ent><br/
-<hw>Knight" bach"e*lor</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Knights bachelors</plw> <pr>(<?/)</pr>.</plu> <def>A knight of the most ancient, but lowest, order of English knights, and not a member of any order of chivalry. See <er>Bachelor</er>, 4.</def><br/
+<hw>Knight" bach"e*lor</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Knights bachelors</plw> <pr>(<?/)</pr>.</plu> <def>A knight of the most ancient, but lowest, order of English knights, and not a member of any order of chivalry. See <er>Bachelor</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knight banneret</ent><br/
@@ -5471,7 +5471,7 @@ The death hymn peals, and the hollow bells <qex>knoll</qex>.</q> <rj><qau>Byron.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knosp</ent><br/
-<hw>Knosp</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>knospe</ets> bud, E. <ets>knop</ets>, <ets>knar</ets>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Knop</er>, 2.</def>  <rj><au>Milman.</au></rj><br/
+<hw>Knosp</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>knospe</ets> bud, E. <ets>knop</ets>, <ets>knar</ets>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Knop</er>, <snr>2</snr>.</def>  <rj><au>Milman.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knot</ent><br/
@@ -6488,7 +6488,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 
 <p><ent>Krumhorn</ent><br/
 <ent>Krummhorn</ent><br/
-<mhw>{ <hw>Krumm"horn`</hw>, <hw>Krum"horn`</hw>  }</mhw> <pr>(kr<oomac/m"h<ocir/rn`)</pr>, <pos>n.</pos> <ety>[G. <ets>krummhorn</ets> cornet; <ets>krumm</ets> crooked + <ets>horn</ets> horn.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A reed instrument of music of the cornet kind, now obsolete (see <er>Cornet</er>, 1, <pos>a.</pos>).</def> <sd>(b)</sd> <def>A reed stop in the organ; -- sometimes called <altname>cremona</altname>.</def><br/
+<mhw>{ <hw>Krumm"horn`</hw>, <hw>Krum"horn`</hw>  }</mhw> <pr>(kr<oomac/m"h<ocir/rn`)</pr>, <pos>n.</pos> <ety>[G. <ets>krummhorn</ets> cornet; <ets>krumm</ets> crooked + <ets>horn</ets> horn.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A reed instrument of music of the cornet kind, now obsolete (see <er>Cornet</er>, <snr>1</snr>, <pos>a.</pos>).</def> <sd>(b)</sd> <def>A reed stop in the organ; -- sometimes called <altname>cremona</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krupp gun</ent><br/

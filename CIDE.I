@@ -386,7 +386,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 <p><note><hand/ The female deposits her eggs upon, or in, the bodies of other insects, such as caterpillars, plant lice, etc. The larva lives upon the internal tissues of the insect in which it is parasitic, and finally kills it. Hence, many of the species are beneficial to agriculture by destroying noxious insects.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ichneumon fly</b></col>. <cd>See <er>Ichneumon</er>, 2.</cd></cs><br/
+<p><cs><col><b>Ichneumon fly</b></col>. <cd>See <er>Ichneumon</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichneumonidan</ent><br/
@@ -1053,7 +1053,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>I*de"al*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Idealized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Idealizing</conjf> <pr>(?)</pr>.]</vmorph> <sn>1.</sn> <def>To make ideal; to consider as ideal; to give an ideal form or value to; to attribute ideal characteristics and excellences to; <as>as, to <ex>idealize</ex> real life</as>.</def> <wns>[wns=1]</wns><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Fine Arts)</fld> <def>To treat in an ideal manner. See <er>Idealization</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Fine Arts)</fld> <def>To treat in an ideal manner. See <er>Idealization</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>to form ideals.</def> <wns>[wns=2]</wns><br/
@@ -2253,7 +2253,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <hw>Il"e*ac</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Ileum</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>Pertaining to the ileum.</def> <altsp>[Written also <asp>iliac</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Iliac</er>, 1.</def> <mark>[R.]</mark><br/
+<p><sn>2.</sn> <def>See <er>Iliac</er>, <snr>1</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Ileac passion</b></col>. <fld>(Med.)</fld> <cd>See <er>Ileus</er>.</cd></cs><br/
@@ -2297,7 +2297,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <hw>Il"i*ac</hw>, <pos>a.</pos> <ety>[Cf. F. <ets>iliaque</ets>. See <er>Ileum</er>, and cf. <er>Jade</er> a stone.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>Pertaining to, or in the region of, the ilium, or dorsal bone of the pelvis; <as>as, the <ex>iliac</ex> artery</as>.</def> <altsp>[Written also <asp>ileac</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Ileac</er>, 1.</def> <mark>[R.]</mark><br/
+<p><sn>2.</sn> <def>See <er>Ileac</er>, <snr>1</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Iliac crest</b></col>, <cd>the upper margin of the ilium.</cd> -- <col><b>Iliac passion</b></col>. <cd>See <er>Ileus</er>.</cd> -- <col><b>Iliac region</b></col>, <cd>a region of the abdomen, on either side of the hypogastric regions, and below the lumbar regions.</cd></cs><br/
@@ -3905,7 +3905,7 @@ By whom in bliss <qex>imbosomed</qex> sat the Son.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imbrue</ent><br/
-<hw>Im*brue"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imbureed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imbureing</conjf>.]</vmorph> <ety>[Cf. OF. <ets>embruer</ets>, also <ets>embruver</ets>, <ets>embreuver</ets>, <ets>embrever</ets>, to give to drink, soak (see pref. <er>En-</er>, 1, 1st <er>In-</er>, and <er>Breverage</er>), but also OE. <ets>enbrewen</ets>, <ets>enbrowen</ets>, to stain, soil (cf. <er>Brewis</er>).]</ety> <def>To wet or moisten; to soak; to drench, especially in blood.</def><br/
+<hw>Im*brue"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imbureed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imbureing</conjf>.]</vmorph> <ety>[Cf. OF. <ets>embruer</ets>, also <ets>embruver</ets>, <ets>embreuver</ets>, <ets>embrever</ets>, to give to drink, soak (see pref. <er>En-</er>, <snr>1</snr>, 1st <er>In-</er>, and <er>Breverage</er>), but also OE. <ets>enbrewen</ets>, <ets>enbrowen</ets>, to stain, soil (cf. <er>Brewis</er>).]</ety> <def>To wet or moisten; to soak; to drench, especially in blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>While Darwen stream, will blood of Scots <qex>imbrued</qex>.</q> <rj><qau>Milton.</qau></rj><br/
@@ -4342,7 +4342,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>And Jesus . . . touched him, saying, I will; be thou clean. And <qex>immediately</qex> his leprosy was cleansed.</q> <rj><qau>Matt. viii. 3.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>As soon as.  Cf. <er>Directly</er>, 8, Note.</def></p>
+<p><sn>3.</sn> <def>As soon as.  Cf. <er>Directly</er>, <snr>8</snr>, Note.</def></p>
 
 <p><syn><b>Syn.</b> -- Directly; instantly; quickly; forthwith; straightway; presently. See <er>Directly</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -5231,7 +5231,7 @@ To writhe at leisure round the bloody stake.</q> <rj><qau>Addison.</qau></rj><br
 <p><sn>3.</sn> <def>That which hedges in; inclosure.</def> <mark>[R.]</mark>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Her.)</fld> <def>The division of a shield palewise, or by a vertical line, esp. for the purpose of putting side by side the arms of husband and wife. See <er>Impale</er>, 3.</def><br/
+<p><sn>4.</sn> <fld>(Her.)</fld> <def>The division of a shield palewise, or by a vertical line, esp. for the purpose of putting side by side the arms of husband and wife. See <er>Impale</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impalla</ent><br/
@@ -7606,7 +7606,7 @@ And fill the world with follies and <qex>impostures</qex>.</q> <rj><qau>Johnson.
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>impregnated</ent><br/
-<hw>impregnated</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>fertilized</er>, 1.</def> <hascons>fertile (vs. infertile)</hascons><br/
+<hw>impregnated</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>fertilized</er>, <snr>1</snr>.</def> <hascons>fertile (vs. infertile)</hascons><br/
 <syn><b>Syn. --</b> fertilized, inseminated.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -7823,7 +7823,7 @@ Here pierceth not, <qex>impregnate</qex> with disease.</q> <rj><qau>Byron.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>impregnated</ent><br/
-<hw>impregnated</hw> <pos>adj.</pos> <ety>[<pos>p. p.</pos> from <er>impregnate</er>.]</ety>  <def>same as <er>fertilized</er>, 1.</def><br/
+<hw>impregnated</hw> <pos>adj.</pos> <ety>[<pos>p. p.</pos> from <er>impregnate</er>.]</ety>  <def>same as <er>fertilized</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> fertilized, inseminated.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -10315,7 +10315,7 @@ On fire with faithless embers overspread.</q> <rj><qau>Francis.</qau></rj><br/
 <p><sn>2.</sn> <def>Tending to excite or inflame factions, sedition, or quarrel; inflammatory; seditious.</def>  <rj><au>Paley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incendiary device</b></col>, <cd>a device designed to set a structure on fire; a firebomb.</cd> -- <col><b>Incendiary shell</b></col>, <cd>a bombshell. See <er>Carcass</er>, 4.</cd></cs><br/
+<p><cs><col><b>Incendiary device</b></col>, <cd>a device designed to set a structure on fire; a firebomb.</cd> -- <col><b>Incendiary shell</b></col>, <cd>a bombshell. See <er>Carcass</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incendious</ent><br/
@@ -11253,7 +11253,7 @@ In both the scales, and each <qex>inclines</qex> to peace.</q> <rj><qau>Parnell.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inclining</ent><br/
-<hw>In*clin"ing</hw>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Same as <er>Inclined</er>, 3.</def><br/
+<hw>In*clin"ing</hw>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Same as <er>Inclined</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inclining</ent><br/
@@ -13113,7 +13113,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 <hw>increasing</hw> <pos>adj.</pos> <sn>1.</sn> <def>becoming greater or larger; <as>as, <ex>increasing</ex> prices</as>.</def> [Narrower terms: <stype>accretionary </stype>; <stype>augmenting, augmentative, building </stype>; <stype>expanding </stype>; <stype>flared, flaring </stype>; <stype>growing </stype>; <stype>incorporative </stype>; <stype>lengthening </stype>; <stype>maximizing </stype>; <stype>multiplicative </stype>; <stype>profit-maximizing </stype>; <stype>raising </stype>; <stype>accretive </stype>; <stype>rising </stype>] <ant>decreasing</ant><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn>  <def>same as <er>growing</er>, 1.</def> <mark>[prenominal]</mark><br/
+<p><sn>2.</sn>  <def>same as <er>growing</er>, <snr>1</snr>.</def> <mark>[prenominal]</mark><br/
 <syn><b>Syn. --</b> growing(prenominal), incremental.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -14372,7 +14372,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indention</ent><br/
-<hw>In*den"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Print.)</fld> <def>Same as <er>Indentation</er>, 4.</def><br/
+<hw>In*den"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Print.)</fld> <def>Same as <er>Indentation</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indentment</ent><br/
@@ -14656,7 +14656,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>11.</sn>  <fld>(R. C. Ch.)</fld>, <def>The <cref>Index prohibitorius</cref>, a catalogue of books which are forbidden by the church to be read; also called <altname>Index of forbidden books</altname> and <altname>Index Librorum Prohibitorum</altname>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Index error</b></col>, <cd>the error in the reading of a mathematical instrument arising from the zero of the index not being in complete adjustment with that of the limb, or with its theoretically perfect position in the instrument; a correction to be applied to the instrument readings equal to the error of the zero adjustment.</cd> -- <col><b>Index expurgatorius</b></col>. <ety>[L.]</ety> <cd>See <cref>Index prohibitorius</cref> (below).</cd> -- <col><b>Index finger</b></col>. <cd>See <er>Index</er>, 5.</cd> -- <col><b>Index glass</b></col>, <cd>the mirror on the index of a quadrant, sextant, etc.</cd> -- <col><b>Index hand</b></col>, <cd>the pointer or hand of a clock, watch, or other registering machine; a hand that points to something.</cd> -- <col><b>Index of a logarithm</b></col> <fld>(Math.)</fld>,  <cd>the integral part of the logarithm, and always one less than the number of integral figures in the given number. It is also called the <altname>characteristic</altname>.</cd> -- <mcol><col><b>Index of refraction</b></col>, <it>or</it>  <col><b>Refractive index</b></col></mcol> <fld>(Opt.)</fld>, <cd>the number which expresses the ratio of the sine of the angle of incidence to the sine of the angle of refraction. Thus the <xex>index of refraction</xex> for sulphur is 2, because, when light passes out of air into sulphur, the sine of the angle of incidence is double the sine of the angle of refraction.</cd> -- <col><b>Index plate</b></col>, <cd>a graduated circular plate, or one with circular rows of holes differently spaced; used in machines for graduating circles, cutting gear teeth, etc.</cd> -- <mcol><col><b>Index prohibitorius</b></col> <ety>[L.]</ety>, or <col><b>Prohibitory index</b></col></mcol> <fld>(R. C. Ch.)</fld>, <cd>a catalogue of books which are forbidden by the church to be read; the <xex>index expurgatorius</xex> <ety>[L.]</ety>, or <xex>expurgatory index</xex>, is a catalogue of books from which passages marked as against faith or morals must be removed before Catholics can read them. These catalogues are published with additions, from time to time, by the Congregation of the Index, composed of cardinals, theologians, etc., under the sanction of the pope.</cd> <au>Hook.</au> -- <col><b>Index rerum</b></col> <ety>[L.]</ety>, <cd>a tabulated and alphabetized notebook, for systematic preservation of items, quotations, etc.</cd></cs><br/
+<p><cs><col><b>Index error</b></col>, <cd>the error in the reading of a mathematical instrument arising from the zero of the index not being in complete adjustment with that of the limb, or with its theoretically perfect position in the instrument; a correction to be applied to the instrument readings equal to the error of the zero adjustment.</cd> -- <col><b>Index expurgatorius</b></col>. <ety>[L.]</ety> <cd>See <cref>Index prohibitorius</cref> (below).</cd> -- <col><b>Index finger</b></col>. <cd>See <er>Index</er>, <snr>5</snr>.</cd> -- <col><b>Index glass</b></col>, <cd>the mirror on the index of a quadrant, sextant, etc.</cd> -- <col><b>Index hand</b></col>, <cd>the pointer or hand of a clock, watch, or other registering machine; a hand that points to something.</cd> -- <col><b>Index of a logarithm</b></col> <fld>(Math.)</fld>,  <cd>the integral part of the logarithm, and always one less than the number of integral figures in the given number. It is also called the <altname>characteristic</altname>.</cd> -- <mcol><col><b>Index of refraction</b></col>, <it>or</it>  <col><b>Refractive index</b></col></mcol> <fld>(Opt.)</fld>, <cd>the number which expresses the ratio of the sine of the angle of incidence to the sine of the angle of refraction. Thus the <xex>index of refraction</xex> for sulphur is 2, because, when light passes out of air into sulphur, the sine of the angle of incidence is double the sine of the angle of refraction.</cd> -- <col><b>Index plate</b></col>, <cd>a graduated circular plate, or one with circular rows of holes differently spaced; used in machines for graduating circles, cutting gear teeth, etc.</cd> -- <mcol><col><b>Index prohibitorius</b></col> <ety>[L.]</ety>, or <col><b>Prohibitory index</b></col></mcol> <fld>(R. C. Ch.)</fld>, <cd>a catalogue of books which are forbidden by the church to be read; the <xex>index expurgatorius</xex> <ety>[L.]</ety>, or <xex>expurgatory index</xex>, is a catalogue of books from which passages marked as against faith or morals must be removed before Catholics can read them. These catalogues are published with additions, from time to time, by the Congregation of the Index, composed of cardinals, theologians, etc., under the sanction of the pope.</cd> <au>Hook.</au> -- <col><b>Index rerum</b></col> <ety>[L.]</ety>, <cd>a tabulated and alphabetized notebook, for systematic preservation of items, quotations, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Index</ent><br/
@@ -14717,7 +14717,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>3.</sn> <def>Made of maize or Indian corn; <as>as, <ex>Indian</ex> corn, <ex>Indian</ex> meal, <ex>Indian</ex> bread, and the like</as>.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indian</b></col> bay <fld>(Bot.)</fld>, <cd>a lauraceous tree (<spn>Persea Indica</spn>).</cd> -- <col><b>Indian bean</b></col> <fld>(Bot.)</fld>, <cd>a name of the catalpa.</cd> -- <col><b>Indian berry</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cocculus indicus</er>.</cd> -- <col><b>Indian bread</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cassava</er>.</cd> -- <col><b>Indian club</b></col>, <cd>a wooden club, which is swung by the hand for gymnastic exercise.</cd> -- <col><b>Indian cordage</b></col>, <cd>cordage made of the fibers of cocoanut husk.</cd> -- <col><b>Indian cress</b></col> <fld>(Bot.)</fld>, <cd>nasturtium. See <er>Nasturtium</er>, 2.</cd> -- <col><b>Indian cucumber</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Medeola</gen> (<spn>Medeola Virginica</spn>), a common in woods in the United States.  The white rootstock has a taste like cucumbers.</cd> -- <col><b>Indian currant</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Symphoricarpus</gen> (<spn>Symphoricarpus vulgaris</spn>), bearing small red berries.</cd> -- <col><b>Indian dye</b></col>, <cd>the puccoon.</cd> -- <col><b>Indian fig</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The banyan. See <er>Banyan</er>.</cd> <sd>(b)</sd> <cd>The prickly pear.</cd> -- <col><b>Indian file</b></col>, <cd>single file; arrangement of persons in a row following one after another, the usual way among Indians of traversing woods, especially when on the war path.</cd> -- <col><b>Indian fire</b></col>, <cd>a pyrotechnic composition of sulphur, niter, and realgar, burning with a brilliant white light.</cd> -- <col><b>Indian grass</b></col> <fld>(Bot.)</fld>, <cd>a coarse, high grass (<spn>Chrysopogon nutans</spn>), common in the southern portions of the United States; wood grass.</cd> <au>Gray.</au> -- <col><b>Indian hemp</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A plant of the genus <gen>Apocynum</gen> (<spn>Apocynum cannabinum</spn>), having a milky juice, and a tough, fibrous bark, whence the name. The root it used in medicine and is both emetic and cathartic in properties.</cd> <sd>(b)</sd> <cd>The variety of common hemp (<spn>Cannabis Indica</spn>), from which hasheesh is obtained.</cd> -- <col><b>Indian mallow</b></col> <fld>(Bot.)</fld>, <cd>the velvet leaf (<spn>Abutilon Avicenn<ae/</spn>). See <er>Abutilon</er>.</cd> -- <col><b>Indian meal</b></col>, <cd>ground corn or maize.</cd> <mark>[U.S.]</mark> -- <col><b>Indian millet</b></col> <fld>(Bot.)</fld>, <cd>a tall annual grass (<spn>Sorghum vulgare</spn>), having many varieties, among which are broom corn, Guinea corn, durra, and the Chinese sugar cane. It is called also <altname>Guinea corn</altname>. See <er>Durra</er>.</cd> -- <col><b>Indian ox</b></col> <fld>(Zool.)</fld>, <cd>the zebu.</cd> -- <col><b>Indian paint</b></col>. <cd>See <er>Bloodroot</er>.</cd> -- <col><b>Indian paper</b></col>. <cd>See <cref>India paper</cref>, under <er>India</er>.</cd> -- <col><b>Indian physic</b></col> <fld>(Bot.)</fld>, <cd>a plant of two species of the genus <gen>Gillenia</gen> (<spn>Gillenia trifoliata</spn>, and <spn>Gillenia stipulacea</spn>), common in the United States, the roots of which are used in medicine as a mild emetic; -- called also <altname>American ipecac</altname>, and <altname>bowman's root</altname>.</cd> <au>Gray.</au> -- <col><b>Indian pink</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The Cypress vine (<spn>Ipom<oe/a Quamoclit</spn>); -- so called in the West Indies.</cd> <sd>(b)</sd> <cd>See <cref>China pink</cref>, under <er>China</er>.</cd> -- <col><b>Indian pipe</b></col> <fld>(Bot.)</fld>, <cd>a low, fleshy herb (<spn>Monotropa uniflora</spn>), growing in clusters in dark woods, and having scalelike leaves, and a solitary nodding flower. The whole plant is waxy white, but turns black in drying.</cd> -- <col><b>Indian plantain</b></col> <fld>(Bot.)</fld>, <cd>a name given to several species of the genus <gen>Cacalia</gen>, tall herbs with composite white flowers, common through the United States in rich woods.</cd> <au>Gray.</au> -- <col><b>Indian poke</b></col> <fld>(Bot.)</fld>, <cd>a plant usually known as the <altname>white hellebore</altname> (<spn>Veratrum viride</spn>).</cd> -- <col><b>Indian pudding</b></col>, <cd>a pudding of which the chief ingredients are Indian meal, milk, and molasses.</cd> -- <col><b>Indian purple</b></col>. <sd>(a)</sd> <cd>A dull purple color.</cd> <sd>(b)</sd> <cd>The pigment of the same name, intensely blue and black.</cd> -- <col><b>Indian red</b></col>. <sd>(a)</sd> <cd>A purplish red earth or pigment composed of a silicate of iron and alumina, with magnesia. It comes from the Persian Gulf. Called also <altname>Persian red</altname>.</cd> <sd>(b)</sd> <cd>See <er>Almagra</er>.</cd> -- <col><b>Indian rice</b></col> <fld>(Bot.)</fld>, <cd>a reedlike water grass. See <er>Rice</er>.</cd> -- <col><b>Indian shot</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Canna</gen> (<spn>Canna Indica</spn>).  The hard black seeds are as large as swan shot. See <er>Canna</er>.</cd> -- <col><b>Indian summer</b></col>, <cd>in the United States, a period of warm and pleasant weather occurring late in autumn. See under <er>Summer</er>.</cd> -- <col><b>Indian tobacco</b></col> <fld>(Bot.)</fld>, <cd>a species of <gen>Lobelia</gen>. See <er>Lobelia</er>.</cd> -- <col><b>Indian turnip</b></col> <fld>(Bot.)</fld>, <cd>an American plant of the genus <gen>Aris<ae/ma</gen>. <spn>Aris<ae/ma triphyllum</spn> has a wrinkled farinaceous root resembling a small turnip, but with a very acrid juice. See <er>Jack in the Pulpit</er>, and <er>Wake-robin</er>.</cd> -- <col><b>Indian wheat</b></col>, <cd>maize or Indian corn.</cd> -- <col><b>Indian yellow</b></col>. <sd>(a)</sd> <cd>An intense rich yellow color, deeper than gamboge but less pure than cadmium.</cd> <sd>(b)</sd> <cd>See <er>Euxanthin</er>.</cd></cs><br/
+<p><cs><col><b>Indian</b></col> bay <fld>(Bot.)</fld>, <cd>a lauraceous tree (<spn>Persea Indica</spn>).</cd> -- <col><b>Indian bean</b></col> <fld>(Bot.)</fld>, <cd>a name of the catalpa.</cd> -- <col><b>Indian berry</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cocculus indicus</er>.</cd> -- <col><b>Indian bread</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cassava</er>.</cd> -- <col><b>Indian club</b></col>, <cd>a wooden club, which is swung by the hand for gymnastic exercise.</cd> -- <col><b>Indian cordage</b></col>, <cd>cordage made of the fibers of cocoanut husk.</cd> -- <col><b>Indian cress</b></col> <fld>(Bot.)</fld>, <cd>nasturtium. See <er>Nasturtium</er>, <snr>2</snr>.</cd> -- <col><b>Indian cucumber</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Medeola</gen> (<spn>Medeola Virginica</spn>), a common in woods in the United States.  The white rootstock has a taste like cucumbers.</cd> -- <col><b>Indian currant</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Symphoricarpus</gen> (<spn>Symphoricarpus vulgaris</spn>), bearing small red berries.</cd> -- <col><b>Indian dye</b></col>, <cd>the puccoon.</cd> -- <col><b>Indian fig</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The banyan. See <er>Banyan</er>.</cd> <sd>(b)</sd> <cd>The prickly pear.</cd> -- <col><b>Indian file</b></col>, <cd>single file; arrangement of persons in a row following one after another, the usual way among Indians of traversing woods, especially when on the war path.</cd> -- <col><b>Indian fire</b></col>, <cd>a pyrotechnic composition of sulphur, niter, and realgar, burning with a brilliant white light.</cd> -- <col><b>Indian grass</b></col> <fld>(Bot.)</fld>, <cd>a coarse, high grass (<spn>Chrysopogon nutans</spn>), common in the southern portions of the United States; wood grass.</cd> <au>Gray.</au> -- <col><b>Indian hemp</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A plant of the genus <gen>Apocynum</gen> (<spn>Apocynum cannabinum</spn>), having a milky juice, and a tough, fibrous bark, whence the name. The root it used in medicine and is both emetic and cathartic in properties.</cd> <sd>(b)</sd> <cd>The variety of common hemp (<spn>Cannabis Indica</spn>), from which hasheesh is obtained.</cd> -- <col><b>Indian mallow</b></col> <fld>(Bot.)</fld>, <cd>the velvet leaf (<spn>Abutilon Avicenn<ae/</spn>). See <er>Abutilon</er>.</cd> -- <col><b>Indian meal</b></col>, <cd>ground corn or maize.</cd> <mark>[U.S.]</mark> -- <col><b>Indian millet</b></col> <fld>(Bot.)</fld>, <cd>a tall annual grass (<spn>Sorghum vulgare</spn>), having many varieties, among which are broom corn, Guinea corn, durra, and the Chinese sugar cane. It is called also <altname>Guinea corn</altname>. See <er>Durra</er>.</cd> -- <col><b>Indian ox</b></col> <fld>(Zool.)</fld>, <cd>the zebu.</cd> -- <col><b>Indian paint</b></col>. <cd>See <er>Bloodroot</er>.</cd> -- <col><b>Indian paper</b></col>. <cd>See <cref>India paper</cref>, under <er>India</er>.</cd> -- <col><b>Indian physic</b></col> <fld>(Bot.)</fld>, <cd>a plant of two species of the genus <gen>Gillenia</gen> (<spn>Gillenia trifoliata</spn>, and <spn>Gillenia stipulacea</spn>), common in the United States, the roots of which are used in medicine as a mild emetic; -- called also <altname>American ipecac</altname>, and <altname>bowman's root</altname>.</cd> <au>Gray.</au> -- <col><b>Indian pink</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The Cypress vine (<spn>Ipom<oe/a Quamoclit</spn>); -- so called in the West Indies.</cd> <sd>(b)</sd> <cd>See <cref>China pink</cref>, under <er>China</er>.</cd> -- <col><b>Indian pipe</b></col> <fld>(Bot.)</fld>, <cd>a low, fleshy herb (<spn>Monotropa uniflora</spn>), growing in clusters in dark woods, and having scalelike leaves, and a solitary nodding flower. The whole plant is waxy white, but turns black in drying.</cd> -- <col><b>Indian plantain</b></col> <fld>(Bot.)</fld>, <cd>a name given to several species of the genus <gen>Cacalia</gen>, tall herbs with composite white flowers, common through the United States in rich woods.</cd> <au>Gray.</au> -- <col><b>Indian poke</b></col> <fld>(Bot.)</fld>, <cd>a plant usually known as the <altname>white hellebore</altname> (<spn>Veratrum viride</spn>).</cd> -- <col><b>Indian pudding</b></col>, <cd>a pudding of which the chief ingredients are Indian meal, milk, and molasses.</cd> -- <col><b>Indian purple</b></col>. <sd>(a)</sd> <cd>A dull purple color.</cd> <sd>(b)</sd> <cd>The pigment of the same name, intensely blue and black.</cd> -- <col><b>Indian red</b></col>. <sd>(a)</sd> <cd>A purplish red earth or pigment composed of a silicate of iron and alumina, with magnesia. It comes from the Persian Gulf. Called also <altname>Persian red</altname>.</cd> <sd>(b)</sd> <cd>See <er>Almagra</er>.</cd> -- <col><b>Indian rice</b></col> <fld>(Bot.)</fld>, <cd>a reedlike water grass. See <er>Rice</er>.</cd> -- <col><b>Indian shot</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Canna</gen> (<spn>Canna Indica</spn>).  The hard black seeds are as large as swan shot. See <er>Canna</er>.</cd> -- <col><b>Indian summer</b></col>, <cd>in the United States, a period of warm and pleasant weather occurring late in autumn. See under <er>Summer</er>.</cd> -- <col><b>Indian tobacco</b></col> <fld>(Bot.)</fld>, <cd>a species of <gen>Lobelia</gen>. See <er>Lobelia</er>.</cd> -- <col><b>Indian turnip</b></col> <fld>(Bot.)</fld>, <cd>an American plant of the genus <gen>Aris<ae/ma</gen>. <spn>Aris<ae/ma triphyllum</spn> has a wrinkled farinaceous root resembling a small turnip, but with a very acrid juice. See <er>Jack in the Pulpit</er>, and <er>Wake-robin</er>.</cd> -- <col><b>Indian wheat</b></col>, <cd>maize or Indian corn.</cd> -- <col><b>Indian yellow</b></col>. <sd>(a)</sd> <cd>An intense rich yellow color, deeper than gamboge but less pure than cadmium.</cd> <sd>(b)</sd> <cd>See <er>Euxanthin</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indian</ent><br/
@@ -15345,7 +15345,7 @@ So great <qex>indignities</qex> you laid upon me?</q> <rj><qau>Shak.</qau></rj><
 <p><sn>1.</sn> <fld>(Chem.)</fld> <def>See <cref>Indigo white</cref>, under <er>Indigo</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Physiol. Chem.)</fld> <def>Same as <er>Indican</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Physiol. Chem.)</fld> <def>Same as <er>Indican</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indigometer</ent><br/
@@ -18933,7 +18933,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 <p><note>With the auxiliary verbs <xex>may</xex>, <xex>can</xex>, <xex>must</xex>, <xex>might</xex>, <xex>could</xex>, <xex>would</xex>, and <xex>should</xex>, the simple infinitive is expressed without <xex>to</xex>; as, you <xex>may speak</xex>; they <xex>must hear</xex>, etc. The infinitive usually omits <xex>to</xex> with the verbs <xex>let</xex>, <xex>dare</xex>, <xex>do</xex>, <xex>bid</xex>, <xex>make</xex>, <xex>see</xex>, <xex>hear</xex>, <xex>need</xex>, etc.; as, let me <xex>go</xex>; you dare not <xex>tell</xex>; make him <xex>work</xex>; hear him <xex>talk</xex>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In Anglo-Saxon, the simple infinitive was not preceded by <xex>to</xex> (the sign of modern simple infinitive), but it had a dative form (sometimes called the gerundial infinitive) which was preceded by <xex>to</xex>, and was chiefly employed in expressing purpose. See <er>Gerund</er>, 2.</note><br/
+<p><note><hand/ In Anglo-Saxon, the simple infinitive was not preceded by <xex>to</xex> (the sign of modern simple infinitive), but it had a dative form (sometimes called the gerundial infinitive) which was preceded by <xex>to</xex>, and was chiefly employed in expressing purpose. See <er>Gerund</er>, <snr>2</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note>The gerundial ending (-<xex>anne</xex>) not only took the same form as the simple infinitive (-<xex>an</xex>), but it was confounded with the present participle in -<xex>ende</xex>, or -<xex>inde</xex> (later -<xex>inge</xex>).</note><br/
@@ -20770,7 +20770,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 <syn><b>Syn. --</b> coaxing.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><sn>2.</sn>  <def>calculated to please or gain favor; same as <er>ingratiating</er>, 2.</def><br/
+<p><sn>2.</sn>  <def>calculated to please or gain favor; same as <er>ingratiating</er>, <snr>2</snr>.</def><br/
 <syn><b>Syn. --</b> ingratiating.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -23341,7 +23341,7 @@ Though inaccessible, his fatal throne.</q> <rj><qau>Milton.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insane</ent><br/
-<hw>In*sane"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>insanus</ets>. See <er>In-</er> not, and <er>Sane</er>.]</ety> <sn>1.</sn> <def>Exhibiting unsoundness or disorder of mind; not sane; mad; deranged in mind; delirious; distracted. See <er>Insanity</er>, 2.</def><br/
+<hw>In*sane"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>insanus</ets>. See <er>In-</er> not, and <er>Sane</er>.]</ety> <sn>1.</sn> <def>Exhibiting unsoundness or disorder of mind; not sane; mad; deranged in mind; delirious; distracted. See <er>Insanity</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Used by, or appropriated to, insane persons; <as>as, an <ex>insane</ex> hospital</as>.</def><br/
@@ -23753,7 +23753,7 @@ Which is <qex>inscrutable</qex>.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>inseminated</ent><br/
-<hw>inseminated</hw> <pos>adj.</pos>  <def>same as <er>fertilized</er>, 1.</def><br/
+<hw>inseminated</hw> <pos>adj.</pos>  <def>same as <er>fertilized</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> fertilized, impregnated.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -27408,7 +27408,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interaxis</ent><br/
-<hw>In`ter*ax"is</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Interaxes</plw> <pr>(<?/)</pr>.</plu> <fld>(Arch.)</fld> <def>The space between two axes. See <er>Axis</er>, 6.</def><br/
+<hw>In`ter*ax"is</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Interaxes</plw> <pr>(<?/)</pr>.</plu> <fld>(Arch.)</fld> <def>The space between two axes. See <er>Axis</er>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The doors, windows, niches, and the like, are then placed centrally in the <qex>interaxes</qex>.</q> <rj><qau>Gwilt.</qau></rj><br/
@@ -28237,7 +28237,7 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To strike one foot against the opposite foot or ankle in using the legs; -- sometimes said of a human being, but usually of a horse; <as>as, the horse <ex>interferes</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Physics)</fld> <def>To act reciprocally, so as to augment, diminish, or otherwise affect one another; -- said of waves, rays of light, heat, etc. See <er>Interference</er>, 2.</def><br/
+<p><sn>4.</sn> <fld>(Physics)</fld> <def>To act reciprocally, so as to augment, diminish, or otherwise affect one another; -- said of waves, rays of light, heat, etc. See <er>Interference</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Patent Law)</fld> <def>To cover the same ground; to claim the same invention; <as>as, to <ex>interfere</ex> with another patent</as>.</def><br/
@@ -31778,7 +31778,7 @@ Which are too <qex>intrinse</qex> to unloose.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>introvertive</ent><br/
-<hw>introvertive</hw> <pos>adj.</pos>  <def>same as <er>introverted</er>, 2.</def><br/
+<hw>introvertive</hw> <pos>adj.</pos>  <def>same as <er>introverted</er>, <snr>2</snr>.</def><br/
 <syn><b>Syn. --</b> introvert, introverted.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
@@ -32636,7 +32636,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>In*verse"ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In an inverse order or manner; by inversion; -- opposed to <contr>directly</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inversely proportional</b></col>. <cd>See <cref>Directly proportional</cref>, under <er>Directly</er>, and <er>Inversion</er>, 4.</cd></cs><br/
+<p><cs><col><b>Inversely proportional</b></col>. <cd>See <cref>Directly proportional</cref>, under <er>Directly</er>, and <er>Inversion</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inversion</ent><br/
@@ -34234,7 +34234,7 @@ More images are available at the NASA site.</note><br/
 <p><sn>5.</sn> <fld>(Bot.)</fld> <def>A genus of plants having showy flowers and bulbous or tuberous roots, of which the flower-de-luce (<xex>fleur-de-lis</xex>), orris, and other species of flag are examples. See <xex>Illust.</xex> of <er>Flower-de-luce</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Her.)</fld> <def>See <er>Fleur-de-lis</er>, 2.</def><br/
+<p><sn>6.</sn> <fld>(Her.)</fld> <def>See <er>Fleur-de-lis</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <fld>(Zool.)</fld> <def>the inner circle of an oscillated color spot.</def><br/

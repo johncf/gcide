@@ -508,7 +508,7 @@ This tempest, and deserve the name of king.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Faciend</ent><br/
-<hw>Fa"ci*end</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From neut. of L. <ets>faciendus</ets>, gerundive of <ets>facere</ets> to do.]</ety> <fld>(Mach.)</fld> <def>The multiplicand. See <er>Facient</er>, 2.</def><br/
+<hw>Fa"ci*end</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From neut. of L. <ets>faciendus</ets>, gerundive of <ets>facere</ets> to do.]</ety> <fld>(Mach.)</fld> <def>The multiplicand. See <er>Facient</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Facient</ent><br/
@@ -893,7 +893,7 @@ That owes me for a hundred tun of wine.</q> <rj><qau>Marlowe.</qau></rj><br/
 \'d8<hw>Fac"tum</hw> <pr>(f<acr/k"t<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Facta</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Fact</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A man's own act and deed</def>; particularly: <sd>(a)</sd> <fld>(Civil Law)</fld> <def>Anything stated and made certain.</def> <sd>(b)</sd> <fld>(Testamentary Law)</fld> <def>The due execution of a will, including everything necessary to its validity.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mach.)</fld> <def>The product. See <er>Facient</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Mach.)</fld> <def>The product. See <er>Facient</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Facture</ent><br/
@@ -1196,7 +1196,7 @@ Made a dim silver twilight.</q> <rj><qau>Keats.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>fagged</ent><br/
-<hw>fagged</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>burned-out</er>, 1.</def><br/
+<hw>fagged</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>burned-out</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> burned-out(prenominal), burnt-out(prenominal), burned out(predicate), burnt out(predicate), exhausted, fatigued, played-out(prenominal), played out(predicate), spent, washed-out(prenominal), washed out(predicate), worn-out(prenominal), worn out(predicate).</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -5298,7 +5298,7 @@ Being so <qex>fathered</qex> and so husbanded ?</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Father longlegs</ent><br/
-<hw>Fa"ther long"legs`</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>See <er>Daddy longlegs</er>, 2.</def><br/
+<hw>Fa"ther long"legs`</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>See <er>Daddy longlegs</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fatherly</ent><br/
@@ -11598,7 +11598,7 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>2.</sn> <def>Not literal; figurative.</def> <mark>[Obs.]</mark>  <rj><au>Locke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>Free and florid; <as>as, a <ex>figured</ex> descant</as>. See <er>Figurate</er>, 3.</def> <sd>(b)</sd> <def>Indicated or noted by figures.</def><br/
+<p><sn>3.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>Free and florid; <as>as, a <ex>figured</ex> descant</as>. See <er>Figurate</er>, <snr>3</snr>.</def> <sd>(b)</sd> <def>Indicated or noted by figures.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Figured bass</b></col>. <cd>See <cref>Continued bass</cref>, under <er>Continued</er>.</cd></cs><br/
@@ -14840,7 +14840,7 @@ Dies <qex>fitfully away</qex>.</q> <rj><qau>Macaulay.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>fitted out</ent><br/
-<hw>fitted out</hw> <pos>adj.</pos> <def>same as <er>outfitted</er>, 1.</def><br/
+<hw>fitted out</hw> <pos>adj.</pos> <def>same as <er>outfitted</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> outfitted.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -17175,7 +17175,7 @@ And horse collars made of's skin.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 <p><sn>2.</sn> <def>White, flecked with minute dots of bay or sorrel; -- said of the color of a horse.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn>  <def>same as <er>creaky</er>, 1.</def> <wns>[wns=1]</wns><br/
+<p><sn>3.</sn>  <def>same as <er>creaky</er>, <snr>1</snr>.</def> <wns>[wns=1]</wns><br/
 <syn><b>Syn. --</b> creaky, decrepit, run-down, rundown, woebegone.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -18698,7 +18698,7 @@ Do 'twixt their fingers <qex>flip</qex> their cherry stones.</q> <rj><qau>W. Bro
 <p><sn>12.</sn> <def>a vehicle on which an exhibit or display is mounted, driven or pulled as part of a parade.  The float often is based on a large flat platform, and may contain a very elaborate structure with a tableau or people.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Float board</b></col>, <cd>one of the boards fixed radially to the rim of an undershot water wheel or of a steamer's paddle wheel; -- a vane.</cd> -- <col><b>Float case</b></col> <fld>(Naut.)</fld>, <cd>a caisson used for lifting a ship.</cd> -- <mcol><col><b>Float copper</b></col> <it>or</it> <col><b>Float gold</b></col></mcol> <fld>(Mining)</fld>, <cd>fine particles of metallic copper or of gold suspended in water, and thus liable to be lost.</cd> -- <col><b>Float ore</b></col>, <cd>water-worn particles of ore; fragments of vein material found on the surface, away from the vein outcrop.</cd> <au>Raymond.</au> -- <col><b>Float stone</b></col> <fld>(Arch.)</fld>, <cd>a siliceous stone used to rub stonework or brickwork to a smooth surface.</cd> -- <col><b>Float valve</b></col>, <cd>a valve or cock acted upon by a float. See <er>Float</er>, 1 <sdr>(b)</sdr>.</cd></cs><br/
+<p><cs><col><b>Float board</b></col>, <cd>one of the boards fixed radially to the rim of an undershot water wheel or of a steamer's paddle wheel; -- a vane.</cd> -- <col><b>Float case</b></col> <fld>(Naut.)</fld>, <cd>a caisson used for lifting a ship.</cd> -- <mcol><col><b>Float copper</b></col> <it>or</it> <col><b>Float gold</b></col></mcol> <fld>(Mining)</fld>, <cd>fine particles of metallic copper or of gold suspended in water, and thus liable to be lost.</cd> -- <col><b>Float ore</b></col>, <cd>water-worn particles of ore; fragments of vein material found on the surface, away from the vein outcrop.</cd> <au>Raymond.</au> -- <col><b>Float stone</b></col> <fld>(Arch.)</fld>, <cd>a siliceous stone used to rub stonework or brickwork to a smooth surface.</cd> -- <col><b>Float valve</b></col>, <cd>a valve or cock acted upon by a float. See <er>Float</er>, <snr>1</snr> <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Float</ent><br/
@@ -20274,7 +20274,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Flukeworm</ent><br/
-<hw>Fluke"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Same as 1st <er>Fluke</er>, 2.</def><br/
+<hw>Fluke"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Same as 1st <er>Fluke</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluky</ent><br/
@@ -20987,7 +20987,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluxions</ent><br/
-<hw>Flux"ions</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Math.)</fld> <def>See <er>Fluxion</er>, 6<sdr>(b)</sdr>.</def><br/
+<hw>Flux"ions</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Math.)</fld> <def>See <er>Fluxion</er>, <snr>6</snr><sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fluxive</ent><br/
@@ -21224,7 +21224,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj><br/
 
 <p><-- p. 577 --></p>
 
-<p><cs><col><b>Flying army</b></col> <fld>(Mil.)</fld> <cd>a body of cavalry and infantry, kept in motion, to cover its own garrisons and to keep the enemy in continual alarm.</cd> <au>Farrow.</au> --<col><b>Flying artillery</b></col> <fld>(Mil.)</fld>, <cd>artillery trained to rapid evolutions, -- the men being either mounted or trained to spring upon the guns and caissons when they change position.</cd> -- <mcol><col><b>Flying bridge</b></col>, <col><b>Flying camp</b></col></mcol>. <cd>See under <er>Bridge</er>, and <er>Camp</er>.</cd> -- <col><b>Flying buttress</b></col> <fld>(Arch.)</fld>, <cd>a contrivance for taking up the thrust of a roof or vault which can not be supported by ordinary buttresses. It consists of a straight bar of masonry, usually sloping, carried on an arch, and a solid pier or buttress sufficient to receive the thrust. The word is generally applied only to the straight bar with supporting arch.</cd> -- <col><b>Flying colors</b></col>, <cd>flags unfurled and waving in the air</cd>; hence: <col><b>To come off with flying colors</b></col>, <cd>to be victorious; to succeed thoroughly in an undertaking.</cd> -- <col><b>Flying doe</b></col> <fld>(Zool.)</fld>, <cd>a young female kangaroo.</cd> -- <col><b>Flying dragon</b></col>. <sd>(a)</sd> <fld>(Zool.)</fld> <cd>See <er>Dragon</er>, 6.</cd> <sd>(b)</sd> <cd>A meteor. See under <er>Dragon</er>.</cd> -- <col><b>Flying Dutchman</b></col>. <sd>(a)</sd> <cd>A fabled Dutch mariner condemned for his crimes to sail the seas till the day of judgment.</cd> <sd>(b)</sd> <cd>A spectral ship.</cd> -- <col><b>Flying fish</b></col>. <fld>(Zool.)</fld> <cd>See <er>Flying fish</er>, in the Vocabulary.</cd> -- <col><b>Flying fox</b></col> <fld>(Zool.)</fld>, <cd>see <er>Flying fox</er> in the vocabulary.</cd> -- <col><b>Flying frog</b></col> <fld>(Zool.)</fld>, <cd>either of two East Indian tree frogs of the genus <gen>Rhacophorus</gen> (<spn>Rhacophorus nigrapalmatus</spn> and <spn>Rhacophorus pardalis</spn>), having very large and broadly webbed feet, which serve as parachutes, and enable it to make very long leaps.</cd> -- <col><b>Flying gurnard</b></col> <fld>(Zool.)</fld>, <cd>a species of gurnard of the genus <gen>Cephalacanthus</gen> or <gen>Dactylopterus</gen>, with very large pectoral fins, said to be able to fly like the flying fish, but not for so great a distance.</cd> <note>Three species are known; that of the Atlantic is <spn>Cephalacanthus volitans</spn>.</note> -- <col><b>Flying jib</b></col> <fld>(Naut.)</fld>, <cd>a sail extended outside of the standing jib, on the flying-jib boom.</cd> -- <col><b>Flying-jib boom</b></col> <fld>(Naut.)</fld>, <cd>an extension of the jib boom.</cd> -- <col><b>Flying kites</b></col> <fld>(Naut.)</fld>, <cd>light sails carried only in fine weather.</cd> -- <col><b>Flying lemur</b></col>. <fld>(Zool.)</fld> <cd>See <er>Colugo</er>.</cd> -- <col><b>Flying level</b></col> <fld>(Civil Engin.)</fld>, <cd>a reconnoissance level over the course of a projected road, canal, etc.</cd> -- <col><b>Flying lizard</b></col>. <fld>(Zool.)</fld> <cd>See <er>Dragon</er>, <pos>n.</pos> 6.</cd> -- <mcol><col><b>Flying machine</b></col>, <cd>any apparatus for navigating through the air, especially a heavier-than-air machine.</cd> -- <col><b>Flying mouse</b></col> <fld>(Zool.)</fld>, <cd>the opossum mouse (<spn>Acrobates pygm<ae/us</spn>), a marsupial of Australia.  Called also <altname>feathertail glider</altname>.</cd> <note>It has lateral folds of skin, like the flying squirrels, and a featherlike tail.</note> -- <col><b>Flying party</b></col> <fld>(Mil.)</fld>, <cd>a body of soldiers detailed to hover about an enemy.</cd> -- <col><b>Flying phalanger</b></col> <fld>(Zool.)</fld>, <cd>one of several species of small marsuupials of the genera <gen>Petaurus</gen> and <gen>Belideus</gen>, of Australia and New Guinea, having lateral folds like those of the flying squirrels.  The sugar squirrel (<spn>Belideus sciureus</spn>), and the ariel (<spn>Belideus ariel</spn>), are the best known; -- called also <altname>squirrel petaurus</altname> and <altname>flying squirrel</altname>. See <er>Sugar squirrel</er>.</cd> -- <col><b>Flying pinion</b></col>, <cd>the fly of a clock.</cd> -- <col><b>Flying sap</b></col> <fld>(Mil.)</fld>, <cd>the rapid construction of trenches (when the enemy's fire of case shot precludes the method of simple trenching), by means of gabions placed in juxtaposition and filled with earth.</cd> -- <col><b>Flying shot</b></col>, <cd>a shot fired at a moving object, as a bird on the wing.</cd> -- <col><b>Flying spider</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ballooning spider</er>.</cd> -- <col><b>Flying squid</b></col> <fld>(Zool.)</fld>, <cd>an oceanic squid (<spn>Ommastrephes Bartramii</spn> syn. <spn>Sthenoteuthis Bartramii</spn>), abundant in the Gulf Stream, which is able to leap out of the water with such force that it often falls on the deck of a vessel.</cd> -- <col><b>Flying squirrel</b></col> <fld>(Zool.)</fld> <cd>See <er>Flying squirrel</er>, in the Vocabulary.</cd> -- <col><b>Flying start</b></col>, <cd>a start in a sailing race in which the signal is given while the vessels are under way.</cd> -- <col><b>Flying torch</b></col></mcol> <fld>(Mil.)</fld>, <cd>a torch attached to a long staff and used for signaling at night.</cd></cs><br/
+<p><cs><col><b>Flying army</b></col> <fld>(Mil.)</fld> <cd>a body of cavalry and infantry, kept in motion, to cover its own garrisons and to keep the enemy in continual alarm.</cd> <au>Farrow.</au> --<col><b>Flying artillery</b></col> <fld>(Mil.)</fld>, <cd>artillery trained to rapid evolutions, -- the men being either mounted or trained to spring upon the guns and caissons when they change position.</cd> -- <mcol><col><b>Flying bridge</b></col>, <col><b>Flying camp</b></col></mcol>. <cd>See under <er>Bridge</er>, and <er>Camp</er>.</cd> -- <col><b>Flying buttress</b></col> <fld>(Arch.)</fld>, <cd>a contrivance for taking up the thrust of a roof or vault which can not be supported by ordinary buttresses. It consists of a straight bar of masonry, usually sloping, carried on an arch, and a solid pier or buttress sufficient to receive the thrust. The word is generally applied only to the straight bar with supporting arch.</cd> -- <col><b>Flying colors</b></col>, <cd>flags unfurled and waving in the air</cd>; hence: <col><b>To come off with flying colors</b></col>, <cd>to be victorious; to succeed thoroughly in an undertaking.</cd> -- <col><b>Flying doe</b></col> <fld>(Zool.)</fld>, <cd>a young female kangaroo.</cd> -- <col><b>Flying dragon</b></col>. <sd>(a)</sd> <fld>(Zool.)</fld> <cd>See <er>Dragon</er>, <snr>6</snr>.</cd> <sd>(b)</sd> <cd>A meteor. See under <er>Dragon</er>.</cd> -- <col><b>Flying Dutchman</b></col>. <sd>(a)</sd> <cd>A fabled Dutch mariner condemned for his crimes to sail the seas till the day of judgment.</cd> <sd>(b)</sd> <cd>A spectral ship.</cd> -- <col><b>Flying fish</b></col>. <fld>(Zool.)</fld> <cd>See <er>Flying fish</er>, in the Vocabulary.</cd> -- <col><b>Flying fox</b></col> <fld>(Zool.)</fld>, <cd>see <er>Flying fox</er> in the vocabulary.</cd> -- <col><b>Flying frog</b></col> <fld>(Zool.)</fld>, <cd>either of two East Indian tree frogs of the genus <gen>Rhacophorus</gen> (<spn>Rhacophorus nigrapalmatus</spn> and <spn>Rhacophorus pardalis</spn>), having very large and broadly webbed feet, which serve as parachutes, and enable it to make very long leaps.</cd> -- <col><b>Flying gurnard</b></col> <fld>(Zool.)</fld>, <cd>a species of gurnard of the genus <gen>Cephalacanthus</gen> or <gen>Dactylopterus</gen>, with very large pectoral fins, said to be able to fly like the flying fish, but not for so great a distance.</cd> <note>Three species are known; that of the Atlantic is <spn>Cephalacanthus volitans</spn>.</note> -- <col><b>Flying jib</b></col> <fld>(Naut.)</fld>, <cd>a sail extended outside of the standing jib, on the flying-jib boom.</cd> -- <col><b>Flying-jib boom</b></col> <fld>(Naut.)</fld>, <cd>an extension of the jib boom.</cd> -- <col><b>Flying kites</b></col> <fld>(Naut.)</fld>, <cd>light sails carried only in fine weather.</cd> -- <col><b>Flying lemur</b></col>. <fld>(Zool.)</fld> <cd>See <er>Colugo</er>.</cd> -- <col><b>Flying level</b></col> <fld>(Civil Engin.)</fld>, <cd>a reconnoissance level over the course of a projected road, canal, etc.</cd> -- <col><b>Flying lizard</b></col>. <fld>(Zool.)</fld> <cd>See <er>Dragon</er>, <pos>n.</pos> 6.</cd> -- <mcol><col><b>Flying machine</b></col>, <cd>any apparatus for navigating through the air, especially a heavier-than-air machine.</cd> -- <col><b>Flying mouse</b></col> <fld>(Zool.)</fld>, <cd>the opossum mouse (<spn>Acrobates pygm<ae/us</spn>), a marsupial of Australia.  Called also <altname>feathertail glider</altname>.</cd> <note>It has lateral folds of skin, like the flying squirrels, and a featherlike tail.</note> -- <col><b>Flying party</b></col> <fld>(Mil.)</fld>, <cd>a body of soldiers detailed to hover about an enemy.</cd> -- <col><b>Flying phalanger</b></col> <fld>(Zool.)</fld>, <cd>one of several species of small marsuupials of the genera <gen>Petaurus</gen> and <gen>Belideus</gen>, of Australia and New Guinea, having lateral folds like those of the flying squirrels.  The sugar squirrel (<spn>Belideus sciureus</spn>), and the ariel (<spn>Belideus ariel</spn>), are the best known; -- called also <altname>squirrel petaurus</altname> and <altname>flying squirrel</altname>. See <er>Sugar squirrel</er>.</cd> -- <col><b>Flying pinion</b></col>, <cd>the fly of a clock.</cd> -- <col><b>Flying sap</b></col> <fld>(Mil.)</fld>, <cd>the rapid construction of trenches (when the enemy's fire of case shot precludes the method of simple trenching), by means of gabions placed in juxtaposition and filled with earth.</cd> -- <col><b>Flying shot</b></col>, <cd>a shot fired at a moving object, as a bird on the wing.</cd> -- <col><b>Flying spider</b></col>. <fld>(Zool.)</fld> <cd>See <er>Ballooning spider</er>.</cd> -- <col><b>Flying squid</b></col> <fld>(Zool.)</fld>, <cd>an oceanic squid (<spn>Ommastrephes Bartramii</spn> syn. <spn>Sthenoteuthis Bartramii</spn>), abundant in the Gulf Stream, which is able to leap out of the water with such force that it often falls on the deck of a vessel.</cd> -- <col><b>Flying squirrel</b></col> <fld>(Zool.)</fld> <cd>See <er>Flying squirrel</er>, in the Vocabulary.</cd> -- <col><b>Flying start</b></col>, <cd>a start in a sailing race in which the signal is given while the vessels are under way.</cd> -- <col><b>Flying torch</b></col></mcol> <fld>(Mil.)</fld>, <cd>a torch attached to a long staff and used for signaling at night.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Flying boat</ent><br/
@@ -22728,7 +22728,7 @@ To fan her pride, or melt her guardless heart.</q> <rj><qau>Mickle.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fontanelle</ent><br/
-\'d8<hw>Fon`ta`nelle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Fontanel</er>, 2.</def><br/
+\'d8<hw>Fon`ta`nelle"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Fontanel</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fontange</ent><br/
@@ -25799,7 +25799,7 @@ By the exaction of the <qex>forfeiture</qex>?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Forficula</ent><br/
-\'d8<hw>For*fic"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., small shears, scissors, dim. of <ets>forfex</ets> shears.]</ety> <fld>(Zool.)</fld> <def>A genus of insects including the earwigs. See <er>Earwig</er>, 1.</def><br/
+\'d8<hw>For*fic"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., small shears, scissors, dim. of <ets>forfex</ets> shears.]</ety> <fld>(Zool.)</fld> <def>A genus of insects including the earwigs. See <er>Earwig</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Forficulidae</ent><br/
@@ -26095,7 +26095,7 @@ At your request.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><q>And four [days] since Florimell the court <qex>forwent</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>to abstain from; to do without; to refrain from; to renounce; -- said of a thing already enjoyed, or of one within reach, or anticipated.  See 1st <er>forego</er>, 2.</def><br/
+<p><sn>2.</sn> <def>to abstain from; to do without; to refrain from; to renounce; -- said of a thing already enjoyed, or of one within reach, or anticipated.  See 1st <er>forego</er>, <snr>2</snr>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ This word in spelling has been confused with, and almost superseded by, <xex>forego</xex> to go before. Etymologically the form <xex>forgo</xex> is correct.</note><br/
@@ -28140,7 +28140,7 @@ Their government, and their great senate choose.</q> <rj><qau>Milton.</qau></rj>
 <hw>Found"er</hw>, <pos>n.</pos> <ety>[From <er>Found</er> to cast.]</ety> <def>One who founds; one who casts metals in various forms; a caster; <as>as, a <ex>founder</ex> of cannon, bells, hardware, or types</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Fonder's dust</b></col>. <cd>Same as <er>Facing</er>, 4.</cd> -- <col><b>Founder's sand</b></col>, <cd>a kind of sand suitable for purposes of molding.</cd></cs><br/
+<p><cs><col><b>Fonder's dust</b></col>. <cd>Same as <er>Facing</er>, <snr>4</snr>.</cd> -- <col><b>Founder's sand</b></col>, <cd>a kind of sand suitable for purposes of molding.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Founder</ent><br/
@@ -32622,7 +32622,7 @@ In some fresh splendor.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fronton</ent><br/
-\'d8<hw>Fron`ton"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., a pediment. See <er>Front</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Frontal</er>, 2.</def>
+\'d8<hw>Fron`ton"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., a pediment. See <er>Front</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Frontal</er>, <snr>2</snr>.</def>
 <--2. a jai-alai fronton --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -35555,7 +35555,7 @@ regal <qex>functions.</qex></q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Furies</ent><br/
-<hw>Fu"ries</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Fury</er>, 3.</def><br/
+<hw>Fu"ries</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Fury</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Furile</ent><br/

@@ -798,7 +798,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nap</ent><br/
-<hw>Nap</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Napoleon</er>, 1, below.</def><br/
+<hw>Nap</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Napoleon</er>, <snr>1</snr>, below.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>napa</ent><br/
@@ -2798,7 +2798,7 @@ When he would he shall have <qex>nay</qex>.</q> <rj><qau>Old Prov.</qau></rj><br
 <p><q>He never yet no villany <qex>ne</qex> said.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>Ne</xex> was formerly used as the universal adverb of negation, and survives in certain compounds, as <xex>n</xex>ever (= <xex>ne</xex> ever) and <xex>n</xex>one (= <xex>ne</xex> one). Other combinations, now obsolete, will be found in the Vocabulary, as <xex>nad</xex>, <xex>nam</xex>, <xex>nil</xex>. See <er>Negative</er>, 2.</note><br/
+<p><note><hand/ <xex>Ne</xex> was formerly used as the universal adverb of negation, and survives in certain compounds, as <xex>n</xex>ever (= <xex>ne</xex> ever) and <xex>n</xex>one (= <xex>ne</xex> one). Other combinations, now obsolete, will be found in the Vocabulary, as <xex>nad</xex>, <xex>nam</xex>, <xex>nil</xex>. See <er>Negative</er>, <snr>2</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ne</ent><br/
@@ -3413,7 +3413,7 @@ The tyrant's plea, excused his devilish deeds.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neckplate</ent><br/
-<hw>Neck"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gorget</er>, 1 and 2.</def><br/
+<hw>Neck"plate`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Gorget</er>, <snr>1</snr> and 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Necktie</ent><br/
@@ -4003,7 +4003,7 @@ Or else be impudently <qex>negative</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ This word, derived from <xex>electro-negative</xex>, is now commonly used in a more general sense, when <xex>acidiferous</xex> is the intended signification.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Negative crystal</b></col>. <sd>(a)</sd> <cd>A cavity in a mineral mass, having the form of a crystal.</cd> <sd>(b)</sd> <cd>A crystal which has the power of negative double refraction. See <er>refraction</er>.</cd> -- <col><b>negative electricity</b></col> <fld>(Elec.)</fld>, <cd>the kind of electricity which is developed upon resin or ebonite when rubbed, or which appears at that pole of a voltaic battery which is connected with the plate most attacked by the exciting liquid; -- formerly called <altname>resinous electricity</altname>.  Opposed to <ant>positive electricity</ant>. Formerly, according to Franklin's theory of a single electric fluid, negative electricity was supposed to be electricity in a degree below saturation, or the natural amount for a given body.  See <er>Electricity</er>.</cd> -- <col><b>Negative eyepiece</b></col>. <fld>(Opt.)</fld> <cd>see under <er>Eyepiece</er>.</cd> -- <col><b>Negative quantity</b></col> <fld>(Alg.)</fld>, <cd>a quantity preceded by the negative sign, or which stands in the relation indicated by this sign to some other quantity. See <cref>Negative sign</cref> (below).</cd> -- <col><b>Negative rotation</b></col>, <cd>right-handed rotation. See <er>Right-handed</er>, 3.</cd> -- <col><b>Negative sign</b></col>, <cd>the sign -, or <altname>minus</altname> (opposed in signification to +, or <ant>plus</ant>), indicating that the quantity to which it is prefixed is to be subtracted from the preceding quantity, or is to be reckoned from zero or cipher in the opposite direction to that of quanties having the sign <xex>plus</xex> either expressed or understood; thus, in <mathex>a - b</mathex>, <it>b</it> is to be substracted from <it>a</it>, or regarded as opposite to it in value; and -10<deg/ on a thermometer means 10<deg/ <xex>below</xex> the zero of the scale.</cd></cs><br/
+<p><cs><col><b>Negative crystal</b></col>. <sd>(a)</sd> <cd>A cavity in a mineral mass, having the form of a crystal.</cd> <sd>(b)</sd> <cd>A crystal which has the power of negative double refraction. See <er>refraction</er>.</cd> -- <col><b>negative electricity</b></col> <fld>(Elec.)</fld>, <cd>the kind of electricity which is developed upon resin or ebonite when rubbed, or which appears at that pole of a voltaic battery which is connected with the plate most attacked by the exciting liquid; -- formerly called <altname>resinous electricity</altname>.  Opposed to <ant>positive electricity</ant>. Formerly, according to Franklin's theory of a single electric fluid, negative electricity was supposed to be electricity in a degree below saturation, or the natural amount for a given body.  See <er>Electricity</er>.</cd> -- <col><b>Negative eyepiece</b></col>. <fld>(Opt.)</fld> <cd>see under <er>Eyepiece</er>.</cd> -- <col><b>Negative quantity</b></col> <fld>(Alg.)</fld>, <cd>a quantity preceded by the negative sign, or which stands in the relation indicated by this sign to some other quantity. See <cref>Negative sign</cref> (below).</cd> -- <col><b>Negative rotation</b></col>, <cd>right-handed rotation. See <er>Right-handed</er>, <snr>3</snr>.</cd> -- <col><b>Negative sign</b></col>, <cd>the sign -, or <altname>minus</altname> (opposed in signification to +, or <ant>plus</ant>), indicating that the quantity to which it is prefixed is to be subtracted from the preceding quantity, or is to be reckoned from zero or cipher in the opposite direction to that of quanties having the sign <xex>plus</xex> either expressed or understood; thus, in <mathex>a - b</mathex>, <it>b</it> is to be substracted from <it>a</it>, or regarded as opposite to it in value; and -10<deg/ on a thermometer means 10<deg/ <xex>below</xex> the zero of the scale.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 969 --></p>
@@ -5909,7 +5909,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>nettlesome</ent><br/
-<hw>nettlesome</hw> <pos>adj.</pos>  <def>same as <er>irritating</er>, 1.</def><br/
+<hw>nettlesome</hw> <pos>adj.</pos>  <def>same as <er>irritating</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> annoying, galling, chafing, irritating, pesky, pestiferous, pestilent, plaguy, plaguey, teasing, vexatious, vexing.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -8115,7 +8115,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <hw>Nile</hw> <pr>(n<imac/l)</pr>, <pos>n.</pos> <ety>[L. <ets>Nilus</ets>, Gr. <grk>Nei^los</grk>.]</ety> <def>The great river of Egypt.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Nile bird</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The wryneck.</cd> <mark>[Prov. Eng.]</mark> <sd>(b)</sd> <cd>The crocodile bird.</cd> -- <col><b>Nile goose</b></col> <fld>(Zool.)</fld>, <cd>the Egyptian goose. See Note under <er>Goose</er>, 2.</cd></cs><br/
+<p><cs><col><b>Nile bird</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The wryneck.</cd> <mark>[Prov. Eng.]</mark> <sd>(b)</sd> <cd>The crocodile bird.</cd> -- <col><b>Nile goose</b></col> <fld>(Zool.)</fld>, <cd>the Egyptian goose. See Note under <er>Goose</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nilgau</ent><br/
@@ -8740,7 +8740,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nitriary</ent><br/
-<hw>Ni"tri*a*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Niter</er>.]</ety> <def>An artificial bed of animal matter for the manufacture of niter by nitrification. See <er>Nitrification</er>, 2.</def><br/
+<hw>Ni"tri*a*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Niter</er>.]</ety> <def>An artificial bed of animal matter for the manufacture of niter by nitrification. See <er>Nitrification</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nitric</ent><br/
@@ -10658,7 +10658,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>None</ent><br/
-<hw>None</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as <er>Nones</er>, 2.</def><br/
+<hw>None</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as <er>Nones</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Noneffective</ent><br/
@@ -10725,7 +10725,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Nones</ent><br/
-<hw>Nones</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>nonae</ets>, so called because it was the ninth day before the ides, fr. <ets>nonus</ets> ninth, from <ets>novem</ets> nine. See <er>Nine</er>, <er>Nones</er>, 2, <er>Noon</er> .]</ety><br/
+<hw>Nones</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>nonae</ets>, so called because it was the ninth day before the ides, fr. <ets>nonus</ets> ninth, from <ets>novem</ets> nine. See <er>Nine</er>, <er>Nones</er>, <snr>2</snr>, <er>Noon</er> .]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Roman Calendar)</fld> <def>The fifth day of the months January, February, April, June, August, September, November, and December, and the seventh day of March, May, July, and October.  The <ex>nones</ex> were nine days before the ides, reckoning inclusively, according to the Roman method.</def><br/
@@ -11268,7 +11268,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>nonpartizan</ent><br/
-<hw>nonpartizan</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>nonpartisan</er>, 1.</def><br/
+<hw>nonpartizan</hw> <pos>adj.</pos> <sn>1.</sn>  <def>same as <er>nonpartisan</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> nonpartisan.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -13904,7 +13904,7 @@ But an eternal <qex>now</qex> does ever last.</q> <rj><qau>Cowley.</qau></rj><br
 <p><-- p. 985 --></p>
 
 <p><ent>Nowadays</ent><br/
-<hw>Now"a*days`</hw> <pr>(nou"<adot/*d<amac/z`)</pr>, <pos>adv.</pos> <ety>[For <ets>now on</ets> (OE. <ets>an</ets>) <ets>days</ets>. See <er>A-</er>, 1.]</ety> <def>In these days; at the present time.</def><br/
+<hw>Now"a*days`</hw> <pr>(nou"<adot/*d<amac/z`)</pr>, <pos>adv.</pos> <ety>[For <ets>now on</ets> (OE. <ets>an</ets>) <ets>days</ets>. See <er>A-</er>, <snr>1</snr>.]</ety> <def>In these days; at the present time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>What men of spirit, <qex>nowadays</qex>,<br/
@@ -14136,7 +14136,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nucellus</ent><br/
-\'d8<hw>Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, 3 <sdr>(a)</sdr>.</def><br/
+\'d8<hw>Nu*cel"lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nucelli</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of <ets>nux</ets>, <ets>nucis</ets>, a nut.]</ety> <fld>(Bot.)</fld> <def>See <er>Nucleus</er>, <snr>3</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nucha</ent><br/
@@ -14894,7 +14894,7 @@ Flowed from their lips, in prose or <qex>numerous</qex> verse.</q> <rj><qau>Milt
 <hw>Nu*mid"i*an</hw> <pr>(?)</pr>, <pos>prop. a.</pos> <def>Of or pertaining to ancient Numidia in Northern Africa.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Numidian crane</b></col>. <fld>(Zool.)</fld> <cd>See <er>Demoiselle</er>, 2.</cd></cs><br/
+<p><cs><col><b>Numidian crane</b></col>. <fld>(Zool.)</fld> <cd>See <er>Demoiselle</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Numidinae</ent><br/
@@ -15714,7 +15714,7 @@ Be all my sins remembered.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>nympha</ent><br/
-\'d8<hw>nym"pha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nymphae</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nymph</er> a goddess.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Same as <er>Nymph</er>, 3.</def><br/
+\'d8<hw>nym"pha</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Nymphae</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Nymph</er> a goddess.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Same as <er>Nymph</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <pluf>pl.</pluf> <fld>(Anat.)</fld> <def>Two folds of mucous membrane, within the labia, at the opening of the vulva.</def><br/

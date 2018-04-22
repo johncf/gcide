@@ -203,7 +203,7 @@ Consent, or <qex>custom</qex></q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Habitan</ent><br/
-<hw>Ha`bi`tan"</hw> <pr>(<adot/`b<esl/`t<aum/N")</pr>, <pos>n.</pos> <def>Same as <er>Habitant</er>, 2.</def><br/
+<hw>Ha`bi`tan"</hw> <pr>(<adot/`b<esl/`t<aum/N")</pr>, <pos>n.</pos> <def>Same as <er>Habitant</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>General Arnold met an emissary . . . sent . . . to ascertain the feelings of the <qex>habitans</qex> or French yeomanry.</q> <rj><qau>W. Irving.</qau></rj><br/
@@ -1159,7 +1159,7 @@ Through thorns and bushes scant my legs I drew.</q> <rj><qau>Fairfax.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hagfish</ent><br/
-<hw>Hag"fish`</hw><pr>(-f<icr/sh`)</pr>,<pos>n.</pos><fld>(Zo<oum/l.)</fld> <def>See <er>Hag</er>, 4.</def><br/
+<hw>Hag"fish`</hw><pr>(-f<icr/sh`)</pr>,<pos>n.</pos><fld>(Zo<oum/l.)</fld> <def>See <er>Hag</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haggada</ent><br/
@@ -4675,7 +4675,7 @@ That thought to get preferment by the tongue.</q> <rj><qau>Dryden.</qau></rj><br
 <p><sn>11.</sn> <fld>(Painting)</fld> <sd>(a)</sd> <def>Rigid in the drawing or distribution of the figures; formal; lacking grace of composition.</def> <sd>(b)</sd> <def>Having disagreeable and abrupt contrasts in the coloring or light and shade.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hard cancer</b></col>, <col><b>Hard case</b></col>, etc.</mcol> <cd>See under <er>Cancer</er>, <er>Case</er>, etc.</cd> -- <mcol><col><b>Hard clam</b></col>, <it>or</it> <col><b>Hard-shelled clam</b></col></mcol> <fld>(Zool.)</fld>, <cd>the quahog.</cd> -- <col><b>Hard coal</b></col>, <cd>anthracite, as distinguished from <contr>bituminous coal</contr> (<contr>soft coal</contr>).</cd> -- <col><b>Hard and fast</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Fast</er>.</cd> -- <col><b>Hard finish</b></col> <fld>(Arch.)</fld>, <cd>a smooth finishing coat of hard fine plaster applied to the surface of rough plastering.</cd> -- <col><b>Hard lines</b></col>, <cd>hardship; difficult conditions.</cd> -- <col><b>Hard money</b></col>, <cd>coin or specie, as distinguished from paper money.</cd> -- <col><b>Hard oyster</b></col> <fld>(Zool.)</fld>, <cd>the northern native oyster.</cd> <mark>[Local, U. S.]</mark> -- <col><b>Hard pan</b></col>, <cd>the hard stratum of earth lying beneath the soil; hence, figuratively, the firm, substantial, fundamental part or quality of anything; as, the <xex>hard pan</xex> of character, of a matter in dispute, etc. See <er>Pan</er>.</cd> -- <col><b>Hard rubber</b></col>. <cd>See under <er>Rubber</er>.</cd> -- <col><b>Hard solder</b></col>. <cd>See under <er>Solder</er>.</cd> -- <col><b>Hard water</b></col>, <cd>water, which contains lime or some mineral substance rendering it unfit for washing. See <er>Hardness</er>, 3.</cd> -- <col><b>Hard wood</b></col>, <cd>wood of a solid or hard texture; as walnut, oak, ash, box, and the like, in distinction from pine, poplar, hemlock, etc.</cd> -- <col><b>In hard condition</b></col>, <cd>in excellent condition for racing; having firm muscles; -- said of race horses.</cd></cs></p>
+<p><cs><mcol><col><b>Hard cancer</b></col>, <col><b>Hard case</b></col>, etc.</mcol> <cd>See under <er>Cancer</er>, <er>Case</er>, etc.</cd> -- <mcol><col><b>Hard clam</b></col>, <it>or</it> <col><b>Hard-shelled clam</b></col></mcol> <fld>(Zool.)</fld>, <cd>the quahog.</cd> -- <col><b>Hard coal</b></col>, <cd>anthracite, as distinguished from <contr>bituminous coal</contr> (<contr>soft coal</contr>).</cd> -- <col><b>Hard and fast</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Fast</er>.</cd> -- <col><b>Hard finish</b></col> <fld>(Arch.)</fld>, <cd>a smooth finishing coat of hard fine plaster applied to the surface of rough plastering.</cd> -- <col><b>Hard lines</b></col>, <cd>hardship; difficult conditions.</cd> -- <col><b>Hard money</b></col>, <cd>coin or specie, as distinguished from paper money.</cd> -- <col><b>Hard oyster</b></col> <fld>(Zool.)</fld>, <cd>the northern native oyster.</cd> <mark>[Local, U. S.]</mark> -- <col><b>Hard pan</b></col>, <cd>the hard stratum of earth lying beneath the soil; hence, figuratively, the firm, substantial, fundamental part or quality of anything; as, the <xex>hard pan</xex> of character, of a matter in dispute, etc. See <er>Pan</er>.</cd> -- <col><b>Hard rubber</b></col>. <cd>See under <er>Rubber</er>.</cd> -- <col><b>Hard solder</b></col>. <cd>See under <er>Solder</er>.</cd> -- <col><b>Hard water</b></col>, <cd>water, which contains lime or some mineral substance rendering it unfit for washing. See <er>Hardness</er>, <snr>3</snr>.</cd> -- <col><b>Hard wood</b></col>, <cd>wood of a solid or hard texture; as walnut, oak, ash, box, and the like, in distinction from pine, poplar, hemlock, etc.</cd> -- <col><b>In hard condition</b></col>, <cd>in excellent condition for racing; having firm muscles; -- said of race horses.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Solid; arduous; powerful; trying; unyielding; stubborn; stern; flinty; unfeeling; harsh; difficult; severe; obdurate; rigid. See <er>Solid</er>, and <er>Arduous</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -6135,7 +6135,7 @@ That the main <qex>harvest</qex> reaps.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Har"vest*man</hw> <pr>(-m<ait/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Harvestmen</plw> <pr>(-m<eit/n)</pr>.</plu> <sn>1.</sn> <def>A man engaged in harvesting.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Daddy longlegs</er>, 1.</def><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Daddy longlegs</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harvestry</ent><br/
@@ -7301,7 +7301,7 @@ With modest warrant.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hawebake</ent><br/
-<hw>Hawe"bake`</hw> <pr>(h<add/"b<amac/k`)</pr>, <pos>n.</pos> <def>Probably, the baked berry of the hawthorn tree, that is, coarse fare. See 1st <er>Haw</er>, 2.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<hw>Hawe"bake`</hw> <pr>(h<add/"b<amac/k`)</pr>, <pos>n.</pos> <def>Probably, the baked berry of the hawthorn tree, that is, coarse fare. See 1st <er>Haw</er>, <snr>2</snr>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hawfinch</ent><br/
@@ -8264,7 +8264,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Headroom</ent><br/
-<hw>Head"room`</hw> <pr>(-r<oomac/m`)</pr>, <pos>n.</pos> <fld>(Arch.)</fld> <def>See <er>Headway</er>, 2.</def> <mark>[Mostly Brit.]</mark> <br/
+<hw>Head"room`</hw> <pr>(-r<oomac/m`)</pr>, <pos>n.</pos> <fld>(Arch.)</fld> <def>See <er>Headway</er>, <snr>2</snr>.</def> <mark>[Mostly Brit.]</mark> <br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Headrope</ent><br/
@@ -10355,7 +10355,7 @@ Of sweetbrier <qex>hedges</qex> I pursue my walk.</q> <rj><qau>Thomson.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedonistic</ent><br/
-<hw>Hed`o*nis"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Same as <er>Hedonic</er>, 2.</def><br/
+<hw>Hed`o*nis"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Same as <er>Hedonic</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedysarum</ent><br/
@@ -11030,7 +11030,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <p><sn>2.</sn> <def>An instrument for taking photographs of the sun.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>An apparatus for telegraphing by means of the sun's rays. See <er>Heliotrope</er>, 3.</def><br/
+<p><sn>3.</sn> <def>An apparatus for telegraphing by means of the sun's rays. See <er>Heliotrope</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliograph</ent><br/
@@ -13669,7 +13669,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herl</ent><br/
-<hw>Herl</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Same as <er>Harl</er>, 2.</def></p>
+<hw>Herl</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Same as <er>Harl</er>, <snr>2</snr>.</def></p>
 
 <p><ent>Hirling</ent><br/
 <ent>Herling</ent><br/
@@ -13735,7 +13735,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 
 <p><ent>Hermetical</ent><br/
 <ent>Hermetic</ent><br/
-<mhw>{ <hw>Her*met"ic</hw> <pr>(?)</pr>, <hw>Her*met"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[F. <ets>herm<eacute/tique</ets>. See Note under <er>Hermes</er>, 1.]</ety> <sn>1.</sn> <def>Of, pertaining to, or taught by, Hermes Trismegistus; <as>as, <ex>hermetic</ex> philosophy</as>. Hence: Alchemical; chemic.</def> <ldquo/Delusions of the <xex>hermetic</xex> art.<rdquo/  <rj><au>Burke.</au></rj><br/
+<mhw>{ <hw>Her*met"ic</hw> <pr>(?)</pr>, <hw>Her*met"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[F. <ets>herm<eacute/tique</ets>. See Note under <er>Hermes</er>, <snr>1</snr>.]</ety> <sn>1.</sn> <def>Of, pertaining to, or taught by, Hermes Trismegistus; <as>as, <ex>hermetic</ex> philosophy</as>. Hence: Alchemical; chemic.</def> <ldquo/Delusions of the <xex>hermetic</xex> art.<rdquo/  <rj><au>Burke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The alchemists, as the people were called who tried to make gold, considered themselves followers of Hermes, and often called themselves <qex>Hermetic</qex> philosophers.</q> <rj><qau>A. B. Buckley.</qau></rj><br/
@@ -16525,7 +16525,7 @@ Seem objects of indifferent weight.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hilus</ent><br/
-\'d8<hw>Hi"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Hilum</er>, 2.</def><br/
+\'d8<hw>Hi"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>Same as <er>Hilum</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Him</ent><br/
@@ -18150,7 +18150,7 @@ Of twenty summers.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoard</ent><br/
-<hw>Hoard</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Hoarding</er>, 2.</def>  <rj><au>Smart.</au></rj><br/
+<hw>Hoard</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Hoarding</er>, <snr>2</snr>.</def>  <rj><au>Smart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoard</ent><br/
@@ -18849,7 +18849,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hogweed</ent><br/
-<hw>Hog"weed`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A common weed (<spn>Ambrosia artemisi<ae/ge</spn>). See <er>Ambrosia</er>, 3.</def> <sd>(b)</sd> <def>In England, the <spn>Heracleum Sphondylium</spn>.</def><br/
+<hw>Hog"weed`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A common weed (<spn>Ambrosia artemisi<ae/ge</spn>). See <er>Ambrosia</er>, <snr>3</snr>.</def> <sd>(b)</sd> <def>In England, the <spn>Heracleum Sphondylium</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoiden</ent><br/
@@ -20802,7 +20802,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 
 <p><q>In similar polygons, the corresponding sides, angles, diagonals, etc., are <qex>homologous</qex>.</q> <rj><qau>Davies & Peck (Math. Dict.).</qau></rj></p>
 
-<p><sd>(b)</sd> <fld>(Alg.)</fld> <def>Having the same relative proportion or value, as the two antecedents or the two consequents of a proportion.</def> <sd>(c)</sd> <fld>(Chem.)</fld> <def>Characterized by homology; belonging to the same type or series; corresponding in composition and properties. See <er>Homology</er>, 3.</def> <sd>(d)</sd> <fld>(Biol.)</fld> <def>Being of the same typical structure; having like relations to a fundamental type to structure; as, those bones in the hand of man and the fore foot of a horse are <xex>homologous</xex> that correspond in their structural relations, that is, in their relations to the type structure of the fore limb in vertebrates.</def><br/
+<p><sd>(b)</sd> <fld>(Alg.)</fld> <def>Having the same relative proportion or value, as the two antecedents or the two consequents of a proportion.</def> <sd>(c)</sd> <fld>(Chem.)</fld> <def>Characterized by homology; belonging to the same type or series; corresponding in composition and properties. See <er>Homology</er>, <snr>3</snr>.</def> <sd>(d)</sd> <fld>(Biol.)</fld> <def>Being of the same typical structure; having like relations to a fundamental type to structure; as, those bones in the hand of man and the fore foot of a horse are <xex>homologous</xex> that correspond in their structural relations, that is, in their relations to the type structure of the fore limb in vertebrates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Homologous stimulus</b></col>. <fld>(Physiol.)</fld> <cd>See under <er>Stimulus</er>.</cd></cs><br/
@@ -22329,7 +22329,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A chute, box, or receptacle, usually funnel-shaped with an opening at the lower part, for delivering or feeding any material, as to a machine; <as>as, the wooden box with its trough through which grain passes into a mill by joining or shaking, or a funnel through which fuel passes into a furnace, or coal, etc.</as>, into a car.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Mus.)</fld> <def>See <er>Grasshopper</er>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Mus.)</fld> <def>See <er>Grasshopper</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <pluf>pl.</pluf> <def>A game. See <er>Hopscotch</er>.</def>  <rj><au>Johnson.</au></rj><br/
@@ -24870,7 +24870,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <p><q>Wild <qex>howled</qex> the wind.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Howling monkey</b></col>. <fld>(Zool.)</fld> <cd>See <er>Howler</er>, 2.</cd> -- <col><b>Howling wilderness</b></col>, <cd>a wild, desolate place inhabited only by wild beasts.</cd> <au>Deut. xxxii. 10.</au></cs><br/
+<p><cs><col><b>Howling monkey</b></col>. <fld>(Zool.)</fld> <cd>See <er>Howler</er>, <snr>2</snr>.</cd> -- <col><b>Howling wilderness</b></col>, <cd>a wild, desolate place inhabited only by wild beasts.</cd> <au>Deut. xxxii. 10.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howl</ent><br/
@@ -25018,7 +25018,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <p><sn>5.</sn> <fld>(Diesinking)</fld> <def>A hardened, engraved steel punch for impressing a device upon a die, used in coining, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <def>A screw hob. See <er>Hob</er>, 3.</def><br/
+<p><sn>6.</sn> <def>A screw hob. See <er>Hob</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <def>A block for scotching a wheel.</def><br/
@@ -26713,7 +26713,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <hw>Hunt"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The pursuit of game or of wild animals.</def>  <rj><au>A. Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Happy hunting grounds</b></col>, <cd>the region to which, according to the belief of American Indians, the souls of warriors and hunters pass after death, to be happy in hunting and feasting.</cd> <au>Tylor.</au> -- <col><b>Hunting box</b></col>. <cd>Same As <cref>Hunting lodge</cref> (below).</cd> -- <col><b>Hunting cat</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting cog</b></col> <fld>(Mach.)</fld>, <cd>a tooth in the larger of two geared wheels which makes its number of teeth prime to the number in the smaller wheel, thus preventing the frequent meeting of the same pairs of teeth.</cd> -- <col><b>Hunting dog</b></col> <fld>(Zool.)</fld>, <cd>the hyena dog.</cd> -- <col><b>Hunting ground</b></col>, <cd>a region or district abounding in game; esp. (<pluf>pl.</pluf>), the regions roamed over by the North American Indians in search of game.</cd> -- <col><b>Hunting horn</b></col>, <cd>a bulge; a horn used in the chase. See <er>Horn</er>, and <er>Bulge</er>.</cd> -- <col><b>Hunting leopard</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting lodge</b></col>, <cd>a temporary residence for the purpose of hunting.</cd> -- <col><b>Hunting seat</b></col>, <cd>a hunting lodge.</cd> <au>Gray.</au> -- <col><b>Hunting shirt</b></col>, <cd>a coarse shirt for hunting, often of leather.</cd> -- <col><b>Hunting spider</b></col> <fld>(Zool.)</fld>, <cd>a spider which hunts its prey, instead of catching it in a web; a wolf spider.</cd> -- <col><b>Hunting watch</b></col>. <cd>See <er>Hunter</er>, 6.</cd></cs><br/
+<p><cs><col><b>Happy hunting grounds</b></col>, <cd>the region to which, according to the belief of American Indians, the souls of warriors and hunters pass after death, to be happy in hunting and feasting.</cd> <au>Tylor.</au> -- <col><b>Hunting box</b></col>. <cd>Same As <cref>Hunting lodge</cref> (below).</cd> -- <col><b>Hunting cat</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting cog</b></col> <fld>(Mach.)</fld>, <cd>a tooth in the larger of two geared wheels which makes its number of teeth prime to the number in the smaller wheel, thus preventing the frequent meeting of the same pairs of teeth.</cd> -- <col><b>Hunting dog</b></col> <fld>(Zool.)</fld>, <cd>the hyena dog.</cd> -- <col><b>Hunting ground</b></col>, <cd>a region or district abounding in game; esp. (<pluf>pl.</pluf>), the regions roamed over by the North American Indians in search of game.</cd> -- <col><b>Hunting horn</b></col>, <cd>a bulge; a horn used in the chase. See <er>Horn</er>, and <er>Bulge</er>.</cd> -- <col><b>Hunting leopard</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting lodge</b></col>, <cd>a temporary residence for the purpose of hunting.</cd> -- <col><b>Hunting seat</b></col>, <cd>a hunting lodge.</cd> <au>Gray.</au> -- <col><b>Hunting shirt</b></col>, <cd>a coarse shirt for hunting, often of leather.</cd> -- <col><b>Hunting spider</b></col> <fld>(Zool.)</fld>, <cd>a spider which hunts its prey, instead of catching it in a web; a wolf spider.</cd> -- <col><b>Hunting watch</b></col>. <cd>See <er>Hunter</er>, <snr>6</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huntress</ent><br/
@@ -26992,7 +26992,7 @@ The little number of your doubtful friends.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurt</ent><br/
-<hw>Hurt</hw>, <pos>n.</pos> <fld>(Mach.)</fld> <sd>(a)</sd> <def>A band on a trip-hammer helve, bearing the trunnions.</def> <sd>(b)</sd> <def>A husk. See <er>Husk</er>, 2.</def><br/
+<hw>Hurt</hw>, <pos>n.</pos> <fld>(Mach.)</fld> <sd>(a)</sd> <def>A band on a trip-hammer helve, bearing the trunnions.</def> <sd>(b)</sd> <def>A husk. See <er>Husk</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurt</ent><br/
@@ -27351,7 +27351,7 @@ Their candles are all out.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hussy</ent><br/
-<hw>Hus"sy</hw>, <pos>n.</pos> <ety>[From Icel. <ets>h<?/si</ets> a case, prob. fr. <ets>h<?/s</ets> house. See <er>House</er>, and cf. <er>Housewife</er> a bag, <er>Huswife</er> a bag.]</ety> <def>A case or bag. See <er>Housewife</er>, 2.</def><br/
+<hw>Hus"sy</hw>, <pos>n.</pos> <ety>[From Icel. <ets>h<?/si</ets> a case, prob. fr. <ets>h<?/s</ets> house. See <er>House</er>, and cf. <er>Housewife</er> a bag, <er>Huswife</er> a bag.]</ety> <def>A case or bag. See <er>Housewife</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hustings</ent><br/
@@ -27801,7 +27801,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrarthrosis</ent><br/
-\'d8<hw>Hy`drar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, 1, and <er>Arthrosis</er>.]</ety> <fld>(Med.)</fld> <def>An effusion of watery liquid into the cavity of a joint.</def><br/
+\'d8<hw>Hy`drar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hydro-</er>, <snr>1</snr>, and <er>Arthrosis</er>.]</ety> <fld>(Med.)</fld> <def>An effusion of watery liquid into the cavity of a joint.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrastine</ent><br/
@@ -27835,7 +27835,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy*drau"lic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>hydraulique</ets>, L. <ets>hydraulicus</ets>, fr. Gr. <?/, <?/, a water organ; <grk>"y`dwr</grk> water + <?/ flute, pipe. See <er>Hydra</er>.]</ety> <def>Of or pertaining to hydraulics, or to fluids in motion; conveying, or acting by, water; <as>as, an <ex>hydraulic</ex> clock, crane, or dock</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydraulic accumulator</b></col>, <cd>an accumulator for hydraulic machinery of any kind. See <er>Accumulator</er>, 2.</cd> -- <col><b>Hydraulic brake</b></col>, <cd>a cataract. See <er>Cataract</er>, 3.</cd> -- <col><b>Hydraulic cement</b></col>, <cd>a cement or mortar made of hydraulic lime, which will harden under water.</cd> -- <col><b>Hydraulic elevator</b></col>, <cd>a lift operated by the weight or pressure of water.</cd> -- <col><b>Hydraulic jack</b></col>. <cd>See under <er>Jack</er>.</cd> -- <col><b>Hydraulic lime</b></col>, <cd>quicklime obtained from hydraulic limestone, and used for cementing under water, etc.</cd> -- <col><b>Hydraulic limestone</b></col>, <cd>a limestone which contains some clay, and which yields a quicklime that will set, or form a firm, strong mass, under water.</cd> -- <col><b>Hydraulic main</b></col> <fld>(Gas Works)</fld>, <cd>a horizontal pipe containing water at the bottom into which the ends of the pipes from the retorts dip, for passing the gas through water in order to remove ammonia.</cd> -- <col><b>Hydraulic mining</b></col>, <cd>a system of mining in which the force of a jet of water is used to wash down a bank of gold-bearing gravel or earth.</cd> <mark>[Pacific Coast]</mark> -- <col><b>Hydraulic press</b></col>, <cd>a hydrostatic press. See under <er>Hydrostatic</er>.</cd> -- <col><b>Hydraulic propeller</b></col>, <cd>a device for propelling ships by means of a stream of water ejected under water rearward from the ship.</cd> -- <col><b>Hydraulic ram</b></col>, <cd>a machine for raising water by means of the energy of the moving water of which a portion is to be raised. When the rush of water through the main pipe <figref>d</figref> shuts the valve at <figref>a</figref>, the momentum of the current thus suddenly checked forces part of it into the air chamber <figref>b</figref>, and up the pipe <figref>c</figref>, its return being prevented by a valve at the entrance to the air chamber, while the dropping of the valve <figref>a</figref> by its own weight allows another rush through the main pipe, and so on alternately.</cd> -- <col><b>Hydraulic valve</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A valve for regulating the distribution of water in the cylinders of hydraulic elevators, cranes, etc.</cd> <sd>(b)</sd> <fld>(Gas Works)</fld> <cd>An inverted cup with a partition dipping into water, for opening or closing communication between two gas mains, the open ends of which protrude about the water.</cd></cs><br/
+<p><cs><col><b>Hydraulic accumulator</b></col>, <cd>an accumulator for hydraulic machinery of any kind. See <er>Accumulator</er>, <snr>2</snr>.</cd> -- <col><b>Hydraulic brake</b></col>, <cd>a cataract. See <er>Cataract</er>, 3.</cd> -- <col><b>Hydraulic cement</b></col>, <cd>a cement or mortar made of hydraulic lime, which will harden under water.</cd> -- <col><b>Hydraulic elevator</b></col>, <cd>a lift operated by the weight or pressure of water.</cd> -- <col><b>Hydraulic jack</b></col>. <cd>See under <er>Jack</er>.</cd> -- <col><b>Hydraulic lime</b></col>, <cd>quicklime obtained from hydraulic limestone, and used for cementing under water, etc.</cd> -- <col><b>Hydraulic limestone</b></col>, <cd>a limestone which contains some clay, and which yields a quicklime that will set, or form a firm, strong mass, under water.</cd> -- <col><b>Hydraulic main</b></col> <fld>(Gas Works)</fld>, <cd>a horizontal pipe containing water at the bottom into which the ends of the pipes from the retorts dip, for passing the gas through water in order to remove ammonia.</cd> -- <col><b>Hydraulic mining</b></col>, <cd>a system of mining in which the force of a jet of water is used to wash down a bank of gold-bearing gravel or earth.</cd> <mark>[Pacific Coast]</mark> -- <col><b>Hydraulic press</b></col>, <cd>a hydrostatic press. See under <er>Hydrostatic</er>.</cd> -- <col><b>Hydraulic propeller</b></col>, <cd>a device for propelling ships by means of a stream of water ejected under water rearward from the ship.</cd> -- <col><b>Hydraulic ram</b></col>, <cd>a machine for raising water by means of the energy of the moving water of which a portion is to be raised. When the rush of water through the main pipe <figref>d</figref> shuts the valve at <figref>a</figref>, the momentum of the current thus suddenly checked forces part of it into the air chamber <figref>b</figref>, and up the pipe <figref>c</figref>, its return being prevented by a valve at the entrance to the air chamber, while the dropping of the valve <figref>a</figref> by its own weight allows another rush through the main pipe, and so on alternately.</cd> -- <col><b>Hydraulic valve</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A valve for regulating the distribution of water in the cylinders of hydraulic elevators, cranes, etc.</cd> <sd>(b)</sd> <fld>(Gas Works)</fld> <cd>An inverted cup with a partition dipping into water, for opening or closing communication between two gas mains, the open ends of which protrude about the water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydraulical</ent><br/
@@ -29841,7 +29841,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondriacal</ent><br/
-<hw>Hy`po*chon"dri*a*cal</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Same as <er>Hypochondriac</er>, 2.</def> -- <wordforms><wf>Hy`po*chon"dri*a*cal*ly</wf>, <pos>adv.</pos></wordforms><br/
+<hw>Hy`po*chon"dri*a*cal</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Same as <er>Hypochondriac</er>, <snr>2</snr>.</def> -- <wordforms><wf>Hy`po*chon"dri*a*cal*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondriacism</ent><br/
@@ -29984,7 +29984,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 \'d8<hw>Hyp`o*der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Hypo-</er>, and <er>Derma</er>.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>Same as <er>Hypoblast</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>Same as <er>Hypoderma</er>, 2.</def></p>
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>Same as <er>Hypoderma</er>, <snr>2</snr>.</def></p>
 
 <p><ent>Hypodicrotous</ent><br/
 <ent>Hypodicrotic</ent><br/

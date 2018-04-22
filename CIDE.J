@@ -457,7 +457,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jacksmith</ent><br/
-<hw>Jack"smith`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A smith who makes jacks. See 2d <er>Jack</er>, 4, c.</def>  <rj><au>Dryden.</au></rj><br/
+<hw>Jack"smith`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A smith who makes jacks. See 2d <er>Jack</er>, <snr>4</snr>, c.</def>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jacksnipe</ent><br/
@@ -2160,7 +2160,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jeg</ent><br/
-<hw>Jeg</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mach.)</fld> <def>See <er>Jig</er>, 6.</def><br/
+<hw>Jeg</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mach.)</fld> <def>See <er>Jig</er>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>jehad</ent><br/
@@ -2865,7 +2865,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <mhw>{ \'d8<hw>Jet"sam</hw> <pr>(?)</pr>, \'d8<hw>Jet"son</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>jeter</ets> to throw: cf. OF. <ets>getaison</ets> a throwing.  Cf. <er>Flotsam</er>, <er>Jettison</er>.]</ety> <sn>1.</sn>  <fld>(Mar. Law)</fld> <def>Goods which sink when cast into the sea, and remain under water; -- distinguished from <contr>flotsam</contr>, goods which float, and <contr>ligan</contr> (or <contr>lagan</contr>), goods which are sunk attached to a buoy.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn>  <def>The act of throwing objects from  a ship to lighten the load; jettison{1}. See <er>Jettison</er>, 1.</def><br/
+<p><sn>2.</sn>  <def>The act of throwing objects from  a ship to lighten the load; jettison{1}. See <er>Jettison</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <specif>Hence:</specif> <def>Anything thrown overboard from a ship, whether floating or not.</def><br/
@@ -2916,7 +2916,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><sn>1.</sn> <fld>(Mar. Law)</fld> <def>The throwing overboard of goods from necessity, in order to lighten a vessel in danger of wreck.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Jetsam</er>, 1.</def><br/
+<p><sn>2.</sn> <def>See <er>Jetsam</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jetton</ent><br/
@@ -3258,7 +3258,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>6.</sn> <fld>(Mach.)</fld> <sd>(a)</sd> <def>A small machine or handy tool</def>; esp.: <fld>(Metal Working)</fld> <def>A contrivance fastened to or inclosing a piece of work, and having hard steel surfaces to guide a tool, as a drill, or to form a shield or template to work to, as in filing.</def> <sd>(b)</sd> <fld>(Mining)</fld> <def>An apparatus or a machine for jigging ore.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Drill jig</b></col>, <cd>a jig for guiding a drill. See <er>Jig</er>, 6 <sdr>(a)</sdr>.</cd> -- <mcol><col><b>Jig drilling</b></col>, <col><b>Jig filing</b></col></mcol> <fld>(Metal Working)</fld>, <cd>a process of drilling or filing in which the action of the tool is directed or limited by a jig.</cd> -- <col><b>Jig saw</b></col>, <cd>a sawing machine with a narrow, vertically reciprocating saw, used to cut curved and irregular lines, or ornamental patterns in openwork, a scroll saw; -- called also <altname>gig saw</altname>.</cd></cs><br/
+<p><cs><col><b>Drill jig</b></col>, <cd>a jig for guiding a drill. See <er>Jig</er>, <snr>6</snr> <sdr>(a)</sdr>.</cd> -- <mcol><col><b>Jig drilling</b></col>, <col><b>Jig filing</b></col></mcol> <fld>(Metal Working)</fld>, <cd>a process of drilling or filing in which the action of the tool is directed or limited by a jig.</cd> -- <col><b>Jig saw</b></col>, <cd>a sawing machine with a narrow, vertically reciprocating saw, used to cut curved and irregular lines, or ornamental patterns in openwork, a scroll saw; -- called also <altname>gig saw</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jig</ent><br/
@@ -3314,7 +3314,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A light tackle, consisting of a double and single block and the fall, used for various purposes, as to increase the purchase on a topsail sheet in hauling it home; the watch tackle.</def> <au>Totten.</au> <sd>(b)</sd> <def>A small fishing vessel, rigged like a yawl.</def> <mark>[New Eng.]</mark> <sd>(c)</sd> <def>A supplementary sail. See <er>Dandy</er>, <pos>n.</pos>, 2 <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, 4 <sdr>(i)</sdr>.</def><br/
+<p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, <snr>4</snr> <sdr>(i)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A small glass or measuring vessel holding 1<frac12/ ounces (45 ml), used mostly for measuring liquor or drinking whiskey; also, the quantity of liquid held in a jigger.</def><br/
@@ -3533,7 +3533,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>jingoism</ent><br/
-<hw>jin"go*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The policy of the Jingoes, so called. See <er>Jingo</er>, 2.</def> <mark>[Cant, Eng.]</mark><br/
+<hw>jin"go*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The policy of the Jingoes, so called. See <er>Jingo</er>, <snr>2</snr>.</def> <mark>[Cant, Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence:</specif> <def>A bellicose patriotism; aggressive chauvinism; belligerence in international relations.</def><br/
@@ -4356,7 +4356,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Joint"ing</hw>, <pos>n.</pos> <def>The act or process of making a joint; also, the joints thus produced.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jointing machine</b></col>, <cd>a planing machine for wood used in furniture and piano factories, etc.</cd> -- <col><b>Jointing plane</b></col>. <cd>See <er>Jointer</er>, 2.</cd> -- <col><b>Jointing rule</b></col> <fld>(Masonry)</fld>, <cd>a long straight rule, used by bricklayers for securing straight joints and faces.</cd></cs><br/
+<p><cs><col><b>Jointing machine</b></col>, <cd>a planing machine for wood used in furniture and piano factories, etc.</cd> -- <col><b>Jointing plane</b></col>. <cd>See <er>Jointer</er>, <snr>2</snr>.</cd> -- <col><b>Jointing rule</b></col> <fld>(Masonry)</fld>, <cd>a long straight rule, used by bricklayers for securing straight joints and faces.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jointless</ent><br/
@@ -7207,7 +7207,7 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj><b
 <p><sn>4.</sn> <def>To prove; to ratify; to confirm.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Print.)</fld> <def>To make even or true, as lines of type, by proper spacing; to align (text) at the left (left justify) or right (right justify) margins of a column or page, or at both margins; to adjust, as type. See <er>Justification</er>, 4.</def><br/
+<p><sn>5.</sn> <fld>(Print.)</fld> <def>To make even or true, as lines of type, by proper spacing; to align (text) at the left (left justify) or right (right justify) margins of a column or page, or at both margins; to adjust, as type. See <er>Justification</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>To show (a person) to have had a sufficient legal reason for an act that has been made the subject of a charge or accusation.</def> <sd>(b)</sd> <def>To qualify (one's self) as a surety by taking oath to the ownership of sufficient property.</def><br/

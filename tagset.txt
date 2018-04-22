@@ -738,6 +738,8 @@ Tag           Font         Meaning and Description
               2 points     sense there may be lettered sub-senses.  See the
                            <sd> (sub-definition) field.
 
+<snr>         bold         Sense number reference.
+
 <source>      italic       Source.  The author of the definition.  Used only
                            for definitions not originally present in Webster
                            1913, and not present in the original version

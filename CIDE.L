@@ -4223,7 +4223,7 @@ The sting from pain.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>To <qex>lap</qex> his head on lady's breast.</q> <rj><qau>Praed.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To cut or polish with a lap, as glass, gems, cutlery, etc. See 1st <er>Lap</er>, 10.</def><br/
+<p><sn>2.</sn> <def>To cut or polish with a lap, as glass, gems, cutlery, etc. See 1st <er>Lap</er>, <snr>10</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lap</ent><br/
@@ -4477,7 +4477,7 @@ And the wild water <qex>lapping</qex> on the crag.</q> <rj><qau>Tennyson.</qau><
 <hw>Lap"ping</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A kind of machine blanket or wrapping material used by calico printers.</def>  <rj><au>Ure.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Lapping engine</b></col>, <col><b>Lapping machine</b></col></mcol> <fld>(Textile Manuf.)</fld>, <cd>A machine for forming fiber info a lap. See its <er>Lap</er>, 9.</cd></cs><br/
+<p><cs><mcol><col><b>Lapping engine</b></col>, <col><b>Lapping machine</b></col></mcol> <fld>(Textile Manuf.)</fld>, <cd>A machine for forming fiber info a lap. See its <er>Lap</er>, <snr>9</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lappish</ent><br/
@@ -7103,7 +7103,7 @@ Sits empress, crowning good, repressing ill.</q> <rj><qau>Sir W. Jones.</qau></r
 </pre></table><br/
 where each distance (line third) is the sum of 4 and a multiple of 3 by the series 0, 1, 2, 4, 8, etc., the true distances being given in the lower line.</p>
 
-<p>-- <col><b>Boyle's law</b></col> <fld>(Physics)</fld>, <cd>an expression of the fact, that when an elastic fluid is subjected to compression, and kept at a constant temperature, the product of the pressure and volume is a constant quantity, <it>i. e.</it>, the volume is inversely proportioned to the pressure; -- known also as <altname>Mariotte's law</altname>, and the <altname>law of Boyle and Mariotte</altname>.</cd> -- <col><b>Brehon laws</b></col>. <cd>See under <er>Brehon</er>.</cd> -- <col><b>Canon law</b></col>, <cd>the body of ecclesiastical law adopted in the Christian Church, certain portions of which (for example, the law of marriage as existing before the Council of Tent) were brought to America by the English colonists as part of the common law of the land.</cd> <au>Wharton.</au> -- <col><b>Civil law</b></col>, <cd>a term used by writers to designate Roman law, with modifications thereof which have been made in the different countries into which that law has been introduced. The civil law, instead of the <contr>common law</contr>, prevails in the State of Louisiana.</cd> <au>Wharton.</au> -- <col><b>Commercial law</b></col>. <cd>See <cref>Law merchant</cref> (below).</cd> -- <col><b>Common law</b></col>. <cd>See under <er>Common</er>.</cd> -- <col><b>Criminal law</b></col>, <cd>that branch of jurisprudence which relates to crimes.</cd> -- <col><b>Ecclesiastical law</b></col>. <cd>See under <er>Ecclesiastical</er>.</cd> -- <col><b>Grimm's law</b></col> <fld>(Philol.)</fld>, <cd>a statement (propounded by the German philologist <person>Jacob <etsep>Grimm</etsep></person>) of certain regular changes which the primitive Indo-European mute consonants, so-called (most plainly seen in Sanskrit and, with some changes, in Greek and Latin), have undergone in the Teutonic languages. Examples: Skr. <xex>bh</xex><amac/t<rsdot/, L. <xex>f</xex>rater, E. <xex>b</xex>rother, G. <xex>b</xex>ruder; L. <xex>t</xex>res, E. <xex>th</xex>ree, G. <xex>dr</xex>ei, Skr. <xex>g</xex>o, E. <xex>c</xex>ow, G. <xex>k</xex>uh; Skr. <xex>dh</xex><amac/ to put, Gr. <grk>ti-qe`-nai</grk>, E. <xex>d</xex>o, OHG, <xex>t</xex>uon, G. <xex>th</xex>un.  See also <er>lautverschiebung</er>.</cd> -- <col><b>Kepler's laws</b></col> <fld>(Astron.)</fld>, <cd>three important laws or expressions of the order of the planetary motions, discovered by John <etsep>Kepler</etsep>. They are these: (1) The orbit of a planet with respect to the sun is an ellipse, the sun being in one of the foci. (2) The areas swept over by a vector drawn from the sun to a planet are proportioned to the times of describing them. (3) The squares of the times of revolution of two planets are in the ratio of the cubes of their mean distances.</cd> -- <col><b>Law binding</b></col>, <cd>a plain style of leather binding, used for law books; -- called also <altname>law calf</altname>.</cd> -- <col><b>Law book</b></col>, <cd>a book containing, or treating of, laws.</cd> -- <col><b>Law calf</b></col>. <cd>See <cref>Law binding</cref> (above).</cd> -- <col><b>Law day</b></col>. <sd>(a)</sd> <cd>Formerly, a day of holding court, esp. a court-leet.</cd> <sd>(b)</sd> <cd>The day named in a mortgage for the payment of the money to secure which it was given.</cd> <mark>[U. S.]</mark> -- <col><b>Law French</b></col>, <cd>the dialect of Norman, which was used in judicial proceedings and law books in England from the days of <person>William the Conqueror</person> to the thirty-sixth year of Edward III.</cd> -- <col><b>Law language</b></col>, <cd>the language used in legal writings and forms.</cd> -- <col><b>Law Latin</b></col>. <cd>See under <er>Latin</er>.</cd> -- <col><b>Law lords</b></col>, <cd>peers in the British Parliament who have held high judicial office, or have been noted in the legal profession.</cd> -- <mcol><col><b>Law merchant</b></col>, <it>or</it> <col><b>Commercial law</b></col></mcol>, <cd>a system of rules by which trade and commerce are regulated; -- deduced from the custom of merchants, and regulated by judicial decisions, as also by enactments of legislatures.<-- now in most state superseded by the Uniform Commercial Code --></cd> -- <col><b>Law of Charles</b></col> <fld>(Physics)</fld>, <cd>the law that the volume of a given mass of gas increases or decreases, by a definite fraction of its value for a given rise or fall of temperature; -- sometimes less correctly styled <altname>Gay Lussac's law</altname>, or <altname>Dalton's law</altname>.</cd> -- <col><b>Law of nations</b></col>. <cd>See <cref>International law</cref>, under <er>International</er>.</cd> -- <col><b>Law of nature</b></col>. <sd>(a)</sd> <cd>A broad generalization expressive of the constant action, or effect, of natural conditions; <as>as, death is a <ex>law of nature</ex>; self-defense is a <ex>law of nature</ex></as>. See <er>Law</er>, 4.</cd> <sd>(b)</sd> <cd>A term denoting the standard, or system, of morality deducible from a study of the nature and natural relations of human beings independent of supernatural revelation or of municipal and social usages.</cd> -- <col><b>Law of the land</b></col>, <cd>due process of law; the general law of the land.</cd> -- <col><b>Laws of honor</b></col>. <cd>See under <er>Honor</er>.</cd> -- <col><b>Laws of motion</b></col> <fld>(Physics)</fld>, <cd>three laws defined by <person>Sir Isaac Newton</person>: (1) Every body perseveres in its state of rest or of moving uniformly in a straight line, except so far as it is made to change that state by external force. (2) Change of motion is proportional to the impressed force, and takes place in the direction in which the force is impressed. (3) Reaction is always equal and opposite to action, that is to say, the actions of two bodies upon each other are always equal and in opposite directions.</cd> -- <mcol><col><b>Marine law</b></col>, <it>or</it> <col><b>Maritime law</b></col></mcol>, <cd>the law of the sea; a branch of the law merchant relating to the affairs of the sea, such as seamen, ships, shipping, navigation, and the like.</cd> <au>Bouvier.</au> -- <col><b>Mariotte's law</b></col>. <cd>See <cref>Boyle's law</cref> (above).</cd> -- <col><b>Martial law</b></col>.<cd>See under <er>Martial</er>.</cd> -- <col><b>Military law</b></col>, <cd>a branch of the general municipal law, consisting of rules ordained for the government of the military force of a state in peace and war, and administered in courts martial.</cd> <au>Kent.</au>  <au>Warren's Blackstone.</au> -- <col><b>Moral law</b></col>, <cd>the law of duty as regards what is right and wrong in the sight of God; specifically, the ten commandments given by Moses. See <er>Law</er>, 2.</cd> -- <mcol><col><b>Mosaic law</b></col>, <it>or</it> <col><b>Ceremonial law</b></col></mcol>. <fld>(Script.)</fld> <cd>See <er>Law</er>, 3.</cd> -- <mcol><col><b>Municipal law</b></col>, <it>or</it> <col><b>Positive law</b></col></mcol>, <cd>a rule prescribed by the supreme power of a state, declaring some right, enforcing some duty, or prohibiting some act; -- distinguished from <contr>international law</contr> and <contr>constitutional law</contr>. See <er>Law</er>, 1.</cd> -- <col><b>Periodic law</b></col>. <fld>(Chem.)</fld> <cd>See under <er>Periodic</er>.</cd> -- <col><b>Roman law</b></col>, <cd>the system of principles and laws found in the codes and treatises of the lawmakers and jurists of ancient Rome, and incorporated more or less into the laws of the several European countries and colonies founded by them. See <cref>Civil law</cref> (above).</cd> -- <col><b>Statute law</b></col>, <cd>the law as stated in statutes or positive enactments of the legislative body.</cd> -- <col><b>Sumptuary law</b></col>. <cd>See under <er>Sumptuary</er>.</cd> -- <col><b>To go to law</b></col>, <cd>to seek a settlement of any matter by bringing it before the courts of law; to sue or prosecute some one.</cd> -- <mcol><col><b>To take the law of</b></col>, <it>or</it> <col><b>To have the law of</b></col></mcol>, <cd>to bring the law to bear upon; <as>as, <ex>to take the law of</ex> one's neighbor</as>.</cd> <au>Addison.</au> -- <col><b>Wager of law</b></col>. <cd>See under <er>Wager</er>.</cd></cs></p>
+<p>-- <col><b>Boyle's law</b></col> <fld>(Physics)</fld>, <cd>an expression of the fact, that when an elastic fluid is subjected to compression, and kept at a constant temperature, the product of the pressure and volume is a constant quantity, <it>i. e.</it>, the volume is inversely proportioned to the pressure; -- known also as <altname>Mariotte's law</altname>, and the <altname>law of Boyle and Mariotte</altname>.</cd> -- <col><b>Brehon laws</b></col>. <cd>See under <er>Brehon</er>.</cd> -- <col><b>Canon law</b></col>, <cd>the body of ecclesiastical law adopted in the Christian Church, certain portions of which (for example, the law of marriage as existing before the Council of Tent) were brought to America by the English colonists as part of the common law of the land.</cd> <au>Wharton.</au> -- <col><b>Civil law</b></col>, <cd>a term used by writers to designate Roman law, with modifications thereof which have been made in the different countries into which that law has been introduced. The civil law, instead of the <contr>common law</contr>, prevails in the State of Louisiana.</cd> <au>Wharton.</au> -- <col><b>Commercial law</b></col>. <cd>See <cref>Law merchant</cref> (below).</cd> -- <col><b>Common law</b></col>. <cd>See under <er>Common</er>.</cd> -- <col><b>Criminal law</b></col>, <cd>that branch of jurisprudence which relates to crimes.</cd> -- <col><b>Ecclesiastical law</b></col>. <cd>See under <er>Ecclesiastical</er>.</cd> -- <col><b>Grimm's law</b></col> <fld>(Philol.)</fld>, <cd>a statement (propounded by the German philologist <person>Jacob <etsep>Grimm</etsep></person>) of certain regular changes which the primitive Indo-European mute consonants, so-called (most plainly seen in Sanskrit and, with some changes, in Greek and Latin), have undergone in the Teutonic languages. Examples: Skr. <xex>bh</xex><amac/t<rsdot/, L. <xex>f</xex>rater, E. <xex>b</xex>rother, G. <xex>b</xex>ruder; L. <xex>t</xex>res, E. <xex>th</xex>ree, G. <xex>dr</xex>ei, Skr. <xex>g</xex>o, E. <xex>c</xex>ow, G. <xex>k</xex>uh; Skr. <xex>dh</xex><amac/ to put, Gr. <grk>ti-qe`-nai</grk>, E. <xex>d</xex>o, OHG, <xex>t</xex>uon, G. <xex>th</xex>un.  See also <er>lautverschiebung</er>.</cd> -- <col><b>Kepler's laws</b></col> <fld>(Astron.)</fld>, <cd>three important laws or expressions of the order of the planetary motions, discovered by John <etsep>Kepler</etsep>. They are these: (1) The orbit of a planet with respect to the sun is an ellipse, the sun being in one of the foci. (2) The areas swept over by a vector drawn from the sun to a planet are proportioned to the times of describing them. (3) The squares of the times of revolution of two planets are in the ratio of the cubes of their mean distances.</cd> -- <col><b>Law binding</b></col>, <cd>a plain style of leather binding, used for law books; -- called also <altname>law calf</altname>.</cd> -- <col><b>Law book</b></col>, <cd>a book containing, or treating of, laws.</cd> -- <col><b>Law calf</b></col>. <cd>See <cref>Law binding</cref> (above).</cd> -- <col><b>Law day</b></col>. <sd>(a)</sd> <cd>Formerly, a day of holding court, esp. a court-leet.</cd> <sd>(b)</sd> <cd>The day named in a mortgage for the payment of the money to secure which it was given.</cd> <mark>[U. S.]</mark> -- <col><b>Law French</b></col>, <cd>the dialect of Norman, which was used in judicial proceedings and law books in England from the days of <person>William the Conqueror</person> to the thirty-sixth year of Edward III.</cd> -- <col><b>Law language</b></col>, <cd>the language used in legal writings and forms.</cd> -- <col><b>Law Latin</b></col>. <cd>See under <er>Latin</er>.</cd> -- <col><b>Law lords</b></col>, <cd>peers in the British Parliament who have held high judicial office, or have been noted in the legal profession.</cd> -- <mcol><col><b>Law merchant</b></col>, <it>or</it> <col><b>Commercial law</b></col></mcol>, <cd>a system of rules by which trade and commerce are regulated; -- deduced from the custom of merchants, and regulated by judicial decisions, as also by enactments of legislatures.<-- now in most state superseded by the Uniform Commercial Code --></cd> -- <col><b>Law of Charles</b></col> <fld>(Physics)</fld>, <cd>the law that the volume of a given mass of gas increases or decreases, by a definite fraction of its value for a given rise or fall of temperature; -- sometimes less correctly styled <altname>Gay Lussac's law</altname>, or <altname>Dalton's law</altname>.</cd> -- <col><b>Law of nations</b></col>. <cd>See <cref>International law</cref>, under <er>International</er>.</cd> -- <col><b>Law of nature</b></col>. <sd>(a)</sd> <cd>A broad generalization expressive of the constant action, or effect, of natural conditions; <as>as, death is a <ex>law of nature</ex>; self-defense is a <ex>law of nature</ex></as>. See <er>Law</er>, <snr>4</snr>.</cd> <sd>(b)</sd> <cd>A term denoting the standard, or system, of morality deducible from a study of the nature and natural relations of human beings independent of supernatural revelation or of municipal and social usages.</cd> -- <col><b>Law of the land</b></col>, <cd>due process of law; the general law of the land.</cd> -- <col><b>Laws of honor</b></col>. <cd>See under <er>Honor</er>.</cd> -- <col><b>Laws of motion</b></col> <fld>(Physics)</fld>, <cd>three laws defined by <person>Sir Isaac Newton</person>: (1) Every body perseveres in its state of rest or of moving uniformly in a straight line, except so far as it is made to change that state by external force. (2) Change of motion is proportional to the impressed force, and takes place in the direction in which the force is impressed. (3) Reaction is always equal and opposite to action, that is to say, the actions of two bodies upon each other are always equal and in opposite directions.</cd> -- <mcol><col><b>Marine law</b></col>, <it>or</it> <col><b>Maritime law</b></col></mcol>, <cd>the law of the sea; a branch of the law merchant relating to the affairs of the sea, such as seamen, ships, shipping, navigation, and the like.</cd> <au>Bouvier.</au> -- <col><b>Mariotte's law</b></col>. <cd>See <cref>Boyle's law</cref> (above).</cd> -- <col><b>Martial law</b></col>.<cd>See under <er>Martial</er>.</cd> -- <col><b>Military law</b></col>, <cd>a branch of the general municipal law, consisting of rules ordained for the government of the military force of a state in peace and war, and administered in courts martial.</cd> <au>Kent.</au>  <au>Warren's Blackstone.</au> -- <col><b>Moral law</b></col>, <cd>the law of duty as regards what is right and wrong in the sight of God; specifically, the ten commandments given by Moses. See <er>Law</er>, 2.</cd> -- <mcol><col><b>Mosaic law</b></col>, <it>or</it> <col><b>Ceremonial law</b></col></mcol>. <fld>(Script.)</fld> <cd>See <er>Law</er>, 3.</cd> -- <mcol><col><b>Municipal law</b></col>, <it>or</it> <col><b>Positive law</b></col></mcol>, <cd>a rule prescribed by the supreme power of a state, declaring some right, enforcing some duty, or prohibiting some act; -- distinguished from <contr>international law</contr> and <contr>constitutional law</contr>. See <er>Law</er>, 1.</cd> -- <col><b>Periodic law</b></col>. <fld>(Chem.)</fld> <cd>See under <er>Periodic</er>.</cd> -- <col><b>Roman law</b></col>, <cd>the system of principles and laws found in the codes and treatises of the lawmakers and jurists of ancient Rome, and incorporated more or less into the laws of the several European countries and colonies founded by them. See <cref>Civil law</cref> (above).</cd> -- <col><b>Statute law</b></col>, <cd>the law as stated in statutes or positive enactments of the legislative body.</cd> -- <col><b>Sumptuary law</b></col>. <cd>See under <er>Sumptuary</er>.</cd> -- <col><b>To go to law</b></col>, <cd>to seek a settlement of any matter by bringing it before the courts of law; to sue or prosecute some one.</cd> -- <mcol><col><b>To take the law of</b></col>, <it>or</it> <col><b>To have the law of</b></col></mcol>, <cd>to bring the law to bear upon; <as>as, <ex>to take the law of</ex> one's neighbor</as>.</cd> <au>Addison.</au> -- <col><b>Wager of law</b></col>. <cd>See under <er>Wager</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Justice; equity.</syn> <usage> -- <er>Law</er>, <er>Statute</er>, <er>Common law</er>, <er>Regulation</er>, <er>Edict</er>, <er>Decree</er>. <xex>Law</xex> is generic, and, when used with reference to, or in connection with, the other words here considered, denotes whatever is commanded by one who has a right to require obedience. A <xex>statute</xex> is a particular law drawn out in form, and distinctly enacted and proclaimed. <xex>Common law</xex> is a rule of action founded on long usage and the decisions of courts of justice. A <xex>regulation</xex> is a limited and often, temporary law, intended to secure some particular end or object. An <xex>edict</xex> is a command or law issued by a sovereign, and is peculiar to a despotic government. A <xex>decree</xex> is a permanent order either of a court or of the executive government. See <er>Justice</er>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -7363,7 +7363,7 @@ where each distance (line third) is the sum of 4 and a multiple of 3 by the seri
 <p><sn>3.</sn> <def>Not belonging to, or emanating from, a particular profession; unprofessional; <as>as, a <ex>lay</ex> opinion regarding the nature of a disease</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Lay baptism</b></col> <fld>(Eccl.)</fld>, <cd>baptism administered by a lay person.</cd> <au>F. G. Lee.</au> -- <col><b>Lay brother</b></col> <fld>(R. C. Ch.)</fld>, <cd>one received into a convent of monks under the three vows, but not in holy orders.</cd> -- <col><b>Lay clerk</b></col> <fld>(Eccl.)</fld>, <cd>a layman who leads the responses of the congregation, etc., in the church service.</cd> <au>Hook.</au> -- <col><b>Lay days</b></col> <fld>(Com.)</fld>, <cd>time allowed in a charter party for taking in and discharging cargo.</cd> <au>McElrath.</au> -- <col><b>Lay elder</b></col>. <cd>See 2d <er>Elder</er>, 3, note.</cd></cs><br/
+<p><cs><col><b>Lay baptism</b></col> <fld>(Eccl.)</fld>, <cd>baptism administered by a lay person.</cd> <au>F. G. Lee.</au> -- <col><b>Lay brother</b></col> <fld>(R. C. Ch.)</fld>, <cd>one received into a convent of monks under the three vows, but not in holy orders.</cd> -- <col><b>Lay clerk</b></col> <fld>(Eccl.)</fld>, <cd>a layman who leads the responses of the congregation, etc., in the church service.</cd> <au>Hook.</au> -- <col><b>Lay days</b></col> <fld>(Com.)</fld>, <cd>time allowed in a charter party for taking in and discharging cargo.</cd> <au>McElrath.</au> -- <col><b>Lay elder</b></col>. <cd>See 2d <er>Elder</er>, <snr>3</snr>, note.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lay</ent><br/
@@ -7536,7 +7536,7 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <sd>(a)</sd> <def>A job, price, or profit.</def> <mark>[Prov. Eng.]</mark> <au>Wright.</au> <sd>(b)</sd> <def> A share of the proceeds or profits of an enterprise; <as>as, when a man ships for a whaling voyage, he agrees for a certain <ex>lay</ex></as>.</def> <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Textile Manuf.)</fld> <sd>(a)</sd> <def>A measure of yarn; a lea. See 1st <er>Lea</er> <sdr>(a)</sdr>.</def> <sd>(b)</sd> <def>The lathe of a loom. See <er>Lathe</er>, 3.</def><br/
+<p><sn>4.</sn> <fld>(Textile Manuf.)</fld> <sd>(a)</sd> <def>A measure of yarn; a lea. See 1st <er>Lea</er> <sdr>(a)</sdr>.</def> <sd>(b)</sd> <def>The lathe of a loom. See <er>Lathe</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>A plan; a scheme.</def> <mark>[Slang]</mark>  <rj><au>Dickens.</au></rj><br/
@@ -9737,7 +9737,7 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legalist</ent><br/
-<hw>Le"gal*ist</hw>, <pos>n.</pos> <def>One who practices or advocates strict conformity to law; in theology, one who holds to the law of works. See <er>Legal</er>, 2 <sdr>(a)</sdr>.</def><br/
+<hw>Le"gal*ist</hw>, <pos>n.</pos> <def>One who practices or advocates strict conformity to law; in theology, one who holds to the law of works. See <er>Legal</er>, <snr>2</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Legality</ent><br/
@@ -11021,7 +11021,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 <hw>Leop"ard</hw> <pr>(l<ecr/p"<etil/rd)</pr>, <pos>n.</pos> <ety>[OE. <ets>leopart</ets>, <ets>leparde</ets>, <ets>lebarde</ets>, <ets>libbard</ets>, OF. <ets>leopard</ets>, <ets>liepart</ets>, F. <ets>l<eacute/opard</ets>, L. <ets>leopardus</ets>, fr. Gr. <grk>leo`pardos</grk>; <grk>le`wn</grk> lion + <grk>pa`rdos</grk> pard. See <er>Lion</er>, and <er>Pard</er>.]</ety> <fld>(Zool.)</fld> <def>A large, savage, carnivorous mammal (<spn>Felis leopardus</spn>). It is of a yellow or fawn color, with rings or roselike clusters of black spots along the back and sides. It is found in Southern Asia and Africa. By some the panther (<spn>Felis pardus</spn>) is regarded as a variety of leopard.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hunting leopard</b></col>. <cd>See <er>Cheetah</er>.</cd> --<col><b>Leopard cat</b></col> <fld>(Zool.)</fld> <cd>any one of several species or varieties of small, spotted cats found in Africa, Southern Asia, and the East Indies; esp., <spn>Felis Bengalensis</spn>.</cd> -- <col><b>Leopard marmot</b></col>. <cd>See <er>Gopher</er>, 2.</cd></cs><br/
+<p><cs><col><b>Hunting leopard</b></col>. <cd>See <er>Cheetah</er>.</cd> --<col><b>Leopard cat</b></col> <fld>(Zool.)</fld> <cd>any one of several species or varieties of small, spotted cats found in Africa, Southern Asia, and the East Indies; esp., <spn>Felis Bengalensis</spn>.</cd> -- <col><b>Leopard marmot</b></col>. <cd>See <er>Gopher</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>leopardbane</ent><br/
@@ -11709,7 +11709,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 <p><sn>6.</sn> <def>To give, grant, or assign, as a work, privilege, or contract; -- often with <ptcl>out</ptcl>; <as>as, to <ex>let</ex> the building of a bridge; to <ex>let</ex> out the lathing and the plastering.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The active form of the infinitive of <xex>let</xex>, as of many other English verbs, is often used in a passive sense; as, a house <xex>to let</xex> (<it>i. e.</it>, for letting, or to be let). This form of expression conforms to the use of the Anglo-Saxon gerund with <xex>to</xex> (dative infinitive) which was commonly so employed. See <er>Gerund</er>, 2. <ldquo/ Your elegant house in Harley Street is <xex>to let</xex>.<rdquo/ <au>Thackeray.</au>
+<p><note><hand/ The active form of the infinitive of <xex>let</xex>, as of many other English verbs, is often used in a passive sense; as, a house <xex>to let</xex> (<it>i. e.</it>, for letting, or to be let). This form of expression conforms to the use of the Anglo-Saxon gerund with <xex>to</xex> (dative infinitive) which was commonly so employed. See <er>Gerund</er>, <snr>2</snr>. <ldquo/ Your elegant house in Harley Street is <xex>to let</xex>.<rdquo/ <au>Thackeray.</au>
   In the imperative mood, before the first person plural, <xex>let</xex> has a hortative force. <ldquo/ Rise up, <xex>let</xex> us go.<rdquo/ <au>Mark xiv. 42.</au> <ldquo/ <xex>Let</xex> us seek out some desolate shade.<rdquo/ <au>Shak.</au></note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -14239,7 +14239,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lieutenantship</ent><br/
-<hw>Lieu*ten"ant*ship</hw> <pr>(l<usl/*t<ecr/n"<ait/nt*sh<icr/p)</pr>, <pos>n.</pos> <def>Same as <er>Lieutenancy</er>, 1.</def><br/
+<hw>Lieu*ten"ant*ship</hw> <pr>(l<usl/*t<ecr/n"<ait/nt*sh<icr/p)</pr>, <pos>n.</pos> <def>Same as <er>Lieutenancy</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lieve</ent><br/
@@ -14558,7 +14558,7 @@ We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj><br
 <hw>Lift"ing</hw>, <pos>a.</pos> <def>Used in, or for, or by, lifting.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Lifting bridge</b></col>, <cd>a lift bridge.</cd> -- <col><b>Lifting jack</b></col>. <cd>See 2d <er>Jack</er>, 5.</cd> -- <col><b>Lifting machine</b></col>. <cd>See <cref>Health lift</cref>, under <er>Health</er>.</cd> -- <col><b>Lifting pump</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A kind of pump having a bucket, or valved piston, instead of a solid piston, for drawing water and lifting it to a high level.</cd> <sd>(b)</sd> <cd>A pump which lifts the water only to the top of the pump, or delivers it through a spout; a lift pump.</cd> -- <col><b>Lifting rod</b></col>, <cd>a vertical rod lifted by a rock shaft, and imparting motion to a puppet valve; -- used in the engines of river steamboats.</cd> -- <col><b>Lifting sail</b></col> <fld>(Naut.)</fld>, <cd>one which tends to lift a vessel's bow out of water, as jibs and square foresails.</cd></cs><br/
+<p><cs><col><b>Lifting bridge</b></col>, <cd>a lift bridge.</cd> -- <col><b>Lifting jack</b></col>. <cd>See 2d <er>Jack</er>, <snr>5</snr>.</cd> -- <col><b>Lifting machine</b></col>. <cd>See <cref>Health lift</cref>, under <er>Health</er>.</cd> -- <col><b>Lifting pump</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A kind of pump having a bucket, or valved piston, instead of a solid piston, for drawing water and lifting it to a high level.</cd> <sd>(b)</sd> <cd>A pump which lifts the water only to the top of the pump, or delivers it through a spout; a lift pump.</cd> -- <col><b>Lifting rod</b></col>, <cd>a vertical rod lifted by a rock shaft, and imparting motion to a puppet valve; -- used in the engines of river steamboats.</cd> -- <col><b>Lifting sail</b></col> <fld>(Naut.)</fld>, <cd>one which tends to lift a vessel's bow out of water, as jibs and square foresails.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>liftoff</ent><br/
@@ -14659,7 +14659,7 @@ We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj><br
 <hw>Lig"ger</hw> <pr>(l<icr/g"g<etil/r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A baited line attached to a float, for night fishing. See <er>Leger</er>, <pos>a.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Ledger</er>, 2.</def><br/
+<p><sn>2.</sn> <def>See <er>Ledger</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Light</ent><br/
@@ -16407,7 +16407,7 @@ Into three <qex>limits</qex> very equally.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Lim"i*ta*ry</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>limitaries</plw> <pr>(l<icr/m"<icr/*t<asl/*r<icr/z)</pr>.</plu> <sn>1.</sn> <def>That which serves to limit; a boundary; border land.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A limiter. See <er>Limiter</er>, 2.</def><br/
+<p><sn>2.</sn> <def>A limiter. See <er>Limiter</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limitate</ent><br/
@@ -16477,7 +16477,7 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limitour</ent><br/
-<hw>Lim"it*our</hw> <pr>(l<icr/m"<icr/t*<oomac/r)</pr>, <pos>n.</pos> <def>See <er>Limiter</er>, 2.</def><br/
+<hw>Lim"it*our</hw> <pr>(l<icr/m"<icr/t*<oomac/r)</pr>, <pos>n.</pos> <def>See <er>Limiter</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Limmer</ent><br/
@@ -17005,7 +17005,7 @@ By very <qex>line</qex>, as of the stock real.</q> <rj><qau>Chaucer.</qau></rj><
 <p><sn>4.</sn> <def>To form into a line; to align; <as>as, to <ex>line</ex> troops</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To line bees</b></col>, <cd>to track wild bees to their nest by following their line of flight.</cd> -- <col><b>To line up</b></col> <fld>(Mach.)</fld>, <cd>to put in alignment; to put in correct adjustment for smooth running. See 3d <er>Line</er>, 19.</cd></cs><br/
+<p><cs><col><b>To line bees</b></col>, <cd>to track wild bees to their nest by following their line of flight.</cd> -- <col><b>To line up</b></col> <fld>(Mach.)</fld>, <cd>to put in alignment; to put in correct adjustment for smooth running. See 3d <er>Line</er>, <snr>19</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lineage</ent><br/
@@ -20000,7 +20000,7 @@ He seems.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liveried</ent><br/
-<hw>Liv"er*ied</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Wearing a livery. See <er>Livery</er>, 3.</def><br/
+<hw>Liv"er*ied</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Wearing a livery. See <er>Livery</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>liveried</qex> servants wait.</q> <rj><qau>Parnell.</qau></rj><br/
@@ -20289,7 +20289,7 @@ Had in her sober <qex>livery</qex> all things clad.</q> <rj><qau>Milton.</qau></
 <p><sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of the numerous species of reptiles belonging to the order <ord>Lacertilia</ord>; sometimes, also applied to reptiles of other orders, as the <ord>Hatteria</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Most lizards have an elongated body, with four legs, and a long tail; but there are some without legs, and some with a short, thick tail. Most have scales, but some are naked; most have eyelids, but some do not. The tongue is varied in form and structure. In some it is forked, in others, as the chameleons, club-shaped, and very extensible. See <er>Amphisb<ae/na</er>, <er>Chameleon</er>, <er>Gecko</er>, <er>Gila monster</er>, <er>Horned toad</er>, <er>Iguana</er>, and <er>Dragon</er>, 6.</note><br/
+<p><note><hand/ Most lizards have an elongated body, with four legs, and a long tail; but there are some without legs, and some with a short, thick tail. Most have scales, but some are naked; most have eyelids, but some do not. The tongue is varied in form and structure. In some it is forked, in others, as the chameleons, club-shaped, and very extensible. See <er>Amphisb<ae/na</er>, <er>Chameleon</er>, <er>Gecko</er>, <er>Gila monster</er>, <er>Horned toad</er>, <er>Iguana</er>, and <er>Dragon</er>, <snr>6</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>A piece of rope with thimble or block spliced into one or both of the ends.</def>  <rj><au>R. H. Dana, Ir.</au></rj><br/
@@ -23301,7 +23301,7 @@ Bring up his powers; but he did long in vain.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>looked-for</ent><br/
-<hw>looked-for</hw> <pos>adj.</pos>  <def>same as <er>anticipated</er>, 2; <as>as, his <ex>looked-for</ex> advancement</as>.</def> <mark>[prenominal]</mark><br/
+<hw>looked-for</hw> <pos>adj.</pos>  <def>same as <er>anticipated</er>, <snr>2</snr>; <as>as, his <ex>looked-for</ex> advancement</as>.</def> <mark>[prenominal]</mark><br/
 <syn><b>Syn. --</b> anticipated.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -24891,7 +24891,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 
 <p><ent>Louvre</ent><br/
 <ent>Louver</ent><br/
-<mhw>{ <hw>Lou"ver</hw>, <hw>Lou"vre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>lover</ets>, OF. <ets>lover</ets>, <ets>lovier</ets>; <ets>or l'ouvert</ets> the opening, fr. <ets>overt</ets>, <ets>ouvert</ets>, p. p. of <ets>ovrir</ets>, <ets>ouvrir</ets>, to open, F. <ets>ouvrir</ets>.  Cf. <er>Overt</er>.]</ety> <fld>(Arch.)</fld> <def>A small lantern. See <er>Lantern</er>, 2 <sdr>(a)</sdr>.</def> <altsp>[Written also <asp>lover</asp>, <asp>loover</asp>, <asp>lovery</asp>, and <asp>luffer</asp>.]</altsp></p>
+<mhw>{ <hw>Lou"ver</hw>, <hw>Lou"vre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>lover</ets>, OF. <ets>lover</ets>, <ets>lovier</ets>; <ets>or l'ouvert</ets> the opening, fr. <ets>overt</ets>, <ets>ouvert</ets>, p. p. of <ets>ovrir</ets>, <ets>ouvrir</ets>, to open, F. <ets>ouvrir</ets>.  Cf. <er>Overt</er>.]</ety> <fld>(Arch.)</fld> <def>A small lantern. See <er>Lantern</er>, <snr>2</snr> <sdr>(a)</sdr>.</def> <altsp>[Written also <asp>lover</asp>, <asp>loover</asp>, <asp>lovery</asp>, and <asp>luffer</asp>.]</altsp></p>
 
 <p><sn>2.</sn> <def>Same as <cref>louver boards</cref>, below</def><br/
 [<source>PJC</source>]</p>
@@ -25788,7 +25788,7 @@ Down to a silent grave.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Low"-pres`sure</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having, employing, or exerting, a low degree of pressure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn>  <def>same as <er>easygoing</er>, 4; <as>as, a <ex>low-pressure</ex> salesman</as>.</def><br/
+<p><sn>2.</sn>  <def>same as <er>easygoing</er>, <snr>4</snr>; <as>as, a <ex>low-pressure</ex> salesman</as>.</def><br/
 <syn><b>Syn. --</b> easygoing.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -28283,7 +28283,7 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lycanthropia</ent><br/
-\'d8<hw>Ly`can*thro"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Lycanthropy</er>, 2.</def><br/
+\'d8<hw>Ly`can*thro"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Lycanthropy</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lycanthropic</ent><br/

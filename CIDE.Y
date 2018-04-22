@@ -77,7 +77,7 @@
 <hw>Yacht</hw> <pr>(y<ocr/t)</pr>, <pos>n.</pos> <ety>[D. <ets>jagt</ets>, <ets>jacht</ets>; perhaps properly, a chase, hunting, from. <ets>jagen</ets> to chase, hunt, akin to G. <ets>jagen</ets>, OHG. <ets>jag<omac/n</ets>, of uncertain origin; or perhaps akin to OHG. <ets>g<amac/hi</ets> quick, sudden (cf. <er>Gay</er>).]</ety> <fld>(Naut.)</fld> <def>A light and elegantly furnished vessel, used either for private parties of pleasure, or as a vessel of state to convey distinguished persons from one place to another; a seagoing vessel used only for pleasure trips, racing, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yacht measurement</b></col>. <cd>See the Note under <er>Tonnage</er>, 4.</cd></cs><br/
+<p><cs><col><b>Yacht measurement</b></col>. <cd>See the Note under <er>Tonnage</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yacht</ent><br/
@@ -169,7 +169,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yakamilk</ent><br/
-<hw>Yak"a*milk</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Trumpeter</er>, 3 <sdr>(a)</sdr>.</def><br/
+<hw>Yak"a*milk</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Trumpeter</er>, <snr>3</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yakare</ent><br/
@@ -1097,7 +1097,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellowlegs</ent><br/
-<hw>Yel"low*legs`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of several species of long-legged sandpipers of the genus <gen>Totanus</gen>, in which the legs are bright yellow; -- called also <altname>stone snipe</altname>, <altname>tattler</altname>, <altname>telltale</altname>, <altname>yellowshanks</altname>; and <altname>yellowshins</altname>.  See <er>Tattler</er>, 2.</def><br/
+<hw>Yel"low*legs`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of several species of long-legged sandpipers of the genus <gen>Totanus</gen>, in which the legs are bright yellow; -- called also <altname>stone snipe</altname>, <altname>tattler</altname>, <altname>telltale</altname>, <altname>yellowshanks</altname>; and <altname>yellowshins</altname>.  See <er>Tattler</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellowness</ent><br/

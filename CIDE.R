@@ -1365,7 +1365,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 <p><note><hand/ The radius is on the same side of the limb as the thumb, or pollex, and in man it is so articulated that its lower end is capable of partial rotation about the ulna.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Bot.)</fld> <def>A ray, or outer floret, of the capitulum of such plants as the sunflower and the daisy. See <er>Ray</er>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Bot.)</fld> <def>A ray, or outer floret, of the capitulum of such plants as the sunflower and the daisy. See <er>Ray</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <pluf>pl.</pluf> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The barbs of a perfect feather.</def> <sd>(b)</sd> <def>Radiating organs, or color-markings, of the radiates.</def><br/
@@ -3044,7 +3044,7 @@ Proudly <qex>ramparted</qex> with rocks.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ranch</ent><br/
-<hw>Ranch</hw>, <pos>n.</pos> <ety>[See <er>Rancho</er>.]</ety> <def>A tract of land used for grazing and the rearing of horses, cattle, or sheep. See <er>Rancho</er>, 2.</def> <mark>[Western U. S.]</mark><br/
+<hw>Ranch</hw>, <pos>n.</pos> <ety>[See <er>Rancho</er>.]</ety> <def>A tract of land used for grazing and the rearing of horses, cattle, or sheep. See <er>Rancho</er>, <snr>2</snr>.</def> <mark>[Western U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rancheria</ent><br/
@@ -3438,7 +3438,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 <p><sn>6.</sn> <def>Inflamed with venereal appetite.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rank modus</b></col> <fld>(Law)</fld>, <cd>an excessive and unreasonable modus. See <er>Modus</er>, 3.</cd> -- <mcol><col><b>To set</b></col> (the iron of a plane, etc.) <col><b>rank</b></col></mcol>, <cd>to set so as to take off a thick shaving.</cd> <au>Moxon.</au></cs><br/
+<p><cs><col><b>Rank modus</b></col> <fld>(Law)</fld>, <cd>an excessive and unreasonable modus. See <er>Modus</er>, <snr>3</snr>.</cd> -- <mcol><col><b>To set</b></col> (the iron of a plane, etc.) <col><b>rank</b></col></mcol>, <cd>to set so as to take off a thick shaving.</cd> <au>Moxon.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rank</ent><br/
@@ -3456,7 +3456,7 @@ Finds mark the archer little meant!</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 Rising in lofty <qex>ranks</qex>, and loftier still.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mil.)</fld> <def>A line of soldiers ranged side by side; -- opposed to <xex>file</xex>. See 1st <er>File</er>, 1 <sdr>(a)</sdr>.</def><br/
+<p><sn>2.</sn> <fld>(Mil.)</fld> <def>A line of soldiers ranged side by side; -- opposed to <xex>file</xex>. See 1st <er>File</er>, <snr>1</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Fierce, fiery warriors fought upon the clouds,<br/
@@ -4239,7 +4239,7 @@ Turned by a gentle fire, and roasted <qex>rare</qex>.</q> <rj><qau>Dryden.</qau>
 <hw>Rare"ly</hw> <pr>(r<acir/r"l<ycr/)</pr>, <pos>adv.</pos> <sn>1.</sn> <def>In a rare manner or degree; seldom; not often; <as>as, things <ex>rarely</ex> seen</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Finely; excellently; with rare skill. See 3d <er>Rare</er>, 2.</def><br/
+<p><sn>2.</sn> <def>Finely; excellently; with rare skill. See 3d <er>Rare</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The person who played so <qex>rarely</qex> on the flageolet.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
@@ -5003,7 +5003,7 @@ The art itself is nature.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Chem.)</fld> <def>Expressing the type, structure, relations, and reactions of a compound; graphic; -- said of formulae. See under <er>Formula</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rational horizon</b></col>. <fld>(Astron.)</fld> <cd>See <er>Horizon</er>, 2 <sdr>(b)</sdr>.</cd> -- <col><b>Rational quantity</b></col> <fld>(Alg.)</fld>, <cd>one that can be expressed without the use of a radical sign, or in exact parts of unity; -- opposed to <contr>irrational</contr> or <contr>radical quantity</contr>.</cd> -- <col><b>Rational symptom</b></col> <fld>(Med.)</fld>, <cd>one elicited by the statements of the patient himself and not as the result of a physical examination.</cd></cs>
+<p><cs><col><b>Rational horizon</b></col>. <fld>(Astron.)</fld> <cd>See <er>Horizon</er>, <snr>2</snr> <sdr>(b)</sdr>.</cd> -- <col><b>Rational quantity</b></col> <fld>(Alg.)</fld>, <cd>one that can be expressed without the use of a radical sign, or in exact parts of unity; -- opposed to <contr>irrational</contr> or <contr>radical quantity</contr>.</cd> -- <col><b>Rational symptom</b></col> <fld>(Med.)</fld>, <cd>one elicited by the statements of the patient himself and not as the result of a physical examination.</cd></cs>
 <-- rational drug design. --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -5131,7 +5131,7 @@ Attractive, human, <qex>rational</qex>, love still.</q> <rj><qau>Milton.</qau></
 <hw>Rat"-tail`</hw>, <pos>n.</pos> <sn>1.</sn> <fld>(Far.)</fld> <pluf>pl.</pluf> <def>An excrescence growing from the pastern to the middle of the shank of a horse.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The California chimaera. See <er>Chimaera</er>.</def> <sd>(b)</sd> <def>Any fish of the genus <gen>Macrurus</gen>. See <er>Grenadier</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The California chimaera. See <er>Chimaera</er>.</def> <sd>(b)</sd> <def>Any fish of the genus <gen>Macrurus</gen>. See <er>Grenadier</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rat-tailed</ent><br/
@@ -5857,7 +5857,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Razorbill</ent><br/
-<hw>Ra"zor*bill`</hw> <pr>(-b<icr/l`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A species of auk (<spn>Alca torda</spn>) common in the Arctic seas. See <er>Auk</er>, and <xex>Illust.</xex> in Appendix.</def> <sd>(b)</sd> <def>See <er>Cutwater</er>, 3.</def><br/
+<hw>Ra"zor*bill`</hw> <pr>(-b<icr/l`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A species of auk (<spn>Alca torda</spn>) common in the Arctic seas. See <er>Auk</er>, and <xex>Illust.</xex> in Appendix.</def> <sd>(b)</sd> <def>See <er>Cutwater</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>razor-edged</ent><br/
@@ -6584,7 +6584,7 @@ Contracts the danger of an <qex>actual</qex> fault.</q> <rj><qau>Dryden.</qau></
 <hw>Re"al*ist</hw>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/aliste</ets>.]</ety> <sn>1.</sn> <fld>(Philos.)</fld> <def>One who believes in realism; esp., one who maintains that <xex>generals</xex>, or the terms used to denote the genera and species of things, represent real existences, and are not mere names, as maintained by the <xex>nominalists</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Art. & Lit.)</fld> <def>An artist or writer who aims at realism in his work. See <er>Realism</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Art. & Lit.)</fld> <def>An artist or writer who aims at realism in his work. See <er>Realism</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>a person who avoids unrealistic or impractical beliefs or efforts.  Contrasted to <contr>idealist</contr> or <contr>visionary</contr>.</def><br/
@@ -6614,13 +6614,13 @@ Contracts the danger of an <qex>actual</qex> fault.</q> <rj><qau>Dryden.</qau></
 <p><q>My neck may be an idea to you, but it is a <qex>reality</qex> to me.</q> <rj><qau>Beattie.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <ety>[See 1st <er>Realty</er>, 2.]</ety> <def>Loyalty; devotion.</def> <mark>[Obs.]</mark><br/
+<p><sn>3.</sn> <ety>[See 1st <er>Realty</er>, <snr>2</snr>.]</ety> <def>Loyalty; devotion.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>To express our <qex>reality</qex> to the emperor.</q> <rj><qau>Fuller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Law)</fld> <def>See 2d <er>Realty</er>, 2.</def><br/
+<p><sn>4.</sn> <fld>(Law)</fld> <def>See 2d <er>Realty</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Realizable</ent><br/
@@ -6954,7 +6954,7 @@ And <qex>rear</qex> him up to virtue.</q> <rj><qau>Southern.</qau></rj><br/
 <p><q>And seeks the tusky boar to <qex>rear</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><syn><b>Syn.</b> -- To lift; elevate; erect; raise; build; establish. See the Note under <er>Raise</er>, 3 <sdr>(c)</sdr>.</syn><br/
+<p><syn><b>Syn.</b> -- To lift; elevate; erect; raise; build; establish. See the Note under <er>Raise</er>, <snr>3</snr> <sdr>(c)</sdr>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rear</ent><br/
@@ -8645,7 +8645,7 @@ And draws and blows <qex>reciprocating</qex> air.</q> <rj><qau>Dryden.</qau></rj
 <p><sn>3.</sn> <def>To rehearse, as a lesson to an instructor.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Law)</fld> <def>To state in or as a recital. See <er>Recital</er>, 5.</def><br/
+<p><sn>4.</sn> <fld>(Law)</fld> <def>To state in or as a recital. See <er>Recital</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- To rehearse; narrate; relate; recount; describe; recapitulate; detail; number; count.</syn><br/
@@ -10090,7 +10090,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recrementitial</ent><br/
-<hw>Rec`re*men*ti"tial</hw> <pr>(-m?n*t?sh"<it>a</it>l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/cr<eacute/mentitiel</ets>.]</ety> <fld>(Med.)</fld> <def>Of the nature of a recrement. See <er>Recrement</er>, 2 <sdr>(b)</sdr>.</def> <ldquo/<xex>Recrementitial</xex> fluids.<rdquo/  <rj><au>Dunglison.</au></rj><br/
+<hw>Rec`re*men*ti"tial</hw> <pr>(-m?n*t?sh"<it>a</it>l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/cr<eacute/mentitiel</ets>.]</ety> <fld>(Med.)</fld> <def>Of the nature of a recrement. See <er>Recrement</er>, <snr>2</snr> <sdr>(b)</sdr>.</def> <ldquo/<xex>Recrementitial</xex> fluids.<rdquo/  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Recrementitious</ent><br/
@@ -11736,7 +11736,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>1.</sn> <def>To redouble; to multiply; to repeat.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Gram.)</fld> <def>To repeat the first letter or letters of (a word). See <er>Reduplication</er>, 3.</def><br/
+<p><sn>2.</sn> <fld>(Gram.)</fld> <def>To repeat the first letter or letters of (a word). See <er>Reduplication</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reduplication</ent><br/
@@ -11854,7 +11854,7 @@ Of Hermes.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>8.</sn> <fld>(Arch.)</fld> <def>Same as <er>Reeding</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Egyptian reed</b></col> <fld>(Bot.)</fld>, <cd>the papyrus.</cd> -- <col><b>Free reed</b></col> <fld>(Mus.)</fld>, <cd>a reed whose edges do not overlap the wind passage, -- used in the harmonium, concertina, etc. It is distinguished from the <xex>beating</xex> or <xex>striking reed</xex> of the organ and clarinet.</cd> -- <col><b>Meadow reed grass</b></col> <fld>(Bot.)</fld>, <cd>the <spn>Glyceria aquatica</spn>, a tall grass found in wet places.</cd> -- <col><b>Reed babbler</b></col>. <cd>See <er>Reedbird</er>.</cd> -- <col><b>Reed bunting</b></col> <fld>(Zool.)</fld> <cd>A European sparrow (<spn>Emberiza sch<oe/niclus</spn>) which frequents marshy places; -- called also <altname>reed sparrow</altname>, <altname>ring bunting</altname>.</cd> <sd>(b)</sd> <cd>Reedling.</cd> -- <col><b>Reed canary grass</b></col> <fld>(Bot.)</fld>, <cd>a tall wild grass (<spn>Phalaris arundinacea</spn>).</cd> -- <col><b>Reed grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The common reed. See <er>Reed</er>, 1.</cd> <sd>(b)</sd> <cd>A plant of the genus <gen>Sparganium</gen>; bur reed. See under <er>Bur</er>.</cd> -- <col><b>Reed organ</b></col> <fld>(Mus.)</fld>, <cd>an organ in which the wind acts on a set of free reeds, as the harmonium, melodeon, concertina, etc.</cd> -- <col><b>Reed pipe</b></col> <fld>(Mus.)</fld>, <cd>a pipe of an organ furnished with a reed.</cd> -- <col><b>Reed sparrow</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Reed bunting</cref>, above.</cd> -- <col><b>Reed stop</b></col> <fld>(Mus.)</fld>, <cd>a set of pipes in an organ furnished with reeds.</cd> -- <col><b>Reed warbler</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small European warbler (<spn>Acrocephalus streperus</spn>); -- called also <altname>reed wren</altname>.</cd> <sd>(b)</sd> <cd>Any one of several species of Indian and Australian warblers of the genera <gen>Acrocephalus</gen>, <gen>Calamoherpe</gen>, and <gen>Arundinax</gen>. They are excellent singers.</cd> -- <col><b>Sea-sand reed</b></col> <fld>(Bot.)</fld>, <cd>a kind of coarse grass (<spn>Ammophila arundinacea</spn>). See <cref>Beach grass</cref>, under <er>Beach</er>.</cd> -- <col><b>Wood reed grass</b></col> <fld>(Bot.)</fld>, <cd>a tall, elegant grass (<spn>Cinna arundinacea</spn>), common in moist woods.</cd></cs><br/
+<p><cs><col><b>Egyptian reed</b></col> <fld>(Bot.)</fld>, <cd>the papyrus.</cd> -- <col><b>Free reed</b></col> <fld>(Mus.)</fld>, <cd>a reed whose edges do not overlap the wind passage, -- used in the harmonium, concertina, etc. It is distinguished from the <xex>beating</xex> or <xex>striking reed</xex> of the organ and clarinet.</cd> -- <col><b>Meadow reed grass</b></col> <fld>(Bot.)</fld>, <cd>the <spn>Glyceria aquatica</spn>, a tall grass found in wet places.</cd> -- <col><b>Reed babbler</b></col>. <cd>See <er>Reedbird</er>.</cd> -- <col><b>Reed bunting</b></col> <fld>(Zool.)</fld> <cd>A European sparrow (<spn>Emberiza sch<oe/niclus</spn>) which frequents marshy places; -- called also <altname>reed sparrow</altname>, <altname>ring bunting</altname>.</cd> <sd>(b)</sd> <cd>Reedling.</cd> -- <col><b>Reed canary grass</b></col> <fld>(Bot.)</fld>, <cd>a tall wild grass (<spn>Phalaris arundinacea</spn>).</cd> -- <col><b>Reed grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The common reed. See <er>Reed</er>, <snr>1</snr>.</cd> <sd>(b)</sd> <cd>A plant of the genus <gen>Sparganium</gen>; bur reed. See under <er>Bur</er>.</cd> -- <col><b>Reed organ</b></col> <fld>(Mus.)</fld>, <cd>an organ in which the wind acts on a set of free reeds, as the harmonium, melodeon, concertina, etc.</cd> -- <col><b>Reed pipe</b></col> <fld>(Mus.)</fld>, <cd>a pipe of an organ furnished with a reed.</cd> -- <col><b>Reed sparrow</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Reed bunting</cref>, above.</cd> -- <col><b>Reed stop</b></col> <fld>(Mus.)</fld>, <cd>a set of pipes in an organ furnished with reeds.</cd> -- <col><b>Reed warbler</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small European warbler (<spn>Acrocephalus streperus</spn>); -- called also <altname>reed wren</altname>.</cd> <sd>(b)</sd> <cd>Any one of several species of Indian and Australian warblers of the genera <gen>Acrocephalus</gen>, <gen>Calamoherpe</gen>, and <gen>Arundinax</gen>. They are excellent singers.</cd> -- <col><b>Sea-sand reed</b></col> <fld>(Bot.)</fld>, <cd>a kind of coarse grass (<spn>Ammophila arundinacea</spn>). See <cref>Beach grass</cref>, under <er>Beach</er>.</cd> -- <col><b>Wood reed grass</b></col> <fld>(Bot.)</fld>, <cd>a tall, elegant grass (<spn>Cinna arundinacea</spn>), common in moist woods.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reedbuck</ent><br/
@@ -15762,7 +15762,7 @@ Both light of heaven and strength of men <qex>relate</qex>.</q> <rj><qau>Spenser
 <p><sn>3.</sn> <def>Narrated; told.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Mus.)</fld> <def>Same as <er>Relative</er>, 4.</def><br/
+<p><sn>4.</sn> <fld>(Mus.)</fld> <def>Same as <er>Relative</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Relatedness</ent><br/
@@ -18639,7 +18639,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Polit. Econ.)</fld> <sd>(a)</sd> <def>That portion of the produce of the earth paid to the landlord for the use of the <ldquo/original and indestructible powers of the soil;<rdquo/ the excess of the return from a given piece of cultivated land over that from land of equal area at the <ldquo/margin of cultivation.<rdquo/ Called also <altname>economic rent</altname>, <it>or</it>  <altname>Ricardian rent</altname>. Economic rent is due partly to differences of productivity, but chiefly to advantages of location; it is equivalent to ordinary or commercial rent less interest on improvements, and nearly equivalent to <xex>ground rent</xex>.</def> <sd>(b)</sd> <def>Loosely, a return or profit from a differential advantage for production, as in case of income or earnings due to rare natural gifts creating a natural monopoly.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Black rent</b></col>. <cd>See <er>Blackmail</er>, 3.</cd> -- <col><b>Forehand rent</b></col>, <cd>rent which is paid in advance; foregift.</cd> -- <col><b>Rent arrear</b></col>, rent in arrears; unpaid rent. <au>Blackstone.</au> -- <col><b>Rent charge</b></col> <fld>(Law)</fld>, <cd>a rent reserved on a conveyance of land in fee simple, or granted out of lands by deed; -- so called because, by a covenant or clause in the deed of conveyance, the land is charged with a distress for the payment of it.</cd> <au>Bouvier.</au> -- <col><b>Rent roll</b></col>, <cd>a list or account of rents or income; a rental.</cd> -- <col><b>Rent seck</b></col> <fld>(Law)</fld>, <cd>a rent reserved by deed, but without any clause of distress; barren rent. A power of distress was made incident to rent seck by Statute 4 George II. c. 28.</cd> -- <col><b>Rent service</b></col> <fld>(Eng. Law)</fld>, <cd>rent reserved out of land held by fealty or other corporeal service; -- so called from such service being incident to it.</cd> -- <col><b>White rent</b></col>, <cd>a quitrent when paid in silver; -- opposed to <xex>black rent</xex>.</cd></cs><br/
+<p><cs><col><b>Black rent</b></col>. <cd>See <er>Blackmail</er>, <snr>3</snr>.</cd> -- <col><b>Forehand rent</b></col>, <cd>rent which is paid in advance; foregift.</cd> -- <col><b>Rent arrear</b></col>, rent in arrears; unpaid rent. <au>Blackstone.</au> -- <col><b>Rent charge</b></col> <fld>(Law)</fld>, <cd>a rent reserved on a conveyance of land in fee simple, or granted out of lands by deed; -- so called because, by a covenant or clause in the deed of conveyance, the land is charged with a distress for the payment of it.</cd> <au>Bouvier.</au> -- <col><b>Rent roll</b></col>, <cd>a list or account of rents or income; a rental.</cd> -- <col><b>Rent seck</b></col> <fld>(Law)</fld>, <cd>a rent reserved by deed, but without any clause of distress; barren rent. A power of distress was made incident to rent seck by Statute 4 George II. c. 28.</cd> -- <col><b>Rent service</b></col> <fld>(Eng. Law)</fld>, <cd>rent reserved out of land held by fealty or other corporeal service; -- so called from such service being incident to it.</cd> -- <col><b>White rent</b></col>, <cd>a quitrent when paid in silver; -- opposed to <xex>black rent</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rent</ent><br/
@@ -20082,7 +20082,7 @@ Which he five watchful senses <qex>represent</qex>,<br/
 She forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>8.</sn> <fld>(Metaph.)</fld> <def>To form or image again in consciousness, as an object of cognition or apprehension (something which was originally apprehended by direct presentation). See <er>Presentative</er>, 3.</def><br/
+<p><sn>8.</sn> <fld>(Metaph.)</fld> <def>To form or image again in consciousness, as an object of cognition or apprehension (something which was originally apprehended by direct presentation). See <er>Presentative</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The general capability of knowledge necessarily requires that, besides the power of evoking out of unconsciousness one portion of our retained knowledge in preference to another, we posses the faculty of <qex>representing</qex> in consciousness what is thus evoked . . . This representative Faculty is Imagination or Phantasy.</q> <rj><qau>Sir. W. Hamilton.</qau></rj><br/
@@ -20138,7 +20138,7 @@ She forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Nat.Hist.)</fld> <sd>(a)</sd> <def>Serving or fitted to present the full characters of the type of a group; typical; <as>as, a <ex>representative</ex> genus in a family</as>.</def> <sd>(b)</sd> <def>Similar in general appearance, structure, and habits, but living in different regions; -- said of certain species and varieties.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Metaph.)</fld> <def>Giving, or existing as, a transcript of what was originally presentative knowledge; <as>as, <ex>representative</ex> faculties; <ex>representative</ex> knowledge</as>.  See <er>Presentative</er>, 3 and <er>Represent</er>, 8.</def><br/
+<p><sn>5.</sn> <fld>(Metaph.)</fld> <def>Giving, or existing as, a transcript of what was originally presentative knowledge; <as>as, <ex>representative</ex> faculties; <ex>representative</ex> knowledge</as>.  See <er>Presentative</er>, <snr>3</snr> and <er>Represent</er>, 8.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Representative</ent><br/
@@ -20561,7 +20561,7 @@ By spirits <qex>reprobate</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reprobationer</ent><br/
-<hw>Rep`ro*ba"tion*er</hw> <pr>(-?r)</pr>, <pos>n.</pos> <fld>(Theol.)</fld> <def>One who believes in reprobation. See <er>Reprobation</er>, 2.</def>  <rj><au>South.</au></rj><br/
+<hw>Rep`ro*ba"tion*er</hw> <pr>(-?r)</pr>, <pos>n.</pos> <fld>(Theol.)</fld> <def>One who believes in reprobation. See <er>Reprobation</er>, <snr>2</snr>.</def>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reprobative</ent><br/
@@ -20768,7 +20768,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 <p><sn>1.</sn> <def>Common weal.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A state in which the sovereign power resides in the whole body of the people, and is exercised by representatives elected by them; a commonwealth.  Cf. <er>Democracy</er>, 2.</def><br/
+<p><sn>2.</sn> <def>A state in which the sovereign power resides in the whole body of the people, and is exercised by representatives elected by them; a commonwealth.  Cf. <er>Democracy</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In some ancient states called republics the sovereign power was exercised by an hereditary aristocracy or a privileged few, constituting a government now distinctively called an <xex>aristocracy</xex>. In some there was a division of authority between an aristocracy and the whole body of the people except slaves. No existing republic recognizes an exclusive privilege of any class to govern, or tolerates the institution of slavery.</note><br/
@@ -21447,7 +21447,7 @@ That call fame on such gentle acts as these.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Res"cous</hw> <pr>(r?s"k?s)</pr>, <pos>n.</pos> <ety>[OE., fr. OF. <ets>rescousse</ets>, fr. <ets>rescourre</ets>, p. p. <ets>rescous</ets>, to rescue. See <er>Rescue</er>.]</ety> <sn>1.</sn> <def>Rescue; deliverance.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>See <er>Rescue</er>, 2.</def> <mark>[Obs.]</mark><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>See <er>Rescue</er>, <snr>2</snr>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rescowe</ent><br/
@@ -22146,7 +22146,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 <hw>Res"i*dent</hw>, <pos>n.</pos> <sn>1.</sn> <def>One who resides or dwells in a place for some time.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A diplomatic representative who resides at a foreign court; -- a term usualy applied to ministers of a rank inferior to that of ambassadors. See the Note under <er>Minister</er>, 4.</def><br/
+<p><sn>2.</sn> <def>A diplomatic representative who resides at a foreign court; -- a term usualy applied to ministers of a rank inferior to that of ambassadors. See the Note under <er>Minister</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Residenter</ent><br/
@@ -22193,7 +22193,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 <hw>Re*sid"u*al</hw> <pr>(r?-z?d"?-<it>a</it>l)</pr>, <pos>a.</pos> <ety>[See <er>Residue</er>.]</ety> <def>Pertaining to a residue; remaining after a part is taken.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Residual air</b></col> <fld>(Physiol.)</fld>, <cd>that portion of air contained in the lungs which can not be expelled even by the most violent expiratory effort. It amounts to from 75 to 100 cubic inches.  Cf. <cref>Supplemental air</cref>, under <er>Supplemental</er>.</cd> -- <col><b>Residual error</b></col>. <fld>(Mensuration)</fld> <cd>See <er>Error</er>, 6 <sdr>(b)</sdr>.</cd> -- <col><b>Residual figure</b></col> <fld>(Geom.)</fld>, <cd>the figure which remains after a less figure has been taken from a greater one.</cd> -- <col><b>Residual magnetism</b></col> <fld>(Physics)</fld>, <cd>remanent magnetism. See under <er>Remanent</er>.</cd> -- <col><b>Residual product</b></col>, <cd>a by product, as cotton waste from a cotton mill, coke and coal tar from gas works, etc.</cd> -- <col><b>Residual quantity</b></col> <fld>(Alg.)</fld>, <cd>a binomial quantity the two parts of which are connected by the negative sign, as <mathex>a-b</mathex>.</cd> -- <col><b>Residual root</b></col> <fld>(Alg.)</fld>, <cd>the root of a residual quantity, as <mathex><root/(a-b)</mathex>.</cd></cs><br/
+<p><cs><col><b>Residual air</b></col> <fld>(Physiol.)</fld>, <cd>that portion of air contained in the lungs which can not be expelled even by the most violent expiratory effort. It amounts to from 75 to 100 cubic inches.  Cf. <cref>Supplemental air</cref>, under <er>Supplemental</er>.</cd> -- <col><b>Residual error</b></col>. <fld>(Mensuration)</fld> <cd>See <er>Error</er>, <snr>6</snr> <sdr>(b)</sdr>.</cd> -- <col><b>Residual figure</b></col> <fld>(Geom.)</fld>, <cd>the figure which remains after a less figure has been taken from a greater one.</cd> -- <col><b>Residual magnetism</b></col> <fld>(Physics)</fld>, <cd>remanent magnetism. See under <er>Remanent</er>.</cd> -- <col><b>Residual product</b></col>, <cd>a by product, as cotton waste from a cotton mill, coke and coal tar from gas works, etc.</cd> -- <col><b>Residual quantity</b></col> <fld>(Alg.)</fld>, <cd>a binomial quantity the two parts of which are connected by the negative sign, as <mathex>a-b</mathex>.</cd> -- <col><b>Residual root</b></col> <fld>(Alg.)</fld>, <cd>the root of a residual quantity, as <mathex><root/(a-b)</mathex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Residual</ent><br/
@@ -23839,7 +23839,7 @@ All needful rites, to <qex>rest</qex> my wandering shade.</q> <rj><qau>Dryden.</
 <p><sn>5.</sn> <def>Not affording rest; <as>as, a <ex>restless</ex> chair</as>.</def>  <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Restless thrush</b></col>. <fld>(Zool.)</fld> <cd>See <er>Grinder</er>, 3.</cd></cs><br/
+<p><cs><col><b>Restless thrush</b></col>. <fld>(Zool.)</fld> <cd>See <er>Grinder</er>, <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Unquiet; uneasy; disturbed; disquieted; sleepless; agitated; unsettled; roving; wandering.</syn><br/
@@ -24772,7 +24772,7 @@ Can be <qex>retentive</qex> to the strength of spirit.</q> <rj><qau>Shak.</qau><
 <hw>Ret"i*cle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Reticule</er>.]</ety> <sn>1.</sn> <def>A small net.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A reticule. See <er>Reticule</er>, 2.</def> <mark>[R.]</mark><br/
+<p><sn>2.</sn> <def>A reticule. See <er>Reticule</er>, <snr>2</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reticular</ent><br/
@@ -26941,7 +26941,7 @@ Did thus <qex>revest</qex> and decked with due habiliments.</q> <rj><qau>Spenser
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Revival</ent><br/
-<hw>Re*viv"al</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Revive</er>.]</ety> <def>The act of reviving, or the state of being revived.</def> Specifically: <sd>(a)</sd> <def>Renewed attention to something, as to letters or literature.</def> <sd>(b)</sd> <def>Renewed performance of, or interest in, something, as the drama and literature.</def> <sd>(c)</sd> <def>Renewed interest in religion, after indifference and decline; a period of religious awakening; special religious interest.</def> <sd>(d)</sd> <def>Reanimation from a state of langour or depression; -- applied to the health, spirits, and the like.</def> <sd>(e)</sd> <def>Renewed pursuit, or cultivation, or flourishing state of something, as of commerce, arts, agriculture.</def> <sd>(f)</sd> <def>Renewed prevalence of something, as a practice or a fashion.</def> <sd>(g)</sd> <fld>(Law)</fld> <def>Restoration of force, validity, or effect; renewal; <as>as, the <ex>revival</ex> of a debt barred by limitation; the <ex>revival</ex> of a revoked will, etc.</as></def> <sd>(h)</sd> <def>Revivification, as of a metal. See <er>Revivification</er>, 2.</def><br/
+<hw>Re*viv"al</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Revive</er>.]</ety> <def>The act of reviving, or the state of being revived.</def> Specifically: <sd>(a)</sd> <def>Renewed attention to something, as to letters or literature.</def> <sd>(b)</sd> <def>Renewed performance of, or interest in, something, as the drama and literature.</def> <sd>(c)</sd> <def>Renewed interest in religion, after indifference and decline; a period of religious awakening; special religious interest.</def> <sd>(d)</sd> <def>Reanimation from a state of langour or depression; -- applied to the health, spirits, and the like.</def> <sd>(e)</sd> <def>Renewed pursuit, or cultivation, or flourishing state of something, as of commerce, arts, agriculture.</def> <sd>(f)</sd> <def>Renewed prevalence of something, as a practice or a fashion.</def> <sd>(g)</sd> <fld>(Law)</fld> <def>Restoration of force, validity, or effect; renewal; <as>as, the <ex>revival</ex> of a debt barred by limitation; the <ex>revival</ex> of a revoked will, etc.</as></def> <sd>(h)</sd> <def>Revivification, as of a metal. See <er>Revivification</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Revivalism</ent><br/
@@ -28345,7 +28345,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhombus</ent><br/
-<hw>Rhom"bus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Rhomb</er>, 1.</def><br/
+<hw>Rhom"bus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Rhomb</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhonchal</ent><br/
@@ -29983,7 +29983,7 @@ And well deserved, had fortune done him <qex>right</qex>.</q> <rj><qau>Dryden.</
 <p><q>Led her to the Souldan's <qex>right</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>In some legislative bodies of Europe (as in France), those members collectively who are conservatives or monarchists. See <er>Center</er>, 5.</def><br/
+<p><sn>4.</sn> <def>In some legislative bodies of Europe (as in France), those members collectively who are conservatives or monarchists. See <er>Center</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>The outward or most finished surface, as of a piece of cloth, a carpet, etc.</def><br/
@@ -30324,7 +30324,7 @@ Of <qex>rigid</qex> spears.</q> <rj><qau>Milton.</qau></rj><br/
 Bound with Gorgonian <qex>rigor</qex> not to move.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Med.)</fld> <def>See 1st <er>Rigor</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Med.)</fld> <def>See 1st <er>Rigor</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Severity of climate or season; inclemency; <as>as, the <ex>rigor</ex> of the storm; the <ex>rigors</ex> of winter.</as></def><br/
@@ -30860,7 +30860,7 @@ Whereof the ewe not bites.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ringsail</ent><br/
-<hw>Ring"sail`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>See <er>Ringtail</er>, 2.</def><br/
+<hw>Ring"sail`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>See <er>Ringtail</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ringstraked</ent><br/
@@ -32016,7 +32016,7 @@ They are <qex>upon the road</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roadstead</ent><br/
-<hw>Road"stead</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Road</ets>, 4 + <ets>stead</ets> a place.]</ety> <def>An anchorage off shore. Same as <er>Road</er>, 4.</def><br/
+<hw>Road"stead</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Road</ets>, 4 + <ets>stead</ets> a place.]</ety> <def>An anchorage off shore. Same as <er>Road</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Moored in the neighboring <qex>roadstead</qex>.</q> <rj><qau>Longfellow.</qau></rj><br/
@@ -32134,7 +32134,7 @@ They are <qex>upon the road</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>4.</sn> <def>To laugh out loudly and continuously; <as>as, the hearers <ex>roared</ex> at his jokes</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>To make a loud noise in breathing, as horses having a certain disease. See <er>Roaring</er>, 2.</def><br/
+<p><sn>5.</sn> <def>To make a loud noise in breathing, as horses having a certain disease. See <er>Roaring</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Roaring boy</b></col>, <cd>a roaring, noisy fellow; -- name given, at the latter end Queen Elizabeth's reign, to the riotous fellows who raised disturbances in the street.</cd> <ldquo/Two <xex>roaring boys</xex> of Rome, that made all split.<rdquo/ <au>Beau. & Fl.</au> -- <col><b>Roaring forties</b></col> <fld>(Naut.)</fld>, <cd>a sailor's name for the stormy tract of ocean between 40<deg/ and 50<deg/ north latitude.</cd></cs><br/
@@ -32167,7 +32167,7 @@ They are <qex>upon the road</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><q>A lady to turn <qex>roarer</qex>, and break glasses.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sd>(b)</sd> <fld>(Far.)</fld> <def>A horse subject to roaring. See <er>Roaring</er>, 2.</def><br/
+<p><sd>(b)</sd> <fld>(Far.)</fld> <def>A horse subject to roaring. See <er>Roaring</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The barn owl.</def> <mark>[Prov. Eng.]</mark><br/
@@ -33616,7 +33616,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Romanza</ent><br/
-\'d8<hw>Ro*man"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>See <er>Romance</er>, 5.</def><br/
+\'d8<hw>Ro*man"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>See <er>Romance</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Romaunt</ent><br/
@@ -33744,7 +33744,7 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj><br/
 <p><note><hand/ When the <xex>rondeau</xex> was called the <xex>rondel</xex> it was mostly written in fourteen octosyllabic lines of two rhymes, as in the <xex>rondels</xex> of Charles d'Orleans. . . . In the 17th century the approved form of the <xex>rondeau</xex> was a structure of thirteen verses with a refrain.</note>  <rj><au>Encyc. Brit.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mus.)</fld> <def>See <er>Rondo</er>, 1.</def><br/
+<p><sn>2.</sn> <fld>(Mus.)</fld> <def>See <er>Rondo</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondel</ent><br/
@@ -33769,7 +33769,7 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj><br/
 <hw>Ron"do</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. <ets>rond<ograve/</ets>, fr. F. <ets>rondeau</ets>. See <er>Rondeau</er>.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>A composition, vocal or instrumental, commonly of a lively, cheerful character, in which the first strain recurs after each of the other strains.</def> <ldquo/The <xex>Rondo</xex>-form was the earliest and most frequent definite mold for musical construction.<rdquo/  <rj><au>Grove.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Poetry)</fld> <def>See <er>Rondeau</er>, 1.</def><br/
+<p><sn>2.</sn> <fld>(Poetry)</fld> <def>See <er>Rondeau</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondure</ent><br/
@@ -34680,7 +34680,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rosery</ent><br/
-<hw>Ros"er*y</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A place where roses are cultivated; a nursery of roses. See <er>Rosary</er>, 1.</def><br/
+<hw>Ros"er*y</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A place where roses are cultivated; a nursery of roses. See <er>Rosary</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roset</ent><br/
@@ -34857,7 +34857,7 @@ And wholesome dew called <qex>rosmarine</qex>.</q> <rj><qau>B. Jonson.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostra</ent><br/
-<hw>Ros"tra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Rostrum</er>, 2.</def><br/
+<hw>Ros"tra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Rostrum</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rostral</ent><br/
@@ -34970,7 +34970,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A disease or decay in fruits, leaves, or wood, supposed to be caused by minute fungi. See <cref>Bitter rot</cref>, <cref>Black rot</cref>, etc., below.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <ety>[Cf. G. <ets>rotz</ets> glanders.]</ety> <def>A fatal distemper which attacks sheep and sometimes other animals. It is due to the presence of a parasitic worm in the liver or gall bladder. See 1st <er>Fluke</er>, 2.</def><br/
+<p><sn>3.</sn> <ety>[Cf. G. <ets>rotz</ets> glanders.]</ety> <def>A fatal distemper which attacks sheep and sometimes other animals. It is due to the presence of a parasitic worm in the liver or gall bladder. See 1st <er>Fluke</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>His cattle must of <qex>rot</qex> and murrain die.</q> <rj><qau>Milton.</qau></rj><br/
@@ -35010,7 +35010,7 @@ To draw nutrition, propagate, and <qex>rot</qex>.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotascope</ent><br/
-<hw>Ro"ta*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rota</ets> a wheel + <ets>-scope</ets>.]</ety> <def>Same as <er>Gyroscope</er>, 1.</def><br/
+<hw>Ro"ta*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rota</ets> a wheel + <ets>-scope</ets>.]</ety> <def>Same as <er>Gyroscope</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rotate</ent><br/
@@ -36376,7 +36376,7 @@ Dispersed in <qex>rout</qex>, betook them all to fly.</q> <rj><qau>Daniel.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Routously</ent><br/
-<hw>Rout"ous*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <fld>(Law)</fld> <def>With that violation of law called a rout. See 5th <er>Rout</er>, 4.</def><br/
+<hw>Rout"ous*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <fld>(Law)</fld> <def>With that violation of law called a rout. See 5th <er>Rout</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roux</ent><br/
@@ -36479,7 +36479,7 @@ A goodly tree far distant to behold.</q> <rj><qau>milton.</qau></rj><br/
 <hw>Rov"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>The operatin of forming the rove, or slightly twisted sliver or roll of wool or cotton, by means of a machine for the purpose, called a <xex>roving frame</xex>, or <xex>roving machine</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A roll or sliver of wool or cotton drawn out and slightly twisted; a rove. See 2d <er>Rove</er>, 2.</def><br/
+<p><sn>2.</sn> <def>A roll or sliver of wool or cotton drawn out and slightly twisted; a rove. See 2d <er>Rove</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Roving frame</b></col>, <col><b>Roving machine</b></col></mcol>, <cd>a machine for drawing and twisting roves and twisting roves and winding them on bobbin for the spinning machine.</cd></cs><br/
@@ -36982,7 +36982,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubblestone</ent><br/
-<hw>Rub"ble*stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Rubble</er>, 1 and 2.</def><br/
+<hw>Rub"ble*stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Rubble</er>, <snr>1</snr> and 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubblework</ent><br/
@@ -38212,7 +38212,7 @@ I in a mansion here all <qex>ruinate</qex>.</q> <rj><qau>J. Webster.</qau></rj><
 <p><sn>8.</sn> <fld>(Print.)</fld> <sd>(a)</sd> <def>A thin plate of metal (usually brass) of the same height as the type, and used for printing lines, as between columns on the same page, or in tabular work.</def> <sd>(b)</sd> <def>A composing rule. See under <er>Conposing</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>As a rule</b></col>, <cd>as a general thing; in the main; usually; <as>as, he behaves well, <ex>as a rule</ex></as>.</cd> -- <mcol><col><b>Board rule</b></col>, <col><b>Caliber rule</b></col>, etc.</mcol> <cd>See under <er>Board</er>, <er>Caliber</er>, etc.</cd> -- <col><b>Rule joint</b></col>, <cd>a knuckle joint having shoulders that abut when the connected pieces come in line with each other, and thus permit folding in one direction only.</cd> -- <col><b>Rule of the road</b></col> <fld>(Law)</fld>, <cd>any of the various regulations imposed upon travelers by land or water for their mutual convenience or safety. In the United States it is a rule of the road that land travelers passing in opposite directions shall turn out each to his own right, and generally that overtaking persons or vehicles shall turn out to the left; in England the rule for vehicles (but not for pedestrians) is the opposite of this.</cd> -- <col><b>Rule of three</b></col> <fld>(Arith.)</fld>, <cd>that rule which directs, when three terms are given, how to find a fourth, which shall have the same ratio to the third term as the second has to the first; proportion. See <er>Proportion</er>, 5 <sdr>(b)</sdr>.</cd> -- <col><b>Rule of thumb</b></col>, <cd>any rude process or operation, like that of using the thumb as a rule in measuring; hence, judgment and practical experience as distinguished from scientific knowledge.</cd></cs><br/
+<p><cs><col><b>As a rule</b></col>, <cd>as a general thing; in the main; usually; <as>as, he behaves well, <ex>as a rule</ex></as>.</cd> -- <mcol><col><b>Board rule</b></col>, <col><b>Caliber rule</b></col>, etc.</mcol> <cd>See under <er>Board</er>, <er>Caliber</er>, etc.</cd> -- <col><b>Rule joint</b></col>, <cd>a knuckle joint having shoulders that abut when the connected pieces come in line with each other, and thus permit folding in one direction only.</cd> -- <col><b>Rule of the road</b></col> <fld>(Law)</fld>, <cd>any of the various regulations imposed upon travelers by land or water for their mutual convenience or safety. In the United States it is a rule of the road that land travelers passing in opposite directions shall turn out each to his own right, and generally that overtaking persons or vehicles shall turn out to the left; in England the rule for vehicles (but not for pedestrians) is the opposite of this.</cd> -- <col><b>Rule of three</b></col> <fld>(Arith.)</fld>, <cd>that rule which directs, when three terms are given, how to find a fourth, which shall have the same ratio to the third term as the second has to the first; proportion. See <er>Proportion</er>, <snr>5</snr> <sdr>(b)</sdr>.</cd> -- <col><b>Rule of thumb</b></col>, <cd>any rude process or operation, like that of using the thumb as a rule in measuring; hence, judgment and practical experience as distinguished from scientific knowledge.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rule</ent><br/

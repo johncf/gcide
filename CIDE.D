@@ -3735,7 +3735,7 @@ Flames in the forehead of the morning sky.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>daytime</ent><br/
-<hw>day"time`</hw> <pr>(d<amac/"t<imac/m`)</pr>, <pos>n.</pos> <def>The time during which there is daylight, as distinguished from the night; same as <er>day</er>, 1; <as>as, during the <ex>daytime</ex></as>.</def><br/
+<hw>day"time`</hw> <pr>(d<amac/"t<imac/m`)</pr>, <pos>n.</pos> <def>The time during which there is daylight, as distinguished from the night; same as <er>day</er>, <snr>1</snr>; <as>as, during the <ex>daytime</ex></as>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>day-to-day</ent><br/
@@ -11152,7 +11152,7 @@ The huddling brook to hear his madrigal.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><q><qex>Delectable</qex> both to behold and taste.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><sn>2.</sn>  <def>extremely pleasing to the sense of taste; same as <er>luscious</er>, 1.</def><br/
+<p><sn>2.</sn>  <def>extremely pleasing to the sense of taste; same as <er>luscious</er>, <snr>1</snr>.</def><br/
 <syn><b>Syn. --</b> delicious, luscious, pleasant-tasting, scrumptious, toothsome, yummy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -12194,7 +12194,7 @@ And carry it sweetly and <qex>deliverly</qex>.</q> <rj><qau>Beau. & Fl.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Delphinus</ent><br/
-\'d8<hw>Del*phi"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a dolphin, fr. Gr. <grk>delfi`s</grk>, <grk>delfi`n</grk>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of Cetacea, including the dolphin. See <er>Dolphin</er>, 1.</def><br/
+\'d8<hw>Del*phi"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a dolphin, fr. Gr. <grk>delfi`s</grk>, <grk>delfi`n</grk>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of Cetacea, including the dolphin. See <er>Dolphin</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>The Dolphin, a constellation near the equator and east of Aquila.</def><br/
@@ -13580,7 +13580,7 @@ Of <qex>Demogorgon</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>From the popular assertion that he was the smartest man in the world <persfn>Gell-Mann</persfn> was not predisposed to <qex>demur</qex>.</q>  <rj><qau>Timothy Ferris, in <book>Coming of Age in the Milky Way</book> (Doubleday, New York, 1989).</qau></rj><br/
 [<source>PJC</source>]</p>
 
-<p><sn>4.</sn> <fld>(Law)</fld> <def>To interpose a demurrer. See <er>Demurrer</er>, 2.</def><br/
+<p><sn>4.</sn> <fld>(Law)</fld> <def>To interpose a demurrer. See <er>Demurrer</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Demur</ent><br/
@@ -21581,7 +21581,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Di-</ent><br/
-<hw>Di-</hw> <pr>(?)</pr>. <ety>[Gr. <grk>di`s-</grk> twice; akin to <?/ two, L. <ets>bis</ets> twice. See <er>Two</er>, and cf. <er>Bi-</er>, <er>Dia-</er>. The L. pref. <ets>dis-</ets> sometimes assumes the form <ets>di</ets>-. See <er>Dis-</er>.]</ety> <def>A prefix, signifying <sig>twofold</sig>, <sig>double</sig>, <sig>twice</sig></def>; <fld>(Chem.)</fld> <def>denoting <sig>two</sig> atoms, radicals, groups, or equivalents, as the case may be. See <er>Bi-</er>, 2.</def></p>
+<hw>Di-</hw> <pr>(?)</pr>. <ety>[Gr. <grk>di`s-</grk> twice; akin to <?/ two, L. <ets>bis</ets> twice. See <er>Two</er>, and cf. <er>Bi-</er>, <er>Dia-</er>. The L. pref. <ets>dis-</ets> sometimes assumes the form <ets>di</ets>-. See <er>Dis-</er>.]</ety> <def>A prefix, signifying <sig>twofold</sig>, <sig>double</sig>, <sig>twice</sig></def>; <fld>(Chem.)</fld> <def>denoting <sig>two</sig> atoms, radicals, groups, or equivalents, as the case may be. See <er>Bi-</er>, <snr>2</snr>.</def></p>
 
 <p><ent>Di-</ent><br/
 <ent>Dia-</ent><br/
@@ -22077,7 +22077,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dialysis</ent><br/
-\'d8<hw>Di*al"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dialyses</plw> <pr>(#)</pr>.</plu> <ety>[L., separation, fr. Gr. <?/, fr. <?/ to part asunder, dissolve; <grk>dia`</grk> through + <?/ to loose.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Di<ae/resis. See <er>Di<ae/resis</er>, 1.</def><br/
+\'d8<hw>Di*al"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dialyses</plw> <pr>(#)</pr>.</plu> <ety>[L., separation, fr. Gr. <?/, fr. <?/ to part asunder, dissolve; <grk>dia`</grk> through + <?/ to loose.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Di<ae/resis. See <er>Di<ae/resis</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rhet.)</fld> <def>Same as <er>Asyndeton</er>.</def><br/
@@ -22946,7 +22946,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>The apostolical benediction <qex>dichotomizes</qex> all good things into grace and peace.</q> <rj><qau>Bp. Hall.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Astron.)</fld> <def>To exhibit as a half disk. See <er>Dichotomy</er>, 3.</def> <ldquo/[The moon] was <xex>dichotomized</xex>.<rdquo/  <rj><au>Whewell.</au></rj><br/
+<p><sn>2.</sn> <fld>(Astron.)</fld> <def>To exhibit as a half disk. See <er>Dichotomy</er>, <snr>3</snr>.</def> <ldquo/[The moon] was <xex>dichotomized</xex>.<rdquo/  <rj><au>Whewell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dichotomize</ent><br/
@@ -27381,7 +27381,7 @@ Of the defendant.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Di*rec*to"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>directorial</ets>.]</ety> <sn>1.</sn> <def>Having the quality of a director, or authoritative guide; directive.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Pertaining to: director or directory; specifically, relating to the Directory of France under the first republic. See <er>Directory</er>, 3.</def><br/
+<p><sn>2.</sn> <def>Pertaining to: director or directory; specifically, relating to the Directory of France under the first republic. See <er>Directory</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Whoever goes to the <qex>directorial</qex> presence under this passport.</q> <rj><qau>Burke.</qau></rj><br/
@@ -29864,7 +29864,7 @@ Above a twelvemonth.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Discontinuor</ent><br/
-<hw>Dis`con*tin"u*or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>One who deprives another of the possession of an estate by discontinuance. See <er>Discontinuance</er>, 2.</def><br/
+<hw>Dis`con*tin"u*or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>One who deprives another of the possession of an estate by discontinuance. See <er>Discontinuance</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Discontinuous</ent><br/
@@ -37211,7 +37211,7 @@ Than of his outward show.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Distoma</ent><br/
-\'d8<hw>Dis"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>A genus of parasitic, trematode worms, having two suckers for attaching themselves to the part they infest. See 1st <er>Fluke</er>, 2.</def><br/
+\'d8<hw>Dis"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>A genus of parasitic, trematode worms, having two suckers for attaching themselves to the part they infest. See 1st <er>Fluke</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Distort</ent><br/
@@ -41675,7 +41675,7 @@ And hers to <qex>domineer</qex> at home.</q> <rj><qau>Prior.</qau></rj><br/
 <p><q>This was Abel Sampson, commonly called, from occupation as a pedagogue, <qex>Dominie</qex> Sampson.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A clergyman. See <er>Domine</er>, 1.</def> <mark>[Scot. & Colloq. U. S.]</mark><br/
+<p><sn>2.</sn> <def>A clergyman. See <er>Domine</er>, <snr>1</snr>.</def> <mark>[Scot. & Colloq. U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dominion</ent><br/
@@ -41697,7 +41697,7 @@ And hers to <qex>domineer</qex> at home.</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>3.</sn> <def>That which is governed; territory over which authority is exercised; the tract, district, or county, considered as <xex>subject</xex>; <as>as, the <ex>dominions</ex> of a king</as>. Also used figuratively; <as>as, the <ex>dominion</ex> of the passions</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <pluf>pl.</pluf> <def>A supposed high order of angels; dominations. See <er>Domination</er>, 3.</def>  <rj><au>Milton.</au></rj><br/
+<p><sn>4.</sn> <pluf>pl.</pluf> <def>A supposed high order of angels; dominations. See <er>Domination</er>, <snr>3</snr>.</def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>By him were all things created . . . whether they be thrones, or <qex>dominions</qex>, or principalities, or powers.</q> <rj><qau>Col. i. 16.</qau></rj></p>
@@ -42414,7 +42414,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Do"ri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to the ancient Greeks of Doris; Doric; <as>as, a <ex>Dorian</ex> fashion</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mus.)</fld> <def>Same as <er>Doric</er>, 3.</def> <ldquo/<xex>Dorian</xex> mood.<rdquo/  <rj><au>Milton.</au></rj><br/
+<p><sn>2.</sn> <fld>(Mus.)</fld> <def>Same as <er>Doric</er>, <snr>3</snr>.</def> <ldquo/<xex>Dorian</xex> mood.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Dorian mode</b></col> <fld>(Mus.)</fld>, <cd>the first of the authentic church modes or tones, from D to D, resembling our D minor scale, but with the B natural.</cd>  <rj><au>Grove.</au></rj></cs><br/
@@ -43140,7 +43140,7 @@ If you be found to <qex>double</qex>.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><q>If the thief be found, let him pay <qex>double</qex>.</q> <rj><qau>Ex. xxii. 7.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Among compositors, a doublet (see <er>Doublet</er>, 2.); among pressmen, a sheet that is twice pulled, and blurred.</def><br/
+<p><sn>2.</sn> <def>Among compositors, a doublet (see <er>Doublet</er>, <snr>2</snr>.); among pressmen, a sheet that is twice pulled, and blurred.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>That which is doubled over or together; a doubling; a plait; a fold.</def><br/
@@ -43464,7 +43464,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doublets</ent><br/
-<hw>Doub"lets</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Doublet</er>, 6 and 7.</def><br/
+<hw>Doub"lets</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Doublet</er>, <snr>6</snr> and 7.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Doubling</ent><br/
@@ -44852,7 +44852,7 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>A luminous exhalation from marshy grounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Zool.)</fld> <def>A genus of lizards. See <er>Dragon</er>, 6.</def><br/
+<p><sn>3.</sn> <fld>(Zool.)</fld> <def>A genus of lizards. See <er>Dragon</er>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dracocephalum</ent><br/
@@ -45428,7 +45428,7 @@ Filled the capacious deep and formed the main.</q> <rj><qau>Roscommon.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Draintrap</ent><br/
-<hw>Drain"trap`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See 4th <er>Trap</er>, 5.</def><br/
+<hw>Drain"trap`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See 4th <er>Trap</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drake</ent><br/
@@ -45764,7 +45764,7 @@ About him, and lies down to pleasant dreams.</q> <rj><qau>Bryant.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Naut.)</fld> <def>The depth of water necessary to float a ship, or the depth a ship sinks in water, especially when laden; <as>as, a ship of twelve feet <ex>draught</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Com.)</fld> <def>An allowance on weighable goods. <mark>[Eng.]</mark> See <er>Draft</er>, 4.</def><br/
+<p><sn>6.</sn> <fld>(Com.)</fld> <def>An allowance on weighable goods. <mark>[Eng.]</mark> See <er>Draft</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <def>A move, as at chess or checkers.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
@@ -47566,7 +47566,7 @@ Who never <qex>drank</qex> to tobacco first nor last.</q> <rj><qau>Taylor (1630.
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Dripstone</ent><br/
-<hw>Drip"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Arch.)</fld> <def>A drip, when made of stone. See <er>Drip</er>, 2.</def><br/
+<hw>Drip"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Arch.)</fld> <def>A drip, when made of stone. See <er>Drip</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Drive</ent><br/
@@ -49734,7 +49734,7 @@ To human virtues.</q> <rj><qau>Philips.</qau></rj><br/
 <hw>Duc"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>ducere</ets> to lead.]</ety> <sn>1.</sn> <def>One who leads.</def> <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mach.)</fld> <def>A contrivance for removing superfluous ink or coloring matter from a roller. See <er>Doctor</er>, 4.</def>  <rj><au>Knight.</au></rj><br/
+<p><sn>2.</sn> <fld>(Mach.)</fld> <def>A contrivance for removing superfluous ink or coloring matter from a roller. See <er>Doctor</er>, <snr>4</snr>.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Ductor roller</b></col> <fld>(Printing)</fld>, <cd>the roller which conveys or supplies ink to another roller.</cd>  <rj><au>Knight.</au></rj></cs><br/
@@ -50091,7 +50091,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dulcamarin</ent><br/
-<hw>Dul`ca*ma"rin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A glucoside extracted from the bittersweet (<spn>Solanum Dulcamara</spn>), as a yellow amorphous substance. It probably occasions the compound taste. See <er>Bittersweet</er>, 3<sdr>(a)</sdr>.</def><br/
+<hw>Dul`ca*ma"rin</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A glucoside extracted from the bittersweet (<spn>Solanum Dulcamara</spn>), as a yellow amorphous substance. It probably occasions the compound taste. See <er>Bittersweet</er>, <snr>3</snr><sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dulce</ent><br/
@@ -50944,7 +50944,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Duomo</ent><br/
-\'d8<hw>Duo"mo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Done</er>.]</ety> <def>A cathedral. See <er>Dome</er>, 2.</def><br/
+\'d8<hw>Duo"mo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Done</er>.]</ety> <def>A cathedral. See <er>Dome</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of tower or <qex>duomo</qex>, sunny sweet.</q> <rj><qau>Tennyson.</qau></rj><br/
@@ -51188,7 +51188,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Durant</ent><br/
-<hw>Dur"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>durant</ets>, p. pr. of <ets>durer</ets> to last.  Cf. <er>Durance</er>.]</ety> <def>See <er>Durance</er>, 3.</def><br/
+<hw>Dur"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>durant</ets>, p. pr. of <ets>durer</ets> to last.  Cf. <er>Durance</er>.]</ety> <def>See <er>Durance</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Durante</ent><br/

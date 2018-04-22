@@ -44,7 +44,7 @@
 <hw>Tab</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <sn>1.</sn> <def>The flap or latchet of a shoe fastened with a string or a buckle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A tag. See <er>Tag</er>, 2.</def><br/
+<p><sn>2.</sn> <def>A tag. See <er>Tag</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A loop for pulling or lifting something.</def><br/
@@ -1377,7 +1377,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 <p><sn>10.</sn> <fld>(Mus.)</fld> <def>The part of a note which runs perpendicularly upward or downward from the head; the stem.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>11.</sn> <pluf>pl.</pluf> <def>Same as <er>Tailing</er>, 4.</def><br/
+<p><sn>11.</sn> <pluf>pl.</pluf> <def>Same as <er>Tailing</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>12.</sn> <fld>(Arch.)</fld> <def>The bottom or lower portion of a member or part, as a slate or tile.</def><br/
@@ -1445,7 +1445,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tailblock</ent><br/
-<hw>Tail"block`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A block with a tail. See <er>Tail</er>, 9.</def><br/
+<hw>Tail"block`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A block with a tail. See <er>Tail</er>, <snr>9</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tailboard</ent><br/
@@ -3725,7 +3725,7 @@ Within themselves, have <qex>tantalized</qex> thy life.</q> <rj><qau>Dryden.</qa
 <hw>Tape"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of numerous species of cestode worms belonging to Taenia and many allied genera. The body is long, flat, and composed of numerous segments or proglottids varying in shape, those toward the end of the body being much larger and longer than the anterior ones, and containing the fully developed sexual organs. The head is small, destitute of a mouth, but furnished with two or more suckers (which vary greatly in shape in different genera), and sometimes, also, with hooks for adhesion to the walls of the intestines of the animals in which they are parasitic. The larvae (see <er>Cysticercus</er>) live in the flesh of various creatures, and when swallowed by another animal of the right species develop into the mature tapeworm in its intestine. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ Three species are common parasites of man: the <stype>pork tapeworm</stype> (<spn>Taenia solium</spn>), the larva of which is found in pork; the <stype>beef tapeworm</stype> (<spn>Taenia mediocanellata</spn>), the larva of which lives in the flesh of young cattle; and the <stype>broad tapeworm</stype> (<spn>Bothriocephalus latus</spn>) which is found chiefly in the inhabitants of the mountainous regions of Europe and Asia. See also <er>Echinococcus</er>, <er>Cysticercus</er>, <er>Proglottis</er>, and 2d <er>Measles</er>, 4.</note><br/
+<p><note><hand/ Three species are common parasites of man: the <stype>pork tapeworm</stype> (<spn>Taenia solium</spn>), the larva of which is found in pork; the <stype>beef tapeworm</stype> (<spn>Taenia mediocanellata</spn>), the larva of which lives in the flesh of young cattle; and the <stype>broad tapeworm</stype> (<spn>Bothriocephalus latus</spn>) which is found chiefly in the inhabitants of the mountainous regions of Europe and Asia. See also <er>Echinococcus</er>, <er>Cysticercus</er>, <er>Proglottis</er>, and 2d <er>Measles</er>, <snr>4</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Taphouse</ent><br/
@@ -3912,7 +3912,7 @@ Although he <qex>tappish</qex> ne'er so soft.</q> <rj><qau>Chapman.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tardigrada</ent><br/
-\'d8<hw>Tar`di*gra"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tardigrade</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tribe of edentates comprising the sloths. They are noted for the slowness of their movements when on the ground. See <er>Sloth</er>, 3.</def><br/
+\'d8<hw>Tar`di*gra"da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Tardigrade</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A tribe of edentates comprising the sloths. They are noted for the slowness of their movements when on the ground. See <er>Sloth</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>An order of minute aquatic arachnids; -- called also <altname>bear animalcules</altname>, <altname>sloth animalcules</altname>, and <altname>water bears</altname>.</def><br/
@@ -8251,7 +8251,7 @@ Let it be <qex>tenable</qex> in your silence still.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tenant</ent><br/
-<hw>Ten"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>tenant</ets>, p. pr. of <ets>tenir</ets> to hold. See <er>Tenable</er>, and cf. <er>Lieutenant</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>One who holds or possesses lands, or other real estate, by any kind of right, whether in fee simple, in common, in severalty, for life, for years, or at will; also, one who has the occupation or temporary possession of lands or tenements the title of which is in another; -- correlative to <xex>landlord</xex>. See Citation from <au>Blackstone</au>, under <er>Tenement</er>, 2.</def>  <rj><au>Blount. Wharton.</au></rj><br/
+<hw>Ten"ant</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>tenant</ets>, p. pr. of <ets>tenir</ets> to hold. See <er>Tenable</er>, and cf. <er>Lieutenant</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>One who holds or possesses lands, or other real estate, by any kind of right, whether in fee simple, in common, in severalty, for life, for years, or at will; also, one who has the occupation or temporary possession of lands or tenements the title of which is in another; -- correlative to <xex>landlord</xex>. See Citation from <au>Blackstone</au>, under <er>Tenement</er>, <snr>2</snr>.</def>  <rj><au>Blount. Wharton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>One who has possession of any place; a dweller; an occupant.</def> <ldquo/Sweet <xex>tenants</xex> of this grove.<rdquo/  <rj><au>Cowper.</au></rj><br/
@@ -9083,7 +9083,7 @@ To the bottom of the worst.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculifera</ent><br/
-\'d8<hw>Ten`ta*cu*lif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Suctoria</er>, 1.</def><br/
+\'d8<hw>Ten`ta*cu*lif"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Suctoria</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tentaculiferous</ent><br/
@@ -9370,7 +9370,7 @@ Beat the wild war-drums made of serpent's skin.</q> <rj><qau>Longfellow.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ter-</ent><br/
-<hw>Ter-</hw> <pr>(?)</pr>. <def>A combining form from L. <xex>ter</xex> signifying <xex>three times</xex>, <xex>thrice</xex>. See <er>Tri-</er>, 2.</def><br/
+<hw>Ter-</hw> <pr>(?)</pr>. <def>A combining form from L. <xex>ter</xex> signifying <xex>three times</xex>, <xex>thrice</xex>. See <er>Tri-</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Teraconic</ent><br/
@@ -9941,7 +9941,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 <p><sn>2.</sn> <fld>(Myth.)</fld> <def>The Roman divinity who presided over boundaries, whose statue was properly a short pillar terminating in the bust of a man, woman, satyr, or the like, but often merely a post or stone stuck in the ground on a boundary line.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Hence, any post or stone marking a boundary; a term. See <er>Term</er>, 8.</def><br/
+<p><sn>3.</sn> <def>Hence, any post or stone marking a boundary; a term. See <er>Term</er>, <snr>8</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Either end of a railroad line; also, the station house, or the town or city, at that place.</def><br/
@@ -9974,7 +9974,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Termor</ent><br/
-<hw>Term"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Termer</er>, 2.</def><br/
+<hw>Term"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Termer</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Term policy</ent><br/
@@ -10136,7 +10136,7 @@ From center to circumference unveiled.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terrar</ent><br/
-<hw>Ter"rar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>terrarius liber</ets>. See <er>Terrier</er> a collection of acknowledgments.]</ety> <fld>(O. Eng. Law)</fld> <def>See 2d <er>Terrier</er>, 2.</def><br/
+<hw>Ter"rar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>terrarius liber</ets>. See <er>Terrier</er> a collection of acknowledgments.]</ety> <fld>(O. Eng. Law)</fld> <def>See 2d <er>Terrier</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terras</ent><br/
@@ -10299,13 +10299,13 @@ Of towering talents, and <qex>terrestrial</qex> aims.</q> <rj><qau>Young.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terrier</ent><br/
-<hw>Ter"ri*er</hw>, <pos>n.</pos> <sn>1.</sn> <ety>[F. <ets>terrier</ets>, <ets>chien terrier</ets>, from <ets>terre</ets> the earth, L. <ets>terra</ets>; cf. F. <ets>terrier</ets> a burrow, LL. <ets>terrarium</ets> a hillock (hence the sense, a mound thrown up in making a burrow, a burrow). See <er>Terrace</er>, and cf. <er>Terrier</er>, 2.]</ety> <fld>(Zool.)</fld> <def>One of a breed of small dogs, which includes several distinct subbreeds, some of which, such as the Skye terrier and Yorkshire terrier, have long hair and drooping ears, while others, at the English and the black-and-tan terriers, have short, close, smooth hair and upright ears.</def><br/
+<hw>Ter"ri*er</hw>, <pos>n.</pos> <sn>1.</sn> <ety>[F. <ets>terrier</ets>, <ets>chien terrier</ets>, from <ets>terre</ets> the earth, L. <ets>terra</ets>; cf. F. <ets>terrier</ets> a burrow, LL. <ets>terrarium</ets> a hillock (hence the sense, a mound thrown up in making a burrow, a burrow). See <er>Terrace</er>, and cf. <er>Terrier</er>, <snr>2</snr>.]</ety> <fld>(Zool.)</fld> <def>One of a breed of small dogs, which includes several distinct subbreeds, some of which, such as the Skye terrier and Yorkshire terrier, have long hair and drooping ears, while others, at the English and the black-and-tan terriers, have short, close, smooth hair and upright ears.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Most kinds of terriers are noted for their courage, the acuteness of their sense of smell, their propensity to hunt burrowing animals, and their activity in destroying rats, etc. See <cref>Fox terrier</cref>, under <er>Fox</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <ety>[F. <ets>terrier</ets>, <ets>papier terrier</ets>, LL. <ets>terrarius liber</ets>, i.e., a book belonging or pertaining to land or landed estates. See <er>Terrier</er>, 1, and cf. <er>Terrar</er>.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>Formerly, a collection of acknowledgments of the vassals or tenants of a lordship, containing the rents and services they owed to the lord, and the like.</def> <sd>(b)</sd> <def>In modern usage, a book or roll in which the lands of private persons or corporations are described by their site, boundaries, number of acres, or the like.</def> <altsp>[Written also <asp>terrar</asp>.]</altsp><br/
+<p><sn>2.</sn> <ety>[F. <ets>terrier</ets>, <ets>papier terrier</ets>, LL. <ets>terrarius liber</ets>, i.e., a book belonging or pertaining to land or landed estates. See <er>Terrier</er>, <snr>1</snr>, and cf. <er>Terrar</er>.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>Formerly, a collection of acknowledgments of the vassals or tenants of a lordship, containing the rents and services they owed to the lord, and the like.</def> <sd>(b)</sd> <def>In modern usage, a book or roll in which the lands of private persons or corporations are described by their site, boundaries, number of acres, or the like.</def> <altsp>[Written also <asp>terrar</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terrific</ent><br/
@@ -10536,7 +10536,7 @@ Plan, moral, all, in that short space.<rdquo/</q><br/
 <p><sn>4.</sn> <fld>(Zool.)</fld> <def>Growing on the innermost joint of a bird's wing; tertial; -- said of quills.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Tertiary age</b></col>. <fld>(Geol.)</fld> <cd>See under <er>Age</er>, 8.</cd> -- <col><b>Tertiary color</b></col>, <cd>a color produced by the mixture of two secondaries.</cd> <ldquo/The so-called <xex>tertiary colors</xex> are <it>citrine</it>, <it>russet</it>, and <it>olive.</it><rdquo/ <au>Fairholt.</au> -- <col><b>Tertiary period</b></col>. <fld>(Geol.)</fld> <sd>(a)</sd> <cd>The first period of the age of mammals, or of the Cenozoic era.</cd> <sd>(b)</sd> <cd>The rock formation of that period; -- called also <altname>Tertiary formation</altname>. See the <xex>Chart</xex> of <er>Geology</er>.</cd> -- <col><b>Tertiary syphilis</b></col> <fld>(Med.)</fld>, <cd>the third and last stage of syphilis, in which it invades the bones and internal organs.</cd></cs><br/
+<p><cs><col><b>Tertiary age</b></col>. <fld>(Geol.)</fld> <cd>See under <er>Age</er>, <snr>8</snr>.</cd> -- <col><b>Tertiary color</b></col>, <cd>a color produced by the mixture of two secondaries.</cd> <ldquo/The so-called <xex>tertiary colors</xex> are <it>citrine</it>, <it>russet</it>, and <it>olive.</it><rdquo/ <au>Fairholt.</au> -- <col><b>Tertiary period</b></col>. <fld>(Geol.)</fld> <sd>(a)</sd> <cd>The first period of the age of mammals, or of the Cenozoic era.</cd> <sd>(b)</sd> <cd>The rock formation of that period; -- called also <altname>Tertiary formation</altname>. See the <xex>Chart</xex> of <er>Geology</er>.</cd> -- <col><b>Tertiary syphilis</b></col> <fld>(Med.)</fld>, <cd>the third and last stage of syphilis, in which it invades the bones and internal organs.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tertiary</ent><br/
@@ -15378,7 +15378,7 @@ Or on the <qex>thirsty</qex> mountain pant.</q> <rj><qau>Addison.</qau></rj><br/
 <p><sn>2.</sn> <def>As an adjective, <xex>this</xex> has the same demonstrative force as the pronoun, but is followed by a noun; <as>as, <ex>this</ex> book; <ex>this</ex> way to town</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <xex>This</xex> may be used as opposed or correlative to <xex>that</xex>, and sometimes as opposed to <xex>other</xex> or to a second <xex>this</xex>. See the Note under <er>That</er>, 1.</note><br/
+<p><note><hand/ <xex>This</xex> may be used as opposed or correlative to <xex>that</xex>, and sometimes as opposed to <xex>other</xex> or to a second <xex>this</xex>. See the Note under <er>That</er>, <snr>1</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>This</qex> way and <qex>that</qex> wavering sails they bend.</q> <rj><qau>Pope.</qau></rj><br/
@@ -15679,7 +15679,7 @@ Be only mine.</q> <rj><qau>Southern.</qau></rj><br/
 <p><sn>4.</sn> <def>The name of the Anglo-Saxon letter <?/, capital form <?/. It was used to represent both of the sounds of English <xex>th</xex>, as in <xex>thin</xex>, <xex>then</xex>. So called because it was the initial letter of <xex>thorn</xex>, a spine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Thorn apple</b></col> <fld>(Bot.)</fld>, <cd>Jamestown weed.</cd> -- <col><b>Thorn broom</b></col> <fld>(Bot.)</fld>, <cd>a shrub that produces thorns.</cd> -- <col><b>Thorn hedge</b></col>, <cd>a hedge of thorn-bearing trees or bushes.</cd> -- <col><b>Thorn devil</b></col>. <fld>(Zool.)</fld> <cd>See <er>Moloch</er>, 2.</cd> -- <col><b>Thorn hopper</b></col> <fld>(Zool.)</fld>, <cd>a tree hopper (<spn>Thelia crataegi</spn>) which lives on the thorn bush, apple tree, and allied trees.</cd></cs><br/
+<p><cs><col><b>Thorn apple</b></col> <fld>(Bot.)</fld>, <cd>Jamestown weed.</cd> -- <col><b>Thorn broom</b></col> <fld>(Bot.)</fld>, <cd>a shrub that produces thorns.</cd> -- <col><b>Thorn hedge</b></col>, <cd>a hedge of thorn-bearing trees or bushes.</cd> -- <col><b>Thorn devil</b></col>. <fld>(Zool.)</fld> <cd>See <er>Moloch</er>, <snr>2</snr>.</cd> -- <col><b>Thorn hopper</b></col> <fld>(Zool.)</fld>, <cd>a tree hopper (<spn>Thelia crataegi</spn>) which lives on the thorn bush, apple tree, and allied trees.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thorn</ent><br/
@@ -16845,7 +16845,7 @@ In vaults and prisons, and to <qex>thrill</qex> and shake.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thrill</ent><br/
-<hw>Thrill</hw>, <pos>n.</pos> <sn>1.</sn> <def>A drill. See 3d <er>Drill</er>, 1.</def><br/
+<hw>Thrill</hw>, <pos>n.</pos> <sn>1.</sn> <def>A drill. See 3d <er>Drill</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A sensation as of being thrilled; a tremulous excitement; <as>as, a <ex>thrill</ex> of horror; a <ex>thrill</ex> of joy</as>.</def>  <rj><au>Burns.</au></rj><br/
@@ -17188,7 +17188,7 @@ From <qex>crowds</qex> that hide a monarch from himself.</q> <rj><qau>Johnson.</
 <hw>Throt"tler</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, throttles, or chokes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Flasher</er>, 3 <sdr>(b)</sdr>.</def> <mark>[Prov. Eng.]</mark><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>See <er>Flasher</er>, <snr>3</snr> <sdr>(b)</sdr>.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Through</ent><br/
@@ -17374,7 +17374,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 <p><sn>6.</sn> <fld>(Mach.)</fld> <def>The extreme movement given to a sliding or vibrating reciprocating piece by a cam, crank, eccentric, or the like; travel; stroke; <as>as, the <ex>throw</ex> of a slide valve</as>. Also, frequently, the length of the radius of a crank, or the eccentricity of an eccentric; <as>as, the <ex>throw</ex> of the crank of a steam engine is equal to half the stroke of the piston</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Pottery)</fld> <def>A potter's wheel or table; a jigger. See 2d <er>Jigger</er>, 2 <sdr>(a)</sdr>.</def><br/
+<p><sn>7.</sn> <fld>(Pottery)</fld> <def>A potter's wheel or table; a jigger. See 2d <er>Jigger</er>, <snr>2</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <def>A turner's lathe; a throwe.</def> <mark>[Prov. Eng.]</mark><br/
@@ -17523,7 +17523,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of singing birds more or less resembling the true thrushes in appearance or habits; as the thunderbird and the American brown thrush (or thrasher). See <er>Brown thrush</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ant thrush</b></col>. <cd>See <er>Ant thrush</er>, <er>Breve</er>, and <er>Pitta</er>.</cd> -- <col><b>Babbling thrush</b></col>, <cd>any one of numerous species of Asiatic timaline birds; -- called also <altname>babbler</altname>.</cd> -- <col><b>Fruit thrush</b></col>, <cd>any species of bulbul.</cd> -- <col><b>Shrike thrush</b></col>. <cd>See under <er>Shrike</er>.</cd> -- <col><b>Stone thrush</b></col>, <cd>the missel thrush; -- said to be so called from its marbled breast.</cd> -- <col><b>Thrush nightingale</b></col>. <cd>See <er>Nightingale</er>, 2.</cd> -- <col><b>Thrush tit</b></col>, <cd>any one of several species of Asiatic singing birds of the genus <gen>Cochoa</gen>. They are beautifully colored birds allied to the tits, but resembling thrushes in size and habits.</cd> -- <col><b>Water thrush</b></col>. <sd>(a)</sd> <cd>The European dipper.</cd> <sd>(b)</sd> <cd>An American warbler (<spn>Seiurus Noveboracensis</spn>).</cd></cs><br/
+<p><cs><col><b>Ant thrush</b></col>. <cd>See <er>Ant thrush</er>, <er>Breve</er>, and <er>Pitta</er>.</cd> -- <col><b>Babbling thrush</b></col>, <cd>any one of numerous species of Asiatic timaline birds; -- called also <altname>babbler</altname>.</cd> -- <col><b>Fruit thrush</b></col>, <cd>any species of bulbul.</cd> -- <col><b>Shrike thrush</b></col>. <cd>See under <er>Shrike</er>.</cd> -- <col><b>Stone thrush</b></col>, <cd>the missel thrush; -- said to be so called from its marbled breast.</cd> -- <col><b>Thrush nightingale</b></col>. <cd>See <er>Nightingale</er>, <snr>2</snr>.</cd> -- <col><b>Thrush tit</b></col>, <cd>any one of several species of Asiatic singing birds of the genus <gen>Cochoa</gen>. They are beautifully colored birds allied to the tits, but resembling thrushes in size and habits.</cd> -- <col><b>Water thrush</b></col>. <sd>(a)</sd> <cd>The European dipper.</cd> <sd>(b)</sd> <cd>An American warbler (<spn>Seiurus Noveboracensis</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thrush</ent><br/
@@ -19091,7 +19091,7 @@ Revenge less sweet than a forgiving mind.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tierce-major</ent><br/
-<hw>Tierce"-ma`jor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>tierce majeure</ets>.]</ety> <fld>(Card Playing)</fld> <def>See <er>Tierce</er>, 4.</def><br/
+<hw>Tierce"-ma`jor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>tierce majeure</ets>.]</ety> <fld>(Card Playing)</fld> <def>See <er>Tierce</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tiercet</ent><br/
@@ -19264,7 +19264,7 @@ Revenge less sweet than a forgiving mind.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>8.</sn> <def>Somewhat intoxicated; tipsy.</def> <mark>[Slang]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>9.</sn> <fld>(Com.)</fld> <def>Pressing; stringent; not easy; firmly held; dear; -- said of money or the money market.  Cf. <er>Easy</er>, 7.</def><br/
+<p><sn>9.</sn> <fld>(Com.)</fld> <def>Pressing; stringent; not easy; firmly held; dear; -- said of money or the money market.  Cf. <er>Easy</er>, <snr>7</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tight</ent><br/
@@ -19551,7 +19551,7 @@ Cramped under worse than South-sea-isle taboo.</q> <rj><qau>Tennyson.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tiller</ent><br/
-<hw>Till"er</hw>, <pos>n.</pos> <ety>[From OE. <ets>tillen</ets>, <ets>tullen</ets>, to draw, pull; probably fr. AS. <ets>tyllan</ets> in for<ets>tyllan</ets> to lead astray; or cf. D. <ets>tillen</ets> to lift up.  Cf. <er>Till</er> a drawer.]</ety> <sn>1.</sn> <fld>(Naut.)</fld> <def>A lever of wood or metal fitted to the rudder head and used for turning side to side in steering. In small boats hand power is used; in large vessels, the tiller is moved by means of mechanical appliances. See <xex>Illust.</xex> of <er>Rudder</er>.  Cf. 2d <er>Helm</er>, 1.</def><br/
+<hw>Till"er</hw>, <pos>n.</pos> <ety>[From OE. <ets>tillen</ets>, <ets>tullen</ets>, to draw, pull; probably fr. AS. <ets>tyllan</ets> in for<ets>tyllan</ets> to lead astray; or cf. D. <ets>tillen</ets> to lift up.  Cf. <er>Till</er> a drawer.]</ety> <sn>1.</sn> <fld>(Naut.)</fld> <def>A lever of wood or metal fitted to the rudder head and used for turning side to side in steering. In small boats hand power is used; in large vessels, the tiller is moved by means of mechanical appliances. See <xex>Illust.</xex> of <er>Rudder</er>.  Cf. 2d <er>Helm</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The stalk, or handle, of a crossbow; also, sometimes, the bow itself.</def> <mark>[Obs.]</mark><br/
@@ -19761,7 +19761,7 @@ We gained the mother city.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Timber</ent><br/
-<hw>Tim"ber</hw>, <pos>n.</pos> <ety>[AS. <ets>timbor</ets>, <ets>timber</ets>, wood, building; akin to OFries. <ets>timber</ets>, D. <ets>timmer</ets> a room, G. <ets>zimmer</ets>, OHG. <ets>zimbar</ets> timber, a dwelling, room, Icel. <ets>timbr</ets> timber, Sw. <ets>timmer</ets>, Dan. <ets>t<oum/mmer</ets>, Goth. <ets>timrjan</ets> to build, <ets>timrja</ets> a builder, L. <ets>domus</ets> a house, Gr. <?/ house, <?/ to build, Skr. <ets>dama</ets> a house. <root/62.  Cf. <er>Dome</er>, <er>Domestic</er>.]</ety> <sn>1.</sn> <def>That sort of wood which is proper for buildings or for tools, utensils, furniture, carriages, fences, ships, and the like; -- usually said of felled trees, but sometimes of those standing.  Cf. <er>Lumber</er>, 3.</def><br/
+<hw>Tim"ber</hw>, <pos>n.</pos> <ety>[AS. <ets>timbor</ets>, <ets>timber</ets>, wood, building; akin to OFries. <ets>timber</ets>, D. <ets>timmer</ets> a room, G. <ets>zimmer</ets>, OHG. <ets>zimbar</ets> timber, a dwelling, room, Icel. <ets>timbr</ets> timber, Sw. <ets>timmer</ets>, Dan. <ets>t<oum/mmer</ets>, Goth. <ets>timrjan</ets> to build, <ets>timrja</ets> a builder, L. <ets>domus</ets> a house, Gr. <?/ house, <?/ to build, Skr. <ets>dama</ets> a house. <root/62.  Cf. <er>Dome</er>, <er>Domestic</er>.]</ety> <sn>1.</sn> <def>That sort of wood which is proper for buildings or for tools, utensils, furniture, carriages, fences, ships, and the like; -- usually said of felled trees, but sometimes of those standing.  Cf. <er>Lumber</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And ta'en my fiddle to the gate, . . . <br/
@@ -22194,7 +22194,7 @@ Is worth for me a thousand yesterdays.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toftman</ent><br/
-<hw>Toft"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Toftmen</plw> <pr>(<?/)</pr>.</plu> <def>The owner of a toft. See <er>Toft</er>, 3.</def><br/
+<hw>Toft"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Toftmen</plw> <pr>(<?/)</pr>.</plu> <def>The owner of a toft. See <er>Toft</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tofus</ent><br/
@@ -22378,7 +22378,7 @@ When <qex>toil</qex> remitting lent its turn to play.</q> <rj><qau>Goldsmith.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toilette</ent><br/
-<hw>Toi*lette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Toilet</er>, 3.</def><br/
+<hw>Toi*lette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See <er>Toilet</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toilful</ent><br/
@@ -22891,7 +22891,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tomcod</ent><br/
-<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sdr>(a)</sdr>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, 8. <sdr>(c)</sdr>.</def><br/
+<hw>Tom"cod`</hw> <pr>(t<ocr/m"k<ocr/d`)</pr>, <pos>n.</pos> <ety>[<ets>Tom</ets> (see <er>Tomboy</er>) + <ets>cod</ets>: cf. F. <ets>tacaud</ets> whiting pout, American Indian <ets>tacaud</ets>, literally, plenty fish.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small edible American fish (<spn>Microgadus tomcod</spn>) of the Codfish family, very abundant in autumn on the Atlantic coast of the Northen United States; -- called also <altname>frostfish</altname>. See <xex>Illust.</xex> under <er>Frostfish</er>.</def> <sd>(b)</sd> <def>The kingfish. See <er>Kingfish</er> <sdr>(a)</sdr>.</def> <sd>(c)</sd> <def>The jack. See 2d <er>Jack</er>, <snr>8</snr>. <sdr>(c)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tome</ent><br/
@@ -23800,7 +23800,7 @@ To have a thankless child!</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Zool.)</fld> <def>Any hard calcareous or chitinous organ found in the mouth of various invertebrates and used in feeding or procuring food; <as>as, the <ex>teeth</ex> of a mollusk or a starfish</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In spite of the teeth</b></col>, <cd>in defiance of opposition; in opposition to every effort.</cd> -- <col><b>In the teeth</b></col>, <cd>directly; in direct opposition; in front.</cd> <ldquo/Nor strive with all the tempest in my <xex>teeth</xex>.<rdquo/ <au>Pope.</au> -- <col><b>To cast in the teeth</b></col>, <cd>to report reproachfully; to taunt or insult one with.</cd> -- <col><b>Tooth and nail</b></col>, <cd>as if by biting and scratching; with one's utmost power; by all possible means.</cd>  <au>L'Estrange.</au>  <ldquo/I shall fight <xex>tooth and nail</xex> for international copyright.<rdquo/ <au>Charles Reade.</au> -- <col><b>Tooth coralline</b></col> <fld>(Zool.)</fld>, <cd>any sertularian hydroid.</cd> -- <col><b>Tooth edge</b></col>, <cd>the sensation excited in the teeth by grating sounds, and by the touch of certain substances, as keen acids.</cd> -- <col><b>Tooth key</b></col>, <cd>an instrument used to extract teeth by a motion resembling that of turning a key.</cd> -- <col><b>Tooth net</b></col>, <cd>a large fishing net anchored.</cd> <mark>[Scot.]</mark> <au>Jamieson.</au> -- <col><b>Tooth ornament</b></col>. <fld>(Arch.)</fld> <cd>Same as <er>Dogtooth</er>, <pos>n.</pos>, 2.</cd><-- <col><b>Tooth paste</b></col>, <cd>a paste for cleaning the teeth; a dentifrice.</cd> --> -- <col><b>Tooth powder</b></col>, <cd>a powder for cleaning the teeth; a dentifrice.</cd> -- <col><b>Tooth rash</b></col>. <fld>(Med.)</fld> <cd>See <er>Red-gum</er>, 1.</cd> -- <col><b>To show the teeth</b></col>, <cd>to threaten.</cd> <ldquo/When the Law <xex>shows</xex> her <xex>teeth</xex>, but dares not bite.<rdquo/  <au>Young.</au> -- <col><b>To the teeth</b></col>, <cd>in open opposition; directly to one's face.</cd> <ldquo/That I shall live, and tell him <xex>to</xex> his <xex>teeth</xex> .<rdquo/ <au>Shak.</au></cs><br/
+<p><cs><col><b>In spite of the teeth</b></col>, <cd>in defiance of opposition; in opposition to every effort.</cd> -- <col><b>In the teeth</b></col>, <cd>directly; in direct opposition; in front.</cd> <ldquo/Nor strive with all the tempest in my <xex>teeth</xex>.<rdquo/ <au>Pope.</au> -- <col><b>To cast in the teeth</b></col>, <cd>to report reproachfully; to taunt or insult one with.</cd> -- <col><b>Tooth and nail</b></col>, <cd>as if by biting and scratching; with one's utmost power; by all possible means.</cd>  <au>L'Estrange.</au>  <ldquo/I shall fight <xex>tooth and nail</xex> for international copyright.<rdquo/ <au>Charles Reade.</au> -- <col><b>Tooth coralline</b></col> <fld>(Zool.)</fld>, <cd>any sertularian hydroid.</cd> -- <col><b>Tooth edge</b></col>, <cd>the sensation excited in the teeth by grating sounds, and by the touch of certain substances, as keen acids.</cd> -- <col><b>Tooth key</b></col>, <cd>an instrument used to extract teeth by a motion resembling that of turning a key.</cd> -- <col><b>Tooth net</b></col>, <cd>a large fishing net anchored.</cd> <mark>[Scot.]</mark> <au>Jamieson.</au> -- <col><b>Tooth ornament</b></col>. <fld>(Arch.)</fld> <cd>Same as <er>Dogtooth</er>, <pos>n.</pos>, 2.</cd><-- <col><b>Tooth paste</b></col>, <cd>a paste for cleaning the teeth; a dentifrice.</cd> --> -- <col><b>Tooth powder</b></col>, <cd>a powder for cleaning the teeth; a dentifrice.</cd> -- <col><b>Tooth rash</b></col>. <fld>(Med.)</fld> <cd>See <er>Red-gum</er>, <snr>1</snr>.</cd> -- <col><b>To show the teeth</b></col>, <cd>to threaten.</cd> <ldquo/When the Law <xex>shows</xex> her <xex>teeth</xex>, but dares not bite.<rdquo/  <au>Young.</au> -- <col><b>To the teeth</b></col>, <cd>in open opposition; directly to one's face.</cd> <ldquo/That I shall live, and tell him <xex>to</xex> his <xex>teeth</xex> .<rdquo/ <au>Shak.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tooth</ent><br/
@@ -24346,7 +24346,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Topman</ent><br/
-<hw>Top"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Topmem</plw> <pr>(<?/)</pr>.</plu> <sn>1.</sn> <def>See <er>Topsman</er>, 2.</def><br/
+<hw>Top"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Topmem</plw> <pr>(<?/)</pr>.</plu> <sn>1.</sn> <def>See <er>Topsman</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>A man stationed in the top.</def><br/
@@ -24585,7 +24585,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toquet</ent><br/
-<hw>To*quet"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Toque</er>, 1.</def><br/
+<hw>To*quet"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Toque</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tor</ent><br/
@@ -24631,7 +24631,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torc</ent><br/
-<hw>Torc</hw> <pr>(t<ocir/rk)</pr>, <pos>n.</pos> <def>Same as <er>Torque</er>, 1.</def><br/
+<hw>Torc</hw> <pr>(t<ocir/rk)</pr>, <pos>n.</pos> <def>Same as <er>Torque</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torch</ent><br/
@@ -25036,7 +25036,7 @@ Pleasures about me, so much more I feel<br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torques</ent><br/
-\'d8<hw>Tor"ques</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a necklace. See <er>Torque</er>, 1.]</ety> <fld>(Zool.)</fld> <def>A cervical ring of hair or feathers, distinguished by its color or structure; a collar.</def><br/
+\'d8<hw>Tor"ques</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a necklace. See <er>Torque</er>, <snr>1</snr>.]</ety> <fld>(Zool.)</fld> <def>A cervical ring of hair or feathers, distinguished by its color or structure; a collar.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torrefaction</ent><br/
@@ -25253,7 +25253,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 <p><note><hand/ The term is applied especially to the land and fresh-water species, while the marine species are generally called <xex>turtles</xex>, but the terms <xex>tortoise</xex> and <xex>turtle</xex> are used synonymously by many writers.  See <er>Testudinata</er>, <er>Terrapin</er>, and <er>Turtle</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Rom. Antiq.)</fld> <def>Same as <er>Testudo</er>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Rom. Antiq.)</fld> <def>Same as <er>Testudo</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Box tortoise</b></col>, <col><b>Land tortoise</b></col>, etc.</mcol> <cd>See under <er>Box</er>, <er>Land</er>, etc.</cd> -- <col><b>Painted tortoise</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Painted turtle</cref>, under <er>Painted</er>.</cd> -- <col><b>Soft-shell tortoise</b></col>. <fld>(Zool.)</fld> <cd>See <er>Trionyx</er>.</cd> -- <col><b>Spotted tortoise</b></col>. <fld>(Zool.)</fld> <cd>A small American fresh-water tortoise (<spn>Chelopus guttatus</spn> or <spn>Nanemys guttatus</spn>) having a blackish carapace on which are scattered round yellow spots.</cd> -- <col><b>Tortoise beetle</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of small tortoise-shaped beetles.  Many of them have a brilliant metallic luster.  The larvae feed upon the leaves of various plants, and protect themselves beneath a mass of dried excrement held over the back by means of the caudal spines.  The golden tortoise beetle (<spn>Cassida aurichalcea</spn>) is found on the morning-glory vine and allied plants.</cd> -- <col><b>Tortoise plant</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Elephant's foot</cref>, under <er>Elephant</er>.</cd> -- <col><b>Tortoise shell</b></col>, <cd>the substance of the shell or horny plates of several species of sea turtles, especially of the hawkbill turtle. It is used in inlaying and in the manufacture of various ornamental articles.</cd> -- <col><b>Tortoise-shell butterfly</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of handsomely colored butterflies of the genus <gen>Aglais</gen>, as <spn>Aglais Milberti</spn>, and <spn>Aglais urticae</spn>, both of which, in the larva state, feed upon nettles.</cd> -- <col><b>Tortoise-shell turtle</b></col> <fld>(Zool.)</fld>, <cd>the hawkbill turtle. See <er>Hawkbill</er>.</cd></cs><br/
@@ -25389,7 +25389,7 @@ Stemmed the wild <qex>torrent</qex> of a barbarous age.</q> <rj><qau>Pope.</qau>
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>The receptacle, or part of the flower on which the carpels stand.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Geom.)</fld> <def>See 3d <er>Tore</er>, 2.</def><br/
+<p><sn>4.</sn> <fld>(Geom.)</fld> <def>See 3d <er>Tore</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Torved</ent><br/
@@ -25701,7 +25701,7 @@ Of the turtle, crane, and beaver.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>T'other</ent><br/
-<hw>T'oth"er</hw> <pr>(?)</pr>. <def>A colloquial contraction of <sig>the other</sig>, and formerly a contraction for <xex>that other</xex>. See the Note under <er>That</er>, 2.</def><br/
+<hw>T'oth"er</hw> <pr>(?)</pr>. <def>A colloquial contraction of <sig>the other</sig>, and formerly a contraction for <xex>that other</xex>. See the Note under <er>That</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>tothir</qex> that was crucifield with him.</q> <rj><qau>Wyclif(John xix. 32)</qau></rj><br/
@@ -29561,7 +29561,7 @@ Of Paradise, dear bought with lasting woes.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ The surveyor's transit differs from the theodolite in having the horizontal axis attached directly to the telescope which is not mounted in <universbold>Y</universbold>'s and can be turned completely over about the axis.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Lower transit</b></col> <fld>(Astron.)</fld>, <cd>the passage of a heavenly body across that part of the meridian which is below the polar axis.</cd> -- <col><b>Surveyor's transit</b></col>. <cd>See <er>Transit</er>, 5, above.</cd> -- <col><b>Transit circle</b></col> <fld>(Astron.)</fld>, <cd>a transit instrument with a graduated circle attached, used for observing the time of transit and the declination at one observation. See <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Transit compass</b></col>. <cd>See <er>Transit</er>, 5, above.</cd> -- <col><b>Transit duty</b></col>, <cd>a duty paid on goods that pass through a country.</cd> -- <col><b>Transit instrument</b></col>. <fld>(Astron.)</fld> <sd>(a)</sd> <cd>A telescope mounted at right angles to a horizontal axis, on which it revolves with its line of collimation in the plane of the meridian, -- used in connection with a clock for observing the time of transit of a heavenly body over the meridian of a place.</cd> <sd>(b)</sd> <fld>(Surv.)</fld> <cd>A surveyor's transit. See <er>Transit</er>, 5, above.</cd> -- <col><b>Transit trade</b></col> <fld>(Com.)</fld>, <cd>the business conected with the passage of goods through a country to their destination.</cd> -- <col><b>Upper transit</b></col> <fld>(Astron.)</fld>, <cd>the passage of a heavenly body across that part of the meridian which is above the polar axis.</cd></cs><br/
+<p><cs><col><b>Lower transit</b></col> <fld>(Astron.)</fld>, <cd>the passage of a heavenly body across that part of the meridian which is below the polar axis.</cd> -- <col><b>Surveyor's transit</b></col>. <cd>See <er>Transit</er>, <snr>5</snr>, above.</cd> -- <col><b>Transit circle</b></col> <fld>(Astron.)</fld>, <cd>a transit instrument with a graduated circle attached, used for observing the time of transit and the declination at one observation. See <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Transit compass</b></col>. <cd>See <er>Transit</er>, 5, above.</cd> -- <col><b>Transit duty</b></col>, <cd>a duty paid on goods that pass through a country.</cd> -- <col><b>Transit instrument</b></col>. <fld>(Astron.)</fld> <sd>(a)</sd> <cd>A telescope mounted at right angles to a horizontal axis, on which it revolves with its line of collimation in the plane of the meridian, -- used in connection with a clock for observing the time of transit of a heavenly body over the meridian of a place.</cd> <sd>(b)</sd> <fld>(Surv.)</fld> <cd>A surveyor's transit. See <er>Transit</er>, 5, above.</cd> -- <col><b>Transit trade</b></col> <fld>(Com.)</fld>, <cd>the business conected with the passage of goods through a country to their destination.</cd> -- <col><b>Upper transit</b></col> <fld>(Astron.)</fld>, <cd>the passage of a heavenly body across that part of the meridian which is above the polar axis.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transit</ent><br/
@@ -30347,7 +30347,7 @@ Love can <qex>transpose</qex> to form and dignity.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transsummer</ent><br/
-<hw>Trans"sum`mer</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>See <er>Transom</er>, 2.</def><br/
+<hw>Trans"sum`mer</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>See <er>Transom</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Transubstantiate</ent><br/
@@ -30555,7 +30555,7 @@ The <qex>trap</qex> is laid for me!</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Fig.: To insnare; to take by stratagem; to entrap.</def> <ldquo/I <xex>trapped</xex> the foe.<rdquo/  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To provide with a trap; <as>as, to <ex>trap</ex> a drain; to <ex>trap</ex> a sewer pipe</as>. See 4th <er>Trap</er>, 5.</def><br/
+<p><sn>3.</sn> <def>To provide with a trap; <as>as, to <ex>trap</ex> a drain; to <ex>trap</ex> a sewer pipe</as>. See 4th <er>Trap</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trap</ent><br/
@@ -30578,7 +30578,7 @@ The <qex>trap</qex> is laid for me!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trapball</ent><br/
-<hw>Trap"ball`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An old game of ball played with a trap. See 4th <er>Trap</er>, 4.</def><br/
+<hw>Trap"ball`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An old game of ball played with a trap. See 4th <er>Trap</er>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trapdoor</ent><br/
@@ -30608,7 +30608,7 @@ The <qex>trap</qex> is laid for me!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trapeze</ent><br/
-<hw>Tra*peze"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>trap<egrave/ze</ets>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld>  <def>A trapezium. See <er>Trapezium</er>, 1.</def><br/
+<hw>Tra*peze"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>trap<egrave/ze</ets>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld>  <def>A trapezium. See <er>Trapezium</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A swinging horizontal bar, suspended at each end by a rope; -- used by gymnasts.</def><br/
@@ -31207,7 +31207,7 @@ That he who conquers is but last undone.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Treacle</ent><br/
-<hw>Trea"cle</hw> <pr>(tr<emac/"k'l)</pr>, <pos>n.</pos> <ety>[OE. <ets>triacle</ets> a sovereign remedy, theriac, OF. <ets>triacle</ets>, F. <ets>th<eacute/riaque</ets> (cf. Pr. <ets>triacla</ets>, <ets>tiriaca</ets>, Sp. & It. <ets>triaca</ets>, <ets>teriaca</ets>), L. <ets>theriaca</ets> an antidote against the bite of poisonous animals, Gr. <?/, fr. <?/ of wild or venomous beasts, fr. <grk>qhri`on</grk> a beast, a wild beast, dim. of <grk>qh`r</grk> a beast.  Cf. <er>Theriac</er>.]</ety> <sn>1.</sn> <fld>(Old Med.)</fld> <def>A remedy against poison. See <er>Theriac</er>, 1.</def><br/
+<hw>Trea"cle</hw> <pr>(tr<emac/"k'l)</pr>, <pos>n.</pos> <ety>[OE. <ets>triacle</ets> a sovereign remedy, theriac, OF. <ets>triacle</ets>, F. <ets>th<eacute/riaque</ets> (cf. Pr. <ets>triacla</ets>, <ets>tiriaca</ets>, Sp. & It. <ets>triaca</ets>, <ets>teriaca</ets>), L. <ets>theriaca</ets> an antidote against the bite of poisonous animals, Gr. <?/, fr. <?/ of wild or venomous beasts, fr. <grk>qhri`on</grk> a beast, a wild beast, dim. of <grk>qh`r</grk> a beast.  Cf. <er>Theriac</er>.]</ety> <sn>1.</sn> <fld>(Old Med.)</fld> <def>A remedy against poison. See <er>Theriac</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>We kill the viper, and make <qex>treacle</qex> of him.</q> <rj><qau>Jer. Taylor.</qau></rj><br/
@@ -31228,7 +31228,7 @@ That he who conquers is but last undone.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>4.</sn> <def>A saccharine fluid, consisting of the inspissated juices or decoctions of certain vegetables, as the sap of the birch, sycamore, and the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Treacle mustard</b></col> <fld>(Bot.)</fld>, <cd>a name given to several species of the cruciferous genus <gen>Erysimum</gen>, especially the <spn>Erysimum cheiranthoides</spn>, which was formerly used as an ingredient in Venice treacle, or theriac.</cd> -- <col><b>Treacle water</b></col>, <cd>a compound cordial prepared in different ways from a variety of ingredients, as hartshorn, roots of various plants, flowers, juices of plants, wines, etc., distilled or digested with Venice treacle. It was formerly regarded as a medicine of great virtue.</cd> <au>Nares.</au> -- <col><b>Venice treacle</b></col>. <fld>(Old Med.)</fld> <cd>Same as <er>Theriac</er>, 1.</cd></cs><br/
+<p><cs><col><b>Treacle mustard</b></col> <fld>(Bot.)</fld>, <cd>a name given to several species of the cruciferous genus <gen>Erysimum</gen>, especially the <spn>Erysimum cheiranthoides</spn>, which was formerly used as an ingredient in Venice treacle, or theriac.</cd> -- <col><b>Treacle water</b></col>, <cd>a compound cordial prepared in different ways from a variety of ingredients, as hartshorn, roots of various plants, flowers, juices of plants, wines, etc., distilled or digested with Venice treacle. It was formerly regarded as a medicine of great virtue.</cd> <au>Nares.</au> -- <col><b>Venice treacle</b></col>. <fld>(Old Med.)</fld> <cd>Same as <er>Theriac</er>, <snr>1</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Treacly</ent><br/
@@ -31326,7 +31326,7 @@ My heart would hear her and beat.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>8.</sn> <fld>(Biol.)</fld> <def>The chalaza of a bird's egg; the treadle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>9.</sn> <fld>(Far.)</fld> <def>A bruise or abrasion produced on the foot or ankle of a horse that interferes. See <er>Interfere</er>, 3.</def><br/
+<p><sn>9.</sn> <fld>(Far.)</fld> <def>A bruise or abrasion produced on the foot or ankle of a horse that interferes. See <er>Interfere</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Treadboard</ent><br/
@@ -31727,7 +31727,7 @@ With <qex>treble</qex> walls.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Chem.)</fld> <def>A mass of crystals, aggregated in arborescent forms, obtained by precipitation of a metal from solution. See <cref>Lead tree</cref>, under <er>Lead</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Tree bear</b></col> <fld>(Zool.)</fld>, <cd>the raccoon.</cd> <mark>[Local, U. S.]</mark> -- <col><b>Tree beetle</b></col> <fld>(Zool.)</fld> <cd>any one of numerous species of beetles which feed on the leaves of trees and shrubs, as the May beetles, the rose beetle, the rose chafer, and the goldsmith beetle.</cd> -- <col><b>Tree bug</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of hemipterous insects which live upon, and suck the sap of, trees and shrubs. They belong to <gen>Arma</gen>, <gen>Pentatoma</gen>, <gen>Rhaphigaster</gen>, and allied genera.</cd> -- <col><b>Tree cat</b></col> <fld>(Zool.)</fld>, <cd>the common paradoxure (<spn>Paradoxurus musang</spn>).</cd> -- <col><b>Tree clover</b></col> <fld>(Bot.)</fld>, <cd>a tall kind of melilot (<spn>Melilotus alba</spn>). See <er>Melilot</er>.</cd> -- <col><b>Tree crab</b></col> <fld>(Zool.)</fld>, <cd>the purse crab. See under <er>Purse</er>.</cd> -- <col><b>Tree creeper</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of arboreal creepers belonging to <gen>Certhia</gen>, <gen>Climacteris</gen>, and allied genera. See <er>Creeper</er>, 3.</cd> -- <col><b>Tree cricket</b></col> <fld>(Zool.)</fld>, <cd>a nearly white arboreal American cricket (<spn>Ecanthus niv<oe/us</spn>) which is noted for its loud stridulation; -- called also <altname>white cricket</altname>.</cd> -- <col><b>Tree crow</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Old World crows belonging to <gen>Crypsirhina</gen> and allied genera, intermediate between the true crows and the jays. The tail is long, and the bill is curved and without a tooth.</cd> -- <col><b>Tree dove</b></col> <fld>(Zool.)</fld> <cd>any one of several species of East Indian and Asiatic doves belonging to <gen>Macropygia</gen> and allied genera. They have long and broad tails, are chiefly arboreal in their habits, and feed mainly on fruit.</cd> -- <col><b>Tree duck</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of ducks belonging to <gen>Dendrocygna</gen> and allied genera. These ducks have a long and slender neck and a long hind toe. They are arboreal in their habits, and are found in the tropical parts of America, Africa, Asia, and Australia.</cd> -- <col><b>Tree fern</b></col> <fld>(Bot.)</fld>, <cd>an arborescent fern having a straight trunk, sometimes twenty or twenty-five feet high, or even higher, and bearing a cluster of fronds at the top. Most of the existing species are tropical.</cd> -- <col><b>Tree fish</b></col> <fld>(Zool.)</fld>, <cd>a California market fish (<spn>Sebastichthys serriceps</spn>).</cd> -- <col><b>Tree frog</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Same as <er>Tree toad</er>. <sd>(b)</sd> Any one of numerous species of Old World frogs belonging to <gen>Chiromantis</gen>, <gen>Rhacophorus</gen>, and allied genera of the family <fam>Ranidae</fam>. Their toes are furnished with suckers for adhesion. The flying frog (see under <er>Flying</er>) is an example.</cd> -- <col><b>Tree goose</b></col> <fld>(Zool.)</fld>, <cd>the bernicle goose.</cd> -- <col><b>Tree hopper</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of small leaping hemipterous insects which live chiefly on the branches and twigs of trees, and injure them by sucking the sap. Many of them are very odd in shape, the prothorax being often prolonged upward or forward in the form of a spine or crest.</cd> -- <col><b>Tree jobber</b></col> <fld>(Zool.)</fld>, <cd>a woodpecker.</cd> <mark>[Obs.]</mark> -- <col><b>Tree kangaroo</b></col>. <fld>(Zool.)</fld> <cd>See <er>Kangaroo</er>.</cd> -- <col><b>Tree lark</b></col> <fld>(Zool.)</fld>, <cd>the tree pipit.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Tree lizard</b></col> <fld>(Zool.)</fld>, <cd>any one of a group of Old World arboreal lizards (formerly grouped as the <ord>Dendrosauria</ord>) comprising the chameleons; also applied to various lizards belonging to the families <fam>Agamidae</fam> or <fam>Iguanidae</fam>, especially those of the genus <gen>Urosaurus</gen>, such as the <stype>lined tree lizard</stype> (<spn>Urosaurus ornatus</spn>) of the southwestern U.S.</cd> -- <col><b>Tree lobster</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Tree crab</cref>, above.</cd> -- <col><b>Tree louse</b></col> <fld>(Zool.)</fld>, <cd>any aphid; a plant louse.</cd> -- <col><b>Tree moss</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Any moss or lichen growing on trees.</cd> <sd>(b)</sd> <cd>Any species of moss in the form of a miniature tree.</cd> -- <col><b>Tree mouse</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of African mice of the subfamily <fam>Dendromyinae</fam>. They have long claws and habitually live in trees.</cd> -- <col><b>Tree nymph</b></col>, <cd>a wood nymph. See <er>Dryad</er>.</cd> -- <col><b>Tree of a saddle</b></col>, <cd>a saddle frame.</cd> -- <col><b>Tree of heaven</b></col> <fld>(Bot.)</fld>, <cd>an ornamental tree (<spn>Ailantus glandulosus</spn>) having long, handsome pinnate leaves, and greenish flowers of a disagreeable odor.</cd> -- <col><b>Tree of life</b></col> <fld>(Bot.)</fld>, <cd>a tree of the genus Thuja; arbor vitae.</cd> -- <col><b>Tree onion</b></col> <fld>(Bot.)</fld>, <cd>a species of garlic (<spn>Allium proliferum</spn>) which produces bulbs in place of flowers, or among its flowers.</cd> -- <col><b>Tree oyster</b></col> <fld>(Zool.)</fld>, <cd>a small American oyster (<spn>Ostrea folium</spn>) which adheres to the roots of the mangrove tree; -- called also <altname>raccoon oyster</altname>.</cd> -- <col><b>Tree pie</b></col> <fld>(Zool.)</fld>, <cd>any species of Asiatic birds of the genus <gen>Dendrocitta</gen>. The tree pies are allied to the magpie.</cd> -- <col><b>Tree pigeon</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of longwinged arboreal pigeons native of Asia, Africa, and Australia, and belonging to <gen>Megaloprepia</gen>, <gen>Carpophaga</gen>, and allied genera.</cd> -- <col><b>Tree pipit</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Pipit</er>.</cd> -- <col><b>Tree porcupine</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Central and South American arboreal porcupines belonging to the genera <gen>Chaetomys</gen> and <gen>Sphingurus</gen>.  They have an elongated and somewhat prehensile tail, only four toes on the hind feet, and a body covered with short spines mixed with bristles.  One South American species (<spn>Sphingurus villosus</spn>) is called also <stype>couiy</stype>; another (<spn>Sphingurus prehensilis</spn>) is called also <stype>c<oe/ndou</stype>.</cd> -- <col><b>Tree rat</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of large ratlike West Indian rodents belonging to the genera <gen>Capromys</gen> and <gen>Plagiodon</gen>. They are allied to the porcupines.</cd> -- <col><b>Tree serpent</b></col> <fld>(Zool.)</fld>, <cd>a tree snake.</cd> -- <col><b>Tree shrike</b></col> <fld>(Zool.)</fld>, <cd>a bush shrike.</cd> -- <col><b>Tree snake</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of snakes of the genus <gen>Dendrophis</gen>. They live chiefly among the branches of trees, and are not venomous.</cd> -- <col><b>Tree sorrel</b></col> <fld>(Bot.)</fld>, <cd>a kind of sorrel (<spn>Rumex Lunaria</spn>) which attains the stature of a small tree, and bears greenish flowers.  It is found in the Canary Islands and Tenerife.</cd> -- <col><b>Tree sparrow</b></col> <fld>(Zool.)</fld> <cd>any one of several species of small arboreal sparrows, especially the American tree sparrow (<spn>Spizella monticola</spn>), and the common European species (<spn>Passer montanus</spn>).</cd> -- <col><b>Tree swallow</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of swallows of the genus <gen>Hylochelidon</gen> which lay their eggs in holes in dead trees. They inhabit Australia and adjacent regions. Called also <altname>martin</altname> in Australia.</cd> -- <col><b>Tree swift</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of swifts of the genus <gen>Dendrochelidon</gen> which inhabit the East Indies and Southern Asia.</cd> -- <col><b>Tree tiger</b></col> <fld>(Zool.)</fld>, <cd>a leopard.</cd> -- <col><b>Tree toad</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of amphibians belonging to <gen>Hyla</gen> and allied genera of the family <fam>Hylidae</fam>. They are related to the common frogs and toads, but have the tips of the toes expanded into suckers by means of which they cling to the bark and leaves of trees.  Only one species (<spn>Hyla arborea</spn>) is found in Europe, but numerous species occur in America and Australia.  The common tree toad of the Northern United States (<spn>Hyla versicolor</spn>) is noted for the facility with which it changes its colors.  Called also <altname>tree frog</altname>. See also <cref>Piping frog</cref>, under <er>Piping</er>, and <cref>Cricket frog</cref>, under <er>Cricket</er>.</cd> -- <col><b>Tree warbler</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of arboreal warblers belonging to <gen>Phylloscopus</gen> and allied genera.</cd> -- <col><b>Tree wool</b></col> <fld>(Bot.)</fld>, <cd>a fine fiber obtained from the leaves of pine trees.</cd></cs><br/
+<p><cs><col><b>Tree bear</b></col> <fld>(Zool.)</fld>, <cd>the raccoon.</cd> <mark>[Local, U. S.]</mark> -- <col><b>Tree beetle</b></col> <fld>(Zool.)</fld> <cd>any one of numerous species of beetles which feed on the leaves of trees and shrubs, as the May beetles, the rose beetle, the rose chafer, and the goldsmith beetle.</cd> -- <col><b>Tree bug</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of hemipterous insects which live upon, and suck the sap of, trees and shrubs. They belong to <gen>Arma</gen>, <gen>Pentatoma</gen>, <gen>Rhaphigaster</gen>, and allied genera.</cd> -- <col><b>Tree cat</b></col> <fld>(Zool.)</fld>, <cd>the common paradoxure (<spn>Paradoxurus musang</spn>).</cd> -- <col><b>Tree clover</b></col> <fld>(Bot.)</fld>, <cd>a tall kind of melilot (<spn>Melilotus alba</spn>). See <er>Melilot</er>.</cd> -- <col><b>Tree crab</b></col> <fld>(Zool.)</fld>, <cd>the purse crab. See under <er>Purse</er>.</cd> -- <col><b>Tree creeper</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of arboreal creepers belonging to <gen>Certhia</gen>, <gen>Climacteris</gen>, and allied genera. See <er>Creeper</er>, <snr>3</snr>.</cd> -- <col><b>Tree cricket</b></col> <fld>(Zool.)</fld>, <cd>a nearly white arboreal American cricket (<spn>Ecanthus niv<oe/us</spn>) which is noted for its loud stridulation; -- called also <altname>white cricket</altname>.</cd> -- <col><b>Tree crow</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Old World crows belonging to <gen>Crypsirhina</gen> and allied genera, intermediate between the true crows and the jays. The tail is long, and the bill is curved and without a tooth.</cd> -- <col><b>Tree dove</b></col> <fld>(Zool.)</fld> <cd>any one of several species of East Indian and Asiatic doves belonging to <gen>Macropygia</gen> and allied genera. They have long and broad tails, are chiefly arboreal in their habits, and feed mainly on fruit.</cd> -- <col><b>Tree duck</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of ducks belonging to <gen>Dendrocygna</gen> and allied genera. These ducks have a long and slender neck and a long hind toe. They are arboreal in their habits, and are found in the tropical parts of America, Africa, Asia, and Australia.</cd> -- <col><b>Tree fern</b></col> <fld>(Bot.)</fld>, <cd>an arborescent fern having a straight trunk, sometimes twenty or twenty-five feet high, or even higher, and bearing a cluster of fronds at the top. Most of the existing species are tropical.</cd> -- <col><b>Tree fish</b></col> <fld>(Zool.)</fld>, <cd>a California market fish (<spn>Sebastichthys serriceps</spn>).</cd> -- <col><b>Tree frog</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Same as <er>Tree toad</er>. <sd>(b)</sd> Any one of numerous species of Old World frogs belonging to <gen>Chiromantis</gen>, <gen>Rhacophorus</gen>, and allied genera of the family <fam>Ranidae</fam>. Their toes are furnished with suckers for adhesion. The flying frog (see under <er>Flying</er>) is an example.</cd> -- <col><b>Tree goose</b></col> <fld>(Zool.)</fld>, <cd>the bernicle goose.</cd> -- <col><b>Tree hopper</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of small leaping hemipterous insects which live chiefly on the branches and twigs of trees, and injure them by sucking the sap. Many of them are very odd in shape, the prothorax being often prolonged upward or forward in the form of a spine or crest.</cd> -- <col><b>Tree jobber</b></col> <fld>(Zool.)</fld>, <cd>a woodpecker.</cd> <mark>[Obs.]</mark> -- <col><b>Tree kangaroo</b></col>. <fld>(Zool.)</fld> <cd>See <er>Kangaroo</er>.</cd> -- <col><b>Tree lark</b></col> <fld>(Zool.)</fld>, <cd>the tree pipit.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Tree lizard</b></col> <fld>(Zool.)</fld>, <cd>any one of a group of Old World arboreal lizards (formerly grouped as the <ord>Dendrosauria</ord>) comprising the chameleons; also applied to various lizards belonging to the families <fam>Agamidae</fam> or <fam>Iguanidae</fam>, especially those of the genus <gen>Urosaurus</gen>, such as the <stype>lined tree lizard</stype> (<spn>Urosaurus ornatus</spn>) of the southwestern U.S.</cd> -- <col><b>Tree lobster</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Tree crab</cref>, above.</cd> -- <col><b>Tree louse</b></col> <fld>(Zool.)</fld>, <cd>any aphid; a plant louse.</cd> -- <col><b>Tree moss</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Any moss or lichen growing on trees.</cd> <sd>(b)</sd> <cd>Any species of moss in the form of a miniature tree.</cd> -- <col><b>Tree mouse</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of African mice of the subfamily <fam>Dendromyinae</fam>. They have long claws and habitually live in trees.</cd> -- <col><b>Tree nymph</b></col>, <cd>a wood nymph. See <er>Dryad</er>.</cd> -- <col><b>Tree of a saddle</b></col>, <cd>a saddle frame.</cd> -- <col><b>Tree of heaven</b></col> <fld>(Bot.)</fld>, <cd>an ornamental tree (<spn>Ailantus glandulosus</spn>) having long, handsome pinnate leaves, and greenish flowers of a disagreeable odor.</cd> -- <col><b>Tree of life</b></col> <fld>(Bot.)</fld>, <cd>a tree of the genus Thuja; arbor vitae.</cd> -- <col><b>Tree onion</b></col> <fld>(Bot.)</fld>, <cd>a species of garlic (<spn>Allium proliferum</spn>) which produces bulbs in place of flowers, or among its flowers.</cd> -- <col><b>Tree oyster</b></col> <fld>(Zool.)</fld>, <cd>a small American oyster (<spn>Ostrea folium</spn>) which adheres to the roots of the mangrove tree; -- called also <altname>raccoon oyster</altname>.</cd> -- <col><b>Tree pie</b></col> <fld>(Zool.)</fld>, <cd>any species of Asiatic birds of the genus <gen>Dendrocitta</gen>. The tree pies are allied to the magpie.</cd> -- <col><b>Tree pigeon</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of longwinged arboreal pigeons native of Asia, Africa, and Australia, and belonging to <gen>Megaloprepia</gen>, <gen>Carpophaga</gen>, and allied genera.</cd> -- <col><b>Tree pipit</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Pipit</er>.</cd> -- <col><b>Tree porcupine</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of Central and South American arboreal porcupines belonging to the genera <gen>Chaetomys</gen> and <gen>Sphingurus</gen>.  They have an elongated and somewhat prehensile tail, only four toes on the hind feet, and a body covered with short spines mixed with bristles.  One South American species (<spn>Sphingurus villosus</spn>) is called also <stype>couiy</stype>; another (<spn>Sphingurus prehensilis</spn>) is called also <stype>c<oe/ndou</stype>.</cd> -- <col><b>Tree rat</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of large ratlike West Indian rodents belonging to the genera <gen>Capromys</gen> and <gen>Plagiodon</gen>. They are allied to the porcupines.</cd> -- <col><b>Tree serpent</b></col> <fld>(Zool.)</fld>, <cd>a tree snake.</cd> -- <col><b>Tree shrike</b></col> <fld>(Zool.)</fld>, <cd>a bush shrike.</cd> -- <col><b>Tree snake</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of snakes of the genus <gen>Dendrophis</gen>. They live chiefly among the branches of trees, and are not venomous.</cd> -- <col><b>Tree sorrel</b></col> <fld>(Bot.)</fld>, <cd>a kind of sorrel (<spn>Rumex Lunaria</spn>) which attains the stature of a small tree, and bears greenish flowers.  It is found in the Canary Islands and Tenerife.</cd> -- <col><b>Tree sparrow</b></col> <fld>(Zool.)</fld> <cd>any one of several species of small arboreal sparrows, especially the American tree sparrow (<spn>Spizella monticola</spn>), and the common European species (<spn>Passer montanus</spn>).</cd> -- <col><b>Tree swallow</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of swallows of the genus <gen>Hylochelidon</gen> which lay their eggs in holes in dead trees. They inhabit Australia and adjacent regions. Called also <altname>martin</altname> in Australia.</cd> -- <col><b>Tree swift</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of swifts of the genus <gen>Dendrochelidon</gen> which inhabit the East Indies and Southern Asia.</cd> -- <col><b>Tree tiger</b></col> <fld>(Zool.)</fld>, <cd>a leopard.</cd> -- <col><b>Tree toad</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of amphibians belonging to <gen>Hyla</gen> and allied genera of the family <fam>Hylidae</fam>. They are related to the common frogs and toads, but have the tips of the toes expanded into suckers by means of which they cling to the bark and leaves of trees.  Only one species (<spn>Hyla arborea</spn>) is found in Europe, but numerous species occur in America and Australia.  The common tree toad of the Northern United States (<spn>Hyla versicolor</spn>) is noted for the facility with which it changes its colors.  Called also <altname>tree frog</altname>. See also <cref>Piping frog</cref>, under <er>Piping</er>, and <cref>Cricket frog</cref>, under <er>Cricket</er>.</cd> -- <col><b>Tree warbler</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of arboreal warblers belonging to <gen>Phylloscopus</gen> and allied genera.</cd> -- <col><b>Tree wool</b></col> <fld>(Bot.)</fld>, <cd>a fine fiber obtained from the leaves of pine trees.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tree</ent><br/
@@ -33020,7 +33020,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichomatose</ent><br/
-<hw>Tri*chom"a*tose`</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/, <?/, a growth of hair.]</ety> <fld>(Med.)</fld> <def>Affected with a disease which causes agglutination and matting together; -- said of the hair when affected with plica. See <er>Plica</er>, 1.</def><br/
+<hw>Tri*chom"a*tose`</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/, <?/, a growth of hair.]</ety> <fld>(Med.)</fld> <def>Affected with a disease which causes agglutination and matting together; -- said of the hair when affected with plica. See <er>Plica</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trichome</ent><br/
@@ -33434,7 +33434,7 @@ A gentle stream.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triens</ent><br/
-\'d8<hw>Tri"ens</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from <ets>tres</ets>, <ets>tria</ets>, three.]</ety> <fld>(Rom. Antiq.)</fld> <def>A Roman copper coin, equal to one third of the <it>as.</it> See 3d <er>As</er>, 2.</def><br/
+\'d8<hw>Tri"ens</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from <ets>tres</ets>, <ets>tria</ets>, three.]</ety> <fld>(Rom. Antiq.)</fld> <def>A Roman copper coin, equal to one third of the <it>as.</it> See 3d <er>As</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trier</ent><br/
@@ -34160,7 +34160,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimorph</ent><br/
-<hw>Tri"morph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Trimorphous</er>.]</ety> <fld>(Crystallog.)</fld> <def>A substance which crystallizes in three distinct forms, or which has three distinct physical states; also, any one of these distinct forms. See <er>Trimorphism</er>, 1.</def><br/
+<hw>Tri"morph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Trimorphous</er>.]</ety> <fld>(Crystallog.)</fld> <def>A substance which crystallizes in three distinct forms, or which has three distinct physical states; also, any one of these distinct forms. See <er>Trimorphism</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trimorphous</ent><br/
@@ -34416,7 +34416,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trior</ent><br/
-<hw>Tri"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Trier</er>, 2 and 3.</def><br/
+<hw>Tri"or</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>Same as <er>Trier</er>, <snr>2</snr> and 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triose</ent><br/
@@ -34431,7 +34431,7 @@ Of boats last night.</q> <rj><qau>Trench.</qau></rj><br/
 <hw>Trip</hw> <pr>(tr<icr/p)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Tripped</conjf> <pr>(tr<icr/pt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Tripping</conjf>.]</vmorph> <ety>[OE. <ets>trippen</ets>; akin to D. <ets>trippen</ets>, Dan. <ets>trippe</ets>, and E. <ets>tramp</ets>. See <er>Tramp</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>To move with light, quick steps; to walk or move lightly; to skip; to move the feet nimbly; -- sometimes followed by <xex>it</xex>. See <er>It</er>, 5.</def><br/
+<p><sn>1.</sn> <def>To move with light, quick steps; to walk or move lightly; to skip; to move the feet nimbly; -- sometimes followed by <xex>it</xex>. See <er>It</er>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>This horse anon began to <qex>trip</qex> and dance.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -34707,7 +34707,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>3.</sn> <def>One of three; third.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Triple crown</b></col>, <cd>the crown, or tiara, of the pope. See <er>Tiara</er>, 2.</cd><-- (b) (Sport) The championship in three specific categories of a sport in one year, if won by a single contender; as (Baseball) The championship in batting average, home runs, and runs batted in (RBI's) in one league. --> -- <col><b>Triple-expansion steam engine</b></col>, <cd>a compound steam engine in which the same steam performs work in three cylinders successively.</cd> -- <col><b>Triple measure</b></col> <fld>(Mus.)</fld>, <cd>a measure of tree beats of which first only is accented.</cd> -- <col><b>Triple ratio</b></col> <fld>(Math.)</fld>, <cd>a ratio which is equal to 3.</cd> -- <col><b>Triple salt</b></col> <fld>(Chem.)</fld>, <cd>a salt containing three distinct basic atoms as radicals; thus, microcosmic salt is a <xex>triple salt</xex>.</cd> -- <col><b>Triple star</b></col> <fld>(Astron.)</fld>, <cd>a system of three stars in close proximity.</cd> -- <col><b>Triple time</b></col> <fld>(Mus.)</fld>, <cd>that time in which each measure is divided into three equal parts.</cd> -- <col><b>Triple valve</b></col>, <cd>in an automatic air brake for railroad cars, the valve under each car, by means of which the brake is controlled by a change of pressure in the air pipe leading from the locomotive.</cd></cs><br/
+<p><cs><col><b>Triple crown</b></col>, <cd>the crown, or tiara, of the pope. See <er>Tiara</er>, <snr>2</snr>.</cd><-- (b) (Sport) The championship in three specific categories of a sport in one year, if won by a single contender; as (Baseball) The championship in batting average, home runs, and runs batted in (RBI's) in one league. --> -- <col><b>Triple-expansion steam engine</b></col>, <cd>a compound steam engine in which the same steam performs work in three cylinders successively.</cd> -- <col><b>Triple measure</b></col> <fld>(Mus.)</fld>, <cd>a measure of tree beats of which first only is accented.</cd> -- <col><b>Triple ratio</b></col> <fld>(Math.)</fld>, <cd>a ratio which is equal to 3.</cd> -- <col><b>Triple salt</b></col> <fld>(Chem.)</fld>, <cd>a salt containing three distinct basic atoms as radicals; thus, microcosmic salt is a <xex>triple salt</xex>.</cd> -- <col><b>Triple star</b></col> <fld>(Astron.)</fld>, <cd>a system of three stars in close proximity.</cd> -- <col><b>Triple time</b></col> <fld>(Mus.)</fld>, <cd>that time in which each measure is divided into three equal parts.</cd> -- <col><b>Triple valve</b></col>, <cd>in an automatic air brake for railroad cars, the valve under each car, by means of which the brake is controlled by a change of pressure in the air pipe leading from the locomotive.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Triple</ent><br/
@@ -35897,7 +35897,7 @@ By wide-mouthed mortal<qex>trolled</qex> aloud.</q> <rj><qau>Hudibras.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tron</ent><br/
-<hw>Tron</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See 3d <er>Trone</er>, 2.</def> <mark>[Obs. or Scot.]</mark><br/
+<hw>Tron</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See 3d <er>Trone</er>, <snr>2</snr>.</def> <mark>[Obs. or Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trona</ent><br/
@@ -37053,7 +37053,7 @@ Excites us to arms.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Mach)</fld> <def>A funnel, or short, fiaring pipe, used as a guide or conductor, as for yarn in a knitting machine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ear trumpet</b></col>. <cd>See under <er>Ear</er>.</cd> -- <col><b>Sea trumpet</b></col> <fld>(Bot.)</fld>, <cd>a great seaweed (<spn>Ecklonia buccinalis</spn>) of the Southern Ocean. It has a long, hollow stem, enlarging upwards, which may be made into a kind of trumpet, and is used for many purposes.</cd> -- <col><b>Speaking trumpet</b></col>, <cd>an instrument for conveying articulate sounds with increased force.</cd> -- <col><b>Trumpet animalcule</b></col> <fld>(Zool.)</fld>, <cd>any infusorian belonging to Stentor and allied genera, in which the body is trumpet-shaped. See <er>Stentor</er>.</cd> -- <col><b>Trumpet ash</b></col> <fld>(Bot.)</fld>, <cd>the trumpet creeper.</cd> <mark>[Eng.]</mark> -- <col><b>Trumpet conch</b></col> <fld>(Zool.)</fld>, <cd>a trumpet shell, or triton.</cd> -- <col><b>Trumpet creeper</b></col> <fld>(Bot.)</fld>, <cd>an American climbing plant (<spn>Tecoma radicans</spn>) bearing clusters of large red trumpet-shaped flowers; -- called also <altname>trumpet flower</altname>, and in England <altname>trumpet ash</altname>.</cd> -- <col><b>Trumpet fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The bellows fish.</cd> <sd>(b)</sd> <cd>The fistularia.</cd> -- <col><b>Trumpet flower</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The trumpet creeper; also, its blossom.</cd> <sd>(b)</sd> <cd>The trumpet honeysuckle.</cd> <sd>(c)</sd> <cd>A West Indian name for several plants with trumpet-shaped flowers.</cd> -- <col><b>Trumpet fly</b></col> <fld>(Zool.)</fld>, <cd>a botfly.</cd> -- <col><b>Trumpet honeysuckle</b></col> <fld>(Bot.)</fld>, <cd>a twining plant (<spn>Lonicera sempervirens</spn>) with red and yellow trumpet-shaped flowers; -- called also <altname>trumpet flower</altname>.</cd> -- <col><b>Trumpet leaf</b></col> <fld>(Bot.)</fld>, <cd>a name of several plants of the genus <gen>Sarracenia</gen>.</cd> -- <col><b>Trumpet major</b></col> <fld>(Mil.)</fld>, <cd>the chief trumpeter of a band or regiment.</cd> -- <col><b>Trumpet marine</b></col> <fld>(Mus.)</fld>, <cd>a monochord, having a thick string, sounded with a bow, and stopped with the thumb so as to produce the harmonic tones; -- said to be the oldest bowed instrument known, and in form the archetype of all others. It probably owes its name to <ldquo/its external resemblance to the large speaking trumpet used on board Italian vessels, which is of the same length and tapering shape.<rdquo/</cd> <au>Grove.</au> -- <col><b>Trumpet shell</b></col> <fld>(Zool.)</fld>, <cd>any species of large marine univalve shells belonging to Triton and allied genera. See <er>Triton</er>, 2.</cd> -- <col><b>Trumpet tree</b></col>. <fld>(Bot.)</fld> <cd>See <er>Trumpetwood</er>.</cd></cs><br/
+<p><cs><col><b>Ear trumpet</b></col>. <cd>See under <er>Ear</er>.</cd> -- <col><b>Sea trumpet</b></col> <fld>(Bot.)</fld>, <cd>a great seaweed (<spn>Ecklonia buccinalis</spn>) of the Southern Ocean. It has a long, hollow stem, enlarging upwards, which may be made into a kind of trumpet, and is used for many purposes.</cd> -- <col><b>Speaking trumpet</b></col>, <cd>an instrument for conveying articulate sounds with increased force.</cd> -- <col><b>Trumpet animalcule</b></col> <fld>(Zool.)</fld>, <cd>any infusorian belonging to Stentor and allied genera, in which the body is trumpet-shaped. See <er>Stentor</er>.</cd> -- <col><b>Trumpet ash</b></col> <fld>(Bot.)</fld>, <cd>the trumpet creeper.</cd> <mark>[Eng.]</mark> -- <col><b>Trumpet conch</b></col> <fld>(Zool.)</fld>, <cd>a trumpet shell, or triton.</cd> -- <col><b>Trumpet creeper</b></col> <fld>(Bot.)</fld>, <cd>an American climbing plant (<spn>Tecoma radicans</spn>) bearing clusters of large red trumpet-shaped flowers; -- called also <altname>trumpet flower</altname>, and in England <altname>trumpet ash</altname>.</cd> -- <col><b>Trumpet fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The bellows fish.</cd> <sd>(b)</sd> <cd>The fistularia.</cd> -- <col><b>Trumpet flower</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The trumpet creeper; also, its blossom.</cd> <sd>(b)</sd> <cd>The trumpet honeysuckle.</cd> <sd>(c)</sd> <cd>A West Indian name for several plants with trumpet-shaped flowers.</cd> -- <col><b>Trumpet fly</b></col> <fld>(Zool.)</fld>, <cd>a botfly.</cd> -- <col><b>Trumpet honeysuckle</b></col> <fld>(Bot.)</fld>, <cd>a twining plant (<spn>Lonicera sempervirens</spn>) with red and yellow trumpet-shaped flowers; -- called also <altname>trumpet flower</altname>.</cd> -- <col><b>Trumpet leaf</b></col> <fld>(Bot.)</fld>, <cd>a name of several plants of the genus <gen>Sarracenia</gen>.</cd> -- <col><b>Trumpet major</b></col> <fld>(Mil.)</fld>, <cd>the chief trumpeter of a band or regiment.</cd> -- <col><b>Trumpet marine</b></col> <fld>(Mus.)</fld>, <cd>a monochord, having a thick string, sounded with a bow, and stopped with the thumb so as to produce the harmonic tones; -- said to be the oldest bowed instrument known, and in form the archetype of all others. It probably owes its name to <ldquo/its external resemblance to the large speaking trumpet used on board Italian vessels, which is of the same length and tapering shape.<rdquo/</cd> <au>Grove.</au> -- <col><b>Trumpet shell</b></col> <fld>(Zool.)</fld>, <cd>any species of large marine univalve shells belonging to Triton and allied genera. See <er>Triton</er>, <snr>2</snr>.</cd> -- <col><b>Trumpet tree</b></col>. <fld>(Bot.)</fld> <cd>See <er>Trumpetwood</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trumpet</ent><br/
@@ -37276,7 +37276,7 @@ Thy utmost reach.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>11.</sn> <def>A long, large box, pipe, or conductor, made of plank or metal plates, for various uses, as for conveying air to a mine or to a furnace, water to a mill, grain to an elevator, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Trunk engine</b></col>, <cd>a marine engine, the piston rod of which is a trunk. See <er>Trunk</er>, 10.</cd> -- <col><b>Trunk hose</b></col>, <cd>large breeches formerly worn, reaching to the knees.</cd> -- <col><b>Trunk line</b></col>, <cd>the main line of a railway, canal, or route of conveyance.</cd> -- <col><b>Trunk turtle</b></col> <fld>(Zool.)</fld>, <cd>the leatherback.</cd></cs><br/
+<p><cs><col><b>Trunk engine</b></col>, <cd>a marine engine, the piston rod of which is a trunk. See <er>Trunk</er>, <snr>10</snr>.</cd> -- <col><b>Trunk hose</b></col>, <cd>large breeches formerly worn, reaching to the knees.</cd> -- <col><b>Trunk line</b></col>, <cd>the main line of a railway, canal, or route of conveyance.</cd> -- <col><b>Trunk turtle</b></col> <fld>(Zool.)</fld>, <cd>the leatherback.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Trunk</ent><br/
@@ -38278,7 +38278,7 @@ To summon his array.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubman</ent><br/
-<hw>Tub"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tubmen</plw> <pr>(<?/)</pr>.</plu> <fld>(Eng. Law)</fld> <def>One of the two most experienced barristers in the Court of Exchequer.  Cf. <er>Postman</er>, 2.</def><br/
+<hw>Tub"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tubmen</plw> <pr>(<?/)</pr>.</plu> <fld>(Eng. Law)</fld> <def>One of the two most experienced barristers in the Court of Exchequer.  Cf. <er>Postman</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tubular</ent><br/
@@ -38584,7 +38584,7 @@ The <qex>tucket sonance</qex> and the note to mount.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tufthunter</ent><br/
-<hw>Tuft"hunt`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A hanger-on to noblemen, or persons of quality, especially in English universities; a toady. See 1st <er>Tuft</er>, 3.</def> <mark>[Cant, Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
+<hw>Tuft"hunt`er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A hanger-on to noblemen, or persons of quality, especially in English universities; a toady. See 1st <er>Tuft</er>, <snr>3</snr>.</def> <mark>[Cant, Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Tufthunting</ent><br/
@@ -40436,7 +40436,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnpike</ent><br/
-<hw>Turn"pike`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Turn</ets> + <ets>pike</ets>.]</ety> <sn>1.</sn> <def>A frame consisting of two bars crossing each other at right angles and turning on a post or pin, to hinder the passage of beasts, but admitting a person to pass between the arms; a turnstile. See <er>Turnstile</er>, 1.</def><br/
+<hw>Turn"pike`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Turn</ets> + <ets>pike</ets>.]</ety> <sn>1.</sn> <def>A frame consisting of two bars crossing each other at right angles and turning on a post or pin, to hinder the passage of beasts, but admitting a person to pass between the arms; a turnstile. See <er>Turnstile</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I move upon my axle like a <qex>turnpike</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
@@ -41437,7 +41437,7 @@ Struck up with Soldier-laddie.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>The Britons had boats made of willow <qex>twigs</qex>, covered on the outside with hides.</q> <rj><qau>Sir W. Raleigh.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Twig borer</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of small beetles which bore into twigs of shrubs and trees, as the apple-tree <ex>twig borer</ex> (<spn>Amphicerus bicaudatus</spn>).</cd> -- <col><b>Twig girdler</b></col>. <fld>(Zool.)</fld> <cd>See <er>Girdler</er>, 3.</cd> -- <col><b>Twig rush</b></col> <fld>(Bot.)</fld>, <cd>any rushlike plant of the genus <gen>Cladium</gen> having hard, and sometimes prickly-edged, leaves or stalks. See <cref>Saw grass</cref>, under <er>Saw</er>.</cd></cs><br/
+<p><cs><col><b>Twig borer</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of small beetles which bore into twigs of shrubs and trees, as the apple-tree <ex>twig borer</ex> (<spn>Amphicerus bicaudatus</spn>).</cd> -- <col><b>Twig girdler</b></col>. <fld>(Zool.)</fld> <cd>See <er>Girdler</er>, <snr>3</snr>.</cd> -- <col><b>Twig rush</b></col> <fld>(Bot.)</fld>, <cd>any rushlike plant of the genus <gen>Cladium</gen> having hard, and sometimes prickly-edged, leaves or stalks. See <cref>Saw grass</cref>, under <er>Saw</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Twig</ent><br/
