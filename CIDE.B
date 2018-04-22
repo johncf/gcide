@@ -28362,7 +28362,7 @@ The shrewish wife began.</q> <rj><qau>Turbervile.</qau></rj><br/
 <hw>Bob</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To have a short, jerking motion; to play to and fro, or up and down; to play loosely against anything.</def> <ldquo/<xex>Bobbing</xex> and courtesying.<rdquo/  <rj><au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To angle with a bob. See <er>Bob</er>, <pos>n.</pos>, <snr>2</snr> & 3.</def><br/
+<p><sn>2.</sn> <def>To angle with a bob. See <er>Bob</er>, <pos>n.</pos>, <snr>2</snr> & <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He ne'er had learned the art to <qex>bob</qex><br/

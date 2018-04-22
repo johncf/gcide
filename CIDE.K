@@ -1993,7 +1993,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <-- illustr. of kettledrum here. --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>An informal social party at which a light collation is offered, held in the afternoon or early evening.  Cf. <er>Drum</er>, <pos>n.</pos>, <snr>4</snr> and 5.</def><br/
+<p><sn>2.</sn> <def>An informal social party at which a light collation is offered, held in the afternoon or early evening.  Cf. <er>Drum</er>, <pos>n.</pos>, <snr>4</snr> & <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kettledrummer</ent><br/

@@ -39651,7 +39651,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Russeting</ent><br/
-<hw>Rus"set*ing</hw>, <pos>n.</pos> <def>See <er>Russet</er>, <pos>n.</pos>, <snr>2</snr> and 4.</def><br/
+<hw>Rus"set*ing</hw>, <pos>n.</pos> <def>See <er>Russet</er>, <pos>n.</pos>, <snr>2</snr> & <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Russety</ent><br/

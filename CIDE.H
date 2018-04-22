@@ -1844,7 +1844,7 @@ Portioned in <qex>halves</qex> between us.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Half blood</ent><br/
-<hw>Half" blood`</hw> <pr>(h<aum/f"bl<ucr/d`)</pr>. <sn>1.</sn> <def>The relation between persons born of the same father or of the same mother, but not of both; <as>as, a brother or sister of the <ex>half blood</ex></as>. See <er>Blood</er>, <pos>n.</pos>, <snr>2</snr> and 4.</def><br/
+<hw>Half" blood`</hw> <pr>(h<aum/f"bl<ucr/d`)</pr>. <sn>1.</sn> <def>The relation between persons born of the same father or of the same mother, but not of both; <as>as, a brother or sister of the <ex>half blood</ex></as>. See <er>Blood</er>, <pos>n.</pos>, <snr>2</snr> & <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A person so related to another.</def><br/

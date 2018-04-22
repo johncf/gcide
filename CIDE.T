@@ -9679,7 +9679,7 @@ Therefore every tree is combustible, -<br/
 <p><q>In painting, the greatest beauties can not always be expressed for want of <qex>terms</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>8.</sn> <fld>(Arch.)</fld> <def>A quadrangular pillar, adorned on the top with the figure of a head, as of a man, woman, or satyr; -- called also <altname>terminal figure</altname>. See <er>Terminus</er>, <pos>n.</pos>, <snr>2</snr> and 3.</def><br/
+<p><sn>8.</sn> <fld>(Arch.)</fld> <def>A quadrangular pillar, adorned on the top with the figure of a head, as of a man, woman, or satyr; -- called also <altname>terminal figure</altname>. See <er>Terminus</er>, <pos>n.</pos>, <snr>2</snr> & <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The pillar part frequently tapers downward, or is narrowest at the base. <xex>Terms</xex> rudely carved were formerly used for landmarks or boundaries. <au>Gwilt.</au></note><br/
@@ -9794,7 +9794,7 @@ On <qex>Termagant</qex> the more, and on Mahound.</q> <rj><qau>Fairfax.</qau></r
 <p><sn>3.</sn> <fld>(Railroads)</fld> <def>Pertaining to a railroad terminal; connected with the receipt or delivery of freight; <as>as, <ex>terminal</ex> charges</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Terminal moraine</b></col>. <cd>See the Note under <er>Moraine</er>.</cd> -- <col><b>Terminal statue</b></col>. <cd>See <er>Terminus</er>, <pos>n.</pos>, <snr>2</snr> and 3.</cd> -- <col><b>Terminal velocity</b></col>. <sd>(a)</sd> <cd>The velocity acquired at the end of a body's motion.</cd> <sd>(b)</sd> <cd>The limit toward which the velocity of a body approaches, as of a body falling through the air.</cd></cs><br/
+<p><cs><col><b>Terminal moraine</b></col>. <cd>See the Note under <er>Moraine</er>.</cd> -- <col><b>Terminal statue</b></col>. <cd>See <er>Terminus</er>, <pos>n.</pos>, <snr>2</snr> & <snr>3</snr>.</cd> -- <col><b>Terminal velocity</b></col>. <sd>(a)</sd> <cd>The velocity acquired at the end of a body's motion.</cd> <sd>(b)</sd> <cd>The limit toward which the velocity of a body approaches, as of a body falling through the air.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Terminal</ent><br/
