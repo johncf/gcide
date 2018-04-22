@@ -18471,7 +18471,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infer</ent><br/
-<hw>In*fer"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Inferred</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Inferring</conjf>.]</vmorph> <ety>[L. <ets>inferre</ets> to bring into, bring forward, occasion, infer; pref. <ets>in-</ets> in + <ets>ferre</ets> to carry, bring: cf. F. <ets>inf<eacute/rer</ets>. See 1 st <er>Bear</er>.]</ety><br/
+<hw>In*fer"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Inferred</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Inferring</conjf>.]</vmorph> <ety>[L. <ets>inferre</ets> to bring into, bring forward, occasion, infer; pref. <ets>in-</ets> in + <ets>ferre</ets> to carry, bring: cf. F. <ets>inf<eacute/rer</ets>. See 1st <er>Bear</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To bring on; to induce; to occasion.</def> <mark>[Obs.]</mark>  <rj><au>Harvey.</au></rj><br/
@@ -35548,7 +35548,7 @@ Of some <qex>irriguous</qex> valley spreads her store.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irritate</ent><br/
-<hw>Ir"ri*tate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[See 1 st <er>Irritant</er>.]</ety> <def>To render null and void.</def> <mark>[R.]</mark>  <rj><au>Abp. Bramhall.</au></rj><br/
+<hw>Ir"ri*tate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[See 1st <er>Irritant</er>.]</ety> <def>To render null and void.</def> <mark>[R.]</mark>  <rj><au>Abp. Bramhall.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irritate</ent><br/
