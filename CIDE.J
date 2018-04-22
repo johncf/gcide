@@ -225,11 +225,11 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jack</ent><br/
-<hw>Jack</hw>, <pos>v. i.</pos> <def>To hunt game at night by means of a jack. See 2d <er>Jack</er>, <pos>n.</pos>, 4, <pos>n.</pos></def><br/
+<hw>Jack</hw>, <pos>v. i.</pos> <def>To hunt game at night by means of a jack. See 2d <er>Jack</er>, <pos>n.</pos>, <snr>4</snr>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jack</ent><br/
-<hw>Jack</hw>, <pos>v. t.</pos> <def>To move or lift, as a house, by means of a jack or jacks. See 2d <er>Jack</er>, <pos>n.</pos>, 5.</def>
+<hw>Jack</hw>, <pos>v. t.</pos> <def>To move or lift, as a house, by means of a jack or jacks. See 2d <er>Jack</er>, <pos>n.</pos>, <snr>5</snr>.</def>
 <-- = jack up --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -449,7 +449,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jackscrew</ent><br/
-<hw>Jack"screw`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A jack in which a screw is used for lifting, or exerting pressure. See <xex>Illust.</xex> of 2d <er>Jack</er>, <pos>n.</pos>, 5.</def><br/
+<hw>Jack"screw`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A jack in which a screw is used for lifting, or exerting pressure. See <xex>Illust.</xex> of 2d <er>Jack</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jackslave</ent><br/
@@ -3311,7 +3311,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>2.</sn> <fld>(Pottery)</fld> <sd>(a)</sd> <def>A horizontal table carrying a revolving mold, on which earthen vessels are shaped by rapid motion; a potter's wheel.</def> <sd>(b)</sd> <def>A template or tool by which vessels are shaped on a potter's wheel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A light tackle, consisting of a double and single block and the fall, used for various purposes, as to increase the purchase on a topsail sheet in hauling it home; the watch tackle.</def> <au>Totten.</au> <sd>(b)</sd> <def>A small fishing vessel, rigged like a yawl.</def> <mark>[New Eng.]</mark> <sd>(c)</sd> <def>A supplementary sail. See <er>Dandy</er>, <pos>n.</pos>, 2 <sdr>(b)</sdr>.</def><br/
+<p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A light tackle, consisting of a double and single block and the fall, used for various purposes, as to increase the purchase on a topsail sheet in hauling it home; the watch tackle.</def> <au>Totten.</au> <sd>(b)</sd> <def>A small fishing vessel, rigged like a yawl.</def> <mark>[New Eng.]</mark> <sd>(c)</sd> <def>A supplementary sail. See <er>Dandy</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, <snr>4</snr> <sdr>(i)</sdr>.</def><br/
@@ -5445,7 +5445,7 @@ They were <qex>Judaizing</qex> doctors, who taught the observation of the Mosaic
 Of all things made, and <qex>judgest</qex> only right!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To assume the right to pass judgment on another; to sit in judgment or commendation; to criticise or pass adverse judgment upon others. See <er>Judge</er>, <pos>v. t.</pos>, 3.</def><br/
+<p><sn>2.</sn> <def>To assume the right to pass judgment on another; to sit in judgment or commendation; to criticise or pass adverse judgment upon others. See <er>Judge</er>, <pos>v. t.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Forbear to <qex>judge</qex>, for we are sinners all.</q> <rj><qau>Shak.</qau></rj><br/
@@ -6215,7 +6215,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Quarrying)</fld> <def>To bore with a jumper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To jump a claim</b></col>, <cd>to enter upon and take possession of land to which another has acquired a claim by prior entry and occupation.</cd> <mark>[Western U. S. & Australia]</mark> <see>See <er>Claim</er>, <pos>n.</pos>, 3.</see> -- <col><b>To jump one's bail</b></col>, <cd>to abscond while at liberty under bail bonds.</cd>  <mark>[Slang, U. S.]</mark> -- <col><b>To jump the gun</b></col>, <cd>to begin to run (in a footrace) before the starting gun has fired; hence, <mark>(fig.)</mark> to begin any activity before the designated starting time.</cd></cs><br/
+<p><cs><col><b>To jump a claim</b></col>, <cd>to enter upon and take possession of land to which another has acquired a claim by prior entry and occupation.</cd> <mark>[Western U. S. & Australia]</mark> <see>See <er>Claim</er>, <pos>n.</pos>, <snr>3</snr>.</see> -- <col><b>To jump one's bail</b></col>, <cd>to abscond while at liberty under bail bonds.</cd>  <mark>[Slang, U. S.]</mark> -- <col><b>To jump the gun</b></col>, <cd>to begin to run (in a footrace) before the starting gun has fired; hence, <mark>(fig.)</mark> to begin any activity before the designated starting time.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jump</ent><br/
@@ -6504,7 +6504,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <p><sn>2.</sn> <def>Lower in standing or in rank, or having entered later into a position or office; <as>as, a <ex>junior</ex> partner; <ex>junior</ex> counsel; <ex>junior</ex> captain; the <ex>junior</ex> Senator from New York.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Composed of juniors, whether younger or a lower standing; <as>as, the <ex>junior</ex> class; the <ex>junior</ex> baseball league</as>; of or pertaining to juniors or to a junior class. See <er>Junior</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>3.</sn> <def>Composed of juniors, whether younger or a lower standing; <as>as, the <ex>junior</ex> class; the <ex>junior</ex> baseball league</as>; of or pertaining to juniors or to a junior class. See <er>Junior</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>Belonging to a younger person, or an earlier time of life.</def><br/

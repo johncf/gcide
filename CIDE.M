@@ -952,7 +952,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrodome</ent><br/
-<hw>Mac"ro*dome</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Macro-</ets> + <ets>dome</ets>.]</ety> <fld>(Crystallog.)</fld> <def>A dome parallel to the longer lateral axis of an orthorhombic crystal. See <er>Dome</er>, <pos>n.</pos>, 4.</def><br/
+<hw>Mac"ro*dome</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Macro-</ets> + <ets>dome</ets>.]</ety> <fld>(Crystallog.)</fld> <def>A dome parallel to the longer lateral axis of an orthorhombic crystal. See <er>Dome</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrodont</ent><br/
@@ -4130,7 +4130,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>major axis</ent><br/
-<hw>major axis</hw> <pos>n.</pos> <fld>(Geom.)</fld>, <def>The greater axis of a geometrical figure.</def> <specif>Especially</specif>: <def>the longest axis of an ellipse or ellipsoid, which passes through the two foci. See <er>Focus</er>, <pos>n.</pos>, 2.</def><br/
+<hw>major axis</hw> <pos>n.</pos> <fld>(Geom.)</fld>, <def>The greater axis of a geometrical figure.</def> <specif>Especially</specif>: <def>the longest axis of an ellipse or ellipsoid, which passes through the two foci. See <er>Focus</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Majorcan</ent><br/
@@ -6117,7 +6117,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Mam"mal</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mammals</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>mammalis</ets> belonging to the breast, fr. <ets>mamma</ets> the breast or pap: cf. F. <ets>mammal</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the Mammalia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Age of mammals</b></col>. <cd>See under <er>Age</er>, <pos>n.</pos>, 8.</cd></cs><br/
+<p><cs><col><b>Age of mammals</b></col>. <cd>See under <er>Age</er>, <pos>n.</pos>, <snr>8</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mammalia</ent><br/
@@ -23177,7 +23177,7 @@ Shall list'ning in <qex>mid</qex> air suspend their wings.</q> <rj><qau>Pope.</q
 <p><q>The <qex>middle-class</qex> electorate of Great Britain.</q> <rj><qau>M. Arnold.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p>-- <col><b>Middle distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Middle-ground</er>.</cd> -- <col><b>Middle English</b></col>. <cd>See <er>English</er>, <pos>n.</pos>, 2.</cd> -- <col><b>Middle Kingdom</b></col>, <cd>China.</cd> -- <col><b>Middle oil</b></col> <fld>(Chem.)</fld>, <cd>that part of the distillate obtained from coal tar which passes over between 170<deg/ and 230<deg/ Centigrade; -- distinguished from the <contr>light oil</contr>, and the <contr>heavy oil</contr> or <contr>dead oil</contr>.</cd> -- <col><b>Middle passage</b></col>, <cd>in the slave trade, that part of the Atlantic Ocean between Africa and the West Indies.</cd> -- <col><b>Middle post</b></col>. <fld>(Arch.)</fld> <cd>Same as <er>King-post</er>.</cd> -- <col><b>Middle States</b></col>, <cd>New York, New Jersey, Pennsylvania, and Delaware; which, at the time of the formation of the Union, occupied a middle position between the Eastern States (or New England) and the Southern States.</cd> <mark>[U.S.]</mark> -- <col><b>Middle term</b></col> <fld>(Logic)</fld>, <cd>that term of a syllogism with which the two extremes are separately compared, and by means of which they are brought together in the conclusion.</cd> <au>Brande.</au> -- <col><b>Middle tint</b></col> <fld>(Paint.)</fld>, <cd>a subdued or neutral tint.</cd> <au>Fairholt.</au> -- <col><b>Middle voice</b></col>. <fld>(Gram.)</fld> <cd>See under <er>Voice</er>.</cd> -- <col><b>Middle watch</b></col>, <cd>the period from midnight to four <sc>a. m.</sc></cd>; <specif>also,</specif> <cd>the men on watch during that time.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Middle weight</b></col>, <cd>a pugilist, boxer, or wrestler classed as of medium weight, <it>i. e.</it>, over 140 and not over 160 lbs., in distinction from those classed as <contr>light weights</contr>, <contr>heavy weights</contr>, etc.</cd></cs><br/
+<p>-- <col><b>Middle distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Middle-ground</er>.</cd> -- <col><b>Middle English</b></col>. <cd>See <er>English</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Middle Kingdom</b></col>, <cd>China.</cd> -- <col><b>Middle oil</b></col> <fld>(Chem.)</fld>, <cd>that part of the distillate obtained from coal tar which passes over between 170<deg/ and 230<deg/ Centigrade; -- distinguished from the <contr>light oil</contr>, and the <contr>heavy oil</contr> or <contr>dead oil</contr>.</cd> -- <col><b>Middle passage</b></col>, <cd>in the slave trade, that part of the Atlantic Ocean between Africa and the West Indies.</cd> -- <col><b>Middle post</b></col>. <fld>(Arch.)</fld> <cd>Same as <er>King-post</er>.</cd> -- <col><b>Middle States</b></col>, <cd>New York, New Jersey, Pennsylvania, and Delaware; which, at the time of the formation of the Union, occupied a middle position between the Eastern States (or New England) and the Southern States.</cd> <mark>[U.S.]</mark> -- <col><b>Middle term</b></col> <fld>(Logic)</fld>, <cd>that term of a syllogism with which the two extremes are separately compared, and by means of which they are brought together in the conclusion.</cd> <au>Brande.</au> -- <col><b>Middle tint</b></col> <fld>(Paint.)</fld>, <cd>a subdued or neutral tint.</cd> <au>Fairholt.</au> -- <col><b>Middle voice</b></col>. <fld>(Gram.)</fld> <cd>See under <er>Voice</er>.</cd> -- <col><b>Middle watch</b></col>, <cd>the period from midnight to four <sc>a. m.</sc></cd>; <specif>also,</specif> <cd>the men on watch during that time.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Middle weight</b></col>, <cd>a pugilist, boxer, or wrestler classed as of medium weight, <it>i. e.</it>, over 140 and not over 160 lbs., in distinction from those classed as <contr>light weights</contr>, <contr>heavy weights</contr>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Middle</ent><br/
@@ -23424,7 +23424,7 @@ Shall list'ning in <qex>mid</qex> air suspend their wings.</q> <rj><qau>Pope.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Midriff</ent><br/
-<hw>Mid"riff</hw> <pr>(m<icr/d"r<icr/f)</pr>, <pos>n.</pos> <ety>[AS. <ets>midhrif</ets>; <ets>midd</ets> mid, middle + <ets>hrif</ets> bowels, womb; akin to OFries. <ets>midref</ets> midriff, <ets>rif</ets>, <ets>ref</ets>, belly, OHG. <ets>href</ets> body, and to L. <ets>corpus</ets> body. See <er>Corpse</er>.]</ety> <fld>(Anat.)</fld> <sn>1.</sn> <def>See <er>Diaphragm</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Mid"riff</hw> <pr>(m<icr/d"r<icr/f)</pr>, <pos>n.</pos> <ety>[AS. <ets>midhrif</ets>; <ets>midd</ets> mid, middle + <ets>hrif</ets> bowels, womb; akin to OFries. <ets>midref</ets> midriff, <ets>rif</ets>, <ets>ref</ets>, belly, OHG. <ets>href</ets> body, and to L. <ets>corpus</ets> body. See <er>Corpse</er>.]</ety> <fld>(Anat.)</fld> <sn>1.</sn> <def>See <er>Diaphragm</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The middle part of the front of the body, from the waist to the chest.</def><br/
@@ -29059,7 +29059,7 @@ His end of being on earth, and <qex>mission</qex> high.</q> <rj><qau>Milton.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Missioner</ent><br/
-<hw>Mis"sion*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A missionary; an envoy; one who conducts a mission. See <er>Mission</er>, <pos>n.</pos>, 6.</def> <ldquo/Like mighty <xex>missioner</xex> you come.<rdquo/  <rj><au>Dryden.</au></rj><br/
+<hw>Mis"sion*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A missionary; an envoy; one who conducts a mission. See <er>Mission</er>, <pos>n.</pos>, <snr>6</snr>.</def> <ldquo/Like mighty <xex>missioner</xex> you come.<rdquo/  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Missis</ent><br/
@@ -29595,7 +29595,7 @@ Ensuing dangers.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mistura</ent><br/
-\'d8<hw>Mis*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mixture</er>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A mingled compound in which different ingredients are contained in a liquid state; a mixture. See <er>Mixture</er>, <pos>n.</pos>, 4.</def> <sd>(b)</sd> <def>Sometimes, a liquid medicine containing very active substances, and which can only be administered by drops.</def>  <rj><au>Dunglison.</au></rj><br/
+\'d8<hw>Mis*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mixture</er>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A mingled compound in which different ingredients are contained in a liquid state; a mixture. See <er>Mixture</er>, <pos>n.</pos>, <snr>4</snr>.</def> <sd>(b)</sd> <def>Sometimes, a liquid medicine containing very active substances, and which can only be administered by drops.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Misturn</ent><br/
@@ -31947,7 +31947,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 <syn><b>Syn. --</b> mold, mould, molding, modeling, clay sculpture.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Arch.)</fld> <def>A plane, or curved, narrow surface, either sunk or projecting, used for decoration by means of the lights and shades upon its surface.  Moldings vary greatly in pattern, and are generally used in groups, the different members of each group projecting or retreating, one beyond another. See <er>Cable</er>, <pos>n.</pos>, 3, and <cref>Crenelated molding</cref>, under <er>Crenelate</er>, <pos>v. t.</pos></def> <wns>[wns=2]</wns><br/
+<p><sn>3.</sn> <fld>(Arch.)</fld> <def>A plane, or curved, narrow surface, either sunk or projecting, used for decoration by means of the lights and shades upon its surface.  Moldings vary greatly in pattern, and are generally used in groups, the different members of each group projecting or retreating, one beyond another. See <er>Cable</er>, <pos>n.</pos>, <snr>3</snr>, and <cref>Crenelated molding</cref>, under <er>Crenelate</er>, <pos>v. t.</pos></def> <wns>[wns=2]</wns><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <specif>Especially:</specif> <def>a decorative strip used for ornamentation or finishing.</def> <wns>[wns=3]</wns><br/
@@ -37352,7 +37352,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mote</ent><br/
-<hw>Mote</hw>, <pos>n.</pos> <def>The flourish sounded on a horn by a huntsman. See <er>Mot</er>, <pos>n.</pos>, 3, and <er>Mort</er>.</def>  <rj><au>Chaucer.</au></rj><br/
+<hw>Mote</hw>, <pos>n.</pos> <def>The flourish sounded on a horn by a huntsman. See <er>Mot</er>, <pos>n.</pos>, <snr>3</snr>, and <er>Mort</er>.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mote</ent><br/
@@ -37790,14 +37790,14 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Motivo</ent><br/
-\'d8<hw>Mo*ti"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Motive</er>, <pos>n.</pos>]</ety> <def>See <er>Motive</er>, <pos>n.</pos>, 3, 4.</def><br/
+\'d8<hw>Mo*ti"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Motive</er>, <pos>n.</pos>]</ety> <def>See <er>Motive</er>, <pos>n.</pos>, <snr>3</snr>, 4.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Motley</ent><br/
 <hw>Mot"ley</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[OE. <ets>mottelee</ets>, <ets>motle</ets>; cf. OF. <ets>mattel<eacute/</ets> clotted, curdled, OF, ciel <ets>mattonn<eacute/</ets> a mottled sky, <ets>mate</ets>, <ets>maton</ets>, curdled milk, Prov. G. <ets>matte</ets> curd.  Cf. <er>Mottle</er>.]</ety> <sn>1.</sn> <def>Variegated in color; consisting of different colors; dappled; party-colored; <as>as, a <ex>motley</ex> coat</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Wearing motley or party-colored clothing. See <er>Motley</er>, <pos>n.</pos>, 1.</def> <ldquo/A <xex>motley</xex> fool.<rdquo/  <rj><au>Shak.</au></rj><br/
+<p><sn>2.</sn> <def>Wearing motley or party-colored clothing. See <er>Motley</er>, <pos>n.</pos>, <snr>1</snr>.</def> <ldquo/A <xex>motley</xex> fool.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Composed of different or various parts; heterogeneously made or mixed up; discordantly composite; <as>as, <ex>motley</ex> style</as>.</def>  <rj><au>Byron.</au></rj><br/
@@ -38513,7 +38513,7 @@ And ev'n the pavements were with <qex>mourning</qex> hid.</q> <rj><qau>Dryden.</
 <hw>Mouse</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To tear, as a cat devours a mouse.</def> <mark>[Obs.]</mark> <ldquo/[Death] <xex>mousing</xex> the flesh of men.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Naut.)</fld> <def>To furnish with a mouse; to secure by means of a mousing. See <er>Mouse</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Naut.)</fld> <def>To furnish with a mouse; to secure by means of a mousing. See <er>Mouse</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouse-ear</ent><br/
@@ -40600,7 +40600,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>The process of repeating, or adding to itself, any given number or quantity a certain number of times; commonly, the process of ascertaining by a briefer computation the result of such repeated additions; also, the rule by which the operation is performed; -- the reverse of <inv>division</inv>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The word <xex>multiplication</xex> is sometimes used in mathematics, particularly in multiple algebra, to denote any distributive operation expressed by one symbol upon any quantity or any thing expressed by another symbol.  Corresponding extensions of meaning are given to the words <xex>multiply</xex>, <xex>multiplier</xex>, <xex>multiplicand</xex>, and <xex>product</xex>. Thus, since <mathex><phi/(<it>x + y</it>) = <phi/<it>x</it> + <phi/<it>y</it></mathex> (see under <er>Distributive</er>), where <phi/(<it>x + y</it>), <phi/<it>x</it>, and <phi/<it>y</it> indicate the results of any distributive operation represented by the symbol <phi/ upon <it>x + y</it>, <it>x</it>, and <it>y</it>, severally, then because of many very useful analogies <phi/(<it>x + y</it>) is called the <xex>product</xex> of <phi/ and <it>x + y</it>, and the operation indicated by <phi/ is called <xex>multiplication</xex>.  Cf. <er>Facient</er>, <pos>n.</pos>, 2.</note><br/
+<p><note><hand/ The word <xex>multiplication</xex> is sometimes used in mathematics, particularly in multiple algebra, to denote any distributive operation expressed by one symbol upon any quantity or any thing expressed by another symbol.  Corresponding extensions of meaning are given to the words <xex>multiply</xex>, <xex>multiplier</xex>, <xex>multiplicand</xex>, and <xex>product</xex>. Thus, since <mathex><phi/(<it>x + y</it>) = <phi/<it>x</it> + <phi/<it>y</it></mathex> (see under <er>Distributive</er>), where <phi/(<it>x + y</it>), <phi/<it>x</it>, and <phi/<it>y</it> indicate the results of any distributive operation represented by the symbol <phi/ upon <it>x + y</it>, <it>x</it>, and <it>y</it>, severally, then because of many very useful analogies <phi/(<it>x + y</it>) is called the <xex>product</xex> of <phi/ and <it>x + y</it>, and the operation indicated by <phi/ is called <xex>multiplication</xex>.  Cf. <er>Facient</er>, <pos>n.</pos>, <snr>2</snr>.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>An increase above the normal number of parts, especially of petals; augmentation.</def><br/
@@ -41378,7 +41378,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 <p><sn>2.</sn> <def>Resembling a wall; perpendicular or steep; <as>as, a <ex>mural</ex> precipice</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Mural circle</b></col> <fld>(Astron.)</fld>, <cd>a graduated circle, in the plane of the meridian, attached permanently to a perpendicular wall; -- used for measuring arcs of the meridian. See <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Mural crown</b></col> <fld>(Rom. Antiq.)</fld>, <cd>a golden crown, or circle of gold indented so as to resemble a battlement, bestowed on him who first mounted the wall of a besieged place, and there lodged a standard.</cd></cs><br/
+<p><cs><col><b>Mural circle</b></col> <fld>(Astron.)</fld>, <cd>a graduated circle, in the plane of the meridian, attached permanently to a perpendicular wall; -- used for measuring arcs of the meridian. See <er>Circle</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Mural crown</b></col> <fld>(Rom. Antiq.)</fld>, <cd>a golden crown, or circle of gold indented so as to resemble a battlement, bestowed on him who first mounted the wall of a besieged place, and there lodged a standard.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Murder</ent><br/
@@ -43139,7 +43139,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>With golden <qex>muzzles</qex> all their mouths were bound</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Muzzle sight</b></col>. <fld>(Gun.)</fld> <cd>See <er>Dispart</er>, <pos>n.</pos>, 2.</cd></cs><br/
+<p><cs><col><b>Muzzle sight</b></col>. <fld>(Gun.)</fld> <cd>See <er>Dispart</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muzzle</ent><br/

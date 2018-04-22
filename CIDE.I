@@ -3009,7 +3009,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <hw>Il*lu"mi*na`ting</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Giving or producing light; used for illumination.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Illuminating gas</b></col>. <cd>See <er>Gas</er>, <pos>n.</pos>, 2 <sdr>(a)</sdr>.</cd></cs><br/
+<p><cs><col><b>Illuminating gas</b></col>. <cd>See <er>Gas</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illumination</ent><br/
@@ -3019,7 +3019,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <p><sn>2.</sn> <def>Festive decoration of houses or buildings with lights.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Adornment of books and manuscripts with colored illustrations. See <er>Illuminate</er>, <pos>v. t.</pos>, 3.</def><br/
+<p><sn>3.</sn> <def>Adornment of books and manuscripts with colored illustrations. See <er>Illuminate</er>, <pos>v. t.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>That which is illuminated, as a house; also, an ornamented book or manuscript.</def><br/
@@ -3046,7 +3046,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illuminator</ent><br/
-<hw>Il*lu"mi*na`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., an enlightener, LL. also, an illuminator of books.]</ety> <sn>1.</sn> <def>One whose occupation is to adorn books, especially manuscripts, with miniatures, borders, etc. See <er>Illuminate</er>, <pos>v. t.</pos>, 3.</def><br/
+<hw>Il*lu"mi*na`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., an enlightener, LL. also, an illuminator of books.]</ety> <sn>1.</sn> <def>One whose occupation is to adorn books, especially manuscripts, with miniatures, borders, etc. See <er>Illuminate</er>, <pos>v. t.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A condenser or reflector of light in optical apparatus; also, an illuminant.</def><br/
@@ -3540,7 +3540,7 @@ A local habitation and a name.</q> <rj><qau>Shak.</qau></rj><br/
 How easy is a bush supposed a bear!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To contrive in purpose; to scheme; to devise; to compass; to purpose. See <er>Compass</er>, <pos>v. t.</pos>, 5.</def><br/
+<p><sn>2.</sn> <def>To contrive in purpose; to scheme; to devise; to compass; to purpose. See <er>Compass</er>, <pos>v. t.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>How long will ye <qex>imagine</qex> mischief against a man?</q> <rj><qau>Ps. lxii. 3.</qau></rj><br/
@@ -4042,7 +4042,7 @@ And that sustained an <qex>imitated</qex> shield.</q> <rj><qau>Dryden.</qau></rj
 <p><sn>3.</sn> <fld>(Mus.)</fld> <def>One of the principal means of securing unity and consistency in polyphonic composition; the repetition of essentially the same melodic theme, phrase, or motive, on different degrees of pitch, by one or more of the other parts of voises.  Cf. <er>Canon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Biol.)</fld> <def>The act of condition of imitating another species of animal, or a plant, or unanimate object. See <er>Imitate</er>, <pos>v. t.</pos>, 3.</def><br/
+<p><sn>4.</sn> <fld>(Biol.)</fld> <def>The act of condition of imitating another species of animal, or a plant, or unanimate object. See <er>Imitate</er>, <pos>v. t.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Imitation</xex> is often used adjectively to characterize things which have a deceptive appearance, simulating the qualities of a superior article; -- opposed to <ant>real</ant> or <ant>genuine</ant>; as, <xex>imitation</xex> lace; <xex>imitation</xex> bronze; <xex>imitation</xex> modesty, etc.</note><br/
@@ -7409,7 +7409,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imposing</ent><br/
-<hw>Im*pos"ing</hw>, <pos>n.</pos> <fld>(Print.)</fld> <def>The act of imposing the columns of a page, or the pages of a sheet. See <er>Impose</er>, <pos>v. t.</pos>, 4.</def><br/
+<hw>Im*pos"ing</hw>, <pos>n.</pos> <fld>(Print.)</fld> <def>The act of imposing the columns of a page, or the pages of a sheet. See <er>Impose</er>, <pos>v. t.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Imposing stone</b></col> <fld>(Print.)</fld>, <cd>the stone on which the pages or columns of types are imposed or made into forms; -- called also <altname>imposing table</altname>.</cd></cs><br/
@@ -7445,7 +7445,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Eccl.)</fld> <def>The act of laying on the hands as a religious ceremoy, in ordination, confirmation, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Print.)</fld> <def>The act or process of imosing pages or columns of type. See <er>Impose</er>, <pos>v. t.</pos>, 4.</def></p>
+<p><sn>6.</sn> <fld>(Print.)</fld> <def>The act or process of imosing pages or columns of type. See <er>Impose</er>, <pos>v. t.</pos>, <snr>4</snr>.</def></p>
 
 <p><syn><b>Syn.</b> -- Deceit; fraud; imposture. See <er>Deception</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7859,7 +7859,7 @@ Here pierceth not, <qex>impregnate</qex> with disease.</q> <rj><qau>Byron.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impresa</ent><br/
-\'d8<hw>Im*pre"sa</hw> <pr>(<esl/m*pr<amac/"s<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Emprise</er>, and cf. <er>Impress</er>, <pos>n.</pos>, 4.]</ety> <fld>(Her.)</fld> <def>A device on a shield or seal, or used as a bookplate or the like.</def> <altsp>[Written also <asp>imprese</asp> and <asp>impress</asp>.]</altsp><br/
+\'d8<hw>Im*pre"sa</hw> <pr>(<esl/m*pr<amac/"s<adot/)</pr>, <pos>n.</pos> <ety>[It. See <er>Emprise</er>, and cf. <er>Impress</er>, <pos>n.</pos>, <snr>4</snr>.]</ety> <fld>(Her.)</fld> <def>A device on a shield or seal, or used as a bookplate or the like.</def> <altsp>[Written also <asp>imprese</asp> and <asp>impress</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>My <qex>impresa</qex> to your lordship; a swain<br/
@@ -7917,7 +7917,7 @@ Flying to a laurel for shelter.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><q><qex>Impress</qex> the motives of persuasion upon our own hearts till we feel the force of them.</q> <rj><qau>I. Watts.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <ety>[See <er>Imprest</er>, <er>Impress</er>, <pos>n.</pos>, 5.]</ety> <def>To take by force for public service; <as>as, to <ex>impress</ex> sailors or money</as>.</def><br/
+<p><sn>4.</sn> <ety>[See <er>Imprest</er>, <er>Impress</er>, <pos>n.</pos>, <snr>5</snr>.]</ety> <def>To take by force for public service; <as>as, to <ex>impress</ex> sailors or money</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The second five thousand pounds <qex>impressed</qex> for the service of the sick and wounded prisoners.</q> <rj><qau>Evelyn.</qau></rj><br/
@@ -18765,7 +18765,7 @@ And as silently steal away.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>In"field`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Arable and manured land kept continually under crop; -- distinguished from <contr>outfield</contr>.</def> <mark>[Scotland]</mark>  <rj><au>Jamieson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Baseball)</fld> <def>The diamond; -- opposed to <contr>outfield</contr>. See <er>Diamond</er>, <pos>n.</pos>, 5.</def><br/
+<p><sn>2.</sn> <fld>(Baseball)</fld> <def>The diamond; -- opposed to <contr>outfield</contr>. See <er>Diamond</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>infighting</ent><br/
@@ -18948,7 +18948,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infinito</ent><br/
-\'d8<hw>In`fi*ni"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Infinite; perpetual, as a canon whose end leads back to the beginning. See <er>Infinite</er>, <pos>a.</pos>, 5.</def><br/
+\'d8<hw>In`fi*ni"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Infinite; perpetual, as a canon whose end leads back to the beginning. See <er>Infinite</er>, <pos>a.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infinitude</ent><br/
@@ -24823,7 +24823,7 @@ In regions mild of calm and serene air.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspirator</ent><br/
-<hw>In"spi*ra`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mach.)</fld> <def>A kind of injector for forcing water by steam. See <er>Injector</er>, <pos>n.</pos>, 2.</def><br/
+<hw>In"spi*ra`tor</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mach.)</fld> <def>A kind of injector for forcing water by steam. See <er>Injector</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspiratory</ent><br/
@@ -25132,7 +25132,7 @@ Are base respects of thrift, but none of love.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>There is scarce an <qex>instant</qex> between their flourishing and their not being.</q> <rj><qau>Hooker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A day of the present or current month; <as>as, the sixth <ex>instant</ex>; -- an elliptical expression equivalent to the sixth of the month <ex>instant</ex>, i. e., the current month</as>. See <er>Instant</er>, <pos>a.</pos>, 3.</def></p>
+<p><sn>2.</sn> <def>A day of the present or current month; <as>as, the sixth <ex>instant</ex>; -- an elliptical expression equivalent to the sixth of the month <ex>instant</ex>, i. e., the current month</as>. See <er>Instant</er>, <pos>a.</pos>, <snr>3</snr>.</def></p>
 
 <p><syn><b>Syn.</b> -- Moment; flash; second.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -26149,7 +26149,7 @@ Yet never pass the <qex>insuperable</qex> line?</q> <rj><qau>Pope.</qau></rj><br
 <hw>In*sur"ance</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Insure</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>1.</sn> <def>The act of insuring, or assuring, against loss or damage by a contingent event; a contract whereby, for a stipulated consideration, called <xex>premium</xex>, one party undertakes to indemnify or guarantee another against loss by certain specified risks.  Cf. <er>Assurance</er>, <pos>n.</pos>, 6.</def><br/
+<p><sn>1.</sn> <def>The act of insuring, or assuring, against loss or damage by a contingent event; a contract whereby, for a stipulated consideration, called <xex>premium</xex>, one party undertakes to indemnify or guarantee another against loss by certain specified risks.  Cf. <er>Assurance</er>, <pos>n.</pos>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The person who undertakes to pay in case of loss is termed the <xex>insurer</xex>; the danger against which he undertakes, the <xex>risk</xex>; the person protected, the <xex>insured</xex>; the sum which he pays for the protection, the <xex>premium</xex>; and the contract itself, when reduced to form, the <xex>policy</xex>.</note>  <rj><au>Johnson's Cyc.</au></rj><br/
@@ -30348,7 +30348,7 @@ A dreadful <qex>interval</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Intervale</ent><br/
 <ent>Interval</ent><br/
-<mhw>{ <hw>In"ter*val</hw> <pr>(?)</pr>, <hw>In"ter*vale</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <def>A tract of low ground between hills, or along the banks of a stream, usually alluvial land, enriched by the overflowings of the river, or by fertilizing deposits of earth from the adjacent hills.  Cf. <er>Bottom</er>, <pos>n.</pos>, 7.</def> <mark>[Local, U. S.]</mark><br/
+<mhw>{ <hw>In"ter*val</hw> <pr>(?)</pr>, <hw>In"ter*vale</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <def>A tract of low ground between hills, or along the banks of a stream, usually alluvial land, enriched by the overflowings of the river, or by fertilizing deposits of earth from the adjacent hills.  Cf. <er>Bottom</er>, <pos>n.</pos>, <snr>7</snr>.</def> <mark>[Local, U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The woody <qex>intervale</qex> just beyond the marshy land.</q> <rj><qau>The Century.</qau></rj><br/
@@ -32709,7 +32709,7 @@ Wanting its proper base to stand upon.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>3.</sn> <def>To divert; to convert to a wrong use.</def> <mark>[Obs.]</mark>  <rj><au>Knolles.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Chem.)</fld> <def>To convert; to reverse; to decompose by, or subject to, inversion. See <er>Inversion</er>, <pos>n.</pos>, 10.</def><br/
+<p><sn>4.</sn> <fld>(Chem.)</fld> <def>To convert; to reverse; to decompose by, or subject to, inversion. See <er>Inversion</er>, <pos>n.</pos>, <snr>10</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invert</ent><br/
@@ -33914,7 +33914,7 @@ More images are available at the NASA site.</note><br/
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>Pertaining to the Ionic order of architecture, one of the three orders invented by the Greeks, and one of the five recognized by the Italian writers of the sixteenth century. Its distinguishing feature is a capital with spiral volutes. See <xex>Illust.</xex> of <er>Capital</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ionic dialect</b></col> <fld>(Gr. Gram.)</fld>, <cd>a dialect of the Greek language, used in Ionia. The Homeric poems are written in what is designated <xex>old Ionic</xex>, as distinguished from <xex>new Ionic</xex>, or <xex>Attic</xex>, the dialect of all cultivated Greeks in the period of Athenian prosperity and glory.</cd> -- <col><b>Ionic foot</b></col>. <fld>(Pros.)</fld> <cd>See <er>Ionic</er>, <pos>n.</pos>, 1.</cd> -- <mcol><col><b>Ionic mode</b></col>, <it>or</it> <col><b>Ionian mode</b></col>,</mcol> <fld>(Mus.)</fld>, <cd>an ancient mode, supposed to correspond with the modern major scale of C.</cd> -- <col><b>Ionic sect</b></col>, <cd>a sect of philosophers founded by <person>Thales of Miletus</person>, in Ionia. Their distinguishing tenet was, that water is the original principle of all things.</cd> -- <col><b>Ionic type</b></col>, <cd>a kind of heavy-faced type (as that of the following line).</cd><br/
+<p><cs><col><b>Ionic dialect</b></col> <fld>(Gr. Gram.)</fld>, <cd>a dialect of the Greek language, used in Ionia. The Homeric poems are written in what is designated <xex>old Ionic</xex>, as distinguished from <xex>new Ionic</xex>, or <xex>Attic</xex>, the dialect of all cultivated Greeks in the period of Athenian prosperity and glory.</cd> -- <col><b>Ionic foot</b></col>. <fld>(Pros.)</fld> <cd>See <er>Ionic</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <mcol><col><b>Ionic mode</b></col>, <it>or</it> <col><b>Ionian mode</b></col>,</mcol> <fld>(Mus.)</fld>, <cd>an ancient mode, supposed to correspond with the modern major scale of C.</cd> -- <col><b>Ionic sect</b></col>, <cd>a sect of philosophers founded by <person>Thales of Miletus</person>, in Ionia. Their distinguishing tenet was, that water is the original principle of all things.</cd> -- <col><b>Ionic type</b></col>, <cd>a kind of heavy-faced type (as that of the following line).</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/<nonpareiltype>This is Nonpareil Ionic.</nonpareiltype></note></cs></p>
@@ -35480,7 +35480,7 @@ Of some <qex>irriguous</qex> valley spreads her store.</q> <rj><qau>Milton.</qau
 <p><sn>2.</sn> <fld>(Physiol.)</fld> <def>A natural susceptibility, characteristic of all living organisms, tissues, and cells, to the influence of certain stimuli, response being manifested in a variety of ways, -- as that quality in plants by which they exhibit motion under suitable stimulation; esp., the property which living muscle possesses, of responding either to a direct stimulus of its substance, or to the stimulating influence of its nerve fibers, the response being indicated by a change of form, or contraction; contractility.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Med.)</fld> <def>A condition of morbid excitability of an organ or part of the body; undue susceptibility to the influence of stimuli. See <er>Irritation</er>, <pos>n.</pos>, 3.</def><br/
+<p><sn>3.</sn> <fld>(Med.)</fld> <def>A condition of morbid excitability of an organ or part of the body; undue susceptibility to the influence of stimuli. See <er>Irritation</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irritable</ent><br/
@@ -35499,7 +35499,7 @@ Of some <qex>irriguous</qex> valley spreads her store.</q> <rj><qau>Milton.</qau
 <p><sn>3.</sn> <fld>(Physiol.)</fld> <def>Endowed with irritability; susceptible of irritation; capable of being excited to action by the application of certain stimuli.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Med.)</fld> <def>Susceptible of irritation; unduly sensitive to irritants or stimuli. See <er>Irritation</er>, <pos>n.</pos>, 3.</def></p>
+<p><sn>4.</sn> <fld>(Med.)</fld> <def>Susceptible of irritation; unduly sensitive to irritants or stimuli. See <er>Irritation</er>, <pos>n.</pos>, <snr>3</snr>.</def></p>
 
 <p><syn><b>Syn.</b> -- Excitable; irascible; touchy; fretful; peevish.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -35568,7 +35568,7 @@ Of some <qex>irriguous</qex> valley spreads her store.</q> <rj><qau>Milton.</qau
 Prevent the rage of him who reigns above.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Physiol.)</fld> <def>To produce irritation in; to stimulate; to cause to contract. See <er>Irritation</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Physiol.)</fld> <def>To produce irritation in; to stimulate; to cause to contract. See <er>Irritation</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Med.)</fld> <def>To make morbidly excitable, or oversensitive; to fret; <as>as, the skin is <ex>irritated</ex> by friction; to <ex>irritate</ex> a wound by a coarse bandage.</as></def></p>
@@ -35946,7 +35946,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>2.</sn> <def>Anything regarded as resembling an island; <as>as, an <ex>island</ex> of ice</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Zool.)</fld> <def>See <er>Isle</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Zool.)</fld> <def>See <er>Isle</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Islands of the blessed</b></col> <fld>(Myth.)</fld>, <cd>islands supposed to lie in the Western Ocean, where the favorites of the gods are conveyed at death, and dwell in everlasting joy.</cd></cs><br/
@@ -36940,7 +36940,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Italic</ent><br/
-<hw>I*tal"ic</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Italics</plw> <pr>(<?/)</pr>.</plu> <fld>(Print.)</fld> <def>An Italic letter, character, or type (see <er>Italic</er>, <pos>a.</pos>, 2.); -- often in the plural; <as>as, the <ex>Italics</ex> are the author's</as>. Italic letters are used to distinguish words for emphasis, importance, antithesis, etc. Also, collectively, Italic letters.</def><br/
+<hw>I*tal"ic</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Italics</plw> <pr>(<?/)</pr>.</plu> <fld>(Print.)</fld> <def>An Italic letter, character, or type (see <er>Italic</er>, <pos>a.</pos>, <snr>2</snr>.); -- often in the plural; <as>as, the <ex>Italics</ex> are the author's</as>. Italic letters are used to distinguish words for emphasis, importance, antithesis, etc. Also, collectively, Italic letters.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Italicism</ent><br/

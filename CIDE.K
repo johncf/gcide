@@ -871,7 +871,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 <p><sn>6.</sn> <fld>(Aeronautics)</fld> <def>In a dirigible, a construction similar in form and use to a ship's keel; in an a<eum/roplane, a fin or fixed surface employed to increase stability and to hold the machine to its course.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Bilge keel</b></col> <fld>(Naut.)</fld>, <cd>a keel peculiar to ironclad vessels, extending only a portion of the length of the vessel under the bilges.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>False keel</b></col>. <cd>See under <er>False</er>.</cd> -- <col><b>Keel boat</b></col>. <sd>(a)</sd> <cd>A covered freight boat, with a keel, but no sails, used on Western rivers.</cd> <mark>[U. S.]</mark> <sd>(b)</sd> <cd>A low, flat-bottomed freight boat. See <er>Keel</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Keel piece</b></col>, <cd>one of the timbers or sections of which a keel is composed.</cd> -- <col><b>On even keel</b></col>, <cd>in a level or horizontal position, so that the draught of water at the stern and the bow is the same.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>On an even keel</b></col> <pos>a. & adv.</pos>, <cd>steady; balanced; steadily.</cd></cs><br/
+<p><cs><col><b>Bilge keel</b></col> <fld>(Naut.)</fld>, <cd>a keel peculiar to ironclad vessels, extending only a portion of the length of the vessel under the bilges.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>False keel</b></col>. <cd>See under <er>False</er>.</cd> -- <col><b>Keel boat</b></col>. <sd>(a)</sd> <cd>A covered freight boat, with a keel, but no sails, used on Western rivers.</cd> <mark>[U. S.]</mark> <sd>(b)</sd> <cd>A low, flat-bottomed freight boat. See <er>Keel</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Keel piece</b></col>, <cd>one of the timbers or sections of which a keel is composed.</cd> -- <col><b>On even keel</b></col>, <cd>in a level or horizontal position, so that the draught of water at the stern and the bow is the same.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>On an even keel</b></col> <pos>a. & adv.</pos>, <cd>steady; balanced; steadily.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keel</ent><br/
@@ -1993,7 +1993,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <-- illustr. of kettledrum here. --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>An informal social party at which a light collation is offered, held in the afternoon or early evening.  Cf. <er>Drum</er>, <pos>n.</pos>, 4 and 5.</def><br/
+<p><sn>2.</sn> <def>An informal social party at which a light collation is offered, held in the afternoon or early evening.  Cf. <er>Drum</er>, <pos>n.</pos>, <snr>4</snr> and 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kettledrummer</ent><br/
@@ -4113,7 +4113,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 
 <p><ent>Kiteflier</ent><br/
 <ent>Kiteflying</ent><br/
-<hw>Kite"fly`ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A mode of raising money, or sustaining one's credit, by the use of paper which is merely nominal; -- called also <altname>kiting</altname>.</def> -- <def2><hw>Kite"fli`er</hw>, <pos>n.</pos> <def>See <er>Kite</er>, <pos>n.</pos>, 6.</def> <mark>[Cant]</mark></def2>  <rj><au>McElrath.</au>  <au>Thackeray.</au></rj><br/
+<hw>Kite"fly`ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A mode of raising money, or sustaining one's credit, by the use of paper which is merely nominal; -- called also <altname>kiting</altname>.</def> -- <def2><hw>Kite"fli`er</hw>, <pos>n.</pos> <def>See <er>Kite</er>, <pos>n.</pos>, <snr>6</snr>.</def> <mark>[Cant]</mark></def2>  <rj><au>McElrath.</au>  <au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kith</ent><br/
@@ -4700,7 +4700,7 @@ The way into his mercy.</q> <rj><qau>Shak</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kneejointed</ent><br/
-<hw>Knee"joint`ed</hw>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Geniculate; kneed. See <er>Kneed</er>, <pos>a.</pos>, 2.</def><br/
+<hw>Knee"joint`ed</hw>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Geniculate; kneed. See <er>Kneed</er>, <pos>a.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kneel</ent><br/
@@ -4973,7 +4973,7 @@ You 'll gain at least a <qex>knighthood</qex>, or the bays.</q> <rj><qau>Pope.</
 <ent>Knight service</ent><br/
 <mhw><hw>Knight" serv"ice</hw> <pr>(?)</pr> Also <hw>Knight's service</hw></mhw> <pr>(<?/)</pr> <pos>n.</pos> <sn>1.</sn>  <fld>(Feud. Law)</fld> <def>The military service by rendering which a knight held his lands.</def></p>
 
-<p><sn>2.</sn> <fld>(Eng. Feud. Law)</fld> <def>A tenure of lands held by knights on condition of performing military service. See <er>Chivalry</er>, <pos>n.</pos>, 4.</def><br/
+<p><sn>2.</sn> <fld>(Eng. Feud. Law)</fld> <def>A tenure of lands held by knights on condition of performing military service. See <er>Chivalry</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>By far the greater part of England [in the 13th century] is held of the king by <qex>knight's service</qex>. . . . In order to understand this tenure we must form the conception of a unit of military service. That unit seems to be the service of one knight or fully armed horseman (<qex>servitium unius militis</qex>) to be done to the king in his army for forty days in the year, if it be called for. . . . The limit of forty days seems to have existed rather in theory than practice.</q>  <rj><qau>Pollock & Mait.</qau></rj><br/
@@ -4987,7 +4987,7 @@ You 'll gain at least a <qex>knighthood</qex>, or the bays.</q> <rj><qau>Pope.</
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Knight Templar</ent><br/
-<hw>Knight" Tem"plar</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Knights Templars</plw> <pr>(<?/)</pr>.</plu> <def>See <er>Commandery</er>, <pos>n.</pos>, 3, and also <er>Templar</er>, <pos>n.</pos>, 1 and 3.</def><br/
+<hw>Knight" Tem"plar</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Knights Templars</plw> <pr>(<?/)</pr>.</plu> <def>See <er>Commandery</er>, <pos>n.</pos>, <snr>3</snr>, and also <er>Templar</er>, <pos>n.</pos>, 1 and 3.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>knish</ent><br/
@@ -6476,7 +6476,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krone</ent><br/
-\'d8<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents (in 1913). See <er>Crown</er>, <pos>n.</pos>, 9.</def><br/
+\'d8<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents (in 1913). See <er>Crown</er>, <pos>n.</pos>, <snr>9</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Krooman</ent><br/

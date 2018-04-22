@@ -1291,7 +1291,7 @@ This garden, and no corner leave unspied.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ <xex>Narrow</xex> is not unfrequently prefixed to words, especially to participles and adjectives, forming compounds of obvious signification; as, <xex>narrow</xex>-bordered, <xex>narrow</xex>-brimmed, <xex>narrow</xex>-breasted, <xex>narrow</xex>-edged, <xex>narrow</xex>-faced, <xex>narrow</xex>-headed, <xex>narrow</xex>-leaved, <xex>narrow</xex>-pointed, <xex>narrow</xex>-souled, <xex>narrow</xex>-sphered, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Narrow gauge</b></col>. <fld>(Railroad)</fld> <cd>See Note under <er>Gauge</er>, <pos>n.</pos>, 6.</cd></cs><br/
+<p><cs><col><b>Narrow gauge</b></col>. <fld>(Railroad)</fld> <cd>See Note under <er>Gauge</er>, <pos>n.</pos>, <snr>6</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Narrow</ent><br/
@@ -2049,7 +2049,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj><br/
 <br/
 <q>It should be borne in mind that the <qex>natural system</qex> of botany is natural only in the constitution of its genera, tribes, orders, etc., and in its grand divisions.</q> <rj><qau>Gray.</qau></rj><br/
 <br/
-  -- <mcol><col><b>Natural theology</b></col>, <it>or</it> <col><b>Natural religion</b></col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, 3. -- <col><b>Natural vowel</b></col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd></cs><br/
+  -- <mcol><col><b>Natural theology</b></col>, <it>or</it> <col><b>Natural religion</b></col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, <snr>3</snr>. -- <col><b>Natural vowel</b></col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Native</er>.</syn><br/
@@ -3040,7 +3040,7 @@ Are all called <qex>neat</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>Excellent in character, skill, or performance, etc.; nice; finished; adroit; <as>as, a <ex>neat</ex> design; a <ex>neat</ex> thief.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <def>With all deductions or allowances made; net. <note>[In this sense usually written <asp>net</asp>. See <er>Net</er>, <pos>a.</pos>, 3.]</note></def><br/
+<p><sn>5.</sn> <def>With all deductions or allowances made; net. <note>[In this sense usually written <asp>net</asp>. See <er>Net</er>, <pos>a.</pos>, <snr>3</snr>.]</note></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>neat line</b></col> <fld>(Civil Engin.)</fld>, <cd>a line to which work is to be built or formed.</cd> -- <col><b>Neat work</b></col>, <cd>work built or formed to neat lines.</cd></cs><br/
@@ -5853,7 +5853,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>nett</ent><br/
-<hw>nett</hw> <pos>adj.</pos>  <def>remaining after all deductions; same as <er>net</er> <pos>a.</pos>, 3.  Contrasted to <ant>gross</ant>.</def> <mark>[Brit.]</mark> [Narrower terms: <stype>take-home</stype>]<br/
+<hw>nett</hw> <pos>adj.</pos>  <def>remaining after all deductions; same as <er>net</er> <pos>a.</pos>, <snr>3</snr>.  Contrasted to <ant>gross</ant>.</def> <mark>[Brit.]</mark> [Narrower terms: <stype>take-home</stype>]<br/
 <syn><b>Syn. --</b> net, clear.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
@@ -5872,7 +5872,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Naut.)</fld> <def>A network of ropes used for various purposes, as for holding the hammocks when not in use, also for stowing sails, and for hoisting from the gunwale to the rigging to hinder an enemy from boarding.</def>  <rj><au>Totten.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Netting needle</b></col>, <cd>a kind of slender shuttle used in netting. See <er>Needle</er>, <pos>n.</pos>, 3.</cd></cs><br/
+<p><cs><col><b>Netting needle</b></col>, <cd>a kind of slender shuttle used in netting. See <er>Needle</er>, <pos>n.</pos>, <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Netting</ent><br/
@@ -6268,7 +6268,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Gram.)</fld> <sd>(a)</sd> <def>Having a form belonging more especially to words which are not appellations of males or females; expressing or designating that which is of neither sex; <as>as, a <ex>neuter</ex> noun; a <ex>neuter</ex> termination; the <ex>neuter</ex> gender.</as></def> <sd>(b)</sd> <def>Intransitive; <as>as, a <ex>neuter</ex> verb</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Biol.)</fld> <def>Having no generative organs, or imperfectly developed ones; sexless. See <er>Neuter</er>, <pos>n.</pos>, 3.</def><br/
+<p><sn>3.</sn> <fld>(Biol.)</fld> <def>Having no generative organs, or imperfectly developed ones; sexless. See <er>Neuter</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neuter</ent><br/
@@ -6312,7 +6312,7 @@ Doth dim with horror and deformity.</q> <rj><qau>Spenser.</qau></rj><br/
 And <qex>neutral</qex> some, in her fantastic eye.</q> <rj><qau>Sir J. Davies.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Biol.)</fld> <def>Neuter. See <er>Neuter</er>, <pos>a.</pos>, 3.</def><br/
+<p><sn>3.</sn> <fld>(Biol.)</fld> <def>Neuter. See <er>Neuter</er>, <pos>a.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Chem.)</fld> <def>Having neither acid nor basic properties; unable to turn red litmus blue or blue litmus red; -- said of certain salts or other compounds. Contrasted with <ant>acid</ant>, and <ant>alkaline</ant>.</def><br/
@@ -6351,7 +6351,7 @@ And <qex>neutral</qex> some, in her fantastic eye.</q> <rj><qau>Sir J. Davies.</
 <p><sn>2.</sn> <def>Indifference in quality; a state neither very good nor bad.</def> <mark>[Obs.]</mark>  <rj><au>Donne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Chem.)</fld> <def>The quality or state of being neutral. See <er>Neutral</er>, <pos>a.</pos>, 4.</def><br/
+<p><sn>3.</sn> <fld>(Chem.)</fld> <def>The quality or state of being neutral. See <er>Neutral</er>, <pos>a.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(International Law)</fld> <def>The condition of a nation or government which refrains from taking part, directly or indirectly, in a war between other powers.</def><br/
@@ -6367,7 +6367,7 @@ And <qex>neutral</qex> some, in her fantastic eye.</q> <rj><qau>Sir J. Davies.</
 <hw>Neu`tral*i*za"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>neutralisation</ets>.]</ety> <sn>1.</sn> <def>The act or process of neutralizing, or the state of being neutralized.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <def>The act or process by which an acid and a base are combined in such proportions that the resulting compound is neutral. See <er>Neutral</er>, <pos>a.</pos>, 4.</def><br/
+<p><sn>2.</sn> <fld>(Chem.)</fld> <def>The act or process by which an acid and a base are combined in such proportions that the resulting compound is neutral. See <er>Neutral</er>, <pos>a.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Neutralize</ent><br/
@@ -7896,7 +7896,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A larger species (<spn>Lucinia philomela</spn>), of Eastern Europe, having similar habits; the thrush nightingale. The name is also applied to other allied species.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Mock nightingale</b></col>. <fld>(Zool.)</fld> <cd>See <er>Blackcap</er>, <pos>n.</pos>, 1 <sdr>(a)</sdr>.</cd></cs><br/
+<p><cs><col><b>Mock nightingale</b></col>. <fld>(Zool.)</fld> <cd>See <er>Blackcap</er>, <pos>n.</pos>, <snr>1</snr> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nightish</ent><br/
@@ -8211,7 +8211,7 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nimbus</ent><br/
-<hw>Nim"bus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Nimbi</plw> <pr>(#)</pr>, E. <plw>Nimbuses</plw> <pr>(#)</pr>.</plu> <ety>[L., a rain storm, a rain cloud, the cloudshaped which enveloped the gods when they appeared on earth.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>A circle, or disk, or any indication of radiant light around the heads of divinities, saints, and sovereigns, upon medals, pictures, etc.; a halo. See <er>Aureola</er>, and <er>Glory</er>, <pos>n.</pos>, 5.</def><br/
+<hw>Nim"bus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Nimbi</plw> <pr>(#)</pr>, E. <plw>Nimbuses</plw> <pr>(#)</pr>.</plu> <ety>[L., a rain storm, a rain cloud, the cloudshaped which enveloped the gods when they appeared on earth.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>A circle, or disk, or any indication of radiant light around the heads of divinities, saints, and sovereigns, upon medals, pictures, etc.; a halo. See <er>Aureola</er>, and <er>Glory</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <ldquo/The <xex>nimbus</xex> is of pagan origin.<rdquo/ <ldquo/As an attribute of <xex>power</xex>, the <xex>nimbus</xex> is often seen attached to the heads of evil spirits.<rdquo/  <rj><au>Fairholl.</au></rj></note><br/
@@ -8864,7 +8864,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Ni*trog"e*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Of, pertaining to, or resembling, nitrogen; <as>as, a <ex>nitrogenous</ex> principle; <ex>nitrogenous</ex> compounds.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Nitrogenous foods</b></col>. <cd>See 2d Note under <er>Food</er>, <pos>n.</pos>, 1.</cd></cs><br/
+<p><cs><col><b>Nitrogenous foods</b></col>. <cd>See 2d Note under <er>Food</er>, <pos>n.</pos>, <snr>1</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nitroglycerine</ent><br/
@@ -9918,7 +9918,7 @@ to us perceived.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Noma</ent><br/
-\'d8<hw>No"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., a feeding. See <er>Name</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Canker</er>, <pos>n.</pos>, 1.</def><br/
+\'d8<hw>No"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., a feeding. See <er>Name</er>.]</ety> <fld>(Med.)</fld> <def>See <er>Canker</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nomad</ent><br/
@@ -11143,7 +11143,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nonnitrogenous</ent><br/
-<hw>Non`ni*trog"e*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Devoid of nitrogen; <as>as, a <ex>nonnitrogenous</ex> principle; a <ex>nonnitrogenous</ex> food</as>.  See the Note under <er>Food</er>, <pos>n.</pos>, 1.</def><br/
+<hw>Non`ni*trog"e*nous</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Devoid of nitrogen; <as>as, a <ex>nonnitrogenous</ex> principle; a <ex>nonnitrogenous</ex> food</as>.  See the Note under <er>Food</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Nonnucleated</ent><br/
@@ -12254,7 +12254,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>North</hw>, <pos>a.</pos> <def>Lying toward the north; situated at the north, or in a northern direction from the point of observation or reckoning; proceeding toward the north, or coming from the north.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>North following</b></col>. <cd>See <er>Following</er>, <pos>a.</pos>, 2.</cd> -- <col><b>North pole</b></col>, <cd>that point in the heavens, or on the earth, ninety degrees from the equator toward the north.</cd> -- <col><b>North preceding</b></col>. <cd>See <er>Following</er>, <pos>a.</pos>, 2.</cd> -- <col><b>North star</b></col>, <cd>the star toward which the north pole of the earth very nearly points, and which accordingly seems fixed and immovable in the sky.  The star <alpha/ (alpha) of the Little Bear, is our present north star, being distant from the pole about 1<deg/ 25<prime/, and from year to year approaching slowly nearer to it.  It is called also <altname>Cynosura</altname>, <altname>polestar</altname>, and by astronomers, <altname>Polaris</altname>.</cd></cs><br/
+<p><cs><col><b>North following</b></col>. <cd>See <er>Following</er>, <pos>a.</pos>, <snr>2</snr>.</cd> -- <col><b>North pole</b></col>, <cd>that point in the heavens, or on the earth, ninety degrees from the equator toward the north.</cd> -- <col><b>North preceding</b></col>. <cd>See <er>Following</er>, <pos>a.</pos>, 2.</cd> -- <col><b>North star</b></col>, <cd>the star toward which the north pole of the earth very nearly points, and which accordingly seems fixed and immovable in the sky.  The star <alpha/ (alpha) of the Little Bear, is our present north star, being distant from the pole about 1<deg/ 25<prime/, and from year to year approaching slowly nearer to it.  It is called also <altname>Cynosura</altname>, <altname>polestar</altname>, and by astronomers, <altname>Polaris</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>North</ent><br/
@@ -15589,7 +15589,7 @@ Sheathed, unaware, the tusk in his soft groin.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Sir Roger shook his ears, and <qex>nuzzled</qex> along.</q> <rj><qau>Arbuthnot.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <ety>[Cf. <er>Nuzzle</er>, <pos>v. t.</pos>, 2.]</ety> <def>To hide the head, as a child in the mother's bosom; to nestle.</def><br/
+<p><sn>3.</sn> <ety>[Cf. <er>Nuzzle</er>, <pos>v. t.</pos>, <snr>2</snr>.]</ety> <def>To hide the head, as a child in the mother's bosom; to nestle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>To loiter; to idle.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/

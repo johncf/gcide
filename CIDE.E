@@ -4311,7 +4311,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 <p><note><hand/ <xex>Egg</xex> is used adjectively, or as the first part of self-explaining compounds; as, <xex>egg</xex> beater or <xex>egg</xex>-beater, <xex>egg</xex> case, <xex>egg</xex> ladle, <xex>egg</xex>-shaped, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Egg and anchor</b></col> <fld>(Arch.)</fld>, <cd>see <er>egg-and-dart</er> in the vocabulary, below; -- called also <altname>egg and dart</altname>, and <altname>egg and tongue</altname>. See <er>Anchor</er>, <pos>n.</pos>, 5.</cd> <au>Ogilvie.</au> -- <col><b>Egg cleavage</b></col> <fld>(Biol.)</fld>, <cd>a process of cleavage or segmentation, by which the egg undergoes endogenous division with formation of a mass of nearly similar cells, from the growth and differentiation of which the new organism is ultimately formed. See <cref>Segmentation of the ovum</cref>, under <er>Segmentation</er>.</cd> -- <col><b>Egg development</b></col> <fld>(Biol.)</fld>, <cd>the process of the development of an egg, by which the embryo is formed.</cd> -- <col><b>Egg mite</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any mite which devours the eggs of insects, as <spn>Nothrus ovivorus</spn>, which destroys those of the canker worm.</cd> -- <col><b>Egg parasite</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any small hymenopterous insect, which, in the larval stage, lives within the eggs of other insects. Many genera and species are known.</cd></cs><br/
+<p><cs><col><b>Egg and anchor</b></col> <fld>(Arch.)</fld>, <cd>see <er>egg-and-dart</er> in the vocabulary, below; -- called also <altname>egg and dart</altname>, and <altname>egg and tongue</altname>. See <er>Anchor</er>, <pos>n.</pos>, <snr>5</snr>.</cd> <au>Ogilvie.</au> -- <col><b>Egg cleavage</b></col> <fld>(Biol.)</fld>, <cd>a process of cleavage or segmentation, by which the egg undergoes endogenous division with formation of a mass of nearly similar cells, from the growth and differentiation of which the new organism is ultimately formed. See <cref>Segmentation of the ovum</cref>, under <er>Segmentation</er>.</cd> -- <col><b>Egg development</b></col> <fld>(Biol.)</fld>, <cd>the process of the development of an egg, by which the embryo is formed.</cd> -- <col><b>Egg mite</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any mite which devours the eggs of insects, as <spn>Nothrus ovivorus</spn>, which destroys those of the canker worm.</cd> -- <col><b>Egg parasite</b></col> <fld>(Zo<oum/l.)</fld>, <cd>any small hymenopterous insect, which, in the larval stage, lives within the eggs of other insects. Many genera and species are known.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egg</ent><br/
@@ -4654,7 +4654,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egrette</ent><br/
-<hw>E*grette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Aigrette</er>.]</ety> <def>Same as <er>Egret</er>, <pos>n.</pos>, 2.</def><br/
+<hw>E*grette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Aigrette</er>.]</ety> <def>Same as <er>Egret</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egrimony</ent><br/
@@ -7517,7 +7517,7 @@ The dark Earth follows wheeled in her <qex>ellipse</qex>.</q> <rj><qau>Tennyson.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ellipsoid</ent><br/
-<hw>El*lip"soid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ellipse</ets> + <ets>-oid</ets>: cf. F. <ets>ellipsoide</ets>.]</ety> <fld>(Geom.)</fld> <def>A solid, all plane sections of which are ellipses or circles. See <er>Conoid</er>, <pos>n.</pos>, 2 <sdr>(a)</sdr>.</def><br/
+<hw>El*lip"soid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ellipse</ets> + <ets>-oid</ets>: cf. F. <ets>ellipsoide</ets>.]</ety> <fld>(Geom.)</fld> <def>A solid, all plane sections of which are ellipses or circles. See <er>Conoid</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The ellipsoid has three principal plane sections, <xex>a</xex>, <xex>b</xex>, and <xex>c</xex>, each at right angles to the other two, and each dividing the solid into two equal and symmetrical parts. The lines of meeting of these principal sections are the axes, or principal diameters of the ellipsoid. The point where the three planes meet is the center.</note><br/
@@ -9841,7 +9841,7 @@ Of listening crowds with jealousies and fears.</q> <rj><qau>Dryden.</qau></rj></
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Emissory</ent><br/
-<hw>E*mis"so*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Same as <er>Emissary</er>, <pos>a.</pos>, 2.</def><br/
+<hw>E*mis"so*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Same as <er>Emissary</er>, <pos>a.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emit</ent><br/
@@ -13839,7 +13839,7 @@ Motion to all.</q> <rj><qau>Decker.</qau></rj><br/
 <hw>Eng"lish</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[AS. <ets>Englisc</ets>, fr. <ets>Engle</ets>, <ets>Angle</ets>, Engles, Angles, a tribe of Germans from the southeast of Sleswick, in Denmark, who settled in Britain and gave it the name of <ets>England</ets>.  Cf. <er>Anglican</er>.]</ety> <def>Of or pertaining to England, or to its inhabitants, or to the present so-called Anglo-Saxon race.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>English bond</b></col> <fld>(Arch.)</fld> <def>See 1st <er>Bond</er>, <pos>n.</pos>, 8.</def> -- <col><b>English breakfast tea</b></col>. <cd>See <er>Congou</er>.</cd> -- <col><b>English horn</b></col>. <fld>(Mus.)</fld> <cd>See <er>Corno Inglese</er>.</cd> -- <col><b>English walnut</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Walnut</er>.</cd></cs><br/
+<p><cs><col><b>English bond</b></col> <fld>(Arch.)</fld> <def>See 1st <er>Bond</er>, <pos>n.</pos>, <snr>8</snr>.</def> -- <col><b>English breakfast tea</b></col>. <cd>See <er>Congou</er>.</cd> -- <col><b>English horn</b></col>. <fld>(Mus.)</fld> <cd>See <er>Corno Inglese</er>.</cd> -- <col><b>English walnut</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Walnut</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>English</ent><br/
@@ -14030,7 +14030,7 @@ Motion to all.</q> <rj><qau>Decker.</qau></rj><br/
 <p><q>The stain hath become <qex>engrained</qex> by time.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>To color in imitation of the grain of wood; to grain. See <er>Grain</er>, <pos>v. t.</pos>, 1.</def><br/
+<p><sn>3.</sn> <def>To color in imitation of the grain of wood; to grain. See <er>Grain</er>, <pos>v. t.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Engrapple</ent><br/
@@ -16834,7 +16834,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 <p><q>A straight, long <qex>entry</qex> to the temple led.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Com.)</fld> <def>The exhibition or depositing of a ship's papers at the customhouse, to procure license to land goods; or the giving an account of a ship's cargo to the officer of the customs, and obtaining his permission to land the goods. See <er>Enter</er>, <pos>v. t.</pos>, 8, and <er>Entrance</er>, <pos>n.</pos>, 5.</def><br/
+<p><sn>4.</sn> <fld>(Com.)</fld> <def>The exhibition or depositing of a ship's papers at the customhouse, to procure license to land goods; or the giving an account of a ship's cargo to the officer of the customs, and obtaining his permission to land the goods. See <er>Enter</er>, <pos>v. t.</pos>, <snr>8</snr>, and <er>Entrance</er>, <pos>n.</pos>, 5.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>The actual taking possession of lands or tenements, by entering or setting foot on them.</def> <sd>(b)</sd> <def>A putting upon record in proper form and order.</def> <sd>(c)</sd> <def>The act in addition to breaking essential to constitute the offense or burglary.</def>  <rj><au>Burrill.</au></rj><br/
@@ -19928,7 +19928,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>2.</sn> <def>Equal power or force; equivalent amount.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>The quantity of the combining power of an atom, expressed in hydrogen units; the number of hydrogen atoms can combine with, or be exchanged for; valency. See <er>Valence</er>.</def> <sd>(b)</sd> <def>The degree of combining power as determined by relative weight. See <er>Equivalent</er>, <pos>n.</pos>, 2.</def> <mark>[R.]</mark><br/
+<p><sn>3.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>The quantity of the combining power of an atom, expressed in hydrogen units; the number of hydrogen atoms can combine with, or be exchanged for; valency. See <er>Valence</er>.</def> <sd>(b)</sd> <def>The degree of combining power as determined by relative weight. See <er>Equivalent</er>, <pos>n.</pos>, <snr>2</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equivalence</ent><br/
@@ -20757,7 +20757,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 
 <p><ent>Erminois</ent><br/
 <ent>Ermines</ent><br/
-<mhw><hw>Er"mines</hw> <pr>(?)</pr>, <pos>n.</pos>, <hw>Er"min*ois</hw> <pr>(<?/)</pr>, <pos>n.</pos></mhw> <fld>(Her.)</fld> <def>See Note under <er>Ermine</er>, <pos>n.</pos>, 4.</def><br/
+<mhw><hw>Er"mines</hw> <pr>(?)</pr>, <pos>n.</pos>, <hw>Er"min*ois</hw> <pr>(<?/)</pr>, <pos>n.</pos></mhw> <fld>(Her.)</fld> <def>See Note under <er>Ermine</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ermit</ent><br/
@@ -25464,7 +25464,7 @@ Therefore our <qex>everlasting</qex> farewell take;<br/
 Forever, and forever farewell, Cassius.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Everlasting flower</b></col>. <cd>Sane as <er>Everlasting</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Everlasting pea</b></col>, <cd>an ornamental plant (<spn>Lathyrus latifolius</spn>) related to the pea; -- so called because it is perennial.</cd></cs><br/
+<p><cs><col><b>Everlasting flower</b></col>. <cd>Sane as <er>Everlasting</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Everlasting pea</b></col>, <cd>an ornamental plant (<spn>Lathyrus latifolius</spn>) related to the pea; -- so called because it is perennial.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Everlasting</ent><br/
@@ -30967,7 +30967,7 @@ The massy ball and the brass tube unload.</q> <rj><qau>Blackmore.</qau></rj><br/
 <hw>Ex*plod"ent</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>An instrument or agent causing explosion; an exploder; also, an explosive.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>See <er>Explosive</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>2.</sn> <def>See <er>Explosive</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exploder</ent><br/
@@ -31383,7 +31383,7 @@ The <qex>express</qex> resemblance of the gods.</q> <rj><qau>Milton.</qau></rj><
 <p><sn>2.</sn> <def>of or pertaining to an <cref>express train</cref> or other conveyance designated an express{5}; makiung few or no intermediate stops; <as>as, an <ex>express</ex> stop; an <ex>express</ex> fare; an <ex>express</ex> elevator</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Express color</b></col>. <fld>(Law)</fld> <cd>See the Note under <er>Color</er>, <pos>n.</pos>, 8.</cd></cs></p>
+<p><cs><col><b>Express color</b></col>. <fld>(Law)</fld> <cd>See the Note under <er>Color</er>, <pos>n.</pos>, <snr>8</snr>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Explicit; clear; unambiguous. See <er>Explicit</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -32774,7 +32774,7 @@ That you <qex>extol</qex> me thus?</q> <rj><qau>Shak.</qau></rj></p>
 Sits on the bloom <qex>extracting</qex> liquid sweet.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To withdraw by expression, distillation, or other mechanical or chemical process; <as>as, to <ex>extract</ex> an essence</as>.  Cf. <er>Abstract</er>, <pos>v. t.</pos>, 6.</def><br/
+<p><sn>2.</sn> <def>To withdraw by expression, distillation, or other mechanical or chemical process; <as>as, to <ex>extract</ex> an essence</as>.  Cf. <er>Abstract</er>, <pos>v. t.</pos>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Sunbeams may be <qex>extracted</qex> from cucumbers, but the process is tedious.</q><br/
@@ -32799,7 +32799,7 @@ Sits on the bloom <qex>extracting</qex> liquid sweet.</q> <rj><qau>Milton.</qau>
 <p><sn>3.</sn> <def>A decoction, solution, or infusion made by dissolving out from any substance that which gives it its essential and characteristic virtue; essence; <as>as, <ex>extract</ex> of beef; <ex>extract</ex> of dandelion</as>; also, any substance so extracted, and characteristic of that from which it is obtained; <as>as, quinine is the most important <ex>extract</ex> of Peruvian bark</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Med.)</fld> <def>A solid preparation obtained by evaporating a solution of a drug, etc., or the fresh juice of a plant; -- distinguished from an <xex>abstract</xex>. See <er>Abstract</er>, <pos>n.</pos>, 4.</def><br/
+<p><sn>4.</sn> <fld>(Med.)</fld> <def>A solid preparation obtained by evaporating a solution of a drug, etc., or the fresh juice of a plant; -- distinguished from an <xex>abstract</xex>. See <er>Abstract</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Old Chem.)</fld> <def>A peculiar principle once erroneously supposed to form the basis of all vegetable extracts; -- called also the <altname>extractive principle</altname>.</def> <mark>[Obs.]</mark><br/
@@ -33178,7 +33178,7 @@ To his confine.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Mus.)</fld> <def>Extended or contracted as much as possible; -- said of intervals; <as>as, an <ex>extreme</ex> sharp second; an <ex>extreme</ex> flat forth.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Extreme and mean ratio</b></col> <fld>(Geom.)</fld>, <cd>the relation of a line and its segments when the line is so divided that the whole is to the greater segment is to the less.</cd> -- <col><b>Extreme distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Distance</er>., <pos>n.</pos>, 6.</cd> -- <col><b>Extreme unction</b></col>. <cd>See under <er>Unction</er>.</cd></cs><br/
+<p><cs><col><b>Extreme and mean ratio</b></col> <fld>(Geom.)</fld>, <cd>the relation of a line and its segments when the line is so divided that the whole is to the greater segment is to the less.</cd> -- <col><b>Extreme distance</b></col>. <fld>(Paint.)</fld> <cd>See <er>Distance</er>., <pos>n.</pos>, <snr>6</snr>.</cd> -- <col><b>Extreme unction</b></col>. <cd>See under <er>Unction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Although this adjective, being superlative in signification, is not properly subject to comparison, the superlative form not unfrequently occurs, especially in the older writers. <ldquo/Tried in his <xex>extremest</xex> state.<rdquo/ <au>Spenser.</au> <ldquo/<xex>Extremest</xex> hardships.<rdquo/ <au>Sharp.</au>  <ldquo/<xex>Extremest</xex> of evils.<rdquo/ <au>Bacon.</au> <ldquo/<xex>Extremest</xex> verge of the swift brook.<rdquo/ <au>Shak.</au> <ldquo/The sea's <xex>extremest</xex> borders.<rdquo/ <au>Addison.</au></note><br/

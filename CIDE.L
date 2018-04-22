@@ -1970,7 +1970,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 <hw>Lag</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To cause to lag; to slacken.</def> <mark>[Obs.]</mark> <ldquo/To <xex>lag</xex> his flight.<rdquo/  <rj><au>Heywood.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Mach.)</fld> <def>To cover, as the cylinder of a steam engine, with lags. See <er>Lag</er>, <pos>n.</pos>, 4.</def><br/
+<p><sn>2.</sn> <fld>(Mach.)</fld> <def>To cover, as the cylinder of a steam engine, with lags. See <er>Lag</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lag</ent><br/
@@ -2452,7 +2452,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamboys</ent><br/
-<hw>Lam"boys</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Cf. F. <ets>lambeau</ets>.  Cf. <er>Label</er>.]</ety> <fld>(Anc. Armor)</fld> <def>Same as <er>Base</er>, <pos>n.</pos>, 19.</def><br/
+<hw>Lam"boys</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Cf. F. <ets>lambeau</ets>.  Cf. <er>Label</er>.]</ety> <fld>(Anc. Armor)</fld> <def>Same as <er>Base</er>, <pos>n.</pos>, <snr>19</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lambrequin</ent><br/
@@ -2819,7 +2819,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 <p><sn>4.</sn> <def>A device that emits radiant energy in the form of heat, infrared, or ultraviolet rays; <as>as, a <ex>heat</ex> lamp</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Aeolipile lamp</b></col>, <cd>a hollow ball of copper containing alcohol which is converted into vapor by a lamp beneath, so as to make a powerful blowpipe flame when the vapor is ignited.</cd> <au>Weale.</au> -- <col><b>Arc lamp</b></col> <fld>(Elec.)</fld>, <cd>a form of lamp in which the voltaic arc is used as the source of light.</cd> -- <col><b>D<eum/bereiner's lamp</b></col>, <cd>an apparatus for the instantaneous production of a flame by the spontaneous ignition of a jet of hydrogen on being led over platinum sponge; -- named after the German chemist <etsep>D<oum/bereiner</etsep>, who invented it. Called also <altname>philosopher's lamp</altname>.</cd> -- <col><b>Flameless lamp</b></col>, <cd>an aphlogistic lamp.</cd> -- <col><b>Lamp burner</b></col>, <cd>the part of a lamp where the wick is exposed and ignited.</cd> <au>Knight.</au> -- <col><b>Lamp fount</b></col>, <cd>a reservoir for oil, in a lamp.</cd> -- <col><b>Lamp jack</b></col>. <cd>See 2d <er>Jack</er>, <pos>n.</pos>, 4 <sdr>(l)</sdr> & <sdr>(n)</sdr>.</cd> -- <col><b>Lamp shade</b></col>, <cd>a screen, as of paper, glass, or tin, for softening or obstructing the light of a lamp.</cd> -- <col><b>Lamp shell</b></col> <fld>(Zool.)</fld>, <cd>any brachiopod shell of the genus <gen>Terebratula</gen> and allied genera. The name refers to the shape, which is like that of an antique lamp. See <er>Terebratula</er>.</cd> -- <col><b>Safety lamp</b></col>, <cd>a miner's lamp in which the flame is surrounded by fine wire gauze, preventing the kindling of dangerous explosive gases; -- called also, from <person>Sir Humphry <etsep>Davy</etsep></person> the inventor, <altname>Davy lamp</altname>.</cd> -- <col><b>To smell of the lamp</b></col>, <cd>to bear marks of great study and labor, as a literary composition.</cd></cs><br/
+<p><cs><col><b>Aeolipile lamp</b></col>, <cd>a hollow ball of copper containing alcohol which is converted into vapor by a lamp beneath, so as to make a powerful blowpipe flame when the vapor is ignited.</cd> <au>Weale.</au> -- <col><b>Arc lamp</b></col> <fld>(Elec.)</fld>, <cd>a form of lamp in which the voltaic arc is used as the source of light.</cd> -- <col><b>D<eum/bereiner's lamp</b></col>, <cd>an apparatus for the instantaneous production of a flame by the spontaneous ignition of a jet of hydrogen on being led over platinum sponge; -- named after the German chemist <etsep>D<oum/bereiner</etsep>, who invented it. Called also <altname>philosopher's lamp</altname>.</cd> -- <col><b>Flameless lamp</b></col>, <cd>an aphlogistic lamp.</cd> -- <col><b>Lamp burner</b></col>, <cd>the part of a lamp where the wick is exposed and ignited.</cd> <au>Knight.</au> -- <col><b>Lamp fount</b></col>, <cd>a reservoir for oil, in a lamp.</cd> -- <col><b>Lamp jack</b></col>. <cd>See 2d <er>Jack</er>, <pos>n.</pos>, <snr>4</snr> <sdr>(l)</sdr> & <sdr>(n)</sdr>.</cd> -- <col><b>Lamp shade</b></col>, <cd>a screen, as of paper, glass, or tin, for softening or obstructing the light of a lamp.</cd> -- <col><b>Lamp shell</b></col> <fld>(Zool.)</fld>, <cd>any brachiopod shell of the genus <gen>Terebratula</gen> and allied genera. The name refers to the shape, which is like that of an antique lamp. See <er>Terebratula</er>.</cd> -- <col><b>Safety lamp</b></col>, <cd>a miner's lamp in which the flame is surrounded by fine wire gauze, preventing the kindling of dangerous explosive gases; -- called also, from <person>Sir Humphry <etsep>Davy</etsep></person> the inventor, <altname>Davy lamp</altname>.</cd> -- <col><b>To smell of the lamp</b></col>, <cd>to bear marks of great study and labor, as a literary composition.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lampad</ent><br/
@@ -3388,7 +3388,7 @@ The king himself divulged, the <qex>land</qex> believed.</q> <rj><qau>Dryden.</q
 <p><sn>4.</sn> <fld>(Aeronautics)</fld> <def>The act or process of bringing an aircraft to land after having been in the air; <as>as, the pilot made a perfect three-point <ex>landing</ex></as>.  Contrasted with <contr>take-off</contr>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Landing place</b></col>. <cd>me as <er>Landing</er>, <pos>n.</pos>, 2 and 3.</cd></cs><br/
+<p><cs><col><b>Landing place</b></col>. <cd>me as <er>Landing</er>, <pos>n.</pos>, <snr>2</snr> and 3.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>landing gear</ent><br/
@@ -4651,7 +4651,7 @@ Victorious by his benefit.</q> <rj><qau>Lovelace.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Larboard</ent><br/
-<hw>Lar"board`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Lar-</ets> is of uncertain origin, possibly the same as <ets>lower</ets>, i. e., humbler in rank, because the starboard side is considered by mariners as higher in rank; cf. D. <ets>laag</ets> low, akin to E. <ets>low</ets>. See <er>Board</er>, <pos>n.</pos>, 8.]</ety> <fld>(Naut.)</fld> <def>The left-hand side of a ship to one on board facing toward the bow; port; -- opposed to <ant>starboard</ant>.</def><br/
+<hw>Lar"board`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Lar-</ets> is of uncertain origin, possibly the same as <ets>lower</ets>, i. e., humbler in rank, because the starboard side is considered by mariners as higher in rank; cf. D. <ets>laag</ets> low, akin to E. <ets>low</ets>. See <er>Board</er>, <pos>n.</pos>, <snr>8</snr>.]</ety> <fld>(Naut.)</fld> <def>The left-hand side of a ship to one on board facing toward the bow; port; -- opposed to <ant>starboard</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Larboard</xex> is a nearly obsolete term, having been superseded by <altname>port</altname> to avoid liability of confusion with <xex>starboard</xex>, owing to similarity of sound.</note><br/
@@ -4819,7 +4819,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 <p><sn>8.</sn> <fld>(Naut.)</fld> <def>Crossing the line of a ship's course in a favorable direction; -- said of the wind when it is abeam, or between the beam and the quarter.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At large</b></col>. <sd>(a)</sd> <cd>Without restraint or confinement; <as>as, to go <ex>at large</ex>; to be left <ex>at large</ex></as>.</cd> <sd>(b)</sd> <cd>Diffusely; fully; in the full extent; <as>as, to discourse on a subject <ex>at large</ex></as>.</cd> -- <col><b>Common at large</b></col>. <cd>See under <er>Common</er>, <pos>n.</pos></cd> -- <mcol><col><b>Electors at large</b></col>, <col><b>Representative at large</b></col></mcol>, <cd>electors, or a representative, as in Congress, chosen to represent the whole of a State, in distinction from those chosen to represent particular districts in a State.</cd> <mark>[U. S.]</mark> -- <mcol><col><b>To give large</b></col>, <col><b>To go large</b></col>, <col><b>To run large</b></col>, <it>or</it> <col><b>To sail large</b></col></mcol> <fld>(Naut.)</fld>, <cd>to have the wind crossing the direction of a vessel's course in such a way that the sails feel its full force, and the vessel gains its highest speed. See <er>Large</er>, <pos>a.</pos>, 8.</cd></cs></p>
+<p><cs><col><b>At large</b></col>. <sd>(a)</sd> <cd>Without restraint or confinement; <as>as, to go <ex>at large</ex>; to be left <ex>at large</ex></as>.</cd> <sd>(b)</sd> <cd>Diffusely; fully; in the full extent; <as>as, to discourse on a subject <ex>at large</ex></as>.</cd> -- <col><b>Common at large</b></col>. <cd>See under <er>Common</er>, <pos>n.</pos></cd> -- <mcol><col><b>Electors at large</b></col>, <col><b>Representative at large</b></col></mcol>, <cd>electors, or a representative, as in Congress, chosen to represent the whole of a State, in distinction from those chosen to represent particular districts in a State.</cd> <mark>[U. S.]</mark> -- <mcol><col><b>To give large</b></col>, <col><b>To go large</b></col>, <col><b>To run large</b></col>, <it>or</it> <col><b>To sail large</b></col></mcol> <fld>(Naut.)</fld>, <cd>to have the wind crossing the direction of a vessel's course in such a way that the sails feel its full force, and the vessel gains its highest speed. See <er>Large</er>, <pos>a.</pos>, <snr>8</snr>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Big; bulky; huge; capacious; comprehensive; ample; abundant; plentiful; populous; copious; diffusive; liberal.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -6298,7 +6298,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Latticework</ent><br/
-<hw>Lat"tice*work`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Lattice</er>, <pos>n.</pos>, 1.</def><br/
+<hw>Lat"tice*work`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Lattice</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Latticing</ent><br/
@@ -7527,7 +7527,7 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>A viol should have a <qex>lay</qex> of wire strings below.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ The <xex>lay</xex> of a rope is right-handed or left-handed according to the hemp or strands are laid up. See <er>Lay</er>, <pos>v. t.</pos>, 16. The <xex>lay</xex> of land is its topographical situation, esp. its slope and its surface features.</note><br/
+<p><note><hand/ The <xex>lay</xex> of a rope is right-handed or left-handed according to the hemp or strands are laid up. See <er>Lay</er>, <pos>v. t.</pos>, <snr>16</snr>. The <xex>lay</xex> of land is its topographical situation, esp. its slope and its surface features.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A wager.</def> <ldquo/My fortunes against any <xex>lay</xex> worth naming.<rdquo/<br/
@@ -8166,7 +8166,7 @@ A life that <qex>leads</qex> melodious days.</q> <rj><qau>Tennyson.</qau></rj><b
 <hw>Leaf"less</hw>, <pos>a.</pos> <def>Having no leaves or foliage; bearing no foliage.</def> <ldquo/<xex>Leafless</xex> groves.<rdquo/ <au>Cowper.</au> -- <wordforms><wf>Leaf"less*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Leafless plants</b></col>, <cd>plants having no foliage, though leaves may be present in the form of scales and bracts. See <er>Leaf</er>, <pos>n.</pos>, 1 and 2.</cd></cs><br/
+<p><cs><col><b>Leafless plants</b></col>, <cd>plants having no foliage, though leaves may be present in the form of scales and bracts. See <er>Leaf</er>, <pos>n.</pos>, <snr>1</snr> and 2.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leaflet</ent><br/
@@ -10275,7 +10275,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leiger</ent><br/
-<hw>Lei"ger</hw> <pr>(l<emac/"j<etil/r)</pr>, <pos>n.</pos> <ety>[See <er>Leger</er>, and <er>Ledger</er>.]</ety> <def>See <er>Leger</er>, <pos>n.</pos>, 2.</def> <mark>[Obs.]</mark> <rj><au>Shak.</au></rj><br/
+<hw>Lei"ger</hw> <pr>(l<emac/"j<etil/r)</pr>, <pos>n.</pos> <ety>[See <er>Leger</er>, and <er>Ledger</er>.]</ety> <def>See <er>Leger</er>, <pos>n.</pos>, <snr>2</snr>.</def> <mark>[Obs.]</mark> <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leiopelma</ent><br/
@@ -12500,7 +12500,7 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Mach.)</fld> <sd>(a)</sd> <def>A bar, as a capstan bar, applied to a rotatory piece to turn it.</def> <sd>(b)</sd> <def>An arm on a rock shaft, to give motion to the shaft or to obtain motion from it.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Compound lever</b></col>, <cd>a machine consisting of two or more levers acting upon each other.</cd> -- <col><b>Lever escapement</b></col>. <cd>See <er>Escapement</er>.</cd> -- <col><b>Lever jack</b></col>. <cd>See <er>Jack</er>, <pos>n.</pos>, 5.</cd> -- <col><b>Lever watch</b></col>, <cd>a watch having a vibrating lever to connect the action of the escape wheel with that of the balance.</cd> -- <col><b>Universal lever</b></col>, <cd>a machine formed by a combination of a lever with the wheel and axle, in such a manner as to convert the reciprocating motion of the lever into a continued rectilinear motion of some body to which the power is applied.</cd></cs><br/
+<p><cs><col><b>Compound lever</b></col>, <cd>a machine consisting of two or more levers acting upon each other.</cd> -- <col><b>Lever escapement</b></col>. <cd>See <er>Escapement</er>.</cd> -- <col><b>Lever jack</b></col>. <cd>See <er>Jack</er>, <pos>n.</pos>, <snr>5</snr>.</cd> -- <col><b>Lever watch</b></col>, <cd>a watch having a vibrating lever to connect the action of the escape wheel with that of the balance.</cd> -- <col><b>Universal lever</b></col>, <cd>a machine formed by a combination of a lever with the wheel and axle, in such a manner as to convert the reciprocating motion of the lever into a continued rectilinear motion of some body to which the power is applied.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Leverage</ent><br/
@@ -14144,7 +14144,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Liegeman</ent><br/
-<hw>Liege"man</hw> <pr>(l<emac/j"m<ait/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Liegemen</plw> <pr>(l<emac/j"m<eit/n)</pr>.</plu> <def>Same as <er>Liege</er>, <pos>n.</pos>, 2.</def>  <rj><au>Chaucer. Spenser.</au></rj><br/
+<hw>Liege"man</hw> <pr>(l<emac/j"m<ait/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Liegemen</plw> <pr>(l<emac/j"m<eit/n)</pr>.</plu> <def>Same as <er>Liege</er>, <pos>n.</pos>, <snr>2</snr>.</def>  <rj><au>Chaucer. Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lieger</ent><br/
@@ -14496,7 +14496,7 @@ We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj><br
 <p><sn>2.</sn> <def>To rise; to become or appear raised or elevated; <as>as, the fog <ex>lifts</ex>; the land <ex>lifts</ex> to a ship approaching it.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <ety>[See <er>Lift</er>, <pos>v. t.</pos>, 5.]</ety> <def>To steal; also, to live by theft.</def>  <rj><au>Spenser.</au></rj><br/
+<p><sn>3.</sn> <ety>[See <er>Lift</er>, <pos>v. t.</pos>, <snr>5</snr>.]</ety> <def>To steal; also, to live by theft.</def>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lift</ent><br/
@@ -17510,7 +17510,7 @@ One common Maker bound me to the kind.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Mach.)</fld> <def>Any intermediate rod or piece for transmitting force or motion, especially a short connecting rod with a bearing at each end; specifically <fld>(Steam Engine)</fld>, the slotted bar, or connecting piece, to the opposite ends of which the eccentric rods are jointed, and by means of which the movement of the valve is varied, in a <xex>link motion</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Surveying)</fld> <def>The length of one joint of Gunter's chain, being the hundredth part of it, or 7.92 inches, the chain being 66 feet in length.  Cf. <er>Chain</er>, <pos>n.</pos>, 4.</def><br/
+<p><sn>6.</sn> <fld>(Surveying)</fld> <def>The length of one joint of Gunter's chain, being the hundredth part of it, or 7.92 inches, the chain being 66 feet in length.  Cf. <er>Chain</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>7.</sn> <fld>(Chem.)</fld> <def>A bond of affinity, or a unit of valence between atoms; -- applied to a unit of chemical force or attraction.</def><br/
@@ -18375,7 +18375,7 @@ I <qex>lisped</qex> in numbers, for the numbers came.</q> <rj><qau>Pope.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lisp</ent><br/
-<hw>Lisp</hw>, <pos>n.</pos> <def>The habit or act of lisping. See <er>Lisp</er>, <pos>v. i.</pos>, 1.</def><br/
+<hw>Lisp</hw>, <pos>n.</pos> <def>The habit or act of lisping. See <er>Lisp</er>, <pos>v. i.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I overheard her answer, with a very pretty <qex>lisp</qex>, <ldquo/O! Strephon, you are a dangerous creature.<rdquo/</q>  <rj><au>Tatler.</au></rj><br/
@@ -18560,7 +18560,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Listel</ent><br/
-<hw>List"el</hw> <pr>(l<icr/s"t<ecr/l)</pr>, <pos>n.</pos> <ety>[F. <ets>listel</ets>, dim. of <ets>liste</ets> fillet, list. See <er>List</er> the edge.]</ety> <fld>(Arch.)</fld> <def>Same as <er>List</er>, <pos>n.</pos>, 6.</def><br/
+<hw>List"el</hw> <pr>(l<icr/s"t<ecr/l)</pr>, <pos>n.</pos> <ety>[F. <ets>listel</ets>, dim. of <ets>liste</ets> fillet, list. See <er>List</er> the edge.]</ety> <fld>(Arch.)</fld> <def>Same as <er>List</er>, <pos>n.</pos>, <snr>6</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Listen</ent><br/
@@ -20105,7 +20105,7 @@ Had in her sober <qex>livery</qex> all things clad.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Livery stable</ent><br/
-<hw>Liv"er*y sta`ble</hw> <pr>(?)</pr> <pos>n.</pos> <def>A stable where horses are kept for hire, and where stabling is provided. See <er>Livery</er>, <pos>n.</pos>, 3 <sdr>(e)</sdr> <sdr>(f)</sdr> & <sdr>(g)</sdr>.</def><br/
+<hw>Liv"er*y sta`ble</hw> <pr>(?)</pr> <pos>n.</pos> <def>A stable where horses are kept for hire, and where stabling is provided. See <er>Livery</er>, <pos>n.</pos>, <snr>3</snr> <sdr>(e)</sdr> <sdr>(f)</sdr> & <sdr>(g)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lives</ent><br/
@@ -20533,7 +20533,7 @@ Your majesty <qex>loads</qex> our house.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Founding)</fld> <def>A mixture of sand, clay, and other materials, used in making molds for large castings, often without a pattern.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Loam mold</b></col> <fld>(Founding)</fld>, <cd>a mold made with loam. See <er>Loam</er>, <pos>n.</pos>, 2.</cd> -- <col><b>Loam molding</b></col>, <cd>the process or business of making loam molds.</cd> <col><b>Loam plate</b></col>, <cd>an iron plate upon which a section of a loam mold rests, or from which it is suspended.</cd> -- <col><b>Loam work</b></col>, <cd>loam molding or loam molds.</cd></cs><br/
+<p><cs><col><b>Loam mold</b></col> <fld>(Founding)</fld>, <cd>a mold made with loam. See <er>Loam</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Loam molding</b></col>, <cd>the process or business of making loam molds.</cd> <col><b>Loam plate</b></col>, <cd>an iron plate upon which a section of a loam mold rests, or from which it is suspended.</cd> -- <col><b>Loam work</b></col>, <cd>loam molding or loam molds.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Loam</ent><br/
@@ -21583,7 +21583,7 @@ These about phrases forced by ceremony.</q> <rj><qau>Marston.</qau></rj><br/
 <p><sn>4.</sn> <def>A family of North American Indians, or the persons who usually occupy an Indian lodge, -- as a unit of enumeration, reckoned from four to six persons; <as>as, the tribe consists of about two hundred <ex>lodges</ex>, that is, of about a thousand individuals</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Lodge gate</b></col>, <cd>a park gate, or entrance gate, near the lodge. See <er>Lodge</er>, <pos>n.</pos>, 1 <sdr>(b)</sdr>.</cd></cs><br/
+<p><cs><col><b>Lodge gate</b></col>, <cd>a park gate, or entrance gate, near the lodge. See <er>Lodge</er>, <pos>n.</pos>, <snr>1</snr> <sdr>(b)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lodge</ent><br/
@@ -21819,7 +21819,7 @@ These about phrases forced by ceremony.</q> <rj><qau>Marston.</qau></rj><br/
 <p><sn>6.</sn> <fld>(computers)</fld> <def>A record of activities performed within a program, or changes in a database or file on a computer, and typically kept as a file in the computer.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Log board</b></col> <fld>(Naut.)</fld>, <cd>a board consisting of two parts shutting together like a book, with columns in which are entered the direction of the wind, course of the ship, etc., during each hour of the day and night. These entries are transferred to the log book. A folding slate is now used instead.</cd> -- <mcol><col><b>Log book</b></col>, <it>or</it> <col><b>Logbook</b></col></mcol> <fld>(Naut.)</fld>, <sd>(a)</sd> <cd>a book in which is entered the daily progress of a ship at sea, as indicated by the log, with notes on the weather and incidents of the voyage; the contents of the log board.</cd> <sd>(b)</sd> <cd>a book in which a log{4} is recorded.</cd> -- <mcol><col><b>Log cabin</b></col>, <col><b>Log house</b></col></mcol>, <cd>a cabin or house made of logs.</cd> -- <col><b>Log canoe</b></col>, <cd>a canoe made by shaping and hollowing out a single log; a dugout canoe.</cd> -- <col><b>Log glass</b></col> <fld>(Naut.)</fld>, <cd>a small sandglass used to time the running out of the log line.</cd> -- <col><b>Log line</b></col> <fld>(Naut.)</fld>, <cd>a line or cord about a hundred and fifty fathoms long, fastened to the log-chip. See Note under 2d <er>Log</er>, <pos>n.</pos>, 2.</cd> -- <col><b>Log perch</b></col> <fld>(Zool.)</fld>, <cd>an ethiostomoid fish, or darter (<spn>Percina caprodes</spn>); -- called also <altname>hogfish</altname> and <altname>rockfish</altname>.</cd> -- <col><b>Log reel</b></col> <fld>(Naut.)</fld>, <cd>the reel on which the log line is wound.</cd> -- <col><b>Log slate</b></col>. <fld>(Naut.)</fld> <cd>See <cref>Log board</cref> (above).</cd> -- <col><b>Rough log</b></col> <fld>(Naut.)</fld>, <cd>a first draught of a record of the cruise or voyage.</cd> -- <col><b>Smooth log</b></col> <fld>(Naut.)</fld>, <cd>a clean copy of the rough log. In the case of naval vessels this copy is forwarded to the proper officer of the government.</cd> -- <col><b>To heave the log</b></col> <fld>(Naut.)</fld>, <cd>to cast the log-chip into the water; also, the whole process of ascertaining a vessel's speed by the log.</cd></cs><br/
+<p><cs><col><b>Log board</b></col> <fld>(Naut.)</fld>, <cd>a board consisting of two parts shutting together like a book, with columns in which are entered the direction of the wind, course of the ship, etc., during each hour of the day and night. These entries are transferred to the log book. A folding slate is now used instead.</cd> -- <mcol><col><b>Log book</b></col>, <it>or</it> <col><b>Logbook</b></col></mcol> <fld>(Naut.)</fld>, <sd>(a)</sd> <cd>a book in which is entered the daily progress of a ship at sea, as indicated by the log, with notes on the weather and incidents of the voyage; the contents of the log board.</cd> <sd>(b)</sd> <cd>a book in which a log{4} is recorded.</cd> -- <mcol><col><b>Log cabin</b></col>, <col><b>Log house</b></col></mcol>, <cd>a cabin or house made of logs.</cd> -- <col><b>Log canoe</b></col>, <cd>a canoe made by shaping and hollowing out a single log; a dugout canoe.</cd> -- <col><b>Log glass</b></col> <fld>(Naut.)</fld>, <cd>a small sandglass used to time the running out of the log line.</cd> -- <col><b>Log line</b></col> <fld>(Naut.)</fld>, <cd>a line or cord about a hundred and fifty fathoms long, fastened to the log-chip. See Note under 2d <er>Log</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Log perch</b></col> <fld>(Zool.)</fld>, <cd>an ethiostomoid fish, or darter (<spn>Percina caprodes</spn>); -- called also <altname>hogfish</altname> and <altname>rockfish</altname>.</cd> -- <col><b>Log reel</b></col> <fld>(Naut.)</fld>, <cd>the reel on which the log line is wound.</cd> -- <col><b>Log slate</b></col>. <fld>(Naut.)</fld> <cd>See <cref>Log board</cref> (above).</cd> -- <col><b>Rough log</b></col> <fld>(Naut.)</fld>, <cd>a first draught of a record of the cruise or voyage.</cd> -- <col><b>Smooth log</b></col> <fld>(Naut.)</fld>, <cd>a clean copy of the rough log. In the case of naval vessels this copy is forwarded to the proper officer of the government.</cd> -- <col><b>To heave the log</b></col> <fld>(Naut.)</fld>, <cd>to cast the log-chip into the water; also, the whole process of ascertaining a vessel's speed by the log.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Log</ent><br/
@@ -21891,7 +21891,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Log-chip</ent><br/
-<hw>Log"-chip`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A thin, flat piece of board in the form of a quadrant of a circle attached to the log line; -- called also <altname>log-ship</altname>. See 2d <er>Log</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Log"-chip`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A thin, flat piece of board in the form of a quadrant of a circle attached to the log line; -- called also <altname>log-ship</altname>. See 2d <er>Log</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Logcock</ent><br/
@@ -22144,7 +22144,7 @@ Hence, the logarithm of any given number is the exponent of a power to which ano
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Log-ship</ent><br/
-<hw>Log"-ship</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A part of the log. See <er>Log-chip</er>, and 2d <er>Log</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Log"-ship</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>A part of the log. See <er>Log-chip</er>, and 2d <er>Log</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Logwood</ent><br/
@@ -22553,7 +22553,7 @@ Against the tournament, which is not <qex>long</qex>.</q> <rj><qau>Spenser.</qau
 <p><sn>6.</sn> <def>Far-reaching; extensive.</def> <ldquo/ <xex>Long</xex> views.<rdquo/  <rj><au>Burke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>7.</sn> <fld>(Phonetics)</fld> <def>Prolonged, or relatively more prolonged, in utterance; -- said of vowels and syllables. See <er>Short</er>, <pos>a.</pos>, 13, and <xex>Guide to Pronunciation</xex>, <sect/<sect/ 22, 30.</def><br/
+<p><sn>7.</sn> <fld>(Phonetics)</fld> <def>Prolonged, or relatively more prolonged, in utterance; -- said of vowels and syllables. See <er>Short</er>, <pos>a.</pos>, <snr>13</snr>, and <xex>Guide to Pronunciation</xex>, <sect/<sect/ 22, 30.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>8.</sn> <fld>(Finance & Com.)</fld> <def>Having a supply of stocks or goods; prepared for, or depending for a profit upon, advance in prices; <as>as, <ex>long</ex> of cotton</as>.  Hence, the phrases: <xex>to be</xex>, or <xex>go</xex>, <xex>long of the market</xex>, <xex>to be on the long side of the market</xex>, to hold products or securities for a rise in price, esp. when bought on a margin.  Contrasted to <contr>short</contr>.</def><br/
@@ -25576,7 +25576,7 @@ Down to a silent grave.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Lower-case</ent><br/
 <ent>lowercase</ent><br/
-<mhw><hw>low"er*case`</hw>, <hw>Low"er-case`</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Print.)</fld> <def>Pertaining to, or kept in, the lower case; -- used to denote the small letters, in distinction from capitals and small capitals; <as>as, <ex>lowercase</ex> letters a and b and c etc.</as>. Contrasted with <ant>uppercase</ant>.  See the Note under 1st <er>Case</er>, <pos>n.</pos>, 3.</def><br/
+<mhw><hw>low"er*case`</hw>, <hw>Low"er-case`</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Print.)</fld> <def>Pertaining to, or kept in, the lower case; -- used to denote the small letters, in distinction from capitals and small capitals; <as>as, <ex>lowercase</ex> letters a and b and c etc.</as>. Contrasted with <ant>uppercase</ant>.  See the Note under 1st <er>Case</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>lower-class</ent><br/
@@ -28576,7 +28576,7 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Physiol. Chem.)</fld> <def>A fluid containing certain products resulting from the growth of specific microorganisms upon some culture medium, and supposed to be possessed of curative properties.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Lymph corpuscles</b></col> <fld>(Anat.)</fld>, <cd>finely granular nucleated cells, identical with the colorless blood corpuscles, present in the lymph and chyle.</cd> -- <col><b>Lymph duct</b></col> <fld>(Anat.)</fld>, <cd>a lymphatic.</cd> -- <col><b>Lymph heart</b></col>. <cd>See Note under <er>Heart</er>, <pos>n.</pos>, 1.</cd></cs><br/
+<p><cs><col><b>Lymph corpuscles</b></col> <fld>(Anat.)</fld>, <cd>finely granular nucleated cells, identical with the colorless blood corpuscles, present in the lymph and chyle.</cd> -- <col><b>Lymph duct</b></col> <fld>(Anat.)</fld>, <cd>a lymphatic.</cd> -- <col><b>Lymph heart</b></col>. <cd>See Note under <er>Heart</er>, <pos>n.</pos>, <snr>1</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lymphadenitis</ent><br/

@@ -949,7 +949,7 @@ What light beyond compare !</q> <rj><qau>Neale.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Physics)</fld> <def>Emitted or transmitted by radiation; <as>as, a <ex>radiant</ex> energy; <ex>radiant</ex> heat</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Radiant energy</b></col> <fld>(Physics)</fld>, <cd>energy given out or transmitted by radiation, as in the case of light and radiant heat.</cd> -- <col><b>Radiant heat</b></col>, <cd>heat proceeding in right lines, or directly from the heated body, after the manner of light, in distinction from heat <xex>conducted</xex> or carried by intervening media.</cd> -- <col><b>Radiant point</b></col>. <fld>(Astron.)</fld> <cd>See <er>Radiant</er>, <pos>n.</pos>, 3.</cd></cs><br/
+<p><cs><col><b>Radiant energy</b></col> <fld>(Physics)</fld>, <cd>energy given out or transmitted by radiation, as in the case of light and radiant heat.</cd> -- <col><b>Radiant heat</b></col>, <cd>heat proceeding in right lines, or directly from the heated body, after the manner of light, in distinction from heat <xex>conducted</xex> or carried by intervening media.</cd> -- <col><b>Radiant point</b></col>. <fld>(Astron.)</fld> <cd>See <er>Radiant</er>, <pos>n.</pos>, <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Radiant</ent><br/
@@ -2036,7 +2036,7 @@ The moonlight <qex>raid</qex>, the morning fight.</q> <rj><qau>Sir W. Scott.</qa
 <p><note><hand/ <xex>Rain</xex> is distinguished from <xex>mist</xex> by the size of the drops, which are distinctly visible. When water falls in very small drops or particles, it is called <xex>mist</xex>; and <xex>fog</xex> is composed of particles so fine as to be not only individually indistinguishable, but to float or be suspended in the air. See <er>Fog</er>, and <er>Mist</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rain band</b></col> <fld>(Meteorol.)</fld>, <cd>a dark band in the yellow portion of the solar spectrum near the sodium line, caused by the presence of watery vapor in the atmosphere, and hence sometimes used in weather predictions.</cd> -- <col><b>Rain bird</b></col> <fld>(Zool.)</fld>, <cd>the yaffle, or green woodpecker. <mark>[Prov. Eng.]</mark> The name is also applied to various other birds, as to <spn>Saurothera vetula</spn> of the West Indies.</cd> -- <col><b>Rain fowl</b></col> <fld>(Zool.)</fld>, <cd>the channel-bill cuckoo (<spn>Scythrops Novae-Hollandiae</spn>) of Australia.</cd> -- <col><b>Rain gauge</b></col>, <cd>an instrument of various forms for measuring the quantity of rain that falls at any given place in a given time; a pluviometer; an ombrometer.</cd> -- <col><b>Rain goose</b></col> <fld>(Zool.)</fld>, <cd>the red-throated diver, or loon.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Rain prints</b></col> <fld>(Geol.)</fld>, <cd>markings on the surfaces of stratified rocks, presenting an appearance similar to those made by rain on mud and sand, and believed to have been so produced.</cd> -- <col><b>Rain quail</b></col>. <fld>(Zool.)</fld> <cd>See <er>Quail</er>, <pos>n.</pos>, 1.</cd> -- <col><b>Rain water</b></col>, <cd>water that has fallen from the clouds in rain.</cd></cs><br/
+<p><cs><col><b>Rain band</b></col> <fld>(Meteorol.)</fld>, <cd>a dark band in the yellow portion of the solar spectrum near the sodium line, caused by the presence of watery vapor in the atmosphere, and hence sometimes used in weather predictions.</cd> -- <col><b>Rain bird</b></col> <fld>(Zool.)</fld>, <cd>the yaffle, or green woodpecker. <mark>[Prov. Eng.]</mark> The name is also applied to various other birds, as to <spn>Saurothera vetula</spn> of the West Indies.</cd> -- <col><b>Rain fowl</b></col> <fld>(Zool.)</fld>, <cd>the channel-bill cuckoo (<spn>Scythrops Novae-Hollandiae</spn>) of Australia.</cd> -- <col><b>Rain gauge</b></col>, <cd>an instrument of various forms for measuring the quantity of rain that falls at any given place in a given time; a pluviometer; an ombrometer.</cd> -- <col><b>Rain goose</b></col> <fld>(Zool.)</fld>, <cd>the red-throated diver, or loon.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Rain prints</b></col> <fld>(Geol.)</fld>, <cd>markings on the surfaces of stratified rocks, presenting an appearance similar to those made by rain on mud and sand, and believed to have been so produced.</cd> -- <col><b>Rain quail</b></col>. <fld>(Zool.)</fld> <cd>See <er>Quail</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col><b>Rain water</b></col>, <cd>water that has fallen from the clouds in rain.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rain</ent><br/
@@ -2233,7 +2233,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Raised</hw> <pr>(r<amac/zd)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Lifted up; showing above the surroundings; <as>as, <ex>raised</ex> or embossed metal work</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Leavened; made with leaven, or yeast; -- used of bread, cake, etc., as distinguished from that made with cream of tartar, soda, etc.  See <er>Raise</er>, <pos>v. t.</pos>, 4.</def><br/
+<p><sn>2.</sn> <def>Leavened; made with leaven, or yeast; -- used of bread, cake, etc., as distinguished from that made with cream of tartar, soda, etc.  See <er>Raise</er>, <pos>v. t.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Raised beach</b></col>. <cd>See under <er>Beach</er>, <pos>n.</pos></cd></cs><br/
@@ -2263,7 +2263,7 @@ From him [Noah], and all his anger to forget.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>3.</sn> <def>The operation of embossing sheet metal, or of forming it into cup-shaped or hollow articles, by hammering, stamping, or spinning.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Raising bee</b></col>, <cd>a bee for raising the frame of a building. See <er>Bee</er>, <pos>n.</pos>, 2.</cd> <mark>[U.S.]</mark> <au>W. Irving.</au> -- <col><b>Raising hammer</b></col>, <cd>a hammer with a rounded face, used in raising sheet metal.</cd> -- <col><b>Raising plate</b></col> <fld>(Carp.)</fld>, <cd>the plate, or longitudinal timber, on which a roof is raised and rests.</cd></cs><br/
+<p><cs><col><b>Raising bee</b></col>, <cd>a bee for raising the frame of a building. See <er>Bee</er>, <pos>n.</pos>, <snr>2</snr>.</cd> <mark>[U.S.]</mark> <au>W. Irving.</au> -- <col><b>Raising hammer</b></col>, <cd>a hammer with a rounded face, used in raising sheet metal.</cd> -- <col><b>Raising plate</b></col> <fld>(Carp.)</fld>, <cd>the plate, or longitudinal timber, on which a roof is raised and rests.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Raisonne</ent><br/
@@ -5165,7 +5165,7 @@ Attractive, human, <qex>rational</qex>, love still.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ratting</ent><br/
-<hw>Rat"ting</hw> <pr>(r<acr/t"t<icr/ng)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The conduct or practices of one who rats.  See <er>Rat</er>, <pos>v. i.</pos>, 1.</def>  <rj><au>Sydney Smith.</au></rj><br/
+<hw>Rat"ting</hw> <pr>(r<acr/t"t<icr/ng)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The conduct or practices of one who rats.  See <er>Rat</er>, <pos>v. i.</pos>, <snr>1</snr>.</def>  <rj><au>Sydney Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The low sport of setting a dog upon rats confined in a pit to see how many he will kill in a given time.</def><br/
@@ -10315,7 +10315,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rection</ent><br/
-<hw>Rec"tion</hw> <pr>(r?k"sh?n)</pr>, <pos>n.</pos> <ety>[L. <ets>rectio</ets>, fr. <ets>regere</ets> to rule or govern.]</ety> <fld>(Gram.)</fld> <def>See <er>Government</er>, <pos>n.</pos>, 7.</def>  <rj><au>Gibbs.</au></rj><br/
+<hw>Rec"tion</hw> <pr>(r?k"sh?n)</pr>, <pos>n.</pos> <ety>[L. <ets>rectio</ets>, fr. <ets>regere</ets> to rule or govern.]</ety> <fld>(Gram.)</fld> <def>See <er>Government</er>, <pos>n.</pos>, <snr>7</snr>.</def>  <rj><au>Gibbs.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rectirostral</ent><br/
@@ -11649,7 +11649,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Re*duc"tion</hw> <pr>(r<esl/*d<ucr/k"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/duction</ets>, L.  <ets>reductio</ets>. See <er>Reduce</er>.]</ety> <sn>1.</sn> <def>The act of reducing, or state of being reduced; conversion to a given state or condition; diminution; conquest; <as>as, the <ex>reduction</ex> of a body to powder; the <ex>reduction</ex> of things to order; the <ex>reduction</ex> of the expenses of government; the <ex>reduction</ex> of a rebellious province.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Arith. & Alg.)</fld> <def>The act or process of reducing. See <er>Reduce</er>, <pos>v. t.</pos>, 6. and <cref>To reduce an equation</cref>, <cref>To reduce an expression</cref>, under <er>Reduce</er>, <pos>v. t.</pos></def><br/
+<p><sn>2.</sn> <fld>(Arith. & Alg.)</fld> <def>The act or process of reducing. See <er>Reduce</er>, <pos>v. t.</pos>, <snr>6</snr>. and <cref>To reduce an equation</cref>, <cref>To reduce an expression</cref>, under <er>Reduce</er>, <pos>v. t.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Astron.)</fld> <sd>(a)</sd> <def>The correction of observations for known errors of instruments, etc.</def> <sd>(b)</sd> <def>The preparation of the facts and measurements of observations in order to deduce a general result.</def><br/
@@ -14374,7 +14374,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Registrar</ent><br/
-<hw>Reg"is*trar</hw> <pr>(-tr?r)</pr>, <pos>n.</pos> <ety>[LL. <ets>registrarius</ets>, or F. <ets>r<eacute/gistraire</ets>. See <er>Register</er>.]</ety> <def>One who registers; a recorder; a keeper of records; <as>as, a <ex>registrar</ex> of births, deaths, and marriages</as>. See <er>Register</er>, <pos>n.</pos>, 3.</def><br/
+<hw>Reg"is*trar</hw> <pr>(-tr?r)</pr>, <pos>n.</pos> <ety>[LL. <ets>registrarius</ets>, or F. <ets>r<eacute/gistraire</ets>. See <er>Register</er>.]</ety> <def>One who registers; a recorder; a keeper of records; <as>as, a <ex>registrar</ex> of births, deaths, and marriages</as>. See <er>Register</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Registrarship</ent><br/
@@ -16391,7 +16391,7 @@ That, where it seizes, all <qex>relief</qex> is vain.</q> <rj><qau>Dryden.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Relievo</ent><br/
-<hw>Re*lie"vo</hw> <pr>(r?-l?"v?)</pr>, <pos>n.</pos> <ety>[It. <ets>rilievo</ets>.]</ety> <def>See <er>Relief</er>, <pos>n.</pos>, 5.</def><br/
+<hw>Re*lie"vo</hw> <pr>(r?-l?"v?)</pr>, <pos>n.</pos> <ety>[It. <ets>rilievo</ets>.]</ety> <def>See <er>Relief</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Relight</ent><br/
@@ -16892,7 +16892,7 @@ After a voyage.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remainder-man</ent><br/
-<hw>Re*main"der-man</hw> <pr>(- m<acr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Remainder-men</plw> <pr>(-m<ecr/n)</pr>.</plu> <fld>(Law)</fld> <def>One who has an estate after a particular estate is determined. See <er>Remainder</er>, <pos>n.</pos>, 3.</def>  <rj><au>Blackstone.</au></rj><br/
+<hw>Re*main"der-man</hw> <pr>(- m<acr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Remainder-men</plw> <pr>(-m<ecr/n)</pr>.</plu> <fld>(Law)</fld> <def>One who has an estate after a particular estate is determined. See <er>Remainder</er>, <pos>n.</pos>, <snr>3</snr>.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Remake</ent><br/
@@ -19150,7 +19150,7 @@ Us to abolish.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Re*peat"ing</hw>, <pos>a.</pos> <def>Doing the same thing over again; accomplishing a given result many times in succession; <as>as, a <ex>repeating</ex> firearm; a <ex>repeating</ex> watch</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Repeating circle</b></col>. <cd>See the Note under <er>Circle</er>, <pos>n.</pos>, 3.</cd> -- <col><b>Repeating decimal</b></col> <fld>(Arith.)</fld>, <cd>a circulating decimal. See under <er>Decimal</er>.</cd> -- <col><b>Repeating firearm</b></col>, <cd>a firearm that may be discharged many times in quick succession</cd>; especially: <sd>(a)</sd> <cd>A form of firearm so constructed that by the action of the mechanism the charges are successively introduced from a chamber containing them into the breech of the barrel, and fired.</cd> <sd>(b)</sd> <cd>A form in which the charges are held in, and discharged from, a revolving chamber at the breech of the barrel. See <er>Revolver</er>, and <cref>Magazine gun</cref>, under <er>Magazine</er>.</cd><-- also called automatic weapon --> -- <col><b>Repeating instruments</b></col> <fld>(Astron. & Surv.)</fld>, <cd>instruments for observing angles, as a circle, theodolite, etc., so constructed that the angle may be measured several times in succession, and different, but successive and contiguous, portions of the graduated limb, before reading off the aggregate result, which aggregate, divided by the number of measurements, gives the angle, freed in a measure from errors of eccentricity and graduation.</cd> -- <col><b>Repeating watch</b></col>. <cd>See <er>Repeater</er> <sdr>(a)</sdr></cd></cs><br/
+<p><cs><col><b>Repeating circle</b></col>. <cd>See the Note under <er>Circle</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Repeating decimal</b></col> <fld>(Arith.)</fld>, <cd>a circulating decimal. See under <er>Decimal</er>.</cd> -- <col><b>Repeating firearm</b></col>, <cd>a firearm that may be discharged many times in quick succession</cd>; especially: <sd>(a)</sd> <cd>A form of firearm so constructed that by the action of the mechanism the charges are successively introduced from a chamber containing them into the breech of the barrel, and fired.</cd> <sd>(b)</sd> <cd>A form in which the charges are held in, and discharged from, a revolving chamber at the breech of the barrel. See <er>Revolver</er>, and <cref>Magazine gun</cref>, under <er>Magazine</er>.</cd><-- also called automatic weapon --> -- <col><b>Repeating instruments</b></col> <fld>(Astron. & Surv.)</fld>, <cd>instruments for observing angles, as a circle, theodolite, etc., so constructed that the angle may be measured several times in succession, and different, but successive and contiguous, portions of the graduated limb, before reading off the aggregate result, which aggregate, divided by the number of measurements, gives the angle, freed in a measure from errors of eccentricity and graduation.</cd> -- <col><b>Repeating watch</b></col>. <cd>See <er>Repeater</er> <sdr>(a)</sdr></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Repedation</ent><br/
@@ -20393,7 +20393,7 @@ ll I forget to love, and learn to grieve.</q> <rj><qau>Denham.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reprizes</ent><br/
-<hw>Re*priz"es</hw> <pr>(-pr?z"?z)</pr>, <pos>n. pl.</pos> <fld>(Law)</fld> <def>See <er>Reprise</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Re*priz"es</hw> <pr>(-pr?z"?z)</pr>, <pos>n. pl.</pos> <fld>(Law)</fld> <def>See <er>Reprise</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reproach</ent><br/
@@ -23261,7 +23261,7 @@ And vengeance to the wicked.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Re*spir"a*to*ry</hw> <pr>(r?*sp?r"?*t?*r? <or/ r?s"p?*r?-)</pr>, <pos>a.</pos> <fld>(Physiol.)</fld> <def>Of or pertaining to respiration; serving for respiration; <as>as, the <ex>respiratory</ex> organs; <ex>respiratory</ex> nerves; the <ex>respiratory</ex> function; <ex>respiratory</ex> changes.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Respiratory foods</b></col>. <fld>(Physiol.)</fld> <cd>See 2d Note under <er>Food</er>, <pos>n.</pos>, 1.</cd> -- <col><b>Respiratory tree</b></col> <fld>(Zool.)</fld>, <cd>the branched internal gill of certain holothurians.</cd></cs><br/
+<p><cs><col><b>Respiratory foods</b></col>. <fld>(Physiol.)</fld> <cd>See 2d Note under <er>Food</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col><b>Respiratory tree</b></col> <fld>(Zool.)</fld>, <cd>the branched internal gill of certain holothurians.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Respire</ent><br/
@@ -25091,7 +25091,7 @@ And to herself she gladly doth <qex>retire</qex>.</q> <rj><qau>Sir J. Davies.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Retort</ent><br/
-<hw>Re*tort"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Retorted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Retorting</conjf>.]</vmorph> <ety>[L. <ets>retortus</ets>, p. p. of <ets>retorquere</ets>; pref. <ets>re-</ets> re- + <ets>torquere</ets> to turn twist. See <er>Torsion</er>, and cf. <er>Retort</er>, <pos>n.</pos>, 2.]</ety> <sn>1.</sn> <def>To bend or curve back; <as>as, a <ex>retorted</ex> line</as>.</def><br/
+<hw>Re*tort"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Retorted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Retorting</conjf>.]</vmorph> <ety>[L. <ets>retortus</ets>, p. p. of <ets>retorquere</ets>; pref. <ets>re-</ets> re- + <ets>torquere</ets> to turn twist. See <er>Torsion</er>, and cf. <er>Retort</er>, <pos>n.</pos>, <snr>2</snr>.]</ety> <sn>1.</sn> <def>To bend or curve back; <as>as, a <ex>retorted</ex> line</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>With <qex>retorted</qex> head, pruned themselves as they floated.</q> <rj><qau>Southey.</qau></rj><br/
@@ -28569,7 +28569,7 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 I worked my <qex>rhythmic</qex> thought.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rhythmical accent</b></col>. <fld>(Mus.)</fld> <cd>See <er>Accent</er>, <pos>n.</pos>, 6 <sdr>(c)</sdr>.</cd></cs><br/
+<p><cs><col><b>Rhythmical accent</b></col>. <fld>(Mus.)</fld> <cd>See <er>Accent</er>, <pos>n.</pos>, <snr>6</snr> <sdr>(c)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rhythmically</ent><br/
@@ -29532,7 +29532,7 @@ Yet touched and shamed by <qex>ridicule</qex> alone.</q> <rj><qau>Pope.</qau></r
 <p><q>When there any <qex>riding</qex> was in Cheap.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Same as <er>Ride</er>, <pos>n.</pos>, 3.</def>  <rj><au>Sir P. Sidney.</au></rj><br/
+<p><sn>3.</sn> <def>Same as <er>Ride</er>, <pos>n.</pos>, <snr>3</snr>.</def>  <rj><au>Sir P. Sidney.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A district in charge of an excise officer.</def> <mark>[Eng.]</mark><br/
@@ -29649,7 +29649,7 @@ If not, we'll make you sit and <qex>rifle</qex> you.</q> <rj><qau>Shak.</qau></r
 <hw>Ri"fle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To grove; to channel; especially, to groove internally with spiral channels; <as>as, to <ex>rifle</ex> a gun barrel or a cannon</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To whet with a rifle. See <er>Rifle</er>, <pos>n.</pos>, 3.</def><br/
+<p><sn>2.</sn> <def>To whet with a rifle. See <er>Rifle</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riflebird</ent><br/
@@ -29865,7 +29865,7 @@ Of <qex>running</qex> such <qex>a rig</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>10.</sn> <def>Designed to be placed or worn outward; <as>as, the <ex>right</ex> side of a piece of cloth</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At right angles</b></col>, <cd>so as to form a right angle or right angles, as when one line crosses another perpendicularly.</cd> -- <col><b>Right and left</b></col>, <cd>in both or all directions.</cd> <mark>[Colloq.]</mark> -- <col><b>Right and left coupling</b></col> <fld>(Pipe fitting)</fld>, <cd>a coupling the opposite ends of which are tapped for a right-handed screw and a left-handed screw, respectivelly.</cd> -- <col><b>Right angle</b></col>. <sd>(a)</sd> <cd>The angle formed by one line meeting another perpendicularly, as the angles <xex>ABD</xex>, <xex>DBC</xex>.</cd> <sd>(b)</sd> <fld>(Spherics)</fld> <cd>A spherical angle included between the axes of two great circles whose planes are perpendicular to each other.</cd> -- <col><b>Right ascension</b></col>. <cd>See under <er>Ascension</er>.</cd> -- <col><b>Right Center</b></col> <fld>(Politics)</fld>, <cd>those members belonging to the Center in a legislative assembly who have sympathies with the Right on political questions. See <er>Center</er>, <pos>n.</pos>, 5.</cd> -- <mcol><col><b>Right cone</b></col>, <col><b>Right cylinder</b></col>, <col><b>Right prism</b></col>, <col><b>Right pyramid</b></col></mcol> <fld>(Geom.)</fld>, <cd>a cone, cylinder, prism, or pyramid, the axis of which is perpendicular to the base.</cd> -- <col><b>Right line</b></col>. <cd>See under <er>Line</er>.</cd> -- <col><b>Right sailing</b></col> <fld>(Naut.)</fld>, <cd>sailing on one of the four cardinal points, so as to alter a ship's latitude or its longitude, but not both.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Right sphere</b></col> <fld>(Astron. & Geol.)</fld>, <cd>a sphere in such a position that the equator cuts the horizon at right angles; in spherical projections, that position of the sphere in which the primitive plane coincides with the plane of the equator.</cd></cs><br/
+<p><cs><col><b>At right angles</b></col>, <cd>so as to form a right angle or right angles, as when one line crosses another perpendicularly.</cd> -- <col><b>Right and left</b></col>, <cd>in both or all directions.</cd> <mark>[Colloq.]</mark> -- <col><b>Right and left coupling</b></col> <fld>(Pipe fitting)</fld>, <cd>a coupling the opposite ends of which are tapped for a right-handed screw and a left-handed screw, respectivelly.</cd> -- <col><b>Right angle</b></col>. <sd>(a)</sd> <cd>The angle formed by one line meeting another perpendicularly, as the angles <xex>ABD</xex>, <xex>DBC</xex>.</cd> <sd>(b)</sd> <fld>(Spherics)</fld> <cd>A spherical angle included between the axes of two great circles whose planes are perpendicular to each other.</cd> -- <col><b>Right ascension</b></col>. <cd>See under <er>Ascension</er>.</cd> -- <col><b>Right Center</b></col> <fld>(Politics)</fld>, <cd>those members belonging to the Center in a legislative assembly who have sympathies with the Right on political questions. See <er>Center</er>, <pos>n.</pos>, <snr>5</snr>.</cd> -- <mcol><col><b>Right cone</b></col>, <col><b>Right cylinder</b></col>, <col><b>Right prism</b></col>, <col><b>Right pyramid</b></col></mcol> <fld>(Geom.)</fld>, <cd>a cone, cylinder, prism, or pyramid, the axis of which is perpendicular to the base.</cd> -- <col><b>Right line</b></col>. <cd>See under <er>Line</er>.</cd> -- <col><b>Right sailing</b></col> <fld>(Naut.)</fld>, <cd>sailing on one of the four cardinal points, so as to alter a ship's latitude or its longitude, but not both.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Right sphere</b></col> <fld>(Astron. & Geol.)</fld>, <cd>a sphere in such a position that the equator cuts the horizon at right angles; in spherical projections, that position of the sphere in which the primitive plane coincides with the plane of the equator.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Right</xex> is used elliptically for <xex>it is right</xex>, <xex>what you say is right</xex>, <xex>true</xex>.</note><br/
@@ -30426,7 +30426,7 @@ With <qex>rigorous hands</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rilievo</ent><br/
-\'d8<hw>Ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It. See <er>Relief</er>.]</ety> <fld>(Sculp. & Arch.)</fld> <def>Same as <er>Relief</er>, <pos>n.</pos>, 5.</def><br/
+\'d8<hw>Ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[It. See <er>Relief</er>.]</ety> <fld>(Sculp. & Arch.)</fld> <def>Same as <er>Relief</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rill</ent><br/
@@ -30968,7 +30968,7 @@ Whereof the ewe not bites.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>No pulse that <qex>riots</qex>, and no blood that glows.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>To disturb the peace; to raise an uproar or sedition. See <er>Riot</er>, <pos>n.</pos>, 3.</def>  <rj><au>Johnson.</au></rj><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>To disturb the peace; to raise an uproar or sedition. See <er>Riot</er>, <pos>n.</pos>, <snr>3</snr>.</def>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riot</ent><br/
@@ -30982,7 +30982,7 @@ Whereof the ewe not bites.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Ri"ot*er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who riots; a reveler; a roisterer.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>One who engages in a riot. See <er>Riot</er>, <pos>n.</pos>, 3.</def><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>One who engages in a riot. See <er>Riot</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riotise</ent><br/
@@ -31265,7 +31265,7 @@ Robbing a <qex>ripper</qex> of his fish.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ripsaw</ent><br/
-<hw>Rip"saw`</hw> <pr>(?)</pr>, <ety>[See <er>Rip</er>, <pos>v. t.</pos>, 4.]</ety> <fld>(Carp.)</fld> <def>A handsaw with coarse teeth which have but a slight set, used for cutting wood in the direction of the grain (the fiber); -- called also <altname>ripping saw</altname>.</def><br/
+<hw>Rip"saw`</hw> <pr>(?)</pr>, <ety>[See <er>Rip</er>, <pos>v. t.</pos>, <snr>4</snr>.]</ety> <fld>(Carp.)</fld> <def>A handsaw with coarse teeth which have but a slight set, used for cutting wood in the direction of the grain (the fiber); -- called also <altname>ripping saw</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Riptowel</ent><br/
@@ -32177,7 +32177,7 @@ They are <qex>upon the road</qex>.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Roar"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>A loud, deep, prolonged sound, as of a large beast, or of a person in distress, anger, mirth, etc., or of a noisy congregation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Far.)</fld> <def>An affection of the windpipe of a horse, causing a loud, peculiar noise in breathing under exertion; the making of the noise so caused. See <er>Roar</er>, <pos>v. i.</pos>, 5.</def><br/
+<p><sn>2.</sn> <fld>(Far.)</fld> <def>An affection of the windpipe of a horse, causing a loud, peculiar noise in breathing under exertion; the making of the noise so caused. See <er>Roar</er>, <pos>v. i.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roaring forties</ent><br/
@@ -32320,7 +32320,7 @@ Let him not know it, and he's not <qex>robbed</qex> at all.</q> <rj><qau>Shak.</
 When judges steal themselves.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>The crime of robbing. See <er>Rob</er>, <pos>v. t.</pos>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>The crime of robbing. See <er>Rob</er>, <pos>v. t.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Robbery</xex>, in a strict sense, differs from <xex>theft</xex>, as it is effected by force or intimidation, whereas <xex>theft</xex> is committed by stealth, or privately.</note><br/
@@ -33429,7 +33429,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 <p><sn>3.</sn> <fld>(Print.)</fld> <sd>(a)</sd> <def>Upright; erect; -- said of the letters or kind of type ordinarily used, as distinguished from <xex>Italic</xex> characters.</def> <sd>(b)</sd> <def>Expressed in letters, not in figures, as I., IV., i., iv., etc.; -- said of numerals, as distinguished from the <xex>Arabic</xex> numerals, 1, 4, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Roman alum</b></col> <fld>(Chem.)</fld>, <cd>a cubical potassium alum formerly obtained in large quantities from Italian alunite, and highly valued by dyers on account of its freedom from iron.</cd> -- <col><b>Roman balance</b></col>, <cd>a form of balance nearly resembling the modern steelyard. See the Note under <er>Balance</er>, <pos>n.</pos>, 1.</cd> -- <col><b>Roman candle</b></col>, <cd>a kind of firework (generally held in the hand), characterized by the continued emission of shower of sparks, and the ejection, at intervals, of brilliant balls or stars of fire which are thrown upward as they become ignited.</cd> -- <col><b>Roman Catholic</b></col>, <cd>of, pertaining to, or the religion of that church of which the pope is the spiritual head; <as>as, a <ex>Roman Catholic</ex> priest; the <ex>Roman Catholic</ex> Church</as>.</cd> -- <col><b>Roman cement</b></col>, <cd>a cement having the property of hardening under water; a species of hydraulic cement.</cd> -- <col><b>Roman law</b></col>. <cd>See under <er>Law</er>.</cd> -- <col><b>Roman nose</b></col>, <cd>a nose somewhat aquiline.</cd> -- <col><b>Roman ocher</b></col>, <cd>a deep, rich orange color, transparent and durable, used by artists.</cd> <au>Ure.</au> -- <col><b>Roman order</b></col> <fld>(Arch.)</fld>, <cd>the composite order. See <er>Composite</er>, <pos>a.</pos>, 2.</cd></cs><br/
+<p><cs><col><b>Roman alum</b></col> <fld>(Chem.)</fld>, <cd>a cubical potassium alum formerly obtained in large quantities from Italian alunite, and highly valued by dyers on account of its freedom from iron.</cd> -- <col><b>Roman balance</b></col>, <cd>a form of balance nearly resembling the modern steelyard. See the Note under <er>Balance</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col><b>Roman candle</b></col>, <cd>a kind of firework (generally held in the hand), characterized by the continued emission of shower of sparks, and the ejection, at intervals, of brilliant balls or stars of fire which are thrown upward as they become ignited.</cd> -- <col><b>Roman Catholic</b></col>, <cd>of, pertaining to, or the religion of that church of which the pope is the spiritual head; <as>as, a <ex>Roman Catholic</ex> priest; the <ex>Roman Catholic</ex> Church</as>.</cd> -- <col><b>Roman cement</b></col>, <cd>a cement having the property of hardening under water; a species of hydraulic cement.</cd> -- <col><b>Roman law</b></col>. <cd>See under <er>Law</er>.</cd> -- <col><b>Roman nose</b></col>, <cd>a nose somewhat aquiline.</cd> -- <col><b>Roman ocher</b></col>, <cd>a deep, rich orange color, transparent and durable, used by artists.</cd> <au>Ure.</au> -- <col><b>Roman order</b></col> <fld>(Arch.)</fld>, <cd>the composite order. See <er>Composite</er>, <pos>a.</pos>, 2.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roman</ent><br/
@@ -33726,7 +33726,7 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ronco</ent><br/
-<hw>Ron"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>ronco</ets> hoarse.]</ety> <fld>(Zool.)</fld> <def>See <er>Croaker</er>, <pos>n.</pos>, 2. <sdr>(a)</sdr>.</def> <mark>[Texas]</mark><br/
+<hw>Ron"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>ronco</ets> hoarse.]</ety> <fld>(Zool.)</fld> <def>See <er>Croaker</er>, <pos>n.</pos>, <snr>2</snr>. <sdr>(a)</sdr>.</def> <mark>[Texas]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rondache</ent><br/
@@ -33870,7 +33870,7 @@ Showered roses, which the morn repaired.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Mining.)</fld> <def>The surface or bed of rock immediately overlying a bed of coal or a flat vein.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bell roof</b></col>, <col><b>French roof</b></col></mcol>, <cd>etc. <fld>(Arch.)</fld> See under <er>Bell</er>, <er>French</er>, etc.</cd> -- <col><b>Flat roof</b></col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>A roof actually horizontal and level, as in some Oriental buildings</cd>. <sd>(b)</sd> <cd>A roof nearly horizontal, constructed of such material as allows the water to run off freely from a very slight inclination.</cd> -- <col><b>Roof plate</b></col>. <fld>(Arch.)</fld> <cd>See <er>Plate</er>, <pos>n.</pos>, 10.</cd></cs><br/
+<p><cs><mcol><col><b>Bell roof</b></col>, <col><b>French roof</b></col></mcol>, <cd>etc. <fld>(Arch.)</fld> See under <er>Bell</er>, <er>French</er>, etc.</cd> -- <col><b>Flat roof</b></col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>A roof actually horizontal and level, as in some Oriental buildings</cd>. <sd>(b)</sd> <cd>A roof nearly horizontal, constructed of such material as allows the water to run off freely from a very slight inclination.</cd> -- <col><b>Roof plate</b></col>. <fld>(Arch.)</fld> <cd>See <er>Plate</er>, <pos>n.</pos>, <snr>10</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Roof</ent><br/
@@ -34204,7 +34204,7 @@ O, let me <qex>roost</qex> and nestle there.</q> <rj><qau>Herbert.</qau></rj><br
 <p><q>When a <qex>root</qex> is of a birth yknowe [known].</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Aerial roots</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Small roots emitted from the stem of a plant in the open air, which, attaching themselves to the bark of trees, etc., serve to support the plant.</cd> <sd>(b)</sd> <cd>Large roots growing from the stem, etc., which descend and establish themselves in the soil. See <xex>Illust.</xex> of <er>Mangrove</er>.</cd> -- <col><b>Multiple primary root</b></col> <fld>(Bot.)</fld>, <cd>a name given to the numerous roots emitted from the radicle in many plants, as the squash.</cd> -- <col><b>Primary root</b></col> <fld>(Bot.)</fld>, <cd>the central, first-formed, main root, from which the rootlets are given off.</cd> -- <col><b>Root and branch</b></col>, <cd>every part; wholly; completely; <as>as, to destroy an error <ex>root and branch</ex></as>.</cd> -- <col><b>Root-and-branch men</b></col>, <cd>radical reformers; -- a designation applied to the English Independents (1641). See Citation under <er>Radical</er>, <pos>n.</pos>, 2.</cd> -- <col><b>Root barnacle</b></col> <fld>(Zool.)</fld>, <cd>one of the Rhizocephala.</cd> -- <col><b>Root hair</b></col> <fld>(Bot.)</fld>, <cd>one of the slender, hairlike fibers found on the surface of fresh roots. They are prolongations of the superficial cells of the root into minute tubes.</cd> <au>Gray.</au> -- <col><b>Root leaf</b></col> <fld>(Bot.)</fld>, <cd>a radical leaf.</cd> See <er>Radical</er>, <pos>a.</pos>, 3 <sdr>(b)</sdr>. -- <col><b>Root louse</b></col> <fld>(Zool.)</fld>, <cd>any plant louse, or aphid, which lives on the roots of plants, as the Phylloxera of the grapevine.</cd> See <er>Phylloxera</er>. -- <col><b>Root of an equation</b></col> <fld>(Alg.)</fld>, <cd>that value which, substituted for the unknown quantity in an equation, satisfies the equation.</cd> -- <col><b>Root of a nail</b></col> <sd>(Anat.)</sd>, <cd>the part of a nail which is covered by the skin.</cd> -- <col><b>Root of a tooth</b></col> <fld>(Anat.)</fld>, <cd>the part of a tooth contained in the socket and consisting of one or more fangs.</cd> -- <col><b>Secondary roots</b></col> <fld>(Bot.)</fld>, <cd>roots emitted from any part of the plant above the radicle.</cd> -- <mcol><col><b>To strike root</b></col>, <col><b>To take root</b></col></mcol>, <cd>to send forth roots; to become fixed in the earth, etc., by a root; hence, in general, to become planted, fixed, or established; to increase and spread; as, an opinion <xex>takes root</xex>.</cd>  <ldquo/The bended twigs <xex>take root</xex>.<rdquo/ <au>Milton.</au></cs><br/
+<p><cs><col><b>Aerial roots</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>Small roots emitted from the stem of a plant in the open air, which, attaching themselves to the bark of trees, etc., serve to support the plant.</cd> <sd>(b)</sd> <cd>Large roots growing from the stem, etc., which descend and establish themselves in the soil. See <xex>Illust.</xex> of <er>Mangrove</er>.</cd> -- <col><b>Multiple primary root</b></col> <fld>(Bot.)</fld>, <cd>a name given to the numerous roots emitted from the radicle in many plants, as the squash.</cd> -- <col><b>Primary root</b></col> <fld>(Bot.)</fld>, <cd>the central, first-formed, main root, from which the rootlets are given off.</cd> -- <col><b>Root and branch</b></col>, <cd>every part; wholly; completely; <as>as, to destroy an error <ex>root and branch</ex></as>.</cd> -- <col><b>Root-and-branch men</b></col>, <cd>radical reformers; -- a designation applied to the English Independents (1641). See Citation under <er>Radical</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Root barnacle</b></col> <fld>(Zool.)</fld>, <cd>one of the Rhizocephala.</cd> -- <col><b>Root hair</b></col> <fld>(Bot.)</fld>, <cd>one of the slender, hairlike fibers found on the surface of fresh roots. They are prolongations of the superficial cells of the root into minute tubes.</cd> <au>Gray.</au> -- <col><b>Root leaf</b></col> <fld>(Bot.)</fld>, <cd>a radical leaf.</cd> See <er>Radical</er>, <pos>a.</pos>, 3 <sdr>(b)</sdr>. -- <col><b>Root louse</b></col> <fld>(Zool.)</fld>, <cd>any plant louse, or aphid, which lives on the roots of plants, as the Phylloxera of the grapevine.</cd> See <er>Phylloxera</er>. -- <col><b>Root of an equation</b></col> <fld>(Alg.)</fld>, <cd>that value which, substituted for the unknown quantity in an equation, satisfies the equation.</cd> -- <col><b>Root of a nail</b></col> <sd>(Anat.)</sd>, <cd>the part of a nail which is covered by the skin.</cd> -- <col><b>Root of a tooth</b></col> <fld>(Anat.)</fld>, <cd>the part of a tooth contained in the socket and consisting of one or more fangs.</cd> -- <col><b>Secondary roots</b></col> <fld>(Bot.)</fld>, <cd>roots emitted from any part of the plant above the radicle.</cd> -- <mcol><col><b>To strike root</b></col>, <col><b>To take root</b></col></mcol>, <cd>to send forth roots; to become fixed in the earth, etc., by a root; hence, in general, to become planted, fixed, or established; to increase and spread; as, an opinion <xex>takes root</xex>.</cd>  <ldquo/The bended twigs <xex>take root</xex>.<rdquo/ <au>Milton.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Root</ent><br/
@@ -34603,7 +34603,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rosehead</ent><br/
-<hw>Rose"head`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>See <er>Rose</er>, <pos>n.</pos>, 4.</def><br/
+<hw>Rose"head`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>See <er>Rose</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A many-sided pyramidal head upon a nail; also a nail with such a head.</def><br/
@@ -37121,7 +37121,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubigo</ent><br/
-\'d8<hw>Ru*bi"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rubigo</ets>, <ets>robigo</ets>, rust of metals, rust, blight.]</ety> <fld>(bot.)</fld> <def>same as <er>Rust</er>, <pos>n.</pos>, 2.</def><br/
+\'d8<hw>Ru*bi"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>rubigo</ets>, <ets>robigo</ets>, rust of metals, rust, blight.]</ety> <fld>(bot.)</fld> <def>same as <er>Rust</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rubin</ent><br/
@@ -37221,7 +37221,7 @@ Or plaistered posts, with claps, in capitals?</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>3.</sn> <def>That which has the color of the ruby, as red wine. Hence, a red blain or carbuncle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <fld>(Print.)</fld> <def>See <er>Agate</er>, <pos>n.</pos>, 2.</def> <mark>[Eng.]</mark><br/
+<p><sn>4.</sn> <fld>(Print.)</fld> <def>See <er>Agate</er>, <pos>n.</pos>, <snr>2</snr>.</def> <mark>[Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>Any species of South American humming birds of the genus <gen>Clytolaema</gen>. The males have a ruby-colored throat or breast.</def><br/
@@ -38287,7 +38287,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>A prince and <qex>ruler</qex> of the land.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A straight or curved strip of wood, metal, etc., with a smooth edge, used for guiding a pen or pencil in drawing lines.  Cf. <er>Rule</er>, <pos>n.</pos>, 7 <sdr>(a)</sdr><-- usu. marked with graduations so that it can be used to measure distances -->.</def><br/
+<p><sn>2.</sn> <def>A straight or curved strip of wood, metal, etc., with a smooth edge, used for guiding a pen or pencil in drawing lines.  Cf. <er>Rule</er>, <pos>n.</pos>, <snr>7</snr> <sdr>(a)</sdr><-- usu. marked with graduations so that it can be used to measure distances -->.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Parallel ruler</b></col>. <cd>See under <er>Parallel</er>.</cd></cs><br/
@@ -38385,7 +38385,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumble</ent><br/
-<hw>Rum"ble</hw>, <pos>v. t.</pos> <def>To cause to pass through a rumble, or shaking machine. See <er>Rumble</er>, <pos>n.</pos>, 4.</def><br/
+<hw>Rum"ble</hw>, <pos>v. t.</pos> <def>To cause to pass through a rumble, or shaking machine. See <er>Rumble</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Rumbler</ent><br/
@@ -39651,7 +39651,7 @@ To manly confidence thy throughts apply.</q> <rj><qau>Dryden.</qau></rj></usage>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Russeting</ent><br/
-<hw>Rus"set*ing</hw>, <pos>n.</pos> <def>See <er>Russet</er>, <pos>n.</pos>, 2 and 4.</def><br/
+<hw>Rus"set*ing</hw>, <pos>n.</pos> <def>See <er>Russet</er>, <pos>n.</pos>, <snr>2</snr> and 4.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Russety</ent><br/

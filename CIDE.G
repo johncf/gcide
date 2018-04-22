@@ -284,7 +284,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gadling</ent><br/
-<hw>Gad"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Gad</ets>, n. + <ets>-ling</ets>.]</ety> <fld>(Medi<ae/val Armor)</fld> <mark>[R.]</mark> <def>See <er>Gad</er>, <pos>n.</pos>, 4.</def><br/
+<hw>Gad"ling</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Gad</ets>, n. + <ets>-ling</ets>.]</ety> <fld>(Medi<ae/val Armor)</fld> <mark>[R.]</mark> <def>See <er>Gad</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gadling</ent><br/
@@ -415,7 +415,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 <hw>Gag</hw>, <pos>v. i.</pos> <sn>1.</sn> <def>To heave with nausea; to retch.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>To introduce gags or interpolations. See <er>Gag</er>, <pos>n.</pos>, 3.</def> <mark>[Slang]</mark>  <rj><au>Cornill Mag.</au></rj><br/
+<p><sn>2.</sn> <def>To introduce gags or interpolations. See <er>Gag</er>, <pos>n.</pos>, <snr>3</snr>.</def> <mark>[Slang]</mark>  <rj><au>Cornill Mag.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gag</ent><br/
@@ -1617,7 +1617,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Gallstone</ent><br/
-<hw>Gall"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A concretion, or calculus, formed in the gall bladder or biliary passages. See <er>Calculus</er>, <pos>n.</pos>, 1.</def><br/
+<hw>Gall"stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A concretion, or calculus, formed in the gall bladder or biliary passages. See <er>Calculus</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gally</ent><br/
@@ -1629,7 +1629,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gally</ent><br/
-<hw>Gal"ly</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Galley</er>, <pos>n.</pos>, 4.</def><br/
+<hw>Gal"ly</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Galley</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gallygaskins</ent><br/
@@ -3135,7 +3135,7 @@ Even in the lovely <qex>garnish</qex> of a boy.</q> <rj><qau>Shak.</qau></rj><br
 For <qex>garnish</qex> this, and that for use.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Cookery)</fld> <def>Something set round or upon a dish as an embellishment, such as <stype>parsley</stype>. See <er>Garnish</er>, <pos>v. t.</pos>, 2.</def>  <rj><au>Smart.</au></rj><br/
+<p><sn>2.</sn> <fld>(Cookery)</fld> <def>Something set round or upon a dish as an embellishment, such as <stype>parsley</stype>. See <er>Garnish</er>, <pos>v. t.</pos>, <snr>2</snr>.</def>  <rj><au>Smart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Fetters.</def> <mark>[Cant]</mark><br/
@@ -3169,7 +3169,7 @@ For <qex>garnish</qex> this, and that for use.</q> <rj><qau>Prior.</qau></rj><br
 <p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Warning, or legal notice, to one to appear and give information to the court on any matter.</def> <sd>(b)</sd> <def>Warning to a person in whose hands the effects of another are attached, not to pay the money or deliver the goods to the defendant, but to appear in court and give information as garnishee.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>A fee. See <er>Garnish</er>, <pos>n.</pos>, 4.</def><br/
+<p><sn>3.</sn> <def>A fee. See <er>Garnish</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Garniture</ent><br/
@@ -4070,7 +4070,7 @@ Rise in the heart, and <qex>gather</qex> to the eyes.</q> <rj><qau>Tennyson.</qa
 <p><sn>2.</sn> <fld>(Carriage Making)</fld> <def>The inclination forward of the axle journals to keep the wheels from working outward.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Arch.)</fld> <def>The soffit or under surface of the masonry required in <xex>gathering</xex>. See <er>Gather</er>, <pos>v. t.</pos>, 7.</def><br/
+<p><sn>3.</sn> <fld>(Arch.)</fld> <def>The soffit or under surface of the masonry required in <xex>gathering</xex>. See <er>Gather</er>, <pos>v. t.</pos>, <snr>7</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gatherable</ent><br/
@@ -4349,7 +4349,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>8.</sn> <fld>(Building)</fld> <def>That part of a shingle, slate, or tile, which is exposed to the weather, when laid; also, one course of such shingles, slates, or tiles.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Gauge of a carriage</b></col>, <col><b>car</b></col></mcol>, <cd>etc., the distance between the wheels; -- ordinarily called the <altname>track</altname>.</cd> -- <col><b>Gauge cock</b></col>, <cd>a stop cock used as a try cock for ascertaining the height of the water level in a steam boiler.</cd> -- <col><b>Gauge concussion</b></col> <fld>(Railroads)</fld>, <cd>the jar caused by a car-wheel flange striking the edge of the rail.</cd> -- <col><b>Gauge glass</b></col>, <cd>a glass tube for a water gauge.</cd> -- <col><b>Gauge lathe</b></col>, <cd>an automatic lathe for turning a round object having an irregular profile, as a baluster or chair round, to a templet or gauge.</cd> -- <col><b>Gauge point</b></col>, <cd>the diameter of a cylinder whose altitude is one inch, and contents equal to that of a unit of a given measure; -- a term used in gauging casks, etc.</cd> -- <col><b>Gauge rod</b></col>, <cd>a graduated rod, for measuring the capacity of barrels, casks, etc.</cd> -- <col><b>Gauge saw</b></col>, <cd>a handsaw, with a gauge to regulate the depth of cut.</cd> <au>Knight.</au> -- <col><b>Gauge stuff</b></col>, <cd>a stiff and compact plaster, used in making cornices, moldings, etc., by means of a templet.</cd> -- <col><b>Gauge wheel</b></col>, <cd>a wheel at the forward end of a plow beam, to determine the depth of the furrow.</cd> -- <col><b>Joiner's gauge</b></col>, <cd>an instrument used to strike a line parallel to the straight side of a board, etc.</cd> -- <col><b>Printer's gauge</b></col>, <cd>an instrument to regulate the length of the page.</cd> -- <col><b>Rain gauge</b></col>, <cd>an instrument for measuring the quantity of rain at any given place.</cd> -- <mcol><col><b>Salt gauge</b></col>, or <col><b>Brine gauge</b></col></mcol>, <cd>an instrument or contrivance for indicating the degree of saltness of water from its specific gravity, as in the boilers of ocean steamers.</cd> -- <col><b>Sea gauge</b></col>, <cd>an instrument for finding the depth of the sea.</cd> -- <col><b>Siphon gauge</b></col>, <cd>a glass siphon tube, partly filled with mercury, -- used to indicate pressure, as of steam, or the degree of rarefaction produced in the receiver of an air pump or other vacuum; a manometer.</cd> -- <col><b>Sliding gauge</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A templet or pattern for gauging the commonly accepted dimensions or shape of certain parts in general use, as screws, railway-car axles, etc.</cd> <sd>(b)</sd> <cd>A gauge used only for testing other similar gauges, and preserved as a reference, to detect wear of the working gauges.</cd> <sd>(c)</sd> <fld>(Railroads)</fld> <cd>See Note under <er>Gauge</er>, <pos>n.</pos>, 5.</cd> -- <col><b>Star gauge</b></col> <fld>(Ordnance)</fld>, <cd>an instrument for measuring the diameter of the bore of a cannon at any point of its length.</cd> -- <col><b>Steam gauge</b></col>, <cd>an instrument for measuring the pressure of steam, as in a boiler.</cd> -- <col><b>Tide gauge</b></col>, <cd>an instrument for determining the height of the tides.</cd> -- <col><b>Vacuum gauge</b></col>, <cd>a species of barometer for determining the relative elasticities of the vapor in the condenser of a steam engine and the air.</cd> -- <col><b>Water gauge</b></col>. <sd>(a)</sd> <cd>A contrivance for indicating the height of a water surface, as in a steam boiler; as by a gauge cock or glass.</cd> <sd>(b)</sd> <cd>The height of the water in the boiler.</cd> -- <col><b>Wind gauge</b></col>, <cd>an instrument for measuring the force of the wind on any given surface; an anemometer.</cd> -- <col><b>Wire gauge</b></col>, <cd>a gauge for determining the diameter of wire or the thickness of sheet metal; also, a standard of size. See under <er>Wire</er>.</cd></cs><br/
+<p><cs><mcol><col><b>Gauge of a carriage</b></col>, <col><b>car</b></col></mcol>, <cd>etc., the distance between the wheels; -- ordinarily called the <altname>track</altname>.</cd> -- <col><b>Gauge cock</b></col>, <cd>a stop cock used as a try cock for ascertaining the height of the water level in a steam boiler.</cd> -- <col><b>Gauge concussion</b></col> <fld>(Railroads)</fld>, <cd>the jar caused by a car-wheel flange striking the edge of the rail.</cd> -- <col><b>Gauge glass</b></col>, <cd>a glass tube for a water gauge.</cd> -- <col><b>Gauge lathe</b></col>, <cd>an automatic lathe for turning a round object having an irregular profile, as a baluster or chair round, to a templet or gauge.</cd> -- <col><b>Gauge point</b></col>, <cd>the diameter of a cylinder whose altitude is one inch, and contents equal to that of a unit of a given measure; -- a term used in gauging casks, etc.</cd> -- <col><b>Gauge rod</b></col>, <cd>a graduated rod, for measuring the capacity of barrels, casks, etc.</cd> -- <col><b>Gauge saw</b></col>, <cd>a handsaw, with a gauge to regulate the depth of cut.</cd> <au>Knight.</au> -- <col><b>Gauge stuff</b></col>, <cd>a stiff and compact plaster, used in making cornices, moldings, etc., by means of a templet.</cd> -- <col><b>Gauge wheel</b></col>, <cd>a wheel at the forward end of a plow beam, to determine the depth of the furrow.</cd> -- <col><b>Joiner's gauge</b></col>, <cd>an instrument used to strike a line parallel to the straight side of a board, etc.</cd> -- <col><b>Printer's gauge</b></col>, <cd>an instrument to regulate the length of the page.</cd> -- <col><b>Rain gauge</b></col>, <cd>an instrument for measuring the quantity of rain at any given place.</cd> -- <mcol><col><b>Salt gauge</b></col>, or <col><b>Brine gauge</b></col></mcol>, <cd>an instrument or contrivance for indicating the degree of saltness of water from its specific gravity, as in the boilers of ocean steamers.</cd> -- <col><b>Sea gauge</b></col>, <cd>an instrument for finding the depth of the sea.</cd> -- <col><b>Siphon gauge</b></col>, <cd>a glass siphon tube, partly filled with mercury, -- used to indicate pressure, as of steam, or the degree of rarefaction produced in the receiver of an air pump or other vacuum; a manometer.</cd> -- <col><b>Sliding gauge</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A templet or pattern for gauging the commonly accepted dimensions or shape of certain parts in general use, as screws, railway-car axles, etc.</cd> <sd>(b)</sd> <cd>A gauge used only for testing other similar gauges, and preserved as a reference, to detect wear of the working gauges.</cd> <sd>(c)</sd> <fld>(Railroads)</fld> <cd>See Note under <er>Gauge</er>, <pos>n.</pos>, <snr>5</snr>.</cd> -- <col><b>Star gauge</b></col> <fld>(Ordnance)</fld>, <cd>an instrument for measuring the diameter of the bore of a cannon at any point of its length.</cd> -- <col><b>Steam gauge</b></col>, <cd>an instrument for measuring the pressure of steam, as in a boiler.</cd> -- <col><b>Tide gauge</b></col>, <cd>an instrument for determining the height of the tides.</cd> -- <col><b>Vacuum gauge</b></col>, <cd>a species of barometer for determining the relative elasticities of the vapor in the condenser of a steam engine and the air.</cd> -- <col><b>Water gauge</b></col>. <sd>(a)</sd> <cd>A contrivance for indicating the height of a water surface, as in a steam boiler; as by a gauge cock or glass.</cd> <sd>(b)</sd> <cd>The height of the water in the boiler.</cd> -- <col><b>Wind gauge</b></col>, <cd>an instrument for measuring the force of the wind on any given surface; an anemometer.</cd> -- <col><b>Wire gauge</b></col>, <cd>a gauge for determining the diameter of wire or the thickness of sheet metal; also, a standard of size. See under <er>Wire</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 616 --></p>
@@ -9239,7 +9239,7 @@ Lies foul with chewed grass.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ging</ent><br/
-<hw>Ging</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Gang</er>, <pos>n.</pos>, 2.</def> <mark>[Obs.]</mark><br/
+<hw>Ging</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Gang</er>, <pos>n.</pos>, <snr>2</snr>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>There is a knot, a <qex>ging</qex>, a pack, a conspiracy against me.</q> <rj><qau>Shak.</qau></rj><br/
@@ -11027,7 +11027,7 @@ The running of one <qex>glass</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glaze</ent><br/
-<hw>Glaze</hw>, <pos>n.</pos> <sn>1.</sn> <def>The vitreous coating of pottery or porcelain; anything used as a coating or color in glazing. See <er>Glaze</er>, <pos>v. t.</pos>, 3.</def>  <rj><au>Ure.</au></rj><br/
+<hw>Glaze</hw>, <pos>n.</pos> <sn>1.</sn> <def>The vitreous coating of pottery or porcelain; anything used as a coating or color in glazing. See <er>Glaze</er>, <pos>v. t.</pos>, <snr>3</snr>.</def>  <rj><au>Ure.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Cookery)</fld> <def>Broth reduced by boiling to a gelatinous paste, and spread thinly over braised dishes.</def><br/
@@ -11437,7 +11437,7 @@ To speak and purpose not.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glicke</ent><br/
-<hw>Glicke</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Gleek</er>, <pos>n.</pos>, 2, and Ir. & Gael. <ets>glic</ets> wise, cunning, crafty.]</ety> <def>An ogling look.</def> <mark>[Obs.]</mark><br/
+<hw>Glicke</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Gleek</er>, <pos>n.</pos>, <snr>2</snr>, and Ir. & Gael. <ets>glic</ets> wise, cunning, crafty.]</ety> <def>An ogling look.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glidden</ent><br/
@@ -14606,7 +14606,7 @@ The nymphs and native <qex>godheads</qex> yet unknown.</q> <rj><qau>Dryden.</qau
 <p><sn>4.</sn> <def>Figuratively, something precious or pure; <as>as, hearts of <ex>gold</ex></as>.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Age of gold</b></col>. <cd>See <cref>Golden age</cref>, under <er>Golden</er>.</cd> -- <mcol><col><b>Dutch gold</b></col>, <col><b>Fool's gold</b></col>, <col><b>Gold dust</b></col></mcol>, <cd>etc. See under <er>Dutch</er>, <er>Dust</er>, etc.</cd> -- <col><b>Gold amalgam</b></col>, <cd>a mineral, found in Columbia and California, composed of gold and mercury.</cd> -- <col><b>Gold beater</b></col>, <cd>one whose occupation is to beat gold into gold leaf.</cd> -- <col><b>Gold beater's skin</b></col>, <cd>the prepared outside membrane of the large intestine of the ox, used for separating the leaves of metal during the process of gold-beating.</cd> -- <col><b>Gold beetle</b></col> <fld>(Zool.)</fld>, <cd>any small gold-colored beetle of the family <fam>Chrysomelid<ae/</fam>; -- called also <altname>golden beetle</altname>.</cd> -- <col><b>Gold blocking</b></col>, <cd>printing with gold leaf, as upon a book cover, by means of an engraved block.</cd> <au>Knight.</au> -- <col><b>Gold cloth</b></col>. <cd>See <cref>Cloth of gold</cref>, under <er>Cloth</er>.</cd> -- <col><b>Gold Coast</b></col>, <cd>a part of the coast of Guinea, in West Africa.</cd> -- <col><b>Gold cradle</b></col>. <fld>(Mining)</fld> <cd>See <er>Cradle</er>, <pos>n.</pos>, 7.</cd> -- <col><b>Gold diggings</b></col>, <cd>the places, or region, where gold is found by digging in sand and gravel from which it is separated by washing.</cd> -- <col><b>Gold end</b></col>, <cd>a fragment of broken gold or jewelry.</cd> -- <col><b>Gold-end man</b></col>. <sd>(a)</sd> <cd>A buyer of old gold or jewelry.</cd> <sd>(b)</sd> <cd>A goldsmith's apprentice.</cd> <sd>(c)</sd> <cd>An itinerant jeweler.</cd> <ldquo/I know him not: he looks like a <xex>gold-end man</xex>.<rdquo/  <au>B. Jonson.</au> -- <col><b>Gold fever</b></col>, <cd>a popular mania for gold hunting.</cd> -- <col><b>Gold field</b></col>, <cd>a region in which are deposits of gold.</cd> -- <col><b>Gold finder</b></col>. <sd>(a)</sd> <cd>One who finds gold.</cd> <sd>(b)</sd> <cd>One who empties privies.</cd> <mark>[Obs. & Low]</mark> <au>Swift.</au> -- <col><b>Gold flower</b></col>, <cd>a composite plant with dry and persistent yellow radiating involucral scales, the <spn>Helichrysum St<oe/chas</spn> of Southern Europe. There are many South African species of the same genus.</cd> -- <col><b>Gold foil</b></col>, <cd>thin sheets of gold, as used by dentists and others. See <er>Gold leaf</er>.</cd> -- <mcol><col><b>Gold knobs</b></col> <it>or</it> <col><b>Gold knoppes</b></col></mcol> <fld>(Bot.)</fld>, <cd>buttercups.</cd> -- <col><b>Gold lace</b></col>, <cd>a kind of lace, made of gold thread.</cd> -- <col><b>Gold latten</b></col>, <cd>a thin plate of gold or gilded metal.</cd> -- <col><b>Gold leaf</b></col>, <cd>gold beaten into a film of extreme thinness, and used for gilding, etc. It is much thinner than gold foil.</cd> -- <col><b>Gold lode</b></col> <fld>(Mining)</fld>, <cd>a gold vein.</cd> -- <col><b>Gold mine</b></col>, <cd>a place where gold is obtained by mining operations, as distinguished from diggings, where it is extracted by washing.  Cf. <cref>Gold diggings</cref> (above).</cd> -- <col><b>Gold nugget</b></col>, <cd>a lump of gold as found in gold mining or digging; -- called also a <altname>pepito</altname>.</cd> -- <col><b>Gold paint</b></col>. <cd>See <cref>Gold shell</cref>.</cd> -- <mcol><col><b>Gold pheasant</b></col>, <it>or</it> <col><b>Golden pheasant</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Pheasant</er>.</cd> -- <col><b>Gold plate</b></col>, <cd>a general name for vessels, dishes, cups, spoons, etc., made of gold.</cd><-- now usu. referring to objects made of a base metal with a layer of gold on the surface. --> -- <col><b>Gold of pleasure</b></col>. <ety>[Name perhaps translated from Sp. <ets>oro-de-alegria</ets>.]</ety> <fld>(Bot.)</fld> <cd>A plant of the genus <gen>Camelina</gen>, bearing yellow flowers. <spn>C. sativa</spn> is sometimes cultivated for the oil of its seeds.</cd> -- <col><b>Gold shell</b></col>. <sd>(a)</sd> <cd>A composition of powdered gold or gold leaf, ground up with gum water and spread on shells, for artists' use; -- called also <altname>gold paint</altname>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A bivalve shell (<spn>Anomia glabra</spn>) of the Atlantic coast; -- called also <altname>jingle shell</altname> and <altname>silver shell</altname>. See <er>Anomia</er>.</cd> -- <col><b>Gold size</b></col>, <cd>a composition used in applying gold leaf.</cd> -- <col><b>Gold solder</b></col>, <cd>a kind of solder, often containing twelve parts of gold, two of silver, and four of copper.</cd> -- <col><b>Gold stick</b></col>, <cd>the colonel of a regiment of English lifeguards, who attends his sovereign on state occasions; -- so called from the gilt rod presented to him by the sovereign when he receives his commission as colonel of the regiment.</cd> <mark>[Eng.]</mark> -- <col><b>Gold thread</b></col>. <sd>(a)</sd> <cd>A thread formed by twisting flatted gold over a thread of silk, with a wheel and iron bobbins; spun gold.</cd> <au>Ure.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>A small evergreen plant (<spn>Coptis trifolia</spn>), so called from its fibrous yellow roots. It is common in marshy places in the United States.</cd> -- <col><b>Gold tissue</b></col>, <cd>a tissue fabric interwoven with gold thread.</cd> -- <col><b>Gold tooling</b></col>, <cd>the fixing of gold leaf by a hot tool upon book covers, or the ornamental impression so made.</cd> -- <col><b>Gold washings</b></col>, <cd>places where gold found in gravel is separated from lighter material by washing.</cd> -- <col><b>Gold worm</b></col>, <cd>a glowworm.</cd> <mark>[Obs.]</mark> -- <col><b>Jeweler's gold</b></col>, <cd>an alloy containing three parts of gold to one of copper.</cd><-- 18K gold --> -- <col><b>Mosaic gold</b></col>. <cd>See under <er>Mosaic</er>.</cd></cs><br/
+<p><cs><col><b>Age of gold</b></col>. <cd>See <cref>Golden age</cref>, under <er>Golden</er>.</cd> -- <mcol><col><b>Dutch gold</b></col>, <col><b>Fool's gold</b></col>, <col><b>Gold dust</b></col></mcol>, <cd>etc. See under <er>Dutch</er>, <er>Dust</er>, etc.</cd> -- <col><b>Gold amalgam</b></col>, <cd>a mineral, found in Columbia and California, composed of gold and mercury.</cd> -- <col><b>Gold beater</b></col>, <cd>one whose occupation is to beat gold into gold leaf.</cd> -- <col><b>Gold beater's skin</b></col>, <cd>the prepared outside membrane of the large intestine of the ox, used for separating the leaves of metal during the process of gold-beating.</cd> -- <col><b>Gold beetle</b></col> <fld>(Zool.)</fld>, <cd>any small gold-colored beetle of the family <fam>Chrysomelid<ae/</fam>; -- called also <altname>golden beetle</altname>.</cd> -- <col><b>Gold blocking</b></col>, <cd>printing with gold leaf, as upon a book cover, by means of an engraved block.</cd> <au>Knight.</au> -- <col><b>Gold cloth</b></col>. <cd>See <cref>Cloth of gold</cref>, under <er>Cloth</er>.</cd> -- <col><b>Gold Coast</b></col>, <cd>a part of the coast of Guinea, in West Africa.</cd> -- <col><b>Gold cradle</b></col>. <fld>(Mining)</fld> <cd>See <er>Cradle</er>, <pos>n.</pos>, <snr>7</snr>.</cd> -- <col><b>Gold diggings</b></col>, <cd>the places, or region, where gold is found by digging in sand and gravel from which it is separated by washing.</cd> -- <col><b>Gold end</b></col>, <cd>a fragment of broken gold or jewelry.</cd> -- <col><b>Gold-end man</b></col>. <sd>(a)</sd> <cd>A buyer of old gold or jewelry.</cd> <sd>(b)</sd> <cd>A goldsmith's apprentice.</cd> <sd>(c)</sd> <cd>An itinerant jeweler.</cd> <ldquo/I know him not: he looks like a <xex>gold-end man</xex>.<rdquo/  <au>B. Jonson.</au> -- <col><b>Gold fever</b></col>, <cd>a popular mania for gold hunting.</cd> -- <col><b>Gold field</b></col>, <cd>a region in which are deposits of gold.</cd> -- <col><b>Gold finder</b></col>. <sd>(a)</sd> <cd>One who finds gold.</cd> <sd>(b)</sd> <cd>One who empties privies.</cd> <mark>[Obs. & Low]</mark> <au>Swift.</au> -- <col><b>Gold flower</b></col>, <cd>a composite plant with dry and persistent yellow radiating involucral scales, the <spn>Helichrysum St<oe/chas</spn> of Southern Europe. There are many South African species of the same genus.</cd> -- <col><b>Gold foil</b></col>, <cd>thin sheets of gold, as used by dentists and others. See <er>Gold leaf</er>.</cd> -- <mcol><col><b>Gold knobs</b></col> <it>or</it> <col><b>Gold knoppes</b></col></mcol> <fld>(Bot.)</fld>, <cd>buttercups.</cd> -- <col><b>Gold lace</b></col>, <cd>a kind of lace, made of gold thread.</cd> -- <col><b>Gold latten</b></col>, <cd>a thin plate of gold or gilded metal.</cd> -- <col><b>Gold leaf</b></col>, <cd>gold beaten into a film of extreme thinness, and used for gilding, etc. It is much thinner than gold foil.</cd> -- <col><b>Gold lode</b></col> <fld>(Mining)</fld>, <cd>a gold vein.</cd> -- <col><b>Gold mine</b></col>, <cd>a place where gold is obtained by mining operations, as distinguished from diggings, where it is extracted by washing.  Cf. <cref>Gold diggings</cref> (above).</cd> -- <col><b>Gold nugget</b></col>, <cd>a lump of gold as found in gold mining or digging; -- called also a <altname>pepito</altname>.</cd> -- <col><b>Gold paint</b></col>. <cd>See <cref>Gold shell</cref>.</cd> -- <mcol><col><b>Gold pheasant</b></col>, <it>or</it> <col><b>Golden pheasant</b></col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Pheasant</er>.</cd> -- <col><b>Gold plate</b></col>, <cd>a general name for vessels, dishes, cups, spoons, etc., made of gold.</cd><-- now usu. referring to objects made of a base metal with a layer of gold on the surface. --> -- <col><b>Gold of pleasure</b></col>. <ety>[Name perhaps translated from Sp. <ets>oro-de-alegria</ets>.]</ety> <fld>(Bot.)</fld> <cd>A plant of the genus <gen>Camelina</gen>, bearing yellow flowers. <spn>C. sativa</spn> is sometimes cultivated for the oil of its seeds.</cd> -- <col><b>Gold shell</b></col>. <sd>(a)</sd> <cd>A composition of powdered gold or gold leaf, ground up with gum water and spread on shells, for artists' use; -- called also <altname>gold paint</altname>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A bivalve shell (<spn>Anomia glabra</spn>) of the Atlantic coast; -- called also <altname>jingle shell</altname> and <altname>silver shell</altname>. See <er>Anomia</er>.</cd> -- <col><b>Gold size</b></col>, <cd>a composition used in applying gold leaf.</cd> -- <col><b>Gold solder</b></col>, <cd>a kind of solder, often containing twelve parts of gold, two of silver, and four of copper.</cd> -- <col><b>Gold stick</b></col>, <cd>the colonel of a regiment of English lifeguards, who attends his sovereign on state occasions; -- so called from the gilt rod presented to him by the sovereign when he receives his commission as colonel of the regiment.</cd> <mark>[Eng.]</mark> -- <col><b>Gold thread</b></col>. <sd>(a)</sd> <cd>A thread formed by twisting flatted gold over a thread of silk, with a wheel and iron bobbins; spun gold.</cd> <au>Ure.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <cd>A small evergreen plant (<spn>Coptis trifolia</spn>), so called from its fibrous yellow roots. It is common in marshy places in the United States.</cd> -- <col><b>Gold tissue</b></col>, <cd>a tissue fabric interwoven with gold thread.</cd> -- <col><b>Gold tooling</b></col>, <cd>the fixing of gold leaf by a hot tool upon book covers, or the ornamental impression so made.</cd> -- <col><b>Gold washings</b></col>, <cd>places where gold found in gravel is separated from lighter material by washing.</cd> -- <col><b>Gold worm</b></col>, <cd>a glowworm.</cd> <mark>[Obs.]</mark> -- <col><b>Jeweler's gold</b></col>, <cd>an alloy containing three parts of gold to one of copper.</cd><-- 18K gold --> -- <col><b>Mosaic gold</b></col>. <cd>See under <er>Mosaic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 637 --></p>
@@ -15280,7 +15280,7 @@ Are, by the laws of Venice, confiscate<br/
 Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Dress goods</b></col>, <col><b>Dry goods</b></col>, etc.</mcol> <cd>See in the Vocabulary.</cd> -- <col><b>Goods engine</b></col>, <cd>a freight locomotive.</cd> <mark>[Eng.]</mark> -- <col><b>Goods train</b></col>, <cd>a freight train.</cd> <mark>[Eng.]</mark> -- <col><b>Goods wagon</b></col>, <cd>a freight car <mark>[Eng.]</mark> See the Note under <er>Car</er>, <pos>n.</pos>, 2.</cd></cs><br/
+<p><cs><mcol><col><b>Dress goods</b></col>, <col><b>Dry goods</b></col>, etc.</mcol> <cd>See in the Vocabulary.</cd> -- <col><b>Goods engine</b></col>, <cd>a freight locomotive.</cd> <mark>[Eng.]</mark> -- <col><b>Goods train</b></col>, <cd>a freight train.</cd> <mark>[Eng.]</mark> -- <col><b>Goods wagon</b></col>, <cd>a freight car <mark>[Eng.]</mark> See the Note under <er>Car</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Good</ent><br/
@@ -15447,7 +15447,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goods</ent><br/
-<hw>Goods</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Good</er>, <pos>n.</pos>, 3.</def><br/
+<hw>Goods</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Good</er>, <pos>n.</pos>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Goodship</ent><br/
@@ -16385,7 +16385,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <gothictype>This is Nonpareil GOTHIC.</gothictype> </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <fld>(Arch.)</fld> <def>The style described in <er>Gothic</er>, <pos>a.</pos>, 2.</def><br/
+<p><sn>3.</sn> <fld>(Arch.)</fld> <def>The style described in <er>Gothic</er>, <pos>a.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gothicism</ent><br/
@@ -16587,7 +16587,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>A disease of cornstalks. See <cref>Corn fly</cref>, under <er>Corn</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gout stones</b></col>. <cd>See <er>Chalkstone</er>, <pos>n.</pos>, 2.</cd></cs><br/
+<p><cs><col><b>Gout stones</b></col>. <cd>See <er>Chalkstone</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gout</ent><br/
@@ -16972,7 +16972,7 @@ With all good <qex>grace</qex> to grace a gentleman.</q> <rj><qau>Shak.</qau></r
 
 <p><q>To [Queen Margaret, of Scotland] . . . we owe the custom of the <qex>grace drink</qex>, she having established it as a rule at her table, that whosoever staid till grace was said was rewarded with a bumper.</q> <rj><qau>Encyc. Brit.</qau></rj></p>
 
-<p>-- <col><b>Grace hoop</b></col>, <cd>a hoop used in playing graces. See <er>Grace</er>, <pos>n.</pos>, 13.</cd> -- <col><b>Grace note</b></col> <fld>(Mus.)</fld>, <cd>an appoggiatura. See <er>Appoggiatura</er>, and def. 11 above.</cd> -- <col><b>Grace stroke</b></col>, <cd>a finishing stoke or touch; a coup de grace.</cd> -- <col><b>Means of grace</b></col>, <cd>means of securing knowledge of God, or favor with God, as the preaching of the gospel, etc.</cd> --  <col><b>To do grace</b></col>, <cd>to reflect credit upon.</cd><br/
+<p>-- <col><b>Grace hoop</b></col>, <cd>a hoop used in playing graces. See <er>Grace</er>, <pos>n.</pos>, <snr>13</snr>.</cd> -- <col><b>Grace note</b></col> <fld>(Mus.)</fld>, <cd>an appoggiatura. See <er>Appoggiatura</er>, and def. 11 above.</cd> -- <col><b>Grace stroke</b></col>, <cd>a finishing stoke or touch; a coup de grace.</cd> -- <col><b>Means of grace</b></col>, <cd>means of securing knowledge of God, or favor with God, as the preaching of the gospel, etc.</cd> --  <col><b>To do grace</b></col>, <cd>to reflect credit upon.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Content to do the profession some <qex>grace</qex>.</q> <rj><qau>Shak.</qau></rj></p>
@@ -17027,7 +17027,7 @@ in court.</q> <rj><qau>Knolles.</qau></rj><br/
 <hw>Grace"less</hw>, <pos>a.</pos> <sn>1.</sn> <def>Wanting in grace or excellence; departed from, or deprived of, divine grace; hence, depraved; corrupt.</def> <ldquo/In a <xex>graceless</xex> age.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Unfortunate.  Cf. <er>Grace</er>, <pos>n.</pos>, 4.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><sn>2.</sn> <def>Unfortunate.  Cf. <er>Grace</er>, <pos>n.</pos>, <snr>4</snr>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 
 <p>-- <wordforms><wf>Grace"less*ly</wf>, <pos>adv.</pos> -- <wf>Grace"less*ness</wf>, <pos>n.</pos></wordforms></p>
 
@@ -17566,7 +17566,7 @@ Tortive and errant from his course of growth.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>10.</sn> <pluf>pl.</pluf> <def>The remains of grain, etc., after brewing or distillation; hence, any residuum. Also called <altname>draff</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>11.</sn> <fld>(Bot.)</fld> <def>A rounded prominence on the back of a sepal, as in the common dock. See <er>Grained</er>, <pos>a.</pos>, 4.</def><br/
+<p><sn>11.</sn> <fld>(Bot.)</fld> <def>A rounded prominence on the back of a sepal, as in the common dock. See <er>Grained</er>, <pos>a.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>12.</sn> <def>Temper; natural disposition; inclination.</def> <mark>[Obs.]</mark><br/
@@ -17582,7 +17582,7 @@ Tortive and errant from his course of growth.</q> <rj><qau>Shak.</qau></rj><br/
 To smellen sweet.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Against the grain</b></col>, <cd>against or across the direction of the fibers; hence, against one's wishes or tastes; unwillingly; unpleasantly; reluctantly; with difficulty.</cd> <au>Swift.</au> <au>Saintsbury.</au>-- <col><b>A grain of allowance</b></col>, <cd>a slight indulgence or latitude a small allowance.</cd> -- <col><b>Grain binder</b></col>, <cd>an attachment to a harvester for binding the grain into sheaves.</cd> -- <col><b>Grain colors</b></col>, <cd>dyes made from the coccus or kermes insect.</cd> -- <col><b>Grain leather</b></col>. <sd>(a)</sd> <cd>Dressed horse hides.</cd> <sd>(b)</sd> <cd>Goat, seal, and other skins blacked on the grain side for women's shoes, etc.</cd>  -- <col><b>Grain moth</b></col> <fld>(Zool.)</fld>, <cd>one of several small moths, of the family <fam>Tineid<ae/</fam> (as <spn>Tinea granella</spn> and <spn>Butalis cerealella</spn>), whose larv<ae/ devour grain in storehouses.</cd> -- <col><b>Grain side</b></col> <fld>(Leather)</fld>, <cd>the side of a skin or hide from which the hair has been removed; -- opposed to <contr>flesh side.</contr></cd> -- <col><b>Grains of paradise</b></col>, <cd>the seeds of a species of amomum.</cd> -- <col><b>grain tin</b></col>, <cd>crystalline tin ore metallic tin smelted with charcoal.</cd> -- <col><b>Grain weevil</b></col> <fld>(Zool.)</fld>, <cd>a small red weevil (<spn>Sitophilus granarius</spn>), which destroys stored wheat and other grain, by eating out the interior.</cd> -- <col><b>Grain worm</b></col> <fld>(Zool.)</fld>, <cd>the larva of the grain moth. See <cref>grain moth</cref>, above.</cd> -- <col><b>In grain</b></col>, <cd>of a fast color; deeply seated; fixed; innate; genuine.</cd> <ldquo/Anguish in grain.<rdquo/ <au>Herbert.</au> -- <col><b>To dye in grain</b></col>, <cd>to dye of a fast color by means of the coccus or kermes grain [see <er>Grain</er>, <pos>n.</pos>, 5]; hence, to dye firmly; also, to dye in the wool, or in the raw material. See under <er>Dye.</er></cd><br/
+<p><cs><col><b>Against the grain</b></col>, <cd>against or across the direction of the fibers; hence, against one's wishes or tastes; unwillingly; unpleasantly; reluctantly; with difficulty.</cd> <au>Swift.</au> <au>Saintsbury.</au>-- <col><b>A grain of allowance</b></col>, <cd>a slight indulgence or latitude a small allowance.</cd> -- <col><b>Grain binder</b></col>, <cd>an attachment to a harvester for binding the grain into sheaves.</cd> -- <col><b>Grain colors</b></col>, <cd>dyes made from the coccus or kermes insect.</cd> -- <col><b>Grain leather</b></col>. <sd>(a)</sd> <cd>Dressed horse hides.</cd> <sd>(b)</sd> <cd>Goat, seal, and other skins blacked on the grain side for women's shoes, etc.</cd>  -- <col><b>Grain moth</b></col> <fld>(Zool.)</fld>, <cd>one of several small moths, of the family <fam>Tineid<ae/</fam> (as <spn>Tinea granella</spn> and <spn>Butalis cerealella</spn>), whose larv<ae/ devour grain in storehouses.</cd> -- <col><b>Grain side</b></col> <fld>(Leather)</fld>, <cd>the side of a skin or hide from which the hair has been removed; -- opposed to <contr>flesh side.</contr></cd> -- <col><b>Grains of paradise</b></col>, <cd>the seeds of a species of amomum.</cd> -- <col><b>grain tin</b></col>, <cd>crystalline tin ore metallic tin smelted with charcoal.</cd> -- <col><b>Grain weevil</b></col> <fld>(Zool.)</fld>, <cd>a small red weevil (<spn>Sitophilus granarius</spn>), which destroys stored wheat and other grain, by eating out the interior.</cd> -- <col><b>Grain worm</b></col> <fld>(Zool.)</fld>, <cd>the larva of the grain moth. See <cref>grain moth</cref>, above.</cd> -- <col><b>In grain</b></col>, <cd>of a fast color; deeply seated; fixed; innate; genuine.</cd> <ldquo/Anguish in grain.<rdquo/ <au>Herbert.</au> -- <col><b>To dye in grain</b></col>, <cd>to dye of a fast color by means of the coccus or kermes grain [see <er>Grain</er>, <pos>n.</pos>, <snr>5</snr>]; hence, to dye firmly; also, to dye in the wool, or in the raw material. See under <er>Dye.</er></cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The red roses flush up in her cheeks . . . <br/
@@ -17677,10 +17677,10 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grains</ent><br/
-<hw>Grains</hw> <pr>(gr<amac/nz)</pr>, <pos>n. pl.</pos> <sn>1.</sn> <def>See 5th <er>Grain</er>, <pos>n.</pos>, 2 <sdr>(b)</sdr>.</def><br/
+<hw>Grains</hw> <pr>(gr<amac/nz)</pr>, <pos>n. pl.</pos> <sn>1.</sn> <def>See 5th <er>Grain</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(b)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Pigeon's dung used in tanning.  See <er>Grainer.</er> <pos>n.</pos>, 1.</def><br/
+<p><sn>2.</sn> <def>Pigeon's dung used in tanning.  See <er>Grainer.</er> <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grainy</ent><br/
@@ -17740,7 +17740,7 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><ent>Gramme</ent><br/
 <ent>Gram</ent><br/
-<mhw><hw>Gram</hw>, <hw>Gramme</hw> <pr>(gr<acr/m)</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>gramme</ets>, from Gr. <grk>gra`mma</grk> that which is written, a letter, a small weight, fr. <grk>gra`fein</grk> to write. See <er>Graphic.</er>]</ety> <def>The unit of mass or weight in the metric system.  It was intended to be exactly, and is very nearly, equivalent to the weight in a vacuum of one cubic centimeter of pure water at its maximum density.  It is equal to 15.432 grains. See <er>Grain</er>, <pos>n.</pos>, 4.</def><br/
+<mhw><hw>Gram</hw>, <hw>Gramme</hw> <pr>(gr<acr/m)</pr></mhw>, <pos>n.</pos> <ety>[F. <ets>gramme</ets>, from Gr. <grk>gra`mma</grk> that which is written, a letter, a small weight, fr. <grk>gra`fein</grk> to write. See <er>Graphic.</er>]</ety> <def>The unit of mass or weight in the metric system.  It was intended to be exactly, and is very nearly, equivalent to the weight in a vacuum of one cubic centimeter of pure water at its maximum density.  It is equal to 15.432 grains. See <er>Grain</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col><b>Gram degree</b></col>, <it>or</it> <col><b>Gramme degree</b></col></mcol> <fld>(Physics)</fld>, <cd>a unit of heat, being the amount of heat necessary to raise the temperature of one gram of pure water one degree centigrade.</cd> -- <col><b>Gram equivalent</b></col> <fld>(Electrolysis)</fld>, <cd>that quantity of the metal which will replace one gram of hydrogen.</cd></cs><br/
@@ -17791,7 +17791,7 @@ Likce crimson dyed in <qex>grain.</qex></q> <rj><qau>Spenser.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gramineous</ent><br/
-<hw>Gra*min"e*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>gramineus</ets>, fr. <ets>gramen</ets>, <ets>graminis</ets>, grass.]</ety> <fld>(Bot.)</fld> <def>Like, Or pertaining to, grass. See <er>Grass</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Gra*min"e*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>gramineus</ets>, fr. <ets>gramen</ets>, <ets>graminis</ets>, grass.]</ety> <fld>(Bot.)</fld> <def>Like, Or pertaining to, grass. See <er>Grass</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Graminifolious</ent><br/
@@ -19258,7 +19258,7 @@ To <qex>gratify</qex> his noble service.</q> <rj><qau>Shak.</qau></rj></p>
 <p><sd>(b)</sd> <def>Slow and solemn in movement.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Grave accent</b></col>. <fld>(Pron.)</fld> <cd>See the Note under <er>Accent</er>, <pos>n.</pos>, 2.</cd></cs></p>
+<p><cs><col><b>Grave accent</b></col>. <fld>(Pron.)</fld> <cd>See the Note under <er>Accent</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Solemn; sober; serious; sage; staid; demure; thoughtful; sedate; weighty; momentous; important.</syn> <usage> --  <er>Grave</er>, <er>Sober</er>, <er>Serious</er>, <er>Solemn.</er> <xex>Sober</xex> supposes the absence of all exhilaration of spirits, and is opposed to <ref>gay</ref> or <ref>flighty</ref>; <as>as, <ex>sober</ex> thought</as>. <xex>Serious</xex> implies considerateness or reflection, and is opposed to <ref>jocose</ref> or <ref>sportive</ref>; <as>as, <xex>serious</xex> and important concerns</as>. <xex>Grave</xex> denotes a state of mind, appearance, etc., which results from the pressure of weighty interests, and is opposed to <ref>hilarity</ref> of feeling or <ref>vivacity</ref> of manner; <as>as, a <ex>qrave</ex> remark; <ex>qrave</ex> attire</as>. <xex>Solemn</xex> is applied to a case in which gravity is carried to its highest point; <as>as, a <ex>solemn</ex> admonition; a <ex>solemn</ex> promise</as>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -19566,7 +19566,7 @@ Importing health and <qex>graveness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Mus.)</fld> <def>Lowness of tone; -- opposed to <contr>acuteness</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Center of gravity</b></col> <cd>See under <er>Center</er>.</cd> -- <col><b>Gravity battery</b></col>, <cd>See <er>Battery</er>, <pos>n.</pos>, 4.</cd> -- <col><b>Specific gravity</b></col>, <cd>the ratio of the weight of a body to the weight of an equal volume of some other body taken as the standard or unit. This standard is usually water for solids and liquids, and air for gases. Thus, 19, the specific gravity of gold, expresses the fact that, bulk for bulk, gold is nineteen times as heavy as water.</cd></cs><br/
+<p><cs><col><b>Center of gravity</b></col> <cd>See under <er>Center</er>.</cd> -- <col><b>Gravity battery</b></col>, <cd>See <er>Battery</er>, <pos>n.</pos>, <snr>4</snr>.</cd> -- <col><b>Specific gravity</b></col>, <cd>the ratio of the weight of a body to the weight of an equal volume of some other body taken as the standard or unit. This standard is usually water for solids and liquids, and air for gases. Thus, 19, the specific gravity of gold, expresses the fact that, bulk for bulk, gold is nineteen times as heavy as water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gravy</ent><br/
@@ -19860,7 +19860,7 @@ Close <qex>grazer</qex>, finds wherewith to ease her want.</q> <rj><qau>J. Phili
 <p><sn>5.</sn> <def>Gross; indelicate; indecent.</def> <mark>[Obs.]</mark>  <rj><au>Marston.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>6.</sn> <fld>(Far.)</fld> <def>Affected with the disease called <cref>grease</cref>; as, the heels of a horse. See <er>Grease</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>6.</sn> <fld>(Far.)</fld> <def>Affected with the disease called <cref>grease</cref>; as, the heels of a horse. See <er>Grease</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Great</ent><br/
@@ -20617,7 +20617,7 @@ Call forth the <qex>greens</qex>, and wake the rising flowers.</q> <rj><qau>Pope
 <hw>Gre*go"ri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[NL. <ets>Gregorianus</ets>, fr. <ets>Gregorius</ets> Gregory, Gr. <?/: cf. F. <ets>gr<eacute/gorien</ets>.]</ety> <def>Pertaining to, or originated by, some person named Gregory, especially one of the popes of that name.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gregorian calendar</b></col>, <cd>the calendar as reformed by Pope Gregory XIII. in 1582, including the method of adjusting the leap years so as to harmonize the civil year with the solar, and also the regulation of the time of Easter and the movable feasts by means of epochs. See <cref>Gregorian year</cref> (below).</cd> -- <col><b>Gregorian chant</b></col> <fld>(Mus.)</fld>, <cd>plain song, or <xex>canto fermo</xex>, a kind of unisonous music, according to the eight celebrated church modes, as arranged and prescribed by Pope Gregory I. (called <ldquo/the Great<rdquo/) in the 6th century.</cd>  -- <col><b>Gregorian modes</b></col>, <cd>the musical scales ordained by Pope Gregory the Great, and named after the ancient Greek scales, as Dorian, Lydian, etc.</cd> -- <col><b>Gregorian telescope</b></col> <fld>(Opt.)</fld>, <cd>a form of reflecting telescope, named from Prof. James <etsep>Gregory</etsep>, of Edinburgh, who perfected it in 1663. A small concave mirror in the axis of this telescope, having its focus coincident with that of the large reflector, transmits the light received from the latter back through a hole in its center to the eyepiece placed behind it.</cd> --  <col><b>Gregorian year</b></col>, <cd>the year as now reckoned according to the <xex>Gregorian</xex> calendar. Thus, every year, of the current reckoning, which is divisible by 4, except those divisible by 100 and not by 400, has 366 days; all other years have 365 days. See <er>Bissextile</er>, and Note under <er>Style</er>, <pos>n.</pos>, 7.</cd></cs><br/
+<p><cs><col><b>Gregorian calendar</b></col>, <cd>the calendar as reformed by Pope Gregory XIII. in 1582, including the method of adjusting the leap years so as to harmonize the civil year with the solar, and also the regulation of the time of Easter and the movable feasts by means of epochs. See <cref>Gregorian year</cref> (below).</cd> -- <col><b>Gregorian chant</b></col> <fld>(Mus.)</fld>, <cd>plain song, or <xex>canto fermo</xex>, a kind of unisonous music, according to the eight celebrated church modes, as arranged and prescribed by Pope Gregory I. (called <ldquo/the Great<rdquo/) in the 6th century.</cd>  -- <col><b>Gregorian modes</b></col>, <cd>the musical scales ordained by Pope Gregory the Great, and named after the ancient Greek scales, as Dorian, Lydian, etc.</cd> -- <col><b>Gregorian telescope</b></col> <fld>(Opt.)</fld>, <cd>a form of reflecting telescope, named from Prof. James <etsep>Gregory</etsep>, of Edinburgh, who perfected it in 1663. A small concave mirror in the axis of this telescope, having its focus coincident with that of the large reflector, transmits the light received from the latter back through a hole in its center to the eyepiece placed behind it.</cd> --  <col><b>Gregorian year</b></col>, <cd>the year as now reckoned according to the <xex>Gregorian</xex> calendar. Thus, every year, of the current reckoning, which is divisible by 4, except those divisible by 100 and not by 400, has 366 days; all other years have 365 days. See <er>Bissextile</er>, and Note under <er>Style</er>, <pos>n.</pos>, <snr>7</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gregory</ent><br/
@@ -21412,7 +21412,7 @@ Into the common prison, there to <qex>grind</qex>.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grinte</ent><br/
-<hw>Grin"te</hw> <pr>(?)</pr>, <mark>obs.</mark> <pos>imp.</pos> <mord>of <er>Grin</er>, <pos>v. i.</pos>, 1.</mord><br/
+<hw>Grin"te</hw> <pr>(?)</pr>, <mark>obs.</mark> <pos>imp.</pos> <mord>of <er>Grin</er>, <pos>v. i.</pos>, <snr>1</snr>.</mord><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>[He] <qex>grinte</qex> with his teeth, so was he wroth.</q> <rj><qau>Chaucer.</qau></rj><br/
@@ -21714,7 +21714,7 @@ Is smoothed by that below.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Gritstone</ent><br/
 <ent>Gritrock</ent><br/
-<mhw>{ <hw>Grit"rock`</hw> <pr>(gr<icr/t"r<ocr/k`)</pr>, <hw>Grit"stone`</hw> <pr>(-st<omac/n`)</pr> }</mhw> <pos>n.</pos> <fld>(Geol.)</fld> <def>See <er>Grit</er>, <pos>n.</pos>, 4.</def><br/
+<mhw>{ <hw>Grit"rock`</hw> <pr>(gr<icr/t"r<ocr/k`)</pr>, <hw>Grit"stone`</hw> <pr>(-st<omac/n`)</pr> }</mhw> <pos>n.</pos> <fld>(Geol.)</fld> <def>See <er>Grit</er>, <pos>n.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grittiness</ent><br/
@@ -22364,7 +22364,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Elec.)</fld> <def>To connect with the ground so as to make the earth a part of an electrical circuit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <fld>(Fine Arts)</fld> <def>To cover with a ground, as a copper plate for etching (see <er>Ground</er>, <pos>n.</pos>, 5); or as paper or other materials with a uniform tint as a preparation for ornament.</def><br/
+<p><sn>5.</sn> <fld>(Fine Arts)</fld> <def>To cover with a ground, as a copper plate for etching (see <er>Ground</er>, <pos>n.</pos>, <snr>5</snr>); or as paper or other materials with a uniform tint as a preparation for ornament.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <def>To forbid (a pilot) to fly an airplane; -- usually as a disciplinary measure, or for reasons of ill health sufficient to interfere with performance.</def><br/
@@ -22662,7 +22662,7 @@ Had <qex>grown</qex> Suspicion's sanctuary.</q> <rj><qau>Byron.</qau></rj><br/
 <p><ent>Grow</ent><br/
 <hw>Grow</hw> <pr>(gr<omac/)</pr>, <pos>v. t.</pos> <def>To cause to grow; to cultivate; to produce; <as>as, to <ex>grow</ex> a crop; to <ex>grow</ex> wheat, hops, or tobacco.</as></def>  <rj><au>Macaulay.</au></rj></p>
 
-<p><syn><b>Syn.</b> -- To raise; to cultivate. See <er>Raise</er>, <pos>v. t.</pos>, 3.</syn><br/
+<p><syn><b>Syn.</b> -- To raise; to cultivate. See <er>Raise</er>, <pos>v. t.</pos>, <snr>3</snr>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Growable</ent><br/
@@ -22822,7 +22822,7 @@ Had <qex>grown</qex> Suspicion's sanctuary.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Grubworm</ent><br/
-<hw>Grub"worm</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Grub</er>, <pos>n.</pos>, 1.</def><br/
+<hw>Grub"worm</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Grub</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And gnats and <qex>grubworms</qex> crowded on his view.</q> <rj><qau>C. Smart.</qau></rj><br/
@@ -23076,7 +23076,7 @@ To <qex>grunt</qex> and sweat under a weary life.</q> <rj><qau>Shak.</qau></rj><
 <hw>Grunt"er</hw> <pr>(gr<ucr/nt"<etil/r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, grunts; specifically, a hog.</def> <ldquo/Bristled grunters.<rdquo/  <rj><au>Tennyson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of several American marine fishes. See <er>Sea robin</er>, and <er>Grunt</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of several American marine fishes. See <er>Sea robin</er>, and <er>Grunt</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Brass Founding)</fld> <def>A hook used in lifting a crucible.</def><br/
@@ -24649,7 +24649,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><note><hand/ Guns are classified, according to their construction or manner of loading as <stype>rifled</stype> or <stype>smoothbore</stype>, <stype>breech-loading</stype> or <stype>muzzle-loading</stype>, <stype>cast</stype> or <stype>built-up guns</stype>; or according to their use, as <stype>field</stype>, <stype>mountain</stype>, <stype>prairie</stype>, <stype>seacoast</stype>, and <stype>siege guns</stype>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Armstrong gun</b></col>, <cd>a wrought iron breech-loading cannon named after its English inventor, Sir William <xex>Armstrong</xex>.</cd> -- <mcol><col><b>Big gun</b></col> <it>or</it> <col><b>Great gun</b></col></mcol>, <cd>a piece of heavy ordnance</cd>; hence  (Fig.), <cd>a person superior in any way; <as>as, bring in the <ex>big guns</ex> to tackle the problem</as>.</cd> -- <col><b>Gun barrel</b></col>, <cd>the barrel or tube of a gun.</cd> -- <col><b>Gun carriage</b></col>, <cd> the carriage on which a gun is mounted or moved.</cd> -- <col><b>Gun cotton</b></col> <fld>(Chem.)</fld>, <cd>a general name for a series of explosive nitric ethers of cellulose, obtained by steeping cotton in nitric and sulphuric acids. Although there are formed substances containing nitric acid radicals, yet the results exactly resemble ordinary cotton in appearance. It burns without ash, with explosion if confined, but quietly and harmlessly if free and open, and in small quantity. Specifically, the lower nitrates of cellulose which are insoluble in ether and alcohol in distinction from the highest (<xex>pyroxylin</xex>) which is soluble. See <er>Pyroxylin</er>, and cf. <er>Xyloidin</er>. The gun cottons are used for blasting and somewhat in gunnery: for making celluloid when compounded with camphor; and the soluble variety (<xex>pyroxylin</xex>) for making collodion. See <er>Celluloid</er>, and <er>Collodion</er>. Gun cotton is frequenty but improperly called <altname>nitrocellulose</altname>. It is not a <it>nitro</it> compound, but an <isa>ester</isa> of nitric acid.</cd> -- <col><b>Gun deck</b></col>. <cd>See under <er>Deck</er>.</cd> -- <col><b>Gun fire</b></col>, <cd>the time at which the morning or the evening gun is fired.</cd> -- <col><b>Gun metal</b></col>, <cd>a bronze, ordinarily composed of nine parts of copper and one of tin, used for cannon, etc.  The name is also given to certain strong mixtures of cast iron.</cd> -- <col><b>Gun port</b></col> <fld>(Naut.)</fld>, <cd>an opening in a ship through which a cannon's muzzle is run out for firing.</cd> -- <col><b>Gun tackle</b></col> <fld>(Naut.)</fld>, <cd>the blocks and pulleys affixed to the side of a ship, by which a gun carriage is run to and from the gun port.</cd> -- <col><b>Gun tackle purchase</b></col> <fld>(Naut.)</fld>, <cd>a tackle composed of two single blocks and a fall.</cd> <au>Totten.</au> -- <col><b>Krupp gun</b></col>, <cd>a wrought steel breech-loading cannon, named after its German inventor, <person>Herr Krupp</person>.</cd> -- <col><b>Machine gun</b></col>, <cd>a breech-loading gun or a group of such guns, mounted on a carriage or other holder, and having a reservoir containing cartridges which are loaded into the gun or guns and fired in rapid succession.  In earlier models, such as the <stype>Gatling gun</stype>, the cartridges were loaded by machinery operated by turning a crank. In modern versions the loading of cartidges is accomplished by levers operated by the recoil of the explosion driving the bullet, or by the pressure of gas within the barrel.  Several hundred shots can be fired in a minute by such weapons, with accurate aim. The <stype>Gatling gun</stype>, <stype>Gardner gun</stype>, <stype>Hotchkiss gun</stype>, and <stype>Nordenfelt gun</stype>, named for their inventors, and the French <stype>mitrailleuse</stype>, are <ex>machine guns</ex>.</cd> -- <col><b>To blow great guns</b></col> <fld>(Naut.)</fld>, <cd>to blow a gale. See <er>Gun</er>, <pos>n.</pos>, 3.</cd></cs><br/
+<p><cs><col><b>Armstrong gun</b></col>, <cd>a wrought iron breech-loading cannon named after its English inventor, Sir William <xex>Armstrong</xex>.</cd> -- <mcol><col><b>Big gun</b></col> <it>or</it> <col><b>Great gun</b></col></mcol>, <cd>a piece of heavy ordnance</cd>; hence  (Fig.), <cd>a person superior in any way; <as>as, bring in the <ex>big guns</ex> to tackle the problem</as>.</cd> -- <col><b>Gun barrel</b></col>, <cd>the barrel or tube of a gun.</cd> -- <col><b>Gun carriage</b></col>, <cd> the carriage on which a gun is mounted or moved.</cd> -- <col><b>Gun cotton</b></col> <fld>(Chem.)</fld>, <cd>a general name for a series of explosive nitric ethers of cellulose, obtained by steeping cotton in nitric and sulphuric acids. Although there are formed substances containing nitric acid radicals, yet the results exactly resemble ordinary cotton in appearance. It burns without ash, with explosion if confined, but quietly and harmlessly if free and open, and in small quantity. Specifically, the lower nitrates of cellulose which are insoluble in ether and alcohol in distinction from the highest (<xex>pyroxylin</xex>) which is soluble. See <er>Pyroxylin</er>, and cf. <er>Xyloidin</er>. The gun cottons are used for blasting and somewhat in gunnery: for making celluloid when compounded with camphor; and the soluble variety (<xex>pyroxylin</xex>) for making collodion. See <er>Celluloid</er>, and <er>Collodion</er>. Gun cotton is frequenty but improperly called <altname>nitrocellulose</altname>. It is not a <it>nitro</it> compound, but an <isa>ester</isa> of nitric acid.</cd> -- <col><b>Gun deck</b></col>. <cd>See under <er>Deck</er>.</cd> -- <col><b>Gun fire</b></col>, <cd>the time at which the morning or the evening gun is fired.</cd> -- <col><b>Gun metal</b></col>, <cd>a bronze, ordinarily composed of nine parts of copper and one of tin, used for cannon, etc.  The name is also given to certain strong mixtures of cast iron.</cd> -- <col><b>Gun port</b></col> <fld>(Naut.)</fld>, <cd>an opening in a ship through which a cannon's muzzle is run out for firing.</cd> -- <col><b>Gun tackle</b></col> <fld>(Naut.)</fld>, <cd>the blocks and pulleys affixed to the side of a ship, by which a gun carriage is run to and from the gun port.</cd> -- <col><b>Gun tackle purchase</b></col> <fld>(Naut.)</fld>, <cd>a tackle composed of two single blocks and a fall.</cd> <au>Totten.</au> -- <col><b>Krupp gun</b></col>, <cd>a wrought steel breech-loading cannon, named after its German inventor, <person>Herr Krupp</person>.</cd> -- <col><b>Machine gun</b></col>, <cd>a breech-loading gun or a group of such guns, mounted on a carriage or other holder, and having a reservoir containing cartridges which are loaded into the gun or guns and fired in rapid succession.  In earlier models, such as the <stype>Gatling gun</stype>, the cartridges were loaded by machinery operated by turning a crank. In modern versions the loading of cartidges is accomplished by levers operated by the recoil of the explosion driving the bullet, or by the pressure of gas within the barrel.  Several hundred shots can be fired in a minute by such weapons, with accurate aim. The <stype>Gatling gun</stype>, <stype>Gardner gun</stype>, <stype>Hotchkiss gun</stype>, and <stype>Nordenfelt gun</stype>, named for their inventors, and the French <stype>mitrailleuse</stype>, are <ex>machine guns</ex>.</cd> -- <col><b>To blow great guns</b></col> <fld>(Naut.)</fld>, <cd>to blow a gale. See <er>Gun</er>, <pos>n.</pos>, <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gun</ent><br/
@@ -24834,7 +24834,7 @@ When fire is in the powder runne.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gunter's chain</ent><br/
-<hw>Gun"ter's chain`</hw> <pr>(?)</pr>. <fld>(Surveying)</fld> <def>The chain ordinarily used in measuring land. See <er>Chain</er>, <pos>n.</pos>, 4, and <er>Gunter's scale</er>.</def><br/
+<hw>Gun"ter's chain`</hw> <pr>(?)</pr>. <fld>(Surveying)</fld> <def>The chain ordinarily used in measuring land. See <er>Chain</er>, <pos>n.</pos>, <snr>4</snr>, and <er>Gunter's scale</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Gunter's line</ent><br/

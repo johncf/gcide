@@ -226,7 +226,7 @@ In <qex>vacant</qex> or in pensive mood.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Vaccine point</ent><br/
-<hw>Vac"cine point`</hw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>See <er>Point</er>, <pos>n.</pos>, 26.</def><br/
+<hw>Vac"cine point`</hw> <pr>(?)</pr>. <fld>(Med.)</fld> <def>See <er>Point</er>, <pos>n.</pos>, <snr>26</snr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Vaccinia</ent><br/
@@ -446,7 +446,7 @@ Blown <qex>vagabond</qex> or frustrate.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>A fugitive and a <qex>vagabond</qex> shalt thou be.</q> <rj><qau>Gen. iv. 12.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ In English and American law, <xex>vagabond</xex> is used in bad sense, denoting one who is without a home; a strolling, idle, worthless person. <xex>Vagabonds</xex> are described in old English statutes as <ldquo/such as wake on the night and sleep on the day, and haunt customable taverns and alehouses, and routs about; and no man wot from whence they came, nor whither they go.<rdquo/ In American law, the term <xex>vagrant</xex> is employed in the same sense. Cf <er>Rogue</er>, <pos>n.</pos>, 1.  <rj><au>Burrill.</au>  <au>Bouvier.</au></rj>
+<p><note><hand/ In English and American law, <xex>vagabond</xex> is used in bad sense, denoting one who is without a home; a strolling, idle, worthless person. <xex>Vagabonds</xex> are described in old English statutes as <ldquo/such as wake on the night and sleep on the day, and haunt customable taverns and alehouses, and routs about; and no man wot from whence they came, nor whither they go.<rdquo/ In American law, the term <xex>vagrant</xex> is employed in the same sense. Cf <er>Rogue</er>, <pos>n.</pos>, <snr>1</snr>.  <rj><au>Burrill.</au>  <au>Bouvier.</au></rj>
 </note><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1951,7 +1951,7 @@ That all her <qex>vanities</qex> at once are dead;<br/
 Succeeding <qex>vanities</qex> she still regards.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>4.</sn> <def>One of the established characters in the old moralities and puppet shows. See <er>Morality</er>, <pos>n.</pos>, 5.</def><br/
+<p><sn>4.</sn> <def>One of the established characters in the old moralities and puppet shows. See <er>Morality</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>You . . . take <qex>vanity</qex> the puppet's part.</q> <rj><qau>Shak.</qau></rj><br/
@@ -2057,7 +2057,7 @@ Succeeding <qex>vanities</qex> she still regards.</q> <rj><qau>Pope.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vantage game</ent><br/
-<hw>Van"tage game</hw>. <fld>(Lawn Tennis)</fld> <def>The first game after the set is deuce. See <er>Set</er>, <pos>n.</pos>, 9.</def><br/
+<hw>Van"tage game</hw>. <fld>(Lawn Tennis)</fld> <def>The first game after the set is deuce. See <er>Set</er>, <pos>n.</pos>, <snr>9</snr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Vantage point</ent><br/
@@ -2192,7 +2192,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <hw>Va"pored</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Wet with vapors; moist.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Affected with the vapors. See <er>Vapor</er>, <pos>n.</pos>, 5.</def><br/
+<p><sn>2.</sn> <def>Affected with the vapors. See <er>Vapor</er>, <pos>n.</pos>, <snr>5</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vaporer</ent><br/
@@ -2974,7 +2974,7 @@ Pant in her breast, and <qex>vary</qex> in her face.</q> <rj><qau>Addison.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vasculum</ent><br/
-\'d8<hw>Vas"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Vascula</plw> <pr>(#)</pr>.</plu> <ety>[L., a small vessel.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>Same as <er>Ascidium</er>, <pos>n.</pos>, 1.</def><br/
+\'d8<hw>Vas"cu*lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Vascula</plw> <pr>(#)</pr>.</plu> <ety>[L., a small vessel.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>Same as <er>Ascidium</er>, <pos>n.</pos>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A tin box, commonly cylindrical or flattened, used in collecting plants.</def><br/
@@ -3362,7 +3362,7 @@ It sounded.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vault</ent><br/
-<hw>Vault</hw>, <pos>v. i.</pos> <ety>[Cf. OF. <ets>volter</ets>, F. <ets>voltiger</ets>, It. <ets>voltare</ets> to turn. See <er>Vault</er>, <pos>n.</pos>, 4.]</ety><br/
+<hw>Vault</hw>, <pos>v. i.</pos> <ety>[Cf. OF. <ets>volter</ets>, F. <ets>voltiger</ets>, It. <ets>voltare</ets> to turn. See <er>Vault</er>, <pos>n.</pos>, <snr>4</snr>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>To leap; to bound; to jump; to spring.</def><br/
@@ -3698,7 +3698,7 @@ I. <subclass><er>Phaenogamia</er></subclass> (called also <er>Phanerogamia</er>)
 <hw>Veg`e*tal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The quality or state of being vegetal, or vegetable.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Biol.)</fld> <def>The quality or state of being vegetal, or exhibiting those physiological phenomena which are common to plants and animals. See <er>Vegetal</er>, <pos>a.</pos>, 2.</def><br/
+<p><sn>2.</sn> <fld>(Biol.)</fld> <def>The quality or state of being vegetal, or exhibiting those physiological phenomena which are common to plants and animals. See <er>Vegetal</er>, <pos>a.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vegetarian</ent><br/
@@ -4205,7 +4205,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>A curtain or covering; -- applied to various membranous partitions, especially to the soft palate. See under <er>Palate</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>See <er>Veil</er>, <pos>n.</pos>, 3 <sdr>(b)</sdr>.</def> <sd>(b)</sd> <def>A thin membrane surrounding the sporocarps of quillworts <gen>Isoetes</gen>).</def><br/
+<p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>See <er>Veil</er>, <pos>n.</pos>, <snr>3</snr> <sdr>(b)</sdr>.</def> <sd>(b)</sd> <def>A thin membrane surrounding the sporocarps of quillworts <gen>Isoetes</gen>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A veil-like organ or part.</def> Especially: <sd>(a)</sd> <def>The circular membrane that partially incloses the space beneath the umbrella of hydroid medusae.</def> <sd>(b)</sd> <def>A delicate funnel-like membrane around the flagellum of certain Infusoria. See <xex>Illust.</xex> <it>a</it> of <er>Protozoa</er>.</def><br/
@@ -4843,7 +4843,7 @@ Which first should issue from the narrow <qex>vent</qex>.</q> <rj><qau>Pope.</qa
 <p><q>Thou didst make tolerable <qex>vent</qex> of thy travel.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To give vent to</b></col>, <cd>to suffer to escape; to let out; to pour forth; as, <xex>to give vent to</xex> anger.</cd> -- <col><b>To take vent</b></col>, <cd>to escape; to be made public.</cd> <mark>[R.]</mark> -- <col><b>Vent feather</b></col> <fld>(Zool.)</fld>, <cd>one of the anal, or crissal, feathers of a bird.</cd> -- <col><b>Vent field</b></col> <fld>(Gun.)</fld>, <cd>a flat raised surface around a vent.</cd> -- <col><b>Vent piece</b></col>. <fld>(Gun.)</fld> <sd>(a)</sd> <cd>A bush.  See 4th <er>Bush</er>, <pos>n.</pos>, 2.</cd> <sd>(b)</sd> <cd>A breech block.</cd></cs><br/
+<p><cs><col><b>To give vent to</b></col>, <cd>to suffer to escape; to let out; to pour forth; as, <xex>to give vent to</xex> anger.</cd> -- <col><b>To take vent</b></col>, <cd>to escape; to be made public.</cd> <mark>[R.]</mark> -- <col><b>Vent feather</b></col> <fld>(Zool.)</fld>, <cd>one of the anal, or crissal, feathers of a bird.</cd> -- <col><b>Vent field</b></col> <fld>(Gun.)</fld>, <cd>a flat raised surface around a vent.</cd> -- <col><b>Vent piece</b></col>. <fld>(Gun.)</fld> <sd>(a)</sd> <cd>A bush.  See 4th <er>Bush</er>, <pos>n.</pos>, <snr>2</snr>.</cd> <sd>(b)</sd> <cd>A breech block.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vent</ent><br/
@@ -4995,7 +4995,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>Of or pertaining to that surface of a carpel, petal, etc., which faces toward the center of a flower.</def>  <sd>(b)</sd> <def>Of or pertaining to the lower side or surface of a creeping moss or other low flowerless plant.  Opposed to <ant>dorsal</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ventral fins</b></col> <fld>(Zool.)</fld>, <cd>the posterior pair of fins of a fish. They are often situated beneath the belly, but sometimes beneath the throat.</cd> -- <col><b>Ventral segment</b></col>. <fld>(Acoustics)</fld> <cd>See <er>Loop</er>, <pos>n.</pos>, 5.</cd></cs><br/
+<p><cs><col><b>Ventral fins</b></col> <fld>(Zool.)</fld>, <cd>the posterior pair of fins of a fish. They are often situated beneath the belly, but sometimes beneath the throat.</cd> -- <col><b>Ventral segment</b></col>. <fld>(Acoustics)</fld> <cd>See <er>Loop</er>, <pos>n.</pos>, <snr>5</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ventricle</ent><br/
@@ -5668,7 +5668,7 @@ Of golden metal that must round my brow.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vergeboard</ent><br/
-<hw>Verge"board`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Verge</ets> + <ets>board.</ets>  Cf. <er>Bargeboard</er>.]</ety> <fld>(Arch.)</fld> <def>The ornament of woodwork upon the gable of a house, used extensively in the 15th century. It was generally suspended from the edge of the projecting roof (see <er>Verge</er>, <pos>n.</pos>, 4), and in a position parallel to the gable wall. Called also <xex>bargeboard</xex>.</def><br/
+<hw>Verge"board`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Verge</ets> + <ets>board.</ets>  Cf. <er>Bargeboard</er>.]</ety> <fld>(Arch.)</fld> <def>The ornament of woodwork upon the gable of a house, used extensively in the 15th century. It was generally suspended from the edge of the projecting roof (see <er>Verge</er>, <pos>n.</pos>, <snr>4</snr>), and in a position parallel to the gable wall. Called also <xex>bargeboard</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vergency</ent><br/
@@ -6260,7 +6260,7 @@ Few <qex>vernal</qex> joys can show?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verse</ent><br/
-<hw>Verse</hw> <pr>(v<etil/rs)</pr>, <pos>n.</pos> <ety>[OE. <ets>vers</ets>, AS. <ets>fers</ets>, L. <ets>versus</ets> a line in writing, and, in poetry, a verse, from <ets>vertere</ets>, <ets>versum</ets>, to turn, to turn round; akin to E. <ets>worth</ets> to become: cf. F. <ets>vers</ets>.  See <er>Worth</er> to become, and cf. <er>Advertise</er>, <er>Averse</er>, <er>Controversy</er>, <er>Convert</er>, <er>Divers</er>, <er>Invert</er>, <er>Obverse</er>, <er>Prose</er>, <er>Suzerain</er>, <er>Vortex</er>.]</ety> <sn>1.</sn> <def>A line consisting of a certain number of metrical feet (see <er>Foot</er>, <pos>n.</pos>, 9) disposed according to metrical rules.</def><br/
+<hw>Verse</hw> <pr>(v<etil/rs)</pr>, <pos>n.</pos> <ety>[OE. <ets>vers</ets>, AS. <ets>fers</ets>, L. <ets>versus</ets> a line in writing, and, in poetry, a verse, from <ets>vertere</ets>, <ets>versum</ets>, to turn, to turn round; akin to E. <ets>worth</ets> to become: cf. F. <ets>vers</ets>.  See <er>Worth</er> to become, and cf. <er>Advertise</er>, <er>Averse</er>, <er>Controversy</er>, <er>Convert</er>, <er>Divers</er>, <er>Invert</er>, <er>Obverse</er>, <er>Prose</er>, <er>Suzerain</er>, <er>Vortex</er>.]</ety> <sn>1.</sn> <def>A line consisting of a certain number of metrical feet (see <er>Foot</er>, <pos>n.</pos>, <snr>9</snr>) disposed according to metrical rules.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Verses are of various kinds, as <stype>hexameter</stype>, <stype>pentameter</stype>, <stype>tetrameter</stype>, etc., according to the number of feet in each.  A verse of twelve syllables is called an <stype>Alexandrine</stype>.  Two or more verses form a <partof>stanza</partof> or <partof>strophe</partof>.</note><br/
@@ -9163,7 +9163,7 @@ As he was bid.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vinegarette</ent><br/
-<hw>Vin`e*gar*ette"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Vinaigrette</er>, <pos>n.</pos>, 2.</def><br/
+<hw>Vin`e*gar*ette"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Vinaigrette</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vinegar fly</ent><br/
@@ -10273,7 +10273,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viscoidal</ent><br/
-<hw>Vis*coid"al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Somewhat viscous.  Cf. <er>Mobile</er>, <pos>a.</pos>, 2.</def><br/
+<hw>Vis*coid"al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Somewhat viscous.  Cf. <er>Mobile</er>, <pos>a.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viscosimeter</ent><br/
@@ -10291,7 +10291,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Vis"count`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>vicounte</ets>, OF. <ets>visconte</ets>, <ets>vescunte</ets>, F. <ets>vicomte</ets>, LL. <ets>vicecomes</ets>; L. <ets>vice</ets> (see <er>Vice</er>, <pos>a.</pos>) + <ets>comes</ets> a companion, LL., a count.  See <er>Count</er>.]</ety> <sn>1.</sn> <fld>(O. Eng. Law)</fld> <def>An officer who formerly supplied the place of the count, or earl; the sheriff of the county.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A nobleman of the fourth rank, next in order below an earl and next above a baron; also, his degree or title of nobility.  See <er>Peer</er>, <pos>n.</pos>, 3.</def>  <mark>[Eng.]</mark>  <rj><au>Chaucer.</au></rj><br/
+<p><sn>2.</sn> <def>A nobleman of the fourth rank, next in order below an earl and next above a baron; also, his degree or title of nobility.  See <er>Peer</er>, <pos>n.</pos>, <snr>3</snr>.</def>  <mark>[Eng.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viscountcy</ent><br/
@@ -10563,7 +10563,7 @@ When musing midnight reigns.</q> <rj><qau>Thomson.</qau></rj><br/
 <hw>Vis"it*or</hw> <pr>(?)</pr>. <ety>[Cf. F. <ets>visiteur</ets>.]</ety> <altsp>[Written also <asp>visiter</asp>.]</altsp> <sn>1.</sn> <def>One who visits; one who comes or goes to see another, as in civility or friendship.</def>  <ldquo/This great flood of <xex>visitors</xex>.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A superior, or a person lawfully appointed for the purpose, who makes formal visits of inspection to a corporation or an institution.  See <er>Visit</er>, <pos>v. t.</pos>, 2, and <er>Visitation</er>, <pos>n.</pos>, 2.</def><br/
+<p><sn>2.</sn> <def>A superior, or a person lawfully appointed for the purpose, who makes formal visits of inspection to a corporation or an institution.  See <er>Visit</er>, <pos>v. t.</pos>, <snr>2</snr>, and <er>Visitation</er>, <pos>n.</pos>, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The king is the <qex>visitor</qex> of all lay corporations.</q> <rj><qau>Blackstone.</qau></rj><br/
@@ -11548,7 +11548,7 @@ Made <qex>vocal</qex> by my song.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Phon.)</fld> <sd>(a)</sd> <def>Consisting of, or characterized by, voice, or tone produced in the larynx, which may be modified, either by resonance, as in the case of the vowels, or by obstructive action, as in certain consonants, such as <xex>v</xex>, <xex>l</xex>, etc., or by both, as in the nasals <xex>m</xex>, <xex>n</xex>, <xex>ng</xex>; sonant; intonated; voiced.  See <er>Voice</er>, and <er>Vowel</er>, also <xex>Guide to Pronunciation</xex>, <sect/<sect/ 199-202.</def>  <sd>(b)</sd> <def>Of or pertaining to a vowel; having the character of a vowel; vowel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Vocal cords</b></col> <it>or</it> <col><b>Vocal chords</b></col></mcol>. <pos>n. pl.</pos> <fld>(Anat.)</fld> <cd>The two pairs of mucous membranes that project into the larynx, and which produce the sounds of speech by vibrating under the influence of air exhaled from the lungs.  See <er>Larynx</er>, and the Note under <er>Voice</er>, <pos>n.</pos>, 1.</cd> -- <col><b>Vocal fremitus</b></col> <ety>[L. <ets>fremitus</ets> a dull roaring or murmuring]</ety> <fld>(Med.)</fld>, <cd>the perceptible vibration of the chest wall, produced by the transmission of the sonorous vibrations during the act of using the voice.</cd> -- <col><b>Vocal music</b></col>, <cd>music made by the voice, in distinction from <contr>instrumental music</contr>; hence, music or tunes set to words, to be performed by the human voice.</cd> -- <col><b>Vocal tube</b></col> <fld>(Anat.)</fld>, <cd>the part of the air passages above the inferior ligaments of the larynx, including the passages through the nose and mouth.</cd></cs><br/
+<p><cs><mcol><col><b>Vocal cords</b></col> <it>or</it> <col><b>Vocal chords</b></col></mcol>. <pos>n. pl.</pos> <fld>(Anat.)</fld> <cd>The two pairs of mucous membranes that project into the larynx, and which produce the sounds of speech by vibrating under the influence of air exhaled from the lungs.  See <er>Larynx</er>, and the Note under <er>Voice</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col><b>Vocal fremitus</b></col> <ety>[L. <ets>fremitus</ets> a dull roaring or murmuring]</ety> <fld>(Med.)</fld>, <cd>the perceptible vibration of the chest wall, produced by the transmission of the sonorous vibrations during the act of using the voice.</cd> -- <col><b>Vocal music</b></col>, <cd>music made by the voice, in distinction from <contr>instrumental music</contr>; hence, music or tunes set to words, to be performed by the human voice.</cd> -- <col><b>Vocal tube</b></col> <fld>(Anat.)</fld>, <cd>the part of the air passages above the inferior ligaments of the larynx, including the passages through the nose and mouth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vocal</ent><br/
@@ -11799,7 +11799,7 @@ Of holy senates, and elect by <qex>voice</qex>.</q> <rj><qau>Dryden.</qau></rj><
 <p><sn>9.</sn> <fld>(Gram.)</fld> <def>A particular mode of inflecting or conjugating verbs, or a particular form of a verb, by means of which is indicated the relation of the subject of the verb to the action which the verb expresses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Active voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as the agent or doer of the action expressed by it.</cd> -- <col><b>Chest voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of a medium or low pitch and of a sonorous quality ascribed to resonance in the chest, or thorax; voice of the thick register. It is produced by vibration of the vocal cords through their entire width and thickness, and with convex surfaces presented to each other.</cd> -- <col><b>Head voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of high pitch and of a thin quality ascribed to resonance in the head; voice of the thin register; falsetto. In producing it, the vibration of the cords is limited to their thin edges in the upper part, which are then presented to each other.</cd> -- <col><b>Middle voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as both the agent, or doer, and the object of the action, that is, as performing some act to or upon himself, or for his own advantage.</cd> -- <col><b>Passive voice</b></col>. <fld>(Gram.)</fld> <cd>See under <er>Passive</er>, <pos>a.</pos></cd> -- <col><b>Voice glide</b></col> <fld>(Pron.)</fld>, <cd>the brief and obscure neutral vowel sound that sometimes occurs between two consonants in an unaccented syllable (represented by the apostrophe), as in <xex>able</xex> <pr>(a"b'l)</pr>.  See <er>Glide</er>, <pos>n.</pos>, 2.</cd> -- <col><b>Voice stop</b></col>. <cd>See <cref>Voiced stop</cref>, under <er>Voiced</er>, <pos>a.</pos></cd> -- <col><b>With one voice</b></col>, <cd>unanimously.</cd>  <ldquo/All <xex>with one voice</xex> . . . cried out, Great is Diana of the Ephesians.<rdquo/ <au>Acts xix. 34.</au></cs><br/
+<p><cs><col><b>Active voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as the agent or doer of the action expressed by it.</cd> -- <col><b>Chest voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of a medium or low pitch and of a sonorous quality ascribed to resonance in the chest, or thorax; voice of the thick register. It is produced by vibration of the vocal cords through their entire width and thickness, and with convex surfaces presented to each other.</cd> -- <col><b>Head voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of high pitch and of a thin quality ascribed to resonance in the head; voice of the thin register; falsetto. In producing it, the vibration of the cords is limited to their thin edges in the upper part, which are then presented to each other.</cd> -- <col><b>Middle voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as both the agent, or doer, and the object of the action, that is, as performing some act to or upon himself, or for his own advantage.</cd> -- <col><b>Passive voice</b></col>. <fld>(Gram.)</fld> <cd>See under <er>Passive</er>, <pos>a.</pos></cd> -- <col><b>Voice glide</b></col> <fld>(Pron.)</fld>, <cd>the brief and obscure neutral vowel sound that sometimes occurs between two consonants in an unaccented syllable (represented by the apostrophe), as in <xex>able</xex> <pr>(a"b'l)</pr>.  See <er>Glide</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Voice stop</b></col>. <cd>See <cref>Voiced stop</cref>, under <er>Voiced</er>, <pos>a.</pos></cd> -- <col><b>With one voice</b></col>, <cd>unanimously.</cd>  <ldquo/All <xex>with one voice</xex> . . . cried out, Great is Diana of the Ephesians.<rdquo/ <au>Acts xix. 34.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voice</ent><br/
@@ -12639,7 +12639,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>7.</sn> <fld>(Eccl.)</fld> <def>Of or pertaining to voluntaryism; <as>as, a <ex>voluntary</ex> church, in distinction from an established or state church</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Voluntary affidavit</b></col> <it>or</it> <col><b>Voluntary oath</b></col></mcol> <fld>(Law)</fld>, <cd>an affidavit or oath made in an extrajudicial matter.</cd> -- <col><b>Voluntary conveyance</b></col> <fld>(Law)</fld>, <cd>a conveyance without valuable consideration.</cd> -- <col><b>Voluntary escape</b></col> <fld>(Law)</fld>, <cd>the escape of a prisoner by the express consent of the sheriff.</cd> -- <col><b>Voluntary jurisdiction</b></col>. <fld>(Eng. Eccl. Law)</fld> <cd>See <cref>Contentious jurisdiction</cref>, under <er>Contentious</er>.</cd> -- <col><b>Voluntary waste</b></col>. <fld>(Law)</fld> <cd>See <er>Waste</er>, <pos>n.</pos>, 4.</cd></cs><br/
+<p><cs><mcol><col><b>Voluntary affidavit</b></col> <it>or</it> <col><b>Voluntary oath</b></col></mcol> <fld>(Law)</fld>, <cd>an affidavit or oath made in an extrajudicial matter.</cd> -- <col><b>Voluntary conveyance</b></col> <fld>(Law)</fld>, <cd>a conveyance without valuable consideration.</cd> -- <col><b>Voluntary escape</b></col> <fld>(Law)</fld>, <cd>the escape of a prisoner by the express consent of the sheriff.</cd> -- <col><b>Voluntary jurisdiction</b></col>. <fld>(Eng. Eccl. Law)</fld> <cd>See <cref>Contentious jurisdiction</cref>, under <er>Contentious</er>.</cd> -- <col><b>Voluntary waste</b></col>. <fld>(Law)</fld> <cd>See <er>Waste</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Spontaneous</er>.</syn><br/
