@@ -815,7 +815,7 @@ Two <qex>earths</qex> at the least, ere ye sow it, bestow.</q> <rj><qau>Tusser.<
 
 <p><ent>earth colors</ent><br/
 <hw>earth colors</hw> <pos>n. pl.</pos> <def>colors like those of soil or earth; brownish-reds and browns.</def><br/
-<syn><b>Syn. --</b> earth tones.</syn>
+<syn><b>Syn. --</b> earth tones.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>earth-colored</ent><br/
@@ -964,7 +964,7 @@ To make this wisdom <qex>earthly</qex> wise.</q> <rj><qau>Emerson.</qau></rj><br
 
 <p><ent>earth tones</ent><br/
 <hw>earth tones</hw> <pos>n. pl.</pos> <def>colors like those of soil or earth; brownish-reds and browns.</def><br/
-<syn><b>Syn. --</b> earth colors.</syn>
+<syn><b>Syn. --</b> earth colors.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Earth-tongue</ent><br/
@@ -2065,7 +2065,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 
 <p><ent>Echinulate</ent><br/
 <hw>E*chin"u*late</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Bot. & Zo<oum/l.)</fld> <def>Set with small spines or prickles.</def><br/
-<syn><b>Syn. --</b> echinate.</syn>
+<syn><b>Syn. --</b> echinate.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinus</ent><br/
@@ -4213,7 +4213,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>overly demonstrative; expressing emotion in an unrestrained manner; exhibiting unrestrained enthusiasm; -- of people and human actions; <as>as, <ex>effusive</ex> thanks; an <ex>effusive</ex> letter of recommendation</as>.  Contrasted with <contr>reserved</contr>.</def> <wns>[wns=1+2]</wns><br/
-<syn><b>Syn. --</b> gushing, gushy, burbling, burbly.</syn>
+<syn><b>Syn. --</b> gushing, gushy, burbling, burbly.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Effusive rocks</b></col> <fld>(Geol.)</fld>, <cd>volcanic rocks formed by a nonexplosive outpouring of lava in molten or plastic form; in distinction from so-called <contr>intrusive</contr>, or <contr>plutonic</contr>, rocks.</cd></cs></p>
@@ -4906,7 +4906,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 
 <p><ent>Eire</ent><br/
 <hw>Eire</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <def>the Irish name for Ireland; the name used in 1937 to 1949 for the Republic of Ireland.</def><br/
-<syn><b>Syn. --</b> Erin, Ireland.</syn>
+<syn><b>Syn. --</b> Erin, Ireland.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Eirenarch</ent><br/
@@ -5988,7 +5988,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><ent>electric chair</ent><br/
 <hw>e*lec"tric chair`</hw>,  <pos>n.</pos> <def>a device used for execution of criminals, consisting of a specially designed chair in which the victim is killed by passing a large current of electricity through the body.  This method of killing is called <usedfor>electrocution</usedfor>.</def><br/
-<syn><b>Syn. --</b> the chair, death chair, hot seat.</syn>
+<syn><b>Syn. --</b> the chair, death chair, hot seat.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>electrical charge</ent><br/
@@ -6359,7 +6359,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><ent>Electronic mail</ent><br/
 <hw>E`lec*tron"ic mail</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Computers)</fld> <sn>1.</sn> <def>a message transmitted from one computer to another, accessible by means of a mail reading program on the receiving computer.  The message may have one or many intended recipients, and may be directed by the sending program to one or to multiple receiving computers.  The message is typically in the form of a computer file, and may be a simple ASCII text, or any other type of binary coded information</def><br/
-<syn><b>Syn. --</b> email.</syn>
+<syn><b>Syn. --</b> email.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>electronics</ent><br/
@@ -8402,11 +8402,11 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 
 <p><ent>Embarrass</ent><br/
 <hw>Em*bar"rass</hw> <pr>(<ecr/m*b<acr/r"r<ait/s)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Embarrassed</conjf> <pr>(<ecr/m*b<acr/r"r<ait/st)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Embarrassing</conjf>.]</vmorph> <ety>[F. <ets>embarrasser</ets> (cf. Sp. <ets>embarazar</ets>, Pg. <ets>embara<cced/ar</ets>, Pr. <ets>barras</ets> bar); pref. <ets>em-</ets> (L. <ets>in</ets>) + LL. <ets>barra</ets> bar. See <er>Bar</er>.]</ety> <sn>1.</sn> <def>To hinder from freedom of thought, speech, or action by something which impedes or confuses mental action; to make (a person) unpleasantly self-conscious; to perplex; to discompose; to disconcert; <as>as, laughter may <ex>embarrass</ex> an orator</as>.</def> <wns>[wns=1]</wns><br/
-<syn><b>Syn. --</b> abash, discompose, disconcert, discomfit, chagrin.</syn>
+<syn><b>Syn. --</b> abash, discompose, disconcert, discomfit, chagrin.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>To hinder from liberty of movement; to impede; to obstruct; <as>as, business is <ex>embarrassed</ex>; public affairs are <ex>embarrassed</ex>.</as></def> <wns>[wns=2]</wns><br/
-<syn><b>Syn. --</b> obstruct, blockade, block, hinder, stymie.</syn>
+<syn><b>Syn. --</b> obstruct, blockade, block, hinder, stymie.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Com.)</fld> <def>To involve in difficulties concerning money matters; to incumber with debt; to beset with urgent claims or demands; -- said of a person or his affairs; <as>as, a man or his business is <ex>embarrassed</ex> when he can not meet his pecuniary engagements</as>.</def></p>
@@ -10210,7 +10210,7 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj><br/
 
 <p><ent>emphasized</ent><br/
 <hw>em"pha*sized</hw> <pos>adj.</pos> <def>Having stress or emphasis.</def><br/
-<syn><b>Syn. --</b>  emphatic.</syn>
+<syn><b>Syn. --</b>  emphatic.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>emphasizing</ent><br/
@@ -12591,7 +12591,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><ent>endogenic</ent><br/
 <ent>endogenetic</ent><br/
 <mhw><hw>en`do*ge*net"ic</hw>, <hw>en`do*gen"ic</hw></mhw> <pos>adj.</pos> <sn>1.</sn> <fld>(Biol.)</fld>  <def>Relating to or arising from an internal process; same as <er>endogenous</er>.</def><br/
-[<source>WordNet 1.5</source></p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <fld>(Geol.)</fld>  <def>Relating to the interior of the earth; of or pertaining to a metamorphic process occurring within a planet. Opposed to <contr>exogenetic</contr>.</def><br/
 <syn><b>Syn. --</b> endogenic.</syn><br/
@@ -13136,14 +13136,14 @@ As might the strokes of two such arms <qex>endure</qex>.</q> <rj><qau>Dryden.</q
 
 <p><ent>energizing</ent><br/
 <hw>en"er*gi`zing</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>imparting or capable of imparting vitality and energy.</def> <wns>[wns=1]</wns><br/
-<syn><b>Syn. --</b> bracing, brisk, fresh, refreshing, refreshful, tonic.</syn>
+<syn><b>Syn. --</b> bracing, brisk, fresh, refreshing, refreshful, tonic.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Those nobler exercises of <qex>energizing</qex> love.</q> <rj><qau>Bp. Horsley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>supplying motive force.</def> <wns>[wns=2]</wns><br/
-<syn><b>Syn. --</b> energizing, energising, kinetic.</syn>
+<syn><b>Syn. --</b> energizing, energising, kinetic.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Energumen</ent><br/
@@ -15428,7 +15428,7 @@ Shall, with their freedom lost, all virtue lose.</q> <rj><qau>Milton.</qau></rj>
 
 <p><ent>ensuing</ent><br/
 <hw>ensuing</hw> <pos>adj.</pos> <def>subsequent, or occurring as a result; <as>as, <ex>ensuing</ex> events confirmed the prediction</as>.</def><br/
-<syn><b>Syn. --</b> following; succeeding.</syn>
+<syn><b>Syn. --</b> following; succeeding.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Ensure</ent><br/
@@ -16748,7 +16748,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>To cut in; to furrow; to make trenches in or upon.</def><br/
-<syn><b>Syn. --</b> intrench.</syn>
+<syn><b>Syn. --</b> intrench.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>entrenchment</ent><br/
@@ -22055,7 +22055,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 
 <p><ent>Esperanto</ent><br/
 <hw>Es`pe*ran"to</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An artificial language, intended to be universal, devised by Dr. Zamenhof, a Russian, who adopted the pseudonym <ldquo/Dr. Esperanto<rdquo/ in publishing his first pamphlet regarding it in 1887.  The vocabulary is very largely based upon words common to the chief European languages, and sounds peculiar to any one language are eliminated.  The spelling is phonetic, and the accent (stress) is always on the penult.  A revised and simplified form, called <er>Ido</er> was developed in 1907, but <ex>Esperanto</ex> remained at the end of the 20th century the most popular artificial language designed for normal human linguistic communication.</def> -- <wordforms><wf>Es`pe*ran"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
-[<source>Webster 1913 Suppl.</source> + <source>PJC</source> ]</p>
+[<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><q>Esperanto<br/
 <br/
@@ -23856,7 +23856,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>eucalyptol</ent><br/
 <hw>eu`ca*lyp*tol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>eucalyptus</ets> + L. <ets>ol</ets>eum oil.]</ety> <fld>(Chem.)</fld> <def>A volatile, terpenelike oil (<chform>C10H18O</chform>), which is the main constituent of the oil of eucalyptus.  It has cockroach repellent activity and is used as a flavoring aid in pharmaceuticals.  Chemically it is <chname>1,3,3-trimethyl-2-oxabicyclo-[2,2,2]-octane</chname>.</def> <au>MI11</au><br/
-<syn><b>Syn. --</b> cineole, cajeputol.</syn>
+<syn><b>Syn. --</b> cineole, cajeputol.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note>  In the 1913 Webster eucalytpol was defined as an oil <ldquo/consisting largely of cymene<rdquo/.  Cymene (isopropyltoluene, <chform>C10H14</chform>) differs from that of the substance currently called <ex>eucalyptol</ex>, in having an unsaturated ring and no oxygen. Para-cymene does occur in eucalyptus oil as well as some other essential oils.</note><br/
@@ -23864,7 +23864,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>Eucalyptus</ent><br/
 \'d8<hw>Eu`ca*lyp"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>e'y^</grk> well, good + <?/ covered. The buds of Eucalyptus have a hemispherical or conical covering, which falls off at anthesis.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees, mostly Australian. Many of them grow to an immense height, one or two species exceeding the height even of the California Sequoia.</def><br/
-<syn><b>Syn. --</b> eucalyptus tree, gum tree, eucalypt.</syn>
+<syn><b>Syn. --</b> eucalyptus tree, gum tree, eucalypt.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They have rigid, entire leaves with one edge turned toward the zenith. Most of them secrete resinous gums, whence they called <altname>gum trees</altname>, and their timber is of great value. <spn>Eucalyptus Globulus</spn> is the blue gum; <spn>E. gigantea</spn>, the stringy bark: <spn>E. amygdalina</spn>, the peppermint tree. <spn>E. Gunnii</spn>, the Tasmanian cider tree, yields a refreshing drink from wounds made in the bark in the spring. Other species yield oils, tars, acids, dyes and tans. It is said that miasmatic valleys in Algeria and Portugal, and a part of the unhealthy Roman Campagna, have been made more salubrious by planting groves of these trees.</note><br/
@@ -24585,7 +24585,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>eutectic</ent><br/
 <hw>eutectic</hw> <pr>(<umac/*t<ecr/k"t<icr/k)</pr>, <pos>n.</pos> <def>a mixture of substances having a composition providing the minimum melting point ofr mixtures of those substances.  Called also a <ecol><b>eutectic mixture</b></ecol>.</def><br/
-<syn><b>Syn. --</b> eutectic mixture.</syn>
+<syn><b>Syn. --</b> eutectic mixture.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Eutexia</ent><br/
@@ -28825,12 +28825,12 @@ Like a bright <qex>exhalation</qex> in the evening.</q> <rj><qau>Shak.</qau></rj
 
 <p><ent>Exheredation</ent><br/
 <hw>Ex*her`e*da"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., <ets>exheredatio</ets>: cf. F. <ets>exh<eacute/r<eacute/dation</ets>.]</ety> <def>A disinheriting; disherison.</def> <mark>[R.]</mark><br/
-<syn><b>Syn. --</b> exhereditation.</syn>
+<syn><b>Syn. --</b> exhereditation.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exhereditation</ent><br/
 <hw>Ex`he*red`i*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>exhereditare</ets>, <ets>exhereditatum</ets>, disinherit.]</ety> <def>A disinheriting; disherison.</def> <mark>[R.]</mark>  <rj><au>E. Waterhouse.</au></rj><br/
-<syn><b>Syn. --</b> exheredation.</syn>
+<syn><b>Syn. --</b> exheredation.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exhibit</ent><br/
@@ -28892,11 +28892,11 @@ Like <qex>exhibition</qex> thou shalt have from me.</q> <rj><qau>Shak.</qau></rj
 
 <p><ent>exhibitionist</ent><br/
 <hw>exhibitionist</hw> <pos>n.</pos> <sn>1.</sn>  <def>a person with a compulsive desire to expose the genitals; -- usually a male.</def> <wns>[wns=1]</wns><br/
-<syn><b>Syn. --</b> flasher.</syn>
+<syn><b>Syn. --</b> flasher.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>someone who deliberately behaves in such a way as to attract attention.</def> <wns>[wns=2]</wns><br/
-<syn><b>Syn. --</b> show-off.</syn>
+<syn><b>Syn. --</b> show-off.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>exhibitionistic</ent><br/
@@ -29789,7 +29789,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <fld>(Economics & Commmerce)</fld> <def>an increase in the production of goods and services over time, and in the volume of business transactions, generally associated with an increase in employment and an increase in the money supply.  Opposite of <contr>contraction</contr>.</def><br/
-<syn><b>Syn. --</b> economic expansion.</syn>
+<syn><b>Syn. --</b> economic expansion.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>5.</sn> <fld>(Math.)</fld> <def>The developed result of an indicated operation; <as>as, the <ex>expansion</ex> of <mathex>(a + b)<exp>2</exp></mathex> is <mathex>a<exp>2</exp> + 2ab + b<exp>2</exp></mathex></as>.</def><br/
@@ -30775,12 +30775,12 @@ Of a despised life.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Explainable</ent><br/
 <hw>Ex*plain"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>explainabilis</ets>.]</ety> <def>Capable of being explained or made plain to the understanding; capable of being interpreted.</def>  <rj><au>Sir. T. Browne.</au></rj><br/
-<syn><b>Syn. --</b> explicable.</syn>
+<syn><b>Syn. --</b> explicable.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Explainer</ent><br/
 <hw>Ex*plain"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who explains; an expounder or expositor; a commentator; an interpreter.</def><br/
-<syn><b>Syn. --</b> explicator.</syn>
+<syn><b>Syn. --</b> explicator.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Explanate</ent><br/
@@ -30853,7 +30853,7 @@ And ten low words oft creep in one dull line.</q> <rj><qau>Pope.</qau></rj><br/
 
 <p><ent>Explicable</ent><br/
 <hw>Ex"pli*ca*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>explicabilis</ets>: cf. F. <ets>explicable</ets>.]</ety> <def>Capable of being explicated; that may be explained or accounted for; admitting explanation.</def><br/
-<syn><b>Syn. --</b> explainable.</syn>
+<syn><b>Syn. --</b> explainable.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It is not <qex>explicable</qex> upon any grounds.</q> <rj><qau>Burke.</qau></rj><br/
@@ -31408,7 +31408,7 @@ The <qex>express</qex> resemblance of the gods.</q> <rj><qau>Milton.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>5.</sn> <def>a railway train or bus for transporting passengers or goods with speed and punctuality; a train or bus that does not stop at certain stations.  Contrasted to <contr>local</contr>; <as>as, take the <ex>express</ex> to get there faster</as>.</def><br/
-<syn><b>Syn. --</b> express train.</syn>
+<syn><b>Syn. --</b> express train.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Express office</b></col>, <cd>an office where packages for an express are received or delivered.</cd> -- <col><b>Express train</b></col>, <cd>a railway train (such as a subway train) that does not stop at certain stations, but only at stations designated <ecol><b>express stops</b></ecol>.</cd></cs><br/
@@ -32718,7 +32718,7 @@ That you <qex>extol</qex> me thus?</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>extortionist</ent><br/
 <hw>ex*tor"tion*ist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who practices extortion.</def><br/
-<syn><b>Syn. --</b> extortioner.</syn>
+<syn><b>Syn. --</b> extortioner.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Extortious</ent><br/

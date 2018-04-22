@@ -8523,7 +8523,7 @@ Through dreary wastes, and <qex>weep</qex> each other's woe.</q> <rj><qau>Pope.<
 
 <p><ent>Weeping willow</ent><br/
 <hw>Weep"ing wil"low</hw> <fld>(Bot.)</fld> <def>a tree (<spn>Salix babylonica</spn>) of the willow family with slender leaves, native to China, whose branches grow very long and slender, and hang down almost perpendicularly.  It grows best where soil is moist, as by the banks of streams and is widely cultivated as an ornamental tree.</def><br/
-<syn><b>Syn. --</b> Babylonian weeping willow.</syn>
+<syn><b>Syn. --</b> Babylonian weeping willow.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Weerish</ent><br/
@@ -10272,7 +10272,7 @@ Or <qex>wet</qex> the thirsty earth with falling showers.</q> <rj><qau>Milton.</
 
 <p><ent>whachamacallit</ent><br/
 <hw>whachamacallit</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Any object whose name is forgotten, or not known.</def> <altsp>[Also spelled <asp>whatchamacallit</asp>.]</altsp><br/
-<syn><b>Syn. --</b> thingumbob, doohickey, dingus, whatsis, what-do-you-call-it.</syn>
+<syn><b>Syn. --</b> thingumbob, doohickey, dingus, whatsis, what-do-you-call-it.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Whack</ent><br/
@@ -10662,7 +10662,7 @@ Such homely <qex>what</qex> as serves the simple clown.</q> <rj><qau>Spenser.</q
 
 <p><ent>whatchamacallit</ent><br/
 <hw>whatchamacallit</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Any object whose name is forgotten, or not known.</def> <altsp>[Also spelled <asp>whachamacallit</asp>.]</altsp><br/
-<syn><b>Syn. --</b> thingumbob, doohickey, dingus, whatsis, what-do-you-call-it.</syn>
+<syn><b>Syn. --</b> thingumbob, doohickey, dingus, whatsis, what-do-you-call-it.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Whate'er</ent><br/
@@ -13529,7 +13529,7 @@ So old and <qex>white</qex> as this.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>White-livered</ent><br/
 <hw>White"-liv`ered</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a pale look; feeble; hence, cowardly; pusillanimous; dastardly.</def><br/
-<syn><b>Syn. --</b> lily-livered.</syn>
+<syn><b>Syn. --</b> lily-livered.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They must not be milksops, nor <qex>white-livered</qex> knights.</q> <rj><qau>Latimer.</qau></rj><br/

@@ -755,12 +755,12 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>year 2000 problem</ent><br/
 <ent>year 2000 bug</ent><br/
 <mhw><hw>year 2000 bug</hw>, <hw>year 2000 problem</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Computers)</fld> <def>an error in the coding of certain computer programs in which the year portion of dates was represented by only two decimal digits, assuming that the first two digits are <ldquo/19<rdquo/.  In such a program the the year 1975 is represented as <ldquo/75<rdquo/.  This was a common practise in computer programming even into the 1990's, as many programmers failed to consider that their programs would be used after the year 1999.  Thus, with such a program, a person born in 2000 would be considered as 101 years old in 2001; many different serious problems, as various as the programs, could be caused by such an error.</def>  <note>In 1998 many programs with the <ex>year 2000 bug</ex> were still not corrected, and it is not clear how many programs will retain the bug when the year 2000 arrives.  Tune in then.</note><br/
-<syn><b>Syn. --</b> millemium bug, Y2K bug, Y2K problem.</syn>
+<syn><b>Syn. --</b> millemium bug, Y2K bug, Y2K problem.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>year 2000 compliant</ent><br/
 <hw>year 2000 compliant</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Computers)</fld> <def>having dates fully and properly represented, and not susceptible to failure due to the <er>year 2000 bug</er>.</def><br/
-<syn><b>Syn. --</b> date compliant.</syn>
+<syn><b>Syn. --</b> date compliant.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Yeara</ent><br/

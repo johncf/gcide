@@ -483,7 +483,7 @@ Did cast, and drown mine eyes in sweet delight.</q> <rj><qau>Drummond.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><q>A thousand <qex>vagancies</qex> of glory and delight.</q> <rj><qau>Milton.</qau></rj><br/
-<-- note -- in the original Webster, <i>delight</i> was misspelled <i>desight</i>, a rare typographical error -->
+<-- note -- in the original Webster, <i>delight</i> was misspelled <i>desight</i>, a rare typographical error --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vagantes</ent><br/
@@ -10814,7 +10814,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 
 <p><ent>vitamin B complex</ent><br/
 <hw>vitamin B complex</hw> <pos>n.</pos> <def>a mixture of water-soluble vitamins originally thought to be a single vitamin but now known to be a mixture of several compounds with vitaminic activity.</def>
-<syn><b>Syn. --</b> B complex, vitamin B complex, vitamin B, B vitamin.</syn>
+<syn><b>Syn. --</b> B complex, vitamin B complex, vitamin B, B vitamin.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>vitamin C</ent><br/

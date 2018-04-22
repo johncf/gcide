@@ -11424,7 +11424,7 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 
 <p><ent>Lesbian</ent><br/
 <hw>Les"bi*an</hw> <pr>(l<ecr/z"b<icr/*<ait/n)</pr>, <pos>n.</pos> <def>A female homosexual.</def><br/
-<syn><b>Syn. --</b> dyke[vulgar, deprecatory].</syn>
+<syn><b>Syn. --</b> dyke[vulgar, deprecatory].</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Lesbianism</ent><br/
@@ -13621,7 +13621,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>License</ent><br/
 <hw>Li"cense</hw> <pr>(l<imac/"s<eit/ns)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Licensed</conjf> <pr>(l<imac/"s<eit/nst)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Licensing</conjf>.]</vmorph> <def>To permit or authorize by license; to give license to; <as>as, to <ex>license</ex> a man to preach</as>.</def>  <rj><au>Milton.</au>  <au>Shak.</au></rj><br/
-<syn><b>Syn. --</b> licence, certify.</syn>
+<syn><b>Syn. --</b> licence, certify.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Licensed</ent><br/
@@ -18118,7 +18118,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physics)</fld> <def>Being in such a state that the component molecules move freely among themselves, but have a definite volume changing only slightly with changes of pressure, and do not tend to separate from each other as the particles of gases and vapors do when the volume of the container is increased; neither solid nor gaseous; <as>as, <ex>liquid</ex> mercury, in distinction from mercury solidified or in a state of vapor</as>.</def> <note>Liquid substances may form a definite interface with gases, whereas the molecules of different gases freely intermingle with each other.</note><br/
-[<source>1913 Webster</source> + <source>PJC</source> ]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>Flowing or sounding smoothly or without abrupt transitions or harsh tones.</def> <ldquo/<xex>Liquid</xex> melody.<rdquo/  <rj><au>Crashaw.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -20438,7 +20438,7 @@ Your majesty <qex>loads</qex> our house.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>3.</sn> <def>charged with associative significance and often meant to mislead or influence; -- of statements or questions; <as>as, a <ex>loaded</ex> question</as>.</def><br/
-<source>WordNet 1.5</source>]</p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><sn>4.</sn>  <def>having an abundant supply of money or possessions of value; <as>as, She was not merely rich but <ex>loaded</ex></as>.</def><br/
 <syn><b>Syn. --</b> affluent, flush, moneyed, wealthy.</syn><br/
@@ -27394,7 +27394,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 \'d8<hw>Lu"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a wolf. See <er>Wolf</er>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>originally, a cutaneous disease with the appearance of the skin having been gnawed, and occurring under two distinct forms.  Now used as a generic term for over ten distinguishable diseases having visible cutaneous symptoms.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><note><hand/ <stype>Lupus erythematosus</stype> is characterized by an eruption of red patches, which become incrusted, leaving superficial scars. <stype>Lupus vulgaris</stype> is marked by the development of nodules which often ulcerate deeply and produce great deformity. Prior to 1900 the latter was often confounded with cancer, and some varieties of cancer were included under Lupus.  <stype>Systemic lupus erythematosus</stype> is an inflammatory connective tissue disease occurring mostly in women, characterized by skin rash, fever, and arthritic symptoms, and often accompanied by hemolytic anemia, inflammation of the pericardium, glomerular lesions, and hyperglobulinemia; the condition shows positive in the LE cell test. <au>[Stedman]</au></note>br/
+<p><note><hand/ <stype>Lupus erythematosus</stype> is characterized by an eruption of red patches, which become incrusted, leaving superficial scars. <stype>Lupus vulgaris</stype> is marked by the development of nodules which often ulcerate deeply and produce great deformity. Prior to 1900 the latter was often confounded with cancer, and some varieties of cancer were included under Lupus.  <stype>Systemic lupus erythematosus</stype> is an inflammatory connective tissue disease occurring mostly in women, characterized by skin rash, fever, and arthritic symptoms, and often accompanied by hemolytic anemia, inflammation of the pericardium, glomerular lesions, and hyperglobulinemia; the condition shows positive in the LE cell test. <au>[Stedman]</au></note><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>The Wolf, a constellation situated south of Scorpio.</def><br/

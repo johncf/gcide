@@ -33747,7 +33747,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <a href="more\io2.gif">Surface of Io.</a><br/
 <a href="more\iodisk.jpg">Full disk of Io passing, over the clouds of Jupiter.</a><br/
 <a href="more\Juptr&Io.gif">Jupiter with Io in transit.</a><br/
-More images are available at the NASA site.</note>
+More images are available at the NASA site.</note><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Iod-</ent><br/

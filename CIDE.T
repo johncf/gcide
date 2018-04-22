@@ -2853,7 +2853,7 @@ Coincidence, no doubt, but on the night of June 22, 1941, the Russian Scientist 
 
 <p><ent>Tamoxifen</ent><br/
 <hw>Ta*mox"i*fen</hw> <pr>(t<acr/*m<ocr/k"s<icr/*f<ecr/n)</pr>, <pos>n.</pos> <def>a chemical compound (<chform>C26H29NO</chform>) which is non-steroidal but physiogically active as an estrogen antagonist.  It is used to treat postmenopausal breast cancer.  Chemically it is <chname>1-p-dimethylaminoethoxyphenyl-trans-1,2-diphenyl-but-1-ene</chname>. It can be obtained as a white crystalline powder.</def> <au>[MI11]</au><br/
-<syn><b>Syn. --</b> Kessar; Noltam; Nolvadex; Tamofen; Tamoxasta; Terimon; Xynoplex.</syn>
+<syn><b>Syn. --</b> Kessar; Noltam; Nolvadex; Tamofen; Tamoxasta; Terimon; Xynoplex.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Tamp</ent><br/

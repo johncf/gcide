@@ -670,7 +670,7 @@ Lost Paradise, deceived by me.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Facsimile telegraph</b></col>, <cd>a telegraphic apparatus reproducing messages in autograph; a fax machine.</cd></cs><br/
-[<source>1913 Webster</source>+ <source>PJC</source>]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Facsimile</ent><br/
 <hw>Fac*sim"i*le</hw>, <pr>(<?/)</pr>, <pos>v. t.</pos> <def>To make a facsimile of.</def><br/
@@ -1001,11 +1001,11 @@ Hath borne his <qex>faculties</qex> so meek.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>faddy</ent><br/
 <ent>faddish</ent><br/
 <mhw><hw>faddish</hw> <hw>faddy</hw></mhw> <pos>adj.</pos> <sn>1.</sn> <def>intensely fashionable for a short time.</def> <wns>[wns=1]</wns><br/
-<syn><b>Syn. --</b> trendy.</syn>
+<syn><b>Syn. --</b> trendy.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>prone to follow fads; <as>as, a <ex>faddish</ex> clique of teenagers</as>; -- of people.</def><br/
-<syn><b>Syn. --</b> trendy.</syn>
+<syn><b>Syn. --</b> trendy.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>faddist</ent><br/
@@ -6163,7 +6163,7 @@ Or like a <qex>fawning</qex> parasite, obeyest.</q> <rj><qau>Milton.</qau></rj><
 
 <p><ent>faze</ent><br/
 <hw>faze</hw> <pr>(f<amac/z)</pr>, <pos>v. t.</pos> <def>To cause to become disconcerted or disturbed.  A variant form of <er>Feeze</er>.</def> <ldquo/The perpetual need to learn new software doesn't <ex>faze</ex> him.<rdquo/<br/
-[<source>1913 Webster</source> + <source>PJC</source> ]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>fazzolet</ent><br/
 <hw>faz"zo*let`</hw> <pr>(f<acr/z"z<osl/*l<ecr/t`)</pr>, <pos>n.</pos> <ety>[It. <ets>fazzoletto</ets>.]</ety> <def>A handkerchief.</def> <mark>[R.]</mark>  <rj><au>Percival.</au></rj><br/
@@ -13786,11 +13786,11 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>fire-retardant</ent><br/
 <hw>fire-retardant</hw> <pos>adj.</pos> <def>able to reduce combustibility or slow the spread of fire; -- of substances that are added to combustible materials to make them less combustible.</def><br/
-<source>PJC</source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>fire retardant</ent><br/
 <hw>fire retardant</hw> <pos>n.</pos> <def>a substance applied or added to materials or objects, so as to reduce combustibility or slow the spread of fire.</def><br/
-<source>PJC</source>]</p>
+[<source>PJC</source>]</p>
 
 <p><ent>Fireroom</ent><br/
 <hw>Fire"room`</hw>, <pos>n.</pos> <def>Same as <er>Stokehold</er>, below.</def><br/
@@ -20323,7 +20323,7 @@ Of Belial, <qex>flown</qex> with insolence and wine.</q> <rj><qau>Milton.</qau><
 
 <p><ent>flunk out</ent><br/
 <hw>flunk out</hw> <pos>v. i.</pos> <def>to be dismissed (from a school or course of study) due to failure to perform up to the minimum standard.</def><br/
-<syn><b>Syn. --</b> fail out; wash out.</syn>
+<syn><b>Syn. --</b> fail out; wash out.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Flunky</ent><br/
@@ -22853,7 +22853,7 @@ By him for whom these shames ye underwent.</q> <rj><qau>Shak.</qau></rj><br/
 <syn><b>Syn. --</b> fool{2}.</syn><br/
 [<source>PJC</source>]</p>
 
-<p><sn>2.</sn> <def>To flirt or philander.</def> <au>RHUD</au>br/
+<p><sn>2.</sn> <def>To flirt or philander.</def> <au>RHUD</au><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>To be sexually promiscuous; to engage in sexual intercourse with more than one partner; especially, to engage in adultery; <as>as, to <ex>fool around</ex> with another woman</as>.</def><br/
@@ -36056,7 +36056,7 @@ and the like.</q> <rj><qau>Burke.</qau></rj><br/
 
 <p><ent>Fusiform</ent><br/
 <hw>Fu"si*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>fusus</ets> spindle + <ets>-form</ets>: cf. F. <ets>fusiforme</ets>.]</ety> <def>Shaped like a spindle; shaped like a cylinder that tapers at each end; <as>as, a <ex>fusiform</ex> root; a <ex>fusiform</ex> cell.</as></def><br/
-<syn><b>Syn. --</b> cigar-shaped.</syn>
+<syn><b>Syn. --</b> cigar-shaped.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Fusil</ent><br/

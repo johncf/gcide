@@ -3028,7 +3028,7 @@ And down the rough cascade all <qex>dashing</qex> fall.</q> <rj><qau>Thomson.</q
 
 <p><ent>datable</ent><br/
 <hw>dat"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>That may be dated; having a known or ascertainable date.</def> <ldquo/<xex>Datable</xex> almost to a year.<rdquo/  <rj><au>The Century.</au></rj><br/
-<syn><b>Syn. --</b> dateable.</syn>
+<syn><b>Syn. --</b> dateable.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dataria</ent><br/
@@ -3124,7 +3124,7 @@ The field of motion, and the hour of rest.</q> <rj><qau>Akenside.</qau></rj><br/
 
 <p><ent>dated</ent><br/
 <hw>dated</hw> <pos>adj.</pos> <sn>1.</sn> <def>marked by features of the immediate and usually discounted past.</def><br/
-<syn><b>Syn. --</b> outmoded; pass<eacute/.</syn>
+<syn><b>Syn. --</b> outmoded; pass<eacute/.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>bearing a date; <as>as, <ex>dated</ex> and stamped documents</as>.</def><br/
@@ -12445,7 +12445,7 @@ Look out.</q> <rj><qau>Moore.</qau></rj><br/
 
 <p><ent>Demagogy</ent><br/
 <hw>Dem"a*gog`y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>d<eacute/magogie</ets>, Gr. <grk>dhmagwgi`a</grk> leadership of the people.]</ety> <def>Demagogism.</def><br/
-<syn><b>Syn. --</b> demagoguery.</syn>
+<syn><b>Syn. --</b> demagoguery.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Demain</ent><br/
@@ -17741,7 +17741,7 @@ So well <qex>deserved</qex> me.</q> <rj><qau>Massinger.</qau></rj><br/
 
 <p><ent>deserved</ent><br/
 <hw>deserved</hw> <pos>adj.</pos> <def>properly earned; warranted; merited.  Opposite of <ant>undeserved</ant>.</def><br/
-<syn><b>Syn. --</b> due.</syn>
+<syn><b>Syn. --</b> due.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>deservedly</ent><br/
@@ -19966,7 +19966,7 @@ My heart <qex>detests</qex> him as the gates of hell.</q> <rj><qau>Pope.</qau></
 
 <p><ent>detox</ent><br/
 <hw>detox</hw> <pos>n.</pos> <sn>1.</sn> <def>the hospital ward or clinic in which patients are detoxified; -- often used attributively.</def><br/
-<syn><b>Syn. --</b> detox ward.</syn>
+<syn><b>Syn. --</b> detox ward.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>detoxification.</def><br/
@@ -20553,7 +20553,7 @@ That life <qex>develops</qex> from within.</q> <rj><qau>Mrs. Browning.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>having behavior or characteristics differing from that which is normal or expected, especially in an undesirable or socially disapproved manner; <as>as, <ex>deviant</ex> behavior</as>.</def><br/
-<syn><b>Syn. --</b> deviate.</syn>
+<syn><b>Syn. --</b> deviate.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Deviate</ent><br/
@@ -20575,12 +20575,12 @@ May boldly <qex>deviate</qex> from the common track.</q> <rj><qau>Pope.</qau></r
 
 <p><ent>deviate</ent><br/
 <hw>de"vi*ate</hw> <pr>(d<emac/"v<esl/*<icr/t)</pr>, <pos>a.</pos> <def>having behavior differing from that which is normal or expected, especially in an undesirable or socially disapproved manner; <as>as, <ex>deviate</ex> behavior</as>.</def><br/
-<syn><b>Syn. --</b> deviant.</syn>
+<syn><b>Syn. --</b> deviant.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>deviate</ent><br/
 <hw>de"vi*ate</hw> <pr>(d<emac/"v<esl/*<icr/t)</pr>, <pos>n.</pos> <def>a person having behavior differing from that which is normal or socially acceptable; -- used especially to characterize persons whose sexual behavior is considered morally unacceptable.</def><br/
-<syn><b>Syn. --</b> deviant.</syn>
+<syn><b>Syn. --</b> deviant.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>deviation</ent><br/
@@ -23641,7 +23641,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>diehard</ent><br/
 <hw>die"hard`</hw> <pr>(d<imac/"h<aum/rd`)</pr>, <pos>a.</pos> <def>stubbornly and vigorously resisting in the face of seemingly hopeless odds; <as>as, <ex>diehard</ex> opposition</as>.</def><br/
-<syn><b>Syn. --</b> never-say-die.</syn>
+<syn><b>Syn. --</b> never-say-die.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dielectric</ent><br/
@@ -24762,7 +24762,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>digitalin</ent><br/
 <hw>dig"i*ta`lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>digitaline</ets>.]</ety> <sd>(a)</sd> <fld>(Medicine, Pharmacy)</fld> <def>Any one of several extracts of foxglove (<gen>Digitalis</gen>), as the <ldquo/French extract,<rdquo/ the <ldquo/German extract,<rdquo/ etc., which differ among themselves in composition and properties.  Both <spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn> have been used to prepare such extracts.</def> <sd>(b)</sd> <fld>(Chem.)</fld> <def>the distinctive chemical substance, a <isa>steroid glycoside</isa>, which is the essential ingredient of the extracts of <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C36H56O14</chform>), and is a 3-substituted diglucoside of a steroid.  It is a powerful cardiac stimulant and is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,16<beta/)-3-[6-Deoxy-4-O-<beta/-D-glucopyranosyl-3-O-methyl-<beta/-D-galactopyranosyl)oxy]-14,16-dihyroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitoxin</er> and <er>digoxin</er> are also extracted from the foxglove.  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/
-<syn><b>Syn. --</b> digitalinum verum, Diginorgin, Schmiedeberg's digitalin, digitalis, digitalis glycoside.</syn>
+<syn><b>Syn. --</b> digitalinum verum, Diginorgin, Schmiedeberg's digitalin, digitalis, digitalis glycoside.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Digitalis</ent><br/
@@ -26147,7 +26147,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 
 <p><ent>ding-a-ling</ent><br/
 <hw>ding"-a-ling</hw> <def>a stupid or foolish person; -- used in a deprecatory or contemptuous sense.</def> <mark>[slang]</mark><br/
-<syn><b>Syn. --</b> dingdong, doofus.</syn>
+<syn><b>Syn. --</b> dingdong, doofus.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>ding-dong</ent><br/
@@ -26158,7 +26158,7 @@ Breaks into <qex>dimples</qex> small and bright.</q> <rj><qau>Wordsworth.</qau><
 <p><sn>2.</sn> <fld>(Horol.)</fld> <def>An attachment to a clock by which the quarter hours are struck upon bells of different tones.</def></p>
 
 <p><sn>3.</sn> <def>a stupid or foolish person; -- used in a deprecatory or contemptuous sense.</def> <mark>[slang]</mark><br/
-<syn><b>Syn. --</b> ding-a-ling, doofus.</syn>
+<syn><b>Syn. --</b> ding-a-ling, doofus.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dingdong theory</ent><br/
@@ -26250,7 +26250,7 @@ A <qex>dingthrift</qex> and a knave?</q> <rj><qau>Drant.</qau></rj><br/
 
 <p><ent>dink</ent><br/
 <hw>dink</hw>, <pos>n.</pos> <def>an Asian person, especially a Vietnamese; -- used contemptuously, considered disparaging and offensive.</def> <mark>[U.S. slang]</mark><br/
-<syn><b>Syn. --</b> slant, slope.</syn>
+<syn><b>Syn. --</b> slant, slope.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dinka</ent><br/
@@ -28282,7 +28282,7 @@ Oft <qex>disarrayed</qex> the foes in battle ranged.</q> <rj><qau>Fenton.</qau><
 
 <p><ent>disassemble</ent><br/
 <hw>dis`as*sem"ble</hw> <pos>v. t.</pos> <sn>1.</sn> <def>to take apart; to disconnect the parts of; to convert a whole into its constituent pieces.</def><br/
-<syn><b>Syn. --</b> dismantle, take apart, break apart, break up.</syn>
+<syn><b>Syn. --</b> dismantle, take apart, break apart, break up.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Computers)</fld> <def>to convert a computer program in machine language into an equivalent assembly-language file.</def><br/
@@ -29157,7 +29157,7 @@ Obey the rules and <qex>discipline</qex> of art.</q> <rj><qau>Dryden.</qau></rj>
 
 <p><ent>disc jockey</ent><br/
 <hw>disc" jock`ey</hw> <pr>(d<icr/sk" j<ocr/k`<ycr/)</pr>, <pos>n.</pos> <def>a person who plays records or compact disks of recorded music;</def> <specif>especially,</specif> <def>a person who selects and plays recorded music for broadcast over the radio, often making comments about the music or other topics and also announcing commercial advertising messages; also, one who plays recorded music at a dance or social gathering, especially as a profession.</def> <altsp>[Also spelled <asp>disk jockey</asp>.]</altsp><br/
-<syn><b>Syn. --</b> DJ.</syn>
+<syn><b>Syn. --</b> DJ.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Disclaim</ent><br/
@@ -29363,7 +29363,7 @@ Our friendship 's an end.</q> <rj><qau>Addison.</qau></rj></p>
 
 <p><ent>discolored</ent><br/
 <hw>dis*col"ored</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Altered in color; stained; spotted or streaked with foreign matter.</def><br/
-<syn><b>Syn. --</b> discoloured.</syn>
+<syn><b>Syn. --</b> discoloured.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Variegated; of divers colors.</def> <mark>[R.]</mark><br/
@@ -30555,7 +30555,7 @@ Black's not so black; -- nor white so very white.</q> <rj><qau>Canning.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>making careful or fine distinctions, especially as to quality or accuracy; <as>as, a <ex>discriminating</ex> observer</as>.</def><br/
-<syn><b>Syn. --</b> discerning, perspicacious.</syn>
+<syn><b>Syn. --</b> discerning, perspicacious.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>having a refined taste or excellent judgment; <as>as, a <ex>discriminating</ex> taste</as>.</def><br/
@@ -31929,19 +31929,19 @@ From top of honor to <qex>disgrace's</qex> feet?</q> <rj><qau>Shak.</qau></rj><b
 [<source>PJC</source>]</p>
 
 <p><sn>7.</sn> <def>an electronic device with a concave reflecting surface which focuses reflected radio waves to or from a point, used as a receiving or transmitting antenna; also called <altname><ecol><b>dish antenna</b></ecol></altname>.  The dish is often shaped as a paraboloid so as to achieve a high sensitivity and enable reception of weak signals when used as a receiving antenna, or to focus transmitted signals into a narrow beam when used as a transmitting antenna.</def><br/
-<syn><b>Syn. --</b> dish aerial, dish antenna, saucer.</syn>
+<syn><b>Syn. --</b> dish aerial, dish antenna, saucer.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>8.</sn> <def>a very attractive woman or young lady, especaially one sexually attractive; -- sometimes considered offensive and sexist; <as>as, the departmental secretary is quite a <ex>dish</ex></as>.</def> <mark>[slang]</mark><br/
-<syn><b>Syn. --</b> smasher, stunner, knockout, beauty, sweetheart, peach, lulu, looker, mantrap, dish.</syn>
+<syn><b>Syn. --</b> smasher, stunner, knockout, beauty, sweetheart, peach, lulu, looker, mantrap, dish.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>9.</sn> <def>a favorite activity, or an activity at which one excels.</def> <mark>[slang]</mark> <br/
-<syn><b>Syn. --</b> cup of tea, bag.</syn>
+<syn><b>Syn. --</b> cup of tea, bag.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><sn>10.</sn> <def>the quantity that a dish will hold, or a dish filled with some material.</def><br/
-<syn><b>Syn. --</b> dishful.</syn>
+<syn><b>Syn. --</b> dishful.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>satellite dish</b></col> <cd>a <isa>dish antenna</isa> used to receive signals from or to transmit signals to a satellite which transmits or receives radio signals.  In most common usage, it refers to small dish antennas used to receive television programs broadcast from geostationary satellites.</cd></cs><br/
@@ -39417,7 +39417,7 @@ The just man, and <qex>divulges</qex> him through heaven.</q> <rj><qau>Milton.</
 <p><ent>Dixie</ent><br/
 <hw>Dix"ie</hw> <pr>(d<icr/ks"<ycr/)</pr>, <pos>prop. n.</pos> <sn>1.</sn> <def>A colloquial name for the Southern portion of the United States, esp. during the Civil War.</def> <mark>[U.S.]</mark><br/
 <syn><b>Syn. --</b> Dixieland, Dixie Land, the Confederacy, Confederate States of America, the South.</syn><br/
-<syn><b>Syn. --</b> .</syn>
+<syn><b>Syn. --</b> .</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>a song popular in the Confederate states during the American Civil War, and still played as a nostalgic anthem by those patriotic to the American south.  It was written by <person>Daniel D. Emmett</person> in 1859.</def><br/
@@ -39499,7 +39499,7 @@ That <qex>dizen</qex> Nature's carnival.</q> <rj><qau>Emerson.</qau></rj><br/
 
 <p><ent>DJIA</ent><br/
 <hw>DJIA</hw> <pr>(d<emac/"j<amac/*<imac/`<amac/)</pr>, <pos>n.</pos> <fld>(Finance)</fld> <def>The <er>Dow Jones Industrial Average</er>.</def> <mark>[acronym]</mark> <br/
-<syn><b>Syn. --</b> DJI, DJIA, Dow, Dow Jones, Dow-Jones Average.</syn>
+<syn><b>Syn. --</b> DJI, DJIA, Dow, Dow Jones, Dow-Jones Average.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Djibouti</ent><br/
@@ -41305,15 +41305,15 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>10.</sn> <def>the field of knowledge, expertise, or interest of a person; <as>as, he had a limited <ex>domain</ex> of discourse; I can't comment on that, it's outside my <ex>domain</ex></as>.</def> <wns>[wns=5]</wns><br/
-<syn><b>Syn. --</b> domain, realm, field, area.</syn>
+<syn><b>Syn. --</b> domain, realm, field, area.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>11.</sn> <def>a particular environment or walk of life.</def> <wns>[wns=1]</wns><br/
-<syn><b>Syn. --</b> sphere, domain, area, orbit, field, arena.</syn>
+<syn><b>Syn. --</b> sphere, domain, area, orbit, field, arena.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>12.</sn> <def>people in general; especially a distinctive group of people with some shared interest.</def> <wns>[wns=4]</wns><br/
-<syn><b>Syn. --</b> world, domain.</syn>
+<syn><b>Syn. --</b> world, domain.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><cs><col><b>Public domain</b></col>, <sn>1.</sn> <cd>the territory belonging to a State or to the general government; public lands.</cd> <mark>[U.S.]</mark> -- <sn>2.</sn> <cd>the situation or status of intellectual property which is not protected by copyright, patent or other restriction on use.  Anything <col><b>in the public domain</b></col> may be used by anyone without restriction.  The effective term of force of copyrights and patents are limited by statute, and after the term expires, the writings and inventions thus protected go into the public domain and are free for use by all.</cd> -- <col><b>Right of eminent domain</b></col>, <cd>that superior dominion of the sovereign power over all the property within the state, including that previously granted by itself, which authorizes it to appropriate any part thereof to a necessary public use, reasonable compensation being made.</cd></cs><br/
@@ -41976,7 +41976,7 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>donnism</ent><br/
 <hw>don"nism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<er>Don</er>, <pos>n.</pos>, 2.]</ety> <def>Self-importance; loftiness of carriage.</def> <mark>[Cant, Eng. Universities]</mark><br/
-<syn><b>Syn. --</b> donnishness.</syn>
+<syn><b>Syn. --</b> donnishness.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Donor</ent><br/
@@ -42030,12 +42030,12 @@ On the bless'd lovers.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>doofus</ent><br/
 <hw>doo"fus</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a person who is stupid or inept; -- used contemptuously.</def> <altsp>[Also spelled <asp>dufus</asp>.]</altsp> <mark>[Slang]</mark><br/
-<syn><b>Syn. --</b> dingdong, ding-a-ling.</syn>
+<syn><b>Syn. --</b> dingdong, ding-a-ling.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>doohickey</ent><br/
 <hw>doo"hick*ey</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Any object, usually a tool or other device, whose name is forgotten, or not known.</def><br/
-<syn><b>Syn. --</b> thingumbob, whatchamacallit, whachamacallit.</syn>
+<syn><b>Syn. --</b> thingumbob, whatchamacallit, whachamacallit.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>doole</ent><br/
@@ -42455,7 +42455,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>dork</ent><br/
 <hw>dork</hw> <pr>(d<ocir/rk)</pr>, <pos>n.</pos> <sn>1.</sn> <def>a person who is stupid, socially inept, or ridiculous; -- always used disparagingly.</def> <mark>[slang.]</mark> <br/
-<syn><b>Syn. --</b> nerd; jerk.</syn>
+<syn><b>Syn. --</b> nerd; jerk.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the penis.</def> <mark>[vulgar slang]</mark><br/
@@ -42467,7 +42467,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p><ent>dorky</ent><br/
 <hw>dork"y</hw> <pr>(d<ocir/rk"<emac/)</pr>, <pos>n.</pos> <def>stupid, socially inept, unfashionable, or ridiculous; -- always used disparagingly.</def> <mark>[slang.]</mark> <br/
-<syn><b>Syn. --</b> nerd; jerk.</syn>
+<syn><b>Syn. --</b> nerd; jerk.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dorm</ent><br/
@@ -43847,7 +43847,7 @@ And bosomed with her.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><ent>Douroucouli</ent><br/
 \'d8<hw>Dou`rou*cou"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small, nocturnal, South American monkey of the genus <gen>Aotus</gen> (formerly <spn>Nyctipithecus trivirgatus</spn>), with large owl-like eyes; hence, the common name <altname>owl monkey</altname>.</def> <altsp>[Written also <asp>Durukuli</asp> and <asp>dourikuli</asp>.]</altsp><br/
-[<source>1913 Webster</source> + <source>PJC</source> ]</p>
+[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Douse</ent><br/
 <hw>Douse</hw> <pr>(dous)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Doused</conjf> <pr>(doust)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Dousing</conjf>.]</vmorph> <ety>[Cf. <er>Dowse</er>, and OD. <ets>donsen</ets> to strike with the fist on the back, Sw. <ets>dunsa</ets> to fall down violently and noisily; perh. akin to E. <ets>din</ets>.]</ety> <sn>1.</sn> <def>To plunge suddenly into water; to duck; to immerse; to dowse.</def>  <rj><au>Bp. Stillingfleet.</au></rj><br/
@@ -44076,12 +44076,12 @@ Fluttered your Volscians in Corioli.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Dow-Jones Index</ent><br/
 <hw>Dow-Jones Index</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Finance)</fld> <def>an index of certain stock prices on the New York Stock Exchange, computed by the Dow Jones publishing company as a weighted average of the prices of specific stocks in certain categories.  Three indices are maintained, the Industrials, the Transportations, and the Utilities.  When used without qualification, the term usually refers to the Dow Jones Industrial Average.</def><br/
-<syn><b>Syn. --</b> Dow, Dow Jones, Dow-Jones Average.</syn>
+<syn><b>Syn. --</b> Dow, Dow Jones, Dow-Jones Average.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dow-Jones Industrial Average</ent><br/
 <hw>Dow-Jones Industrial Average</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Finance)</fld> <def>an index of certain stock prices on the New York Stock Exchange, computed by the Dow Jones publishing company as a weighted average of the prices of the common stocks of 30 specific companies classified as "industrial".   The Dow Jones Industrial Average is often taken as an indicator of the movement of American stock prices generally, though other indices are maintained, averaging the prices of other stocks,  and these often change in opposite directions from those of the DJIA.</def><br/
-<syn><b>Syn. --</b> DJI, DJIA, Dow, Dow Jones, Dow-Jones Average.</syn>
+<syn><b>Syn. --</b> DJI, DJIA, Dow, Dow Jones, Dow-Jones Average.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Dowl</ent><br/
@@ -44434,7 +44434,7 @@ And guilty dumbness, witnessed my surprise.</q> <rj><qau>Dryden.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Open; artless; undisguised; absolute; unmixed; <as>as, <ex>downright</ex> atheism</as>.</def><br/
-<syn><b>Syn. --</b> honest-to-goodness.</syn>
+<syn><b>Syn. --</b> honest-to-goodness.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>downright</qex> impossibilities charged upon it.</q> <rj><qau>South.</qau></rj><br/
@@ -45146,7 +45146,7 @@ That, like a wounded snake, <qex>drags</qex> its slow length along.</q> <rj><qau
 
 <p><ent>dragee</ent><br/
 <hw>dragee</hw> <pos>n.</pos> <sn>1.</sn> <def>sugar-coated medication.</def><br/
-<syn><b>Syn. --</b> drag<eacute/es.</syn>
+<syn><b>Syn. --</b> drag<eacute/es.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><sn>2.</sn> <def>silver-coated candy bead for decorating cakes.</def><br/
@@ -47738,7 +47738,7 @@ And in a little while our lips are dumb.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>drive-in</ent><br/
 <hw>drive-in</hw> <pos>a.</pos> <def>arranged to allow business to be transacted while patrons remain in their vehicles; <as>as, a <ex>drive-in</ex> window at a bank</as>.</def><br/
-<syn><b>Syn. --</b> drive-through.</syn>
+<syn><b>Syn. --</b> drive-through.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>drive-in window</ent><br/
@@ -48258,7 +48258,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 
 <p><ent>drop forge</ent><br/
 <hw>drop forge</hw> <pos>n.</pos> <def>a device for making large forgings, in which a heavy hammer drops onto the metalwork to be forged, pressing it into a form or anvil underneath, or between dies.</def><br/
-<syn><b>Syn. --</b> drop hammer, drop press.</syn>
+<syn><b>Syn. --</b> drop hammer, drop press.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>dropforge</ent><br/
@@ -48310,7 +48310,7 @@ And wets the little plants that lowly dwell.</q> <rj><qau>Spenser.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A dropping tube, usually of glass or plastic with a narrow opening at the tip and a rubber bulb at the top which can be squeezed to control intake or outflow of the fluid.  The word is used in combinations with obvious significance, as <stype>eye dropper</stype>, <stype>medicine dropper</stype>, etc.</def><br/
-<syn><b>Syn. --</b> eye dropper.</syn>
+<syn><b>Syn. --</b> eye dropper.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>3.</sn> <fld>(Mining)</fld> <def>A branch vein which drops off from, or leaves, the main lode.</def><br/
@@ -48758,7 +48758,7 @@ Their spicy <qex>drugs</qex>.</q>  <rj><au>Milton.</au></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>5.</sn> <def>any substance having psychological effects, such as a narcotic, stimulant, or hallucinogenic agent, especially habit-forming and addictive substances, sold or used illegally; <as>as, a <ex>drug</ex> habit; a <ex>drug</ex> treatment program; a teenager into <ex>drugs</ex>; a <ex>drug</ex> bust; addicted to <ex>drugs</ex>; high on <ex>drugs</ex>.</as></def><br/
-<syn><b>Syn. --</b> illegal drug.</syn>
+<syn><b>Syn. --</b> illegal drug.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><q>They [smaller and poorer nations] have lined up to recount how <qex>drug</qex> trafficking and consumption have corrupted their struggling economies and societies and why they are hard pressed to stop it.</q> <rj><qau> Christopher S. Wren (N Y. Times, June 10, 1998, p. A5)</qau></rj><br/
@@ -48814,7 +48814,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>one who compounds drugs or distributes drugs into containers for distribution to customers; a pharmacist or apothecary.</def><br/
-<syn><b>Syn. --</b> dispensing chemist.</syn>
+<syn><b>Syn. --</b> dispensing chemist.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ The same person often serves as both pharmacist and retail seller of drugs. See the Note under <er>Apothecary</er>.</note><br/
@@ -49232,7 +49232,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj><b
 
 <p><ent>Dry-fisted</ent><br/
 <hw>Dry"-fist`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Niggardly.</def><br/
-<syn><b>Syn. --</b> stingy; cheap; miserly.</syn>
+<syn><b>Syn. --</b> stingy; cheap; miserly.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Dryfoot</ent><br/
@@ -49619,7 +49619,7 @@ Other trippings to be trod.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Duck-billed platypus</ent><br/
 <hw>Duck"-billed` plat"y*pus</hw> <pr>(?)</pr>, <pos>a.</pos> <def>same as <cref>Duck Mole</cref>, under <er>Duck</er>.</def>.<br/
-<syn><b>Syn. --</b> duck mole, duckbill, duck-bill platypus, platypus.</syn>
+<syn><b>Syn. --</b> duck mole, duckbill, duck-bill platypus, platypus.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ducker</ent><br/
@@ -49943,7 +49943,7 @@ Slow through the churchway path we saw him borne.</q> <rj><qau>Gray.</qau></rj><
 
 <p><ent>Duff</ent><br/
 <hw>Duff</hw> <pr>(d<ucr/f)</pr>, <pos>n.</pos> <def>the buttocks; <as>as, get off your <ex>duff</ex> and get to work</as>.</def> <mark>[slang]</mark><br/
-<syn><b>Syn. --</b> rump; ass.</syn>
+<syn><b>Syn. --</b> rump; ass.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Duff</ent><br/
@@ -50581,7 +50581,7 @@ To blush like a banner bathed in slaughter.</q> <rj><qau>Percival.</qau></rj><br
 
 <p><ent>dump cart</ent><br/
 <hw>dump cart</hw> <pos>n.</pos> <fld>(Railroads)</fld> <def>same as <cref>dump car</cref>.</def><br/
-<syn><b>Syn. --</b> dumping car, dumping cart, dump car.</syn>
+<syn><b>Syn. --</b> dumping car, dumping cart, dump car.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>dumped</ent><br/

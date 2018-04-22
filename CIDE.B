@@ -1137,7 +1137,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>backpack</ent><br/
 <hw>back"pack</hw> <pos>n.</pos> <def>a bag carried on the back, supported by straps looped over the shoulders.</def><br/
-<syn><b>Syn. --</b> knapsack; rucksack; haversack.</syn>
+<syn><b>Syn. --</b> knapsack; rucksack; haversack.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>backpack</ent><br/
@@ -1271,7 +1271,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>backstage</ent><br/
 <hw>backs"tage</hw> <pos>adj.</pos> <def>concealed from the public; in private.</def><br/
-<syn><b>Syn. --</b> behind the scenes.</syn>
+<syn><b>Syn. --</b> behind the scenes.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Back stairs</ent><br/
@@ -1371,7 +1371,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Music)</fld> <def>a musician or group of musicians accompanying a soloist, whether vocalists or instrumentalists.</def><br/
-<syn><b>Syn. --</b> accompaniment.</syn>
+<syn><b>Syn. --</b> accompaniment.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><sn>3.</sn> <def>a person or group of persons serving as reinforcement for another or others; <as>as, the policeman called for <ex>backup</ex> when he was fired on</as>.</def><br/
@@ -3333,7 +3333,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Ballarag</ent><br/
 <hw>Bal"la*rag</hw> <pr>(b<acr/l"l<adot/*r<acr/g)</pr>, <pos>v. t.</pos> <ety>[Corrupted fr. <ets>bullirag</ets>.]</ety> <def>To bully; to threaten.</def> <mark>[Low]</mark>  <rj><au>T. Warton.</au></rj><br/
-<syn><b>Syn. --</b> bullirag; bullyrag.</syn>
+<syn><b>Syn. --</b> bullirag; bullyrag.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ballast</ent><br/
@@ -3855,7 +3855,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q><br/
 
 <p><ent>Balzac</ent><br/
 <hw>Balzac</hw> <pos>n.</pos> <def>Honore de Balzac, a French novelist; b. 1799, d. 1850.</def> <mark>[Person]</mark> <br/
-<syn><b>Syn. --</b> Honore Balzac.</syn>
+<syn><b>Syn. --</b> Honore Balzac.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Balzacian</ent><br/
@@ -8829,7 +8829,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj><br/
 <p><ent>battlefront</ent><br/
 <hw>bat"tle*front</hw> <pos>n.</pos> <def>the line along which opposing armies face each other.</def><br/
 <syn><b>Syn. --</b> front, front line.</syn><br/
-[<source>WordNet 1.5</source> #here]</p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>battleground</ent><br/
 <hw>bat"tle*ground</hw> <pos>n.</pos> <def>a region where a battle is fought; same as <er>battlefield</er>.</def><br/
@@ -22284,7 +22284,7 @@ The case of his patient.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><ent>Blabber</ent><br/
 <hw>Blab"ber</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>one who blabr; a tattler; a telltale.</def><br/
-<syn><b>Syn. --</b> blabbermouth.</syn>
+<syn><b>Syn. --</b> blabbermouth.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>blabbermouth</ent><br/
@@ -22855,7 +22855,7 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Black Maria</ent><br/
 <hw>Black" Ma*ri"a</hw> <pr>(<?/)</pr>. <def>a <er>paddy wagon</er>.</def><br/
-<syn><b>Syn. --</b> patrol wagon, paddy wagon.</syn>
+<syn><b>Syn. --</b> patrol wagon, paddy wagon.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>black market</ent><br/
@@ -26142,9 +26142,9 @@ And <qex>blood</qex> their points.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>blood-related</ent><br/
-<hw>blood-related</hw> <pos>adj.</pos> <sn>1.</sn>  <def>related by blood, i.e. by a common genetic heritage.</def><br/
+<hw>blood-related</hw> <pos>adj.</pos> <def>related by blood, i.e. by a common genetic heritage.</def><br/
 <syn><b>Syn. --</b> akin(predicate), cognate, consanguine, consanguineous, kin(predicate).</syn><br/
-[<source>WordNet 1.5</source> <-- how far back can one go? at least four generations, possibly over 10  --></p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bloodroot</ent><br/
 <hw>Blood"root`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A plant (<spn>Sanguinaria Canadensis</spn>), with a red root and red sap, and bearing a pretty, white flower in early spring; -- called also <altname>puccoon</altname>, <altname>redroot</altname>, <altname>bloodwort</altname>, <altname>tetterwort</altname>, <altname>turmeric</altname>, and <altname>Indian paint</altname>. It has acrid emetic properties, and the rootstock is used as a stimulant expectorant. See <er>Sanguinaria</er>.</def><br/
@@ -27276,7 +27276,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>blue jeans</ent><br/
 <hw>blue" jeans`</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>a tight-fitting trousers made of blue denim or a similar fabric, designed originally to serve as inexpensive durable workclothes, and often having metal rivets for reinforcement.  They have become very popular as casual wear for all age groups, and more expensive and more carefully styled and tailored versions called <ecol><b>designer jeans</b></ecol>have also become popular among girls and women.</def><br/
-<syn><b>Syn. --</b> jeans, Levis.</syn>
+<syn><b>Syn. --</b> jeans, Levis.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Blue-john</ent><br/
@@ -31040,7 +31040,7 @@ We learnt our liege was passing well.</q> <rj><qau>Gay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>4.</sn> <def>A volume or collection of sheets in which accounts are kept; a register of debts and credits, receipts and expenditures, etc.; -- often used in the plural; <as>as, they got a subpoena to examine our <ex>books</ex></as>.</def><br/
-<syn><b>Syn. --</b> ledger, leger, account book, book of account.</syn>
+<syn><b>Syn. --</b> ledger, leger, account book, book of account.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
 
 <p><sn>5.</sn> <def>Six tricks taken by one side, in the game of bridge or whist, being the minimum number of tricks that must be taken before any additional tricks are counted as part of the score for that hand; in certain other games, two or more corresponding cards, forming a set.</def><br/
@@ -32508,7 +32508,7 @@ The <qex>borrow</qex> of a week.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Bosnia-Herzegovina</ent><br/
 <hw>Bosnia-Herzegovina</hw> <pos>n.</pos> <def>A country in the Balkan penninsula of southeastern Europe, formerly a part of Yugoslavia.</def><br/
-<syn><b>Syn. --</b> Bosnia and Herzegovina.</syn>
+<syn><b>Syn. --</b> Bosnia and Herzegovina.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Bosnian</ent><br/
@@ -45130,7 +45130,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 
 <p><ent>Buna</ent><br/
 <hw>Buna</hw> <pos>n.</pos> <ety>[trademark.]</ety> <def>a synthetic rubber made by copolymerizing butadiene with another substance such as acrylonitrile or styrene.</def><br/
-<syn><b>Syn. --</b> buna-S.</syn>
+<syn><b>Syn. --</b> buna-S.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>bunce</ent><br/
@@ -47571,7 +47571,7 @@ Thou her afford, full shortly I her dead shall see.</q> <rj><qau>Spenser.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>to bungle badly; to botch; -- used also when an object is damaged (literally or figuratively) in an activity; <as>as, the new choir <ex>butchered</ex> the hymn</as>.</def><br/
-<syn><b>Syn. --</b> mangle.</syn>
+<syn><b>Syn. --</b> mangle.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>butcherbird</ent><br/

@@ -4729,7 +4729,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 <p><ent>Neoclassical</ent><br/
 <ent>Neoclassic</ent><br/
 <mhw><hw>Ne`o*clas"sic</hw>, <hw>Ne`o*clas"si*cal</hw></mhw> <pr>(?)</pr>, <pos>a.</pos>  <ety>[<ets>Neo-</ets> + <ets>classic</ets>.]</ety> <def>Belonging to, or designating, the modern revival or adaptation of classical, esp. Greco-Roman, style, taste and manner of work in architecture, arts, literature, etc.</def><br/
-[<source>Webster 1913 Suppl.</source>+ <source>WordNet 1.5</source>]</p>
+[<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
 <p><ent>Neoclassic architecture</ent><br/
 <hw>Neoclassic architecture</hw>. <def>All that architecture which, since the beginning of the Italian Renaissance, about 1420, has been designed with deliberate imitation of Greco-Roman buildings.</def><br/
@@ -7334,7 +7334,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>nicotinic acid</ent><br/
 <hw>nic`o*tin"ic ac"id</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An organic acid (<chform>C6H5NO2</chform>), a carboxylated derivative of pyridine, obtained by the oxidation of nicotine; called also <altname>niacin</altname> and <altname>antipellagra vitamin</altname>, and <altname>vitamin B<sub>5</sub></altname>.  Chemically it is <chname>3-pyridinecarboxylic acid</chname>.</def> <note>It is a cofactor in several enzymatic reactions, and is used to prevent a pellagra-like disease in dogs. <au>[MI11]</au></note><br/
-<syn><b>Syn. --</b> 3-pyridinecarboxylic acid, niacin, antipellagra vitamin.</syn>
+<syn><b>Syn. --</b> 3-pyridinecarboxylic acid, niacin, antipellagra vitamin.</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Nicotinism</ent><br/
@@ -9728,7 +9728,7 @@ Ready with every <qex>nod</qex> to tumble down.</q> <rj><qau>Shak.</qau></rj><br
 <p><ent>no-hit</ent><br/
 <hw>no-hit</hw> <fld>(Baseball)</fld> <pos>adj.</pos> <sn>1.</sn>  <fld>(Baseball)</fld> <def>having no hits; characterized by one team scoring no hits; -- of a baseball game (or the pitching) in which a pitcher allows the opponent no hits; <as>as, he pitched <ex>no-hit</ex> ball for seven innings</as>.  A no-hit game is usually referred to as a <er>no-hitter</er>; <as>as, His <ex>no-hit</ex> pitching</as>.</def><br/
 <syn><b>Syn. --</b> hitless.</syn><br/
-[<source>WordNet 1.5</source> <au>+PJC</au></p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>no-hitter</ent><br/
 <hw>no-hitter</hw> <pos>n.</pos> <fld>(Baseball)</fld> <def>A game in which a pitcher allows the opposing team no hits.</def><br/

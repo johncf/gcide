@@ -2829,7 +2829,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 
 <p><ent>magnus hitch</ent><br/
 <hw>magnus hitch</hw> <pos>n.</pos> <def>A rolling hitch similar to a clove hitch.</def><br/
-<source>WordNet 1.5</source></p>
+[<source>WordNet 1.5</source>]</p>
 
 <p><ent>mag tape</ent><br/
 <hw>mag tape</hw> <pos>n.</pos> <def>Same as <er>magnetic tape</er>.</def><br/
@@ -5146,7 +5146,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Mal`e*fac"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>malefacere</ets> to do evil; <ets>male</ets> ill, evil + <ets>facere</ets> to do. See <er>Malice</er>, and <er>Fact</er>.]</ety> <sn>1.</sn> <def>An evil doer; one who commits a crime; one subject to public prosecution and punishment; a criminal.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>One who does wrong by injuring another, although not a criminal.</def> <rj><au>H. Brooke.</au>  <au>Fuller.</au></rj> <def2><def>Opposite of <ant>benefactor</ant>.</def> <ldquo/Malefactors of great wealth.<rdquo/</def2>
+<p><sn>2.</sn> <def>One who does wrong by injuring another, although not a criminal.</def> <rj><au>H. Brooke.</au>  <au>Fuller.</au></rj> <def2><def>Opposite of <ant>benefactor</ant>.</def> <ldquo/Malefactors of great wealth.<rdquo/</def2><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><syn><b>Syn.</b> -- Evil doer; criminal; culprit; felon; convict.</syn><br/
@@ -10522,7 +10522,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 <hw>Mar"ma*lade</hw> <pr>(m<aum/r"m<adot/*l<amac/d)</pr>, <pos>n.</pos> <ety>[F. <ets>marmelade</ets>, Pg. <ets>marmelada</ets>, fr. <ets>marm<eacute/lo</ets> a quince, fr. L. <ets>melimelum</ets> honey apple, Gr. <grk>meli`mhlon</grk> a sweet apple, an apple grafted on a quince; <grk>me`li</grk> honey + <grk>mh^lon</grk> apple.  Cf. <er>Mellifluous</er>, <er>Melon</er>.]</ety> <def>A preserve or confection made of the pulp of fruit, as the quince, pear, apple, orange, etc., boiled with sugar, and brought to a jamlike consistency.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Marmalade tree</b></col> <fld>(Bot.)</fld>, <cd>a sapotaceous tree (<spn>Lucuma mammosa</spn>) of the West Indies and Tropical America. It has large obovate leaves and an egg-shaped fruit from three to five inches long, containing a pleasant-flavored pulp and a single large seed.  The fruit is called <prod>marmalade</prod>, or <xex>natural marmalade</xex>, from its consistency and flavor.</cd></cs>
+<p><cs><col><b>Marmalade tree</b></col> <fld>(Bot.)</fld>, <cd>a sapotaceous tree (<spn>Lucuma mammosa</spn>) of the West Indies and Tropical America. It has large obovate leaves and an egg-shaped fruit from three to five inches long, containing a pleasant-flavored pulp and a single large seed.  The fruit is called <prod>marmalade</prod>, or <xex>natural marmalade</xex>, from its consistency and flavor.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marmalet</ent><br/
@@ -37714,10 +37714,10 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>the display of the images captured on a <er>motion picture</er>{1}, presented to the eye in very rapid succession by projection from a special apparatus (a <usedby><er>movie projector</er></usedby>), with shows some or all of the objects in the picture represented in changing positions, producing, by persistence of vision, the optical effect of a continuous picture in which the objects appear to move as they did in the original scene.</def><br/
-<syn><b>Syn. --</b> movie, moving picture, flick.</syn>
+<syn><b>Syn. --</b> movie, moving picture, flick.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
-<p><sn>3.</sn> <def>The conceptual or informational content of a <er>motion picture</er>{1}; the actions or events represented in a <er>motion picture</er>{1}; the story line of a movie.</def>  <ldquo/One of the great punch lines in <xex>motion picture</xex> history is <lsquo/Round up the usual suspects.' from <lsquo/Casablanca'.<rdquo/
+<p><sn>3.</sn> <def>The conceptual or informational content of a <er>motion picture</er>{1}; the actions or events represented in a <er>motion picture</er>{1}; the story line of a movie.</def>  <ldquo/One of the great punch lines in <xex>motion picture</xex> history is <lsquo/Round up the usual suspects.' from <lsquo/Casablanca'.<rdquo/<br/
 [<source>PJC</source>]</p>
 
 <p><ent>Motivate</ent><br/

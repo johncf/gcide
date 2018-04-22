@@ -2069,12 +2069,12 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>game plan</ent><br/
-<hw>game" plan`</hw> <pr>(g<amac/m"pl<acr/n`)</pr>, <pos>n.</pos> <def>A plan for achieving an objective (especially in some sport).</def>
+<hw>game" plan`</hw> <pr>(g<amac/m"pl<acr/n`)</pr>, <pos>n.</pos> <def>A plan for achieving an objective (especially in some sport).</def><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>game room</ent><br/
 <hw>game" room`</hw> <pr>(g<amac/m"r<oomac/m`)</pr>, <pos>n.</pos> <def>a recreation room for noisy activities (parties or children's play etc) or for table games.</def><br/
-<syn><b>Syn. --</b> rumpus room, playroom, game room.</syn>
+<syn><b>Syn. --</b> rumpus room, playroom, game room.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>game show</ent><br/
@@ -2130,7 +2130,7 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 
 <p><ent>game warden</ent><br/
 <hw>game warden</hw> <pos>n.</pos> <def>a public official who is responsible for the enforcement of laws regarding the hunting of animals.</def>
-<syn><b>Syn. --</b> gamekeeper, game warden.</syn>
+<syn><b>Syn. --</b> gamekeeper, game warden.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>gamey</ent><br/
@@ -3534,7 +3534,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><ent>Gasolene</ent><br/
 <ent>Gasoline</ent><br/
 <mhw><hw>Gas"o*line</hw>, <hw>Gas"o*lene</hw></mhw> <pr>(? <or/ ?; 104)</pr>, <pos>n.</pos> <def>A highly volatile mixture of fluid hydrocarbons, obtained mostly from petroleum, as also by the distillation of bituminous coal. It is used as a fuel for most automobiles and for many other vehicles with internal combustion engines.  The <ex>gasoline</ex> of commerce is typically blended with additives to improve its performance in internal combustion engines.  <ex>Gasoline</ex> was also used in the early 1900's in making air gas, and in giving illuminating power to water gas. See <er>Carburetor</er>.</def><br/
-<syn><b>Syn. --</b> petrol[Brit].</syn>
+<syn><b>Syn. --</b> petrol[Brit].</syn><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Gasolene engine</ent><br/
@@ -7978,7 +7978,7 @@ But, in a larger sense, we cannot dedicate -- we cannot consecrate -- we cannot 
 
 <p><ent>get-up-and-go</ent><br/
 <hw>get-up-and-go</hw> <pos>n.</pos> <def>a character trait manifested in a readiness and ability to initiate action; an enterprising and energetic spirit; a go-getting attitude.</def><br/
-<syn><b>Syn. --</b> energy; drive; enterprise; initiative.</syn>
+<syn><b>Syn. --</b> energy; drive; enterprise; initiative.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Geum</ent><br/

@@ -35,7 +35,7 @@
 
 <p><ent>R&D</ent><br/
 <hw>R&D</hw> <pr>(<aum/r"<acr/n*d<emac/")</pr>, <pos>n.</pos> <ety>[<ets>r</ets>esearch and <ets>d</ets>evelopment.]</ety> <def>Research and development; used mostly to refer to the division of a corporation responsible for performing research and developing new products, or the activitie performed by that division; -- a commonly used abbreviation.</def><br/
-<syn><b>Syn. --</b> R and D, research and development.</syn>
+<syn><b>Syn. --</b> R and D, research and development.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ra</ent><br/
@@ -3147,7 +3147,7 @@ I see thy fury.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>R and D</ent><br/
 <hw>R and D</hw> <pr>(<aum/r`<acr/n*d<emac/")</pr>, <pos>n.</pos> <ety>[<ets>r</ets>esearch <ets>and</ets> <ets>d</ets>evelopment.]</ety> <def>research and development; -- used mostly to refer to the division of a corporation responsible for performing research and developing new products; -- a commonly used abbreviation.</def> <br/
-<syn><b>Syn. --</b> R&D.</syn>
+<syn><b>Syn. --</b> R&D.</syn><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Randall grass</ent><br/
@@ -7254,7 +7254,7 @@ More feathers to our wings.</q> <rj><qau>Shak.</qau></rj><br/
 <ent>re-assess</ent><br/
 <mhw><hw>re`as*sess"</hw>, <hw>re`-as*sess"</hw></mhw> <pos>v. t.</pos>  <def>To revise or renew one's assessment of; <as>as, we need to <ex>reassess</ex> our position to include the new information</as>.  Usually used without the hyphen.</def><br/
 <syn><b>Syn. --</b> re-evaluate, reevaluate.</syn><br/
-[<source>WordNet 1.5</source> +<source>PJC</source>]</p>
+[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Reassessment</ent><br/
 <hw>Re`as*sess"ment</hw> <pr>(r<emac/`<acr/s*s<ecr/s"m<eit/nt)</pr>, <pos>n.</pos> <def>A renewed or second assessment.</def><br/
@@ -12182,7 +12182,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 
 <p><ent>Reenforced concrete</ent><br/
 <hw>Reenforced concrete</hw>. <def>Concrete having within its mass a system of iron or steel supports, such as bars, rods, or a heavy mesh, to provide increased tensile strength and shear resistance.  Same as <er>Ferro-concrete</er>.</def><br/
-<syn><b>Syn. --</b> reinforced concrete.</syn>
+<syn><b>Syn. --</b> reinforced concrete.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Reenforcement</ent><br/
@@ -15874,7 +15874,7 @@ More <qex>relative</qex> than this.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Rel`a*tiv*ist"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>of, pertaining to, or in conformity with the <er>theory of relativity</er>; <as>as, the <ex>relativistic</ex> increase of mass with velocity</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>2.</sn> <def>moving at a speed sufficiently high that the changes of mass or time dilation predicted by the theory of relativity may be observed; moving at a significant fraction of the speed of light; <as>as, <ex>relativistic</ex> electrons</as>.</def>br/
+<p><sn>2.</sn> <def>moving at a speed sufficiently high that the changes of mass or time dilation predicted by the theory of relativity may be observed; moving at a significant fraction of the speed of light; <as>as, <ex>relativistic</ex> electrons</as>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Relativistic mass equation</ent><br/
