@@ -4142,7 +4142,7 @@ The sting from pain.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Laocoon</ent><br/
-<hw>La*oc"o*<oum/n</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. Gr. <?/ ]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>A priest of Apollo, during the Trojan war. (See 2.)</def><br/
+<hw>La*oc"o*<oum/n</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. Gr. <?/ ]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>A priest of Apollo, during the Trojan war. (See <snr>2</snr>.)</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Sculp.)</fld> <def>A marble group in the Vatican at Rome, representing the priest Laoco<oum/n, with his sons, infolded in the coils of two serpents, as described by Virgil.</def><br/

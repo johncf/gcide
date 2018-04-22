@@ -22374,7 +22374,7 @@ When <qex>toil</qex> remitting lent its turn to play.</q> <rj><qau>Goldsmith.</q
 <p><sn>3.</sn> <def>Act or mode of dressing, or that which is arranged in dressing; attire; dress; <as>as, her <ex>toilet</ex> is perfect</as>.</def> <altsp>[Written also <asp>toilette</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Toilet glass</b></col>, <cd>a looking-glass for a toilet table or for a dressing room.</cd> -- <mcol><col><b>Toilet service</b></col>, <col><b>Toilet set</b></col></mcol>, <cd>earthenware, glass, and other utensils for a dressing room.</cd> -- <col><b>Toilet table</b></col>, <cd>a dressing table; a toilet. See def. 2 above.</cd> -- <col><b>To snake one's toilet</b></col>, <cd>to dress one's self; especially, to dress one's self carefully.</cd></cs><br/
+<p><cs><col><b>Toilet glass</b></col>, <cd>a looking-glass for a toilet table or for a dressing room.</cd> -- <mcol><col><b>Toilet service</b></col>, <col><b>Toilet set</b></col></mcol>, <cd>earthenware, glass, and other utensils for a dressing room.</cd> -- <col><b>Toilet table</b></col>, <cd>a dressing table; a toilet. See def. <snr>2</snr> above.</cd> -- <col><b>To snake one's toilet</b></col>, <cd>to dress one's self; especially, to dress one's self carefully.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Toilette</ent><br/
@@ -40477,7 +40477,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Turn"sole`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>tournesol</ets>, It. <ets>tornasole</ets>; <ets>tornare</ets> to turn (LL. <ets>tornare</ets>) + <ets>sole</ets> the sun, L. <ets>sol</ets>. See <er>Turn</er>, <er>Solar</er>, <pos>a.</pos>, and cf. <er>Heliotrope</er>.]</ety> <altsp>[Written also <asp>turnsol</asp>.]</altsp> <sn>1.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>A plant of the genus <gen>Heliotropium</gen>; heliotrope; -- so named because its flowers are supposed to turn toward the sun.</def> <sd>(b)</sd> <def>The sunflower.</def> <sd>(c)</sd> <def>A kind of spurge (<spn>Euphorbia Helioscopia</spn>).</def> <sd>(d)</sd> <def>The euphorbiaceous plant <spn>Chrozophora tinctoria</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Litmus.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>A purple dye obtained from the plant turnsole. See def. 1 <sdr>(d)</sdr>.</def><br/
+<p><sn>2.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Litmus.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>A purple dye obtained from the plant turnsole. See def. <snr>1</snr> <sdr>(d)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Turnspit</ent><br/

@@ -15225,7 +15225,7 @@ On power you know I must obey ?</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>13.</sn> <pluf>pl.</pluf> <fld>(Geol.)</fld> <def>Beds or strata; <as>as, coal <ex>measures</ex>; lead <ex>measures</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>linear measure</b></col>, <col><b>lineal measure</b></col>, <it>or</it> <col><b>long measure</b></col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col><b>Liquid measure</b></col>, <cd>the measure of liquids.</cd> -- <col><b>Square measure</b></col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col><b>To have hard measure</b></col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col><b>To take measures</b></col>, <cd>to make preparations; to provide means.</cd> -- <col><b>To take one's measure</b></col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col><b>To tread a measure</b></col>, <cd>to dance in the style so called. See 9 <sdr>(a)</sdr>.</cd></cs><br/
+<p><cs><mcol><col><b>linear measure</b></col>, <col><b>lineal measure</b></col>, <it>or</it> <col><b>long measure</b></col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col><b>Liquid measure</b></col>, <cd>the measure of liquids.</cd> -- <col><b>Square measure</b></col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col><b>To have hard measure</b></col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col><b>To take measures</b></col>, <cd>to make preparations; to provide means.</cd> -- <col><b>To take one's measure</b></col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col><b>To tread a measure</b></col>, <cd>to dance in the style so called. See <snr>9</snr> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Say to her, we have measured many miles<br/
@@ -39709,7 +39709,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <ety>[Perhaps a different word; cf. Prov. E. <ets>maffle</ets> to slammer.]</ety> <def>A stupid fellow; a poor-spirited person.</def> <mark>[Colloq.]</mark> <ldquo/A <xex>muff</xex> of a curate.<rdquo/  <rj><au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>5.</sn> <ety>[See 4.]</ety> <fld>(Baseball)</fld> <def>A failure to hold a ball when once in the hands.</def><br/
+<p><sn>5.</sn> <ety>[See <snr>4</snr>.]</ety> <fld>(Baseball)</fld> <def>A failure to hold a ball when once in the hands.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>6.</sn> <fld>(Zool.)</fld> <def>The whitethroat.</def> <mark>[Prov. Eng.]</mark><br/

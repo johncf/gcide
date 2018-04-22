@@ -14702,7 +14702,7 @@ Made of fine twigs, entrail<eacute/d curiously.</q> <rj><qau>Spenser.</qau></rj>
 <p><sn>5.</sn> <fld>(Mining)</fld> <def>The space between the pillars, in postand-stall working.</def>  <rj><au>Raymond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Wicket door</b></col>, <col><b>Wicket gate</b></col></mcol>, <cd>a small door or gate; a wicket.  See def. 1, above.</cd> <au>Bunyan.</au> -- <col><b>Wicket keeper</b></col> <fld>(Cricket)</fld>, <cd>the player who stands behind the wicket to catch the balls and endeavor to put the batsman out.</cd></cs><br/
+<p><cs><mcol><col><b>Wicket door</b></col>, <col><b>Wicket gate</b></col></mcol>, <cd>a small door or gate; a wicket.  See def. <snr>1</snr>, above.</cd> <au>Bunyan.</au> -- <col><b>Wicket keeper</b></col> <fld>(Cricket)</fld>, <cd>the player who stands behind the wicket to catch the balls and endeavor to put the batsman out.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wicking</ent><br/

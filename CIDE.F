@@ -33165,7 +33165,7 @@ limits.</q> <rj><qau>Burke.</qau></rj><br/
 <qex>fruits</qex> thereof.</q> <rj><qau>Ex. xxiii. 10.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Hort.)</fld> <def>The pulpy, edible seed vessels of certain plants, especially those grown on branches above ground, as apples, oranges, grapes, melons, berries, etc. See 3.</def><br/
+<p><sn>2.</sn> <fld>(Hort.)</fld> <def>The pulpy, edible seed vessels of certain plants, especially those grown on branches above ground, as apples, oranges, grapes, melons, berries, etc. See <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>The ripened ovary of a flowering plant, with its contents and whatever parts are consolidated with it.</def><br/

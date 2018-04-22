@@ -7155,7 +7155,7 @@ Deceitfully goes forth the morn.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Prot. Epis. Ch.)</fld> <def>A body, composed of wardens and vestrymen, chosen annually by a parish to manage its temporal concerns.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Metropolitan vestry</b></col>, <cd>in the city of London, and certain specified parishes and places in England, a body composed of householders who pay poor rates. Its duties include the repair of churches, care of highways, the appointment of certain officers, etc.</cd> -- <col><b>Select vestry</b></col>, <cd>a select number of persons chosen in large and populous English parishes to represent and manage the concerns of the parish for one year.</cd> <au>Mozley & W.</au> -- <col><b>Vestry board</b></col> <fld>(Ch. of Eng.)</fld>, <cd>a vestry.  See def. 2, above.</cd> -- <col><b>Vestry clerk</b></col>, <cd>an officer chosen by the vestry, who keeps a record of its proceedings; also, in England, one who keeps the parish accounts and books.</cd> -- <col><b>Vestry meeting</b></col>, <cd>the meeting of a vestry or vestry board; also, a meeting of a parish held in a vestry or other place.</cd></cs><br/
+<p><cs><col><b>Metropolitan vestry</b></col>, <cd>in the city of London, and certain specified parishes and places in England, a body composed of householders who pay poor rates. Its duties include the repair of churches, care of highways, the appointment of certain officers, etc.</cd> -- <col><b>Select vestry</b></col>, <cd>a select number of persons chosen in large and populous English parishes to represent and manage the concerns of the parish for one year.</cd> <au>Mozley & W.</au> -- <col><b>Vestry board</b></col> <fld>(Ch. of Eng.)</fld>, <cd>a vestry.  See def. <snr>2</snr>, above.</cd> -- <col><b>Vestry clerk</b></col>, <cd>an officer chosen by the vestry, who keeps a record of its proceedings; also, in England, one who keeps the parish accounts and books.</cd> -- <col><b>Vestry meeting</b></col>, <cd>the meeting of a vestry or vestry board; also, a meeting of a parish held in a vestry or other place.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vestryman</ent><br/
@@ -8043,7 +8043,7 @@ And fame, this lord of useless thousands ends.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>4.</sn> <def>One of an American breed of medium-sized white hogs with a slightly dished face and very erect ears.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Victoria cross</b></col>, <cd>a bronze Maltese cross, awarded for valor to members of the British army or navy. It was first bestowed in 1857, at the close of the Crimean war. The recipients also have a pension of <pound/10 a year.</cd> -- <col><b>Victoria green</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Emerald green</cref>, under <er>Green</er>.</cd> -- <col><b>Victoria lily</b></col> <fld>(Bot.)</fld>, <cd>the <cref>Victoria regia</cref>.  See def. 1, above.</cd></cs><br/
+<p><cs><col><b>Victoria cross</b></col>, <cd>a bronze Maltese cross, awarded for valor to members of the British army or navy. It was first bestowed in 1857, at the close of the Crimean war. The recipients also have a pension of <pound/10 a year.</cd> -- <col><b>Victoria green</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Emerald green</cref>, under <er>Green</er>.</cd> -- <col><b>Victoria lily</b></col> <fld>(Bot.)</fld>, <cd>the <cref>Victoria regia</cref>.  See def. <snr>1</snr>, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Victoria crape</ent><br/

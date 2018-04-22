@@ -20814,7 +20814,7 @@ Looks out from Yarrow's <qex>birchen</qex> bower.</q> <rj><qau>Sir W. Scott.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Bird</ent><br/
-<hw>Bird</hw> <pr>(b<etil/rd)</pr>, <pos>n.</pos> <ety>[OE. <ets>brid</ets>, <ets>bred</ets>, <ets>bird</ets>, young bird, bird, AS. <ets>bridd</ets> young bird. <root/92.]</ety> <sn>1.</sn> <def>Orig., a chicken; the young of a fowl; a young eaglet; a nestling; and hence, a feathered flying animal (see 2).</def><br/
+<hw>Bird</hw> <pr>(b<etil/rd)</pr>, <pos>n.</pos> <ety>[OE. <ets>brid</ets>, <ets>bred</ets>, <ets>bird</ets>, young bird, bird, AS. <ets>bridd</ets> young bird. <root/92.]</ety> <sn>1.</sn> <def>Orig., a chicken; the young of a fowl; a young eaglet; a nestling; and hence, a feathered flying animal (see <snr>2</snr>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>That ungentle gull, the cuckoo's <qex>bird</qex>.</q> <rj><qau>Shak.</qau></rj><br/
@@ -27903,7 +27903,7 @@ Sea, air, and shore.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Board</ent><br/
-<hw>Board</hw> <pr>(b<omac/rd)</pr>, <pos>n.</pos> <ety>[OE. <ets>bord</ets>, AS. <ets>bord</ets> board, shipboard; akin to <ets>bred</ets> plank, Icel. <ets>bor<edh/</ets> board, side of a ship, Goth. f<omac/tu-<ets>baurd</ets> footstool, D. <ets>bord</ets> board, G. <ets>brett</ets>, <ets>bort</ets>. See def. 8. <root/92.]</ety> <sn>1.</sn> <def>A piece of timber sawed thin, and of considerable length and breadth as compared with the thickness, -- used for building, etc.</def><br/
+<hw>Board</hw> <pr>(b<omac/rd)</pr>, <pos>n.</pos> <ety>[OE. <ets>bord</ets>, AS. <ets>bord</ets> board, shipboard; akin to <ets>bred</ets> plank, Icel. <ets>bor<edh/</ets> board, side of a ship, Goth. f<omac/tu-<ets>baurd</ets> footstool, D. <ets>bord</ets> board, G. <ets>brett</ets>, <ets>bort</ets>. See def. <snr>8</snr>. <root/92.]</ety> <sn>1.</sn> <def>A piece of timber sawed thin, and of considerable length and breadth as compared with the thickness, -- used for building, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ When sawed thick, as over one and a half or two inches, it is usually called a <xex>plank</xex>.</note><br/
@@ -39403,7 +39403,7 @@ Round about the <qex>bridestake</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A span of rope, line, or chain made fast as both ends, so that another rope, line, or chain may be attached to its middle.</def> <sd>(b)</sd> <def>A mooring hawser.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bowline bridle</b></col>. <cd>See under <er>Bowline</er>.</cd> -- <col><b>Branches of a bridle</b></col>. <cd>See under <er>Branch</er>.</cd> -- <col><b>Bridle cable</b></col> <fld>(Naut.)</fld>, <cd>a cable which is bent to a bridle. See 4, above.</cd> -- <col><b>Bridle hand</b></col>, <cd>the hand which holds the bridle in riding; the left hand.</cd> -- <mcol><col><b>Bridle path</b></col>, <col><b>Bridle way</b></col></mcol>, <cd>a path or way for saddle horses and pack horses, as distinguished from a road for vehicles.</cd> -- <col><b>Bridle port</b></col> <fld>(Naut.)</fld>, <cd>a porthole or opening in the bow through which hawsers, mooring or bridle cables, etc., are passed.</cd> -- <col><b>Bridle rein</b></col>, <cd>a rein attached to the bit.</cd> -- <col><b>Bridle road</b></col>. <sd>(a)</sd> <cd>Same as <cref>Bridle path</cref>.</cd> <au>Lowell.</au> <sd>(b)</sd> <cd>A road in a pleasure park reserved for horseback exercise.</cd> -- <col><b>Bridle track</b></col>, <cd>a bridle path.</cd> -- <col><b>Scolding bridle</b></col>. <cd>See <er>Branks</er>, <snr>2</snr>.</cd></cs><br/
+<p><cs><col><b>Bowline bridle</b></col>. <cd>See under <er>Bowline</er>.</cd> -- <col><b>Branches of a bridle</b></col>. <cd>See under <er>Branch</er>.</cd> -- <col><b>Bridle cable</b></col> <fld>(Naut.)</fld>, <cd>a cable which is bent to a bridle. See <snr>4</snr>, above.</cd> -- <col><b>Bridle hand</b></col>, <cd>the hand which holds the bridle in riding; the left hand.</cd> -- <mcol><col><b>Bridle path</b></col>, <col><b>Bridle way</b></col></mcol>, <cd>a path or way for saddle horses and pack horses, as distinguished from a road for vehicles.</cd> -- <col><b>Bridle port</b></col> <fld>(Naut.)</fld>, <cd>a porthole or opening in the bow through which hawsers, mooring or bridle cables, etc., are passed.</cd> -- <col><b>Bridle rein</b></col>, <cd>a rein attached to the bit.</cd> -- <col><b>Bridle road</b></col>. <sd>(a)</sd> <cd>Same as <cref>Bridle path</cref>.</cd> <au>Lowell.</au> <sd>(b)</sd> <cd>A road in a pleasure park reserved for horseback exercise.</cd> -- <col><b>Bridle track</b></col>, <cd>a bridle path.</cd> -- <col><b>Scolding bridle</b></col>. <cd>See <er>Branks</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- A check; restrain.</syn><br/

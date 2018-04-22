@@ -608,7 +608,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>That which is extorted; exaction.</def> <mark>[Obs.]</mark>  <rj><au>Sir E. Sandys.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Mangle rack</b></col>. <fld>(Mach.)</fld> <cd>See under <er>Mangle</er>. <pos>n.</pos></cd> -- <col><b>Rack block</b></col>. <fld>(Naut.)</fld> <cd>See def. 1 <sdr>(f)</sdr>, above.</cd> -- <col><b>Rack lashing</b></col>, <cd>a lashing or binding where the rope is tightened, and held tight by the use of a small stick of wood twisted around.</cd> -- <col><b>Rack rail</b></col> <fld>(Railroads)</fld>, <cd>a toothed rack, laid as a rail, to afford a hold for teeth on the driving wheel of a locomotive for climbing steep gradients, as in ascending a mountain.</cd> -- <col><b>Rack saw</b></col>, <cd>a saw having wide teeth.</cd> -- <col><b>Rack stick</b></col>, <cd>the stick used in a rack lashing.</cd> -- <col><b>To be on the rack</b></col>, <cd>to suffer torture, physical or mental.</cd> -- <col><b>To live at rack and manger</b></col>, <cd>to live on the best at another's expense.</cd> <mark>[Colloq.]</mark> -- <col><b>To put to the rack</b></col>, <cd>to subject to torture; to torment.</cd></cs><br/
+<p><cs><col><b>Mangle rack</b></col>. <fld>(Mach.)</fld> <cd>See under <er>Mangle</er>. <pos>n.</pos></cd> -- <col><b>Rack block</b></col>. <fld>(Naut.)</fld> <cd>See def. <snr>1</snr> <sdr>(f)</sdr>, above.</cd> -- <col><b>Rack lashing</b></col>, <cd>a lashing or binding where the rope is tightened, and held tight by the use of a small stick of wood twisted around.</cd> -- <col><b>Rack rail</b></col> <fld>(Railroads)</fld>, <cd>a toothed rack, laid as a rail, to afford a hold for teeth on the driving wheel of a locomotive for climbing steep gradients, as in ascending a mountain.</cd> -- <col><b>Rack saw</b></col>, <cd>a saw having wide teeth.</cd> -- <col><b>Rack stick</b></col>, <cd>the stick used in a rack lashing.</cd> -- <col><b>To be on the rack</b></col>, <cd>to suffer torture, physical or mental.</cd> -- <col><b>To live at rack and manger</b></col>, <cd>to live on the best at another's expense.</cd> <mark>[Colloq.]</mark> -- <col><b>To put to the rack</b></col>, <cd>to subject to torture; to torment.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A fit of the stone <qex>puts</qex> a king <qex>to the rack</qex>, and makes him as miserable as it does the meanest subject.</q> <rj><qau>Sir W. Temple.</qau></rj><br/
@@ -36468,7 +36468,7 @@ A goodly tree far distant to behold.</q> <rj><qau>milton.</qau></rj><br/
 <p><q>All sorts, flights, <qex>rovers</qex>, and butt shafts.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At rovers</b></col>, <cd>at casual marks; hence, at random; <as>as, shooting <ex>at rovers</ex></as>. See def. 5 <sdr>(a)</sdr> above.</cd> <au>Addison.</au><br/
+<p><cs><col><b>At rovers</b></col>, <cd>at casual marks; hence, at random; <as>as, shooting <ex>at rovers</ex></as>. See def. <snr>5</snr> <sdr>(a)</sdr> above.</cd> <au>Addison.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Bound down on every side with many bands because it shall not run <qex>at rovers</qex>.</q> <rj><qau>Robynson (More's Utopia).</qau></rj>
