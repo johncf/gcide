@@ -4109,17 +4109,14 @@ The image of great <qex>Odin</qex> stood.</q> <rj><qau>Longfellow.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Odium</ent><br/
-<hw>O"di*um</hw> <pr>(<omac/"d<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>odi</ets> I hate.  Cf. <er>Annoy</er>, <er>Noisome</er>.]</ety> <sn>1.</sn> <def>Intense hatred or dislike; loathing; abhorrence.</def><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
+<hw>O"di*um</hw> <pr>(<omac/"d<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>odi</ets> I hate.  Cf. <er>Annoy</er>, <er>Noisome</er>.]</ety> <sn>1.</sn> <def>Hatred; dislike; <as>as, his conduct brought him into <ex>odium</ex>, or, brought <ex>odium</ex> upon him</as>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The quality that provokes hatred; offensiveness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>She threw the <qex>odium</qex> of the fact on me.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><sn>3.</sn> <def>The state of being intensely hated as the result of some despicable action; opprobrium; disrepute; discredit; reproach mingled with contempt; <as>as, his conduct brought him into <ex>odium</ex>, or, brought <ex>odium</ex> upon him</as>.</def><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><cs><col><b>Odium theologicum</b></col> <pr>(<?/)</pr> <ety>[L.]</ety>, <cd>the enmity peculiar to contending theologians.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -9822,10 +9819,7 @@ My drowsed sense.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Opprobrium</ent><br/
-<hw>Op*pro"bri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>ob</ets> (see <er>Ob-</er>) + <ets>probrum</ets> reproach, disgrace.]</ety> <def>A state of disgrace; infamy; reproach mingled with contempt; odium{3}.</def><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
-
-<p><sn>2.</sn> <def>Abusive language.</def><br/
+<hw>Op*pro"bri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>ob</ets> (see <er>Ob-</er>) + <ets>probrum</ets> reproach, disgrace.]</ety> <def>Disgrace; infamy; reproach mingled with contempt; abusive language.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Being both dramatic author and dramatic performer, he found himself heir to a twofold <qex>opprobrium</qex>.</q> <rj><qau>De Quincey.</qau></rj><br/
@@ -9916,19 +9910,18 @@ The <qex>optics</qex> seeing, as the object seen.</q> <rj><qau>Pope.</qau></rj><
 
 <p><ent>Optical</ent><br/
 <ent>Optic</ent><br/
-<mhw>{ <hw>Op"tic</hw> <pr>(<ocr/p"t<icr/k)</pr>, <hw>Op"tic*al</hw> <pr>(<ocr/p"t<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[F. <ets>optique</ets>, Gr. <grk>'optiko`s</grk>; akin to <grk>'o`psis</grk> sight, <grk>'o`pwpa</grk> I have seen, <grk>'o`psomai</grk> I shall see, and to <grk>'o`sse</grk> the two eyes, <grk>'o`ps</grk> face, L. <ets>oculus</ets> eye. See <er>Ocular</er>, <er>Eye</er>, and cf. <er>Canopy</er>, <er>Ophthalmia</er>.]</ety> <sn>1.</sn> <def>Of, pertaining to, or using vision or sight; <as>as, <ex>optical</ex> illusions</as>.</def> <wns>[wns=2]</wns><br/
-<syn><b>Syn. --</b> ocular, optic, visual.</syn><br/
-[<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
+<mhw>{ <hw>Op"tic</hw> <pr>(<ocr/p"t<icr/k)</pr>, <hw>Op"tic*al</hw> <pr>(<ocr/p"t<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[F. <ets>optique</ets>, Gr. <grk>'optiko`s</grk>; akin to <grk>'o`psis</grk> sight, <grk>'o`pwpa</grk> I have seen, <grk>'o`psomai</grk> I shall see, and to <grk>'o`sse</grk> the two eyes, <grk>'o`ps</grk> face, L. <ets>oculus</ets> eye. See <er>Ocular</er>, <er>Eye</er>, and cf. <er>Canopy</er>, <er>Ophthalmia</er>.]</ety> <sn>1.</sn> <def>Of, pertaining to, or using vision or sight; <as>as, <ex>optical</ex> illusions</as>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><q>The moon, whose orb<br/
 Through <qex>optic</qex> glass the Tuscan artist views.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Of or pertaining to the eye; ocular; <as>as, the <ex>optic</ex> nerves (the first pair of cranial nerves) which are distributed to the retina; the optic (or <ex>optical</ex>) axis of the eye</as>. See <xex>Illust.</xex> of <er>Brain</er>, and <er>Eye</er>.</def> <wns>[wns=3]</wns><br/
+<p><sn>2.</sn> <def>Of or pertaining to the eye; ocular; <as>as, the <ex>optic</ex> nerves (the first pair of cranial nerves) which are distributed to the retina</as>. See <xex>Illust.</xex> of <er>Brain</er>, and <er>Eye</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>3.</sn> <def>Relating to the science of optics or to devices designed to assist vision; <as>as, <ex>optical</ex> works; <ex>optical</ex> equipment</as>.</def> <wns>[wns=1]</wns><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
+<p><sn>3.</sn> <def>Relating to the science of optics; <as>as, <ex>optical</ex> works</as>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Optic angle</b></col> <fld>(Opt.)</fld>, <cd>the angle included between the optic axes of the two eyes when directed to the same point; -- sometimes called <altname>binocular parallax</altname>.</cd> -- <col><b>Optic axis</b></col>. <fld>(Opt.)</fld> <sd>(a)</sd> <cd>A line drawn through the center of the eye perpendicular to its anterior and posterior surfaces.  In a normal eye it is in the direction of the optic axis that objects are most distinctly seen.</cd> <sd>(b)</sd> <cd>The line in a doubly refracting crystal, in the direction of which no double refraction occurs.  A uniaxial crystal has one such line, a biaxial crystal has two.</cd> -- <col><b>Optical circle</b></col> <fld>(Opt.)</fld>, <cd>a graduated circle used for the measurement of angles in optical experiments.</cd> -- <col><b>Optical square</b></col>, <cd>a surveyor's instrument with reflectors for laying off right angles.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -10004,8 +9997,8 @@ Through <qex>optic</qex> glass the Tuscan artist views.</q> <rj><qau>Milton.</qa
 <p><sn>1.</sn> <fld>(Metaph.)</fld> <def>The opinion or doctrine that everything in nature, being the work of God, is ordered for the best, or that the ordering of things in the universe is such as to produce the highest good.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>A habitual tendency or a present disposition to take the most hopeful view of future events, and to expect a favorable outcome even when unfavorable outcomes are possible; -- opposed to <ant>pessimism</ant>.</def><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
+<p><sn>2.</sn> <def>A disposition to take the most hopeful view; -- opposed to <ant>pessimism</ant>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Optimist</ent><br/
 <hw>Op"ti*mist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>optimiste</ets>.]</ety><br/
