@@ -5685,8 +5685,7 @@ In sumptuous cars, <qex>accompanied</qex> his march.</q> <rj><qau>Glover.</qau><
 And happiness to his <qex>accomplices</qex>!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>An associate in the commission of a crime; a participator in an offense, whether a principal or an accessory.</def>   <ldquo/And thou, the cursed <xex>accomplice</xex> of his treason.<rdquo/ <au>Johnson.</au> <note>It is followed by <xex>with</xex> or <xex>of</xex> before a person and by <xex>in</xex> (or sometimes <xex>of</xex>) before the crime; <as>as, A was an <ex>accomplice</ex> with B in the murder of C</as>. Dryden uses it with <xex>to</xex> before a thing. <ldquo/Suspected for <xex>accomplice</xex> to the fire.<rdquo/  <rj><au>Dryden.</au></rj>
-</note><br/
+<p><sn>2.</sn> <fld>(Law)</fld> <def>An associate in the commission of a crime; a participator in an offense, whether a principal or an accessory.</def>   <ldquo/And thou, the cursed <xex>accomplice</xex> of his treason.<rdquo/ <au>Johnson.</au> <note>It is followed by <xex>with</xex> or <xex>of</xex> before a person and by <xex>in</xex> (or sometimes <xex>of</xex>) before the crime; <as>as, A was an <ex>accomplice</ex> with B in the murder of C</as>. Dryden uses it with <xex>to</xex> before a thing. <ldquo/Suspected for <xex>accomplice</xex> to the fire.<rdquo/  <rj><au>Dryden.</au></rj></note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Abettor; accessory; assistant; associate; confederate; coadjutor; ally; promoter. See <er>Abettor</er>.</syn><br/
@@ -30566,20 +30565,17 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>Consisting of the flesh of animals; <as>as, <ex>animal</ex> food</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Animal magnetism</b></col>. <cd>See <er>Magnetism</er> and <er>Mesmerism</er>.</cd> -- <col><b>Animal electricity</b></col>, <cd>the electricity developed in some animals, as the electric eel, torpedo, etc.</cd> -- <col><b>Animal flower</b></col> <fld>(Zool.)</fld>, <cd>a name given to certain marine animals resembling a flower, as any species of actinia or sea anemone, and other Anthozoa, hydroids, starfishes, etc.</cd> -- <col><b>Animal heat</b></col> <fld>(Physiol.)</fld>, <cd>the heat generated in the body of a living animal, by means of which the animal is kept at nearly a uniform temperature.</cd> -- <col><b>Animal spirits</b></col>. <cd>See under <er>Spirit</er>.</cd> -- <col><b>Animal kingdom</b></col>, <cd>the whole class of beings endowed with animal life. It embraces several subkingdoms, and under these there are Classes, Orders, Families, Genera, Species, and sometimes intermediate groupings, all in regular subordination, but variously arranged by different writers.</cd></cs> <note>The following are the grand divisions, or subkingdoms, and the principal classes under them, generally recognized at the present time: --</p>
+<p><cs><col><b>Animal magnetism</b></col>. <cd>See <er>Magnetism</er> and <er>Mesmerism</er>.</cd> -- <col><b>Animal electricity</b></col>, <cd>the electricity developed in some animals, as the electric eel, torpedo, etc.</cd> -- <col><b>Animal flower</b></col> <fld>(Zool.)</fld>, <cd>a name given to certain marine animals resembling a flower, as any species of actinia or sea anemone, and other Anthozoa, hydroids, starfishes, etc.</cd> -- <col><b>Animal heat</b></col> <fld>(Physiol.)</fld>, <cd>the heat generated in the body of a living animal, by means of which the animal is kept at nearly a uniform temperature.</cd> -- <col><b>Animal spirits</b></col>. <cd>See under <er>Spirit</er>.</cd> -- <col><b>Animal kingdom</b></col>, <cd>the whole class of beings endowed with animal life. It embraces several subkingdoms, and under these there are Classes, Orders, Families, Genera, Species, and sometimes intermediate groupings, all in regular subordination, but variously arranged by different writers.</cd> <note>The following are the grand divisions, or subkingdoms, and the principal classes under them, generally recognized at the present time [1910] <mark>[Outdated]</mark>: --</p>
 
-<p><-- ##?? needs to be rewritten for modern classes --><br/
-<subphylum><er>Vertebrata</er></subphylum>, including <class>Mammalia</class> or <xex>Mammals</xex>, <class>Aves</class> or <xex>Birds</xex>, <class>Reptilia</class>, <class>Amphibia</class>, <class>Pisces</class> or <xex>Fishes</xex>, <class>Marsipobranchiata</class> (<class>Craniota</class>); and <class>Leptocardia</class> (<class>Acrania</class>).</p>
+<p><collapse><subphylum><er>Vertebrata</er></subphylum>, including <class>Mammalia</class> or <xex>Mammals</xex>, <class>Aves</class> or <xex>Birds</xex>, <class>Reptilia</class>, <class>Amphibia</class>, <class>Pisces</class> or <xex>Fishes</xex>, <class>Marsipobranchiata</class> (<class>Craniota</class>); and <class>Leptocardia</class> (<class>Acrania</class>).</p>
 
 <p><subphylum><er>Tunicata</er></subphylum>, including the <spn>Thaliacea</spn>, and <spn>Ascidioidea</spn> or <xex>Ascidians</xex>.</p>
 
 <p><subphylum><er>Articulata</er></subphylum> or <subphylum><er>Annulosa</er></subphylum>, including <class>Insecta</class>, <class>Myriapoda</class>, <class>Malacapoda</class>, <class>Arachnida</class>, <class>Pycnogonida</class>, <class>Merostomata</class>, <class>Crustacea</class> (<phylum>Arthropoda</phylum>); and <phylum>Annelida</phylum>, <class>Gehyrea</class> (<class>Anarthropoda</class>).</p>
 
-<p><-- ##??modern classes differ! --><br/
-<phylum><er>Helminthes</er></phylum> or <phylum><er>Vermes</er></phylum>, including <class>Rotifera</class>, <class>Ch<ae/tognatha</class>, <class>Nematoidea</class>, <class>Acanthocephala</class>, <class>Nemertina</class>, <class>Turbellaria</class>, <class>Trematoda</class>, <class>Cestoidea</class>, <class>Mesozea</class>.</p>
+<p><phylum><er>Helminthes</er></phylum> or <phylum><er>Vermes</er></phylum>, including <class>Rotifera</class>, <class>Ch<ae/tognatha</class>, <class>Nematoidea</class>, <class>Acanthocephala</class>, <class>Nemertina</class>, <class>Turbellaria</class>, <class>Trematoda</class>, <class>Cestoidea</class>, <class>Mesozea</class>.</p>
 
-<p><-- ##??modern classes differ!  Brachiopoda and Bryozoa are now phyla!<br/
- --><phylum><er>Molluscoidea</er></phylum>, including <subphylum>Brachiopoda</subphylum> and <subphylum>Bryozoa</subphylum>.</p>
+<p><phylum><er>Molluscoidea</er></phylum>, including <subphylum>Brachiopoda</subphylum> and <subphylum>Bryozoa</subphylum>.</p>
 
 <p><phylum><er>Mollusca</er></phylum>, including <class>Cephalopoda</class>, <class>Gastropoda</class>, <class>Pteropoda</class>, <class>Scaphopoda</class>, <class>Lamellibranchiata</class> or <class>Acephala</class>.</p>
 
@@ -30589,10 +30585,9 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><phylum><er>Spongiozoa</er></phylum> or <phylum><er>Porifera</er></phylum>, including the sponges.</p>
 
-<p><-- ##??modern classes differ! --><br/
-<phylum><er>Protozoa</er></phylum>, including <spn>Infusoria</spn> and <spn>Rhizopoda</spn>.</p>
+<p><phylum><er>Protozoa</er></phylum>, including <spn>Infusoria</spn> and <spn>Rhizopoda</spn>.</p>
 
-<p>For definitions, see these names in the Vocabulary.</note><br/
+<p>For definitions, see these names in the Vocabulary.</collapse></note></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Animalculine</ent><br/
@@ -51756,7 +51751,7 @@ Sang his <qex>aubade</qex> with lusty voice and clear.</q> <rj><qau>Longfellow.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Auction bridge</ent><br/
-<hw>Auc"tion bridge</hw>. <def>A variety of the game of bridge in which the players, beginning with the dealer, bid for the privilege of naming the trump and playing with the dummy for that deal, there being heavy penalties for a player's failure to make good his bid. The score value of each trick more than six taken by the successful bidder is as follows: when the trump is spades, 2; clubs, 6; diamonds, 7; hearts, 8; royal spades (lilies), 9; and when the deal is played with no trump, 10.</def><-- ##?? = contract bridge?, rules need updating --><br/
+<hw>Auc"tion bridge</hw>. <def>A variety of the game of bridge in which the players, beginning with the dealer, bid for the privilege of naming the trump and playing with the dummy for that deal, there being heavy penalties for a player's failure to make good his bid. The score value of each trick more than six taken by the successful bidder is as follows: when the trump is spades, 2; clubs, 6; diamonds, 7; hearts, 8; royal spades (lilies), 9; and when the deal is played with no trump, 10.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Auction pitch</ent><br/

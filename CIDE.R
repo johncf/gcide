@@ -5835,13 +5835,13 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 <hw>Ra"zor</hw> <pr>(r<amac/"z<etil/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>rasour</ets>, OF. <ets>rasur</ets>, LL. <ets>rasor</ets>: cf. F. <ets>rasoir</ets>, LL. <ets>rasorium</ets>. See <er>Raze</er>, <pos>v. t.</pos>, <er>Rase</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <def>A keen-edged knife of peculiar shape, used in shaving the hair from the face or the head; also called a <altname>straight razor</altname>.</def> <ldquo/Take thee a barber's <xex>razor</xex>.<rdquo/ <rj><au>Ezek. v. 1.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>a device used for shaving, having a replaceable blade with a very sharp edge; also called <altname>safety razor</altname>.  Also a similar device, made of plastic, in which the blade is neither replaceable nor can be sharpened, intended to be discarded after the blade dulls -- called a <altname>disposable razor</altname>.</def><br/
-[<source>PJC</source>]</p>
-
-<p><sn>3.</sn> <fld>(Zool.)</fld> <def>A tusk of a wild boar.</def><br/
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>A tusk of a wild boar.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Razor fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small Mediterranean fish (<spn>Coryphaena novacula</spn>), prized for the table</cd>. <sd>(b)</sd> <cd>The razor shell.</cd> -- <col><b>Razor grass</b></col> <fld>(Bot.)</fld>, <cd>a West Indian plant (<spn>Scleria scindens</spn>), the triangular stem and the leaves of which are edged with minute sharp teeth.</cd> -- <col><b>Razor grinder</b></col> <fld>(Zool.)</fld>, <cd>the European goat-sucker.</cd> -- <col><b>Razor shell</b></col> <fld>(Zool.)</fld>, <cd>any marine bivalve shell belonging to <gen>Solen</gen> and allied genera, especially <spn>Solen ensis</spn> (or <spn>Ensatella ensis</spn>), and <spn>Solen Americana</spn>, which have a long, narrow, somewhat curved shell, resembling a razor handle in shape. Called also <altname>razor clam</altname>, <altname>razor fish</altname>, <altname>knife handle</altname>.</cd> -- <col><b>Razor stone</b></col>. <cd>Same as <er>Novaculite</er>.</cd> -- <mcol><col><b>Razor strap</b></col>, or <col><b>razor strop</b></col></mcol>, <cd>a strap or strop used in sharpening razors.</cd></cs><-- ##?? safety razor; disposable razor; electric razor --><br/
+<p><sn>3.</sn> <def>a device used for shaving, having a replaceable blade with a very sharp edge; also called <altname>safety razor</altname>.  Also a similar device, made of plastic, in which the blade is neither replaceable nor can be sharpened, intended to be discarded after the blade dulls -- called a <altname>disposable razor</altname>.</def><br/
+[<source>PJC</source>]</p>
+
+<p><cs><col><b>Razor fish</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A small Mediterranean fish (<spn>Coryphaena novacula</spn>), prized for the table</cd>. <sd>(b)</sd> <cd>The razor shell.</cd> -- <col><b>Razor grass</b></col> <fld>(Bot.)</fld>, <cd>a West Indian plant (<spn>Scleria scindens</spn>), the triangular stem and the leaves of which are edged with minute sharp teeth.</cd> -- <col><b>Razor grinder</b></col> <fld>(Zool.)</fld>, <cd>the European goat-sucker.</cd> -- <col><b>Razor shell</b></col> <fld>(Zool.)</fld>, <cd>any marine bivalve shell belonging to <gen>Solen</gen> and allied genera, especially <spn>Solen ensis</spn> (or <spn>Ensatella ensis</spn>), and <spn>Solen Americana</spn>, which have a long, narrow, somewhat curved shell, resembling a razor handle in shape. Called also <altname>razor clam</altname>, <altname>razor fish</altname>, <altname>knife handle</altname>.</cd> -- <col><b>Razor stone</b></col>. <cd>Same as <er>Novaculite</er>.</cd> -- <mcol><col><b>Razor strap</b></col>, or <col><b>razor strop</b></col></mcol>, <cd>a strap or strop used in sharpening razors.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Razorable</ent><br/
@@ -5861,7 +5861,7 @@ On him, and crowds turn coxcombs as they gaze.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>razor-edged</ent><br/
-<hw>ra"zor-edged</hw> <pos>a.</pos> <def>having an edge as sharp as that of a razor; very sharp.</def><br/
+<hw>ra"zor-edged</hw> <pos>a.</pos> <def>having an edge as sharp as that of a razor blade; very sharp.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>razor-thin</ent><br/
@@ -19830,7 +19830,7 @@ To give me hearing what I shall <qex>reply</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reporter</ent><br/
-<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def><-- ##?? add other media --><br/
+<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def>
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of our tales judge and <qex>reportour</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/

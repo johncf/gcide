@@ -30799,9 +30799,6 @@ And our vain blows malicious <qex>mockery</qex>.</q> <rj><qau>Shak.</qau></rj><b
 <p><syn><b>Syn.</b> -- Method; manner. See <er>Method</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- ##??mode of action (Biochem) --><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Model</ent><br/
 <hw>Mod"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>mod<egrave/le</ets>, It. <ets>modello</ets>, fr. (assumed) L. <ets>modellus</ets>, fr. <ets>modulus</ets> a small measure, dim. of <ets>modus</ets>. See <er>Mode</er>, and cf. <er>Module</er>.]</ety> <sn>1.</sn> <def>A miniature representation of a thing, with the several parts in due proportion; sometimes, a facsimile of the same size; <as>as, a <frac1x100/ scale <ex>model</ex> of the B-52 bomber</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -33042,8 +33039,6 @@ Is lucky and happy and good and gay.</q><br/
 <hw>money-spinner</hw> <pos>n.</pos> <def>a project that generates a continuous flow of money.</def><br/
 <syn><b>Syn. --</b> moneymaker, cash cow.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- ##??Money supply;  --></p>
 
 <p><ent>Moneywort</ent><br/
 <hw>Mon"ey*wort`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A trailing plant (<spn>Lysimachia Nummularia</spn>), with rounded opposite leaves and solitary yellow flowers in their axils.</def><br/

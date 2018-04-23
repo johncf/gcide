@@ -11409,14 +11409,14 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Mus.)</fld> <def>Florid; figurative; involving passing discords by the freer melodic movement of one or more parts or voices in the harmony; <as>as, <ex>figurate</ex> counterpoint or descant</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Figurate counterpoint</b></col>  <it>or</it> <col><b>Figurate descant</b></col></mcol> <fld>(Mus.)</fld>, <cd>that which is not simple, or in which the parts do not move together tone for tone, but in which freer movement of one or more parts mingles passing discords                                                                                                                                                                                                                                                                                                                                                                                                  with the harmony; -- called also <altname>figural</altname>, <altname>figurative</altname>, and <altname>figured counterpoint</altname> or <altname>descant</altname> (although the term <xex>figured</xex> is more commonly applied to a bass with numerals written above or below to indicate the other notes of the harmony).</cd> -- <col><b>Figurate numbers</b></col> <fld>(Math.)</fld>, <cd>numbers, or series of numbers, formed from any arithmetical progression in which the first term is a unit, and the difference a whole number, by taking the first term, and the sums of the first two, first three, first four, etc., as the successive terms of a new series, from which another may be formed in the same manner, and so on, the numbers in the resulting series being such that points representing them are capable of symmetrical arrangement in different geometrical figures, as triangles, squares, pentagons, etc.</cd> <note>In the following example, the two lower lines are composed of <xex>figurate numbers</xex>, those in the second line being <xex>triangular</xex>, and represented thus: --</p>
+<p><cs><mcol><col><b>Figurate counterpoint</b></col>  <it>or</it> <col><b>Figurate descant</b></col></mcol> <fld>(Mus.)</fld>, <cd>that which is not simple, or in which the parts do not move together tone for tone, but in which freer movement of one or more parts mingles passing discords with the harmony; -- called also <altname>figural</altname>, <altname>figurative</altname>, and <altname>figured counterpoint</altname> or <altname>descant</altname> (although the term <xex>figured</xex> is more commonly applied to a bass with numerals written above or below to indicate the other notes of the harmony).</cd> -- <col><b>Figurate numbers</b></col> <fld>(Math.)</fld>, <cd>numbers, or series of numbers, formed from any arithmetical progression in which the first term is a unit, and the difference a whole number, by taking the first term, and the sums of the first two, first three, first four, etc., as the successive terms of a new series, from which another may be formed in the same manner, and so on, the numbers in the resulting series being such that points representing them are capable of symmetrical arrangement in different geometrical figures, as triangles, squares, pentagons, etc.</cd> <note>In the following example, the two lower lines are composed of <xex>figurate numbers</xex>, those in the second line being <xex>triangular</xex>, and represented thus: --</p>
 
-<p><tt><br/
-                        .              1, 2,  3,  4, etc.
-              .        . .             1, 3,  6, 10, etc.
-      .      . .     . . . .   etc.    1, 4, 10, 20, etc
- .   . .   . . . .  . . . . .</tt><br/
-</note></cs><br/
+<p><pre><tt>
+                       .              1, 2,  3,  4, etc.
+              .       . .             1, 3,  6, 10, etc.
+      .      . .     . . .    etc.    1, 4, 10, 20, etc
+ .   . .    . . .   . . . .
+</tt></pre></note></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Figurated</ent><br/

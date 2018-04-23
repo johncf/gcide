@@ -14075,7 +14075,7 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Thermoluminescence</ent><br/
-<hw>Ther`mo*lu`mi*nes"cence</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physics)</fld> <def>Luminescence exhibited by a substance on being moderately heated. It is shown esp. by certain substances that have been exposed to the action of light or to X-rays.</def><-- ##?? used in dating of pottery? --> -- <wordforms><wf>Ther`mo*lu`mi*nes"cent</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<hw>Ther`mo*lu`mi*nes"cence</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Physics)</fld> <def>Luminescence exhibited by a substance on being moderately heated. It is shown esp. by certain substances that have been exposed to the action of light or to X-rays.</def> -- <wordforms><wf>Ther`mo*lu`mi*nes"cent</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Thermolysin</ent><br/

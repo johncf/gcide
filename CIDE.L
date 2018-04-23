@@ -10098,44 +10098,6 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 <p><note><hand/ The <ex>legislature</ex> of Great Britain consists of the Lords and Commons, with the king or queen, whose sanction is necessary to every bill before it becomes a law. The <ex>legislatures</ex> of most of the United States consist of two houses or branches; but the sanction or consent of the governor is required to give their acts the force of law, or a concurrence of two thirds of the two houses after he has refused his sanction and assigned his objections.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note>The legislatures of some of the more important states having constitutional government are as follows, the general name (or a translation of it) of the  legislative body collectively being given under the heading <xex>legislature</xex>, <xex>or parliament</xex>:</p>
-
-<p><-- ##?? Untyped: a Table of countries with their types of legislatures. -->
-<table><pre>
-<headrow><item>State</item><item>Legislature, or parliament</item><mitem>Upper House<colret/<item>Name</item><item>Number of members -- how chosen or composed -- term of office</item></mitem><mitem>Lower House<colret/<item>Name</item><item>Number of members -- suffrage -- term of office</item></mitem></headrow>
------------------------------------------------------------------
-<row><item>Argentina</item><item>National Congress</item><item>Senate</item><item>30 -- 2 from each provincew and 2 from capital -- 9 years</item><item>House of Deputies</item><item>120  (1 to 33,000) -- Manhood -- 4 years</item></row>
-<row><item>Austria</item><item>Reichsrath</item><item></item><item></item><item></item><item></item></row>
-<row><item>Belgium</item><item>The Chambers</item><item></item><item></item><item></item><item></item></row>
-<row><item>Brazil</item><item>National Congress</item><item></item><item></item><item></item><item></item></row>
-<row><item>Chile</item><item>National Congress</item><item></item><item></item><item></item><item></item></row>
-<row><item>Denmark</item><item>Rigsdag</item><item></item><item></item><item></item><item></item></row>
-<row><item>France</item><item>National Assembly</item><item></item><item></item><item></item><item></item></row>
-<row><item>German Empire</item><item>Imperial legislature</item><item></item><item></item><item></item><item></item></row>
-<row><item>*Great Britain</item><item>Parliament</item><item>House of Lords</item><item>About 600</item><item>House of Commons</item><item>About 670 -- 7 years, or until dissolution</item></row>
-<row><item>Greece</item><item></item><item></item><item></item><item></item><item></item></row>
-<row><item>Hungary</item><item>Orz<aacute/g-gy<uum/l<eacute/s</item><item></item><item></item><item></item><item></item></row>
-<row><item>Italy</item><item>Parliament</item><item></item><item></item><item></item><item></item></row>
-<row><item>Japan</item><item>Imperial Diet</item><item></item><item></item><item></item><item></item></row>
-<row><item>Mexico</item><item>Congress</item><item></item><item></item><item></item><item></item></row>
-<row><item>Netherlands</item><item>States-General</item><item></item><item></item><item></item><item></item></row>
-<row><item>#Norway</item><item>Storthing</item><item></item><item></item><item></item><item></item></row>
-<row><item>Portugal</item><item>Cortes Geraes (general Assembly)</item><item></item><item></item><item></item><item></item></row>
-<row><item>Prussia</item><item>Landtag</item>Herrenhaus<item></item><item>No limit -- very various classes -- For different terms</item><item>Abgeordnetenhaus</item><item>433 -- Indirect election, general suffrage<sect/ -- 5 years, or until dissolution</item></row>
-<row><item>Spain</item><item>Cortes</item><item></item><item></item><item></item><item></item></row>
-<row><item>Sweden</item><item>Diet</item><item></item><item></item><item></item><item></item></row>
-<row><item>Switzerland</item><item>Bundesversammlung</item><item></item><item></item><item></item><item></item></row>
-<row><item>United States</item><item>Congress</item><item>Senate</item><item>92(1908) -- 6 years</item><item>House of Representatives</item><item>391 (1908) -- 2 years.</item></row>
-</pre></table>
-----------------------------------------------------------------
-*In the self-governing colonies of Great Britain the legislative body usually consists of two chambers, the names of the legislature and the chambers varying.  Thus in Australia the Federal Parliament is composed of the Senate and the House of Commons, in New Zealand the General Assembly is composed of the Legislative Council and the House of Representatives, etc.</p>
-
-<p>#Members of the Storthing are chosen for three years by direct election by manhood suffrage, forty-one being elected from the towns and eighty-two from the rural districts.  The Storthing on assembling divides into the Lagthing including one fourth and the Odelsthing including three fourths of the total membership of the Storthing.  All new laws are laid first before the Odelsthing.  If the two houses do not agree they vote in joint session, a majority of two thirds of those voting being necessary to a decision.</p>
-
-<p><sect/ While theoretically general, the suffrage is so classified as often practically to disfranchise those who are not property holders.
-</note><br/
-[<source>Webster 1913 Suppl.</source>]</p>
-
 <p><ent>Legist</ent><br/
 <hw>Le"gist</hw> <pr>(l<emac/"j<icr/st)</pr>, <pos>n.</pos> <ety>[F. <ets>l<eacute/giste</ets>, LL. <ets>legista</ets>, fr. L. <ets>lex</ets>, <ets>legis</ets>, law. See <er>Legal</er>.]</ety> <def>One skilled in the laws; a writer on law.</def> <rj><au>Milman.</au> <au>J. Morley.</au></rj><br/
 [<source>1913 Webster</source>]</p>

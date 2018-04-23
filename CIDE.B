@@ -6324,7 +6324,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>1.</sn> <def>A title or degree of nobility; originally, the possessor of a fief, who had feudal tenants under him; in modern times, in France and Germany, a nobleman next in rank below a count; in England, a nobleman of the lowest grade in the House of Lords, being next below a viscount.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><note><hand/ <ldquo/The tenants in chief from the Crown, who held lands of the annual value of four hundred pounds, were styled <ex>Barons</ex>; and it is to them, and not to the members of the lowest grade of the nobility (to whom the title at the present time belongs), that reference is made when we read of the Barons of the early days of England's history.  . . . Barons are addressed as <lsquo/My Lord,' and are styled <lsquo/Right Honorable.' All their sons and daughters are <lsquo/Honorable.'<rdquo/</note>  <rj><au>Cussans.</au></rj><br/
+<p><note><hand/ <ldquo/The tenants in chief from the Crown, who held lands of the annual value of four hundred pounds, were styled <ex>Barons</ex>; and it is to them, and not to the members of the lowest grade of the nobility (to whom the title at the present time [1890] belongs), that reference is made when we read of the Barons of the early days of England's history.  . . . Barons are addressed as <lsquo/My Lord,' and are styled <lsquo/Right Honorable.' All their sons and daughters are <lsquo/Honorable.'<rdquo/</note>  <rj><au>Cussans.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Old Law)</fld> <def>A husband; <as>as, <ex>baron</ex> and <ex>feme</ex>, husband and wife</as>.</def> <mark>[R.]</mark>  <rj><au>Cowell.</au></rj><br/
@@ -12564,7 +12564,7 @@ The worst that may <qex>befall</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Begohm</ent><br/
-<hw>Beg"ohm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>A unit of resistance equal to one billion ohms, or one thousand megohms.</def><-- ##?? still used?? is gigohm used?--><br/
+<hw>Beg"ohm`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Elec.)</fld> <def>A unit of resistance equal to one billion ohms, or one thousand megohms.</def> <mark>[Obs.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Begone</ent><br/

@@ -6228,7 +6228,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>kopeck</ent><br/
-<hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin, continued as a unit of currency within the Soviet Union.  One hundred kopecks make a ruble.  The ruble was worth about sixty cents (U. S.) in 1910; in 1991 a two-kopeck coin could be used for a local telephone call at a pay telephone.  After the breakup of the Soviet Union in 1993, the exchange value of the ruble declined rapidly and by the end of 1994 the ruble was worth three hundredths of a cent, and by 1997 two hundredths of a cent. By 1993, the kopek had become of such small value that it was obsolete and no longer minted.</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp><--  ##?? After the revaluation of the Ruble in 1998, the kopeck was ?? --><br/
+<hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin. One hundred kopecks make a rouble, worth about sixty cents [in 1910].</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>koppie</ent><br/
