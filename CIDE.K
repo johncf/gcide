@@ -92,7 +92,7 @@
 <syn><b>Syn. --</b> kaffir, caffer, caffre.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><col><b>Kaffir corn</b></col> <fld>(Bot.)</fld>, <cd>a Cape Colony name for Indian millet.</cd></cs><br/
+<p><cs><col>Kaffir corn</col> <fld>(Bot.)</fld>, <cd>a Cape Colony name for Indian millet.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kaffle</ent><br/
@@ -151,7 +151,7 @@
 <p><sn>3.</sn> <def>A broth made with kail or other vegetables; hence, any broth; also, a dinner.</def> <mark>[Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kail yard</b></col>, <cd>a kitchen garden.</cd> <mark>[Scot.]</mark></cs><br/
+<p><cs><col>Kail yard</col>, <cd>a kitchen garden.</cd> <mark>[Scot.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kaimacam</ent><br/
@@ -197,7 +197,7 @@
 <p><note><hand/ The <stype>mountain kaka</stype>, or <stype>kea</stype> (<spn>Nestor notabilis</spn>), is remarkable for having recently acquired carnivorous habits.  It attacks and kills lambs and pigs, sometimes doing great damage.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Night kaka</b></col>. <fld>(Zool.)</fld> <cd>The kakapo.</cd></cs><br/
+<p><cs><col>Night kaka</col>. <fld>(Zool.)</fld> <cd>The kakapo.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kakapo</ent><br/
@@ -244,7 +244,7 @@
 <p><sn>2.</sn> <def>See <er>Kail</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Sea kale</b></col> <fld>(Bot.)</fld>, <cd>a European cruciferous herb (<spn>Crambe maritima</spn>), often used as a pot herb; sea cabbage.</cd></cs><br/
+<p><cs><col>Sea kale</col> <fld>(Bot.)</fld>, <cd>a European cruciferous herb (<spn>Crambe maritima</spn>), often used as a pot herb; sea cabbage.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kaleege</ent><br/
@@ -357,7 +357,7 @@
 \'d8<hw>Ka"ma</hw> <pr>(k<aum/"m<aum/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<amac/ma</ets> love, the god of love.]</ety> <sn>1.</sn> <def>The Hindu Cupid. He is represented as a beautiful youth, with a bow of sugar cane or flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col><b>ka"ma ru"pa</b></col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col><b>ka"ma lo"ca</b></col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><-- not the same as karma --><br/
+<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col>ka"ma ru"pa</col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col>ka"ma lo"ca</col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><-- not the same as karma --><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kamala</ent><br/
@@ -437,7 +437,7 @@
 
 <p><-- p. 809 --></p>
 
-<p><cs><col><b>Kangaroo apple</b></col> <fld>(Bot.)</fld>, <cd>the edible fruit of the Tasmanian plant <spn>Solanum aviculare</spn>.</cd> -- <col><b>Kangaroo grass</b></col> <fld>(Bot.)</fld>, <cd>a perennial Australian forage grass (<spn>Anthistiria australis</spn>).</cd> -- <col><b>Kangaroo hare</b></col> <fld>(Zool.)</fld>, <cd>the jerboa kangaroo. See under <er>Jerboa</er>.</cd> -- <col><b>Kangaroo mouse</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Jumping mouse</cref>, under <er>Jumping</er>.</cd></cs><br/
+<p><cs><col>Kangaroo apple</col> <fld>(Bot.)</fld>, <cd>the edible fruit of the Tasmanian plant <spn>Solanum aviculare</spn>.</cd> -- <col>Kangaroo grass</col> <fld>(Bot.)</fld>, <cd>a perennial Australian forage grass (<spn>Anthistiria australis</spn>).</cd> -- <col>Kangaroo hare</col> <fld>(Zool.)</fld>, <cd>the jerboa kangaroo. See under <er>Jerboa</er>.</cd> -- <col>Kangaroo mouse</col>. <fld>(Zool.)</fld> <cd>See <cref>Jumping mouse</cref>, under <er>Jumping</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>kangaroo rat</ent><br/
@@ -611,7 +611,7 @@
 <hw>Kar*roo"</hw> <pr>(k<adot/r*r<oomac/")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Karroos</plw> <pr>(k<adot/r*r<oomac/z")</pr>.</plu> <def>One of the dry table-lands of South Africa, which often rise terracelike to considerable elevations.</def> <altsp>[Also <asp>karoo</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>The Great Karroo</b></col>, <it>or</it> <col><b>The Karroo</b></col></mcol>, <cd>a vast plateau, in Cape Colony, stretching through five degrees of longitude, at an elevation of about 3,000 feet.</cd></cs><br/
+<p><cs><mcol><col>The Great Karroo</col>, <it>or</it> <col>The Karroo</col></mcol>, <cd>a vast plateau, in Cape Colony, stretching through five degrees of longitude, at an elevation of about 3,000 feet.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Karstenite</ent><br/
@@ -871,7 +871,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 <p><sn>6.</sn> <fld>(Aeronautics)</fld> <def>In a dirigible, a construction similar in form and use to a ship's keel; in an a<eum/roplane, a fin or fixed surface employed to increase stability and to hold the machine to its course.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Bilge keel</b></col> <fld>(Naut.)</fld>, <cd>a keel peculiar to ironclad vessels, extending only a portion of the length of the vessel under the bilges.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>False keel</b></col>. <cd>See under <er>False</er>.</cd> -- <col><b>Keel boat</b></col>. <sd>(a)</sd> <cd>A covered freight boat, with a keel, but no sails, used on Western rivers.</cd> <mark>[U. S.]</mark> <sd>(b)</sd> <cd>A low, flat-bottomed freight boat. See <er>Keel</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col><b>Keel piece</b></col>, <cd>one of the timbers or sections of which a keel is composed.</cd> -- <col><b>On even keel</b></col>, <cd>in a level or horizontal position, so that the draught of water at the stern and the bow is the same.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>On an even keel</b></col> <pos>a. & adv.</pos>, <cd>steady; balanced; steadily.</cd></cs><br/
+<p><cs><col>Bilge keel</col> <fld>(Naut.)</fld>, <cd>a keel peculiar to ironclad vessels, extending only a portion of the length of the vessel under the bilges.</cd> <au>Ham. Nav. Encyc.</au> -- <col>False keel</col>. <cd>See under <er>False</er>.</cd> -- <col>Keel boat</col>. <sd>(a)</sd> <cd>A covered freight boat, with a keel, but no sails, used on Western rivers.</cd> <mark>[U. S.]</mark> <sd>(b)</sd> <cd>A low, flat-bottomed freight boat. See <er>Keel</er>, <pos>n.</pos>, <snr>3</snr>.</cd> -- <col>Keel piece</col>, <cd>one of the timbers or sections of which a keel is composed.</cd> -- <col>On even keel</col>, <cd>in a level or horizontal position, so that the draught of water at the stern and the bow is the same.</cd> <au>Ham. Nav. Encyc.</au> -- <col>On an even keel</col> <pos>a. & adv.</pos>, <cd>steady; balanced; steadily.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keel</ent><br/
@@ -881,7 +881,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 <p><sn>2.</sn> <def>To turn up the keel; to show the bottom.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To keel over</b></col>, <cd>to upset; to capsize.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To keel over</col>, <cd>to upset; to capsize.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keelage</ent><br/
@@ -938,7 +938,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 <hw>Keel"son</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Akin to Sw. <ets>k<oum/lsvin</ets>, Dan. <ets>kj<oum/lsviin</ets>, G. <ets>kielschwein</ets>; apparently compounded of the words <ets>keel</ets> and <ets>swine</ets>; but cf. Norweg. <ets>kj<oum/lsvill</ets>, where <ets>svill</ets> is akin to E. <ets>sill</ets>, <pos>n.</pos> ]</ety> <fld>(Shipbuilding)</fld> <def>A piece of timber in a ship laid on the middle of the floor timbers over the keel, and binding the floor timbers to the keel; in iron vessels, a structure of plates, situated like the keelson of a timber ship.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cross keelson</b></col>, <cd>a similar structure lying athwart the main keelson, to support the engines and boilers.</cd></cs><br/
+<p><cs><col>Cross keelson</col>, <cd>a similar structure lying athwart the main keelson, to support the engines and boilers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 810 --></p>
@@ -1135,7 +1135,7 @@ Fairies, and fawns, and satyrs do it <qex>keep</qex>.</q> <rj><qau>J. Fletcher.<
 <p><q>I went with them to the house of God . . . with a multitude that <qex>kept</qex> holyday.</q> <rj><qau>Ps. xlii. 4.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To keep at arm's length</b></col>. <cd>See under <er>Arm</er>, <pos>n.</pos></cd> -- <col><b>To keep back</b></col>. <sd>(a)</sd> <cd>To reserve; to withhold.</cd> <ldquo/I will <xex>keep</xex> nothing <xex>back</xex> from you.<rdquo/ <au>Jer. xlii. 4.</au> <sd>(b)</sd> <cd>To restrain; to hold back.</cd> <ldquo/<xex>Keep back</xex> thy servant also from presumptuous sins.<rdquo/  <au>Ps. xix. 13.</au> -- <col><b>To keep company with</b></col>. <sd>(a)</sd> <cd>To frequent the society of; to associate with; <as>as, let youth <ex>keep company with</ex> the wise and good</as>.</cd> <sd>(b)</sd> <cd>To accompany; to go with; <as>as, to <ex>keep company with</ex> one on a voyage</as>; also, to pay court to, or accept attentions from, with a view to marriage.</cd> <mark>[Colloq.]</mark> -- <col><b>To keep counsel</b></col>. <cd>See under <er>Counsel</er>, <pos>n.</pos></cd> -- <col><b>To keep down</b></col>. <sd>(a)</sd> <cd>To hold in subjection; to restrain; to hinder.</cd> <sd>(b)</sd> <fld>(Fine Arts)</fld> <cd>To subdue in tint or tone, as a portion of a picture, so that the spectator's attention may not be diverted from the more important parts of the work.</cd> -- <mcol><col><b>To keep good hours</b></col>  <it>or</it> <col><b>To keep bad hours</b></col></mcol>, <cd>to be customarily early (or late) in returning home or in retiring to rest.</cd> -- <col><b>To keep house</b></col>. <sd>(a)</sd> <cd>To occupy a separate house or establishment, as with one's family, as distinguished from <contr>boarding</contr>; to manage domestic affairs.</cd> <sd>(b)</sd> <fld>(Eng. Bankrupt Law)</fld> <cd>To seclude one's self in one's house in order to evade the demands of creditors.</cd> -- <col><b>To keep one's hand in</b></col>, <cd>to keep in practice.</cd> -- <col><b>To keep open house</b></col>, <cd>to be hospitable.</cd> -- <col><b>To keep the peace</b></col> <fld>(Law)</fld>, <cd>to avoid or to prevent a breach of the peace.</cd> -- <col><b>To keep school</b></col>, <cd>to govern, manage and instruct or teach a school, as a preceptor.</cd> -- <col><b>To keep a stiff upper lip</b></col>, <cd>to keep up one's courage.</cd> <mark>[Slang]</mark> -- <col><b>To keep term</b></col>. <sd>(a)</sd> <fld>(Eng. Universities)</fld> <cd>To reside during a term.</cd> <sd>(b)</sd> <fld>(Inns of Court)</fld> <cd>To eat a sufficient number of dinners in hall to make the term count for the purpose of being called to the bar.</cd> <mark>[Eng.]</mark> <au>Mozley & W.</au> -- <col><b>To keep touch</b></col>. <cd>See under <er>Touch</er>, <pos>n.</pos></cd> -- <col><b>To keep under</b></col>, <cd>to hold in subjection; hence, to oppress.</cd> -- <col><b>To keep up</b></col>. <sd>(a)</sd> <cd>To maintain; to prevent from falling or diminution; <as>as, to <ex>keep up</ex> the price of goods; to <ex>keep up</ex> one's credit</as>.</cd> <sd>(b)</sd> <cd>To maintain; to continue; to prevent from ceasing.</cd> <ldquo/In joy, that which <xex>keeps up</xex> the action is the desire to continue it.<rdquo/  <rj><au>Locke.</au></rj></cs></p>
+<p><cs><col>To keep at arm's length</col>. <cd>See under <er>Arm</er>, <pos>n.</pos></cd> -- <col>To keep back</col>. <sd>(a)</sd> <cd>To reserve; to withhold.</cd> <ldquo/I will <xex>keep</xex> nothing <xex>back</xex> from you.<rdquo/ <au>Jer. xlii. 4.</au> <sd>(b)</sd> <cd>To restrain; to hold back.</cd> <ldquo/<xex>Keep back</xex> thy servant also from presumptuous sins.<rdquo/  <au>Ps. xix. 13.</au> -- <col>To keep company with</col>. <sd>(a)</sd> <cd>To frequent the society of; to associate with; <as>as, let youth <ex>keep company with</ex> the wise and good</as>.</cd> <sd>(b)</sd> <cd>To accompany; to go with; <as>as, to <ex>keep company with</ex> one on a voyage</as>; also, to pay court to, or accept attentions from, with a view to marriage.</cd> <mark>[Colloq.]</mark> -- <col>To keep counsel</col>. <cd>See under <er>Counsel</er>, <pos>n.</pos></cd> -- <col>To keep down</col>. <sd>(a)</sd> <cd>To hold in subjection; to restrain; to hinder.</cd> <sd>(b)</sd> <fld>(Fine Arts)</fld> <cd>To subdue in tint or tone, as a portion of a picture, so that the spectator's attention may not be diverted from the more important parts of the work.</cd> -- <mcol><col>To keep good hours</col>  <it>or</it> <col>To keep bad hours</col></mcol>, <cd>to be customarily early (or late) in returning home or in retiring to rest.</cd> -- <col>To keep house</col>. <sd>(a)</sd> <cd>To occupy a separate house or establishment, as with one's family, as distinguished from <contr>boarding</contr>; to manage domestic affairs.</cd> <sd>(b)</sd> <fld>(Eng. Bankrupt Law)</fld> <cd>To seclude one's self in one's house in order to evade the demands of creditors.</cd> -- <col>To keep one's hand in</col>, <cd>to keep in practice.</cd> -- <col>To keep open house</col>, <cd>to be hospitable.</cd> -- <col>To keep the peace</col> <fld>(Law)</fld>, <cd>to avoid or to prevent a breach of the peace.</cd> -- <col>To keep school</col>, <cd>to govern, manage and instruct or teach a school, as a preceptor.</cd> -- <col>To keep a stiff upper lip</col>, <cd>to keep up one's courage.</cd> <mark>[Slang]</mark> -- <col>To keep term</col>. <sd>(a)</sd> <fld>(Eng. Universities)</fld> <cd>To reside during a term.</cd> <sd>(b)</sd> <fld>(Inns of Court)</fld> <cd>To eat a sufficient number of dinners in hall to make the term count for the purpose of being called to the bar.</cd> <mark>[Eng.]</mark> <au>Mozley & W.</au> -- <col>To keep touch</col>. <cd>See under <er>Touch</er>, <pos>n.</pos></cd> -- <col>To keep under</col>, <cd>to hold in subjection; hence, to oppress.</cd> -- <col>To keep up</col>. <sd>(a)</sd> <cd>To maintain; to prevent from falling or diminution; <as>as, to <ex>keep up</ex> the price of goods; to <ex>keep up</ex> one's credit</as>.</cd> <sd>(b)</sd> <cd>To maintain; to continue; to prevent from ceasing.</cd> <ldquo/In joy, that which <xex>keeps up</xex> the action is the desire to continue it.<rdquo/  <rj><au>Locke.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- To retain; detain; reserve; preserve; hold; restrain; maintain; sustain; support; withhold.</syn> -- To <er>Keep</er>. <usage> <er>Retain</er>, <er>Preserve</er>. <xex>Keep</xex> is the generic term, and is often used where <xex>retain</xex> or <xex>preserve</xex> would too much restrict the meaning; as, to <xex>keep</xex> silence, etc. <xex>Retain</xex> denotes that we <xex>keep</xex> or <xex>hold</xex> things, as against influences which might deprive us of them, or reasons which might lead us to give them up; as, to <xex>retain</xex> vivacity in old age; to <xex>retain</xex> counsel in a lawsuit; to <xex>retain</xex> one's servant after a reverse of fortune. <xex>Preserve</xex> denotes that we keep a thing against agencies which might lead to its being destroyed or broken in upon; as, to <xex>preserve</xex> one's health; to <xex>preserve</xex> appearances.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -1165,7 +1165,7 @@ Fairies, and fawns, and satyrs do it <qex>keep</qex>.</q> <rj><qau>J. Fletcher.<
 <p><sn>5.</sn> <def>To be in session; <as>as, school <ex>keeps</ex> to-day</as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To keep from</b></col>, <cd>to abstain or refrain from.</cd> -- <col><b>To keep in with</b></col>, <cd>to keep on good terms with; <as>as, <ex>to keep in with</ex> an opponent</as>.</cd> -- <col><b>To keep on</b></col>, <cd>to go forward; to proceed; to continue to advance.</cd> -- <col><b>To keep to</b></col>, <cd>to adhere strictly to; not to neglect or deviate from; <as>as, <ex>to keep to</ex> old customs; <ex>to keep to</ex> a rule; <ex>to keep to</ex> one's word or promise</as>.</cd> -- <col><b>To keep up</b></col>, <cd>to remain unsubdued; also, not to be confined to one's bed.</cd></cs><br/
+<p><cs><col>To keep from</col>, <cd>to abstain or refrain from.</cd> -- <col>To keep in with</col>, <cd>to keep on good terms with; <as>as, <ex>to keep in with</ex> an opponent</as>.</cd> -- <col>To keep on</col>, <cd>to go forward; to proceed; to continue to advance.</cd> -- <col>To keep to</col>, <cd>to adhere strictly to; not to neglect or deviate from; <as>as, <ex>to keep to</ex> old customs; <ex>to keep to</ex> a rule; <ex>to keep to</ex> one's word or promise</as>.</cd> -- <col>To keep up</col>, <cd>to remain unsubdued; also, not to be confined to one's bed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keep</ent><br/
@@ -1211,7 +1211,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Mach.)</fld> <def>A cap for retaining anything, as a journal box, in place.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To take keep</b></col>, <cd>to take care; to heed.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs><br/
+<p><cs><col>To take keep</col>, <cd>to take care; to heed.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keeper</ent><br/
@@ -1242,7 +1242,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>7.</sn> <def>An iron bar that is placed on the poles of a horseshoe magnet, and held in place there by the magnetic force, to preserve the strength of the magnet when not in use.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Keeper of the forest</b></col> <fld>(O. Eng. Law)</fld>, <cd>an officer who had the principal government of all things relating to the forest.</cd> -- <col><b>Keeper of the great seal</b></col>, <cd>a high officer of state, who has custody of the great seal. The office is now united with that of lord chancellor.</cd> <mark>[Eng.]</mark> -- <col><b>Keeper of the King's conscience</b></col>, <cd>the lord chancellor; -- a name given when the chancellor was an ecclesiastic.</cd> <mark>[Eng.]</mark> -- <col><b>Keeper of the privy seal</b></col> (styled also <altname>lord privy seal</altname>), <cd>a high officer of state, through whose hands pass all charters, pardons, etc., before they come to the great seal. He is a privy councillor, and was formerly called <altname>clerk of the privy seal</altname>.</cd> <mark>[Eng.]</mark> -- <col><b>Keeper of a magnet</b></col>, <cd>a piece of iron which connects the two poles, for the purpose of keeping the magnetic power undiminished; an armature; called also <altname>keeper</altname>.</cd></cs><br/
+<p><cs><col>Keeper of the forest</col> <fld>(O. Eng. Law)</fld>, <cd>an officer who had the principal government of all things relating to the forest.</cd> -- <col>Keeper of the great seal</col>, <cd>a high officer of state, who has custody of the great seal. The office is now united with that of lord chancellor.</cd> <mark>[Eng.]</mark> -- <col>Keeper of the King's conscience</col>, <cd>the lord chancellor; -- a name given when the chancellor was an ecclesiastic.</cd> <mark>[Eng.]</mark> -- <col>Keeper of the privy seal</col> (styled also <altname>lord privy seal</altname>), <cd>a high officer of state, through whose hands pass all charters, pardons, etc., before they come to the great seal. He is a privy councillor, and was formerly called <altname>clerk of the privy seal</altname>.</cd> <mark>[Eng.]</mark> -- <col>Keeper of a magnet</col>, <cd>a piece of iron which connects the two poles, for the purpose of keeping the magnetic power undiminished; an armature; called also <altname>keeper</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Keepership</ent><br/
@@ -1268,7 +1268,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Paint.)</fld> <def>Harmony or correspondence between the different parts of a work of art; <as>as, the foreground of this painting is not in <ex>keeping</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Keeping room</b></col>, <cd>a family sitting room.</cd> <mark>[New Eng. & Prov. Eng.]</mark></cs></p>
+<p><cs><col>Keeping room</col>, <cd>a family sitting room.</cd> <mark>[New Eng. & Prov. Eng.]</mark></cs></p>
 
 <p><syn><b>Syn.</b> -- Care; guardianship; custody; possession.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -1384,7 +1384,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><note><hand/ <gen>Laminaria</gen> is the common kelp of Great Britain; <spn>Macrocystis pyrifera</spn> and <spn>Nereocystis Lutkeana</spn> are the great kelps of the Pacific Ocean.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kelp crab</b></col> <fld>(Zool.)</fld>, <cd>a California spider crab (<spn>Epialtus productus</spn>), found among seaweeds, which it resembles in color.</cd> -- <col><b>Kelp salmon</b></col> <fld>(Zool.)</fld>, <cd>a serranoid food fish (<spn>Serranus clathratus</spn>) of California. See <er>Cabrilla</er>.</cd></cs><br/
+<p><cs><col>Kelp crab</col> <fld>(Zool.)</fld>, <cd>a California spider crab (<spn>Epialtus productus</spn>), found among seaweeds, which it resembles in color.</cd> -- <col>Kelp salmon</col> <fld>(Zool.)</fld>, <cd>a serranoid food fish (<spn>Serranus clathratus</spn>) of California. See <er>Cabrilla</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kelpfish</ent><br/
@@ -1579,7 +1579,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 <hw>Ken*tuck"y</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <def>One of the United States.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kentucky blue grass</b></col> <fld>(Bot.)</fld>, <cd>a valuable pasture and meadow grass (<spn>Poa pratensis</spn>), found in both Europe and America. See under <er>Blue grass</er>.</cd> -- <col><b>Kentucky coffee tree</b></col> <fld>(Bot.)</fld>, <cd>a tall North American tree (<spn>Gymnocladus Canadensis</spn>) with bipinnate leaves.  It produces large woody pods containing a few seeds which have been used as a substitute for coffee.  The timber is very valuable.</cd></cs><br/
+<p><cs><col>Kentucky blue grass</col> <fld>(Bot.)</fld>, <cd>a valuable pasture and meadow grass (<spn>Poa pratensis</spn>), found in both Europe and America. See under <er>Blue grass</er>.</cd> -- <col>Kentucky coffee tree</col> <fld>(Bot.)</fld>, <cd>a tall North American tree (<spn>Gymnocladus Canadensis</spn>) with bipinnate leaves.  It produces large woody pods containing a few seeds which have been used as a substitute for coffee.  The timber is very valuable.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kenya</ent><br/
@@ -1615,7 +1615,7 @@ And the inquiring looks of men.</q> <rj><qau>Trench.</qau></rj></p>
 <hw>kept</hw> <pr>(k<ecr/pt)</pr>, <def><pos>imp. & p. p.</pos> of <er>Keep</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Kept woman</b></col>, <col><b>Kept mistress</b></col></mcol>, <cd>a concubine; a woman supported by a man as his paramour.</cd></cs><br/
+<p><cs><mcol><col>Kept woman</col>, <col>Kept mistress</col></mcol>, <cd>a concubine; a woman supported by a man as his paramour.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kepviselohaz</ent><br/
@@ -1757,7 +1757,7 @@ To a scarlet <qex>kerchief</qex> caught beneath her chin.</q> <rj><qau>Mrs. Brow
 <p><sn>3.</sn> <fld>(Zool.)</fld> <ety>[NL.]</ety> <def>A genus of scale insects including many species that feed on oaks. The adult female resembles a small gall.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Kermes mineral</b></col>. <sd>(a)</sd> <fld>(Old Chem.)</fld> <cd>An artificial amorphous trisulphide of antimony; -- so called on account of its red color.</cd> <sd>(b)</sd> <fld>(Med. Chem.)</fld> <cd>A compound of the trioxide and trisulphide of antimony, used in medicine. This substance occurs in nature as the mineral <altname>kermesite</altname>.</cd></cs><br/
+<p><cs><col>Kermes mineral</col>. <sd>(a)</sd> <fld>(Old Chem.)</fld> <cd>An artificial amorphous trisulphide of antimony; -- so called on account of its red color.</cd> <sd>(b)</sd> <fld>(Med. Chem.)</fld> <cd>A compound of the trioxide and trisulphide of antimony, used in medicine. This substance occurs in nature as the mineral <altname>kermesite</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kermesse</ent><br/
@@ -1867,7 +1867,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <mhw>{ <hw>Kers</hw>, <hw>Kerse</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>A cress.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Not worth a kers</b></col>. <cd>See under <er>Cress</er>.</cd></cs><br/
+<p><cs><col>Not worth a kers</col>. <cd>See under <er>Cress</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kersey</ent><br/
@@ -1932,7 +1932,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>In modern usage, a sailing vessel having two masts, with the main mast taller than the aftermost, or mizzen, mast.</def><br/
 [<source>RH</source>]</p>
 
-<p><cs><col><b>Bomb ketch</b></col>. <cd>See under <er>Bomb</er>.</cd></cs><br/
+<p><cs><col>Bomb ketch</col>. <cd>See under <er>Bomb</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ketch</ent><br/
@@ -1962,7 +1962,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <hw>Ke"tol</hw> <pr>(k<emac/"t<omac/l)</pr>, <pos>n.</pos> <ety>[<ets>Ket</ets>one + ind<ets>ol</ets>.]</ety> <fld>(Chem.)</fld> <def>One of a series of series of complex nitrogenous substances, represented by methyl ketol and related to indol.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Methyl ketol</b></col>, <cd>a weak organic base, obtained as a white crystalline substance having the odor of feces.</cd></cs><br/
+<p><cs><col>Methyl ketol</col>, <cd>a weak organic base, obtained as a white crystalline substance having the odor of feces.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ketone</ent><br/
@@ -1982,7 +1982,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <hw>Ket"tle</hw> <pr>(k<ecr/t"t'l)</pr>, <pos>n.</pos> <ety>[OE. <ets>ketel</ets>; cf. AS. <ets>cetel</ets>, <ets>cetil</ets>, <ets>cytel</ets>; akin to D. <ets>kjedel</ets>, G. <ets>kessel</ets>, OHG. <ets>chezzil</ets>, Icel. <ets>ketill</ets>, SW. <ets>kittel</ets>, Dan. <ets>kjedel</ets>, Goth. <ets>katils</ets>; all perh. fr. L. <ets>catillus</ets>, dim. of <ets>catinus</ets> a deep vessel, bowl; but cf. also OHG. <ets>chezz<imac/</ets> kettle, Icel. <ets>kati</ets> small ship.]</ety> <def>A metallic vessel, with a wide mouth, often without a cover, used for heating and boiling water or other liguids.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kettle pins</b></col>, <cd>ninepins; skittles.</cd> <mark>[Obs.]</mark> <au>Shelton.</au> -- <col><b>Kettle stitch</b></col> <fld>(Bookbinding)</fld>, <cd>the stitch made in sewing at the head and tail of a book.</cd> <au>Knight.</au></cs><br/
+<p><cs><col>Kettle pins</col>, <cd>ninepins; skittles.</cd> <mark>[Obs.]</mark> <au>Shelton.</au> -- <col>Kettle stitch</col> <fld>(Bookbinding)</fld>, <cd>the stitch made in sewing at the head and tail of a book.</cd> <au>Knight.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kettledrum</ent><br/
@@ -2011,7 +2011,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 <p><sn>2.</sn> <def>A stone mason's hammer.</def> <altsp>[Written also <asp>cavil</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kevel head</b></col> <fld>(Naut.)</fld>, <cd>a projecting end of a timber, used as a kevel.</cd></cs></p>
+<p><cs><col>Kevel head</col> <fld>(Naut.)</fld>, <cd>a projecting end of a timber, used as a kevel.</cd></cs></p>
 
 <p><ent>Kevin</ent><br/
 <ent>Kevel</ent><br/
@@ -2101,7 +2101,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>15.</sn> <fld>(Computers)</fld> <def>A word or other combination of symbols which serves as an index identifying and pointing to a particular record, file, or location which can be retrieved and displayed by a computer program; <as>as, a database using multi-word <ex>keys</ex></as>.  When the <ex>key</ex> is a word, it is also called a <stype>keyword</stype>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Key bed</b></col>. <cd>Same as <cref>Key seat</cref>.</cd> -- <col><b>Key bolt</b></col>, <cd>a bolt which has a mortise near the end, and is secured by a cotter or wedge instead of a nut.</cd> <col><b>Key bugle</b></col>. <cd>See <er>Kent bugle</er>.</cd> -- <mcol><col><b>Key of a position</b></col> <it>or</it> <col><b>Key of a country.</b></col></mcol> <fld>(Mil.)</fld> <cd>See <er>Key</er>, <snr>4</snr>.</cd> -- <col><b>Key seat</b></col> <fld>(Mach.)</fld>, <cd>a bed or groove to receive a key which prevents one part from turning on the other.</cd> -- <col><b>Key way</b></col>, <cd>a channel for a key, in the hole of a piece which is keyed to a shaft; an internal key seat; -- called also <altname>key seat</altname>.</cd> -- <col><b>Key wrench</b></col> <fld>(Mach.)</fld>, <cd>an adjustable wrench in which the movable jaw is made fast by a key.</cd> -- <col><b>Power of the keys</b></col> <fld>(Eccl.)</fld>, <cd>the authority claimed by the ministry in some Christian churches to administer the discipline of the church, and to grant or withhold its privileges; -- so called from the declaration of Christ, <ldquo/I will give unto thee the <xex>keys</xex> of the kingdom of heaven.<rdquo/</cd> <au>Matt. xvi. 19.</au></cs><br/
+<p><cs><col>Key bed</col>. <cd>Same as <cref>Key seat</cref>.</cd> -- <col>Key bolt</col>, <cd>a bolt which has a mortise near the end, and is secured by a cotter or wedge instead of a nut.</cd> <col>Key bugle</col>. <cd>See <er>Kent bugle</er>.</cd> -- <mcol><col>Key of a position</col> <it>or</it> <col>Key of a country.</col></mcol> <fld>(Mil.)</fld> <cd>See <er>Key</er>, <snr>4</snr>.</cd> -- <col>Key seat</col> <fld>(Mach.)</fld>, <cd>a bed or groove to receive a key which prevents one part from turning on the other.</cd> -- <col>Key way</col>, <cd>a channel for a key, in the hole of a piece which is keyed to a shaft; an internal key seat; -- called also <altname>key seat</altname>.</cd> -- <col>Key wrench</col> <fld>(Mach.)</fld>, <cd>an adjustable wrench in which the movable jaw is made fast by a key.</cd> -- <col>Power of the keys</col> <fld>(Eccl.)</fld>, <cd>the authority claimed by the ministry in some Christian churches to administer the discipline of the church, and to grant or withhold its privileges; -- so called from the declaration of Christ, <ldquo/I will give unto thee the <xex>keys</xex> of the kingdom of heaven.<rdquo/</cd> <au>Matt. xvi. 19.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Key</ent><br/
@@ -2117,7 +2117,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>4.</sn> <def>To furnish with a key or keys.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To key up</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>To raise (the whole ring of an arch) off its centering, by driving in the keystone forcibly.</cd> <sd>(b)</sd> <fld>(Mus.)</fld> <cd>To raise the pitch of.</cd> <sd>(c)</sd> <specif>Hence,</specif> <mark>(fig.)</mark>, <cd>to produce nervous tension in; <as>as, the whole team was <ex>keyed up</ex> for the championship game</as>.</cd></cs><br/
+<p><cs><col>To key up</col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>To raise (the whole ring of an arch) off its centering, by driving in the keystone forcibly.</cd> <sd>(b)</sd> <fld>(Mus.)</fld> <cd>To raise the pitch of.</cd> <sd>(c)</sd> <specif>Hence,</specif> <mark>(fig.)</mark>, <cd>to produce nervous tension in; <as>as, the whole team was <ex>keyed up</ex> for the championship game</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>key</ent><br/
@@ -2140,7 +2140,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Keyed</hw> <pr>(k<emac/d)</pr>, <pos>a.</pos> <def>Furnished with keys; <as>as, a <ex>keyed</ex> instrument</as>; also, set to a key, as a tune.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Keyed bugle</b></col>. <cd>See <er>Kent bugle</er>.</cd></cs><br/
+<p><cs><col>Keyed bugle</col>. <cd>See <er>Kent bugle</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Key fruit</ent><br/
@@ -2154,7 +2154,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn> <sd>(a)</sd> <fld>(Carp.)</fld> <def>A hole or excavation in beams intended to be joined together, to receive the key which fastens them.</def> <sd>(b)</sd> <fld>(Mach.)</fld> <def>a mortise for a key or cotter.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Keyhole limpet</b></col> <fld>(Zool.)</fld>, <cd>a marine gastropod of the genus Fissurella and allied genera. See <er>Fissurella</er>.</cd> -- <col><b>Keyhole saw</b></col>, <cd>a narrow, slender saw, used in cutting keyholes, etc., as in doors; a kind of compass saw or fret saw.</cd> -- <col><b>Keyhole urchin</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous clypeastroid sea urchins, of the genera <gen>Melitta</gen>, <gen>Rotula</gen>, and <gen>Encope</gen>; -- so called because they have one or more perforations resembling keyholes.</cd></cs><br/
+<p><cs><col>Keyhole limpet</col> <fld>(Zool.)</fld>, <cd>a marine gastropod of the genus Fissurella and allied genera. See <er>Fissurella</er>.</cd> -- <col>Keyhole saw</col>, <cd>a narrow, slender saw, used in cutting keyholes, etc., as in doors; a kind of compass saw or fret saw.</cd> -- <col>Keyhole urchin</col> <fld>(Zool.)</fld>, <cd>any one of numerous clypeastroid sea urchins, of the genera <gen>Melitta</gen>, <gen>Rotula</gen>, and <gen>Encope</gen>; -- so called because they have one or more perforations resembling keyholes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>keyless</ent><br/
@@ -2335,7 +2335,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><sn>2.</sn>  <def>Portland cement when thrown or blown into the recesses of carved stonework to intensify the shadows.</def></p>
 
-<p><cs><col><b>To put the kibosh on</b></col>, <cd>to dispose of; to squelch; to terminate; put an end to; to do for.</cd> <mark>[Slang]</mark></cs><br/
+<p><cs><col>To put the kibosh on</col>, <cd>to dispose of; to squelch; to terminate; put an end to; to do for.</cd> <mark>[Slang]</mark></cs><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Kiby</ent><br/
@@ -2362,7 +2362,7 @@ The starred mosaic.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>4.</sn> <def>To discontinue; -- usually used of habitual activities; <as>as, to <ex>kick</ex> a habit; he <ex>kicked</ex> his drug habit</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To kick the beam</b></col>, <cd>to fit up and strike the beam; -- said of the lighter arm of a loaded balance; hence, to be found wanting in weight.</cd> <au>Milton.</au> -- <col><b>To kick the bucket</b></col>, <cd>to lose one's life; to die.</cd> <mark>[Colloq. & Low]</mark> -- <col><b>To kick oneself</b></col>, <cd>to experience strong regret; <as>as, he <ex>kicked himself</ex> for not investing in the stock market in 1995</as>.</cd></cs><br/
+<p><cs><col>To kick the beam</col>, <cd>to fit up and strike the beam; -- said of the lighter arm of a loaded balance; hence, to be found wanting in weight.</cd> <au>Milton.</au> -- <col>To kick the bucket</col>, <cd>to lose one's life; to die.</cd> <mark>[Colloq. & Low]</mark> -- <col>To kick oneself</col>, <cd>to experience strong regret; <as>as, he <ex>kicked himself</ex> for not investing in the stock market in 1995</as>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Kick</ent><br/
@@ -2443,7 +2443,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 <syn><b>Syn. --</b> kick, boot.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><col><b>alive and kicking</b></col> <cd>alive and vigorously active.</cd></cs><br/
+<p><cs><col>alive and kicking</col> <cd>alive and vigorously active.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>kickoff</ent><br/
@@ -2643,7 +2643,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>3.</sn> <def>A waiter.</def> <mark>[Old Cant]</mark>  <rj><au>Tatler.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Floating kidney</b></col>. <cd>See <cref>Wandering kidney</cref>, under <er>Wandering</er>.</cd> -- <col><b>Kidney bean</b></col> <fld>(Bot.)</fld>, <cd>a sort of bean; -- so named from its shape. It is of the genus <gen>Phaseolus</gen> (<spn>Phaseolus vulgaris</spn>). See under <er>Bean</er>.</cd> -- <col><b>Kidney ore</b></col> <fld>(Min.)</fld>, <cd>a variety of hematite or iron sesquioxide, occurring in compact kidney-shaped masses.</cd> -- <col><b>Kidney stone</b></col>. <fld>(Min.)</fld> <cd>See <er>Nephrite</er>, and <er>Jade</er>.</cd> -- <col><b>Kidney vetch</b></col> <fld>(Bot.)</fld>, <cd>a leguminous herb of Europe and Asia (<spn>Anthyllis vulneraria</spn>), with cloverlike heads of red or yellow flowers, once used as a remedy for renal disorders, and also to stop the flow of blood from wounds; lady's-fingers.</cd></cs></p>
+<p><cs><col>Floating kidney</col>. <cd>See <cref>Wandering kidney</cref>, under <er>Wandering</er>.</cd> -- <col>Kidney bean</col> <fld>(Bot.)</fld>, <cd>a sort of bean; -- so named from its shape. It is of the genus <gen>Phaseolus</gen> (<spn>Phaseolus vulgaris</spn>). See under <er>Bean</er>.</cd> -- <col>Kidney ore</col> <fld>(Min.)</fld>, <cd>a variety of hematite or iron sesquioxide, occurring in compact kidney-shaped masses.</cd> -- <col>Kidney stone</col>. <fld>(Min.)</fld> <cd>See <er>Nephrite</er>, and <er>Jade</er>.</cd> -- <col>Kidney vetch</col> <fld>(Bot.)</fld>, <cd>a leguminous herb of Europe and Asia (<spn>Anthyllis vulneraria</spn>), with cloverlike heads of red or yellow flowers, once used as a remedy for renal disorders, and also to stop the flow of blood from wounds; lady's-fingers.</cd></cs></p>
 
 <p><ent>Kidney-shaped</ent><br/
 <ent>Kidney-form</ent><br/
@@ -2758,7 +2758,7 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <def>To cancel or forbid publication of (a report, article, etc.), after it has been written; <as>as, they <ex>killed</ex> the article after getting threats of a lawsuit</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To kill time</b></col>, <cd>to busy one's self with something which occupies the attention, or makes the time pass without tediousness.</cd></cs></p>
+<p><cs><col>To kill time</col>, <cd>to busy one's self with something which occupies the attention, or makes the time pass without tediousness.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To murder; assassinate; slay; butcher; destroy. -- To <er>Kill</er>, <er>Murder</er>, <er>Assassinate</er>. To <xex>kill</xex> does not necessarily mean any more than to deprive of life. A man may <xex>kill</xex> another by accident or in self-defense, without the imputation of guilt. To <xex>murder</xex> is to kill with malicious forethought and intention. To <xex>assassinate</xex> is to <xex>murder</xex> suddenly and by stealth. The sheriff may <xex>kill</xex> without <xex>murdering</xex>; the duelist <xex>murders</xex>, but does not <xex>assassinate</xex> his antagonist; the assassin <xex>kills</xex> and <xex>murders</xex>.</syn></p>
 
@@ -3093,7 +3093,7 @@ And snows his power in variable <qex>kinds</qex> !</q> <rj><qau>Spenser.</qau></
 <p><q>Diogenes was asked in a <qex>kind</qex> of scorn: What was the matter that philosophers haunted rich men, and not rich men philosophers?</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>A kind of</b></col>, <cd>something belonging to the class of; something like to; -- said loosely or slightingly.</cd> <col><b>In kind</b></col>, <cd>in the produce or designated commodity itself, as distinguished from its value in money.</cd></cs><br/
+<p><cs><col>A kind of</col>, <cd>something belonging to the class of; something like to; -- said loosely or slightingly.</cd> <col>In kind</col>, <cd>in the produce or designated commodity itself, as distinguished from its value in money.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Tax on tillage was often levied <qex>in kind</qex> upon corn.</q> <rj><qau>Arbuthnot.</qau></rj></p>
@@ -3299,7 +3299,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <mhw>{ <hw>Kin`e*mat"ic</hw> <pr>(?)</pr>, <hw>Kin`e*mat"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Of or pertaining to kinematics.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kinematic curves</b></col>, <cd>curves produced by machinery, or a combination of motions, as distinguished from mathematical curves.</cd></cs><br/
+<p><cs><col>Kinematic curves</col>, <cd>curves produced by machinery, or a combination of motions, as distinguished from mathematical curves.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kinematics</ent><br/
@@ -3345,7 +3345,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <hw>ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/*n<ecr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kinetic energy</b></col>. <cd>See <er>Energy</er>, <pos>n.</pos> 4.</cd></cs><br/
+<p><cs><col>Kinetic energy</col>. <cd>See <er>Energy</er>, <pos>n.</pos> 4.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>kinetics</ent><br/
@@ -3412,7 +3412,7 @@ Rejoicing in the east</q> <rj><qau>Thomson.</qau></rj><br/
 <p><note><hand/ <ex>King</ex> is often used adjectively, or in combination, to denote <xex>pre<eum/minence</xex> or <xex>superiority</xex> in some particular; as, <xex>king</xex>bird; <xex>king</xex> crow; <xex>king</xex> vulture.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Apostolic king</b></col>. <cd>See <er>Apostolic</er>.</cd> -- <mcol><col><b>King-at-arms</b></col>, <it>or</it> <col><b>King-of-arms</b></col></mcol>, <cd>the chief heraldic officer of a country. In England the <xex>king-at-arms</xex> was formerly of great authority. His business is to direct the heralds, preside at their chapters, and have the jurisdiction of armory.  There are three principal kings-at-arms, viz., Garter, Clarencieux, and Norroy. The latter (literally <xex>north roy</xex> or <xex>north king</xex>) officiates north of the Trent.</cd> -- <col><b>King auk</b></col> <fld>(Zool.)</fld>, <cd>the little auk or sea dove.</cd> -- <col><b>King bird of paradise</b></col>. <fld>(Zool.)</fld>, <cd>See <er>Bird of paradise</er>.</cd> -- <col><b>King card</b></col>, <cd>in whist, the best unplayed card of each suit; <as>thus, if the ace and king of a suit have been played, the queen is the <ex>king card</ex> of the suit</as>.</cd> -- <col><b>King Cole</b></col> , <cd>a legendary king of Britain, who is said to have reigned in the third century.</cd> -- <col><b>King conch</b></col> <fld>(Zool.)</fld>, <cd>a large and handsome univalve shell (<spn>Cassis cameo</spn>), found in the West Indies. It is used for making cameos. See <cref>Helmet shell</cref>, under <er>Helmet</er>.</cd> -- <col><b>King Cotton</b></col>, <cd>a popular personification of the great staple production of the southern United States.</cd> -- <col><b>King crab</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The limulus or horseshoe crab. See <er>Limulus</er>.</cd> <sd>(b)</sd> <cd>The large European spider crab or thornback (<spn>Maia squinado</spn>).</cd> <sd>(c)</sd> <cd>A large crab of the northern Pacific (<spn>Paralithodes camtshatica</spn>), especially abundant on the coasts of Alaska and Japan, and popular as a food; called also <altname>Alaskan king crab</altname>.</cd>  -- <col><b>King crow</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A black drongo shrike (<spn>Buchanga atra</spn>) of India; -- so called because, while breeding, they attack and drive away hawks, crows, and other large birds.</cd> <sd>(b)</sd> <cd>The <spn>Dicrurus macrocercus</spn> of India, a crested bird with a long, forked tail. Its color is black, with green and blue reflections. Called also <altname>devil bird</altname>.</cd> -- <col><b>King duck</b></col> <fld>(Zool.)</fld>, <cd>a large and handsome eider duck (<spn>Somateria spectabilis</spn>), inhabiting the arctic regions of both continents.</cd> -- <col><b>King eagle</b></col> <fld>(Zool.)</fld>, <cd>an eagle (<spn>Aquila heliaca</spn>) found in Asia and Southeastern Europe. It is about as large as the golden eagle. Some writers believe it to be the imperial eagle of Rome.</cd> -- <col><b>King hake</b></col> <fld>(Zool.)</fld>, <cd>an American hake (<spn>Phycis regius</spn>), found in deep water along the Atlantic coast.</cd> -- <col><b>King monkey</b></col> <fld>(Zool.)</fld>, <cd>an African monkey (<spn>Colobus polycomus</spn>), inhabiting Sierra Leone.</cd> -- <col><b>King mullet</b></col> <fld>(Zool.)</fld>, <cd>a West Indian red mullet (<spn>Upeneus maculatus</spn>); -- so called on account of its great beauty. Called also <altname>goldfish</altname>.</cd> -- <col><b>King of terrors</b></col>, <cd>death.</cd> -- <col><b>King parrakeet</b></col> <fld>(Zool.)</fld>, <cd>a handsome Australian parrakeet (<spn>Platycercys scapulatus</spn>), often kept in a cage. Its prevailing color is bright red, with the back and wings bright green, the rump blue, and tail black.</cd> -- <col><b>King penguin</b></col> <fld>(Zool.)</fld>, <cd>any large species of penguin of the genus <gen>Aptenodytes</gen>; esp., <spn>Aptenodytes longirostris</spn>, of the Falkland Islands and Kerguelen Land, and <spn>Aptenodytes Patagonica</spn>, of Patagonia.</cd> -- <col><b>King rail</b></col> <fld>(Zool.)</fld>, <cd>a small American rail (<spn>Rallus elegans</spn>), living in fresh-water marshes. The upper parts are fulvous brown, striped with black; the breast is deep cinnamon color.</cd> -- <col><b>King salmon</b></col> <fld>(Zool.)</fld>, <cd>the quinnat. See <er>Quinnat</er>.</cd> -- <mcol><col><b>King's counsel</b></col>, <it>or</it> <col><b>Queen's counsel</b></col></mcol> <fld>(Eng. Law)</fld>, <cd>barristers learned in the law, who have been called within the bar, and selected to be the king's or queen's counsel. They answer in some measure to the advocates of the revenue (<xex>advocati fisci</xex>) among the Romans. They can not be employed against the crown without special license.</cd> <au>Wharton's Law Dict.</au> -- <col><b>King's cushion</b></col>, <cd>a temporary seat made by two persons crossing their hands.</cd> <mark>[Prov. Eng.]</mark> <au>Halliwell.</au> -- <col><b>The king's English</b></col>, <cd>correct or current language of good speakers; pure English.</cd> <au>Shak.</au> -- <mcol><col><b>King's evidence</b></col> <it>or</it> <col><b>Queen's evidence</b></col></mcol>, <cd>testimony in favor of the Crown by a witness who confesses his guilt as an accomplice. See under <er>Evidence</er>.</cd> <mark>[Eng.]</mark> -- <col><b>King's evil</b></col>, <cd>scrofula; -- so called because formerly supposed to be healed by the touch of a king.</cd> -- <col><b>King snake</b></col> <fld>(Zool.)</fld>, <cd>a large, nearly black, harmless snake (<spn>Ophiobolus getulus</spn>) of the Southern United States; -- so called because it kills and eats other kinds of snakes, including even the rattlesnake.</cd> -- <col><b>King's spear</b></col> <fld>(Bot.)</fld>, <cd>the white asphodel (<spn>Asphodelus albus</spn>).</cd> -- <col><b>King's yellow</b></col>, <cd>a yellow pigment, consisting essentially of sulphide and oxide of arsenic; -- called also <altname>yellow orpiment</altname>.</cd> -- <col><b>King tody</b></col> <fld>(Zool.)</fld>, <cd>a small fly-catching bird (<spn>Eurylaimus serilophus</spn>) of tropical America. The head is adorned with a large, spreading, fan-shaped crest, which is bright red, edged with black.</cd> -- <col><b>King vulture</b></col> <fld>(Zool.)</fld>, <cd>a large species of vulture (<spn>Sarcorhamphus papa</spn>), ranging from Mexico to Paraguay, The general color is white. The wings and tail are black, and the naked carunculated head and the neck are briliantly colored with scarlet, yellow, orange, and blue. So called because it drives away other vultures while feeding.</cd> -- <col><b>King wood</b></col>, <cd>a wood from Brazil, called also <altname>violet wood</altname>, beautifully streaked in violet tints, used in turning and small cabinetwork. The tree is probably a species of <gen>Dalbergia</gen>. See <er>Jacaranda</er>.</cd></cs><br/
+<p><cs><col>Apostolic king</col>. <cd>See <er>Apostolic</er>.</cd> -- <mcol><col>King-at-arms</col>, <it>or</it> <col>King-of-arms</col></mcol>, <cd>the chief heraldic officer of a country. In England the <xex>king-at-arms</xex> was formerly of great authority. His business is to direct the heralds, preside at their chapters, and have the jurisdiction of armory.  There are three principal kings-at-arms, viz., Garter, Clarencieux, and Norroy. The latter (literally <xex>north roy</xex> or <xex>north king</xex>) officiates north of the Trent.</cd> -- <col>King auk</col> <fld>(Zool.)</fld>, <cd>the little auk or sea dove.</cd> -- <col>King bird of paradise</col>. <fld>(Zool.)</fld>, <cd>See <er>Bird of paradise</er>.</cd> -- <col>King card</col>, <cd>in whist, the best unplayed card of each suit; <as>thus, if the ace and king of a suit have been played, the queen is the <ex>king card</ex> of the suit</as>.</cd> -- <col>King Cole</col> , <cd>a legendary king of Britain, who is said to have reigned in the third century.</cd> -- <col>King conch</col> <fld>(Zool.)</fld>, <cd>a large and handsome univalve shell (<spn>Cassis cameo</spn>), found in the West Indies. It is used for making cameos. See <cref>Helmet shell</cref>, under <er>Helmet</er>.</cd> -- <col>King Cotton</col>, <cd>a popular personification of the great staple production of the southern United States.</cd> -- <col>King crab</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The limulus or horseshoe crab. See <er>Limulus</er>.</cd> <sd>(b)</sd> <cd>The large European spider crab or thornback (<spn>Maia squinado</spn>).</cd> <sd>(c)</sd> <cd>A large crab of the northern Pacific (<spn>Paralithodes camtshatica</spn>), especially abundant on the coasts of Alaska and Japan, and popular as a food; called also <altname>Alaskan king crab</altname>.</cd>  -- <col>King crow</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A black drongo shrike (<spn>Buchanga atra</spn>) of India; -- so called because, while breeding, they attack and drive away hawks, crows, and other large birds.</cd> <sd>(b)</sd> <cd>The <spn>Dicrurus macrocercus</spn> of India, a crested bird with a long, forked tail. Its color is black, with green and blue reflections. Called also <altname>devil bird</altname>.</cd> -- <col>King duck</col> <fld>(Zool.)</fld>, <cd>a large and handsome eider duck (<spn>Somateria spectabilis</spn>), inhabiting the arctic regions of both continents.</cd> -- <col>King eagle</col> <fld>(Zool.)</fld>, <cd>an eagle (<spn>Aquila heliaca</spn>) found in Asia and Southeastern Europe. It is about as large as the golden eagle. Some writers believe it to be the imperial eagle of Rome.</cd> -- <col>King hake</col> <fld>(Zool.)</fld>, <cd>an American hake (<spn>Phycis regius</spn>), found in deep water along the Atlantic coast.</cd> -- <col>King monkey</col> <fld>(Zool.)</fld>, <cd>an African monkey (<spn>Colobus polycomus</spn>), inhabiting Sierra Leone.</cd> -- <col>King mullet</col> <fld>(Zool.)</fld>, <cd>a West Indian red mullet (<spn>Upeneus maculatus</spn>); -- so called on account of its great beauty. Called also <altname>goldfish</altname>.</cd> -- <col>King of terrors</col>, <cd>death.</cd> -- <col>King parrakeet</col> <fld>(Zool.)</fld>, <cd>a handsome Australian parrakeet (<spn>Platycercys scapulatus</spn>), often kept in a cage. Its prevailing color is bright red, with the back and wings bright green, the rump blue, and tail black.</cd> -- <col>King penguin</col> <fld>(Zool.)</fld>, <cd>any large species of penguin of the genus <gen>Aptenodytes</gen>; esp., <spn>Aptenodytes longirostris</spn>, of the Falkland Islands and Kerguelen Land, and <spn>Aptenodytes Patagonica</spn>, of Patagonia.</cd> -- <col>King rail</col> <fld>(Zool.)</fld>, <cd>a small American rail (<spn>Rallus elegans</spn>), living in fresh-water marshes. The upper parts are fulvous brown, striped with black; the breast is deep cinnamon color.</cd> -- <col>King salmon</col> <fld>(Zool.)</fld>, <cd>the quinnat. See <er>Quinnat</er>.</cd> -- <mcol><col>King's counsel</col>, <it>or</it> <col>Queen's counsel</col></mcol> <fld>(Eng. Law)</fld>, <cd>barristers learned in the law, who have been called within the bar, and selected to be the king's or queen's counsel. They answer in some measure to the advocates of the revenue (<xex>advocati fisci</xex>) among the Romans. They can not be employed against the crown without special license.</cd> <au>Wharton's Law Dict.</au> -- <col>King's cushion</col>, <cd>a temporary seat made by two persons crossing their hands.</cd> <mark>[Prov. Eng.]</mark> <au>Halliwell.</au> -- <col>The king's English</col>, <cd>correct or current language of good speakers; pure English.</cd> <au>Shak.</au> -- <mcol><col>King's evidence</col> <it>or</it> <col>Queen's evidence</col></mcol>, <cd>testimony in favor of the Crown by a witness who confesses his guilt as an accomplice. See under <er>Evidence</er>.</cd> <mark>[Eng.]</mark> -- <col>King's evil</col>, <cd>scrofula; -- so called because formerly supposed to be healed by the touch of a king.</cd> -- <col>King snake</col> <fld>(Zool.)</fld>, <cd>a large, nearly black, harmless snake (<spn>Ophiobolus getulus</spn>) of the Southern United States; -- so called because it kills and eats other kinds of snakes, including even the rattlesnake.</cd> -- <col>King's spear</col> <fld>(Bot.)</fld>, <cd>the white asphodel (<spn>Asphodelus albus</spn>).</cd> -- <col>King's yellow</col>, <cd>a yellow pigment, consisting essentially of sulphide and oxide of arsenic; -- called also <altname>yellow orpiment</altname>.</cd> -- <col>King tody</col> <fld>(Zool.)</fld>, <cd>a small fly-catching bird (<spn>Eurylaimus serilophus</spn>) of tropical America. The head is adorned with a large, spreading, fan-shaped crest, which is bright red, edged with black.</cd> -- <col>King vulture</col> <fld>(Zool.)</fld>, <cd>a large species of vulture (<spn>Sarcorhamphus papa</spn>), ranging from Mexico to Paraguay, The general color is white. The wings and tail are black, and the naked carunculated head and the neck are briliantly colored with scarlet, yellow, orange, and blue. So called because it drives away other vultures while feeding.</cd> -- <col>King wood</col>, <cd>a wood from Brazil, called also <altname>violet wood</altname>, beautifully streaked in violet tints, used in turning and small cabinetwork. The tree is probably a species of <gen>Dalbergia</gen>. See <er>Jacaranda</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>King</ent><br/
@@ -3491,7 +3491,7 @@ Most learned reverend sir, into our <qex>kingdom</qex>.</q> <rj><qau>Shak.</qau>
 <p><sn>3.</sn> <def>An extensive scientific division distinguished by leading or ruling characteristics; a principal division; a department; <as>as, the mineral <ex>kingdom</ex></as>.  In modern biology, the division of life into five <ex>kingdoms</ex> is widely used for classification.</def> <ldquo/The animal and vegetable <xex>kingdoms</xex>.<rdquo/ <rj><qau>Locke.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Animal kingdom</b></col>. <cd>See under <er>Animal</er>.</cd> -- <col><b>Kingdom of God</b></col>. <sd>(a)</sd> <cd>The universe.</cd> <sd>(b)</sd> <cd>That spiritual realm of which God is the acknowledged sovereign.</cd> <sd>(c)</sd> <cd>The authority or dominion of God.</cd> -- <col><b>Mineral kingdom</b></col>. <cd>See under <er>Mineral</er>.</cd> -- <col><b>United Kingdom</b></col>. <cd>See under <er>United</er>.</cd> -- <col><b>Vegetable kingdom</b></col>. <cd>See under <er>Vegetable</er>.</cd></cs></p>
+<p><cs><col>Animal kingdom</col>. <cd>See under <er>Animal</er>.</cd> -- <col>Kingdom of God</col>. <sd>(a)</sd> <cd>The universe.</cd> <sd>(b)</sd> <cd>That spiritual realm of which God is the acknowledged sovereign.</cd> <sd>(c)</sd> <cd>The authority or dominion of God.</cd> -- <col>Mineral kingdom</col>. <cd>See under <er>Mineral</er>.</cd> -- <col>United Kingdom</col>. <cd>See under <er>United</er>.</cd> -- <col>Vegetable kingdom</col>. <cd>See under <er>Vegetable</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Realm; empire; dominion; monarchy; sovereignty; domain.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -3730,7 +3730,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Kip</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The hide of a young or small beef creature, or leather made from it; kipskin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kip leather.</b></col> <cd>See <er>Kipskin</er>.</cd></cs><br/
+<p><cs><col>Kip leather.</col> <cd>See <er>Kipskin</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kip</ent><br/
@@ -3760,7 +3760,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A salmon split open, salted, and dried or smoked; -- so called because salmon after spawning were usually so cured, not being good when fresh.</def> <mark>[Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kipper time</b></col>, <cd>the season in which fishing for salmon is forbidden.</cd> <mark>[Eng. & Scot.]</mark></cs><br/
+<p><cs><col>Kipper time</col>, <cd>the season in which fishing for salmon is forbidden.</cd> <mark>[Eng. & Scot.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kipper</ent><br/
@@ -3880,7 +3880,7 @@ Which as they <qex>kiss</qex> consume.</q> <rj><qau>Shak.</qau></rj><br/
 Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kissing comfit</b></col>, <cd>a perfumed sugarplum to sweeten the breath.</cd> <mark>[Obs or Prov. End.]</mark>  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>Kissing comfit</col>, <cd>a perfumed sugarplum to sweeten the breath.</cd> <mark>[Obs or Prov. End.]</mark>  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kiss</ent><br/
@@ -3960,7 +3960,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <hw>kit</hw>, <pos>n.</pos> <ety>[See <er>Kitten</er>.]</ety> <def>A kitten.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kit fox</b></col> <fld>(Zool.)</fld>, <cd>a small burrowing fox (<spn>Vulpes velox</spn>), inhabiting the region of the Rocky Mountains. It is brownish gray, reddish on the breast and flanks, and white below. Called also <altname>swift fox</altname>.</cd></cs><br/
+<p><cs><col>Kit fox</col> <fld>(Zool.)</fld>, <cd>a small burrowing fox (<spn>Vulpes velox</spn>), inhabiting the region of the Rocky Mountains. It is brownish gray, reddish on the breast and flanks, and white below. Called also <altname>swift fox</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kit</ent><br/
@@ -4014,7 +4014,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <hw>Kit"cat`</hw>, <pos>n.</pos> <def>A game played by striking with a stick small piece of wood, called a <xex>cat</xex>, shaped like two cones united at their bases; tipcat.</def>  <rj><au>Cotton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kitcat roll</b></col> <fld>(Agric.)</fld>, <cd>a roller somewhat in the form of two cones set base to base.</cd> <mark>[Prov. Eng.]</mark></cs><br/
+<p><cs><col>Kitcat roll</col> <fld>(Agric.)</fld>, <cd>a roller somewhat in the form of two cones set base to base.</cd> <mark>[Prov. Eng.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kitchen</ent><br/
@@ -4033,7 +4033,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <p><sn>3.</sn> <def>The staff that works in a kitchen.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Kitchen garden</b></col>. <cd>See under <er>Garden</er>.</cd> -- <col><b>Kitchen lee</b></col>, <cd>dirty soapsuds.</cd> <mark>[Obs.]</mark> <ldquo/A brazen tub of <xex>kitchen lee</xex>.<rdquo/ <au>Ford.</au> -- <col><b>Kitchen stuff</b></col>, <cd>fat collected from pots and pans.</cd>  <rj><au>Donne.</au></rj></cs><br/
+<p><cs><col>Kitchen garden</col>. <cd>See under <er>Garden</er>.</cd> -- <col>Kitchen lee</col>, <cd>dirty soapsuds.</cd> <mark>[Obs.]</mark> <ldquo/A brazen tub of <xex>kitchen lee</xex>.<rdquo/ <au>Ford.</au> -- <col>Kitchen stuff</col>, <cd>fat collected from pots and pans.</cd>  <rj><au>Donne.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kitchen</ent><br/
@@ -4100,7 +4100,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <p><sn>8.</sn> <fld>(Naut.)</fld> <def>A form of drag to be towed under water at any depth up to about forty fathoms, which on striking bottom is upset and rises to the surface; -- called also <altname>sentry</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Flying kites</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Flying</er>.</cd> -- <col><b>Kite falcon</b></col> <fld>(Zool.)</fld>, <cd>an African falcon of the genus <gen>Avicida</gen>, having some resemblance to a kite.</cd></cs><br/
+<p><cs><col>Flying kites</col>. <fld>(Naut.)</fld> <cd>See under <er>Flying</er>.</cd> -- <col>Kite falcon</col> <fld>(Zool.)</fld>, <cd>an African falcon of the genus <gen>Avicida</gen>, having some resemblance to a kite.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kite</ent><br/
@@ -4126,7 +4126,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 <p><q>The sage of his <qex>kith</qex> and the hamlet.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Kith and kin</b></col>, <cd>kindred more or less remote.</cd></cs><br/
+<p><cs><col>Kith and kin</col>, <cd>kindred more or less remote.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Kithara</ent><br/
@@ -4505,7 +4505,7 @@ A minister of her will.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>A playing card marked with the figure of a servant or soldier; a jack; <as>as, the <ex>knave</ex> of hearts</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knave child</b></col>, <cd>a male child.</cd> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
+<p><cs><col>Knave child</col>, <cd>a male child.</cd> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Villain; cheat; rascal; rogue; scoundrel; miscreant.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -4574,7 +4574,7 @@ Thus to make poor females mad.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To press repeatedly with the hands or knuckles, sometimes with a twisting or squeezing motion; -- performed for example on the body of a person as a form of massage.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Kneading trough</b></col>, <cd>a trough or tray in which dough is kneaded.</cd>  <rj><au>Ex. viii. 3.</au></rj></cs><br/
+<p><cs><col>Kneading trough</col>, <cd>a trough or tray in which dough is kneaded.</cd>  <rj><au>Ex. viii. 3.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>knead</ent><br/
@@ -4617,7 +4617,7 @@ Thus to make poor females mad.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Give them title, <qex>knee</qex>, and approbation.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knee breeches</b></col>. <cd>See under <er>Breeches</er>.</cd> -- <mcol><col><b>Knee holly</b></col>, <col><b>Knee holm</b></col></mcol> <fld>(Bot.)</fld>, <cd>butcher's broom.</cd> -- <col><b>Knee joint</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Knee timber</b></col>, <cd>timber with knees or angles in it.</cd> -- <mcol><col><b>Knee tribute</b></col>, or <col><b>Knee worship</b></col></mcol>, <cd>tribute paid by kneeling; worship by genuflection.</cd> <mark>[Obs.]</mark> <ldquo/<xex>Knee tribute</xex> yet unpaid.<rdquo/  <rj><au>Milton.</au></rj></cs><br/
+<p><cs><col>Knee breeches</col>. <cd>See under <er>Breeches</er>.</cd> -- <mcol><col>Knee holly</col>, <col>Knee holm</col></mcol> <fld>(Bot.)</fld>, <cd>butcher's broom.</cd> -- <col>Knee joint</col>. <cd>See in the Vocabulary.</cd> -- <col>Knee timber</col>, <cd>timber with knees or angles in it.</cd> -- <mcol><col>Knee tribute</col>, or <col>Knee worship</col></mcol>, <cd>tribute paid by kneeling; worship by genuflection.</cd> <mark>[Obs.]</mark> <ldquo/<xex>Knee tribute</xex> yet unpaid.<rdquo/  <rj><au>Milton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 817 --></p>
@@ -4829,7 +4829,7 @@ Of hopes laid waste, <qex>knells</qex> in that word, <ldquo/alone<rdquo/.</q> <r
 <p><q>The coward conquest of a wretch's <qex>knife</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knife grass</b></col> <fld>(Bot.)</fld> <cd>a tropical American sedge (<spn>Scleria latifolia</spn>), having leaves with a very sharp and hard edge, like a knife.</cd> -- <col><b>War to the knife</b></col>, <cd>mortal combat; a conflict carried to the last extremity.</cd></cs><br/
+<p><cs><col>Knife grass</col> <fld>(Bot.)</fld> <cd>a tropical American sedge (<spn>Scleria latifolia</spn>), having leaves with a very sharp and hard edge, like a knife.</cd> -- <col>War to the knife</col>, <cd>mortal combat; a conflict carried to the last extremity.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knife</ent><br/
@@ -4850,7 +4850,7 @@ Of hopes laid waste, <qex>knells</qex> in that word, <ldquo/alone<rdquo/.</q> <r
 <hw>Knife"-edge`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mech.)</fld> <def>A piece of steel sharpened to an acute edge or angle, and resting on a smooth surface, serving as the axis of motion of a pendulum, scale beam, or other piece required to oscillate with the least possible friction.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knife-edge file</b></col>. <cd>See <xex>Illust.</xex> of <er>File</er>.</cd></cs><br/
+<p><cs><col>Knife-edge file</col>. <cd>See <xex>Illust.</xex> of <er>File</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knife switch</ent><br/
@@ -4876,7 +4876,7 @@ Of hopes laid waste, <qex>knells</qex> in that word, <ldquo/alone<rdquo/.</q> <r
 <p><sn>4.</sn> <def>A playing card bearing the figure of a knight; the knave or jack.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Carpet knight</b></col>. <cd>See under <er>Carpet</er>.</cd> -- <col><b>Knight of industry</b></col>. <cd>See <cref>Chevalier d'industrie</cref>, under <er>Chevalier</er>.</cd> -- <mcol><col><b>Knight of Malta</b></col>, <col><b>Knight of Rhodes</b></col>, <col><b>Knight of St. John of Jerusalem</b></col></mcol>. <cd>See <er>Hospitaler</er>.</cd> -- <col><b>Knight of the post</b></col>, <cd>one who gained his living by giving false evidence on trials, or false bail; hence, a sharper in general.</cd> <au>Nares.</au> <ldquo/A <xex>knight of the post</xex>, . . . quoth he, for so I am termed; a fellow that will swear you anything for twelve pence.<rdquo/ <au>Nash.</au> -- <col><b>Knight of the shire</b></col>, <cd>in England, one of the representatives of a county in Parliament, in distinction from the representatives of cities and boroughs.</cd> -- <mcol><col><b>Knights commanders</b></col>, <col><b>Knights grand cross</b></col></mcol>, <cd>different classes of the Order of the Bath.</cd> See under <er>Bath</er>, and <er>Companion</er>. <col><b>Knights of labor</b></col>, <cd>a secret organization whose professed purpose is to secure and maintain the rights of workingmen as respects their relations to their employers.</cd> <mark>[U. S.]</mark> -- <col><b>Knights of Pythias</b></col>, <cd>a secret order, founded in Washington, D. C., in 1864, for social and charitable purposes.</cd> -- <col><b>Knights of the Round Table</b></col>, <cd>knights belonging to an order which, according to the legendary accounts, was instituted by the mythical King Arthur. They derived their common title from the table around which they sat on certain solemn days.</cd>  <rj><au>Brande & C.</au></rj></cs><br/
+<p><cs><col>Carpet knight</col>. <cd>See under <er>Carpet</er>.</cd> -- <col>Knight of industry</col>. <cd>See <cref>Chevalier d'industrie</cref>, under <er>Chevalier</er>.</cd> -- <mcol><col>Knight of Malta</col>, <col>Knight of Rhodes</col>, <col>Knight of St. John of Jerusalem</col></mcol>. <cd>See <er>Hospitaler</er>.</cd> -- <col>Knight of the post</col>, <cd>one who gained his living by giving false evidence on trials, or false bail; hence, a sharper in general.</cd> <au>Nares.</au> <ldquo/A <xex>knight of the post</xex>, . . . quoth he, for so I am termed; a fellow that will swear you anything for twelve pence.<rdquo/ <au>Nash.</au> -- <col>Knight of the shire</col>, <cd>in England, one of the representatives of a county in Parliament, in distinction from the representatives of cities and boroughs.</cd> -- <mcol><col>Knights commanders</col>, <col>Knights grand cross</col></mcol>, <cd>different classes of the Order of the Bath.</cd> See under <er>Bath</er>, and <er>Companion</er>. <col>Knights of labor</col>, <cd>a secret organization whose professed purpose is to secure and maintain the rights of workingmen as respects their relations to their employers.</cd> <mark>[U. S.]</mark> -- <col>Knights of Pythias</col>, <cd>a secret order, founded in Washington, D. C., in 1864, for social and charitable purposes.</cd> -- <col>Knights of the Round Table</col>, <cd>knights belonging to an order which, according to the legendary accounts, was instituted by the mythical King Arthur. They derived their common title from the table around which they sat on certain solemn days.</cd>  <rj><au>Brande & C.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knight</ent><br/
@@ -5041,7 +5041,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn> <def>To be united closely; to grow together; <as>as, broken bones will in time <ex>knit</ex> and become sound</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To knit up</b></col>, <cd>to wind up; to conclude; to come to a close.</cd> <ldquo/It remaineth to <xex>knit up</xex> briefly with the nature and compass of the seas.<rdquo/ <mark>[Obs.]</mark>  <rj><au>Holland.</au></rj></cs><br/
+<p><cs><col>To knit up</col>, <cd>to wind up; to conclude; to come to a close.</cd> <ldquo/It remaineth to <xex>knit up</xex> briefly with the nature and compass of the seas.<rdquo/ <mark>[Obs.]</mark>  <rj><au>Holland.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knit</ent><br/
@@ -5078,7 +5078,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn> <def>Union formed by knitting, as of bones.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knitting machine</b></col>, <cd>one of a number of contrivances for mechanically knitting stockings, jerseys, and the like.</cd> -- <col><b>Knitting needle</b></col>, <cd>a stiff rod, as of steel wire, with rounded ends for knitting yarn or threads into a fabric, as in stockings.</cd> -- <col><b>Knitting sheath</b></col>, <cd>a sheath to receive the end of a needle in knitting.</cd></cs><br/
+<p><cs><col>Knitting machine</col>, <cd>one of a number of contrivances for mechanically knitting stockings, jerseys, and the like.</cd> -- <col>Knitting needle</col>, <cd>a stiff rod, as of steel wire, with rounded ends for knitting yarn or threads into a fabric, as in stockings.</cd> -- <col>Knitting sheath</col>, <cd>a sheath to receive the end of a needle in knitting.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knittle</ent><br/
@@ -5114,7 +5114,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Arch.)</fld> <def>See <er>Knop</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knob latch</b></col>, <cd>a latch which can be operated by turning a knob, without using a key.</cd></cs><br/
+<p><cs><col>Knob latch</col>, <cd>a latch which can be operated by turning a knob, without using a key.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knob</ent><br/
@@ -5188,7 +5188,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>3.</sn> <def>To practice evil speaking or fault-finding; to criticize habitually or captiously.</def> <mark>[Slang, U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To knock about</b></col>, <cd>to go about, taking knocks or rough usage; to wander about; to saunter.</cd> <mark>[Colloq.]</mark> <ldquo/<xex>Knocking about town</xex>.<rdquo/ <au>W. Irving.</au> -- <col><b>To knock up</b></col>, <cd>to fail of strength; to become wearied or worn out, as with labor; to give out.</cd> <ldquo/The horses were beginning to <xex>knock up</xex> under the fatigue of such severe service.<rdquo/ <au>De Quincey.</au><-- (b) to make pregnant (vulgar) --> -- <col><b>To knock off</b></col>, <cd>to cease, as from work; to desist.</cd> -- <col><b>To knock under</b></col>, <cd>to yield; to submit; to acknowledge one's self conquered; -- an expression probably borrowed from the practice of <xex>knocking under the table</xex> with the knuckles, when conquered.</cd> <ldquo/Colonel Esmond <xex>knocked under</xex> to his fate.<rdquo/ <au>Thackeray.</au></cs><br/
+<p><cs><col>To knock about</col>, <cd>to go about, taking knocks or rough usage; to wander about; to saunter.</cd> <mark>[Colloq.]</mark> <ldquo/<xex>Knocking about town</xex>.<rdquo/ <au>W. Irving.</au> -- <col>To knock up</col>, <cd>to fail of strength; to become wearied or worn out, as with labor; to give out.</cd> <ldquo/The horses were beginning to <xex>knock up</xex> under the fatigue of such severe service.<rdquo/ <au>De Quincey.</au><-- (b) to make pregnant (vulgar) --> -- <col>To knock off</col>, <cd>to cease, as from work; to desist.</cd> -- <col>To knock under</col>, <cd>to yield; to submit; to acknowledge one's self conquered; -- an expression probably borrowed from the practice of <xex>knocking under the table</xex> with the knuckles, when conquered.</cd> <ldquo/Colonel Esmond <xex>knocked under</xex> to his fate.<rdquo/ <au>Thackeray.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 818 --></p>
@@ -5212,7 +5212,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>4.</sn> <def>To criticise; to find fault with; to disparage.</def> <ldquo/Don't <xex>knock</xex> it if you haven't tried it.<rdquo/<br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>To knock in the head</b></col>, <it>or</it> <col><b>To knock on the head</b></col>, <cd>to stun or kill by a blow upon the head; hence, to put am end to; to defeat, as a scheme or project; to frustrate; to quash.</cd> <mark>[Colloq.]</mark> -- <col><b>To knock off</b></col>. <sd>(a)</sd> <cd>To force off by a blow or by beating.</cd> <sd>(b)</sd> <cd>To assign to a bidder at an auction, by a blow on the counter.</cd> <sd>(c)</sd> <cd>To leave off (work, etc.).</cd> <mark>[Colloq.]</mark> -- <col><b>To knock out</b></col></mcol>, <cd>to force out by a blow or by blows; <as>as, to <ex>knock out</ex> the brains</as>.</cd> -- <col><b>To knock up</b></col>. <sd>(a)</sd> <cd>To arouse by knocking.</cd> <sd>(b)</sd> <cd>To beat or tire out; to fatigue till unable to do more; as, the men were entirely <xex>knocked up</xex>.</cd> <mark>[Colloq.]</mark> <ldquo/The day being exceedingly hot, the want of food had <xex>knocked up</xex> my followers.<rdquo/ <au>Petherick.</au> <sd>(c)</sd> <fld>(Bookbinding)</fld> <cd>To make even at the edges, or to shape into book form, as printed sheets.</cd> <sd>(d)</sd> <cd>To make pregnant.  Often used in passive, "she got knocked up".</cd> <mark>[vulgar]</mark></cs></p>
+<p><cs><mcol><col>To knock in the head</col>, <it>or</it> <col>To knock on the head</col>, <cd>to stun or kill by a blow upon the head; hence, to put am end to; to defeat, as a scheme or project; to frustrate; to quash.</cd> <mark>[Colloq.]</mark> -- <col>To knock off</col>. <sd>(a)</sd> <cd>To force off by a blow or by beating.</cd> <sd>(b)</sd> <cd>To assign to a bidder at an auction, by a blow on the counter.</cd> <sd>(c)</sd> <cd>To leave off (work, etc.).</cd> <mark>[Colloq.]</mark> -- <col>To knock out</col></mcol>, <cd>to force out by a blow or by blows; <as>as, to <ex>knock out</ex> the brains</as>.</cd> -- <col>To knock up</col>. <sd>(a)</sd> <cd>To arouse by knocking.</cd> <sd>(b)</sd> <cd>To beat or tire out; to fatigue till unable to do more; as, the men were entirely <xex>knocked up</xex>.</cd> <mark>[Colloq.]</mark> <ldquo/The day being exceedingly hot, the want of food had <xex>knocked up</xex> my followers.<rdquo/ <au>Petherick.</au> <sd>(c)</sd> <fld>(Bookbinding)</fld> <cd>To make even at the edges, or to shape into book form, as printed sheets.</cd> <sd>(d)</sd> <cd>To make pregnant.  Often used in passive, "she got knocked up".</cd> <mark>[vulgar]</mark></cs></p>
 
 <p><ent>Knock</ent><br/
 <hw>Knock</hw>, <pos>n.</pos> <sn>1.</sn> <def>A blow; a stroke with something hard or heavy; a jar.</def><br/
@@ -5224,7 +5224,7 @@ The generations each to each.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>A loud cry or some great <qex>knock</qex>.</q> <rj><qau>Holland.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knock off</b></col>, <cd>See <er>knock off</er> in the vocabulary.</cd></cs><br/
+<p><cs><col>Knock off</col>, <cd>See <er>knock off</er> in the vocabulary.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Knockabout</ent><br/
@@ -5451,7 +5451,7 @@ The death hymn peals, and the hollow bells <qex>knoll</qex>.</q> <rj><qau>Byron.
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>Any boldly projecting sculptured ornament; esp., the ornamental termination of a pinnacle, and then synonymous with <altname>finial</altname>; -- called also <altname>knob</altname>, and <altname>knosp</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knop sedge</b></col> <fld>(Bot.)</fld>, <cd>the bur reed (<gen>Sparganium</gen>); -- so called from its globular clusters of seed vessels.</cd>  <rj><au>Prior.</au></rj></cs><br/
+<p><cs><col>Knop sedge</col> <fld>(Bot.)</fld>, <cd>the bur reed (<gen>Sparganium</gen>); -- so called from its globular clusters of seed vessels.</cd>  <rj><au>Prior.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knopped</ent><br/
@@ -5728,7 +5728,7 @@ Faithful friend from flattering foe.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>In other hands I have <qex>known</qex> money do good.</q> <rj><qau>Dickens.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To know how</b></col>, <cd>to understand the manner, way, or means; to have requisite information, intelligence, or sagacity. <xex>How</xex> is sometimes omitted.</cd> <ldquo/ If we fear to die, or <xex>know</xex> not to be patient.<rdquo/  <rj><au>Jer. Taylor.</au></rj></cs><br/
+<p><cs><col>To know how</col>, <cd>to understand the manner, way, or means; to have requisite information, intelligence, or sagacity. <xex>How</xex> is sometimes omitted.</cd> <ldquo/ If we fear to die, or <xex>know</xex> not to be patient.<rdquo/  <rj><au>Jer. Taylor.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Know</ent><br/
@@ -5747,7 +5747,7 @@ Faithful friend from flattering foe.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>To be assured; to feel confident.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To know of</b></col>, <cd>to ask, to inquire.</cd> <mark>[Obs.]</mark> <ldquo/ <xex>Know of</xex> your youth, examine well your blood.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>To know of</col>, <cd>to ask, to inquire.</cd> <mark>[Obs.]</mark> <ldquo/ <xex>Know of</xex> your youth, examine well your blood.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knowable</ent><br/
@@ -5942,14 +5942,14 @@ Hath trifled former <qex>knowings</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <def>A contrivance, usually of brass or iron, and furnished with points, worn to protect the hand, to add force to a blow, and to disfigure the person struck;  -- called also <altname>knuckle duster</altname>, <altname>knuckles</altname> or <altname>brass knuckles</altname>.</def> <mark>[Slang.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Knuckle joint</b></col> <fld>(Mach.)</fld>, <cd>a hinge joint, in which a projection with an eye, on one piece, enters a jaw between two corresponding projections with eyes, on another piece, and is retained by a pin which passes through the eyes and forms the pivot.</cd> -- <col><b>Knuckle of veal</b></col> <fld>(Cookery)</fld>, <cd>the lower part of a leg of veal, from the line of the body to the knuckle.</cd></cs><br/
+<p><cs><col>Knuckle joint</col> <fld>(Mach.)</fld>, <cd>a hinge joint, in which a projection with an eye, on one piece, enters a jaw between two corresponding projections with eyes, on another piece, and is retained by a pin which passes through the eyes and forms the pivot.</cd> -- <col>Knuckle of veal</col> <fld>(Cookery)</fld>, <cd>the lower part of a leg of veal, from the line of the body to the knuckle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knuckle</ent><br/
 <hw>Knuc"kle</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knuckled</conjf> <pr>(?)</pr>;; <pos>p. pr. & vb. n.</pos> <conjf>Knuckling</conjf> <pr>(?)</pr>.]</vmorph> <def>To yield; to submit; -- used with <ptcl>down</ptcl>, <ptcl>to</ptcl>, or <ptcl>under</ptcl>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To knuckle to</b></col>. <sd>(a)</sd> <cd>To submit to in a contest; to yield to.</cd> <mark>[Colloq.]</mark> <see>See <cref>To knock under</cref>, under <er>Knock</er>, <pos>v. i.</pos></see>  <sd>(b)</sd> <cd>To apply one's self vigorously or earnestly to; <as>as, <ex>to knuckle to</ex> work.</as></cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To knuckle to</col>. <sd>(a)</sd> <cd>To submit to in a contest; to yield to.</cd> <mark>[Colloq.]</mark> <see>See <cref>To knock under</cref>, under <er>Knock</er>, <pos>v. i.</pos></see>  <sd>(b)</sd> <cd>To apply one's self vigorously or earnestly to; <as>as, <ex>to knuckle to</ex> work.</as></cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Knuckle</ent><br/
@@ -6295,7 +6295,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <p><sn>2.</sn> <def>the practise of adherence to the Jewish ritual law; used mostly in the phrase <col>keep kosher</col>, <pos>v. i.</pos>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>keep kosher</b></col> <cd>To adhere to the rules for eating only kosher food and handling it properly.</cd></cs><br/
+<p><cs><col>keep kosher</col> <cd>To adhere to the rules for eating only kosher food and handling it properly.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Kosher</ent><br/
@@ -6459,7 +6459,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <p><note><hand/  <persfn>Krishna</persfn> is a well-known Hindu deity.  Originally the ethnic god of some powerful confederation of Rajput clans, by fusion with the Vishnu of the older theology Krishna becomes one of the chief divinities of Hinduism.  He is indeed an avatar of <persfn>Vishnu</persfn>, or Vishnu himself. In his physical character mingle myths of fire, lightning, and storm, of heaven and the sun. In the epic he is a hero invincible in war and love, brave, but above all crafty.  He was the son of <persfn>Vasudeva</persfn> and <persfn>Devaki</persfn>, and born at Mathura, on the Yamuna, between Delhi and Agra, among the Yadavas.  Like that of many solar heroes, his birth was beset with peril.  On the night when it took place, his parents had to remove him from the reach of his uncle, <person>King Kansa</person>, who sought his life because he had been warned by a voice from heaven that the eighth son of <persfn>Devaki</persfn> would kill him, and who had regularly made away with his nephews at their birth.  Conveyed across the Yamuna, Krishna was brought up as their son by the shepherd <persfn>Nanda</persfn> and his wife <persfn>Yashoda</persfn>, together with his brother <persfn>Balarama</persfn>, 'Rama the strong,' who had been likewise saved from massacre.  The two brothers grew up among the shepherds, slaying monsters and demons and sporting with the Gopis, the female cowherds of Vrindavana.  Their birth and infancy, their juvenile exploits, and their erotic gambols with the Gopis became in time the essential portion of the legend of Krishna, and their scenes are today the most celebrated centers of his worship.  When grown, the brothers put their uncle <persfn>Kansa</persfn> to death, and Krishna became king of the Yadavas.  He cleared the land of monsters, warred against impious kings, and took part in the war of the sons of <persfn>Pandu</persfn> against those of <persfn>Dhritarashtra</persfn>, as described in the Mahabharata.  He transferred his capital to Dvaraka ('the city of gates'), the gates of the West, since localized in Gujarat.  There he and his race were overtaken by the final catastrophe.  After seeing his brother slain, and the Yadavas kill each other to the last man, he himself perished, wounded in the heel, like Achilles, by the arrow of a hunter.  The bible of the worshipers of Vishnu in his most popular manifestation, that of Krishna, consists of the <er>Bhagavatapurana</er> and the <er>Bhagavadgita</er>. See these words.</note><br/
 [<source>Century Dict. 1906</source>]</p>
 
-<p><cs><col><b>Hare Krishnas</b></col> <cd>A popular name for the group <altname>International Society for Krishna Consciousness</altname> (abbreviated <abbr>ISKCON</abbr>), devotees of Krishna, founded in 1966 by <person>A. C. Bhaktivedanta Swami Prabhupada</person> (born 1896, died 1977).  They are called thus because of their frequent public chanting of the words <ldquo/Hare Krishna<rdquo/.</cd></cs><br/
+<p><cs><col>Hare Krishnas</col> <cd>A popular name for the group <altname>International Society for Krishna Consciousness</altname> (abbreviated <abbr>ISKCON</abbr>), devotees of Krishna, founded in 1966 by <person>A. C. Bhaktivedanta Swami Prabhupada</person> (born 1896, died 1977).  They are called thus because of their frequent public chanting of the words <ldquo/Hare Krishna<rdquo/.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><-- p. 820 --></p>
@@ -6553,7 +6553,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj><br/
 <hw>Ku"lan</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Koulan</er>.</def></p>
 
 <p><ent>Kulturkampf</ent><br/
-<hw>Kul*tur"kampf`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>kultur</ets>, <ets>cultur</ets>, culture + <ets>kampf</ets> fight.]</ety> <fld>(Ger. Hist.)</fld> <def>Lit., culture war; -- a name, originating with <persfn>Virchow</persfn> (1821 - 1902), given to a struggle between the Roman Catholic Church and the German government, chiefly over the latter's efforts to control educational and ecclesiastical appointments in the interest of the political policy of centralization. The struggle began with the passage by the Prussian Diet in May, 1873, of the so-called <col><b>May laws</b></col>, or <col><b>Falk laws</b></col>, aiming at the regulation of the clergy.  Opposition eventually compelled the government to change its policy, and from 1880 to 1887 laws virtually nullifying the May laws were enacted.</def><br/
+<hw>Kul*tur"kampf`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>kultur</ets>, <ets>cultur</ets>, culture + <ets>kampf</ets> fight.]</ety> <fld>(Ger. Hist.)</fld> <def>Lit., culture war; -- a name, originating with <persfn>Virchow</persfn> (1821 - 1902), given to a struggle between the Roman Catholic Church and the German government, chiefly over the latter's efforts to control educational and ecclesiastical appointments in the interest of the political policy of centralization. The struggle began with the passage by the Prussian Diet in May, 1873, of the so-called <col>May laws</col>, or <col>Falk laws</col>, aiming at the regulation of the clergy.  Opposition eventually compelled the government to change its policy, and from 1880 to 1887 laws virtually nullifying the May laws were enacted.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kumiss</ent><br/

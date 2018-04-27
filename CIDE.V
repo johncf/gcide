@@ -119,7 +119,7 @@ In <qex>vacant</qex> or in pensive mood.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Law)</fld> <def>Abandoned; having no heir, possessor, claimant, or occupier; <as>as, a <ex>vacant</ex> estate</as>.</def>  <rj><au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vacant succession</b></col> <fld>(Law)</fld>, <cd>one that is claimed by no person, or where all the heirs are unknown, or where all the known heirs to it have renounced it.</cd>  <rj><au>Burrill.</au></rj>
+<p><cs><col>Vacant succession</col> <fld>(Law)</fld>, <cd>one that is claimed by no person, or where all the heirs are unknown, or where all the known heirs to it have renounced it.</cd>  <rj><au>Burrill.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -351,7 +351,7 @@ In <qex>vacant</qex> or in pensive mood.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <hw>Vac"u*ole</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>vacuus</ets> empty: cf. F. <ets>vacuole</ets>.]</ety> <fld>(Biol.)</fld> <def>A small air cell, or globular space, in the interior of organic cells, either containing air, or a pellucid watery liquid, or some special chemical secretions of the cell protoplasm.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Contractile vacuole</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Contractile</er>, and see <xex>Illusts</xex>. of <er>Infusoria</er>, and <er>Lobosa</er>.</cd> -- <col><b>Food vacuole</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Food</er>, and see <xex>Illust.</xex> of <er>Infusoria</er>.</cd></cs><br/
+<p><cs><col>Contractile vacuole</col>. <fld>(Zool.)</fld> <cd>See under <er>Contractile</er>, and see <xex>Illusts</xex>. of <er>Infusoria</er>, and <er>Lobosa</er>.</cd> -- <col>Food vacuole</col>. <fld>(Zool.)</fld> <cd>See under <er>Food</er>, and see <xex>Illust.</xex> of <er>Infusoria</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vacuometer</ent><br/
@@ -383,7 +383,7 @@ Infinitude; nor <qex>vacuous</qex> the space.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>2.</sn> <def>The condition of rarefaction, or reduction of pressure below that of the atmosphere, in a vessel, as the condenser of a steam engine, which is nearly exhausted of air or steam, etc.; <as>as, a <ex>vacuum</ex> of 26 inches of mercury, or 13 pounds per square inch</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vacuum brake</b></col>, <cd>a kind of continuous brake operated by exhausting the air from some appliance under each car, and so causing the pressure of the atmosphere to apply the brakes.</cd> -- <col><b>Vacuum pan</b></col> <fld>(Technol.)</fld>, <cd>a kind of large closed metallic retort used in sugar making for boiling down sirup. It is so connected with an exhausting apparatus that a partial vacuum is formed within. This allows the evaporation and concentration to take place at a lower atmospheric pressure and hence also at a lower temperature, which largely obviates the danger of burning the sugar, and shortens the process.</cd> -- <col><b>Vacuum pump</b></col>. <cd>Same as <er>Pulsometer</er>, <snr>1</snr>.</cd> -- <col><b>Vacuum tube</b></col> <fld>(Phys.)</fld>, <sd>(a)</sd> <cd>a glass tube provided with platinum electrodes and exhausted, for the passage of the electrical discharge; a Geissler tube.</cd> <sd>(a)</sd> <cd>any tube used in electronic devices, containing a vacuum and used to control the flow of electrons in a circuit, as a vacuum diode, triode, tetrode, or pentode.</cd> -- <col><b>Vacuum valve</b></col>, <cd>a safety valve opening inward to admit air to a vessel in which the pressure is less than that of the atmosphere, in order to prevent collapse.</cd> -- <col><b>Torricellian vacuum</b></col>. <cd>See under <er>Torricellian</er>.</cd></cs><br/
+<p><cs><col>Vacuum brake</col>, <cd>a kind of continuous brake operated by exhausting the air from some appliance under each car, and so causing the pressure of the atmosphere to apply the brakes.</cd> -- <col>Vacuum pan</col> <fld>(Technol.)</fld>, <cd>a kind of large closed metallic retort used in sugar making for boiling down sirup. It is so connected with an exhausting apparatus that a partial vacuum is formed within. This allows the evaporation and concentration to take place at a lower atmospheric pressure and hence also at a lower temperature, which largely obviates the danger of burning the sugar, and shortens the process.</cd> -- <col>Vacuum pump</col>. <cd>Same as <er>Pulsometer</er>, <snr>1</snr>.</cd> -- <col>Vacuum tube</col> <fld>(Phys.)</fld>, <sd>(a)</sd> <cd>a glass tube provided with platinum electrodes and exhausted, for the passage of the electrical discharge; a Geissler tube.</cd> <sd>(a)</sd> <cd>any tube used in electronic devices, containing a vacuum and used to control the flow of electrons in a circuit, as a vacuum diode, triode, tetrode, or pentode.</cd> -- <col>Vacuum valve</col>, <cd>a safety valve opening inward to admit air to a vessel in which the pressure is less than that of the atmosphere, in order to prevent collapse.</cd> -- <col>Torricellian vacuum</col>. <cd>See under <er>Torricellian</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vacuum cleaner</ent><br/
@@ -413,7 +413,7 @@ Infinitude; nor <qex>vacuous</qex> the space.</q> <rj><qau>Milton.</qau></rj><br
 \'d8<hw>Va"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., from L. <ets>vas</ets>, <ets>vadis</ets>, bail.]</ety> <fld>(Law)</fld> <def>Pledge; security; bail. See <er>Mortgage</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vadium vivum</b></col> <ety>[LL.]</ety> <fld>(Law)</fld>, <cd>a living pledge, which exists where an estate is granted until a debt is paid out of its proceeds.</cd></cs><br/
+<p><cs><col>Vadium vivum</col> <ety>[LL.]</ety> <fld>(Law)</fld>, <cd>a living pledge, which exists where an estate is granted until a debt is paid out of its proceeds.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vae</ent><br/
@@ -542,7 +542,7 @@ Flew off, and into strange <qex>vagaries</qex> fell.</q> <rj><qau>Milton.</qau><
 <hw>Vag"i*nant</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>vaginant</ets>. See <er>Vagina</er>.]</ety> <def>Serving to invest, or sheathe; sheathing.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vaginant leaf</b></col> <fld>(Bot.)</fld>, <cd>a leaf investing the stem or branch by its base, which has the form of a tube.</cd></cs><br/
+<p><cs><col>Vaginant leaf</col> <fld>(Bot.)</fld>, <cd>a leaf investing the stem or branch by its base, which has the form of a tube.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vaginated</ent><br/
@@ -653,7 +653,7 @@ Flew off, and into strange <qex>vagaries</qex> fell.</q> <rj><qau>Milton.</qau><
 <p><q>Some legend strange and <qex>vague</qex>.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vague year</b></col>. <cd>See <cref>Sothiac year</cref>, under <er>Sothiac</er>.</cd></cs><br/
+<p><cs><col>Vague year</col>. <cd>See <cref>Sothiac year</cref>, under <er>Sothiac</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Unsettled; indefinite; unfixed; ill-defined; ambiguous; hazy; loose; lax; uncertain.</syn><br/
@@ -794,7 +794,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Vain</hw>, <pos>n.</pos> <def>Vanity; emptiness; -- now used only in the phrase <col>in vain</col>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>For vain</b></col>. <cd>See <cref>In vain</cref>.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col><b>In vain</b></col>, <cd>to no purpose; without effect; ineffectually.</cd> <ldquo/ <xex>In vain</xex> doth valor bleed.<rdquo/ <au>Milton.</au> <ldquo/ <xex>In vain</xex> they do worship me.<rdquo/ <au>Matt. xv. 9.</au> -- <col><b>To take the name of God in vain</b></col>, <cd>to use the name of God with levity or profaneness.</cd></cs><br/
+<p><cs><col>For vain</col>. <cd>See <cref>In vain</cref>.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col>In vain</col>, <cd>to no purpose; without effect; ineffectually.</cd> <ldquo/ <xex>In vain</xex> doth valor bleed.<rdquo/ <au>Milton.</au> <ldquo/ <xex>In vain</xex> they do worship me.<rdquo/ <au>Matt. xv. 9.</au> -- <col>To take the name of God in vain</col>, <cd>to use the name of God with levity or profaneness.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vainglorious</ent><br/
@@ -826,7 +826,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>No <qex>vair</qex> or ermine decked his garment.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Counter vair</b></col> <fld>(Her.)</fld>, <cd>a fur resembling vair, except in the arrangement of the patches or figures.</cd></cs><br/
+<p><cs><col>Counter vair</col> <fld>(Her.)</fld>, <cd>a fur resembling vair, except in the arrangement of the patches or figures.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vairy</ent><br/
@@ -942,7 +942,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>A letter containing professions of love, or a missive of a sentimental, comic, or burlesque character, sent on St. Valentine's Day.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>St. Valentine's Day</b></col>, <cd>a day sacred to St. Valentine; the 14th of February. It was a very old notion, alluded to by Shakespeare, that on this day birds begin to mate. Hence, perhaps, arose the custom of sending love tokens at that time.</cd></cs><br/
+<p><cs><col>St. Valentine's Day</col>, <cd>a day sacred to St. Valentine; the 14th of February. It was a very old notion, alluded to by Shakespeare, that on this day birds begin to mate. Hence, perhaps, arose the custom of sending love tokens at that time.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valentinian</ent><br/
@@ -961,7 +961,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Va*le"ri*an</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>valeriana</ets>, perhaps from some person named <etsep>Valerius</etsep>, or fr. L. <ets>valere</ets> to be strong. powerful, on account of its medicinal virtues: cf. F.  <ets>val<eacute/riane</ets>.]</ety> <fld>(Bot.)</fld> <def>Any plant of the genus <gen>Valeriana</gen>. The root of the officinal valerian (<spn>Valeriana officinalis</spn>) has a strong smell, and is much used in medicine as an antispasmodic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Greek valerian</b></col> <fld>(Bot.)</fld>, <cd>a plant (<spn>Polemonium caeruleum</spn>) with blue or white flowers, and leaves resembling those of the officinal valerian.</cd></cs><br/
+<p><cs><col>Greek valerian</col> <fld>(Bot.)</fld>, <cd>a plant (<spn>Polemonium caeruleum</spn>) with blue or white flowers, and leaves resembling those of the officinal valerian.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valerianaceous</ent><br/
@@ -980,7 +980,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Va*ler"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Valerianic; specifically, designating any one of three metameric acids, of which the typical one (called also <stype>inactive valeric acid</stype>), <chform>C4H9CO2H</chform>, is obtained from <xex>valerian</xex> root and other sources, as a corrosive, mobile, oily liquid, having a strong acid taste, and an odor of old cheese.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Active valeric acid</b></col>, <cd>a metameric variety which turns the plane of polarization to the right, although formed by the oxidation of a levorotatory amyl alcohol.</cd></cs><br/
+<p><cs><col>Active valeric acid</col>, <cd>a metameric variety which turns the plane of polarization to the right, although formed by the oxidation of a levorotatory amyl alcohol.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valeridine</ent><br/
@@ -1018,7 +1018,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Man.)</fld> <def>A kind of goad or stick with a point of iron.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>\'d8<col><b>Valet de chambre</b></col> <pr>(<?/)</pr> <ety>[F.]</ety>, <cd>a body servant, or personal attendant.</cd></cs><br/
+<p><cs>\'d8<col>Valet de chambre</col> <pr>(<?/)</pr> <ety>[F.]</ety>, <cd>a body servant, or personal attendant.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valetudinarian</ent><br/
@@ -1172,7 +1172,7 @@ To crush the pillars which the pile sustain.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Val"lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vallaris</ets>.]</ety> <def>Of or pertaining to a rampart.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vallar crown</b></col> <fld>(Rom. Antiq.)</fld>, <cd>a circular gold crown with palisades, bestowed upon the soldier who first surmounted the rampart and broke into the enemy's camp.</cd></cs><br/
+<p><cs><col>Vallar crown</col> <fld>(Rom. Antiq.)</fld>, <cd>a circular gold crown with palisades, bestowed upon the soldier who first surmounted the rampart and broke into the enemy's camp.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vallar</ent><br/
@@ -1225,7 +1225,7 @@ Of hill and <qex>valley</qex>, rivers, woods, and plains.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <fld>(Arch.)</fld> <sd>(a)</sd> <def>The place of meeting of two slopes of a roof, which have their plates running in different directions, and form on the plan a reentrant angle.</def> <sd>(b)</sd> <def>The depression formed by the meeting of two slopes on a flat roof.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Valley board</b></col> <fld>(Arch.)</fld>, <cd>a board for the reception of the lead gutter in the valley of a roof. The valley board and lead gutter are not usual in the United States.</cd> -- <mcol><col><b>Valley rafter</b></col>, <it>or</it> <col><b>Valley piece</b></col></mcol> <fld>(Arch.)</fld>, <cd>the rafter which supports the valley.</cd> -- <col><b>Valley roof</b></col> <fld>(Arch.)</fld>, <cd>a roof having one or more valleys. See <er>Valley</er>, <snr>2</snr>, above.</cd></cs><br/
+<p><cs><col>Valley board</col> <fld>(Arch.)</fld>, <cd>a board for the reception of the lead gutter in the valley of a roof. The valley board and lead gutter are not usual in the United States.</cd> -- <mcol><col>Valley rafter</col>, <it>or</it> <col>Valley piece</col></mcol> <fld>(Arch.)</fld>, <cd>the rafter which supports the valley.</cd> -- <col>Valley roof</col> <fld>(Arch.)</fld>, <cd>a roof having one or more valleys. See <er>Valley</er>, <snr>2</snr>, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vallum</ent><br/
@@ -1280,7 +1280,7 @@ It eats the sword it fights with.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Val*sal"vi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to <etsep>Valsalva</etsep>, an Italian anatomist of the 17th century.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Valsalvian experiment</b></col> <fld>(Med.)</fld>, <cd>the process of inflating the middle ear by closing the mouth and nostrils, and blowing so as to puff out the cheeks.</cd></cs><br/
+<p><cs><col>Valsalvian experiment</col> <fld>(Med.)</fld>, <cd>the process of inflating the middle ear by closing the mouth and nostrils, and blowing so as to puff out the cheeks.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valuable</ent><br/
@@ -1290,7 +1290,7 @@ It eats the sword it fights with.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Worthy; estimable; deserving esteem; <as>as, a <ex>valuable</ex> friend; a <ex>valuable</ex> companion.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Valuable consideration</b></col> <fld>(Law)</fld>, <cd>an equivalent or compensation having value given for a thing purchased, as money, marriage, services, etc.</cd>  <rj><au>Blackstone.</au>   <au>Bouvier.</au></rj></cs><br/
+<p><cs><col>Valuable consideration</col> <fld>(Law)</fld>, <cd>an equivalent or compensation having value given for a thing purchased, as money, marriage, services, etc.</cd>  <rj><au>Blackstone.</au>   <au>Bouvier.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valuable</ent><br/
@@ -1388,7 +1388,7 @@ And therefore sets this <qex>value</qex> on your life.</q> <rj><qau>Addison.</qa
 <p><sn>10.</sn>  [<pluf>pl.</pluf>] <def>The valuable ingredients to be obtained by treatment from any mass or compound; specif., the precious metals contained in rock, gravel, or the like; <as>as, the vein carries good <ex>values</ex>; the <ex>values</ex> on the hanging walls</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Value received</b></col>, <cd>a phrase usually employed in a bill of exchange or a promissory note, to denote that a consideration has been given for it.</cd>  <rj><au>Bouvier.</au></rj></cs><br/
+<p><cs><col>Value received</col>, <cd>a phrase usually employed in a bill of exchange or a promissory note, to denote that a consideration has been given for it.</cd>  <rj><au>Bouvier.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Value</ent><br/
@@ -1509,7 +1509,7 @@ Repassed.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>One of the pieces or divisions of bivalve or multivalve shells.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Air valve</b></col>, <col><b>Ball valve</b></col>, <col><b>Check valve</b></col></mcol>, <cd>etc. See under <er>Air</er>. <er>Ball</er>, <er>Check</er>, etc.</cd> -- <col><b>Double-beat valve</b></col>, <cd>a kind of balance valve usually consisting of a movable, open-ended, turban-shaped shell provided with two faces of nearly equal diameters, one above another, which rest upon two corresponding seats when the valve is closed.</cd> -- <col><b>Equilibrium valve</b></col>. <sd>(a)</sd> <cd>A balance valve. See under <er>Balance</er>.</cd> <sd>(b)</sd> <cd>A valve for permitting air, steam, water, etc., to pass into or out of a chamber so as to establish or maintain equal pressure within and without.</cd> -- <col><b>Valve chest</b></col> <fld>(Mach.)</fld>, <cd>a chamber in which a valve works; especially <fld>(Steam Engine)</fld>, the steam chest; -- called in England <altname>valve box</altname>, and <altname>valve casing</altname>. See <cref>Steam chest</cref>, under <er>Steam</er>.</cd> -- <col><b>Valve face</b></col> <fld>(Mach.)</fld>, <cd>that part of the surface of a valve which comes in contact with the <cref>valve seat</cref>.</cd> -- <mcol><col><b>Valve gear</b></col>, <it>or</it> <col><b>Valve motion</b></col></mcol> <fld>(Steam Engine)</fld>, <cd>the system of parts by which motion is given to the valve or valves for the distribution of steam in the cylinder.  For an illustration of one form of <ex>valve gear</ex>, see <er>Link motion</er>.</cd> -- <col><b>Valve seat</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>The fixed surface on which a valve rests or against which it presses.</cd> <sd>(b)</sd> <cd>A part or piece on which such a surface is formed.</cd> -- <col><b>Valve stem</b></col> <fld>(Mach.)</fld>, <cd>a rod attached to a valve, for moving it.</cd> -- <col><b>Valve yoke</b></col> <fld>(Mach.)</fld>, <cd>a strap embracing a slide valve and connecting it to the valve stem.</cd></cs><br/
+<p><cs><mcol><col>Air valve</col>, <col>Ball valve</col>, <col>Check valve</col></mcol>, <cd>etc. See under <er>Air</er>. <er>Ball</er>, <er>Check</er>, etc.</cd> -- <col>Double-beat valve</col>, <cd>a kind of balance valve usually consisting of a movable, open-ended, turban-shaped shell provided with two faces of nearly equal diameters, one above another, which rest upon two corresponding seats when the valve is closed.</cd> -- <col>Equilibrium valve</col>. <sd>(a)</sd> <cd>A balance valve. See under <er>Balance</er>.</cd> <sd>(b)</sd> <cd>A valve for permitting air, steam, water, etc., to pass into or out of a chamber so as to establish or maintain equal pressure within and without.</cd> -- <col>Valve chest</col> <fld>(Mach.)</fld>, <cd>a chamber in which a valve works; especially <fld>(Steam Engine)</fld>, the steam chest; -- called in England <altname>valve box</altname>, and <altname>valve casing</altname>. See <cref>Steam chest</cref>, under <er>Steam</er>.</cd> -- <col>Valve face</col> <fld>(Mach.)</fld>, <cd>that part of the surface of a valve which comes in contact with the <cref>valve seat</cref>.</cd> -- <mcol><col>Valve gear</col>, <it>or</it> <col>Valve motion</col></mcol> <fld>(Steam Engine)</fld>, <cd>the system of parts by which motion is given to the valve or valves for the distribution of steam in the cylinder.  For an illustration of one form of <ex>valve gear</ex>, see <er>Link motion</er>.</cd> -- <col>Valve seat</col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>The fixed surface on which a valve rests or against which it presses.</cd> <sd>(b)</sd> <cd>A part or piece on which such a surface is formed.</cd> -- <col>Valve stem</col> <fld>(Mach.)</fld>, <cd>a rod attached to a valve, for moving it.</cd> -- <col>Valve yoke</col> <fld>(Mach.)</fld>, <cd>a strap embracing a slide valve and connecting it to the valve stem.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Valved</ent><br/
@@ -1623,7 +1623,7 @@ Repassed.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Zool.)</fld> <def>Any one of several species of harmless tropical American bats of the genus <gen>Vampyrus</gen>, especially <spn>Vampyrus spectrum</spn>.  These bats feed upon insects and fruit, but were formerly erroneously supposed to suck the blood of man and animals. Called also <altname>false vampire</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vampire bat</b></col> <fld>(Zool.)</fld>, <cd>a vampire, 3.</cd></cs><br/
+<p><cs><col>Vampire bat</col> <fld>(Zool.)</fld>, <cd>a vampire, 3.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- illustr.  Head of False Vampire. (Vampyrus spectrum) --><br/
@@ -1705,7 +1705,7 @@ His <qex>vans</qex> no longer could his flight sustain.</q> <rj><qau>Dryden.</qa
 <hw>Va*nad"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or obtained from, vanadium; containing vanadium; specifically, designating those compounds in which vanadium has a relatively higher valence as contrasted with the <contr>vanadous</contr> compounds; <as>as, <ex>vanadic</ex> oxide</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vanadic acid</b></col> <fld>(Chem.)</fld>, <cd>an acid analogous to phosphoric acid, not known in the free state but forming a well-known series of salts.</cd></cs><br/
+<p><cs><col>Vanadic acid</col> <fld>(Chem.)</fld>, <cd>an acid analogous to phosphoric acid, not known in the free state but forming a well-known series of salts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vanadinite</ent><br/
@@ -1767,7 +1767,7 @@ Sworn foes to sense and law.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Van*dyke"</hw> <pr>(v<acr/n*d<imac/k")</pr>, <pos>a.</pos> <def>Of or pertaining to the style of <persfn>Vandyke</persfn> the painter; used or represented by <persfn>Vandyke</persfn>.</def> <ldquo/His <xex>Vandyke</xex> dress.<rdquo/ <au>Macaulay.</au> <altsp>[Written also <asp>Vandyck</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vandyke brown</b></col> <fld>(Paint.)</fld>, <cd>a pigment of a deep semitransparent brown color, supposed to be the color used by <persfn>Vandyke</persfn> in his pictures.</cd> -- <mcol><col><b>Vandyke collar</b></col> <it>or</it> <col><b>Vandyke cape</b></col></mcol>, <cd>a broad collar or cape of linen and lace with a deep pointed or scalloped edge, worn lying on the shoulders; -- so called from its appearance in pictures by <persfn>Vandyke</persfn>.</cd> -- <col><b>Vandyke edge</b></col>, <cd>an edge having ornamental triangular points.</cd></cs><br/
+<p><cs><col>Vandyke brown</col> <fld>(Paint.)</fld>, <cd>a pigment of a deep semitransparent brown color, supposed to be the color used by <persfn>Vandyke</persfn> in his pictures.</cd> -- <mcol><col>Vandyke collar</col> <it>or</it> <col>Vandyke cape</col></mcol>, <cd>a broad collar or cape of linen and lace with a deep pointed or scalloped edge, worn lying on the shoulders; -- so called from its appearance in pictures by <persfn>Vandyke</persfn>.</cd> -- <col>Vandyke edge</col>, <cd>an edge having ornamental triangular points.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vandyke</ent><br/
@@ -1804,7 +1804,7 @@ Sworn foes to sense and law.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>4.</sn> <def>One of the sights of a compass, quadrant, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vane of a leveling staff</b></col>. <fld>(Surv.)</fld> <cd>Same as <er>Target</er>, <snr>3</snr>.</cd></cs><br/
+<p><cs><col>Vane of a leveling staff</col>. <fld>(Surv.)</fld> <cd>Same as <er>Target</er>, <snr>3</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vanessa</ent><br/
@@ -1844,7 +1844,7 @@ Sworn foes to sense and law.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><note><hand/ As a medicine, <xex>vanilla</xex> is supposed to possess powers analogous to valerian, while, at the same time, it is far more grateful.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cuban vanilla</b></col>, <cd>a sweet-scented West Indian composite shrub (<spn>Eupatorium Dalea</spn>).</cd> -- <col><b>Vanilla bean</b></col>, <cd>the long capsule of the vanilla plant.</cd> -- <col><b>Vanilla grass</b></col>. <cd>Same as <cref>Holy grass</cref>, under <er>Holy</er>.</cd></cs><br/
+<p><cs><col>Cuban vanilla</col>, <cd>a sweet-scented West Indian composite shrub (<spn>Eupatorium Dalea</spn>).</cd> -- <col>Vanilla bean</col>, <cd>the long capsule of the vanilla plant.</cd> -- <col>Vanilla grass</col>. <cd>Same as <cref>Holy grass</cref>, under <er>Holy</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vanillate</ent><br/
@@ -1908,7 +1908,7 @@ Sworn foes to sense and law.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>Van"ish*ing</hw> <pr>(?)</pr>, <def><pos>a. & n.</pos> from <er>Vanish</er>, <pos>v.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vanishing fraction</b></col> <fld>(Math.)</fld>, <cd>a fraction which reduces to the form <frac00/ for a particular value of the variable which enters it, usually in consequence of the existence of a common factor in both terms of the fraction, which factor becomes 0 for this particular value of the variable.</cd> <au>Math. Dict.</au> -- <col><b>Vanishing line</b></col> <fld>(Persp.)</fld>, <cd>the intersection of the parallel of any original plane and the picture; one of the lines converging to the vanishing point.</cd> -- <col><b>Vanishing point</b></col> <fld>(Persp.)</fld>, <cd>the point to which all parallel lines in the same plane tend in the representation.</cd> <au>Gwilt.</au> -- <col><b>Vanishing stress</b></col> <fld>(Phon.)</fld>, <cd>stress of voice upon the closing portion of a syllable.</cd> <au>Rush.</au></cs><br/
+<p><cs><col>Vanishing fraction</col> <fld>(Math.)</fld>, <cd>a fraction which reduces to the form <frac00/ for a particular value of the variable which enters it, usually in consequence of the existence of a common factor in both terms of the fraction, which factor becomes 0 for this particular value of the variable.</cd> <au>Math. Dict.</au> -- <col>Vanishing line</col> <fld>(Persp.)</fld>, <cd>the intersection of the parallel of any original plane and the picture; one of the lines converging to the vanishing point.</cd> -- <col>Vanishing point</col> <fld>(Persp.)</fld>, <cd>the point to which all parallel lines in the same plane tend in the representation.</cd> <au>Gwilt.</au> -- <col>Vanishing stress</col> <fld>(Phon.)</fld>, <cd>stress of voice upon the closing portion of a syllable.</cd> <au>Rush.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vanishment</ent><br/
@@ -2045,7 +2045,7 @@ Succeeding <qex>vanities</qex> she still regards.</q> <rj><qau>Pope.</qau></rj><
 <p><note><hand/ When the server wins this point, it is called <xex>vantage in</xex>; when the receiver, or striker out, wins, it is called <xex>vantage out</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To have at vantage</b></col>, <cd>to have the advantage of; to be in a more favorable condition than.</cd> <ldquo/He <xex>had</xex> them <xex>at vantage</xex>, being tired and harassed with a long march.<rdquo/ <au>Bacon.</au> -- <col><b>Vantage ground</b></col>, <cd>superiority of state or place; the place or condition which gives one an advantage over another.</cd> <ldquo/The <xex>vantage ground</xex> of truth.<rdquo/  <rj><au>Bacon.</au></rj><br/
+<p><cs><col>To have at vantage</col>, <cd>to have the advantage of; to be in a more favorable condition than.</cd> <ldquo/He <xex>had</xex> them <xex>at vantage</xex>, being tired and harassed with a long march.<rdquo/ <au>Bacon.</au> -- <col>Vantage ground</col>, <cd>superiority of state or place; the place or condition which gives one an advantage over another.</cd> <ldquo/The <xex>vantage ground</xex> of truth.<rdquo/  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It is these things that give him his actual standing, and it is from this <qex>vantage ground</qex> that he looks around him.</q> <rj><qau>I. Taylor.</qau></rj>
@@ -2139,7 +2139,7 @@ Succeeding <qex>vanities</qex> she still regards.</q> <rj><qau>Pope.</qau></rj><
 <p><sn>6.</sn> <fld>(Pharm.)</fld> <def>A medicinal agent designed for administration in the form of inhaled vapor.</def>  <rj><au>Brit. Pharm.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vapor bath</b></col>. <sd>(a)</sd> <cd>A bath in vapor; the application of vapor to the body, or part of it, in a close place; also, the place itself.</cd> <sd>(b)</sd> <fld>(Chem.)</fld> <cd>A small metallic drying oven, usually of copper, for drying and heating filter papers, precipitates, etc.; -- called also <altname>air bath</altname>. A modified form is provided with a jacket in the outside partition for holding water, or other volatile liquid, by which the temperature may be limited exactly to the required degree.</cd> -- <col><b>Vapor burner</b></col>, <cd>a burner for burning a vaporized hydrocarbon.</cd> -- <col><b>Vapor density</b></col> <fld>(Chem.)</fld>, <cd>the relative weight of gases and vapors as compared with some specific standard, usually hydrogen, but sometimes air. The vapor density of gases and vaporizable substances as compared with hydrogen, when multiplied by two, or when compared with air and multiplied by 28.8, gives the molecular weight.</cd> -- <col><b>Vapor engine</b></col>, <cd>an engine worked by the expansive force of a vapor, esp. a vapor other than steam.</cd></cs><br/
+<p><cs><col>Vapor bath</col>. <sd>(a)</sd> <cd>A bath in vapor; the application of vapor to the body, or part of it, in a close place; also, the place itself.</cd> <sd>(b)</sd> <fld>(Chem.)</fld> <cd>A small metallic drying oven, usually of copper, for drying and heating filter papers, precipitates, etc.; -- called also <altname>air bath</altname>. A modified form is provided with a jacket in the outside partition for holding water, or other volatile liquid, by which the temperature may be limited exactly to the required degree.</cd> -- <col>Vapor burner</col>, <cd>a burner for burning a vaporized hydrocarbon.</cd> -- <col>Vapor density</col> <fld>(Chem.)</fld>, <cd>the relative weight of gases and vapors as compared with some specific standard, usually hydrogen, but sometimes air. The vapor density of gases and vaporizable substances as compared with hydrogen, when multiplied by two, or when compared with air and multiplied by 28.8, gives the molecular weight.</cd> -- <col>Vapor engine</col>, <cd>an engine worked by the expansive force of a vapor, esp. a vapor other than steam.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vapor</ent><br/
@@ -2199,7 +2199,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <hw>Va"por*er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who vapors; a braggart.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vaporer moth</b></col>. <fld>(Zool.)</fld> <cd>See <er>Orgyia</er>.</cd></cs><br/
+<p><cs><col>Vaporer moth</col>. <fld>(Zool.)</fld> <cd>See <er>Orgyia</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vapor galvanizing</ent><br/
@@ -2251,7 +2251,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <hw>Vap"o*rize</hw> <pr>(v<acr/p"<osl/*r<imac/z <it>or</it> v<amac/"p<etil/r*<imac/z)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Vaporized</conjf> <pr>(-r<imac/zd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Vaporizing</conjf> <pr>(-r<imac/`z<icr/ng)</pr>.]</vmorph> <ety>[Cf. F. <ets>vaporiser</ets>.]</ety> <def>To convert into vapor, as by the application of heat, whether naturally or artificially.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vaporizing surface</b></col>. <fld>(Steam Boilers)</fld> <cd>See <cref>Evaporating surface</cref>, under <er>Evaporate</er>, <pos>v. t.</pos></cd></cs><br/
+<p><cs><col>Vaporizing surface</col>. <fld>(Steam Boilers)</fld> <cd>See <cref>Evaporating surface</cref>, under <er>Evaporate</er>, <pos>v. t.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vaporize</ent><br/
@@ -2342,7 +2342,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <hw>Vare</hw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A weasel.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vare widgeon</b></col> <fld>(Zool.)</fld>, <cd>a female or young male of the smew; a weasel duck; -- so called from the resemblance of the head to that of a <xex>vare</xex>, or weasel.</cd> <mark>[Prov. Eng.]</mark></cs><br/
+<p><cs><col>Vare widgeon</col> <fld>(Zool.)</fld>, <cd>a female or young male of the smew; a weasel duck; -- so called from the resemblance of the head to that of a <xex>vare</xex>, or weasel.</cd> <mark>[Prov. Eng.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Varec</ent><br/
@@ -2377,7 +2377,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><q>His heart, I know, how <qex>variable</qex> and vain!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Variable exhaust</b></col> <fld>(Steam Eng.)</fld>, <cd>a blast pipe with an adjustable opening.</cd> -- <col><b>Variable quantity</b></col> <fld>(Math.)</fld>, <cd>a variable.</cd> -- <col><b>Variable-rate mortgage</b></col> <fld>(Finance)</fld>, <cd>a mortgage whose percentage interest rate varies depending on some agreed standard, such as the prime rate; -- used often in financing the purchase of a home.  Such a mortgage usually has a lower initial interest rate than a <contr>fixed-rate mortgage</contr>, and this permits buyers of a home to finance the purchase a house of higher price than would be possible with a fixed-rate loan.</cd> -- <col><b>Variable stars</b></col> <fld>(Astron.)</fld>, <cd>fixed stars which vary in their brightness, usually in more or less uniform periods.</cd></cs><br/
+<p><cs><col>Variable exhaust</col> <fld>(Steam Eng.)</fld>, <cd>a blast pipe with an adjustable opening.</cd> -- <col>Variable quantity</col> <fld>(Math.)</fld>, <cd>a variable.</cd> -- <col>Variable-rate mortgage</col> <fld>(Finance)</fld>, <cd>a mortgage whose percentage interest rate varies depending on some agreed standard, such as the prime rate; -- used often in financing the purchase of a home.  Such a mortgage usually has a lower initial interest rate than a <contr>fixed-rate mortgage</contr>, and this permits buyers of a home to finance the purchase a house of higher price than would be possible with a fixed-rate loan.</cd> -- <col>Variable stars</col> <fld>(Astron.)</fld>, <cd>fixed stars which vary in their brightness, usually in more or less uniform periods.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Changeable; mutable; fickle; wavering; unsteady; versatile; inconstant.</syn><br/
@@ -2393,7 +2393,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A shifting wind, or one that varies in force.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>Those parts of the sea where a steady wind is not expected, especially the parts between the trade-wind belts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Independent variable</b></col> <fld>(Math.)</fld>, <cd>that one of two or more variables, connected with each other in any way whatever, to which changes are supposed to be given at will. <as>Thus, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, if arbitrary changes are supposed to be given to <it>x</it>, then <it>x</it> is the <ex>independent variable</ex>, and <it>y</it> is called a <it>function</it> of <it>x</it>.</as>  There may be two or more independent variables in an equation or problem.   Cf. <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs><br/
+<p><cs><col>Independent variable</col> <fld>(Math.)</fld>, <cd>that one of two or more variables, connected with each other in any way whatever, to which changes are supposed to be given at will. <as>Thus, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, if arbitrary changes are supposed to be given to <it>x</it>, then <it>x</it> is the <ex>independent variable</ex>, and <it>y</it> is called a <it>function</it> of <it>x</it>.</as>  There may be two or more independent variables in an equation or problem.   Cf. <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Variableness</ent><br/
@@ -2420,7 +2420,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><sn>4.</sn> <fld>(Statistics)</fld>  <def>The expected value of the square of the deviation from the mean of a randomly distributed variable; the second moment about the mean.  This is also the square of the <contr>standard deviation</contr>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>At variance</b></col>, <cd>in disagreement; in a state of dissension or controversy; at enmity.</cd>  <ldquo/What cause brought him so soon <xex>at variance</xex> with himself?<rdquo/  <rj><au>Milton.</au></rj>
+<p><cs><col>At variance</col>, <cd>in disagreement; in a state of dissension or controversy; at enmity.</cd>  <ldquo/What cause brought him so soon <xex>at variance</xex> with himself?<rdquo/  <rj><au>Milton.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -2461,7 +2461,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><sn>5.</sn> <fld>(Alg.)</fld> <def>One of the different arrangements which can be made of any number of quantities taking a certain number of them together.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Annual variation</b></col> <fld>(Astron.)</fld>, <cd>the yearly change in the right ascension or declination of a star, produced by the combined effects of the precession of the equinoxes and the proper motion of the star.</cd> -- <col><b>Calculus of variations</b></col>. <cd>See under <er>Calculus</er>.</cd> -- <col><b>Variation compass</b></col>. <cd>See under <er>Compass</er>.</cd> -- <col><b>Variation of the moon</b></col> <fld>(Astron.)</fld>, <cd>an inequality of the moon's motion, depending on the angular distance of the moon from the sun. It is greater at the octants, and zero at the quadratures.</cd> -- <col><b>Variation of the needle</b></col> <fld>(Geog. & Naut.)</fld>, <cd>the angle included between the true and magnetic meridians of a place; the deviation of the direction of a magnetic needle from the true north and south line; -- called also <altname>declination of the needle</altname>.</cd></cs><br/
+<p><cs><col>Annual variation</col> <fld>(Astron.)</fld>, <cd>the yearly change in the right ascension or declination of a star, produced by the combined effects of the precession of the equinoxes and the proper motion of the star.</cd> -- <col>Calculus of variations</col>. <cd>See under <er>Calculus</er>.</cd> -- <col>Variation compass</col>. <cd>See under <er>Compass</er>.</cd> -- <col>Variation of the moon</col> <fld>(Astron.)</fld>, <cd>an inequality of the moon's motion, depending on the angular distance of the moon from the sun. It is greater at the octants, and zero at the quadratures.</cd> -- <col>Variation of the needle</col> <fld>(Geog. & Naut.)</fld>, <cd>the angle included between the true and magnetic meridians of a place; the deviation of the direction of a magnetic needle from the true north and south line; -- called also <altname>declination of the needle</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Change; vicissitude; variety; deviation.</syn><br/
@@ -2598,7 +2598,7 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <p><sn>3.</sn> <fld>(Theaters)</fld> <def>Such entertainment as in given in variety shows; the production of, or performance in, variety shows.</def> <mark>[Cant]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Geographical variety</b></col> <fld>(Biol.)</fld>, <cd>a variety of any species which is coincident with a geographical region, and is usually dependent upon, or caused by, peculiarities of climate.</cd> -- <col><b>Variety hybrid</b></col> <fld>(Biol.)</fld>, <cd>a cross between two individuals of different varieties of the same species; a mongrel.</cd></cs><br/
+<p><cs><col>Geographical variety</col> <fld>(Biol.)</fld>, <cd>a variety of any species which is coincident with a geographical region, and is usually dependent upon, or caused by, peculiarities of climate.</cd> -- <col>Variety hybrid</col> <fld>(Biol.)</fld>, <cd>a cross between two individuals of different varieties of the same species; a mongrel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Diversity; difference; kind.</syn> <usage> -- <er>Variety</er>, <er>Diversity</er>. A man has a <xex>variety</xex> of employments when he does many things which are not a mere repetition of the same act; he has a <xex>diversity</xex> of employments when the several acts performed are unlike each other, that is, <xex>diverse</xex>. In most cases, where there is <xex>variety</xex> there will be more or less of <xex>diversity</xex>, but not always. One who sells railroad tickets performs a great <xex>variety</xex> of acts in a day, while there is but little <xex>diversity</xex> in his employment.</usage><br/
@@ -2804,7 +2804,7 @@ Of censuring Rome.</q> <rj><qau>Shak.</qau></rj><br/
 The Frenchman gave you.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Varnish tree</b></col> <fld>(Bot.)</fld>, <cd>a tree or shrub from the juice or resin of which varnish is made, as some species of the genus <gen>Rhus</gen>, especially <spn>Rhus vernicifera</spn> of Japan. The black varnish of Burmah is obtained from the <spn>Melanorrh<oe/a usitatissima</spn>, a tall East Indian tree of the Cashew family. See <er>Copal</er>, and <er>Mastic</er>.</cd></cs><br/
+<p><cs><col>Varnish tree</col> <fld>(Bot.)</fld>, <cd>a tree or shrub from the juice or resin of which varnish is made, as some species of the genus <gen>Rhus</gen>, especially <spn>Rhus vernicifera</spn> of Japan. The black varnish of Burmah is obtained from the <spn>Melanorrh<oe/a usitatissima</spn>, a tall East Indian tree of the Cashew family. See <er>Copal</er>, and <er>Mastic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Varnish</ent><br/
@@ -2938,14 +2938,14 @@ Pant in her breast, and <qex>vary</qex> in her face.</q> <rj><qau>Addison.</qau>
 <hw>Va"ry*ing</hw>, <def><pos>a. & n.</pos> from <er>Vary</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Varying hare</b></col> <fld>(Zool.)</fld>, <cd>any hare or rabbit which becomes white in winter, especially the common hare of the Northern United States and Canada.</cd></cs><br/
+<p><cs><col>Varying hare</col> <fld>(Zool.)</fld>, <cd>any hare or rabbit which becomes white in winter, especially the common hare of the Northern United States and Canada.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vas</ent><br/
 \'d8<hw>Vas</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Vasa</plw> <pr>(#)</pr>.</plu> <ety>[L., a vessel. See <er>Vase</er>.]</ety> <fld>(Anat.)</fld> <def>A vessel; a duct.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>\'d8<col><b>Vas deferens</b></col>; <plu><it>pl.</it> <plw>Vasa deferentia</plw>.</plu> <ety>[L. <ets>vas</ets> vessel + <ets>deferens</ets> carrying down.]</ety> <fld>(Anat.)</fld> <cd>The excretory duct of a testicle; a spermatic duct.</cd></cs><br/
+<p><cs>\'d8<col>Vas deferens</col>; <plu><it>pl.</it> <plw>Vasa deferentia</plw>.</plu> <ety>[L. <ets>vas</ets> vessel + <ets>deferens</ets> carrying down.]</ety> <fld>(Anat.)</fld> <cd>The excretory duct of a testicle; a spermatic duct.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vascular</ent><br/
@@ -2958,7 +2958,7 @@ Pant in her breast, and <qex>vary</qex> in her face.</q> <rj><qau>Addison.</qau>
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Of or pertaining to the higher division of plants, that is, the phaenogamous plants, all of which are vascular, in distinction from the cryptogams, which to a large extent are cellular only.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vascular plants</b></col> <fld>(Bot.)</fld>, <cd>plants composed in part of vascular tissue, as all flowering plants and the higher cryptogamous plants, or those of the class <class>Pteridophyta</class>.  Cf. <cref>Cellular plants</cref>, under <er>Cellular</er>.</cd> -- <col><b>Vascular system</b></col> <fld>(Bot.)</fld>, <cd>the body of associated ducts and woody fiber; the fibrovascular part of plants.</cd> -- <col><b>Vascular tissue</b></col> <fld>(Bot.)</fld>, <cd>vegetable tissue composed partly of ducts, or sap tubes.</cd> -- <col><b>Water vascular system</b></col> <fld>(Zool.)</fld>, <cd>a system of vessels in annelids, nemerteans, and many other invertebrates, containing a circulating fluid analogous to blood, but not of the same composition. In annelids the fluid which they contain is usually red, but in some it is green, in others yellow, or whitish.</cd></cs><br/
+<p><cs><col>Vascular plants</col> <fld>(Bot.)</fld>, <cd>plants composed in part of vascular tissue, as all flowering plants and the higher cryptogamous plants, or those of the class <class>Pteridophyta</class>.  Cf. <cref>Cellular plants</cref>, under <er>Cellular</er>.</cd> -- <col>Vascular system</col> <fld>(Bot.)</fld>, <cd>the body of associated ducts and woody fiber; the fibrovascular part of plants.</cd> -- <col>Vascular tissue</col> <fld>(Bot.)</fld>, <cd>vegetable tissue composed partly of ducts, or sap tubes.</cd> -- <col>Water vascular system</col> <fld>(Zool.)</fld>, <cd>a system of vessels in annelids, nemerteans, and many other invertebrates, containing a circulating fluid analogous to blood, but not of the same composition. In annelids the fluid which they contain is usually red, but in some it is green, in others yellow, or whitish.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vascularity</ent><br/
@@ -3019,7 +3019,7 @@ Nor silver <qex>vases</qex> took the forming mold.</q> <rj><qau>Pope.</qau></rj>
 <hw>Vas"i*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vas</ets> a vessel + <ets>-form</ets>.]</ety> <fld>(Biol.)</fld> <def>Having the form of a vessel, or duct.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vasiform tissue</b></col> <fld>(Bot.)</fld>, <cd>tissue containing vessels, or ducts.</cd></cs><br/
+<p><cs><col>Vasiform tissue</col> <fld>(Bot.)</fld>, <cd>tissue containing vessels, or ducts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vasoconstrictor</ent><br/
@@ -3062,7 +3062,7 @@ Nor silver <qex>vases</qex> took the forming mold.</q> <rj><qau>Pope.</qau></rj>
 <hw>Vas`o*mo"tor</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vas</ets> a vessel + <ets>motor</ets> that which moves fr. <ets>movere</ets> to move.]</ety> <fld>(Physiol.)</fld> <def>Causing movement in the walls of vessels; <as>as, the <ex>vasomotor</ex> mechanisms; the <ex>vasomotor</ex> nerves, a system of nerves distributed over the muscular coats of the blood vessels.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vasomotor center</b></col>, <cd>the chief dominating or general center which supplies all the unstriped muscles of the arterial system with motor nerves, situated in a part of the medulla oblongata; a center of reflex action by the working of which afferent impulses are changed into efferent, -- vasomotor impulses leading either to dilation or constriction of the blood vessels.</cd></cs><br/
+<p><cs><col>Vasomotor center</col>, <cd>the chief dominating or general center which supplies all the unstriped muscles of the arterial system with motor nerves, situated in a part of the medulla oblongata; a center of reflex action by the working of which afferent impulses are changed into efferent, -- vasomotor impulses leading either to dilation or constriction of the blood vessels.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vassal</ent><br/
@@ -3075,7 +3075,7 @@ Nor silver <qex>vases</qex> took the forming mold.</q> <rj><qau>Pope.</qau></rj>
 <p><sn>2.</sn> <def>A subject; a dependent; a servant; a bondman; a slave.</def>  <ldquo/The <xex>vassals</xex> of his anger.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Rear vassal</b></col>, <cd>the vassal of a vassal; an arriere vassal.</cd></cs><br/
+<p><cs><col>Rear vassal</col>, <cd>the vassal of a vassal; an arriere vassal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vassal</ent><br/
@@ -3242,7 +3242,7 @@ It sounded.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ The word is often used to indicate the papal authority.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Thunders of the Vatican</b></col>, <cd>the anathemas, or denunciations, of the pope.</cd></cs><br/
+<p><cs><col>Thunders of the Vatican</col>, <cd>the anathemas, or denunciations, of the pope.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vatican Council</ent><br/
@@ -3342,7 +3342,7 @@ It sounded.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ The <xex>l</xex> in this word was formerly often suppressed in pronunciation.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Barrel vault</b></col>, <col><b>Cradle vault</b></col>, <col><b>Cylindrical vault</b></col>, <it>or</it> <col><b>Wagon vault</b></col></mcol> <fld>(Arch.)</fld>, <cd>a kind of vault having two parallel abutments, and the same section or profile at all points.  It may be <xex>rampant</xex>, as over a staircase (see <cref>Rampant vault</cref>, under <er>Rampant</er>), or curved in plan, as around the apse of a church.</cd> -- <col><b>Coved vault</b></col>. <fld>(Arch.)</fld> <cd>See under 1st <er>Cove</er>, <pos>v. t.</pos></cd> -- <col><b>Groined vault</b></col> <fld>(Arch.)</fld>, <cd>a vault having groins, that is, one in which different cylindrical surfaces intersect one another, as distinguished from a <xex>barrel</xex>, or <xex>wagon</xex>, <xex>vault</xex>.</cd> -- <col><b>Rampant vault</b></col>. <fld>(Arch.)</fld> <cd>See under <er>Rampant</er>.</cd> -- <col><b>Ribbed vault</b></col> <fld>(Arch.)</fld>, <cd>a vault differing from others in having solid ribs which bear the weight of the vaulted surface. True Gothic vaults are of this character.</cd> -- <col><b>Vault light</b></col>, <cd>a partly glazed plate inserted in a pavement or ceiling to admit light to a vault below.</cd></cs><br/
+<p><cs><mcol><col>Barrel vault</col>, <col>Cradle vault</col>, <col>Cylindrical vault</col>, <it>or</it> <col>Wagon vault</col></mcol> <fld>(Arch.)</fld>, <cd>a kind of vault having two parallel abutments, and the same section or profile at all points.  It may be <xex>rampant</xex>, as over a staircase (see <cref>Rampant vault</cref>, under <er>Rampant</er>), or curved in plan, as around the apse of a church.</cd> -- <col>Coved vault</col>. <fld>(Arch.)</fld> <cd>See under 1st <er>Cove</er>, <pos>v. t.</pos></cd> -- <col>Groined vault</col> <fld>(Arch.)</fld>, <cd>a vault having groins, that is, one in which different cylindrical surfaces intersect one another, as distinguished from a <xex>barrel</xex>, or <xex>wagon</xex>, <xex>vault</xex>.</cd> -- <col>Rampant vault</col>. <fld>(Arch.)</fld> <cd>See under <er>Rampant</er>.</cd> -- <col>Ribbed vault</col> <fld>(Arch.)</fld>, <cd>a vault differing from others in having solid ribs which bear the weight of the vaulted surface. True Gothic vaults are of this character.</cd> -- <col>Vault light</col>, <cd>a partly glazed plate inserted in a pavement or ceiling to admit light to a vault below.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vault</ent><br/
@@ -3586,14 +3586,14 @@ With other promises and other <qex>vaunts</qex>.</q> <rj><qau>Milton.</qau></rj>
 <p><q>an ordinary community which is hostile or friendly as passion or as interest may <qex>veer</qex> about.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To veer and haul</b></col> <fld>(Naut.)</fld>, <cd>to vary the course or direction; -- said of the wind, which <xex>veers</xex> aft and <xex>hauls</xex> forward. The wind is also said to <xex>veer</xex> when it shifts with the sun.</cd></cs><br/
+<p><cs><col>To veer and haul</col> <fld>(Naut.)</fld>, <cd>to vary the course or direction; -- said of the wind, which <xex>veers</xex> aft and <xex>hauls</xex> forward. The wind is also said to <xex>veer</xex> when it shifts with the sun.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veer</ent><br/
 <hw>Veer</hw>, <pos>v. t.</pos> <def>To direct to a different course; to turn; to wear; <as>as, to <ex>veer</ex>, or wear, a vessel</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To veer and haul</b></col> <fld>(Naut.)</fld>, <cd>to pull tight and slacken alternately.</cd> <au>Totten.</au> -- <mcol><col><b>To veer away</b></col> <it>or</it> <col><b>To veer out</b></col></mcol> <fld>(Naut.)</fld>, <cd>to let out; to slacken and let run; to pay out; <as>as, <ex>to veer away</ex> the cable; <ex>to veer out</ex> a rope</as>.</cd></cs><br/
+<p><cs><col>To veer and haul</col> <fld>(Naut.)</fld>, <cd>to pull tight and slacken alternately.</cd> <au>Totten.</au> -- <mcol><col>To veer away</col> <it>or</it> <col>To veer out</col></mcol> <fld>(Naut.)</fld>, <cd>to let out; to slacken and let run; to pay out; <as>as, <ex>to veer away</ex> the cable; <ex>to veer out</ex> a rope</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veerable</ent><br/
@@ -3641,13 +3641,13 @@ Of <qex>vegetable</qex> gold.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Consisting of, or comprising, plants; <as>as, the <ex>vegetable</ex> kingdom</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vegetable alkali</b></col> <fld>(Chem.)</fld>, <cd>an alkaloid.</cd> -- <col><b>Vegetable brimstone</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Vegetable sulphur</cref>, below.</cd> -- <col><b>Vegetable butter</b></col> <fld>(Bot.)</fld>, <cd>a name of several kinds of concrete vegetable oil; as that produced by the Indian butter tree, the African shea tree, and the <spn>Pentadesma butyracea</spn>, a tree of the order <ord>Guttiferae</ord>, also African. Still another kind is pressed from the seeds of cocoa (<gen>Theobroma</gen>).</cd> -- <col><b>Vegetable flannel</b></col>, <cd>a textile material, manufactured in Germany from pine-needle wool, a down or fiber obtained from the leaves of the <spn>Pinus sylvestris</spn>.</cd> -- <col><b>Vegetable ivory</b></col>. <cd>See <cref>Ivory nut</cref>, under <er>Ivory</er>.</cd> -- <col><b>Vegetable jelly</b></col>. <cd>See <er>Pectin</er>.</cd> -- <col><b>Vegetable kingdom</b></col>. <fld>(Nat. Hist.)</fld> <cd>See the last Phrase, below.</cd> -- <col><b>Vegetable leather</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>A shrubby West Indian spurge (<spn>Euphorbia punicea</spn>), with leathery foliage and crimson bracts.</cd> <sd>(b)</sd> <cd>See <cref>Vegetable leather</cref>, under <er>Leather</er>.</cd> -- <col><b>Vegetable marrow</b></col> <fld>(Bot.)</fld>, <cd>an egg-shaped gourd, commonly eight to ten inches long.  It is noted for the very tender quality of its flesh, and is a favorite culinary vegetable in England.  It has been said to be of Persian origin, but is now thought to have been derived from a form of the American pumpkin.</cd> -- <col><b>Vegetable oyster</b></col> <fld>(Bot.)</fld>, <cd>the oyster plant. See under <er>Oyster</er>.</cd> -- <col><b>Vegetable parchment</b></col>, <cd>papyrine.</cd> -- <col><b>Vegetable sheep</b></col> <fld>(Bot.)</fld>, <cd>a white woolly plant (<spn>Raoulia eximia</spn>) of New Zealand, which grows in the form of large fleecy cushions on the mountains.</cd> -- <col><b>Vegetable silk</b></col>, <cd>a cottonlike, fibrous material obtained from the coating of the seeds of a Brazilian tree (<spn>Chorisia speciosa</spn>).  It is used for various purposes, as for stuffing cushions, and the like, but is incapable of being spun on account of a want of cohesion among the fibers.</cd> -- <col><b>Vegetable sponge</b></col>. <cd>See 1st <er>Loof</er>.</cd> -- <col><b>Vegetable sulphur</b></col>, <cd>the fine and highly inflammable spores of the club moss (<spn>Lycopodium clavatum</spn>); witch meal.</cd> -- <col><b>Vegetable tallow</b></col>, <cd>a substance resembling tallow, obtained from various plants; as, <cref>Chinese vegetable tallow</cref>, obtained from the seeds of the tallow tree. <cref>Indian vegetable tallow</cref> is a name sometimes given to piney tallow.</cd> -- <col><b>Vegetable wax</b></col>, <cd>a waxy excretion on the leaves or fruits of certain plants, as the bayberry.</cd></cs><br/
+<p><cs><col>Vegetable alkali</col> <fld>(Chem.)</fld>, <cd>an alkaloid.</cd> -- <col>Vegetable brimstone</col>. <fld>(Bot.)</fld> <cd>See <cref>Vegetable sulphur</cref>, below.</cd> -- <col>Vegetable butter</col> <fld>(Bot.)</fld>, <cd>a name of several kinds of concrete vegetable oil; as that produced by the Indian butter tree, the African shea tree, and the <spn>Pentadesma butyracea</spn>, a tree of the order <ord>Guttiferae</ord>, also African. Still another kind is pressed from the seeds of cocoa (<gen>Theobroma</gen>).</cd> -- <col>Vegetable flannel</col>, <cd>a textile material, manufactured in Germany from pine-needle wool, a down or fiber obtained from the leaves of the <spn>Pinus sylvestris</spn>.</cd> -- <col>Vegetable ivory</col>. <cd>See <cref>Ivory nut</cref>, under <er>Ivory</er>.</cd> -- <col>Vegetable jelly</col>. <cd>See <er>Pectin</er>.</cd> -- <col>Vegetable kingdom</col>. <fld>(Nat. Hist.)</fld> <cd>See the last Phrase, below.</cd> -- <col>Vegetable leather</col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>A shrubby West Indian spurge (<spn>Euphorbia punicea</spn>), with leathery foliage and crimson bracts.</cd> <sd>(b)</sd> <cd>See <cref>Vegetable leather</cref>, under <er>Leather</er>.</cd> -- <col>Vegetable marrow</col> <fld>(Bot.)</fld>, <cd>an egg-shaped gourd, commonly eight to ten inches long.  It is noted for the very tender quality of its flesh, and is a favorite culinary vegetable in England.  It has been said to be of Persian origin, but is now thought to have been derived from a form of the American pumpkin.</cd> -- <col>Vegetable oyster</col> <fld>(Bot.)</fld>, <cd>the oyster plant. See under <er>Oyster</er>.</cd> -- <col>Vegetable parchment</col>, <cd>papyrine.</cd> -- <col>Vegetable sheep</col> <fld>(Bot.)</fld>, <cd>a white woolly plant (<spn>Raoulia eximia</spn>) of New Zealand, which grows in the form of large fleecy cushions on the mountains.</cd> -- <col>Vegetable silk</col>, <cd>a cottonlike, fibrous material obtained from the coating of the seeds of a Brazilian tree (<spn>Chorisia speciosa</spn>).  It is used for various purposes, as for stuffing cushions, and the like, but is incapable of being spun on account of a want of cohesion among the fibers.</cd> -- <col>Vegetable sponge</col>. <cd>See 1st <er>Loof</er>.</cd> -- <col>Vegetable sulphur</col>, <cd>the fine and highly inflammable spores of the club moss (<spn>Lycopodium clavatum</spn>); witch meal.</cd> -- <col>Vegetable tallow</col>, <cd>a substance resembling tallow, obtained from various plants; as, <cref>Chinese vegetable tallow</cref>, obtained from the seeds of the tallow tree. <cref>Indian vegetable tallow</cref> is a name sometimes given to piney tallow.</cd> -- <col>Vegetable wax</col>, <cd>a waxy excretion on the leaves or fruits of certain plants, as the bayberry.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1598 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vegetable kingdom</b></col> <fld>(Nat. Hist.)</fld>, <cd>that primary division of living things which includes all plants.</cd> <note>The classes of the vegetable kingdom have been grouped differently by various botanists. The following is one of the best of the many arrangements of the principal subdivisions.<br/
+<p><cs><col>Vegetable kingdom</col> <fld>(Nat. Hist.)</fld>, <cd>that primary division of living things which includes all plants.</cd> <note>The classes of the vegetable kingdom have been grouped differently by various botanists. The following is one of the best of the many arrangements of the principal subdivisions.<br/
 [<source>1913 Webster</source>]</p>
 
 <p><--- Note: this section was divided into two columns, the right-hand column being delimited and separated from the left-hand column by a long brace on its left side.  The portion in the right-hand column of each of these two divisions is instead included here within braces {}. The definitions of the divisions were in the left-hand column, centered on the right-hand segments. --></p>
@@ -3746,7 +3746,7 @@ See life dissolving <qex>vegetate</qex> again.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>An exuberant morbid outgrowth upon any part, especially upon the valves of the heart.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vegetation of salts</b></col> <fld>(Old Chem.)</fld>, <cd>a crystalline growth of an arborescent form.</cd></cs><br/
+<p><cs><col>Vegetation of salts</col> <fld>(Old Chem.)</fld>, <cd>a crystalline growth of an arborescent form.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vegetative</ent><br/
@@ -3924,7 +3924,7 @@ Her unadorn<eacute/d golden tresses wore.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>Same as <er>Velum</er>, <snr>3</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To take the veil</b></col> <fld>(Eccl.)</fld>, <cd>to receive or be covered with, a veil, as a nun, in token of retirement from the world; to become a nun.</cd></cs><br/
+<p><cs><col>To take the veil</col> <fld>(Eccl.)</fld>, <cd>to receive or be covered with, a veil, as a nun, in token of retirement from the world; to become a nun.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veil</ent><br/
@@ -4144,7 +4144,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 <hw>Vel"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>velim</ets>, F. <ets>v<eacute/lin</ets>, fr. L. <ets>vitulinus</ets> of a calf, fr. <ets>vitulus</ets> a calf. See <er>Veal</er>.]</ety> <def>A fine kind of parchment, usually made from calfskin, and rendered clear and white, -- used as for writing upon, and for binding books.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vellum cloth</b></col>, <cd>a fine kind of cotton fabric, made very transparent, and used as a tracing cloth.</cd></cs><br/
+<p><cs><col>Vellum cloth</col>, <cd>a fine kind of cotton fabric, made very transparent, and used as a tracing cloth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vellumy</ent><br/
@@ -4176,7 +4176,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>2.</sn> <fld>(Mech.)</fld> <def>Rate of motion; the relation of motion to time, measured by the number of units of space passed over by a moving body or point in a unit of time, usually the number of feet passed over in a second. See the Note under <er>Speed</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Angular velocity</b></col>. <cd>See under <er>Angular</er>.</cd> -- <col><b>Initial velocity</b></col>, <cd>the velocity of a moving body at starting; especially, the velocity of a projectile as it leaves the mouth of a firearm from which it is discharged.</cd> -- <col><b>Relative velocity</b></col>, <cd>the velocity with which a body approaches or recedes from another body, whether both are moving or only one.</cd> -- <col><b>Uniform velocity</b></col>, <cd>velocity in which the same number of units of space are described in each successive unit of time.</cd> -- <col><b>Variable velocity</b></col>, <cd>velocity in which the space described varies from instant to instant, either increasing or decreasing; -- in the former case called <xex>accelerated velocity</xex>, in the latter, <xex>retarded velocity</xex>; the acceleration or retardation itself being also either <xex>uniform</xex> or <xex>variable</xex>.</cd> -- <col><b>Virtual velocity</b></col>. <cd>See under <er>Virtual</er>.</cd></cs><br/
+<p><cs><col>Angular velocity</col>. <cd>See under <er>Angular</er>.</cd> -- <col>Initial velocity</col>, <cd>the velocity of a moving body at starting; especially, the velocity of a projectile as it leaves the mouth of a firearm from which it is discharged.</cd> -- <col>Relative velocity</col>, <cd>the velocity with which a body approaches or recedes from another body, whether both are moving or only one.</cd> -- <col>Uniform velocity</col>, <cd>velocity in which the same number of units of space are described in each successive unit of time.</cd> -- <col>Variable velocity</col>, <cd>velocity in which the space described varies from instant to instant, either increasing or decreasing; -- in the former case called <xex>accelerated velocity</xex>, in the latter, <xex>retarded velocity</xex>; the acceleration or retardation itself being also either <xex>uniform</xex> or <xex>variable</xex>.</cd> -- <col>Virtual velocity</col>. <cd>See under <er>Virtual</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In <xex>variable velocity</xex>, the velocity, strictly, at any given instant, is the rate of motion at that instant, and is expressed by the units of space, which, if the velocity at that instant were continued uniform during a unit of time, would be described in the unit of time; thus, the velocity of a falling body at a given instant is the number of feet which, if the motion which the body has at that instant were continued uniformly for one second, it would pass through in the second. The scientific sense of <xex>velocity</xex> differs from the popular sense in being applied to all rates of motion, however slow, while the latter implies more or less rapidity or quickness of motion.</note><br/
@@ -4247,7 +4247,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>3.</sn> <def>Something likened to velvet{1} in being soft or luxurious; <as>as, a lawn of <ex>velvet</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Cotton velvet</b></col>, <cd>an imitation of velvet, made of cotton.</cd> -- <col><b>Velvet cork</b></col>, <cd>the best kind of cork bark, supple, elastic, and not woody or porous.</cd> -- <col><b>Velvet crab</b></col> <fld>(Zool.)</fld>, <cd>a European crab (<spn>Portunus puber</spn>).  When adult the black carapace is covered with a velvety pile.  Called also <altname>lady crab</altname>, and <altname>velvet fiddler</altname>.</cd> -- <col><b>Velvet dock</b></col> <fld>(Bot.)</fld>, <cd>the common mullein.</cd> -- <col><b>Velvet duck</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A large European sea duck, or scoter (<spn>Oidemia fusca</spn>).  The adult male is glossy, velvety black, with a white speculum on each wing, and a white patch behind each eye.</cd> <sd>(b)</sd> <cd>The American whitewinged scoter. See <er>Scoter</er>.</cd> -- <col><b>Velvet flower</b></col> <fld>(Bot.)</fld>, <cd>love-lies-bleeding. See under <er>Love</er>.</cd> -- <col><b>Velvet grass</b></col> <fld>(Bot.)</fld>, <cd>a tall grass (<spn>Holcus lanatus</spn>) with velvety stem and leaves; -- called also <altname>soft grass</altname>.</cd> -- <col><b>Velvet runner</b></col> <fld>(Zool.)</fld>, <cd>the water rail; -- so called from its quiet, stealthy manner of running.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Velvet scoter</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Velvet duck</cref>, above.</cd> -- <col><b>Velvet sponge</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Sponge</er>.</cd>  -- <col><b>in velvet</b></col> <cd>having a coating of velvet{2} over the antlers; in the annual stage where the antlers are still growing; -- of deer.</cd> </cs><br/
+<p><cs><col>Cotton velvet</col>, <cd>an imitation of velvet, made of cotton.</cd> -- <col>Velvet cork</col>, <cd>the best kind of cork bark, supple, elastic, and not woody or porous.</cd> -- <col>Velvet crab</col> <fld>(Zool.)</fld>, <cd>a European crab (<spn>Portunus puber</spn>).  When adult the black carapace is covered with a velvety pile.  Called also <altname>lady crab</altname>, and <altname>velvet fiddler</altname>.</cd> -- <col>Velvet dock</col> <fld>(Bot.)</fld>, <cd>the common mullein.</cd> -- <col>Velvet duck</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A large European sea duck, or scoter (<spn>Oidemia fusca</spn>).  The adult male is glossy, velvety black, with a white speculum on each wing, and a white patch behind each eye.</cd> <sd>(b)</sd> <cd>The American whitewinged scoter. See <er>Scoter</er>.</cd> -- <col>Velvet flower</col> <fld>(Bot.)</fld>, <cd>love-lies-bleeding. See under <er>Love</er>.</cd> -- <col>Velvet grass</col> <fld>(Bot.)</fld>, <cd>a tall grass (<spn>Holcus lanatus</spn>) with velvety stem and leaves; -- called also <altname>soft grass</altname>.</cd> -- <col>Velvet runner</col> <fld>(Zool.)</fld>, <cd>the water rail; -- so called from its quiet, stealthy manner of running.</cd> <mark>[Prov. Eng.]</mark> -- <col>Velvet scoter</col>. <fld>(Zool.)</fld> <cd>Same as <cref>Velvet duck</cref>, above.</cd> -- <col>Velvet sponge</col>. <fld>(Zool.)</fld> <cd>See under <er>Sponge</er>.</cd>  -- <col>in velvet</col> <cd>having a coating of velvet{2} over the antlers; in the annual stage where the antlers are still growing; -- of deer.</cd> </cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Velvet</ent><br/
@@ -4286,7 +4286,7 @@ Love, sweetness, goodness, in her person shined.</q> <rj><qau>Milton.</qau></rj>
 \'d8<hw>Ve"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Venae</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Vein</er>.]</ety> <def>A vein.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vena cava</b></col>; <plu><it>pl.</it> <plw>Venae cavae</plw>.</plu> <ety>[L., literally, hollow vein.]</ety> <fld>(Anat.)</fld> <cd>Any one of the great systemic veins connected directly with the heart.</cd>-- <col><b>Vena contracta</b></col>. <ety>[L., literally, contracted vein.]</ety> <fld>(Hydraulics)</fld> <cd>The contracted portion of a liquid jet at and near the orifice from which it issues.</cd> -- <col><b>Vena portae</b></col>; <plu><it>pl.</it> <plw>Venae portae</plw>.</plu> <ety>[L., literally, vein of the entrance.]</ety> <fld>(Anat.)</fld> <cd>The portal vein of the liver. See under <er>Portal</er>.</cd></cs><br/
+<p><cs><col>Vena cava</col>; <plu><it>pl.</it> <plw>Venae cavae</plw>.</plu> <ety>[L., literally, hollow vein.]</ety> <fld>(Anat.)</fld> <cd>Any one of the great systemic veins connected directly with the heart.</cd>-- <col>Vena contracta</col>. <ety>[L., literally, contracted vein.]</ety> <fld>(Hydraulics)</fld> <cd>The contracted portion of a liquid jet at and near the orifice from which it issues.</cd> -- <col>Vena portae</col>; <plu><it>pl.</it> <plw>Venae portae</plw>.</plu> <ety>[L., literally, vein of the entrance.]</ety> <fld>(Anat.)</fld> <cd>The portal vein of the liver. See under <er>Portal</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Venada</ent><br/
@@ -4444,7 +4444,7 @@ This, from no <qex>venal</qex> or ungrateful muse.</q> <rj><qau>Pope.</qau></rj>
 <hw>Ven*due"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>vendue</ets>, from F. <ets>vendre</ets>, p. p. <ets>vendu</ets>, <ets>vendue</ets>, to sell.]</ety> <def>A public sale of anything, by outcry, to the highest bidder; an auction.</def>  <mark>[Obsoles.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vendue master</b></col>, <cd>one who is authorized to sell any property by vendue; an auctioneer.</cd> <mark>[Obsoles.]</mark></cs><br/
+<p><cs><col>Vendue master</col>, <cd>one who is authorized to sell any property by vendue; an auctioneer.</cd> <mark>[Obsoles.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veneer</ent><br/
@@ -4459,7 +4459,7 @@ This, from no <qex>venal</qex> or ungrateful muse.</q> <rj><qau>Pope.</qau></rj>
 <hw>Ve*neer"</hw>, <pos>n.</pos> <ety>[Cf. G. <ets>furnier</ets> or <ets>fournier</ets>.  See <er>Veneer</er>, <pos>v. t.</pos>]</ety> <def>A thin leaf or layer of a more valuable or beautiful material for overlaying an inferior one, especially such a thin leaf of wood to be glued to a cheaper wood; hence, external show; gloss; false pretense.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Veneer moth</b></col> <fld>(Zool.)</fld>, <cd>any moth of the genus <gen>Chilo</gen>; -- so called because the mottled colors resemble those of veneering.</cd></cs><br/
+<p><cs><col>Veneer moth</col> <fld>(Zool.)</fld>, <cd>any moth of the genus <gen>Chilo</gen>; -- so called because the mottled colors resemble those of veneering.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veneering</ent><br/
@@ -4622,7 +4622,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ve*ne"tian</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. It. <ets>Veneziano</ets>, L. <ets>Venetianus</ets>.]</ety> <def>Of or pertaining to Venice in Italy.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venetian blind</b></col>, <cd>a blind for windows, doors, etc., made of thin slats, either fixed at a certain angle in the shutter, or movable, and in the latter case so disposed as to overlap each other when closed, and to show a series of open spaces for the admission of air and light when in other positions.</cd> -- <col><b>Venetian carpet</b></col>, <cd>an inexpensive carpet, used for passages and stairs, having a woolen warp which conceals the weft; the pattern is therefore commonly made up of simple stripes.</cd> -- <col><b>Venetian chalk</b></col>, <cd>a white compact talc or steatite, used for marking on cloth, etc.</cd> -- <col><b>Venetian door</b></col> <fld>(Arch.)</fld>, <cd>a door having long, narrow windows or panes of glass on the sides.</cd> -- <col><b>Venetian glass</b></col>, <cd>a kind of glass made by the Venetians, for decorative purposes, by the combination of pieces of glass of different colors fused together and wrought into various ornamental patterns.</cd> -- <col><b>Venetian red</b></col>, <cd>a brownish red color, prepared from sulphate of iron; -- called also <altname>scarlet ocher</altname>.</cd> -- <col><b>Venetian soap</b></col>. <cd>See <cref>Castile soap</cref>, under <er>Soap</er>.</cd> -- <col><b>Venetian sumac</b></col> <fld>(Bot.)</fld>, <cd>a South European tree (<spn>Rhus Cotinus</spn>) which yields the yellow dyewood called <prod>fustet</prod>; -- also called <altname>smoke tree</altname>.</cd> -- <col><b>Venetian window</b></col> <fld>(Arch.)</fld>, <cd>a window consisting of a main window with an arched head, having on each side a long and narrow window with a square head.</cd></cs><br/
+<p><cs><col>Venetian blind</col>, <cd>a blind for windows, doors, etc., made of thin slats, either fixed at a certain angle in the shutter, or movable, and in the latter case so disposed as to overlap each other when closed, and to show a series of open spaces for the admission of air and light when in other positions.</cd> -- <col>Venetian carpet</col>, <cd>an inexpensive carpet, used for passages and stairs, having a woolen warp which conceals the weft; the pattern is therefore commonly made up of simple stripes.</cd> -- <col>Venetian chalk</col>, <cd>a white compact talc or steatite, used for marking on cloth, etc.</cd> -- <col>Venetian door</col> <fld>(Arch.)</fld>, <cd>a door having long, narrow windows or panes of glass on the sides.</cd> -- <col>Venetian glass</col>, <cd>a kind of glass made by the Venetians, for decorative purposes, by the combination of pieces of glass of different colors fused together and wrought into various ornamental patterns.</cd> -- <col>Venetian red</col>, <cd>a brownish red color, prepared from sulphate of iron; -- called also <altname>scarlet ocher</altname>.</cd> -- <col>Venetian soap</col>. <cd>See <cref>Castile soap</cref>, under <er>Soap</er>.</cd> -- <col>Venetian sumac</col> <fld>(Bot.)</fld>, <cd>a South European tree (<spn>Rhus Cotinus</spn>) which yields the yellow dyewood called <prod>fustet</prod>; -- also called <altname>smoke tree</altname>.</cd> -- <col>Venetian window</col> <fld>(Arch.)</fld>, <cd>a window consisting of a main window with an arched head, having on each side a long and narrow window with a square head.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Venetian</ent><br/
@@ -4667,7 +4667,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Harm; mischief.</def>  <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>What a vengeance</b></col>, <it>or</it> <col><b>What the vengeance</b></col></mcol>, <cd>what! -- emphatically.</cd> <mark>[Obs.]</mark> <ldquo/But <xex>what a vengeance</xex> makes thee fly!<rdquo/ <au>Hudibras.</au> <ldquo/<xex>What the vengeance</xex>! Could he not speak 'em fair?<rdquo/ <au>Shak.</au> -- <col><b>With a vengeance</b></col>, <sd>(a)</sd> <cd>with great violence; <as>as, to strike <ex>with a vengeance</ex></as>.</cd> <mark>[Colloq.]</mark> <sd>(b)</sd> <cd>with even greater intensity; <as>as, to return one's insult <ex>with a vengeance</ex></as>.</cd></cs><br/
+<p><cs><mcol><col>What a vengeance</col>, <it>or</it> <col>What the vengeance</col></mcol>, <cd>what! -- emphatically.</cd> <mark>[Obs.]</mark> <ldquo/But <xex>what a vengeance</xex> makes thee fly!<rdquo/ <au>Hudibras.</au> <ldquo/<xex>What the vengeance</xex>! Could he not speak 'em fair?<rdquo/ <au>Shak.</au> -- <col>With a vengeance</col>, <sd>(a)</sd> <cd>with great violence; <as>as, to strike <ex>with a vengeance</ex></as>.</cd> <mark>[Colloq.]</mark> <sd>(b)</sd> <cd>with even greater intensity; <as>as, to return one's insult <ex>with a vengeance</ex></as>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vengeancely</ent><br/
@@ -4700,7 +4700,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Allowed; permitted.</def>  <mark>[Obs.]</mark> <ldquo/Permitting him the while <xex>venial</xex> discourse unblamed.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venial sin</b></col> <fld>(R. C. Theol.)</fld>, <cd>a sin which weakens, but does not wholly destroy, sanctifying grace, as do mortal, or deadly, sins.</cd></cs><br/
+<p><cs><col>Venial sin</col> <fld>(R. C. Theol.)</fld>, <cd>a sin which weakens, but does not wholly destroy, sanctifying grace, as do mortal, or deadly, sins.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Ve"ni*al*ly</wf>, <pos>adv.</pos> -- <wf>Ve"ni*al*ness</wf>, <pos>n.</pos></wordforms>  <rj><au>Bp. Hall.</au></rj><br/
@@ -4756,7 +4756,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Noxious; mischievous; malignant; spiteful; <as>as, a <ex>venomous</ex> progeny; a <ex>venomous</ex> writer</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venomous snake</b></col> <fld>(Zool.)</fld>, <cd>any serpent which has poison glands and fangs, whether dangerous to man or not. These serpents constitute two tribes, the viperine serpents, or Solenoglypha, and the cobralike serpents, or Proteroglypha. The former have perforated, erectile fangs situated in the front part of the upper jaw, and are without ordinary teeth behind the fangs; the latter have permanently erect and grooved fangs, with ordinary maxillary teeth behind them.</cd></cs><br/
+<p><cs><col>Venomous snake</col> <fld>(Zool.)</fld>, <cd>any serpent which has poison glands and fangs, whether dangerous to man or not. These serpents constitute two tribes, the viperine serpents, or Solenoglypha, and the cobralike serpents, or Proteroglypha. The former have perforated, erectile fangs situated in the front part of the upper jaw, and are without ordinary teeth behind the fangs; the latter have permanently erect and grooved fangs, with ordinary maxillary teeth behind them.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Ven"om*ous*ly</wf>, <pos>adv.</pos> -- <wf>Ven"om*ous*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -4783,7 +4783,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Marked with veins; veined; <as>as, a <ex>venous</ex> leaf</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venous leaf</b></col> <fld>(Bot.)</fld>, <cd>a leaf having vessels branching, or variously divided, over its surface.</cd> -- <col><b>Venous hum</b></col> <fld>(Med.)</fld>, <cd>a humming sound, or bruit, heard during auscultation of the veins of the neck in anaemia.</cd> -- <col><b>Venous pulse</b></col> <fld>(Physiol.)</fld>, <cd>the pulse, or rhythmic contraction, sometimes seen in a vein, as in the neck, when there is an obstruction to the passage of blood from the auricles to the ventricles, or when there is an abnormal rigidity in the walls of the greater vessels. There is normally no pulse in a vein.</cd></cs><br/
+<p><cs><col>Venous leaf</col> <fld>(Bot.)</fld>, <cd>a leaf having vessels branching, or variously divided, over its surface.</cd> -- <col>Venous hum</col> <fld>(Med.)</fld>, <cd>a humming sound, or bruit, heard during auscultation of the veins of the neck in anaemia.</cd> -- <col>Venous pulse</col> <fld>(Physiol.)</fld>, <cd>the pulse, or rhythmic contraction, sometimes seen in a vein, as in the neck, when there is an obstruction to the passage of blood from the auricles to the ventricles, or when there is an abnormal rigidity in the walls of the greater vessels. There is normally no pulse in a vein.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vent</ent><br/
@@ -4843,7 +4843,7 @@ Which first should issue from the narrow <qex>vent</qex>.</q> <rj><qau>Pope.</qa
 <p><q>Thou didst make tolerable <qex>vent</qex> of thy travel.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To give vent to</b></col>, <cd>to suffer to escape; to let out; to pour forth; as, <xex>to give vent to</xex> anger.</cd> -- <col><b>To take vent</b></col>, <cd>to escape; to be made public.</cd> <mark>[R.]</mark> -- <col><b>Vent feather</b></col> <fld>(Zool.)</fld>, <cd>one of the anal, or crissal, feathers of a bird.</cd> -- <col><b>Vent field</b></col> <fld>(Gun.)</fld>, <cd>a flat raised surface around a vent.</cd> -- <col><b>Vent piece</b></col>. <fld>(Gun.)</fld> <sd>(a)</sd> <cd>A bush.  See 4th <er>Bush</er>, <pos>n.</pos>, <snr>2</snr>.</cd> <sd>(b)</sd> <cd>A breech block.</cd></cs><br/
+<p><cs><col>To give vent to</col>, <cd>to suffer to escape; to let out; to pour forth; as, <xex>to give vent to</xex> anger.</cd> -- <col>To take vent</col>, <cd>to escape; to be made public.</cd> <mark>[R.]</mark> -- <col>Vent feather</col> <fld>(Zool.)</fld>, <cd>one of the anal, or crissal, feathers of a bird.</cd> -- <col>Vent field</col> <fld>(Gun.)</fld>, <cd>a flat raised surface around a vent.</cd> -- <col>Vent piece</col>. <fld>(Gun.)</fld> <sd>(a)</sd> <cd>A bush.  See 4th <er>Bush</er>, <pos>n.</pos>, <snr>2</snr>.</cd> <sd>(b)</sd> <cd>A breech block.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vent</ent><br/
@@ -4995,7 +4995,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <sd>(a)</sd> <def>Of or pertaining to that surface of a carpel, petal, etc., which faces toward the center of a flower.</def>  <sd>(b)</sd> <def>Of or pertaining to the lower side or surface of a creeping moss or other low flowerless plant.  Opposed to <ant>dorsal</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ventral fins</b></col> <fld>(Zool.)</fld>, <cd>the posterior pair of fins of a fish. They are often situated beneath the belly, but sometimes beneath the throat.</cd> -- <col><b>Ventral segment</b></col>. <fld>(Acoustics)</fld> <cd>See <er>Loop</er>, <pos>n.</pos>, <snr>5</snr>.</cd></cs><br/
+<p><cs><col>Ventral fins</col> <fld>(Zool.)</fld>, <cd>the posterior pair of fins of a fish. They are often situated beneath the belly, but sometimes beneath the throat.</cd> -- <col>Ventral segment</col>. <fld>(Acoustics)</fld> <cd>See <er>Loop</er>, <pos>n.</pos>, <snr>5</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ventricle</ent><br/
@@ -5022,7 +5022,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <mhw>{ <hw>Ven"tri*cose`</hw> <pr>(?)</pr>, <hw>Ven"tri*cous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[NL. <ets>ventricosus</ets>, fr. L. <ets>venter</ets> belly.]</ety> <fld>(Nat. Hist.)</fld> <def>Swelling out on one side or unequally; bellied; ventricular; <as>as, a <ex>ventricose</ex> corolla</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ventricose shell</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A spiral shell having the body whorls rounded or swollen in the middle.</cd> <sd>(b)</sd> <cd>A bivalve shell in which the valves are strongly convex.</cd></cs><br/
+<p><cs><col>Ventricose shell</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A spiral shell having the body whorls rounded or swollen in the middle.</cd> <sd>(b)</sd> <cd>A bivalve shell in which the valves are strongly convex.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ventricular</ent><br/
@@ -5060,7 +5060,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <hw>Ven*tril"o*quist</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who practices, or is skilled in, ventriloquism.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ventriloquist monkey</b></col> <fld>(Zool.)</fld>, <cd>the onappo; -- so called from the character of its cry.</cd></cs><br/
+<p><cs><col>Ventriloquist monkey</col> <fld>(Zool.)</fld>, <cd>the onappo; -- so called from the character of its cry.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ventriloquize</ent><br/
@@ -5103,7 +5103,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><q>My <qex>ventures</qex> are not in one bottom trusted.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At a venture</b></col>, <cd>at hazard; without seeing the end or mark; without foreseeing the issue; at random.</cd></cs><br/
+<p><cs><col>At a venture</col>, <cd>at hazard; without seeing the end or mark; without foreseeing the issue; at random.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A certain man drew a bow <qex>at a venture</qex>.</q> <rj><qau>1 Kings xxii. 34.</qau></rj><br/
@@ -5125,7 +5125,7 @@ Her goodly visage and her beauty's pride.</q> <rj><qau>Fairfax.</qau></rj><br/
 <p><q>Who freights a ship to <qex>venture</qex> on the seas.</q> <rj><qau>J. Dryden, Jr.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To venture at</b></col>, <it>or</it> <col><b>To venture on</b></col> <it>or</it> <col><b>To venture upon</b></col></mcol>, <cd>to dare to engage in; to attempt without any certainty of success; <as>as, it is rash <ex>to venture upon</ex> such a project</as>.</cd> <ldquo/When I <xex>venture at</xex> the comic style.<rdquo/  <rj><au>Waller.</au></rj></cs><br/
+<p><cs><mcol><col>To venture at</col>, <it>or</it> <col>To venture on</col> <it>or</it> <col>To venture upon</col></mcol>, <cd>to dare to engage in; to attempt without any certainty of success; <as>as, it is rash <ex>to venture upon</ex> such a project</as>.</cd> <ldquo/When I <xex>venture at</xex> the comic style.<rdquo/  <rj><au>Waller.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Venture</ent><br/
@@ -5187,7 +5187,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>A bout; a hit; a turn.  See <er>Venew</er>.</def>  <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To lay a venue</b></col> <fld>(Law)</fld>, <cd>to allege a place.</cd></cs><br/
+<p><cs><col>To lay a venue</col> <fld>(Law)</fld>, <cd>to allege a place.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Venule</ent><br/
@@ -5211,7 +5211,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of marine bivalve shells of the genus <gen>Venus</gen> or family <fam>Veneridae</fam>. Many of these shells are large, and ornamented with beautiful frills; others are smooth, glossy, and handsomely colored. Some of the larger species, as the round clam, or quahog, are valued for food.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venus's basin</b></col> <fld>(Bot.)</fld>, <cd>the wild teasel; -- so called because the connate leaf bases form a kind of receptacle for water, which was formerly gathered for use in the toilet. Also called <altname>Venus's bath</altname>.</cd> -- <col><b>Venus's basket</b></col> <fld>(Zool.)</fld>, <cd>an elegant, cornucopia-shaped, hexactinellid sponge (<spn>Euplectella speciosa</spn>) native of the East Indies. It consists of glassy, transparent, siliceous fibers interwoven and soldered together so as to form a firm network, and has long, slender, divergent anchoring fibers at the base by means of which it stands erect in the soft mud at the bottom of the sea. Called also <altname>Venus's flower basket</altname>, and <altname>Venus's purse</altname>.</cd> -- <col><b>Venus's comb</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Same as <er>Lady's comb</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A species of <gen>Murex</gen> (<spn>Murex tenuispinus</spn>). It has a long, tubular canal, with a row of long, slender spines along both of its borders, and rows of similar spines covering the body of the shell. Called also <altname>Venus's shell</altname>.</cd> -- <col><b>Venus's fan</b></col> <fld>(Zool.)</fld>, <cd>a common reticulated, fanshaped gorgonia (<spn>Gorgonia flabellum</spn>) native of Florida and the West Indies. When fresh the color is purple or yellow, or a mixture of the two.</cd> -- <col><b>Venus's flytrap</b></col>. <fld>(Bot.)</fld> <cd>See <er>Flytrap</er>, <snr>2</snr>.</cd> -- <col><b>Venus's girdle</b></col> <fld>(Zool.)</fld>, <cd>a long, flat, ribbonlike, very delicate, transparent and iridescent ctenophore (<spn>Cestum Veneris</spn>) which swims in the open sea. Its form is due to the enormous development of two spheromeres.  See <xex>Illust.</xex> in Appendix.</cd> -- <col><b>Venus's hair</b></col> <fld>(Bot.)</fld>, <cd>a delicate and graceful fern (<spn>Adiantum Capillus-Veneris</spn>) having a slender, black and shining stem and branches.</cd> -- <col><b>Venus's hair stone</b></col> <fld>(Min.)</fld>, <cd>quartz penetrated by acicular crystals of rutile.</cd> -- <col><b>Venus's looking-glass</b></col> <fld>(Bot.)</fld>, <cd>an annual plant of the genus <gen>Specularia</gen> allied to the bellflower; -- also called <altname>lady's looking-glass</altname>.</cd> -- <col><b>Venus's navelwort</b></col> <fld>(Bot.)</fld>, <cd>any one of several species of <gen>Omphalodes</gen>, low boraginaceous herbs with small blue or white flowers.</cd> -- <col><b>Venus's pride</b></col> <fld>(Bot.)</fld>, <cd>an old name for Quaker ladies.  See under <er>Quaker</er>.</cd> -- <col><b>Venus's purse</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Venus's basket</cref>, above.</cd> -- <col><b>Venus's shell</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any species of Cypraea; a cowrie.</cd> <sd>(b)</sd> <cd>Same as <cref>Venus's comb</cref>, above.</cd> <sd>(c)</sd> <cd>Same as <er>Venus</er>, 4.</cd> -- <col><b>Venus's slipper</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Any plant of the genus <gen>Cypripedium</gen>.  See <er>Lady's slipper</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>Any heteropod shell of the genus <gen>Carinaria</gen>.  See <er>Carinaria</er>.</cd></cs><br/
+<p><cs><col>Venus's basin</col> <fld>(Bot.)</fld>, <cd>the wild teasel; -- so called because the connate leaf bases form a kind of receptacle for water, which was formerly gathered for use in the toilet. Also called <altname>Venus's bath</altname>.</cd> -- <col>Venus's basket</col> <fld>(Zool.)</fld>, <cd>an elegant, cornucopia-shaped, hexactinellid sponge (<spn>Euplectella speciosa</spn>) native of the East Indies. It consists of glassy, transparent, siliceous fibers interwoven and soldered together so as to form a firm network, and has long, slender, divergent anchoring fibers at the base by means of which it stands erect in the soft mud at the bottom of the sea. Called also <altname>Venus's flower basket</altname>, and <altname>Venus's purse</altname>.</cd> -- <col>Venus's comb</col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Same as <er>Lady's comb</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A species of <gen>Murex</gen> (<spn>Murex tenuispinus</spn>). It has a long, tubular canal, with a row of long, slender spines along both of its borders, and rows of similar spines covering the body of the shell. Called also <altname>Venus's shell</altname>.</cd> -- <col>Venus's fan</col> <fld>(Zool.)</fld>, <cd>a common reticulated, fanshaped gorgonia (<spn>Gorgonia flabellum</spn>) native of Florida and the West Indies. When fresh the color is purple or yellow, or a mixture of the two.</cd> -- <col>Venus's flytrap</col>. <fld>(Bot.)</fld> <cd>See <er>Flytrap</er>, <snr>2</snr>.</cd> -- <col>Venus's girdle</col> <fld>(Zool.)</fld>, <cd>a long, flat, ribbonlike, very delicate, transparent and iridescent ctenophore (<spn>Cestum Veneris</spn>) which swims in the open sea. Its form is due to the enormous development of two spheromeres.  See <xex>Illust.</xex> in Appendix.</cd> -- <col>Venus's hair</col> <fld>(Bot.)</fld>, <cd>a delicate and graceful fern (<spn>Adiantum Capillus-Veneris</spn>) having a slender, black and shining stem and branches.</cd> -- <col>Venus's hair stone</col> <fld>(Min.)</fld>, <cd>quartz penetrated by acicular crystals of rutile.</cd> -- <col>Venus's looking-glass</col> <fld>(Bot.)</fld>, <cd>an annual plant of the genus <gen>Specularia</gen> allied to the bellflower; -- also called <altname>lady's looking-glass</altname>.</cd> -- <col>Venus's navelwort</col> <fld>(Bot.)</fld>, <cd>any one of several species of <gen>Omphalodes</gen>, low boraginaceous herbs with small blue or white flowers.</cd> -- <col>Venus's pride</col> <fld>(Bot.)</fld>, <cd>an old name for Quaker ladies.  See under <er>Quaker</er>.</cd> -- <col>Venus's purse</col>. <fld>(Zool.)</fld> <cd>Same as <cref>Venus's basket</cref>, above.</cd> -- <col>Venus's shell</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any species of Cypraea; a cowrie.</cd> <sd>(b)</sd> <cd>Same as <cref>Venus's comb</cref>, above.</cd> <sd>(c)</sd> <cd>Same as <er>Venus</er>, 4.</cd> -- <col>Venus's slipper</col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Any plant of the genus <gen>Cypripedium</gen>.  See <er>Lady's slipper</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>Any heteropod shell of the genus <gen>Carinaria</gen>.  See <er>Carinaria</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1602 pr=PI --><br/
@@ -5265,7 +5265,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ve*ra"tric</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, plants of the genus Veratrum.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Veratric acid</b></col> <fld>(Chem.)</fld>, <cd>an acid occurring, together with veratrine, in the root of white hellebore (<spn>Veratrum album</spn>), and in sabadilla seed; -- extracted as a white crystalline substance which is related to protocatechuic acid.</cd></cs><br/
+<p><cs><col>Veratric acid</col> <fld>(Chem.)</fld>, <cd>an acid occurring, together with veratrine, in the root of white hellebore (<spn>Veratrum album</spn>), and in sabadilla seed; -- extracted as a white crystalline substance which is related to protocatechuic acid.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Veratrina</ent><br/
@@ -5298,7 +5298,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Active verb</b></col>, <col><b>Auxiliary verb</b></col>, <col><b>Neuter verb</b></col></mcol>, <cd>etc.  See <er>Active</er>, <er>Auxiliary</er>, <er>Neuter</er>, etc.</cd></cs><br/
+<p><cs><mcol><col>Active verb</col>, <col>Auxiliary verb</col>, <col>Neuter verb</col></mcol>, <cd>etc.  See <er>Active</er>, <er>Auxiliary</er>, <er>Neuter</er>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verbal</ent><br/
@@ -5329,7 +5329,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Gram.)</fld> <def>Of or pertaining to a verb; <as>as, a <ex>verbal</ex> group</as>; derived directly from a verb; <as>as, a <ex>verbal</ex> noun</as>; used in forming verbs; <as>as, a <ex>verbal</ex> prefix</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Verbal inspiration</b></col>. <cd>See under <er>Inspiration</er>.</cd> -- <col><b>Verbal noun</b></col> <fld>(Gram.)</fld>, <cd>a noun derived directly from a verb or verb stem; a verbal. The term is specifically applied to infinitives, and nouns ending in <xex>-ing</xex>, esp. to the latter.  See <er>Gerund</er>, and <er>-ing</er>, <snr>2</snr>.  See also, <cref>Infinitive mood</cref>, under <er>Infinitive</er>.</cd></cs><br/
+<p><cs><col>Verbal inspiration</col>. <cd>See under <er>Inspiration</er>.</cd> -- <col>Verbal noun</col> <fld>(Gram.)</fld>, <cd>a noun derived directly from a verb or verb stem; a verbal. The term is specifically applied to infinitives, and nouns ending in <xex>-ing</xex>, esp. to the latter.  See <er>Gerund</er>, and <er>-ing</er>, <snr>2</snr>.  See also, <cref>Infinitive mood</cref>, under <er>Infinitive</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verbal</ent><br/
@@ -5389,7 +5389,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 \'d8<hw>Ver*ba"tim</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[LL., fr. L. <ets>verbum</ets> word.]</ety> <def>Word for word; in the same words; verbally; <as>as, to tell a story <ex>verbatim</ex> as another has related it</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Verbatim et literatim</b></col> <ety>[LL.]</ety>, <cd>word for word, and letter for letter.</cd></cs><br/
+<p><cs><col>Verbatim et literatim</col> <ety>[LL.]</ety>, <cd>word for word, and letter for letter.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verbena</ent><br/
@@ -5400,7 +5400,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj><br/
 </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Essence of verbena</b></col>, <col><b>Oil of verbena</b></col></mcol>, <cd>a perfume prepared from the lemon verbena; also, a similar perfume properly called <altname>grass oil</altname>.  See <cref>Grass oil</cref>, under <er>Grass</er>.</cd> -- <mcol><col><b>Lemon verbena</b></col>, <it>or</it> <col><b>Sweet verbena</b></col></mcol>, <cd>a shrubby verbenaceous plant (<spn>Lippia citriodora</spn>), with narrow leaves which exhale a pleasant, lemonlike fragrance when crushed.</cd></cs><br/
+<p><cs><mcol><col>Essence of verbena</col>, <col>Oil of verbena</col></mcol>, <cd>a perfume prepared from the lemon verbena; also, a similar perfume properly called <altname>grass oil</altname>.  See <cref>Grass oil</cref>, under <er>Grass</er>.</cd> -- <mcol><col>Lemon verbena</col>, <it>or</it> <col>Sweet verbena</col></mcol>, <cd>a shrubby verbenaceous plant (<spn>Lippia citriodora</spn>), with narrow leaves which exhale a pleasant, lemonlike fragrance when crushed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verbenaceous</ent><br/
@@ -5521,7 +5521,7 @@ Put forth the <qex>verdant</qex> grass.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ This rust is a carbonate of copper, and should not be confounded with true verdigris.</note>  <rj><au>U. S. Disp.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blue verdigris</b></col> <fld>(Chem.)</fld>, <cd>a verdigris having a blue color, used as a pigment, etc.</cd> -- <col><b>Distilled verdigris</b></col> <fld>(Old Chem.)</fld>, <cd>an acid copper acetate; -- so called because the acetic acid used in making it was obtained from <ets>distilled</ets> vinegar.</cd> -- <col><b>Verdigris green</b></col>, <cd>clear bluish green, the color of verdigris.</cd></cs><br/
+<p><cs><col>Blue verdigris</col> <fld>(Chem.)</fld>, <cd>a verdigris having a blue color, used as a pigment, etc.</cd> -- <col>Distilled verdigris</col> <fld>(Old Chem.)</fld>, <cd>an acid copper acetate; -- so called because the acetic acid used in making it was obtained from <ets>distilled</ets> vinegar.</cd> -- <col>Verdigris green</col>, <cd>clear bluish green, the color of verdigris.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verdigris</ent><br/
@@ -5548,7 +5548,7 @@ Put forth the <qex>verdant</qex> grass.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ver"di*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>vert-de-terre</ets>, literally, green of earth.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Verdigris.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>Either one of two pigments (called <stype>blue verditer</stype>, and <stype>green verditer</stype>) which are made by treating copper nitrate with calcium carbonate (in the form of lime, whiting, chalk, etc.) They consist of hydrated copper carbonates analogous to the minerals azurite and malachite.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Verditer blue</b></col>, <cd>a pale greenish blue color, like that of the pigment verditer.</cd></cs><br/
+<p><cs><col>Verditer blue</col>, <cd>a pale greenish blue color, like that of the pigment verditer.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verditure</ent><br/
@@ -5715,7 +5715,7 @@ Of golden metal that must round my brow.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Confirmation by evidence.</def>  <sd>(b)</sd> <def>A formal phrase used in concluding a plea.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Verification of an equation</b></col> <fld>(Math.)</fld>, <cd>the operation of testing the equation of a problem, to see whether it expresses truly the conditions of the problem.</cd>  <rj><au>Davies & Peck. (Math. Dict.)</au></rj></cs><br/
+<p><cs><col>Verification of an equation</col> <fld>(Math.)</fld>, <cd>the operation of testing the equation of a problem, to see whether it expresses truly the conditions of the problem.</cd>  <rj><au>Davies & Peck. (Math. Dict.)</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verificative</ent><br/
@@ -5865,7 +5865,7 @@ Like roses in a bed of lilies shed.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Ver*mic"u*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vermiculus</ets> a little worm, dim. of <ets>vermis</ets> a worm: cf. F. <ets>vermiculaire</ets>.  See <er>Vermicelli</er>.]</ety> <def>Of or pertaining to a worm or worms; resembling a worm; shaped like a worm; especially, resembling the motion or track of a worm; <as>as, the <ex>vermicular</ex>, or peristaltic, motion of the intestines</as>.  See <er>Peristaltic</er>.</def>  <ldquo/A twisted form <xex>vermicular</xex>.<rdquo/  <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vermicular work</b></col>.  <cd>See under <er>Vermiculated</er>.</cd></cs><br/
+<p><cs><col>Vermicular work</col>.  <cd>See under <er>Vermiculated</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vermiculate</ent><br/
@@ -5883,7 +5883,7 @@ Like roses in a bed of lilies shed.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Ver*mic"u*la`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Made or marked with irregular wavy lines or impressions; vermiculate.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Vermiculated work</b></col>, <it>or</it> <col><b>Vermicular work</b></col></mcol> <fld>(Arch.)</fld>, <cd>rustic work so wrought as to have the appearance of convoluted worms, or of having been eaten into by, or covered with tracks of, worms.</cd>  <rj><au>Gwilt.</au></rj></cs><br/
+<p><cs><mcol><col>Vermiculated work</col>, <it>or</it> <col>Vermicular work</col></mcol> <fld>(Arch.)</fld>, <cd>rustic work so wrought as to have the appearance of convoluted worms, or of having been eaten into by, or covered with tracks of, worms.</cd>  <rj><au>Gwilt.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vermiculation</ent><br/
@@ -5916,7 +5916,7 @@ Like roses in a bed of lilies shed.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>Ver"mi*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vermis</ets> a worm + <ets>-form</ets>.]</ety> <def>Resembling a worm in form or motions; vermicular; <as>as, the <ex>vermiform</ex> process of the cerebellum</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vermiform appendix</b></col> <fld>(Anat.)</fld>, <cd>a slender blind process of the caecum in man and some other animals; -- called also <altname>vermiform appendage</altname>, and <altname>vermiform process</altname>.  Small solid bodies, such as grape seeds or cherry stones, sometimes lodge in it, causing serious, or even fatal, inflammation.  See <xex>Illust.</xex> under <er>Digestion</er>.</cd></cs><br/
+<p><cs><col>Vermiform appendix</col> <fld>(Anat.)</fld>, <cd>a slender blind process of the caecum in man and some other animals; -- called also <altname>vermiform appendage</altname>, and <altname>vermiform process</altname>.  Small solid bodies, such as grape seeds or cherry stones, sometimes lodge in it, causing serious, or even fatal, inflammation.  See <xex>Illust.</xex> under <er>Digestion</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vermiformia</ent><br/
@@ -6084,7 +6084,7 @@ Few <qex>vernal</qex> joys can show?</q> <rj><qau>Keble.</qau></rj><br/
 <p><-- p. 1604 pr=PI --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vernal equinox</b></col> <fld>(Astron.)</fld>, <cd>the point of time in each year when the sun crosses the equator when proceeding northward, about March 21, when day and night are of approximately equal duration.  The beginning of the Spring season.</cd> -- <col><b>Vernal grass</b></col> <fld>(Bot.)</fld>, <cd>a low, soft grass (<spn>Anthoxanthum odoratum</spn>), producing in the spring narrow spikelike panicles, and noted for the delicious fragrance which it gives to new-mown hay; -- also called <altname>sweet vernal grass</altname>.  See <xex>Illust.</xex> in Appendix.</cd> -- <col><b>Vernal signs</b></col> <fld>(Astron.)</fld>, <cd>the signs, Aries, Taurus, and Gemini, in which the sun appears between the vernal equinox and summer solstice.</cd></cs><br/
+<p><cs><col>Vernal equinox</col> <fld>(Astron.)</fld>, <cd>the point of time in each year when the sun crosses the equator when proceeding northward, about March 21, when day and night are of approximately equal duration.  The beginning of the Spring season.</cd> -- <col>Vernal grass</col> <fld>(Bot.)</fld>, <cd>a low, soft grass (<spn>Anthoxanthum odoratum</spn>), producing in the spring narrow spikelike panicles, and noted for the delicious fragrance which it gives to new-mown hay; -- also called <altname>sweet vernal grass</altname>.  See <xex>Illust.</xex> in Appendix.</cd> -- <col>Vernal signs</col> <fld>(Astron.)</fld>, <cd>the signs, Aries, Taurus, and Gemini, in which the sun appears between the vernal equinox and summer solstice.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vernant</ent><br/
@@ -6118,7 +6118,7 @@ Few <qex>vernal</qex> joys can show?</q> <rj><qau>Keble.</qau></rj><br/
 <hw>Ver"ni*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[So named after the inventor, Pierre <etsep>Vernier</etsep>.]</ety> <def>A short scale made to slide along the divisions of a graduated instrument, as the limb of a sextant, or the scale of a barometer, for indicating parts of divisions. It is so graduated that a certain convenient number of its divisions are just equal to a certain number, either one less or one more, of the divisions of the instrument, so that parts of a division are determined by observing what line on the vernier coincides with a line on the instrument.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Vernier calipers</b></col>, <col><b>Vernier gauge</b></col></mcol>, <cd>a gauge with a graduated bar and a sliding jaw bearing a vernier, used for accurate measurements.</cd> -- <col><b>Vernier compass</b></col>, <cd>a surveyor's compass with a vernier for the accurate adjustment of the zero point in accordance with magnetic variation.</cd> -- <col><b>Vernier transit</b></col>, <cd>a surveyor's transit instrument with a vernier compass.</cd></cs><br/
+<p><cs><mcol><col>Vernier calipers</col>, <col>Vernier gauge</col></mcol>, <cd>a gauge with a graduated bar and a sliding jaw bearing a vernier, used for accurate measurements.</cd> -- <col>Vernier compass</col>, <cd>a surveyor's compass with a vernier for the accurate adjustment of the zero point in accordance with magnetic variation.</cd> -- <col>Vernier transit</col>, <cd>a surveyor's transit instrument with a vernier compass.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vernile</ent><br/
@@ -6300,7 +6300,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><sn>4.</sn> <def>A piece of poetry.</def>  <ldquo/This <xex>verse</xex> be thine.<rdquo/  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blank verse</b></col>, <cd>poetry in which the lines do not end in rhymes.</cd> -- <col><b>Heroic verse</b></col>. <cd>See under <er>Heroic</er>.</cd></cs><br/
+<p><cs><col>Blank verse</col>, <cd>poetry in which the lines do not end in rhymes.</cd> -- <col>Heroic verse</col>. <cd>See under <er>Heroic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verse</ent><br/
@@ -6334,7 +6334,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <hw>Versed</hw>, <pos>a.</pos> <ety>[L. <ets>versus</ets> turned, p. p. <ets>vertere</ets>.  See 1st <er>Versed</er>.]</ety> <fld>(Math.)</fld> <def>Turned.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Versed sine</b></col>. <cd>See under <er>Sine</er>, and <xex>Illust.</xex> of <er>Functions</er>.</cd></cs><br/
+<p><cs><col>Versed sine</col>. <cd>See under <er>Sine</er>, and <xex>Illust.</xex> of <er>Functions</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verseman</ent><br/
@@ -6435,7 +6435,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><note><hand/ The change of one vector into another is considered in quaternions as made up of two operations; 1st, the rotation of the first vector so that it shall be parallel to the second; 2d, the change of length so that the first vector shall be equal to the second. That which expresses in amount and kind the first operation is a <xex>versor</xex>, and is denoted geometrically by a line at right angles to the plane in which the rotation takes place, the length of this line being proportioned to the amount of rotation. That which expresses the second operation is a <xex>tensor</xex>. The product of the versor and tensor expresses the total operation, and is called a <xex>quaternion</xex>.  See <er>Quaternion</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadrantal versor</b></col>. <cd>See under <er>Quadrantal</er>.</cd></cs><br/
+<p><cs><col>Quadrantal versor</col>. <cd>See under <er>Quadrantal</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verst</ent><br/
@@ -6550,7 +6550,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><note><hand/ The <xex>principal vertex</xex> of a conic section is, in the parabola, the vertex of the axis of the curve: in the ellipse, either extremity of either axis, but usually the left-hand vertex of the transverse axis; in the hyperbola, either vertex, but usually the right-hand vertex of the transverse axis.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vertex of a curve</b></col> <fld>(Math.)</fld>, <cd>the point in which the axis of the curve intersects it.</cd> -- <col><b>Vertex of an angle</b></col> <fld>(Math.)</fld>, <cd>the point in which the sides of the angle meet.</cd> -- <mcol><col><b>Vertex of a solid</b></col>, <it>or</it> <col><b>Vertex of a surface of revolution</b></col></mcol> <fld>(Math.)</fld>, <cd>the point in which the axis pierces the surface.</cd></cs><br/
+<p><cs><col>Vertex of a curve</col> <fld>(Math.)</fld>, <cd>the point in which the axis of the curve intersects it.</cd> -- <col>Vertex of an angle</col> <fld>(Math.)</fld>, <cd>the point in which the sides of the angle meet.</cd> -- <mcol><col>Vertex of a solid</col>, <it>or</it> <col>Vertex of a surface of revolution</col></mcol> <fld>(Math.)</fld>, <cd>the point in which the axis pierces the surface.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vertical</ent><br/
@@ -6566,7 +6566,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><sn>2.</sn> <def>Perpendicular to the plane of the horizon; upright; plumb; <as>as, a <ex>vertical</ex> line</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vertical angle</b></col> <fld>(Astron. & Geod.)</fld>, <cd>an angle measured on a vertical circle, called an angle of <xex>elevation</xex>, or <xex>altitude</xex>, when reckoned from the horizon upward, and of <xex>depression</xex> when downward below the horizon.</cd> -- <col><b>Vertical anthers</b></col> <fld>(Bot.)</fld>, <cd>such anthers as stand erect at the top of the filaments.</cd> -- <col><b>Vertical circle</b></col> <fld>(Astron.)</fld>, <cd>an azimuth circle.  See under <er>Azimuth</er>.</cd> -- <col><b>Vertical drill</b></col>, <cd>an upright drill.  See under <er>Upright</er>.</cd> -- <col><b>Vertical fire</b></col> <fld>(Mil.)</fld>, <cd>the fire, as of mortars, at high angles of elevation.</cd> -- <col><b>Vertical leaves</b></col> <fld>(Bot.)</fld>, <cd>leaves which present their edges to the earth and the sky, and their faces to the horizon, as in the Australian species of Eucalyptus.</cd> -- <col><b>Vertical limb</b></col>, <cd>a graduated arc attached to an instrument, as a theodolite, for measuring vertical angles.</cd> -- <col><b>Vertical line</b></col>. <sd>(a)</sd> <fld>(Dialing)</fld> <cd>A line perpendicular to the horizon.</cd> <sd>(b)</sd> <fld>(Conic Sections)</fld> <cd>A right line drawn on the vertical plane, and passing through the vertex of the cone.</cd> <sd>(c)</sd> <fld>(Surv.)</fld> <cd>The direction of a plumb line; a line normal to the surface of still water.</cd> <sd>(d)</sd> <fld>(Geom., Drawing, etc.)</fld> <cd>A line parallel to the sides of a page or sheet, in distinction from a <xex>horizontal line</xex> parallel to the top or bottom.</cd> -- <col><b>Vertical plane</b></col>. <sd>(a)</sd> <fld>(Conic Sections)</fld> <cd>A plane passing through the vertex of a cone, and through its axis.</cd> <sd>(b)</sd> <fld>(Projections)</fld> <cd>Any plane which passes through a vertical line.</cd> <sd>(c)</sd> <fld>(Persp.)</fld> <cd>The plane passing through the point of sight, and perpendicular to the ground plane, and also to the picture.</cd> -- <col><b>Vertical sash</b></col>, <cd>a sash sliding up and down.   Cf. <cref>French sash</cref>, under 3d <er>Sash</er>.</cd> -- <col><b>Vertical steam engine</b></col>, <cd>a steam engine having the crank shaft vertically above or below a vertical cylinder.</cd></cs><br/
+<p><cs><col>Vertical angle</col> <fld>(Astron. & Geod.)</fld>, <cd>an angle measured on a vertical circle, called an angle of <xex>elevation</xex>, or <xex>altitude</xex>, when reckoned from the horizon upward, and of <xex>depression</xex> when downward below the horizon.</cd> -- <col>Vertical anthers</col> <fld>(Bot.)</fld>, <cd>such anthers as stand erect at the top of the filaments.</cd> -- <col>Vertical circle</col> <fld>(Astron.)</fld>, <cd>an azimuth circle.  See under <er>Azimuth</er>.</cd> -- <col>Vertical drill</col>, <cd>an upright drill.  See under <er>Upright</er>.</cd> -- <col>Vertical fire</col> <fld>(Mil.)</fld>, <cd>the fire, as of mortars, at high angles of elevation.</cd> -- <col>Vertical leaves</col> <fld>(Bot.)</fld>, <cd>leaves which present their edges to the earth and the sky, and their faces to the horizon, as in the Australian species of Eucalyptus.</cd> -- <col>Vertical limb</col>, <cd>a graduated arc attached to an instrument, as a theodolite, for measuring vertical angles.</cd> -- <col>Vertical line</col>. <sd>(a)</sd> <fld>(Dialing)</fld> <cd>A line perpendicular to the horizon.</cd> <sd>(b)</sd> <fld>(Conic Sections)</fld> <cd>A right line drawn on the vertical plane, and passing through the vertex of the cone.</cd> <sd>(c)</sd> <fld>(Surv.)</fld> <cd>The direction of a plumb line; a line normal to the surface of still water.</cd> <sd>(d)</sd> <fld>(Geom., Drawing, etc.)</fld> <cd>A line parallel to the sides of a page or sheet, in distinction from a <xex>horizontal line</xex> parallel to the top or bottom.</cd> -- <col>Vertical plane</col>. <sd>(a)</sd> <fld>(Conic Sections)</fld> <cd>A plane passing through the vertex of a cone, and through its axis.</cd> <sd>(b)</sd> <fld>(Projections)</fld> <cd>Any plane which passes through a vertical line.</cd> <sd>(c)</sd> <fld>(Persp.)</fld> <cd>The plane passing through the point of sight, and perpendicular to the ground plane, and also to the picture.</cd> -- <col>Vertical sash</col>, <cd>a sash sliding up and down.   Cf. <cref>French sash</cref>, under 3d <er>Sash</er>.</cd> -- <col>Vertical steam engine</col>, <cd>a steam engine having the crank shaft vertically above or below a vertical cylinder.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vertical</ent><br/
@@ -6576,7 +6576,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>A vertical line, plane, or circle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Prime vertical</b></col>, <col><b>Prime vertical dial</b></col></mcol>. <cd>See under <er>Prime</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><mcol><col>Prime vertical</col>, <col>Prime vertical dial</col></mcol>. <cd>See under <er>Prime</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verticality</ent><br/
@@ -6675,7 +6675,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <hw>Ver"vain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>verveine</ets>, F. <ets>verveine</ets>, fr. L. <ets>verbena</ets>, pl. <ets>verbenae</ets> sacred boughs of laurel, olive, or myrtle, a class of plants; cf. <ets>verbenaca</ets> vervain.  Cf. <er>Verbena</er>.]</ety> <fld>(Bot.)</fld> <def>Any plant of the genus <gen>Verbena</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vervain mallow</b></col> <fld>(Bot.)</fld>, <cd>a species of mallow (<spn>Malva Alcea</spn>) with rose-colored flowers.</cd></cs><br/
+<p><cs><col>Vervain mallow</col> <fld>(Bot.)</fld>, <cd>a species of mallow (<spn>Malva Alcea</spn>) with rose-colored flowers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Verve</ent><br/
@@ -6709,7 +6709,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><note><hand/ <xex>Very</xex> is sometimes used to make the word with which it is connected emphatic, and may then be paraphrased by <xex>same</xex>, <xex>self-same</xex>, <xex>itself</xex>, and the like. <ldquo/The <xex>very</xex> hand, the <xex>very</xex> words.<rdquo/ <au>Shak.</au> <ldquo/The <xex>very</xex> rats instinctively have quit it.<rdquo/ <au>Shak.</au> <ldquo/Yea, there where <xex>very</xex> desolation dwells.<rdquo/ <au>Milton.</au> <xex>Very</xex> is used occasionally in the comparative degree, and more frequently in the superlative. <ldquo/Was not my lord the <xex>verier</xex> wag of the two?<rdquo/ <au>Shak.</au> <ldquo/The <xex>veriest</xex> hermit in the nation.<rdquo/ <au>Pope.</au> <ldquo/He had spoken the very truth, and transformed it into the <xex>veriest</xex> falsehood.<rdquo/ <au>Hawthorne.</au></note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Very Reverend</b></col>. <cd>See the Note under <er>Reverend</er>.</cd></cs><br/
+<p><cs><col>Very Reverend</col>. <cd>See the Note under <er>Reverend</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Very</ent><br/
@@ -6718,7 +6718,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 
 <p><ent>Very night signals</ent><br/
 <ent>Very's night signals</ent><br/
-<mhw>{ <hw>Ver"y's night signals</hw>, <it>or</it>  <hw>Ver"y night signals</hw>  }</mhw> <pr>(?)</pr>. <ety>[After Lieut. <person>Samuel W. <etsep>Very</etsep></person>, who invented the system in 1877.]</ety> <fld>(Naut.)</fld> <def>A system of signaling in which balls of red and green fire are fired from a pistol, the arrangement in groups denoting numbers having a code significance.  The pistol used to fire the signal flare is called a <col><b>Very pistol</b></col>.</def><br/
+<mhw>{ <hw>Ver"y's night signals</hw>, <it>or</it>  <hw>Ver"y night signals</hw>  }</mhw> <pr>(?)</pr>. <ety>[After Lieut. <person>Samuel W. <etsep>Very</etsep></person>, who invented the system in 1877.]</ety> <fld>(Naut.)</fld> <def>A system of signaling in which balls of red and green fire are fired from a pistol, the arrangement in groups denoting numbers having a code significance.  The pistol used to fire the signal flare is called a <col>Very pistol</col>.</def><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vesbium</ent><br/
@@ -6733,7 +6733,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 \'d8<hw>Ve*si"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>A bladder.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vesica piscis</b></col>. <ety>[L., fish bladder.]</ety> <fld>(Eccl. Art)</fld> <cd>A glory, or aureole, of oval shape, or composed of two arcs of circles usually represented as surrounding a divine personage.  More rarely, an oval composed of two arcs not representing a glory; a solid oval, etc.</cd></cs><br/
+<p><cs><col>Vesica piscis</col>. <ety>[L., fish bladder.]</ety> <fld>(Eccl. Art)</fld> <cd>A glory, or aureole, of oval shape, or composed of two arcs of circles usually represented as surrounding a divine personage.  More rarely, an oval composed of two arcs not representing a glory; a solid oval, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vesical</ent><br/
@@ -6805,7 +6805,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <p><sn>3.</sn> <def>Having the form or structure of a vesicle; <as>as, a <ex>vesicular</ex> body</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vesicular column</b></col> <fld>(Anat.)</fld>, <cd>a series of nerve cells forming one of the tracts distinguished in the spinal cord; -- also called the <altname>ganglionic column</altname>.</cd> -- <col><b>Vesicular emphysema</b></col> <fld>(Med.)</fld>, <cd>emphysema of the lungs, in which the air vesicles are distended and their walls ruptured.</cd> -- <col><b>Vesicular murmur</b></col> <fld>(Med.)</fld>, <cd>the sound, audible on auscultation of the chest, made by the air entering and leaving the air vesicles of the lungs in respiration.</cd></cs><br/
+<p><cs><col>Vesicular column</col> <fld>(Anat.)</fld>, <cd>a series of nerve cells forming one of the tracts distinguished in the spinal cord; -- also called the <altname>ganglionic column</altname>.</cd> -- <col>Vesicular emphysema</col> <fld>(Med.)</fld>, <cd>emphysema of the lungs, in which the air vesicles are distended and their walls ruptured.</cd> -- <col>Vesicular murmur</col> <fld>(Med.)</fld>, <cd>the sound, audible on auscultation of the chest, made by the air entering and leaving the air vesicles of the lungs in respiration.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vesicularia</ent><br/
@@ -6852,7 +6852,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <hw>Ves"per</hw>, <pos>a.</pos> <def>Of or pertaining to the evening, or to the service of vespers; <as>as, a <ex>vesper</ex> hymn; <ex>vesper</ex> bells</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vesper sparrow</b></col>, <cd>the grass finch.  See under <er>Grass</er>.</cd></cs><br/
+<p><cs><col>Vesper sparrow</col>, <cd>the grass finch.  See under <er>Grass</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vesperal</ent><br/
@@ -6863,7 +6863,7 @@ Flowed from their lips in prose or numerous <qex>verse</qex>.</q> <rj><qau>Milto
 <hw>Ves"pers</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[OF. <ets>vespres</ets>, F. <ets>v<ecir/pres</ets>, LL. <ets>vesperae</ets>, fr. L. <ets>vespera</ets> evening.  See <er>Vesper</er>, <pos>n.</pos>]</ety> <fld>(R. C. Ch.)</fld> <sd>(a)</sd> <def>One of the little hours of the Breviary.</def>  <sd>(b)</sd> <def>The evening song or service.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Sicilian vespers</b></col>. <cd>See under <er>Sicilian</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><col>Sicilian vespers</col>. <cd>See under <er>Sicilian</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vespertilio</ent><br/
@@ -6929,7 +6929,7 @@ To enter.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Bot.)</fld> <def>A continuous tube formed from superposed large cylindrical or prismatic cells (tracheae), which have lost their intervening partitions, and are usually marked with dots, pits, rings, or spirals by internal deposition of secondary membranes; a duct.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Acoustic vessels</b></col>. <cd>See under <er>Acoustic</er>.</cd> -- <col><b>Weaker vessel</b></col>, <cd>a woman; -- now applied humorously.</cd>  <ldquo/Giving honor unto the wife, as unto the <xex>weaker vessel</xex>.<rdquo/ <au>1 Peter iii. 7.</au> <ldquo/You are the <xex>weaker vessel</xex>.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>Acoustic vessels</col>. <cd>See under <er>Acoustic</er>.</cd> -- <col>Weaker vessel</col>, <cd>a woman; -- now applied humorously.</cd>  <ldquo/Giving honor unto the wife, as unto the <xex>weaker vessel</xex>.<rdquo/ <au>1 Peter iii. 7.</au> <ldquo/You are the <xex>weaker vessel</xex>.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vessel</ent><br/
@@ -7044,7 +7044,7 @@ Deceitfully goes forth the morn.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Not in a state of contingency or suspension; fixed; <as>as, <ex>vested</ex> rights; <ex>vested</ex> interests</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vested legacy</b></col> <fld>(Law)</fld>, <cd>a legacy the right to which commences <xex>in praesenti</xex>, and does not depend on a contingency; as, a legacy to one to be paid when he attains to twenty-one years of age is a <xex>vested legacy</xex>, and if the legatee dies before the testator, his representative shall receive it.</cd> <au>Blackstone.</au> -- <col><b>Vested remainder</b></col> <fld>(Law)</fld>, <cd>an estate settled, to remain to a determined person, after the particular estate is spent.</cd>  <au>Blackstone.</au> <au>Kent.</au></cs><br/
+<p><cs><col>Vested legacy</col> <fld>(Law)</fld>, <cd>a legacy the right to which commences <xex>in praesenti</xex>, and does not depend on a contingency; as, a legacy to one to be paid when he attains to twenty-one years of age is a <xex>vested legacy</xex>, and if the legatee dies before the testator, his representative shall receive it.</cd> <au>Blackstone.</au> -- <col>Vested remainder</col> <fld>(Law)</fld>, <cd>an estate settled, to remain to a determined person, after the particular estate is spent.</cd>  <au>Blackstone.</au> <au>Kent.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vested interest</ent><br/
@@ -7081,7 +7081,7 @@ Deceitfully goes forth the morn.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <hw>Ves"ti*bule</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>vestibulum</ets>, of uncertain origin: cf. F. <ets>vestibule</ets>.]</ety> <def>The porch or entrance into a house; a hall or antechamber next the entrance; a lobby; a porch; a hall.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vestibule of the ear</b></col>. <fld>(Anat.)</fld> <cd>See under <er>Ear</er>.</cd> -- <col><b>Vestibule of the vulva</b></col> <fld>(Anat.)</fld>, <cd>a triangular space between the nymphae, in which the orifice of the urethra is situated.</cd> -- <col><b>Vestibule train</b></col> <fld>(Railroads)</fld>, <cd>a train of passenger cars having the space between the end doors of adjacent cars inclosed, so as to admit of leaving the doors open to provide for intercommunication between all the cars.</cd></cs><br/
+<p><cs><col>Vestibule of the ear</col>. <fld>(Anat.)</fld> <cd>See under <er>Ear</er>.</cd> -- <col>Vestibule of the vulva</col> <fld>(Anat.)</fld>, <cd>a triangular space between the nymphae, in which the orifice of the urethra is situated.</cd> -- <col>Vestibule train</col> <fld>(Railroads)</fld>, <cd>a train of passenger cars having the space between the end doors of adjacent cars inclosed, so as to admit of leaving the doors open to provide for intercommunication between all the cars.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Hall; passage.</syn> <usage> -- <er>Vestibule</er>, <er>Hall</er>, <er>Passage</er>.  A <xex>vestibule</xex> is a small apartment within the doors of a building.  A <xex>hall</xex> is the first large apartment beyond the vestibule, and, in the United States, is often long and narrow, serving as a passage to the several apartments. In England, the <xex>hall</xex> is generally square or oblong, and a long, narrow space of entrance is called a <xex>passage</xex>, not a <xex>hall</xex>, as in America. <xex>Vestibule</xex> is often used in a figurative sense to denote a place of entrance.  <ldquo/The citizens of Rome placed the images of their ancestors in the <xex>vestibules</xex> of their houses.<rdquo/ <au>Bolingbroke</au></usage><br/
@@ -7155,7 +7155,7 @@ Deceitfully goes forth the morn.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Prot. Epis. Ch.)</fld> <def>A body, composed of wardens and vestrymen, chosen annually by a parish to manage its temporal concerns.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Metropolitan vestry</b></col>, <cd>in the city of London, and certain specified parishes and places in England, a body composed of householders who pay poor rates. Its duties include the repair of churches, care of highways, the appointment of certain officers, etc.</cd> -- <col><b>Select vestry</b></col>, <cd>a select number of persons chosen in large and populous English parishes to represent and manage the concerns of the parish for one year.</cd> <au>Mozley & W.</au> -- <col><b>Vestry board</b></col> <fld>(Ch. of Eng.)</fld>, <cd>a vestry.  See def. <snr>2</snr>, above.</cd> -- <col><b>Vestry clerk</b></col>, <cd>an officer chosen by the vestry, who keeps a record of its proceedings; also, in England, one who keeps the parish accounts and books.</cd> -- <col><b>Vestry meeting</b></col>, <cd>the meeting of a vestry or vestry board; also, a meeting of a parish held in a vestry or other place.</cd></cs><br/
+<p><cs><col>Metropolitan vestry</col>, <cd>in the city of London, and certain specified parishes and places in England, a body composed of householders who pay poor rates. Its duties include the repair of churches, care of highways, the appointment of certain officers, etc.</cd> -- <col>Select vestry</col>, <cd>a select number of persons chosen in large and populous English parishes to represent and manage the concerns of the parish for one year.</cd> <au>Mozley & W.</au> -- <col>Vestry board</col> <fld>(Ch. of Eng.)</fld>, <cd>a vestry.  See def. <snr>2</snr>, above.</cd> -- <col>Vestry clerk</col>, <cd>an officer chosen by the vestry, who keeps a record of its proceedings; also, in England, one who keeps the parish accounts and books.</cd> -- <col>Vestry meeting</col>, <cd>the meeting of a vestry or vestry board; also, a meeting of a parish held in a vestry or other place.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vestryman</ent><br/
@@ -7365,7 +7365,7 @@ The hardy <qex>veteran</qex> with tears resigns.</q> <rj><qau>Addison.</qau></rj
 <p><q>He leads a <qex>vexatious</qex> life.</q> <rj><qau>Sir K. Digby.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vexatious suit</b></col> <fld>(Law)</fld>, <cd>a suit commenced for the purpose of giving trouble, or without cause.</cd></cs><br/
+<p><cs><col>Vexatious suit</col> <fld>(Law)</fld>, <cd>a suit commenced for the purpose of giving trouble, or without cause.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Vex*a"tious*ly</wf>, <pos>adv.</pos> -- <wf>Vex*a"tious*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -7397,7 +7397,7 @@ The hardy <qex>veteran</qex> with tears resigns.</q> <rj><qau>Addison.</qau></rj
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Of or pertaining to the vexillum, or upper petal of papilionaceous flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vexilary aestivation</b></col> <fld>(Bot.)</fld>, <cd>a mode of aestivation in which one large upper petal folds over, and covers, the other smaller petals, as in most papilionaceous plants.</cd></cs><br/
+<p><cs><col>Vexilary aestivation</col> <fld>(Bot.)</fld>, <cd>a mode of aestivation in which one large upper petal folds over, and covers, the other smaller petals, as in most papilionaceous plants.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vexillary</ent><br/
@@ -7433,7 +7433,7 @@ The hardy <qex>veteran</qex> with tears resigns.</q> <rj><qau>Addison.</qau></rj
 \'d8<hw>Vi"a</hw> <pr>(v<imac/"<adot/ <it>or</it> v<emac/"<adot/)</pr>, <pos>n.</pos> <ety>[L.  See <er>Way</er>.]</ety> <def>A road or way.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Via Lactea</b></col> <ety>[L.]</ety> <fld>(Astron.)</fld>, <cd>the Milky Way, or Galaxy.  See <er>Galaxy</er>, <snr>1</snr>.</cd> -- <col><b>Via media</b></col> <ety>[L.]</ety> <fld>(Theol.)</fld>, <cd>the middle way; -- a name applied to their own position by the Anglican high-churchmen, as being between the Roman Catholic Church and what they term extreme Protestantism.</cd></cs><br/
+<p><cs><col>Via Lactea</col> <ety>[L.]</ety> <fld>(Astron.)</fld>, <cd>the Milky Way, or Galaxy.  See <er>Galaxy</er>, <snr>1</snr>.</cd> -- <col>Via media</col> <ety>[L.]</ety> <fld>(Theol.)</fld>, <cd>the middle way; -- a name applied to their own position by the Anglican high-churchmen, as being between the Roman Catholic Church and what they term extreme Protestantism.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Via</ent><br/
@@ -7589,7 +7589,7 @@ Upon his harp, to deaden its <qex>vibrations</qex>.</q> <rj><qau>Longfellow.</qa
 <p><note><hand/ <xex>Vibration</xex> and <xex>oscillation</xex> are both used, in mechanics, of the swinging, or rising and falling, motion of a suspended or balanced body; the latter term more appropriately, as signifying such motion produced by gravity, and of any degree of slowness, while the former applies especially to the quick, short motion to and fro which results from elasticity, or the action of molecular forces among the particles of a body when disturbed from their position of rest, as in a spring.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Amplitude of vibration</b></col>, <cd>the maximum displacement of a vibrating particle or body from its position of rest.</cd> -- <col><b>Phase of vibration</b></col>, <cd>any part of the path described by a particle or body in making a complete vibration, in distinction from other parts, as while moving from one extreme to the other, or on one side of the line of rest, in distinction from the opposite. Two particles are said to be in the same <xex>phase</xex> when they are moving in the same direction and with the same velocity, or in corresponding parts of their paths.</cd></cs><br/
+<p><cs><col>Amplitude of vibration</col>, <cd>the maximum displacement of a vibrating particle or body from its position of rest.</cd> -- <col>Phase of vibration</col>, <cd>any part of the path described by a particle or body in making a complete vibration, in distinction from other parts, as while moving from one extreme to the other, or on one side of the line of rest, in distinction from the opposite. Two particles are said to be in the same <xex>phase</xex> when they are moving in the same direction and with the same velocity, or in corresponding parts of their paths.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vibratiuncle</ent><br/
@@ -7645,7 +7645,7 @@ Upon his harp, to deaden its <qex>vibrations</qex>.</q> <rj><qau>Longfellow.</qa
 </note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Apostolic vicar</b></col>, <it>or</it> <col><b>Vicar apostolic</b></col></mcol>. <fld>(R. C. Ch.)</fld> <sd>(a)</sd> <cd>A bishop to whom the Roman pontiff delegates a portion of his jurisdiction.</cd> <sd>(b)</sd> <cd>Any ecclesiastic acting under a papal brief, commissioned to exercise episcopal authority.</cd> <sd>(c)</sd> <cd>A titular bishop in a country where there is no episcopal see, or where the succession has been interrupted.</cd> -- <col><b>Vicar forane</b></col>. <ety>[Cf. LL. <ets>foraneus</ets> situated outside of the episcopal city, rural.  See <er>Vicar</er>, and <er>Foreign</er>.]</ety> <fld>(R. C. Ch.)</fld> <cd>A dignitary or parish priest appointed by a bishop to exercise a limited jurisdiction in a particular town or district of a diocese.</cd> <au>Addis & Arnold.</au> -- <col><b>Vicar-general</b></col>. <sd>(a)</sd> <fld>(Ch. of Eng.)</fld> <cd>The deputy of the <person>Archbishop of Canterbury</person> or York, in whose court the bishops of the province are confirmed.</cd> <au>Encyc. Brit.</au> <sd>(b)</sd> <fld>(R. C. Ch.)</fld> <cd>An assistant to a bishop in the discharge of his official functions.</cd> -- <col><b>Vicar of Jesus Christ</b></col> <fld>(R. C. Ch.)</fld>, <cd>the pope as representing Christ on earth.</cd></cs><br/
+<p><cs><mcol><col>Apostolic vicar</col>, <it>or</it> <col>Vicar apostolic</col></mcol>. <fld>(R. C. Ch.)</fld> <sd>(a)</sd> <cd>A bishop to whom the Roman pontiff delegates a portion of his jurisdiction.</cd> <sd>(b)</sd> <cd>Any ecclesiastic acting under a papal brief, commissioned to exercise episcopal authority.</cd> <sd>(c)</sd> <cd>A titular bishop in a country where there is no episcopal see, or where the succession has been interrupted.</cd> -- <col>Vicar forane</col>. <ety>[Cf. LL. <ets>foraneus</ets> situated outside of the episcopal city, rural.  See <er>Vicar</er>, and <er>Foreign</er>.]</ety> <fld>(R. C. Ch.)</fld> <cd>A dignitary or parish priest appointed by a bishop to exercise a limited jurisdiction in a particular town or district of a diocese.</cd> <au>Addis & Arnold.</au> -- <col>Vicar-general</col>. <sd>(a)</sd> <fld>(Ch. of Eng.)</fld> <cd>The deputy of the <person>Archbishop of Canterbury</person> or York, in whose court the bishops of the province are confirmed.</cd> <au>Encyc. Brit.</au> <sd>(b)</sd> <fld>(R. C. Ch.)</fld> <cd>An assistant to a bishop in the discharge of his official functions.</cd> -- <col>Vicar of Jesus Christ</col> <fld>(R. C. Ch.)</fld>, <cd>the pope as representing Christ on earth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1608 pr=PI --><br/
@@ -7772,7 +7772,7 @@ The post of honor is a private station.</q> <rj><qau>Addison.</qau></rj><br/
 <hw>Vice</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>vice-</ets>.  See <er>Vice</er>, <pos>prep.</pos>]</ety> <def>Denoting one who in certain cases may assume the office or duties of a superior; designating an officer or an office that is second in rank or authority; <as>as, <ex>vice</ex> president; <ex>vice</ex> agent; <ex>vice</ex> consul, etc</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vice admiral</b></col>. <ety>[Cf. F. <ets>vice-amiral</ets>.]</ety> <sd>(a)</sd> <cd>An officer holding rank next below an admiral. By the existing laws, the rank of admiral and vice admiral in the United States Navy will cease at the death of the present incumbents.</cd> <sd>(b)</sd> <cd>A civil officer, in Great Britain, appointed by the lords commissioners of the admiralty for exercising admiralty jurisdiction within their respective districts.</cd> -- <col><b>Vice admiralty</b></col>, <cd>the office of a vice admiral.</cd> -- <col><b>Vice-admiralty court</b></col>, <cd>a court with admiralty jurisdiction, established by authority of Parliament in British possessions beyond the seas.</cd> <au>Abbott.</au> -- <col><b>Vice chamberlain</b></col>, <cd>an officer in court next in rank to the lord chamberlain.</cd> <mark>[Eng.]</mark> -- <col><b>Vice chancellor</b></col>. <sd>(a)</sd> <fld>(Law)</fld> <cd>An officer next in rank to a chancellor.</cd> <sd>(b)</sd> <cd>An officer in a university, chosen to perform certain duties, as the conferring of degrees, in the absence of the chancellor.</cd> <sd>(c)</sd> <fld>(R. C. Ch.)</fld> <cd>The cardinal at the head of the Roman Chancery.</cd> -- <col><b>Vice consul</b></col> <ety>[cf. F. <ets>vice-consul</ets>]</ety>, <cd>a subordinate officer, authorized to exercise consular functions in some particular part of a district controlled by a consul.</cd> -- <col><b>Vice king</b></col>, <cd>one who acts in the place of a king; a viceroy.</cd> -- <col><b>Vice legate</b></col> <ety>[cf. F. <ets>vice-l<eacute/gat</ets>]</ety>, <cd>a legate second in rank to, or acting in place of, another legate.</cd> -- <col><b>Vice presidency</b></col>, <cd>the office of vice president.</cd> -- <col><b>Vice president</b></col> <ety>[cf. F. <ets>vice-pr<eacute/sident</ets>]</ety>, <cd>an officer next in rank below a president.</cd></cs><br/
+<p><cs><col>Vice admiral</col>. <ety>[Cf. F. <ets>vice-amiral</ets>.]</ety> <sd>(a)</sd> <cd>An officer holding rank next below an admiral. By the existing laws, the rank of admiral and vice admiral in the United States Navy will cease at the death of the present incumbents.</cd> <sd>(b)</sd> <cd>A civil officer, in Great Britain, appointed by the lords commissioners of the admiralty for exercising admiralty jurisdiction within their respective districts.</cd> -- <col>Vice admiralty</col>, <cd>the office of a vice admiral.</cd> -- <col>Vice-admiralty court</col>, <cd>a court with admiralty jurisdiction, established by authority of Parliament in British possessions beyond the seas.</cd> <au>Abbott.</au> -- <col>Vice chamberlain</col>, <cd>an officer in court next in rank to the lord chamberlain.</cd> <mark>[Eng.]</mark> -- <col>Vice chancellor</col>. <sd>(a)</sd> <fld>(Law)</fld> <cd>An officer next in rank to a chancellor.</cd> <sd>(b)</sd> <cd>An officer in a university, chosen to perform certain duties, as the conferring of degrees, in the absence of the chancellor.</cd> <sd>(c)</sd> <fld>(R. C. Ch.)</fld> <cd>The cardinal at the head of the Roman Chancery.</cd> -- <col>Vice consul</col> <ety>[cf. F. <ets>vice-consul</ets>]</ety>, <cd>a subordinate officer, authorized to exercise consular functions in some particular part of a district controlled by a consul.</cd> -- <col>Vice king</col>, <cd>one who acts in the place of a king; a viceroy.</cd> -- <col>Vice legate</col> <ety>[cf. F. <ets>vice-l<eacute/gat</ets>]</ety>, <cd>a legate second in rank to, or acting in place of, another legate.</cd> -- <col>Vice presidency</col>, <cd>the office of vice president.</cd> -- <col>Vice president</col> <ety>[cf. F. <ets>vice-pr<eacute/sident</ets>]</ety>, <cd>an officer next in rank below a president.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viced</ent><br/
@@ -7854,7 +7854,7 @@ The post of honor is a private station.</q> <rj><qau>Addison.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Organic Chem.)</fld> <def>Having the substituted groups on the same carbon atom.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Vicinal planes</b></col> <fld>(Min.)</fld>, <cd>subordinate planes on a crystal, which are very near to the fundamental planes in angles, and sometimes take their place. They have in general very complex symbols.</cd></cs><br/
+<p><cs><col>Vicinal planes</col> <fld>(Min.)</fld>, <cd>subordinate planes on a crystal, which are very near to the fundamental planes in angles, and sometimes take their place. They have in general very complex symbols.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vicine</ent><br/
@@ -7972,7 +7972,7 @@ In their <qex>vicissitude</qex>, and rule the night.</q> <rj><qau>Milton.</qau><
 <hw>Vi*con"ti*el</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From OE. <ets>vicounte</ets> a viscount.  See <er>Viscount</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>Of or pertaining to the viscount or sheriff of a county.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vicontiel rents</b></col>. <cd>See <er>Vicontiels</er>.</cd> -- <col><b>Vicontiel writs</b></col>, <cd>such writs as were triable in the sheriff, or county, court.</cd></cs><br/
+<p><cs><col>Vicontiel rents</col>. <cd>See <er>Vicontiels</er>.</cd> -- <col>Vicontiel writs</col>, <cd>such writs as were triable in the sheriff, or county, court.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vicontiels</ent><br/
@@ -8043,7 +8043,7 @@ And fame, this lord of useless thousands ends.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>4.</sn> <def>One of an American breed of medium-sized white hogs with a slightly dished face and very erect ears.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Victoria cross</b></col>, <cd>a bronze Maltese cross, awarded for valor to members of the British army or navy. It was first bestowed in 1857, at the close of the Crimean war. The recipients also have a pension of <pound/10 a year.</cd> -- <col><b>Victoria green</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Emerald green</cref>, under <er>Green</er>.</cd> -- <col><b>Victoria lily</b></col> <fld>(Bot.)</fld>, <cd>the <cref>Victoria regia</cref>.  See def. <snr>1</snr>, above.</cd></cs><br/
+<p><cs><col>Victoria cross</col>, <cd>a bronze Maltese cross, awarded for valor to members of the British army or navy. It was first bestowed in 1857, at the close of the Crimean war. The recipients also have a pension of <pound/10 a year.</cd> -- <col>Victoria green</col>. <fld>(Chem.)</fld> <cd>See <cref>Emerald green</cref>, under <er>Green</er>.</cd> -- <col>Victoria lily</col> <fld>(Bot.)</fld>, <cd>the <cref>Victoria regia</cref>.  See def. <snr>1</snr>, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Victoria crape</ent><br/
@@ -8054,7 +8054,7 @@ And fame, this lord of useless thousands ends.</q> <rj><qau>Pope.</qau></rj><br/
 <hw>Vic*to"ri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to the reign of <person>Queen Victoria</person> of England; <as>as, the <ex>Victorian</ex> poets</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Victorian period</b></col>. <cd>See <cref>Dionysian period</cref>, under <er>Dyonysian</er>.</cd></cs><br/
+<p><cs><col>Victorian period</col>. <cd>See <cref>Dionysian period</cref>, under <er>Dyonysian</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Victorine</ent><br/
@@ -8148,7 +8148,7 @@ Bare <qex>victual</qex> for the mowers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>4.</sn> <def>One who deals in grain; a corn factor.</def>  <mark>[Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Licensed victualer</b></col>. <cd>See under <er>Licensed</er>.</cd></cs><br/
+<p><cs><col>Licensed victualer</col>. <cd>See under <er>Licensed</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Victualing</ent><br/
@@ -8334,7 +8334,7 @@ And then a <qex>vie</qex> for boys.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 Dazzled, before we never knew.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Field of view</b></col>. <cd>See under <er>Field</er>.</cd> -- <col><b>Point of view</b></col>. <cd>See under <er>Point</er>.</cd> -- <col><b>To have in view</b></col>, <cd>to have in mind as an incident, object, or aim; <as>as, <ex>to have</ex> one's resignation <ex>in view</ex></as>.</cd> -- <col><b>View halloo</b></col>, <cd>the shout uttered by a hunter upon seeing the fox break cover.</cd> -- <col><b>View of frankpledge</b></col> <fld>(Law)</fld>, <cd>a court of record, held in a hundred, lordship, or manor, before the steward of the leet.</cd> <au>Blackstone.</au> -- <col><b>View of premises</b></col> <fld>(Law)</fld>, <cd>the inspection by the jury of the place where a litigated transaction is said to have occurred.</cd></cs><br/
+<p><cs><col>Field of view</col>. <cd>See under <er>Field</er>.</cd> -- <col>Point of view</col>. <cd>See under <er>Point</er>.</cd> -- <col>To have in view</col>, <cd>to have in mind as an incident, object, or aim; <as>as, <ex>to have</ex> one's resignation <ex>in view</ex></as>.</cd> -- <col>View halloo</col>, <cd>the shout uttered by a hunter upon seeing the fox break cover.</cd> -- <col>View of frankpledge</col> <fld>(Law)</fld>, <cd>a court of record, held in a hundred, lordship, or manor, before the steward of the leet.</cd> <au>Blackstone.</au> -- <col>View of premises</col> <fld>(Law)</fld>, <cd>the inspection by the jury of the place where a litigated transaction is said to have occurred.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>View</ent><br/
@@ -8439,7 +8439,7 @@ And say, <ldquo/To-morrow is St. Crispian.<rdquo/</q> <rj><qau>Shak.</qau></rj><
 <p><sd>(c)</sd> <def>A religious service performed in the evening preceding a feast.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Vigils of flowers</b></col> <it>or</it> <col><b>Watchings of flowers</b></col></mcol> <fld>(Bot.)</fld>, <cd>a peculiar faculty belonging to the flowers of certain plants of opening and closing their petals at certain hours of the day.</cd> <mark>[R.]</mark></cs><br/
+<p><cs><mcol><col>Vigils of flowers</col> <it>or</it> <col>Watchings of flowers</col></mcol> <fld>(Bot.)</fld>, <cd>a peculiar faculty belonging to the flowers of certain plants of opening and closing their petals at certain hours of the day.</cd> <mark>[R.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vigilance</ent><br/
@@ -8457,7 +8457,7 @@ I dread.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Guard; watch.</def>  <mark>[Obs.]</mark> <ldquo/In at this gate none pass the <xex>vigilance</xex> here placed.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vigilance committee</b></col>, <cd>a volunteer committee of citizens for the oversight and protection of any interest, esp. one organized for the summary suppression and punishment of crime, as when the processes of law appear inadequate.</cd></cs><br/
+<p><cs><col>Vigilance committee</col>, <cd>a volunteer committee of citizens for the oversight and protection of any interest, esp. one organized for the summary suppression and punishment of crime, as when the processes of law appear inadequate.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vigilancy</ent><br/
@@ -8682,7 +8682,7 @@ From thorp or <qex>vill</qex> his matins sound for me.</q> <rj><qau>Wordsworth.<
 <hw>Vil"lage</hw> <pr>(?; 48)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>villaticus</ets> belonging to a country house or villa.  See <er>Villa</er>, and cf. <er>Villatic</er>.]</ety> <def>A small assemblage of houses in the country, less than a town or city.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Village cart</b></col>, <cd>a kind of two-wheeled pleasure carriage without a top.</cd></cs><br/
+<p><cs><col>Village cart</col>, <cd>a kind of two-wheeled pleasure carriage without a top.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- <er>Village</er>, <er>Hamlet</er>, <er>Town</er>, <er>City</er>.</syn> <usage> In England, a <xex>hamlet</xex> denotes a collection of houses, too small to have a parish church. A <xex>village</xex> has a church, but no market. A <xex>town</xex> has both a market and a church or churches. A <xex>city</xex> is, in the legal sense, an incorporated borough town, which is, or has been, the place of a bishop's see. In the United States these distinctions do not hold.</usage><br/
@@ -8751,7 +8751,7 @@ Under these hard condition.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>Sorry; mean; mischievous; -- in a familiar sense.</def>  <ldquo/A <xex>villainous</xex> trick of thine eye.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Villainous judgment</b></col> <fld>(O. E. Law)</fld>, <cd>a judgment that casts reproach on the guilty person.</cd></cs><br/
+<p><cs><col>Villainous judgment</col> <fld>(O. E. Law)</fld>, <cd>a judgment that casts reproach on the guilty person.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>--- <wordforms><wf>Vil"lain*ous*ly</wf>, <pos>adv.</pos> <wf>Vil"lain*ous*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -8968,7 +8968,7 @@ Could never <qex>villanize</qex> his father's fame.</q> <rj><qau>Dryden.</qau></
 <hw>Vin"ci*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>vincibilis</ets>, fr. <ets>vincere</ets> to vanquish, conquer: cf. F. <ets>vincible</ets>.  See <er>Victor</er>.]</ety> <def>Capable of being overcome or subdued; conquerable.</def>  <ldquo/He, not <xex>vincible</xex> in spirit . . . drew his sword.<rdquo/ <au>Hayward.</au> <ldquo/<xex>Vincible</xex> by human aid.<rdquo/ <au>Paley.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vincible ignorance</b></col> <fld>(Theol.)</fld>, <cd>ignorance within the individual's control and for which, therefore, he is responsible before God.</cd></cs><br/
+<p><cs><col>Vincible ignorance</col> <fld>(Theol.)</fld>, <cd>ignorance within the individual's control and for which, therefore, he is responsible before God.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vincibleness</ent><br/
@@ -9097,7 +9097,7 @@ Than he that saves a citizen.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><sn>2.</sn> <def>Punitive.</def>  <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vindictive damages</b></col>. <fld>(Law)</fld> <cd>See under <er>Damage</er>, <pos>n.</pos></cd></cs><br/
+<p><cs><col>Vindictive damages</col>. <fld>(Law)</fld> <cd>See under <er>Damage</er>, <pos>n.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Vin*dic"tive*ly</wf>, <pos>adv.</pos> -- <wf>Vin*dic"tive*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -9113,7 +9113,7 @@ Than he that saves a citizen.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><q>And one went out into the field to gather herbs, and found a wild <qex>vine</qex>, and gathered thereof wild gourds.</q> <rj><qau>2 Kings iv. 89.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vine apple</b></col> <fld>(Bot.)</fld>, <cd>a small kind of squash.</cd> <au>Roger Williams.</au> -- <col><b>Vine beetle</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of beetles which are injurious to the leaves or branches of the grapevine. Among the more important species are the grapevine fidia (see <er>Fidia</er>), the spotted Pelidnota (<spn>Pelidnota punctata</spn>) (see <er>Rutilian</er>), the vine fleabeetle (<spn>Graptodera chalybea</spn>), the rose beetle (see under <er>Rose</er>), the vine weevil, and several species of <gen>Colaspis</gen> and <gen>Anomala</gen>.</cd> -- <col><b>Vine borer</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any one of several species of beetles whose larvae bore in the wood or pith of the grapevine, especially <spn>Sinoxylon basilare</spn>, a small species the larva of which bores in the stems, and <spn>Ampeloglypter sesostris</spn>, a small reddish brown weevil (called also <altname>vine weevil</altname>), which produces knotlike galls on the branches.</cd> <sd>(b)</sd> <cd>A clearwing moth (<spn>Aegeria polistiformis</spn>), whose larva bores in the roots of the grapevine and is often destructive.</cd> -- <col><b>Vine dragon</b></col>, <cd>an old and fruitless branch of a vine.</cd> <mark>[Obs.]</mark> <au>Holland.</au> -- <col><b>Vine forester</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of moths belonging to <gen>Alypia</gen> and allied genera, whose larvae feed on the leaves of the grapevine.</cd> -- <col><b>Vine fretter</b></col> <fld>(Zool.)</fld>, <cd>a plant louse, esp. the phylloxera that injuries the grapevine.</cd> -- <col><b>Vine grub</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of insect larvae that are injurious to the grapevine.</cd> -- <col><b>Vine hopper</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of leaf hoppers which suck the sap of the grapevine, especially <spn>Erythroneura vitis</spn>.  See <xex>Illust.</xex> of <cref>Grape hopper</cref>, under <er>Grape</er>.</cd> -- <col><b>Vine inchworm</b></col> <fld>(Zool.)</fld>, <cd>the larva of any species of geometrid moths which feed on the leaves of the grapevine, especially <spn>Cidaria diversilineata</spn>.</cd> -- <col><b>Vine-leaf rooer</b></col> <fld>(Zool.)</fld>, <cd>a small moth (<spn>Desmia maculalis</spn>) whose larva makes a nest by rolling up the leaves of the grapevine. The moth is brownish black, spotted with white.</cd> -- <col><b>Vine louse</b></col> <fld>(Zool.)</fld>, <cd>the phylloxera.</cd> -- <col><b>Vine mildew</b></col> <fld>(Bot.)</fld>, <cd>a fungous growth which forms a white, delicate, cottony layer upon the leaves, young shoots, and fruit of the vine, causing brown spots upon the green parts, and finally a hardening and destruction of the vitality of the surface. The plant has been called <spn>Oidium Tuckeri</spn>, but is now thought to be the conidia-producing stage of an <gen>Erysiphe</gen>.</cd> -- <col><b>Vine of Sodom</b></col> <fld>(Bot.)</fld>, <cd>a plant named in the Bible (<au>Deut. xxxii. 32</au>), now thought to be identical with the apple of Sodom.  See <cref>Apple of Sodom</cref>, under <er>Apple</er>.</cd> -- <col><b>Vine sawfly</b></col> <fld>(Zool.)</fld>, <cd>a small black sawfiy (<spn>Selandria vitis</spn>) whose larva feeds upon the leaves of the grapevine. The larvae stand side by side in clusters while feeding.</cd> -- <col><b>Vine slug</b></col> <fld>(Zool.)</fld>, <cd>the larva of the vine sawfly.</cd> -- <col><b>Vine sorrel</b></col> <fld>(Bot.)</fld>, <cd>a climbing plant (<spn>Cissus acida</spn>) related to the grapevine, and having acid leaves. It is found in Florida and the West Indies.</cd> -- <col><b>Vine sphinx</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of hawk moths. The larvae feed on grapevine leaves.</cd> -- <col><b>Vine weevil</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Vine borer</cref> <sdr>(a)</sdr> above, and <cref>Wound gall</cref>, under <er>Wound</er>.</cd></cs><br/
+<p><cs><col>Vine apple</col> <fld>(Bot.)</fld>, <cd>a small kind of squash.</cd> <au>Roger Williams.</au> -- <col>Vine beetle</col> <fld>(Zool.)</fld>, <cd>any one of several species of beetles which are injurious to the leaves or branches of the grapevine. Among the more important species are the grapevine fidia (see <er>Fidia</er>), the spotted Pelidnota (<spn>Pelidnota punctata</spn>) (see <er>Rutilian</er>), the vine fleabeetle (<spn>Graptodera chalybea</spn>), the rose beetle (see under <er>Rose</er>), the vine weevil, and several species of <gen>Colaspis</gen> and <gen>Anomala</gen>.</cd> -- <col>Vine borer</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any one of several species of beetles whose larvae bore in the wood or pith of the grapevine, especially <spn>Sinoxylon basilare</spn>, a small species the larva of which bores in the stems, and <spn>Ampeloglypter sesostris</spn>, a small reddish brown weevil (called also <altname>vine weevil</altname>), which produces knotlike galls on the branches.</cd> <sd>(b)</sd> <cd>A clearwing moth (<spn>Aegeria polistiformis</spn>), whose larva bores in the roots of the grapevine and is often destructive.</cd> -- <col>Vine dragon</col>, <cd>an old and fruitless branch of a vine.</cd> <mark>[Obs.]</mark> <au>Holland.</au> -- <col>Vine forester</col> <fld>(Zool.)</fld>, <cd>any one of several species of moths belonging to <gen>Alypia</gen> and allied genera, whose larvae feed on the leaves of the grapevine.</cd> -- <col>Vine fretter</col> <fld>(Zool.)</fld>, <cd>a plant louse, esp. the phylloxera that injuries the grapevine.</cd> -- <col>Vine grub</col> <fld>(Zool.)</fld>, <cd>any one of numerous species of insect larvae that are injurious to the grapevine.</cd> -- <col>Vine hopper</col> <fld>(Zool.)</fld>, <cd>any one of several species of leaf hoppers which suck the sap of the grapevine, especially <spn>Erythroneura vitis</spn>.  See <xex>Illust.</xex> of <cref>Grape hopper</cref>, under <er>Grape</er>.</cd> -- <col>Vine inchworm</col> <fld>(Zool.)</fld>, <cd>the larva of any species of geometrid moths which feed on the leaves of the grapevine, especially <spn>Cidaria diversilineata</spn>.</cd> -- <col>Vine-leaf rooer</col> <fld>(Zool.)</fld>, <cd>a small moth (<spn>Desmia maculalis</spn>) whose larva makes a nest by rolling up the leaves of the grapevine. The moth is brownish black, spotted with white.</cd> -- <col>Vine louse</col> <fld>(Zool.)</fld>, <cd>the phylloxera.</cd> -- <col>Vine mildew</col> <fld>(Bot.)</fld>, <cd>a fungous growth which forms a white, delicate, cottony layer upon the leaves, young shoots, and fruit of the vine, causing brown spots upon the green parts, and finally a hardening and destruction of the vitality of the surface. The plant has been called <spn>Oidium Tuckeri</spn>, but is now thought to be the conidia-producing stage of an <gen>Erysiphe</gen>.</cd> -- <col>Vine of Sodom</col> <fld>(Bot.)</fld>, <cd>a plant named in the Bible (<au>Deut. xxxii. 32</au>), now thought to be identical with the apple of Sodom.  See <cref>Apple of Sodom</cref>, under <er>Apple</er>.</cd> -- <col>Vine sawfly</col> <fld>(Zool.)</fld>, <cd>a small black sawfiy (<spn>Selandria vitis</spn>) whose larva feeds upon the leaves of the grapevine. The larvae stand side by side in clusters while feeding.</cd> -- <col>Vine slug</col> <fld>(Zool.)</fld>, <cd>the larva of the vine sawfly.</cd> -- <col>Vine sorrel</col> <fld>(Bot.)</fld>, <cd>a climbing plant (<spn>Cissus acida</spn>) related to the grapevine, and having acid leaves. It is found in Florida and the West Indies.</cd> -- <col>Vine sphinx</col> <fld>(Zool.)</fld>, <cd>any one of several species of hawk moths. The larvae feed on grapevine leaves.</cd> -- <col>Vine weevil</col>. <fld>(Zool.)</fld> <cd>See <cref>Vine borer</cref> <sdr>(a)</sdr> above, and <cref>Wound gall</cref>, under <er>Wound</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1611 --><br/
@@ -9151,7 +9151,7 @@ Than he that saves a citizen.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><q>Here's the challenge: . . . I warrant there's <qex>vinegar</qex> and pepper in't.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Aromatic vinegar</b></col>, <cd>strong acetic acid highly flavored with aromatic substances.</cd> -- <col><b>Mother of vinegar</b></col>. <cd>See 4th <er>Mother</er>.</cd> -- <col><b>Radical vinegar</b></col>, <cd>acetic acid.</cd> -- <col><b>Thieves' vinegar</b></col>. <cd>See under <er>Thief</er>.</cd> -- <col><b>Vinegar eel</b></col> <fld>(Zool.)</fld>, <cd>a minute nematode worm (<spn>Leptodera oxophila</spn>, or <spn>Anguillula acetiglutinis</spn>), commonly found in great numbers in vinegar, sour paste, and other fermenting vegetable substances; -- called also <altname>vinegar worm</altname>.</cd> -- <col><b>Vinegar lamp</b></col> <fld>(Chem.)</fld>, <cd>a fanciful name of an apparatus designed to oxidize alcohol to acetic acid by means of platinum.</cd> -- <col><b>Vinegar plant</b></col>. <cd>See 4th <er>Mother</er>.</cd> -- <col><b>Vinegar tree</b></col> <fld>(Bot.)</fld>, <cd>the stag-horn sumac (<spn>Rhus typhina</spn>), whose acid berries have been used to intensify the sourness of vinegar.</cd> -- <col><b>Wood vinegar</b></col>. <cd>See under <er>Wood</er>.</cd></cs><br/
+<p><cs><col>Aromatic vinegar</col>, <cd>strong acetic acid highly flavored with aromatic substances.</cd> -- <col>Mother of vinegar</col>. <cd>See 4th <er>Mother</er>.</cd> -- <col>Radical vinegar</col>, <cd>acetic acid.</cd> -- <col>Thieves' vinegar</col>. <cd>See under <er>Thief</er>.</cd> -- <col>Vinegar eel</col> <fld>(Zool.)</fld>, <cd>a minute nematode worm (<spn>Leptodera oxophila</spn>, or <spn>Anguillula acetiglutinis</spn>), commonly found in great numbers in vinegar, sour paste, and other fermenting vegetable substances; -- called also <altname>vinegar worm</altname>.</cd> -- <col>Vinegar lamp</col> <fld>(Chem.)</fld>, <cd>a fanciful name of an apparatus designed to oxidize alcohol to acetic acid by means of platinum.</cd> -- <col>Vinegar plant</col>. <cd>See 4th <er>Mother</er>.</cd> -- <col>Vinegar tree</col> <fld>(Bot.)</fld>, <cd>the stag-horn sumac (<spn>Rhus typhina</spn>), whose acid berries have been used to intensify the sourness of vinegar.</cd> -- <col>Wood vinegar</col>. <cd>See under <er>Wood</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vinegar</ent><br/
@@ -9278,7 +9278,7 @@ As he was bid.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>2.</sn> <def>The act or time of gathering the crop of grapes, or making the wine for a season.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vintage spring</b></col>, <cd>a wine fount.</cd> -- <col><b>Vintage time</b></col>, <cd>the time of gathering grapes and making wine.</cd>  <rj><au>Milton.</au></rj></cs><br/
+<p><cs><col>Vintage spring</col>, <cd>a wine fount.</cd> -- <col>Vintage time</col>, <cd>the time of gathering grapes and making wine.</cd>  <rj><au>Milton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vintager</ent><br/
@@ -9298,7 +9298,7 @@ As he was bid.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vinum</ent><br/
-\'d8<hw>Vi"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Vina</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Wine</er>.]</ety> <def>Wine, -- chiefly used in <fld>Pharmacy</fld> in the name of solutions of some medicinal substance in wine; as: <col><b>vina medicata</b></col>, medicated wines; <col><b>vinum opii</b></col>, wine of opium.</def><br/
+\'d8<hw>Vi"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Vina</plw> <pr>(#)</pr></plu>. <ety>[L. See <er>Wine</er>.]</ety> <def>Wine, -- chiefly used in <fld>Pharmacy</fld> in the name of solutions of some medicinal substance in wine; as: <col>vina medicata</col>, medicated wines; <col>vinum opii</col>, wine of opium.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Viny</ent><br/
@@ -9334,7 +9334,7 @@ Of lute, or <qex>viol</qex> still, more apt for mournful things.</q> <rj><qau>Mi
 <hw>Vi"o*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.  See <er>Viol</er>.]</ety> <fld>(Mus.)</fld> <def>An instrument in form and use resembling the violin, but larger, and a fifth lower in compass.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>\'d8<col><b>Viola da braccio</b></col> <ety>[It., viol for the arm]</ety>, <cd>the tenor viol, or viola, a fifth lower than the violin. Its part is written in the alto clef, hence it is sometimes called the <altname>alto</altname>.</cd> -- \'d8<col><b>Viola da gamba</b></col> <ety>[It., viol for the leg]</ety>, <cd>an instrument resembling the viola, but larger, and held between the knees. It is now rarely used.</cd> -- \'d8<col><b>Viola da spalla</b></col> <ety>[It., viol for the shoulder]</ety>, <cd>an instrument formerly used, resembling the viola, and intermediate in size between the viola and the viola da gamba.</cd> -- \'d8<col><b>Viola di amore</b></col> <ety>[It., viol of love: cf. F. <ets>viole d'amour</ets>]</ety>, <cd>a viol, larger than the viola, having catgut strings upon, and brass or steel wires under, the keyboard. These, sounding sympathetically with the strings, yield a peculiarly soft and silvery sound. It is now seldom used.</cd></cs><br/
+<p><cs>\'d8<col>Viola da braccio</col> <ety>[It., viol for the arm]</ety>, <cd>the tenor viol, or viola, a fifth lower than the violin. Its part is written in the alto clef, hence it is sometimes called the <altname>alto</altname>.</cd> -- \'d8<col>Viola da gamba</col> <ety>[It., viol for the leg]</ety>, <cd>an instrument resembling the viola, but larger, and held between the knees. It is now rarely used.</cd> -- \'d8<col>Viola da spalla</col> <ety>[It., viol for the shoulder]</ety>, <cd>an instrument formerly used, resembling the viola, and intermediate in size between the viola and the viola da gamba.</cd> -- \'d8<col>Viola di amore</col> <ety>[It., viol of love: cf. F. <ets>viole d'amour</ets>]</ety>, <cd>a viol, larger than the viola, having catgut strings upon, and brass or steel wires under, the keyboard. These, sounding sympathetically with the strings, yield a peculiarly soft and silvery sound. It is now seldom used.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Violable</ent><br/
@@ -9449,7 +9449,7 @@ The whole earth filled with <qex>violence</qex>.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>3.</sn> <def>Ravishment; rape; constupration.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To do violence on</b></col>, <cd>to attack; to murder.</cd> <ldquo/She . . . <xex>did violence on</xex> herself.<rdquo/ <au>Shak.</au> -- <col><b>To do violence to</b></col>, <cd>to outrage; to injure; <as>as, he <ex>does violence to</ex> his own opinions</as>.</cd></cs><br/
+<p><cs><col>To do violence on</col>, <cd>to attack; to murder.</cd> <ldquo/She . . . <xex>did violence on</xex> herself.<rdquo/ <au>Shak.</au> -- <col>To do violence to</col>, <cd>to outrage; to injure; <as>as, he <ex>does violence to</ex> his own opinions</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Vehemence; outrage; fierceness; eagerness; violation; infraction; infringement; transgression; oppression.</syn><br/
@@ -9491,7 +9491,7 @@ The whole earth filled with <qex>violence</qex>.</q> <rj><qau>Milton.</qau></rj>
 Vows made in pain, as <qex>violent</qex> and void.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Violent presumption</b></col> <fld>(Law)</fld>, <cd>presumption of a fact that arises from proof of circumstances which necessarily attend such facts.</cd> -- <col><b>Violent profits</b></col> <fld>(Scots Law)</fld>, <cd>rents or profits of an estate obtained by a tenant wrongfully holding over after warning. They are recoverable in a process of removing.</cd></cs><br/
+<p><cs><col>Violent presumption</col> <fld>(Law)</fld>, <cd>presumption of a fact that arises from proof of circumstances which necessarily attend such facts.</cd> -- <col>Violent profits</col> <fld>(Scots Law)</fld>, <cd>rents or profits of an estate obtained by a tenant wrongfully holding over after warning. They are recoverable in a process of removing.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Fierce; vehement; outrageous; boisterous; turbulent; impetuous; passionate; severe; extreme.</syn><br/
@@ -9541,14 +9541,14 @@ As that which causeth it.</q> <rj><qau>Shak.</qau></rj><br/
 <p><-- p. 1612 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Corn violet</b></col>. <cd>See under <er>Corn</er>.</cd> -- <col><b>Dame's violet</b></col>. <fld>(Bot.)</fld> <cd>See <er>Damewort</er>.</cd> -- <col><b>Dogtooth violet</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Dogtooth</er>.</cd> -- <col><b>Water violet</b></col> <fld>(Bot.)</fld>, <cd>an aquatic European herb (<spn>Hottonia palustris</spn>) with pale purplish flowers and pinnatifid leaves.</cd></cs><br/
+<p><cs><col>Corn violet</col>. <cd>See under <er>Corn</er>.</cd> -- <col>Dame's violet</col>. <fld>(Bot.)</fld> <cd>See <er>Damewort</er>.</cd> -- <col>Dogtooth violet</col>. <fld>(Bot.)</fld> <cd>See under <er>Dogtooth</er>.</cd> -- <col>Water violet</col> <fld>(Bot.)</fld>, <cd>an aquatic European herb (<spn>Hottonia palustris</spn>) with pale purplish flowers and pinnatifid leaves.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Violet</ent><br/
 <hw>Vi"o*let</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>violet</ets>.  See <er>Violet</er>, <pos>n.</pos>]</ety> <def>Dark blue, inclining to red; bluish purple; having a color produced by red and blue combined.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Violet shell</b></col> <fld>(Zool.)</fld>, <cd>any species of Ianthina; -- called also <altname>violet snail</altname>.  See <er>Ianthina</er>.</cd> -- <col><b>Violet wood</b></col>, <cd>a name given to several kinds of hard purplish or reddish woods, as king wood, myall wood, and the wood of the <spn>Andira violacea</spn>, a tree of Guiana.</cd></cs><br/
+<p><cs><col>Violet shell</col> <fld>(Zool.)</fld>, <cd>any species of Ianthina; -- called also <altname>violet snail</altname>.  See <er>Ianthina</er>.</cd> -- <col>Violet wood</col>, <cd>a name given to several kinds of hard purplish or reddish woods, as king wood, myall wood, and the wood of the <spn>Andira violacea</spn>, a tree of Guiana.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Violet-ear</ent><br/
@@ -9626,7 +9626,7 @@ Of secrecy.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Loosely, any venomous or presumed venomous snake.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Horned viper</b></col>. <fld>(Zool.)</fld> <cd>See <er>Cerastes</er>.</cd> -- <col><b>Red viper</b></col> <fld>(Zool.)</fld>, <cd>the copperhead.</cd> -- <col><b>Viper fish</b></col> <fld>(Zool.)</fld>, <cd>a small, slender, phosphorescent deep-sea fish (<spn>Chauliodus Sloanii</spn>).  It has long ventral and dorsal fins, a large mouth, and very long, sharp teeth.</cd> -- <col><b>Viper's bugloss</b></col> <fld>(Bot.)</fld>, <cd>a rough-leaved biennial herb (<spn>Echium vulgare</spn>) having showy purplish blue flowers.  It is sometimes cultivated, but has become a pestilent weed in fields from New York to Virginia.  Also called <altname>blue weed</altname>.</cd> -- <col><b>Viper's grass</b></col> <fld>(Bot.)</fld>, <cd>a perennial composite herb (<spn>Scorzonera Hispanica</spn>) with narrow, entire leaves, and solitary heads of yellow flowers.  The long, white, carrot-shaped roots are used for food in Spain and some other countries.  Called also <altname>viper grass</altname>.</cd></cs><br/
+<p><cs><col>Horned viper</col>. <fld>(Zool.)</fld> <cd>See <er>Cerastes</er>.</cd> -- <col>Red viper</col> <fld>(Zool.)</fld>, <cd>the copperhead.</cd> -- <col>Viper fish</col> <fld>(Zool.)</fld>, <cd>a small, slender, phosphorescent deep-sea fish (<spn>Chauliodus Sloanii</spn>).  It has long ventral and dorsal fins, a large mouth, and very long, sharp teeth.</cd> -- <col>Viper's bugloss</col> <fld>(Bot.)</fld>, <cd>a rough-leaved biennial herb (<spn>Echium vulgare</spn>) having showy purplish blue flowers.  It is sometimes cultivated, but has become a pestilent weed in fields from New York to Virginia.  Also called <altname>blue weed</altname>.</cd> -- <col>Viper's grass</col> <fld>(Bot.)</fld>, <cd>a perennial composite herb (<spn>Scorzonera Hispanica</spn>) with narrow, entire leaves, and solitary heads of yellow flowers.  The long, white, carrot-shaped roots are used for food in Spain and some other countries.  Called also <altname>viper grass</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viperina</ent><br/
@@ -9637,7 +9637,7 @@ Of secrecy.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Vi"per*ine</hw> <pr>(?; 277)</pr>, <pos>a.</pos> <ety>[L. <ets>viperinus</ets>: cf. F. <ets>vip<eacute/rin</ets>.]</ety> <def>Of or pertaining to a viper or vipers; resembling a viper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Viperine snake</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any venomous snake of the family <fam>Viperidae</fam>.</cd> <sd>(b)</sd> <cd>A harmless snake resembling a viper in form or color, esp. <spn>Tropidonotus viperinus</spn>, a small European species which resembles the viper in color.</cd></cs><br/
+<p><cs><col>Viperine snake</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any venomous snake of the family <fam>Viperidae</fam>.</cd> <sd>(b)</sd> <cd>A harmless snake resembling a viper in form or color, esp. <spn>Tropidonotus viperinus</spn>, a small European species which resembles the viper in color.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viperish</ent><br/
@@ -9774,7 +9774,7 @@ He was a <qex>virgin</qex>, as he said.</q> <rj><qau>Gower.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>A female insect producing eggs from which young are hatched, though there has been no fecundation by a male; a parthenogenetic insect.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>The Virgin</b></col>, <it>or</it> <col><b>The Blessed Virgin</b></col></mcol>, <cd>the Virgin Mary, the Mother of <person>Jesus Christ</person>.</cd> -- <col><b>Virgin's bower</b></col> <fld>(Bot.)</fld>, <cd>a name given to several climbing plants of the genus <gen>Clematis</gen>, as <spn>Clematis Vitalba</spn> of Europe, and <spn>Clematis Virginiana</spn> of North America.</cd></cs><br/
+<p><cs><mcol><col>The Virgin</col>, <it>or</it> <col>The Blessed Virgin</col></mcol>, <cd>the Virgin Mary, the Mother of <person>Jesus Christ</person>.</cd> -- <col>Virgin's bower</col> <fld>(Bot.)</fld>, <cd>a name given to several climbing plants of the genus <gen>Clematis</gen>, as <spn>Clematis Vitalba</spn> of Europe, and <spn>Clematis Virginiana</spn> of North America.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Virgin</ent><br/
@@ -9805,7 +9805,7 @@ That would be wooed, and unsought be won.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Vir"gin*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>virginalis</ets>: cf. F. <ets>virginal</ets>.]</ety> <def>Of or pertaining to a virgin; becoming a virgin; maidenly.</def>  <ldquo/Chastity and honor <xex>virginal</xex>.<rdquo/  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Virginal generation</b></col> <fld>(Biol.)</fld>, <cd>parthenogenesis.</cd> -- <col><b>Virginal membrane</b></col> <fld>(Anat.)</fld>, <cd>the hymen.</cd></cs><br/
+<p><cs><col>Virginal generation</col> <fld>(Biol.)</fld>, <cd>parthenogenesis.</cd> -- <col>Virginal membrane</col> <fld>(Anat.)</fld>, <cd>the hymen.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Virginal</ent><br/
@@ -9824,7 +9824,7 @@ That would be wooed, and unsought be won.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Vir*gin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One of the States of the United States of America.</def>  -- <def2><pos>a.</pos> <def>Of or pertaining to the State of Virginia.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Virginia cowslip</b></col> <fld>(Bot.)</fld>, <cd>the American lungwort (<spn>Mertensia Virginica</spn>).</cd> -- <col><b>Virginia creeper</b></col> <fld>(Bot.)</fld>, <cd>a common ornamental North American woody vine (<spn>Ampelopsis quinquefolia</spn>), climbing extensively by means of tendrils; -- called also <altname>woodbine</altname>, and <altname>American ivy</altname>.</cd> <mark>[U. S.]</mark> -- <col><b>Virginia fence</b></col>. <cd>See <cref>Worm fence</cref>, under <er>Fence</er>.</cd> -- <col><b>Virginia nightingale</b></col> <fld>(Zool.)</fld>, <cd>the cardinal bird.  See under <er>Cardinal</er>.</cd> -- <col><b>Virginia quail</b></col> <fld>(Zool.)</fld>, <cd>the bobwhite.</cd> -- <col><b>Virginia reel</b></col>, <cd>an old English contradance; -- so called in the United States.</cd> <au>Bartlett.</au> -- <col><b>Virginia stock</b></col>. <fld>(Bot.)</fld> <cd>See <er>Mahon stock</er>.</cd></cs><br/
+<p><cs><col>Virginia cowslip</col> <fld>(Bot.)</fld>, <cd>the American lungwort (<spn>Mertensia Virginica</spn>).</cd> -- <col>Virginia creeper</col> <fld>(Bot.)</fld>, <cd>a common ornamental North American woody vine (<spn>Ampelopsis quinquefolia</spn>), climbing extensively by means of tendrils; -- called also <altname>woodbine</altname>, and <altname>American ivy</altname>.</cd> <mark>[U. S.]</mark> -- <col>Virginia fence</col>. <cd>See <cref>Worm fence</cref>, under <er>Fence</er>.</cd> -- <col>Virginia nightingale</col> <fld>(Zool.)</fld>, <cd>the cardinal bird.  See under <er>Cardinal</er>.</cd> -- <col>Virginia quail</col> <fld>(Zool.)</fld>, <cd>the bobwhite.</cd> -- <col>Virginia reel</col>, <cd>an old English contradance; -- so called in the United States.</cd> <au>Bartlett.</au> -- <col>Virginia stock</col>. <fld>(Bot.)</fld> <cd>See <er>Mahon stock</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Virginity</ent><br/
@@ -9934,7 +9934,7 @@ Her sparkling beauty did but see.</q> <rj><qau>Crompton.</qau></rj><br/
 <hw>Vir*tu"</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[It. <ets>virt<ugrave/</ets> virtue, excellence, from L. <ets>virtus</ets>.  See <er>Virtue</er>.]</ety> <def>A love of the fine arts; a taste for curiosities.</def>  <rj><au>J. Spence.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>An article of virtu</b></col>, <it>or</it> <col><b>a piece of virtu</b></col>, <col><b></b></col></mcol>, <cd>an object of art or antiquity; a curiosity, such as those found in museums or private collections.</cd></cs><br/
+<p><cs><mcol><col>An article of virtu</col>, <it>or</it> <col>a piece of virtu</col>, <col></col></mcol>, <cd>an object of art or antiquity; a curiosity, such as those found in museums or private collections.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I had thoughts, in my chambers to place it in view,<br/
@@ -9961,7 +9961,7 @@ Fomented by his <qex>virtual</qex> power, and warmed.</q> <rj><qau>Milton.</qau>
 <p><q>To mask by slight differences in the manners a <qex>virtual</qex> identity in the substance.</q> <rj><qau>De Quincey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Principle of virtual velocities</b></col> <fld>(Mech.)</fld>, <cd>the law that when several forces are in equilibrium, the algebraic sum of their virtual moments is equal to zero.</cd> -- <col><b>Virtual focus</b></col> <fld>(Opt.)</fld>, <cd>the point from which rays, having been rendered divergent by reflection of refraction, appear to issue; the point at which converging rays would meet if not reflected or refracted before they reach it.</cd> -- <col><b>Virtual image</b></col>. <fld>(Optics)</fld> <cd>See under <er>Image</er>.</cd> -- <col><b>Virtual moment</b></col> (of a force) <fld>(Mech.)</fld>, <cd>the product of the intensity of the force multiplied by the virtual velocity of its point of application; -- sometimes called <altname>virtual work</altname>.</cd> -- <col><b>Virtual velocity</b></col> <fld>(Mech.)</fld>, <cd>a minute hypothetical displacement, assumed in analysis to facilitate the investigation of statical problems. With respect to any given force of a number of forces holding a material system in equilibrium, it is the projection, upon the direction of the force, of a line joining its point of application with a new position of that point indefinitely near to the first, to which the point is conceived to have been moved, without disturbing the equilibrium of the system, or the connections of its parts with each other. Strictly speaking, it is not a velocity but a length.</cd> -- <col><b>Virtual work</b></col>. <fld>(Mech.)</fld> <cd>See <cref>Virtual moment</cref>, above.</cd></cs><br/
+<p><cs><col>Principle of virtual velocities</col> <fld>(Mech.)</fld>, <cd>the law that when several forces are in equilibrium, the algebraic sum of their virtual moments is equal to zero.</cd> -- <col>Virtual focus</col> <fld>(Opt.)</fld>, <cd>the point from which rays, having been rendered divergent by reflection of refraction, appear to issue; the point at which converging rays would meet if not reflected or refracted before they reach it.</cd> -- <col>Virtual image</col>. <fld>(Optics)</fld> <cd>See under <er>Image</er>.</cd> -- <col>Virtual moment</col> (of a force) <fld>(Mech.)</fld>, <cd>the product of the intensity of the force multiplied by the virtual velocity of its point of application; -- sometimes called <altname>virtual work</altname>.</cd> -- <col>Virtual velocity</col> <fld>(Mech.)</fld>, <cd>a minute hypothetical displacement, assumed in analysis to facilitate the investigation of statical problems. With respect to any given force of a number of forces holding a material system in equilibrium, it is the projection, upon the direction of the force, of a line joining its point of application with a new position of that point indefinitely near to the first, to which the point is conceived to have been moved, without disturbing the equilibrium of the system, or the connections of its parts with each other. Strictly speaking, it is not a velocity but a length.</cd> -- <col>Virtual work</col>. <fld>(Mech.)</fld> <cd>See <cref>Virtual moment</cref>, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Virtuality</ent><br/
@@ -10045,7 +10045,7 @@ Through all her works, he must delight in <qex>virtue</qex>.</q> <rj><qau>Addiso
 <p><q>Thrones, dominations, princedoms, <qex>virtues</qex>, powers.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cardinal virtues</b></col>. <cd>See under <er>Cardinal</er>, <pos>a.</pos></cd> -- <mcol><col><b>In virtue of</b></col>, <it>or</it> <col><b>By virtue of</b></col></mcol>, <cd>through the force of; by authority of.</cd>  <ldquo/He used to travel through Greece <xex>by virtue of</xex> this fable, which procured him reception in all the towns.<rdquo/ <au>Addison.</au> <ldquo/This they shall attain, partly <xex>in virtue of</xex> the promise made by God, and partly <xex>in virtue of</xex> piety.<rdquo/ <au>Atterbury.</au> -- <col><b>Theological virtues</b></col>, <cd>the three virtues, faith, hope, and charity.  See <au>1 Cor. xiii. 13.</au></cd></cs><br/
+<p><cs><col>Cardinal virtues</col>. <cd>See under <er>Cardinal</er>, <pos>a.</pos></cd> -- <mcol><col>In virtue of</col>, <it>or</it> <col>By virtue of</col></mcol>, <cd>through the force of; by authority of.</cd>  <ldquo/He used to travel through Greece <xex>by virtue of</xex> this fable, which procured him reception in all the towns.<rdquo/ <au>Addison.</au> <ldquo/This they shall attain, partly <xex>in virtue of</xex> the promise made by God, and partly <xex>in virtue of</xex> piety.<rdquo/ <au>Atterbury.</au> -- <col>Theological virtues</col>, <cd>the three virtues, faith, hope, and charity.  See <au>1 Cor. xiii. 13.</au></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Virtueless</ent><br/
@@ -10170,7 +10170,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Physical force.</def>  <sd>(b)</sd> <def>Moral power.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Principle of vis viva</b></col> <fld>(Mech.)</fld>, <cd>the principle that the difference between the aggregate work of the accelerating forces of a system and that of the retarding forces is equal to one half the <xex>vis viva</xex> accumulated or lost in the system while the work is being done.</cd> -- <col><b>Vis impressa</b></col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>force exerted, as in moving a body, or changing the direction of its motion; impressed force.</cd> -- <col><b>Vis inertiae</b></col>. <ety>[L.]</ety> <sd>(a)</sd> <cd>The resistance of matter, as when a body at rest is set in motion, or a body in motion is brought to rest, or has its motion changed, either in direction or in velocity.</cd> <sd>(b)</sd> <cd>Inertness; inactivity.</cd> <note><xex>Vis intertiae</xex> and <xex>inertia</xex> are not strictly synonymous. The former implies the <xex>resistance</xex> itself which is given, while the latter implies merely the <xex>property</xex> by which it is given.</note> -- <col><b>Vis mortua</b></col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>dead force; force doing no active work, but only producing pressure.</cd> -- <mcol><col><b>Vis vitae</b></col>, <it>or</it> <col><b>Vis vitalis</b></col></mcol> <ety>[L.]</ety> <fld>(Physiol.)</fld>, <cd>vital force.</cd> -- <col><b>Vis viva</b></col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>living force; the force of a body moving against resistance, or doing work, in distinction from <xex>vis mortua</xex>, or dead force; the kinetic energy of a moving body; the capacity of a moving body to do work by reason of its being in motion.  See <cref>Kinetic energy</cref>, in the Note under <er>Energy</er>. The term <xex>vis viva</xex> is not usually understood to include that part of the kinetic energy of the body which is due to the vibrations of its molecules.</cd></cs><br/
+<p><cs><col>Principle of vis viva</col> <fld>(Mech.)</fld>, <cd>the principle that the difference between the aggregate work of the accelerating forces of a system and that of the retarding forces is equal to one half the <xex>vis viva</xex> accumulated or lost in the system while the work is being done.</cd> -- <col>Vis impressa</col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>force exerted, as in moving a body, or changing the direction of its motion; impressed force.</cd> -- <col>Vis inertiae</col>. <ety>[L.]</ety> <sd>(a)</sd> <cd>The resistance of matter, as when a body at rest is set in motion, or a body in motion is brought to rest, or has its motion changed, either in direction or in velocity.</cd> <sd>(b)</sd> <cd>Inertness; inactivity.</cd> <note><xex>Vis intertiae</xex> and <xex>inertia</xex> are not strictly synonymous. The former implies the <xex>resistance</xex> itself which is given, while the latter implies merely the <xex>property</xex> by which it is given.</note> -- <col>Vis mortua</col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>dead force; force doing no active work, but only producing pressure.</cd> -- <mcol><col>Vis vitae</col>, <it>or</it> <col>Vis vitalis</col></mcol> <ety>[L.]</ety> <fld>(Physiol.)</fld>, <cd>vital force.</cd> -- <col>Vis viva</col> <ety>[L.]</ety> <fld>(Mech.)</fld>, <cd>living force; the force of a body moving against resistance, or doing work, in distinction from <xex>vis mortua</xex>, or dead force; the kinetic energy of a moving body; the capacity of a moving body to do work by reason of its being in motion.  See <cref>Kinetic energy</cref>, in the Note under <er>Energy</er>. The term <xex>vis viva</xex> is not usually understood to include that part of the kinetic energy of the body which is due to the vibrations of its molecules.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Visa</ent><br/
@@ -10249,7 +10249,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>dealing with coarse or base emotions; -- <as>as, a <ex>visceral</ex> literary style</as>.</def> <au>[RHUD]</au><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Visceral arches</b></col> <fld>(Anat.)</fld>, <cd>the bars or ridges between the visceral clefts.</cd> -- <mcol><col><b>Visceral cavity</b></col> <it>or</it> <col><b>Visceral tube</b></col></mcol> <fld>(Anat.)</fld>, <cd>the ventral cavity of a vertebrate, which contains the alimentary canal, as distinguished from the dorsal, or cerebro-spinal, canal.</cd> -- <col><b>Visceral clefts</b></col> <fld>(Anat.)</fld>, <cd>transverse clefts on the sides just back of the mouth in the vertebrate embryo, which open into the pharyngeal portion of the alimentary canal, and correspond to the branchial clefts in adult fishes.</cd></cs><br/
+<p><cs><col>Visceral arches</col> <fld>(Anat.)</fld>, <cd>the bars or ridges between the visceral clefts.</cd> -- <mcol><col>Visceral cavity</col> <it>or</it> <col>Visceral tube</col></mcol> <fld>(Anat.)</fld>, <cd>the ventral cavity of a vertebrate, which contains the alimentary canal, as distinguished from the dorsal, or cerebro-spinal, canal.</cd> -- <col>Visceral clefts</col> <fld>(Anat.)</fld>, <cd>transverse clefts on the sides just back of the mouth in the vertebrate embryo, which open into the pharyngeal portion of the alimentary canal, and correspond to the branchial clefts in adult fishes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viscerate</ent><br/
@@ -10364,7 +10364,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The factions at court were greater, or more <qex>visible</qex>, than before.</q> <rj><qau>Clarendon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Visible church</b></col> <fld>(Theol.)</fld>, <cd>the apparent church of Christ on earth; the whole body of professed believers in Christ, as contradistinguished from the <xex>invisible</xex>, or real, church, consisting of sanctified persons.</cd> -- <col><b>Visible horizon</b></col>. <cd>Same as <cref>Apparent horizon</cref>, under <er>Apparent</er>.</cd></cs><br/
+<p><cs><col>Visible church</col> <fld>(Theol.)</fld>, <cd>the apparent church of Christ on earth; the whole body of professed believers in Christ, as contradistinguished from the <xex>invisible</xex>, or real, church, consisting of sanctified persons.</cd> -- <col>Visible horizon</col>. <cd>Same as <cref>Apparent horizon</cref>, under <er>Apparent</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Vis"i*ble*ness</wf>, <pos>n.</pos> -- <wf>Vis"i*bly</wf>, <pos>adv.</pos></wordforms><br/
@@ -10403,7 +10403,7 @@ By a strong siding champion, conscience.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <def>Hence, something unreal or imaginary; a creation of fancy.</def>  <rj><au>Locke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Arc of vision</b></col> <fld>(Astron.)</fld>, <cd>the arc which measures the least distance from the sun at which, when the sun is below the horizon, a star or planet emerging from his rays becomes visible.</cd> -- <col><b>Beatific vision</b></col> <fld>(Theol.)</fld>, <cd>the immediate sight of God in heaven.</cd> -- <col><b>Direct vision</b></col> <fld>(Opt.)</fld>, <cd>vision when the image of the object falls directly on the yellow spot (see under <er>Yellow</er>); also, vision by means of rays which are not deviated from their original direction.</cd> -- <col><b>Field of vision</b></col>, <cd>field of view.  See under <er>Field</er>.</cd> -- <col><b>Indirect vision</b></col> <fld>(Opt.)</fld>, <cd>vision when the rays of light from an object fall upon the peripheral parts of the retina.</cd> -- <mcol><col><b>Reflected vision</b></col>, <it>or</it> <col><b>Refracted vision</b></col></mcol>, <cd>vision by rays reflected from mirrors, or refracted by lenses or prisms, respectively.</cd> -- <col><b>Vision purple</b></col>. <fld>(Physiol.)</fld> <cd>See <cref>Visual purple</cref>, under <er>Visual</er>.</cd></cs><br/
+<p><cs><col>Arc of vision</col> <fld>(Astron.)</fld>, <cd>the arc which measures the least distance from the sun at which, when the sun is below the horizon, a star or planet emerging from his rays becomes visible.</cd> -- <col>Beatific vision</col> <fld>(Theol.)</fld>, <cd>the immediate sight of God in heaven.</cd> -- <col>Direct vision</col> <fld>(Opt.)</fld>, <cd>vision when the image of the object falls directly on the yellow spot (see under <er>Yellow</er>); also, vision by means of rays which are not deviated from their original direction.</cd> -- <col>Field of vision</col>, <cd>field of view.  See under <er>Field</er>.</cd> -- <col>Indirect vision</col> <fld>(Opt.)</fld>, <cd>vision when the rays of light from an object fall upon the peripheral parts of the retina.</cd> -- <mcol><col>Reflected vision</col>, <it>or</it> <col>Refracted vision</col></mcol>, <cd>vision by rays reflected from mirrors, or refracted by lenses or prisms, respectively.</cd> -- <col>Vision purple</col>. <fld>(Physiol.)</fld> <cd>See <cref>Visual purple</cref>, under <er>Visual</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vision</ent><br/
@@ -10488,7 +10488,7 @@ When musing midnight reigns.</q> <rj><qau>Thomson.</qau></rj><br/
 <p><sn>2.</sn> <def>The act of going to view or inspect; an official or formal inspection; examination; visitation; <as>as, the <ex>visit</ex> of a trustee or inspector</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Right of visit</b></col> <fld>(Internat. Law)</fld>, <cd>the right of visitation.  See <er>Visitation</er>, <snr>4</snr>.</cd></cs><br/
+<p><cs><col>Right of visit</col> <fld>(Internat. Law)</fld>, <cd>the right of visitation.  See <er>Visitation</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Visitable</ent><br/
@@ -10531,7 +10531,7 @@ When musing midnight reigns.</q> <rj><qau>Thomson.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Eccl.)</fld> <def>A festival in honor of the visit of the Virgin Mary to Elisabeth, mother of John the Baptist, celebrated on the second of July.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The Order of the Visitation of Our Lady</b></col> <fld>(R. C. Ch.)</fld>, <cd>a religious community of nuns, founded at Annecy, in Savoy, in 1610, and in 1808 established in the United States. In America these nuns are devoted to the education of girls.</cd></cs><br/
+<p><cs><col>The Order of the Visitation of Our Lady</col> <fld>(R. C. Ch.)</fld>, <cd>a religious community of nuns, founded at Annecy, in Savoy, in 1610, and in 1808 established in the United States. In America these nuns are devoted to the education of girls.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Visitatorial</ent><br/
@@ -10556,7 +10556,7 @@ When musing midnight reigns.</q> <rj><qau>Thomson.</qau></rj><br/
 <hw>Vis"it*ing</hw>, <def><pos>a. & vb. n.</pos> from <er>Visit</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Visiting ant</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Driver ant</cref>, under <er>Driver</er>.</cd> -- <col><b>Visiting book</b></col>, <cd>a book in which a record of visits received, made, and to be made, is kept.</cd> <au>Thackeray.</au> -- <col><b>Visiting card</b></col>. <cd>See under <er>Card</er>.</cd></cs><br/
+<p><cs><col>Visiting ant</col>. <fld>(Zool.)</fld> <cd>See <cref>Driver ant</cref>, under <er>Driver</er>.</cd> -- <col>Visiting book</col>, <cd>a book in which a record of visits received, made, and to be made, is kept.</cd> <au>Thackeray.</au> -- <col>Visiting card</col>. <cd>See under <er>Card</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Visitor</ent><br/
@@ -10648,7 +10648,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><sn>2.</sn> <def>That can be seen; visible.</def>  <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Visual angle</b></col>. <fld>(Opt.)</fld> <cd>See under <er>Angle</er>.</cd> -- <col><b>Visual cone</b></col> <fld>(Persp.)</fld>, <cd>a cone whose vertex is at the point of sight, or the eye.</cd> -- <col><b>Visual plane</b></col>, <cd>any plane passing through the point of sight.</cd> -- <col><b>Visual point</b></col>, <cd>the point at which the visual rays unite; the position of the eye.</cd> -- <col><b>Visual purple</b></col> <fld>(Physiol.)</fld>, <cd>a photochemical substance, of a purplish red color, contained in the retina of human eyes and in the eyes of most animals. It is quickly bleached by light, passing through the colors, red, orange, and yellow, and then disappearing.  Also called <altname>rhodopsin</altname>, and <altname>vision purple</altname>.  See <er>Optography</er>.</cd> -- <col><b>Visual ray</b></col>, <cd>a line from the eye, or point of sight.</cd> -- <col><b>Visual white</b></col> <fld>(Physiol.)</fld>, <cd>the final product in the action of light on visual purple. It is reconverted into visual purple by the regenerating action of the choroidal epithelium.</cd> -- <col><b>Visual yellow</b></col> <fld>(Physiol.)</fld>, <cd>a product intermediate between visual purple and visual white, formed in the photochemical action of light on visual purple.</cd></cs><br/
+<p><cs><col>Visual angle</col>. <fld>(Opt.)</fld> <cd>See under <er>Angle</er>.</cd> -- <col>Visual cone</col> <fld>(Persp.)</fld>, <cd>a cone whose vertex is at the point of sight, or the eye.</cd> -- <col>Visual plane</col>, <cd>any plane passing through the point of sight.</cd> -- <col>Visual point</col>, <cd>the point at which the visual rays unite; the position of the eye.</cd> -- <col>Visual purple</col> <fld>(Physiol.)</fld>, <cd>a photochemical substance, of a purplish red color, contained in the retina of human eyes and in the eyes of most animals. It is quickly bleached by light, passing through the colors, red, orange, and yellow, and then disappearing.  Also called <altname>rhodopsin</altname>, and <altname>vision purple</altname>.  See <er>Optography</er>.</cd> -- <col>Visual ray</col>, <cd>a line from the eye, or point of sight.</cd> -- <col>Visual white</col> <fld>(Physiol.)</fld>, <cd>the final product in the action of light on visual purple. It is reconverted into visual purple by the regenerating action of the choroidal epithelium.</cd> -- <col>Visual yellow</col> <fld>(Physiol.)</fld>, <cd>a product intermediate between visual purple and visual white, formed in the photochemical action of light on visual purple.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Visualize</ent><br/
@@ -10707,7 +10707,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><q>Pythagoras and Hippocrates . . . affirm the birth of the seventh month to be <qex>vital</qex>.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vital air</b></col>, <cd>oxygen gas; -- so called because essential to animal life.</cd> <mark>[Obs.]</mark> -- <col><b>Vital capacity</b></col> <fld>(Physiol.)</fld>, <cd>the breathing capacity of the lungs; -- expressed by the number of cubic inches of air which can be forcibly exhaled after a full inspiration.</cd> -- <col><b>Vital force</b></col>. <fld>(Biol.)</fld> <cd>See under <er>Force</er>. The vital forces, according to Cope, are nerve force (<xex>neurism</xex>), growth force (<xex>bathmism</xex>), and thought force (<xex>phrenism</xex>), all under the direction and control of the vital principle. Apart from the phenomena of consciousness, vital actions no longer need to be considered as of a mysterious and unfathomable character, nor vital force as anything other than a form of physical energy derived from, and convertible into, other well-known forces of nature.</cd> -- <col><b>Vital functions</b></col> <fld>(Physiol.)</fld>, <cd>those functions or actions of the body on which life is directly dependent, as the circulation of the blood, digestion, etc.</cd> -- <col><b>Vital principle</b></col>, <cd>an immaterial force, to which the functions peculiar to living beings are ascribed.</cd> -- <col><b>Vital statistics</b></col>, <cd>statistics respecting the duration of life, and the circumstances affecting its duration.</cd> -- <col><b>Vital tripod</b></col>. <fld>(Physiol.)</fld> <cd>See under <er>Tripod</er>.</cd> -- <col><b>Vital vessels</b></col> <fld>(Bot.)</fld>, <cd>a name for latex tubes, now disused.  See <er>Latex</er>.</cd></cs><br/
+<p><cs><col>Vital air</col>, <cd>oxygen gas; -- so called because essential to animal life.</cd> <mark>[Obs.]</mark> -- <col>Vital capacity</col> <fld>(Physiol.)</fld>, <cd>the breathing capacity of the lungs; -- expressed by the number of cubic inches of air which can be forcibly exhaled after a full inspiration.</cd> -- <col>Vital force</col>. <fld>(Biol.)</fld> <cd>See under <er>Force</er>. The vital forces, according to Cope, are nerve force (<xex>neurism</xex>), growth force (<xex>bathmism</xex>), and thought force (<xex>phrenism</xex>), all under the direction and control of the vital principle. Apart from the phenomena of consciousness, vital actions no longer need to be considered as of a mysterious and unfathomable character, nor vital force as anything other than a form of physical energy derived from, and convertible into, other well-known forces of nature.</cd> -- <col>Vital functions</col> <fld>(Physiol.)</fld>, <cd>those functions or actions of the body on which life is directly dependent, as the circulation of the blood, digestion, etc.</cd> -- <col>Vital principle</col>, <cd>an immaterial force, to which the functions peculiar to living beings are ascribed.</cd> -- <col>Vital statistics</col>, <cd>statistics respecting the duration of life, and the circumstances affecting its duration.</cd> -- <col>Vital tripod</col>. <fld>(Physiol.)</fld> <cd>See under <er>Tripod</er>.</cd> -- <col>Vital vessels</col> <fld>(Bot.)</fld>, <cd>a name for latex tubes, now disused.  See <er>Latex</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vital</ent><br/
@@ -11000,7 +11000,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><sn>2.</sn> <def>Of or pertaining to glass; derived from glass; <as>as, <ex>vitreous</ex> electricity</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vitreous body</b></col> <fld>(Anat.)</fld>, <cd>the vitreous humor.  See the Note under <er>Eye</er>.</cd> -- <col><b>Vitreous electricity</b></col> <fld>(Elec.)</fld>, <cd>the kind of electricity excited by rubbing glass with certain substances, as silk; positive electricity; -- opposed to <xex>resinous</xex>, or <xex>negative</xex>, electricity.</cd> -- <col><b>Vitreous humor</b></col>. <fld>(Anat.)</fld> <cd>See the Note under <er>Eye</er>.</cd> -- <col><b>Vitreous sponge</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of siliceous sponges having, often fibrous, glassy spicules which are normally six-rayed; a hexactinellid sponge.  See <cref>Venus's basket</cref>, under <er>Venus</er>.</cd></cs><br/
+<p><cs><col>Vitreous body</col> <fld>(Anat.)</fld>, <cd>the vitreous humor.  See the Note under <er>Eye</er>.</cd> -- <col>Vitreous electricity</col> <fld>(Elec.)</fld>, <cd>the kind of electricity excited by rubbing glass with certain substances, as silk; positive electricity; -- opposed to <xex>resinous</xex>, or <xex>negative</xex>, electricity.</cd> -- <col>Vitreous humor</col>. <fld>(Anat.)</fld> <cd>See the Note under <er>Eye</er>.</cd> -- <col>Vitreous sponge</col> <fld>(Zool.)</fld>, <cd>any one of numerous species of siliceous sponges having, often fibrous, glassy spicules which are normally six-rayed; a hexactinellid sponge.  See <cref>Venus's basket</cref>, under <er>Venus</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vitreousness</ent><br/
@@ -11085,7 +11085,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <hw>Vit"ri*ol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>vitriol</ets>; cf. Pr. <ets>vitriol</ets>, <ets>vetriol</ets>, Sp. & Pg. <ets>vitriolo</ets>, It. <ets>vitriuolo</ets>; fr. L. <ets>vitreolus</ets> of glass, <ets>vitreus</ets> vitreous.  See <er>Vitreous</er>.]</ety> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A sulphate of any one of certain metals, as copper, iron, zinc, cobalt. So called on account of the glassy appearance or luster.</def>  <sd>(b)</sd> <def>Sulphuric acid; -- called also <altname>oil of vitriol</altname>. So called because first made by the distillation of green vitriol.  See <cref>Sulphuric acid</cref>, under <er>Sulphuric</er>.</def>  <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blue vitriol</b></col>. <cd>See under <er>Blue</er>.</cd> -- <col><b>Green vitriol</b></col>, <cd>ferrous sulphate; copperas.  See under <er>Green</er>.</cd> -- <col><b>Oil of vitriol</b></col>, <cd>sulphuric or vitriolic acid; -- popularly so called because it has the consistency of oil.</cd> -- <col><b>Red vitriol</b></col>, <cd>a native sulphate of cobalt.</cd> -- <col><b>Vitriol of Mars</b></col>, <cd>ferric sulphate, a white crystalline substance which dissolves in water, forming a red solution.</cd> -- <col><b>White vitriol</b></col>, <cd>zinc sulphate, a white crystalline substance used in medicine and in dyeing. It is usually obtained by dissolving zinc in sulphuric acid, or by roasting and oxidizing certain zinc ores. Formerly called also <altname>vitriol of zinc</altname>.</cd></cs><br/
+<p><cs><col>Blue vitriol</col>. <cd>See under <er>Blue</er>.</cd> -- <col>Green vitriol</col>, <cd>ferrous sulphate; copperas.  See under <er>Green</er>.</cd> -- <col>Oil of vitriol</col>, <cd>sulphuric or vitriolic acid; -- popularly so called because it has the consistency of oil.</cd> -- <col>Red vitriol</col>, <cd>a native sulphate of cobalt.</cd> -- <col>Vitriol of Mars</col>, <cd>ferric sulphate, a white crystalline substance which dissolves in water, forming a red solution.</cd> -- <col>White vitriol</col>, <cd>zinc sulphate, a white crystalline substance used in medicine and in dyeing. It is usually obtained by dissolving zinc in sulphuric acid, or by roasting and oxidizing certain zinc ores. Formerly called also <altname>vitriol of zinc</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vitriol</ent><br/
@@ -11122,7 +11122,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <p><sn>2.</sn> <def>Biting, bitter or caustic; having or expressing strong and unpleasantly negative feelings; -- of speech or feelings; <as>the <ex>vitriolic</ex> denunciations of opponents by partisan columnists</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Vitriolic acid</b></col> <fld>(Old Chem.)</fld>, <sd>(a)</sd> <cd>sulphuric acid.  See <er>Vitriol</er> <sdr>(b)</sdr>.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>Vitriolic acid</col> <fld>(Old Chem.)</fld>, <sd>(a)</sd> <cd>sulphuric acid.  See <er>Vitriol</er> <sdr>(b)</sdr>.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vitriolizable</ent><br/
@@ -11156,7 +11156,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <hw>Vi*tru"vi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to <person><etsep>Vitruvius</etsep></person>, an ancient Roman architect.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vitruvian scroll</b></col> <fld>(Arch.)</fld>, <cd>a name given to a peculiar pattern of scrollwork, consisting of convolved undulations. It is used in classical architecture.</cd>  <rj><au>Oxf. Gloss.</au></rj></cs><br/
+<p><cs><col>Vitruvian scroll</col> <fld>(Arch.)</fld>, <cd>a name given to a peculiar pattern of scrollwork, consisting of convolved undulations. It is used in classical architecture.</cd>  <rj><au>Oxf. Gloss.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vitta</ent><br/
@@ -11403,7 +11403,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <hw>Vi*vip"a*rous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>viviparus</ets>; <ets>vivus</ets> alive + <ets>parere</ets> to bear, bring forth.  Cf. <er>Viper</er>.]</ety> <fld>(Biol.)</fld> <def>Producing young in a living state, as most mammals, or as those plants the offspring of which are produced alive, either by bulbs instead of seeds, or by the seeds themselves germinating on the plant, instead of falling, as they usually do; -- opposed to <contr>oviparous</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Viviparous fish</b></col>. <fld>(Zool.)</fld> <cd>See <er>Embiotocoid</er>.</cd> -- <col><b>Viviparous shell</b></col> <fld>(Zool.)</fld>, <cd>any one of numerous species of operculated fresh-water gastropods belonging to <gen>Viviparus</gen>, <gen>Melantho</gen>, and allied genera. Their young, when born, have a well-developed spiral shell.</cd></cs><br/
+<p><cs><col>Viviparous fish</col>. <fld>(Zool.)</fld> <cd>See <er>Embiotocoid</er>.</cd> -- <col>Viviparous shell</col> <fld>(Zool.)</fld>, <cd>any one of numerous species of operculated fresh-water gastropods belonging to <gen>Viviparus</gen>, <gen>Melantho</gen>, and allied genera. Their young, when born, have a well-developed spiral shell.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Viviparously</ent><br/
@@ -11475,7 +11475,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 <hw>Viz"ier</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>wez<imac/r</ets>, <ets>waz<imac/r</ets>, properly, a bearer of burdens, a porter, from <ets>wazara</ets> to bear a burden: cf. F. <ets>vizir</ets>, <ets>visir</ets>.  Cf. <er>Alguazil</er>.]</ety> <def>A councilor of state; a high executive officer in Turkey and other Oriental countries.</def>  <altsp>[Written also <asp>visier</asp>, <asp>vizir</asp>, and <asp>vizer</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Grand vizier</b></col>, <cd>the chief minister of the Turkish empire; -- called also <altname>vizier-azem</altname>.</cd></cs><br/
+<p><cs><col>Grand vizier</col>, <cd>the chief minister of the Turkish empire; -- called also <altname>vizier-azem</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vizierate</ent><br/
@@ -11548,7 +11548,7 @@ Made <qex>vocal</qex> by my song.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Phon.)</fld> <sd>(a)</sd> <def>Consisting of, or characterized by, voice, or tone produced in the larynx, which may be modified, either by resonance, as in the case of the vowels, or by obstructive action, as in certain consonants, such as <xex>v</xex>, <xex>l</xex>, etc., or by both, as in the nasals <xex>m</xex>, <xex>n</xex>, <xex>ng</xex>; sonant; intonated; voiced.  See <er>Voice</er>, and <er>Vowel</er>, also <xex>Guide to Pronunciation</xex>, <sect/<sect/ 199-202.</def>  <sd>(b)</sd> <def>Of or pertaining to a vowel; having the character of a vowel; vowel.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Vocal cords</b></col> <it>or</it> <col><b>Vocal chords</b></col></mcol>. <pos>n. pl.</pos> <fld>(Anat.)</fld> <cd>The two pairs of mucous membranes that project into the larynx, and which produce the sounds of speech by vibrating under the influence of air exhaled from the lungs.  See <er>Larynx</er>, and the Note under <er>Voice</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col><b>Vocal fremitus</b></col> <ety>[L. <ets>fremitus</ets> a dull roaring or murmuring]</ety> <fld>(Med.)</fld>, <cd>the perceptible vibration of the chest wall, produced by the transmission of the sonorous vibrations during the act of using the voice.</cd> -- <col><b>Vocal music</b></col>, <cd>music made by the voice, in distinction from <contr>instrumental music</contr>; hence, music or tunes set to words, to be performed by the human voice.</cd> -- <col><b>Vocal tube</b></col> <fld>(Anat.)</fld>, <cd>the part of the air passages above the inferior ligaments of the larynx, including the passages through the nose and mouth.</cd></cs><br/
+<p><cs><mcol><col>Vocal cords</col> <it>or</it> <col>Vocal chords</col></mcol>. <pos>n. pl.</pos> <fld>(Anat.)</fld> <cd>The two pairs of mucous membranes that project into the larynx, and which produce the sounds of speech by vibrating under the influence of air exhaled from the lungs.  See <er>Larynx</er>, and the Note under <er>Voice</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <col>Vocal fremitus</col> <ety>[L. <ets>fremitus</ets> a dull roaring or murmuring]</ety> <fld>(Med.)</fld>, <cd>the perceptible vibration of the chest wall, produced by the transmission of the sonorous vibrations during the act of using the voice.</cd> -- <col>Vocal music</col>, <cd>music made by the voice, in distinction from <contr>instrumental music</contr>; hence, music or tunes set to words, to be performed by the human voice.</cd> -- <col>Vocal tube</col> <fld>(Anat.)</fld>, <cd>the part of the air passages above the inferior ligaments of the larynx, including the passages through the nose and mouth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vocal</ent><br/
@@ -11799,7 +11799,7 @@ Of holy senates, and elect by <qex>voice</qex>.</q> <rj><qau>Dryden.</qau></rj><
 <p><sn>9.</sn> <fld>(Gram.)</fld> <def>A particular mode of inflecting or conjugating verbs, or a particular form of a verb, by means of which is indicated the relation of the subject of the verb to the action which the verb expresses.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Active voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as the agent or doer of the action expressed by it.</cd> -- <col><b>Chest voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of a medium or low pitch and of a sonorous quality ascribed to resonance in the chest, or thorax; voice of the thick register. It is produced by vibration of the vocal cords through their entire width and thickness, and with convex surfaces presented to each other.</cd> -- <col><b>Head voice</b></col> <fld>(Phon.)</fld>, <cd>a kind of voice of high pitch and of a thin quality ascribed to resonance in the head; voice of the thin register; falsetto. In producing it, the vibration of the cords is limited to their thin edges in the upper part, which are then presented to each other.</cd> -- <col><b>Middle voice</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as both the agent, or doer, and the object of the action, that is, as performing some act to or upon himself, or for his own advantage.</cd> -- <col><b>Passive voice</b></col>. <fld>(Gram.)</fld> <cd>See under <er>Passive</er>, <pos>a.</pos></cd> -- <col><b>Voice glide</b></col> <fld>(Pron.)</fld>, <cd>the brief and obscure neutral vowel sound that sometimes occurs between two consonants in an unaccented syllable (represented by the apostrophe), as in <xex>able</xex> <pr>(a"b'l)</pr>.  See <er>Glide</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>Voice stop</b></col>. <cd>See <cref>Voiced stop</cref>, under <er>Voiced</er>, <pos>a.</pos></cd> -- <col><b>With one voice</b></col>, <cd>unanimously.</cd>  <ldquo/All <xex>with one voice</xex> . . . cried out, Great is Diana of the Ephesians.<rdquo/ <au>Acts xix. 34.</au></cs><br/
+<p><cs><col>Active voice</col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as the agent or doer of the action expressed by it.</cd> -- <col>Chest voice</col> <fld>(Phon.)</fld>, <cd>a kind of voice of a medium or low pitch and of a sonorous quality ascribed to resonance in the chest, or thorax; voice of the thick register. It is produced by vibration of the vocal cords through their entire width and thickness, and with convex surfaces presented to each other.</cd> -- <col>Head voice</col> <fld>(Phon.)</fld>, <cd>a kind of voice of high pitch and of a thin quality ascribed to resonance in the head; voice of the thin register; falsetto. In producing it, the vibration of the cords is limited to their thin edges in the upper part, which are then presented to each other.</cd> -- <col>Middle voice</col> <fld>(Gram.)</fld>, <cd>that form of the verb by which its subject is represented as both the agent, or doer, and the object of the action, that is, as performing some act to or upon himself, or for his own advantage.</cd> -- <col>Passive voice</col>. <fld>(Gram.)</fld> <cd>See under <er>Passive</er>, <pos>a.</pos></cd> -- <col>Voice glide</col> <fld>(Pron.)</fld>, <cd>the brief and obscure neutral vowel sound that sometimes occurs between two consonants in an unaccented syllable (represented by the apostrophe), as in <xex>able</xex> <pr>(a"b'l)</pr>.  See <er>Glide</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col>Voice stop</col>. <cd>See <cref>Voiced stop</cref>, under <er>Voiced</er>, <pos>a.</pos></cd> -- <col>With one voice</col>, <cd>unanimously.</cd>  <ldquo/All <xex>with one voice</xex> . . . cried out, Great is Diana of the Ephesians.<rdquo/ <au>Acts xix. 34.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voice</ent><br/
@@ -11829,7 +11829,7 @@ Of holy senates, and elect by <qex>voice</qex>.</q> <rj><qau>Dryden.</qau></rj><
 <p><sn>2.</sn> <fld>(Phon.)</fld> <def>Uttered with voice; pronounced with vibrations of the vocal cords; sonant; -- said of a sound uttered with the glottis narrowed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Voiced stop</b></col>, <col><b>Voice stop</b></col></mcol> <fld>(Phon.)</fld>, <cd>a stopped consonant made with tone from the larynx while the mouth organs are closed at some point; a sonant mute, as <xex>b</xex>, <xex>d</xex>, <xex>g</xex> hard.</cd></cs><br/
+<p><cs><mcol><col>Voiced stop</col>, <col>Voice stop</col></mcol> <fld>(Phon.)</fld>, <cd>a stopped consonant made with tone from the larynx while the mouth organs are closed at some point; a sonant mute, as <xex>b</xex>, <xex>d</xex>, <xex>g</xex> hard.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1617 --><br/
@@ -11854,7 +11854,7 @@ With a most <qex>voiceless</qex> thought, sheathing it as a sword.</q> <rj><qau>
 <p><sn>2.</sn> <fld>(Phon.)</fld> <def>Not sounded with voice; <as>as, a <ex>voiceless</ex> consonant</as>; surd.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Voiceless stop</b></col> <fld>(Phon.)</fld>, <cd>a consonant made with no audible sound except in the transition to or from another sound; a surd mute, as <xex>p</xex>, <xex>t</xex>, <xex>k</xex>.</cd></cs><br/
+<p><cs><col>Voiceless stop</col> <fld>(Phon.)</fld>, <cd>a consonant made with no audible sound except in the transition to or from another sound; a surd mute, as <xex>p</xex>, <xex>t</xex>, <xex>k</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Voice"less*ly</wf>, <pos>adv.</pos> -- <wf>Voice"less*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -11904,7 +11904,7 @@ I may run over the story of his country.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Law)</fld> <def>Of no legal force or effect, incapable of confirmation or ratification; null.  Cf. <er>Voidable</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Void space</b></col> <fld>(Physics)</fld>, <cd>a vacuum.</cd></cs><br/
+<p><cs><col>Void space</col> <fld>(Physics)</fld>, <cd>a vacuum.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Empty; vacant; devoid; wanting; unfurnished; unsupplied; unoccupied.</syn><br/
@@ -12014,7 +12014,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><sn>2.</sn> <def>That which is voided; that which is ejected or evacuated; a remnant; a fragment.</def>  <mark>[R.]</mark>  <rj><au>Rowe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Voiding knife</b></col>, <cd>a knife used for gathering up fragments of food to put them into a voider.</cd></cs><br/
+<p><cs><col>Voiding knife</col>, <cd>a knife used for gathering up fragments of food to put them into a voider.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voiding</ent><br/
@@ -12065,7 +12065,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Her.)</fld> <def>Represented as flying, or having the wings spread; <as>as, an eagle <ex>volant</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volant piece</b></col> <fld>(Anc. Armor)</fld>, <cd>an adjustable piece of armor, for guarding the throat, etc., in a joust.</cd></cs><br/
+<p><cs><col>Volant piece</col> <fld>(Anc. Armor)</fld>, <cd>an adjustable piece of armor, for guarding the throat, etc., in a joust.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volante</ent><br/
@@ -12105,7 +12105,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><q>You are as giddy and <qex>volatile</qex> as ever.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volatile alkali</b></col>. <fld>(Old Chem.)</fld> <cd>See under <er>Alkali</er>.</cd> -- <col><b>Volatile liniment</b></col>, <cd>a liniment composed of sweet oil and ammonia, so called from the readiness with which the latter evaporates.</cd> -- <col><b>Volatile oils</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Essential oils</cref>, under <er>Essential</er>.</cd></cs><br/
+<p><cs><col>Volatile alkali</col>. <fld>(Old Chem.)</fld> <cd>See under <er>Alkali</er>.</cd> -- <col>Volatile liniment</col>, <cd>a liniment composed of sweet oil and ammonia, so called from the readiness with which the latter evaporates.</cd> -- <col>Volatile oils</col>. <fld>(Chem.)</fld> <cd>See <cref>Essential oils</cref>, under <er>Essential</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volatile</ent><br/
@@ -12161,7 +12161,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><sn>3.</sn> <def>Changed or affected by the heat of a volcano.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volcanic bomb</b></col>, <cd>a mass ejected from a volcano, often of molten lava having a rounded form.</cd> -- <col><b>Volcanic cone</b></col>, <cd>a hill, conical in form, built up of cinders, tufa, or lava, during volcanic eruptions.</cd> -- <col><b>Volcanic foci</b></col>, <cd>the subterranean centers of volcanic action; the points beneath volcanoes where the causes producing volcanic phenomena are most active.</cd> -- <col><b>Volcanic glass</b></col>, <cd>the vitreous form of lava, produced by sudden cooling; obsidian.  See <er>Obsidian</er>.</cd> -- <col><b>Volcanic mud</b></col>, <cd>fetid, sulphurous mud discharged by a volcano.</cd> -- <col><b>Volcanic rocks</b></col>, <cd>rocks which have been produced from the discharges of volcanic matter, as the various kinds of basalt, trachyte, scoria, obsidian, etc., whether compact, scoriaceous, or vitreous.</cd></cs><br/
+<p><cs><col>Volcanic bomb</col>, <cd>a mass ejected from a volcano, often of molten lava having a rounded form.</cd> -- <col>Volcanic cone</col>, <cd>a hill, conical in form, built up of cinders, tufa, or lava, during volcanic eruptions.</cd> -- <col>Volcanic foci</col>, <cd>the subterranean centers of volcanic action; the points beneath volcanoes where the causes producing volcanic phenomena are most active.</cd> -- <col>Volcanic glass</col>, <cd>the vitreous form of lava, produced by sudden cooling; obsidian.  See <er>Obsidian</er>.</cd> -- <col>Volcanic mud</col>, <cd>fetid, sulphurous mud discharged by a volcano.</cd> -- <col>Volcanic rocks</col>, <cd>rocks which have been produced from the discharges of volcanic matter, as the various kinds of basalt, trachyte, scoria, obsidian, etc., whether compact, scoriaceous, or vitreous.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volcanically</ent><br/
@@ -12311,7 +12311,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><-- p. 1618 --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Half volley</b></col>. <sd>(a)</sd> <fld>(Tennis)</fld> <cd>A return of the ball immediately after is has touched the ground.</cd> <sd>(b)</sd> <fld>(Cricket)</fld> <cd>A sending of the ball so that after touching the ground it flies towards the top of the wicket.</cd> <au>R. A. Proctor.</au> -- <col><b>On the volley</b></col>, <cd>at random.</cd>  <mark>[Obs.]</mark>  <ldquo/What we spake <xex>on the volley</xex> begins work.<rdquo/ <au>Massinger.</au> -- <col><b>Volley gun</b></col>, <cd>a gun with several barrels for firing a number of shots simultaneously; a kind of mitrailleuse.</cd></cs><br/
+<p><cs><col>Half volley</col>. <sd>(a)</sd> <fld>(Tennis)</fld> <cd>A return of the ball immediately after is has touched the ground.</cd> <sd>(b)</sd> <fld>(Cricket)</fld> <cd>A sending of the ball so that after touching the ground it flies towards the top of the wicket.</cd> <au>R. A. Proctor.</au> -- <col>On the volley</col>, <cd>at random.</cd>  <mark>[Obs.]</mark>  <ldquo/What we spake <xex>on the volley</xex> begins work.<rdquo/ <au>Massinger.</au> -- <col>Volley gun</col>, <cd>a gun with several barrels for firing a number of shots simultaneously; a kind of mitrailleuse.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volley</ent><br/
@@ -12392,7 +12392,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><note><hand/ See the Note under <er>Galvanism</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Voltaic arc</b></col>, <cd>a luminous arc, of intense brilliancy, formed between carbon points as electrodes by the passage of a powerful voltaic current.</cd> -- <col><b>Voltaic battery</b></col>, <cd>an apparatus variously constructed, consisting of a series of plates or pieces of dissimilar metals, as copper and zinc, arranged in pairs, and subjected to the action of a saline or acid solution, by which a current of electricity is generated whenever the two poles, or ends of the series, are connected by a conductor; a galvanic battery.  See <er>Battery</er>, <snr>4</snr>. <sdr>(b)</sdr>, and Note.</cd> -- <col><b>Voltaic circuit</b></col>. <cd>See under <er>Circuit</er>.</cd> -- <mcol><col><b>Voltaic couple</b></col> <it>or</it> <col><b>Voltaic element</b></col></mcol>, <cd>a single pair of the connected plates of a battery.</cd> -- <col><b>Voltaic electricity</b></col>. <cd>See the Note under <er>Electricity</er>.</cd> -- <col><b>Voltaic pile</b></col>, <cd>a kind of voltaic battery consisting of alternate disks of dissimilar metals, separated by moistened cloth or paper.  See 5th <er>Pile</er>.</cd> -- <col><b>Voltaic protection of metals</b></col>, <cd>the protection of a metal exposed to the corrosive action of sea water, saline or acid liquids, or the like, by associating it with a metal which is positive to it, as when iron is galvanized, or coated with zinc.</cd></cs><br/
+<p><cs><col>Voltaic arc</col>, <cd>a luminous arc, of intense brilliancy, formed between carbon points as electrodes by the passage of a powerful voltaic current.</cd> -- <col>Voltaic battery</col>, <cd>an apparatus variously constructed, consisting of a series of plates or pieces of dissimilar metals, as copper and zinc, arranged in pairs, and subjected to the action of a saline or acid solution, by which a current of electricity is generated whenever the two poles, or ends of the series, are connected by a conductor; a galvanic battery.  See <er>Battery</er>, <snr>4</snr>. <sdr>(b)</sdr>, and Note.</cd> -- <col>Voltaic circuit</col>. <cd>See under <er>Circuit</er>.</cd> -- <mcol><col>Voltaic couple</col> <it>or</it> <col>Voltaic element</col></mcol>, <cd>a single pair of the connected plates of a battery.</cd> -- <col>Voltaic electricity</col>. <cd>See the Note under <er>Electricity</er>.</cd> -- <col>Voltaic pile</col>, <cd>a kind of voltaic battery consisting of alternate disks of dissimilar metals, separated by moistened cloth or paper.  See 5th <er>Pile</er>.</cd> -- <col>Voltaic protection of metals</col>, <cd>the protection of a metal exposed to the corrosive action of sea water, saline or acid liquids, or the like, by associating it with a metal which is positive to it, as when iron is galvanized, or coated with zinc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voltairean</ent><br/
@@ -12432,7 +12432,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 \'d8<hw>Vol"ti</hw> <pr>(?)</pr>, <pos>imperative.</pos> <ety>[It., fr. <ets>voltare</ets> to turn.  See <er>Volt</er> a tread.]</ety> <fld>(Mus.)</fld> <def>Turn, that is, turn over the leaf.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volti subito</b></col> <ety>[It.]</ety> <fld>(Mus.)</fld>, <cd>turn over quickly.</cd></cs><br/
+<p><cs><col>Volti subito</col> <ety>[It.]</ety> <fld>(Mus.)</fld>, <cd>turn over quickly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voltigeur</ent><br/
@@ -12481,7 +12481,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Bot.)</fld> <def>Having the power or habit of turning or twining; <as>as, the <ex>voluble</ex> stem of hop plants</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Voluble stem</b></col> <fld>(Bot.)</fld>, <cd>a stem that climbs by winding, or twining, round another body.</cd></cs><br/
+<p><cs><col>Voluble stem</col> <fld>(Bot.)</fld>, <cd>a stem that climbs by winding, or twining, round another body.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Vol"u*ble*ness</wf>, <pos>n.</pos> -- <wf>Vol"u*bly</wf>, <pos>adv.</pos></wordforms><br/
@@ -12516,7 +12516,7 @@ And long behind wounded <qex>volume</qex> trails.</q> <rj><qau>Dryden.</qau></rj
 <p><sn>5.</sn> <fld>(Mus.)</fld> <def>Amount, fullness, quantity, or caliber of voice or tone.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Atomic volume</b></col>, <col><b>Molecular volume</b></col></mcol> <fld>(Chem.)</fld>, <cd>the ratio of the atomic and molecular weights divided respectively by the specific gravity of the substance in question.</cd> -- <col><b>Specific volume</b></col> <fld>(Physics & Chem.)</fld>, <cd>the quotient obtained by dividing unity by the specific gravity; the reciprocal of the specific gravity. It is equal (when the specific gravity is referred to water at 4<deg/ C. as a standard) to the number of cubic centimeters occupied by one gram of the substance.</cd></cs><br/
+<p><cs><mcol><col>Atomic volume</col>, <col>Molecular volume</col></mcol> <fld>(Chem.)</fld>, <cd>the ratio of the atomic and molecular weights divided respectively by the specific gravity of the substance in question.</cd> -- <col>Specific volume</col> <fld>(Physics & Chem.)</fld>, <cd>the quotient obtained by dividing unity by the specific gravity; the reciprocal of the specific gravity. It is equal (when the specific gravity is referred to water at 4<deg/ C. as a standard) to the number of cubic centimeters occupied by one gram of the substance.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volumed</ent><br/
@@ -12550,7 +12550,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <hw>Vol`u*met"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Volume</ets> + <ets>-metric</ets>.]</ety> <def>Of or pertaining to the measurement of volume.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volumetric analysis</b></col> <fld>(Chem.)</fld>, <cd>that system of the quantitative analysis of solutions which employs definite volumes of standardized solutions of reagents, as measured by burettes, pipettes, etc.; also, the analysis of gases by volume, as by the eudiometer.</cd></cs><br/
+<p><cs><col>Volumetric analysis</col> <fld>(Chem.)</fld>, <cd>that system of the quantitative analysis of solutions which employs definite volumes of standardized solutions of reagents, as measured by burettes, pipettes, etc.; also, the analysis of gases by volume, as by the eudiometer.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Volumetrical</ent><br/
@@ -12639,7 +12639,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>7.</sn> <fld>(Eccl.)</fld> <def>Of or pertaining to voluntaryism; <as>as, a <ex>voluntary</ex> church, in distinction from an established or state church</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Voluntary affidavit</b></col> <it>or</it> <col><b>Voluntary oath</b></col></mcol> <fld>(Law)</fld>, <cd>an affidavit or oath made in an extrajudicial matter.</cd> -- <col><b>Voluntary conveyance</b></col> <fld>(Law)</fld>, <cd>a conveyance without valuable consideration.</cd> -- <col><b>Voluntary escape</b></col> <fld>(Law)</fld>, <cd>the escape of a prisoner by the express consent of the sheriff.</cd> -- <col><b>Voluntary jurisdiction</b></col>. <fld>(Eng. Eccl. Law)</fld> <cd>See <cref>Contentious jurisdiction</cref>, under <er>Contentious</er>.</cd> -- <col><b>Voluntary waste</b></col>. <fld>(Law)</fld> <cd>See <er>Waste</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs><br/
+<p><cs><mcol><col>Voluntary affidavit</col> <it>or</it> <col>Voluntary oath</col></mcol> <fld>(Law)</fld>, <cd>an affidavit or oath made in an extrajudicial matter.</cd> -- <col>Voluntary conveyance</col> <fld>(Law)</fld>, <cd>a conveyance without valuable consideration.</cd> -- <col>Voluntary escape</col> <fld>(Law)</fld>, <cd>the escape of a prisoner by the express consent of the sheriff.</cd> -- <col>Voluntary jurisdiction</col>. <fld>(Eng. Eccl. Law)</fld> <cd>See <cref>Contentious jurisdiction</cref>, under <er>Contentious</er>.</cd> -- <col>Voluntary waste</col>. <fld>(Law)</fld> <cd>See <er>Waste</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- See <er>Spontaneous</er>.</syn><br/
@@ -12761,7 +12761,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>Any voluta.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Volute spiring</b></col>, <cd>a spring formed of a spiral scroll of plate, rod, or wire, extended or extensible in the direction of the axis of the coil, in which direction its elastic force is exerted and employed.</cd></cs><br/
+<p><cs><col>Volute spiring</col>, <cd>a spring formed of a spiral scroll of plate, rod, or wire, extended or extensible in the direction of the axis of the coil, in which direction its elastic force is exerted and employed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Voluted</ent><br/
@@ -12847,7 +12847,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><q>He gives your Hollander a <qex>vomit</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Black vomit</b></col>. <fld>(Med.)</fld> <cd>See in the Vocabulary.</cd> -- <col><b>Vomit nut</b></col>, <cd>nux vomica.</cd></cs><br/
+<p><cs><col>Black vomit</col>. <fld>(Med.)</fld> <cd>See in the Vocabulary.</cd> -- <col>Vomit nut</col>, <cd>nux vomica.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vomiting</ent><br/
@@ -12936,7 +12936,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>Any one of numerous species of small Turbellaria belonging to <gen>Vortex</gen> and allied genera.  See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vortex atom</b></col> <fld>(Chem.)</fld>, <cd>a hypothetical ring-shaped mass of elementary matter in continuous vortical motion. It was conveniently regarded in certain early mathematical models as the typical form and structure of the chemical atom, but is no longer considered a useful model, having been superseded by quantum mechanics.</cd> -- <col><b>Vortex wheel</b></col>, <cd>a kind of turbine.</cd></cs><br/
+<p><cs><col>Vortex atom</col> <fld>(Chem.)</fld>, <cd>a hypothetical ring-shaped mass of elementary matter in continuous vortical motion. It was conveniently regarded in certain early mathematical models as the typical form and structure of the chemical atom, but is no longer considered a useful model, having been superseded by quantum mechanics.</cd> -- <col>Vortex wheel</col>, <cd>a kind of turbine.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Vortex filament</ent><br/
@@ -12956,7 +12956,7 @@ Tells where the <qex>volumed</qex> cataract doth roll.</q> <rj><qau>Byron.</qau>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Vortex theory</ent><br/
-<hw>Vortex theory</hw>. <fld>(Chem. & Physics)</fld> <def>The theory, advanced by Thomson (Lord Kelvin) on the basis of investigation by Helmholtz, that the atoms are vortically moving ring-shaped masses (or masses of other forms having a similar internal motion) of a homogeneous, incompressible, frictionless fluid. Various properties of such atoms (<col><b>vortex atoms</b></col>) can be mathematically deduced.  This theory is now (1998) obsolete, and has been superseded by quantum mechanics, which provides more accurate and detailed explanations of atomic behavior.</def><br/
+<hw>Vortex theory</hw>. <fld>(Chem. & Physics)</fld> <def>The theory, advanced by Thomson (Lord Kelvin) on the basis of investigation by Helmholtz, that the atoms are vortically moving ring-shaped masses (or masses of other forms having a similar internal motion) of a homogeneous, incompressible, frictionless fluid. Various properties of such atoms (<col>vortex atoms</col>) can be mathematically deduced.  This theory is now (1998) obsolete, and has been superseded by quantum mechanics, which provides more accurate and detailed explanations of atomic behavior.</def><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Vortex tube</ent><br/
@@ -13034,7 +13034,7 @@ The <qex>vote</qex> that shakes the turrets of the land.</q> <rj><qau>Holmes.</q
 <p><sn>5.</sn> <def>Votes, collectively; <as>as, the Tory <ex>vote</ex>; the labor <ex>vote</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Casting vote</b></col>, <col><b>Cumulative vote</b></col>, etc.</mcol>  <cd>See under <er>Casting</er>, <er>Cumulative</er>, etc.</cd></cs><br/
+<p><cs><mcol><col>Casting vote</col>, <col>Cumulative vote</col>, etc.</mcol>  <cd>See under <er>Casting</er>, <er>Cumulative</er>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vote</ent><br/
@@ -13071,7 +13071,7 @@ The <qex>vote</qex> that shakes the turrets of the land.</q> <rj><qau>Holmes.</q
 <hw>Vot"ing</hw>, <def><pos>a. & n.</pos> from <er>Vote</er>, <pos>v.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Voting paper</b></col>, <cd>a form of ballot containing the names of more candidates than there are offices to be filled, the voter making a mark against the preferred names.</cd> <mark>[Eng.]</mark></cs><br/
+<p><cs><col>Voting paper</col>, <cd>a form of ballot containing the names of more candidates than there are offices to be filled, the voter making a mark against the preferred names.</cd> <mark>[Eng.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Votist</ent><br/
@@ -13089,7 +13089,7 @@ Of Aloys Reding.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><q>Embellishments of flowers and <qex>votive</qex> garlands.</q> <rj><qau>Motley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Votive medal</b></col>, <cd>a medal struck in grateful commemoration of some auspicious event.</cd> -- <col><b>Votive offering</b></col>, <cd>an offering in fulfillment of a religious vow, as of one's person or property.</cd></cs><br/
+<p><cs><col>Votive medal</col>, <cd>a medal struck in grateful commemoration of some auspicious event.</cd> -- <col>Votive offering</col>, <cd>an offering in fulfillment of a religious vow, as of one's person or property.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p>-- <wordforms><wf>Vo"tive*ly</wf>, <pos>adv.</pos> -- <wf>Vo"tive*ness</wf>, <pos>n.</pos></wordforms><br/
@@ -13273,7 +13273,7 @@ Firm to their plighted faith.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><note><hand/ In the English language, the written vowels are <it>a</it>, <it>e</it>, <it>i</it>, <it>o</it>, <it>u</it>, and sometimes <it>w</it> and <it>y.</it> The spoken vowels are much more numerous.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Close vowel</b></col>. <cd>See under <er>Close</er>, <pos>a.</pos></cd> -- <col><b>Vowel point</b></col>. <cd>See under <er>Point</er>, <pos>n.</pos></cd></cs><br/
+<p><cs><col>Close vowel</col>. <cd>See under <er>Close</er>, <pos>a.</pos></cd> -- <col>Vowel point</col>. <cd>See under <er>Point</er>, <pos>n.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vowel</ent><br/
@@ -13308,7 +13308,7 @@ Firm to their plighted faith.</q> <rj><qau>Dryden.</qau></rj><br/
 \'d8<hw>Vox</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.  See <er>Voice</er>.]</ety> <def>A voice.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vox humana</b></col> <pr>(<?/)</pr> <ety>[L., human voice]</ety> <fld>(Mus.)</fld>, <cd>a reed stop in an organ, made to imitate the human voice.</cd></cs><br/
+<p><cs><col>Vox humana</col> <pr>(<?/)</pr> <ety>[L., human voice]</ety> <fld>(Mus.)</fld>, <cd>a reed stop in an organ, made to imitate the human voice.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vox angelica</ent><br/
@@ -13431,7 +13431,7 @@ Is bound in shallows and in miseries.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Vul"can*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Vulcanized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Vulcanizing</conjf> <pr>(?)</pr>.]</vmorph> <def>To change the properties of, as caoutchouc, or India rubber, by the process of vulcanization.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vulcanized fiber</b></col>, <cd>paper, paper pulp, or other fiber, chemically treated, as with metallic chlorides, so as to form a substance resembling ebonite in texture, hardness, etc.</cd> <au>Knight.</au> -- <col><b>Vulcanized rubber</b></col>, <cd>India rubber, vulcanized.</cd></cs><br/
+<p><cs><col>Vulcanized fiber</col>, <cd>paper, paper pulp, or other fiber, chemically treated, as with metallic chlorides, so as to form a substance resembling ebonite in texture, hardness, etc.</cd> <au>Knight.</au> -- <col>Vulcanized rubber</col>, <cd>India rubber, vulcanized.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vulcanizer</ent><br/
@@ -13481,7 +13481,7 @@ Is bound in shallows and in miseries.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Be thou familiar, but by no means <qex>vulgar</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vulgar fraction</b></col>. <fld>(Arith.)</fld> <cd>See under <er>Fraction</er>.</cd></cs><br/
+<p><cs><col>Vulgar fraction</col>. <fld>(Arith.)</fld> <cd>See under <er>Fraction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vulgar</ent><br/
@@ -13622,7 +13622,7 @@ Is bound in shallows and in miseries.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Vul"pine</hw> <pr>(?; 277)</pr>, <pos>a.</pos> <ety>[L. <ets>vulpinus</ets>, from <ets>vulpes</ets> a fox.]</ety> <def>Of or pertaining to the fox; resembling the fox; foxy; cunning; crafty; artful.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Vulpine phalangist</b></col> <fld>(Zool.)</fld>, <cd>an Australian carnivorous marsupial (<spn>Phalangista vulpina</spn> syn. <spn>Trichosurus vulpina</spn>); -- called also <altname>vulpine phalanger</altname>, and <altname>vulpine opossum</altname>.</cd></cs><br/
+<p><cs><col>Vulpine phalangist</col> <fld>(Zool.)</fld>, <cd>an Australian carnivorous marsupial (<spn>Phalangista vulpina</spn> syn. <spn>Trichosurus vulpina</spn>); -- called also <altname>vulpine phalanger</altname>, and <altname>vulpine opossum</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Vulpinic</ent><br/

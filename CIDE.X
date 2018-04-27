@@ -52,7 +52,7 @@
 <p><sn>2.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>Possessing, imparting, or producing a yellow color; <as>as, <ex>xanthic</ex> acid</as>.</def>  <sd>(b)</sd> <def>Of or pertaining to xanthic acid, or its compounds; xanthogenic.</def>  <sd>(c)</sd> <def>Of or pertaining to xanthin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Xanthic acid</b></col> <fld>(Chem.)</fld>, <cd>a heavy, astringent, colorless oil, <chform>C2H5O.CS.SH</chform>, having a pungent odor. It is produced by leading carbon disulphide into a hot alcoholic solution of potassium hydroxide. So called from the yellow color of many of its salts. Called also <altname>xanthogenic acid</altname>.</cd> -- <col><b>Xanthic colors</b></col> <fld>(Bot.)</fld>, <cd>those colors (of flowers) having some tinge of yellow; -- opposed to <contr>cyanic colors</contr>.  See under <er>Cyanic</er>.</cd></cs><br/
+<p><cs><col>Xanthic acid</col> <fld>(Chem.)</fld>, <cd>a heavy, astringent, colorless oil, <chform>C2H5O.CS.SH</chform>, having a pungent odor. It is produced by leading carbon disulphide into a hot alcoholic solution of potassium hydroxide. So called from the yellow color of many of its salts. Called also <altname>xanthogenic acid</altname>.</cd> -- <col>Xanthic colors</col> <fld>(Bot.)</fld>, <cd>those colors (of flowers) having some tinge of yellow; -- opposed to <contr>cyanic colors</contr>.  See under <er>Cyanic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Xanthide</ent><br/
@@ -451,7 +451,7 @@
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>XP</ent><br/
-<hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col><b>Constantinian symbol</b></col>, or <col><b>monogram</b></col>. See <er>Labarum</er>.</def><br/
+<hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col>Constantinian symbol</col>, or <col>monogram</col>. See <er>Labarum</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>x-rated</ent><br/

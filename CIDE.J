@@ -207,10 +207,10 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><note><hand/ <xex>Jack</xex> is used adjectively in various senses. It sometimes designates something <xex>cut short</xex> or <xex>diminished in size</xex>; as, a <xex>jack</xex> timber; a <xex>jack</xex> rafter; a <xex>jack</xex> arch, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jack arch</b></col>, <cd>an arch of the thickness of one brick.</cd> -- <col><b>Jack back</b></col> <fld>(Brewing & Malt Vinegar Manuf.)</fld>, <cd>a cistern which receives the wort. See under 1st <er>Back</er>.</cd> -- <col><b>Jack block</b></col> <fld>(Naut.)</fld>, <cd>a block fixed in the topgallant or royal rigging, used for raising and lowering light masts and spars.</cd> -- <col><b>Jack boots</b></col>, <cd>boots reaching above the knee; -- worn in the 17 century by soldiers; afterwards by fishermen, etc.</cd><-- see jack-booted --> -- <col><b>Jack crosstree</b></col>. <fld>(Naut.)</fld> <cd>See 10, <it>b</it>, above.</cd> -- <col><b>Jack curlew</b></col> <fld>(Zool.)</fld>, <cd>the whimbrel.</cd> -- <col><b>Jack frame</b></col>. <fld>(Cotton Spinning)</fld> <cd>See <snr>4</snr> <sdr>(g)</sdr>, above.</cd> -- <col><b>Jack Frost</b></col>, <cd>frost or cold weather personified as a mischievous person.</cd> -- <col><b>Jack hare</b></col>, <cd>a male hare.</cd> <au>Cowper.</au> -- <col><b>Jack lamp</b></col>, <cd>a lamp for still hunting and camp use. See def. <snr>4</snr> <sdr>(n)</sdr>, above.</cd> -- <col><b>Jack plane</b></col>, <cd>a joiner's plane used for coarse work.</cd> -- <col><b>Jack post</b></col>, <cd>one of the posts which support the crank shaft of a deep-well-boring apparatus.</cd> -- <col><b>Jack pot</b></col> <fld>(Poker Playing)</fld>, <cd>the name given to the stakes, contributions to which are made by each player successively, till such a hand is turned as shall take the <ldquo/pot,<rdquo/ which is the sum total of all the bets.  See also <er>jackpot</er>.</cd> -- <col><b>Jack rabbit</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of large American hares, having very large ears and long legs. The California species (<spn>Lepus Californicus</spn>), and that of Texas and New Mexico (<spn>Lepus callotis</spn>), have the tail black above, and the ears black at the tip. They do not become white in winter. The more northern prairie hare (<spn>Lepus campestris</spn>) has the upper side of the tail white, and in winter its fur becomes nearly white.</cd> -- <col><b>Jack rafter</b></col> <fld>(Arch.)</fld>, <cd>in England, one of the shorter rafters used in constructing a hip or valley roof; in the United States, any secondary roof timber, as the common rafters resting on purlins in a trussed roof; also, one of the pieces simulating extended rafters, used under the eaves in some styles of building.</cd> -- <col><b>Jack salmon</b></col> <fld>(Zool.)</fld>, <cd>the wall-eyed pike, or glasseye.</cd> -- <col><b>Jack sauce</b></col>, <cd>an impudent fellow.</cd> <mark>[Colloq. & Obs.]</mark> -- <col><b>Jack shaft</b></col> <fld>(Mach.)</fld>, <cd>the first intermediate shaft, in a factory or mill, which receives power, through belts or gearing, from a prime mover, and transmits it, by the same means, to other intermediate shafts or to a line shaft.</cd> -- <col><b>Jack sinker</b></col> <fld>(Knitting Mach.)</fld>, <cd>a thin iron plate operated by the jack to depress the loop of thread between two needles.</cd> -- <col><b>Jack snipe</b></col>. <fld>(Zool.)</fld> <cd>See in the Vocabulary.</cd> -- <col><b>Jack staff</b></col> <fld>(Naut.)</fld>, <cd>a staff fixed on the bowsprit cap, upon which the jack is hoisted.</cd> -- <col><b>Jack timber</b></col> <fld>(Arch.)</fld>, <cd>any timber, as a rafter, rib, or studding, which, being intercepted, is shorter than the others.</cd> -- <col><b>Jack towel</b></col>, <cd>a towel hung on a roller for common use.</cd> -- <col><b>Jack truss</b></col> <fld>(Arch.)</fld>, <cd>in a hip roof, a minor truss used where the roof has not its full section.</cd> -- <col><b>Jack tree</b></col>. <fld>(Bot.)</fld> <cd>See 1st <er>Jack</er>, <pos>n.</pos></cd> -- <col><b>Jack yard</b></col> <fld>(Naut.)</fld>, <cd>a short spar to extend a topsail beyond the gaff.</cd></cs><br/
+<p><cs><col>Jack arch</col>, <cd>an arch of the thickness of one brick.</cd> -- <col>Jack back</col> <fld>(Brewing & Malt Vinegar Manuf.)</fld>, <cd>a cistern which receives the wort. See under 1st <er>Back</er>.</cd> -- <col>Jack block</col> <fld>(Naut.)</fld>, <cd>a block fixed in the topgallant or royal rigging, used for raising and lowering light masts and spars.</cd> -- <col>Jack boots</col>, <cd>boots reaching above the knee; -- worn in the 17 century by soldiers; afterwards by fishermen, etc.</cd><-- see jack-booted --> -- <col>Jack crosstree</col>. <fld>(Naut.)</fld> <cd>See 10, <it>b</it>, above.</cd> -- <col>Jack curlew</col> <fld>(Zool.)</fld>, <cd>the whimbrel.</cd> -- <col>Jack frame</col>. <fld>(Cotton Spinning)</fld> <cd>See <snr>4</snr> <sdr>(g)</sdr>, above.</cd> -- <col>Jack Frost</col>, <cd>frost or cold weather personified as a mischievous person.</cd> -- <col>Jack hare</col>, <cd>a male hare.</cd> <au>Cowper.</au> -- <col>Jack lamp</col>, <cd>a lamp for still hunting and camp use. See def. <snr>4</snr> <sdr>(n)</sdr>, above.</cd> -- <col>Jack plane</col>, <cd>a joiner's plane used for coarse work.</cd> -- <col>Jack post</col>, <cd>one of the posts which support the crank shaft of a deep-well-boring apparatus.</cd> -- <col>Jack pot</col> <fld>(Poker Playing)</fld>, <cd>the name given to the stakes, contributions to which are made by each player successively, till such a hand is turned as shall take the <ldquo/pot,<rdquo/ which is the sum total of all the bets.  See also <er>jackpot</er>.</cd> -- <col>Jack rabbit</col> <fld>(Zool.)</fld>, <cd>any one of several species of large American hares, having very large ears and long legs. The California species (<spn>Lepus Californicus</spn>), and that of Texas and New Mexico (<spn>Lepus callotis</spn>), have the tail black above, and the ears black at the tip. They do not become white in winter. The more northern prairie hare (<spn>Lepus campestris</spn>) has the upper side of the tail white, and in winter its fur becomes nearly white.</cd> -- <col>Jack rafter</col> <fld>(Arch.)</fld>, <cd>in England, one of the shorter rafters used in constructing a hip or valley roof; in the United States, any secondary roof timber, as the common rafters resting on purlins in a trussed roof; also, one of the pieces simulating extended rafters, used under the eaves in some styles of building.</cd> -- <col>Jack salmon</col> <fld>(Zool.)</fld>, <cd>the wall-eyed pike, or glasseye.</cd> -- <col>Jack sauce</col>, <cd>an impudent fellow.</cd> <mark>[Colloq. & Obs.]</mark> -- <col>Jack shaft</col> <fld>(Mach.)</fld>, <cd>the first intermediate shaft, in a factory or mill, which receives power, through belts or gearing, from a prime mover, and transmits it, by the same means, to other intermediate shafts or to a line shaft.</cd> -- <col>Jack sinker</col> <fld>(Knitting Mach.)</fld>, <cd>a thin iron plate operated by the jack to depress the loop of thread between two needles.</cd> -- <col>Jack snipe</col>. <fld>(Zool.)</fld> <cd>See in the Vocabulary.</cd> -- <col>Jack staff</col> <fld>(Naut.)</fld>, <cd>a staff fixed on the bowsprit cap, upon which the jack is hoisted.</cd> -- <col>Jack timber</col> <fld>(Arch.)</fld>, <cd>any timber, as a rafter, rib, or studding, which, being intercepted, is shorter than the others.</cd> -- <col>Jack towel</col>, <cd>a towel hung on a roller for common use.</cd> -- <col>Jack truss</col> <fld>(Arch.)</fld>, <cd>in a hip roof, a minor truss used where the roof has not its full section.</cd> -- <col>Jack tree</col>. <fld>(Bot.)</fld> <cd>See 1st <er>Jack</er>, <pos>n.</pos></cd> -- <col>Jack yard</col> <fld>(Naut.)</fld>, <cd>a short spar to extend a topsail beyond the gaff.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blue jack</b></col>, <cd>blue vitriol; sulphate of copper.</cd> -- <col><b>Hydraulic jack</b></col>, <cd>a jack used for lifting, pulling, or forcing, consisting of a compact portable hydrostatic press, with its pump and a reservoir containing a supply of liquid, as oil.</cd> -- <col><b>Jack-at-a-pinch</b></col>. <sd>(a)</sd> <cd>One called upon to take the place of another in an emergency</cd>. <sd>(b)</sd> <cd>An itinerant parson who conducts an occasional service for a fee.</cd> -- <col><b>Jack-at-all-trades</b></col>, <cd>one who can turn his hand to any kind of work.</cd> -- <col><b>Jack-by-the-hedge</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erysimum</gen> (<spn>Erysimum alliaria</spn>, or <spn>Alliaria officinalis</spn>), which grows under hedges. It bears a white flower and has a taste not unlike garlic. Called also, in England, <altname>sauce-alone</altname>.</cd> <au>Eng. Cyc.</au> --  <col><b>Jack-in-office</b></col>, <cd>an insolent fellow in authority.</cd> <au>Wolcott.</au> -- <col><b>Jack-in-the-bush</b></col> <fld>(Bot.)</fld>, <cd>a tropical shrub with red fruit (<spn>Cordia Cylindrostachya</spn>).</cd> -- <col><b>Jack-in-the-green</b></col>, <cd>a chimney sweep inclosed in a framework of boughs, carried in Mayday processions.</cd> -- <col><b>Jack-of-the-buttery</b></col> <fld>(Bot.)</fld>, <cd>the stonecrop (<spn>Sedum acre</spn>).</cd> -- <col><b>Jack-of-the-clock</b></col>, <cd>a figure, usually of a man, on old clocks, which struck the time on the bell.</cd> -- <col><b>Jack-on-both-sides</b></col>, <cd>one who is or tries to be neutral.</cd> -- <col><b>Jack-out-of-office</b></col>, <cd>one who has been in office and is turned out.</cd> <au>Shak.</au> -- <col><b>Jack the Giant Killer</b></col>, <cd>the hero of a well-known nursery story.</cd> -- <col><b>Yellow Jack</b></col> <fld>(Naut.)</fld>, <cd>the yellow fever; also, the quarantine flag. See <cref>Yellow flag</cref>, under <er>Flag</er>.</cd></cs><br/
+<p><cs><col>Blue jack</col>, <cd>blue vitriol; sulphate of copper.</cd> -- <col>Hydraulic jack</col>, <cd>a jack used for lifting, pulling, or forcing, consisting of a compact portable hydrostatic press, with its pump and a reservoir containing a supply of liquid, as oil.</cd> -- <col>Jack-at-a-pinch</col>. <sd>(a)</sd> <cd>One called upon to take the place of another in an emergency</cd>. <sd>(b)</sd> <cd>An itinerant parson who conducts an occasional service for a fee.</cd> -- <col>Jack-at-all-trades</col>, <cd>one who can turn his hand to any kind of work.</cd> -- <col>Jack-by-the-hedge</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erysimum</gen> (<spn>Erysimum alliaria</spn>, or <spn>Alliaria officinalis</spn>), which grows under hedges. It bears a white flower and has a taste not unlike garlic. Called also, in England, <altname>sauce-alone</altname>.</cd> <au>Eng. Cyc.</au> --  <col>Jack-in-office</col>, <cd>an insolent fellow in authority.</cd> <au>Wolcott.</au> -- <col>Jack-in-the-bush</col> <fld>(Bot.)</fld>, <cd>a tropical shrub with red fruit (<spn>Cordia Cylindrostachya</spn>).</cd> -- <col>Jack-in-the-green</col>, <cd>a chimney sweep inclosed in a framework of boughs, carried in Mayday processions.</cd> -- <col>Jack-of-the-buttery</col> <fld>(Bot.)</fld>, <cd>the stonecrop (<spn>Sedum acre</spn>).</cd> -- <col>Jack-of-the-clock</col>, <cd>a figure, usually of a man, on old clocks, which struck the time on the bell.</cd> -- <col>Jack-on-both-sides</col>, <cd>one who is or tries to be neutral.</cd> -- <col>Jack-out-of-office</col>, <cd>one who has been in office and is turned out.</cd> <au>Shak.</au> -- <col>Jack the Giant Killer</col>, <cd>the hero of a well-known nursery story.</cd> -- <col>Yellow Jack</col> <fld>(Naut.)</fld>, <cd>the yellow fever; also, the quarantine flag. See <cref>Yellow flag</cref>, under <er>Flag</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jack</ent><br/
@@ -286,7 +286,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn> <def>A conceited dolt; a perverse blockhead; -- disparaging and offensive.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jackass bark</b></col> <fld>(Naut.)</fld>, <cd>a three-masted vessel, with only the foremast square-rigged; a barkentine.</cd> -- <col><b>Jackass deer</b></col> <fld>(Zool.)</fld>, <cd>the koba.</cd> -- <mcol><col><b>Jackass hare</b></col>, <col><b>Jackass rabbit</b></col></mcol> <fld>(Zool.)</fld>. <cd>See <cref>Jack rabbit</cref>, under 2d <er>Jack</er>, <pos>n.</pos></cd> -- <col><b>Jackass penguin</b></col> <fld>(Zool.)</fld>, <cd>any species of penguin of the genus <gen>Spheniscus</gen>, of which several are known.  One species (<spn>Spheniscus demersus</spn>) inhabits the islands near the Cape of Good Hope; another (<spn>Spheniscus Magellanicus</spn>) is found at the Falkland Islands. They make a noise like the braying of an ass; -- hence the name.</cd> -- <col><b>Laughing jackass</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Laughing</er>.</cd></cs><br/
+<p><cs><col>Jackass bark</col> <fld>(Naut.)</fld>, <cd>a three-masted vessel, with only the foremast square-rigged; a barkentine.</cd> -- <col>Jackass deer</col> <fld>(Zool.)</fld>, <cd>the koba.</cd> -- <mcol><col>Jackass hare</col>, <col>Jackass rabbit</col></mcol> <fld>(Zool.)</fld>. <cd>See <cref>Jack rabbit</cref>, under 2d <er>Jack</er>, <pos>n.</pos></cd> -- <col>Jackass penguin</col> <fld>(Zool.)</fld>, <cd>any species of penguin of the genus <gen>Spheniscus</gen>, of which several are known.  One species (<spn>Spheniscus demersus</spn>) inhabits the islands near the Cape of Good Hope; another (<spn>Spheniscus Magellanicus</spn>) is found at the Falkland Islands. They make a noise like the braying of an ass; -- hence the name.</cd> -- <col>Laughing jackass</col>. <fld>(Zool.)</fld> <cd>See under <er>Laughing</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>jackboot</ent><br/
@@ -329,7 +329,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>4.</sn> <def>A garment resembling a waistcoat lined with cork, to serve as a life preserver; -- called also <altname>cork jacket</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blue jacket</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Blue</er>.</cd> -- <col><b>Steam jacket</b></col>, <cd>a space filled with steam between an inner and an outer cylinder, or between a casing and a receptacle, as a kettle.</cd> -- <col><b>To dust one's jacket</b></col>, <cd>to give one a beating.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>Blue jacket</col>. <fld>(Naut.)</fld> <cd>See under <er>Blue</er>.</cd> -- <col>Steam jacket</col>, <cd>a space filled with steam between an inner and an outer cylinder, or between a casing and a receptacle, as a kettle.</cd> -- <col>To dust one's jacket</col>, <cd>to give one a beating.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jacket</ent><br/
@@ -437,7 +437,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>4.</sn> <def>An unusually large success in an enterprise, either unexpected or unpredictable, esp. one providing a great financial benefit.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>hit the jackpot</b></col> <cd>to receive an unexpectedly large (or the largest possible) benefit from an enterprise; <as>as, after prospecting for years, he finally <ex>hit the jackpot</ex> when he discovered a silver lode</as>.</cd></cs><br/
+<p><cs><col>hit the jackpot</col> <cd>to receive an unexpectedly large (or the largest possible) benefit from an enterprise; <as>as, after prospecting for years, he finally <ex>hit the jackpot</ex> when he discovered a silver lode</as>.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Jackpudding</ent><br/
@@ -504,7 +504,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><q>Thy name shall be called no more <qex>Jacob</qex>, but Israel.</q> <rj><qau>Gen. xxxii. 28.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jacob's ladder</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>A perennial herb of the genus <gen>Polemonium</gen> (<spn>Polemonium c<oe/ruleum), having corymbs of drooping flowers, usually blue. Gray</spn>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>A rope ladder, with wooden steps, for going aloft</cd>. <au>R. H. Dana, Jr.</au> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>A succession of short cracks in a defective spar.</cd> -- <col><b>Jacob's membrane</b></col>. <cd>See <er>Retina</er>.</cd> -- <col><b>Jacob's staff</b></col>. <sd>(a)</sd> <cd>A name given to many forms of staff or weapon, especially in the Middle Ages; a pilgrim's staff</cd>. <mark>[Obs.]</mark> <au>Spenser.</au> <sd>(b)</sd> <fld>(Surveying)</fld> <cd>See under <er>Staff</er>.</cd></cs><br/
+<p><cs><col>Jacob's ladder</col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>A perennial herb of the genus <gen>Polemonium</gen> (<spn>Polemonium c<oe/ruleum), having corymbs of drooping flowers, usually blue. Gray</spn>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>A rope ladder, with wooden steps, for going aloft</cd>. <au>R. H. Dana, Jr.</au> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>A succession of short cracks in a defective spar.</cd> -- <col>Jacob's membrane</col>. <cd>See <er>Retina</er>.</cd> -- <col>Jacob's staff</col>. <sd>(a)</sd> <cd>A name given to many forms of staff or weapon, especially in the Middle Ages; a pilgrim's staff</cd>. <mark>[Obs.]</mark> <au>Spenser.</au> <sd>(b)</sd> <fld>(Surveying)</fld> <cd>See under <er>Staff</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jacobaean lily</ent><br/
@@ -592,7 +592,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <hw>Jac*quard"</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or invented by, <etsep>Jacquard</etsep>, a French mechanician, who died in 1834.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Jacquard apparatus</b></col> <it>or</it> <col><b>Jacquard arrangement</b></col></mcol>, <cd>a device applied to looms for weaving figured goods, consisting of mechanism controlled by a chain of variously perforated cards, which cause the warp threads to be lifted in the proper succession for producing the required figure.</cd> -- <col><b>Jacquard card</b></col>, <cd>one of the perforated cards of a Jacquard apparatus.</cd> -- <col><b>Jacquard loom</b></col>, <cd>a loom with Jacquard apparatus.</cd></cs><br/
+<p><cs><mcol><col>Jacquard apparatus</col> <it>or</it> <col>Jacquard arrangement</col></mcol>, <cd>a device applied to looms for weaving figured goods, consisting of mechanism controlled by a chain of variously perforated cards, which cause the warp threads to be lifted in the proper succession for producing the required figure.</cd> -- <col>Jacquard card</col>, <cd>one of the perforated cards of a Jacquard apparatus.</cd> -- <col>Jacquard loom</col>, <cd>a loom with Jacquard apparatus.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jacqueminot</ent><br/
@@ -623,7 +623,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn>  <fld>(Med.)</fld> <def>A frequent tossing or moving of the body; restlessness, as in delirium.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jactitation of marriage</b></col> <fld>(Eng. Eccl. Law)</fld>, <cd>a giving out or boasting by a party that he or she is married to another, whereby a common reputation of their matrimony may ensue.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
+<p><cs><col>Jactitation of marriage</col> <fld>(Eng. Eccl. Law)</fld>, <cd>a giving out or boasting by a party that he or she is married to another, whereby a common reputation of their matrimony may ensue.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jaculable</ent><br/
@@ -772,14 +772,14 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><sn>5.</sn>  <def>Enough liquor to make a man noticeably drunk; a small <ldquo/load;<rdquo/ a time or case of drunkeness; -- esp. in phr. <xex>To have a jag on</xex>, to be drunk.</def> <mark>[Slang, U. S. & Dial. Eng.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Jag bolt</b></col>, <cd>a bolt with a nicked or barbed shank which resists retraction, as when leaded into stone.</cd></cs><br/
+<p><cs><col>Jag bolt</col>, <cd>a bolt with a nicked or barbed shank which resists retraction, as when leaded into stone.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jag</ent><br/
 <hw>Jag</hw>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>Jagged</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Jagging</conjf> <pr>(?)</pr>.]</vmorph> <def>To cut into notches or teeth like those of a saw; to notch.</def> <altsp>[Written also <asp>jagg</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jagging iron</b></col>, <cd>a wheel with a zigzag or jagged edge for cutting cakes or pastry into ornamental figures.</cd></cs><br/
+<p><cs><col>Jagging iron</col>, <cd>a wheel with a zigzag or jagged edge for cutting cakes or pastry into ornamental figures.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jag</ent><br/
@@ -833,7 +833,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Jag"ger</hw>, <pos>n.</pos> <ety>[From 4th <er>Jag</er>.]</ety> <def>One who, or that which, jags;</def> <specif>specifically:</specif> <sd>(a)</sd> <def>a jagging iron used for crimping pies, cakes, etc.</def> <sd>(b)</sd> <def>A toothed chisel. See <er>Jag</er>, <pos>v. t.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jagger spring</b></col>, <cd>a spring beneath a seat, and resting on cleats or blocks in the body of a vehicle.</cd>  <rj><au>Knight.</au></rj></cs><br/
+<p><cs><col>Jagger spring</col>, <cd>a spring beneath a seat, and resting on cleats or blocks in the body of a vehicle.</cd>  <rj><au>Knight.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jaggery</ent><br/
@@ -895,7 +895,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><q>This <qex>jail</qex> I count the house of liberty.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jail delivery</b></col>, <cd>the release of prisoners from jail, either legally or by violence.</cd> -- <col><b>Jail delivery commission</b></col>. <cd>See under <er>Gaol</er>.</cd> -- <col><b>Jail fever</b></col> <fld>(Med.)</fld>, <cd>typhus fever, or a disease resembling it, generated in jails and other places crowded with people; -- called also <altname>hospital fever</altname>, and <altname>ship fever</altname>.</cd> -- <mcol><col><b>Jail liberties</b></col>, <it>or</it> <col><b>Jail limits</b></col></mcol>, <cd>a space or district around a jail within which an imprisoned debtor was, on certain conditions, allowed to go at large.</cd> <au>Abbott.</au> -- <col><b>Jail lock</b></col>, <cd>a peculiar form of padlock; -- called also <altname>Scandinavian lock</altname>.</cd></cs><br/
+<p><cs><col>Jail delivery</col>, <cd>the release of prisoners from jail, either legally or by violence.</cd> -- <col>Jail delivery commission</col>. <cd>See under <er>Gaol</er>.</cd> -- <col>Jail fever</col> <fld>(Med.)</fld>, <cd>typhus fever, or a disease resembling it, generated in jails and other places crowded with people; -- called also <altname>hospital fever</altname>, and <altname>ship fever</altname>.</cd> -- <mcol><col>Jail liberties</col>, <it>or</it> <col>Jail limits</col></mcol>, <cd>a space or district around a jail within which an imprisoned debtor was, on certain conditions, allowed to go at large.</cd> <au>Abbott.</au> -- <col>Jail lock</col>, <cd>a peculiar form of padlock; -- called also <altname>Scandinavian lock</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jail</ent><br/
@@ -970,7 +970,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Jal"ap</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Sp. <ets>jalapa</ets>; -- so called from <etsep>Jalapa</etsep>, a town in Mexico, whence it was first obtained.]</ety> <fld>(Med.)</fld> <def>The tubers of the Mexican plant <spn>Ipom<oe/a purga</spn> (or <spn>Exogonium purga</spn>) of the family <fam>Convolvulaceae</fam>, a climber much like the morning-glory. The abstract, extract, and powder, prepared from the tubers, are well known purgative (cathartic) medicines, and are also called <ex>jalap</ex>. Other species of <gen>Ipom<oe/a</gen> yield several inferior kinds of jalap, as the <spn>Ipom<oe/a Orizabensis</spn>, and <spn>Ipom<oe/a tuberosa</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>False jalap</b></col>, <cd>the root of <spn>Mirabilis Jalapa</spn>, four-o'clock, or marvel of Peru.</cd></cs><br/
+<p><cs><col>False jalap</col>, <cd>the root of <spn>Mirabilis Jalapa</spn>, four-o'clock, or marvel of Peru.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jalapic</ent><br/
@@ -1053,7 +1053,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Jam</hw>, <pos>n.</pos> <ety>[Prob. fr. <ets>jam</ets>, v.; but cf. also Ar. <ets>jamad</ets> ice, jelly, <ets>j<amac/mid</ets> congealed, <ets>jamd</ets> congelation, ice.]</ety> <def>A preserve of fruit boiled with sugar and water; also called <altname>jelly</altname>; <as>as, raspberry <ex>jam</ex>; currant <ex>jam</ex>; grape <ex>jam</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jam nut</b></col>. <cd>See <cref>Check nut</cref>, under <er>Check</er>.</cd> -- <col><b>Jam weld</b></col> <fld>(Forging)</fld>, <cd>a butt weld. See under <er>Butt</er>.</cd></cs><br/
+<p><cs><col>Jam nut</col>. <cd>See <cref>Check nut</cref>, under <er>Check</er>.</cd> -- <col>Jam weld</col> <fld>(Forging)</fld>, <cd>a butt weld. See under <er>Butt</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jamacina</ent><br/
@@ -1068,7 +1068,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Ja*mai"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One of the West Indian islands.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jamaica ginger</b></col>, <cd>a variety of ginger, called also <altname>white ginger</altname>, prepared in Jamaica from the best roots, which are deprived of their epidermis and dried separately.</cd> -- <col><b>Jamaica pepper</b></col>, <cd>allspice.</cd> -- <col><b>Jamaica rose</b></col> <fld>(Bot.)</fld>, <cd>a West Indian melastomaceous shrub (<spn>Blakea trinervis</spn>), with showy pink flowers.</cd></cs><br/
+<p><cs><col>Jamaica ginger</col>, <cd>a variety of ginger, called also <altname>white ginger</altname>, prepared in Jamaica from the best roots, which are deprived of their epidermis and dried separately.</cd> -- <col>Jamaica pepper</col>, <cd>allspice.</cd> -- <col>Jamaica rose</col> <fld>(Bot.)</fld>, <cd>a West Indian melastomaceous shrub (<spn>Blakea trinervis</spn>), with showy pink flowers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jamaican</ent><br/
@@ -1376,14 +1376,14 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Ja"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>January</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>A Latin deity represented with two faces looking in opposite directions. Numa is said to have dedicated to Janus the covered passage at Rome, near the Forum, which is usually called the Temple of Janus. This passage was open in war and closed in peace.</def>  <rj><au>Dr. W. Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Janus cloth</b></col>, <cd>a fabric having both sides dressed, the sides being of different colors, -- used for reversible garments.</cd></cs><br/
+<p><cs><col>Janus cloth</col>, <cd>a fabric having both sides dressed, the sides being of different colors, -- used for reversible garments.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Janus-faced</ent><br/
 <hw>Ja"nus-faced`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Double-faced; deceitful.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Janus-faced lock</b></col>, <cd>one having duplicate faces so as to go upon a right or a left hand door, the key entering on either side indifferently.</cd>  <rj><au>Knight.</au></rj></cs><br/
+<p><cs><col>Janus-faced lock</col>, <cd>one having duplicate faces so as to go upon a right or a left hand door, the key entering on either side indifferently.</cd>  <rj><au>Knight.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Janus-headed</ent><br/
@@ -1398,7 +1398,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Ja*pan"</hw>, <pos>a.</pos> <def>Of or pertaining to Japan, or to the lacquered work of that country; <as>as, <ex>Japan</ex> ware</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Japan allspice</b></col> <fld>(Bot.)</fld>, <cd>a spiny shrub from Japan (<spn>Chimonanthus fragrans</spn>), related to the Carolina allspice.</cd> -- <col><b>Japan black</b></col> <fld>(Chem.)</fld>, <cd>a quickly drying black lacquer or varnish, consisting essentially of asphaltum dissolved in naphtha or turpentine, and used for coating ironwork; -- called also <altname>Brunswick black</altname>, <altname>Japan lacquer</altname>, or simply <altname>Japan</altname>.</cd> -- <col><b>Japan camphor</b></col>, <cd>ordinary camphor brought from China or Japan, as distinguished from the rare variety called <contr>borneol</contr> or <contr>Borneo camphor</contr>.</cd> -- <mcol><col><b>Japan clover</b></col>, <it>or</it> <col><b>Japan pea</b></col></mcol> <fld>(Bot.)</fld>, <cd>a cloverlike plant (<spn>Lespedeza striata</spn>) from Eastern Asia, useful for fodder, first noticed in the Southern United States about 1860, but now become very common.  During the Civil War it was called variously <altname>Yankee clover</altname> and <altname>Rebel clover</altname>.</cd> -- <col><b>Japan earth</b></col>. <cd>See <er>Catechu</er>.</cd> -- <col><b>Japan ink</b></col>, <cd>a kind of writing ink, of a deep, glossy black when dry.</cd> -- <col><b>Japan varnish</b></col>, <cd>a varnish prepared from the milky juice of the <spn>Rhus vernix</spn>, a small Japanese tree related to the poison sumac.</cd></cs><br/
+<p><cs><col>Japan allspice</col> <fld>(Bot.)</fld>, <cd>a spiny shrub from Japan (<spn>Chimonanthus fragrans</spn>), related to the Carolina allspice.</cd> -- <col>Japan black</col> <fld>(Chem.)</fld>, <cd>a quickly drying black lacquer or varnish, consisting essentially of asphaltum dissolved in naphtha or turpentine, and used for coating ironwork; -- called also <altname>Brunswick black</altname>, <altname>Japan lacquer</altname>, or simply <altname>Japan</altname>.</cd> -- <col>Japan camphor</col>, <cd>ordinary camphor brought from China or Japan, as distinguished from the rare variety called <contr>borneol</contr> or <contr>Borneo camphor</contr>.</cd> -- <mcol><col>Japan clover</col>, <it>or</it> <col>Japan pea</col></mcol> <fld>(Bot.)</fld>, <cd>a cloverlike plant (<spn>Lespedeza striata</spn>) from Eastern Asia, useful for fodder, first noticed in the Southern United States about 1860, but now become very common.  During the Civil War it was called variously <altname>Yankee clover</altname> and <altname>Rebel clover</altname>.</cd> -- <col>Japan earth</col>. <cd>See <er>Catechu</er>.</cd> -- <col>Japan ink</col>, <cd>a kind of writing ink, of a deep, glossy black when dry.</cd> -- <col>Japan varnish</col>, <cd>a varnish prepared from the milky juice of the <spn>Rhus vernix</spn>, a small Japanese tree related to the poison sumac.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Japan</ent><br/
@@ -1433,7 +1433,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Ja*panned"</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Treated, or coated, with varnish in the Japanese manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Japanned leather</b></col>,<cd>leather treated with coatings of Japan varnish, and dried in a stove.</cd>  <rj><au>Knight.</au></rj></cs><br/
+<p><cs><col>Japanned leather</col>,<cd>leather treated with coatings of Japan varnish, and dried in a stove.</cd>  <rj><au>Knight.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Japanner</ent><br/
@@ -1497,7 +1497,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>Jar</hw> <pr>(j<aum/r)</pr>, <pos>n.</pos> <ety>[See <er>Ajar</er>.]</ety> <def>A turn.</def> <note>[Only in phrase.]</note> <br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>On the jar</b></col>, <cd>on the turn, ajar, as a door.</cd></cs><br/
+<p><cs><col>On the jar</col>, <cd>on the turn, ajar, as a door.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jar</ent><br/
@@ -1507,7 +1507,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <p><sn>2.</sn>  <def>The measure of what is contained in a jar; <as>as, a <ex>jar</ex> of oil; a <ex>jar</ex> of preserves.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bell jar</b></col>, <col><b>Leyden jar</b></col></mcol>. <cd>See in the Vocabulary.</cd></cs><br/
+<p><cs><mcol><col>Bell jar</col>, <col>Leyden jar</col></mcol>. <cd>See in the Vocabulary.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jar</ent><br/
@@ -1682,7 +1682,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jas"mine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>jasmin</ets>, Sp. <ets>jazmin</ets>, Ar. <ets>y<amac/sm<imac/n</ets>, Pers. <ets>y<amac/sm<imac/n</ets>; cf. It. <ets>gesmino</ets>, <ets>gelsomino</ets>.  Cf. <er>Jessamine</er>.]</ety> <fld>(Bot.)</fld> <def>A shrubby plant of the genus <gen>Jasminum</gen>, bearing flowers of a peculiarly fragrant odor. The <spn>Jasminum officinale</spn>, common in the south of Europe, bears white flowers. The Arabian jasmine is <spn>Jasminum Sambac</spn>, and, with <spn>Jasminum angustifolia</spn>, comes from the East Indies.  The yellow false jasmine in the <spn>Gelseminum sempervirens</spn> (see <er>Gelsemium</er>). Several other plants are called <ex>jasmine</ex> in the West Indies, as species of <gen>Calotropis</gen> and <gen>Faramea</gen>.</def> <altsp>[Written also  <asp>jessamine</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Cape jasmine</b></col>, <it>or</it> <col><b>Cape jessamine</b></col></mcol>, <cd>the <spn>Gardenia florida</spn>, a shrub with fragrant white flowers, a native of China, and hardy in the Southern United States.</cd></cs><br/
+<p><cs><mcol><col>Cape jasmine</col>, <it>or</it> <col>Cape jessamine</col></mcol>, <cd>the <spn>Gardenia florida</spn>, a shrub with fragrant white flowers, a native of China, and hardy in the Southern United States.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jason</ent><br/
@@ -1705,7 +1705,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jas"per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>jaspre</ets>, <ets>jaspe</ets>, OF. <ets>jaspre</ets>, <ets>jaspe</ets>, F. <ets>jaspe</ets>, L. <ets>iaspis</ets>, Gr. <?/; cf. Per. <ets>yashp</ets>, <ets>yashf</ets>, Ar. <ets>yashb</ets>, <ets>yasb</ets>, <ets>yasf</ets>, Heb. <ets>y<amac/shpheh</ets>.  Cf. <er>Diaper</er>.]</ety> <fld>(Min.)</fld> <def>An opaque, impure variety of quartz, of red, yellow, and other dull colors, breaking with a smooth surface. It admits of a high polish, and is used for vases, seals, snuff boxes, etc.  When the colors are in stripes or bands, it is called <stype>striped jasper</stype> <it>or</it> <stype>banded jasper</stype>. The Egyptian pebble is a brownish yellow jasper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jasper opal</b></col>, <cd>a yellow variety of opal resembling jasper.</cd> -- <col><b>Jasper ware</b></col>, <cd>a delicate kind of earthenware invented by <person>Josiah Wedgwood</person>. It is usually white, but is capable of receiving color.</cd></cs><br/
+<p><cs><col>Jasper opal</col>, <cd>a yellow variety of opal resembling jasper.</cd> -- <col>Jasper ware</col>, <cd>a delicate kind of earthenware invented by <person>Josiah Wedgwood</person>. It is usually white, but is capable of receiving color.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jasperated</ent><br/
@@ -1754,7 +1754,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jaun"dice</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[OE. <ets>jaunis</ets>, F. <ets>jaunisse</ets>, fr. <ets>jaune</ets> yellow, orig. <ets>jalne</ets>, fr. L. <ets>galbinus</ets> yellowish, fr. <ets>galbus</ets> yellow.]</ety> <fld>(Med.)</fld> <def>A morbid condition, characterized by yellowness of the eyes, skin, and urine, whiteness of the feces, constipation, uneasiness in the region of the stomach, loss of appetite, and general languor and lassitude.  It is caused usually by obstruction of the biliary passages and consequent damming up, in the liver, of the bile, which is then absorbed into the blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blue jaundice</b></col>. <cd>See <er>Cyanopathy</er>.</cd></cs><br/
+<p><cs><col>Blue jaundice</col>. <cd>See <er>Cyanopathy</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 798 --></p>
@@ -1786,7 +1786,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn>  <def>To ride on a jaunting car.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jaunting car</b></col>, <cd>a kind of low-set open vehicle, used in Ireland, in which the passengers ride sidewise, sitting back to back.</cd> <altsp>[Written also <asp>jaunty car</asp>.]</altsp>  <rj><au>Thackeray.</au></rj></cs><br/
+<p><cs><col>Jaunting car</col>, <cd>a kind of low-set open vehicle, used in Ireland, in which the passengers ride sidewise, sitting back to back.</cd> <altsp>[Written also <asp>jaunty car</asp>.]</altsp>  <rj><au>Thackeray.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jaunt</ent><br/
@@ -1830,7 +1830,7 @@ Hungry and cold, betook him to his rest.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Computers)</fld> <mark>[all capitals]</mark>  <def>an object-oriented computer programming language, derived largely from <contr>C++</contr>, used widely for design and display of web pages on the world-wide web.  It is an interpreted language, and has been suggested as a platform-independent code to allow execution of the same progam under multiple operating systems without recompiling.  The language is still (1997) under active development, and is evolving.</def><br/
 [<source>GG</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Java cat</b></col> <fld>(Zool.)</fld>, <cd>the musang.</cd> -- <col><b>Java sparrow</b></col> <fld>(Zool.)</fld>, <cd>a species of  finch (<spn>Padda oryzivora</spn>), native of Java, but very commonly kept as a cage bird; -- called also <altname>ricebird</altname>, and <altname>paddy bird</altname>. In the male the upper parts are glaucous gray, the head and tail black, the under parts delicate rose, and the cheeks white. The bill is large and red. A white variety is also kept as a cage bird.</cd></cs><br/
+<p><cs><col>Java cat</col> <fld>(Zool.)</fld>, <cd>the musang.</cd> -- <col>Java sparrow</col> <fld>(Zool.)</fld>, <cd>a species of  finch (<spn>Padda oryzivora</spn>), native of Java, but very commonly kept as a cage bird; -- called also <altname>ricebird</altname>, and <altname>paddy bird</altname>. In the male the upper parts are glaucous gray, the head and tail black, the under parts delicate rose, and the cheeks white. The bill is large and red. A white variety is also kept as a cage bird.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Javanese</ent><br/
@@ -1880,7 +1880,7 @@ Launched by the vigor of a Roman arm?</q> <rj><qau>Addison.</qau></rj><br/
 <syn><b>Syn. --</b> lip.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jaw bit</b></col> <fld>(Railroad)</fld>, <cd>a bar across the jaws of a pedestal underneath an axle box.</cd> -- <col><b>Jaw breaker</b></col>, <cd>a word difficult to pronounce.</cd> <mark>[Obs.]</mark><-- also, a piece of hard candy --> -- <col><b>Jaw rope</b></col> <fld>(Naut.)</fld>, <cd>a rope which holds the jaws of a gaff to the mast.</cd> -- <col><b>Jaw tooth</b></col>, <cd>a molar or grinder; a back tooth.</cd></cs><br/
+<p><cs><col>Jaw bit</col> <fld>(Railroad)</fld>, <cd>a bar across the jaws of a pedestal underneath an axle box.</cd> -- <col>Jaw breaker</col>, <cd>a word difficult to pronounce.</cd> <mark>[Obs.]</mark><-- also, a piece of hard candy --> -- <col>Jaw rope</col> <fld>(Naut.)</fld>, <cd>a rope which holds the jaws of a gaff to the mast.</cd> -- <col>Jaw tooth</col>, <cd>a molar or grinder; a back tooth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jaw</ent><br/
@@ -1939,7 +1939,7 @@ Launched by the vigor of a Roman arm?</q> <rj><qau>Addison.</qau></rj><br/
 <p><note><hand/ The European jay (<spn>Garrulus glandarius</spn>) is a large and handsomely colored species, having the body pale reddish brown, lighter beneath; tail and wing quills blackish; the primary coverts barred with bright blue and black; throat, tail coverts, and a large spot on the wings, white. Called also <altname>jay pie</altname>, <altname>Jenny jay</altname>, and <altname>k<ae/</altname>. The common <er>blue jay</er> (<spn>Cyanocitta cristata</spn>.), and the related species, are brilliantly colored, and have a large erectile crest.  The California jay (<spn>Aphelocoma Californica</spn>), the Florida jay (<spn>Aphelocoma Floridana</spn>), and the green jay (<spn>Xanthoura luxuosa</spn>), of Texas and Mexico, are large, handsome, crested species. The Canada jay (<spn>Perisoreus Canadensis</spn>), and several allied species, are much plainer and have no crest. See <er>Blue jay</er>, and <er>Whisky jack</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jay thrush</b></col> <fld>(Zool.)</fld>, <cd>any one several species of Asiatic singing birds, of the genera <gen>Garrulax</gen>, <gen>Grammatoptila</gen>, and related genera of the family <fam>Crateropodid<ae/</fam>; <as>as, the white-throated <stype>jay thrush</stype> (<spn>Garrulax albogularis</spn>) (also called the <stype>white-throated laughingthrush</stype>), of India</as>.</cd></cs><br/
+<p><cs><col>Jay thrush</col> <fld>(Zool.)</fld>, <cd>any one several species of Asiatic singing birds, of the genera <gen>Garrulax</gen>, <gen>Grammatoptila</gen>, and related genera of the family <fam>Crateropodid<ae/</fam>; <as>as, the white-throated <stype>jay thrush</stype> (<spn>Garrulax albogularis</spn>) (also called the <stype>white-throated laughingthrush</stype>), of India</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jayet</ent><br/
@@ -2077,7 +2077,7 @@ Are of the adder.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <pluf>(pl.)</pluf> <pr>(j<emac/nz)</pr>, <def>Pants made of different fabrics, resembling <er>blue jeans</er>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Satin jean</b></col>, <cd>a kind of jean woven smooth and glossy, after the manner of satin.</cd></cs><br/
+<p><cs><col>Satin jean</col>, <cd>a kind of jean woven smooth and glossy, after the manner of satin.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jears</ent><br/
@@ -2104,7 +2104,7 @@ Are of the adder.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jeer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Gear</er>.]</ety> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A gear; a tackle.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>An assemblage or combination of tackles, for hoisting or lowering the lower yards of a ship.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jeer capstan</b></col> <fld>(Naut.)</fld>, <cd>an extra capstan usually placed between the foremast and mainmast.</cd></cs><br/
+<p><cs><col>Jeer capstan</col> <fld>(Naut.)</fld>, <cd>an extra capstan usually placed between the foremast and mainmast.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jeer</ent><br/
@@ -2263,7 +2263,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>2.</sn>  <def>The juice of fruits or meats boiled with sugar to an elastic consistence; <as>as, currant <ex>jelly</ex>; calf's-foot <ex>jelly</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jelly bag</b></col>, <cd>a bag through which the material for jelly is strained.</cd> -- <col><b>Jelly mold</b></col>, <cd>a mold for forming jelly in ornamental shapes.</cd> -- <col><b>Jelly plant</b></col> <fld>(Bot.)</fld>, <cd>Australian name of an edible seaweed (<spn>Eucheuma speciosum</spn>), from which an excellent jelly is made.</cd> <au>J. Smith.</au> -- <col><b>Jelly powder</b></col>, <cd>an explosive, composed of nitroglycerin and collodion cotton; -- so called from its resemblance to calf's-foot jelly.</cd></cs><br/
+<p><cs><col>Jelly bag</col>, <cd>a bag through which the material for jelly is strained.</cd> -- <col>Jelly mold</col>, <cd>a mold for forming jelly in ornamental shapes.</cd> -- <col>Jelly plant</col> <fld>(Bot.)</fld>, <cd>Australian name of an edible seaweed (<spn>Eucheuma speciosum</spn>), from which an excellent jelly is made.</cd> <au>J. Smith.</au> -- <col>Jelly powder</col>, <cd>an explosive, composed of nitroglycerin and collodion cotton; -- so called from its resemblance to calf's-foot jelly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jelly</ent><br/
@@ -2329,7 +2329,7 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>2.</sn>  <fld>(Zool.)</fld> <def>A familiar name of the European wren.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jenny ass</b></col> <fld>(Zool.)</fld>, <cd>a female ass; also, a female of certain other animals.</cd></cs><br/
+<p><cs><col>Jenny ass</col> <fld>(Zool.)</fld>, <cd>a female ass; also, a female of certain other animals.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jenny</ent><br/
@@ -2403,7 +2403,7 @@ Only for spite at me.</q> <rj><qau>H. Taylor.</qau></rj><br/
 <p><note><hand/ The name is also applied to other small jumping rodents, as the <spn>Pedetes Caffer</spn>, of the Cape of Good Hope.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jerboa kangaroo</b></col> <fld>(Zool.)</fld>, <cd>small Australian kangaroo (<spn>Bettongia penicillata</spn>), about the size of a common hare.</cd></cs><br/
+<p><cs><col>Jerboa kangaroo</col> <fld>(Zool.)</fld>, <cd>small Australian kangaroo (<spn>Bettongia penicillata</spn>), about the size of a common hare.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jereed</ent><br/
@@ -2594,7 +2594,7 @@ Only for spite at me.</q> <rj><qau>H. Taylor.</qau></rj><br/
 <hw>Je*ru"sa*lem</hw> <pr>(j<esl/*r<udd/"s<adot/*l<ecr/m)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'Ieroysalh`m</grk>, fr. Heb. <ets>Y<ecr/r<umac/sh<amac/laim</ets>.]</ety> <def>The chief city of Palestine, intimately associated with the glory of the Jewish nation, and the life and death of Jesus Christ.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jerusalem artichoke</b></col> <ety>[Perh. a corrupt. of It. <ets>girasole</ets> <it>i.e.</it>, sunflower, or turnsole. See <er>Gyre</er>, <er>Solar</er>.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <cd>An American plant, a perennial species of sunflower (<spn>Helianthus tuberosus</spn>), whose tubers are sometimes used as food</cd>. <sd>(b)</sd> <cd>One of the tubers themselves.</cd> -- <col><b>Jerusalem cherry</b></col> <fld>(Bot.)</fld>, <cd>the popular name of either of two species of <gen>Solanum</gen> (<spn>Solanum Pseudo-capsicum</spn> and <spn>Solanum capsicastrum</spn>), cultivated as ornamental house plants. They bear bright red berries of about the size of cherries.</cd> -- <col><b>Jerusalem oak</b></col> <fld>(Bot.)</fld>, <cd>an aromatic goosefoot (<spn>Chenopodium Botrys</spn>), common about houses and along roadsides.</cd> -- <col><b>Jerusalem sage</b></col> <fld>(Bot.)</fld>, <cd>a perennial herb of the Mint family (<spn>Phlomis tuberosa</spn>).</cd> -- <col><b>Jerusalem thorn</b></col> <fld>(Bot.)</fld>, <cd>a spiny, leguminous tree (<spn>Parkinsonia aculeata</spn>), widely dispersed in warm countries, and used for hedges.</cd> -- <col><b>The New Jerusalem</b></col>, <cd>Heaven; the Celestial City.</cd></cs><br/
+<p><cs><col>Jerusalem artichoke</col> <ety>[Perh. a corrupt. of It. <ets>girasole</ets> <it>i.e.</it>, sunflower, or turnsole. See <er>Gyre</er>, <er>Solar</er>.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <cd>An American plant, a perennial species of sunflower (<spn>Helianthus tuberosus</spn>), whose tubers are sometimes used as food</cd>. <sd>(b)</sd> <cd>One of the tubers themselves.</cd> -- <col>Jerusalem cherry</col> <fld>(Bot.)</fld>, <cd>the popular name of either of two species of <gen>Solanum</gen> (<spn>Solanum Pseudo-capsicum</spn> and <spn>Solanum capsicastrum</spn>), cultivated as ornamental house plants. They bear bright red berries of about the size of cherries.</cd> -- <col>Jerusalem oak</col> <fld>(Bot.)</fld>, <cd>an aromatic goosefoot (<spn>Chenopodium Botrys</spn>), common about houses and along roadsides.</cd> -- <col>Jerusalem sage</col> <fld>(Bot.)</fld>, <cd>a perennial herb of the Mint family (<spn>Phlomis tuberosa</spn>).</cd> -- <col>Jerusalem thorn</col> <fld>(Bot.)</fld>, <cd>a spiny, leguminous tree (<spn>Parkinsonia aculeata</spn>), widely dispersed in warm countries, and used for hedges.</cd> -- <col>The New Jerusalem</col>, <cd>Heaven; the Celestial City.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jervine</ent><br/
@@ -2621,7 +2621,7 @@ From bells and <qex>jesses</qex> which did let her flight.</q> <rj><qau>Spenser.
 <hw>Jes"se</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>Jesse</ets>, the father of David, fr. Gr. <?/, fr. Herb. <ets>Yishai</ets>.]</ety> <def>Any representation or suggestion of the genealogy of Christ, in decorative art</def>; as: <sd>(a)</sd> <def>A genealogical tree represented in stained glass.</def> <sd>(b)</sd> <def>A candlestick with many branches, each of which bears the name of some one of the descendants of Jesse; -- called also  <altname>tree of Jesse</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jesse window</b></col> <fld>(Arch.)</fld>, <cd>a window of which the glazing and tracery represent the tree of Jesse.</cd></cs><br/
+<p><cs><col>Jesse window</col> <fld>(Arch.)</fld>, <cd>a window of which the glazing and tracery represent the tree of Jesse.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jessed</ent><br/
@@ -2660,12 +2660,12 @@ To grace our banquet with some pompous <qex>jest</qex>.</q> <rj><qau>Kyd.</qau><
 <p><q>Then let me be your <qex>jest</qex>; I deserve it.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In jest</b></col>, <cd>for mere sport or diversion; not in truth and reality; not in earnest.</cd><br/
+<p><cs><col>In jest</col>, <cd>for mere sport or diversion; not in truth and reality; not in earnest.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And given in earnest what I begged <qex>in jest</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p>-- <col><b>Jest book</b></col>, <cd>a book containing a collection of jests, jokes, and amusing anecdotes; a Joe Miller.</cd></cs><br/
+<p>-- <col>Jest book</col>, <cd>a book containing a collection of jests, jokes, and amusing anecdotes; a Joe Miller.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jest</ent><br/
@@ -2737,7 +2737,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><sn>2.</sn>  <def>Fig.: A crafty person; an intriguer.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jesuits' bark</b></col>, <cd>Peruvian bark, or the bark of certain species of <gen>Cinchona</gen>; -- so called because its medicinal properties were first made known in Europe by Jesuit missionaries to South America.</cd> -- <col><b>Jesuits' drops</b></col>. <cd>See <cref>Friar's balsam</cref>, under <er>Friar</er>.</cd> -- <col><b>Jesuits' nut</b></col>, <cd>the European water chestnut.</cd> -- <col><b>Jesuits' powder</b></col>, <cd>powdered cinchona bark.</cd> -- <col><b>Jesuits' tea</b></col>, <cd>a Chilian leguminous shrub, used as a tea  and medicinally.</cd></cs><br/
+<p><cs><col>Jesuits' bark</col>, <cd>Peruvian bark, or the bark of certain species of <gen>Cinchona</gen>; -- so called because its medicinal properties were first made known in Europe by Jesuit missionaries to South America.</cd> -- <col>Jesuits' drops</col>. <cd>See <cref>Friar's balsam</cref>, under <er>Friar</er>.</cd> -- <col>Jesuits' nut</col>, <cd>the European water chestnut.</cd> -- <col>Jesuits' powder</col>, <cd>powdered cinchona bark.</cd> -- <col>Jesuits' tea</col>, <cd>a Chilian leguminous shrub, used as a tea  and medicinally.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jesuited</ent><br/
@@ -2793,7 +2793,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><q><qex>Jesu</qex>, do thou my soul receive.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The Society of Jesus</b></col>. <cd>The Roman Catholic order whose members are called <members>Jesuits</members>. See <er>Jesuit</er>.</cd></cs><br/
+<p><cs><col>The Society of Jesus</col>. <cd>The Roman Catholic order whose members are called <members>Jesuits</members>. See <er>Jesuit</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jet</ent><br/
@@ -2804,7 +2804,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <hw>Jet</hw>, <pos>n.</pos> <ety>[OF. <ets>jet</ets>, <ets>jayet</ets>, F. <ets>ja<ium/et</ets>, <ets>jais</ets>, L. <ets>gagates</ets>, fr. Gr. <?/; -- so called from <?/ or <?/, a town and river in Lycia.]</ety> <altsp>[written also <asp>jeat</asp>, <asp>jayet</asp>.]</altsp> <fld>(Min.)</fld> <def>A variety of lignite, of a very compact texture and velvet black color, susceptible of a good polish, and often wrought into mourning jewelry, toys, buttons, etc. Formerly called also <altname>black amber</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jet ant</b></col> <fld>(Zool.)</fld>, <cd>a blackish European ant (<spn>Formica fuliginosa</spn>), which builds its nest of a paperlike material in the trunks of trees.</cd></cs><br/
+<p><cs><col>Jet ant</col> <fld>(Zool.)</fld>, <cd>a blackish European ant (<spn>Formica fuliginosa</spn>), which builds its nest of a paperlike material in the trunks of trees.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jet</ent><br/
@@ -2820,7 +2820,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><sn>3.</sn>  <def>The sprue of a type, which is broken from it when the type is cold.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jet propeller</b></col> <fld>(Naut.)</fld>, <cd>a device for propelling vessels by means of a forcible jet of water ejected from the vessel, as by a centrifugal pump.</cd> -- <col><b>Jet pump</b></col>, <cd>a device in which a small jet of steam, air, water, or other fluid, in rapid motion, lifts or otherwise moves, by its impulse, a larger quantity of the fluid with which it mingles.</cd></cs><br/
+<p><cs><col>Jet propeller</col> <fld>(Naut.)</fld>, <cd>a device for propelling vessels by means of a forcible jet of water ejected from the vessel, as by a centrifugal pump.</cd> -- <col>Jet pump</col>, <cd>a device in which a small jet of steam, air, water, or other fluid, in rapid motion, lifts or otherwise moves, by its impulse, a larger quantity of the fluid with which it mingles.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jet</ent><br/
@@ -2943,7 +2943,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Hydraul. Engin.)</fld> <def>A structure of wood or stone extended into the sea to influence the current or tide, or to protect a harbor; a mole; <as>as, the Eads system of <ex>jetties</ex> at the mouth of the Mississippi River</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jetty head</b></col> <fld>(Naut.)</fld>, <cd>a projecting part at the end of a wharf; the front of a wharf whose side forms one of the cheeks of a dock.</cd></cs><br/
+<p><cs><col>Jetty head</col> <fld>(Naut.)</fld>, <cd>a projecting part at the end of a wharf; the front of a wharf whose side forms one of the cheeks of a dock.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jetty</ent><br/
@@ -2965,7 +2965,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><sn>2.</sn> <def>An adherent of Judaism.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Jew's frankincense</b></col>, <cd>gum styrax, or benzoin.</cd> -- <col><b>Jew's mallow</b></col> <fld>(Bot.)</fld>, <cd>an annual herb (<spn>Corchorus olitorius</spn>) cultivated in Syria and Egypt as a pot herb, and in India for its fiber.</cd> -- <col><b>Jew's pitch</b></col>, <cd>asphaltum; bitumen.</cd> -- <col><b>The Wandering Jew</b></col>, <cd>an imaginary personage, who, for his cruelty to Christ during his passion, is doomed to wander on the earth till Christ's second coming.</cd> -- <col><b>Wandering Jew</b></col>, <cd>any of several house plants of the genera <gen>Zebrina</gen> and <gen>Tradescantia</gen> having white-striped leaves, especially the creeping plants <spn>Zebrina pendula</spn> and <spn>Tradescantia fluminensis</spn>.</cd></cs><br/
+<p><cs><col>Jew's frankincense</col>, <cd>gum styrax, or benzoin.</cd> -- <col>Jew's mallow</col> <fld>(Bot.)</fld>, <cd>an annual herb (<spn>Corchorus olitorius</spn>) cultivated in Syria and Egypt as a pot herb, and in India for its fiber.</cd> -- <col>Jew's pitch</col>, <cd>asphaltum; bitumen.</cd> -- <col>The Wandering Jew</col>, <cd>an imaginary personage, who, for his cruelty to Christ during his passion, is doomed to wander on the earth till Christ's second coming.</cd> -- <col>Wandering Jew</col>, <cd>any of several house plants of the genera <gen>Zebrina</gen> and <gen>Tradescantia</gen> having white-striped leaves, especially the creeping plants <spn>Zebrina pendula</spn> and <spn>Tradescantia fluminensis</spn>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jew</ent><br/
@@ -3005,7 +3005,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>A bearing for a pivot a pivot in a watch, formed of a crystal or precious stone, as a ruby.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jewel block</b></col> <fld>(Naut.)</fld>, <cd>block at the extremity of a yard, through which the halyard of a studding sail is rove.</cd></cs><br/
+<p><cs><col>Jewel block</col> <fld>(Naut.)</fld>, <cd>block at the extremity of a yard, through which the halyard of a studding sail is rove.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jewel</ent><br/
@@ -3025,7 +3025,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jew"el*er</hw> <pr>(j<umac/"<ecr/l*l<etil/r <it>or</it> j<udd/"<ecr/l*l<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>joaillier</ets>.]</ety> <def>One who makes, or deals in, jewels, precious stones, and similar ornaments.</def> <altsp>[Written also <asp>jeweller</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jeweler's gold</b></col>. <cd>See under <er>Gold</er>.</cd></cs><br/
+<p><cs><col>Jeweler's gold</col>. <cd>See under <er>Gold</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jewellery</ent><br/
@@ -3197,7 +3197,7 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn>  <def>A stationary condition; a standstill.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Jib boom</b></col> <fld>(Naut.)</fld>, <cd>a spar or boom which serves as an extension of the bowsprit. It is sometimes extended by another spar called the <xex>flying jib boom</xex></cd>. <altsp>[Written also <asp>gib boom</asp>.]</altsp> -- <col><b>Jib crane</b></col> <fld>(Mach.)</fld>, <cd>a crane having a horizontal jib on which a trolley moves, bearing the load.</cd> -- <col><b>Jib door</b></col> <fld>(Arch.)</fld>, <cd>a door made flush with the wall, without dressings or moldings; a disguised door.</cd> -- <col><b>Jib header</b></col> <fld>(Naut.)</fld>, <cd>a gaff-topsail, shaped like a jib; a jib-headed topsail.</cd> -- <col><b>Jib topsail</b></col> <fld>(Naut.)</fld>, <cd>a small jib set above and outside of all the other jibs.</cd> -- <col><b>The cut of one's jib</b></col>, <cd>one's outward appearance.</cd> <mark>[Colloq.]</mark>  <rj><au>Sir W. Scott.</au></rj></cs><br/
+<p><cs><col>Jib boom</col> <fld>(Naut.)</fld>, <cd>a spar or boom which serves as an extension of the bowsprit. It is sometimes extended by another spar called the <xex>flying jib boom</xex></cd>. <altsp>[Written also <asp>gib boom</asp>.]</altsp> -- <col>Jib crane</col> <fld>(Mach.)</fld>, <cd>a crane having a horizontal jib on which a trolley moves, bearing the load.</cd> -- <col>Jib door</col> <fld>(Arch.)</fld>, <cd>a door made flush with the wall, without dressings or moldings; a disguised door.</cd> -- <col>Jib header</col> <fld>(Naut.)</fld>, <cd>a gaff-topsail, shaped like a jib; a jib-headed topsail.</cd> -- <col>Jib topsail</col> <fld>(Naut.)</fld>, <cd>a small jib set above and outside of all the other jibs.</cd> -- <col>The cut of one's jib</col>, <cd>one's outward appearance.</cd> <mark>[Colloq.]</mark>  <rj><au>Sir W. Scott.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jib</ent><br/
@@ -3258,7 +3258,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>6.</sn> <fld>(Mach.)</fld> <sd>(a)</sd> <def>A small machine or handy tool</def>; esp.: <fld>(Metal Working)</fld> <def>A contrivance fastened to or inclosing a piece of work, and having hard steel surfaces to guide a tool, as a drill, or to form a shield or template to work to, as in filing.</def> <sd>(b)</sd> <fld>(Mining)</fld> <def>An apparatus or a machine for jigging ore.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Drill jig</b></col>, <cd>a jig for guiding a drill. See <er>Jig</er>, <snr>6</snr> <sdr>(a)</sdr>.</cd> -- <mcol><col><b>Jig drilling</b></col>, <col><b>Jig filing</b></col></mcol> <fld>(Metal Working)</fld>, <cd>a process of drilling or filing in which the action of the tool is directed or limited by a jig.</cd> -- <col><b>Jig saw</b></col>, <cd>a sawing machine with a narrow, vertically reciprocating saw, used to cut curved and irregular lines, or ornamental patterns in openwork, a scroll saw; -- called also <altname>gig saw</altname>.</cd></cs><br/
+<p><cs><col>Drill jig</col>, <cd>a jig for guiding a drill. See <er>Jig</er>, <snr>6</snr> <sdr>(a)</sdr>.</cd> -- <mcol><col>Jig drilling</col>, <col>Jig filing</col></mcol> <fld>(Metal Working)</fld>, <cd>a process of drilling or filing in which the action of the tool is directed or limited by a jig.</cd> -- <col>Jig saw</col>, <cd>a sawing machine with a narrow, vertically reciprocating saw, used to cut curved and irregular lines, or ornamental patterns in openwork, a scroll saw; -- called also <altname>gig saw</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jig</ent><br/
@@ -3323,7 +3323,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <p><sn>6.</sn> <def>A <er>thingamajig</er>.</def> <mark>[Colloq.]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Jigger mast</b></col>. <fld>(Naut.)</fld> <sd>(a)</sd> <cd>The after mast of a four-masted vessel</cd>. <sd>(b)</sd> <cd>The small mast set at the stern of a yawl-rigged boat.</cd></cs><br/
+<p><cs><col>Jigger mast</col>. <fld>(Naut.)</fld> <sd>(a)</sd> <cd>The after mast of a four-masted vessel</cd>. <sd>(b)</sd> <cd>The small mast set at the stern of a yawl-rigged boat.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jigger</ent><br/
@@ -3341,7 +3341,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <hw>Jig"ging</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Mining)</fld> <def>The act or using a jig; the act of separating ore with a jigger, or wire-bottomed sieve, which is moved up and down in water.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jigging machine</b></col>. <sd>(a)</sd> <fld>(Mining)</fld> <cd>A machine for separating ore by the process of jigging</cd>. <sd>(b)</sd> <fld>(Metal Working)</fld> <cd>A machine with a rotary milling cutter and a template by which the action of the cutter is guided or limited; -- used for forming the profile of an irregularly shaped piece; a profiling machine.</cd></cs><br/
+<p><cs><col>Jigging machine</col>. <sd>(a)</sd> <fld>(Mining)</fld> <cd>A machine for separating ore by the process of jigging</cd>. <sd>(b)</sd> <fld>(Metal Working)</fld> <cd>A machine with a rotary milling cutter and a template by which the action of the cutter is guided or limited; -- used for forming the profile of an irregularly shaped piece; a profiling machine.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jiggish</ent><br/
@@ -3499,7 +3499,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj><b
 <note>The verses used in commercial advertisements are often called <ex>jingles</ex>, especially when sung.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jingle shell</b></col>. <cd>See <cref>Gold shell</cref> <sdr>(b)</sdr>, under <er>Gold</er>.</cd></cs><br/
+<p><cs><col>Jingle shell</col>. <cd>See <cref>Gold shell</cref> <sdr>(b)</sdr>, under <er>Gold</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jingler</ent><br/
@@ -3676,7 +3676,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><note><hand/ <xex>Job</xex> is used adjectively to signify <xex>doing jobs</xex>, <xex>used for jobs</xex>, or <xex>let on hire to do jobs</xex>; as, <xex>job</xex> printer; <xex>job</xex> master; <xex>job</xex> horse; <xex>job</xex> wagon, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By the job</b></col>, <cd>at a stipulated sum for the work, or for each piece of work done; -- distinguished from <contr>time work</contr>; <as>as, the house was built <ex>by the job</ex></as>.</cd> -- <col><b>Job lot</b></col>, <cd>a quantity of goods, usually miscellaneous, sold out of the regular course of trade, at a certain price for the whole; <as>as, these articles were included in a <ex>job lot</ex></as>.</cd> -- <col><b>Job master</b></col>, <cd>one who lest out horses and carriages for hire, as for family use.</cd> <mark>[Eng.]</mark> -- <col><b>Job printer</b></col>, <cd>one who does miscellaneous printing, esp. circulars, cards, billheads, etc.</cd> -- <col><b>Odd job</b></col>, <cd>miscellaneous work of a petty kind; occasional work, of various kinds, or for various people.</cd> -- <col><b>to do a job on</b></col>, <cd>to harm badly or destroy.</cd> <mark>[slang]</mark>  -- <col><b>on the job</b></col>, <cd>alert; performing a responsibility well.</cd> <mark>[slang]</mark></cs><br/
+<p><cs><col>By the job</col>, <cd>at a stipulated sum for the work, or for each piece of work done; -- distinguished from <contr>time work</contr>; <as>as, the house was built <ex>by the job</ex></as>.</cd> -- <col>Job lot</col>, <cd>a quantity of goods, usually miscellaneous, sold out of the regular course of trade, at a certain price for the whole; <as>as, these articles were included in a <ex>job lot</ex></as>.</cd> -- <col>Job master</col>, <cd>one who lest out horses and carriages for hire, as for family use.</cd> <mark>[Eng.]</mark> -- <col>Job printer</col>, <cd>one who does miscellaneous printing, esp. circulars, cards, billheads, etc.</cd> -- <col>Odd job</col>, <cd>miscellaneous work of a petty kind; occasional work, of various kinds, or for various people.</cd> -- <col>to do a job on</col>, <cd>to harm badly or destroy.</cd> <mark>[slang]</mark>  -- <col>on the job</col>, <cd>alert; performing a responsibility well.</cd> <mark>[slang]</mark></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Job</ent><br/
@@ -3718,7 +3718,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <hw>Job</hw> <pr>(j<omac/b)</pr>, <pos>n.</pos> <def>The hero of the book of that name in the Old Testament; the prototypical patient man.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Job's comforter</b></col>. <sd>(a)</sd> <cd>A false friend; a tactless or malicious person who, under pretense of sympathy, insinuates rebukes.</cd> <sd>(b)</sd> <cd>A boil</cd>. <mark>[Colloq.]</mark> -- <col><b>Job's news</b></col>, <cd>bad news.</cd> <au>Carlyle.</au> -- <col><b>Job's tears</b></col> <fld>(Bot.)</fld>, <cd>a kind of grass (<spn>Coix Lacryma</spn>), with hard, shining, pearly grains.</cd></cs><br/
+<p><cs><col>Job's comforter</col>. <sd>(a)</sd> <cd>A false friend; a tactless or malicious person who, under pretense of sympathy, insinuates rebukes.</cd> <sd>(b)</sd> <cd>A boil</cd>. <mark>[Colloq.]</mark> -- <col>Job's news</col>, <cd>bad news.</cd> <au>Carlyle.</au> -- <col>Job's tears</col> <fld>(Bot.)</fld>, <cd>a kind of grass (<spn>Coix Lacryma</spn>), with hard, shining, pearly grains.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jobation</ent><br/
@@ -3756,7 +3756,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><sn>2.</sn> <def>Using opportunities of public service for private gain; <as>as, a <ex>jobbing</ex> politician</as>.</def>  <rj><au>London Sat. Rev.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jobbing house</b></col>, <cd>a mercantile establishment which buys from importers, wholesalers or manufacturers, and sells to retailers.</cd> <mark>[U.S.]</mark></cs><br/
+<p><cs><col>Jobbing house</col>, <cd>a mercantile establishment which buys from importers, wholesalers or manufacturers, and sells to retailers.</cd> <mark>[U.S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>job control language</ent><br/
@@ -3778,7 +3778,7 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><sn>3.</sn> <def>A <er>disk jockey</er>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>shock jock</b></col> <cd>a radio talk-show host who is notorious for voicing unpopular, controversial, or shocking opinions guaranteed to offend many people.</cd></cs><br/
+<p><cs><col>shock jock</col> <cd>a radio talk-show host who is notorious for voicing unpopular, controversial, or shocking opinions guaranteed to offend many people.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Jockey</ent><br/
@@ -4006,7 +4006,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 <p><sn>3.</sn> <def>A liesurely running pace.  See <er>jog</er>{2}, <pos>v. i.</pos></def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Jog trot</b></col>, <cd>a slow, regular, jolting gait; hence, a routine habit or method, persistently adhered to.</cd>  <rj><au>T. Hook.</au></rj></cs><br/
+<p><cs><col>Jog trot</col>, <cd>a slow, regular, jolting gait; hence, a routine habit or method, persistently adhered to.</cd>  <rj><au>T. Hook.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jogger</ent><br/
@@ -4038,7 +4038,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 <hw>Jog"gle</hw>, <pos>n.</pos> <mark>[Arch.]</mark> <def>A notch or tooth in the joining surface of any piece of building material to prevent slipping; sometimes, but incorrectly, applied to a separate piece fitted into two adjacent stones, or the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Joggle joint</b></col> <fld>(Arch.)</fld>, <cd>a joint in any kind of building material, where the joining surfaces are made with joggles.</cd></cs><br/
+<p><cs><col>Joggle joint</col> <fld>(Arch.)</fld>, <cd>a joint in any kind of building material, where the joining surfaces are made with joggles.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Johannean</ent><br/
@@ -4057,7 +4057,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 <hw>John</hw> <pr>(j<ocr/n)</pr>, <pos>n.</pos> <ety>[See <er>Johannes</er>.]</ety> <def>A proper name of a man.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>John-apple</b></col>, <cd>a sort of apple ripe about St. John's Day. Same as <er>Apple-john</er>.</cd> -- <col><b>John Bull</b></col>, <cd>an ideal personification of the typical characteristics of an Englishman, or of the English people.</cd> -- <col><b>John Bullism</b></col>, <cd>English character.</cd> <au>W. Irving.</au> -- <col><b>John Doe</b></col> <fld>(Law)</fld>,  <cd>the name formerly given to the fictitious plaintiff in an action of ejectment.</cd> <au>Mozley & W.</au> -- <mcol><col><b>John Doree</b></col>, <col><b>John Dory</b></col></mcol>. <ety>[<ets>John</ets> (or F. <ets>jaune</ets> yellow) + <ets>Doree</ets>, <ets>Dory</ets>.]</ety> <fld>(Zool.)</fld> <cd>An oval, compressed, European food fish (<spn>Zeus faber</spn>). Its color is yellow and olive, with golden, silvery, and blue reflections. It has a round dark spot on each side. Called also <altname>dory</altname>, <altname>doree</altname>, and <altname>St. Peter's fish</altname>.</cd></cs><br/
+<p><cs><col>John-apple</col>, <cd>a sort of apple ripe about St. John's Day. Same as <er>Apple-john</er>.</cd> -- <col>John Bull</col>, <cd>an ideal personification of the typical characteristics of an Englishman, or of the English people.</cd> -- <col>John Bullism</col>, <cd>English character.</cd> <au>W. Irving.</au> -- <col>John Doe</col> <fld>(Law)</fld>,  <cd>the name formerly given to the fictitious plaintiff in an action of ejectment.</cd> <au>Mozley & W.</au> -- <mcol><col>John Doree</col>, <col>John Dory</col></mcol>. <ety>[<ets>John</ets> (or F. <ets>jaune</ets> yellow) + <ets>Doree</ets>, <ets>Dory</ets>.]</ety> <fld>(Zool.)</fld> <cd>An oval, compressed, European food fish (<spn>Zeus faber</spn>). Its color is yellow and olive, with golden, silvery, and blue reflections. It has a round dark spot on each side. Called also <altname>dory</altname>, <altname>doree</altname>, and <altname>St. Peter's fish</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Johnadreams</ent><br/
@@ -4071,7 +4071,7 @@ While he might still <qex>jog</qex> on and keep his trot.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A sculpin.</def> <mark>[Local cant]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Johny Crapaud</b></col> <pr>(<?/)</pr>, <cd>a jocose designation of a Frenchman, or of the French people, collectively.</cd></cs><br/
+<p><cs><col>Johny Crapaud</col> <pr>(<?/)</pr>, <cd>a jocose designation of a Frenchman, or of the French people, collectively.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Johnnycake</ent><br/
@@ -4145,7 +4145,7 @@ Like twenty torches <qex>joined</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>7.</sn> <def>To combine with (another person) in performing some activity; <as>as, <ex>join</ex> me in welcoming our new president</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>To join battle</b></col>, <col><b>To join issue</b></col></mcol>. <cd>See under <er>Battle</er>, <er>Issue</er>.</cd></cs></p>
+<p><cs><mcol><col>To join battle</col>, <col>To join issue</col></mcol>. <cd>See under <er>Battle</er>, <er>Issue</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To add; annex; unite; connect; combine; consociate; couple; link; append. See <er>Add</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -4272,7 +4272,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>12.</sn>  <def>prison; -- used with <ldquo/the<rdquo/.</def> <mark>[Slang]</mark> <ldquo/ he spent five years in the <xex>joint</xex>.<rdquo/<br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Coursing joint</b></col> <fld>(Masonry)</fld>, <cd>the mortar joint between two courses of bricks or stones.</cd> -- <mcol><col><b>Fish joint</b></col>, <col><b>Miter joint</b></col>, <col><b>Universal joint</b></col></mcol>, etc. <cd>See under <er>Fish</er>, <er>Miter</er>, etc.</cd> -- <col><b>Joint bolt</b></col>, <cd>a bolt for fastening two pieces, as of wood, one endwise to the other, having a nut embedded in one of the pieces.</cd> -- <col><b>Joint chair</b></col> <fld>(Railroad)</fld>, <cd>the chair that supports the ends of abutting rails.</cd> -- <col><b>Joint coupling</b></col>, <cd>a universal joint for coupling shafting. See under <er>Universal</er>.</cd> -- <col><b>Joint hinge</b></col>, <cd>a hinge having long leaves; a strap hinge.</cd> -- <col><b>Joint splice</b></col>, <cd>a re<eum/nforce at a joint, to sustain the parts in their true relation.</cd> -- <col><b>Joint stool</b></col>. <sd>(a)</sd> <cd>A stool consisting of jointed parts; a folding stool.</cd> <au>Shak.</au> <sd>(b)</sd> <cd>A block for supporting the end of a piece at a joint; a joint chair.</cd> -- <col><b>Out of joint</b></col>, <cd>out of place; dislocated, as when the head of a bone slips from its socket; hence, not working well together; disordered.</cd> <ldquo/The time is <xex>out of joint</xex>.<rdquo/ <au>Shak.</au></cs><br/
+<p><cs><col>Coursing joint</col> <fld>(Masonry)</fld>, <cd>the mortar joint between two courses of bricks or stones.</cd> -- <mcol><col>Fish joint</col>, <col>Miter joint</col>, <col>Universal joint</col></mcol>, etc. <cd>See under <er>Fish</er>, <er>Miter</er>, etc.</cd> -- <col>Joint bolt</col>, <cd>a bolt for fastening two pieces, as of wood, one endwise to the other, having a nut embedded in one of the pieces.</cd> -- <col>Joint chair</col> <fld>(Railroad)</fld>, <cd>the chair that supports the ends of abutting rails.</cd> -- <col>Joint coupling</col>, <cd>a universal joint for coupling shafting. See under <er>Universal</er>.</cd> -- <col>Joint hinge</col>, <cd>a hinge having long leaves; a strap hinge.</cd> -- <col>Joint splice</col>, <cd>a re<eum/nforce at a joint, to sustain the parts in their true relation.</cd> -- <col>Joint stool</col>. <sd>(a)</sd> <cd>A stool consisting of jointed parts; a folding stool.</cd> <au>Shak.</au> <sd>(b)</sd> <cd>A block for supporting the end of a piece at a joint; a joint chair.</cd> -- <col>Out of joint</col>, <cd>out of place; dislocated, as when the head of a bone slips from its socket; hence, not working well together; disordered.</cd> <ldquo/The time is <xex>out of joint</xex>.<rdquo/ <au>Shak.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 802 --></p>
@@ -4299,7 +4299,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>A <qex>joint</qex> burden laid upon us all.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Joint committee</b></col> <fld>(Parliamentary Practice)</fld>, <cd>a committee composed of members of the two houses of a legislative body, for the appointment of which concurrent resolutions of the two houses are necessary.</cd> <au>Cushing.</au> -- <mcol><col><b>Joint meeting</b></col>, <it>or</it> <col><b>Joint session</b></col></mcol>, <cd>the meeting or session of two distinct bodies as one; <as>as, a <ex>joint meeting</ex> of committees representing different corporations; a <ex>joint session</ex> of both branches of a State legislature to chose a United States senator.</as></cd> <ldquo/Such <ex>joint meeting</ex> shall not be dissolved until the electoral votes are all counted and the result declared.<rdquo/ <au>Joint Rules of Congress, U. S.</au> -- <col><b>Joint resolution</b></col> <fld>(Parliamentary Practice)</fld>, <cd>a resolution adopted concurrently by the two branches of a legislative body.</cd> <ldquo/By the constitution of the United States and the rules of the two houses, no absolute distinction is made between bills and <xex>joint resolutions</xex>.<rdquo/ <au>Barclay (Digest).</au> -- <col><b>Joint rule</b></col> <fld>(Parliamentary Practice)</fld>, <cd>a rule of proceeding adopted by the concurrent action of both branches of a legislative assembly.</cd> <ldquo/Resolved, by the House of Representatives (the Senate concurring), that the sixteenth and seventeenth <xex>joint rules</xex> be suspended for the remainder of the session.<rdquo/ <au>Journal H. of R., U. S.</au> -- <col><b>Joint and several</b></col> <fld>(Law)</fld>, <cd>a phrase signifying that the debt, credit, obligation, etc., to which it is applied is held in such a way that the parties in interest are engaged both together and individually thus a <xex>joint and several</xex> debt is one for which all the debtors may be sued together or either of them individually; used especially in the phrase <ecol><b>joint and several liability</b></ecol>.</cd> -- <col><b>Joint stock</b></col>, <cd>stock held in company.</cd> -- <col><b>Joint-stock company</b></col> <fld>(Law)</fld>, <cd>a species of partnership, consisting generally of a large number of members, having a capital divided, or agreed to be divided, into shares, the shares owned by any member being usually transferable without the consent of the rest.</cd> -- <col><b>Joint tenancy</b></col> <fld>(Law)</fld>, <cd>a tenure by two or more persons of estate by unity of interest, title, time, and possession, under which the survivor takes the whole.</cd> <au>Blackstone.</au> -- <col><b>Joint tenant</b></col> <fld>(Law)</fld>, <cd>one who holds an estate by joint tenancy.  Contrassted with <contr>tenant in common</contr>.</cd></cs><br/
+<p><cs><col>Joint committee</col> <fld>(Parliamentary Practice)</fld>, <cd>a committee composed of members of the two houses of a legislative body, for the appointment of which concurrent resolutions of the two houses are necessary.</cd> <au>Cushing.</au> -- <mcol><col>Joint meeting</col>, <it>or</it> <col>Joint session</col></mcol>, <cd>the meeting or session of two distinct bodies as one; <as>as, a <ex>joint meeting</ex> of committees representing different corporations; a <ex>joint session</ex> of both branches of a State legislature to chose a United States senator.</as></cd> <ldquo/Such <ex>joint meeting</ex> shall not be dissolved until the electoral votes are all counted and the result declared.<rdquo/ <au>Joint Rules of Congress, U. S.</au> -- <col>Joint resolution</col> <fld>(Parliamentary Practice)</fld>, <cd>a resolution adopted concurrently by the two branches of a legislative body.</cd> <ldquo/By the constitution of the United States and the rules of the two houses, no absolute distinction is made between bills and <xex>joint resolutions</xex>.<rdquo/ <au>Barclay (Digest).</au> -- <col>Joint rule</col> <fld>(Parliamentary Practice)</fld>, <cd>a rule of proceeding adopted by the concurrent action of both branches of a legislative assembly.</cd> <ldquo/Resolved, by the House of Representatives (the Senate concurring), that the sixteenth and seventeenth <xex>joint rules</xex> be suspended for the remainder of the session.<rdquo/ <au>Journal H. of R., U. S.</au> -- <col>Joint and several</col> <fld>(Law)</fld>, <cd>a phrase signifying that the debt, credit, obligation, etc., to which it is applied is held in such a way that the parties in interest are engaged both together and individually thus a <xex>joint and several</xex> debt is one for which all the debtors may be sued together or either of them individually; used especially in the phrase <ecol><b>joint and several liability</b></ecol>.</cd> -- <col>Joint stock</col>, <cd>stock held in company.</cd> -- <col>Joint-stock company</col> <fld>(Law)</fld>, <cd>a species of partnership, consisting generally of a large number of members, having a capital divided, or agreed to be divided, into shares, the shares owned by any member being usually transferable without the consent of the rest.</cd> -- <col>Joint tenancy</col> <fld>(Law)</fld>, <cd>a tenure by two or more persons of estate by unity of interest, title, time, and possession, under which the survivor takes the whole.</cd> <au>Blackstone.</au> -- <col>Joint tenant</col> <fld>(Law)</fld>, <cd>one who holds an estate by joint tenancy.  Contrassted with <contr>tenant in common</contr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Joint</ent><br/
@@ -4356,7 +4356,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Joint"ing</hw>, <pos>n.</pos> <def>The act or process of making a joint; also, the joints thus produced.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jointing machine</b></col>, <cd>a planing machine for wood used in furniture and piano factories, etc.</cd> -- <col><b>Jointing plane</b></col>. <cd>See <er>Jointer</er>, <snr>2</snr>.</cd> -- <col><b>Jointing rule</b></col> <fld>(Masonry)</fld>, <cd>a long straight rule, used by bricklayers for securing straight joints and faces.</cd></cs><br/
+<p><cs><col>Jointing machine</col>, <cd>a planing machine for wood used in furniture and piano factories, etc.</cd> -- <col>Jointing plane</col>. <cd>See <er>Jointer</er>, <snr>2</snr>.</cd> -- <col>Jointing rule</col> <fld>(Masonry)</fld>, <cd>a long straight rule, used by bricklayers for securing straight joints and faces.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jointless</ent><br/
@@ -4436,7 +4436,7 @@ To pleasant laughter.</q> <rj><qau>Gay.</qau></rj><br/
 <p><q>Inclose whole downs in walls, 't is all a <qex>joke</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In joke</b></col>, <cd>in jest; sportively; not meant seriously.</cd> -- <col><b>Practical joke</b></col>. <cd>See under <er>Practical</er>.</cd></cs><br/
+<p><cs><col>In joke</col>, <cd>in jest; sportively; not meant seriously.</cd> -- <col>Practical joke</col>. <cd>See under <er>Practical</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Joke</ent><br/
@@ -4476,7 +4476,7 @@ To pleasant laughter.</q> <rj><qau>Gay.</qau></rj><br/
 <syn><b>Syn. --</b> jesting, jocose, jocular, jocund.</syn><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>no joking matter</b></col> <cd>a serious matter.</cd></cs><br/
+<p><cs><col>no joking matter</col> <cd>a serious matter.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Jokingly</ent><br/
@@ -4623,14 +4623,14 @@ But something ails it now: the spot is cursed.<rdquo/</q> <rj><qau>Wordsworth.</
 <hw>Jo"nah</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The Hebrew prophet, who was cast overboard as one who endangered the ship; hence, any person whose presence is unpropitious.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jonah crab</b></col> <fld>(Zool.)</fld>, <cd>a large crab (<spn>Cancer borealis</spn>) of the eastern coast of the United States, sometimes found between tides, but usually in deep water.</cd></cs><br/
+<p><cs><col>Jonah crab</col> <fld>(Zool.)</fld>, <cd>a large crab (<spn>Cancer borealis</spn>) of the eastern coast of the United States, sometimes found between tides, but usually in deep water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jonesian</ent><br/
 <hw>Jo*ne"sian</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Jones.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The Jonesian system</b></col>, <cd>a system of transliterating Oriental words by English letters, invented by <person>Sir William Jones</person>.</cd></cs></p>
+<p><cs><col>The Jonesian system</col>, <cd>a system of transliterating Oriental words by English letters, invented by <person>Sir William Jones</person>.</cd></cs></p>
 
 <p><ent>Jongler</ent><br/
 <ent>Jongleur</ent><br/
@@ -4705,7 +4705,7 @@ But something ails it now: the spot is cursed.<rdquo/</q> <rj><qau>Wordsworth.</
 <hw>Joss</hw> <pr>(j<ocr/s)</pr>, <pos>n.</pos> <ety>[Chinese, corrupt. fr. Pg. <ets>deos</ets> God, L. <ets>deus</ets>.]</ety> <def>A Chinese household divinity; a Chinese idol.</def> <ldquo/Critic in jars and <xex>josses</xex>.<rdquo/  <rj><au>Colman (1761).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Joss house</b></col>, <cd>a Chinese temple or house for the Chinese mode of worship.</cd> -- <col><b>Joss stick</b></col>, <cd>a reed covered with a paste made of the dust of odoriferous woods, or a cylinder made wholly of the paste; -- burned by the Chinese before an idol.</cd></cs><br/
+<p><cs><col>Joss house</col>, <cd>a Chinese temple or house for the Chinese mode of worship.</cd> -- <col>Joss stick</col>, <cd>a reed covered with a paste made of the dust of odoriferous woods, or a cylinder made wholly of the paste; -- burned by the Chinese before an idol.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jossa</ent><br/
@@ -4783,7 +4783,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>joule</hw> <pr>(j<oomac/l)</pr>, <pos>n.</pos> <ety>[From the distinguished English physicist, <person>James Prescott <etsep>Joule</etsep></person> (1818-1889).]</ety> <fld>(Physics.)</fld> <def>A unit of work which is equal to 10<exp>7</exp> ergs (the unit of work in the C. G. S. system of units), and is equivalent to one watt-second, the energy expended in one second by an electric current of one ampere in a resistance of one ohm; also called the <altname>absolute joule</altname>.  It is abbreviated <abbr>J</abbr> or <abbr>j</abbr>.  The <stype>international joule</stype> is slightly larger, being 1.000167 times the absolute joule.  The absolute <ex>joule</ex> is approximately equal to 0.737562 foot pounds, 0.239006 gram-calories (small calories),  and 3.72506 x 10<exp>-7</exp> horsepower-hours, and 0.000948451 B.t.u.</def>  <au>HCP61</au><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Joule's equivalent</b></col>. <cd>See under <er>Equivalent</er>, <pos>n.</pos></cd></cs><br/
+<p><cs><col>Joule's equivalent</col>. <cd>See under <er>Equivalent</er>, <pos>n.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Joulemeter</ent><br/
@@ -4831,7 +4831,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Mach.)</fld> <def>That portion of a rotating piece, as a shaft, axle, spindle, etc., which turns in a bearing or box. See <xex>Illust.</xex> of <er>Axle box</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Journal box</b></col>, <it>or</it> <col><b>Journal bearing</b></col></mcol> <fld>(Mach.)</fld> <cd>the carrier of a journal; the box in which the journal of a shaft, axle, or pin turns.</cd></cs><br/
+<p><cs><mcol><col>Journal box</col>, <it>or</it> <col>Journal bearing</col></mcol> <fld>(Mach.)</fld> <cd>the carrier of a journal; the box in which the journal of a shaft, axle, or pin turns.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>journalese</ent><br/
@@ -4979,7 +4979,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Alchemy)</fld> <def>The metal tin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bird of Jove</b></col>, <cd>the eagle.</cd></cs><br/
+<p><cs><col>Bird of Jove</col>, <cd>the eagle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>jovial</ent><br/
@@ -5048,7 +5048,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Jowl</hw> <pr>(joul <it>or</it> j<omac/l)</pr>, <pos>n.</pos> <ety>[For older <ets>chole</ets>, <ets>chaul</ets>, AS. <ets>ceaft</ets> jaw.  Cf. <er>Chaps</er>.]</ety> <def>The cheek; the jaw.</def> <altsp>[Written also <asp>jole</asp>, <asp>choule</asp>, <asp>chowle</asp>, and <asp>geoule</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cheek by jowl</b></col>, <cd>with the cheeks close together; side by side; in close proximity.</cd> <ldquo/I will go with thee <xex>cheek by jole</xex>.<rdquo/ <au>Shak.</au>  <ldquo/ Sits <xex>cheek by jowl</xex>.<rdquo/  <rj><au>Dryden.</au></rj></cs><br/
+<p><cs><col>Cheek by jowl</col>, <cd>with the cheeks close together; side by side; in close proximity.</cd> <ldquo/I will go with thee <xex>cheek by jole</xex>.<rdquo/ <au>Shak.</au>  <ldquo/ Sits <xex>cheek by jowl</xex>.<rdquo/  <rj><au>Dryden.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jowl</ent><br/
@@ -5377,7 +5377,7 @@ They were <qex>Judaizing</qex> doctors, who taught the observation of the Mosaic
 <hw>Ju"das</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The disciple who betrayed Christ.</def> <specif>Hence:</specif> <def>A treacherous person; one who betrays under the semblance of friendship.</def> -- <def2><pos>a.</pos> <def>Treacherous; betraying.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Judas hole</b></col>, <cd>a peephole or secret opening for spying.</cd> -- <col><b>Judas kiss</b></col>, <sd>(a)</sd> <cd>a deceitful and treacherous kiss.</cd> <sd>(b)</sd> <cd>an act appearing to be an act of friendship, which is in fact harmful to the recipient.</cd> -- <col><b>Judas tree</b></col> <fld>(Bot.)</fld>, <cd>a leguminous tree of the genus <gen>Cercis</gen>, with pretty, rose-colored flowers in clusters along the branches.  <persfn>Judas</persfn> is said to have hanged himself on a tree of this genus (<spn>Cercis Siliquastrum</spn>).  <spn>Cercis Canadensis</spn> and <spn>Cercis occidentalis</spn> are the American species, and are called also <altname>redbud</altname>.</cd></cs><br/
+<p><cs><col>Judas hole</col>, <cd>a peephole or secret opening for spying.</cd> -- <col>Judas kiss</col>, <sd>(a)</sd> <cd>a deceitful and treacherous kiss.</cd> <sd>(b)</sd> <cd>an act appearing to be an act of friendship, which is in fact harmful to the recipient.</cd> -- <col>Judas tree</col> <fld>(Bot.)</fld>, <cd>a leguminous tree of the genus <gen>Cercis</gen>, with pretty, rose-colored flowers in clusters along the branches.  <persfn>Judas</persfn> is said to have hanged himself on a tree of this genus (<spn>Cercis Siliquastrum</spn>).  <spn>Cercis Canadensis</spn> and <spn>Cercis occidentalis</spn> are the American species, and are called also <altname>redbud</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Judas-colored</ent><br/
@@ -5426,7 +5426,7 @@ They were <qex>Judaizing</qex> doctors, who taught the observation of the Mosaic
 <p><sn>5.</sn> <pluf>pl.</pluf> <def>The title of the seventh book of the Old Testament; the Book of Judges.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Judge Advocate</b></col> <fld>(Mil. & Nav.)</fld>, <cd>a person appointed to act as prosecutor at a court-martial; he acts as the representative of the government, as the responsible adviser of the court, and also, to a certain extent, as counsel for the accused, when he has no other counsel.</cd> -- <col><b>Judge-Advocate General</b></col>, <cd>in the United States, the title of two officers, one attached to the War Department and having the rank of brigadier general, the other attached to the Navy Department and having the rank of colonel of marines or captain in the navy. The first is chief of the Bureau of Military Justice of the army, the other performs a similar duty for the navy. In England, the designation of a member of the ministry who is the legal adviser of the secretary of state for war, and supreme judge of the proceedings of courts-martial.</cd></cs></p>
+<p><cs><col>Judge Advocate</col> <fld>(Mil. & Nav.)</fld>, <cd>a person appointed to act as prosecutor at a court-martial; he acts as the representative of the government, as the responsible adviser of the court, and also, to a certain extent, as counsel for the accused, when he has no other counsel.</cd> -- <col>Judge-Advocate General</col>, <cd>in the United States, the title of two officers, one attached to the War Department and having the rank of brigadier general, the other attached to the Navy Department and having the rank of colonel of marines or captain in the navy. The first is chief of the Bureau of Military Justice of the army, the other performs a similar duty for the navy. In England, the designation of a member of the ministry who is the legal adviser of the secretary of state for war, and supreme judge of the proceedings of courts-martial.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- <er>Judge</er>, <er>Umpire</er>, <er>Arbitrator</er>, <er>Referee</er>.</syn> <usage> A <xex>judge</xex>, in the legal sense, is a magistrate appointed to determine questions of law. An <xex>umpire</xex> is a person selected to decide between two or more who contend for a prize. An <xex>arbitrator</xex> is one chosen to allot to two contestants their portion of a claim, usually on grounds of equity and common sense. A <xex>referee</xex> is one to whom a case is referred for final adjustment. <xex>Arbitrations</xex> and <xex>references</xex> are sometimes voluntary, sometimes appointed by a court.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -5573,10 +5573,10 @@ To give the <qex>judgment</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <xex>Judgment</xex> is used adjectively in many self-explaining combinations; as, <xex>judgment</xex> hour; <xex>judgment</xex> throne.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Judgment day</b></col> <fld>(Theol.)</fld>, <cd>the last day, or period when final judgment will be pronounced on the subjects of God's moral government.</cd> -- <col><b>Judgment debt</b></col> <fld>(Law)</fld>, <cd>a debt secured to the creditor by a judge's order.</cd> -- <col><b>Judgment hall</b></col>, <cd>a hall where courts are held.</cd> -- <col><b>Judgment seat</b></col>, <cd>the seat or bench on which judges sit in court; hence, a court; a tribunal.</cd> <ldquo/We shall all stand before the <xex>judgment seat</xex> of Christ.<rdquo/ <au>Rom. xiv. 10.</au> -- <col><b>Judgment summons</b></col> <fld>(Law)</fld>, <cd>a proceeding by a judgment creditor against a judgment debtor upon an unsatisfied judgment.</cd></cs><br/
+<p><cs><col>Judgment day</col> <fld>(Theol.)</fld>, <cd>the last day, or period when final judgment will be pronounced on the subjects of God's moral government.</cd> -- <col>Judgment debt</col> <fld>(Law)</fld>, <cd>a debt secured to the creditor by a judge's order.</cd> -- <col>Judgment hall</col>, <cd>a hall where courts are held.</cd> -- <col>Judgment seat</col>, <cd>the seat or bench on which judges sit in court; hence, a court; a tribunal.</cd> <ldquo/We shall all stand before the <xex>judgment seat</xex> of Christ.<rdquo/ <au>Rom. xiv. 10.</au> -- <col>Judgment summons</col> <fld>(Law)</fld>, <cd>a proceeding by a judgment creditor against a judgment debtor upon an unsatisfied judgment.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs>   <col><b>Arrest of judgment</b></col>. <fld>(Law)</fld> <cd>See under <er>Arrest</er>, <pos>n.</pos></cd> -- <col><b>Judgment of God</b></col>, <cd>a term formerly applied to extraordinary trials of secret crimes, as by arms and single combat, by ordeal, etc.; it being imagined that God would work miracles to vindicate innocence. See under <er>Ordeal</er>.</cd></cs></p>
+<p><cs>   <col>Arrest of judgment</col>. <fld>(Law)</fld> <cd>See under <er>Arrest</er>, <pos>n.</pos></cd> -- <col>Judgment of God</col>, <cd>a term formerly applied to extraordinary trials of secret crimes, as by arms and single combat, by ordeal, etc.; it being imagined that God would work miracles to vindicate innocence. See under <er>Ordeal</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Discernment; decision; determination; award; estimate; criticism; taste; discrimination; penetration; sagacity; intelligence; understanding. See <er>Taste</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -6017,7 +6017,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A chewy gelatinous lozenge made of or in imitation of, or flavored with, the jujube fruit.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Jujube paste</b></col>, <cd>the dried or inspissated jelly of the jujube; also, a confection made of gum arabic sweetened.</cd></cs><br/
+<p><cs><col>Jujube paste</col>, <cd>the dried or inspissated jelly of the jujube; also, a confection made of gum arabic sweetened.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jiujitsu</ent><br/
@@ -6074,7 +6074,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jul"ian</hw> <pr>(?; 277)</pr> <pos>a.</pos> <ety>[L. <ets>Julianus</ets>, fr. <ets>Julius</ets>.  Cf. <er>July</er>, <er>Gillian</er>.]</ety> <def>Relating to, or derived from, <person>Julius Caesar</person>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Julian calendar</b></col>, <cd>the calendar as adjusted by <person>Julius Caesar</person>, in which the year was made to consist of 365 days, each fourth year having 366 days.</cd> -- <col><b>Julian epoch</b></col>, <cd>the epoch of the commencement of the <cp>Julian calendar</cp>, or 46 b. c.</cd> -- <col><b>Julian period</b></col>, <cd>a chronological period of 7,980 years, combining the solar, lunar, and indiction cycles (28 x 19 x 15 = 7,980), being reckoned from the year 4713 <sc>B. C.</sc>, when the first years of these several cycles would coincide, so that if any year of the period be divided by 28, 19, or 15, the remainder will be the year of the corresponding cycle. The <ex>Julian period</ex> was proposed by <persfn>Scaliger</persfn>, to remove or avoid ambiguities in chronological dates, and was so named because composed of Julian years.</cd> -- <col><b>Julian year</b></col>, <cd>the year of 365 days, 6 hours, adopted in the <cp>Julian calendar</cp>, and in use until superseded by the Gregorian year, as established in the reformed or <cp>Gregorian calendar</cp>.</cd></cs><br/
+<p><cs><col>Julian calendar</col>, <cd>the calendar as adjusted by <person>Julius Caesar</person>, in which the year was made to consist of 365 days, each fourth year having 366 days.</cd> -- <col>Julian epoch</col>, <cd>the epoch of the commencement of the <cp>Julian calendar</cp>, or 46 b. c.</cd> -- <col>Julian period</col>, <cd>a chronological period of 7,980 years, combining the solar, lunar, and indiction cycles (28 x 19 x 15 = 7,980), being reckoned from the year 4713 <sc>B. C.</sc>, when the first years of these several cycles would coincide, so that if any year of the period be divided by 28, 19, or 15, the remainder will be the year of the corresponding cycle. The <ex>Julian period</ex> was proposed by <persfn>Scaliger</persfn>, to remove or avoid ambiguities in chronological dates, and was so named because composed of Julian years.</cd> -- <col>Julian year</col>, <cd>the year of 365 days, 6 hours, adopted in the <cp>Julian calendar</cp>, and in use until superseded by the Gregorian year, as established in the reformed or <cp>Gregorian calendar</cp>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Julienne</ent><br/
@@ -6193,7 +6193,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To coincide; to agree; to accord; to tally; -- followed by <ptcl>with</ptcl>.</def> <ldquo/It <xex>jumps</xex> with my humor.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To jump at</b></col>, <cd>to spring to; hence, fig., to accept suddenly or eagerly; <as>as, a fish <ex>jumps at</ex> a bait; to <ex>jump at</ex> a chance</as>.</cd></cs><br/
+<p><cs><col>To jump at</col>, <cd>to spring to; hence, fig., to accept suddenly or eagerly; <as>as, a fish <ex>jumps at</ex> a bait; to <ex>jump at</ex> a chance</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jump</ent><br/
@@ -6215,7 +6215,7 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Quarrying)</fld> <def>To bore with a jumper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To jump a claim</b></col>, <cd>to enter upon and take possession of land to which another has acquired a claim by prior entry and occupation.</cd> <mark>[Western U. S. & Australia]</mark> <see>See <er>Claim</er>, <pos>n.</pos>, <snr>3</snr>.</see> -- <col><b>To jump one's bail</b></col>, <cd>to abscond while at liberty under bail bonds.</cd>  <mark>[Slang, U. S.]</mark> -- <col><b>To jump the gun</b></col>, <cd>to begin to run (in a footrace) before the starting gun has fired; hence, <mark>(fig.)</mark> to begin any activity before the designated starting time.</cd></cs><br/
+<p><cs><col>To jump a claim</col>, <cd>to enter upon and take possession of land to which another has acquired a claim by prior entry and occupation.</cd> <mark>[Western U. S. & Australia]</mark> <see>See <er>Claim</er>, <pos>n.</pos>, <snr>3</snr>.</see> -- <col>To jump one's bail</col>, <cd>to abscond while at liberty under bail bonds.</cd>  <mark>[Slang, U. S.]</mark> -- <col>To jump the gun</col>, <cd>to begin to run (in a footrace) before the starting gun has fired; hence, <mark>(fig.)</mark> to begin any activity before the designated starting time.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Jump</ent><br/
@@ -6241,7 +6241,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <def>A jump-start; <as>as, to get a <ex>jump</ex> from a passing mmotorist</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>From the jump</b></col>, <cd>from the start or beginning.</cd> <mark>[Colloq.]</mark> -- <col><b>Jump joint</b></col>. <sd>(a)</sd> <cd>A butt joint</cd>. <sd>(b)</sd> <cd>A flush joint, as of plank in carvel-built vessels.</cd> -- <col><b>Jump seat</b></col>. <sd>(a)</sd> <cd>A movable carriage seat</cd>. <sd>(b)</sd> <cd>A carriage constructed with a seat which may be shifted so as to make room for second or extra seat. Also used adjectively; <as>as, a <ex>jump-seat</ex> wagon</as>.</cd></cs><br/
+<p><cs><col>From the jump</col>, <cd>from the start or beginning.</cd> <mark>[Colloq.]</mark> -- <col>Jump joint</col>. <sd>(a)</sd> <cd>A butt joint</cd>. <sd>(b)</sd> <cd>A flush joint, as of plank in carvel-built vessels.</cd> -- <col>Jump seat</col>. <sd>(a)</sd> <cd>A movable carriage seat</cd>. <sd>(b)</sd> <cd>A carriage constructed with a seat which may be shifted so as to make room for second or extra seat. Also used adjectively; <as>as, a <ex>jump-seat</ex> wagon</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jump</ent><br/
@@ -6283,7 +6283,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Horology)</fld> <def>spring to impel the star wheel, also a pawl to lock fast a wheel, in a repeating timepiece.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Baby jumper</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Bounty jumper</b></col>. <cd>See under <er>Bounty</er>.</cd></cs><br/
+<p><cs><col>Baby jumper</col>. <cd>See in the Vocabulary.</cd> -- <col>Bounty jumper</col>. <cd>See under <er>Bounty</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jumper</ent><br/
@@ -6316,7 +6316,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Jump"ing</hw>, <pos>p. a. & vb. n.</pos> <def>of <er>Jump</er>, to leap.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jumping bean</b></col>, <cd>a seed of a Mexican <gen>Euphorbia</gen>, containing the larva of a moth (<spn>Carpocapsa saltitans</spn>). The larva by its sudden movements causes the seed to roll to roll and jump about.</cd> -- <col><b>Jumping deer</b></col> <fld>(Zool.)</fld>, <cd>a South African rodent (<spn>Pedetes Caffer</spn>), allied to the jerboa.</cd> -- <col><b>Jumping louse</b></col> <fld>(Zool.)</fld>, <cd>any of the numerous species of plant lice belonging to the family <fam>Psyllid<ae/</fam>, several of which are injurious to fruit trees.</cd> -- <col><b>Jumping mouse</b></col> <fld>(Zool.)</fld>, <cd>North American mouse (<spn>Zapus Hudsonius</spn>), having a long tail and large hind legs. It is noted for its jumping powers. Called also <altname>kangaroo mouse</altname>.</cd> -- <col><b>Jumping mullet</b></col> <fld>(Zool.)</fld>, <cd>gray mullet.</cd> -- <col><b>Jumping shrew</b></col> <fld>(Zool.)</fld>, <cd>any African insectivore of the genus <gen>Macroscelides</gen>. They are allied to the shrews, but have large hind legs adapted for jumping.</cd> -- <col><b>Jumping spider</b></col> <fld>(Zool.)</fld>, <cd>spider of the genus <gen>Salticus</gen> and other related genera; one of the Saltigrad<ae/; -- so called because it leaps upon its prey.</cd></cs><br/
+<p><cs><col>Jumping bean</col>, <cd>a seed of a Mexican <gen>Euphorbia</gen>, containing the larva of a moth (<spn>Carpocapsa saltitans</spn>). The larva by its sudden movements causes the seed to roll to roll and jump about.</cd> -- <col>Jumping deer</col> <fld>(Zool.)</fld>, <cd>a South African rodent (<spn>Pedetes Caffer</spn>), allied to the jerboa.</cd> -- <col>Jumping louse</col> <fld>(Zool.)</fld>, <cd>any of the numerous species of plant lice belonging to the family <fam>Psyllid<ae/</fam>, several of which are injurious to fruit trees.</cd> -- <col>Jumping mouse</col> <fld>(Zool.)</fld>, <cd>North American mouse (<spn>Zapus Hudsonius</spn>), having a long tail and large hind legs. It is noted for its jumping powers. Called also <altname>kangaroo mouse</altname>.</cd> -- <col>Jumping mullet</col> <fld>(Zool.)</fld>, <cd>gray mullet.</cd> -- <col>Jumping shrew</col> <fld>(Zool.)</fld>, <cd>any African insectivore of the genus <gen>Macroscelides</gen>. They are allied to the shrews, but have large hind legs adapted for jumping.</cd> -- <col>Jumping spider</col> <fld>(Zool.)</fld>, <cd>spider of the genus <gen>Salticus</gen> and other related genera; one of the Saltigrad<ae/; -- so called because it leaps upon its prey.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jumping disease</ent><br/
@@ -6398,7 +6398,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>The place or point of union, meeting, or junction; specifically, the place where two or more lines of railway meet or cross.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Junction plate</b></col> <fld>(Boilers)</fld>, <cd>a covering or break-join plate riveted to and uniting the edges of sheets which make a butt joint.</cd> -- <col><b>Junction rails</b></col> <fld>(Railroads)</fld>, <cd>the switch, or movable, rails, connecting one line of track with another.</cd></cs><br/
+<p><cs><col>Junction plate</col> <fld>(Boilers)</fld>, <cd>a covering or break-join plate riveted to and uniting the edges of sheets which make a butt joint.</cd> -- <col>Junction rails</col> <fld>(Railroads)</fld>, <cd>the switch, or movable, rails, connecting one line of track with another.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Junction box</ent><br/
@@ -6431,7 +6431,7 @@ Upon this<qex>jump</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>June beetle</b></col>, <col><b>June bug</b></col></mcol> <fld>(Zool.)</fld>, <cd>any one of several species of large brown beetles of the genus <gen>Lachnosterna</gen> and related genera; -- so called because they begin to fly, in the northern United States, about the first of June. The larv<ae/ of the June beetles live under ground, and feed upon the roots of grasses and other plants. Called also <altname>May bug</altname> or <altname>May beetle</altname>.</cd> -- <col><b>June grass</b></col> <fld>(Bot.)</fld>, <cd>a New England name for Kentucky blue grass. See <er>Blue glass</er>, and <xex>Illustration</xex> in Appendix.</cd></cs><br/
+<p><cs><mcol><col>June beetle</col>, <col>June bug</col></mcol> <fld>(Zool.)</fld>, <cd>any one of several species of large brown beetles of the genus <gen>Lachnosterna</gen> and related genera; -- so called because they begin to fly, in the northern United States, about the first of June. The larv<ae/ of the June beetles live under ground, and feed upon the roots of grasses and other plants. Called also <altname>May bug</altname> or <altname>May beetle</altname>.</cd> -- <col>June grass</col> <fld>(Bot.)</fld>, <cd>a New England name for Kentucky blue grass. See <er>Blue glass</er>, and <xex>Illustration</xex> in Appendix.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Juneating</ent><br/
@@ -6484,7 +6484,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <p><sn>3.</sn> <def>Anything which causes confusion or difficulty due to intricacy; <as>as, a <ex>jungle</ex> of environmental regulations</as>.</def> <au>MW10.</au><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Jungle bear</b></col> <fld>(Zool.)</fld>, <cd>the aswail or sloth bear.</cd> -- <col><b>Jungle cat</b></col> <fld>(Zool.)</fld>, <cd>the chaus.</cd> -- <col><b>Jungle cock</b></col> <fld>(Zool.)</fld>, <cd>the male of a jungle fowl.</cd> -- <col><b>Jungle fowl</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any wild species of the genus <gen>Gallus</gen>, of which several species inhabit India and the adjacent islands; as, the fork-tailed <ex>jungle fowl</ex> (<spn>Gallus varius</spn>) of Java, <spn>Gallus Stanleyi</spn> of Ceylon, and <spn>Gallus Bankiva</spn> of India.</cd>  <note>The latter, which resembles the domestic gamecock, is supposed to be one of the original species from which the domestic fowl was derived.</note> <sd>(b)</sd> <cd>An Australian grallatorial bird (<spn>Megapodius tumulus</spn>) which is allied to the brush turkey, and, like the latter, lays its eggs in mounds of vegetable matter, where they are hatched by the heat produced by decomposition.</cd></cs><br/
+<p><cs><col>Jungle bear</col> <fld>(Zool.)</fld>, <cd>the aswail or sloth bear.</cd> -- <col>Jungle cat</col> <fld>(Zool.)</fld>, <cd>the chaus.</cd> -- <col>Jungle cock</col> <fld>(Zool.)</fld>, <cd>the male of a jungle fowl.</cd> -- <col>Jungle fowl</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>Any wild species of the genus <gen>Gallus</gen>, of which several species inhabit India and the adjacent islands; as, the fork-tailed <ex>jungle fowl</ex> (<spn>Gallus varius</spn>) of Java, <spn>Gallus Stanleyi</spn> of Ceylon, and <spn>Gallus Bankiva</spn> of India.</cd>  <note>The latter, which resembles the domestic gamecock, is supposed to be one of the original species from which the domestic fowl was derived.</note> <sd>(b)</sd> <cd>An Australian grallatorial bird (<spn>Megapodius tumulus</spn>) which is allied to the brush turkey, and, like the latter, lays its eggs in mounds of vegetable matter, where they are hatched by the heat produced by decomposition.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jungly</ent><br/
@@ -6538,7 +6538,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <p><note><hand/ The common juniper (<spn>Juniperus communis</spn>) is a shrub of a low, spreading form, having awl-shaped, rigid leaves in whorls of threes, and bearing small purplish blue berries (or galbuli), of a warm, pungent taste, used as diuretic and in flavoring gin. A resin exudes from the bark, which has erroneously been considered identical with sandarach, and is used as pounce. The oil of juniper is acrid, and used for various purposes, as in medicine, for making varnish, etc.  The wood of several species is of a reddish color, hard and durable, and is used in cabinetwork under the names of <prod>red cedar</prod>, <prod>Bermuda cedar</prod>, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Juniper worm</b></col> <fld>(Zool.)</fld>, <cd>the larva of a geometrid moth (<spn>Drepanodes varus</spn>). It feeds upon the leaves of the juniper, and mimics the small twigs both in form and color, in a remarkable manner.</cd></cs><br/
+<p><cs><col>Juniper worm</col> <fld>(Zool.)</fld>, <cd>the larva of a geometrid moth (<spn>Drepanodes varus</spn>). It feeds upon the leaves of the juniper, and mimics the small twigs both in form and color, in a remarkable manner.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Juniperin</ent><br/
@@ -6576,7 +6576,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Naut.)</fld> <def>Hard salted beef supplied to ships.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Junk bottle</b></col> , <cd>a stout bottle made of thick dark-colored glass.</cd> -- <col><b>Junk dealer</b></col>, <cd>a dealer in old cordage, old metal, glass, etc.</cd> -- <col><b>Junk hook</b></col> <fld>(Whaling)</fld>, <cd>a hook for hauling heavy pieces of blubber on deck.</cd> -- <col><b>Junk ring</b></col>. <sd>(a)</sd> <cd>A packing of soft material round the piston of a steam engine</cd>. <sd>(b)</sd> <cd>A metallic ring for retaining a piston packing in place</cd>; <sd>(c)</sd> <cd>A follower.</cd> -- <col><b>Junk shop</b></col>, <cd>a shop where old cordage, and ship's tackle, old iron, old bottles, old paper, etc., are kept for sale.</cd> -- <col><b>Junk vat</b></col> <fld>(Leather Manuf.)</fld>, <cd>a large vat into which spent tan liquor or ooze is pumped.</cd> -- <col><b>Junk wad</b></col> <fld>(Mil.)</fld>, <cd>a wad used in proving cannon; also used in firing hot shot.</cd></cs><br/
+<p><cs><col>Junk bottle</col> , <cd>a stout bottle made of thick dark-colored glass.</cd> -- <col>Junk dealer</col>, <cd>a dealer in old cordage, old metal, glass, etc.</cd> -- <col>Junk hook</col> <fld>(Whaling)</fld>, <cd>a hook for hauling heavy pieces of blubber on deck.</cd> -- <col>Junk ring</col>. <sd>(a)</sd> <cd>A packing of soft material round the piston of a steam engine</cd>. <sd>(b)</sd> <cd>A metallic ring for retaining a piston packing in place</cd>; <sd>(c)</sd> <cd>A follower.</cd> -- <col>Junk shop</col>, <cd>a shop where old cordage, and ship's tackle, old iron, old bottles, old paper, etc., are kept for sale.</cd> -- <col>Junk vat</col> <fld>(Leather Manuf.)</fld>, <cd>a large vat into which spent tan liquor or ooze is pumped.</cd> -- <col>Junk wad</col> <fld>(Mil.)</fld>, <cd>a wad used in proving cannon; also used in firing hot shot.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Junk</ent><br/
@@ -6667,7 +6667,7 @@ And other <qex>junkets</qex>.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>One of the early discovered asteroids.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bird of Juno</b></col>, <cd>the peacock.</cd></cs><br/
+<p><cs><col>Bird of Juno</col>, <cd>the peacock.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Junoesque</ent><br/
@@ -6715,7 +6715,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>One of the planets, being the fifth from the sun, the brightest except Venus, and the largest of them all, its mean radius being about 43,345 miles (69,758 kilometers), almost exactly one-tenth that of the sun. It revolves about the sun in 4,332.6 days, at a mean distance of 5.2025 from the sun (778,140,000 km), the earth's mean distance (the <ecol><b>astronomical unit</b></ecol>) being taken as unity.  It has a mass of 1.901 x 10<exp>27</exp> kg, about one-thousandth that of the sun, and more than the remainder of the planets combined.  It has an average solar day equal to 9.842 earth hours.  The rapid revolution causes a noticeable flattening at the poles; the diameter at the equator is 71,370 km, and at the poles 66,644 km.</def> <au>HCP61</au><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Jupiter's beard</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A South European herb, with cymes of small red blossoms (<spn>Centranthus ruber</spn>)</cd>. <sd>(b)</sd> <cd>The houseleek (<spn>Sempervivum tectorum</spn>); -- so called from its massive inflorescence, like the sculptured beard of Jove</cd>. <au>Prior.</au> <sd>(c)</sd> <cd>the cloverlike <spn>Anthyllis Barba-Jovis</spn>.</cd> -- <col><b>Jupiter's staff</b></col> <fld>(Bot.)</fld>, <cd>the common mullein; -- so called from its long, rigid spike of yellow blossoms.</cd></cs></p>
+<p><cs><col>Jupiter's beard</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A South European herb, with cymes of small red blossoms (<spn>Centranthus ruber</spn>)</cd>. <sd>(b)</sd> <cd>The houseleek (<spn>Sempervivum tectorum</spn>); -- so called from its massive inflorescence, like the sculptured beard of Jove</cd>. <au>Prior.</au> <sd>(c)</sd> <cd>the cloverlike <spn>Anthyllis Barba-Jovis</spn>.</cd> -- <col>Jupiter's staff</col> <fld>(Bot.)</fld>, <cd>the common mullein; -- so called from its long, rigid spike of yellow blossoms.</cd></cs></p>
 
 <p><ent>Juppon</ent><br/
 <ent>Jupon</ent><br/
@@ -6793,7 +6793,7 @@ In dark cabals and mighty <qex>juntos</qex> met.</q> <rj><qau>Thomson.</qau></rj
 <p><q>The body corporate of the kingdom, in <qex>juridical</qex> construction, never dies.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Juridical days</b></col>, <cd>days on which courts are open.</cd></cs><br/
+<p><cs><col>Juridical days</col>, <cd>days on which courts are open.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Juridically</ent><br/
@@ -6843,7 +6843,7 @@ You maim'd the <qex>jurisdiction</qex> of all bishops.</q> <rj><qau>Shak.</qau><
 <p><q>The talents of Abelard were not confined to theology, <qex>jurisprudence</qex>, philosophy.</q> <rj><qau>J. Warton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Medical jurisprudence</b></col>, <cd>that branch of juridical law which concerns questions of medicine.</cd></cs><br/
+<p><cs><col>Medical jurisprudence</col>, <cd>that branch of juridical law which concerns questions of medicine.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jurisprudent</ent><br/
@@ -6886,7 +6886,7 @@ You maim'd the <qex>jurisdiction</qex> of all bishops.</q> <rj><qau>Shak.</qau><
 <hw>Ju"ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Etymol. uncertain.]</ety> <fld>(Naut.)</fld> <def>For temporary use; -- applied to a temporary contrivance.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jury rudder</b></col>, <cd>a rudder constructed for temporary use.</cd></cs><br/
+<p><cs><col>Jury rudder</col>, <cd>a rudder constructed for temporary use.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Jury</ent><br/
@@ -6902,7 +6902,7 @@ You maim'd the <qex>jurisdiction</qex> of all bishops.</q> <rj><qau>Shak.</qau><
 <p><sn>2.</sn> <def>A committee for determining relative merit or awarding prizes at an exhibition or competition; <as>as, the art <ex>jury</ex> gave him the first prize</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Jury of inquest</b></col>, <cd>a coroner's jury. See <er>Inquest</er>.</cd></cs><br/
+<p><cs><col>Jury of inquest</col>, <cd>a coroner's jury. See <er>Inquest</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Juryman</ent><br/
@@ -6979,7 +6979,7 @@ The war shall stand ranged in its <qex>just</qex> array.</q> <rj><qau>Addison.</
 <p><q>Men are commonly so <qex>just</qex> to virtue and goodness as to praise it in others, even when they do not practice it themselves.</q> <rj><qau>Tillotson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Just intonation</b></col>. <fld>(Mus.)</fld> <sd>(a)</sd> <cd>The correct sounding of notes or intervals; true pitch</cd>. <sd>(b)</sd> <cd>The giving all chords and intervals in their purity or their exact mathematical ratio, or without <contr>temperament</contr>; a process in which the number of notes and intervals required in the various keys is much greater than the twelve to the octave used in systems of temperament.</cd>  <rj><au>H. W. Poole.</au></rj></cs></p>
+<p><cs><col>Just intonation</col>. <fld>(Mus.)</fld> <sd>(a)</sd> <cd>The correct sounding of notes or intervals; true pitch</cd>. <sd>(b)</sd> <cd>The giving all chords and intervals in their purity or their exact mathematical ratio, or without <contr>temperament</contr>; a process in which the number of notes and intervals required in the various keys is much greater than the twelve to the octave used in systems of temperament.</cd>  <rj><au>H. W. Poole.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Equitable; upright; honest; true; fair; impartial; proper; exact; normal; orderly; regular.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7010,7 +7010,7 @@ The war shall stand ranged in its <qex>just</qex> array.</q> <rj><qau>Addison.</
 But <qex>just</qex> inspired and gently swelled the sail.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Just now</b></col>, <cd>the least possible time since; a moment ago.</cd></cs><br/
+<p><cs><col>Just now</col>, <cd>the least possible time since; a moment ago.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Just</ent><br/
@@ -7058,7 +7058,7 @@ To our own lips.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ This title is given to the judges of the common law courts in England and in the United States, and extends to judicial officers and magistrates of every grade.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bed of justice</b></col>. <cd>See under <er>Bed</er>.</cd> -- <col><b>Chief justice</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Justice of the peace</b></col> <fld>(Law)</fld>, <cd>a judicial officer or subordinate magistrate appointed for the conservation of the peace in a specified district, with other incidental powers specified in his commission. In the United States a justice of the peace has jurisdiction to adjudicate certain minor cases, commit offenders, officiate at marriages, etc.; abbreviated <abbr>JP</abbr>.</cd></cs></p>
+<p><cs><col>Bed of justice</col>. <cd>See under <er>Bed</er>.</cd> -- <col>Chief justice</col>. <cd>See in the Vocabulary.</cd> -- <col>Justice of the peace</col> <fld>(Law)</fld>, <cd>a judicial officer or subordinate magistrate appointed for the conservation of the peace in a specified district, with other incidental powers specified in his commission. In the United States a justice of the peace has jurisdiction to adjudicate certain minor cases, commit offenders, officiate at marriages, etc.; abbreviated <abbr>JP</abbr>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Equity; law; right; rectitude; honesty; integrity; uprightness; fairness; impartiality.</syn> <usage> -- <er>Justice</er>, <er>Equity</er>, <er>Law</er>. <xex>Justice</xex> and <xex>equity</xex> are the same; but human laws, though designed to secure justice, are of necessity imperfect, and hence what is strictly <xex>legal</xex> is at times far from being <xex>equitable</xex> or <xex>just</xex>. Here a court of <xex>equity</xex> comes in to redress the grievances.  It does so, as distinguished from courts of <xex>law</xex>; and as the latter are often styled courts of <xex>justice</xex>, some have fancied that there is in this case a conflict between <xex>justice</xex> and <xex>equity</xex>. The real conflict is against the <xex>working</xex> of the <xex>law</xex>; this a court of <xex>equity</xex> brings into accordance with the claims of <xex>justice</xex>. It would be an unfortunate use of language which should lead any one to imagine he might have <xex>justice</xex> on his side while practicing iniquity (<xex>inequity</xex>).</p>
 
@@ -7104,7 +7104,7 @@ To our own lips.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ The <xex>chief justiciary</xex>, or <xex>justiciar</xex>, in early English history, was not only the chief justice of the kingdom, but also <xex>ex officio</xex> regent in the king's absence.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Court of justiciary</b></col> <fld>(Scots Law)</fld>, <cd>the supreme criminal court, having jurisdiction over the whole of Scotland.</cd></cs></p>
+<p><cs><col>Court of justiciary</col> <fld>(Scots Law)</fld>, <cd>the supreme criminal court, having jurisdiction over the whole of Scotland.</cd></cs></p>
 
 <p><ent>Justicoat</ent><br/
 <ent>Justico</ent><br/

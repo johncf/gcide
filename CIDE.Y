@@ -34,7 +34,7 @@
 <hw>Y</hw> <pr>(w<imac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Y's</plw> <pr>(w<imac/z)</pr> <it>or</it> <plw>Ys</plw>.</plu> <def>Something shaped like the letter <universbold>Y</universbold>; a forked piece resembling in form the letter <universbold>Y</universbold>.</def>  <specif>Specifically:</specif> <sd>(a)</sd> <def>One of the forked holders for supporting the telescope of a leveling instrument, or the axis of a theodolite; a wye.</def>  <sd>(b)</sd> <def>A forked or bifurcated pipe fitting.</def>  <sd>(c)</sd> <fld>(Railroads)</fld> <def>A portion of track consisting of two diverging tracks connected by a cross track.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Y level</b></col> <fld>(Surv.)</fld>, <cd>an instrument for measuring differences of level by means of a telescope resting in <universbold>Y</universbold>'s.</cd> -- <col><b>Y moth</b></col> <fld>(Zool.)</fld>, <cd>a handsome European noctuid moth <spn>Plusia gamma</spn>) which has a bright, silvery mark, shaped like the letter <universbold>Y</universbold>, on each of the fore wings. Its larva, which is green with five dorsal white species, feeds on the cabbage, turnip, bean, etc. Called also <altname>gamma moth</altname>, and <altname>silver Y</altname>.</cd></cs><br/
+<p><cs><col>Y level</col> <fld>(Surv.)</fld>, <cd>an instrument for measuring differences of level by means of a telescope resting in <universbold>Y</universbold>'s.</cd> -- <col>Y moth</col> <fld>(Zool.)</fld>, <cd>a handsome European noctuid moth <spn>Plusia gamma</spn>) which has a bright, silvery mark, shaped like the letter <universbold>Y</universbold>, on each of the fore wings. Its larva, which is green with five dorsal white species, feeds on the cabbage, turnip, bean, etc. Called also <altname>gamma moth</altname>, and <altname>silver Y</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Y</ent><br/
@@ -77,7 +77,7 @@
 <hw>Yacht</hw> <pr>(y<ocr/t)</pr>, <pos>n.</pos> <ety>[D. <ets>jagt</ets>, <ets>jacht</ets>; perhaps properly, a chase, hunting, from. <ets>jagen</ets> to chase, hunt, akin to G. <ets>jagen</ets>, OHG. <ets>jag<omac/n</ets>, of uncertain origin; or perhaps akin to OHG. <ets>g<amac/hi</ets> quick, sudden (cf. <er>Gay</er>).]</ety> <fld>(Naut.)</fld> <def>A light and elegantly furnished vessel, used either for private parties of pleasure, or as a vessel of state to convey distinguished persons from one place to another; a seagoing vessel used only for pleasure trips, racing, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yacht measurement</b></col>. <cd>See the Note under <er>Tonnage</er>, <snr>4</snr>.</cd></cs><br/
+<p><cs><col>Yacht measurement</col>. <cd>See the Note under <er>Tonnage</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yacht</ent><br/
@@ -165,7 +165,7 @@
 <hw>Yak</hw> <pr>(y<acr/k)</pr>, <pos>n.</pos> <ety>[Tibetan <ets>gyag</ets>.]</ety> <fld>(Zool.)</fld> <def>A bovine mammal (<spn>Poephagus grunnies</spn>) native of the high plains of Central Asia. Its neck, the outer side of its legs, and its flanks, are covered with long, flowing, fine hair. Its tail is long and bushy, often white, and is valued as an ornament and for other purposes in India and China. There are several domesticated varieties, some of which lack the mane and the long hair on the flanks. Called also <altname>chauri gua</altname>, <altname>grunting cow</altname>, <altname>grunting ox</altname>, <altname>sarlac</altname>, <altname>sarlik</altname>, and <altname>sarluc</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yak lace</b></col>, <cd>a coarse pillow lace made from the silky hair of the yak.</cd></cs><br/
+<p><cs><col>Yak lace</col>, <cd>a coarse pillow lace made from the silky hair of the yak.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yakamilk</ent><br/
@@ -208,7 +208,7 @@
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Any one of several cultural varieties of the sweet potato.</def> <mark>[U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Chinese yam</b></col>, <cd>a plant (<spn>Dioscorea Batatas</spn>) with a long and slender tuber, hardier than most of the other species.</cd> -- <col><b>Wild yam</b></col>. <sd>(a)</sd> <cd>A common plant (<spn>Dioscorea villosa</spn>) of the Eastern United States, having a hard and knotty rootstock.</cd> <sd>(b)</sd> <cd>An orchidaceous plant (<spn>Gastrodia sesamoides</spn>) of Australia and Tasmania.</cd></cs><br/
+<p><cs><col>Chinese yam</col>, <cd>a plant (<spn>Dioscorea Batatas</spn>) with a long and slender tuber, hardier than most of the other species.</cd> -- <col>Wild yam</col>. <sd>(a)</sd> <cd>A common plant (<spn>Dioscorea villosa</spn>) of the Eastern United States, having a hard and knotty rootstock.</cd> <sd>(b)</sd> <cd>An orchidaceous plant (<spn>Gastrodia sesamoides</spn>) of Australia and Tasmania.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yama</ent><br/
@@ -271,7 +271,7 @@ And still to meanness all his conduct flows.</q> <rj><qau>Oppression, A poem by 
 <p><q>The alertness of the <qex>Yankee</qex> aspect.</q> <rj><qau>Hawthorne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yankee clover</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Japan clover</cref>, under <er>Japan</er>.</cd></cs><br/
+<p><cs><col>Yankee clover</col>. <fld>(Bot.)</fld> <cd>See <cref>Japan clover</cref>, under <er>Japan</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yankee-Doodle</ent><br/
@@ -345,7 +345,7 @@ Destroyed hath the green in every <qex>yerd</qex>.</q> <rj><qau>Chaucer.</qau></
 <p><sn>7.</sn> <fld>(Zool.)</fld> <def>A place where moose or deer herd together in winter for pasture, protection, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>Golden Yard</b></col>, <it>or</it> <col><b>Yard and Ell</b></col></mcol> <fld>(Astron.)</fld>, <cd>a popular name of the three stars in the belt of Orion.</cd> -- <col><b>Under yard</b></col> [<it>i. e.</it>, under the rod], <cd>under contract.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs><br/
+<p><cs><mcol><col>Golden Yard</col>, <it>or</it> <col>Yard and Ell</col></mcol> <fld>(Astron.)</fld>, <cd>a popular name of the three stars in the belt of Orion.</cd> -- <col>Under yard</col> [<it>i. e.</it>, under the rod], <cd>under contract.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yard</ent><br/
@@ -362,7 +362,7 @@ In which she had a cock, hight chanticleer.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <def>An inclosure within which any work or business is carried on; <as>as, a dock<ex>yard</ex>; a ship<ex>yard</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Liberty of the yard</b></col>, <cd>a liberty, granted to persons imprisoned for debt, of walking in the yard, or within any other limits prescribed by law, on their giving bond not to go beyond those limits.</cd> -- <col><b>Prison yard</b></col>, <cd>an inclosure about a prison, or attached to it.</cd> -- <col><b>Yard grass</b></col> <fld>(Bot.)</fld>, <cd>a low-growing grass (<spn>Eleusine Indica</spn>) having digitate spikes. It is common in dooryards, and like places, especially in the Southern United States. Called also <altname>crab grass</altname>.</cd> -- <col><b>Yard of land</b></col>. <cd>See <er>Yardland</er>.</cd></cs><br/
+<p><cs><col>Liberty of the yard</col>, <cd>a liberty, granted to persons imprisoned for debt, of walking in the yard, or within any other limits prescribed by law, on their giving bond not to go beyond those limits.</cd> -- <col>Prison yard</col>, <cd>an inclosure about a prison, or attached to it.</cd> -- <col>Yard grass</col> <fld>(Bot.)</fld>, <cd>a low-growing grass (<spn>Eleusine Indica</spn>) having digitate spikes. It is common in dooryards, and like places, especially in the Southern United States. Called also <altname>crab grass</altname>.</cd> -- <col>Yard of land</col>. <cd>See <er>Yardland</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yard</ent><br/
@@ -616,7 +616,7 @@ Imprisoned spirits.</q> <rj><qau>Marston.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yazoo Fraud</ent><br/
-<hw>Yaz"oo Fraud</hw> <pr>(?)</pr>. <fld>(U. S. Hist.)</fld> <def>The grant by the State of Georgia, by Act of Jan. 7, 1795, of 35,000,000 acres of her western territory, for $500,000, to four companies known as the <col><b>Yazoo Companies</b></col> from the region granted ; -- commonly so called, the act being known as the <col><b>Yazoo Frauds Act</b></col>, because of alleged corruption of the legislature, every member but one being a shareholder in one or more of the companies. The act granting the land was repealed in 1796 by a new legislature, and the repealing provision was incorporated in the State constitution in 1798. In 1802 the territory was ceded to the United States. The claims of the purchasers, whom Georgia had refused to compensate, were sustained by the United States Supreme Court, which (1810) declared the repealing act of 1796 unconstitutional. Congress in 1814 ordered the lands sold and appropriated $5,000,000 to pay the claims.</def><br/
+<hw>Yaz"oo Fraud</hw> <pr>(?)</pr>. <fld>(U. S. Hist.)</fld> <def>The grant by the State of Georgia, by Act of Jan. 7, 1795, of 35,000,000 acres of her western territory, for $500,000, to four companies known as the <col>Yazoo Companies</col> from the region granted ; -- commonly so called, the act being known as the <col>Yazoo Frauds Act</col>, because of alleged corruption of the legislature, every member but one being a shareholder in one or more of the companies. The act granting the land was repealed in 1796 by a new legislature, and the repealing provision was incorporated in the State constitution in 1798. In 1802 the territory was ceded to the United States. The claims of the purchasers, whom Georgia had refused to compensate, were sustained by the United States Supreme Court, which (1810) declared the repealing act of 1796 unconstitutional. Congress in 1814 ordered the lands sold and appropriated $5,000,000 to pay the claims.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ybe</ent><br/
@@ -749,7 +749,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <pluf>pl.</pluf> <def>Age, or old age; <as>as, a man in <ex>years</ex></as>.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Anomalistic year</b></col>, <cd>the time of the earth's revolution from perihelion to perihelion again, which is 365 days, 6 hours, 13 minutes, and 48 seconds.</cd> -- <col><b>A year's mind</b></col> <fld>(Eccl.)</fld>, <cd>a commemoration of a deceased person, as by a Mass, a year after his death.  Cf. <cref>A month's mind</cref>, under <er>Month</er>.</cd> -- <col><b>Bissextile year</b></col>. <cd>See <er>Bissextile</er>.</cd> -- <col><b>Canicular year</b></col>. <cd>See under <er>Canicular</er>.</cd> -- <col><b>Civil year</b></col>, <cd>the year adopted by any nation for the computation of time.</cd> -- <col><b>Common lunar year</b></col>, <cd>the period of 12 lunar months, or 354 days.</cd> -- <col><b>Common year</b></col>, <cd>each year of 365 days, as distinguished from <xex>leap year</xex>.</cd> -- <mcol><col><b>Embolismic year</b></col>, <it>or</it> <col><b>Intercalary lunar year</b></col></mcol>, <cd>the period of 13 lunar months, or 384 days.</cd> -- <col><b>Fiscal year</b></col> <fld>(Com.)</fld>, <cd>the year by which accounts are reckoned, or the year between one annual time of settlement, or balancing of accounts, and another.</cd> -- <col><b>Great year</b></col>. <cd>See <cref>Platonic year</cref>, under <er>Platonic</er>.</cd> -- <mcol><col><b>Gregorian year</b></col>, <col><b>Julian year</b></col></mcol>. <cd>See under <er>Gregorian</er>, and <er>Julian</er>.</cd> -- <col><b>Leap year</b></col>. <cd>See <er>Leap year</er>, in the Vocabulary.</cd> -- <col><b>Lunar astronomical year</b></col>, <cd>the period of 12 lunar synodical months, or 354 days, 8 hours, 48 minutes, 36 seconds.</cd> -- <col><b>Lunisolar year</b></col>. <cd>See under <er>Lunisolar</er>.</cd> -- <col><b>Periodical year</b></col>. <cd>See <cref>Anomalistic year</cref>, above.</cd> -- <mcol><col><b>Platonic year</b></col>, <col><b>Sabbatical year</b></col></mcol>. <cd>See under <er>Platonic</er>, and <er>Sabbatical</er>.</cd> -- <col><b>Sidereal year</b></col>, <cd>the time in which the sun, departing from any fixed star, returns to the same. This is 365 days, 6 hours, 9 minutes, and 9.3 seconds.</cd> -- <col><b>Tropical year</b></col>. <cd>See under <er>Tropical</er>.</cd> -- <col><b>Year and a day</b></col> <fld>(O. Eng. Law)</fld>, <cd>a time to be allowed for an act or an event, in order that an entire year might be secured beyond all question.</cd> <au>Abbott.</au> -- <col><b>Year of grace</b></col>, <cd>any year of the Christian era; Anno Domini; <sc>A. D.</sc> or <sc>a. d.</sc></cd></cs><br/
+<p><cs><col>Anomalistic year</col>, <cd>the time of the earth's revolution from perihelion to perihelion again, which is 365 days, 6 hours, 13 minutes, and 48 seconds.</cd> -- <col>A year's mind</col> <fld>(Eccl.)</fld>, <cd>a commemoration of a deceased person, as by a Mass, a year after his death.  Cf. <cref>A month's mind</cref>, under <er>Month</er>.</cd> -- <col>Bissextile year</col>. <cd>See <er>Bissextile</er>.</cd> -- <col>Canicular year</col>. <cd>See under <er>Canicular</er>.</cd> -- <col>Civil year</col>, <cd>the year adopted by any nation for the computation of time.</cd> -- <col>Common lunar year</col>, <cd>the period of 12 lunar months, or 354 days.</cd> -- <col>Common year</col>, <cd>each year of 365 days, as distinguished from <xex>leap year</xex>.</cd> -- <mcol><col>Embolismic year</col>, <it>or</it> <col>Intercalary lunar year</col></mcol>, <cd>the period of 13 lunar months, or 384 days.</cd> -- <col>Fiscal year</col> <fld>(Com.)</fld>, <cd>the year by which accounts are reckoned, or the year between one annual time of settlement, or balancing of accounts, and another.</cd> -- <col>Great year</col>. <cd>See <cref>Platonic year</cref>, under <er>Platonic</er>.</cd> -- <mcol><col>Gregorian year</col>, <col>Julian year</col></mcol>. <cd>See under <er>Gregorian</er>, and <er>Julian</er>.</cd> -- <col>Leap year</col>. <cd>See <er>Leap year</er>, in the Vocabulary.</cd> -- <col>Lunar astronomical year</col>, <cd>the period of 12 lunar synodical months, or 354 days, 8 hours, 48 minutes, 36 seconds.</cd> -- <col>Lunisolar year</col>. <cd>See under <er>Lunisolar</er>.</cd> -- <col>Periodical year</col>. <cd>See <cref>Anomalistic year</cref>, above.</cd> -- <mcol><col>Platonic year</col>, <col>Sabbatical year</col></mcol>. <cd>See under <er>Platonic</er>, and <er>Sabbatical</er>.</cd> -- <col>Sidereal year</col>, <cd>the time in which the sun, departing from any fixed star, returns to the same. This is 365 days, 6 hours, 9 minutes, and 9.3 seconds.</cd> -- <col>Tropical year</col>. <cd>See under <er>Tropical</er>.</cd> -- <col>Year and a day</col> <fld>(O. Eng. Law)</fld>, <cd>a time to be allowed for an act or an event, in order that an entire year might be secured beyond all question.</cd> <au>Abbott.</au> -- <col>Year of grace</col>, <cd>any year of the Christian era; Anno Domini; <sc>A. D.</sc> or <sc>a. d.</sc></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>year 2000 problem</ent><br/
@@ -907,7 +907,7 @@ Alike the Armada's pride, or spoils of Trafalgar.</q> <rj><qau>Byron.</qau></rj>
 <p><-- 3. <def>A form of fungus which grows as individual rounded cells, rather than in a mycelium, and reproduces by budding; esp. members of the orders <ord>Endomycetales</ord> and <ord>Moniliales</ord>.  Some fungi may grow both as a yeast or as a mycelium, depending on the conditions of growth.</def>  --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yeast cake</b></col>, <cd>a mealy cake impregnated with the live germs of the yeast plant, and used as a conveniently transportable substitute for yeast.</cd> -- <col><b>Yeast plant</b></col> <fld>(Bot.)</fld>, <cd>the vegetable organism, or fungus, of which beer yeast consists. The yeast plant is composed of simple cells, or granules, about one three-thousandth of an inch in diameter, often united into filaments which reproduce by budding, and under certain circumstances by the formation of spores. The name is extended to other ferments of the same genus.  See <er>Saccharomyces</er>.</cd> -- <col><b>Yeast powder</b></col>, <cd>a baling powder, -- used instead of yeast in leavening bread.</cd></cs><br/
+<p><cs><col>Yeast cake</col>, <cd>a mealy cake impregnated with the live germs of the yeast plant, and used as a conveniently transportable substitute for yeast.</cd> -- <col>Yeast plant</col> <fld>(Bot.)</fld>, <cd>the vegetable organism, or fungus, of which beer yeast consists. The yeast plant is composed of simple cells, or granules, about one three-thousandth of an inch in diameter, often united into filaments which reproduce by budding, and under certain circumstances by the formation of spores. The name is extended to other ferments of the same genus.  See <er>Saccharomyces</er>.</cd> -- <col>Yeast powder</col>, <cd>a baling powder, -- used instead of yeast in leavening bread.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yeast-bitten</ent><br/
@@ -1008,7 +1008,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 <p><sn>3.</sn>  <def>Sensational; -- said of some newspapers, their makers, etc.; <as>as, <ex>yellow</ex> journal, journalism, etc.</as></def> <mark>[Colloq.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Yellow atrophy</b></col> <fld>(Med.)</fld>, <cd>a fatal affection of the liver, in which it undergoes fatty degeneration, and becomes rapidly smaller and of a deep yellow tinge. The marked symptoms are black vomit, delirium, convulsions, coma, and jaundice.</cd> -- <col><b>Yellow bark</b></col>, <cd>calisaya bark.</cd> -- <col><b>Yellow bass</b></col> <fld>(Zool.)</fld>, <cd>a North American fresh-water bass (<spn>Morone interrupta</spn>) native of the lower parts of the Mississippi and its tributaries. It is yellow, with several more or less broken black stripes or bars. Called also <altname>barfish</altname>.</cd> -- <col><b>Yellow berry</b></col>. <fld>(Bot.)</fld> <cd>Same as <cref>Persian berry</cref>, under <er>Persian</er>.</cd> -- <col><b>Yellow boy</b></col>, <cd>a gold coin, as a guinea.</cd> <mark>[Slang]</mark> <au>Arbuthnot.</au> -- <col><b>Yellow brier</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Brier</er>.</cd> -- <col><b>Yellow bugle</b></col> <fld>(Bot.)</fld>, <cd>a European labiate plant (<spn>Ajuga Chamaepitys</spn>).</cd> -- <col><b>Yellow bunting</b></col> <fld>(Zool.)</fld>, <cd>the European yellow-hammer.</cd> -- <col><b>Yellow cat</b></col> <fld>(Zool.)</fld>, <cd>a yellow catfish; especially, the bashaw.</cd> -- <col><b>Yellow copperas</b></col> <fld>(Min.)</fld>, <cd>a hydrous sulphate of iron; -- called also <altname>copiapite</altname>.</cd> -- <col><b>Yellow copper ore</b></col>, <cd>a sulphide of copper and iron; copper pyrites.  See <er>Chalcopyrite</er>.</cd> -- <col><b>Yellow cress</b></col> <fld>(Bot.)</fld>, <cd>a yellow-flowered, cruciferous plant (<spn>Barbarea praecox</spn>), sometimes grown as a salad plant.</cd> -- <col><b>Yellow dock</b></col>. <fld>(Bot.)</fld> <cd>See the Note under <er>Dock</er>.</cd> -- <col><b>Yellow earth</b></col>, <cd>a yellowish clay, colored by iron, sometimes used as a yellow pigment.</cd> -- <col><b>Yellow fever</b></col> <fld>(Med.)</fld>, <cd>a malignant, contagious, febrile disease of warm climates, attended with jaundice, producing a yellow color of the skin, and with the black vomit.  See <er>Black vomit</er>, in the Vocabulary.</cd> -- <col><b>Yellow flag</b></col>, <cd>the quarantine flag.  See under <er>Quarantine</er>, and 3d <er>Flag</er>.</cd> -- <col><b>Yellow jack</b></col>. <sd>(a)</sd> <cd>The yellow fever.  See under 2d <er>Jack</er>.</cd> <sd>(b)</sd> <cd>The quarantine flag.  See under <er>Quarantine</er>.</cd> -- <col><b>Yellow jacket</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of American social wasps of the genus <gen>Vespa</gen>, in which the color of the body is partly bright yellow. These wasps are noted for their irritability, and for their painful stings.</cd> -- <col><b>Yellow lead ore</b></col> <fld>(Min.)</fld>, <cd>wulfenite.</cd> -- <col><b>Yellow lemur</b></col> <fld>(Zool.)</fld>, <cd>the kinkajou.</cd> -- <col><b>Yellow macauco</b></col> <fld>(Zool.)</fld>, <cd>the kinkajou.</cd> -- <col><b>Yellow mackerel</b></col> <fld>(Zool.)</fld>, <cd>the jurel.</cd> -- <col><b>Yellow metal</b></col>. <cd>Same as <cref>Muntz metal</cref>, under <er>Metal</er>.</cd> -- <col><b>Yellow ocher</b></col> <fld>(Min.)</fld>, <cd>an impure, earthy variety of brown iron ore, which is used as a pigment.</cd> -- <col><b>Yellow oxeye</b></col> <fld>(Bot.)</fld>, <cd>a yellow-flowered plant (<spn>Chrysanthemum segetum</spn>) closely related to the oxeye daisy.</cd> -- <col><b>Yellow perch</b></col> <fld>(Zool.)</fld>, <cd>the common American perch.  See <er>Perch</er>.</cd> -- <col><b>Yellow pike</b></col> <fld>(Zool.)</fld>, <cd>the wall-eye.</cd> -- <col><b>Yellow pine</b></col> <fld>(Bot.)</fld>, <cd>any of several kinds of pine; also, their yellowish and generally durable timber. Among the most common are valuable species are <spn>Pinus mitis</spn> and <spn>Pinus palustris</spn> of the Eastern and Southern States, and <spn>Pinus ponderosa</spn> and <spn>Pinus Arizonica</spn> of the Rocky Mountains and Pacific States.</cd> -- <col><b>Yellow plover</b></col> <fld>(Zool.)</fld>, <cd>the golden plover.</cd> -- <col><b>Yellow precipitate</b></col> <fld>(Med. Chem.)</fld>, <cd>an oxide of mercury which is thrown down as an amorphous yellow powder on adding corrosive sublimate to limewater.</cd> -- <col><b>Yellow puccoon</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Orangeroot</er>.</cd> -- <col><b>Yellow rail</b></col> <fld>(Zool.)</fld>, <cd>a small American rail (<spn>Porzana Noveboracensis</spn>) in which the lower parts are dull yellow, darkest on the breast. The back is streaked with brownish yellow and with black, and spotted with white. Called also <altname>yellow crake</altname>.</cd> -- <mcol><col><b>Yellow rattle</b></col>, <col><b>Yellow rocket</b></col></mcol>. <fld>(Bot.)</fld> <cd>See under <er>Rattle</er>, and <er>Rocket</er>.</cd> -- <col><b>Yellow Sally</b></col> <fld>(Zool.)</fld>, <cd>a greenish or yellowish European stone fly of the genus <gen>Chloroperla</gen>; -- so called by anglers.</cd> -- <col><b>Yellow sculpin</b></col> <fld>(Zool.)</fld>, <cd>the dragonet.</cd> -- <col><b>Yellow snake</b></col> <fld>(Zool.)</fld>, <cd>a West Indian boa (<spn>Chilobothrus inornatus</spn>) common in Jamaica. It becomes from eight to ten long. The body is yellowish or yellowish green, mixed with black, and anteriorly with black lines.</cd> -- <col><b>Yellow spot</b></col>. <sd>(a)</sd> <fld>(Anat.)</fld> <cd>A small yellowish spot with a central pit, the <xex>fovea centralis</xex>, in the center of the retina where vision is most accurate.  See <er>Eye</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A small American butterfly (<spn>Polites Peckius</spn>) of the Skipper family. Its wings are brownish, with a large, irregular, bright yellow spot on each of the hind wings, most conspicuous beneath. Called also <altname>Peck's skipper</altname>. See <xex>Illust.</xex> under <er>Skipper</er>, <pos>n.</pos>, <snr>5</snr>.</cd> -- <col><b>Yellow tit</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of crested titmice of the genus <gen>Machlolophus</gen>, native of India. The predominating colors of the plumage are yellow and green.</cd> -- <col><b>Yellow viper</b></col> <fld>(Zool.)</fld>, <cd>the fer-de-lance.</cd> -- <col><b>Yellow warbler</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of American warblers of the genus <gen>Dendroica</gen> in which the predominant color is yellow, especially <spn>Dendroica aestiva</spn>, which is a very abundant and familiar species; -- called also <altname>garden warbler</altname>, <altname>golden warbler</altname>, <altname>summer yellowbird</altname>, <altname>summer warbler</altname>, and <altname>yellow-poll warbler</altname>.</cd> -- <col><b>Yellow wash</b></col> <fld>(Pharm.)</fld>, <cd>yellow oxide of mercury suspended in water, -- a mixture prepared by adding corrosive sublimate to limewater.</cd> -- <col><b>Yellow wren</b></col> <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The European willow warbler.</cd> <sd>(b)</sd> <cd>The European wood warbler.</cd></cs><br/
+<p><cs><col>Yellow atrophy</col> <fld>(Med.)</fld>, <cd>a fatal affection of the liver, in which it undergoes fatty degeneration, and becomes rapidly smaller and of a deep yellow tinge. The marked symptoms are black vomit, delirium, convulsions, coma, and jaundice.</cd> -- <col>Yellow bark</col>, <cd>calisaya bark.</cd> -- <col>Yellow bass</col> <fld>(Zool.)</fld>, <cd>a North American fresh-water bass (<spn>Morone interrupta</spn>) native of the lower parts of the Mississippi and its tributaries. It is yellow, with several more or less broken black stripes or bars. Called also <altname>barfish</altname>.</cd> -- <col>Yellow berry</col>. <fld>(Bot.)</fld> <cd>Same as <cref>Persian berry</cref>, under <er>Persian</er>.</cd> -- <col>Yellow boy</col>, <cd>a gold coin, as a guinea.</cd> <mark>[Slang]</mark> <au>Arbuthnot.</au> -- <col>Yellow brier</col>. <fld>(Bot.)</fld> <cd>See under <er>Brier</er>.</cd> -- <col>Yellow bugle</col> <fld>(Bot.)</fld>, <cd>a European labiate plant (<spn>Ajuga Chamaepitys</spn>).</cd> -- <col>Yellow bunting</col> <fld>(Zool.)</fld>, <cd>the European yellow-hammer.</cd> -- <col>Yellow cat</col> <fld>(Zool.)</fld>, <cd>a yellow catfish; especially, the bashaw.</cd> -- <col>Yellow copperas</col> <fld>(Min.)</fld>, <cd>a hydrous sulphate of iron; -- called also <altname>copiapite</altname>.</cd> -- <col>Yellow copper ore</col>, <cd>a sulphide of copper and iron; copper pyrites.  See <er>Chalcopyrite</er>.</cd> -- <col>Yellow cress</col> <fld>(Bot.)</fld>, <cd>a yellow-flowered, cruciferous plant (<spn>Barbarea praecox</spn>), sometimes grown as a salad plant.</cd> -- <col>Yellow dock</col>. <fld>(Bot.)</fld> <cd>See the Note under <er>Dock</er>.</cd> -- <col>Yellow earth</col>, <cd>a yellowish clay, colored by iron, sometimes used as a yellow pigment.</cd> -- <col>Yellow fever</col> <fld>(Med.)</fld>, <cd>a malignant, contagious, febrile disease of warm climates, attended with jaundice, producing a yellow color of the skin, and with the black vomit.  See <er>Black vomit</er>, in the Vocabulary.</cd> -- <col>Yellow flag</col>, <cd>the quarantine flag.  See under <er>Quarantine</er>, and 3d <er>Flag</er>.</cd> -- <col>Yellow jack</col>. <sd>(a)</sd> <cd>The yellow fever.  See under 2d <er>Jack</er>.</cd> <sd>(b)</sd> <cd>The quarantine flag.  See under <er>Quarantine</er>.</cd> -- <col>Yellow jacket</col> <fld>(Zool.)</fld>, <cd>any one of several species of American social wasps of the genus <gen>Vespa</gen>, in which the color of the body is partly bright yellow. These wasps are noted for their irritability, and for their painful stings.</cd> -- <col>Yellow lead ore</col> <fld>(Min.)</fld>, <cd>wulfenite.</cd> -- <col>Yellow lemur</col> <fld>(Zool.)</fld>, <cd>the kinkajou.</cd> -- <col>Yellow macauco</col> <fld>(Zool.)</fld>, <cd>the kinkajou.</cd> -- <col>Yellow mackerel</col> <fld>(Zool.)</fld>, <cd>the jurel.</cd> -- <col>Yellow metal</col>. <cd>Same as <cref>Muntz metal</cref>, under <er>Metal</er>.</cd> -- <col>Yellow ocher</col> <fld>(Min.)</fld>, <cd>an impure, earthy variety of brown iron ore, which is used as a pigment.</cd> -- <col>Yellow oxeye</col> <fld>(Bot.)</fld>, <cd>a yellow-flowered plant (<spn>Chrysanthemum segetum</spn>) closely related to the oxeye daisy.</cd> -- <col>Yellow perch</col> <fld>(Zool.)</fld>, <cd>the common American perch.  See <er>Perch</er>.</cd> -- <col>Yellow pike</col> <fld>(Zool.)</fld>, <cd>the wall-eye.</cd> -- <col>Yellow pine</col> <fld>(Bot.)</fld>, <cd>any of several kinds of pine; also, their yellowish and generally durable timber. Among the most common are valuable species are <spn>Pinus mitis</spn> and <spn>Pinus palustris</spn> of the Eastern and Southern States, and <spn>Pinus ponderosa</spn> and <spn>Pinus Arizonica</spn> of the Rocky Mountains and Pacific States.</cd> -- <col>Yellow plover</col> <fld>(Zool.)</fld>, <cd>the golden plover.</cd> -- <col>Yellow precipitate</col> <fld>(Med. Chem.)</fld>, <cd>an oxide of mercury which is thrown down as an amorphous yellow powder on adding corrosive sublimate to limewater.</cd> -- <col>Yellow puccoon</col>. <fld>(Bot.)</fld> <cd>Same as <er>Orangeroot</er>.</cd> -- <col>Yellow rail</col> <fld>(Zool.)</fld>, <cd>a small American rail (<spn>Porzana Noveboracensis</spn>) in which the lower parts are dull yellow, darkest on the breast. The back is streaked with brownish yellow and with black, and spotted with white. Called also <altname>yellow crake</altname>.</cd> -- <mcol><col>Yellow rattle</col>, <col>Yellow rocket</col></mcol>. <fld>(Bot.)</fld> <cd>See under <er>Rattle</er>, and <er>Rocket</er>.</cd> -- <col>Yellow Sally</col> <fld>(Zool.)</fld>, <cd>a greenish or yellowish European stone fly of the genus <gen>Chloroperla</gen>; -- so called by anglers.</cd> -- <col>Yellow sculpin</col> <fld>(Zool.)</fld>, <cd>the dragonet.</cd> -- <col>Yellow snake</col> <fld>(Zool.)</fld>, <cd>a West Indian boa (<spn>Chilobothrus inornatus</spn>) common in Jamaica. It becomes from eight to ten long. The body is yellowish or yellowish green, mixed with black, and anteriorly with black lines.</cd> -- <col>Yellow spot</col>. <sd>(a)</sd> <fld>(Anat.)</fld> <cd>A small yellowish spot with a central pit, the <xex>fovea centralis</xex>, in the center of the retina where vision is most accurate.  See <er>Eye</er>.</cd> <sd>(b)</sd> <fld>(Zool.)</fld> <cd>A small American butterfly (<spn>Polites Peckius</spn>) of the Skipper family. Its wings are brownish, with a large, irregular, bright yellow spot on each of the hind wings, most conspicuous beneath. Called also <altname>Peck's skipper</altname>. See <xex>Illust.</xex> under <er>Skipper</er>, <pos>n.</pos>, <snr>5</snr>.</cd> -- <col>Yellow tit</col> <fld>(Zool.)</fld>, <cd>any one of several species of crested titmice of the genus <gen>Machlolophus</gen>, native of India. The predominating colors of the plumage are yellow and green.</cd> -- <col>Yellow viper</col> <fld>(Zool.)</fld>, <cd>the fer-de-lance.</cd> -- <col>Yellow warbler</col> <fld>(Zool.)</fld>, <cd>any one of several species of American warblers of the genus <gen>Dendroica</gen> in which the predominant color is yellow, especially <spn>Dendroica aestiva</spn>, which is a very abundant and familiar species; -- called also <altname>garden warbler</altname>, <altname>golden warbler</altname>, <altname>summer yellowbird</altname>, <altname>summer warbler</altname>, and <altname>yellow-poll warbler</altname>.</cd> -- <col>Yellow wash</col> <fld>(Pharm.)</fld>, <cd>yellow oxide of mercury suspended in water, -- a mixture prepared by adding corrosive sublimate to limewater.</cd> -- <col>Yellow wren</col> <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The European willow warbler.</cd> <sd>(b)</sd> <cd>The European wood warbler.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellow</ent><br/
@@ -1018,7 +1018,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 <p><sn>2.</sn> <def>A yellow pigment.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Cadmium yellow</b></col>, <col><b>Chrome yellow</b></col>, <col><b>Indigo yellow</b></col>, <col><b>King's yellow</b></col>, etc.</mcol>  <cd>See under <er>Cadmium</er>, <er>Chrome</er>, etc.</cd> -- <col><b>Naples yellow</b></col>, <cd>a yellow amorphous pigment, used in oil, porcelain, and enamel painting, consisting of a basic lead metantimonate, obtained by fusing together tartar emetic lead nitrate, and common salt.</cd> -- <col><b>Patent yellow</b></col> <fld>(Old Chem.)</fld>, <cd>a yellow pigment consisting essentially of a lead oxychloride; -- called also <altname>Turner's yellow</altname>.</cd></cs><br/
+<p><cs><mcol><col>Cadmium yellow</col>, <col>Chrome yellow</col>, <col>Indigo yellow</col>, <col>King's yellow</col>, etc.</mcol>  <cd>See under <er>Cadmium</er>, <er>Chrome</er>, etc.</cd> -- <col>Naples yellow</col>, <cd>a yellow amorphous pigment, used in oil, porcelain, and enamel painting, consisting of a basic lead metantimonate, obtained by fusing together tartar emetic lead nitrate, and common salt.</cd> -- <col>Patent yellow</col> <fld>(Old Chem.)</fld>, <cd>a yellow pigment consisting essentially of a lead oxychloride; -- called also <altname>Turner's yellow</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellow</ent><br/
@@ -1054,7 +1054,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 <hw>Yel"low-cov`ered</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Covered or bound in yellow paper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yellow-covered literature</b></col>, <cd>cheap sensational novels and trashy magazines; -- formerly so called from the usual color of their covers.</cd> <mark>[Colloq. U. S.]</mark>  <rj><au>Bartlett.</au></rj>
+<p><cs><col>Yellow-covered literature</col>, <cd>cheap sensational novels and trashy magazines; -- formerly so called from the usual color of their covers.</cd> <mark>[Colloq. U. S.]</mark>  <rj><au>Bartlett.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1062,7 +1062,7 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 <hw>Yel"low-eyed`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having yellow eyes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yellow-eyed grass</b></col> <fld>(Bot.)</fld>, <cd>any plant of the genus <gen>Xyris</gen>.</cd></cs><br/
+<p><cs><col>Yellow-eyed grass</col> <fld>(Bot.)</fld>, <cd>any plant of the genus <gen>Xyris</gen>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellowfin</ent><br/
@@ -1253,7 +1253,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><sn>4.</sn> <fld>(Naut.)</fld> <def>An interior officer under the boatswain, gunner, or carpenters, charged with the stowage, account, and distribution of the stores.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yeoman of the guard</b></col>, <cd>one of the bodyguard of the English sovereign, consisting of the hundred yeomen, armed with partisans, and habited in the costume of the sixteenth century. They are members of the royal household.</cd></cs><br/
+<p><cs><col>Yeoman of the guard</col>, <cd>one of the bodyguard of the English sovereign, consisting of the hundred yeomen, armed with partisans, and habited in the costume of the sixteenth century. They are members of the royal household.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yeomanlike</ent><br/
@@ -1280,7 +1280,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><sn>3.</sn> <def>A British volunteer cavalry force, growing out of a royal regiment of fox hunters raised by Yorkshire gentlemen in 1745 to fight the Pretender, Charles Edward; -- calle dalso <altname>yeomanry cavalry</altname>. The members furnish their own horses, have fourteen days' annual camp training, and receive pay and allowance when on duty. In 1901 the name was altered to <altname>imperial yeomanry</altname> in recognition of the services of the force in the Boer war. See <er>Army organization</er>, above.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Yeomanry cavalry</b></col>, <cd>certain bodies of volunteer cavalry liable to service in Great Britain only.</cd> <mark>[Eng.]</mark></cs><br/
+<p><cs><col>Yeomanry cavalry</col>, <cd>certain bodies of volunteer cavalry liable to service in Great Britain only.</cd> <mark>[Eng.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yeorling</ent><br/
@@ -1298,7 +1298,7 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><note><hand/ This word is much used in compound names of plants in Spanish; as, <xex>yerba buena</xex> <ety>[Sp., a good herb]</ety>, a name applied in Spain to several kinds of mint (<spn>Mentha sativa</spn>, <spn>Mentha viridis</spn>, etc.), but in California universally applied to a common, sweet-scented labiate plant (<spn>Micromeria Douglasii</spn>).</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yerba dol osa</b></col>. <ety>[Sp., herb of the she-bear.]</ety> <cd>A kind of buckthorn (<spn>Rhamnus Californica</spn>).</cd> -- <col><b>Yerba mansa</b></col>. <ety>[Sp., a mild herb, soft herb.]</ety> <cd>A plant (<spn>Anemopsis Californica</spn>) with a pungent, aromatic rootstock, used medicinally by the Mexicans and the Indians.</cd> -- <col><b>Yerba reuma</b></col>. <ety>[Cf. Sp. <ets>reuma</ets> rheum, rheumatism.]</ety> <cd>A low California undershrub (<spn>Frankenia grandifolia</spn>).</cd></cs><br/
+<p><cs><col>Yerba dol osa</col>. <ety>[Sp., herb of the she-bear.]</ety> <cd>A kind of buckthorn (<spn>Rhamnus Californica</spn>).</cd> -- <col>Yerba mansa</col>. <ety>[Sp., a mild herb, soft herb.]</ety> <cd>A plant (<spn>Anemopsis Californica</spn>) with a pungent, aromatic rootstock, used medicinally by the Mexicans and the Indians.</cd> -- <col>Yerba reuma</col>. <ety>[Cf. Sp. <ets>reuma</ets> rheum, rheumatism.]</ety> <cd>A low California undershrub (<spn>Frankenia grandifolia</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yerd</ent><br/
@@ -1650,7 +1650,7 @@ And the gods <qex>yield</qex> you for 't.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>God <qex>yield</qex> thee, and God thank ye.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To yield the breath</b></col>, <col><b>To yield the breath up</b></col>, <col><b>To yield the ghost</b></col>, <col><b>To yield the ghost up</b></col>, <col><b>To yield up the ghost</b></col>, <it>or</it> <col><b>To yield the life</b></col></mcol>, <cd>to die; to expire; -- similar to <cref>To give up the ghost</cref>.</cd><br/
+<p><cs><mcol><col>To yield the breath</col>, <col>To yield the breath up</col>, <col>To yield the ghost</col>, <col>To yield the ghost up</col>, <col>To yield up the ghost</col>, <it>or</it> <col>To yield the life</col></mcol>, <cd>to die; to expire; -- similar to <cref>To give up the ghost</cref>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>One calmly <qex>yields</qex> his willing <qex>breath</qex>.</q> <rj><qau>Keble.</qau></rj>
@@ -1704,7 +1704,7 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 <hw>Yield"ing</hw>, <pos>a.</pos> <def>Inclined to give way, or comply; flexible; compliant; accommodating; <as>as, a <ex>yielding</ex> temper</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yielding and paying</b></col> <fld>(Law)</fld>, <cd>the initial words of that clause in leases in which the rent to be paid by the lessee is mentioned and reserved.</cd>  <rj><au>Burrill.</au></rj>
+<p><cs><col>Yielding and paying</col> <fld>(Law)</fld>, <cd>the initial words of that clause in leases in which the rent to be paid by the lessee is mentioned and reserved.</cd>  <rj><au>Burrill.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1914,7 +1914,7 @@ Which that men clepeth spousal or wedlock.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>8.</sn> <fld>(Chiefly Mach.)</fld> <def>A clamp or similar piece that embraces two other parts to hold or unite them in their respective or relative positions, as a strap connecting a slide valve to the valve stem, or the soft iron block or bar permanently connecting the pole pieces of an electromagnet, as in a dynamo.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>Neck yoke</b></col>, <col><b>Pig yoke</b></col></mcol>. <cd>See under <er>Neck</er>, and <er>Pig</er>.</cd> -- <col><b>Yoke elm</b></col> <fld>(Bot.)</fld>, <cd>the European hornbeam (<spn>Carpinus Betulus</spn>), a small tree with tough white wood, often used for making yokes for cattle.</cd></cs><br/
+<p><cs><mcol><col>Neck yoke</col>, <col>Pig yoke</col></mcol>. <cd>See under <er>Neck</er>, and <er>Pig</er>.</cd> -- <col>Yoke elm</col> <fld>(Bot.)</fld>, <cd>the European hornbeam (<spn>Carpinus Betulus</spn>), a small tree with tough white wood, often used for making yokes for cattle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yoke</ent><br/
@@ -1995,7 +1995,7 @@ The conqueror are quickly broke.</q> <rj><qau>Hudibras.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>An oily secretion which naturally covers the wool of sheep.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yolk cord</b></col> <fld>(Zool.)</fld>, <cd>a slender cord or duct which connects the yolk glands with the egg chambers in certain insects, as in the aphids.</cd> -- <col><b>Yolk gland</b></col> <fld>(Zool.)</fld>, <cd>a special organ which secretes the yolk of the eggs in many turbellarians, and in some other invertebrates.  See <xex>Illust.</xex> of <er>Hermaphrodite</er> in Appendix.</cd> -- <col><b>Yolk sack</b></col> <fld>(Anat.)</fld>, <cd>the umbilical vesicle.  See under <er>Unbilical</er>.</cd></cs><br/
+<p><cs><col>Yolk cord</col> <fld>(Zool.)</fld>, <cd>a slender cord or duct which connects the yolk glands with the egg chambers in certain insects, as in the aphids.</cd> -- <col>Yolk gland</col> <fld>(Zool.)</fld>, <cd>a special organ which secretes the yolk of the eggs in many turbellarians, and in some other invertebrates.  See <xex>Illust.</xex> of <er>Hermaphrodite</er> in Appendix.</cd> -- <col>Yolk sack</col> <fld>(Anat.)</fld>, <cd>the umbilical vesicle.  See under <er>Unbilical</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yoll</ent><br/
@@ -2073,7 +2073,7 @@ Him that <qex>yon</qex> soars on golden wing.</q> <rj><qau>Milton.</qau></rj><br
 Yet I to them for judgment just do fly.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Of yore</b></col>, <cd>of old time; long ago; as, in times or days <xex>of yore</xex>.</cd> <ldquo/But Satan now is wiser than <xex>of yore</xex>.<rdquo/  <rj><au>Pope.</au></rj>
+<p><cs><col>Of yore</col>, <cd>of old time; long ago; as, in times or days <xex>of yore</xex>.</cd> <ldquo/But Satan now is wiser than <xex>of yore</xex>.<rdquo/  <rj><au>Pope.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -2092,7 +2092,7 @@ Yet I to them for judgment just do fly.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>York"shire</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A county in the north of England.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yorkshire grit</b></col>, <cd>a kind of stone used for polishing marble, and copperplates for engravers.</cd> <au>Simmonds.</au> -- <col><b>Yorkshire pudding</b></col>, <cd>a batter pudding baked under meat.</cd></cs><br/
+<p><cs><col>Yorkshire grit</col>, <cd>a kind of stone used for polishing marble, and copperplates for engravers.</cd> <au>Simmonds.</au> -- <col>Yorkshire pudding</col>, <cd>a batter pudding baked under meat.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>York use</ent><br/
@@ -2169,7 +2169,7 @@ To leave this place.</q> <rj><qau>Shak.</qau></rj><br/
 Their callow <qex>young</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>With young</b></col>, <cd>with child; pregnant.</cd></cs><br/
+<p><cs><col>With young</col>, <cd>with child; pregnant.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>young-bearing</ent><br/
@@ -2496,7 +2496,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 <p><note><hand/ The species with more rigid leaves (as <spn>Yucca aloifolia</spn>, <spn>Yucca Treculiana</spn>, and <spn>Yucca baccata</spn>) are called <stype>Spanish bayonet</stype>, and one with softer leaves  (<spn>Yucca filamentosa</spn>) is called <stype>bear grass</stype>, and <stype>Adam's needle</stype>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Yucca moth</b></col> <fld>(Zool.)</fld>, <cd>a small silvery moth (<spn>Pronuba yuccasella</spn>) whose larvae feed on plants of the genus <gen>Yucca</gen>.</cd></cs><br/
+<p><cs><col>Yucca moth</col> <fld>(Zool.)</fld>, <cd>a small silvery moth (<spn>Pronuba yuccasella</spn>) whose larvae feed on plants of the genus <gen>Yucca</gen>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yucca borer</ent><br/
@@ -2578,7 +2578,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Yule block</b></col>, <it>or</it> <col><b>Yule log</b></col></mcol>, <cd>a large log of wood formerly put on the hearth on Christmas eve, as the foundation of the fire. It was brought in with much ceremony.</cd> -- <col><b>Yule clog</b></col>, <cd>the yule log.</cd>  <rj><au>Halliwell. W. Irving.</au></rj>
+<p><cs><mcol><col>Yule block</col>, <it>or</it> <col>Yule log</col></mcol>, <cd>a large log of wood formerly put on the hearth on Christmas eve, as the foundation of the fire. It was brought in with much ceremony.</cd> -- <col>Yule clog</col>, <cd>the yule log.</cd>  <rj><au>Halliwell. W. Irving.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 

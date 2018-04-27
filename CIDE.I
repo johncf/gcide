@@ -229,7 +229,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 <p><sn>4.</sn> <def>Any substance having the appearance of ice; <as>as, camphor <ex>ice</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Anchor ice</b></col>, <cd>ice which sometimes forms about stones and other objects at the bottom of running or other water, and is thus attached or <xex>anchored</xex> to the ground.</cd> -- <col><b>Bay ice</b></col>, <cd>ice formed in bays, fiords, etc., often in extensive fields which drift out to sea.</cd> -- <col><b>Ground ice</b></col>, <cd>anchor ice.</cd> -- <col><b>Ice age</b></col> <fld>(Geol.)</fld>, <cd>the glacial epoch or period. See under <er>Glacial</er>.</cd> -- <col><b>Ice anchor</b></col> <fld>(Naut.)</fld>, <cd>a grapnel for mooring a vessel to a field of ice.</cd> <au>Kane.</au> -- <col><b>Ice blink</b></col> <ety>[Dan. <ets>iisblink</ets>]</ety>, <cd>a streak of whiteness of the horizon, caused by the reflection of light from ice not yet in sight.</cd> -- <col><b>Ice boat</b></col>. <sd>(a)</sd> <cd>A boat fitted with skates or runners, and propelled on ice by sails; an ice yacht.</cd> <sd>(b)</sd> <cd>A strong steamboat for breaking a channel through ice.</cd> -- <mcol><col><b>Ice box</b></col> <it>or</it> <col><b>Ice chest</b></col></mcol>, <cd>a box for holding ice; a box in which things are kept cool by means of ice; a refrigerator.</cd> -- <col><b>Ice brook</b></col>, <cd>a brook or stream as cold as ice.</cd> <mark>[Poetic]</mark> <au>Shak.</au> -- <col><b>Ice cream</b></col> <ety>[for <ets>iced cream</ets>]</ety>, <cd>cream, milk, or custard, sweetened, flavored, and frozen.</cd> -- <col><b>Ice field</b></col>, <cd>an extensive sheet of ice.</cd> -- <mcol><col><b>Ice float</b></col>, <col><b>Ice floe</b></col></mcol>, <cd>a sheet of floating ice similar to an ice field, but smaller.</cd> -- <col><b>Ice foot</b></col>, <cd>shore ice in Arctic regions; an ice belt.</cd> <au>Kane.</au> -- <col><b>Ice house</b></col>, <cd>a close-covered pit or building for storing ice.</cd> -- <col><b>Ice machine</b></col> <fld>(Physics)</fld>, <cd>a machine for making ice artificially, as by the production of a low temperature through the sudden expansion of a gas or vapor, or the rapid evaporation of a volatile liquid.</cd> -- <col><b>Ice master</b></col>. <cd>See <cref>Ice pilot</cref> (below).</cd> -- <col><b>Ice pack</b></col>, <cd>an irregular mass of broken and drifting ice.</cd> -- <col><b>Ice paper</b></col>, <cd>a transparent film of gelatin for copying or reproducing; <altname>papier glac<eacute/</altname>.</cd> -- <col><b>Ice petrel</b></col> <fld>(Zool.)</fld>, <cd>a shearwater (<spn>Puffinus gelidus</spn>) of the Antarctic seas, abundant among floating ice.</cd> -- <col><b>Ice pick</b></col>, <cd>a sharp instrument for breaking ice into small pieces.</cd> -- <col><b>Ice pilot</b></col>, <cd>a pilot who has charge of a vessel where the course is obstructed by ice, as in polar seas; -- called also <altname>ice master</altname>.</cd> -- <col><b>Ice pitcher</b></col>, <cd>a pitcher adapted for ice water.</cd> -- <col><b>Ice plow</b></col>, <cd>a large tool for grooving and cutting ice.</cd> <-- <col><b>ice sculpture</b></col> = a sculpture carved from a block of ice, often used for decorating restaurants. <col><b>ice show</b></col> an entertainment consisting of ice skaters performing figure-skating on a sheet of ice, usually in an arena, often accompanied by music. --> -- <col><b>Ice sludge</b></col>, <cd>bay ice broken small by the wind or waves; sludge.</cd> -- <col><b>Ice spar</b></col> <fld>(Min.)</fld>, <cd>a variety of feldspar, the crystals of which are very clear like ice; rhyacolite.</cd> -- <col><b>Ice tongs</b></col>, <cd>large iron nippers for handling ice.</cd> -- <col><b>Ice water</b></col>. <sd>(a)</sd> <cd>Water cooled by ice.</cd> <sd>(b)</sd> <cd>Water formed by the melting of ice.</cd> -- <col><b>Ice yacht</b></col>. <cd>See <cref>Ice boat</cref> (above).</cd> -- <col><b>To break the ice</b></col>. <cd>See under <er>Break</er>.</cd> -- <col><b>Water ice</b></col>, <cd>a confection consisting of water sweetened, flavored (usually with a fruit syrup), and frozen.<-- also called Italian ice? --></cd></cs><br/
+<p><cs><col>Anchor ice</col>, <cd>ice which sometimes forms about stones and other objects at the bottom of running or other water, and is thus attached or <xex>anchored</xex> to the ground.</cd> -- <col>Bay ice</col>, <cd>ice formed in bays, fiords, etc., often in extensive fields which drift out to sea.</cd> -- <col>Ground ice</col>, <cd>anchor ice.</cd> -- <col>Ice age</col> <fld>(Geol.)</fld>, <cd>the glacial epoch or period. See under <er>Glacial</er>.</cd> -- <col>Ice anchor</col> <fld>(Naut.)</fld>, <cd>a grapnel for mooring a vessel to a field of ice.</cd> <au>Kane.</au> -- <col>Ice blink</col> <ety>[Dan. <ets>iisblink</ets>]</ety>, <cd>a streak of whiteness of the horizon, caused by the reflection of light from ice not yet in sight.</cd> -- <col>Ice boat</col>. <sd>(a)</sd> <cd>A boat fitted with skates or runners, and propelled on ice by sails; an ice yacht.</cd> <sd>(b)</sd> <cd>A strong steamboat for breaking a channel through ice.</cd> -- <mcol><col>Ice box</col> <it>or</it> <col>Ice chest</col></mcol>, <cd>a box for holding ice; a box in which things are kept cool by means of ice; a refrigerator.</cd> -- <col>Ice brook</col>, <cd>a brook or stream as cold as ice.</cd> <mark>[Poetic]</mark> <au>Shak.</au> -- <col>Ice cream</col> <ety>[for <ets>iced cream</ets>]</ety>, <cd>cream, milk, or custard, sweetened, flavored, and frozen.</cd> -- <col>Ice field</col>, <cd>an extensive sheet of ice.</cd> -- <mcol><col>Ice float</col>, <col>Ice floe</col></mcol>, <cd>a sheet of floating ice similar to an ice field, but smaller.</cd> -- <col>Ice foot</col>, <cd>shore ice in Arctic regions; an ice belt.</cd> <au>Kane.</au> -- <col>Ice house</col>, <cd>a close-covered pit or building for storing ice.</cd> -- <col>Ice machine</col> <fld>(Physics)</fld>, <cd>a machine for making ice artificially, as by the production of a low temperature through the sudden expansion of a gas or vapor, or the rapid evaporation of a volatile liquid.</cd> -- <col>Ice master</col>. <cd>See <cref>Ice pilot</cref> (below).</cd> -- <col>Ice pack</col>, <cd>an irregular mass of broken and drifting ice.</cd> -- <col>Ice paper</col>, <cd>a transparent film of gelatin for copying or reproducing; <altname>papier glac<eacute/</altname>.</cd> -- <col>Ice petrel</col> <fld>(Zool.)</fld>, <cd>a shearwater (<spn>Puffinus gelidus</spn>) of the Antarctic seas, abundant among floating ice.</cd> -- <col>Ice pick</col>, <cd>a sharp instrument for breaking ice into small pieces.</cd> -- <col>Ice pilot</col>, <cd>a pilot who has charge of a vessel where the course is obstructed by ice, as in polar seas; -- called also <altname>ice master</altname>.</cd> -- <col>Ice pitcher</col>, <cd>a pitcher adapted for ice water.</cd> -- <col>Ice plow</col>, <cd>a large tool for grooving and cutting ice.</cd> <-- <col><b>ice sculpture</b></col> = a sculpture carved from a block of ice, often used for decorating restaurants. <col><b>ice show</b></col> an entertainment consisting of ice skaters performing figure-skating on a sheet of ice, usually in an arena, often accompanied by music. --> -- <col>Ice sludge</col>, <cd>bay ice broken small by the wind or waves; sludge.</cd> -- <col>Ice spar</col> <fld>(Min.)</fld>, <cd>a variety of feldspar, the crystals of which are very clear like ice; rhyacolite.</cd> -- <col>Ice tongs</col>, <cd>large iron nippers for handling ice.</cd> -- <col>Ice water</col>. <sd>(a)</sd> <cd>Water cooled by ice.</cd> <sd>(b)</sd> <cd>Water formed by the melting of ice.</cd> -- <col>Ice yacht</col>. <cd>See <cref>Ice boat</cref> (above).</cd> -- <col>To break the ice</col>. <cd>See under <er>Break</er>.</cd> -- <col>Water ice</col>, <cd>a confection consisting of water sweetened, flavored (usually with a fruit syrup), and frozen.<-- also called Italian ice? --></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ice</ent><br/
@@ -311,7 +311,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 <p><sn>3.</sn> <fld>(Cookery)</fld> <def>Covered with something resembling ice, as sugar icing; frosted; <as>as, <ex>iced</ex> cake</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iced cream</b></col>. <cd>Same as <cref>Ice cream</cref>, under <er>Ice</er>.</cd></cs><br/
+<p><cs><col>Iced cream</col>. <cd>Same as <cref>Ice cream</cref>, under <er>Ice</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Icefall</ent><br/
@@ -386,7 +386,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 <p><note><hand/ The female deposits her eggs upon, or in, the bodies of other insects, such as caterpillars, plant lice, etc. The larva lives upon the internal tissues of the insect in which it is parasitic, and finally kills it. Hence, many of the species are beneficial to agriculture by destroying noxious insects.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ichneumon fly</b></col>. <cd>See <er>Ichneumon</er>, <snr>2</snr>.</cd></cs><br/
+<p><cs><col>Ichneumon fly</col>. <cd>See <er>Ichneumon</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ichneumonidan</ent><br/
@@ -710,7 +710,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn> <def>The study of representative art in general.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Christian iconography</b></col>, <cd>the study of the representations in art of the Deity, the persons of the Trinity, angels, saints, virtues, vices, etc.</cd></cs><br/
+<p><cs><col>Christian iconography</col>, <cd>the study of the representations in art of the Deity, the persons of the Trinity, angels, saints, virtues, vices, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iconolater</ent><br/
@@ -749,7 +749,7 @@ Dead perfection, no more.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>I`co*sa*he"dron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <?/ twenty + <?/ seat, base, fr. <?/ to sit.]</ety> <fld>(Geom.)</fld> <def>A solid bounded by twenty sides or faces.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Regular icosahedron</b></col>, <cd>one of the five regular polyhedrons, bounded by twenty equilateral triangules. Five triangles meet to form each solid angle of the polyhedron.</cd></cs><br/
+<p><cs><col>Regular icosahedron</col>, <cd>one of the five regular polyhedrons, bounded by twenty equilateral triangules. Five triangles meet to form each solid angle of the polyhedron.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Icosandria</ent><br/
@@ -947,7 +947,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ <ldquo/In England, Locke may be said to have been the first who naturalized the term in its Cartesian universality. When, in common language, employed by Milton and Dryden, after Descartes, as before him by Sidney, Spenser, Shakespeare, Hooker, etc., the meaning is Platonic.<rdquo/</note>  <rj><au>Sir W. Hamilton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Abstract idea</b></col>, <col><b>Association of ideas</b></col></mcol>, <cd>etc. See under <er>Abstract</er>, <er>Association</er>, etc.</cd></cs></p>
+<p><cs><mcol><col>Abstract idea</col>, <col>Association of ideas</col></mcol>, <cd>etc. See under <er>Abstract</er>, <er>Association</er>, etc.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Notion; conception; thought; sentiment; fancy; image; perception; impression; opinion; belief; observation; judgment; consideration; view; design; intention; purpose; plan; model; pattern.</syn> -- <usage>There is scarcely any other word which is subjected to such abusive treatment as is the word <xex>idea</xex>, in the very general and indiscriminative way in which it is employed, as it is used variously to signify almost any act, state, or content of thought.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -980,7 +980,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The <qex>ideal</qex> is to be attained by selecting and assembling in one whole the beauties and perfections which are usually seen in different individuals, excluding everything defective or unseemly, so as to form a type or model of the species. Thus, the Apollo Belvedere is the <qex>ideal</qex> of the beauty and proportion of the human frame.</q> <rj><qau>Fleming.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Beau ideal</b></col>. <cd>See <er>Beau ideal</er>.</cd></cs><br/
+<p><cs><col>Beau ideal</col>. <cd>See <er>Beau ideal</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Idealess</ent><br/
@@ -1128,7 +1128,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>When you say body is solid, I say that you make an <qex>identical</qex> proposition, because it is impossible to have the idea of body without that of solidity.</q> <rj><qau>Fleming.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Identical equation</b></col> <fld>(Alg.)</fld>, <cd>an equation which is true for all values of the algebraic symbols which enter into it.</cd></cs><br/
+<p><cs><col>Identical equation</col> <fld>(Alg.)</fld>, <cd>an equation which is true for all values of the algebraic symbols which enter into it.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Identical</ent><br/
@@ -1576,7 +1576,7 @@ Signifying nothing.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <def>Light-headed; foolish.</def> <mark>[Obs.]</mark>  <rj><au>Ford.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Idle pulley</b></col> <fld>(Mach.)</fld>, <cd>a pulley that rests upon a belt to tighten it; a pulley that only guides a belt and is not used to transmit power.</cd> -- <col><b>Idle wheel</b></col> <fld>(Mach.)</fld>, <cd>a gear wheel placed between two others, to transfer motion from one to the other without changing the direction of revolution.</cd> -- <col><b>In idle</b></col>, <cd>in vain.</cd> <mark>[Obs.]</mark> <ldquo/God saith, thou shalt not take the name of thy Lord God <xex>in idle</xex>.<rdquo/  <rj><au>Chaucer.</au></rj></cs></p>
+<p><cs><col>Idle pulley</col> <fld>(Mach.)</fld>, <cd>a pulley that rests upon a belt to tighten it; a pulley that only guides a belt and is not used to transmit power.</cd> -- <col>Idle wheel</col> <fld>(Mach.)</fld>, <cd>a gear wheel placed between two others, to transfer motion from one to the other without changing the direction of revolution.</cd> -- <col>In idle</col>, <cd>in vain.</cd> <mark>[Obs.]</mark> <ldquo/God saith, thou shalt not take the name of thy Lord God <xex>in idle</xex>.<rdquo/  <rj><au>Chaucer.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Unoccupied; unemployed; vacant; inactive; indolent; sluggish; slothful; useless; ineffectual; futile; frivolous; vain; trifling; unprofitable; unimportant.</syn> <usage> -- <er>Idle</er>, <er>Indolent</er>, <er>Lazy</er>. A propensity to inaction is expressed by each of these words; they differ in the cause and degree of this characteristic. <xex>Indolent</xex> denotes an habitual love to ease, a settled dislike of movement or effort; <xex>idle</xex> is opposed to <contr>busy</contr>, and denotes a dislike of <xex>continuous</xex> exertion. <xex>Lazy</xex> is a stronger and more contemptuous term than <xex>indolent</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -1821,7 +1821,7 @@ Assist, <qex>if</qex> <OE/dipus deserve thy care.</q> <rj><qau>Pope.</qau></rj><
 <p><q>She doubts <qex>if</qex> two and two make four.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>As if</b></col>, <col><b>But if</b></col></mcol>. <cd>See under <er>As</er>, <er>But</er>.</cd></cs><br/
+<p><cs><mcol><col>As if</col>, <col>But if</col></mcol>. <cd>See under <er>As</er>, <er>But</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>I' faith</ent><br/
@@ -2068,7 +2068,7 @@ Knowledge the wing wherewith we fly to heaven.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Theol.)</fld> <def>A willful neglect or refusal to acquire knowledge which one may acquire and it is his duty to have.</def>  <rj><au>Book of Common Prayer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Invincible ignorance</b></col> <fld>(Theol.)</fld>, <cd>ignorance beyond the individual's control and for which, therefore, he is not responsible before God.</cd></cs><br/
+<p><cs><col>Invincible ignorance</col> <fld>(Theol.)</fld>, <cd>ignorance beyond the individual's control and for which, therefore, he is not responsible before God.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ignorant</ent><br/
@@ -2256,7 +2256,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>2.</sn> <def>See <er>Iliac</er>, <snr>1</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ileac passion</b></col>. <fld>(Med.)</fld> <cd>See <er>Ileus</er>.</cd></cs><br/
+<p><cs><col>Ileac passion</col>. <fld>(Med.)</fld> <cd>See <er>Ileus</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ileocaecal</ent><br/
@@ -2300,7 +2300,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>2.</sn> <def>See <er>Ileac</er>, <snr>1</snr>.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iliac crest</b></col>, <cd>the upper margin of the ilium.</cd> -- <col><b>Iliac passion</b></col>. <cd>See <er>Ileus</er>.</cd> -- <col><b>Iliac region</b></col>, <cd>a region of the abdomen, on either side of the hypogastric regions, and below the lumbar regions.</cd></cs><br/
+<p><cs><col>Iliac crest</col>, <cd>the upper margin of the ilium.</cd> -- <col>Iliac passion</col>. <cd>See <er>Ileus</er>.</cd> -- <col>Iliac region</col>, <cd>a region of the abdomen, on either side of the hypogastric regions, and below the lumbar regions.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iliacal</ent><br/
@@ -2360,7 +2360,7 @@ And seeing things before, behind.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <hw>Ilk</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Scot. <ets>ilk</ets>, OE. <ets>ilke</ets> the same, AS. <ets>ilca</ets>.  Cf. <er>Each</er>.]</ety> <def>Same; each; every.</def> <mark>[Archaic]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Of that ilk</b></col>, <sd>(a)</sd> <cd>denoting that a person's surname and the title of his estate are the same; as, <xex>Grant of that ilk</xex>, i.e., <xex>Grant of Grant</xex>.</cd> <mark>[Scottish]</mark>   <rj><au>Jamieson.</au></rj>  <sd>(a)</sd>  <cd>Of the same kind.</cd></cs><br/
+<p><cs><col>Of that ilk</col>, <sd>(a)</sd> <cd>denoting that a person's surname and the title of his estate are the same; as, <xex>Grant of that ilk</xex>, i.e., <xex>Grant of Grant</xex>.</cd> <mark>[Scottish]</mark>   <rj><au>Jamieson.</au></rj>  <sd>(a)</sd>  <cd>Of the same kind.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ilk</ent><br/
@@ -2405,7 +2405,7 @@ The clergy <qex>ill</qex> example.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>That 's an <qex>ill</qex> phrase.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ill at ease</b></col>, <cd>uneasy; uncomfortable; anxious.</cd> <ldquo/I am very <xex>ill at ease</xex>.<rdquo/ <au>Shak.</au> -- <col><b>Ill blood</b></col>, <cd>enmity; resentment; bad blood.</cd> -- <col><b>Ill breeding</b></col>, <cd>lack of good breeding; rudeness.</cd> -- <col><b>Ill fame</b></col>, <cd>ill or bad repute; <as>as, a house of <ex>ill fame</ex>, a house where lewd persons meet for illicit intercourse</as>.</cd> -- <col><b>Ill humor</b></col>, <cd>a disagreeable mood; bad temper.</cd> -- <col><b>Ill nature</b></col>, <cd>bad disposition or temperament; sullenness; esp., a disposition to cause unhappiness to others.</cd> -- <col><b>Ill temper</b></col>, <cd>anger; moroseness; crossness.</cd> -- <mcol><col><b>Ill turn</b></col>. <sd>(a)</sd> <cd>An unkind act.</cd> <sd>(b)</sd> <cd>A slight attack of illness</cd>. <mark>[Colloq. U.S.]</mark> -- <col><b>Ill will</b></col></mcol>, <cd>unkindness; enmity; malevolence.</cd></cs></p>
+<p><cs><col>Ill at ease</col>, <cd>uneasy; uncomfortable; anxious.</cd> <ldquo/I am very <xex>ill at ease</xex>.<rdquo/ <au>Shak.</au> -- <col>Ill blood</col>, <cd>enmity; resentment; bad blood.</cd> -- <col>Ill breeding</col>, <cd>lack of good breeding; rudeness.</cd> -- <col>Ill fame</col>, <cd>ill or bad repute; <as>as, a house of <ex>ill fame</ex>, a house where lewd persons meet for illicit intercourse</as>.</cd> -- <col>Ill humor</col>, <cd>a disagreeable mood; bad temper.</cd> -- <col>Ill nature</col>, <cd>bad disposition or temperament; sullenness; esp., a disposition to cause unhappiness to others.</cd> -- <col>Ill temper</col>, <cd>anger; moroseness; crossness.</cd> -- <mcol><col>Ill turn</col>. <sd>(a)</sd> <cd>An unkind act.</cd> <sd>(b)</sd> <cd>A slight attack of illness</cd>. <mark>[Colloq. U.S.]</mark> -- <col>Ill will</col></mcol>, <cd>unkindness; enmity; malevolence.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Bad; evil; wrong; wicked; sick; unwell.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -2515,7 +2515,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <hw>Il"la*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>illativus</ets>: cf. F. <ets>illatif</ets>.]</ety> <def>Relating to, dependent on, or denoting, illation; inferential; conclusive; <as>as, an <ex>illative</ex> consequence or proposition; an <ex>illative</ex> word, as <xex>then</xex>, <xex>therefore</xex>, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Illative conversion</b></col> <fld>(Logic)</fld>, <cd>a converse or reverse statement of a proposition which in that form must be true because the original proposition is true.</cd> -- <col><b>Illative sense</b></col> <fld>(Metaph.)</fld>, <cd>the faculty of the mind by which it apprehends the conditions and determines upon the correctness of inferences.</cd></cs><br/
+<p><cs><col>Illative conversion</col> <fld>(Logic)</fld>, <cd>a converse or reverse statement of a proposition which in that form must be true because the original proposition is true.</cd> -- <col>Illative sense</col> <fld>(Metaph.)</fld>, <cd>the faculty of the mind by which it apprehends the conditions and determines upon the correctness of inferences.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illative</ent><br/
@@ -2593,7 +2593,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <p><sn>4.</sn> <def>Not authorized by good usage; not genuine; spurious; <as>as, an <ex>illegitimate</ex> word</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Illegitimate fertilization</b></col>, <it>or</it> <col><b>Illegitimate union</b></col></mcol> <fld>(Bot.)</fld>, <cd>the fertilization of pistils by stamens not of their own length, in heterogonously dimorphic and trimorphic flowers.</cd>  <rj><au>Darwin.</au></rj></cs><br/
+<p><cs><mcol><col>Illegitimate fertilization</col>, <it>or</it> <col>Illegitimate union</col></mcol> <fld>(Bot.)</fld>, <cd>the fertilization of pistils by stamens not of their own length, in heterogonously dimorphic and trimorphic flowers.</cd>  <rj><au>Darwin.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illegitimate</ent><br/
@@ -2878,7 +2878,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <hw>ill repute</hw> <pos>n.</pos> <def>Bad reputation; notoriety.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>house of ill repute</b></col> <cd>A brothel; bordello.</cd></cs><br/
+<p><cs><col>house of ill repute</col> <cd>A brothel; bordello.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>ill-shapen</ent><br/
@@ -3009,7 +3009,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <hw>Il*lu"mi*na`ting</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Giving or producing light; used for illumination.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Illuminating gas</b></col>. <cd>See <er>Gas</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(a)</sdr>.</cd></cs><br/
+<p><cs><col>Illuminating gas</col>. <cd>See <er>Gas</er>, <pos>n.</pos>, <snr>2</snr> <sdr>(a)</sdr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Illumination</ent><br/
@@ -3345,7 +3345,7 @@ Where wealth accumulates and men decay.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Opt.)</fld> <def>The figure or picture of any object formed at the focus of a lens or mirror, by rays of light from the several points of the object symmetrically refracted or reflected to corresponding points in such focus; this may be received on a screen, a photographic plate, or the retina of the eye, and viewed directly by the eye, or with an eyeglass, as in the telescope and microscope; the likeness of an object formed by reflection; <as>as, to see one's <ex>image</ex> in a mirror</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Electrical image</b></col>. <cd>See under <er>Electrical</er>.</cd> -- <col><b>Image breaker</b></col>, <cd>one who destroys images; an iconoclast.</cd> -- <mcol><col><b>Image graver</b></col>, <col><b>Image maker</b></col></mcol>, <cd>a sculptor.</cd> -- <col><b>Image worship</b></col>, <cd>the worship of images as symbols; iconolatry distinguished from idolatry; the worship of images themselves.</cd> -- <col><b>Image Purkinje</b></col> <fld>(Physics)</fld>, <cd>the image of the retinal blood vessels projected in, not merely on, that membrane.</cd> -- <col><b>Virtual image</b></col> <fld>(Optics)</fld>, <cd>a point or system of points, on one side of a mirror or lens, which, if it existed, would emit the system of rays which actually exists on the other side of the mirror or lens.</cd>  <rj><au>Clerk Maxwell.</au></rj></cs><br/
+<p><cs><col>Electrical image</col>. <cd>See under <er>Electrical</er>.</cd> -- <col>Image breaker</col>, <cd>one who destroys images; an iconoclast.</cd> -- <mcol><col>Image graver</col>, <col>Image maker</col></mcol>, <cd>a sculptor.</cd> -- <col>Image worship</col>, <cd>the worship of images as symbols; iconolatry distinguished from idolatry; the worship of images themselves.</cd> -- <col>Image Purkinje</col> <fld>(Physics)</fld>, <cd>the image of the retinal blood vessels projected in, not merely on, that membrane.</cd> -- <col>Virtual image</col> <fld>(Optics)</fld>, <cd>a point or system of points, on one side of a mirror or lens, which, if it existed, would emit the system of rays which actually exists on the other side of the mirror or lens.</cd>  <rj><au>Clerk Maxwell.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Image</ent><br/
@@ -3420,7 +3420,7 @@ Rich carvings, portraitures, and <qex>imagery</qex>.</q> <rj><qau>Dryden.</qau><
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Of or pertaining to an imago.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Imaginal disks</b></col> <fld>(Zool.)</fld>, <cd>masses of hypodermic cells, carried by the larv<ae/ of some insects after leaving the egg, from which masses the wings and legs of the adult are subsequently formed.</cd></cs><br/
+<p><cs><col>Imaginal disks</col> <fld>(Zool.)</fld>, <cd>masses of hypodermic cells, carried by the larv<ae/ of some insects after leaving the egg, from which masses the wings and legs of the adult are subsequently formed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imaginant</ent><br/
@@ -3443,7 +3443,7 @@ Rich carvings, portraitures, and <qex>imagery</qex>.</q> <rj><qau>Dryden.</qau><
 <qex>Imaginary</qex> ills and fancied tortures?</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Imaginary calculus</b></col> <cd>See under <er>Calculus</er>.</cd> -- <mcol><col><b>Imaginary expression</b></col>  <it>or</it> <col><b>Imaginary quantity</b></col></mcol> <fld>(Alg.)</fld>, <cd>an algebraic expression which involves the impossible operation of taking the square root of a negative quantity; as, <mathex><root/-9</mathex>, <mathex>a + b <root/-1</mathex>.</cd> -- <mcol><col><b>Imaginary points</b></col>, <col><b>lines</b></col>, <col><b>surfaces</b></col></mcol>, etc. <fld>(Geom.)</fld>, <cd>points, lines, surfaces, etc., imagined to exist, although by reason of certain changes of a figure they have in fact ceased to have a real existence.</cd></cs></p>
+<p><cs><col>Imaginary calculus</col> <cd>See under <er>Calculus</er>.</cd> -- <mcol><col>Imaginary expression</col>  <it>or</it> <col>Imaginary quantity</col></mcol> <fld>(Alg.)</fld>, <cd>an algebraic expression which involves the impossible operation of taking the square root of a negative quantity; as, <mathex><root/-9</mathex>, <mathex>a + b <root/-1</mathex>.</cd> -- <mcol><col>Imaginary points</col>, <col>lines</col>, <col>surfaces</col></mcol>, etc. <fld>(Geom.)</fld>, <cd>points, lines, surfaces, etc., imagined to exist, although by reason of certain changes of a figure they have in fact ceased to have a real existence.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Ideal; fanciful; chimerical; visionary; fancied; unreal; illusive.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -3978,7 +3978,7 @@ The divine property of her first being.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Im"i*do</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, containing, or combined with, the radical NH, which is called the <xex>imido group</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Imido acid</b></col>, <cd>an organic acid, consisting of one or more acid radicals so united with the imido group that it contains replaceable acid hydrogen, and plays the part of an acid; <as>as, uric acid, succinimide, etc., are <ex>imido acids</ex></as>.</cd></cs><br/
+<p><cs><col>Imido acid</col>, <cd>an organic acid, consisting of one or more acid radicals so united with the imido group that it contains replaceable acid hydrogen, and plays the part of an acid; <as>as, uric acid, succinimide, etc., are <ex>imido acids</ex></as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imitability</ent><br/
@@ -4100,7 +4100,7 @@ One more <qex>immaculate</qex>.</q> <rj><qau>Denham.</qau></rj><br/
 <p><q>Thou sheer, <qex>immaculate</qex> and silver fountain.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Immaculate conception</b></col> <fld>(R. C. Ch.)</fld>, <cd>the doctrine that the Virgin Mary was conceived without original sin.</cd></cs></p>
+<p><cs><col>Immaculate conception</col> <fld>(R. C. Ch.)</fld>, <cd>the doctrine that the Virgin Mary was conceived without original sin.</cd></cs></p>
 
 <p>-- <wordforms><wf>Im*mac"u*late*ly</wf>, <pos>adv.</pos> -- <wf>Im*mac"u*late*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -4324,7 +4324,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The <qex>immediate</qex> knowledge of the past is therefore impossible.</q> <rj><qau>Sir. W. Hamilton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Immediate amputation</b></col> <fld>(Surg.)</fld>, <cd>an amputation performed within the first few hours after an injury, and before the the effects of the shock have passed away.</cd></cs></p>
+<p><cs><col>Immediate amputation</col> <fld>(Surg.)</fld>, <cd>an amputation performed within the first few hours after an injury, and before the the effects of the shock have passed away.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Proximate; close; direct; next.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -4371,7 +4371,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Im`me*mo"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>im-</ets> not + <ets>memorial</ets>: cf. F. <ets>imm<eacute/morial</ets>.]</ety> <def>Extending beyond the reach of memory, record, or tradition; indefinitely ancient; <as>as, existing from time <ex>immemorial</ex></as>.</def> <ldquo/<xex>Immemorial</xex> elms.<rdquo/ <au>Tennyson.</au> <ldquo/<xex>Immemorial</xex> usage or custom.<rdquo/ <au>Sir M. Hale.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Time immemorial</b></col> <fld>(Eng. Law.)</fld>, <cd>a time antedating (legal) history, and beyond <ldquo/legal memory<rdquo/ so called; formerly an indefinite time, but in 1276 this time was fixed by statute as the begining of the reign of Richard I. (1189). Proof of unbroken possession or use of any right since that date made it unnecessary to establish the original grant. In 1832 the plan of dating legal memory from a fixed time was abandoned and the principle substituted that rights which had been enjoyed for full twenty years (or as against the crown thirty years) should not be liable to impeachment merely by proving that they had not been enjoyed before.</cd></cs><br/
+<p><cs><col>Time immemorial</col> <fld>(Eng. Law.)</fld>, <cd>a time antedating (legal) history, and beyond <ldquo/legal memory<rdquo/ so called; formerly an indefinite time, but in 1276 this time was fixed by statute as the begining of the reign of Richard I. (1189). Proof of unbroken possession or use of any right since that date made it unnecessary to establish the original grant. In 1832 the plan of dating legal memory from a fixed time was abandoned and the principle substituted that rights which had been enjoyed for full twenty years (or as against the crown thirty years) should not be liable to impeachment merely by proving that they had not been enjoyed before.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immemorially</ent><br/
@@ -4520,7 +4520,7 @@ By some <qex>immediate</qex> stroke.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Astron.)</fld> <def>The dissapearance of a celestail body, by passing either behind another, as in the occultation of a star, or into its shadow, as in the eclipse of a satellite; -- opposed to <contr>emersion</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Immersion lens</b></col>, <cd>a microscopic objective of short focal distance designed to work with a drop of liquid, as oil, between the front lens and the slide, so that this lens is practically <xex>immersed</xex>.</cd></cs><br/
+<p><cs><col>Immersion lens</col>, <cd>a microscopic objective of short focal distance designed to work with a drop of liquid, as oil, between the front lens and the slide, so that this lens is practically <xex>immersed</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immersionist</ent><br/
@@ -4842,7 +4842,7 @@ That were not born to die.</q> <rj><qau>Halleck.</qau></rj><br/
 <p><sn>4.</sn> <def>Great; excessive; grievous.</def> <mark>[Obs.]</mark>  <rj><au>Hayward.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Immortal flowers</b></col>, <cd>immortelles; everlastings.</cd></cs></p>
+<p><cs><col>Immortal flowers</col>, <cd>immortelles; everlastings.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Eternal; everlasting; never-ending; ceaseless; perpetual; continual; enduring; endless; imperishable; incorruptible; deathless; undying.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -4915,7 +4915,7 @@ That were not born to die.</q> <rj><qau>Halleck.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Law.)</fld> <def>Not liable to be removed; permanent in place or tenure; fixed; <as>as, an <ex>immovable</ex> estate</as>. See <er>Immovable</er>, <pos>n.</pos></def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Immovable apparatus</b></col> <fld>(Med.)</fld>, <cd>an appliance, like the plaster of paris bandage, which keeps fractured parts firmly in place.</cd> -- <col><b>Immovable feasts</b></col> <fld>(Eccl.)</fld>, <cd>feasts which occur on a certain day of the year and do not depend on the date of Easter; as, Christmas, the Epiphany, etc.</cd></cs><br/
+<p><cs><col>Immovable apparatus</col> <fld>(Med.)</fld>, <cd>an appliance, like the plaster of paris bandage, which keeps fractured parts firmly in place.</cd> -- <col>Immovable feasts</col> <fld>(Eccl.)</fld>, <cd>feasts which occur on a certain day of the year and do not depend on the date of Easter; as, Christmas, the Epiphany, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Immovable</ent><br/
@@ -5144,7 +5144,7 @@ With all the scorpions that should whip this age.</q> <rj><qau>Cleveland.</qau><
 <p><sn>2.</sn> <specif>Specifically:</specif> <fld>(Dentistry)</fld> <def>Grown in an abnormal direction so that it is wedged against another tooth and cannot erupt normally; -- of teeth, especially the third molar; <as>as, to extract an <ex>impacted</ex> third molar</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Impacted fracture</b></col> <fld>(Surg.)</fld>, <cd>a fracture in which the fragments are driven into each other so as to be immovable.</cd></cs><br/
+<p><cs><col>Impacted fracture</col> <fld>(Surg.)</fld>, <cd>a fracture in which the fragments are driven into each other so as to be immovable.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impaction</ent><br/
@@ -5697,7 +5697,7 @@ Without <qex>impeachment</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <p><note><hand/ In England, it is the privilege or right of the House of Commons to impeach, and the right of the House of Lords to try and determine impeachments. In the United States, it is the right of the House of Representatives to impeach, and of the Senate to try and determine impeachments.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Articles of impeachment</b></col>. <cd>See under <er>Article</er>.</cd> -- <col><b>Impeachment of waste</b></col> <fld>(Law)</fld>, <cd>restraint from, or accountability for, injury; also, a suit for damages for injury.</cd>  <rj><au>Abbott.</au></rj></cs><br/
+<p><cs><col>Articles of impeachment</col>. <cd>See under <er>Article</er>.</cd> -- <col>Impeachment of waste</col> <fld>(Law)</fld>, <cd>restraint from, or accountability for, injury; also, a suit for damages for injury.</cd>  <rj><au>Abbott.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impearl</ent><br/
@@ -5774,7 +5774,7 @@ The action of the nobler will.</q> <rj><qau>Logfellow.</qau></rj><br/
 Have we marched on without <qex>impediment</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Impediment in speech</b></col>, <cd>a defect which prevents distinct utterance.</cd></cs></p>
+<p><cs><col>Impediment in speech</col>, <cd>a defect which prevents distinct utterance.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Hindrance; obstruction; obstacle; difficulty; incumbrance.</syn> <usage> -- <er>Impediment</er>, <er>Obstacle</er>, <er>Difficulty</er>, <er>Hindrance</er>. An <xex>impediment</xex> literally strikes against our feet, checking our progress, and we remove it. An <xex>obstacle</xex> rises before us in our path, and we surmount or remove it. A <xex>difficulty</xex> sets before us something hard to be done, and we encounter it and overcome it. A <xex>hindrance</xex> holds us back for a time, but we break away from it.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -6089,7 +6089,7 @@ Of all that he created.</q> <rj><qau>Milton.</qau></rj><br/
 Say rather, man's as perfect as he ought.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Imperfect arch</b></col>, <cd>an arch of less than a semicircle; a skew arch.</cd> -- <col><b>Imperfect cadence</b></col> <fld>(Mus.)</fld>, <cd>one not ending with the tonic, but with the dominant or some other chord; one not giving complete rest; a half close.</cd> -- <col><b>Imperfect consonances</b></col> <fld>(Mus.)</fld>, <cd>chords like the third and sixth, whose ratios are less simple than those of the fifth and forth.</cd> -- <col><b>Imperfect flower</b></col> <fld>(Bot.)</fld>, <cd>a flower wanting either stamens or pistils.</cd> <au>Gray.</au> -- <col><b>Imperfect interval</b></col> <fld>(Mus.)</fld>, <cd>one a semitone less than perfect; <as>as, an <ex>imperfect</ex> fifth</as>.</cd> -- <col><b>Imperfect number</b></col> <fld>(Math.)</fld>, <cd>a number either greater or less than the sum of its several divisors; in the former case, it is called also a <stype>defective number</stype>; in the latter, an <stype>abundant number</stype>.</cd> -- <col><b>Imperfect obligations</b></col> <fld>(Law)</fld>, <cd>obligations as of charity or gratitude, which cannot be enforced by law.</cd> -- <col><b>Imperfect power</b></col> <fld>(Math.)</fld>, <cd>a number which can not be produced by taking any whole number or vulgar fraction, as a factor, the number of times indicated by the power; thus, 9 is a perfect square, but an <xex>imperfect</xex> cube.</cd> -- <col><b>Imperfect tense</b></col> <fld>(Gram.)</fld>, <cd>a tense expressing past time and incomplete action.</cd></cs><br/
+<p><cs><col>Imperfect arch</col>, <cd>an arch of less than a semicircle; a skew arch.</cd> -- <col>Imperfect cadence</col> <fld>(Mus.)</fld>, <cd>one not ending with the tonic, but with the dominant or some other chord; one not giving complete rest; a half close.</cd> -- <col>Imperfect consonances</col> <fld>(Mus.)</fld>, <cd>chords like the third and sixth, whose ratios are less simple than those of the fifth and forth.</cd> -- <col>Imperfect flower</col> <fld>(Bot.)</fld>, <cd>a flower wanting either stamens or pistils.</cd> <au>Gray.</au> -- <col>Imperfect interval</col> <fld>(Mus.)</fld>, <cd>one a semitone less than perfect; <as>as, an <ex>imperfect</ex> fifth</as>.</cd> -- <col>Imperfect number</col> <fld>(Math.)</fld>, <cd>a number either greater or less than the sum of its several divisors; in the former case, it is called also a <stype>defective number</stype>; in the latter, an <stype>abundant number</stype>.</cd> -- <col>Imperfect obligations</col> <fld>(Law)</fld>, <cd>obligations as of charity or gratitude, which cannot be enforced by law.</cd> -- <col>Imperfect power</col> <fld>(Math.)</fld>, <cd>a number which can not be produced by taking any whole number or vulgar fraction, as a factor, the number of times indicated by the power; thus, 9 is a perfect square, but an <xex>imperfect</xex> cube.</cd> -- <col>Imperfect tense</col> <fld>(Gram.)</fld>, <cd>a tense expressing past time and incomplete action.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 735 --></p>
@@ -6165,7 +6165,7 @@ These are <qex>imperial</qex> arts, and worthy thee.</q> <rj><qau>Dryden.</qau><
 <p><sn>3.</sn> <def>Of superior or unusual size or excellence; <as>as, <ex>imperial</ex> paper; <ex>imperial</ex> tea, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Imperial bushel</b></col>, <col><b>gallon</b></col></mcol>, <cd>etc. See <er>Bushel</er>, <er>Gallon</er>, etc.</cd> -- <col><b>Imperial chamber</b></col>, <cd>the, the sovereign court of the old German empire.</cd> -- <col><b>Imperial city</b></col>, <cd>under the first German empire, a city having no head but the emperor.</cd> -- <col><b>Imperial diet</b></col>, <cd>an assembly of all the states of the German empire.</cd> -- <col><b>Imperial drill</b></col>. <fld>(Manuf.)</fld> <cd>See under 8th <er>Drill</er>.</cd> -- <col><b>Imperial eagle</b></col>. <fld>(Zool.)</fld> <cd>See <er>Eagle</er>.</cd> -- <col><b>Imperial green</b></col>. <cd>See <cref>Paris green</cref>, under <er>Green</er>.</cd> -- <col><b>Imperial guard</b></col>, <cd>the royal guard instituted by Napoleon I.</cd> -- <col><b>Imperial weights and measures</b></col>, <cd>the standards legalized by the British Parliament.</cd></cs><br/
+<p><cs><mcol><col>Imperial bushel</col>, <col>gallon</col></mcol>, <cd>etc. See <er>Bushel</er>, <er>Gallon</er>, etc.</cd> -- <col>Imperial chamber</col>, <cd>the, the sovereign court of the old German empire.</cd> -- <col>Imperial city</col>, <cd>under the first German empire, a city having no head but the emperor.</cd> -- <col>Imperial diet</col>, <cd>an assembly of all the states of the German empire.</cd> -- <col>Imperial drill</col>. <fld>(Manuf.)</fld> <cd>See under 8th <er>Drill</er>.</cd> -- <col>Imperial eagle</col>. <fld>(Zool.)</fld> <cd>See <er>Eagle</er>.</cd> -- <col>Imperial green</col>. <cd>See <cref>Paris green</cref>, under <er>Green</er>.</cd> -- <col>Imperial guard</col>, <cd>the royal guard instituted by Napoleon I.</cd> -- <col>Imperial weights and measures</col>, <cd>the standards legalized by the British Parliament.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imperial</ent><br/
@@ -6338,7 +6338,7 @@ From princes into pages.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>An almighty but <qex>impersonal</qex> power, called Fate.</q> <rj><qau>Sir J. Stephen.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Impersonal verb</b></col> <fld>(Gram.)</fld>, <cd>a verb used with an indeterminate subject, commonly, in English, with the impersonal pronoun <xex>it</xex>; as, <xex>it rains</xex>; <xex>it snows</xex>; <xex>methinks</xex> (it seems to me). Many verbs which are not strictly impersonal are often used impersonally; as, <xex>it goes</xex> well with him.</cd></cs><br/
+<p><cs><col>Impersonal verb</col> <fld>(Gram.)</fld>, <cd>a verb used with an indeterminate subject, commonly, in English, with the impersonal pronoun <xex>it</xex>; as, <xex>it rains</xex>; <xex>it snows</xex>; <xex>methinks</xex> (it seems to me). Many verbs which are not strictly impersonal are often used impersonally; as, <xex>it goes</xex> well with him.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impersonal</ent><br/
@@ -6898,7 +6898,7 @@ I cling <qex>implicit</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 <p><q>Back again to <qex>implicit</qex> faith I fall.</q> <rj><qau>Donne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Implicit function</b></col>. <fld>(Math.)</fld> <cd>See under <er>Function</er>.</cd></cs><br/
+<p><cs><col>Implicit function</col>. <fld>(Math.)</fld> <cd>See under <er>Function</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Implicitly</ent><br/
@@ -7376,7 +7376,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <hw>Im*pose"</hw>, <pos>v. i.</pos> <def>To practice tricks or deception.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To impose on</b></col> <it>or</it> <col><b>To impose upon</b></col></mcol>, <sd>(a)</sd>  <cd>to pass or put a trick on; to delude; to cheat; to defraud.</cd> <ldquo/He <xex>imposes on</xex> himself, and mistakes words for things.<rdquo/  <rj><au>Locke.</au></rj>  <sd>(b)</sd> <cd>to place an unwelcome burden or obligation on (another person); <as>as, she <ex>imposed on</ex> her friend to drive her daughter to school</as>.</cd>   <sd>(c)</sd> <cd>to take unfair advantage of (a person, a friendship); <as>as, he <ex>imposed on</ex> his friendship with The Mayor to gain business</as>.</cd></cs><br/
+<p><cs><mcol><col>To impose on</col> <it>or</it> <col>To impose upon</col></mcol>, <sd>(a)</sd>  <cd>to pass or put a trick on; to delude; to cheat; to defraud.</cd> <ldquo/He <xex>imposes on</xex> himself, and mistakes words for things.<rdquo/  <rj><au>Locke.</au></rj>  <sd>(b)</sd> <cd>to place an unwelcome burden or obligation on (another person); <as>as, she <ex>imposed on</ex> her friend to drive her daughter to school</as>.</cd>   <sd>(c)</sd> <cd>to take unfair advantage of (a person, a friendship); <as>as, he <ex>imposed on</ex> his friendship with The Mayor to gain business</as>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Impose</ent><br/
@@ -7412,7 +7412,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <hw>Im*pos"ing</hw>, <pos>n.</pos> <fld>(Print.)</fld> <def>The act of imposing the columns of a page, or the pages of a sheet. See <er>Impose</er>, <pos>v. t.</pos>, <snr>4</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Imposing stone</b></col> <fld>(Print.)</fld>, <cd>the stone on which the pages or columns of types are imposed or made into forms; -- called also <altname>imposing table</altname>.</cd></cs><br/
+<p><cs><col>Imposing stone</col> <fld>(Print.)</fld>, <cd>the stone on which the pages or columns of types are imposed or made into forms; -- called also <altname>imposing table</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Imposingly</ent><br/
@@ -7466,7 +7466,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><sn>3.</sn> <def>Inability; helplessness.</def> <mark>[R.]</mark>  <rj><au>Latimer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Logical impossibility</b></col>, <cd>a condition or statement involving contradiction or absurdity; as, that a thing can be and not be at the same time. See <cref>Principle of Contradiction</cref>, under <er>Contradiction</er>.</cd></cs><br/
+<p><cs><col>Logical impossibility</col>, <cd>a condition or statement involving contradiction or absurdity; as, that a thing can be and not be at the same time. See <cref>Principle of Contradiction</cref>, under <er>Contradiction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impossible</ent><br/
@@ -7479,7 +7479,7 @@ Within a wicker basket.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><q>Without faith it is <qex>impossible</qex> to please him.</q> <rj><qau>Heb. xi. 6.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Impossible quantity</b></col> <fld>(Math.)</fld>, <cd>an imaginary quantity. See <er>Imaginary</er>.</cd></cs></p>
+<p><cs><col>Impossible quantity</col> <fld>(Math.)</fld>, <cd>an imaginary quantity. See <er>Imaginary</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- See <er>Impracticable</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7960,7 +7960,7 @@ Trenched in ice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Why such <qex>impress</qex> of shipwrights?</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Impress gang</b></col>, <cd>a party of men, with an officer, employed to impress seamen for ships of war; a <altname>press gang</altname>.</cd> -- <col><b>Impress money</b></col>, <cd>a sum of money paid, immediately upon their entering service, to men who have been impressed.</cd></cs><br/
+<p><cs><col>Impress gang</col>, <cd>a party of men, with an officer, employed to impress seamen for ships of war; a <altname>press gang</altname>.</cd> -- <col>Impress money</col>, <cd>a sum of money paid, immediately upon their entering service, to men who have been impressed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>impressed</ent><br/
@@ -8032,7 +8032,7 @@ That I might see her married.</q> <rj><qau>Ford.</qau></rj><br/
 <p><sn>9.</sn> <fld>(Engraving)</fld> <def>A print on paper from a wood block, metal plate, or the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Proof impression</b></col>, <cd>one of the early impressions taken from an engraving, before the plate or block is worn.</cd></cs><br/
+<p><cs><col>Proof impression</col>, <cd>one of the early impressions taken from an engraving, before the plate or block is worn.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Impressionability</ent><br/
@@ -8205,7 +8205,7 @@ Through long <qex>imprisonment</qex> and hard constraint.</q> <rj><qau>Spenser.<
 <p><q>Every confinement of the person is an <qex>imprisonment</qex>, whether it be in a common prison, or in a private house, or even by foreibly detaining one in the public streets.</q> <rj><qau>Blackstone.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>False imprisonment</b></col>. <fld>(Law)</fld> <cd>See under <er>False</er>.</cd></cs></p>
+<p><cs><col>False imprisonment</col>. <fld>(Law)</fld> <cd>See under <er>False</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Incarceration; custody; confinement; durance; restraint.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -8301,7 +8301,7 @@ Ascribe all Good; to their <qex>improper</qex>, Ill.</q> <rj><qau>Pope.</qau></r
 <p><sn>3.</sn> <def>Not according to facts; inaccurate; erroneous.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Improper diphthong</b></col>. <cd>See under <er>Diphthong</er>.</cd> -- <col><b>Improper feud</b></col>, <cd>an original feud, not earned by military service.</cd> <au>Mozley & W.</au> -- <col><b>Improper fraction</b></col>. <cd>See under <er>Fraction</er>.</cd></cs><br/
+<p><cs><col>Improper diphthong</col>. <cd>See under <er>Diphthong</er>.</cd> -- <col>Improper feud</col>, <cd>an original feud, not earned by military service.</cd> <au>Mozley & W.</au> -- <col>Improper fraction</col>. <cd>See under <er>Fraction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improper</ent><br/
@@ -8481,7 +8481,7 @@ Ascribe all Good; to their <qex>improper</qex>, Ill.</q> <rj><qau>Pope.</qau></r
 <p><sn>3.</sn> <def>To increase; to be enhanced; to rise in value; <as>as, the price of cotton <ex>improves</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To improve on</b></col> <it>or</it> <col><b>To improve upon</b></col></mcol>, <cd>to make useful additions or amendments to, or changes in; to bring nearer to perfection; <as>as, <ex>to improve on</ex> the mode of tillage</as>.</cd></cs><br/
+<p><cs><mcol><col>To improve on</col> <it>or</it> <col>To improve upon</col></mcol>, <cd>to make useful additions or amendments to, or changes in; to bring nearer to perfection; <as>as, <ex>to improve on</ex> the mode of tillage</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>improved</ent><br/
@@ -8569,7 +8569,7 @@ This sudden mischief never could have fallen.</q> <rj><qau>Shak.</qau></rj></p>
 <hw>Im*prov"ing</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to improve, beneficial; growing better.</def> -- <wordforms><wf>Im*prov"ing*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Improving lease</b></col> <fld>(Scots Law)</fld>, <cd>an extended lease to induce the tenant to make improvements on the premises.</cd></cs><br/
+<p><cs><col>Improving lease</col> <fld>(Scots Law)</fld>, <cd>an extended lease to induce the tenant to make improvements on the premises.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Improvisate</ent><br/
@@ -9107,7 +9107,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>7.</sn> <def>With reference to a limit of time; <as>as, <ex>in</ex> an hour; it happened <ex>in</ex> the last century; <ex>in</ex> all my life.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>In as much as</b></col>, <it>or</it> <col><b>Inasmuch as</b></col></mcol>, <cd>in the degree that; in like manner as; in consideration that; because that; since. See <er>Synonym</er> of <er>Because</er>, and cf. <cref>For as much as</cref>, under <er>For</er>, <pos>prep.</pos></cd> -- <col><b>In that</b></col>, <cd>because; for the reason that.</cd> <ldquo/Some things they do <xex>in that</xex> they are men . . . ; some things <xex>in that</xex> they are men misled and blinded with error.<rdquo/ <au>Hooker.</au> -- <col><b>In the name of</b></col>, <cd>in behalf of; on the part of; by authority; as, it was done <xex>in the name of</xex> the people; -- often used in invocation, swearing, praying, and the like.</cd> -- <col><b>To be in for it</b></col>. <sd>(a)</sd> <cd>To be in favor of a thing; to be committed to a course.</cd> <sd>(b)</sd> <cd>To be unable to escape from a danger, penalty, etc.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To be in with</b></col> <it>or</it> <col><b>To keep in with</b></col></mcol>. <sd>(a)</sd> <cd>To be close or near; <as>as, to <ex>keep</ex> a ship <ex>in with</ex> the land</as>.</cd> <sd>(b)</sd> <cd>To be on terms of friendship, familiarity, or intimacy with; to secure and retain the favor of.</cd> <mark>[Colloq.]</mark></cs></p>
+<p><cs><mcol><col>In as much as</col>, <it>or</it> <col>Inasmuch as</col></mcol>, <cd>in the degree that; in like manner as; in consideration that; because that; since. See <er>Synonym</er> of <er>Because</er>, and cf. <cref>For as much as</cref>, under <er>For</er>, <pos>prep.</pos></cd> -- <col>In that</col>, <cd>because; for the reason that.</cd> <ldquo/Some things they do <xex>in that</xex> they are men . . . ; some things <xex>in that</xex> they are men misled and blinded with error.<rdquo/ <au>Hooker.</au> -- <col>In the name of</col>, <cd>in behalf of; on the part of; by authority; as, it was done <xex>in the name of</xex> the people; -- often used in invocation, swearing, praying, and the like.</cd> -- <col>To be in for it</col>. <sd>(a)</sd> <cd>To be in favor of a thing; to be committed to a course.</cd> <sd>(b)</sd> <cd>To be unable to escape from a danger, penalty, etc.</cd> <mark>[Colloq.]</mark> -- <mcol><col>To be in with</col> <it>or</it> <col>To keep in with</col></mcol>. <sd>(a)</sd> <cd>To be close or near; <as>as, to <ex>keep</ex> a ship <ex>in with</ex> the land</as>.</cd> <sd>(b)</sd> <cd>To be on terms of friendship, familiarity, or intimacy with; to secure and retain the favor of.</cd> <mark>[Colloq.]</mark></cs></p>
 
 <p><syn><b>Syn.</b> -- Into; within; on; at. See <er>At</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -9127,7 +9127,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>2.</sn> <fld>(Law)</fld> <def>With privilege or possession; -- used to denote a holding, possession, or seisin; <as>as, <ex>in</ex> by descent; <ex>in</ex> by purchase; <ex>in</ex> of the seisin of her husband.</as></def>  <rj><au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In and in breeding</b></col>. <cd>See under <er>Breeding</er>.</cd> -- <col><b>In and out</b></col> <fld>(Naut.)</fld>, <cd>through and through; -- said of a through bolt in a ship's side.</cd> <au>Knight.</au> -- <col><b>To be in</b></col>, <cd>to be at home; <as>as, Mrs. A. <ex>is in</ex></as>.</cd> -- <col><b>To come in</b></col>. <cd>See under <er>Come</er>.</cd></cs><br/
+<p><cs><col>In and in breeding</col>. <cd>See under <er>Breeding</er>.</cd> -- <col>In and out</col> <fld>(Naut.)</fld>, <cd>through and through; -- said of a through bolt in a ship's side.</cd> <au>Knight.</au> -- <col>To be in</col>, <cd>to be at home; <as>as, Mrs. A. <ex>is in</ex></as>.</cd> -- <col>To come in</col>. <cd>See under <er>Come</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In</ent><br/
@@ -9137,7 +9137,7 @@ Their own, both righteous and unrighteous deeds.</q> <rj><qau>Milton.</qau></rj>
 <p><sn>2.</sn> <def>A re<eum/ntrant angle; a nook or corner.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ins and outs</b></col>, <sd>(a)</sd> <cd>nooks and corners; twists and turns.</cd> <sd>(b)</sd> <cd>the peculiarities or technicalities (of a subject); intricacies; details; -- used with <ptcl>of</ptcl>; <as>as, he knew the <ex>ins and outs</ex> of the Washington power scene</as>.</cd></cs><br/
+<p><cs><col>Ins and outs</col>, <sd>(a)</sd> <cd>nooks and corners; twists and turns.</cd> <sd>(b)</sd> <cd>the peculiarities or technicalities (of a subject); intricacies; details; -- used with <ptcl>of</ptcl>; <as>as, he knew the <ex>ins and outs</ex> of the Washington power scene</as>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><q>All the <qex>ins and outs</qex> of this neighborhood.</q> <rj><qau>D. Jerrold.</qau></rj><br/
@@ -9903,7 +9903,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 <hw>In"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <sd>(a)</sd> <def>An emperor or monarch of Peru before, or at the time of, the Spanish conquest; any member of this royal dynasty, reputed to have been descendants of the sun.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>The people governed by the Incas, now represented by the Quichua tribe.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inca dove</b></col> <fld>(Zool.)</fld>, <cd>a small dove (<spn>Scardafella inca</spn>), native of Arizona, Lower California, and Mexico.</cd></cs><br/
+<p><cs><col>Inca dove</col> <fld>(Zool.)</fld>, <cd>a small dove (<spn>Scardafella inca</spn>), native of Arizona, Lower California, and Mexico.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incage</ent><br/
@@ -9953,7 +9953,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 <p><q>Holy Scripture become resplendent; or, as one might say, <qex>incandescent</qex> throughout.</q> <rj><qau>I. Taylor.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Incandescent lamp</b></col>, <col><b>Incandescent light</b></col>, <col><b>Incandescent light bulb</b></col></mcol> <fld>(Elec.)</fld>, <cd>a kind of lamp in which the light is produced by a thin filament of conducting material, now usually tungsten, but originally carbon, contained in a vacuum or an atmosphere of inert gas within a glass bulb, and heated to incandescence by an electric current. It was inventerd by Thomas Edison, and was once called the <altname>Edison lamp</altname>; -- called also <altname>incandescence lamp</altname>, and <altname>glowlamp</altname>.  This is one of the two most common sources of electric light, the other being the <contr>fluorescent light</contr>, <contr>fluorescent lamp</contr> or <contr>fluorescent bulb</contr>.</cd></cs><br/
+<p><cs><mcol><col>Incandescent lamp</col>, <col>Incandescent light</col>, <col>Incandescent light bulb</col></mcol> <fld>(Elec.)</fld>, <cd>a kind of lamp in which the light is produced by a thin filament of conducting material, now usually tungsten, but originally carbon, contained in a vacuum or an atmosphere of inert gas within a glass bulb, and heated to incandescence by an electric current. It was inventerd by Thomas Edison, and was once called the <altname>Edison lamp</altname>; -- called also <altname>incandescence lamp</altname>, and <altname>glowlamp</altname>.  This is one of the two most common sources of electric light, the other being the <contr>fluorescent light</contr>, <contr>fluorescent lamp</contr> or <contr>fluorescent bulb</contr>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Incanescent</ent><br/
@@ -10091,7 +10091,7 @@ But old, the mind <qex>inattention</qex> hears.</q> <rj><qau>Pope.</qau></rj></p
 <p><sn>2.</sn> <def>To confine; to shut up or inclose; to hem in.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incarcerated hernia</b></col> <fld>(Med.)</fld>, <cd>hernia in which the constriction can not be easily reduced.</cd></cs><br/
+<p><cs><col>Incarcerated hernia</col> <fld>(Med.)</fld>, <cd>hernia in which the constriction can not be easily reduced.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>incarcerated</ent><br/
@@ -10315,7 +10315,7 @@ On fire with faithless embers overspread.</q> <rj><qau>Francis.</qau></rj><br/
 <p><sn>2.</sn> <def>Tending to excite or inflame factions, sedition, or quarrel; inflammatory; seditious.</def>  <rj><au>Paley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incendiary device</b></col>, <cd>a device designed to set a structure on fire; a firebomb.</cd> -- <col><b>Incendiary shell</b></col>, <cd>a bombshell. See <er>Carcass</er>, <snr>4</snr>.</cd></cs><br/
+<p><cs><col>Incendiary device</col>, <cd>a device designed to set a structure on fire; a firebomb.</cd> -- <col>Incendiary shell</col>, <cd>a bombshell. See <er>Carcass</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incendious</ent><br/
@@ -10382,7 +10382,7 @@ Thy glorious heap of funeral.</q> <rj><qau>Chapman.</qau></rj><br/
 With <qex>incense</qex> kindled at the Muse's flame.</q>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incense tree</b></col>, <cd>the name of several balsamic trees of the genus <gen>Bursera</gen> (or <gen>Icica</gen>) mostly tropical American. The gum resin is used for incense. In Jamaica the <spn>Chrysobalanus Icaco</spn>, a tree related to the plums, is called <ex>incense tree</ex>.</cd> -- <col><b>Incense wood</b></col>, <cd>the fragrant wood of the tropical American tree <spn>Bursera heptaphylla</spn>.</cd></cs><br/
+<p><cs><col>Incense tree</col>, <cd>the name of several balsamic trees of the genus <gen>Bursera</gen> (or <gen>Icica</gen>) mostly tropical American. The gum resin is used for incense. In Jamaica the <spn>Chrysobalanus Icaco</spn>, a tree related to the plums, is called <ex>incense tree</ex>.</cd> -- <col>Incense wood</col>, <cd>the fragrant wood of the tropical American tree <spn>Bursera heptaphylla</spn>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incense-breathing</ent><br/
@@ -10519,7 +10519,7 @@ Provide, pernicious with one touch of fire.</q>  <rj><au>Milton.</au></rj><br/
 \'d8<hw>In*cer"tum</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Doubtful; not of definite form.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Opus incertum</b></col> <fld>(Anc. Arch.)</fld>, <cd>a kind of masonry employed in building walls, in which the stones were not squared nor laid in courses; rubblework.</cd></cs><br/
+<p><cs><col>Opus incertum</col> <fld>(Anc. Arch.)</fld>, <cd>a kind of masonry employed in building walls, in which the stones were not squared nor laid in courses; rubblework.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incessable</ent><br/
@@ -10556,7 +10556,7 @@ They batter'd day and night and entrance did await.</q> <rj><qau>Spenser.</qau><
 <hw>In"cest</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>inceste</ets>, L. <ets>incestum</ets> unchastity, incest, fr. <ets>incestus</ets> unchaste; pref. <ets>in-</ets> not + <ets>castus</ets> chaste. See <er>Chaste</er>.]</ety> <def>The crime of cohabitation or sexual intercourse between persons related within the degrees wherein marriage is prohibited by law;</def> <specif>broadly,</specif> <def>sexual relations between closely related persons, usually taken as first cousins or closer.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Spiritual incest</b></col>. <fld>(Eccl. Law)</fld> <sd>(a)</sd> <cd>The crime of cohabitation committed between persons who have a spiritual alliance by means of baptism or confirmation.</cd> <sd>(b)</sd> <cd>The act of a vicar, or other beneficiary, who holds two benefices, the one depending on the collation of the other.</cd></cs><br/
+<p><cs><col>Spiritual incest</col>. <fld>(Eccl. Law)</fld> <sd>(a)</sd> <cd>The crime of cohabitation committed between persons who have a spiritual alliance by means of baptism or confirmation.</cd> <sd>(b)</sd> <cd>The act of a vicar, or other beneficiary, who holds two benefices, the one depending on the collation of the other.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incesttuous</ent><br/
@@ -10598,7 +10598,7 @@ You must divine and human rights remove.</q> <rj><qau>Dryden.</qau></rj></p>
 <p><q>Beldame, I think we watched you at an <qex>inch</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By inches</b></col>, <cd>by slow degrees, gradually.</cd> -- <col><b>Inch of candle</b></col>. <cd>See under <er>Candle</er>.</cd> -- <col><b>Inches of pressure</b></col>, <cd>usually, the pressure indicated by so many inches of a mercury column, as on a steam gauge.</cd> -- <col><b>Inch of water</b></col>. <cd>See under <er>Water</er>.</cd> -- <col><b>Miner's inch</b></col>, <fld>(Hydraulic Mining)</fld>, <cd>a unit for the measurement of water. See <cref>Inch of water</cref>, under <er>Water</er>.</cd></cs><br/
+<p><cs><col>By inches</col>, <cd>by slow degrees, gradually.</cd> -- <col>Inch of candle</col>. <cd>See under <er>Candle</er>.</cd> -- <col>Inches of pressure</col>, <cd>usually, the pressure indicated by so many inches of a mercury column, as on a steam gauge.</cd> -- <col>Inch of water</col>. <cd>See under <er>Water</er>.</cd> -- <col>Miner's inch</col>, <fld>(Hydraulic Mining)</fld>, <cd>a unit for the measurement of water. See <cref>Inch of water</cref>, under <er>Water</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inch</ent><br/
@@ -10627,7 +10627,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Inch</hw>, <pos>a.</pos> <def>Measuring an inch in any dimension, whether length, breadth, or thickness; -- used in composition; <as>as, a two-<ex>inch</ex> cable; a four-<ex>inch</ex> plank.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inch stuff</b></col>, <cd>boards, etc., sawed one inch thick.</cd></cs><br/
+<p><cs><col>Inch stuff</col>, <cd>boards, etc., sawed one inch thick.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inchamber</ent><br/
@@ -10678,7 +10678,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Inch"meal`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Meal</er> a part, and cf. <er>Piecemeal</er>.]</ety> <def>A piece an inch long.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By inchmeal</b></col>, <cd>by small degrees; by inches.</cd>  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>By inchmeal</col>, <cd>by small degrees; by inches.</cd>  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inchmeal</ent><br/
@@ -10746,7 +10746,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>3.</sn> <def>The rate or ratio at which something occurs; <as>as, the <ex>incidence</ex> of murder in Los Angeles; the <ex>incidence</ex> of cancer in men over 50</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Angle of incidence</b></col>, <cd>the angle which a ray of light, or the line of incidence of a body, falling on any surface, makes with a perpendicular to that surface; also formerly, the complement of this angle.</cd> -- <col><b>Line of incidence</b></col>, <cd>the line in the direction of which a surface is struck by a body, ray of light, and the like.</cd></cs><br/
+<p><cs><col>Angle of incidence</col>, <cd>the angle which a ray of light, or the line of incidence of a body, falling on any surface, makes with a perpendicular to that surface; also formerly, the complement of this angle.</cd> -- <col>Line of incidence</col>, <cd>the line in the direction of which a surface is struck by a body, ray of light, and the like.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incidency</ent><br/
@@ -10778,7 +10778,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Law)</fld> <def>Dependent upon, or appertaining to, another thing, called the <xex>principal</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incident proposition</b></col> <fld>(Logic)</fld>, <cd>a proposition subordinate to another, and introduced by <xex>who</xex>, <xex>which</xex>, <xex>whose</xex>, <xex>whom</xex>, etc.; as, Julius, <examp>whose surname was C<ae/sar</examp>, overcame Pompey.</cd>  <rj><au>I. Watts.</au></rj></cs><br/
+<p><cs><col>Incident proposition</col> <fld>(Logic)</fld>, <cd>a proposition subordinate to another, and introduced by <xex>who</xex>, <xex>which</xex>, <xex>whose</xex>, <xex>whom</xex>, etc.; as, Julius, <examp>whose surname was C<ae/sar</examp>, overcame Pompey.</cd>  <rj><au>I. Watts.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incident</ent><br/
@@ -11178,7 +11178,7 @@ The <qex>inclement</qex> seasons, rain, ice, hail, and snow!</q> <rj><qau>Milton
 <p><sn>7.</sn> <fld>(Pharm.)</fld> <def>Decantation, or tipping for pouring.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inclination compass</b></col>, <cd>an inclinometer.</cd> -- <col><b>Inclination of an orbit</b></col> <fld>(Astron.)</fld>, <cd>the angle which the orbit makes with the ecliptic.</cd> -- <col><b>Inclination of the needle</b></col>. <cd>See <cref>Dip of the needle</cref>, under <er>Dip</er>.</cd></cs></p>
+<p><cs><col>Inclination compass</col>, <cd>an inclinometer.</cd> -- <col>Inclination of an orbit</col> <fld>(Astron.)</fld>, <cd>the angle which the orbit makes with the ecliptic.</cd> -- <col>Inclination of the needle</col>. <cd>See <cref>Dip of the needle</cref>, under <er>Dip</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Bent; tendency; proneness; bias; proclivity; propensity; prepossession; predilection; attachment; desire; affection; love. See <er>Bent</er>, and cf. <er>Disposition</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -11245,7 +11245,7 @@ In both the scales, and each <qex>inclines</qex> to peace.</q> <rj><qau>Parnell.
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>Bent out of a perpendicular position, or into a curve with the convex side uppermost.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inclined plane</b></col>. <fld>(Mech.)</fld> <sd>(a)</sd> <cd>A plane that makes an oblique angle with the plane of the horizon; a sloping plane. When used to produce pressure, or as a means of moving bodies, it is one of the mechanical powers, so called.</cd> <sd>(b)</sd> <fld>(Railroad & Canal)</fld> <cd>An inclined portion of track, on which trains or boats are raised or lowered from one level to another.</cd></cs><br/
+<p><cs><col>Inclined plane</col>. <fld>(Mech.)</fld> <sd>(a)</sd> <cd>A plane that makes an oblique angle with the plane of the horizon; a sloping plane. When used to produce pressure, or as a means of moving bodies, it is one of the mechanical powers, so called.</cd> <sd>(b)</sd> <fld>(Railroad & Canal)</fld> <cd>An inclined portion of track, on which trains or boats are raised or lowered from one level to another.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incliner</ent><br/
@@ -11368,7 +11368,7 @@ With triumphs, mirth, and rare solemnity.</q> <rj><qau>Shak.</qau></rj></p>
 <hw>In*clud"ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Inclosed; confined.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Included stamens</b></col> <fld>(Bot.)</fld>, <cd>such as are shorter than the floral envelopes, or are concealed within them.</cd></cs><br/
+<p><cs><col>Included stamens</col> <fld>(Bot.)</fld>, <cd>such as are shorter than the floral envelopes, or are concealed within them.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Includible</ent><br/
@@ -11629,7 +11629,7 @@ Since gods come down <qex>incognito</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <hw>In`com*bus"ti*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>in-</ets> not + <ets>combustible</ets>: cf. F. <ets>incombustible</ets>.]</ety> <def>Not combustible; not capable of being burned, decomposed, or consumed by fire; uninflammable; <as>as, asbestus is an <ex>incombustible</ex> substance; carbon dioxide is an <ex>incombustible</ex> gas.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incombustible cloth</b></col>, <cd>a tissue of amianthus or asbestus; also, a fabric imbued with an incombustible substance.</cd></cs></p>
+<p><cs><col>Incombustible cloth</col>, <cd>a tissue of amianthus or asbestus; also, a fabric imbued with an incombustible substance.</cd></cs></p>
 
 <p>-- <wordforms><wf>In`com*bus"ti*ble*ness</wf>, <pos>n.</pos> -- <wf>In`com*bus"ti*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -11661,7 +11661,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 <p><sn>4.</sn> <fld>(Physiol.)</fld> <def>That which is taken into the body as food; the ingesta; -- sometimes restricted to the nutritive, or digestible, portion of the food. See <er>Food</er>. Opposed to <ant>output</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Income bond</b></col>, <cd>a bond issued on the income of the corporation or company issuing it, and the interest of which is to be paid from the earnings of the company before any dividends are made to stockholders; -- issued chiefly or exclusively by railroad companies.</cd> -- <col><b>Income tax</b></col>, <cd>a tax upon a person's incomes, emoluments, profits, etc., or upon the excess beyond a certain amount.</cd></cs></p>
+<p><cs><col>Income bond</col>, <cd>a bond issued on the income of the corporation or company issuing it, and the interest of which is to be paid from the earnings of the company before any dividends are made to stockholders; -- issued chiefly or exclusively by railroad companies.</cd> -- <col>Income tax</col>, <cd>a tax upon a person's incomes, emoluments, profits, etc., or upon the excess beyond a certain amount.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Gain; profit; proceeds; salary; revenue; receipts; interest; emolument; produce.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -11877,7 +11877,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>Incapable of being together without mutual reaction or decomposition, as certain medicines.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incompatible terms</b></col> <fld>(Logic)</fld>, <cd>terms which can not be combined in thought.</cd></cs></p>
+<p><cs><col>Incompatible terms</col> <fld>(Logic)</fld>, <cd>terms which can not be combined in thought.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Inconsistent; incongruous; dissimilar; irreconcilable; unsuitable; disagreeing; inharmonious; discordant; repugnant; contradictory. See <er>Inconsistent</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -11953,7 +11953,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Wanting any of the usual floral organs; -- said of a flower.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incomplete equation</b></col> <fld>(Alg.)</fld>, <cd>an equation some of whose terms are wanting; or one in which the coefficient of some one or more of the powers of the unknown quantity is equal to 0.</cd></cs><br/
+<p><cs><col>Incomplete equation</col> <fld>(Alg.)</fld>, <cd>an equation some of whose terms are wanting; or one in which the coefficient of some one or more of the powers of the unknown quantity is equal to 0.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incompletely</ent><br/
@@ -11998,7 +11998,7 @@ So large an <qex>income</qex> to the village lord.</q> <rj><qau>Dryden.</qau></r
 <hw>In`com*pos"ite</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>incompositus</ets>. See <er>Composite</er>.]</ety> <def>Not composite; uncompounded; simple.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incomposite numbers</b></col>. <cd>See <cref>Prime numbers</cref>, under <er>Prime</er>.</cd></cs><br/
+<p><cs><col>Incomposite numbers</col>. <cd>See <cref>Prime numbers</cref>, under <er>Prime</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incompossible</ent><br/
@@ -12233,7 +12233,7 @@ Spaces <qex>incomprehensible</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 <p><q><qex>Incongruous</qex> denotes that kind of absence of harmony or suitableness of which the taste and experience of men takes cognizance.</q> <rj><qau>C. J. Smith.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incongruous numbers</b></col> <fld>(Arith.)</fld>, <cd>two numbers, which, with respect to a third, are such that their difference can not be divided by it without a remainder, the two numbers being said to be <xex>incongruous</xex> with respect to the third; as, twenty and twenty-five are <xex>incongruous</xex> with respect to four.</cd></cs></p>
+<p><cs><col>Incongruous numbers</col> <fld>(Arith.)</fld>, <cd>two numbers, which, with respect to a third, are such that their difference can not be divided by it without a remainder, the two numbers being said to be <xex>incongruous</xex> with respect to the third; as, twenty and twenty-five are <xex>incongruous</xex> with respect to four.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Inconsistent; unsuitable; inharmonious; disagreeing; absurd; inappropriate; unfit; improper. See <er>Inconsistent</er>.</syn></p>
 
@@ -12640,7 +12640,7 @@ Than lightness and <qex>inconstancie</qex> in love.</q> <rj><qau>Spenser.</qau><
 <hw>In`co*<oum/r`di*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Lack of co<oum/rdination; lack of harmonious adjustment or action.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inco<oum/rdination of muscular movement</b></col> <fld>(Physiol.)</fld>, <cd>irregularity in movements resulting from inharmonious action of the muscles in consequence of loss of voluntary control over them.</cd></cs><br/
+<p><cs><col>Inco<oum/rdination of muscular movement</col> <fld>(Physiol.)</fld>, <cd>irregularity in movements resulting from inharmonious action of the muscles in consequence of loss of voluntary control over them.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incoronate</ent><br/
@@ -12775,7 +12775,7 @@ Reduced their shapes immense.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Existing only in contemplation of law; not capable of actual visible seizin or possession; not being an object of sense; intangible; -- opposed to <ant>corporeal</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Incorporeal hereditament</b></col>. <cd>See under <er>Hereditament</er>.</cd></cs></p>
+<p><cs><col>Incorporeal hereditament</col>. <cd>See under <er>Hereditament</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Immaterial; unsubstantial; bodiless; spiritual.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -13033,7 +13033,7 @@ Even as our days do grow!</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Astron.)</fld> <def>To become more nearly full; to show more of the surface; to wax; <as>as, the moon <ex>increases</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Increasing function</b></col> <fld>(Math.)</fld>, <cd>a function whose value increases when that of the variable increases, and decreases when the latter is diminished; also called a <altname>monotonically increasing function</altname>.</cd></cs></p>
+<p><cs><col>Increasing function</col> <fld>(Math.)</fld>, <cd>a function whose value increases when that of the variable increases, and decreases when the latter is diminished; also called a <altname>monotonically increasing function</altname>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To enlarge; extend; multiply; expand; develop; heighten; amplify; raise; enhance; spread; aggravate; magnify; augment; advance.</syn> <usage> -- To <er>Increase</er>, <er>Enlarge</er>, <er>Extend</er>. <xex>Enlarge</xex> implies to make larger or broader in size. <xex>Extend</xex> marks the progress of enlargement so as to have wider boundaries. <xex>Increase</xex> denotes enlargement by growth and internal vitality, as in the case of plants. A kingdom is <xex>enlarged</xex> by the addition of new territories; the mind is <xex>enlarged</xex> by knowledge. A kingdom is <xex>extended</xex> when its boundaries are carried to a greater distance from the center. A man's riches, honors, knowledge, etc., are <xex>increased</xex> by accessions which are made from time to time.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -13088,7 +13088,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 <p><q>Seeds, hair, nails, hedges, and herbs will grow soonest if set or cut in the <qex>increase</qex> of the moon.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Increase twist</b></col>, <cd>the twixt of a rifle groove in which the angle of twist increases from the breech to the muzzle.</cd></cs></p>
+<p><cs><col>Increase twist</col>, <cd>the twixt of a rifle groove in which the angle of twist increases from the breech to the muzzle.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Enlargement; extension; growth; development; increment; addition; accession; production.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -13232,7 +13232,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 <p><q>Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report, . . . think on these things.</q> <rj><qau>Phil. iv. 8.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infinitesimal increment</b></col> <fld>(Math.)</fld>, <cd>an infinitesimally small variation considered in Differential Calculus. See <er>Calculus</er>.</cd> -- <col><b>Method of increments</b></col> <fld>(Math.)</fld>, <cd>a calculus founded on the properties of the successive values of variable quantities and their differences or increments. It differs from the <xex>method of fluxions</xex> in treating these differences as finite, instead of infinitely small, and is equivalent to the calculus of <xex>finite differences</xex>.</cd></cs><br/
+<p><cs><col>Infinitesimal increment</col> <fld>(Math.)</fld>, <cd>an infinitesimally small variation considered in Differential Calculus. See <er>Calculus</er>.</cd> -- <col>Method of increments</col> <fld>(Math.)</fld>, <cd>a calculus founded on the properties of the successive values of variable quantities and their differences or increments. It differs from the <xex>method of fluxions</xex> in treating these differences as finite, instead of infinitely small, and is equivalent to the calculus of <xex>finite differences</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Incremental</ent><br/
@@ -13366,7 +13366,7 @@ Shoot up with swift <qex>increase</qex>, and sudden are decay'd.</q> <rj><qau>Dr
 <p><sn>5.</sn> <def>The gradual development in some interior environment, until fully formed; <as>as, the <ex>incubation</ex> time for developing a new drug may be longer than ten years from its first discovery</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>Period of incubation</b></col>, <it>or</it>  <col><b>Stage of incubation</b></col></mcol> <fld>(Med.)</fld>, <cd>the period which elapses between exposure to the causes of an infectious disease and the attack resulting from it; the time during which an infective agent must grow in the body before producing overt symptoms of disease.</cd></cs><br/
+<p><cs><mcol><col>Period of incubation</col>, <it>or</it>  <col>Stage of incubation</col></mcol> <fld>(Med.)</fld>, <cd>the period which elapses between exposure to the causes of an infectious disease and the attack resulting from it; the time during which an infective agent must grow in the body before producing overt symptoms of disease.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Incubative</ent><br/
@@ -14129,7 +14129,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>4.</sn> <fld>(Bot.)</fld> <def>Too numerous or variable to make a particular enumeration important; -- said of the parts of a flower, and the like. Also, indeterminate.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indefinite article</b></col> <fld>(Gram.)</fld>, <cd>the word <sig>a</sig> or <sig>an</sig>, used with nouns to denote any one of a common or general class.</cd> -- <col><b>Indefinite inflorescence</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Indeterminate inflorescence</cref>, under <er>Indeterminate</er>.</cd> -- <col><b>Indefinite proposition</b></col> <fld>(Logic)</fld>, <cd>a statement whose subject is a common term, with nothing to indicate distribution or nondistribution; as, <examp>Man is mortal</examp>.</cd> -- <col><b>Indefinite term</b></col> <fld>(Logic)</fld>, <cd>a negative term; as, <examp>the not-good</examp>.</cd></cs></p>
+<p><cs><col>Indefinite article</col> <fld>(Gram.)</fld>, <cd>the word <sig>a</sig> or <sig>an</sig>, used with nouns to denote any one of a common or general class.</cd> -- <col>Indefinite inflorescence</col>. <fld>(Bot.)</fld> <cd>See <cref>Indeterminate inflorescence</cref>, under <er>Indeterminate</er>.</cd> -- <col>Indefinite proposition</col> <fld>(Logic)</fld>, <cd>a statement whose subject is a common term, with nothing to indicate distribution or nondistribution; as, <examp>Man is mortal</examp>.</cd> -- <col>Indefinite term</col> <fld>(Logic)</fld>, <cd>a negative term; as, <examp>the not-good</examp>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Inexplicit; vague; uncertain; unsettled; indeterminate; loose; equivocal; inexact; approximate.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -14186,7 +14186,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><q>They are endued with <qex>indelible</qex> power from above.</q> <rj><qau>Sprat.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indelible colors</b></col>, <cd>fast colors which do not fade or tarnish by exposure.</cd> -- <col><b>Indelible ink</b></col>, <cd>an ink not obliterated by washing; esp., a solution of silver nitrate.</cd></cs></p>
+<p><cs><col>Indelible colors</col>, <cd>fast colors which do not fade or tarnish by exposure.</cd> -- <col>Indelible ink</col>, <cd>an ink not obliterated by washing; esp., a solution of silver nitrate.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Fixed; fast; permanent; ineffaceable.</syn></p>
 
@@ -14257,7 +14257,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><note><hand/ Insurance is a contract of <xex>indemnity</xex>. <au>Arnould.</au> The owner of private property taken for public use is entitled to compensation or <xex>indemnity</xex>.</note>  <rj><au>Kent.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Act of indemnity</b></col> <fld>(Law)</fld>, <cd>an act or law passed in order to relieve persons, especially in an official station, from some penalty to which they are liable in consequence of acting illegally, or, in case of ministers, in consequence of exceeding the limits of their strict constitutional powers. These acts also sometimes provide compensation for losses or damage, either incurred in the service of the government, or resulting from some public measure.</cd></cs><br/
+<p><cs><col>Act of indemnity</col> <fld>(Law)</fld>, <cd>an act or law passed in order to relieve persons, especially in an official station, from some penalty to which they are liable in consequence of acting illegally, or, in case of ministers, in consequence of exceeding the limits of their strict constitutional powers. These acts also sometimes provide compensation for losses or damage, either incurred in the service of the government, or resulting from some public measure.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indemonstrability</ent><br/
@@ -14341,7 +14341,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>4.</sn> <fld>(Print.)</fld> <sd>(a)</sd> <def>The act of beginning a line or series of lines at a little distance within the flush line of the column or page, as in the common way of beginning the first line of a paragraph.</def> <sd>(b)</sd> <def>The measure of the distance; <as>as, an <ex>indentation</ex> of one em, or of two ems</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hanging indentation</b></col>, <it>or</it> <col><b>Reverse indentation</b></col></mcol>, <cd>indentation of all the lines of a paragraph except the first, which is a full line; also called a <altname>hanging indent</altname>.</cd></cs><br/
+<p><cs><mcol><col>Hanging indentation</col>, <it>or</it> <col>Reverse indentation</col></mcol>, <cd>indentation of all the lines of a paragraph except the first, which is a full line; also called a <altname>hanging indent</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indented</ent><br/
@@ -14360,7 +14360,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>Notched along the margin with a different color, as the feathers of some birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indented line</b></col> <fld>(Fort.)</fld>, <cd>a line with alternate long and short faces, with salient and receding angles, each face giving a flanking fire along the front of the next.</cd></cs><br/
+<p><cs><col>Indented line</col> <fld>(Fort.)</fld>, <cd>a line with alternate long and short faces, with salient and receding angles, each face giving a flanking fire along the front of the next.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indentedly</ent><br/
@@ -14433,7 +14433,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>2.</sn> <def>Sufficient means for a comfortable livelihood.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Declaration of Independence</b></col> <fld>(Amer. Hist.)</fld>, <cd>the declaration of the Congress of the Thirteen United States of America, on the 4th of July, 1776, by which they formally declared that these colonies were free and independent States, not subject to the government of Great Britain.</cd></cs><br/
+<p><cs><col>Declaration of Independence</col> <fld>(Amer. Hist.)</fld>, <cd>the declaration of the Congress of the Thirteen United States of America, on the 4th of July, 1776, by which they formally declared that these colonies were free and independent States, not subject to the government of Great Britain.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Independence Day</ent><br/
@@ -14485,7 +14485,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>8.</sn> <fld>(U. S. Politics)</fld> <def>Not bound by party; exercising a free choice in voting with either or any party.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Independent company</b></col> <fld>(Mil.)</fld>, <cd>one not incorporated in any regiment.</cd> -- <col><b>Independent seconds watch</b></col>, <cd>a stop watch having a second hand driven by a separate set of wheels, springs, etc., for timing to a fraction of a second.</cd> -- <col><b>Independent variable</b></col>. <fld>(Math.)</fld> <cd>See <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs></p>
+<p><cs><col>Independent company</col> <fld>(Mil.)</fld>, <cd>one not incorporated in any regiment.</cd> -- <col>Independent seconds watch</col>, <cd>a stop watch having a second hand driven by a separate set of wheels, springs, etc., for timing to a fraction of a second.</cd> -- <col>Independent variable</col>. <fld>(Math.)</fld> <cd>See <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Free; uncontrolled; separate; uncoerced; self-reliant; bold; unconstrained; unrestricted.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -14577,7 +14577,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <hw>In`de*ter"mi*nate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>indeterminatus</ets>.]</ety> <def>Not determinate; not certain or fixed; indefinite; not precise; <as>as, an <ex>indeterminate</ex> number of years</as>.</def>  <rj><au>Paley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indeterminate analysis</b></col> <fld>(Math.)</fld>, <cd>that branch of analysis which has for its object the solution of indeterminate problems.</cd> -- <col><b>Indeterminate coefficients</b></col> <fld>(Math.)</fld>, <cd>coefficients arbitrarily assumed for convenience of calculation, or to facilitate some artifice of analysis. Their values are subsequently determined.</cd> -- <col><b>Indeterminate equation</b></col> <fld>(Math.)</fld>, <cd>an equation in which the unknown quantities admit of an infinite number of values, or sets of values. A group of equations is <xex>indeterminate</xex> when it contains more unknown quantities than there are equations.</cd> -- <col><b>Indeterminate inflorescence</b></col> <fld>(Bot.)</fld>, <cd>a mode of inflorescence in which the flowers all arise from axillary buds, the terminal bud going on to grow and sometimes continuing the stem indefinitely; -- called also <altname>acropetal inflorescence</altname>, <altname>botryose inflorescence</altname>, <altname>centripetal inflorescence</altname>, and <altname>indefinite inflorescence</altname>.</cd> <au>Gray.</au> -- <col><b>Indeterminate problem</b></col> <fld>(Math.)</fld>, <cd>a problem which admits of an infinite number of solutions, or one in which there are fewer imposed conditions than there are unknown or required results.</cd> -- <col><b>Indeterminate quantity</b></col> <fld>(Math.)</fld>, <cd>a quantity which has no fixed value, but which may be varied in accordance with any proposed condition.</cd> -- <col><b>Indeterminate series</b></col> <fld>(Math.)</fld>, <cd>a series whose terms proceed by the powers of an indeterminate quantity, sometimes also with indeterminate exponents, or indeterminate coefficients.</cd></cs></p>
+<p><cs><col>Indeterminate analysis</col> <fld>(Math.)</fld>, <cd>that branch of analysis which has for its object the solution of indeterminate problems.</cd> -- <col>Indeterminate coefficients</col> <fld>(Math.)</fld>, <cd>coefficients arbitrarily assumed for convenience of calculation, or to facilitate some artifice of analysis. Their values are subsequently determined.</cd> -- <col>Indeterminate equation</col> <fld>(Math.)</fld>, <cd>an equation in which the unknown quantities admit of an infinite number of values, or sets of values. A group of equations is <xex>indeterminate</xex> when it contains more unknown quantities than there are equations.</cd> -- <col>Indeterminate inflorescence</col> <fld>(Bot.)</fld>, <cd>a mode of inflorescence in which the flowers all arise from axillary buds, the terminal bud going on to grow and sometimes continuing the stem indefinitely; -- called also <altname>acropetal inflorescence</altname>, <altname>botryose inflorescence</altname>, <altname>centripetal inflorescence</altname>, and <altname>indefinite inflorescence</altname>.</cd> <au>Gray.</au> -- <col>Indeterminate problem</col> <fld>(Math.)</fld>, <cd>a problem which admits of an infinite number of solutions, or one in which there are fewer imposed conditions than there are unknown or required results.</cd> -- <col>Indeterminate quantity</col> <fld>(Math.)</fld>, <cd>a quantity which has no fixed value, but which may be varied in accordance with any proposed condition.</cd> -- <col>Indeterminate series</col> <fld>(Math.)</fld>, <cd>a series whose terms proceed by the powers of an indeterminate quantity, sometimes also with indeterminate exponents, or indeterminate coefficients.</cd></cs></p>
 
 <p>-- <wordforms><wf>In`de*ter"mi*nate*ly</wf> <pos>adv.</pos> -- <wf>In`de*ter"mi*nate*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -14656,7 +14656,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>11.</sn>  <fld>(R. C. Ch.)</fld>, <def>The <cref>Index prohibitorius</cref>, a catalogue of books which are forbidden by the church to be read; also called <altname>Index of forbidden books</altname> and <altname>Index Librorum Prohibitorum</altname>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Index error</b></col>, <cd>the error in the reading of a mathematical instrument arising from the zero of the index not being in complete adjustment with that of the limb, or with its theoretically perfect position in the instrument; a correction to be applied to the instrument readings equal to the error of the zero adjustment.</cd> -- <col><b>Index expurgatorius</b></col>. <ety>[L.]</ety> <cd>See <cref>Index prohibitorius</cref> (below).</cd> -- <col><b>Index finger</b></col>. <cd>See <er>Index</er>, <snr>5</snr>.</cd> -- <col><b>Index glass</b></col>, <cd>the mirror on the index of a quadrant, sextant, etc.</cd> -- <col><b>Index hand</b></col>, <cd>the pointer or hand of a clock, watch, or other registering machine; a hand that points to something.</cd> -- <col><b>Index of a logarithm</b></col> <fld>(Math.)</fld>,  <cd>the integral part of the logarithm, and always one less than the number of integral figures in the given number. It is also called the <altname>characteristic</altname>.</cd> -- <mcol><col><b>Index of refraction</b></col>, <it>or</it>  <col><b>Refractive index</b></col></mcol> <fld>(Opt.)</fld>, <cd>the number which expresses the ratio of the sine of the angle of incidence to the sine of the angle of refraction. Thus the <xex>index of refraction</xex> for sulphur is 2, because, when light passes out of air into sulphur, the sine of the angle of incidence is double the sine of the angle of refraction.</cd> -- <col><b>Index plate</b></col>, <cd>a graduated circular plate, or one with circular rows of holes differently spaced; used in machines for graduating circles, cutting gear teeth, etc.</cd> -- <mcol><col><b>Index prohibitorius</b></col> <ety>[L.]</ety>, or <col><b>Prohibitory index</b></col></mcol> <fld>(R. C. Ch.)</fld>, <cd>a catalogue of books which are forbidden by the church to be read; the <xex>index expurgatorius</xex> <ety>[L.]</ety>, or <xex>expurgatory index</xex>, is a catalogue of books from which passages marked as against faith or morals must be removed before Catholics can read them. These catalogues are published with additions, from time to time, by the Congregation of the Index, composed of cardinals, theologians, etc., under the sanction of the pope.</cd> <au>Hook.</au> -- <col><b>Index rerum</b></col> <ety>[L.]</ety>, <cd>a tabulated and alphabetized notebook, for systematic preservation of items, quotations, etc.</cd></cs><br/
+<p><cs><col>Index error</col>, <cd>the error in the reading of a mathematical instrument arising from the zero of the index not being in complete adjustment with that of the limb, or with its theoretically perfect position in the instrument; a correction to be applied to the instrument readings equal to the error of the zero adjustment.</cd> -- <col>Index expurgatorius</col>. <ety>[L.]</ety> <cd>See <cref>Index prohibitorius</cref> (below).</cd> -- <col>Index finger</col>. <cd>See <er>Index</er>, <snr>5</snr>.</cd> -- <col>Index glass</col>, <cd>the mirror on the index of a quadrant, sextant, etc.</cd> -- <col>Index hand</col>, <cd>the pointer or hand of a clock, watch, or other registering machine; a hand that points to something.</cd> -- <col>Index of a logarithm</col> <fld>(Math.)</fld>,  <cd>the integral part of the logarithm, and always one less than the number of integral figures in the given number. It is also called the <altname>characteristic</altname>.</cd> -- <mcol><col>Index of refraction</col>, <it>or</it>  <col>Refractive index</col></mcol> <fld>(Opt.)</fld>, <cd>the number which expresses the ratio of the sine of the angle of incidence to the sine of the angle of refraction. Thus the <xex>index of refraction</xex> for sulphur is 2, because, when light passes out of air into sulphur, the sine of the angle of incidence is double the sine of the angle of refraction.</cd> -- <col>Index plate</col>, <cd>a graduated circular plate, or one with circular rows of holes differently spaced; used in machines for graduating circles, cutting gear teeth, etc.</cd> -- <mcol><col>Index prohibitorius</col> <ety>[L.]</ety>, or <col>Prohibitory index</col></mcol> <fld>(R. C. Ch.)</fld>, <cd>a catalogue of books which are forbidden by the church to be read; the <xex>index expurgatorius</xex> <ety>[L.]</ety>, or <xex>expurgatory index</xex>, is a catalogue of books from which passages marked as against faith or morals must be removed before Catholics can read them. These catalogues are published with additions, from time to time, by the Congregation of the Index, composed of cardinals, theologians, etc., under the sanction of the pope.</cd> <au>Hook.</au> -- <col>Index rerum</col> <ety>[L.]</ety>, <cd>a tabulated and alphabetized notebook, for systematic preservation of items, quotations, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Index</ent><br/
@@ -14693,7 +14693,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <hw>In"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Indian</er>.]</ety> <def>A country in Southern Asia; the two peninsulas of Hither and Farther India; in a restricted sense, Hither India, or Hindostan.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>India ink</b></col>, <cd>a nearly black pigment brought chiefly from China, used for water colors.  It is in rolls, or in square, and consists of lampblack or ivory black and animal glue.  Called also <altname>China ink</altname>.  The true India ink is sepia. See <er>Sepia</er>.</cd> -- <col><b>India matting</b></col>, <cd>floor matting made in China, India, etc., from grass and reeds; -- also called <altname>Canton matting</altname> <it>or</it> <altname>China matting</altname>.</cd> -- <col><b>India paper</b></col>, <cd>a variety of Chinese paper, of smooth but not glossy surface, used for printing from engravings, woodcuts, etc.</cd> -- <col><b>India proof</b></col> <fld>(Engraving)</fld>, <cd>a proof impression from an engraved plate, taken on India paper.</cd> -- <col><b>India rubber</b></col>. <cd>See <er>Caoutchouc</er>.</cd> -- <col><b>India-rubber tree</b></col> <fld>(Bot.)</fld>, <cd>any tree yielding caoutchouc, but especially the East Indian <spn>Ficus elastica</spn>, often cultivated for its large, shining, elliptical leaves.</cd></cs><br/
+<p><cs><col>India ink</col>, <cd>a nearly black pigment brought chiefly from China, used for water colors.  It is in rolls, or in square, and consists of lampblack or ivory black and animal glue.  Called also <altname>China ink</altname>.  The true India ink is sepia. See <er>Sepia</er>.</cd> -- <col>India matting</col>, <cd>floor matting made in China, India, etc., from grass and reeds; -- also called <altname>Canton matting</altname> <it>or</it> <altname>China matting</altname>.</cd> -- <col>India paper</col>, <cd>a variety of Chinese paper, of smooth but not glossy surface, used for printing from engravings, woodcuts, etc.</cd> -- <col>India proof</col> <fld>(Engraving)</fld>, <cd>a proof impression from an engraved plate, taken on India paper.</cd> -- <col>India rubber</col>. <cd>See <er>Caoutchouc</er>.</cd> -- <col>India-rubber tree</col> <fld>(Bot.)</fld>, <cd>any tree yielding caoutchouc, but especially the East Indian <spn>Ficus elastica</spn>, often cultivated for its large, shining, elliptical leaves.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indiadem</ent><br/
@@ -14717,7 +14717,7 @@ Inhabiting eternity.</q> <rj><qau>W. Thompson (1745).</qau></rj><br/
 <p><sn>3.</sn> <def>Made of maize or Indian corn; <as>as, <ex>Indian</ex> corn, <ex>Indian</ex> meal, <ex>Indian</ex> bread, and the like</as>.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indian</b></col> bay <fld>(Bot.)</fld>, <cd>a lauraceous tree (<spn>Persea Indica</spn>).</cd> -- <col><b>Indian bean</b></col> <fld>(Bot.)</fld>, <cd>a name of the catalpa.</cd> -- <col><b>Indian berry</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cocculus indicus</er>.</cd> -- <col><b>Indian bread</b></col>. <fld>(Bot.)</fld> <cd>Same as <er>Cassava</er>.</cd> -- <col><b>Indian club</b></col>, <cd>a wooden club, which is swung by the hand for gymnastic exercise.</cd> -- <col><b>Indian cordage</b></col>, <cd>cordage made of the fibers of cocoanut husk.</cd> -- <col><b>Indian cress</b></col> <fld>(Bot.)</fld>, <cd>nasturtium. See <er>Nasturtium</er>, <snr>2</snr>.</cd> -- <col><b>Indian cucumber</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Medeola</gen> (<spn>Medeola Virginica</spn>), a common in woods in the United States.  The white rootstock has a taste like cucumbers.</cd> -- <col><b>Indian currant</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Symphoricarpus</gen> (<spn>Symphoricarpus vulgaris</spn>), bearing small red berries.</cd> -- <col><b>Indian dye</b></col>, <cd>the puccoon.</cd> -- <col><b>Indian fig</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The banyan. See <er>Banyan</er>.</cd> <sd>(b)</sd> <cd>The prickly pear.</cd> -- <col><b>Indian file</b></col>, <cd>single file; arrangement of persons in a row following one after another, the usual way among Indians of traversing woods, especially when on the war path.</cd> -- <col><b>Indian fire</b></col>, <cd>a pyrotechnic composition of sulphur, niter, and realgar, burning with a brilliant white light.</cd> -- <col><b>Indian grass</b></col> <fld>(Bot.)</fld>, <cd>a coarse, high grass (<spn>Chrysopogon nutans</spn>), common in the southern portions of the United States; wood grass.</cd> <au>Gray.</au> -- <col><b>Indian hemp</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A plant of the genus <gen>Apocynum</gen> (<spn>Apocynum cannabinum</spn>), having a milky juice, and a tough, fibrous bark, whence the name. The root it used in medicine and is both emetic and cathartic in properties.</cd> <sd>(b)</sd> <cd>The variety of common hemp (<spn>Cannabis Indica</spn>), from which hasheesh is obtained.</cd> -- <col><b>Indian mallow</b></col> <fld>(Bot.)</fld>, <cd>the velvet leaf (<spn>Abutilon Avicenn<ae/</spn>). See <er>Abutilon</er>.</cd> -- <col><b>Indian meal</b></col>, <cd>ground corn or maize.</cd> <mark>[U.S.]</mark> -- <col><b>Indian millet</b></col> <fld>(Bot.)</fld>, <cd>a tall annual grass (<spn>Sorghum vulgare</spn>), having many varieties, among which are broom corn, Guinea corn, durra, and the Chinese sugar cane. It is called also <altname>Guinea corn</altname>. See <er>Durra</er>.</cd> -- <col><b>Indian ox</b></col> <fld>(Zool.)</fld>, <cd>the zebu.</cd> -- <col><b>Indian paint</b></col>. <cd>See <er>Bloodroot</er>.</cd> -- <col><b>Indian paper</b></col>. <cd>See <cref>India paper</cref>, under <er>India</er>.</cd> -- <col><b>Indian physic</b></col> <fld>(Bot.)</fld>, <cd>a plant of two species of the genus <gen>Gillenia</gen> (<spn>Gillenia trifoliata</spn>, and <spn>Gillenia stipulacea</spn>), common in the United States, the roots of which are used in medicine as a mild emetic; -- called also <altname>American ipecac</altname>, and <altname>bowman's root</altname>.</cd> <au>Gray.</au> -- <col><b>Indian pink</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The Cypress vine (<spn>Ipom<oe/a Quamoclit</spn>); -- so called in the West Indies.</cd> <sd>(b)</sd> <cd>See <cref>China pink</cref>, under <er>China</er>.</cd> -- <col><b>Indian pipe</b></col> <fld>(Bot.)</fld>, <cd>a low, fleshy herb (<spn>Monotropa uniflora</spn>), growing in clusters in dark woods, and having scalelike leaves, and a solitary nodding flower. The whole plant is waxy white, but turns black in drying.</cd> -- <col><b>Indian plantain</b></col> <fld>(Bot.)</fld>, <cd>a name given to several species of the genus <gen>Cacalia</gen>, tall herbs with composite white flowers, common through the United States in rich woods.</cd> <au>Gray.</au> -- <col><b>Indian poke</b></col> <fld>(Bot.)</fld>, <cd>a plant usually known as the <altname>white hellebore</altname> (<spn>Veratrum viride</spn>).</cd> -- <col><b>Indian pudding</b></col>, <cd>a pudding of which the chief ingredients are Indian meal, milk, and molasses.</cd> -- <col><b>Indian purple</b></col>. <sd>(a)</sd> <cd>A dull purple color.</cd> <sd>(b)</sd> <cd>The pigment of the same name, intensely blue and black.</cd> -- <col><b>Indian red</b></col>. <sd>(a)</sd> <cd>A purplish red earth or pigment composed of a silicate of iron and alumina, with magnesia. It comes from the Persian Gulf. Called also <altname>Persian red</altname>.</cd> <sd>(b)</sd> <cd>See <er>Almagra</er>.</cd> -- <col><b>Indian rice</b></col> <fld>(Bot.)</fld>, <cd>a reedlike water grass. See <er>Rice</er>.</cd> -- <col><b>Indian shot</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Canna</gen> (<spn>Canna Indica</spn>).  The hard black seeds are as large as swan shot. See <er>Canna</er>.</cd> -- <col><b>Indian summer</b></col>, <cd>in the United States, a period of warm and pleasant weather occurring late in autumn. See under <er>Summer</er>.</cd> -- <col><b>Indian tobacco</b></col> <fld>(Bot.)</fld>, <cd>a species of <gen>Lobelia</gen>. See <er>Lobelia</er>.</cd> -- <col><b>Indian turnip</b></col> <fld>(Bot.)</fld>, <cd>an American plant of the genus <gen>Aris<ae/ma</gen>. <spn>Aris<ae/ma triphyllum</spn> has a wrinkled farinaceous root resembling a small turnip, but with a very acrid juice. See <er>Jack in the Pulpit</er>, and <er>Wake-robin</er>.</cd> -- <col><b>Indian wheat</b></col>, <cd>maize or Indian corn.</cd> -- <col><b>Indian yellow</b></col>. <sd>(a)</sd> <cd>An intense rich yellow color, deeper than gamboge but less pure than cadmium.</cd> <sd>(b)</sd> <cd>See <er>Euxanthin</er>.</cd></cs><br/
+<p><cs><col>Indian</col> bay <fld>(Bot.)</fld>, <cd>a lauraceous tree (<spn>Persea Indica</spn>).</cd> -- <col>Indian bean</col> <fld>(Bot.)</fld>, <cd>a name of the catalpa.</cd> -- <col>Indian berry</col>. <fld>(Bot.)</fld> <cd>Same as <er>Cocculus indicus</er>.</cd> -- <col>Indian bread</col>. <fld>(Bot.)</fld> <cd>Same as <er>Cassava</er>.</cd> -- <col>Indian club</col>, <cd>a wooden club, which is swung by the hand for gymnastic exercise.</cd> -- <col>Indian cordage</col>, <cd>cordage made of the fibers of cocoanut husk.</cd> -- <col>Indian cress</col> <fld>(Bot.)</fld>, <cd>nasturtium. See <er>Nasturtium</er>, <snr>2</snr>.</cd> -- <col>Indian cucumber</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Medeola</gen> (<spn>Medeola Virginica</spn>), a common in woods in the United States.  The white rootstock has a taste like cucumbers.</cd> -- <col>Indian currant</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Symphoricarpus</gen> (<spn>Symphoricarpus vulgaris</spn>), bearing small red berries.</cd> -- <col>Indian dye</col>, <cd>the puccoon.</cd> -- <col>Indian fig</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The banyan. See <er>Banyan</er>.</cd> <sd>(b)</sd> <cd>The prickly pear.</cd> -- <col>Indian file</col>, <cd>single file; arrangement of persons in a row following one after another, the usual way among Indians of traversing woods, especially when on the war path.</cd> -- <col>Indian fire</col>, <cd>a pyrotechnic composition of sulphur, niter, and realgar, burning with a brilliant white light.</cd> -- <col>Indian grass</col> <fld>(Bot.)</fld>, <cd>a coarse, high grass (<spn>Chrysopogon nutans</spn>), common in the southern portions of the United States; wood grass.</cd> <au>Gray.</au> -- <col>Indian hemp</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A plant of the genus <gen>Apocynum</gen> (<spn>Apocynum cannabinum</spn>), having a milky juice, and a tough, fibrous bark, whence the name. The root it used in medicine and is both emetic and cathartic in properties.</cd> <sd>(b)</sd> <cd>The variety of common hemp (<spn>Cannabis Indica</spn>), from which hasheesh is obtained.</cd> -- <col>Indian mallow</col> <fld>(Bot.)</fld>, <cd>the velvet leaf (<spn>Abutilon Avicenn<ae/</spn>). See <er>Abutilon</er>.</cd> -- <col>Indian meal</col>, <cd>ground corn or maize.</cd> <mark>[U.S.]</mark> -- <col>Indian millet</col> <fld>(Bot.)</fld>, <cd>a tall annual grass (<spn>Sorghum vulgare</spn>), having many varieties, among which are broom corn, Guinea corn, durra, and the Chinese sugar cane. It is called also <altname>Guinea corn</altname>. See <er>Durra</er>.</cd> -- <col>Indian ox</col> <fld>(Zool.)</fld>, <cd>the zebu.</cd> -- <col>Indian paint</col>. <cd>See <er>Bloodroot</er>.</cd> -- <col>Indian paper</col>. <cd>See <cref>India paper</cref>, under <er>India</er>.</cd> -- <col>Indian physic</col> <fld>(Bot.)</fld>, <cd>a plant of two species of the genus <gen>Gillenia</gen> (<spn>Gillenia trifoliata</spn>, and <spn>Gillenia stipulacea</spn>), common in the United States, the roots of which are used in medicine as a mild emetic; -- called also <altname>American ipecac</altname>, and <altname>bowman's root</altname>.</cd> <au>Gray.</au> -- <col>Indian pink</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>The Cypress vine (<spn>Ipom<oe/a Quamoclit</spn>); -- so called in the West Indies.</cd> <sd>(b)</sd> <cd>See <cref>China pink</cref>, under <er>China</er>.</cd> -- <col>Indian pipe</col> <fld>(Bot.)</fld>, <cd>a low, fleshy herb (<spn>Monotropa uniflora</spn>), growing in clusters in dark woods, and having scalelike leaves, and a solitary nodding flower. The whole plant is waxy white, but turns black in drying.</cd> -- <col>Indian plantain</col> <fld>(Bot.)</fld>, <cd>a name given to several species of the genus <gen>Cacalia</gen>, tall herbs with composite white flowers, common through the United States in rich woods.</cd> <au>Gray.</au> -- <col>Indian poke</col> <fld>(Bot.)</fld>, <cd>a plant usually known as the <altname>white hellebore</altname> (<spn>Veratrum viride</spn>).</cd> -- <col>Indian pudding</col>, <cd>a pudding of which the chief ingredients are Indian meal, milk, and molasses.</cd> -- <col>Indian purple</col>. <sd>(a)</sd> <cd>A dull purple color.</cd> <sd>(b)</sd> <cd>The pigment of the same name, intensely blue and black.</cd> -- <col>Indian red</col>. <sd>(a)</sd> <cd>A purplish red earth or pigment composed of a silicate of iron and alumina, with magnesia. It comes from the Persian Gulf. Called also <altname>Persian red</altname>.</cd> <sd>(b)</sd> <cd>See <er>Almagra</er>.</cd> -- <col>Indian rice</col> <fld>(Bot.)</fld>, <cd>a reedlike water grass. See <er>Rice</er>.</cd> -- <col>Indian shot</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Canna</gen> (<spn>Canna Indica</spn>).  The hard black seeds are as large as swan shot. See <er>Canna</er>.</cd> -- <col>Indian summer</col>, <cd>in the United States, a period of warm and pleasant weather occurring late in autumn. See under <er>Summer</er>.</cd> -- <col>Indian tobacco</col> <fld>(Bot.)</fld>, <cd>a species of <gen>Lobelia</gen>. See <er>Lobelia</er>.</cd> -- <col>Indian turnip</col> <fld>(Bot.)</fld>, <cd>an American plant of the genus <gen>Aris<ae/ma</gen>. <spn>Aris<ae/ma triphyllum</spn> has a wrinkled farinaceous root resembling a small turnip, but with a very acrid juice. See <er>Jack in the Pulpit</er>, and <er>Wake-robin</er>.</cd> -- <col>Indian wheat</col>, <cd>maize or Indian corn.</cd> -- <col>Indian yellow</col>. <sd>(a)</sd> <cd>An intense rich yellow color, deeper than gamboge but less pure than cadmium.</cd> <sd>(b)</sd> <cd>See <er>Euxanthin</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indian</ent><br/
@@ -14796,7 +14796,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>In"di*ca`ted</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Shown; denoted; registered; measured.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indicated power</b></col>. <cd>See <cref>Indicated horse power</cref>, under <er>Horse power</er>.</cd></cs><br/
+<p><cs><col>Indicated power</col>. <cd>See <cref>Indicated horse power</cref>, under <er>Horse power</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indication</ent><br/
@@ -14836,7 +14836,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Fine Arts)</fld> <def>Suggestive; representing the whole by a part, as a fleet by a ship, a forest by a tree, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indicative mood</b></col> <fld>(Gram.)</fld>, <cd>that mood or form of the verb which indicates, that is, which simply affirms or denies or inquires; <as>as, he <examp>writes</examp>; he <examp>is not writing</examp>; <examp>has</examp> the mail <examp>arrived</examp>?</as></cd></cs><br/
+<p><cs><col>Indicative mood</col> <fld>(Gram.)</fld>, <cd>that mood or form of the verb which indicates, that is, which simply affirms or denies or inquires; <as>as, he <examp>writes</examp>; he <examp>is not writing</examp>; <examp>has</examp> the mail <examp>arrived</examp>?</as></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indicative</ent><br/
@@ -14871,7 +14871,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><note><hand/ The common indicators are litmus, trop<ae/olin, phenol phthalein, potassic permanganate, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indicator card</b></col>, <cd>the figure drawn by an engine indicator, by means of which the working of the engine can be investigated and its power calculated. The Illustration shows one form of indicator card, from a steam engine, together with scales by which the pressure of the steam above or below that of the atmosphere, corresponding to any position of the engine piston in its stroke, can be measured. Called also <altname>indicator diagram</altname>.</cd> -- <col><b>Indicator telegraph</b></col>, <cd>a telegraph in which the signals are the deflections of a magnetic needle, as in the trans-Atlantic system.</cd></cs><br/
+<p><cs><col>Indicator card</col>, <cd>the figure drawn by an engine indicator, by means of which the working of the engine can be investigated and its power calculated. The Illustration shows one form of indicator card, from a steam engine, together with scales by which the pressure of the steam above or below that of the atmosphere, corresponding to any position of the engine piston in its stroke, can be measured. Called also <altname>indicator diagram</altname>.</cd> -- <col>Indicator telegraph</col>, <cd>a telegraph in which the signals are the deflections of a magnetic needle, as in the trans-Atlantic system.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indicatory</ent><br/
@@ -14970,7 +14970,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>3.</sn> <def>An accusation in general; a formal accusation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bill of indictment</b></col>. <cd>See under <er>Bill</er>.</cd></cs><br/
+<p><cs><col>Bill of indictment</col>. <cd>See under <er>Bill</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indictor</ent><br/
@@ -15058,7 +15058,7 @@ From what point blows the weather.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><q>In choice of committees for ripening business for the counsel, it is better to choose <qex>indifferent</qex> persons than to make an indifferency by putting in those that are strong on both sides.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indifferent tissue</b></col> <fld>(Anat.)</fld>, <cd>the primitive, embryonic, undifferentiated tissue, before conversion into connective, muscular, nervous, or other definite tissue.</cd></cs><br/
+<p><cs><col>Indifferent tissue</col> <fld>(Anat.)</fld>, <cd>the primitive, embryonic, undifferentiated tissue, before conversion into connective, muscular, nervous, or other definite tissue.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indifferent</ent><br/
@@ -15324,14 +15324,14 @@ So great <qex>indignities</qex> you laid upon me?</q> <rj><qau>Shak.</qau></rj><
 <p><note><hand/ Commercial indigo contains the essential coloring principle <xex>indigo blue</xex> or <xex>indigotine</xex>, with several other dyes; as, <xex>indigo red</xex>, <xex>indigo brown</xex>, etc., and various impurities. Indigo is insoluble in ordinary reagents, with the exception of strong sulphuric acid.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Chinese indigo</b></col> <fld>(Bot.)</fld>, <cd><spn>Isatis indigotica</spn>, a kind of woad.</cd> -- <col><b>Wild indigo</b></col> <fld>(Bot.)</fld>, <cd>the American herb <spn>Baptisia tinctoria</spn> which yields a poor quality of indigo, as do several other species of the same genus.</cd></cs><br/
+<p><cs><col>Chinese indigo</col> <fld>(Bot.)</fld>, <cd><spn>Isatis indigotica</spn>, a kind of woad.</cd> -- <col>Wild indigo</col> <fld>(Bot.)</fld>, <cd>the American herb <spn>Baptisia tinctoria</spn> which yields a poor quality of indigo, as do several other species of the same genus.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indigo</ent><br/
 <hw>In"di*go</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having the color of, pertaining to, or derived from, indigo.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indigo berry</b></col> <fld>(Bot.)</fld>, <cd>the fruit of the West Indian shrub <spn>Randia aculeata</spn>, used as a blue dye.</cd> -- <col><b>Indigo bird</b></col> <fld>(Zool.)</fld>, <cd>a small North American finch (<spn>Cyanospiza cyanea</spn>). The male is indigo blue in color. Called also <altname>indigo bunting</altname>.</cd> -- <col><b>Indigo blue</b></col>. <sd>(a)</sd> <cd>The essential coloring material of commercial indigo, from which it is obtained as a dark blue earthy powder, with a reddish luster, <chform>C16H10N2O2</chform>, which may be crystallized by sublimation. Indigo blue is also made from artificial amido cinnamic acid, and from artificial isatine; and these methods are of great commercial importance. Called also <altname>indigotin</altname>.</cd> <sd>(b)</sd> <cd>A dark, dull blue color like the indigo of commerce.</cd> -- <col><b>Indigo brown</b></col> <fld>(Chem.)</fld>, <cd>a brown resinous substance found in crude indigo.</cd> -- <col><b>Indigo copper</b></col> <fld>(Min.)</fld>, <cd>covellite.</cd> -- <col><b>Indigo green</b></col>, <cd>a green obtained from indigo.</cd> -- <col><b>Indigo plant</b></col> <fld>(Bot.)</fld>, <cd>a leguminous plant of several species (genus <gen>Indigofera</gen>), from which indigo is prepared. The different varieties are natives of Asia, Africa, and America.  Several species are cultivated, of which the most important are the <spn>Indigofera tinctoria</spn>, or <stype>common indigo plant</stype>, the <spn>Indigofera Anil</spn>, a larger species, and the <spn>Indigofera disperma</spn>.</cd> -- <col><b>Indigo purple</b></col>, <cd>a purple obtained from indigo.</cd> -- <col><b>Indigo red</b></col>, <cd>a dyestuff, isomeric with indigo blue, obtained from crude indigo as a dark brown amorphous powder.</cd> -- <col><b>Indigo snake</b></col> <fld>(Zool.)</fld>, <cd>the gopher snake.</cd> -- <col><b>Indigo white</b></col>, <cd>a white crystalline powder obtained by reduction from indigo blue, and by oxidation easily changed back to it; -- called also <altname>indigogen</altname>.</cd> -- <col><b>Indigo yellow</b></col>, <cd>a substance obtained from indigo.</cd></cs><br/
+<p><cs><col>Indigo berry</col> <fld>(Bot.)</fld>, <cd>the fruit of the West Indian shrub <spn>Randia aculeata</spn>, used as a blue dye.</cd> -- <col>Indigo bird</col> <fld>(Zool.)</fld>, <cd>a small North American finch (<spn>Cyanospiza cyanea</spn>). The male is indigo blue in color. Called also <altname>indigo bunting</altname>.</cd> -- <col>Indigo blue</col>. <sd>(a)</sd> <cd>The essential coloring material of commercial indigo, from which it is obtained as a dark blue earthy powder, with a reddish luster, <chform>C16H10N2O2</chform>, which may be crystallized by sublimation. Indigo blue is also made from artificial amido cinnamic acid, and from artificial isatine; and these methods are of great commercial importance. Called also <altname>indigotin</altname>.</cd> <sd>(b)</sd> <cd>A dark, dull blue color like the indigo of commerce.</cd> -- <col>Indigo brown</col> <fld>(Chem.)</fld>, <cd>a brown resinous substance found in crude indigo.</cd> -- <col>Indigo copper</col> <fld>(Min.)</fld>, <cd>covellite.</cd> -- <col>Indigo green</col>, <cd>a green obtained from indigo.</cd> -- <col>Indigo plant</col> <fld>(Bot.)</fld>, <cd>a leguminous plant of several species (genus <gen>Indigofera</gen>), from which indigo is prepared. The different varieties are natives of Asia, Africa, and America.  Several species are cultivated, of which the most important are the <spn>Indigofera tinctoria</spn>, or <stype>common indigo plant</stype>, the <spn>Indigofera Anil</spn>, a larger species, and the <spn>Indigofera disperma</spn>.</cd> -- <col>Indigo purple</col>, <cd>a purple obtained from indigo.</cd> -- <col>Indigo red</col>, <cd>a dyestuff, isomeric with indigo blue, obtained from crude indigo as a dark brown amorphous powder.</cd> -- <col>Indigo snake</col> <fld>(Zool.)</fld>, <cd>the gopher snake.</cd> -- <col>Indigo white</col>, <cd>a white crystalline powder obtained by reduction from indigo blue, and by oxidation easily changed back to it; -- called also <altname>indigogen</altname>.</cd> -- <col>Indigo yellow</col>, <cd>a substance obtained from indigo.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indigofera</ent><br/
@@ -15418,7 +15418,7 @@ I met this crown.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Logic & Math.)</fld> <def>Not reaching the end aimed at by the most plain and direct method; <as>as, an <ex>indirect</ex> proof, demonstration, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indirect claims</b></col>, <cd>claims for remote or consequential damage. Such claims were presented to and thrown out by the commissioners who arbitrated the damage inflicted on the United States by the Confederate States cruisers built and supplied by Great Britain.</cd> -- <col><b>Indirect demonstration</b></col>, <cd>a mode of demonstration in which proof is given by showing that any other supposition involves an absurdity (<xex>reductio ad absurdum</xex>), or an impossibility; thus, one quantity may be proved equal to another by showing that it can be neither greater nor less.</cd> -- <col><b>Indirect discourse</b></col>. <fld>(Gram.)</fld> <cd>See <cref>Direct discourse</cref>, under <er>Direct</er>.</cd> -- <col><b>Indirect evidence</b></col>, <cd>evidence or testimony which is circumstantial or inferential, but without witness; -- opposed to <contr>direct evidence</contr>.</cd> -- <col><b>Indirect tax</b></col>, <cd>a tax, such as customs, excises, <-- VAT,-->etc., exacted directly from the merchant, but paid indirectly by the consumer in the higher price demanded for the articles of merchandise.</cd></cs><br/
+<p><cs><col>Indirect claims</col>, <cd>claims for remote or consequential damage. Such claims were presented to and thrown out by the commissioners who arbitrated the damage inflicted on the United States by the Confederate States cruisers built and supplied by Great Britain.</cd> -- <col>Indirect demonstration</col>, <cd>a mode of demonstration in which proof is given by showing that any other supposition involves an absurdity (<xex>reductio ad absurdum</xex>), or an impossibility; thus, one quantity may be proved equal to another by showing that it can be neither greater nor less.</cd> -- <col>Indirect discourse</col>. <fld>(Gram.)</fld> <cd>See <cref>Direct discourse</cref>, under <er>Direct</er>.</cd> -- <col>Indirect evidence</col>, <cd>evidence or testimony which is circumstantial or inferential, but without witness; -- opposed to <contr>direct evidence</contr>.</cd> -- <col>Indirect tax</col>, <cd>a tax, such as customs, excises, <-- VAT,-->etc., exacted directly from the merchant, but paid indirectly by the consumer in the higher price demanded for the articles of merchandise.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indirected</ent><br/
@@ -15983,7 +15983,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>An infinitely small quantity which is assumed to admit of no further division.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Method of indivisibles</b></col>, <cd>a kind of calculus, formerly in use, in which lines were considered as made up of an infinite number of points; surfaces, as made up of an infinite number of lines; and volumes, as made up of an infinite number of surfaces.</cd></cs><br/
+<p><cs><col>Method of indivisibles</col>, <cd>a kind of calculus, formerly in use, in which lines were considered as made up of an infinite number of points; surfaces, as made up of an infinite number of lines; and volumes, as made up of an infinite number of surfaces.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indivisibleness</ent><br/
@@ -16194,7 +16194,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Indonesian</ent><br/
-<hw>In`do*ne"sian</hw>, <pos>n.</pos> <sn>1.</sn> <def>A member of a race forming the chief pre-Malay population of the Malay Archipelago, and probably sprung from a mixture of Polynesian and Mongoloid immigrants. According to Keane, the autochthonous Negritos were largely expelled by the Caucasian Polynesians, themselves followed by Mongoloid peoples of Indo-Chinese affinities, from mixture with whom sprang the <col><b>Indonesian race</b></col>.</def><br/
+<hw>In`do*ne"sian</hw>, <pos>n.</pos> <sn>1.</sn> <def>A member of a race forming the chief pre-Malay population of the Malay Archipelago, and probably sprung from a mixture of Polynesian and Mongoloid immigrants. According to Keane, the autochthonous Negritos were largely expelled by the Caucasian Polynesians, themselves followed by Mongoloid peoples of Indo-Chinese affinities, from mixture with whom sprang the <col>Indonesian race</col>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>The term <qex>Indonesian</qex>, introduced by Logan to designate the light-colored non-Malay inhabitants of the Eastern Archipelago, is now used as a convenient collective name for all the peoples of Malaysia and Polynesia who are neither Malay nor Papuans, but of Caucasic type.  . . . The true <qex>Indonesians</qex> are of tall stature (5 ft. 10 in.), muscular frame, rather oval features, high, open forehead, large straight or curved nose, large full eyes always horizontal and with no trace of the third lid, light brown complexion (cinnamon or ruddy brown), long black hair, not lank but often slightly curled or wavy, skull generally brachycephalous like that of the melanochroic European.</q>  <rj><qau>A. H. Keane.</qau></rj><br/
@@ -16245,7 +16245,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>To give one's name or support to; to sanction; to aid by approval; to approve; <as>as, to <ex>indorse</ex> an opinion</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To indorse in blank</b></col>, <cd>to write one's name on the back of a note or bill, leaving a blank to be filled by the holder.</cd></cs><br/
+<p><cs><col>To indorse in blank</col>, <cd>to write one's name on the back of a note or bill, leaving a blank to be filled by the holder.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Indorsed</ent><br/
@@ -16269,7 +16269,7 @@ Forever knit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>Sanction, support, or approval; <as>as, the <ex>indorsement</ex> of a rumor, an opinion, a course, conduct</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Blank indorsement</b></col>. <cd>See under <er>Blank</er>.</cd></cs></p>
+<p><cs><col>Blank indorsement</col>. <cd>See under <er>Blank</er>.</cd></cs></p>
 
 <p><ent>Indorsor</ent><br/
 <ent>Indorser</ent><br/
@@ -16513,10 +16513,10 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Physics)</fld> <def>The property by which one body, having electrical or magnetic polarity, causes or induces it in another body without direct contact; an impress of electrical or magnetic force or condition from one body on another without actual contact.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Electro-dynamic induction</b></col>, <cd>the action by which a variable or interrupted current of electricity excites another current in a neighboring conductor forming a closed circuit.</cd> -- <col><b>Electro-magnetic induction</b></col>, <cd>the influence by which an electric current produces magnetic polarity in certain bodies near or around which it passes.</cd> -- <col><b>Electro-static induction</b></col>, <cd>the action by which a body possessing a charge of statical electricity develops a charge of statical electricity of the opposite character in a neighboring body.</cd> -- <col><b>Induction coil</b></col>, <cd>an apparatus producing induced currents of great intensity. It consists of a coil or helix of stout insulated copper wire, surrounded by another coil of very fine insulated wire, in which a momentary current is induced, when a current (as from a voltaic battery), passing through the inner coil, is made, broken, or varied. The inner coil has within it a core of soft iron, and is connected at its terminals with a condenser; -- called also <altname>inductorium</altname>, and <altname>Ruhmkorff's coil</altname>.</cd> -- <mcol><col><b>Induction pipe</b></col>, <col><b>Induction port</b></col>, <it>or</it> <col><b>Induction valve</b></col></mcol>, <cd>a pipe, passageway, or valve, for leading or admitting a fluid to a receiver, as steam to an engine cylinder, or water to a pump.</cd> -- <col><b>Magnetic induction</b></col>, <cd>the action by which magnetic polarity is developed in a body susceptible to magnetic effects when brought under the influence of a magnet.</cd> -- <col><b>Magneto-electric induction</b></col>, <cd>the influence by which a magnet excites electric currents in closed circuits.</cd></cs><br/
+<p><cs><col>Electro-dynamic induction</col>, <cd>the action by which a variable or interrupted current of electricity excites another current in a neighboring conductor forming a closed circuit.</cd> -- <col>Electro-magnetic induction</col>, <cd>the influence by which an electric current produces magnetic polarity in certain bodies near or around which it passes.</cd> -- <col>Electro-static induction</col>, <cd>the action by which a body possessing a charge of statical electricity develops a charge of statical electricity of the opposite character in a neighboring body.</cd> -- <col>Induction coil</col>, <cd>an apparatus producing induced currents of great intensity. It consists of a coil or helix of stout insulated copper wire, surrounded by another coil of very fine insulated wire, in which a momentary current is induced, when a current (as from a voltaic battery), passing through the inner coil, is made, broken, or varied. The inner coil has within it a core of soft iron, and is connected at its terminals with a condenser; -- called also <altname>inductorium</altname>, and <altname>Ruhmkorff's coil</altname>.</cd> -- <mcol><col>Induction pipe</col>, <col>Induction port</col>, <it>or</it> <col>Induction valve</col></mcol>, <cd>a pipe, passageway, or valve, for leading or admitting a fluid to a receiver, as steam to an engine cylinder, or water to a pump.</cd> -- <col>Magnetic induction</col>, <cd>the action by which magnetic polarity is developed in a body susceptible to magnetic effects when brought under the influence of a magnet.</cd> -- <col>Magneto-electric induction</col>, <cd>the influence by which a magnet excites electric currents in closed circuits.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Logical induction</b></col>, <fld>(Philos.)</fld>, <cd>an act or method of reasoning from all the parts separately to the whole which they constitute, or into which they may be united collectively; the operation of discovering and proving general propositions; the scientific method.</cd> -- <col><b>Philosophical induction</b></col>, <cd>the inference, or the act of inferring, that what has been observed or established in respect to a part, individual, or species, may, on the ground of analogy, be affirmed or received of the whole to which it belongs. This last is the <xex>inductive method</xex> of Bacon. It ascends from the parts to the whole, and forms, from the general analogy of nature, or special presumptions in the case, conclusions which have greater or less degrees of force, and which may be strengthened or weakened by subsequent experience and experiment. It relates to actual existences, as in physical science or the concerns of life. <xex>Logical induction</xex> is founded on the necessary laws of thought; <xex>philosophical induction</xex>, on the interpretation of the indications or analogy of nature.</cd></cs><-- "scientific method" is now considered as the latter, rather than the former! --><br/
+<p><cs><col>Logical induction</col>, <fld>(Philos.)</fld>, <cd>an act or method of reasoning from all the parts separately to the whole which they constitute, or into which they may be united collectively; the operation of discovering and proving general propositions; the scientific method.</cd> -- <col>Philosophical induction</col>, <cd>the inference, or the act of inferring, that what has been observed or established in respect to a part, individual, or species, may, on the ground of analogy, be affirmed or received of the whole to which it belongs. This last is the <xex>inductive method</xex> of Bacon. It ascends from the parts to the whole, and forms, from the general analogy of nature, or special presumptions in the case, conclusions which have greater or less degrees of force, and which may be strengthened or weakened by subsequent experience and experiment. It relates to actual existences, as in physical science or the concerns of life. <xex>Logical induction</xex> is founded on the necessary laws of thought; <xex>philosophical induction</xex>, on the interpretation of the indications or analogy of nature.</cd></cs><-- "scientific method" is now considered as the latter, rather than the former! --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Deduction.</syn> <usage> -- <er>Induction</er>, <er>Deduction</er>. In <xex>induction</xex> we observe a sufficient number of individual facts, and, on the ground of analogy, extend what is true of them to others of the same class, thus arriving at <xex>general</xex> principles or laws. This is the kind of reasoning in physical science. In <xex>deduction</xex> we begin with a <xex>general</xex> truth, which is already proven or provisionally assumed, and seek to connect it with some particular case by means of a middle term, or class of objects, known to be equally connected with both. Thus, we bring down the general into the particular, affirming of the latter the distinctive qualities of the former. This is the syllogistic method. By <xex>induction</xex> Franklin established the identity of lightning and electricity; by <xex>deduction</xex> he inferred that dwellings might be protected by lightning rods.</usage><br/
@@ -16557,7 +16557,7 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Physics)</fld> <sd>(a)</sd> <def>Operating by induction; <as>as, an <ex>inductive</ex> electrical machine</as>.</def> <sd>(b)</sd> <def>Facilitating induction; susceptible of being acted upon by induction; <as>as, certain substances have a great <ex>inductive</ex> capacity</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inductive embarrassment</b></col> <fld>(Physics)</fld>, <cd>the retardation in signaling on an electric wire, produced by lateral induction.</cd> -- <mcol><col><b>Inductive philosophy</b></col>  <it>or</it> <col><b>Inductive method</b></col></mcol>. <cd>See <cref>Philosophical induction</cref>, under <er>Induction</er>.</cd> -- <col><b>Inductive sciences</b></col>, <cd>those sciences which admit of, and employ, the inductive method, as astronomy, botany, chemistry, etc.</cd></cs><br/
+<p><cs><col>Inductive embarrassment</col> <fld>(Physics)</fld>, <cd>the retardation in signaling on an electric wire, produced by lateral induction.</cd> -- <mcol><col>Inductive philosophy</col>  <it>or</it> <col>Inductive method</col></mcol>. <cd>See <cref>Philosophical induction</cref>, under <er>Induction</er>.</cd> -- <col>Inductive sciences</col>, <cd>those sciences which admit of, and employ, the inductive method, as astronomy, botany, chemistry, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inductively</ent><br/
@@ -16777,7 +16777,7 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 <hw>In*du"sial</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Indusium</er>.]</ety> <def>Of, pertaining to, or containing, the petrified cases of the larv<ae/ of certain insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Indusial limestone</b></col> <fld>(Geol.)</fld>, <cd>a fresh-water limestone, largely composed of the agglomerated cases of caddice worms, or larv<ae/ of caddice flies (<gen>Phryganea</gen>). It is found in Miocene strata of Auvergne, France, and some other localities.</cd></cs></p>
+<p><cs><col>Indusial limestone</col> <fld>(Geol.)</fld>, <cd>a fresh-water limestone, largely composed of the agglomerated cases of caddice worms, or larv<ae/ of caddice flies (<gen>Phryganea</gen>). It is found in Miocene strata of Auvergne, France, and some other localities.</cd></cs></p>
 
 <p><ent>Indusiated</ent><br/
 <ent>Indusiate</ent><br/
@@ -16797,7 +16797,7 @@ The curtains of the tragedy hereafter.</q> <rj><qau>Massinger.</qau></rj><br/
 
 <p><-- p. 756 --></p>
 
-<p><cs><col><b>Industrial exhibition</b></col>, <cd>a public exhibition of the various industrial products of a country, or of various countries.</cd> -- <col><b>Industrial school</b></col>, <cd>a school for teaching one or more branches of industry; also, a school for educating neglected children, and training them to habits of industry.</cd></cs><br/
+<p><cs><col>Industrial exhibition</col>, <cd>a public exhibition of the various industrial products of a country, or of various countries.</cd> -- <col>Industrial school</col>, <cd>a school for teaching one or more branches of industry; also, a school for educating neglected children, and training them to habits of industry.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Industrialism</ent><br/
@@ -17446,7 +17446,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>Lack of activity; sluggishness; -- said especially of the uterus, when, in labor, its contractions have nearly or wholly ceased.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Center of inertia</b></col>. <fld>(Mech.)</fld> <cd>See under <er>Center</er>.</cd></cs><br/
+<p><cs><col>Center of inertia</col>. <fld>(Mech.)</fld> <cd>See under <er>Center</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inertion</ent><br/
@@ -17984,7 +17984,7 @@ Of circuit <qex>inexpressible</qex> they stood.</q> <rj><qau>Milton.</qau></rj><
 <p><q><qex>Infallibility</qex> is the highest perfection of the knowing faculty.</q> <rj><qau>Tillotson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Papal infallibility</b></col> <fld>(R. C. Ch.)</fld>, <cd>the dogma that the pope can not, when acting in his official character of supreme pontiff, err in defining a doctrine of Christian faith or rule of morals, to be held by the church. This was decreed by the Ecumenical Council at the Vatican, July 18, 1870.</cd></cs><br/
+<p><cs><col>Papal infallibility</col> <fld>(R. C. Ch.)</fld>, <cd>the dogma that the pope can not, when acting in his official character of supreme pontiff, err in defining a doctrine of Christian faith or rule of morals, to be held by the church. This was decreed by the Ecumenical Council at the Vatican, July 18, 1870.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infallible</ent><br/
@@ -18572,7 +18572,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 <p><sn>5.</sn> <fld>(Min.)</fld> <def>Junior or subordinate in rank; <as>as, an <ex>inferior</ex> officer</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inferior court</b></col> <fld>(Law)</fld>, <cd>a court subject to the jurisdiction of another court known as the <contr>superior court</contr>, or <contr>higher court</contr>.</cd> -- <mcol><col><b>Inferior letter</b></col>, <col><b>Inferior figure</b></col></mcol> <fld>(Print.)</fld>, <cd>a small letter or figure standing at the bottom of the line (opposed to <contr>superior letter</contr> or <xex>figure</xex>), <as>as in A<subs>2</subs>, B<subs>n</subs>, 2 and <it>n</it> are <ex>inferior</ex> characters</as>.</cd> -- <col><b>Inferior tide</b></col>, <cd>the tide corresponding to the moon's transit of the meridian, when below the horizon.</cd></cs><br/
+<p><cs><col>Inferior court</col> <fld>(Law)</fld>, <cd>a court subject to the jurisdiction of another court known as the <contr>superior court</contr>, or <contr>higher court</contr>.</cd> -- <mcol><col>Inferior letter</col>, <col>Inferior figure</col></mcol> <fld>(Print.)</fld>, <cd>a small letter or figure standing at the bottom of the line (opposed to <contr>superior letter</contr> or <xex>figure</xex>), <as>as in A<subs>2</subs>, B<subs>n</subs>, 2 and <it>n</it> are <ex>inferior</ex> characters</as>.</cd> -- <col>Inferior tide</col>, <cd>the tide corresponding to the moon's transit of the meridian, when below the horizon.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inferior</ent><br/
@@ -18609,7 +18609,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 <p><q>The instruments or abettors in such <qex>infernal</qex> dealings.</q> <rj><qau>Addison.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infernal machine</b></col>, <cd>a machine or apparatus maliciously designed to explode, and destroy life or property.</cd> -- <col><b>Infernal stone</b></col> <cd>(<altname>lapis infernalis</altname>), lunar caustic; formerly so called. The name was also applied to caustic potash.</cd></cs></p>
+<p><cs><col>Infernal machine</col>, <cd>a machine or apparatus maliciously designed to explode, and destroy life or property.</cd> -- <col>Infernal stone</col> <cd>(<altname>lapis infernalis</altname>), lunar caustic; formerly so called. The name was also applied to caustic potash.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Tartarean; Stygian; hellish; devilish; diabolical; satanic; fiendish; malicious.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -18817,7 +18817,7 @@ And as silently steal away.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><q>Calcareous <qex>infiltrations</qex> filling the cavities.</q> <rj><qau>Kirwan.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Fatty infiltration</b></col>. <fld>(Med.)</fld> <cd>See under <er>Fatty</er>.</cd> -- <col><b>Infiltration gallery</b></col>, <cd>a filter gallery.</cd></cs><br/
+<p><cs><col>Fatty infiltration</col>. <fld>(Med.)</fld> <cd>See under <er>Fatty</er>.</cd> -- <col>Infiltration gallery</col>, <cd>a filter gallery.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infiltrative</ent><br/
@@ -18908,7 +18908,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 <hw>In`fin*i*tes"i*mal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>infinit<eacute/simal</ets>, fr. <ets>infinit<eacute/sime</ets> infinitely small, fr. L. <ets>infinitus</ets>. See <er>Infinite</er>, <pos>a.</pos>]</ety> <def>Infinitely or indefinitely small; less than any assignable quantity or value; very small.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infinitesimal calculus</b></col>, <cd>the different and the integral calculus, when developed according to the method used by Leibnitz, who regarded the increments given to variables as infinitesimal.</cd></cs><br/
+<p><cs><col>Infinitesimal calculus</col>, <cd>the different and the integral calculus, when developed according to the method used by Leibnitz, who regarded the increments given to variables as infinitesimal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infinitesimal</ent><br/
@@ -18927,7 +18927,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 <hw>In*fin"i*tive</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>infinitivus</ets>: cf. F. <ets>infinitif</ets>. See <er>Infinite</er>.]</ety> <def>Unlimited; not bounded or restricted; undefined.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infinitive mood</b></col> <fld>(Gram.)</fld>, <cd>that form of the verb which merely names the action, and performs the office of a verbal noun. Some grammarians make two forms in English: (<stype>a</stype>) The simple form, as, <xex>speak</xex>, <xex>go</xex>, <xex>hear</xex>, before which <xex>to</xex> is commonly placed, as, <xex>to speak</xex>; <xex>to go</xex>; <xex>to hear</xex>. (<stype>b</stype>) The form of the imperfect participle, called the infinitive in <xex>-ing</xex>; as, <xex>going</xex> is as easy as <xex>standing</xex>.</cd></cs><br/
+<p><cs><col>Infinitive mood</col> <fld>(Gram.)</fld>, <cd>that form of the verb which merely names the action, and performs the office of a verbal noun. Some grammarians make two forms in English: (<stype>a</stype>) The simple form, as, <xex>speak</xex>, <xex>go</xex>, <xex>hear</xex>, before which <xex>to</xex> is commonly placed, as, <xex>to speak</xex>; <xex>to go</xex>; <xex>to hear</xex>. (<stype>b</stype>) The form of the imperfect participle, called the infinitive in <xex>-ing</xex>; as, <xex>going</xex> is as easy as <xex>standing</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note>With the auxiliary verbs <xex>may</xex>, <xex>can</xex>, <xex>must</xex>, <xex>might</xex>, <xex>could</xex>, <xex>would</xex>, and <xex>should</xex>, the simple infinitive is expressed without <xex>to</xex>; as, you <xex>may speak</xex>; they <xex>must hear</xex>, etc. The infinitive usually omits <xex>to</xex> with the verbs <xex>let</xex>, <xex>dare</xex>, <xex>do</xex>, <xex>bid</xex>, <xex>make</xex>, <xex>see</xex>, <xex>hear</xex>, <xex>need</xex>, etc.; as, let me <xex>go</xex>; you dare not <xex>tell</xex>; make him <xex>work</xex>; hear him <xex>talk</xex>, etc.</note><br/
@@ -18996,7 +18996,7 @@ With <qex>infinite</qex> of pearls and finest gold.</q> <rj><qau>Fanshawe.</qau>
 <p><sn>5.</sn> <fld>(Geom.)</fld> <def>That part of a line, or of a plane, or of space, which is infinitely distant. In modern geometry, parallel lines or planes are sometimes treated as lines or planes meeting at infinity.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Circle at infinity</b></col>, <cd>an imaginary circle at infinity, through which, in geometry of three dimensions, every sphere is imagined to pass.</cd> -- <col><b>Circular points at infinity</b></col>. <cd>See under <er>Circular</er>.</cd></cs><br/
+<p><cs><col>Circle at infinity</col>, <cd>an imaginary circle at infinity, through which, in geometry of three dimensions, every sphere is imagined to pass.</cd> -- <col>Circular points at infinity</col>. <cd>See under <er>Circular</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infirm</ent><br/
@@ -19154,7 +19154,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><sn>2.</sn> <def>Excitable; irritable; irascible; easily provoked; <as>as, an <ex>inflammable</ex> temper</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inflammable air</b></col>, <cd>the old chemical name for hydrogen.</cd></cs><br/
+<p><cs><col>Inflammable air</col>, <cd>the old chemical name for hydrogen.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflammableness</ent><br/
@@ -19189,7 +19189,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>Accompanied with, or tending to cause, preternatural heat and excitement of arterial action; <as>as, an <ex>inflammatory</ex> disease</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inflammatory crust</b></col>. <fld>(Med.)</fld> <cd>Same as <cref>Buffy coat</cref>, under <er>Buffy</er>.</cd> -- <col><b>Inflammatory fever</b></col>, <cd>a variety of fever due to inflammation.</cd></cs><br/
+<p><cs><col>Inflammatory crust</col>. <fld>(Med.)</fld> <cd>Same as <cref>Buffy coat</cref>, under <er>Buffy</er>.</cd> -- <col>Inflammatory fever</col>, <cd>a variety of fever due to inflammation.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflatable</ent><br/
@@ -19287,7 +19287,7 @@ To ineffable <qex>inflatus</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Gram.)</fld> <def>Having inflections; capable of, or subject to, inflection; inflective.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inflected cycloid</b></col> <fld>(Geom.)</fld>, <cd>a prolate cycloid. See <er>Cycloid</er>.</cd></cs><br/
+<p><cs><col>Inflected cycloid</col> <fld>(Geom.)</fld>, <cd>a prolate cycloid. See <er>Cycloid</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflection</ent><br/
@@ -19309,7 +19309,7 @@ To ineffable <qex>inflatus</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Opt.)</fld> <def>Same as <er>Diffraction</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Point of inflection</b></col> <fld>(Geom.)</fld>, <cd>the point on opposite sides of which a curve bends in contrary ways.</cd></cs><br/
+<p><cs><col>Point of inflection</col> <fld>(Geom.)</fld>, <cd>the point on opposite sides of which a curve bends in contrary ways.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflectional</ent><br/
@@ -19323,7 +19323,7 @@ To ineffable <qex>inflatus</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Gram.)</fld> <def>Inflectional; characterized by variation, or change in form, to mark case, tense, etc.; subject to inflection.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inflective language</b></col> <fld>(Philol.)</fld>, <cd>a language like the Greek or Latin, consisting largely of stems with variable terminations or suffixes which were once independent words. English is both agglutinative, as, <xex>manlike</xex>, <xex>headache</xex>, and inflective, as, <xex>he</xex>, <xex>his</xex>, <xex>him</xex>.  Cf. <er>Agglutinative</er>.</cd></cs><br/
+<p><cs><col>Inflective language</col> <fld>(Philol.)</fld>, <cd>a language like the Greek or Latin, consisting largely of stems with variable terminations or suffixes which were once independent words. English is both agglutinative, as, <xex>manlike</xex>, <xex>headache</xex>, and inflective, as, <xex>he</xex>, <xex>his</xex>, <xex>him</xex>.  Cf. <er>Agglutinative</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflesh</ent><br/
@@ -19443,7 +19443,7 @@ That man <qex>inflicts</qex> on all inferior kinds.</q> <rj><qau>Cowper.</qau></
 <p><q><qex>Inflorescence</qex> affords an excellent characteristic mark in distinguishing the species of plants.</q> <rj><qau>Milne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Centrifugal inflorescence</b></col>, <cd>determinate inflorescence.</cd> -- <col><b>Centripetal inflorescence</b></col>, <cd>indeterminate inflorescence. See under <er>Determinate</er>, and <er>Indeterminate</er>.</cd></cs><br/
+<p><cs><col>Centrifugal inflorescence</col>, <cd>determinate inflorescence.</cd> -- <col>Centripetal inflorescence</col>, <cd>indeterminate inflorescence. See under <er>Determinate</er>, and <er>Indeterminate</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inflow</ent><br/
@@ -19641,7 +19641,7 @@ Thus to mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>He might either teach in the same manner, or <qex>inform</qex> how he had been taught.</q> <rj><qau>Monthly Rev.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To inform against</b></col>, <cd>to communicate facts by way of accusation against; to denounce; <as>as, two persons came to the magistrate, and <ex>informed against</ex> A</as>.</cd></cs><br/
+<p><cs><col>To inform against</col>, <cd>to communicate facts by way of accusation against; to denounce; <as>as, two persons came to the magistrate, and <ex>informed against</ex> A</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Informal</ent><br/
@@ -19728,7 +19728,7 @@ was hanged.</q> <rj><qau>Burke.</qau></rj><br/
 <hw>In*formed"</hw> <pr>(<icr/n*f<ocir/rmd")</pr>, <pos>a.</pos> <def>Unformed or ill-formed; deformed; shapeless.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Informed stars</b></col>. <cd>See under <er>Unformed</er>.</cd></cs><br/
+<p><cs><col>Informed stars</col>. <cd>See under <er>Unformed</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Informer</ent><br/
@@ -19744,7 +19744,7 @@ was hanged.</q> <rj><qau>Burke.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Law)</fld> <def>One who informs a magistrate of violations of law; one who informs against another for violation of some law or penal statute.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Common informer</b></col> <fld>(Law)</fld>, <cd>one who habitually gives information of the violation of penal statutes, with a view to a prosecution therefor.</cd>  <au>Bouvier.</au>  <au>Wharton.</au></cs><br/
+<p><cs><col>Common informer</col> <fld>(Law)</fld>, <cd>one who habitually gives information of the violation of penal statutes, with a view to a prosecution therefor.</cd>  <au>Bouvier.</au>  <au>Wharton.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Informidable</ent><br/
@@ -20056,7 +20056,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 <mhw>{ <hw>In`fun*dib"u*lar</hw> <pr>(?)</pr>, <hw>In`fun*dib"u*late</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[See <er>Infundibulum</er>.]</ety> <def>Having the form of a funnel; pertaining to an infundibulum.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infundibulate Bryozoa</b></col> <fld>(Zool.)</fld>,<cd>a group of marine Bryozoa having a circular arrangement of the tentacles upon the disk.</cd></cs><br/
+<p><cs><col>Infundibulate Bryozoa</col> <fld>(Zool.)</fld>,<cd>a group of marine Bryozoa having a circular arrangement of the tentacles upon the disk.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Infundibuliform</ent><br/
@@ -20235,7 +20235,7 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj><b
 <hw>In`fu*so"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Belonging to the Infusoria; composed of, or containing, Infusoria; <as>as, <ex>infusorial</ex> earth</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Infusorial earth</b></col> <fld>(Geol.)</fld>, <cd>a deposit of fine, usually white, siliceous material, composed mainly of the shells of the microscopic plants called <compof>diatoms</compof>; also called <altname>diatomaceous earth</altname>, <altname>kieselguhr</altname>, and <altname>diatomite</altname>. It is used in polishing powder, and in the manufacture of dynamite.</cd></cs><br/
+<p><cs><col>Infusorial earth</col> <fld>(Geol.)</fld>, <cd>a deposit of fine, usually white, siliceous material, composed mainly of the shells of the microscopic plants called <compof>diatoms</compof>; also called <altname>diatomaceous earth</altname>, <altname>kieselguhr</altname>, and <altname>diatomite</altname>. It is used in polishing powder, and in the manufacture of dynamite.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Infusorian</ent><br/
@@ -20521,7 +20521,7 @@ To artist <qex>ingenuity</qex> and skill.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>In"gle</hw> <pr>(<icr/<nsm/"g'l)</pr>, <pos>n.</pos> <ety>[Gael. & Ir. <ets>aingeali</ets> fire; cf. L. <ets>igniculusi</ets> spark, dim. of <ets>ignis</ets> fire.  Cf. <er>Ignite</er>.]</ety> <def>Flame; blaze; a fire; a fireplace.</def> <mark>[Obs. or Scot.]</mark>  <rj><au>Burns.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ingle nook</b></col>, <cd>the chimney corner.</cd> -- <mcol><col><b>Ingle side</b></col>, <col><b>Ingle cheek</b></col></mcol>, <cd>the fireside.</cd></cs><br/
+<p><cs><col>Ingle nook</col>, <cd>the chimney corner.</cd> -- <mcol><col>Ingle side</col>, <col>Ingle cheek</col></mcol>, <cd>the fireside.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingle</ent><br/
@@ -20615,7 +20615,7 @@ And in the <qex>ingot</qex> put it with merry cheer.</q> <rj><qau>Chaucer.</qau>
 <p><q>Wrought <qex>ingots</qex> from Besoara's mine.</q> <rj><qau>Sir W. Jones.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ingot mold</b></col>, <cd>a box or mold in which ingots are cast.</cd> -- <col><b>Ingot iron</b></col>. <cd>See <cref>Decarbonized steel</cref>, under <er>Decarbonize</er>.</cd></cs><br/
+<p><cs><col>Ingot mold</col>, <cd>a box or mold in which ingots are cast.</cd> -- <col>Ingot iron</col>. <cd>See <cref>Decarbonized steel</cref>, under <er>Decarbonize</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingot steel</ent><br/
@@ -20672,7 +20672,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>Dyed before manufacture, -- said of the material of a textile fabric; hence, in general, thoroughly inwrought; forming an essential part of the substance.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ingrain carpet</b></col>, <cd>a double or two-ply carpet.</cd> -- <col><b>Triple ingrain carpet</b></col>, <cd>a three-ply carpet.</cd></cs><br/
+<p><cs><col>Ingrain carpet</col>, <cd>a double or two-ply carpet.</cd> -- <col>Triple ingrain carpet</col>, <cd>a three-ply carpet.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingrain</ent><br/
@@ -20878,7 +20878,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>In"grown`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having grown or appearing to grow into some other substance, especially a fingernail or toenail growing into the adjacent flesh.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Ingrown toenail</b></col>, <cd>a toenail whose edges have becoming imbedded in the adjacent flesh.</cd></cs><br/
+<p><cs><col>Ingrown toenail</col>, <cd>a toenail whose edges have becoming imbedded in the adjacent flesh.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Ingrowth</ent><br/
@@ -20897,7 +20897,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>In"gui*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>inguinalis</ets>, fr. <ets>inguen</ets>, <ets>inguinis</ets>, the groin: cf. F. <ets>inguinal</ets>.]</ety> <fld>(Astron. & Med.)</fld> <def>Of or pertaining to, or in the region of, the inguen or groin; <as>as, an <ex>inguinal</ex> canal or ligament; <ex>inguinal</ex> hernia.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inguinal ring</b></col>. <cd>See <cref>Abdominal ring</cref>, under <er>Abdominal</er>.</cd></cs><br/
+<p><cs><col>Inguinal ring</col>. <cd>See <cref>Abdominal ring</cref>, under <er>Abdominal</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ingulf</ent><br/
@@ -21216,7 +21216,7 @@ And never after to <qex>inherit</qex> it.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The eldest daughter of the king is also alone <qex>inheritable</qex> to the crown on failure of issue male.</q> <rj><qau>Blackstone.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inheritable blood</b></col>, <cd>blood or relationship by which a person becomes qualified to be an heir, or to transmit possessions by inheritance.</cd></cs><br/
+<p><cs><col>Inheritable blood</col>, <cd>blood or relationship by which a person becomes qualified to be an heir, or to transmit possessions by inheritance.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inheritably</ent><br/
@@ -21365,7 +21365,7 @@ Of brother's praise; to you eke 'longs his love.</q> <rj><qau>Spenser.</qau></rj
 <p><q>I would not have you consider these criticisms as <qex>inhibitory</qex>.</q> <rj><qau>Lamb.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inhibitory nerves</b></col> <fld>(Physiol.)</fld>, <cd>those nerves which modify, inhibit, or suppress a motor or secretory act already in progress.</cd></cs><br/
+<p><cs><col>Inhibitory nerves</col> <fld>(Physiol.)</fld>, <cd>those nerves which modify, inhibit, or suppress a motor or secretory act already in progress.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inhibitory-motor</ent><br/
@@ -21667,7 +21667,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <qex>Initiate</qex> in the secrets of the skies.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Initiate tenant by courtesy</b></col> <fld>(Law)</fld>, <cd>said of a husband who becomes such in his wife's estate of inheritance by the birth of a child, but whose estate is not consummated till the death of the wife.</cd>  <rj><au>Mozley & W.</au></rj></cs><br/
+<p><cs><col>Initiate tenant by courtesy</col> <fld>(Law)</fld>, <cd>said of a husband who becomes such in his wife's estate of inheritance by the birth of a child, but whose estate is not consummated till the death of the wife.</cd>  <rj><au>Mozley & W.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Initiate</ent><br/
@@ -21782,7 +21782,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Steam Eng.)</fld> <sd>(a)</sd> <def>The act of throwing cold water into a condenser to produce a vacuum.</def> <sd>(b)</sd> <def>The cold water thrown into a condenser.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Injection cock</b></col>, <it>or</it> <col><b>Injection valve</b></col></mcol> <fld>(Steam Eng.)</fld>, <cd>the cock or valve through which cold water is admitted into a condenser.</cd> -- <col><b>Injection condenser</b></col>. <cd>See under <er>Condenser</er>.</cd> -- <col><b>Injection pipe</b></col>, <cd>the pipe through which cold water is through into the condenser of a steam engine.</cd> -- <col><b>fuel injection</b></col>, <cd>a method of inserting fuel into internal-combustion engines by directly forcing the liquid fuel into the combustion chamber at an appropriate point in the piston cycle; in contrast to <contr>carburetion</contr>, in which an air-fuel mixture is drawn in by the downward stroke of the piston.</cd></cs><br/
+<p><cs><mcol><col>Injection cock</col>, <it>or</it> <col>Injection valve</col></mcol> <fld>(Steam Eng.)</fld>, <cd>the cock or valve through which cold water is admitted into a condenser.</cd> -- <col>Injection condenser</col>. <cd>See under <er>Condenser</er>.</cd> -- <col>Injection pipe</col>, <cd>the pipe through which cold water is through into the condenser of a steam engine.</cd> -- <col>fuel injection</col>, <cd>a method of inserting fuel into internal-combustion engines by directly forcing the liquid fuel into the combustion chamber at an appropriate point in the piston cycle; in contrast to <contr>carburetion</contr>, in which an air-fuel mixture is drawn in by the downward stroke of the piston.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Injector</ent><br/
@@ -21791,7 +21791,7 @@ Of miming gets the opinion of a wit.</q> <rj><qau>B. Jonson.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Mach.)</fld> <def>A contrivance for forcing feed water into a steam boiler by the direct action of the steam upon the water. The water is driven into the boiler by the impulse of a jet of the steam which becomes condensed as soon as it strikes the stream of cold water it impels; -- also called <altname>Giffard's injector</altname>, from the inventor.</def></p>
 
-<p><cs><col><b>fuel injector</b></col>, <cd>a device for actively injecting fuel into an internal-combustion engines by directly forcing the liquid fuel into the combustion chamber at an appropriate point in the piston cycle; -- an alternative to a <contr>carburetor</contr>, in which an air-fuel mixture is drawn in by the downward stroke of the piston.</cd></cs><br/
+<p><cs><col>fuel injector</col>, <cd>a device for actively injecting fuel into an internal-combustion engines by directly forcing the liquid fuel into the combustion chamber at an appropriate point in the piston cycle; -- an alternative to a <contr>carburetor</contr>, in which an air-fuel mixture is drawn in by the downward stroke of the piston.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Injelly</ent><br/
@@ -21963,7 +21963,7 @@ And <qex>injury</qex> and outrage.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ Ordinarily, <xex>black</xex> ink is made from nutgalls and a solution of some salt of iron, and consists essentially of a tannate or gallate of iron; sometimes indigo sulphate, or other coloring matter, is added. Other black inks contain potassium chromate, and extract of logwood, salts of vanadium, etc. <xex>Blue</xex> ink is usually a solution of Prussian blue. <xex>Red</xex> ink was formerly made from carmine (cochineal), Brazil wood, etc., but potassium eosin is now used. Also red, blue, violet, and yellow inks are largely made from aniline dyes. <xex>Indelible</xex> ink is usually a weak solution of silver nitrate, but carbon in the form of lampblack or India ink, salts of molybdenum, vanadium, etc., are also used. <xex>Sympathetic</xex> inks may be made of milk, salts of cobalt, etc. See <cref>Sympathetic ink</cref> (below).</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Copying ink</b></col>, <cd>a peculiar ink used for writings of which copies by impression are to be taken.</cd> -- <col><b>Ink bag</b></col> <fld>(Zool.)</fld>, <cd>an ink sac.</cd> -- <col><b>Ink berry</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A shrub of the Holly family (<spn>Ilex glabra</spn>), found in sandy grounds along the coast from New England to Florida, and producing a small black berry.</cd>  <sd>(b)</sd> <cd>The West Indian indigo berry. See <er>Indigo</er>.</cd> -- <col><b>Ink plant</b></col> <fld>(Bot.)</fld>, <cd>a New Zealand shrub (<spn>Coriaria thymifolia</spn>), the berries of which yield a juice which forms an ink.</cd> -- <col><b>Ink powder</b></col>, <cd>a powder from which ink is made by solution.</cd> -- <col><b>Ink sac</b></col> <fld>(Zool.)</fld>, <cd>an organ, found in most cephalopods, containing an inky fluid which can be ejected from a duct opening at the base of the siphon. The fluid serves to cloud the water, and enable these animals to escape from their enemies. See <xex>Illust.</xex> of <er>Dibranchiata</er>.</cd> -- <mcol><col><b>Printer's ink</b></col>, <it>or</it> <col><b>Printing ink</b></col></mcol>. <cd>See under <er>Printing</er>.</cd> -- <col><b>Sympathetic ink</b></col>, <cd>a writing fluid of such a nature that what is written remains invisible till the action of a reagent on the characters makes it visible.</cd></cs><br/
+<p><cs><col>Copying ink</col>, <cd>a peculiar ink used for writings of which copies by impression are to be taken.</cd> -- <col>Ink bag</col> <fld>(Zool.)</fld>, <cd>an ink sac.</cd> -- <col>Ink berry</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A shrub of the Holly family (<spn>Ilex glabra</spn>), found in sandy grounds along the coast from New England to Florida, and producing a small black berry.</cd>  <sd>(b)</sd> <cd>The West Indian indigo berry. See <er>Indigo</er>.</cd> -- <col>Ink plant</col> <fld>(Bot.)</fld>, <cd>a New Zealand shrub (<spn>Coriaria thymifolia</spn>), the berries of which yield a juice which forms an ink.</cd> -- <col>Ink powder</col>, <cd>a powder from which ink is made by solution.</cd> -- <col>Ink sac</col> <fld>(Zool.)</fld>, <cd>an organ, found in most cephalopods, containing an inky fluid which can be ejected from a duct opening at the base of the siphon. The fluid serves to cloud the water, and enable these animals to escape from their enemies. See <xex>Illust.</xex> of <er>Dibranchiata</er>.</cd> -- <mcol><col>Printer's ink</col>, <it>or</it> <col>Printing ink</col></mcol>. <cd>See under <er>Printing</er>.</cd> -- <col>Sympathetic ink</col>, <cd>a writing fluid of such a nature that what is written remains invisible till the action of a reagent on the characters makes it visible.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ink</ent><br/
@@ -22001,7 +22001,7 @@ And <qex>injury</qex> and outrage.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ink"ing</hw>, <pos>a.</pos> <def>Supplying or covering with ink.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inking roller</b></col>, <cd>a somewhat elastic roller, used to spread ink over forms of type, copperplates, etc.</cd> -- <mcol><col><b>Inking trough</b></col> <it>or</it> <col><b>Inking table</b></col></mcol>, <cd>a trough or table from which the inking roller receives its ink.</cd></cs><br/
+<p><cs><col>Inking roller</col>, <cd>a somewhat elastic roller, used to spread ink over forms of type, copperplates, etc.</cd> -- <mcol><col>Inking trough</col> <it>or</it> <col>Inking table</col></mcol>, <cd>a trough or table from which the inking roller receives its ink.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ink-jet printer</ent><br/
@@ -22271,7 +22271,7 @@ For this same night.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>4.</sn> <def>One of the colleges (societies or buildings) in London, for students of the law barristers; <as>as, the <ex>Inns</ex> of Court; the <ex>Inns</ex> of Chancery; Serjeants' <ex>Inns</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inns of chancery</b></col> <fld>(Eng.)</fld>, <cd>colleges in which young students formerly began their law studies, now occupied chiefly bp attorn`ys, solocitors, etc.</cd> -- <col><b>Inns of court</b></col> <fld>(Eng.)</fld>, <cd>the four societies of <ldquo/students and practicers of the law of England<rdquo/ which in London exercise the exclusive right of admitting persons to practice at the bar; also, the buildings in which the law students and barristers have their chambers. They are the Inner Temple, the Middle Temple, Lincoln's Inn, and Gray's Inn.</cd></cs><br/
+<p><cs><col>Inns of chancery</col> <fld>(Eng.)</fld>, <cd>colleges in which young students formerly began their law studies, now occupied chiefly bp attorn`ys, solocitors, etc.</cd> -- <col>Inns of court</col> <fld>(Eng.)</fld>, <cd>the four societies of <ldquo/students and practicers of the law of England<rdquo/ which in London exercise the exclusive right of admitting persons to practice at the bar; also, the buildings in which the law students and barristers have their chambers. They are the Inner Temple, the Middle Temple, Lincoln's Inn, and Gray's Inn.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 766 --></p>
@@ -22315,7 +22315,7 @@ And <qex>inned</qex> them, everich at his degree.</q> <rj><qau>Chaucer.</qau></r
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>Joined by the base to the very tip of a filament; <as>as, an <ex>innate</ex> anther</as>.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Innate ideas</b></col> <fld>(Metaph.)</fld>, <cd>ideas, as of God, immortality, right and wrong, supposed by some to be inherent in the mind, as a priori principles of knowledge.</cd></cs><br/
+<p><cs><col>Innate ideas</col> <fld>(Metaph.)</fld>, <cd>ideas, as of God, immortality, right and wrong, supposed by some to be inherent in the mind, as a priori principles of knowledge.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Innate</ent><br/
@@ -22359,7 +22359,7 @@ Governs the <qex>inner</qex> man, the nobler part.</q> <rj><qau>Milton.</qau></r
 <p><sn>3.</sn> <def>Not obvious or easily discovered; obscure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inner house</b></col> <fld>(Scot.)</fld>, <cd>the first and second divisions of the court of Session at Edinburgh; also, the place of their sittings.</cd> -- <col><b>Inner jib</b></col> <fld>(Naut.)</fld>, <cd>a fore-and-aft sail set on a stay running from the fore-topmast head to the jib boom.</cd> -- <col><b>Inner plate</b></col> <fld>(Arch.)</fld>, <cd>the wall plate which lies nearest to the center of the roof, in a double-plated roof.</cd> -- <col><b>Inner post</b></col> <fld>(Naut.)</fld>, <cd>a piece brought on at the fore side of the main post, to support the transoms.</cd> -- <col><b>Inner square</b></col> <fld>(Carp.)</fld>, <cd>the angle formed by the inner edges of a carpenter's square.</cd></cs><br/
+<p><cs><col>Inner house</col> <fld>(Scot.)</fld>, <cd>the first and second divisions of the court of Session at Edinburgh; also, the place of their sittings.</cd> -- <col>Inner jib</col> <fld>(Naut.)</fld>, <cd>a fore-and-aft sail set on a stay running from the fore-topmast head to the jib boom.</cd> -- <col>Inner plate</col> <fld>(Arch.)</fld>, <cd>the wall plate which lies nearest to the center of the roof, in a double-plated roof.</cd> -- <col>Inner post</col> <fld>(Naut.)</fld>, <cd>a piece brought on at the fore side of the main post, to support the transoms.</cd> -- <col>Inner square</col> <fld>(Carp.)</fld>, <cd>the angle formed by the inner edges of a carpenter's square.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Innerly</ent><br/
@@ -22485,7 +22485,7 @@ Sung <qex>innocent</qex>, and spent its force in air.</q> <rj><qau>Pope.</qau></
 <p><sn>6.</sn> <def>Not contraband; not subject to forfeiture; <as>as, <ex>innocent</ex> goods carried to a belligerent nation</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Innocent party</b></col> <fld>(Law)</fld>,<cd>a party who has not notice of a fact tainting a litigated transaction with illegality.</cd></cs></p>
+<p><cs><col>Innocent party</col> <fld>(Law)</fld>,<cd>a party who has not notice of a fact tainting a litigated transaction with illegality.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Harmless; innoxious; innoffensive; guiltless; spotless; immaculate; pure; unblamable; blameless; faultless; guileless; upright.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -22500,7 +22500,7 @@ Sung <qex>innocent</qex>, and spent its force in air.</q> <rj><qau>Pope.</qau></
 <p><q>In Scotland a natural fool was called an <qex>innocent</qex>.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Innocents' day</b></col> <fld>(Eccl.)</fld>, <cd>Childermas day.</cd></cs><br/
+<p><cs><col>Innocents' day</col> <fld>(Eccl.)</fld>, <cd>Childermas day.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Innocently</ent><br/
@@ -22538,7 +22538,7 @@ Sung <qex>innocent</qex>, and spent its force in air.</q> <rj><qau>Pope.</qau></
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>A term used in designating many parts otherwise unnamed; <as>as, the <ex>innominate</ex> artery, a great branch of the arch of the aorta; the <ex>innominate</ex> vein, a great branch of the superior vena cava.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Innominate bone</b></col> <fld>(Anat.)</fld>, <cd>the great bone which makes a lateral half of the pelvis in mammals; hip bone; haunch bone; huckle bone. It is composed of three bones, ilium, ischium, and pubis, consolidated into one in the adult, though separate in the fetus, as also in many adult reptiles and amphibians.</cd> -- <col><b>Innominate contracts</b></col> <fld>(Law)</fld>, <cd>in the Roman law, contracts without a specific name.</cd></cs><br/
+<p><cs><col>Innominate bone</col> <fld>(Anat.)</fld>, <cd>the great bone which makes a lateral half of the pelvis in mammals; hip bone; haunch bone; huckle bone. It is composed of three bones, ilium, ischium, and pubis, consolidated into one in the adult, though separate in the fetus, as also in many adult reptiles and amphibians.</cd> -- <col>Innominate contracts</col> <fld>(Law)</fld>, <cd>in the Roman law, contracts without a specific name.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Innovate</ent><br/
@@ -22901,7 +22901,7 @@ In a smooth course, and <qex>inoffensive</qex> tide.</q> <rj><qau>Addison.</qau>
 <p><note><hand/ The term <xex>inorganic</xex> is used to denote any one the large series of substances (as minerals, metals, etc.), which are not directly connected with vital processes, either in origin or nature, and which are broadly and relatively contrasted with <xex>organic</xex> substances. See <er>Organic</er>{5}.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inorganic Chemistry</b></col>. <cd>See under <er>Chemistry</er>.</cd></cs><br/
+<p><cs><col>Inorganic Chemistry</col>. <cd>See under <er>Chemistry</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inorganical</ent><br/
@@ -23004,7 +23004,7 @@ In a smooth course, and <qex>inoffensive</qex> tide.</q> <rj><qau>Addison.</qau>
 <p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Judicial inquiry; official examination, esp. before a jury; <as>as, a coroner's <ex>inquest</ex> in case of a sudden death</as>.</def> <sd>(b)</sd> <def>A body of men assembled under authority of law to inquire into any matter, civil or criminal, particularly any case of violent or sudden death; a jury, particularly a coroner's jury. The <xex>grand jury</xex> is sometimes called the <xex>grand inquest</xex>. See under <er>Grand</er>.</def> <sd>(c)</sd> <def>The finding of the jury upon such inquiry.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Coroner's inquest</b></col>, <cd>an inquest held by a coroner to determine the cause of any violent, sudden, or mysterious death. See <er>Coroner</er>.</cd> -- <col><b>Inquest of office</b></col>, <cd>an inquiry made, by authority or direction of proper officer, into matters affecting the rights and interests of the crown or of the state.</cd>  <rj><au>Craig. Bouvier.</au></rj></cs><br/
+<p><cs><col>Coroner's inquest</col>, <cd>an inquest held by a coroner to determine the cause of any violent, sudden, or mysterious death. See <er>Coroner</er>.</cd> -- <col>Inquest of office</col>, <cd>an inquiry made, by authority or direction of proper officer, into matters affecting the rights and interests of the crown or of the state.</cd>  <rj><au>Craig. Bouvier.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inquiet</ent><br/
@@ -23114,7 +23114,7 @@ Nor by <qex>inquiry</qex> learn, nor guess by aim.</q> <rj><qau>Spenser.</qau></
 <p><q>All that is wanting to the perfection of this art will undoubtedly be found, if able men . . . will make <qex>inquiry</qex> into it.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Court of inquiry</b></col>. <cd>See under <er>Court</er>.</cd> -- <col><b>Writ of inquiry</b></col>, <cd>a writ issued in certain actions at law, where the defendant has suffered judgment to pass against him by default, in order to ascertain and assess the plaintiff's damages, where they can not readily be ascertained by mere calculation.</cd> <au>Burrill.</au></cs></p>
+<p><cs><col>Court of inquiry</col>. <cd>See under <er>Court</er>.</cd> -- <col>Writ of inquiry</col>, <cd>a writ issued in certain actions at law, where the defendant has suffered judgment to pass against him by default, in order to ascertain and assess the plaintiff's damages, where they can not readily be ascertained by mere calculation.</cd> <au>Burrill.</au></cs></p>
 
 <p><syn><b>Syn.</b> -- Interrogation; interrogatory; question; query; scrutiny; investigation; research; examination.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -23252,7 +23252,7 @@ The distant skies, to find the Milky Way.</q> <rj><qau>Creech.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>In rem</ent><br/
-\'d8<hw>In rem</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Lit., in or against a (or the) thing;</def> -- <note>used: <sd>(a)</sd> Of any right (called <col><b>right in rem</b></col> <it>or</it> <col><b>jus in rem</b></col>) of such a nature as to be available over its subject without reference to one person more than another, or, as generally expressed, a right competent, or available, against all persons. Rights <ex>in rem</ex> include not alone rights over physical property, but all rights available against all persons indifferently, as those of life, liberty, and reputation. <sd>(b)</sd> Of actions for recovering or reducing to possession or enjoyment a specific object, as in the enforcement of maritime liens against a vessel, which is made the defendant by a sort of personification. Most actions for the specific recovery of property in English and American law are in the nature of actions <it>in personam</it> against a person alleged to be unlawfully withholding the property.</note><br/
+\'d8<hw>In rem</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Law)</fld> <def>Lit., in or against a (or the) thing;</def> -- <note>used: <sd>(a)</sd> Of any right (called <col>right in rem</col> <it>or</it> <col>jus in rem</col>) of such a nature as to be available over its subject without reference to one person more than another, or, as generally expressed, a right competent, or available, against all persons. Rights <ex>in rem</ex> include not alone rights over physical property, but all rights available against all persons indifferently, as those of life, liberty, and reputation. <sd>(b)</sd> Of actions for recovering or reducing to possession or enjoyment a specific object, as in the enforcement of maritime liens against a vessel, which is made the defendant by a sort of personification. Most actions for the specific recovery of property in English and American law are in the nature of actions <it>in personam</it> against a person alleged to be unlawfully withholding the property.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Inro</ent><br/
@@ -23625,7 +23625,7 @@ Which is <qex>inscrutable</qex>.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 <-- Russian: bukashka --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Insect powder</b></col>,<cd>a powder used for the extermination of insects; esp., the powdered flowers of certain species of <gen>Pyrethrum</gen>, a genus now merged in <gen>Chrysanthemum</gen>. Called also <altname>Persian powder</altname>.</cd></cs><-- containing pyrethrin --><br/
+<p><cs><col>Insect powder</col>,<cd>a powder used for the extermination of insects; esp., the powdered flowers of certain species of <gen>Pyrethrum</gen>, a genus now merged in <gen>Chrysanthemum</gen>. Called also <altname>Persian powder</altname>.</cd></cs><-- containing pyrethrin --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insect</ent><br/
@@ -23943,7 +23943,7 @@ And form <qex>insensuous</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Anat.)</fld> <def>The point or part by which a muscle or tendon is attached to the part to be moved; -- in contradistinction to its <contr>origin</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Epigynous insertion</b></col> <fld>(Bot.)</fld>, <cd>the insertion of stamens upon the ovary.</cd> -- <col><b>Hypogynous insertion</b></col> <fld>(Bot.)</fld>, <cd>insertion beneath the ovary.</cd></cs><br/
+<p><cs><col>Epigynous insertion</col> <fld>(Bot.)</fld>, <cd>the insertion of stamens upon the ovary.</cd> -- <col>Hypogynous insertion</col> <fld>(Bot.)</fld>, <cd>insertion beneath the ovary.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inserve</ent><br/
@@ -24043,7 +24043,7 @@ And form <qex>insensuous</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>2.</sn> <def>Adapted to the interior.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inside callipers</b></col> <fld>(Mech.)</fld>, <cd>callipers for measuring the diameters of holes, etc.</cd> -- <col><b>Inside finish</b></col> <fld>(Arch.)</fld>, <cd>a general term for the final work in any building necessary for its completion, but other than unusual decoration; thus, in joiner work, the doors and windows, inside shutters, door and window trimmings, paneled jams, baseboards, and sometimes flooring and stairs; in plaster work, the finishing coat, the cornices, centerpieces, etc.,; in painting, all simple painting of woodwork and plastering.</cd> -- <col><b>Inside track</b></col>, <cd>the inner part of a race course; hence, colloquially, advantage of place, facilities, contacts, etc., in competition.</cd></cs><br/
+<p><cs><col>Inside callipers</col> <fld>(Mech.)</fld>, <cd>callipers for measuring the diameters of holes, etc.</cd> -- <col>Inside finish</col> <fld>(Arch.)</fld>, <cd>a general term for the final work in any building necessary for its completion, but other than unusual decoration; thus, in joiner work, the doors and windows, inside shutters, door and window trimmings, paneled jams, baseboards, and sometimes flooring and stairs; in plaster work, the finishing coat, the cornices, centerpieces, etc.,; in painting, all simple painting of woodwork and plastering.</cd> -- <col>Inside track</col>, <cd>the inner part of a race course; hence, colloquially, advantage of place, facilities, contacts, etc., in competition.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inside</ent><br/
@@ -24067,7 +24067,7 @@ Our <qex>insides</qex> freely.</q> <rj><qau>Massinger.</qau></rj><br/
 The Derby dilly, carrying three <qex>insides</qex>.</q> <rj><qau>Anti-Jacobin.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Patent insides</b></col> <it>or</it> <col><b>Patent outsides</b></col></mcol>, <cd>a name give to newspaper sheets printed on one side with general and miscellaneous matter, and furnished wholesale to offices of small newspapers, where the blank pages are filled up with recent and local news.</cd></cs><br/
+<p><cs><mcol><col>Patent insides</col> <it>or</it> <col>Patent outsides</col></mcol>, <cd>a name give to newspaper sheets printed on one side with general and miscellaneous matter, and furnished wholesale to offices of small newspapers, where the blank pages are filled up with recent and local news.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>insider</ent><br/
@@ -24098,7 +24098,7 @@ The Derby dilly, carrying three <qex>insides</qex>.</q> <rj><qau>Anti-Jacobin.</
 <p><sn>3.</sn> <def>Acting or proceeding unobserved or in a seemingly harmless manner, but slowly or eventually doing great damage; <as>as, an <ex>insidious</ex> disease; an <ex>insidious</ex> plot</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Insidious disease</b></col> <fld>(Med.)</fld>, <cd>a disease existing, without marked symptoms, but ready to become active upon some slight occasion; a disease not appearing to be as bad as it really is.</cd></cs></p>
+<p><cs><col>Insidious disease</col> <fld>(Med.)</fld>, <cd>a disease existing, without marked symptoms, but ready to become active upon some slight occasion; a disease not appearing to be as bad as it really is.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Crafty; wily; artful; sly; designing; guileful; circumventive; treacherous; deceitful; deceptive.</syn></p>
 
@@ -24637,14 +24637,14 @@ How proud, how peremptory?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>In*sol"ven*cy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Insolvencies</plw> <pr>(<?/)</pr>.</plu> <fld>(Law)</fld> <sd>(a)</sd> <def>The condition of being insolvent; the state or condition of a person who is insolvent; the condition of one who is unable to pay his debts as they fall due, or in the usual course of trade and business; <as>as, a merchant's <ex>insolvency</ex></as>.</def> <sd>(b)</sd> <def>Insufficiency to discharge all debts of the owner; <as>as, the <ex>insolvency</ex> of an estate</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Act of insolvency</b></col>. <cd>See <cref>Insolvent law</cref> under <er>Insolvent</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><col>Act of insolvency</col>. <cd>See <cref>Insolvent law</cref> under <er>Insolvent</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insolvent</ent><br/
 <hw>In*sol"vent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>in-</ets> not + <ets>solvent</ets>: cf. OF. <ets>insolvent</ets>.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>Not solvent; not having sufficient estate to pay one's debts; unable to pay one's debts as they fall due, in the ordinary course of trade and business; <as>as, in <ex>insolvent</ex> debtor</as>.</def> <sd>(b)</sd> <def>Not sufficient to pay all the debts of the owner; <as>as, an <ex>insolvent</ex> estate</as>.</def> <sd>(c)</sd> <def>Relating to persons unable to pay their debts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Insolvent law</b></col>, <it>or</it> <col><b>Act of insolvency</b></col></mcol>, <cd>a law affording relief, -- subject to various modifications in different States, -- to insolvent debtors, upon their delivering up their property for the benefit of their creditors; bankruptcy law.  See <cref>Bankrupt law</cref>, under <er>Bankrupt</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><mcol><col>Insolvent law</col>, <it>or</it> <col>Act of insolvency</col></mcol>, <cd>a law affording relief, -- subject to various modifications in different States, -- to insolvent debtors, upon their delivering up their property for the benefit of their creditors; bankruptcy law.  See <cref>Bankrupt law</cref>, under <er>Bankrupt</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insolvent</ent><br/
@@ -24726,7 +24726,7 @@ Considered every creature.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>The act of overseeing; official examination or superintendence.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Trial by inspection</b></col> <fld>(O. Eng. Law)</fld>, <cd>a mode of trial in which the case was settled by the individual observation and decision of the judge upon the testimony of his own senses, without the intervention of a jury.</cd>  <rj><au>Abbott.</au></rj></cs><br/
+<p><cs><col>Trial by inspection</col> <fld>(O. Eng. Law)</fld>, <cd>a mode of trial in which the case was settled by the individual observation and decision of the judge upon the testimony of his own senses, without the intervention of a jury.</cd>  <rj><au>Abbott.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspective</ent><br/
@@ -24740,7 +24740,7 @@ Considered every creature.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>A police officer, typically holding a rank one below superintendent, and in some cases in charge of several precincts; <as>as, <ex>inspector</ex> Clousseau is investigating the case</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Inspector general</b></col> <fld>(Mil.)</fld>, <cd>a staff officer of an army, whose duties are those of inspection, and embrace everything relative to organization, recruiting, discharge, administration, accountability for money and property, instruction, police, and discipline.</cd></cs><br/
+<p><cs><col>Inspector general</col> <fld>(Mil.)</fld>, <cd>a staff officer of an army, whose duties are those of inspection, and embrace everything relative to organization, recruiting, discharge, administration, accountability for money and property, instruction, police, and discipline.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspectorate</ent><br/
@@ -24808,7 +24808,7 @@ In regions mild of calm and serene air.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>The age which we now live in is not an age of <qex>inspiration</qex> and impulses.</q> <rj><qau>Sharp.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Plenary inspiration</b></col> <fld>(Theol.)</fld>, <cd>that kind of inspiration which excludes all defect in the utterance of the inspired message.</cd> -- <col><b>Verbal inspiration</b></col> <fld>(Theol.)</fld>, <cd>that kind of inspiration which extends to the very words and forms of expression of the divine message.</cd></cs><br/
+<p><cs><col>Plenary inspiration</col> <fld>(Theol.)</fld>, <cd>that kind of inspiration which excludes all defect in the utterance of the inspired message.</cd> -- <col>Verbal inspiration</col> <fld>(Theol.)</fld>, <cd>that kind of inspiration which extends to the very words and forms of expression of the divine message.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inspirational</ent><br/
@@ -25061,7 +25061,7 @@ Are base respects of thrift, but none of love.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <def>A token; a sign; a symptom or indication.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Causes of instance</b></col>, <cd>those which proceed at the solicitation of some party.</cd> <au>Hallifax.</au> -- <col><b>Court of first instance</b></col>, <cd>the court by which a case is first tried.</cd> -- <col><b>For instance</b></col>, <cd>by way of example or illustration; for example.</cd> -- <col><b>Instance Court</b></col> <fld>(Law)</fld>, <cd>the Court of Admiralty acting within its ordinary jurisdiction, as distinguished from its action as a <xex>prize court</xex>.</cd></cs></p>
+<p><cs><col>Causes of instance</col>, <cd>those which proceed at the solicitation of some party.</cd> <au>Hallifax.</au> -- <col>Court of first instance</col>, <cd>the court by which a case is first tried.</cd> -- <col>For instance</col>, <cd>by way of example or illustration; for example.</cd> -- <col>Instance Court</col> <fld>(Law)</fld>, <cd>the Court of Admiralty acting within its ordinary jurisdiction, as distinguished from its action as a <xex>prize court</xex>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Example; case. See <er>Example</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -25155,7 +25155,7 @@ With <qex>instantaneous</qex> view, the truth of things.</q> <rj><qau>Thomson.</
 <p><sn>2.</sn> <def>At or during a given instant; <as>as, <ex>instantaneous</ex> acceleration, velocity, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Instantaneous center of rotation</b></col> <fld>(Kinematics)</fld>, <cd>in a plane or in a plane figure which has motions both of translation and of rotation in the plane, is the point which for the instant is at rest.</cd> -- <col><b>Instantaneous axis of rotation</b></col> <fld>(Kinematics)</fld>, <cd>in a body which has motions both of translation and rotation, is a line, which is supposed to be rigidly united with the body, and which for the instant is at rest. The motion of the body is for the instant simply that of rotation about the instantaneous axis.</cd></cs></p>
+<p><cs><col>Instantaneous center of rotation</col> <fld>(Kinematics)</fld>, <cd>in a plane or in a plane figure which has motions both of translation and of rotation in the plane, is the point which for the instant is at rest.</cd> -- <col>Instantaneous axis of rotation</col> <fld>(Kinematics)</fld>, <cd>in a body which has motions both of translation and rotation, is a line, which is supposed to be rigidly united with the body, and which for the instant is at rest. The motion of the body is for the instant simply that of rotation about the instantaneous axis.</cd></cs></p>
 
 <p>-- <wordforms><wf>In`stan*ta"ne*ous*ly</wf>, <pos>adv.</pos> -- <wf>In`stan*ta"ne*ous*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -25478,7 +25478,7 @@ A course of learning and ingenious studies.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Scots Law)</fld> <def>The person to whom an estate is first given by destination or limitation.</def>  <rj><au>Tomlins.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Institutes of medicine</b></col>, <cd>theoretical medicine; that department of medical science which attempts to account philosophically for the various phenomena of health as well as of disease; physiology applied to the practice of medicine.</cd>  <rj><au>Dunglison.</au></rj>
+<p><cs><col>Institutes of medicine</col>, <cd>theoretical medicine; that department of medical science which attempts to account philosophically for the various phenomena of health as well as of disease; physiology applied to the practice of medicine.</cd>  <rj><au>Dunglison.</au></rj>
 </cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -25728,7 +25728,7 @@ The hand more <qex>instrumental</qex> to the mouth.</q> <rj><qau>Shak.</qau></rj
 <p><sn>3.</sn> <fld>(Gram.)</fld> <def>Applied to a case expressing means or agency; <as>as, the <ex>instrumental</ex> case</as>. This is found in Sanskrit and Russian as a separate case, but in Greek it was merged into the dative, and in Latin into the ablative. In Old English it was a separate case, but has disappeared, leaving only a few anomalous forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Instrumental errors</b></col>, <cd>those errors in instrumental measurements, etc., which arise, exclusively from lack of mathematical accuracy in an instrument.</cd></cs><br/
+<p><cs><col>Instrumental errors</col>, <cd>those errors in instrumental measurements, etc., which arise, exclusively from lack of mathematical accuracy in an instrument.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Instrumentalism</ent><br/
@@ -25967,7 +25967,7 @@ The hand more <qex>instrumental</qex> to the mouth.</q> <rj><qau>Shak.</qau></rj
 <p><sn>3.</sn> <fld>(Elec. & Thermotics)</fld> <def>To prevent the transfer of electricity or heat to or from (bodies) by the interposition of nonconductors.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Insulating stool</b></col> <fld>(Elec.)</fld>, <cd>a stool with legs of glass or some other nonconductor of electricity, used for insulating a person or any object placed upon it.</cd></cs><br/
+<p><cs><col>Insulating stool</col> <fld>(Elec.)</fld>, <cd>a stool with legs of glass or some other nonconductor of electricity, used for insulating a person or any object placed upon it.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 773 --></p>
@@ -25985,7 +25985,7 @@ The hand more <qex>instrumental</qex> to the mouth.</q> <rj><qau>Shak.</qau></rj
 <p><sn>3.</sn> <fld>(Astron.)</fld> <def>Situated at so great a distance as to be beyond the effect of gravitation; -- said of stars supposed to be so far apart that the affect of their mutual attraction is insensible.</def>  <rj><au>C. A. Young.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Insulated wire</b></col>, <cd>wire covered with some nonconducting material, such as plastic or silk, for use in conducting electricity.</cd></cs><br/
+<p><cs><col>Insulated wire</col>, <cd>wire covered with some nonconducting material, such as plastic or silk, for use in conducting electricity.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insulation</ent><br/
@@ -26170,7 +26170,7 @@ Yet never pass the <qex>insuperable</qex> line?</q> <rj><qau>Pope.</qau></rj><br
 <p><sn>5.</sn> <specif>Hence:</specif> <def>Any means of assuring against loss; a precaution; <as>as, we always use our seat belts as <ex>insurance</ex> against injury</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Accident insurance</b></col>, <cd>insurance against pecuniary loss by reason of accident to the person.</cd> -- <mcol><col><b>Endowment insurance</b></col> <it>or</it> <col><b>Endowment assurance</b></col></mcol>, <cd>a combination of life insurance and investment such that if the person upon whose life a risk is taken dies before a certain specified time the insurance becomes due at once, and if he survives, it becomes due at the time specified.  Also called <altname>whole life insurance</altname>.</cd> -- <col><b>Fire insurance</b></col>. <cd>See under <er>Fire</er>.</cd> -- <col><b>Insurance broker</b></col>, <cd>a broker or agent who effects insurance.</cd> -- <col><b>Insurance company</b></col>, <cd>a company or corporation whose business it is to insure against loss, damage, or death.</cd> -- <col><b>Insurance policy</b></col>, <cd>a certificate of insurance; the document containing the contract made by an insurance company with a person whose property or life is insured.</cd> -- <col><b>Life insurance</b></col>. <cd>See under <er>Life</er>.</cd></cs><br/
+<p><cs><col>Accident insurance</col>, <cd>insurance against pecuniary loss by reason of accident to the person.</cd> -- <mcol><col>Endowment insurance</col> <it>or</it> <col>Endowment assurance</col></mcol>, <cd>a combination of life insurance and investment such that if the person upon whose life a risk is taken dies before a certain specified time the insurance becomes due at once, and if he survives, it becomes due at the time specified.  Also called <altname>whole life insurance</altname>.</cd> -- <col>Fire insurance</col>. <cd>See under <er>Fire</er>.</cd> -- <col>Insurance broker</col>, <cd>a broker or agent who effects insurance.</cd> -- <col>Insurance company</col>, <cd>a company or corporation whose business it is to insure against loss, damage, or death.</cd> -- <col>Insurance policy</col>, <cd>a certificate of insurance; the document containing the contract made by an insurance company with a person whose property or life is insured.</cd> -- <col>Life insurance</col>. <cd>See under <er>Life</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Insurancer</ent><br/
@@ -26375,7 +26375,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <hw>In"te*ger</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>integer</ets> untouched, whole, entire. See <er>Entire</er>.]</ety> <def>A complete entity; a whole number, in contradistinction to a fraction or a mixed number.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Complex integer</b></col> <fld>(Theory of Numbers)</fld>, <cd>an expression of the form <mathex>a + b<root/-1</mathex>, where <it>a</it> and <it>b</it> are real integers.</cd></cs><br/
+<p><cs><col>Complex integer</col> <fld>(Theory of Numbers)</fld>, <cd>an expression of the form <mathex>a + b<root/-1</mathex>, where <it>a</it> and <it>b</it> are real integers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Integrability</ent><br/
@@ -26405,7 +26405,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <p><sn>3.</sn> <fld>(Math.)</fld> <sd>(a)</sd> <def>Of, pertaining to, or being, a whole number or undivided quantity; not fractional.</def> <sd>(b)</sd> <def>Pertaining to, or proceeding by, integration; <as>as, the <ex>integral</ex> calculus</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Integral calculus</b></col>. <cd>See under <er>Calculus</er>.</cd></cs><br/
+<p><cs><col>Integral calculus</col>. <cd>See under <er>Calculus</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Integral</ent><br/
@@ -26415,7 +26415,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>An expression which, being differentiated, will produce a given differential. See differential <er>Differential</er>, and <er>Integration</er>.  Cf. <er>Fluent</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Elliptic integral</b></col>, <cd>one of an important class of integrals, occurring in the higher mathematics; -- so called because one of the integrals expresses the length of an arc of an <xex>ellipse</xex>.</cd></cs><br/
+<p><cs><col>Elliptic integral</col>, <cd>one of an important class of integrals, occurring in the higher mathematics; -- so called because one of the integrals expresses the length of an arc of an <xex>ellipse</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Integrality</ent><br/
@@ -26433,7 +26433,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <p><q>All these are <qex>integrant</qex> parts of the republic.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Integrant parts</b></col>, <it>or</it> <col><b>Integrant particles</b></col></mcol>, <cd>of bodies, those smaller particles into which a body may be reduced without loss of its original constitution, as by mechanical division.</cd></cs><br/
+<p><cs><mcol><col>Integrant parts</col>, <it>or</it> <col>Integrant particles</col></mcol>, <cd>of bodies, those smaller particles into which a body may be reduced without loss of its original constitution, as by mechanical division.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Integrate</ent><br/
@@ -26714,7 +26714,7 @@ Received and gave him welcome there.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>7.</sn> <fld>(Mil.)</fld> <def>The division within a military organization that gathers and evaluates information about an enemy.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Intelligence office</b></col>, <cd>an office where information may be obtained, particularly respecting servants to be hired.</cd></cs></p>
+<p><cs><col>Intelligence office</col>, <cd>an office where information may be obtained, particularly respecting servants to be hired.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Understanding; intellect; instruction; advice; notice; notification; news; information; report.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -27227,7 +27227,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 <p><q>The principal <qex>intent</qex> of Scripture is to deliver the laws of duties supernatural.</q> <rj><qau>Hooker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To all intents and purposes</b></col>, <cd>in all applications or senses; practically; really; virtually; in essence; essentially.</cd> <ldquo/He was miserable <xex>to all intents and purpose</xex>.<rdquo/  <rj><au>L'Estrange.</au></rj></cs></p>
+<p><cs><col>To all intents and purposes</col>, <cd>in all applications or senses; practically; really; virtually; in essence; essentially.</cd> <ldquo/He was miserable <xex>to all intents and purpose</xex>.<rdquo/  <rj><au>L'Estrange.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Design; purpose; intention; meaning; purport; view; drift; object; end; aim; plan.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -27264,7 +27264,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 <p><sn>5.</sn> <fld>(Logic)</fld> <def>Any mental apprehension of an object.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>First intention</b></col> <fld>(Logic)</fld>, <cd>a conception of a thing formed by the first or direct application of the mind to the individual object; an idea or image; as, <xex>man</xex>, <xex>stone</xex>.</cd> -- <col><b>Second intention</b></col> <fld>(Logic)</fld>, <cd>a conception generalized from first intuition or apprehension already formed by the mind; an abstract notion; especially, a classified notion, as <xex>species</xex>, <xex>genus</xex>, <xex>whiteness</xex>.</cd> -- <col><b>To heal by the first intention</b></col> <fld>(Surg.)</fld>, <cd>to cicatrize, as a wound, without suppuration.</cd> -- <col><b>To heal by the second intention</b></col> <fld>(Surg.)</fld>, <cd>to unite after suppuration.</cd></cs></p>
+<p><cs><col>First intention</col> <fld>(Logic)</fld>, <cd>a conception of a thing formed by the first or direct application of the mind to the individual object; an idea or image; as, <xex>man</xex>, <xex>stone</xex>.</cd> -- <col>Second intention</col> <fld>(Logic)</fld>, <cd>a conception generalized from first intuition or apprehension already formed by the mind; an abstract notion; especially, a classified notion, as <xex>species</xex>, <xex>genus</xex>, <xex>whiteness</xex>.</cd> -- <col>To heal by the first intention</col> <fld>(Surg.)</fld>, <cd>to cicatrize, as a wound, without suppuration.</cd> -- <col>To heal by the second intention</col> <fld>(Surg.)</fld>, <cd>to unite after suppuration.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Design; purpose; object; aim; intent; drift; purport; meaning. See <er>Design</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -27451,7 +27451,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 <p><q>This <qex>intercalary</qex> line . . . is made the last of a triplet.</q> <rj><qau>Beattie.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intercalary day</b></col> <fld>(Med.)</fld>, <cd>one on which no paroxysm of an intermittent disease occurs.</cd>  <rj><au>Mayne.</au></rj></cs><br/
+<p><cs><col>Intercalary day</col> <fld>(Med.)</fld>, <cd>one on which no paroxysm of an intermittent disease occurs.</cd>  <rj><au>Mayne.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intercalate</ent><br/
@@ -27539,7 +27539,7 @@ Their favorable ear.</q> <rj><qau>Milton.</qau></rj></p>
 <hw>In`ter*cen"tral</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Between centers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intercentral nerves</b></col> <fld>(Physiol.)</fld>, <cd>those nerves which transmit impulses between nerve centers, as opposed to peripheral fibers, which convey impulses between peripheral parts and nerve centers.</cd></cs><br/
+<p><cs><col>Intercentral nerves</col> <fld>(Physiol.)</fld>, <cd>those nerves which transmit impulses between nerve centers, as opposed to peripheral fibers, which convey impulses between peripheral parts and nerve centers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intercentrum</ent><br/
@@ -27900,7 +27900,7 @@ Of looks and smiles.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <def>Same as <cref>sexual intercourse</cref>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Sexual intercourse</b></col>, <cd>sexual or carnal connection; coition; copulation, especially between humans.</cd></cs></p>
+<p><cs><col>Sexual intercourse</col>, <cd>sexual or carnal connection; coition; copulation, especially between humans.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Communication; connection; commerce; communion; fellowship; familiarity; acquaintance.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -28159,7 +28159,7 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <def>The persons interested in any particular business or measure, taken collectively; <as>as, the iron <ex>interest</ex>; the cotton <ex>interest</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Compound interest</b></col>, <cd>interest, not only on the original principal, but also on unpaid interest from the time it fell due.</cd> -- <col><b>Simple interest</b></col>, <cd>interest on the principal sum without interest on overdue interest.</cd></cs><br/
+<p><cs><col>Compound interest</col>, <cd>interest, not only on the original principal, but also on unpaid interest from the time it fell due.</cd> -- <col>Simple interest</col>, <cd>interest on the principal sum without interest on overdue interest.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interested</ent><br/
@@ -28262,7 +28262,7 @@ Their coin upon large <qex>interest</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Patent Law)</fld> <def>The act or state of interfering, or of claiming a right to the same invention.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interference figures</b></col> <fld>(Optics)</fld>, <cd>the figures observed when certain sections of crystallized bodies are viewed in converging polarized light; thus, a section of a uniaxial crystal, cut normal to the vertical axis, shows a series of concentric colored rings with a single black cross; -- so called because produced by the <xex>interference</xex> of luminous waves.</cd> -- <col><b>Interference fringe</b></col>. <fld>(Optics)</fld> <cd>See <er>Fringe</er>.</cd></cs><br/
+<p><cs><col>Interference figures</col> <fld>(Optics)</fld>, <cd>the figures observed when certain sections of crystallized bodies are viewed in converging polarized light; thus, a section of a uniaxial crystal, cut normal to the vertical axis, shows a series of concentric colored rings with a single black cross; -- so called because produced by the <xex>interference</xex> of luminous waves.</cd> -- <col>Interference fringe</col>. <fld>(Optics)</fld> <cd>See <er>Fringe</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interferer</ent><br/
@@ -28380,7 +28380,7 @@ Like a phantasms, or a hideous dream.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Remote from the limits, frontier, or shore; inland; <as>as, the <ex>interior</ex> parts of a region or country</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interior angle</b></col> <fld>(Geom.)</fld>, <cd>an angle formed between two sides, within any rectilinear figure, as a polygon, or between two parallel lines by these lines and another intersecting them; -- called also <altname>internal angle</altname>.</cd> -- <col><b>Interior planets</b></col> <fld>(Astron.)</fld>, <cd>those planets within the orbit of the earth.</cd> -- <col><b>Interior screw</b></col>, <cd>a screw cut on an interior surface, as in a nut; a female screw.</cd></cs></p>
+<p><cs><col>Interior angle</col> <fld>(Geom.)</fld>, <cd>an angle formed between two sides, within any rectilinear figure, as a polygon, or between two parallel lines by these lines and another intersecting them; -- called also <altname>internal angle</altname>.</cd> -- <col>Interior planets</col> <fld>(Astron.)</fld>, <cd>those planets within the orbit of the earth.</cd> -- <col>Interior screw</col>, <cd>a screw cut on an interior surface, as in a nut; a female screw.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Internal; inside; inner; inland; inward.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -28392,7 +28392,7 @@ Like a phantasms, or a hideous dream.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>The inland part of a country, state, or kingdom.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Department of the Interior</b></col>, <cd>that department of the government of the United States which has charge of pensions, patents, public lands and surveys, the Indians, education, etc.; that department of the government of a country which is specially charged with the internal affairs of that country; the home department.</cd> -- <col><b>Secretary of the Interior</b></col>, <cd>the cabinet officer who, in the United States, is at the head of the Department of the Interior.</cd></cs><br/
+<p><cs><col>Department of the Interior</col>, <cd>that department of the government of the United States which has charge of pensions, patents, public lands and surveys, the Indians, education, etc.; that department of the government of a country which is specially charged with the internal affairs of that country; the home department.</cd> -- <col>Secretary of the Interior</col>, <cd>the cabinet officer who, in the United States, is at the head of the Department of the Interior.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>interiorise</ent><br/
@@ -28519,7 +28519,7 @@ That <qex>interlaced</qex> each other.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><q>The epic way is everywhere <qex>interlaced</qex> with dialogue.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interlacing arches</b></col> <fld>(Arch.)</fld>, <cd>arches, usually circular, so constructed that their archivolts intersect and seem to be interlaced.</cd></cs><br/
+<p><cs><col>Interlacing arches</col> <fld>(Arch.)</fld>, <cd>arches, usually circular, so constructed that their archivolts intersect and seem to be interlaced.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interlacement</ent><br/
@@ -28852,7 +28852,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>In`ter*me"di*a*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>interm<eacute/diaire</ets>.]</ety> <def>Lying, coming, or done, between; intermediate; <as>as, an <ex>intermediary</ex> project</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intermediary amputation</b></col> <fld>(Surg.)</fld>, <cd>an amputation for injury, performed after inflammation has set in.</cd></cs><br/
+<p><cs><col>Intermediary amputation</col> <fld>(Surg.)</fld>, <cd>an amputation for injury, performed after inflammation has set in.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermediary</ent><br/
@@ -28866,7 +28866,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <specif>Hence:</specif> <def>Of or pertaining to an intermediate school; <as>as, intermediate education</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Intermediate state</b></col> <fld>(Theol.)</fld>, <cd>the state or condition of the soul between the death and the resurrection of the body.</cd> -- <col><b>Intermediate terms</b></col> <fld>(Math.)</fld>, <cd>the terms of a progression or series between the first and the last (which are called the <xex>extremes</xex>); the means.</cd> -- <col><b>Intermediate tie</b></col>. <fld>(Arch.)</fld> <cd>Same as <er>Intertie</er>.</cd></cs><br/
+<p><cs><col>Intermediate state</col> <fld>(Theol.)</fld>, <cd>the state or condition of the soul between the death and the resurrection of the body.</cd> -- <col>Intermediate terms</col> <fld>(Math.)</fld>, <cd>the terms of a progression or series between the first and the last (which are called the <xex>extremes</xex>); the means.</cd> -- <col>Intermediate tie</col>. <fld>(Arch.)</fld> <cd>Same as <er>Intertie</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermediate</ent><br/
@@ -29063,7 +29063,7 @@ When monarch reason sleeps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>In`ter*mit"tent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>intermittens</ets>, <ets>-entis</ets>, p. pr. of <ets>intermittere</ets>: cf. F. <ets>intermittent</ets>.]</ety> <def>Coming and going at intervals; alternating; recurrent; periodic; <as>as, an <ex>intermittent</ex> fever</as>.</def>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intermittent fever</b></col> <fld>(Med.)</fld>, <cd>a disease with fever which recurs at certain intervals; -- applied particularly to fever and ague. See <er>Fever</er>.</cd> -- <col><b>Intermittent gearing</b></col> <fld>(Mach.)</fld>, <cd>gearing which receives, or produces, intermittent motion.</cd> -- <col><b>Intermittent springs</b></col>, <cd>springs which flow at intervals, not apparently dependent upon rain or drought. They probably owe their intermittent action to their being connected with natural reservoirs in hills or mountains by passages having the form of a siphon, the water beginning to flow when it has accumulated so as to fill the upper part of the siphon, and ceasing when, by running through it, it has fallen below the orifice of the upper part of the siphon in the reservoir.</cd></cs><br/
+<p><cs><col>Intermittent fever</col> <fld>(Med.)</fld>, <cd>a disease with fever which recurs at certain intervals; -- applied particularly to fever and ague. See <er>Fever</er>.</cd> -- <col>Intermittent gearing</col> <fld>(Mach.)</fld>, <cd>gearing which receives, or produces, intermittent motion.</cd> -- <col>Intermittent springs</col>, <cd>springs which flow at intervals, not apparently dependent upon rain or drought. They probably owe their intermittent action to their being connected with natural reservoirs in hills or mountains by passages having the form of a siphon, the water beginning to flow when it has accumulated so as to fill the upper part of the siphon, and ceasing when, by running through it, it has fallen below the orifice of the upper part of the siphon in the reservoir.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intermittent</ent><br/
@@ -29195,7 +29195,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Anat.)</fld> <def>Lying toward the mesial plane; mesial.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Internal angle</b></col> <fld>(Geom.)</fld>, <cd>an interior angle. See under <er>Interior</er>.</cd> -- <col><b>Internal gear</b></col> <fld>(Mach.)</fld>, <cd>a gear in which the teeth project inward from the rim instead of outward.</cd></cs></p>
+<p><cs><col>Internal angle</col> <fld>(Geom.)</fld>, <cd>an interior angle. See under <er>Interior</er>.</cd> -- <col>Internal gear</col> <fld>(Mach.)</fld>, <cd>a gear in which the teeth project inward from the rim instead of outward.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Inner; interior; inward; inland; inside.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -29247,7 +29247,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Independent of national boundaries; common to all people; <as>as, the atmosphere is an <ex>international</ex> resource; the <ex>international</ex> community of scholars</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>International code</b></col> <fld>(Naut.)</fld>, <cd>a common system of signaling adopted by nearly all maritime nations, whereby communication may be had between vessels at sea.</cd> -- <col><b>International copyright</b></col>. <cd>See under <er>Copyright</er>.</cd> -- <col><b>International law</b></col>, <cd>the rules regulating the mutual intercourse of nations. International law is mainly the product of the conditions from time to time of international intercourse, being drawn from diplomatic discussion, textbooks, proof of usage, and from recitals in treaties. It is called <xex>public</xex> when treating of the relations of sovereign powers, and <xex>private</xex> when of the relations of persons of different nationalities. International law is now, by the better opinion, part of the common law of the land.  Cf. <xex>Conflict of laws</xex>, under <er>Conflict</er>.</cd>  <rj><au>Wharton.</au></rj></cs><br/
+<p><cs><col>International code</col> <fld>(Naut.)</fld>, <cd>a common system of signaling adopted by nearly all maritime nations, whereby communication may be had between vessels at sea.</cd> -- <col>International copyright</col>. <cd>See under <er>Copyright</er>.</cd> -- <col>International law</col>, <cd>the rules regulating the mutual intercourse of nations. International law is mainly the product of the conditions from time to time of international intercourse, being drawn from diplomatic discussion, textbooks, proof of usage, and from recitals in treaties. It is called <xex>public</xex> when treating of the relations of sovereign powers, and <xex>private</xex> when of the relations of persons of different nationalities. International law is now, by the better opinion, part of the common law of the land.  Cf. <xex>Conflict of laws</xex>, under <er>Conflict</er>.</cd>  <rj><au>Wharton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>International</ent><br/
@@ -29545,7 +29545,7 @@ With myrtle, find what to redress till noon.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>In`ter*pen"e*trate</hw>, <pos>v. i.</pos> <def>To penetrate each the other; to penetrate between bodies or their parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interpenetrating molding</b></col> <fld>(Arch.)</fld>, <cd>in late Gothic architecture, a decoration by means of moldings which seem to pass through solid uprights, transoms, or other members; often, two sets of architectural members penetrating one another, in appearance, as if both had been plastic when they were put together.</cd></cs><br/
+<p><cs><col>Interpenetrating molding</col> <fld>(Arch.)</fld>, <cd>in late Gothic architecture, a decoration by means of moldings which seem to pass through solid uprights, transoms, or other members; often, two sets of architectural members penetrating one another, in appearance, as if both had been plastic when they were put together.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interpenetration</ent><br/
@@ -29982,7 +29982,7 @@ Talker! the unreplying Fate?</q> <rj><qau>Emerson.</qau></rj></p>
 <hw>In`ter*rupt"ed*ly</hw>, <pos>adv.</pos> <def>With breaks or interruptions; discontinuously.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interruptedly pinnate</b></col> <fld>(Bot.)</fld>, <cd>pinnate with small leaflets intermixed with large ones.</cd>  <rj><au>Gray.</au></rj></cs><br/
+<p><cs><col>Interruptedly pinnate</col> <fld>(Bot.)</fld>, <cd>pinnate with small leaflets intermixed with large ones.</cd>  <rj><au>Gray.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interrupter</ent><br/
@@ -30030,7 +30030,7 @@ Talker! the unreplying Fate?</q> <rj><qau>Emerson.</qau></rj></p>
 <hw>In`ter*scend"ent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Inter-</er>, and <er>Ascend</er>.]</ety> <fld>(Math.)</fld> <def>Having exponents which are radical quantities; -- said of certain powers; <as>as, <mathex>x<exp><root/2</exp></mathex>, or <mathex>x<exp><root/a</exp></mathex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Interscendent series</b></col>, <cd>a series whose terms are interscendent quantities.</cd>  <rj><au>Hutton.</au></rj></cs><br/
+<p><cs><col>Interscendent series</col>, <cd>a series whose terms are interscendent quantities.</cd>  <rj><au>Hutton.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Interscind</ent><br/
@@ -30344,7 +30344,7 @@ A dreadful <qex>interval</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Mus.)</fld> <def>Difference in pitch between any two tones.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At intervals</b></col>, <cd>coming or happening with intervals between; now and then.</cd> <ldquo/And Miriam watch'd and dozed <xex>at intervals</xex>.<rdquo/ <au>Tennyson.</au> -- <col><b>Augmented interval</b></col> <fld>(Mus.)</fld>, <cd>an interval increased by half a step or half a tone.</cd></cs></p>
+<p><cs><col>At intervals</col>, <cd>coming or happening with intervals between; now and then.</cd> <ldquo/And Miriam watch'd and dozed <xex>at intervals</xex>.<rdquo/ <au>Tennyson.</au> -- <col>Augmented interval</col> <fld>(Mus.)</fld>, <cd>an interval increased by half a step or half a tone.</cd></cs></p>
 
 <p><ent>Intervale</ent><br/
 <ent>Interval</ent><br/
@@ -30582,7 +30582,7 @@ Of trees thick <qex>interwoven</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>In*tes"ti*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>intestinal</ets>.]</ety> <def>Of or pertaining to the intestines of an animal; <as>as, the <ex>intestinal</ex> tube; <ex>intestinal</ex> digestion; <ex>intestinal</ex> enzymes.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intestinal canal</b></col>. <cd>Same as <er>Intestine</er>, <pos>n.</pos></cd> -- <col><b>Intestinal worm</b></col> <fld>(Zool.)</fld>, <cd>any species of helminth living in the intestinal canal of any animal.  The species are numerous.</cd></cs><br/
+<p><cs><col>Intestinal canal</col>. <cd>Same as <er>Intestine</er>, <pos>n.</pos></cd> -- <col>Intestinal worm</col> <fld>(Zool.)</fld>, <cd>any species of helminth living in the intestinal canal of any animal.  The species are numerous.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intestine</ent><br/
@@ -30625,7 +30625,7 @@ Of trees thick <qex>interwoven</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <pluf>pl.</pluf> <def>The bowels; entrails; viscera.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Large intestine</b></col> <fld>(Human Anat. & Med.)</fld>, <cd>the lower portion of the bowel, terminating at the anus. It is adapted for the retention of fecal matter, being shorter, broader, and less convoluted than the <xex>small intestine</xex>; it consists of three parts, the c<ae/cum, colon, and rectum.</cd> -- <col><b>Small intestine</b></col> <fld>(Human Anat. & Med.)</fld>, <cd>the upper portion of the bowel, in which the process of digestion is practically completed. It is narrow and contorted, and consists of three parts, the duodenum, jejunum, and ileum.</cd></cs><br/
+<p><cs><col>Large intestine</col> <fld>(Human Anat. & Med.)</fld>, <cd>the lower portion of the bowel, terminating at the anus. It is adapted for the retention of fecal matter, being shorter, broader, and less convoluted than the <xex>small intestine</xex>; it consists of three parts, the c<ae/cum, colon, and rectum.</cd> -- <col>Small intestine</col> <fld>(Human Anat. & Med.)</fld>, <cd>the upper portion of the bowel, in which the process of digestion is practically completed. It is narrow and contorted, and consists of three parts, the duodenum, jejunum, and ileum.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Intext</ent><br/
@@ -31485,7 +31485,7 @@ Which are too <qex>intrinse</qex> to unloose.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>Included wholly within an organ or limb, as certain groups of muscles; -- opposed to <ant>extrinsic</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intrinsic energy of a body</b></col> <fld>(Physics)</fld>, <cd>the work it can do in virtue of its actual condition, without any supply of energy from without.</cd> -- <col><b>Intrinsic equation of a curve</b></col> <fld>(Geom.)</fld>, <cd>the equation which expresses the relation which the length of a curve, measured from a given point of it, to a movable point, has to the angle which the tangent to the curve at the movable point makes with a fixed line.</cd> -- <col><b>Intrinsic value</b></col>. <cd>See the Note under <er>Value</er>, <pos>n.</pos></cd></cs></p>
+<p><cs><col>Intrinsic energy of a body</col> <fld>(Physics)</fld>, <cd>the work it can do in virtue of its actual condition, without any supply of energy from without.</cd> -- <col>Intrinsic equation of a curve</col> <fld>(Geom.)</fld>, <cd>the equation which expresses the relation which the length of a curve, measured from a given point of it, to a movable point, has to the angle which the tangent to the curve at the movable point makes with a fixed line.</cd> -- <col>Intrinsic value</col>. <cd>See the Note under <er>Value</er>, <pos>n.</pos></cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Inherent; innate; natural; real; genuine.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -31865,7 +31865,7 @@ Were not my orders that I should be private?</q> <rj><qau>Addison.</qau></rj><br
 <hw>In*tru"sive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Apt to intrude; characterized by intrusion; entering without right or welcome.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Intrusive rocks</b></col> <fld>(Geol.)</fld>, <cd>rocks which have been forced, while in a plastic or melted state, into the cavities or between the cracks or layers of other rocks. The term is sometimes used as equivalent to <altname>plutonic rocks</altname>. It is then contrasted with <xex>effusive</xex> or <xex>volcanic rocks</xex>.</cd></cs><-- e.g. dikes, igneous rock injected into a fissure --></p>
+<p><cs><col>Intrusive rocks</col> <fld>(Geol.)</fld>, <cd>rocks which have been forced, while in a plastic or melted state, into the cavities or between the cracks or layers of other rocks. The term is sometimes used as equivalent to <altname>plutonic rocks</altname>. It is then contrasted with <xex>effusive</xex> or <xex>volcanic rocks</xex>.</cd></cs><-- e.g. dikes, igneous rock injected into a fissure --></p>
 
 <p>-- <wordforms><wf>In*tru"sive*ly</wf>, <pos>adv.</pos> -- <wf>In*tru"sive*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -32541,7 +32541,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Fine Arts, Rhet., etc.)</fld> <def>The exercise of the imagination in selecting and treating a theme, or more commonly in contriving the arrangement of a piece, or the method of presenting its parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Invention of the cross</b></col> <fld>(Eccl.)</fld>, <cd>a festival celebrated May 3d, in honor of the finding of our Savior's cross by St. Helena.</cd></cs><br/
+<p><cs><col>Invention of the cross</col> <fld>(Eccl.)</fld>, <cd>a festival celebrated May 3d, in honor of the finding of our Savior's cross by St. Helena.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inventious</ent><br/
@@ -32622,7 +32622,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>Opposite in nature and effect; -- said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity; <as>as, multiplication is the <ex>inverse</ex> operation to division</as>. The symbol of an inverse operation is the symbol of the direct operation with <sups>-1</sups> as an index. Thus <fexp>sin<sups>-1</sups> x</fexp> means the arc or angle whose sine is <it>x</it>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inverse figures</b></col> <fld>(Geom.)</fld>, <cd>two figures, such that each point of either figure is inverse to a corresponding point in the order figure.</cd> -- <col><b>Inverse points</b></col> <fld>(Geom.)</fld>, <cd>two points lying on a line drawn from the center of a fixed circle or sphere, and so related that the product of their distances from the center of the circle or sphere is equal to the square of the radius.</cd> -- <mcol><col><b>Inverse ratio</b></col>, <it>or</it>  <col><b>Reciprocal ratio</b></col></mcol> <fld>(Math.)</fld>, <cd>the ratio of the reciprocals of two quantities.</cd> -- <mcol><col><b>Inverse proportion</b></col>, <it>or</it>  <col><b>Reciprocal proportion</b></col></mcol>, <cd>an equality between a direct ratio and a reciprocal ratio; thus, <mathex>4 : 2 : : <frac13/ : <frac16/</mathex>, or 4 : 2 : : 3 : 6, <xex>inversely</xex>.</cd></cs><br/
+<p><cs><col>Inverse figures</col> <fld>(Geom.)</fld>, <cd>two figures, such that each point of either figure is inverse to a corresponding point in the order figure.</cd> -- <col>Inverse points</col> <fld>(Geom.)</fld>, <cd>two points lying on a line drawn from the center of a fixed circle or sphere, and so related that the product of their distances from the center of the circle or sphere is equal to the square of the radius.</cd> -- <mcol><col>Inverse ratio</col>, <it>or</it>  <col>Reciprocal ratio</col></mcol> <fld>(Math.)</fld>, <cd>the ratio of the reciprocals of two quantities.</cd> -- <mcol><col>Inverse proportion</col>, <it>or</it>  <col>Reciprocal proportion</col></mcol>, <cd>an equality between a direct ratio and a reciprocal ratio; thus, <mathex>4 : 2 : : <frac13/ : <frac16/</mathex>, or 4 : 2 : : 3 : 6, <xex>inversely</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inverse</ent><br/
@@ -32636,7 +32636,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>In*verse"ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>In an inverse order or manner; by inversion; -- opposed to <contr>directly</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inversely proportional</b></col>. <cd>See <cref>Directly proportional</cref>, under <er>Directly</er>, and <er>Inversion</er>, <snr>4</snr>.</cd></cs><br/
+<p><cs><col>Inversely proportional</col>. <cd>See <cref>Directly proportional</cref>, under <er>Directly</er>, and <er>Inversion</er>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Inversion</ent><br/
@@ -32720,7 +32720,7 @@ Wanting its proper base to stand upon.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>In"vert</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Subjected to the process of inversion; inverted; converted; <as>as, <ex>invert</ex> sugar</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Invert sugar</b></col> <fld>(Chem.)</fld>, <cd>a variety of sugar, consisting of a mixture of dextrose and levulose, found naturally in fruits, and produced artificially by the inversion of cane sugar (sucrose); also, less properly, the grape sugar or dextrose obtained from starch. See <er>Inversion</er>, <er>Dextrose</er>, <er>Levulose</er>, and <er>Sugar</er>.</cd></cs><br/
+<p><cs><col>Invert sugar</col> <fld>(Chem.)</fld>, <cd>a variety of sugar, consisting of a mixture of dextrose and levulose, found naturally in fruits, and produced artificially by the inversion of cane sugar (sucrose); also, less properly, the grape sugar or dextrose obtained from starch. See <er>Inversion</er>, <er>Dextrose</er>, <er>Levulose</er>, and <er>Sugar</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invert</ent><br/
@@ -32743,7 +32743,7 @@ Wanting its proper base to stand upon.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>In*ver"te*brate</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Destitute of a backbone; having no vertebr<ae/; of or pertaining to the Invertebrata.</def> -- <def2><pos>n.</pos> <def>One of the Invertebrata.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Age of invertebrates</b></col>. <cd>See <er>Age</er>, and <er>Silurian</er>.</cd></cs><br/
+<p><cs><col>Age of invertebrates</col>. <cd>See <er>Age</er>, and <er>Silurian</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invertebrated</ent><br/
@@ -32760,7 +32760,7 @@ Wanting its proper base to stand upon.</q> <rj><qau>Cowper.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Geol.)</fld> <def>Situated apparently in reverse order, as strata when folded back upon themselves by upheaval.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Inverted arch</b></col> <fld>(Arch.)</fld>, <cd>an arch placed with crown downward; -- much used in foundations.</cd></cs><br/
+<p><cs><col>Inverted arch</col> <fld>(Arch.)</fld>, <cd>an arch placed with crown downward; -- much used in foundations.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invertedly</ent><br/
@@ -33197,7 +33197,7 @@ In these thy lowest works.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>imperceptible to the mind; <as>as, differences <ex>invisible</ex> to most observers</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Invisible bird</b></col> <fld>(Zool.)</fld>, <cd>a small, shy singing bird (<spn>Myadestes sibilons</spn>), of St. Vincent Islands.</cd> -- <col><b>Invisible green</b></col>, <cd>a very dark shade of green, approaching to black, and liable to be mistaken for it.</cd></cs><br/
+<p><cs><col>Invisible bird</col> <fld>(Zool.)</fld>, <cd>a small, shy singing bird (<spn>Myadestes sibilons</spn>), of St. Vincent Islands.</cd> -- <col>Invisible green</col>, <cd>a very dark shade of green, approaching to black, and liable to be mistaken for it.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Invisible</ent><br/
@@ -33766,7 +33766,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <hw>I*od"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>iodique</ets>. See <er>Iodine</er>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, iodine; specif., denoting those compounds in which it has a relatively high valence; <as>as, <ex>iodic</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iodic acid</b></col>, <cd>a monobasic acid (<chform>HIO3</chform>), consisting of iodine with three parts of oxygen and one of hydrogen.</cd></cs><br/
+<p><cs><col>Iodic acid</col>, <cd>a monobasic acid (<chform>HIO3</chform>), consisting of iodine with three parts of oxygen and one of hydrogen.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iodide</ent><br/
@@ -33798,7 +33798,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <p><note><hand/ Iodine was formerly obtained from the ashes of seaweed (<xex>kelp</xex> or <xex>varec</xex>), but is now also extracted from certain natural brines. In the free state, iodine, even in very minute quantities, colors starch blue. Iodine and its compounds are largely used in medicine (as in liniments, antisyphilitics, etc.), in photography, in the preparation of aniline dyes, and as an indicator in titration.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iodine green</b></col>, <cd>an artificial green dyestuff, consisting of an iodine derivative of rosaniline; -- called also <altname>night green</altname>.</cd> -- <col><b>Iodine scarlet</b></col>, <cd>a pigment of an intense scarlet color, consisting of mercuric iodide.</cd> -- <col><b>Iodine yellow</b></col>, <cd>a brilliant yellow pigment, consisting of plumbic iodide.</cd></cs><br/
+<p><cs><col>Iodine green</col>, <cd>an artificial green dyestuff, consisting of an iodine derivative of rosaniline; -- called also <altname>night green</altname>.</cd> -- <col>Iodine scarlet</col>, <cd>a pigment of an intense scarlet color, consisting of mercuric iodide.</cd> -- <col>Iodine yellow</col>, <cd>a brilliant yellow pigment, consisting of plumbic iodide.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iodism</ent><br/
@@ -33857,7 +33857,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <hw>I"o*dous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Pertaining to, or containing, iodine. See <er>-ous</er> (chemical suffix).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iodous acid</b></col>, <cd>a hypothetical acid, analogous to chlorous acid.</cd></cs><br/
+<p><cs><col>Iodous acid</col>, <cd>a hypothetical acid, analogous to chlorous acid.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ioduret</ent><br/
@@ -33910,7 +33910,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>Pertaining to the Ionic order of architecture, one of the three orders invented by the Greeks, and one of the five recognized by the Italian writers of the sixteenth century. Its distinguishing feature is a capital with spiral volutes. See <xex>Illust.</xex> of <er>Capital</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ionic dialect</b></col> <fld>(Gr. Gram.)</fld>, <cd>a dialect of the Greek language, used in Ionia. The Homeric poems are written in what is designated <xex>old Ionic</xex>, as distinguished from <xex>new Ionic</xex>, or <xex>Attic</xex>, the dialect of all cultivated Greeks in the period of Athenian prosperity and glory.</cd> -- <col><b>Ionic foot</b></col>. <fld>(Pros.)</fld> <cd>See <er>Ionic</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <mcol><col><b>Ionic mode</b></col>, <it>or</it> <col><b>Ionian mode</b></col>,</mcol> <fld>(Mus.)</fld>, <cd>an ancient mode, supposed to correspond with the modern major scale of C.</cd> -- <col><b>Ionic sect</b></col>, <cd>a sect of philosophers founded by <person>Thales of Miletus</person>, in Ionia. Their distinguishing tenet was, that water is the original principle of all things.</cd> -- <col><b>Ionic type</b></col>, <cd>a kind of heavy-faced type (as that of the following line).</cd><br/
+<p><cs><col>Ionic dialect</col> <fld>(Gr. Gram.)</fld>, <cd>a dialect of the Greek language, used in Ionia. The Homeric poems are written in what is designated <xex>old Ionic</xex>, as distinguished from <xex>new Ionic</xex>, or <xex>Attic</xex>, the dialect of all cultivated Greeks in the period of Athenian prosperity and glory.</cd> -- <col>Ionic foot</col>. <fld>(Pros.)</fld> <cd>See <er>Ionic</er>, <pos>n.</pos>, <snr>1</snr>.</cd> -- <mcol><col>Ionic mode</col>, <it>or</it> <col>Ionian mode</col>,</mcol> <fld>(Mus.)</fld>, <cd>an ancient mode, supposed to correspond with the modern major scale of C.</cd> -- <col>Ionic sect</col>, <cd>a sect of philosophers founded by <person>Thales of Miletus</person>, in Ionia. Their distinguishing tenet was, that water is the original principle of all things.</cd> -- <col>Ionic type</col>, <cd>a kind of heavy-faced type (as that of the following line).</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/<nonpareiltype>This is Nonpareil Ionic.</nonpareiltype></note></cs></p>
@@ -33978,7 +33978,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <p><q>They never depart an <qex>iota</qex> from the authentic formulas of tyranny and usurpation.</q> <rj><qau>Burke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iota subscript</b></col> <fld>(Gr. Gram.)</fld>, <cd>iota written beneath a preceding vowel, as <grk>a,</grk>, <grk>h,</grk>, <grk>w,</grk>, -- done when iota is silent.</cd></cs><-- we use a following comma to represent the iota subscript within Greek transcriptions.  See the "webfont.asc" file for complete description of Greek transliterations. --><br/
+<p><cs><col>Iota subscript</col> <fld>(Gr. Gram.)</fld>, <cd>iota written beneath a preceding vowel, as <grk>a,</grk>, <grk>h,</grk>, <grk>w,</grk>, -- done when iota is silent.</cd></cs><-- we use a following comma to represent the iota subscript within Greek transcriptions.  See the "webfont.asc" file for complete description of Greek transliterations. --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iotacism</ent><br/
@@ -34259,7 +34259,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <hw>I"rish</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[AS. <ets><imac/risc</ets>, fr. <ets><imac/ras</ets> the Irish.  Cf. <er>Aryan</er>, <er>Erse</er>.]</ety> <def>Of or pertaining to Ireland or to its inhabitants; produced in Ireland.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irish elk</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Elk</er>.</cd> -- <col><b>Irish moss</b></col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Carrageen</cd>. <sd>(b)</sd> <cd>A preparation of the same made into a blanc mange.</cd> -- <col><b>Irish poplin</b></col>. <cd>See <er>Poplin</er>.</cd> -- <col><b>Irish potato</b></col>, <cd>the ordinary white potato, so called because it is a favorite article of food in Ireland.</cd> -- <mcol><col><b>Irish reef</b></col>, <it>or</it> <col><b>Irishman's reef</b></col></mcol> <fld>(Naut.)</fld>, <cd>the head of a sail tied up.</cd> -- <col><b>Irish stew</b></col>, <cd>meat, potatoes, and onions, cut in small pieces and stewed.</cd></cs><br/
+<p><cs><col>Irish elk</col>. <fld>(Zool.)</fld> <cd>See under <er>Elk</er>.</cd> -- <col>Irish moss</col>. <sd>(a)</sd> <fld>(Bot.)</fld> <cd>Carrageen</cd>. <sd>(b)</sd> <cd>A preparation of the same made into a blanc mange.</cd> -- <col>Irish poplin</col>. <cd>See <er>Poplin</er>.</cd> -- <col>Irish potato</col>, <cd>the ordinary white potato, so called because it is a favorite article of food in Ireland.</cd> -- <mcol><col>Irish reef</col>, <it>or</it> <col>Irishman's reef</col></mcol> <fld>(Naut.)</fld>, <cd>the head of a sail tied up.</cd> -- <col>Irish stew</col>, <cd>meat, potatoes, and onions, cut in small pieces and stewed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irish</ent><br/
@@ -34272,7 +34272,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <p><sn>3.</sn> <def>An old game resembling backgammon.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>get one's Irish up</b></col> <cd>to become angry.</cd></cs><br/
+<p><cs><col>get one's Irish up</col> <cd>to become angry.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Irish-American</ent><br/
@@ -34288,7 +34288,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 <hw>I"rish*man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Irishmen</plw> <pr>(<?/)</pr>.</plu> <def>A man born in Ireland or of the Irish race; an Hibernian.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irishman's hurricane</b></col> <fld>(Naut.)</fld>, <cd>a dead calm.</cd> -- <col><b>Irishman's reef</b></col>. <fld>(Naut.)</fld> <cd>See <cref>Irish reef</cref>, under <er>Irish</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><col>Irishman's hurricane</col> <fld>(Naut.)</fld>, <cd>a dead calm.</cd> -- <col>Irishman's reef</col>. <fld>(Naut.)</fld> <cd>See <cref>Irish reef</cref>, under <er>Irish</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irishry</ent><br/
@@ -34362,7 +34362,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><sn>5.</sn> <fld>(Golf)</fld> <def>An iron-headed club with a deep face, chiefly used in making approaches, lifting a ball over hazards, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Bar iron</b></col>. <cd>See <cref>Wrought iron</cref> (below).</cd> -- <col><b>Bog iron</b></col>, <cd>bog ore; limonite. See <cref>Bog ore</cref>, under <er>Bog</er>.</cd> -- <col><b>Cast iron</b></col> <fld>(Metal.)</fld>, <cd>an impure variety of iron, containing from three to six percent of carbon, part of which is united with a part of the iron, as a carbide, and the rest is uncombined, as graphite. It there is little free carbon, the product is <stype>white iron</stype>; if much of the carbon has separated as graphite, it is called <stype>gray iron</stype>. See also <er>Cast iron</er>, in the Vocabulary.</cd> -- <col><b>Fire irons</b></col>. <cd>See under <er>Fire</er>, <pos>n.</pos></cd> -- <col><b>Gray irons</b></col>. <cd>See under <er>Fire</er>, <pos>n.</pos></cd> -- <col><b>Gray iron</b></col>. <cd>See <cref>Cast iron</cref> (above).</cd> -- <col><b>It irons</b></col> <fld>(Naut.)</fld>, <cd>said of a sailing vessel, when, in tacking, she comes up head to the wind and will not fill away on either tack.</cd> -- <col><b>Magnetic iron</b></col>. <cd>See <er>Magnetite</er>.</cd> -- <col><b>Malleable iron</b></col> <fld>(Metal.)</fld>, <cd>iron sufficiently pure or soft to be capable of extension under the hammer; also, specif., a kind of iron produced by removing a portion of the carbon or other impurities from cast iron, rendering it less brittle, and to some extent malleable.</cd> -- <col><b>Meteoric iron</b></col> <fld>(Chem.)</fld>, <cd>iron forming a large, and often the chief, ingredient of meteorites. It invariably contains a small amount of nickel and cobalt.  Cf. <er>Meteorite</er>.</cd> -- <col><b>Pig iron</b></col>, <cd>the form in which cast iron is made at the blast furnace, being run into molds, called <xex>pigs</xex>.</cd> -- <col><b>Reduced iron</b></col>. <cd>See under <er>Reduced</er>.</cd> -- <col><b>Specular iron</b></col>. <cd>See <er>Hematite</er>.</cd> -- <col><b>Too many irons in the fire</b></col>, <cd>too many objects or tasks requiring the attention at once.</cd> -- <col><b>White iron</b></col>. <cd>See <cref>Cast iron</cref> (above).</cd> -- <col><b>Wrought iron</b></col> <fld>(Metal.)</fld>, <cd>the purest form of iron commonly known in the arts, containing only about half of one per cent of carbon. It is made either directly from the ore, as in the Catalan forge or bloomery, or by purifying (<xex>puddling</xex>) cast iron in a reverberatory furnace or refinery. It is tough, malleable, and ductile. When formed into bars, it is called <altname>bar iron</altname>.</cd></cs><br/
+<p><cs><col>Bar iron</col>. <cd>See <cref>Wrought iron</cref> (below).</cd> -- <col>Bog iron</col>, <cd>bog ore; limonite. See <cref>Bog ore</cref>, under <er>Bog</er>.</cd> -- <col>Cast iron</col> <fld>(Metal.)</fld>, <cd>an impure variety of iron, containing from three to six percent of carbon, part of which is united with a part of the iron, as a carbide, and the rest is uncombined, as graphite. It there is little free carbon, the product is <stype>white iron</stype>; if much of the carbon has separated as graphite, it is called <stype>gray iron</stype>. See also <er>Cast iron</er>, in the Vocabulary.</cd> -- <col>Fire irons</col>. <cd>See under <er>Fire</er>, <pos>n.</pos></cd> -- <col>Gray irons</col>. <cd>See under <er>Fire</er>, <pos>n.</pos></cd> -- <col>Gray iron</col>. <cd>See <cref>Cast iron</cref> (above).</cd> -- <col>It irons</col> <fld>(Naut.)</fld>, <cd>said of a sailing vessel, when, in tacking, she comes up head to the wind and will not fill away on either tack.</cd> -- <col>Magnetic iron</col>. <cd>See <er>Magnetite</er>.</cd> -- <col>Malleable iron</col> <fld>(Metal.)</fld>, <cd>iron sufficiently pure or soft to be capable of extension under the hammer; also, specif., a kind of iron produced by removing a portion of the carbon or other impurities from cast iron, rendering it less brittle, and to some extent malleable.</cd> -- <col>Meteoric iron</col> <fld>(Chem.)</fld>, <cd>iron forming a large, and often the chief, ingredient of meteorites. It invariably contains a small amount of nickel and cobalt.  Cf. <er>Meteorite</er>.</cd> -- <col>Pig iron</col>, <cd>the form in which cast iron is made at the blast furnace, being run into molds, called <xex>pigs</xex>.</cd> -- <col>Reduced iron</col>. <cd>See under <er>Reduced</er>.</cd> -- <col>Specular iron</col>. <cd>See <er>Hematite</er>.</cd> -- <col>Too many irons in the fire</col>, <cd>too many objects or tasks requiring the attention at once.</cd> -- <col>White iron</col>. <cd>See <cref>Cast iron</cref> (above).</cd> -- <col>Wrought iron</col> <fld>(Metal.)</fld>, <cd>the purest form of iron commonly known in the arts, containing only about half of one per cent of carbon. It is made either directly from the ore, as in the Catalan forge or bloomery, or by purifying (<xex>puddling</xex>) cast iron in a reverberatory furnace or refinery. It is tough, malleable, and ductile. When formed into bars, it is called <altname>bar iron</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iron</ent><br/
@@ -34395,7 +34395,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><note><hand/ <xex>Iron</xex> is often used in composition, denoting <xex>made of iron</xex>, <xex>relating to iron</xex>, <xex>of or with iron</xex>; <xex>producing iron</xex>, etc.; <xex>resembling</xex> iron, literally or figuratively, in some of its properties or characteristics; as, <xex>iron</xex>-shod, <xex>iron</xex>-sheathed, <xex>iron</xex>-fisted, <xex>iron</xex>-framed, <xex>iron</xex>-handed, <xex>iron</xex>-hearted, <xex>iron</xex> foundry or <xex>iron</xex>-foundry.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Iron age</b></col>. <sd>(a)</sd> <fld>(Myth.)</fld> <cd>The age following the golden, silver, and bronze ages, and characterized by a general degeneration of talent and virtue, and of literary excellence. In Roman literature the <ex>Iron Age</ex> is commonly regarded as beginning after the taking of Rome by the Goths, <sc>A. D.</sc> 410.</cd> <sd>(b)</sd> <fld>(Arch<ae/ol.)</fld> <cd>That stage in the development of any people characterized by the use of iron implements in the place of the more cumbrous stone and bronze.</cd> -- <col><b>Iron cement</b></col>, <cd>a cement for joints, composed of cast-iron borings or filings, sal ammoniac, etc.</cd> -- <col><b>Iron clay</b></col> <fld>(Min.)</fld>, <cd>a yellowish clay containing a large proportion of an ore of iron.</cd> -- <col><b>Iron cross</b></col>, <cd>a German, and before that Prussian, order of military merit; also, the decoration of the order.</cd> -- <col><b>Iron crown</b></col>, <cd>a golden crown set with jewels, belonging originally to the Lombard kings, and indicating the dominion of Italy. It was so called from containing a circle said to have been forged from one of the nails in the cross of Christ.</cd> -- <col><b>Iron flint</b></col> <fld>(Min.)</fld>, <cd>an opaque, flintlike, ferruginous variety of quartz.</cd> -- <col><b>Iron founder</b></col>, <cd>a maker of iron castings.</cd> -- <col><b>Iron foundry</b></col>, <cd>the place where iron castings are made.</cd> -- <col><b>Iron furnace</b></col>, <cd>a furnace for reducing iron from the ore, or for melting iron for castings, etc.; a forge; a reverberatory; a bloomery.</cd> -- <col><b>Iron glance</b></col> <fld>(Min.)</fld>, <cd>hematite.</cd> -- <col><b>Iron hat</b></col>, <cd>a headpiece of iron or steel, shaped like a hat with a broad brim, and used as armor during the Middle Ages.</cd> -- <col><b>Iron horse</b></col>, <cd>a locomotive engine.</cd> <mark>[Colloq.]</mark> -- <col><b>Iron liquor</b></col>, <cd>a solution of an iron salt, used as a mordant by dyers.</cd> -- <col><b>Iron man</b></col> <fld>(Cotton Manuf.)</fld>, <cd>a name for the self-acting spinning mule.</cd> -- <mcol><col><b>Iron mold</b></col> <it>or</it> <col><b>Iron mould</b></col></mcol>, <cd>a yellow spot on cloth stained by rusty iron.</cd> -- <col><b>Iron ore</b></col> <fld>(Min.)</fld>, <cd>any native compound of iron from which the metal may be profitably extracted. The principal ores are magnetite, hematite, siderite, limonite, G<oum/thite, turgite, and the bog and clay iron ores.</cd> -- <col><b>Iron pyrites</b></col> <fld>(Min.)</fld>, <cd>common pyrites, or pyrite. See <er>Pyrites</er>.</cd> -- <col><b>Iron sand</b></col>, <cd>an iron ore in grains, usually the magnetic iron ore, formerly used to sand paper after writing.</cd> -- <col><b>Iron scale</b></col>, <cd>the thin film which forms on the surface of wrought iron in the process of forging. It consists essentially of the magnetic oxide of iron, <chform>Fe3O4</chform>.</cd> -- <col><b>Iron works</b></col>, <cd>a furnace where iron is smelted, or a forge, rolling mill, or foundry, where it is made into heavy work, such as shafting, rails, cannon, merchant bar, etc.</cd></cs><br/
+<p><cs><col>Iron age</col>. <sd>(a)</sd> <fld>(Myth.)</fld> <cd>The age following the golden, silver, and bronze ages, and characterized by a general degeneration of talent and virtue, and of literary excellence. In Roman literature the <ex>Iron Age</ex> is commonly regarded as beginning after the taking of Rome by the Goths, <sc>A. D.</sc> 410.</cd> <sd>(b)</sd> <fld>(Arch<ae/ol.)</fld> <cd>That stage in the development of any people characterized by the use of iron implements in the place of the more cumbrous stone and bronze.</cd> -- <col>Iron cement</col>, <cd>a cement for joints, composed of cast-iron borings or filings, sal ammoniac, etc.</cd> -- <col>Iron clay</col> <fld>(Min.)</fld>, <cd>a yellowish clay containing a large proportion of an ore of iron.</cd> -- <col>Iron cross</col>, <cd>a German, and before that Prussian, order of military merit; also, the decoration of the order.</cd> -- <col>Iron crown</col>, <cd>a golden crown set with jewels, belonging originally to the Lombard kings, and indicating the dominion of Italy. It was so called from containing a circle said to have been forged from one of the nails in the cross of Christ.</cd> -- <col>Iron flint</col> <fld>(Min.)</fld>, <cd>an opaque, flintlike, ferruginous variety of quartz.</cd> -- <col>Iron founder</col>, <cd>a maker of iron castings.</cd> -- <col>Iron foundry</col>, <cd>the place where iron castings are made.</cd> -- <col>Iron furnace</col>, <cd>a furnace for reducing iron from the ore, or for melting iron for castings, etc.; a forge; a reverberatory; a bloomery.</cd> -- <col>Iron glance</col> <fld>(Min.)</fld>, <cd>hematite.</cd> -- <col>Iron hat</col>, <cd>a headpiece of iron or steel, shaped like a hat with a broad brim, and used as armor during the Middle Ages.</cd> -- <col>Iron horse</col>, <cd>a locomotive engine.</cd> <mark>[Colloq.]</mark> -- <col>Iron liquor</col>, <cd>a solution of an iron salt, used as a mordant by dyers.</cd> -- <col>Iron man</col> <fld>(Cotton Manuf.)</fld>, <cd>a name for the self-acting spinning mule.</cd> -- <mcol><col>Iron mold</col> <it>or</it> <col>Iron mould</col></mcol>, <cd>a yellow spot on cloth stained by rusty iron.</cd> -- <col>Iron ore</col> <fld>(Min.)</fld>, <cd>any native compound of iron from which the metal may be profitably extracted. The principal ores are magnetite, hematite, siderite, limonite, G<oum/thite, turgite, and the bog and clay iron ores.</cd> -- <col>Iron pyrites</col> <fld>(Min.)</fld>, <cd>common pyrites, or pyrite. See <er>Pyrites</er>.</cd> -- <col>Iron sand</col>, <cd>an iron ore in grains, usually the magnetic iron ore, formerly used to sand paper after writing.</cd> -- <col>Iron scale</col>, <cd>the thin film which forms on the surface of wrought iron in the process of forging. It consists essentially of the magnetic oxide of iron, <chform>Fe3O4</chform>.</cd> -- <col>Iron works</col>, <cd>a furnace where iron is smelted, or a forge, rolling mill, or foundry, where it is made into heavy work, such as shafting, rails, cannon, merchant bar, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Iron</ent><br/
@@ -34410,7 +34410,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 
 <p><sn>3.</sn> <def>To furnish or arm with iron; <as>as, to <ex>iron</ex> a wagon</as>.</def></p>
 
-<p><cs><col><b>iron out differences</b></col> <cd>resolve differences; settle a dispute.</cd></cs><br/
+<p><cs><col>iron out differences</col> <cd>resolve differences; settle a dispute.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ironbark tree</ent><br/
@@ -34512,7 +34512,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><sn>2.</sn> <def>The clothes ironed.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ironing board</b></col>, <cd>a flat board, upon which clothes are laid while being ironed.</cd></cs><br/
+<p><cs><col>Ironing board</col>, <cd>a flat board, upon which clothes are laid while being ironed.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ironish</ent><br/
@@ -34578,7 +34578,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><ent>Ironsides</ent><br/
 <hw>I"ron*sides"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A cuirassier or cuirassiers; also, hardy veteran soldiers; -- applied specifically to Cromwell's cavalry.</def></p>
 
-<p><cs><col><b>Old Ironsides</b></col>. <fld>(U. S. Hist.)</fld>  <cd>A nickname for the <ship>U.S.S. Constitution</ship>, a sailing ship which fought in the American Revolutionary war, and now functions as a floating museum in Boston harbor.  It was given its nickname because cannonballs bounced off its hard wooden sides.</cd></cs><br/
+<p><cs><col>Old Ironsides</col>. <fld>(U. S. Hist.)</fld>  <cd>A nickname for the <ship>U.S.S. Constitution</ship>, a sailing ship which fought in the American Revolutionary war, and now functions as a floating museum in Boston harbor.  It was given its nickname because cannonballs bounced off its hard wooden sides.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ironsmith</ent><br/
@@ -34595,7 +34595,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><sn>2.</sn> <def><cref>ironstone china</cref>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Clay ironstone</b></col>. <cd>See under <er>Clay</er>.</cd> -- <col><b>Ironstone china</b></col>, <cd>a hard white pottery, first made in England during the 18th century.</cd></cs><br/
+<p><cs><col>Clay ironstone</col>. <cd>See under <er>Clay</er>.</cd> -- <col>Ironstone china</col>, <cd>a hard white pottery, first made in England during the 18th century.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ironware</ent><br/
@@ -34868,7 +34868,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>Incapable of being reduced to a simpler form of expression; <as>as, an <ex>irreducible</ex> formula</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irreducible case</b></col> <fld>(Alg.)</fld>, <cd>a particular case in the solution of a cubic equation, in which the formula commonly employed contains an imaginary quantity, and therefore fails in its application.</cd></cs></p>
+<p><cs><col>Irreducible case</col> <fld>(Alg.)</fld>, <cd>a particular case in the solution of a cubic equation, in which the formula commonly employed contains an imaginary quantity, and therefore fails in its application.</cd></cs></p>
 
 <p>-- <wordforms><wf>Ir`re*du"ci*ble*ness</wf>, <pos>n.</pos> -- <wf>Ir`re*du"ci*bly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -34977,7 +34977,7 @@ Against the <qex>irregular</qex> and wild Glendower.</q> <rj><qau>Shak.</qau></r
 <hw>Ir*rel"a*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Not relative; without mutual relations; unconnected.</def> -- <wordforms><wf>Ir*rel"a*tive*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irrelative chords</b></col> <fld>(Mus.)</fld>, <cd>those having no common tone.</cd> -- <col><b>Irrelative repetition</b></col> <fld>(Biol.)</fld>, <cd>the multiplication of parts that serve for a common purpose, but have no mutual dependence or connection.</cd> <au>Owen.</au></cs><br/
+<p><cs><col>Irrelative chords</col> <fld>(Mus.)</fld>, <cd>those having no common tone.</cd> -- <col>Irrelative repetition</col> <fld>(Biol.)</fld>, <cd>the multiplication of parts that serve for a common purpose, but have no mutual dependence or connection.</cd> <au>Owen.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irrelavance</ent><br/
@@ -35231,7 +35231,7 @@ Against the <qex>irregular</qex> and wild Glendower.</q> <rj><qau>Shak.</qau></r
 <hw>Ir`re*solv"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>ir-</ets> not + <ets>resolvable</ets>.  Cf. <er>Irresoluble</er>.]</ety> <def>Incapable of being resolved; not separable into component parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irresolvable nebul<ae/</b></col> <fld>(Astron.)</fld>, <cd>nebul<ae/ of a cloudlike appearance, which have not yet been resolved by the telescope into stars, and are often distant galaxies.  See <er>galaxy</er>{2}.</cd></cs> <rj><au>Sir W. Herschel.</au></rj><br/
+<p><cs><col>Irresolvable nebul<ae/</col> <fld>(Astron.)</fld>, <cd>nebul<ae/ of a cloudlike appearance, which have not yet been resolved by the telescope into stars, and are often distant galaxies.  See <er>galaxy</er>{2}.</cd></cs> <rj><au>Sir W. Herschel.</au></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Irresolvableness</ent><br/
@@ -35254,7 +35254,7 @@ Against the <qex>irregular</qex> and wild Glendower.</q> <rj><qau>Shak.</qau></r
 <p><sn>2.</sn> <def>Disrespectful.</def> <mark>[Obs.]</mark>  <rj><au>Sir C. Cornwallis.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Irrespective of</b></col>, <cd>regardless of; without regard to; <as>as, <ex>irrespective of</ex> differences</as>.</cd></cs><br/
+<p><cs><col>Irrespective of</col>, <cd>regardless of; without regard to; <as>as, <ex>irrespective of</ex> differences</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irrespectively</ent><br/
@@ -35540,7 +35540,7 @@ Of some <qex>irriguous</qex> valley spreads her store.</q> <rj><qau>Milton.</qau
 <p><sn>3.</sn> <fld>(Toxicology)</fld> <def>A poison that produces inflammation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Counter irritant</b></col>. <cd>See under <er>Counter</er>.</cd> -- <col><b>Pure irritant</b></col> <fld>(Toxicology)</fld>, <cd>a poison that produces inflammation without any corrosive action upon the tissues.</cd></cs><br/
+<p><cs><col>Counter irritant</col>. <cd>See under <er>Counter</er>.</cd> -- <col>Pure irritant</col> <fld>(Toxicology)</fld>, <cd>a poison that produces inflammation without any corrosive action upon the tissues.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Irritate</ent><br/
@@ -35773,14 +35773,14 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>Is`chi*ad"ic</hw> <pr>(<icr/s`k<icr/*<acr/d"<icr/k)</pr>, <pos>a.</pos> <ety>[L. <ets>ischiadicus</ets>, Gr. <grk>'ischiadoko`s</grk>, fr. <grk>'ischi`on</grk> the hip joint, hip or loin.  Cf. <er>Sciatic</er>.]</ety> <fld>(Anat.)</fld> <def>Ischial.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Ischiadic passion</b></col> <it>or</it> <col><b>Ischiadic disease</b></col></mcol> <fld>(Med.)</fld>, <cd>a rheumatic or neuralgic affection of some part about the hip joint; -- called also <altname>sciatica</altname>.</cd></cs><br/
+<p><cs><mcol><col>Ischiadic passion</col> <it>or</it> <col>Ischiadic disease</col></mcol> <fld>(Med.)</fld>, <cd>a rheumatic or neuralgic affection of some part about the hip joint; -- called also <altname>sciatica</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ischial</ent><br/
 <hw>Is"chi*al</hw> <pr>(<icr/s"k<icr/*<ait/l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to the ischium or hip; ischiac; ischiadic; ischiatic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ischial callosity</b></col> <fld>(Zool.)</fld>, <cd>one of the patches of thickened, hairless, and often bright-colored skin, on the buttocks of many apes, as the drill.</cd></cs><br/
+<p><cs><col>Ischial callosity</col> <fld>(Zool.)</fld>, <cd>one of the patches of thickened, hairless, and often bright-colored skin, on the buttocks of many apes, as the drill.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 791 --></p>
@@ -35828,7 +35828,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`sen*trop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Is-</ets> + <ets>entropy</ets> + <ets>-ic</ets>.]</ety> <fld>(Physics)</fld> <def>Having equal entropy.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isentropic lines</b></col>, <cd>lines which pass through points having equal entropy.</cd></cs><br/
+<p><cs><col>Isentropic lines</col>, <cd>lines which pass through points having equal entropy.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isethionic</ent><br/
@@ -35945,7 +35945,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>See <er>Isle</er>, <pos>n.</pos>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Islands of the blessed</b></col> <fld>(Myth.)</fld>, <cd>islands supposed to lie in the Western Ocean, where the favorites of the gods are conveyed at death, and dwell in everlasting joy.</cd></cs><br/
+<p><cs><col>Islands of the blessed</col> <fld>(Myth.)</fld>, <cd>islands supposed to lie in the Western Ocean, where the favorites of the gods are conveyed at death, and dwell in everlasting joy.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Island</ent><br/
@@ -36110,7 +36110,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <mhw>{ <hw>I`so*cli"nal</hw> <pr>(?)</pr>, <hw>I`so*clin"ic</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <?/ to incline.]</ety> <def>Of or pertaining to, or indicating, equality of inclination or dip; having equal inclination or dip.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isoclinal lines</b></col> <fld>(Magnetism)</fld>, <cd>lines on the earth's surface connecting places at which a dipping needle indicates the same inclination or dip.</cd></cs><br/
+<p><cs><col>Isoclinal lines</col> <fld>(Magnetism)</fld>, <cd>lines on the earth's surface connecting places at which a dipping needle indicates the same inclination or dip.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isocrymal</ent><br/
@@ -36129,7 +36129,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*cy*an"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + <ets>cyanic</ets>.]</ety> <fld>(Chem.)</fld> <def>Designating an acid isomeric with cyanic acid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isocyanic acid</b></col>, <cd>an acid metameric with cyanic acid, and resembling it in its salts. It is obtained as a colorless, mobile, unstable liquid by the heating cyanuric acid. Called technically <altname>carbimide</altname>.</cd></cs><br/
+<p><cs><col>Isocyanic acid</col>, <cd>an acid metameric with cyanic acid, and resembling it in its salts. It is obtained as a colorless, mobile, unstable liquid by the heating cyanuric acid. Called technically <altname>carbimide</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isocyanuric</ent><br/
@@ -36140,7 +36140,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*di`a*bat"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <?/ to pass through.]</ety> <fld>(Physics)</fld> <def>Pertaining to the reception or the giving out of equal quantities of heat by a substance.</def>  <rj><au>Rankine.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Isodiabatic lines</b></col> <it>or</it> <col><b>Isodiabatic curves</b></col></mcol>, <cd>a pair of lines or curves exhibiting, on a diagram of energy, the law of variation of the pressure and density of a fluid, the one during the lowering, and the other during the raising, of its temperature, when the quantity of heat given out by the fluid during any given stage of the one process is equal to the quantity received during the corresponding stage of the other. Such lines are said to be <xex>isodiabatic</xex> with respect to each other. Compare <er>Adiabatic</er>.</cd></cs><br/
+<p><cs><mcol><col>Isodiabatic lines</col> <it>or</it> <col>Isodiabatic curves</col></mcol>, <cd>a pair of lines or curves exhibiting, on a diagram of energy, the law of variation of the pressure and density of a fluid, the one during the lowering, and the other during the raising, of its temperature, when the quantity of heat given out by the fluid during any given stage of the one process is equal to the quantity received during the corresponding stage of the other. Such lines are said to be <xex>isodiabatic</xex> with respect to each other. Compare <er>Adiabatic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isodiametric</ent><br/
@@ -36177,7 +36177,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*dy*nam"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + <ets>dynamic</ets>.]</ety> <def>Of, pertaining to, having, or denoting, equality of force.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isodynamic foods</b></col> <fld>(Physiol.)</fld>, <cd>those foods that produce a similar amount of heat.</cd> -- <col><b>Isodynamic lines</b></col> <fld>(Magnetism)</fld>, <cd>lines on the earth's surface connecting places at which the magnetic intensity is the same.</cd></cs><br/
+<p><cs><col>Isodynamic foods</col> <fld>(Physiol.)</fld>, <cd>those foods that produce a similar amount of heat.</cd> -- <col>Isodynamic lines</col> <fld>(Magnetism)</fld>, <cd>lines on the earth's surface connecting places at which the magnetic intensity is the same.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isodynamous</ent><br/
@@ -36196,7 +36196,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*gon"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <grk>gwni`a</grk> angle.]</ety> <def>Pertaining to, or noting, equal angles.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isogonic lines</b></col> <fld>(Magnetism)</fld>, <cd>lines traced on the surface of the globe, or upon a chart, connecting places at which the deviation of the magnetic needle from the meridian or true north is the same.</cd></cs><br/
+<p><cs><col>Isogonic lines</col> <fld>(Magnetism)</fld>, <cd>lines traced on the surface of the globe, or upon a chart, connecting places at which the deviation of the magnetic needle from the meridian or true north is the same.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isogonic</ent><br/
@@ -36250,7 +36250,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I"so*la`ted</hw> <pr>(<imac/"s<osl/*l<amac/`t<ecr/d)</pr>, <pos>a.</pos> <def>Placed or standing alone; detached; separated from others.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isolated point of a curve</b></col>. <fld>(Geom.)</fld> <cd>See <er>Acnode</er>.</cd></cs><br/
+<p><cs><col>Isolated point of a curve</col>. <fld>(Geom.)</fld> <cd>See <er>Acnode</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isolatedly</ent><br/
@@ -36320,7 +36320,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I*som"er*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>The state, quality, or relation, of two or more isomeric substances.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Physical isomerism</b></col> <fld>(Chem.)</fld>, <cd>a former term for <cref>optical isomerism</cref>.</cd>  <col><b>optical isomerism</b></col> <fld>(Chem.)</fld>, <cd>the condition or relation of certain (<it>isomeric</it>) substances, which, while chemically identical (in that they have the same composition, the same molecular weights, and the same ultimate constitution), are yet physically different, as in their action on polarized light, as dextro- and l<ae/vo-tartaric acids, or the sugars galactose and glucose. In such compounds there is usually at least one unsymmetrical carbon atom and typically more than one.  See <er>Unsymmetrical</er>.</cd></cs><br/
+<p><cs><col>Physical isomerism</col> <fld>(Chem.)</fld>, <cd>a former term for <cref>optical isomerism</cref>.</cd>  <col>optical isomerism</col> <fld>(Chem.)</fld>, <cd>the condition or relation of certain (<it>isomeric</it>) substances, which, while chemically identical (in that they have the same composition, the same molecular weights, and the same ultimate constitution), are yet physically different, as in their action on polarized light, as dextro- and l<ae/vo-tartaric acids, or the sugars galactose and glucose. In such compounds there is usually at least one unsymmetrical carbon atom and typically more than one.  See <er>Unsymmetrical</er>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Isomeromorphism</ent><br/
@@ -36337,7 +36337,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>3.</sn> <def>Of or pertaining to isometrics.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Isometric lines</b></col> <fld>(Thermodynamics)</fld>, <cd>lines representing in a diagram the relations of pressure and temperature in a gas, when the volume remains constant.</cd> -- <col><b>Isometrical perspective</b></col>. <cd>See under <er>Perspective</er>.</cd> -- <col><b>Isometrical projection</b></col>, <cd>a species of orthographic projection, in which but a single plane of projection is used. It is so named from the fact that the projections of three equal lines, parallel respectively to three rectangular axes, are equal to one another. This kind of projection is principally used in delineating buildings or machinery, in which the principal lines are parallel to three rectangular axes, and the principal planes are parallel to three rectangular planes passing through the three axes.</cd></cs><br/
+<p><cs><col>Isometric lines</col> <fld>(Thermodynamics)</fld>, <cd>lines representing in a diagram the relations of pressure and temperature in a gas, when the volume remains constant.</cd> -- <col>Isometrical perspective</col>. <cd>See under <er>Perspective</er>.</cd> -- <col>Isometrical projection</col>, <cd>a species of orthographic projection, in which but a single plane of projection is used. It is so named from the fact that the projections of three equal lines, parallel respectively to three rectangular axes, are equal to one another. This kind of projection is principally used in delineating buildings or machinery, in which the principal lines are parallel to three rectangular axes, and the principal planes are parallel to three rectangular planes passing through the three axes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>isometric exercise</ent><br/
@@ -36423,7 +36423,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*pi*es"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Iso-</ets> + Gr. <?/ to press.]</ety> <fld>(Thermodynamics)</fld> <def>Having equal pressure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isopiestic lines</b></col>, <cd>lines showing, in a diagram, the relations of temperature and volume, when the elastic force is constant; -- called also <altname>isobars</altname>.</cd></cs><br/
+<p><cs><col>Isopiestic lines</col>, <cd>lines showing, in a diagram, the relations of temperature and volume, when the elastic force is constant; -- called also <altname>isobars</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isopleura</ent><br/
@@ -36476,7 +36476,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`sor*rop"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'iso`rropos</grk> in equipoise; <grk>'i`sos</grk> equal + <grk>"roph`</grk> downward inclination or momentum.]</ety> <def>Of equal value.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isorropic line</b></col> (in a diagram) <fld>(Geom.)</fld>, <cd>the locus of all the points for which a specified function has a constant value.</cd>  <rj><au>Newcomb.</au></rj></cs><br/
+<p><cs><col>Isorropic line</col> (in a diagram) <fld>(Geom.)</fld>, <cd>the locus of all the points for which a specified function has a constant value.</cd>  <rj><au>Newcomb.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isosceles</ent><br/
@@ -36551,7 +36551,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <hw>I`so*ther"mal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>isotherme</ets>.]</ety> <sd>(a)</sd> <def>Relating to equality of temperature, or an isotherm.</def> <sd>(b)</sd> <fld>(Phys. Geog.)</fld> <def>Having reference to the geographical distribution of temperature, as exhibited by means of isotherms; <as>as, an <ex>isothermal</ex> line; an <ex>isothermal</ex> chart.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isothermal line</b></col>. <sd>(a)</sd> <cd>An isotherm</cd>. <sd>(b)</sd> <cd>A line drawn on a diagram of energy such that its ordinates represent the pressures of a substance corresponding to various volumes, while the absolute temperature is maintained at a constant value.</cd> -- <col><b>Isothermal zones</b></col>, <cd>spaces on opposite sides of the equator having the same mean temperature, and bounded by corresponding isothermal lines.</cd></cs><br/
+<p><cs><col>Isothermal line</col>. <sd>(a)</sd> <cd>An isotherm</cd>. <sd>(b)</sd> <cd>A line drawn on a diagram of energy such that its ordinates represent the pressures of a substance corresponding to various volumes, while the absolute temperature is maintained at a constant value.</cd> -- <col>Isothermal zones</col>, <cd>spaces on opposite sides of the equator having the same mean temperature, and bounded by corresponding isothermal lines.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isothermobath</ent><br/
@@ -36575,7 +36575,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 
 <p><q>A knowledge of the colligative properties of solutions . . . is essential for one to understand fully the principles involved in rendering intravenous solutions <qex>isotonic</qex> with blood serum, or opthalmic solutions <qex>isotonic</qex> with lachrymal fluid.  Solutions thus adjusted produce less shock and much less irritation than those which are hypotonic or hypertonic, and present-day practise recognizes the desirability of making the necessary adjustments whenever possible.</q> <rj><qau>Cook & Martin (Remington's Practice of Pharmacy, Tenth Ed.: Mack Publ., Easton Pa., 1951)</qau></rj></p>
 
-<p><cs><col><b>Isotonic system</b></col> <fld>(Mus.)</fld>, <cd>a system consisting of intervals, in which each concord is alike tempered, and in which there are twelve equal semitones.</cd></cs><br/
+<p><cs><col>Isotonic system</col> <fld>(Mus.)</fld>, <cd>a system consisting of intervals, in which each concord is alike tempered, and in which there are twelve equal semitones.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isotrimorphic</ent><br/
@@ -36628,7 +36628,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj><br
 <p><sn>2.</sn> <def>Lawful or suitable to be issued; <as>as, a writ <ex>issuable</ex> on these grounds</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Issuable plea</b></col> <fld>(Law)</fld>, <cd>a plea to the merits, on which the adverse party may take issue and proceed to trial.</cd></cs><br/
+<p><cs><col>Issuable plea</col> <fld>(Law)</fld>, <cd>a plea to the merits, on which the adverse party may take issue and proceed to trial.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Issuably</ent><br/
@@ -36688,13 +36688,13 @@ The <qex>issue</qex> of the exploit.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>10.</sn> <fld>(Law)</fld> <def>In pleading, a single material point of law or fact depending in the suit, which, being affirmed on the one side and denied on the other, is presented for determination. See <cref>General issue</cref>, under <er>General</er>, and <cref>Feigned issue</cref>, under <er>Feigned</er>.</def>  <rj><au>Blount. Cowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At issue</b></col>, <cd>in controversy; disputed; opposing or contesting; hence, at variance; disagreeing; inconsistent.</cd><br/
+<p><cs><col>At issue</col>, <cd>in controversy; disputed; opposing or contesting; hence, at variance; disagreeing; inconsistent.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>As much <qex>at issue</qex> with the summer day<br/
 As if you brought a candle out of doors.</q> <rj><qau>Mrs. Browning.</qau></rj></p>
 
-<p>-- <mcol><col><b>Bank of issue</b></col>, <col><b>Collateral issue</b></col></mcol>, etc. <cd>See under <er>Bank</er>, <er>Collateral</er>, etc.</cd> -- <col><b>Issue pea</b></col>, <cd>a pea, or a similar round body, used to maintain irritation in a wound, and promote the secretion and discharge of pus.</cd> -- <mcol><col><b>To join issue</b></col>, <it>or</it> <col><b>To take issue</b></col></mcol>, <cd>to take opposing sides in a matter in controversy.</cd></cs><br/
+<p>-- <mcol><col>Bank of issue</col>, <col>Collateral issue</col></mcol>, etc. <cd>See under <er>Bank</er>, <er>Collateral</er>, etc.</cd> -- <col>Issue pea</col>, <cd>a pea, or a similar round body, used to maintain irritation in a wound, and promote the secretion and discharge of pus.</cd> -- <mcol><col>To join issue</col>, <it>or</it> <col>To take issue</col></mcol>, <cd>to take opposing sides in a matter in controversy.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Issue</ent><br/
@@ -36778,14 +36778,14 @@ As if you brought a candle out of doors.</q> <rj><qau>Mrs. Browning.</qau></rj><
 <hw>Isth"mi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Isthmius</ets>, Gr. <?/. See <er>Isthmus</er>.]</ety> <def>Of or pertaining to an isthmus, especially to the Isthmus of Corinth, in Greece.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isthmian games</b></col> <fld>(Gr. Antiq.)</fld>, <cd>one of the four great national festivals of Greece, celebrated on the Isthmus of Corinth in the spring of every alternate year. They consisted of all kinds of athletic sports, wrestling, boxing, racing on foot and in chariots, and also contests in music and poetry. The prize was a garland of pine leaves.</cd></cs><br/
+<p><cs><col>Isthmian games</col> <fld>(Gr. Antiq.)</fld>, <cd>one of the four great national festivals of Greece, celebrated on the Isthmus of Corinth in the spring of every alternate year. They consisted of all kinds of athletic sports, wrestling, boxing, racing on foot and in chariots, and also contests in music and poetry. The prize was a garland of pine leaves.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Isthmus</ent><br/
 <hw>Isth"mus</hw> <pr>(?; 277)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Isthmuses</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>isthmus</ets>, Gr. <grk>'isqmo`s</grk> a neck, a neck of land between two seas, an isthmus, especially the Isthmus of Corinth; prob. from the root of <grk>'ie`nai</grk> to go; cf. Icel. <ets>ei<edh/</ets> isthmus. See <er>Issue</er>.]</ety> <fld>(Geog.)</fld> <def>A neck or narrow slip of land by which two continents are connected, or by which a peninsula is united to the mainland; <as>as, the <ex>Isthmus</ex> of Panama; the <ex>Isthmus</ex> of Suez, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Isthmus of the fauces</b></col>. <fld>(Anat.)</fld> <cd>See <er>Fauces</er>.</cd></cs><br/
+<p><cs><col>Isthmus of the fauces</col>. <fld>(Anat.)</fld> <cd>See <er>Fauces</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Istle</ent><br/
@@ -36853,7 +36853,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 </usage><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Its self</b></col>. <cd>See <er>Itself</er>.</cd></cs><br/
+<p><cs><col>Its self</col>. <cd>See <er>Itself</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Itacism</ent><br/
@@ -36887,7 +36887,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 <hw>I*tal"ian</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>italien</ets>, It. <ets>italiano</ets>.  Cf. <er>Italic</er>.]</ety> <def>Of or pertaining to Italy, or to its people or language.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Italian cloth</b></col> <cd>a light material of cotton and worsted; -- called also <altname>farmer's satin</altname>.</cd> -- <col><b>Italian iron</b></col>, <cd>a heater for fluting frills.</cd> -- <col><b>Italian juice</b></col>, <cd>Calabrian liquorice.</cd></cs><br/
+<p><cs><col>Italian cloth</col> <cd>a light material of cotton and worsted; -- called also <altname>farmer's satin</altname>.</cd> -- <col>Italian iron</col>, <cd>a heater for fluting frills.</cd> -- <col>Italian juice</col>, <cd>Calabrian liquorice.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Italian</ent><br/
@@ -36932,7 +36932,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 <p><sn>2.</sn> <def>Applied especially to a kind of type in which the letters do not stand upright, but slope toward the right; -- so called because dedicated to the States of Italy by the inventor, <person>Aldus Manutius</person>, about the year 1500.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Italic languages</b></col>, <cd>the group or family of languages of ancient Italy.</cd> -- <col><b>Italic order</b></col> <fld>(Arch.)</fld>, <cd>the composite order. See <er>Composite</er>.</cd> -- <col><b>Italic school</b></col>, <cd>a term given to the Pythagorean and Eleatic philosophers, from the country where their doctrines were first promulgated.</cd> -- <col><b>Italic version</b></col>. <cd>See <er>Itala</er>.</cd></cs><br/
+<p><cs><col>Italic languages</col>, <cd>the group or family of languages of ancient Italy.</cd> -- <col>Italic order</col> <fld>(Arch.)</fld>, <cd>the composite order. See <er>Composite</er>.</cd> -- <col>Italic school</col>, <cd>a term given to the Pythagorean and Eleatic philosophers, from the country where their doctrines were first promulgated.</cd> -- <col>Italic version</col>. <cd>See <er>Itala</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Italic</ent><br/
@@ -36983,7 +36983,7 @@ If folly grows romantic, I must paint it.</q> <rj><qau>Pope.</qau></rj>
 <p><q>An <qex>itch</qex> of being thought a divine king.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Baker's itch</b></col>. <cd>See under <er>Baker</er>.</cd> -- <col><b>Barber's itch</b></col>, <cd>sycosis.</cd> -- <col><b>Bricklayer's itch</b></col>, <cd>an eczema of the hands attended with much itching, occurring among bricklayers.</cd> -- <col><b>Grocer's itch</b></col>, <cd>an itching eruption, being a variety of eczema, produced by the sugar mite (<spn>Tyrogluphus sacchari</spn>).</cd> -- <col><b>Itch insect</b></col> <fld>(Zool.)</fld>, <cd>a small parasitic mite (<spn>Sarcoptes scabei</spn>) which burrows and breeds beneath the human skin, thus causing the disease known as the itch. See <xex>Illust.</xex> in Append.</cd> -- <col><b>Itch mite</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Itch insect</cref>, above. Also, other similar mites affecting the lower animals, as the horse and ox.</cd> -- <col><b>Sugar baker's itch</b></col>, <cd>a variety of eczema, due to the action of sugar upon the skin.</cd> -- <col><b>Washerwoman's itch</b></col>, <cd>eczema of the hands and arms, occurring among washerwomen.</cd></cs><br/
+<p><cs><col>Baker's itch</col>. <cd>See under <er>Baker</er>.</cd> -- <col>Barber's itch</col>, <cd>sycosis.</cd> -- <col>Bricklayer's itch</col>, <cd>an eczema of the hands attended with much itching, occurring among bricklayers.</cd> -- <col>Grocer's itch</col>, <cd>an itching eruption, being a variety of eczema, produced by the sugar mite (<spn>Tyrogluphus sacchari</spn>).</cd> -- <col>Itch insect</col> <fld>(Zool.)</fld>, <cd>a small parasitic mite (<spn>Sarcoptes scabei</spn>) which burrows and breeds beneath the human skin, thus causing the disease known as the itch. See <xex>Illust.</xex> in Append.</cd> -- <col>Itch mite</col>. <fld>(Zool.)</fld> <cd>Same as <cref>Itch insect</cref>, above. Also, other similar mites affecting the lower animals, as the horse and ox.</cd> -- <col>Sugar baker's itch</col>, <cd>a variety of eczema, due to the action of sugar upon the skin.</cd> -- <col>Washerwoman's itch</col>, <cd>eczema of the hands and arms, occurring among washerwomen.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Itchiness</ent><br/
@@ -37247,7 +37247,7 @@ that she wore for the first time today.</q> <qau>Song lyrics</qau><br/
 <p><sn>4.</sn> <pluf>pl.</pluf> <def>Teeth; <as>as, to show one's <ex>ivories</ex></as>.</def> <mark>[Slang]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Ivory black</b></col>. <cd>See under <er>Black</er>, <pos>n.</pos></cd> -- <col><b>Ivory gull</b></col> <fld>(Zool.)</fld>, <cd>a white Arctic gull (<spn>Larus eburneus</spn>).</cd> -- <col><b>Ivory nut</b></col> <fld>(Bot.)</fld>, <cd>the nut of a species of palm, the <spn>Phytephas macroarpa</spn>, often as large as a hen's egg. When young the seed contains a fluid, which gradually hardness into a whitish, close-grained, albuminous substance, resembling the finest ivory in texture and color, whence it is called <altname>vegetable ivory</altname>. It is wrought into various articles, as buttons, chessmen, etc. The palm is found in New Grenada. A smaller kind is the fruit of the <spn>Phytephas microarpa</spn>. The nuts are known in commerce as <xex>Corosso</xex> nuts.</cd> -- <col><b>Ivory palm</b></col> <fld>(Bot.)</fld>, <cd>the palm tree which produces ivory nuts.</cd> -- <col><b>Ivory shell</b></col> <fld>(Zool.)</fld>, <cd>any species of <gen>Eburna</gen>, a genus of marine gastropod shells, having a smooth surface, usually white with red or brown spots.</cd> -- <col><b>Vegetable ivory</b></col>, <cd>the meat of the ivory nut. See <cref>Ivory nut</cref> (above).</cd></cs><br/
+<p><cs><col>Ivory black</col>. <cd>See under <er>Black</er>, <pos>n.</pos></cd> -- <col>Ivory gull</col> <fld>(Zool.)</fld>, <cd>a white Arctic gull (<spn>Larus eburneus</spn>).</cd> -- <col>Ivory nut</col> <fld>(Bot.)</fld>, <cd>the nut of a species of palm, the <spn>Phytephas macroarpa</spn>, often as large as a hen's egg. When young the seed contains a fluid, which gradually hardness into a whitish, close-grained, albuminous substance, resembling the finest ivory in texture and color, whence it is called <altname>vegetable ivory</altname>. It is wrought into various articles, as buttons, chessmen, etc. The palm is found in New Grenada. A smaller kind is the fruit of the <spn>Phytephas microarpa</spn>. The nuts are known in commerce as <xex>Corosso</xex> nuts.</cd> -- <col>Ivory palm</col> <fld>(Bot.)</fld>, <cd>the palm tree which produces ivory nuts.</cd> -- <col>Ivory shell</col> <fld>(Zool.)</fld>, <cd>any species of <gen>Eburna</gen>, a genus of marine gastropod shells, having a smooth surface, usually white with red or brown spots.</cd> -- <col>Vegetable ivory</col>, <cd>the meat of the ivory nut. See <cref>Ivory nut</cref> (above).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ivory-bill</ent><br/
@@ -37276,7 +37276,7 @@ The clasping <qex>ivy</qex> where to climb.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Ye myrtles brown, with <qex>ivy</qex> never sere.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>American ivy</b></col>. <fld>(Bot.)</fld> <cd>See <er>Virginia creeper</er>.</cd> -- <col><b>English ivy</b></col> <fld>(Bot.)</fld>, <cd>a popular name in America for the ivy proper (<spn>Hedera helix</spn>).</cd> -- <col><b>German ivy</b></col> <fld>(Bot.)</fld>, <cd>a creeping plant, with smooth, succulent stems, and fleshy, light-green leaves; a species of <spn>Senecio</spn> (<spn>Senecio scandens</spn>).</cd> -- <col><b>Ground ivy</b></col>. <fld>(Bot.)</fld> <cd>Gill (<spn>Nepeta Glechoma</spn>).</cd> -- <col><b>Ivy bush</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Mountain laurel</cref>, under <er>Mountain</er>.</cd> -- <col><b>Ivy owl</b></col> <fld>(Zool.)</fld>, <cd>the barn owl.</cd> -- <col><b>Ivy tod</b></col> <fld>(Bot.)</fld>, <cd>the ivy plant.</cd> <au>Tennyson.</au> -- <col><b>Japanese ivy</b></col> <fld>(Bot.)</fld>, <cd>a climbing plant (<spn>Ampelopsis tricuspidata</spn>), closely related to the Virginia creeper.</cd> -- <col><b>Poison ivy</b></col> <fld>(Bot.)</fld>, <cd>an American woody creeper (<spn>Rhus Toxicodendron</spn>), with trifoliate leaves, and greenish-white berries. It is exceedingly poisonous to the touch for most persons.</cd> -- <col><b>To pipe in an ivy leaf</b></col>, <cd>to console one's self as best one can.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col><b>West Indian ivy</b></col>, <cd>a climbing plant of the genus <gen>Marcgravia</gen>.</cd></cs><br/
+<p><cs><col>American ivy</col>. <fld>(Bot.)</fld> <cd>See <er>Virginia creeper</er>.</cd> -- <col>English ivy</col> <fld>(Bot.)</fld>, <cd>a popular name in America for the ivy proper (<spn>Hedera helix</spn>).</cd> -- <col>German ivy</col> <fld>(Bot.)</fld>, <cd>a creeping plant, with smooth, succulent stems, and fleshy, light-green leaves; a species of <spn>Senecio</spn> (<spn>Senecio scandens</spn>).</cd> -- <col>Ground ivy</col>. <fld>(Bot.)</fld> <cd>Gill (<spn>Nepeta Glechoma</spn>).</cd> -- <col>Ivy bush</col>. <fld>(Bot.)</fld> <cd>See <cref>Mountain laurel</cref>, under <er>Mountain</er>.</cd> -- <col>Ivy owl</col> <fld>(Zool.)</fld>, <cd>the barn owl.</cd> -- <col>Ivy tod</col> <fld>(Bot.)</fld>, <cd>the ivy plant.</cd> <au>Tennyson.</au> -- <col>Japanese ivy</col> <fld>(Bot.)</fld>, <cd>a climbing plant (<spn>Ampelopsis tricuspidata</spn>), closely related to the Virginia creeper.</cd> -- <col>Poison ivy</col> <fld>(Bot.)</fld>, <cd>an American woody creeper (<spn>Rhus Toxicodendron</spn>), with trifoliate leaves, and greenish-white berries. It is exceedingly poisonous to the touch for most persons.</cd> -- <col>To pipe in an ivy leaf</col>, <cd>to console one's self as best one can.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>West Indian ivy</col>, <cd>a climbing plant of the genus <gen>Marcgravia</gen>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ivy-mantled</ent><br/

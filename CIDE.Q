@@ -159,7 +159,7 @@
 \'d8<hw>Quad`ra*ges"i*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>quadragesimus</ets> the fortieth, fr. <ets>quadraginta</ets> forty; akin to <ets>quattuor</ets> four. See <er>Four</er>.]</ety> <fld>(Eccl.)</fld> <def>The forty days of fast preceding Easter; Lent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadragesima Sunday</b></col>, <cd>the first Sunday in Lent, about forty days before Easter.</cd></cs><br/
+<p><cs><col>Quadragesima Sunday</col>, <cd>the first Sunday in Lent, about forty days before Easter.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadragesimal</ent><br/
@@ -204,14 +204,14 @@
 <p><sn>4.</sn> <def>An instrument for measuring altitudes, variously constructed and mounted for different specific uses in astronomy, surveying, gunnery, etc., consisting commonly of a graduated arc of 90<deg/, with an index or vernier, and either plain or telescopic sights, and usually having a plumb line or spirit level for fixing the vertical or horizontal direction.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gunner's quadrant</b></col>, <cd>an instrument consisting of a graduated limb, with a plumb line or spirit level, and an arm by which it is applied to a cannon or mortar in adjusting it to the elevation required for attaining the desired range.</cd> -- <col><b>Gunter's quadrant</b></col>. <cd>See <er>Gunter's quadrant</er>, in the Vocabulary.</cd> -- <col><b>Hadley's quadrant</b></col>, <cd>a hand instrument used chiefly at sea to measure the altitude of the sun or other celestial body in ascertaining the vessel's position. It consists of a frame in the form of an octant having a graduated scale upon its arc, and an index arm, or alidade pivoted at its apex. Mirrors, called the index glass and the horizon glass, are fixed one upon the index arm and the other upon one side of the frame, respectively. When the instrument is held upright, the index arm may be swung so that the index glass will reflect an image of the sun upon the horizon glass, and when the reflected image of the sun coincides, to the observer's eye, with the horizon as seen directly through an opening at the side of the horizon glass, the index shows the sun's altitude upon the scale; -- more properly, but less commonly, called an <xex>octant</xex>.</cd> -- <col><b>Quadrant of altitude</b></col>, <cd>an appendage of the artificial globe, consisting of a slip of brass of the length of a quadrant of one of the great circles of the globe, and graduated. It may be fitted to the meridian, and being movable round to all points of the horizon, serves as a scale in measuring altitudes, azimuths, etc.</cd></cs><br/
+<p><cs><col>Gunner's quadrant</col>, <cd>an instrument consisting of a graduated limb, with a plumb line or spirit level, and an arm by which it is applied to a cannon or mortar in adjusting it to the elevation required for attaining the desired range.</cd> -- <col>Gunter's quadrant</col>. <cd>See <er>Gunter's quadrant</er>, in the Vocabulary.</cd> -- <col>Hadley's quadrant</col>, <cd>a hand instrument used chiefly at sea to measure the altitude of the sun or other celestial body in ascertaining the vessel's position. It consists of a frame in the form of an octant having a graduated scale upon its arc, and an index arm, or alidade pivoted at its apex. Mirrors, called the index glass and the horizon glass, are fixed one upon the index arm and the other upon one side of the frame, respectively. When the instrument is held upright, the index arm may be swung so that the index glass will reflect an image of the sun upon the horizon glass, and when the reflected image of the sun coincides, to the observer's eye, with the horizon as seen directly through an opening at the side of the horizon glass, the index shows the sun's altitude upon the scale; -- more properly, but less commonly, called an <xex>octant</xex>.</cd> -- <col>Quadrant of altitude</col>, <cd>an appendage of the artificial globe, consisting of a slip of brass of the length of a quadrant of one of the great circles of the globe, and graduated. It may be fitted to the meridian, and being movable round to all points of the horizon, serves as a scale in measuring altitudes, azimuths, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrantal</ent><br/
 <hw>Quad*ran"tal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>quadrantalis</ets> containing the fourth fourth part of a measure.]</ety> <fld>(Geom.)</fld> <def>Of or pertaining to a quadrant; also, included in the fourth part of a circle; <as>as, <ex>quadrantal</ex> space</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadrantal triangle</b></col>, <cd>a spherical triangle having one side equal to a quadrant or arc of 90<deg/.</cd> -- <col><b>Quadrantal versor</b></col>, <cd>a versor that expresses rotation through one right angle.</cd></cs><br/
+<p><cs><col>Quadrantal triangle</col>, <cd>a spherical triangle having one side equal to a quadrant or arc of 90<deg/.</cd> -- <col>Quadrantal versor</col>, <cd>a versor that expresses rotation through one right angle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrantal</ent><br/
@@ -244,7 +244,7 @@
 <p><sn>4.</sn> <def>Squared; suited; correspondent.</def> <mark>[Archaic]</mark> <ldquo/ A generical description <xex>quadrate</xex> to both.<rdquo/  <rj><au>Harvey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadrate bone</b></col> <fld>(Anat.)</fld>, <cd>a bone between the base of the lower jaw and the skull in most vertebrates below the mammals. In reptiles and birds it articulates the lower jaw with the skull; in mammals it is represented by the malleus or incus.</cd></cs><br/
+<p><cs><col>Quadrate bone</col> <fld>(Anat.)</fld>, <cd>a bone between the base of the lower jaw and the skull in most vertebrates below the mammals. In reptiles and birds it articulates the lower jaw with the skull; in mammals it is represented by the malleus or incus.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrate</ent><br/
@@ -293,7 +293,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <hw>Quad*ra`to*ju"gal</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <sd>(a)</sd> <def>Of or pertaining to the quadrate and jugal bones.</def> <sd>(b)</sd> <def>Of or pertaining to the quadratojugal bone.</def> -- <def2><pos>n.</pos> <def>The quadratojugal bone.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadratojugal bone</b></col> <fld>(Anat.)</fld>, <cd>a bone at the base of the lower jaw in many animals.</cd></cs><br/
+<p><cs><col>Quadratojugal bone</col> <fld>(Anat.)</fld>, <cd>a bone at the base of the lower jaw in many animals.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadratrix</ent><br/
@@ -313,7 +313,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <p><sn>4.</sn> <fld>(Astron.)</fld> <def>The position of one heavenly body in respect to another when distant from it 90<deg/, or a quarter of a circle, as the moon when at an equal distance from the points of conjunction and opposition.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadrature of the moon</b></col> <fld>(Astron.)</fld>, <cd>the position of the moon when one half of the disk is illuminated.</cd> -- <col><b>Quadrature of an orbit</b></col> <fld>(Astron.)</fld>, <cd>a point in an orbit which is at either extremity of the latus rectum drawn through the empty focus of the orbit.</cd></cs><br/
+<p><cs><col>Quadrature of the moon</col> <fld>(Astron.)</fld>, <cd>the position of the moon when one half of the disk is illuminated.</cd> -- <col>Quadrature of an orbit</col> <fld>(Astron.)</fld>, <cd>a point in an orbit which is at either extremity of the latus rectum drawn through the empty focus of the orbit.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrel</ent><br/
@@ -418,7 +418,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <mhw>{ <hw>Quad`ri*gem"i*nal</hw> <pr>(?)</pr>, <hw>Quad`ri*gem"i*nous</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Quadri-</ets> + L. <ets>gemini</ets> twins.]</ety> <def>Fourfold; having four similar parts, or two pairs of similar parts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadrigeminal bodies</b></col> <fld>(Anat.)</fld>, <cd>two pairs of lobes, or elevations, on the dorsal side of the midbrain of most mammals; the optic lobes. The anterior pair are called the <xex>nates</xex>, and the posterior the <xex>testes</xex>.</cd></cs><br/
+<p><cs><col>Quadrigeminal bodies</col> <fld>(Anat.)</fld>, <cd>two pairs of lobes, or elevations, on the dorsal side of the midbrain of most mammals; the optic lobes. The anterior pair are called the <xex>nates</xex>, and the posterior the <xex>testes</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrigenarious</ent><br/
@@ -444,7 +444,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <p><sn>2.</sn> <def>An area defended by four fortresses supporting each other; <as>as, the Venetian <ex>quadrilateral</ex>, comprising Mantua, Peschiera, Verona, and Legnano</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Complete quadrilateral</b></col> <fld>(Geom.)</fld>, <cd>the figure made up of the six straight lines that can be drawn through four points, <it>A</it>, <it>B</it>, <it>C</it>, <it>I</it>, the lines being supposed to be produced indefinitely.</cd></cs>
+<p><cs><col>Complete quadrilateral</col> <fld>(Geom.)</fld>, <cd>the figure made up of the six straight lines that can be drawn through four points, <it>A</it>, <it>B</it>, <it>C</it>, <it>I</it>, the lines being supposed to be produced indefinitely.</cd></cs>
 <-- reference is to a figure of a complete quadrilateral. --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -617,7 +617,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <hw>Quad"ru*ple</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>quadruplus</ets>, from <ets>quattuor</ets> four: cf. F.  <ets>quadruple</ets>. See <er>Quadrate</er>, and cf. <er>Double</er>.]</ety> <def>Fourfold; <as>as, to make <ex>quadruple</ex> restitution; a <ex>quadruple</ex> alliance.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadruple time</b></col> <fld>(Mus.)</fld>, <cd>that in which each measure is divided into four equal parts.</cd></cs><br/
+<p><cs><col>Quadruple time</col> <fld>(Mus.)</fld>, <cd>that in which each measure is divided into four equal parts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadruple</ent><br/
@@ -646,7 +646,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <hw>Quad"ru*plex</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., from <ets>quattuor</ets> four + <ets>plicare</ets> to fold.]</ety> <def>Fourfold; folded or doubled twice.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quadruplex system</b></col> <fld>(Electric Telegraph)</fld>, <cd>a system by which four messages, two in each direction, may be sent simultaneously over the wire.</cd></cs><br/
+<p><cs><col>Quadruplex system</col> <fld>(Electric Telegraph)</fld>, <cd>a system by which four messages, two in each direction, may be sent simultaneously over the wire.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadruplicate</ent><br/
@@ -769,7 +769,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <p><sn>4.</sn> <def>A prostitute; -- so called because the quail was thought to be a very amorous bird.</def>  <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bustard quail</b></col> <fld>(Zool.)</fld>, <cd>a small Asiatic quail-like bird of the genus <gen>Turnix</gen>, as <spn>Turnix taigoor</spn>, a black-breasted species, and the hill <ex>bustard quail</ex> (<spn>Turnix ocellatus</spn>). See <er>Turnix</er>.</cd> -- <col><b>Button quail</b></col> <fld>(Zool.)</fld>, <cd>one of several small Asiatic species of Turnix, as <spn>Turnix Sykesii</spn>, which is said to be the smallest game bird of India.</cd> -- <col><b>Mountain quail</b></col>. <cd>See under <er>Mountain</er>.</cd> -- <col><b>Quail call</b></col>, <cd>a call or pipe for alluring quails into a net or within range.</cd> -- <col><b>Quail dove</b></col> <fld>(Zool.)</fld>, <cd>any one of several American ground pigeons belonging to <gen>Geotrygon</gen> and allied genera.</cd> -- <col><b>Quail hawk</b></col> <fld>(Zool.)</fld>, <cd>the New Zealand sparrow hawk (<spn>Hieracidea Nov<ae/-Hollandi<ae/</spn>).</cd> -- <col><b>Quail pipe</b></col>. <cd>See <cref>Quail call</cref>, above.</cd> -- <col><b>Quail snipe</b></col> <fld>(Zool.)</fld>, <cd>the dowitcher, or red-breasted snipe; -- called also <altname>robin snipe</altname>, and <altname>brown snipe</altname>.</cd> -- <col><b>Sea quail</b></col> <fld>(Zool.)</fld>, <cd>the turnstone.</cd> <mark>[Local, U. S.]</mark></cs><br/
+<p><cs><col>Bustard quail</col> <fld>(Zool.)</fld>, <cd>a small Asiatic quail-like bird of the genus <gen>Turnix</gen>, as <spn>Turnix taigoor</spn>, a black-breasted species, and the hill <ex>bustard quail</ex> (<spn>Turnix ocellatus</spn>). See <er>Turnix</er>.</cd> -- <col>Button quail</col> <fld>(Zool.)</fld>, <cd>one of several small Asiatic species of Turnix, as <spn>Turnix Sykesii</spn>, which is said to be the smallest game bird of India.</cd> -- <col>Mountain quail</col>. <cd>See under <er>Mountain</er>.</cd> -- <col>Quail call</col>, <cd>a call or pipe for alluring quails into a net or within range.</cd> -- <col>Quail dove</col> <fld>(Zool.)</fld>, <cd>any one of several American ground pigeons belonging to <gen>Geotrygon</gen> and allied genera.</cd> -- <col>Quail hawk</col> <fld>(Zool.)</fld>, <cd>the New Zealand sparrow hawk (<spn>Hieracidea Nov<ae/-Hollandi<ae/</spn>).</cd> -- <col>Quail pipe</col>. <cd>See <cref>Quail call</cref>, above.</cd> -- <col>Quail snipe</col> <fld>(Zool.)</fld>, <cd>the dowitcher, or red-breasted snipe; -- called also <altname>robin snipe</altname>, and <altname>brown snipe</altname>.</cd> -- <col>Sea quail</col> <fld>(Zool.)</fld>, <cd>the turnstone.</cd> <mark>[Local, U. S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1173 --></p>
@@ -860,7 +860,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <p><sn>3.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The nankeen bird.</def> <sd>(b)</sd> <def>The sooty albatross.</def> <sd>(c)</sd> <def>Any grasshopper or locust of the genus <gen>Edipoda</gen>; -- so called from the quaking noise made during flight.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quaker buttons</b></col>. <fld>(Bot.)</fld> <cd>See <er>Nux vomica</er>.</cd> -- <col><b>Quaker gun</b></col>, <cd>a dummy cannon made of wood or other material; -- so called because the sect of Friends, or Quakers, hold to the doctrine, of nonresistance.</cd> -- <col><b>Quaker ladies</b></col> <fld>(Bot.)</fld>, <cd>a low American biennial plant (<spn>Houstonia c<ae/rulea</spn>), with pretty four-lobed corollas which are pale blue with a yellowish center; -- also called <altname>bluets</altname>, and <altname>little innocents</altname>.</cd></cs><br/
+<p><cs><col>Quaker buttons</col>. <fld>(Bot.)</fld> <cd>See <er>Nux vomica</er>.</cd> -- <col>Quaker gun</col>, <cd>a dummy cannon made of wood or other material; -- so called because the sect of Friends, or Quakers, hold to the doctrine, of nonresistance.</cd> -- <col>Quaker ladies</col> <fld>(Bot.)</fld>, <cd>a low American biennial plant (<spn>Houstonia c<ae/rulea</spn>), with pretty four-lobed corollas which are pale blue with a yellowish center; -- also called <altname>bluets</altname>, and <altname>little innocents</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quakeress</ent><br/
@@ -899,7 +899,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <hw>Quak"ing</hw>, <def><pos>a. & n.</pos> from <er>Quake</er>, <pos>v.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quaking aspen</b></col> <fld>(Bot.)</fld>, <cd>an American species of poplar (<spn>Populus tremuloides</spn>), the leaves of which tremble in the lightest breeze. It much resembles the European aspen. See <er>Aspen</er>.</cd><-- #err in original written "Quaking asp"! --> -- <col><b>Quaking bog</b></col>, <cd>a bog of forming peat so saturated with water that it shakes when trodden upon.</cd> -- <col><b>Quaking grass</b></col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>One of several grasses of the genus <gen>Briza</gen>, having slender-stalked and pendulous ovate spikelets, which quake and rattle in the wind.  <spn>Briza maxima</spn> is the large quaking grass; <spn>Briza media</spn> and <spn>Briza minor</spn> are the smaller kinds.</cd> <sd>(b)</sd> <cd>Rattlesnake grass (<spn>Glyceria Canadensis</spn>).</cd></cs><br/
+<p><cs><col>Quaking aspen</col> <fld>(Bot.)</fld>, <cd>an American species of poplar (<spn>Populus tremuloides</spn>), the leaves of which tremble in the lightest breeze. It much resembles the European aspen. See <er>Aspen</er>.</cd><-- #err in original written "Quaking asp"! --> -- <col>Quaking bog</col>, <cd>a bog of forming peat so saturated with water that it shakes when trodden upon.</cd> -- <col>Quaking grass</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>One of several grasses of the genus <gen>Briza</gen>, having slender-stalked and pendulous ovate spikelets, which quake and rattle in the wind.  <spn>Briza maxima</spn> is the large quaking grass; <spn>Briza media</spn> and <spn>Briza minor</spn> are the smaller kinds.</cd> <sd>(b)</sd> <cd>Rattlesnake grass (<spn>Glyceria Canadensis</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quakingly</ent><br/
@@ -945,7 +945,7 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 <p><sn>2.</sn> <def>Modified; limited; <as>as, a <ex>qualified</ex> statement</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Qualified fee</b></col> <fld>(Law)</fld>, <cd>a base fee, or an estate which has a qualification annexed to it, the fee ceasing with the qualification, as a grant to A and his heirs, <xex>tenants of the manor of Dale</xex>.</cd> -- <col><b>Qualified indorsement</b></col> <fld>(Law)</fld>, <cd>an indorsement which modifies the liability of the indorser that would result from the general principles of law, but does not affect the negotiability of the instrument.</cd> <au>Story.</au> -- <col><b>Qualified negative</b></col> <fld>(Legislation)</fld>, <cd>a limited veto power, by which the chief executive in a constitutional government may refuse assent to bills passed by the legislative body, which bills therefore fail to become laws unless upon a reconsideration the legislature again passes them by a certain majority specified in the constitution, when they become laws without the approval of the executive.</cd> -- <col><b>Qualified property</b></col> <fld>(Law)</fld>, <cd>that which depends on temporary possession, as that in wild animals reclaimed, or as in the case of a bailment.</cd></cs><br/
+<p><cs><col>Qualified fee</col> <fld>(Law)</fld>, <cd>a base fee, or an estate which has a qualification annexed to it, the fee ceasing with the qualification, as a grant to A and his heirs, <xex>tenants of the manor of Dale</xex>.</cd> -- <col>Qualified indorsement</col> <fld>(Law)</fld>, <cd>an indorsement which modifies the liability of the indorser that would result from the general principles of law, but does not affect the negotiability of the instrument.</cd> <au>Story.</au> -- <col>Qualified negative</col> <fld>(Legislation)</fld>, <cd>a limited veto power, by which the chief executive in a constitutional government may refuse assent to bills passed by the legislative body, which bills therefore fail to become laws unless upon a reconsideration the legislature again passes them by a certain majority specified in the constitution, when they become laws without the approval of the executive.</cd> -- <col>Qualified property</col> <fld>(Law)</fld>, <cd>that which depends on temporary possession, as that in wild animals reclaimed, or as in the case of a bailment.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Competent; fit; adapted.</syn> <usage> -- <er>Qualified</er>, <er>Competent</er>. <xex>Competent</xex> is most commonly used with respect to native endowments and general ability suited to the performance of a task or duty; <xex>qualified</xex> with respect to specific acquirements and training.</usage><br/
@@ -1006,7 +1006,7 @@ But <qex>qualify</qex> the fire's extreme rage.</q> <rj><qau>Shak.</qau></rj><br
 <hw>Qual"i*ta*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. LL. <ets>gualitativus</ets>, F. <ets>qualitatif</ets>.]</ety> <def>Relating to quality; having the character of quality.</def> -- <wordforms><wf>Qual"i*ta*tive*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Qualitative analysis</b></col> <fld>(Chem.)</fld>, <cd>analysis which merely determines the constituents of a substance without any regard to the quantity of each ingredient; -- contrasted with <xex>quantitative analysis</xex>.</cd></cs><br/
+<p><cs><col>Qualitative analysis</col> <fld>(Chem.)</fld>, <cd>analysis which merely determines the constituents of a substance without any regard to the quantity of each ingredient; -- contrasted with <xex>quantitative analysis</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Qualitied</ent><br/
@@ -1041,7 +1041,7 @@ But <qex>qualify</qex> the fire's extreme rage.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>5.</sn> <def>Superior birth or station; high rank; elevated character.</def> <ldquo/Persons of <xex>quality</xex>.<rdquo/  <rj><au>Bacon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quality binding</b></col>, <cd>a kind of worsted tape used in Scotland for binding carpets, and the like.</cd> -- <col><b>The quality</b></col>, <cd>those of high rank or station, as distinguished from <contr>the masses</contr>, or common people; the nobility; the gentry.</cd></cs><br/
+<p><cs><col>Quality binding</col>, <cd>a kind of worsted tape used in Scotland for binding carpets, and the like.</cd> -- <col>The quality</col>, <cd>those of high rank or station, as distinguished from <contr>the masses</contr>, or common people; the nobility; the gentry.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I shall appear at the masquerade dressed up in my feathers, that <qex>the quality</qex> may see how pretty they will look in their traveling habits.</q> <rj><qau>Addison.</qau></rj><br/
@@ -1131,7 +1131,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <hw>Quan"ti*ta*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>quantitatif</ets>.]</ety> <def>Relating to quantity.</def> -- <wordforms><wf>Quan"ti*ta*tive*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quantitative analysis</b></col> <fld>(Chem.)</fld>, <cd>analysis which determines the amount or quantity of each ingredient of a substance, by weight or by volume; -- contrasted with <contr>qualitative analysis</contr>.</cd></cs><br/
+<p><cs><col>Quantitative analysis</col> <fld>(Chem.)</fld>, <cd>analysis which determines the amount or quantity of each ingredient of a substance, by weight or by volume; -- contrasted with <contr>qualitative analysis</contr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quantitive</ent><br/
@@ -1161,7 +1161,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><q>The <qex>quantity</qex> of extensive and curious information which he had picked up during many months of desultory, but not unprofitable, study.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quantity of estate</b></col> <fld>(Law)</fld>, <cd>its time of continuance, or degree of interest, as in fee, for life, or for years.</cd> <au>Wharton (Law Dict. )</au> -- <col><b>Quantity of matter</b></col>, <cd>in a body, its mass, as determined by its weight, or by its momentum under a given velocity.</cd> -- <col><b>Quantity of motion</b></col> <fld>(Mech.)</fld>, <cd>in a body, the relative amount of its motion, as measured by its momentum, varying as the product of mass and velocity.</cd> -- <col><b>Known quantities</b></col> <fld>(Math.)</fld>, <cd>quantities whose values are given.</cd> -- <col><b>Unknown quantities</b></col> <fld>(Math.)</fld>, <cd>quantities whose values are sought.</cd></cs><br/
+<p><cs><col>Quantity of estate</col> <fld>(Law)</fld>, <cd>its time of continuance, or degree of interest, as in fee, for life, or for years.</cd> <au>Wharton (Law Dict. )</au> -- <col>Quantity of matter</col>, <cd>in a body, its mass, as determined by its weight, or by its momentum under a given velocity.</cd> -- <col>Quantity of motion</col> <fld>(Mech.)</fld>, <cd>in a body, the relative amount of its motion, as measured by its momentum, varying as the product of mass and velocity.</cd> -- <col>Known quantities</col> <fld>(Math.)</fld>, <cd>quantities whose values are given.</cd> -- <col>Unknown quantities</col> <fld>(Math.)</fld>, <cd>quantities whose values are sought.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 1174 --></p>
@@ -1181,7 +1181,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>A definite portion of a manifoldness, limited by a mark or by a boundary.</def>  <rj><au>W. K. Clifford.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>\'d8Quantum meruit</b></col> <pr>(<?/)</pr> <ety>[L., as much as he merited]</ety> <fld>(Law)</fld>, <cd>a count in an action grounded on a promise that the defendant would pay to the plaintiff for his service as much as he should deserve.</cd> -- <mcol><col><b>\'d8Quantum sufficit</b></col> <pr>(<?/)</pr>, <it>or</it> <col><b>Quantum suff.</b></col></mcol>  <ety>[L., as much suffices]</ety> <fld>(Med.)</fld>, <cd>a sufficient quantity; -- abbreviated  <altname>q. s.</altname> in pharmacy.</cd> -- <col><b>\'d8Quantum valebat</b></col> <pr>(<?/)</pr> <ety>[L., as much at it was worth]</ety> <fld>(Law)</fld>, <cd>a count in an action to recover of the defendant, for goods sold, as much as they were worth.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
+<p><cs><col>\'d8Quantum meruit</col> <pr>(<?/)</pr> <ety>[L., as much as he merited]</ety> <fld>(Law)</fld>, <cd>a count in an action grounded on a promise that the defendant would pay to the plaintiff for his service as much as he should deserve.</cd> -- <mcol><col>\'d8Quantum sufficit</col> <pr>(<?/)</pr>, <it>or</it> <col>Quantum suff.</col></mcol>  <ety>[L., as much suffices]</ety> <fld>(Med.)</fld>, <cd>a sufficient quantity; -- abbreviated  <altname>q. s.</altname> in pharmacy.</cd> -- <col>\'d8Quantum valebat</col> <pr>(<?/)</pr> <ety>[L., as much at it was worth]</ety> <fld>(Law)</fld>, <cd>a count in an action to recover of the defendant, for goods sold, as much as they were worth.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quap</ent><br/
@@ -1212,7 +1212,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Eng. Law)</fld> <def>The period of forty days during which the widow had the privilege of remaining in the mansion house of which her husband died seized.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quarantine flag</b></col>, <cd>a yellow flag hoisted at the fore of a vessel or hung from a building, to give warning of an infectious disease; -- called also the <altname>yellow jack</altname>, and <altname>yellow flag</altname>.</cd></cs><br/
+<p><cs><col>Quarantine flag</col>, <cd>a yellow flag hoisted at the fore of a vessel or hung from a building, to give warning of an infectious disease; -- called also the <altname>yellow jack</altname>, and <altname>yellow flag</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarantine</ent><br/
@@ -1271,7 +1271,7 @@ At once a thousand streaming stings.</q> <rj><qau>J. R. Drake.</qau></rj><br/
 <p><sn>3.</sn> <def>Earnest desire or longing.</def> <mark>[Obs.]</mark>  <rj><au>Holland.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To pick a quarrel</b></col>. <cd>See under <er>Pick</er>, <pos>v. t.</pos></cd></cs><br/
+<p><cs><col>To pick a quarrel</col>. <cd>See under <er>Pick</er>, <pos>v. t.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Brawl; broil; squabble; affray; feud; tumult; contest; dispute; altercation; contention; wrangle.</syn><br/
@@ -1486,7 +1486,7 @@ The cumbrous elements.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>I knew two that were competitors for the secretary's place, . . . and yet <qex>kept</qex> good <qex>quarter</qex> between themselves.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>False quarter</b></col>, <cd>a cleft in the quarter of a horse's foot.</cd> -- <col><b>Fifth quarter</b></col>, <cd>the hide and fat; -- a butcher's term.</cd> -- <col><b>On the quarter</b></col> <fld>(Naut.)</fld>, <cd>in a direction between abeam and astern; opposite, or nearly opposite, a vessel's quarter.</cd> -- <col><b>Quarter aspect</b></col>. <fld>(Astrol.)</fld> <cd>Same as <er>Quadrate</er>.</cd> -- <col><b>Quarter back</b></col> <fld>(Football)</fld>, <cd>the player who has position next behind center rush, and receives the ball on the snap back.</cd> -- <col><b>Quarter badge</b></col> <fld>(Naut.)</fld>, <cd>an ornament on the side of a vessel near, the stern.</cd> <au>Mar. Dict.</au> -- <col><b>Quarter bill</b></col> <fld>(Naut.)</fld>, <cd>a list specifying the different stations to be taken by the officers and crew in time of action, and the names of the men assigned to each.</cd> -- <col><b>Quarter block</b></col> <fld>(Naut.)</fld>, <cd>a block fitted under the quarters of a yard on each side of the slings, through which the clew lines and sheets are reeved.</cd> <au>R. H. Dana, Jr.</au> -- <col><b>Quarter boat</b></col> <fld>(Naut.)</fld>, <cd>a boat hung at a vessel's quarter.</cd> -- <col><b>Quarter cloths</b></col> <fld>(Naut.)</fld>, <cd>long pieces of painted canvas, used to cover the quarter netting.</cd> -- <col><b>Quarter day</b></col>, <cd>a day regarded as terminating a quarter of the year; hence, one on which any payment, especially rent, becomes due. In matters influenced by United States statutes, quarter days are the first days of January, April, July, and October. In New York and many other places, as between landlord and tenant, they are the first days of May, August, November, and February. The quarter days usually recognized in England are 25th of March (Lady Day), the 24th of June (Midsummer Day), the 29th of September (Michaelmas Day), and the 25th of December (Christmas Day).</cd> -- <col><b>Quarter face</b></col>, <cd>in fine arts, portrait painting, etc., a face turned away so that but one quarter is visible.</cd> -- <col><b>Quarter gallery</b></col> <fld>(Naut.)</fld>, <cd>a balcony on the quarter of a ship. See <er>Gallery</er>, <snr>4</snr>.</cd> -- <col><b>Quarter gunner</b></col> <fld>(Naut.)</fld>, <cd>a petty officer who assists the gunner.</cd> -- <col><b>Quarter look</b></col>, <cd>a side glance.</cd> <mark>[Obs.]</mark> <au>B. Jonson.</au> -- <col><b>Quarter nettings</b></col> <fld>(Naut.)</fld>, <cd>hammock nettings along the quarter rails.</cd> -- <col><b>Quarter note</b></col> <fld>(Mus.)</fld>, <cd>a note equal in duration to half a minim or a fourth of semibreve; a crochet.</cd> -- <col><b>Quarter pieces</b></col> <fld>(Naut.)</fld>, <cd>several pieces of timber at the after-part of the quarter gallery, near the taffrail.</cd> <au>Totten.</au> -- <col><b>Quarter point</b></col>. <fld>(Naut.)</fld> <cd>See <er>Quarter</er>, <pos>n.</pos>, <snr>1</snr> <sdr>(n)</sdr>.</cd> -- <mcol><col><b>Quarter railing</b></col>, <it>or</it> <col><b>Quarter rails</b></col></mcol> <fld>(Naut.)</fld>, <cd>narrow molded planks reaching from the top of the stern to the gangway, serving as a fence to the quarter-deck.</cd> -- <col><b>Quarter sessions</b></col> <fld>(Eng. Law)</fld>, <cd>a general court of criminal jurisdiction held quarterly by the justices of peace in counties and by the recorders in boroughs.</cd> -- <col><b>Quarter square</b></col> <fld>(Math.)</fld>, <cd>the fourth part of the square of a number. Tables of quarter squares have been devised to save labor in multiplying numbers.</cd> -- <mcol><col><b>Quarter turn</b></col>, <col><b>Quarter turn belt</b></col></mcol> <fld>(Mach.)</fld>, <cd>an arrangement in which a belt transmits motion between two shafts which are at right angles with each other.</cd> -- <col><b>Quarter watch</b></col> <fld>(Naut.)</fld>, <cd>a subdivision of the full watch (one fourth of the crew) on a man-of- war.</cd> -- <mcol><col><b>To give quarter</b></col>, <it>or</it> <col><b>To show quarter</b></col></mcol> <fld>(Mil.)</fld>, <cd>to accept as prisoner, on submission in battle; to forbear to kill, as a vanquished enemy.</cd> -- <col><b>To keep quarter</b></col>. <cd>See <er>Quarter</er>, <pos>n.</pos>, 3.</cd></cs><br/
+<p><cs><col>False quarter</col>, <cd>a cleft in the quarter of a horse's foot.</cd> -- <col>Fifth quarter</col>, <cd>the hide and fat; -- a butcher's term.</cd> -- <col>On the quarter</col> <fld>(Naut.)</fld>, <cd>in a direction between abeam and astern; opposite, or nearly opposite, a vessel's quarter.</cd> -- <col>Quarter aspect</col>. <fld>(Astrol.)</fld> <cd>Same as <er>Quadrate</er>.</cd> -- <col>Quarter back</col> <fld>(Football)</fld>, <cd>the player who has position next behind center rush, and receives the ball on the snap back.</cd> -- <col>Quarter badge</col> <fld>(Naut.)</fld>, <cd>an ornament on the side of a vessel near, the stern.</cd> <au>Mar. Dict.</au> -- <col>Quarter bill</col> <fld>(Naut.)</fld>, <cd>a list specifying the different stations to be taken by the officers and crew in time of action, and the names of the men assigned to each.</cd> -- <col>Quarter block</col> <fld>(Naut.)</fld>, <cd>a block fitted under the quarters of a yard on each side of the slings, through which the clew lines and sheets are reeved.</cd> <au>R. H. Dana, Jr.</au> -- <col>Quarter boat</col> <fld>(Naut.)</fld>, <cd>a boat hung at a vessel's quarter.</cd> -- <col>Quarter cloths</col> <fld>(Naut.)</fld>, <cd>long pieces of painted canvas, used to cover the quarter netting.</cd> -- <col>Quarter day</col>, <cd>a day regarded as terminating a quarter of the year; hence, one on which any payment, especially rent, becomes due. In matters influenced by United States statutes, quarter days are the first days of January, April, July, and October. In New York and many other places, as between landlord and tenant, they are the first days of May, August, November, and February. The quarter days usually recognized in England are 25th of March (Lady Day), the 24th of June (Midsummer Day), the 29th of September (Michaelmas Day), and the 25th of December (Christmas Day).</cd> -- <col>Quarter face</col>, <cd>in fine arts, portrait painting, etc., a face turned away so that but one quarter is visible.</cd> -- <col>Quarter gallery</col> <fld>(Naut.)</fld>, <cd>a balcony on the quarter of a ship. See <er>Gallery</er>, <snr>4</snr>.</cd> -- <col>Quarter gunner</col> <fld>(Naut.)</fld>, <cd>a petty officer who assists the gunner.</cd> -- <col>Quarter look</col>, <cd>a side glance.</cd> <mark>[Obs.]</mark> <au>B. Jonson.</au> -- <col>Quarter nettings</col> <fld>(Naut.)</fld>, <cd>hammock nettings along the quarter rails.</cd> -- <col>Quarter note</col> <fld>(Mus.)</fld>, <cd>a note equal in duration to half a minim or a fourth of semibreve; a crochet.</cd> -- <col>Quarter pieces</col> <fld>(Naut.)</fld>, <cd>several pieces of timber at the after-part of the quarter gallery, near the taffrail.</cd> <au>Totten.</au> -- <col>Quarter point</col>. <fld>(Naut.)</fld> <cd>See <er>Quarter</er>, <pos>n.</pos>, <snr>1</snr> <sdr>(n)</sdr>.</cd> -- <mcol><col>Quarter railing</col>, <it>or</it> <col>Quarter rails</col></mcol> <fld>(Naut.)</fld>, <cd>narrow molded planks reaching from the top of the stern to the gangway, serving as a fence to the quarter-deck.</cd> -- <col>Quarter sessions</col> <fld>(Eng. Law)</fld>, <cd>a general court of criminal jurisdiction held quarterly by the justices of peace in counties and by the recorders in boroughs.</cd> -- <col>Quarter square</col> <fld>(Math.)</fld>, <cd>the fourth part of the square of a number. Tables of quarter squares have been devised to save labor in multiplying numbers.</cd> -- <mcol><col>Quarter turn</col>, <col>Quarter turn belt</col></mcol> <fld>(Mach.)</fld>, <cd>an arrangement in which a belt transmits motion between two shafts which are at right angles with each other.</cd> -- <col>Quarter watch</col> <fld>(Naut.)</fld>, <cd>a subdivision of the full watch (one fourth of the crew) on a man-of- war.</cd> -- <mcol><col>To give quarter</col>, <it>or</it> <col>To show quarter</col></mcol> <fld>(Mil.)</fld>, <cd>to accept as prisoner, on submission in battle; to forbear to kill, as a vanquished enemy.</cd> -- <col>To keep quarter</col>. <cd>See <er>Quarter</er>, <pos>n.</pos>, 3.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarter</ent><br/
@@ -1593,7 +1593,7 @@ He <qex>quarters</qex> to his blue-haired deities.</q> <rj><qau> Milton.</qau></
 <p><sn>4.</sn> <fld>(Arch.)</fld> <def>A series of quarters, or small upright posts. See <er>Quarter</er>, <pos>n.</pos>, <snr>1</snr> <sdr>(m)</sdr> <fld>(Arch.)</fld></def>  <rj><au>Gwilt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quartering block</b></col>, <cd>a block on which the body of a condemned criminal was quartered.</cd>  <rj><au>Macaulay.</au></rj></cs><br/
+<p><cs><col>Quartering block</col>, <cd>a block on which the body of a condemned criminal was quartered.</cd>  <rj><au>Macaulay.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarterly</ent><br/
@@ -1621,7 +1621,7 @@ He <qex>quarters</qex> to his blue-haired deities.</q> <rj><qau> Milton.</qau></
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>A petty officer who attends to the helm, binnacle, signals, and the like, under the direction of the master.</def>  <rj><au>Totten.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quartermaster general</b></col> <fld>(Mil.)</fld>, <cd>in the United States a staff officer, who has the rank of brigadier general and is the chief officer in the quartermaster's department; in England, an officer of high rank stationed at the War Office having similar duties; also, a staff officer, usually a general officer, accompanying each complete army in the field.</cd> -- <col><b>Quartermaster sergeant</b></col>. <cd>See <er>Sergeant</er>.</cd></cs><br/
+<p><cs><col>Quartermaster general</col> <fld>(Mil.)</fld>, <cd>in the United States a staff officer, who has the rank of brigadier general and is the chief officer in the quartermaster's department; in England, an officer of high rank stationed at the War Office having similar duties; also, a staff officer, usually a general officer, accompanying each complete army in the field.</cd> -- <col>Quartermaster sergeant</col>. <cd>See <er>Sergeant</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quartern</ent><br/
@@ -2052,7 +2052,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 <p><-- 7. <def>A male homosexual, esp. one who is effeminate or dresses in women's clothing.</def> <mark>Sometimes pejorative.</mark> --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Queen apple</b></col>. <ety>[Cf. OE. <ets>quyne aple</ets> quince apple.]</ety> <cd>A kind of apple; a queening.</cd> <ldquo/<xex>Queen apples</xex> and red cherries.<rdquo/ <au>Spenser.</au> -- <col><b>Queen bee</b></col> <fld>(Zool.)</fld>, <cd>a female bee, especially the female of the honeybee. See <er>Honeybee</er>.</cd><-- the fully developed female in a colony of bees, ants, or termites which lays eggs.  Usually there is only one in a colony; the queen is often somewhat larger than other bees, and is specially fed to develop her egg-laying capacity. (b) (Fig.) A woman who feels and acts as though she is of special importance.  Usu. pejorative. --> -- <col><b>Queen conch</b></col> <fld>(Zool.)</fld>, <cd>a very large West Indian cameo conch (<spn>Cassis cameo</spn>). It is much used for making cameos.</cd> -- <col><b>Queen consort</b></col>, <cd>the wife of a reigning king.</cd> <au>Blackstone.</au> -- <col><b>Queen dowager</b></col>, <cd>the widow of a king.</cd> -- <col><b>Queen gold</b></col>, <cd>formerly a revenue of the queen consort of England, arising from gifts, fines, etc.</cd> -- <col><b>Queen mother</b></col>, <cd>a queen dowager who is also mother of the reigning king or queen.</cd> -- <col><b>Queen of May</b></col>. <cd>See <cref>May queen</cref>, under <er>May</er>.</cd> -- <col><b>Queen of the meadow</b></col> <fld>(Bot.)</fld>, <cd>a European herbaceous plant (<spn>Spir<ae/a Ulmaria</spn>). See <er>Meadowsweet</er>.</cd> -- <col><b>Queen of the prairie</b></col> <fld>(Bot.)</fld>, <cd>an American herb (<spn>Spir<ae/a lobata</spn>) with ample clusters of pale pink flowers.</cd> -- <col><b>Queen pigeon</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of very large and handsome crested ground pigeons of the genus <gen>Goura</gen>, native of New Guinea and the adjacent islands. They are mostly pale blue, or ash-blue, marked with white, and have a large occipital crest of spatulate feathers. Called also <altname>crowned pigeon</altname>, <altname>goura</altname>, and <altname>Victoria pigeon</altname>.</cd> -- <mcol><col><b>Queen regent</b></col>, <it>or</it> <col><b>Queen regnant</b></col></mcol>, <cd>a queen reigning in her own right.</cd> -- <col><b>Queen's Bench</b></col>. <cd>See <er>King's Bench</er>.</cd> -- <mcol><col><b>Queen's counsel</b></col>, <col><b>Queen's evidence</b></col></mcol>. <cd>See <cref>King's counsel</cref>, <cref>King's evidence</cref>, under <er>King</er>.</cd> -- <col><b>Queen's delight</b></col> <fld>(Bot.)</fld>, <cd>an American plant (<spn>Stillinqia sylvatica</spn>) of the Spurge family, having an herbaceous stem and a perennial woody root.</cd> -- <col><b>Queen's metal</b></col> <fld>(Metal.)</fld>, <cd>an alloy somewhat resembling pewter or britannia, and consisting essentially of tin with a slight admixture of antimony, bismuth, and lead or copper.</cd> -- <col><b>Queen's pigeon</b></col>. <fld>(Zool.)</fld> <cd>Same as <cref>Queen pigeon</cref>, above.</cd> -- <col><b>Queen's ware</b></col>, <cd>glazed English earthenware of a cream color.</cd> -- <col><b>Queen's yellow</b></col> <fld>(Old Chem.)</fld>, <cd>a heavy yellow powder consisting of a basic mercuric sulphate; -- formerly called <altname>turpetum minerale</altname>, or <altname>Turbith's mineral</altname>.</cd></cs><br/
+<p><cs><col>Queen apple</col>. <ety>[Cf. OE. <ets>quyne aple</ets> quince apple.]</ety> <cd>A kind of apple; a queening.</cd> <ldquo/<xex>Queen apples</xex> and red cherries.<rdquo/ <au>Spenser.</au> -- <col>Queen bee</col> <fld>(Zool.)</fld>, <cd>a female bee, especially the female of the honeybee. See <er>Honeybee</er>.</cd><-- the fully developed female in a colony of bees, ants, or termites which lays eggs.  Usually there is only one in a colony; the queen is often somewhat larger than other bees, and is specially fed to develop her egg-laying capacity. (b) (Fig.) A woman who feels and acts as though she is of special importance.  Usu. pejorative. --> -- <col>Queen conch</col> <fld>(Zool.)</fld>, <cd>a very large West Indian cameo conch (<spn>Cassis cameo</spn>). It is much used for making cameos.</cd> -- <col>Queen consort</col>, <cd>the wife of a reigning king.</cd> <au>Blackstone.</au> -- <col>Queen dowager</col>, <cd>the widow of a king.</cd> -- <col>Queen gold</col>, <cd>formerly a revenue of the queen consort of England, arising from gifts, fines, etc.</cd> -- <col>Queen mother</col>, <cd>a queen dowager who is also mother of the reigning king or queen.</cd> -- <col>Queen of May</col>. <cd>See <cref>May queen</cref>, under <er>May</er>.</cd> -- <col>Queen of the meadow</col> <fld>(Bot.)</fld>, <cd>a European herbaceous plant (<spn>Spir<ae/a Ulmaria</spn>). See <er>Meadowsweet</er>.</cd> -- <col>Queen of the prairie</col> <fld>(Bot.)</fld>, <cd>an American herb (<spn>Spir<ae/a lobata</spn>) with ample clusters of pale pink flowers.</cd> -- <col>Queen pigeon</col> <fld>(Zool.)</fld>, <cd>any one of several species of very large and handsome crested ground pigeons of the genus <gen>Goura</gen>, native of New Guinea and the adjacent islands. They are mostly pale blue, or ash-blue, marked with white, and have a large occipital crest of spatulate feathers. Called also <altname>crowned pigeon</altname>, <altname>goura</altname>, and <altname>Victoria pigeon</altname>.</cd> -- <mcol><col>Queen regent</col>, <it>or</it> <col>Queen regnant</col></mcol>, <cd>a queen reigning in her own right.</cd> -- <col>Queen's Bench</col>. <cd>See <er>King's Bench</er>.</cd> -- <mcol><col>Queen's counsel</col>, <col>Queen's evidence</col></mcol>. <cd>See <cref>King's counsel</cref>, <cref>King's evidence</cref>, under <er>King</er>.</cd> -- <col>Queen's delight</col> <fld>(Bot.)</fld>, <cd>an American plant (<spn>Stillinqia sylvatica</spn>) of the Spurge family, having an herbaceous stem and a perennial woody root.</cd> -- <col>Queen's metal</col> <fld>(Metal.)</fld>, <cd>an alloy somewhat resembling pewter or britannia, and consisting essentially of tin with a slight admixture of antimony, bismuth, and lead or copper.</cd> -- <col>Queen's pigeon</col>. <fld>(Zool.)</fld> <cd>Same as <cref>Queen pigeon</cref>, above.</cd> -- <col>Queen's ware</col>, <cd>glazed English earthenware of a cream color.</cd> -- <col>Queen's yellow</col> <fld>(Old Chem.)</fld>, <cd>a heavy yellow powder consisting of a basic mercuric sulphate; -- formerly called <altname>turpetum minerale</altname>, or <altname>Turbith's mineral</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Queen</ent><br/
@@ -2132,7 +2132,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 <p><sn>2.</sn> <def>a homosexual.</def> <mark>[disparaging and offensive]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To shove the queer</b></col>, <cd>to put counterfeit money in circulation.</cd> <mark>[Slang]</mark></cs><br/
+<p><cs><col>To shove the queer</col>, <cd>to put counterfeit money in circulation.</cd> <mark>[Slang]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Queer</ent><br/
@@ -2530,7 +2530,7 @@ Puts me in doubt. Lives there who loves his pain ?</q> <rj><qau>Milton.</qau></r
 <p><sn>6.</sn> <def>Talk; conversation; speech; speech.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>In question</b></col>, <cd>in debate; in the course of examination or discussion; as, the matter or point <xex>in question</xex>.</cd> -- <col><b>Leading question</b></col>. <cd>See under <er>Leading</er>.</cd> -- <col><b>Out of question</b></col>, <cd>unquestionably.</cd> <ldquo/<xex>Out of question</xex>, 't is Maria's hand.<rdquo/ <au>Shak.</au> -- <col><b>Out of the question</b></col>. <cd>See under <er>Out</er>.</cd> -- <col><b>Past question</b></col>, <cd>beyond question; certainly; undoubtedly; unquestionably.</cd> -- <col><b>Previous question</b></col>, <cd>a question put to a parliamentary assembly upon the motion of a member, in order to ascertain whether it is the will of the body to vote at once, without further debate, on the subject under consideration.</cd> <note>The form of the question is: <ldquo/Shall the main question be now put?<rdquo/ If the vote is in the affirmative, the matter before the body must be voted upon as it then stands, without further general debate or the submission of new amendments. In the House of Representatives of the United States, and generally in America, a negative decision operates to keep the business before the body as if the motion had not been made; but in the English Parliament, it operates to postpone consideration for the day, and until the subject may be again introduced. In American practice, the object of the motion is to hasten action, and it is made by a friend of the measure. In English practice, the object is to get rid of the subject for the time being, and the motion is made with a purpose of voting against it. <au>Cushing.</au></note> -- <col><b>To beg the question</b></col>. <cd>See under <er>Beg</er>.</cd> -- <col><b>To the question</b></col>, <cd>to the point in dispute; to the real matter under debate.</cd></cs><br/
+<p><cs><col>In question</col>, <cd>in debate; in the course of examination or discussion; as, the matter or point <xex>in question</xex>.</cd> -- <col>Leading question</col>. <cd>See under <er>Leading</er>.</cd> -- <col>Out of question</col>, <cd>unquestionably.</cd> <ldquo/<xex>Out of question</xex>, 't is Maria's hand.<rdquo/ <au>Shak.</au> -- <col>Out of the question</col>. <cd>See under <er>Out</er>.</cd> -- <col>Past question</col>, <cd>beyond question; certainly; undoubtedly; unquestionably.</cd> -- <col>Previous question</col>, <cd>a question put to a parliamentary assembly upon the motion of a member, in order to ascertain whether it is the will of the body to vote at once, without further debate, on the subject under consideration.</cd> <note>The form of the question is: <ldquo/Shall the main question be now put?<rdquo/ If the vote is in the affirmative, the matter before the body must be voted upon as it then stands, without further general debate or the submission of new amendments. In the House of Representatives of the United States, and generally in America, a negative decision operates to keep the business before the body as if the motion had not been made; but in the English Parliament, it operates to postpone consideration for the day, and until the subject may be again introduced. In American practice, the object of the motion is to hasten action, and it is made by a friend of the measure. In English practice, the object is to get rid of the subject for the time being, and the motion is made with a purpose of voting against it. <au>Cushing.</au></note> -- <col>To beg the question</col>. <cd>See under <er>Beg</er>.</cd> -- <col>To the question</col>, <cd>to the point in dispute; to the real matter under debate.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Point; topic; subject.</syn><br/
@@ -2787,7 +2787,7 @@ And it pierces and sharpens the stomach.</q> <rj><qau> Shak.</qau></rj><br/
 <p><sn>7.</sn> <def>Pregnant; with child.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quick grass</b></col>. <fld>(Bot.)</fld> <cd>See <er>Quitch grass</er>.</cd> -- <col><b>Quick match</b></col>. <cd>See under <er>Match</er>.</cd> -- <col><b>Quick vein</b></col> <fld>(Mining)</fld>, <cd>a vein of ore which is productive, not barren.</cd> -- <col><b>Quick vinegar</b></col>, <cd>vinegar made by allowing a weak solution of alcohol to trickle slowly over shavings or other porous material.</cd> -- <col><b>Quick water</b></col>, <cd>quicksilver water.</cd> -- <col><b>Quick with child</b></col>, <cd>pregnant with a living child.</cd></cs><br/
+<p><cs><col>Quick grass</col>. <fld>(Bot.)</fld> <cd>See <er>Quitch grass</er>.</cd> -- <col>Quick match</col>. <cd>See under <er>Match</er>.</cd> -- <col>Quick vein</col> <fld>(Mining)</fld>, <cd>a vein of ore which is productive, not barren.</cd> -- <col>Quick vinegar</col>, <cd>vinegar made by allowing a weak solution of alcohol to trickle slowly over shavings or other porous material.</cd> -- <col>Quick water</col>, <cd>quicksilver water.</cd> -- <col>Quick with child</col>, <cd>pregnant with a living child.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Speedy; expeditious; swift; rapid; hasty; prompt; ready; active; brisk; nimble; fleet; alert; agile; lively; sprightly.</syn><br/
@@ -2967,7 +2967,7 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Quick"sil`ver</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Quick</ets> living + <ets>silver</ets>; -- so called from its fluidity; cf. G. <ets>quecksilber</ets>, L. <ets>argentum vivum</ets>. See <er>Quick</er>, <pos>a.</pos>]</ety> <fld>(Chem.)</fld> <def>The metal mercury; -- so called from its resemblance to liquid silver.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quicksilver horizon</b></col>, <cd>a mercurial artificial horizon. See under <er>Horizon</er>.</cd> -- <col><b>Quicksilver water</b></col>, <cd>a solution of mercury nitrate used in artificial silvering; quick water.</cd></cs><br/
+<p><cs><col>Quicksilver horizon</col>, <cd>a mercurial artificial horizon. See under <er>Horizon</er>.</cd> -- <col>Quicksilver water</col>, <cd>a solution of mercury nitrate used in artificial silvering; quick water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quicksilvered</ent><br/
@@ -3136,7 +3136,7 @@ Such trouble brought.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>And join with thee, calm Peace and <qex>Quiet</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At quiet</b></col>, <cd>still; peaceful.</cd> -- <col><b>In quiet</b></col>, <cd>quietly.</cd> <ldquo/ I will depart <xex>in quiet</xex>.<rdquo/ <au>Shak.</au> -- <col><b>Out of quiet</b></col>, <cd>disturbed; restless.</cd> <mark>[Obs.]</mark> <ldquo/She is much <xex>out of quiet</xex>.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>At quiet</col>, <cd>still; peaceful.</cd> -- <col>In quiet</col>, <cd>quietly.</cd> <ldquo/ I will depart <xex>in quiet</xex>.<rdquo/ <au>Shak.</au> -- <col>Out of quiet</col>, <cd>disturbed; restless.</cd> <mark>[Obs.]</mark> <ldquo/She is much <xex>out of quiet</xex>.<rdquo/  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quiet</ent><br/
@@ -3234,7 +3234,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Pharm.)</fld> <def>A roll of dried bark; <as>as, a <ex>quill</ex> of cinnamon or of cinchona</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Quill bit</b></col>, <cd>a bit for boring resembling the half of a reed split lengthways and having its end sharpened like a gouge.</cd> -- <col><b>Quill driver</b></col>, <cd>one who works with a pen; a writer; a clerk.</cd> <mark>[Jocose]</mark> -- <col><b>Quill nib</b></col>, <cd>a small quill pen made to be used with a holder.</cd>  <rj><au>Simmonds.</au></rj></cs><br/
+<p><cs><col>Quill bit</col>, <cd>a bit for boring resembling the half of a reed split lengthways and having its end sharpened like a gouge.</cd> -- <col>Quill driver</col>, <cd>one who works with a pen; a writer; a clerk.</cd> <mark>[Jocose]</mark> -- <col>Quill nib</col>, <cd>a small quill pen made to be used with a holder.</cd>  <rj><au>Simmonds.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quill</ent><br/
@@ -3259,7 +3259,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Quilled</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Furnished with quills; also, shaped like quills.</def> <ldquo/A sharp-<xex>quilled</xex> porcupine.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quilled suture</b></col> <fld>(Surg.)</fld>, <cd>a variety of stitch in which the threads after being passed deeply through the edges of a wound are secured about two quills or bodies of similar shape, in order to produce a suitable degree of pressure.</cd></cs><br/
+<p><cs><col>Quilled suture</col> <fld>(Surg.)</fld>, <cd>a variety of stitch in which the threads after being passed deeply through the edges of a wound are secured about two quills or bodies of similar shape, in order to produce a suitable degree of pressure.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quillet</ent><br/
@@ -3320,7 +3320,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Qui"na*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>quinarius</ets>, from <ets>quini</ets> five each, akin to <ets>quinque</ets> five: cf. F. <ets>quinaire</ets>. See <er>Five</er>.]</ety> <def>Consisting of five; arranged by fives.</def>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quinary system</b></col> <fld>(Zool.)</fld>, <cd>a fanciful classification based on the hypothesis that each group contains five types.</cd></cs><br/
+<p><cs><col>Quinary system</col> <fld>(Zool.)</fld>, <cd>a fanciful classification based on the hypothesis that each group contains five types.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinate</ent><br/
@@ -3342,7 +3342,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>a quince tree or shrub.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Japan quince</b></col> <fld>(Bot.)</fld>, <cd>an Eastern Asiatic shrub (<spn>Cydonia Japonica</spn>, formerly <spn>Pyrus Japonica</spn>) and its very fragrant but inedible fruit.  The shrub has very showy flowers, usually red, but sometimes pink or white, and is much grown for ornament.</cd> -- <col><b>Quince curculio</b></col> <fld>(Zool.)</fld>, <cd>a small gray and yellow curculio (<spn>Conotrachelus crat<ae/gi</spn>) whose larva lives in quinces.</cd> -- <col><b>Quince tree</b></col> <fld>(Bot.)</fld>, <cd>the small tree (<spn>Cydonia vulgaris</spn>) which produces the quince.</cd></cs><br/
+<p><cs><col>Japan quince</col> <fld>(Bot.)</fld>, <cd>an Eastern Asiatic shrub (<spn>Cydonia Japonica</spn>, formerly <spn>Pyrus Japonica</spn>) and its very fragrant but inedible fruit.  The shrub has very showy flowers, usually red, but sometimes pink or white, and is much grown for ornament.</cd> -- <col>Quince curculio</col> <fld>(Zool.)</fld>, <cd>a small gray and yellow curculio (<spn>Conotrachelus crat<ae/gi</spn>) whose larva lives in quinces.</cd> -- <col>Quince tree</col> <fld>(Bot.)</fld>, <cd>the small tree (<spn>Cydonia vulgaris</spn>) which produces the quince.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quincewort</ent><br/
@@ -3363,7 +3363,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Having the leaves of a pentamerous calyx or corolla so imbricated that two are exterior, two are interior, and the other has one edge exterior and one interior; <as>as, <ex>quincuncial</ex> <ae/stivation</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quincuncial phyllotaxy</b></col> <fld>(Bot.)</fld>, <cd>an arrangement of five leaves in a spiral, each leaf two fifths of a circle from the next.</cd></cs><br/
+<p><cs><col>Quincuncial phyllotaxy</col> <fld>(Bot.)</fld>, <cd>an arrangement of five leaves in a spiral, each leaf two fifths of a circle from the next.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quincuncially</ent><br/
@@ -3512,7 +3512,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Quin`qua*ges"i*ma</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., fr. <ets>quinquagesimus</ets> the fiftieth, akin to <ets>quinquaginta</ets> fifty, <ets>quinque</ets> five. See <er>Five</er>.]</ety> <def>Fiftieth.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quinquagesima Sunday</b></col>, <cd>the Sunday which is the fiftieth day before Easter, both days being included in the reckoning; -- called also <altname>Shrove Sunday</altname>.</cd></cs><br/
+<p><cs><col>Quinquagesima Sunday</col>, <cd>the Sunday which is the fiftieth day before Easter, both days being included in the reckoning; -- called also <altname>Shrove Sunday</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquangular</ent><br/
@@ -3721,7 +3721,7 @@ Sprung from the deep.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Quin"tu*ple</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>quintus</ets> fifth: cf. F. <ets>quintuple</ets>, L. <ets>quintuplex</ets>.  Cf. <er>Quadruple</er>.]</ety> <def>Multiplied by five; increased to five times the amount; fivefold.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quintuple time</b></col> <fld>(Mus.)</fld>, <cd>a time having five beats in a measure. It is seldom used.</cd></cs><br/
+<p><cs><col>Quintuple time</col> <fld>(Mus.)</fld>, <cd>a time having five beats in a measure. It is seldom used.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quintuple</ent><br/
@@ -3867,7 +3867,7 @@ But all his merry <qex>quips</qex> are o'er.</q> <rj><qau>Tennyson.</qau></rj><b
 <p><sn>6.</sn> <fld>(Arch.)</fld> <def>A small channel, deeply recessed in proportion to its width, used to insulate and give relief to a convex rounded molding.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quirk molding</b></col>, <cd>a bead between two quirks.</cd></cs><br/
+<p><cs><col>Quirk molding</col>, <cd>a bead between two quirks.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quirked</ent><br/
@@ -3964,7 +3964,7 @@ With greater hazard and with more renown.</q> <rj><qau>Daniel.</qau></rj><br/
 <p><q>Such a superficial way of examining is to <qex>quit</qex> truth for appearance.</q> <rj><qau>Locke.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To quit cost</b></col>, <cd>to pay; to reimburse.</cd> -- <col><b>To quit scores</b></col>, <cd>to make even; to clear mutually from demands.</cd></cs><br/
+<p><cs><col>To quit cost</col>, <cd>to pay; to reimburse.</cd> -- <col>To quit scores</col>, <cd>to make even; to clear mutually from demands.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Does not the earth <qex>quit scores</qex> with all the elements in the noble fruits that issue from it?</q> <rj><qau>South.</qau></rj><br/
@@ -4122,7 +4122,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 \'d8<hw>Qui` vive"</hw> <pr>(k<esl/` v<esl/v")</pr>. <ety>[F., fr. <ets>qui</ets> who + <ets>vive</ets>, pres. subj. of <ets>vivre</ets> to live.]</ety> <def>The challenge of a French sentinel, or patrol; -- used like the English challenge: <ldquo/Who comes there?<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To be on the qui vive</b></col>, <cd>to be on guard; to be watchful and alert, like a sentinel.</cd></cs><br/
+<p><cs><col>To be on the qui vive</col>, <cd>to be on guard; to be watchful and alert, like a sentinel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quixotic</ent><br/
@@ -4173,7 +4173,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 <p><sn>3.</sn> <def>To instruct in or by a quiz. See <er>Quiz</er>, <pos>n.</pos>, <snr>4</snr>.</def> <mark>[U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quizzing glass</b></col>, <cd>a small eyeglass.</cd></cs><br/
+<p><cs><col>Quizzing glass</col>, <cd>a small eyeglass.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quiz</ent><br/
@@ -4261,7 +4261,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 <sn>2.</sn> <def>A wedgelike piece of stone, wood, metal, or other material, used for various purposes;</def> <specif>as:</specif> <sd>(a)</sd> <fld>(Masonry)</fld> <def>To support and steady a stone.</def> <sd>(b)</sd> <fld>(Gun.)</fld> <def>To support the breech of a cannon.</def> <sd>(c)</sd> <fld>(Print.)</fld> <def>To wedge or lock up a form within a chase.</def> <sd>(d)</sd> <fld>(Naut.)</fld> <def>To prevent casks from rolling.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hollow quoin</b></col>. <cd>See under <er>Hollow</er>.</cd> -- <col><b>Quoin post</b></col> <fld>(Canals)</fld>, <cd>the post of a lock gate which abuts against the wall.</cd></cs><br/
+<p><cs><col>Hollow quoin</col>. <cd>See under <er>Hollow</er>.</cd> -- <col>Quoin post</col> <fld>(Canals)</fld>, <cd>the post of a lock gate which abuts against the wall.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quoit</ent><br/
@@ -4347,7 +4347,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 <p><sn>5.</sn> <fld>(Print.)</fld> <def>A piece of hollow type metal, lower than type, and measuring two or more pica ems in length and breadth, used in the blank spaces at the beginning and end of chapters, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Quotation marks</b></col> <fld>(Print.)</fld>, <cd>two inverted commas placed at the beginning, and two apostrophes at the end, of a passage quoted from an author in his own words.</cd></cs><br/
+<p><cs><col>Quotation marks</col> <fld>(Print.)</fld>, <cd>two inverted commas placed at the beginning, and two apostrophes at the end, of a passage quoted from an author in his own words.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quotationist</ent><br/

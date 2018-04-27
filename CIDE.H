@@ -27,7 +27,7 @@
 <p><note>   The name (aitch) is from the French <it>ache</it>; its form is from the Latin, and this from the Greek H, which was used as the sign of the spiritus asper (rough breathing) before it came to represent the long vowel, Gr. <eta/. The Greek H is from Ph<oe/nician, the ultimate origin probably being Egyptian. Etymologically H is most closely related to <it>c</it>; as in E. <it>h</it>orn, L. <it>c</it>ornu, Gr. <grk>ke`ras</grk>; E. <it>h</it>ele, <pos>v. t.</pos>, con<it>c</it>eal; E. <it>h</it>ide, L. <it>c</it>utis, Gr. <grk>ky`tos</grk>; E. <it>h</it>undred, L. <it>c</it>entum, Gr. <grk>"e-kat-on</grk>, Skr. <it><csdot/</it>ata.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>H piece</b></col> <fld>(Mining)</fld>, <cd>the part of a plunger pump which contains the valve.</cd></cs><br/
+<p><cs><col>H piece</col> <fld>(Mining)</fld>, <cd>the part of a plunger pump which contains the valve.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>H</ent><br/
@@ -414,7 +414,7 @@ Consent, or <qex>custom</qex></q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>7.</sn> <def>A <er>taxicab</er>.</def> <mark>[informal]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Hack saw</b></col>, <cd>a handsaw having a narrow blade stretched in an iron frame, for cutting metal.</cd></cs><br/
+<p><cs><col>Hack saw</col>, <cd>a handsaw having a narrow blade stretched in an iron frame, for cutting metal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hack</ent><br/
@@ -451,7 +451,7 @@ Who long was a bookseller's <qex>hack</qex>.</q> <rj><qau>Goldsmith.</qau></rj><
 <hw>Hack</hw>, <pos>a.</pos> <def>Hackneyed; hired; mercenary.</def>  <rj><au>Wakefield.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hack writer</b></col>, <cd>a hack; one who writes for hire.</cd> <ldquo/A vulgar <xex>hack writer</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></cs><br/
+<p><cs><col>Hack writer</col>, <cd>a hack; one who writes for hire.</cd> <ldquo/A vulgar <xex>hack writer</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hack</ent><br/
@@ -595,7 +595,7 @@ So common-<qex>hackneyed</qex> in the eyes of men.</q> <rj><qau>Shak.</qau></rj>
 <hw>Had</hw> <pr>(h<acr/d)</pr>, <pos>imp. & p. p.</pos> of <er>Have</er>. <ety>[OE. <ets>had</ets>, <ets>hafde</ets>, <ets>hefde</ets>, AS. <ets>h<ae/fde</ets>.]</ety> <def>See <er>Have</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Had as lief</b></col>, <col><b>Had rather</b></col>, <col><b>Had better</b></col>, <col><b>Had as soon</b></col>, etc.</mcol>, <cd>with a nominative and followed by the infinitive without <xex>to</xex>, are well established idiomatic forms. The original construction was that of the dative with forms of <xex>be</xex>, followed by the infinitive. See <cref>Had better</cref>, under <er>Better</er>.</cd></cs><br/
+<p><cs><mcol><col>Had as lief</col>, <col>Had rather</col>, <col>Had better</col>, <col>Had as soon</col>, etc.</mcol>, <cd>with a nominative and followed by the infinitive without <xex>to</xex>, are well established idiomatic forms. The original construction was that of the dative with forms of <xex>be</xex>, followed by the infinitive. See <cref>Had better</cref>, under <er>Better</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>And <qex>lever me is</qex> be pore and trewe.<br/
@@ -651,7 +651,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Had"dock</hw> <pr>(-d<ucr/k)</pr>, <pos>n.</pos> <ety>[OE. <ets>hadok</ets>, <ets>haddok</ets>, of unknown origin; cf. Ir. <ets>codog</ets>, Gael. <ets>adag</ets>, F. <ets>hadot</ets>.]</ety> <fld>(Zool.)</fld> <def>A marine food fish (<spn>Melanogrammus aeglefinus</spn>), allied to the cod, inhabiting the northern coasts of Europe and America. It has a dark lateral line and a black spot on each side of the body, just back of the gills. Galled also <altname>haddie</altname>, and <altname>dickie</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Norway haddock</b></col>, <cd>a marine edible fish (<spn>Sebastes marinus</spn>) of Northern Europe and America. See <er>Rose fish</er>.</cd></cs><br/
+<p><cs><col>Norway haddock</col>, <cd>a marine edible fish (<spn>Sebastes marinus</spn>) of Northern Europe and America. See <er>Rose fish</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hade</ent><br/
@@ -812,7 +812,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hae*mat"ic</hw> <pr>(h<esl/*m<acr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>a"imatiko`s</grk>]</ety> <def>Of or pertaining to the blood; sanguine; brownish red.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Haematic acid</b></col> <fld>(Physiol.)</fld>, <cd>a hypothetical acid, supposed to be formed from hemoglobin during its oxidation in the lungs, and to have the power of freeing carbonic acid from the sodium carbonate of the serum.</cd>  <rj><au>Thudichum.</au></rj></cs><br/
+<p><cs><col>Haematic acid</col> <fld>(Physiol.)</fld>, <cd>a hypothetical acid, supposed to be formed from hemoglobin during its oxidation in the lungs, and to have the power of freeing carbonic acid from the sodium carbonate of the serum.</cd>  <rj><au>Thudichum.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haematin</ent><br/
@@ -1117,7 +1117,7 @@ I'll bury to the <qex>haft</qex> in her fair breast.</q> <rj><qau>Dryden.</qau><
 <p><sn>6.</sn> <def>An appearance of light and fire on a horse's mane or a man's hair.</def>  <rj><au>Blount.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hag moth</b></col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Phobetron pithecium</spn>), the larva of which has curious side appendages, and feeds on fruit trees.</cd> -- <col><b>Hag's tooth</b></col> <fld>(Naut.)</fld>, <cd>an ugly irregularity in the pattern of matting or pointing.</cd></cs><br/
+<p><cs><col>Hag moth</col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Phobetron pithecium</spn>), the larva of which has curious side appendages, and feeds on fruit trees.</cd> -- <col>Hag's tooth</col> <fld>(Naut.)</fld>, <cd>an ugly irregularity in the pattern of matting or pointing.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hag</ent><br/
@@ -1399,7 +1399,7 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hail</hw>, <pos>interj.</pos> <ety>[See <er>Hail</er>, <pos>v. t.</pos>]</ety> <def>An exclamation of respectful or reverent salutation, or, occasionally, of familiar greeting.</def> <ldquo/<xex>Hail</xex>, brave friend.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>All hail</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>Hail Mary</b></col>, <cd>a form of prayer made use of in the Roman Catholic Church in invocation of the Virgin. See <er>Ave Maria</er>.</cd></cs><br/
+<p><cs><col>All hail</col>. <cd>See in the Vocabulary.</cd> -- <col>Hail Mary</col>, <cd>a form of prayer made use of in the Roman Catholic Church in invocation of the Virgin. See <er>Ave Maria</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hail</ent><br/
@@ -1478,7 +1478,7 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <xex>Hairs</xex> is often used adjectively or in combination; as, <xex>hair</xex>brush or <xex>hair</xex> brush, <xex>hair</xex> dye, <xex>hair</xex> oil, <xex>hair</xex>pin, <xex>hair</xex> powder, a brush, a dye, etc., for the hair.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Against the hair</b></col>, <cd>in a rough and disagreeable manner; against the grain.</cd> <mark>[Obs.]</mark> <ldquo/You go <xex>against the hair</xex> of your professions.<rdquo/ <au>Shak.</au> -- <col><b>Hair bracket</b></col> <fld>(Ship Carp.)</fld>, <cd>a molding which comes in at the back of, or runs aft from, the figurehead.</cd> -- <col><b>Hair cells</b></col> <fld>(Anat.)</fld>, <cd>cells with hairlike processes in the sensory epithelium of certain parts of the internal ear.</cd> -- <mcol><col><b>Hair compass</b></col>, <col><b>Hair divider</b></col></mcol>, <cd>a compass or divider capable of delicate adjustment by means of a screw.</cd> -- <col><b>Hair glove</b></col>, <cd>a glove of horsehair for rubbing the skin.</cd> -- <col><b>Hair lace</b></col>, <cd>a netted fillet for tying up the hair of the head.</cd> <au>Swift.</au> -- <col><b>Hair line</b></col>, <cd>a line made of hair; a very slender line.</cd> -- <col><b>Hair moth</b></col> <fld>(Zool.)</fld>, <cd>any moth which destroys goods made of hair, esp. <spn>Tinea biselliella</spn>.</cd> -- <col><b>Hair pencil</b></col>, <cd>a brush or pencil made of fine hair, for painting; -- generally called by the name of the hair used; <as>as, a camel's <ex>hair pencil</ex>, a sable's <ex>hair pencil</ex>, etc.</as></cd> -- <col><b>Hair plate</b></col>, <cd>an iron plate forming the back of the hearth of a bloomery fire.</cd> -- <col><b>Hair powder</b></col>, <cd>a white perfumed powder, as of flour or starch, formerly much used for sprinkling on the hair of the head, or on wigs.</cd> -- <col><b>Hair seal</b></col> <fld>(Zool.)</fld>, <cd>any one of several species of eared seals which do not produce fur; a sea lion.</cd> -- <col><b>Hair seating</b></col>, <cd>haircloth for seats of chairs, etc.</cd> -- <col><b>Hair shirt</b></col>, <cd>a shirt, or a band for the loins, made of horsehair, and worn as a penance.</cd> -- <col><b>Hair sieve</b></col>, <cd>a strainer with a haircloth bottom.</cd> -- <col><b>Hair snake</b></col>. <cd>See <er>Gordius</er>.</cd> -- <col><b>Hair space</b></col> <fld>(Printing)</fld>, <cd>the thinnest metal space used in lines of type.</cd> -- <col><b>Hair stroke</b></col>, <cd>a delicate stroke in writing.</cd> -- <col><b>Hair trigger</b></col>, <cd>a trigger so constructed as to discharge a firearm by a very slight pressure, as by the touch of a hair.</cd> <au>Farrow.</au> -- <col><b>Not worth a hair</b></col>, <cd>of no value.</cd> -- <col><b>To a hair</b></col>, <cd>with the nicest distinction.</cd> -- <col><b>To split hairs</b></col>, <cd>to make distinctions of useless nicety.</cd></cs><br/
+<p><cs><col>Against the hair</col>, <cd>in a rough and disagreeable manner; against the grain.</cd> <mark>[Obs.]</mark> <ldquo/You go <xex>against the hair</xex> of your professions.<rdquo/ <au>Shak.</au> -- <col>Hair bracket</col> <fld>(Ship Carp.)</fld>, <cd>a molding which comes in at the back of, or runs aft from, the figurehead.</cd> -- <col>Hair cells</col> <fld>(Anat.)</fld>, <cd>cells with hairlike processes in the sensory epithelium of certain parts of the internal ear.</cd> -- <mcol><col>Hair compass</col>, <col>Hair divider</col></mcol>, <cd>a compass or divider capable of delicate adjustment by means of a screw.</cd> -- <col>Hair glove</col>, <cd>a glove of horsehair for rubbing the skin.</cd> -- <col>Hair lace</col>, <cd>a netted fillet for tying up the hair of the head.</cd> <au>Swift.</au> -- <col>Hair line</col>, <cd>a line made of hair; a very slender line.</cd> -- <col>Hair moth</col> <fld>(Zool.)</fld>, <cd>any moth which destroys goods made of hair, esp. <spn>Tinea biselliella</spn>.</cd> -- <col>Hair pencil</col>, <cd>a brush or pencil made of fine hair, for painting; -- generally called by the name of the hair used; <as>as, a camel's <ex>hair pencil</ex>, a sable's <ex>hair pencil</ex>, etc.</as></cd> -- <col>Hair plate</col>, <cd>an iron plate forming the back of the hearth of a bloomery fire.</cd> -- <col>Hair powder</col>, <cd>a white perfumed powder, as of flour or starch, formerly much used for sprinkling on the hair of the head, or on wigs.</cd> -- <col>Hair seal</col> <fld>(Zool.)</fld>, <cd>any one of several species of eared seals which do not produce fur; a sea lion.</cd> -- <col>Hair seating</col>, <cd>haircloth for seats of chairs, etc.</cd> -- <col>Hair shirt</col>, <cd>a shirt, or a band for the loins, made of horsehair, and worn as a penance.</cd> -- <col>Hair sieve</col>, <cd>a strainer with a haircloth bottom.</cd> -- <col>Hair snake</col>. <cd>See <er>Gordius</er>.</cd> -- <col>Hair space</col> <fld>(Printing)</fld>, <cd>the thinnest metal space used in lines of type.</cd> -- <col>Hair stroke</col>, <cd>a delicate stroke in writing.</cd> -- <col>Hair trigger</col>, <cd>a trigger so constructed as to discharge a firearm by a very slight pressure, as by the touch of a hair.</cd> <au>Farrow.</au> -- <col>Not worth a hair</col>, <cd>of no value.</cd> -- <col>To a hair</col>, <cd>with the nicest distinction.</cd> -- <col>To split hairs</col>, <cd>to make distinctions of useless nicety.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hair ball</ent><br/
@@ -1784,7 +1784,7 @@ As <qex>halcyons</qex> brooding on a winter sea.</q> <rj><qau>Dryden.</qau></rj>
 <p><q>Assumed from thence a <qex>half</qex> consent.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Half ape</b></col> <fld>(Zool.)</fld>, <cd>a lemur.</cd> -- <col><b>Half back</b></col>. <fld>(Football)</fld> <cd>See under 2d <er>Back</er>.</cd> -- <col><b>Half bent</b></col>, <cd>the first notch, for the sear point to enter, in the tumbler of a gunlock; the halfcock notch.</cd> -- <col><b>Half binding</b></col>, <cd>a style of bookbinding in which only the back and corners are in leather.</cd> -- <col><b>Half boarder</b></col>, <cd>one who boards in part; specifically, a scholar at a boarding school who takes dinner only.</cd> -- <col><b>Half-breadth plan</b></col> <fld>(Shipbuilding)</fld>, <cd>a horizontal plan of one half a vessel, divided lengthwise, showing the lines.</cd> -- <col><b>Half cadence</b></col> <fld>(Mus.)</fld>, <cd>a cadence on the dominant.</cd> -- <col><b>Half cap</b></col>, <cd>a slight salute with the cap.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col><b>At half cock</b></col>, <cd>the position of the cock of a gun when retained by the first notch.</cd><-- half cocked: see below, halfcocked: = unprepared, lacking forethought; -- as in go off half cocked --> -- <col><b>Half hitch</b></col>, <cd>a sailor's knot in a rope; half of a clove hitch.</cd> -- <col><b>Half hose</b></col>, <cd>short stockings; socks.</cd> -- <col><b>Half measure</b></col>, <cd>an imperfect or weak line of action.</cd> -- <col><b>Half note</b></col> <fld>(Mus.)</fld>, <cd>a minim, one half of a semibreve.</cd> -- <col><b>Half pay</b></col>, <cd>half of the wages or salary; reduced pay; as, an officer on <xex>half pay</xex>.</cd> -- <col><b>Half price</b></col>, <cd>half the ordinary price; or a price much reduced.</cd> -- <col><b>Half round</b></col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>A molding of semicircular section.</cd> <sd>(b)</sd> <fld>(Mech.)</fld> <cd>Having one side flat and the other rounded; -- said of a file.</cd> -- <col><b>Half shift</b></col> <fld>(Mus.)</fld>, <cd>a position of the hand, between the open position and the first shift, in playing on the violin and kindred instruments. See <er>Shift</er>.</cd> -- <col><b>Half step</b></col> <fld>(Mus.)</fld>, <cd>a semitone; the smallest difference of pitch or interval, used in music.</cd> -- <col><b>Half tide</b></col>, <cd>the time or state of the tide equally distant from ebb and flood.</cd> -- <col><b>Half time</b></col>, <cd>half the ordinary time for work or attendance; as, the <xex>half-time</xex> system.</cd> -- <col><b>Half tint</b></col> <fld>(Fine Arts)</fld>, <cd>a middle or intermediate tint, as in drawing or painting. See <er>Demitint</er>.</cd> -- <col><b>Half truth</b></col>, <cd>a statement only partially true, or which gives only a part of the truth.</cd> <au>Mrs. Browning.</au> -- <col><b>Half year</b></col>, <cd>the space of six months; one term of a school when there are two terms in a year.</cd></cs><br/
+<p><cs><col>Half ape</col> <fld>(Zool.)</fld>, <cd>a lemur.</cd> -- <col>Half back</col>. <fld>(Football)</fld> <cd>See under 2d <er>Back</er>.</cd> -- <col>Half bent</col>, <cd>the first notch, for the sear point to enter, in the tumbler of a gunlock; the halfcock notch.</cd> -- <col>Half binding</col>, <cd>a style of bookbinding in which only the back and corners are in leather.</cd> -- <col>Half boarder</col>, <cd>one who boards in part; specifically, a scholar at a boarding school who takes dinner only.</cd> -- <col>Half-breadth plan</col> <fld>(Shipbuilding)</fld>, <cd>a horizontal plan of one half a vessel, divided lengthwise, showing the lines.</cd> -- <col>Half cadence</col> <fld>(Mus.)</fld>, <cd>a cadence on the dominant.</cd> -- <col>Half cap</col>, <cd>a slight salute with the cap.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col>At half cock</col>, <cd>the position of the cock of a gun when retained by the first notch.</cd><-- half cocked: see below, halfcocked: = unprepared, lacking forethought; -- as in go off half cocked --> -- <col>Half hitch</col>, <cd>a sailor's knot in a rope; half of a clove hitch.</cd> -- <col>Half hose</col>, <cd>short stockings; socks.</cd> -- <col>Half measure</col>, <cd>an imperfect or weak line of action.</cd> -- <col>Half note</col> <fld>(Mus.)</fld>, <cd>a minim, one half of a semibreve.</cd> -- <col>Half pay</col>, <cd>half of the wages or salary; reduced pay; as, an officer on <xex>half pay</xex>.</cd> -- <col>Half price</col>, <cd>half the ordinary price; or a price much reduced.</cd> -- <col>Half round</col>. <sd>(a)</sd> <fld>(Arch.)</fld> <cd>A molding of semicircular section.</cd> <sd>(b)</sd> <fld>(Mech.)</fld> <cd>Having one side flat and the other rounded; -- said of a file.</cd> -- <col>Half shift</col> <fld>(Mus.)</fld>, <cd>a position of the hand, between the open position and the first shift, in playing on the violin and kindred instruments. See <er>Shift</er>.</cd> -- <col>Half step</col> <fld>(Mus.)</fld>, <cd>a semitone; the smallest difference of pitch or interval, used in music.</cd> -- <col>Half tide</col>, <cd>the time or state of the tide equally distant from ebb and flood.</cd> -- <col>Half time</col>, <cd>half the ordinary time for work or attendance; as, the <xex>half-time</xex> system.</cd> -- <col>Half tint</col> <fld>(Fine Arts)</fld>, <cd>a middle or intermediate tint, as in drawing or painting. See <er>Demitint</er>.</cd> -- <col>Half truth</col>, <cd>a statement only partially true, or which gives only a part of the truth.</cd> <au>Mrs. Browning.</au> -- <col>Half year</col>, <cd>the space of six months; one term of a school when there are two terms in a year.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 665 pr=JMD --></p>
@@ -1813,7 +1813,7 @@ As <qex>halcyons</qex> brooding on a winter sea.</q> <rj><qau>Dryden.</qau></rj>
 Portioned in <qex>halves</qex> between us.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Better half</b></col>. <cd>See under <er>Better</er>.</cd> -- <col><b>In half</b></col>, <cd>in two; an expression sometimes used improperly instead of <altname>in halves</altname> or <altname>into halves</altname>; <as>as, to cut <ex>in half</ex></as>.</cd> <mark>[Colloq.]</mark> <au>Dickens.</au> -- <mcol><col><b>In one's half</b></col> <it>or</it> <col><b>On one's half</b></col></mcol>, <cd>in one's behalf; on one's part.</cd> <mark>[Obs.]</mark> -- <col><b>To cry halves</b></col>, <cd>to claim an equal share with another.</cd> -- <col><b>To go halves</b></col>, <cd>to share equally between two.</cd></cs><br/
+<p><cs><col>Better half</col>. <cd>See under <er>Better</er>.</cd> -- <col>In half</col>, <cd>in two; an expression sometimes used improperly instead of <altname>in halves</altname> or <altname>into halves</altname>; <as>as, to cut <ex>in half</ex></as>.</cd> <mark>[Colloq.]</mark> <au>Dickens.</au> -- <mcol><col>In one's half</col> <it>or</it> <col>On one's half</col></mcol>, <cd>in one's behalf; on one's part.</cd> <mark>[Obs.]</mark> -- <col>To cry halves</col>, <cd>to claim an equal share with another.</cd> -- <col>To go halves</col>, <cd>to share equally between two.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Half</ent><br/
@@ -1905,7 +1905,7 @@ Portioned in <qex>halves</qex> between us.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Half"cock`</hw> <pr>(-k<ocr/k`)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Halfcocked</conjf><pr>(-k<ocr/kt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Halfcocking</conjf>.]</vmorph> <def>To set the cock of (a firearm) at the first notch.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To go off half-cocked</b></col>, <col><b>To go off halfcocked</b></col></mcol>. <sd>(a)</sd> <cd>To be discharged prematurely, or with the trigger at half cock; -- said of a firearm.</cd> <sd>(b)</sd> <cd>To do or say something without due thought or care.</cd> <mark>[Colloq. or Low]</mark></cs><br/
+<p><cs><mcol><col>To go off half-cocked</col>, <col>To go off halfcocked</col></mcol>. <sd>(a)</sd> <cd>To be discharged prematurely, or with the trigger at half cock; -- said of a firearm.</cd> <sd>(b)</sd> <cd>To do or say something without due thought or care.</cd> <mark>[Colloq. or Low]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Half-cracked</ent><br/
@@ -2014,7 +2014,7 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Half nelson</ent><br/
-<hw>Half nelson</hw>. <fld>(Wrestling)</fld> <def>A hold in which one arm is thrust under the corresponding arm of the opponent, generally behind, and the hand placed upon the back of his neck. In the <col><b>full nelson</b></col> both hands are so placed.</def><br/
+<hw>Half nelson</hw>. <fld>(Wrestling)</fld> <def>A hold in which one arm is thrust under the corresponding arm of the opponent, generally behind, and the hand placed upon the back of his neck. In the <col>full nelson</col> both hands are so placed.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Halfness</ent><br/
@@ -2146,7 +2146,7 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 <p><sn>3.</sn> <def>including only half or a portion; incomplete; <as>as, <ex>halfway</ex> measures</as>.</def> <wns>[wns=3]</wns><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Halfway covenant</b></col>, <cd>a practice among the Congregational churches of New England, between 1657 and 1662, of permitting baptized persons of moral life and orthodox faith to enjoy all the privileges of church membership, save the partaking of the Lord's Supper. They were also allowed to present their children for baptism.</cd></cs><br/
+<p><cs><col>Halfway covenant</col>, <cd>a practice among the Congregational churches of New England, between 1657 and 1662, of permitting baptized persons of moral life and orthodox faith to enjoy all the privileges of church membership, save the partaking of the Lord's Supper. They were also allowed to present their children for baptism.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>halfway house</ent><br/
@@ -2386,13 +2386,13 @@ Some far off <qex>halloo</qex> break the silent air.</q> <rj><qau>Milton.</qau><
 <mhw>{ <hw>Hall"statt</hw> <pr>(h<aum/l"st<aum/t; -sht<aum/t)</pr>, <hw>Hall*stat"ti*an</hw> <pr>(h<aum/l*st<aum/t"t<icr/*<ait/n)</pr> }</mhw>, <pos>a.</pos> <def>Of or pertaining to Hallstatt, Austria, or the Hallstatt civilization.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>-- <cs><mcol><col><b>Hallstatt civilization</b></col> <it>or</it> <col><b>Hallstattian civilization</b></col></mcol>, <cd>a prehistoric civilization of central Europe, variously dated at from 1000 to 1500 <sc>b. c.</sc> and usually associated with the Celtic or Alpine race.  It was characterized by expert use of bronze, a knowledge of iron, possession of domestic animals, agriculture, and artistic skill and sentiment in manufacturing pottery, ornaments, etc.</cd><br/
+<p>-- <cs><mcol><col>Hallstatt civilization</col> <it>or</it> <col>Hallstattian civilization</col></mcol>, <cd>a prehistoric civilization of central Europe, variously dated at from 1000 to 1500 <sc>b. c.</sc> and usually associated with the Celtic or Alpine race.  It was characterized by expert use of bronze, a knowledge of iron, possession of domestic animals, agriculture, and artistic skill and sentiment in manufacturing pottery, ornaments, etc.</cd><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><q>The <qex>Hallstattian civilization</qex> flourished chiefly in Carinthia, southern Germany, Switzerland, Bohemia, Silesia, Bosnia, the southeast of France, and southern Italy.</q>  <rj><qau>J. Deniker.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p>-- <col><b>Hallstattian epoch</b></col>, <cd>the first iron age, represented by the <cref>Hallstatt civilization</cref>.</cd></cs><br/
+<p>-- <col>Hallstattian epoch</col>, <cd>the first iron age, represented by the <cref>Hallstatt civilization</cref>.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hallucal</ent><br/
@@ -2698,13 +2698,13 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <hw>Halves</hw> <pr>(h<aum/vz)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Half</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By halves</b></col>, <cd>by one half at once; halfway; fragmentarily; partially; incompletely.</cd></cs><br/
+<p><cs><col>By halves</col>, <cd>by one half at once; halfway; fragmentarily; partially; incompletely.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I can not believe by <qex>halves</qex>; either I have faith, or I have it not.</q> <rj><qau>J. H. Newman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To go halves</b></col>. <cd>See under <er>Go</er>.</cd></cs><br/
+<p><cs><col>To go halves</col>. <cd>See under <er>Go</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Halwe</ent><br/
@@ -2747,7 +2747,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <hw>Ham</hw> <pr>(h<acr/m)</pr>, <pos>v. i.</pos> <fld>(Theater)</fld> <def>To act with exaggerated voice and gestures; to overact.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>ham it up</b></col> <cd>to act in a showy fashion or to act so as to attract attention; to ham.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>ham it up</col> <cd>to act in a showy fashion or to act so as to attract attention; to ham.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hamadryad</ent><br/
@@ -2812,7 +2812,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <hw>Ham"burg</hw> <pr>(-b<ucir/rg)</pr>, <pos>n.</pos> <def>A commercial city of Germany, near the mouth of the Elbe.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Black Hamburg grape</b></col>. <cd>See under <er>Black</er>.</cd> -- <col><b>Hamburg edging</b></col>, <cd>a kind of embroidered work done by machinery on cambric or muslin; -- used for trimming.</cd> -- <col><b>Hamburg lake</b></col>, <cd>a purplish crimson pigment resembling cochineal.</cd></cs><br/
+<p><cs><col>Black Hamburg grape</col>. <cd>See under <er>Black</er>.</cd> -- <col>Hamburg edging</col>, <cd>a kind of embroidered work done by machinery on cambric or muslin; -- used for trimming.</cd> -- <col>Hamburg lake</col>, <cd>a purplish crimson pigment resembling cochineal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hame</ent><br/
@@ -2872,7 +2872,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <hw>Ham*it"ic</hw> <pr>(h<acr/m*<icr/t"<icr/k)</pr>, <pos>a.</pos> <def>Pertaining to Ham or his descendants.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hamitic languages</b></col>, <cd>the group of languages spoken mainly in the Sahara, Egypt, Galla, and Som<acir/li Land, and supposed to be allied to the Semitic.</cd>  <rj><au>Keith Johnston.</au></rj></cs><br/
+<p><cs><col>Hamitic languages</col>, <cd>the group of languages spoken mainly in the Sahara, Egypt, Galla, and Som<acir/li Land, and supposed to be allied to the Semitic.</cd>  <rj><au>Keith Johnston.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamlet</ent><br/
@@ -2904,7 +2904,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <p><sn>3.</sn> <fld>(Athletics)</fld> <def>A spherical weight attached to a flexible handle and hurled from a mark or ring. The weight of head and handle is usually not less than 16 pounds.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Atmospheric hammer</b></col>, <cd>a dead-stroke hammer in which the spring is formed by confined air.</cd> -- <mcol><col><b>Drop hammer</b></col>, <col><b>Face hammer</b></col>, etc.</mcol> <cd>See under <er>Drop</er>, <er>Face</er>, etc.</cd> -- <col><b>Hammer fish</b></col>. <cd>See <er>Hammerhead</er>.</cd> -- <col><b>Hammer hardening</b></col>, <cd>the process of hardening metal by hammering it when cold.</cd> -- <col><b>Hammer shell</b></col> <fld>(Zool.)</fld>, <cd>any species of <gen>Malleus</gen>, a genus of marine bivalve shells, allied to the pearl oysters, having the wings narrow and elongated, so as to give them a hammer-shaped outline; -- called also <altname>hammer oyster</altname>.</cd> -- <col><b>To bring to the hammer</b></col>, <cd>to put up at auction.</cd></cs><br/
+<p><cs><col>Atmospheric hammer</col>, <cd>a dead-stroke hammer in which the spring is formed by confined air.</cd> -- <mcol><col>Drop hammer</col>, <col>Face hammer</col>, etc.</mcol> <cd>See under <er>Drop</er>, <er>Face</er>, etc.</cd> -- <col>Hammer fish</col>. <cd>See <er>Hammerhead</er>.</cd> -- <col>Hammer hardening</col>, <cd>the process of hardening metal by hammering it when cold.</cd> -- <col>Hammer shell</col> <fld>(Zool.)</fld>, <cd>any species of <gen>Malleus</gen>, a genus of marine bivalve shells, allied to the pearl oysters, having the wings narrow and elongated, so as to give them a hammer-shaped outline; -- called also <altname>hammer oyster</altname>.</cd> -- <col>To bring to the hammer</col>, <cd>to put up at auction.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hammer</ent><br/
@@ -3005,7 +3005,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <p><sn>2.</sn> <def>A piece of land thickly wooded, and usually covered with bushes and vines. Used also adjectively; <as>as, <ex>hammock</ex> land</as>.</def> <mark>[Southern U. S.]</mark>  <rj><au>Bartlett.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hammock nettings</b></col> <fld>(Naut.)</fld>, <cd>formerly, nets for stowing hammocks; now, more often, wooden boxes or a trough on the rail, used for that purpose.</cd></cs></p>
+<p><cs><col>Hammock nettings</col> <fld>(Naut.)</fld>, <cd>formerly, nets for stowing hammocks; now, more often, wooden boxes or a trough on the rail, used for that purpose.</cd></cs></p>
 
 <p><ent>Hamous</ent><br/
 <ent>Hamose</ent><br/
@@ -3037,7 +3037,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>Articles ordinarily indispensable, but in the way at certain times.</def>  <rj><au>Ham. Nav. Encyc.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Top hamper</b></col> <fld>(Naut.)</fld>, <cd>unnecessary spars and rigging kept aloft.</cd></cs><br/
+<p><cs><col>Top hamper</col> <fld>(Naut.)</fld>, <cd>unnecessary spars and rigging kept aloft.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hamshackle</ent><br/
@@ -3097,7 +3097,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 <hw>Han"a*per</hw> <pr>(-<adot/*p<etil/r)</pr>, <pos>n.</pos> <ety>[LL. <ets>hanaperium</ets> a large vase, fr. <ets>hanapus</ets> vase, bowl, cup (whence F. <ets>hanap</ets>); of German origin; cf. OHG. <ets>hnapf</ets>, G. <ets>napf</ets>, akin to AS. <ets>hn<ae/p</ets> cup, bowl.  Cf. <er>Hamper</er>, <er>Nappy</er>, <pos>n.</pos>]</ety> <def>A kind of basket, usually of wickerwork, and adapted for the packing and carrying of articles; a hamper.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hanaper office</b></col>, <cd>an office of the English court of chancery in which writs relating to the business of the public, and the returns to them, were anciently kept in a hanaper or hamper.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
+<p><cs><col>Hanaper office</col>, <cd>an office of the English court of chancery in which writs relating to the business of the public, and the returns to them, were anciently kept in a hanaper or hamper.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hance</ent><br/
@@ -3188,19 +3188,19 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><note><hand/ <xex>Hand</xex> is often used adjectively or in compounds (with or without the hyphen), signifying <xex>performed by the hand</xex>; as, <xex>hand</xex> blow or <xex>hand</xex>-blow, <xex>hand</xex> gripe or <xex>hand</xex>-gripe: <xex>used by</xex>, or <xex>designed for</xex>, <xex>the hand</xex>; as, <xex>hand</xex> ball or <xex>hand</xex>ball, <xex>hand</xex> bow, <xex>hand</xex> fetter, <xex>hand</xex> grenade or <xex>hand</xex>-grenade, <xex>hand</xex>gun or <xex>hand</xex> gun, <xex>hand</xex>loom or <xex>hand</xex> loom, <xex>hand</xex>mill or <xex>hand</xex> organ or <xex>hand</xex>organ, <xex>hand</xex>saw or <xex>hand</xex> saw, <xex>hand</xex>-weapon: <xex>measured</xex> or <xex>regulated by the hand</xex>; as, <xex>hand</xex>breadth or <xex>hand's</xex> breadth, <xex>hand</xex> gallop or <xex>hand</xex>-gallop. Most of the words in the following paragraph are written either as two words or in combination.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hand bag</b></col>, <cd>a satchel; a small bag for carrying books, papers, parcels, etc.</cd> -- <col><b>Hand basket</b></col>, <cd>a small or portable basket.</cd> -- <col><b>Hand bell</b></col>, <cd>a small bell rung by the hand; a table bell.</cd> <au>Bacon.</au> -- <col><b>Hand bill</b></col>, <cd>a small pruning hook. See 4th <er>Bill</er>.</cd> -- <col><b>Hand car</b></col>. <cd>See under <er>Car</er>.</cd> -- <col><b>Hand director</b></col> <fld>(Mus.)</fld>, <cd>an instrument to aid in forming a good position of the hands and arms when playing on the piano; a hand guide.</cd> -- <col><b>Hand drop</b></col>. <cd>See <er>Wrist drop</er>.</cd> -- <col><b>Hand gallop</b></col>. <cd>See under <er>Gallop</er>.</cd> -- <col><b>Hand gear</b></col> <fld>(Mach.)</fld>, <cd>apparatus by means of which a machine, or parts of a machine, usually operated by other power, may be operated by hand.</cd> -- <col><b>Hand glass</b></col>. <sd>(a)</sd> <cd>A glass or small glazed frame, for the protection of plants.</cd> <sd>(b)</sd> <cd>A small mirror with a handle.</cd> -- <col><b>Hand guide</b></col>. <cd>Same as <cref>Hand director</cref> (above).</cd> -- <col><b>Hand language</b></col>, <cd>the art of conversing by the hands, esp. as practiced by the deaf and dumb; dactylology.</cd> -- <col><b>Hand lathe</b></col>. <cd>See under <er>Lathe</er>.</cd> -- <col><b>Hand money</b></col>, <cd>money paid in hand to bind a contract; earnest money.</cd> -- <col><b>Hand organ</b></col> <fld>(Mus.)</fld>, <cd>a barrel organ, operated by a crank turned by hand.</cd> -- <col><b>Hand plant</b></col>. <fld>(Bot.)</fld> <cd>Same as <cref>Hand tree</cref> (below). -- <er>Hand rail</er>, a rail, as in staircases, to hold by.</cd> <au>Gwilt.</au> -- <col><b>Hand sail</b></col>, <cd>a sail managed by the hand.</cd> <au>Sir W. Temple.</au> -- <col><b>Hand screen</b></col>, <cd>a small screen to be held in the hand.</cd> -- <col><b>Hand screw</b></col>, <cd>a small jack for raising heavy timbers or weights</cd>; <fld>(Carp.)</fld> <cd>a screw clamp.</cd> -- <col><b>Hand staff</b></col> <plu>(pl. <plw>Hand staves</plw>)</plu>, <cd>a javelin.</cd> <au>Ezek. xxxix. 9.</au> -- <col><b>Hand stamp</b></col>, <cd>a small stamp for dating, addressing, or canceling papers, envelopes, etc.</cd> -- <col><b>Hand tree</b></col> <fld>(Bot.)</fld>, <cd>a lofty tree found in Mexico (<spn>Cheirostemon platanoides</spn>), having red flowers whose stamens unite in the form of a hand.</cd> -- <col><b>Hand vise</b></col>, <cd>a small vise held in the hand in doing small work.</cd> <au>Moxon.</au> -- <mcol><col><b>Hand work</b></col>, <it>or</it> <col><b>Handwork</b></col></mcol>, <cd>work done with the hands, as distinguished from work done by a machine; handiwork.</cd>  -- <col><b>All hands</b></col>, <cd>everybody; all parties.</cd> -- <mcol><col><b>At all hands</b></col>, <col><b>On all hands</b></col></mcol>, <cd>on all sides; from every direction; generally.</cd> -- <mcol><col><b>At any hand</b></col>, <col><b>At no hand</b></col></mcol>, <cd>in any (or no) way or direction; on any account; on no account.</cd> <ldquo/And therefore <xex>at no hand</xex> consisting with the safety and interests of humility.<rdquo/ <au>Jer. Taylor.</au> -- <mcol><col><b>At first hand</b></col>, <col><b>At second hand</b></col></mcol>. <cd>See def. 10 (above).</cd> -- <col><b>At hand</b></col>. <sd>(a)</sd> <cd>Near in time or place; either present and within reach, or not far distant.</cd> <ldquo/Your husband is <xex>at hand</xex>; I hear his trumpet.<rdquo/ <au>Shak.</au> <sd>(b)</sd> <cd>Under the hand or bridle.</cd> <mark>[Obs.]</mark> <ldquo/Horses hot <xex>at hand</xex>.<rdquo/ <au>Shak.</au> -- <col><b>At the hand of</b></col>, <cd>by the act of; as a gift from.</cd> <ldquo/Shall we receive good <xex>at the hand of</xex> God and shall we not receive evil?<rdquo/ <au>Job ii. 10.</au> -- <col><b>Bridle hand</b></col>. <cd>See under <er>Bridle</er>.</cd> -- <col><b>By hand</b></col>, <cd>with the hands, in distinction from instrumentality of tools, engines, or animals; as, to weed a garden <xex>by hand</xex>; to lift, draw, or carry <xex>by hand</xex>.</cd> -- <col><b>Clean hands</b></col>, <cd>freedom from guilt, esp. from the guilt of dishonesty in money matters, or of bribe taking.</cd> <ldquo/He that hath <xex>clean hands</xex> shall be stronger and stronger.<rdquo/ <au>Job xvii. 9.</au> -- <col><b>From hand to hand</b></col>, <cd>from one person to another.</cd> -- <col><b>Hand in hand</b></col>. <sd>(a)</sd> <cd>In union; conjointly; unitedly.</cd> <au>Swift.</au> <sd>(b)</sd> <cd>Just; fair; equitable.</cd><br/
+<p><cs><col>Hand bag</col>, <cd>a satchel; a small bag for carrying books, papers, parcels, etc.</cd> -- <col>Hand basket</col>, <cd>a small or portable basket.</cd> -- <col>Hand bell</col>, <cd>a small bell rung by the hand; a table bell.</cd> <au>Bacon.</au> -- <col>Hand bill</col>, <cd>a small pruning hook. See 4th <er>Bill</er>.</cd> -- <col>Hand car</col>. <cd>See under <er>Car</er>.</cd> -- <col>Hand director</col> <fld>(Mus.)</fld>, <cd>an instrument to aid in forming a good position of the hands and arms when playing on the piano; a hand guide.</cd> -- <col>Hand drop</col>. <cd>See <er>Wrist drop</er>.</cd> -- <col>Hand gallop</col>. <cd>See under <er>Gallop</er>.</cd> -- <col>Hand gear</col> <fld>(Mach.)</fld>, <cd>apparatus by means of which a machine, or parts of a machine, usually operated by other power, may be operated by hand.</cd> -- <col>Hand glass</col>. <sd>(a)</sd> <cd>A glass or small glazed frame, for the protection of plants.</cd> <sd>(b)</sd> <cd>A small mirror with a handle.</cd> -- <col>Hand guide</col>. <cd>Same as <cref>Hand director</cref> (above).</cd> -- <col>Hand language</col>, <cd>the art of conversing by the hands, esp. as practiced by the deaf and dumb; dactylology.</cd> -- <col>Hand lathe</col>. <cd>See under <er>Lathe</er>.</cd> -- <col>Hand money</col>, <cd>money paid in hand to bind a contract; earnest money.</cd> -- <col>Hand organ</col> <fld>(Mus.)</fld>, <cd>a barrel organ, operated by a crank turned by hand.</cd> -- <col>Hand plant</col>. <fld>(Bot.)</fld> <cd>Same as <cref>Hand tree</cref> (below). -- <er>Hand rail</er>, a rail, as in staircases, to hold by.</cd> <au>Gwilt.</au> -- <col>Hand sail</col>, <cd>a sail managed by the hand.</cd> <au>Sir W. Temple.</au> -- <col>Hand screen</col>, <cd>a small screen to be held in the hand.</cd> -- <col>Hand screw</col>, <cd>a small jack for raising heavy timbers or weights</cd>; <fld>(Carp.)</fld> <cd>a screw clamp.</cd> -- <col>Hand staff</col> <plu>(pl. <plw>Hand staves</plw>)</plu>, <cd>a javelin.</cd> <au>Ezek. xxxix. 9.</au> -- <col>Hand stamp</col>, <cd>a small stamp for dating, addressing, or canceling papers, envelopes, etc.</cd> -- <col>Hand tree</col> <fld>(Bot.)</fld>, <cd>a lofty tree found in Mexico (<spn>Cheirostemon platanoides</spn>), having red flowers whose stamens unite in the form of a hand.</cd> -- <col>Hand vise</col>, <cd>a small vise held in the hand in doing small work.</cd> <au>Moxon.</au> -- <mcol><col>Hand work</col>, <it>or</it> <col>Handwork</col></mcol>, <cd>work done with the hands, as distinguished from work done by a machine; handiwork.</cd>  -- <col>All hands</col>, <cd>everybody; all parties.</cd> -- <mcol><col>At all hands</col>, <col>On all hands</col></mcol>, <cd>on all sides; from every direction; generally.</cd> -- <mcol><col>At any hand</col>, <col>At no hand</col></mcol>, <cd>in any (or no) way or direction; on any account; on no account.</cd> <ldquo/And therefore <xex>at no hand</xex> consisting with the safety and interests of humility.<rdquo/ <au>Jer. Taylor.</au> -- <mcol><col>At first hand</col>, <col>At second hand</col></mcol>. <cd>See def. 10 (above).</cd> -- <col>At hand</col>. <sd>(a)</sd> <cd>Near in time or place; either present and within reach, or not far distant.</cd> <ldquo/Your husband is <xex>at hand</xex>; I hear his trumpet.<rdquo/ <au>Shak.</au> <sd>(b)</sd> <cd>Under the hand or bridle.</cd> <mark>[Obs.]</mark> <ldquo/Horses hot <xex>at hand</xex>.<rdquo/ <au>Shak.</au> -- <col>At the hand of</col>, <cd>by the act of; as a gift from.</cd> <ldquo/Shall we receive good <xex>at the hand of</xex> God and shall we not receive evil?<rdquo/ <au>Job ii. 10.</au> -- <col>Bridle hand</col>. <cd>See under <er>Bridle</er>.</cd> -- <col>By hand</col>, <cd>with the hands, in distinction from instrumentality of tools, engines, or animals; as, to weed a garden <xex>by hand</xex>; to lift, draw, or carry <xex>by hand</xex>.</cd> -- <col>Clean hands</col>, <cd>freedom from guilt, esp. from the guilt of dishonesty in money matters, or of bribe taking.</cd> <ldquo/He that hath <xex>clean hands</xex> shall be stronger and stronger.<rdquo/ <au>Job xvii. 9.</au> -- <col>From hand to hand</col>, <cd>from one person to another.</cd> -- <col>Hand in hand</col>. <sd>(a)</sd> <cd>In union; conjointly; unitedly.</cd> <au>Swift.</au> <sd>(b)</sd> <cd>Just; fair; equitable.</cd><br/
 <br/
 <q>As fair and as good, a kind of <qex>hand in hand</qex> comparison.</q> <rj><qau>Shak.</qau></rj><br/
 <br/
-  -- <mcol><col><b>Hand over hand</b></col>, <col><b>Hand over fist</b></col></mcol>, <cd>by passing the hands alternately one before or above another; as, to climb <xex>hand over hand</xex>; also, rapidly; as, to come up with a chase <xex>hand over hand</xex>.</cd> -- <col><b>Hand over head</b></col>, <cd>negligently; rashly; without seeing what one does.</cd> <mark>[Obs.]</mark> <au>Bacon.</au> -- <col><b>Hand running</b></col>, <cd>consecutively; <as>as, he won ten times <ex>hand running</ex></as>.</cd> -- <col><b>Hands off!</b></col> <cd>keep off! forbear! no interference or meddling!</cd> -- <col><b>Hand to hand</b></col>, <cd>in close union; in close fight; <as>as, a <ex>hand to hand</ex> contest</as>.</cd> <au>Dryden.</au> -- <col><b>Heavy hand</b></col>, <cd>severity or oppression.</cd> -- <col><b>In hand</b></col>. <sd>(a)</sd> <cd>Paid down.</cd> <ldquo/A considerable reward <xex>in hand</xex>, and . . . a far greater reward hereafter.<rdquo/ <au>Tillotson.</au> <sd>(b)</sd> <cd>In preparation; taking place.</cd> <au>Chaucer.</au> <ldquo/Revels . . . in <xex>hand</xex>.<rdquo/ <au>Shak.</au> <sd>(c)</sd> <cd>Under consideration, or in the course of transaction; <as>as, he has the business <ex>in hand</ex></as>.</cd> -- <mcol><col><b>In one's hand</b></col> <it>or</it> <col><b>In one's hands</b></col></mcol>. <sd>(a)</sd> <cd>In one's possession or keeping.</cd> <sd>(b)</sd> <cd>At one's risk, or peril; <as>as, I took my life <ex>in my hand</ex></as>.</cd> -- <col><b>Laying on of hands</b></col>, <cd>a form used in consecrating to office, in the rite of confirmation, and in blessing persons.</cd> -- <col><b>Light hand</b></col>, <cd>gentleness; moderation.</cd> -- <col><b>Note of hand</b></col>, <cd>a promissory note.</cd> -- <mcol><col><b>Off hand</b></col>, <col><b>Out of hand</b></col></mcol>, <cd>forthwith; without delay, hesitation, or difficulty; promptly.</cd> <ldquo/She causeth them to be hanged up <xex>out of hand</xex>.<rdquo/ <au>Spenser.</au> -- <col><b>Off one's hands</b></col>, <cd>out of one's possession or care.</cd> -- <col><b>On hand</b></col>, <cd>in present possession; as, he has a supply of goods <xex>on hand</xex>.</cd> -- <col><b>On one's hands</b></col>, <cd>in one's possession care, or management.</cd> -- <col><b>Putting the hand under the thigh</b></col>, <cd>an ancient Jewish ceremony used in swearing.</cd> -- <col><b>Right hand</b></col>, <cd>the place of honor, power, and strength.</cd> -- <col><b>Slack hand</b></col>, <cd>idleness; carelessness; inefficiency; sloth.</cd> -- <col><b>Strict hand</b></col>, <cd>severe discipline; rigorous government.</cd> -- <col><b>To bear a hand</b></col> <fld>(Naut.)</fld>, <cd>to give help quickly; to hasten.</cd> -- <col><b>To bear in hand</b></col>, <cd>to keep in expectation with false pretenses.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <mcol><col><b>To be hand and glove with</b></col> <it>or</it> <col><b>To be hand in glove with</b></col></mcol>. <cd>See under <er>Glove</er>.</cd> -- <col><b>To be on the mending hand</b></col>, <cd>to be convalescent or improving.</cd> -- <col><b>To bring up by hand</b></col>, <cd>to feed (an infant) without suckling it.</cd> -- <col><b>To change hand</b></col>. <cd>See <er>Change</er>.</cd> -- <col><b>To change hands</b></col>, <cd>to change sides, or change owners.</cd> <au>Hudibras.</au> -- <col><b>To clap the hands</b></col>, <cd>to express joy or applause, as by striking the palms of the hands together.</cd> -- <col><b>To come to hand</b></col>, <cd>to be received; to be taken into possession; as, the letter <xex>came to hand</xex> yesterday.</cd> -- <col><b>To get hand</b></col>, <cd>to gain influence.</cd> <mark>[Obs.]</mark><br/
+  -- <mcol><col>Hand over hand</col>, <col>Hand over fist</col></mcol>, <cd>by passing the hands alternately one before or above another; as, to climb <xex>hand over hand</xex>; also, rapidly; as, to come up with a chase <xex>hand over hand</xex>.</cd> -- <col>Hand over head</col>, <cd>negligently; rashly; without seeing what one does.</cd> <mark>[Obs.]</mark> <au>Bacon.</au> -- <col>Hand running</col>, <cd>consecutively; <as>as, he won ten times <ex>hand running</ex></as>.</cd> -- <col>Hands off!</col> <cd>keep off! forbear! no interference or meddling!</cd> -- <col>Hand to hand</col>, <cd>in close union; in close fight; <as>as, a <ex>hand to hand</ex> contest</as>.</cd> <au>Dryden.</au> -- <col>Heavy hand</col>, <cd>severity or oppression.</cd> -- <col>In hand</col>. <sd>(a)</sd> <cd>Paid down.</cd> <ldquo/A considerable reward <xex>in hand</xex>, and . . . a far greater reward hereafter.<rdquo/ <au>Tillotson.</au> <sd>(b)</sd> <cd>In preparation; taking place.</cd> <au>Chaucer.</au> <ldquo/Revels . . . in <xex>hand</xex>.<rdquo/ <au>Shak.</au> <sd>(c)</sd> <cd>Under consideration, or in the course of transaction; <as>as, he has the business <ex>in hand</ex></as>.</cd> -- <mcol><col>In one's hand</col> <it>or</it> <col>In one's hands</col></mcol>. <sd>(a)</sd> <cd>In one's possession or keeping.</cd> <sd>(b)</sd> <cd>At one's risk, or peril; <as>as, I took my life <ex>in my hand</ex></as>.</cd> -- <col>Laying on of hands</col>, <cd>a form used in consecrating to office, in the rite of confirmation, and in blessing persons.</cd> -- <col>Light hand</col>, <cd>gentleness; moderation.</cd> -- <col>Note of hand</col>, <cd>a promissory note.</cd> -- <mcol><col>Off hand</col>, <col>Out of hand</col></mcol>, <cd>forthwith; without delay, hesitation, or difficulty; promptly.</cd> <ldquo/She causeth them to be hanged up <xex>out of hand</xex>.<rdquo/ <au>Spenser.</au> -- <col>Off one's hands</col>, <cd>out of one's possession or care.</cd> -- <col>On hand</col>, <cd>in present possession; as, he has a supply of goods <xex>on hand</xex>.</cd> -- <col>On one's hands</col>, <cd>in one's possession care, or management.</cd> -- <col>Putting the hand under the thigh</col>, <cd>an ancient Jewish ceremony used in swearing.</cd> -- <col>Right hand</col>, <cd>the place of honor, power, and strength.</cd> -- <col>Slack hand</col>, <cd>idleness; carelessness; inefficiency; sloth.</cd> -- <col>Strict hand</col>, <cd>severe discipline; rigorous government.</cd> -- <col>To bear a hand</col> <fld>(Naut.)</fld>, <cd>to give help quickly; to hasten.</cd> -- <col>To bear in hand</col>, <cd>to keep in expectation with false pretenses.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <mcol><col>To be hand and glove with</col> <it>or</it> <col>To be hand in glove with</col></mcol>. <cd>See under <er>Glove</er>.</cd> -- <col>To be on the mending hand</col>, <cd>to be convalescent or improving.</cd> -- <col>To bring up by hand</col>, <cd>to feed (an infant) without suckling it.</cd> -- <col>To change hand</col>. <cd>See <er>Change</er>.</cd> -- <col>To change hands</col>, <cd>to change sides, or change owners.</cd> <au>Hudibras.</au> -- <col>To clap the hands</col>, <cd>to express joy or applause, as by striking the palms of the hands together.</cd> -- <col>To come to hand</col>, <cd>to be received; to be taken into possession; as, the letter <xex>came to hand</xex> yesterday.</cd> -- <col>To get hand</col>, <cd>to gain influence.</cd> <mark>[Obs.]</mark><br/
 <br/
 <q>Appetites have . . . <qex>got</qex> such a <qex>hand</qex> over them.</q> <rj><qau>Baxter.</qau></rj><br/
 <br/
-  -- <col><b>To get one's hand in</b></col>, <cd>to make a beginning in a certain work; to become accustomed to a particular business.</cd> -- <col><b>To have a hand in</b></col>, <cd>to be concerned in; to have a part or concern in doing; to have an agency or be employed in.</cd> -- <col><b>To have in hand</b></col>. <sd>(a)</sd> <cd>To have in one's power or control.</cd> <au>Chaucer.</au> <sd>(b)</sd> <cd>To be engaged upon or occupied with.</cd> -- <col><b>To have one's hands full</b></col>, <cd>to have in hand all that one can do, or more than can be done conveniently; to be pressed with labor or engagements; to be surrounded with difficulties.</cd> -- <mcol><col><b>To have the (higher) upper hand</b></col>,  <it>or</it> <col><b>To get the (higher) upper hand</b></col></mcol>, <cd>to have, or get, the better of another person or thing.</cd> -- <mcol><col><b>To his hand</b></col>, <col><b>To my hand</b></col>, etc.</mcol>, <cd>in readiness; already prepared.</cd> <ldquo/The work is made <xex>to his hands</xex>.<rdquo/ <au>Locke.</au> -- <col><b>To hold hand</b></col>, <cd>to compete successfully or on even conditions.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col><b>To lay hands on</b></col>, <cd>to seize; to assault.</cd> -- <col><b>To lend a hand</b></col>, <cd>to give assistance.</cd> -- <mcol><col><b>To lift the hand against</b></col>,  <it>or</it> <col><b>To put forth the hand against</b></col></mcol>, <cd>to attack; to oppose; to kill.</cd> -- <col><b>To live from hand to mouth</b></col>, <cd>to obtain food and other necessaries as want compels, without previous provision.</cd> -- <col><b>To make one's hand</b></col>, <cd>to gain advantage or profit.</cd> -- <col><b>To put the hand unto</b></col>, <cd>to steal.</cd> <au>Ex. xxii. 8.</au> -- <mcol><col><b>To put the last hand to</b></col> <it>or</it> <col><b>To put the finishing hand to</b></col></mcol>, <cd>to make the last corrections in; to complete; to perfect.</cd> -- <col><b>To set the hand to</b></col>, <cd>to engage in; to undertake.</cd><br/
+  -- <col>To get one's hand in</col>, <cd>to make a beginning in a certain work; to become accustomed to a particular business.</cd> -- <col>To have a hand in</col>, <cd>to be concerned in; to have a part or concern in doing; to have an agency or be employed in.</cd> -- <col>To have in hand</col>. <sd>(a)</sd> <cd>To have in one's power or control.</cd> <au>Chaucer.</au> <sd>(b)</sd> <cd>To be engaged upon or occupied with.</cd> -- <col>To have one's hands full</col>, <cd>to have in hand all that one can do, or more than can be done conveniently; to be pressed with labor or engagements; to be surrounded with difficulties.</cd> -- <mcol><col>To have the (higher) upper hand</col>,  <it>or</it> <col>To get the (higher) upper hand</col></mcol>, <cd>to have, or get, the better of another person or thing.</cd> -- <mcol><col>To his hand</col>, <col>To my hand</col>, etc.</mcol>, <cd>in readiness; already prepared.</cd> <ldquo/The work is made <xex>to his hands</xex>.<rdquo/ <au>Locke.</au> -- <col>To hold hand</col>, <cd>to compete successfully or on even conditions.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col>To lay hands on</col>, <cd>to seize; to assault.</cd> -- <col>To lend a hand</col>, <cd>to give assistance.</cd> -- <mcol><col>To lift the hand against</col>,  <it>or</it> <col>To put forth the hand against</col></mcol>, <cd>to attack; to oppose; to kill.</cd> -- <col>To live from hand to mouth</col>, <cd>to obtain food and other necessaries as want compels, without previous provision.</cd> -- <col>To make one's hand</col>, <cd>to gain advantage or profit.</cd> -- <col>To put the hand unto</col>, <cd>to steal.</cd> <au>Ex. xxii. 8.</au> -- <mcol><col>To put the last hand to</col> <it>or</it> <col>To put the finishing hand to</col></mcol>, <cd>to make the last corrections in; to complete; to perfect.</cd> -- <col>To set the hand to</col>, <cd>to engage in; to undertake.</cd><br/
 <br/
 <q>That the Lord thy God may bless thee in all that thou <qex>settest thine hand to</qex>.</q> <rj><qau>Deut. xxiii. 20.</qau></rj><br/
 <br/
-  -- <col><b>To stand one in hand</b></col>, <cd>to concern or affect one.</cd> -- <col><b>To strike hands</b></col>, <cd>to make a contract, or to become surety for another's debt or good behavior.</cd> -- <col><b>To take in hand</b></col>. <sd>(a)</sd> <cd>To attempt or undertake</cd>. <sd>(b)</sd> <cd>To seize and deal with; as, he <xex>took</xex> him <xex>in hand</xex>.</cd> -- <col><b>To wash the hands of</b></col>, <cd>to disclaim or renounce interest in, or responsibility for, a person or action; as, <xex>to wash one's hands of</xex> a business.</cd> <au>Matt. xxvii. 24.</au> -- <col><b>Under the hand of</b></col>, <cd>authenticated by the handwriting or signature of; <as>as, the deed is executed <ex>under the hand</ex> and seal <ex>of</ex> the owner</as>.</cd></cs><br/
+  -- <col>To stand one in hand</col>, <cd>to concern or affect one.</cd> -- <col>To strike hands</col>, <cd>to make a contract, or to become surety for another's debt or good behavior.</cd> -- <col>To take in hand</col>. <sd>(a)</sd> <cd>To attempt or undertake</cd>. <sd>(b)</sd> <cd>To seize and deal with; as, he <xex>took</xex> him <xex>in hand</xex>.</cd> -- <col>To wash the hands of</col>, <cd>to disclaim or renounce interest in, or responsibility for, a person or action; as, <xex>to wash one's hands of</xex> a business.</cd> <au>Matt. xxvii. 24.</au> -- <col>Under the hand of</col>, <cd>authenticated by the handwriting or signature of; <as>as, the deed is executed <ex>under the hand</ex> and seal <ex>of</ex> the owner</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hand</ent><br/
@@ -3226,7 +3226,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>6.</sn> <fld>(Naut.)</fld> <def>To furl; -- said of a sail.</def>  <rj><au>Totten.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hand down</b></col>, <cd>to transmit in succession, as from father to son, or from predecessor to successor; as, fables are <xex>handed down</xex> from age to age; to forward to the proper officer (the decision of a higher court); as, the Clerk of the Court of Appeals <xex>handed down</xex> its decision.</cd> -- <col><b>To hand over</b></col>, <cd>to yield control of; to surrender; to deliver up.</cd></cs><br/
+<p><cs><col>To hand down</col>, <cd>to transmit in succession, as from father to son, or from predecessor to successor; as, fables are <xex>handed down</xex> from age to age; to forward to the proper officer (the decision of a higher court); as, the Clerk of the Court of Appeals <xex>handed down</xex> its decision.</cd> -- <col>To hand over</col>, <cd>to yield control of; to surrender; to deliver up.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hand</ent><br/
@@ -3259,7 +3259,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <syn><b>Syn. --</b> basket.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><col><b>go to hell in a handbasket</b></col> <cd>to deteriorate substantially and quickly; <as>as, after they lost the contract, the company's profits <ex>went to hell in a handbasket</ex></as>.</cd><br/
+<p><col>go to hell in a handbasket</col> <cd>to deteriorate substantially and quickly; <as>as, after they lost the contract, the company's profits <ex>went to hell in a handbasket</ex></as>.</cd><br/
 [<source>PJC</source>]</p>
 
 <p><ent>handbell</ent><br/
@@ -3422,7 +3422,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>4.</sn> <def>A person, task, or situation, which is the most that one can manage; <as>as, my two-year-old is a <ex>handful</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To have one's handful</b></col>, <cd>to have one's hands full; to have all one can do.</cd> <mark>[Obs.]</mark></cs><br/
+<p><cs><col>To have one's handful</col>, <cd>to have one's hands full; to have all one can do.</cd> <mark>[Obs.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>They <qex>had their handful</qex> to defend themselves from firing.</q> <rj><qau>Sir. W. Raleigh.</qau></rj><br/
@@ -3432,7 +3432,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <hw>hand"-hole`</hw> <pr>(h<acr/nd"h<omac/l`)</pr>, <pos>n.</pos> <fld>(Steam Boilers)</fld> <def>A small hole in a boiler for the insertion of the hand in cleaning, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hand-hole plate</b></col>, <cd>the cover of a hand-hole.</cd></cs><br/
+<p><cs><col>Hand-hole plate</col>, <cd>the cover of a hand-hole.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>handicap</ent><br/
@@ -3553,7 +3553,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><q>We will <qex>handle</qex> what persons are apt to envy others.</q> <rj><qau>Bacon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To handle without gloves</b></col>. <cd>See under <er>Glove</er>.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To handle without gloves</col>. <cd>See under <er>Glove</er>.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Handle</ent><br/
@@ -3570,7 +3570,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>2.</sn> <def>That of which use is made; the instrument for effecting a purpose; a tool.</def>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To give a handle</b></col>, <cd>to furnish an occasion or means.</cd></cs><br/
+<p><cs><col>To give a handle</col>, <cd>to furnish an occasion or means.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Handleable</ent><br/
@@ -3722,7 +3722,7 @@ Are but the <qex>handsels</qex> of our joys hereafter.</q> <rj><qau>Herrick.</qa
 <p><sn>2.</sn> <def>Price; payment.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Handsel Monday</b></col>, <cd>the first Monday of the new year, when <xex>handsels</xex> or presents are given to servants, children, etc.</cd></cs><br/
+<p><cs><col>Handsel Monday</col>, <cd>the first Monday of the new year, when <xex>handsels</xex> or presents are given to servants, children, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Handsel</ent><br/
@@ -3780,7 +3780,7 @@ Are but the <qex>handsels</qex> of our joys hereafter.</q> <rj><qau>Herrick.</qa
 <p><q>He . . . accumulated a <xex>handsome</xex> sum of money.</q> <rj><qau>V. Knox.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To do the handsome thing</b></col>, <cd>to act liberally.</cd> <mark>[Colloq.]</mark></cs></p>
+<p><cs><col>To do the handsome thing</col>, <cd>to act liberally.</cd> <mark>[Colloq.]</mark></cs></p>
 
 <p><syn><b>Syn.</b> -- <er>Handsome</er>, <er>Pretty</er>.</syn> <usage> <xex>Pretty</xex> applies to things comparatively small, which please by their delicacy and grace; as, a <xex>pretty</xex> girl, a <xex>pretty</xex> flower, a <xex>pretty</xex> cottage. <xex>Handsome</xex> rises higher, and is applied to objects on a larger scale.  We admire what is <xex>handsome</xex>, we are pleased with what is <xex>pretty</xex>.  The word is connected with <xex>hand</xex>, and has thus acquired the idea of training, cultivation, symmetry, and proportion, which enters so largely into our conception of <xex>handsome</xex>.  Thus Drayton makes mention of <xex>handsome</xex> players, meaning those who are well trained; and hence we speak of a man's having a <xex>handsome</xex> address, which is the result of culture; of a <xex>handsome</xex> horse or dog, which implies well proportioned limbs; of a <xex>handsome</xex> face, to which, among other qualities, the idea of proportion and a graceful contour are essential; of a <xex>handsome</xex> tree, and a <xex>handsome</xex> house or villa.  So, from this idea of proportion or suitableness, we have, with a different application, the expressions, a <xex>handsome</xex> fortune, a <xex>handsome</xex> offer.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -3853,7 +3853,7 @@ Are but the <qex>handsels</qex> of our joys hereafter.</q> <rj><qau>Herrick.</qa
 <p><sn>2.</sn> <def>That which is written by hand; manuscript.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The handwriting on the wall</b></col>, <cd>a doom pronounced; an omen of disaster.</cd>  <rj><au>Dan. v. 5.</au></rj></cs><br/
+<p><cs><col>The handwriting on the wall</col>, <cd>a doom pronounced; an omen of disaster.</cd>  <rj><au>Dan. v. 5.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hand-written</ent><br/
@@ -3932,7 +3932,7 @@ Are but the <qex>handsels</qex> of our joys hereafter.</q> <rj><qau>Herrick.</qa
 <p><sn>8.</sn> <def>To prevent from reaching a decision, esp. by refusing to join in a verdict that must be unanimous; <as>as, one obstinate juror can <ex>hang</ex> a jury</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To hang down</b></col>, <cd>to let fall below the proper position; to bend down; to decline; as, to <xex>hang down</xex> the head, or, elliptically, to <xex>hang</xex> the head.</cd> -- <col><b>To hang fire</b></col> <fld>(Mil.)</fld>, <cd>to be slow in communicating fire through the vent to the charge; as, the gun <xex>hangs fire</xex>; hence, to hesitate, to hold back as if in suspense.</cd></cs><br/
+<p><cs><col>To hang down</col>, <cd>to let fall below the proper position; to bend down; to decline; as, to <xex>hang down</xex> the head, or, elliptically, to <xex>hang</xex> the head.</cd> -- <col>To hang fire</col> <fld>(Mil.)</fld>, <cd>to be slow in communicating fire through the vent to the charge; as, the gun <xex>hangs fire</xex>; hence, to hesitate, to hold back as if in suspense.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hang</ent><br/
@@ -3986,7 +3986,7 @@ On the proud crest of Satan.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>12.</sn> <fld>(Computers)</fld> <def>to cease to operate normally and remain suspended in some state without performing useful work; -- said of computer programs, computers, or individual processes within a program; <as>as, when using Windows 3.1, my system would <ex>hang</ex> and need rebooting several times a day</as>.</def> <note>this situation could be caused by bugs within an operating system or within a program, or incompatibility between programs or between programs and the hardware.</note><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To hang around</b></col>, <cd>to loiter idly about.</cd> -- <col><b>To hang back</b></col>, <cd>to hesitate; to falter; to be reluctant.</cd> <ldquo/If any one among you <xex>hangs back</xex>.<rdquo/ <au>Jowett (Thucyd.).</au> -- <col><b>To hang by the eyelids</b></col>. <sd>(a)</sd> <cd>To hang by a very slight hold or tenure.</cd> <sd>(b)</sd> <cd>To be in an unfinished condition; to be left incomplete.</cd> -- <col><b>To hang in doubt</b></col>, <cd>to be in suspense.</cd> -- <col><b>To hang on</b></col><cd> (with the emphasis on the preposition), to keep hold; to hold fast; to stick; to be persistent, as a disease.</cd> -- <mcol><col><b>To hang on the lips</b></col> <col><b>To hang on the words</b></col>, etc.</mcol>, <cd>to be charmed by eloquence.</cd> -- <col><b>To hang out</b></col>. <sd>(a)</sd> <cd>To be hung out so as to be displayed; to project.</cd> <sd>(b)</sd> <cd>To be unyielding; <as>as, the juryman <ex>hangs out</ex> against an agreement</as>; to hold out.</cd> <mark>[Colloq.]</mark> <sd>(c)</sd> <cd>to loiter or lounge around a particular place; <as>as, teenageers tend to <ex>hang out</ex> at the mall these days</as>.</cd> -- <col><b>To hang over</b></col>. <sd>(a)</sd> <cd>To project at the top.</cd> <sd>(b)</sd> <cd>To impend over.</cd> -- <col><b>To hang to</b></col>, <cd>to cling.</cd> -- <col><b>To hang together</b></col>. <sd>(a)</sd> <cd>To remain united; to stand by one another.</cd> <ldquo/We are all of a piece; we <xex>hang together</xex>.<rdquo/ <au>Dryden.</au> <sd>(b)</sd> <cd>To be self-consistent; <as>as, the story does not <ex>hang together</ex></as>.</cd> <mark>[Colloq.]</mark> -- <col><b>To hang upon</b></col>. <sd>(a)</sd> <cd>To regard with passionate affection.</cd> <sd>(b)</sd> <fld>(Mil.)</fld> <cd>To hover around; <as>as, <ex>to hang upon</ex> the flanks of a retreating enemy</as>.</cd></cs><br/
+<p><cs><col>To hang around</col>, <cd>to loiter idly about.</cd> -- <col>To hang back</col>, <cd>to hesitate; to falter; to be reluctant.</cd> <ldquo/If any one among you <xex>hangs back</xex>.<rdquo/ <au>Jowett (Thucyd.).</au> -- <col>To hang by the eyelids</col>. <sd>(a)</sd> <cd>To hang by a very slight hold or tenure.</cd> <sd>(b)</sd> <cd>To be in an unfinished condition; to be left incomplete.</cd> -- <col>To hang in doubt</col>, <cd>to be in suspense.</cd> -- <col>To hang on</col><cd> (with the emphasis on the preposition), to keep hold; to hold fast; to stick; to be persistent, as a disease.</cd> -- <mcol><col>To hang on the lips</col> <col>To hang on the words</col>, etc.</mcol>, <cd>to be charmed by eloquence.</cd> -- <col>To hang out</col>. <sd>(a)</sd> <cd>To be hung out so as to be displayed; to project.</cd> <sd>(b)</sd> <cd>To be unyielding; <as>as, the juryman <ex>hangs out</ex> against an agreement</as>; to hold out.</cd> <mark>[Colloq.]</mark> <sd>(c)</sd> <cd>to loiter or lounge around a particular place; <as>as, teenageers tend to <ex>hang out</ex> at the mall these days</as>.</cd> -- <col>To hang over</col>. <sd>(a)</sd> <cd>To project at the top.</cd> <sd>(b)</sd> <cd>To impend over.</cd> -- <col>To hang to</col>, <cd>to cling.</cd> -- <col>To hang together</col>. <sd>(a)</sd> <cd>To remain united; to stand by one another.</cd> <ldquo/We are all of a piece; we <xex>hang together</xex>.<rdquo/ <au>Dryden.</au> <sd>(b)</sd> <cd>To be self-consistent; <as>as, the story does not <ex>hang together</ex></as>.</cd> <mark>[Colloq.]</mark> -- <col>To hang upon</col>. <sd>(a)</sd> <cd>To regard with passionate affection.</cd> <sd>(b)</sd> <fld>(Mil.)</fld> <cd>To hover around; <as>as, <ex>to hang upon</ex> the flanks of a retreating enemy</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hang</ent><br/
@@ -4001,7 +4001,7 @@ On the proud crest of Satan.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>A sharp or steep declivity or slope.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To get the hang of</b></col>, <cd>to learn the method or arrangement of; hence, to become accustomed to.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To get the hang of</col>, <cd>to learn the method or arrangement of; hence, to become accustomed to.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hangar</ent><br/
@@ -4055,7 +4055,7 @@ On the proud crest of Satan.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Adapted for sustaining a hanging object; <as>as, the <ex>hanging</ex> post of a gate, the post which holds the hinges</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hanging compass</b></col>, <cd>a compass suspended so that the card may be read from beneath.</cd> -- <col><b>Hanging garden</b></col>, <cd>a garden sustained at an artificial elevation by any means, as by the terraces at Babylon.</cd> -- <col><b>Hanging indentation</b></col>. <cd>See under <er>Indentation</er>.</cd> -- <col><b>Hanging rail</b></col> <fld>(Arch.)</fld>, <cd>that rail of a door or casement to which hinges are attached.</cd> -- <col><b>Hanging side</b></col> <fld>(Mining)</fld>, <cd>the overhanging side of an inclined or hading vein.</cd> -- <col><b>Hanging sleeves</b></col>. <sd>(a)</sd> <cd>Strips of the same stuff as the gown, hanging down the back from the shoulders.</cd> <sd>(b)</sd> <cd>Loose, flowing sleeves.</cd> -- <col><b>Hanging stile</b></col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>That stile of a door to which hinges are secured.</cd> <sd>(b)</sd> <cd>That upright of a window frame to which casements are hinged, or in which the pulleys for sash windows are fastened.</cd> -- <col><b>Hanging wall</b></col> <fld>(Mining)</fld>, <cd>the upper wall of inclined vein, or that which hangs over the miner's head when working in the vein.</cd></cs><br/
+<p><cs><col>Hanging compass</col>, <cd>a compass suspended so that the card may be read from beneath.</cd> -- <col>Hanging garden</col>, <cd>a garden sustained at an artificial elevation by any means, as by the terraces at Babylon.</cd> -- <col>Hanging indentation</col>. <cd>See under <er>Indentation</er>.</cd> -- <col>Hanging rail</col> <fld>(Arch.)</fld>, <cd>that rail of a door or casement to which hinges are attached.</cd> -- <col>Hanging side</col> <fld>(Mining)</fld>, <cd>the overhanging side of an inclined or hading vein.</cd> -- <col>Hanging sleeves</col>. <sd>(a)</sd> <cd>Strips of the same stuff as the gown, hanging down the back from the shoulders.</cd> <sd>(b)</sd> <cd>Loose, flowing sleeves.</cd> -- <col>Hanging stile</col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>That stile of a door to which hinges are secured.</cd> <sd>(b)</sd> <cd>That upright of a window frame to which casements are hinged, or in which the pulleys for sash windows are fastened.</cd> -- <col>Hanging wall</col> <fld>(Mining)</fld>, <cd>the upper wall of inclined vein, or that which hangs over the miner's head when working in the vein.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hanging</ent><br/
@@ -4191,14 +4191,14 @@ On the proud crest of Satan.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Hanse</hw>, <pos>n.</pos> <ety>[G. <ets>hanse</ets>, or F. <ets>hanse</ets> (from German), OHG. & Goth. <ets>hansa</ets>; akin to AS. <ets>h<omac/s</ets> band, troop.]</ety> <def>An association; a league or confederacy.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hanse towns</b></col> <fld>(Hist.)</fld>, <cd>certain commercial cities in Germany which associated themselves for the protection and enlarging of their commerce. The confederacy, called also <altname>Hansa</altname> and <altname>Hanseatic league</altname>, held its first diet in 1260, and was maintained for nearly four hundred years. At one time the league comprised eighty-five cities. Its remnants, L<uum/beck, Hamburg, and Bremen, are <stype>free cities</stype>, and are still frequently called <ex>Hanse towns</ex>.</cd></cs><br/
+<p><cs><col>Hanse towns</col> <fld>(Hist.)</fld>, <cd>certain commercial cities in Germany which associated themselves for the protection and enlarging of their commerce. The confederacy, called also <altname>Hansa</altname> and <altname>Hanseatic league</altname>, held its first diet in 1260, and was maintained for nearly four hundred years. At one time the league comprised eighty-five cities. Its remnants, L<uum/beck, Hamburg, and Bremen, are <stype>free cities</stype>, and are still frequently called <ex>Hanse towns</ex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hanseatic</ent><br/
 <hw>Han`se*at"ic</hw> <pr>(h<acr/n`s<esl/*<acr/t"<icr/k)</pr>, <pos>a.</pos> <def>Pertaining to the Hanse towns, or to their confederacy.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hanseatic league</b></col>. <cd>See under 2d <er>Hanse</er>.</cd></cs><br/
+<p><cs><col>Hanseatic league</col>. <cd>See under 2d <er>Hanse</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hansel</ent><br/
@@ -4338,7 +4338,7 @@ Some Cupid kills with arrows, some with traps.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>All these things which had <qex>happened</qex>.</q> <rj><qau>Luke xxiv. 14.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To happen on</b></col>, <cd>to meet with; to fall or light upon.</cd> <ldquo/I have <xex>happened on</xex> some other accounts.<rdquo/ <au>Graunt.</au> -- <col><b>To happen in</b></col>, <cd>to make a casual call.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To happen on</col>, <cd>to meet with; to fall or light upon.</cd> <ldquo/I have <xex>happened on</xex> some other accounts.<rdquo/ <au>Graunt.</au> -- <col>To happen in</col>, <cd>to make a casual call.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>happening</ent><br/
@@ -4429,7 +4429,7 @@ The fool is <qex>happy</qex> that he knows no more.</q> <rj><qau>Pope.</qau></rj
 <p><q>One gentleman is <qex>happy</qex> at a reply, another excels in a in a rejoinder.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Happy family</b></col>, <cd>a collection of animals of different and hostile propensities living peaceably together in one cage. Used ironically of conventional alliances of persons who are in fact mutually repugnant.</cd> -- <col><b>Happy-go-lucky</b></col>, <cd>trusting to hap or luck; improvident; easy-going.</cd> <ldquo/<xex>Happy-go-lucky</xex> carelessness.<rdquo/  <rj><au>W. Black.</au></rj></cs><br/
+<p><cs><col>Happy family</col>, <cd>a collection of animals of different and hostile propensities living peaceably together in one cage. Used ironically of conventional alliances of persons who are in fact mutually repugnant.</cd> -- <col>Happy-go-lucky</col>, <cd>trusting to hap or luck; improvident; easy-going.</cd> <ldquo/<xex>Happy-go-lucky</xex> carelessness.<rdquo/  <rj><au>W. Black.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>haptic</ent><br/
@@ -4570,7 +4570,7 @@ That thought to get preferment by the tongue.</q> <rj><qau>Dryden.</qau></rj><br
 <p><sn>5.</sn> <fld>(Glass Works)</fld> <def>A mixing box for materials.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harbor dues</b></col> <fld>(Naut.)</fld>, <cd>fees paid for the use of a harbor.</cd> -- <col><b>Harbor seal</b></col> <fld>(Zool.)</fld>, <cd>the common seal.</cd> -- <col><b>Harbor watch</b></col>, <cd>a watch set when a vessel is in port; an anchor watch.</cd></cs><br/
+<p><cs><col>Harbor dues</col> <fld>(Naut.)</fld>, <cd>fees paid for the use of a harbor.</cd> -- <col>Harbor seal</col> <fld>(Zool.)</fld>, <cd>the common seal.</cd> -- <col>Harbor watch</col>, <cd>a watch set when a vessel is in port; an anchor watch.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harbor</ent><br/
@@ -4675,7 +4675,7 @@ That thought to get preferment by the tongue.</q> <rj><qau>Dryden.</qau></rj><br
 <p><sn>11.</sn> <fld>(Painting)</fld> <sd>(a)</sd> <def>Rigid in the drawing or distribution of the figures; formal; lacking grace of composition.</def> <sd>(b)</sd> <def>Having disagreeable and abrupt contrasts in the coloring or light and shade.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hard cancer</b></col>, <col><b>Hard case</b></col>, etc.</mcol> <cd>See under <er>Cancer</er>, <er>Case</er>, etc.</cd> -- <mcol><col><b>Hard clam</b></col>, <it>or</it> <col><b>Hard-shelled clam</b></col></mcol> <fld>(Zool.)</fld>, <cd>the quahog.</cd> -- <col><b>Hard coal</b></col>, <cd>anthracite, as distinguished from <contr>bituminous coal</contr> (<contr>soft coal</contr>).</cd> -- <col><b>Hard and fast</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Fast</er>.</cd> -- <col><b>Hard finish</b></col> <fld>(Arch.)</fld>, <cd>a smooth finishing coat of hard fine plaster applied to the surface of rough plastering.</cd> -- <col><b>Hard lines</b></col>, <cd>hardship; difficult conditions.</cd> -- <col><b>Hard money</b></col>, <cd>coin or specie, as distinguished from paper money.</cd> -- <col><b>Hard oyster</b></col> <fld>(Zool.)</fld>, <cd>the northern native oyster.</cd> <mark>[Local, U. S.]</mark> -- <col><b>Hard pan</b></col>, <cd>the hard stratum of earth lying beneath the soil; hence, figuratively, the firm, substantial, fundamental part or quality of anything; as, the <xex>hard pan</xex> of character, of a matter in dispute, etc. See <er>Pan</er>.</cd> -- <col><b>Hard rubber</b></col>. <cd>See under <er>Rubber</er>.</cd> -- <col><b>Hard solder</b></col>. <cd>See under <er>Solder</er>.</cd> -- <col><b>Hard water</b></col>, <cd>water, which contains lime or some mineral substance rendering it unfit for washing. See <er>Hardness</er>, <snr>3</snr>.</cd> -- <col><b>Hard wood</b></col>, <cd>wood of a solid or hard texture; as walnut, oak, ash, box, and the like, in distinction from pine, poplar, hemlock, etc.</cd> -- <col><b>In hard condition</b></col>, <cd>in excellent condition for racing; having firm muscles; -- said of race horses.</cd></cs></p>
+<p><cs><mcol><col>Hard cancer</col>, <col>Hard case</col>, etc.</mcol> <cd>See under <er>Cancer</er>, <er>Case</er>, etc.</cd> -- <mcol><col>Hard clam</col>, <it>or</it> <col>Hard-shelled clam</col></mcol> <fld>(Zool.)</fld>, <cd>the quahog.</cd> -- <col>Hard coal</col>, <cd>anthracite, as distinguished from <contr>bituminous coal</contr> (<contr>soft coal</contr>).</cd> -- <col>Hard and fast</col>. <fld>(Naut.)</fld> <cd>See under <er>Fast</er>.</cd> -- <col>Hard finish</col> <fld>(Arch.)</fld>, <cd>a smooth finishing coat of hard fine plaster applied to the surface of rough plastering.</cd> -- <col>Hard lines</col>, <cd>hardship; difficult conditions.</cd> -- <col>Hard money</col>, <cd>coin or specie, as distinguished from paper money.</cd> -- <col>Hard oyster</col> <fld>(Zool.)</fld>, <cd>the northern native oyster.</cd> <mark>[Local, U. S.]</mark> -- <col>Hard pan</col>, <cd>the hard stratum of earth lying beneath the soil; hence, figuratively, the firm, substantial, fundamental part or quality of anything; as, the <xex>hard pan</xex> of character, of a matter in dispute, etc. See <er>Pan</er>.</cd> -- <col>Hard rubber</col>. <cd>See under <er>Rubber</er>.</cd> -- <col>Hard solder</col>. <cd>See under <er>Solder</er>.</cd> -- <col>Hard water</col>, <cd>water, which contains lime or some mineral substance rendering it unfit for washing. See <er>Hardness</er>, <snr>3</snr>.</cd> -- <col>Hard wood</col>, <cd>wood of a solid or hard texture; as walnut, oak, ash, box, and the like, in distinction from pine, poplar, hemlock, etc.</cd> -- <col>In hard condition</col>, <cd>in excellent condition for racing; having firm muscles; -- said of race horses.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Solid; arduous; powerful; trying; unyielding; stubborn; stern; flinty; unfeeling; harsh; difficult; severe; obdurate; rigid. See <er>Solid</er>, and <er>Arduous</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -4709,7 +4709,7 @@ Is <qex>hard</qex> at study; pray now, rest yourself.</q> <rj><qau>Shak.</qau></
 <p><q>Whose house joined <qex>hard</qex> to the synagogue.</q> <rj><qau>Acts xviii. 7.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hard by</b></col>, <col><b>near by</b></col></mcol><cd>; close at hand; not far off.</cd> <ldquo/<xex>Hard by</xex> a cottage chimney smokes.<rdquo/ <au>Milton.</au> -- <mcol><col><b>Hard pushed</b></col>, <col><b>Hard run</b></col></mcol>, <cd>greatly pressed; <as>as, he was <ex>hard pushed</ex> or <ex>hard run</ex> for time, money, etc.</as></cd> <mark>[Colloq.]</mark> -- <col><b>Hard up</b></col>, <cd>closely pressed by want or necessity; without money or resources; <as>as, <ex>hard up</ex> for amusements</as>.</cd> <mark>[Slang]</mark></cs><br/
+<p><cs><mcol><col>Hard by</col>, <col>near by</col></mcol><cd>; close at hand; not far off.</cd> <ldquo/<xex>Hard by</xex> a cottage chimney smokes.<rdquo/ <au>Milton.</au> -- <mcol><col>Hard pushed</col>, <col>Hard run</col></mcol>, <cd>greatly pressed; <as>as, he was <ex>hard pushed</ex> or <ex>hard run</ex> for time, money, etc.</as></cd> <mark>[Colloq.]</mark> -- <col>Hard up</col>, <cd>closely pressed by want or necessity; without money or resources; <as>as, <ex>hard up</ex> for amusements</as>.</cd> <mark>[Slang]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/  <xex>Hard</xex> in nautical language is often joined to words of command to the helmsman, denoting that the order should be carried out with the utmost energy, or that the helm should be put, in the direction indicated, to the extreme limit, as, <xex>Hard aport!</xex> <xex>Hard astarboard!</xex> <xex>Hard alee!</xex> <xex>Hard aweather!</xex> <xex>Hard up!</xex><br/
@@ -5205,7 +5205,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>A small constellation situated south of and under the foot of Orion; Lepus.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hare and hounds</b></col>, <cd>a game played by men and boys, two, called <xex>hares</xex>, having a few minutes' start, and scattering bits of paper to indicate their course, being chased by the others, called the <xex>hounds</xex>, through a wide circuit.</cd> -- <col><b>Hare kangaroo</b></col> <fld>(Zool.)</fld>, <cd>a small Australian kangaroo (<spn>Lagorchestes Leporoides</spn>), resembling the hare in size and color,</cd> -- <col><b>Hare's lettuce</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Sonchus</gen>, or sow thistle; -- so called because hares are said to eat it when fainting with heat.</cd> <au>Dr. Prior.</au> -- <col><b>Jumping hare</b></col>. <fld>(Zool.)</fld> <cd>See under <er>Jumping</er>.</cd> -- <mcol><col><b>Little chief hare</b></col>, <it>or</it> <col><b>Crying hare</b></col></mcol>. <fld>(Zool.)</fld> <cd>See <er>Chief hare</er>.</cd> -- <col><b>Sea hare</b></col>. <fld>(Zool.)</fld> <cd>See <er>Aplysia</er>.</cd></cs><br/
+<p><cs><col>Hare and hounds</col>, <cd>a game played by men and boys, two, called <xex>hares</xex>, having a few minutes' start, and scattering bits of paper to indicate their course, being chased by the others, called the <xex>hounds</xex>, through a wide circuit.</cd> -- <col>Hare kangaroo</col> <fld>(Zool.)</fld>, <cd>a small Australian kangaroo (<spn>Lagorchestes Leporoides</spn>), resembling the hare in size and color,</cd> -- <col>Hare's lettuce</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Sonchus</gen>, or sow thistle; -- so called because hares are said to eat it when fainting with heat.</cd> <au>Dr. Prior.</au> -- <col>Jumping hare</col>. <fld>(Zool.)</fld> <cd>See under <er>Jumping</er>.</cd> -- <mcol><col>Little chief hare</col>, <it>or</it> <col>Crying hare</col></mcol>. <fld>(Zool.)</fld> <cd>See <er>Chief hare</er>.</cd> -- <col>Sea hare</col>. <fld>(Zool.)</fld> <cd>See <er>Aplysia</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harebell</ent><br/
@@ -5228,7 +5228,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A tree (<spn>Ochroma Lagopus</spn>) of the West Indies, having the stamens united somewhat in the form of a hare's foot.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harefoot clover</b></col> <fld>(Bot.)</fld>, <cd>a species of clover (<spn>Trifolium arvense</spn>) with soft and silky heads.</cd></cs><br/
+<p><cs><col>Harefoot clover</col> <fld>(Bot.)</fld>, <cd>a species of clover (<spn>Trifolium arvense</spn>) with soft and silky heads.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hare-hearted</ent><br/
@@ -5270,7 +5270,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hare's"-tail`</hw> <pr>(-t<amac/l`)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A kind of grass (<spn>Eriophorum vaginatum</spn>). See <cref>Cotton grass</cref>, under <er>Cotton</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hare's-tail grass</b></col> <fld>(Bot.)</fld>, <cd>a species of grass (<spn>Lagurus ovatus</spn>) whose head resembles a hare's tail.</cd></cs><br/
+<p><cs><col>Hare's-tail grass</col> <fld>(Bot.)</fld>, <cd>a species of grass (<spn>Lagurus ovatus</spn>) whose head resembles a hare's tail.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harfang</ent><br/
@@ -5308,7 +5308,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hark</hw> <pr>(h<aum/rk)</pr>, <pos>v. i.</pos> <ety>[OE. <ets>herken</ets>. See <er>Hearken</er>.]</ety> <def>To listen; to hearken.</def> <mark>[Now rare, except in the imperative form used as an interjection, Hark! listen.]</mark>  <rj><au>Hudibras.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hark away!</b></col> <col><b>Hark back!</b></col> <col><b>Hark forward!</b></col></mcol> <fld>(Sporting)</fld>, <cd>cries used to incite and guide hounds in hunting.</cd> -- <col><b>To hark back</b></col>, <cd>to go back for a fresh start, as when one has wandered from his direct course, or made a digression.</cd><br/
+<p><cs><mcol><col>Hark away!</col> <col>Hark back!</col> <col>Hark forward!</col></mcol> <fld>(Sporting)</fld>, <cd>cries used to incite and guide hounds in hunting.</cd> -- <col>To hark back</col>, <cd>to go back for a fresh start, as when one has wandered from his direct course, or made a digression.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He must have overshot the mark, and must <qex>hark back</qex>.</q> <rj><qau>Haggard.</qau></rj><br/
@@ -5343,7 +5343,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>As dumb <qex>harlequin</qex> is exhibited in our theaters.</q> <rj><qau>Johnson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harlequin bat</b></col> <fld>(Zool.)</fld>, <cd>an Indian bat (<spn>Scotophilus ornatus</spn>), curiously variegated with white spots.</cd> -- <col><b>Harlequin beetle</b></col> <fld>(Zool.)</fld>, <cd>a very large South American beetle (<spn>Acrocinus longimanus</spn>) having very long legs and antennae. The elytra are curiously marked with red, black, and gray.</cd> -- <col><b>Harlequin cabbage bug</b></col>. <fld>(Zool.)</fld> <cd>See <er>Calicoback</er>.</cd> -- <col><b>Harlequin caterpillar</b></col>. <fld>(Zool.)</fld>, <cd>the larva of an American bombycid moth (<spn>Euchaetes egle</spn>) which is covered with black, white, yellow, and orange tufts of hair.</cd> -- <col><b>Harlequin duck</b></col> <fld>(Zool.)</fld>, <cd>a North American duck (<spn>Histrionicus histrionicus</spn>). The male is dark ash, curiously streaked with white.</cd> -- <col><b>Harlequin moth</b></col>. <fld>(Zool.)</fld> <cd>See <er>Magpie Moth</er>.</cd> -- <col><b>Harlequin opal</b></col>. <cd>See <er>Opal</er>.</cd> -- <col><b>Harlequin snake</b></col> <fld>(Zool.)</fld>, <cd>See <er>harlequin snake</er> in the vocabulary.</cd></cs><br/
+<p><cs><col>Harlequin bat</col> <fld>(Zool.)</fld>, <cd>an Indian bat (<spn>Scotophilus ornatus</spn>), curiously variegated with white spots.</cd> -- <col>Harlequin beetle</col> <fld>(Zool.)</fld>, <cd>a very large South American beetle (<spn>Acrocinus longimanus</spn>) having very long legs and antennae. The elytra are curiously marked with red, black, and gray.</cd> -- <col>Harlequin cabbage bug</col>. <fld>(Zool.)</fld> <cd>See <er>Calicoback</er>.</cd> -- <col>Harlequin caterpillar</col>. <fld>(Zool.)</fld>, <cd>the larva of an American bombycid moth (<spn>Euchaetes egle</spn>) which is covered with black, white, yellow, and orange tufts of hair.</cd> -- <col>Harlequin duck</col> <fld>(Zool.)</fld>, <cd>a North American duck (<spn>Histrionicus histrionicus</spn>). The male is dark ash, curiously streaked with white.</cd> -- <col>Harlequin moth</col>. <fld>(Zool.)</fld> <cd>See <er>Magpie Moth</er>.</cd> -- <col>Harlequin opal</col>. <cd>See <er>Opal</er>.</cd> -- <col>Harlequin snake</col> <fld>(Zool.)</fld>, <cd>See <er>harlequin snake</er> in the vocabulary.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harlequin</ent><br/
@@ -5482,7 +5482,7 @@ Why he should mean me ill or seek to <qex>harm</qex>.</q> <rj><qau>Milton.</qau>
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>Having relations or properties bearing some resemblance to those of musical consonances; -- said of certain numbers, ratios, proportions, points, lines, motions, and the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harmonic interval</b></col> <fld>(Mus.)</fld>, <cd>the distance between two notes of a chord, or two consonant notes.</cd> -- <col><b>Harmonical mean</b></col> <fld>(Arith. & Alg.)</fld>, <cd>certain relations of numbers and quantities, which bear an analogy to musical consonances.</cd> -- <col><b>Harmonic motion</b></col>, <-- reference to diagram of a circle with radius having point P on the circle, and a diameter with point A in the diameter. The motion of point A, plotted over time, will describe a sine wave!  --> <cd>the motion of the point A, of the foot of the perpendicular PA, when P moves uniformly in the circumference of a circle, and PA is drawn perpendicularly upon a fixed diameter of the circle. This is <xex>simple harmonic motion</xex>. The combinations, in any way, of two or more simple harmonic motions, make other kinds of harmonic motion.  The motion of the pendulum bob of a clock is approximately <xex>simple harmonic motion</xex>.</cd> --  <col><b>Harmonic proportion</b></col>. <cd>See under <er>Proportion</er>.</cd> -- <mcol><col><b>Harmonic series</b></col> <it>or</it> <col><b>Harmonic progression</b></col></mcol>. <cd>See under <er>Progression</er>.</cd> -- <col><b>Spherical harmonic analysis</b></col>, <cd>a mathematical method, sometimes referred to as that of <altname>Laplace's Coefficients</altname>, which has for its object the expression of an arbitrary, periodic function of two independent variables, in the proper form for a large class of physical problems, involving arbitrary data, over a spherical surface, and the deduction of solutions for every point of space. The functions employed in this method are called <xex>spherical harmonic functions</xex>.</cd> <au>Thomson & Tait.</au> -- <col><b>Harmonic suture</b></col> <fld>(Anat.)</fld>, <cd>an articulation by simple apposition of comparatively smooth surfaces or edges, as between the two superior maxillary bones in man; -- called also <altname>harmonia</altname>, and <altname>harmony</altname>.</cd> -- <col><b>Harmonic triad</b></col> <fld>(Mus.)</fld>, <cd>the chord of a note with its third and fifth; the common chord.</cd></cs><br/
+<p><cs><col>Harmonic interval</col> <fld>(Mus.)</fld>, <cd>the distance between two notes of a chord, or two consonant notes.</cd> -- <col>Harmonical mean</col> <fld>(Arith. & Alg.)</fld>, <cd>certain relations of numbers and quantities, which bear an analogy to musical consonances.</cd> -- <col>Harmonic motion</col>, <-- reference to diagram of a circle with radius having point P on the circle, and a diameter with point A in the diameter. The motion of point A, plotted over time, will describe a sine wave!  --> <cd>the motion of the point A, of the foot of the perpendicular PA, when P moves uniformly in the circumference of a circle, and PA is drawn perpendicularly upon a fixed diameter of the circle. This is <xex>simple harmonic motion</xex>. The combinations, in any way, of two or more simple harmonic motions, make other kinds of harmonic motion.  The motion of the pendulum bob of a clock is approximately <xex>simple harmonic motion</xex>.</cd> --  <col>Harmonic proportion</col>. <cd>See under <er>Proportion</er>.</cd> -- <mcol><col>Harmonic series</col> <it>or</it> <col>Harmonic progression</col></mcol>. <cd>See under <er>Progression</er>.</cd> -- <col>Spherical harmonic analysis</col>, <cd>a mathematical method, sometimes referred to as that of <altname>Laplace's Coefficients</altname>, which has for its object the expression of an arbitrary, periodic function of two independent variables, in the proper form for a large class of physical problems, involving arbitrary data, over a spherical surface, and the deduction of solutions for every point of space. The functions employed in this method are called <xex>spherical harmonic functions</xex>.</cd> <au>Thomson & Tait.</au> -- <col>Harmonic suture</col> <fld>(Anat.)</fld>, <cd>an articulation by simple apposition of comparatively smooth surfaces or edges, as between the two superior maxillary bones in man; -- called also <altname>harmonia</altname>, and <altname>harmony</altname>.</cd> -- <col>Harmonic triad</col> <fld>(Mus.)</fld>, <cd>the chord of a note with its third and fifth; the common chord.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harmonic</ent><br/
@@ -5607,7 +5607,7 @@ Angelic <qex>harmonies</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Anat.)</fld> <def>See <cref>Harmonic suture</cref>, under <er>Harmonic</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Close harmony</b></col>, <col><b>Dispersed harmony</b></col></mcol>, <cd>etc. See under <er>Close</er>, <er>Dispersed</er>, etc.</cd> -- <col><b>Harmony of the spheres</b></col>. <cd>See <cref>Music of the spheres</cref>, under <er>Music</er>.</cd></cs></p>
+<p><cs><mcol><col>Close harmony</col>, <col>Dispersed harmony</col></mcol>, <cd>etc. See under <er>Close</er>, <er>Dispersed</er>, etc.</cd> -- <col>Harmony of the spheres</col>. <cd>See <cref>Music of the spheres</cref>, under <er>Music</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- <er>Harmony</er>, <er>Melody</er>.</syn> <usage> <xex>Harmony</xex> results from the concord of two or more strains or sounds which differ in pitch and quality. <xex>Melody</xex> denotes the pleasing alternation and variety of musical and measured sounds, as they succeed each other in a single verse or strain.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -5638,7 +5638,7 @@ Angelic <qex>harmonies</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>The part of a loom comprising the heddles, with their means of support and motion, by which the threads of the warp are alternately raised and depressed for the passage of the shuttle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To die in harness</b></col>, <cd>to die with armor on; hence, colloquially, to die while actively engaged in work or duty.</cd></cs><br/
+<p><cs><col>To die in harness</col>, <cd>to die with armor on; hence, colloquially, to die while actively engaged in work or duty.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harness</ent><br/
@@ -5661,7 +5661,7 @@ Angelic <qex>harmonies</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q><qex>Harnessed</qex> to some regular profession.</q> <rj><qau>J. C. Shairp.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harnessed antelope</b></col>. <fld>(Zool.)</fld> <cd>See <er>Guib</er>.</cd> -- <col><b>Harnessed moth</b></col> <fld>(Zool.)</fld>, <cd>an American bombycid moth (<spn>Arctia phalerata</spn> of Harris), having, on the fore wings, stripes and bands of buff on a black ground.</cd></cs><br/
+<p><cs><col>Harnessed antelope</col>. <fld>(Zool.)</fld> <cd>See <er>Guib</er>.</cd> -- <col>Harnessed moth</col> <fld>(Zool.)</fld>, <cd>an American bombycid moth (<spn>Arctia phalerata</spn> of Harris), having, on the fore wings, stripes and bands of buff on a black ground.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harness cask</ent><br/
@@ -5686,10 +5686,10 @@ Angelic <qex>harmonies</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>A grain sieve.</def> <mark>[Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Aeolian harp</b></col>. <cd>See under <er>Aeolian</er>.</cd></cs><br/
+<p><cs><col>Aeolian harp</col>. <cd>See under <er>Aeolian</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harp seal</b></col> <fld>(Zool.)</fld>, <cd>an arctic seal (<spn>Phoca Gr<oe/nlandica</spn>). The adult males have a light-colored body, with a harp-shaped mark of black on each side, and the face and throat black.  Called also <altname>saddler</altname>, and <altname>saddleback</altname>.  The immature ones are called <altname>bluesides</altname>; their fur is white, and they are killed and skinned to harvest the fur.</cd> -- <col><b>Harp shell</b></col> <fld>(Zool.)</fld>, <cd>a beautiful marine gastropod shell of the genus <gen>Harpa</gen>, of several species, found in tropical seas. See <er>Harpa</er>.</cd></cs><br/
+<p><cs><col>Harp seal</col> <fld>(Zool.)</fld>, <cd>an arctic seal (<spn>Phoca Gr<oe/nlandica</spn>). The adult males have a light-colored body, with a harp-shaped mark of black on each side, and the face and throat black.  Called also <altname>saddler</altname>, and <altname>saddleback</altname>.  The immature ones are called <altname>bluesides</altname>; their fur is white, and they are killed and skinned to harvest the fur.</cd> -- <col>Harp shell</col> <fld>(Zool.)</fld>, <cd>a beautiful marine gastropod shell of the genus <gen>Harpa</gen>, of several species, found in tropical seas. See <er>Harpa</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harp</ent><br/
@@ -5706,7 +5706,7 @@ Angelic <qex>harmonies</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 Not what he knew I was.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To harp on one string</b></col>, <cd>to dwell upon one subject with disagreeable or wearisome persistence.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To harp on one string</col>, <cd>to dwell upon one subject with disagreeable or wearisome persistence.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harp</ent><br/
@@ -5755,7 +5755,7 @@ Stand like <qex>harpers</qex> hoar, with beards that rest on their bosoms.</q> <
 <hw>Har*poon"</hw> <pr>(h<aum/r*p<oomac/n")</pr>, <pos>n.</pos> <ety>[F. <ets>harpon</ets>, LL. <ets>harpo</ets>, perh. of Ger. origin, fr. the <ets>harp</ets>; cf. F. <ets>harper</ets> to take and grasp strongly, <ets>harpe</ets> a dog's claw, <ets>harpin</ets> boathook (the sense of <ets>hook</ets> coming from the shape of the harp); but cf. also Gr. <grk>"a`rph</grk> the kite, sickle, and E. <ets>harpy</ets>.  Cf. <er>Harp</er>.]</ety> <def>A spear or javelin used to strike and kill large fish, as whales; a harping iron.  It consists of a long shank, with a broad, flat, triangular head, sharpened at both edges, and is thrown by hand, or discharged from a gun.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harpoon fork</b></col>, <cd>a kind of hayfork, consisting of a bar with hinged barbs at one end and a loop for a rope at the other end, used for lifting hay from the load by horse power.</cd> -- <col><b>Harpoon gun</b></col>, <cd>a gun used in the whale fishery for shooting the harpoon into a whale.</cd></cs><br/
+<p><cs><col>Harpoon fork</col>, <cd>a kind of hayfork, consisting of a bar with hinged barbs at one end and a loop for a rope at the other end, used for lifting hay from the load by horse power.</cd> -- <col>Harpoon gun</col>, <cd>a gun used in the whale fishery for shooting the harpoon into a whale.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harpoon</ent><br/
@@ -5812,7 +5812,7 @@ With sound of <qex>harpies'</qex> wings and talons heard.</q> <rj><qau>Milton.</
 <p><sn>3.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The European moor buzzard or marsh harrier (<spn>Circus aeruginosus</spn>).</def> <sd>(b)</sd> <def>A large and powerful, double-crested, short-winged American eagle (<spn>Thrasa<eum/tus harpyia</spn>). It ranges from Texas to Brazil.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harpy bat</b></col> <fld>(Zool.)</fld> <sd>(a)</sd> <cd>An East Indian fruit bat of the genus <gen>Harpyia</gen> (esp. <spn>Harpyia cephalotes</spn>), having prominent, tubular nostrils.</cd> <sd>(b)</sd> <cd>A small, insectivorous Indian bat (<spn>Harpiocephalus harpia</spn>).</cd> -- <col><b>Harpy fly</b></col> <fld>(Zool.)</fld>, <cd>the house fly.</cd></cs><br/
+<p><cs><col>Harpy bat</col> <fld>(Zool.)</fld> <sd>(a)</sd> <cd>An East Indian fruit bat of the genus <gen>Harpyia</gen> (esp. <spn>Harpyia cephalotes</spn>), having prominent, tubular nostrils.</cd> <sd>(b)</sd> <cd>A small, insectivorous Indian bat (<spn>Harpiocephalus harpia</spn>).</cd> -- <col>Harpy fly</col> <fld>(Zool.)</fld>, <cd>the house fly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harquebuse</ent><br/
@@ -5851,7 +5851,7 @@ With sound of <qex>harpies'</qex> wings and talons heard.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of several species of hawks or buzzards of the genus <gen>Circus</gen> which fly low and <xex>harry</xex> small animals or birds, -- as the European marsh harrier (<spn>Circus aeruginosus</spn>), and the hen harrier (<spn>Circus cyaneus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harrier hawk</b></col> <fld>(Zool.)</fld>, <cd>one of several species of American hawks of the genus <gen>Micrastur</gen>.</cd></cs><br/
+<p><cs><col>Harrier hawk</col> <fld>(Zool.)</fld>, <cd>one of several species of American hawks of the genus <gen>Micrastur</gen>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harrisia</ent><br/
@@ -5866,7 +5866,7 @@ With sound of <qex>harpies'</qex> wings and talons heard.</q> <rj><qau>Milton.</
 <p><sn>2.</sn> <fld>(Mil.)</fld> <def>An obstacle formed by turning an ordinary harrow upside down, the frame being buried.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bush harrow</b></col>, <cd>a kind of light harrow made of bushes, for harrowing grass lands and covering seeds, or to finish the work of a toothed harrow.</cd> -- <col><b>Drill harrow</b></col>. <cd>See under 6th <er>Drill</er>.</cd> -- <col><b>Under the harrow</b></col>, <cd>subjected to actual torture with a toothed instrument, or to great affliction or oppression.</cd></cs><br/
+<p><cs><col>Bush harrow</col>, <cd>a kind of light harrow made of bushes, for harrowing grass lands and covering seeds, or to finish the work of a toothed harrow.</cd> -- <col>Drill harrow</col>. <cd>See under 6th <er>Drill</er>.</cd> -- <col>Under the harrow</col>, <cd>subjected to actual torture with a toothed instrument, or to great affliction or oppression.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harrow</ent><br/
@@ -6018,7 +6018,7 @@ The sound must seem an echo to the sense.</q> <rj><qau>Pope.</qau></rj></p>
 <p><sn>2.</sn> <def>Spirits of hartshorn (see below); volatile salts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hartshorn plantain</b></col> <fld>(Bot.)</fld>, <cd>an annual species of plantain (<spn>Plantago Coronopus</spn>); -- called also <altname>buck's-horn</altname>.</cd> <au>Booth.</au> -- <col><b>Hartshorn shavings</b></col>, <cd>originally taken from the horns of harts, are now obtained chiefly by planing down the bones of calves. They afford a kind of jelly.</cd> <au>Hebert.</au> -- <col><b>Salt of hartshorn</b></col> <fld>(Chem.)</fld>, <cd>an impure solid carbonate of ammonia, obtained by the destructive distillation of hartshorn, or any kind of bone; volatile salts.</cd> <au>Brande & C.</au>-- <col><b>Spirits of hartshorn</b></col> <fld>(Chem.)</fld>, <cd>a solution of ammonia in water; -- so called because formerly obtained from hartshorn shavings by destructive distillation. Similar ammoniacal solutions from other sources have received the same name.</cd></cs><br/
+<p><cs><col>Hartshorn plantain</col> <fld>(Bot.)</fld>, <cd>an annual species of plantain (<spn>Plantago Coronopus</spn>); -- called also <altname>buck's-horn</altname>.</cd> <au>Booth.</au> -- <col>Hartshorn shavings</col>, <cd>originally taken from the horns of harts, are now obtained chiefly by planing down the bones of calves. They afford a kind of jelly.</cd> <au>Hebert.</au> -- <col>Salt of hartshorn</col> <fld>(Chem.)</fld>, <cd>an impure solid carbonate of ammonia, obtained by the destructive distillation of hartshorn, or any kind of bone; volatile salts.</cd> <au>Brande & C.</au>-- <col>Spirits of hartshorn</col> <fld>(Chem.)</fld>, <cd>a solution of ammonia in water; -- so called because formerly obtained from hartshorn shavings by destructive distillation. Similar ammoniacal solutions from other sources have received the same name.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 673 pr=JMD --></p>
@@ -6082,7 +6082,7 @@ That the main <qex>harvest</qex> reaps.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The <qex>harvest</qex> of a quiet eye.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harvest fish</b></col> <fld>(Zool.)</fld>, <cd>a marine fish of the Southern United States (<spn>Stromateus alepidotus</spn>); -- called <altname>whiting</altname> in Virginia. Also applied to the dollar fish.</cd> -- <col><b>Harvest fly</b></col> <fld>(Zool.)</fld>, <cd>an hemipterous insect of the genus <gen>Cicada</gen>, often called <altname>locust</altname>. See <er>Cicada</er>.</cd> -- <col><b>Harvest lord</b></col>, <cd>the head reaper at a harvest.</cd> <mark>[Obs.]</mark> <au>Tusser.</au> -- <col><b>Harvest mite</b></col> <fld>(Zool.)</fld>, <cd>a minute European mite (<spn>Leptus autumnalis</spn>), of a bright crimson color, which is troublesome by penetrating the skin of man and domestic animals; -- called also <altname>harvest louse</altname>, and <altname>harvest bug</altname>.</cd> -- <col><b>Harvest moon</b></col>, <cd>the moon near the full at the time of harvest in England, or about the autumnal equinox, when, by reason of the small angle that is made by the moon's orbit with the horizon, it rises nearly at the same hour for several days.</cd> -- <col><b>Harvest mouse</b></col> <fld>(Zool.)</fld>, <cd>a very small European field mouse (<spn>Mus minutus</spn>). It builds a globular nest on the stems of wheat and other plants.</cd> -- <col><b>Harvest queen</b></col>, <cd>an image representing Ceres, formerly carried about on the last day of harvest.</cd> <au>Milton.</au> -- <col><b>Harvest spider</b></col>. <fld>(Zool.)</fld> <cd>See <er>Daddy longlegs</er>.</cd></cs><br/
+<p><cs><col>Harvest fish</col> <fld>(Zool.)</fld>, <cd>a marine fish of the Southern United States (<spn>Stromateus alepidotus</spn>); -- called <altname>whiting</altname> in Virginia. Also applied to the dollar fish.</cd> -- <col>Harvest fly</col> <fld>(Zool.)</fld>, <cd>an hemipterous insect of the genus <gen>Cicada</gen>, often called <altname>locust</altname>. See <er>Cicada</er>.</cd> -- <col>Harvest lord</col>, <cd>the head reaper at a harvest.</cd> <mark>[Obs.]</mark> <au>Tusser.</au> -- <col>Harvest mite</col> <fld>(Zool.)</fld>, <cd>a minute European mite (<spn>Leptus autumnalis</spn>), of a bright crimson color, which is troublesome by penetrating the skin of man and domestic animals; -- called also <altname>harvest louse</altname>, and <altname>harvest bug</altname>.</cd> -- <col>Harvest moon</col>, <cd>the moon near the full at the time of harvest in England, or about the autumnal equinox, when, by reason of the small angle that is made by the moon's orbit with the horizon, it rises nearly at the same hour for several days.</cd> -- <col>Harvest mouse</col> <fld>(Zool.)</fld>, <cd>a very small European field mouse (<spn>Mus minutus</spn>). It builds a globular nest on the stems of wheat and other plants.</cd> -- <col>Harvest queen</col>, <cd>an image representing Ceres, formerly carried about on the last day of harvest.</cd> <au>Milton.</au> -- <col>Harvest spider</col>. <fld>(Zool.)</fld> <cd>See <er>Daddy longlegs</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Harvest</ent><br/
@@ -6116,7 +6116,7 @@ That the main <qex>harvest</qex> reaps.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Har"vest*ing</hw>, <def><pos>a. & n.</pos>, from <er>Harvest</er>, <pos>v. t.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Harvesting ant</b></col> <fld>(Zool.)</fld>, <cd>any species of ant which gathers and stores up seeds for food. Many species are known.</cd></cs><br/
+<p><cs><col>Harvesting ant</col> <fld>(Zool.)</fld>, <cd>any species of ant which gathers and stores up seeds for food. Many species are known.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The species found in Southern Europe and Palestine are <spn>Aphenogaster structor</spn> and <spn>Aphenogaster barbara</spn>; that of Texas, called <stype>agricultural ant</stype>, is <spn>Pogonomyrmex barbatus</spn> or <spn>Myrmica molifaciens</spn>; that of Florida is <spn>Pogonomyrmex crudelis</spn>.  See <cref>Agricultural ant</cref>, under <er>Agricultural</er>.</note><br/
@@ -6266,7 +6266,7 @@ That the main <qex>harvest</qex> reaps.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>I said in my <qex>haste</qex>, All men are liars.</q> <rj><qau>Ps. cxvi. 11.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To make haste</b></col>, <cd>to hasten.</cd></cs></p>
+<p><cs><col>To make haste</col>, <cd>to hasten.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Speed; quickness; nimbleness; swiftness; expedition; dispatch; hurry; precipitance; vehemence; precipitation.</syn> <usage> -- <er>Haste</er>, <er>Hurry</er>, <er>Speed</er>, <er>Dispatch</er>. <xex>Haste</xex> denotes quickness of action and a strong desire for getting on; <xex>hurry</xex> includes a confusion and want of collected thought not implied in <xex>haste</xex>; <xex>speed</xex> denotes the actual progress which is made; <xex>dispatch</xex>, the promptitude and rapidity with which things are done. A man may properly be in <xex>haste</xex>, but never in a <xex>hurry</xex>. <xex>Speed</xex> usually secures <xex>dispatch</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -6390,7 +6390,7 @@ Admiring entered.</q>  <rj><qau>Milton.</qau></rj><br/
 <hw>Hat</hw> <pr>(h<acr/t)</pr>, <pos>n.</pos> <ety>[AS. <ets>h<ae/t</ets>, <ets>h<ae/tt</ets>; akin to Dan. <ets>hat</ets>, Sw. <ets>hatt</ets>, Icel. <ets>hattr</ets> a hat, <ets>h<oum/ttr</ets> hood, D. <ets>hoed</ets> hat, G. <ets>hut</ets>, OHG. <ets>huot</ets>, and prob. to L. <ets>cassis</ets> helmet.  <root/13.  Cf. <er>Hood</er>.]</ety> <def>A covering for the head; esp., one with a crown and brim, made of various materials, and worn by men or women for protecting the head from the sun or weather, or for ornament.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hat block</b></col>, <cd>a block on which hats are formed or dressed.</cd> -- <col><b>To pass around the hat</b></col>, <cd>to take up a collection of voluntary contributions, which are often received in a hat.</cd> <mark>[Colloq.]</mark>  <rj><au>Lowell.</au></rj></cs><br/
+<p><cs><col>Hat block</col>, <cd>a block on which hats are formed or dressed.</cd> -- <col>To pass around the hat</col>, <cd>to take up a collection of voluntary contributions, which are often received in a hat.</cd> <mark>[Colloq.]</mark>  <rj><au>Lowell.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatable</ent><br/
@@ -6474,7 +6474,7 @@ In silken-folded idleness.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Mining)</fld> <def>An opening into, or in search of, a mine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Booby hatch</b></col>, <col><b>Buttery hatch</b></col>, <col><b>Companion hatch</b></col>, etc.</mcol> <cd>See under <er>Booby</er>, <er>Buttery</er>, etc.</cd> -- <col><b>To batten down the hatches</b></col> <fld>(Naut.)</fld>, <cd>to lay tarpaulins over them, and secure them with battens.</cd> -- <col><b>To be under hatches</b></col>, <cd>to be confined below in a vessel; to be under arrest, or in slavery, distress, etc.</cd></cs><br/
+<p><cs><mcol><col>Booby hatch</col>, <col>Buttery hatch</col>, <col>Companion hatch</col>, etc.</mcol> <cd>See under <er>Booby</er>, <er>Buttery</er>, etc.</cd> -- <col>To batten down the hatches</col> <fld>(Naut.)</fld>, <cd>to lay tarpaulins over them, and secure them with battens.</cd> -- <col>To be under hatches</col>, <cd>to be confined below in a vessel; to be under arrest, or in slavery, distress, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hatch</ent><br/
@@ -6533,7 +6533,7 @@ In silken-folded idleness.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><-- p. 674 pr=JMD --></p>
 
-<p><cs><col><b>hatchet face</b></col>, <cd>a thin, sharp face, like the edge of a hatchet</cd>; hence: <col><b>hatchet-faced</b></col>, <cd>sharp-visaged.</cd> <au>Dryden.</au> -- <col><b>To bury the hatchet</b></col>, <cd>to make peace or become reconciled.</cd> -- <col><b>To take up the hatchet</b></col>, <cd>to make or declare war. The last two phrases are derived from the practice of the American Indians.</cd></cs></p>
+<p><cs><col>hatchet face</col>, <cd>a thin, sharp face, like the edge of a hatchet</cd>; hence: <col>hatchet-faced</col>, <cd>sharp-visaged.</cd> <au>Dryden.</au> -- <col>To bury the hatchet</col>, <cd>to make peace or become reconciled.</cd> -- <col>To take up the hatchet</col>, <cd>to make or declare war. The last two phrases are derived from the practice of the American Indians.</cd></cs></p>
 
 <p><ent>hatchet man</ent><br/
 <hw>hatchet man</hw> <pos>n.</pos> <sn>1.</sn> <def>A person hired to murder or physically attack another; a hit man.</def><br/
@@ -6789,7 +6789,7 @@ Is <qex>hauled</qex> about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj>
 <p><q>When I was seven or eight years of age, I began <qex>hauling</qex> all the wood used in the house and shops.</q> <rj><qau>U. S. Grant.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To haul over the coals</b></col>. <cd>See under <er>Coal</er>.</cd> -- <col><b>To haul the wind</b></col> <fld>(Naut.)</fld>, <cd>to turn the head of the ship nearer to the point from which the wind blows.</cd></cs><br/
+<p><cs><col>To haul over the coals</col>. <cd>See under <er>Coal</er>.</cd> -- <col>To haul the wind</col> <fld>(Naut.)</fld>, <cd>to turn the head of the ship nearer to the point from which the wind blows.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haul</ent><br/
@@ -6802,7 +6802,7 @@ Is <qex>hauled</qex> about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj>
 <p><sn>2.</sn> <def>To pull apart, as oxen sometimes do when yoked.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To haul around</b></col> <fld>(Naut.)</fld>, <cd>to shift to any point of the compass; -- said of the wind.</cd> -- <col><b>To haul off</b></col> <fld>(Naut.)</fld>, <cd>to sail closer to the wind, in order to get farther away from anything; hence, to withdraw; to draw back.</cd></cs><-- haul off (b), to get ready (usu. for violent action) -- used with "and" -- "hauled off and punched him on the nose" --><br/
+<p><cs><col>To haul around</col> <fld>(Naut.)</fld>, <cd>to shift to any point of the compass; -- said of the wind.</cd> -- <col>To haul off</col> <fld>(Naut.)</fld>, <cd>to sail closer to the wind, in order to get farther away from anything; hence, to withdraw; to draw back.</cd></cs><-- haul off (b), to get ready (usu. for violent action) -- used with "and" -- "hauled off and punched him on the nose" --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haul</ent><br/
@@ -6879,7 +6879,7 @@ Is <qex>hauled</qex> about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj>
 <p><sn>2.</sn> <def>Of meats: The leg and loin taken together; <as>as, a <ex>haunch</ex> of venison</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Haunch bone</b></col>. <cd>See <cref>Innominate bone</cref>, under <er>Innominate</er>.</cd> -- <col><b>Haunches of an arch</b></col> <fld>(Arch.)</fld>, <cd>the parts on each side of the crown of an arch. (See <er>Crown</er>, <pos>n.</pos>, <snr>11</snr>.) Each <xex>haunch</xex> may be considered as from one half to two thirds of the half arch.</cd></cs><br/
+<p><cs><col>Haunch bone</col>. <cd>See <cref>Innominate bone</cref>, under <er>Innominate</er>.</cd> -- <col>Haunches of an arch</col> <fld>(Arch.)</fld>, <cd>the parts on each side of the crown of an arch. (See <er>Crown</er>, <pos>n.</pos>, <snr>11</snr>.) Each <xex>haunch</xex> may be considered as from one half to two thirds of the half arch.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haunched</ent><br/
@@ -7114,7 +7114,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 <p><q>Myself for such a face <qex>had</qex> boldly died.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To have a care</b></col>, <cd>to take care; to be on one's guard.</cd> -- <col><b>To have <plain>(a man)</plain> out</b></col>, <cd>to engage (one) in a duel.</cd> -- <col><b>To have done</b></col> (with). <cd>See under <er>Do</er>, <pos>v. i.</pos></cd> -- <col><b>To have it out</b></col>, <cd>to speak freely; to bring an affair to a conclusion.</cd> -- <col><b>To have on</b></col>, <cd>to wear.</cd> -- <col><b>To have to do with</b></col>. <cd>See under Do, <pos>v. t.</pos></cd></cs></p>
+<p><cs><col>To have a care</col>, <cd>to take care; to be on one's guard.</cd> -- <col>To have <plain>(a man)</plain> out</col>, <cd>to engage (one) in a duel.</cd> -- <col>To have done</col> (with). <cd>See under <er>Do</er>, <pos>v. i.</pos></cd> -- <col>To have it out</col>, <cd>to speak freely; to bring an affair to a conclusion.</cd> -- <col>To have on</col>, <cd>to wear.</cd> -- <col>To have to do with</col>. <cd>See under Do, <pos>v. t.</pos></cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To possess; to own. See <er>Possess</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7170,7 +7170,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>Hav"er</hw>, <pos>n.</pos> <ety>[D. <ets>haver</ets>; akin to G. <ets>haber</ets>.]</ety> <def>The oat; oats.</def> <mark>[Prov. Eng. & Scot.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Haver bread</b></col>, <cd>oaten bread.</cd> -- <col><b>Haver cake</b></col>, <cd>oaten cake.</cd> <au>Piers Plowman.</au> -- <col><b>Haver grass</b></col>, <cd>the wild oat.</cd> -- <col><b>Haver meal</b></col>, <cd>oatmeal.</cd></cs><br/
+<p><cs><col>Haver bread</col>, <cd>oaten bread.</cd> -- <col>Haver cake</col>, <cd>oaten cake.</cd> <au>Piers Plowman.</au> -- <col>Haver grass</col>, <cd>the wild oat.</cd> -- <col>Haver meal</col>, <cd>oatmeal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haver</ent><br/
@@ -7194,7 +7194,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>Ha*ver"sian</hw> <pr>(h<adot/*v<etil/r"sh<ait/n)</pr>, <pos>a.</pos> <def>Pertaining to, or discovered by, Clopton <xex>Havers</xex>, an English physician of the seventeenth century.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Haversian canals</b></col> <fld>(Anat.)</fld>, <cd>the small canals through which the blood vessels ramify in bone.</cd></cs><br/
+<p><cs><col>Haversian canals</col> <fld>(Anat.)</fld>, <cd>the small canals through which the blood vessels ramify in bone.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Havier</ent><br/
@@ -7208,7 +7208,7 @@ Are <qex>haunted</qex> houses.</q> <rj><qau>Longfellow.</qau></rj><br/
 \'d8<hw>Hav`il*dar"</hw> <pr>(h<acr/v`<icr/l*d<aum/r")</pr>, <pos>n.</pos> <def>In the British Indian armies, a noncommissioned officer of native soldiers, corresponding to a sergeant.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Havildar major</b></col>, <cd>a native sergeant major in the East Indian army.</cd></cs><br/
+<p><cs><col>Havildar major</col>, <cd>a native sergeant major in the East Indian army.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Having</ent><br/
@@ -7279,21 +7279,21 @@ With modest warrant.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Cut it short; don't prose -- don't hum and <qex>haw</qex>.</q> <rj><qau>Chesterfield.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>hemming and hawing</b></col> <cd>speaking hesitantly and inarticulately, with numerous pauses and interjections.</cd></cs><br/
+<p><cs><col>hemming and hawing</col> <cd>speaking hesitantly and inarticulately, with numerous pauses and interjections.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Haw</ent><br/
 <hw>Haw</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Hawed</conjf> <pr>(h<add/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Hawing</conjf>.]</vmorph> <ety>[Written also <ets>hoi</ets>.]</ety> <ety>[Perhaps connected with <ets>here</ets>, <ets>hither</ets>; cf., however, F. <ets>huhau</ets>, <ets>hurhau</ets>, <ets>hue</ets>, interj. used in turning a horse to the right, G. <ets>hott</ets>, <ets>h<uum/</ets>, interj. used in calling to a horse.]</ety> <def>To turn to the near side, or toward the driver; -- said of cattle or a team: a word used by teamsters in guiding their teams, and most frequently in the imperative. See <er>Gee</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To haw and gee</b></col>, <it>or</it> <col><b>To haw and gee about</b></col></mcol>, <cd>to go from one thing to another without good reason; to have no settled purpose; to be irresolute or unstable.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><mcol><col>To haw and gee</col>, <it>or</it> <col>To haw and gee about</col></mcol>, <cd>to go from one thing to another without good reason; to have no settled purpose; to be irresolute or unstable.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Haw</ent><br/
 <hw>Haw</hw>, <pos>v. t.</pos> <def>To cause to turn, as a team, to the near side, or toward the driver; <as>as, to <ex>haw</ex> a team of oxen</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To haw and gee</b></col>, <it>or</it> <col><b>To haw and gee about</b></col></mcol>, <cd>to lead this way and that at will; to lead by the nose; to master or control.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><mcol><col>To haw and gee</col>, <it>or</it> <col>To haw and gee about</col></mcol>, <cd>to lead this way and that at will; to lead by the nose; to master or control.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hawaiian</ent><br/
@@ -7334,7 +7334,7 @@ With modest warrant.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ Among the common American species are the red-tailed hawk (<spn>Buteo borealis</spn>); the red-shouldered (<spn>Buteo lineatus</spn>); the broad-winged (<spn>Buteo Pennsylvanicus</spn>); the rough-legged (<spn>Archibuteo lagopus</spn>); the sharp-shinned (<spn>Accipiter fuscus</spn>). See <er>Fishhawk</er>, <er>Goshawk</er>, <cref>Marsh hawk</cref>, under <er>Marsh</er>, <cref>Night hawk</cref>, under <er>Night</er>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bee hawk</b></col> <fld>(Zool.)</fld>, <cd>the honey buzzard.</cd> -- <col><b>Eagle hawk</b></col>. <cd>See under <er>Eagle</er>.</cd> -- <col><b>Hawk eagle</b></col> <fld>(Zool.)</fld>, <cd>an Asiatic bird of the genus <gen>Spizaetus</gen>, or <gen>Limnaetus</gen>, intermediate between the hawks and eagles. There are several species.</cd> -- <col><b>Hawk fly</b></col> <fld>(Zool.)</fld>, <cd>a voracious fly of the family <fam>Asilidae</fam>. See <cref>Hornet fly</cref>, under <er>Hornet</er>.</cd> -- <col><b>Hawk moth</b></col>. <fld>(Zool.)</fld> <cd>See <er>Hawk moth</er>, in the Vocabulary.</cd> -- <col><b>Hawk owl</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A northern owl (<spn>Surnia ulula</spn>) of Europe and America. It flies by day, and in some respects resembles the hawks.</cd> <sd>(b)</sd> <cd>An owl of India (<spn>Ninox scutellatus</spn>).</cd> -- <col><b>Hawk's bill</b></col> <fld>(Horology)</fld>, <cd>the pawl for the rack, in the striking mechanism of a clock.</cd></cs><br/
+<p><cs><col>Bee hawk</col> <fld>(Zool.)</fld>, <cd>the honey buzzard.</cd> -- <col>Eagle hawk</col>. <cd>See under <er>Eagle</er>.</cd> -- <col>Hawk eagle</col> <fld>(Zool.)</fld>, <cd>an Asiatic bird of the genus <gen>Spizaetus</gen>, or <gen>Limnaetus</gen>, intermediate between the hawks and eagles. There are several species.</cd> -- <col>Hawk fly</col> <fld>(Zool.)</fld>, <cd>a voracious fly of the family <fam>Asilidae</fam>. See <cref>Hornet fly</cref>, under <er>Hornet</er>.</cd> -- <col>Hawk moth</col>. <fld>(Zool.)</fld> <cd>See <er>Hawk moth</er>, in the Vocabulary.</cd> -- <col>Hawk owl</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A northern owl (<spn>Surnia ulula</spn>) of Europe and America. It flies by day, and in some respects resembles the hawks.</cd> <sd>(b)</sd> <cd>An owl of India (<spn>Ninox scutellatus</spn>).</cd> -- <col>Hawk's bill</col> <fld>(Horology)</fld>, <cd>the pawl for the rack, in the striking mechanism of a clock.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hawk</ent><br/
@@ -7374,7 +7374,7 @@ Was by a mousing owl <qex>hawked</qex> at and killed.</q> <rj><qau>Shak.</qau></
 <hw>Hawk</hw>, <pos>n.</pos> <fld>(Masonry)</fld> <def>A small board, with a handle on the under side, to hold mortar.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hawk boy</b></col>, <cd>an attendant on a plasterer to supply him with mortar.</cd></cs><br/
+<p><cs><col>Hawk boy</col>, <cd>an attendant on a plasterer to supply him with mortar.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hawksbill</ent><br/
@@ -7460,7 +7460,7 @@ Was by a mousing owl <qex>hawked</qex> at and killed.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>The situation of the cables when a vessel is moored with two anchors, one on the starboard, the other on the port bow.</def> <sd>(b)</sd> <def>The distance ahead to which the cables usually extend; <as>as, the ship has a clear or open <ex>hawse</ex>, or a foul <ex>hawse</ex>; to anchor in our <ex>hawse</ex>, or athwart <ex>hawse</ex>.</as></def> <sd>(c)</sd> <def>That part of a vessel's bow in which are the hawse holes for the cables.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Athwart hawse</b></col>. <cd>See under <er>Athwart</er>.</cd> -- <col><b>Foul hawse</b></col>, <cd>a hawse in which the cables cross each other, or are twisted together.</cd> -- <col><b>Hawse block</b></col>, <cd>a block used to stop up a hawse hole at sea; -- called also <altname>hawse plug</altname>.</cd> -- <col><b>Hawse piece</b></col>, <cd>one of the foremost timbers of a ship, through which the hawse hole is cut.</cd> -- <col><b>Hawse plug</b></col>. <cd>Same as <cref>Hawse block</cref> (above).</cd> -- <col><b>To come in at the hawse holes</b></col>, <cd>to enter the naval service at the lowest grade.</cd> <mark>[Cant]</mark> -- <col><b>To freshen the hawse</b></col>, <cd>to veer out a little more cable and bring the chafe and strain on another part.</cd></cs><br/
+<p><cs><col>Athwart hawse</col>. <cd>See under <er>Athwart</er>.</cd> -- <col>Foul hawse</col>, <cd>a hawse in which the cables cross each other, or are twisted together.</cd> -- <col>Hawse block</col>, <cd>a block used to stop up a hawse hole at sea; -- called also <altname>hawse plug</altname>.</cd> -- <col>Hawse piece</col>, <cd>one of the foremost timbers of a ship, through which the hawse hole is cut.</cd> -- <col>Hawse plug</col>. <cd>Same as <cref>Hawse block</cref> (above).</cd> -- <col>To come in at the hawse holes</col>, <cd>to enter the naval service at the lowest grade.</cd> <mark>[Cant]</mark> -- <col>To freshen the hawse</col>, <cd>to veer out a little more cable and bring the chafe and strain on another part.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hawsepipe</ent><br/
@@ -7478,7 +7478,7 @@ Was by a mousing owl <qex>hawked</qex> at and killed.</q> <rj><qau>Shak.</qau></
 <p><note><hand/ Three hawsers twisted together make a cable; but it nautical usage the distinction between cable and hawser is often one of size rather than of manufacture.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hawser iron</b></col>, <cd>a calking iron.</cd></cs><br/
+<p><cs><col>Hawser iron</col>, <cd>a calking iron.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hawser-laid</ent><br/
@@ -7500,7 +7500,7 @@ To shepherds?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A net set around the haunt of an animal, especially of a rabbit.</def>  <rj><au>Rowe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To dance the hay</b></col>, <cd>to dance in a ring.</cd>  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>To dance the hay</col>, <cd>to dance in a ring.</cd>  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hay</ent><br/
@@ -7517,7 +7517,7 @@ To shepherds?</q> <rj><qau>Shak.</qau></rj><br/
 <p><q><qex>Hay</qex> may be dried too much as well as too little.</q> <rj><qau>C. L. Flint.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hay cap</b></col>, <cd>a canvas covering for a haycock.</cd> -- <col><b>Hay fever</b></col> <fld>(Med.)</fld>, <cd>nasal catarrh accompanied with fever, and sometimes with paroxysms of dyspn<oe/a, to which some persons are subject in the spring and summer seasons.  It has been attributed to the effluvium from hay, and to the pollen of certain plants.  It is also called <altname>hay asthma</altname>, <altname>hay cold</altname>, <altname>rose cold</altname>, and <altname>rose fever</altname>.</cd> -- <col><b>Hay knife</b></col>, <cd>a sharp instrument used in cutting hay out of a stack or mow.</cd> -- <col><b>Hay press</b></col>, <cd>a press for baling loose hay.</cd> -- <col><b>Hay tea</b></col>, <cd>the juice of hay extracted by boiling, used as food for cattle, etc.</cd> -- <col><b>Hay tedder</b></col>, <cd>a machine for spreading and turning new-mown hay. See <er>Tedder</er>.</cd></cs><br/
+<p><cs><col>Hay cap</col>, <cd>a canvas covering for a haycock.</cd> -- <col>Hay fever</col> <fld>(Med.)</fld>, <cd>nasal catarrh accompanied with fever, and sometimes with paroxysms of dyspn<oe/a, to which some persons are subject in the spring and summer seasons.  It has been attributed to the effluvium from hay, and to the pollen of certain plants.  It is also called <altname>hay asthma</altname>, <altname>hay cold</altname>, <altname>rose cold</altname>, and <altname>rose fever</altname>.</cd> -- <col>Hay knife</col>, <cd>a sharp instrument used in cutting hay out of a stack or mow.</cd> -- <col>Hay press</col>, <cd>a press for baling loose hay.</cd> -- <col>Hay tea</col>, <cd>the juice of hay extracted by boiling, used as food for cattle, etc.</cd> -- <col>Hay tedder</col>, <cd>a machine for spreading and turning new-mown hay. See <er>Tedder</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hay</ent><br/
@@ -7551,7 +7551,7 @@ To shepherds?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hay"fork`</hw> <pr>(h<amac/"f<ocir/rk`)</pr>, <pos>n.</pos> <def>A fork for pitching and tedding hay.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horse hayfork</b></col>, <cd>a contrivance for unloading hay from the cart and depositing it in the loft, or on a mow, by horse power.</cd></cs><br/
+<p><cs><col>Horse hayfork</col>, <cd>a contrivance for unloading hay from the cart and depositing it in the loft, or on a mow, by horse power.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hayloft</ent><br/
@@ -7649,7 +7649,7 @@ To shepherds?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Golf)</fld> <def>Any place into which the ball may not be safely played, such as bunkers, furze, water, sand, or other kind of bad ground.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Hazard table</b></col>, <cd>a table on which hazard is played, or any game of chance for stakes.</cd> -- <col><b>To run the hazard</b></col>, <cd>to take the chance or risk.</cd>  -- <col><b>to hazard</b></col>, <cd>at risk; liable to suffer damage or loss.</cd></cs></p>
+<p><cs><col>Hazard table</col>, <cd>a table on which hazard is played, or any game of chance for stakes.</cd> -- <col>To run the hazard</col>, <cd>to take the chance or risk.</cd>  -- <col>to hazard</col>, <cd>at risk; liable to suffer damage or loss.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Danger; risk; chance. See <er>Danger</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -7758,7 +7758,7 @@ The silvery <qex>haze</qex> of summer drawn.</q> <rj><qau>Tennyson.</qau></rj><b
 <p><sn>2.</sn> <def>A miner's name for freestone.</def>  <rj><au>Raymond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hazel earth</b></col>, <cd>soil suitable for the hazel; a fertile loam.</cd> -- <col><b>Hazel grouse</b></col> <fld>(Zool.)</fld>, <cd>a European grouse (<spn>Bonasa betulina</spn>), allied to the American ruffed grouse.</cd> -- <col><b>Hazel hoe</b></col>, <cd>a kind of grub hoe.</cd> -- <col><b>Witch hazel</b></col>. <cd>See <er>Witch-hazel</er>, and <er>Hamamelis</er>.</cd></cs><br/
+<p><cs><col>Hazel earth</col>, <cd>soil suitable for the hazel; a fertile loam.</cd> -- <col>Hazel grouse</col> <fld>(Zool.)</fld>, <cd>a European grouse (<spn>Bonasa betulina</spn>), allied to the American ruffed grouse.</cd> -- <col>Hazel hoe</col>, <cd>a kind of grub hoe.</cd> -- <col>Witch hazel</col>. <cd>See <er>Witch-hazel</er>, and <er>Hamamelis</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hazel</ent><br/
@@ -7937,7 +7937,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><note><hand/ <xex>Head</xex> is often used adjectively or in self-explaining combinations; as, <xex>head</xex> gear or <xex>head</xex>gear, <xex>head</xex> rest.  Cf. <er>Head</er>, <pos>a.</pos></note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>A buck of the first head</b></col>, <cd>a male fallow deer in its fifth year, when it attains its complete set of antlers.</cd> <au>Shak.</au> -- <col><b>By the head</b></col>. <fld>(Naut.)</fld> <cd>See under <er>By</er>.</cd> -- <mcol><col><b>Elevator head</b></col>, <col><b>Feed head</b></col>, etc.</mcol> <cd>See under <er>Elevator</er>, <er>Feed</er>, etc.</cd> -- <col><b>From head to foot</b></col>, <cd>through the whole length of a man; completely; throughout.</cd> <ldquo/Arm me, audacity, from <xex>head to foot</xex>.<rdquo/ <au>Shak.</au> -- <col><b>Head and ears</b></col>, <cd>with the whole person; deeply; completely; as, he was <xex>head and ears</xex> in debt or in trouble.</cd> <mark>[Colloq.]</mark> -- <col><b>Head fast</b></col>. <fld>(Naut.)</fld> <cd>See 5th <er>Fast</er>.</cd> -- <col><b>Head kidney</b></col> <fld>(Anat.)</fld>, <cd>the most anterior of the three pairs of embryonic renal organs developed in most vertebrates; the pronephros.</cd> -- <col><b>Head money</b></col>, <cd>a capitation tax; a poll tax.</cd> <au>Milton.</au> -- <col><b>Head pence</b></col>, <cd>a poll tax.</cd> <mark>[Obs.]</mark> -- <col><b>Head sea</b></col>, <cd>a sea that meets the head of a vessel or rolls against her course.</cd> -- <col><b>Head and shoulders</b></col>. <sd>(a)</sd> <cd>By force; violently; as, to drag one, <xex>head and shoulders</xex>.</cd> <ldquo/They bring in every figure of speech, <xex>head and shoulders</xex>.<rdquo/ <au>Felton.</au> <sd>(b)</sd> <cd>By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is <xex>head and shoulders</xex> above them.</cd> -- <mcol><col><b>Heads or tails</b></col> <it>or</it> <col><b>Head or tail</b></col></mcol>, <cd>this side or that side; this thing or that; -- a phrase used in throwing a coin to decide a choice, question, or stake, <xex>head</xex> being the side of the coin bearing the effigy or principal figure (or, in case there is no head or face on either side, that side which has the date on it), and <xex>tail</xex> the other side.</cd> -- <col><b>Neither head nor tail</b></col>, <cd>neither beginning nor end; neither this thing nor that; nothing distinct or definite; -- a phrase used in speaking of what is indefinite or confused; as, they made <xex>neither head nor tail</xex> of the matter.</cd> <mark>[Colloq.]</mark> -- <col><b>Head wind</b></col>, <cd>a wind that blows in a direction opposite the vessel's course.</cd> -- <col><b>off the top of my head</b></col>, <cd>from quick recollection, or as an approximation; without research or calculation; -- a phrase used when giving quick and approximate answers to questions, to indicate that a response is not necessarily accurate.</cd> -- <col><b>Out of one's own head</b></col>, <cd>according to one's own idea; without advice or co<oum/peration of another.</cd> -- <col><b>Over the head of</b></col>, <cd>beyond the comprehension of.</cd> <au>M. Arnold.</au> -- <col><b>to go over the head of (a person)</b></col>, <cd>to appeal to a person superior to (a person) in line of command.</cd> -- <col><b>To be out of one's head</b></col>, <cd>to be temporarily insane.</cd> -- <mcol><col><b>To come to a head</b></col> or <col><b>To draw to a head</b></col></mcol>. <cd>See under <er>Come</er>, <er>Draw</er>.</cd> -- <mcol><col><b>To give <plain>(one)</plain> the head</b></col>, <it>or</it> <col><b>To give head</b></col></mcol>, <cd>to let go, or to give up, control; to free from restraint; to give license.</cd> <ldquo/He <xex>gave</xex> his able horse <xex>the head</xex>.<rdquo/ <au>Shak.</au> <ldquo/He has so long <xex>given</xex> his unruly passions their <xex>head</xex>.<rdquo/ <au>South.</au> -- <col><b>To his head</b></col>, <cd>before his face.</cd> <ldquo/An uncivil answer from a son to a father, from an obliged person to a benefactor, is a greater indecency than if an enemy should storm his house or revile him <xex>to his head</xex>.<rdquo/ <au>Jer. Taylor.</au> -- <col><b>To lay heads together</b></col>, <cd>to consult; to conspire.</cd> -- <col><b>To lose one's head</b></col>, <cd>to lose presence of mind.</cd> -- <mcol><col><b>To make head</b></col>, <it>or</it> <col><b>To make head against</b></col></mcol>, <cd>to resist with success; to advance.</cd> -- <col><b>To show one's head</b></col>, <cd>to appear.</cd> <au>Shak.</au> -- <col><b>To turn head</b></col>, <cd>to turn the face or front.</cd> <ldquo/The ravishers <xex>turn head</xex>, the fight renews.<rdquo/ <au>Dryden.</au></cs><br/
+<p><cs><col>A buck of the first head</col>, <cd>a male fallow deer in its fifth year, when it attains its complete set of antlers.</cd> <au>Shak.</au> -- <col>By the head</col>. <fld>(Naut.)</fld> <cd>See under <er>By</er>.</cd> -- <mcol><col>Elevator head</col>, <col>Feed head</col>, etc.</mcol> <cd>See under <er>Elevator</er>, <er>Feed</er>, etc.</cd> -- <col>From head to foot</col>, <cd>through the whole length of a man; completely; throughout.</cd> <ldquo/Arm me, audacity, from <xex>head to foot</xex>.<rdquo/ <au>Shak.</au> -- <col>Head and ears</col>, <cd>with the whole person; deeply; completely; as, he was <xex>head and ears</xex> in debt or in trouble.</cd> <mark>[Colloq.]</mark> -- <col>Head fast</col>. <fld>(Naut.)</fld> <cd>See 5th <er>Fast</er>.</cd> -- <col>Head kidney</col> <fld>(Anat.)</fld>, <cd>the most anterior of the three pairs of embryonic renal organs developed in most vertebrates; the pronephros.</cd> -- <col>Head money</col>, <cd>a capitation tax; a poll tax.</cd> <au>Milton.</au> -- <col>Head pence</col>, <cd>a poll tax.</cd> <mark>[Obs.]</mark> -- <col>Head sea</col>, <cd>a sea that meets the head of a vessel or rolls against her course.</cd> -- <col>Head and shoulders</col>. <sd>(a)</sd> <cd>By force; violently; as, to drag one, <xex>head and shoulders</xex>.</cd> <ldquo/They bring in every figure of speech, <xex>head and shoulders</xex>.<rdquo/ <au>Felton.</au> <sd>(b)</sd> <cd>By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is <xex>head and shoulders</xex> above them.</cd> -- <mcol><col>Heads or tails</col> <it>or</it> <col>Head or tail</col></mcol>, <cd>this side or that side; this thing or that; -- a phrase used in throwing a coin to decide a choice, question, or stake, <xex>head</xex> being the side of the coin bearing the effigy or principal figure (or, in case there is no head or face on either side, that side which has the date on it), and <xex>tail</xex> the other side.</cd> -- <col>Neither head nor tail</col>, <cd>neither beginning nor end; neither this thing nor that; nothing distinct or definite; -- a phrase used in speaking of what is indefinite or confused; as, they made <xex>neither head nor tail</xex> of the matter.</cd> <mark>[Colloq.]</mark> -- <col>Head wind</col>, <cd>a wind that blows in a direction opposite the vessel's course.</cd> -- <col>off the top of my head</col>, <cd>from quick recollection, or as an approximation; without research or calculation; -- a phrase used when giving quick and approximate answers to questions, to indicate that a response is not necessarily accurate.</cd> -- <col>Out of one's own head</col>, <cd>according to one's own idea; without advice or co<oum/peration of another.</cd> -- <col>Over the head of</col>, <cd>beyond the comprehension of.</cd> <au>M. Arnold.</au> -- <col>to go over the head of (a person)</col>, <cd>to appeal to a person superior to (a person) in line of command.</cd> -- <col>To be out of one's head</col>, <cd>to be temporarily insane.</cd> -- <mcol><col>To come to a head</col> or <col>To draw to a head</col></mcol>. <cd>See under <er>Come</er>, <er>Draw</er>.</cd> -- <mcol><col>To give <plain>(one)</plain> the head</col>, <it>or</it> <col>To give head</col></mcol>, <cd>to let go, or to give up, control; to free from restraint; to give license.</cd> <ldquo/He <xex>gave</xex> his able horse <xex>the head</xex>.<rdquo/ <au>Shak.</au> <ldquo/He has so long <xex>given</xex> his unruly passions their <xex>head</xex>.<rdquo/ <au>South.</au> -- <col>To his head</col>, <cd>before his face.</cd> <ldquo/An uncivil answer from a son to a father, from an obliged person to a benefactor, is a greater indecency than if an enemy should storm his house or revile him <xex>to his head</xex>.<rdquo/ <au>Jer. Taylor.</au> -- <col>To lay heads together</col>, <cd>to consult; to conspire.</cd> -- <col>To lose one's head</col>, <cd>to lose presence of mind.</cd> -- <mcol><col>To make head</col>, <it>or</it> <col>To make head against</col></mcol>, <cd>to resist with success; to advance.</cd> -- <col>To show one's head</col>, <cd>to appear.</cd> <au>Shak.</au> -- <col>To turn head</col>, <cd>to turn the face or front.</cd> <ldquo/The ravishers <xex>turn head</xex>, the fight renews.<rdquo/ <au>Dryden.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 677 pr=JMD --></p>
@@ -7965,7 +7965,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>6.</sn> <def>To set on the head; <as>as, to <ex>head</ex> a cask</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To head off</b></col>, <cd>to intercept; to get before; <as>as, an officer <ex>heads off</ex> a thief who is escaping</as>.</cd> <ldquo/We'll <ex>head</ex> them <ex>off</ex> at the  pass.<rdquo/ -- <col><b>To head up</b></col>, <sd>(a)</sd> <cd>to close, as a cask or barrel, by fitting a head to.</cd> <sd>(b)</sd> <cd>To serve as the leader of; <as>as, to <ex>head up</ex> a team of investigators</as>.</cd></cs><br/
+<p><cs><col>To head off</col>, <cd>to intercept; to get before; <as>as, an officer <ex>heads off</ex> a thief who is escaping</as>.</cd> <ldquo/We'll <ex>head</ex> them <ex>off</ex> at the  pass.<rdquo/ -- <col>To head up</col>, <sd>(a)</sd> <cd>to close, as a cask or barrel, by fitting a head to.</cd> <sd>(b)</sd> <cd>To serve as the leader of; <as>as, to <ex>head up</ex> a team of investigators</as>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Head</ent><br/
@@ -8097,7 +8097,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>6.</sn> <fld>(Masonry)</fld> <def>That end of a stone or brick which is presented outward.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heading course</b></col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> 3 <sdr>(a)</sdr>.</cd> -- <col><b>Heading joint</b></col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs><br/
+<p><cs><col>Heading course</col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> 3 <sdr>(a)</sdr>.</cd> -- <col>Heading joint</col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>head-in-the-clouds</ent><br/
@@ -8460,7 +8460,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><sn>2.</sn> <def>A wish of health and happiness, as in pledging a person in a toast.</def> <ldquo/Come, love and <xex>health</xex> to all.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bill of health</b></col>. <cd>See under <er>Bill</er>.</cd> -- <col><b>Health lift</b></col>, <cd>a machine for exercise, so arranged that a person lifts an increasing weight, or moves a spring of increasing tension, in such a manner that most of the muscles of the body are brought into gradual action; -- also called <altname>lifting machine</altname>.</cd> -- <col><b>Health officer</b></col>, <cd>one charged with the enforcement of the sanitary laws of a port or other place.</cd> -- <col><b>To drink a health</b></col>. <cd>See under <er>Drink</er>.</cd></cs><br/
+<p><cs><col>Bill of health</col>. <cd>See under <er>Bill</er>.</cd> -- <col>Health lift</col>, <cd>a machine for exercise, so arranged that a person lifts an increasing weight, or moves a spring of increasing tension, in such a manner that most of the muscles of the body are brought into gradual action; -- also called <altname>lifting machine</altname>.</cd> -- <col>Health officer</col>, <cd>one charged with the enforcement of the sanitary laws of a port or other place.</cd> -- <col>To drink a health</col>. <cd>See under <er>Drink</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Healthful</ent><br/
@@ -8631,7 +8631,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj><br
 <p><q>They think that they shall be <qex>heard</qex> for their much speaking.</q> <rj><qau>Matt. vi. 7.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hear him</b></col>. <cd>See Remark, under <er>Hear</er>, <pos>v. i.</pos></cd> -- <col><b>To hear a bird sing</b></col>, <cd>to receive private communication.</cd> <mark>[Colloq.]</mark> <au>Shak.</au> -- <col><b>To hear say</b></col>, <cd>to hear one say; to learn by common report; to receive by rumor.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>Hear him</col>. <cd>See Remark, under <er>Hear</er>, <pos>v. i.</pos></cd> -- <col>To hear a bird sing</col>, <cd>to receive private communication.</cd> <mark>[Colloq.]</mark> <au>Shak.</au> -- <col>To hear say</col>, <cd>to hear one say; to learn by common report; to receive by rumor.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hear</ent><br/
@@ -8654,11 +8654,11 @@ Well pleased, but answered not.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>I must <qex>hear</qex> from thee every day in the hour.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hear ill</b></col>, <cd>to be blamed.</cd> <mark>[Obs.]</mark><br/
+<p><cs><col>To hear ill</col>, <cd>to be blamed.</cd> <mark>[Obs.]</mark><br/
 <br/
 <q>Not only within his own camp, but also now at Rome, he <qex>heard ill</qex> for his temporizing and slow proceedings.</q> <rj><qau>Holland.</qau></rj><br/
 <br/
- -- <col><b>To hear well</b></col>, <cd>to be praised.</cd> <mark>[Obs.]</mark></cs><br/
+ -- <col>To hear well</col>, <cd>to be praised.</cd> <mark>[Obs.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Hear</xex>, or <xex>Hear him</xex>, is often used in the imperative, especially in the course of a speech in English assemblies, to call attention to the words of the speaker.</note><br/
@@ -8747,7 +8747,7 @@ Some little whispering and soft groaning sound.</q> <rj><qau>Spenser.</qau></rj>
 <p><q>The King of Naples . . . <qex>hearkens</qex> my brother's suit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hearken out</b></col>, <cd>to search out.</cd> <mark>[Obs.]</mark></cs><br/
+<p><cs><col>To hearken out</col>, <cd>to search out.</cd> <mark>[Obs.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>If you find none, you must <qex>hearken out</qex> a vein and buy.</q> <rj><qau>B. Johnson.</qau></rj><br/
@@ -8768,7 +8768,7 @@ Some little whispering and soft groaning sound.</q> <rj><qau>Spenser.</qau></rj>
 <p><q>Much of the obloquy that has so long rested on the memory of our great national poet originated in frivolous <qex>hearsays</qex> of his life and conversation.</q> <rj><qau>Prof. Wilson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hearsay evidence</b></col> <fld>(Law)</fld>, <cd>that species of testimony which consists in a narration by one person of matters told him by another.  It is, with a few exceptions, inadmissible as testimony.</cd>  <rj><au>Abbott.</au></rj></cs><br/
+<p><cs><col>Hearsay evidence</col> <fld>(Law)</fld>, <cd>that species of testimony which consists in a narration by one person of matters told him by another.  It is, with a few exceptions, inadmissible as testimony.</cd>  <rj><au>Abbott.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hearse</ent><br/
@@ -8873,11 +8873,11 @@ Of endless agitation.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <p><note><hand/ <ex>Heart</ex> is used in many compounds, the most of which need no special explanation; as, <ex>heart</ex>-appalling, <ex>heart</ex>-breaking, <ex>heart</ex>-cheering, <ex>heart</ex>-chilled, <ex>heart</ex>-expanding, <ex>heart</ex>-free, <ex>heart</ex>-hardened, <ex>heart</ex>-heavy, <ex>heart</ex>-purifying, <ex>heart</ex>-searching, <ex>heart</ex>-sickening, <ex>heart</ex>-sinking, <ex>heart</ex>-sore, <ex>heart</ex>-stirring, <ex>heart</ex>-touching, <ex>heart</ex>-wearing, <ex>heart</ex>-whole, <ex>heart</ex>-wounding, <ex>heart</ex>-wringing, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>After one's own heart</b></col>, <cd>conforming with one's inmost approval and desire; <as>as, a friend <ex>after my own heart</ex></as>.</cd><br/
+<p><cs><col>After one's own heart</col>, <cd>conforming with one's inmost approval and desire; <as>as, a friend <ex>after my own heart</ex></as>.</cd><br/
 <br/
 <q>The Lord hath sought him a man <qex>after his own heart</qex>.</q> <rj><qau>1 Sam. xiii. 14.</qau></rj><br/
 <br/
-  -- <col><b>At heart</b></col>, <cd>in the inmost character or disposition; at bottom; really; <as>as, he is <ex>at heart</ex> a good man</as>.</cd> -- <col><b>By heart</b></col>, <cd>in the closest or most thorough manner; <as>as, to know or learn <ex>by heart</ex></as>. <ldquo/Composing songs, for fools to get <xex>by heart</xex><rdquo/ (that is, to commit to memory, or to learn thoroughly).</cd> <au>Pope.</au> -- <col><b>to learn by heart</b></col>, <cd>to memorize.</cd> -- <col><b>For my heart</b></col>, <cd>for my life; if my life were at stake.</cd> <mark>[Obs.]</mark> <ldquo/I could not get him <xex>for my heart</xex> to do it.<rdquo/ <au>Shak.</au> -- <col><b>Heart bond</b></col> <fld>(Masonry)</fld>, <cd>a bond in which no header stone stretches across the wall, but two headers meet in the middle, and their joint is covered by another stone laid header fashion.</cd> <au>Knight.</au> -- <col><b>Heart and hand</b></col>, <cd>with enthusiastic co<oum/peration.</cd> -- <col><b>Heart hardness</b></col>, <cd>hardness of heart; callousness of feeling; moral insensibility.</cd> <au>Shak.</au> -- <col><b>Heart heaviness</b></col>, <cd>depression of spirits.</cd> <au>Shak.</au> -- <col><b>Heart point</b></col> <fld>(Her.)</fld>, <cd>the fess point. See <er>Escutcheon</er>.</cd> -- <col><b>Heart rising</b></col>, <cd>a rising of the heart, as in opposition.</cd> -- <col><b>Heart shell</b></col> <fld>(Zool.)</fld>, <cd>any marine, bivalve shell of the genus <gen>Cardium</gen> and allied genera, having a heart-shaped shell; esp., the European <gen>Isocardia cor</gen>; -- called also <altname>heart cockle</altname>.</cd> -- <col><b>Heart sickness</b></col>, <cd>extreme depression of spirits.</cd> -- <col><b>Heart and soul</b></col>, <cd>with the utmost earnestness.</cd> -- <col><b>Heart urchin</b></col> <fld>(Zool.)</fld>, <cd>any heartshaped, spatangoid sea urchin. See <er>Spatangoid</er>.</cd> -- <col><b>Heart wheel</b></col>, <cd>a form of cam, shaped like a heart. See <er>Cam</er>.</cd> -- <col><b>In good heart</b></col>, <cd>in good courage; in good hope.</cd> -- <col><b>Out of heart</b></col>, <cd>discouraged.</cd> -- <col><b>Poor heart</b></col>, <cd>an exclamation of pity.</cd> -- <col><b>To break the heart of</b></col>. <sd>(a)</sd> <cd>To bring to despair or hopeless grief; to cause to be utterly cast down by sorrow.</cd> <sd>(b)</sd> <cd>To bring almost to completion; to finish very nearly; -- said of anything undertaken; <as>as, he has <ex>broken the heart</ex> of the task</as>.</cd> -- <col><b>To find in the heart</b></col>, <cd>to be willing or disposed.</cd> <ldquo/I could <xex>find in my heart</xex> to ask your pardon.<rdquo/ <au>Sir P. Sidney.</au> -- <col><b>To have at heart</b></col>, <cd>to desire (anything) earnestly.</cd> -- <col><b>To have in the heart</b></col>, <cd>to purpose; to design or intend to do.</cd> -- <col><b>To have the heart in the mouth</b></col>, <cd>to be much frightened.</cd> -- <col><b>To lose heart</b></col>, <cd>to become discouraged.</cd> -- <col><b>To lose one's heart</b></col>, <cd>to fall in love.</cd> -- <col><b>To set the heart at rest</b></col>, <cd>to put one's self at ease.</cd> -- <col><b>To set the heart upon</b></col>, <cd>to fix the desires on; to long for earnestly; to be very fond of.</cd> -- <col><b>To take heart of grace</b></col>, <cd>to take courage.</cd> -- <col><b>To take to heart</b></col>, <cd>to grieve over.</cd> -- <col><b>To wear one's heart upon one's sleeve</b></col>, <cd>to expose one's feelings or intentions; to be frank or impulsive.</cd> -- <mcol><col><b>With all one's heart</b></col>, <col><b>With one's whole heart</b></col></mcol>, <cd>very earnestly; fully; completely; devotedly.</cd></cs><br/
+  -- <col>At heart</col>, <cd>in the inmost character or disposition; at bottom; really; <as>as, he is <ex>at heart</ex> a good man</as>.</cd> -- <col>By heart</col>, <cd>in the closest or most thorough manner; <as>as, to know or learn <ex>by heart</ex></as>. <ldquo/Composing songs, for fools to get <xex>by heart</xex><rdquo/ (that is, to commit to memory, or to learn thoroughly).</cd> <au>Pope.</au> -- <col>to learn by heart</col>, <cd>to memorize.</cd> -- <col>For my heart</col>, <cd>for my life; if my life were at stake.</cd> <mark>[Obs.]</mark> <ldquo/I could not get him <xex>for my heart</xex> to do it.<rdquo/ <au>Shak.</au> -- <col>Heart bond</col> <fld>(Masonry)</fld>, <cd>a bond in which no header stone stretches across the wall, but two headers meet in the middle, and their joint is covered by another stone laid header fashion.</cd> <au>Knight.</au> -- <col>Heart and hand</col>, <cd>with enthusiastic co<oum/peration.</cd> -- <col>Heart hardness</col>, <cd>hardness of heart; callousness of feeling; moral insensibility.</cd> <au>Shak.</au> -- <col>Heart heaviness</col>, <cd>depression of spirits.</cd> <au>Shak.</au> -- <col>Heart point</col> <fld>(Her.)</fld>, <cd>the fess point. See <er>Escutcheon</er>.</cd> -- <col>Heart rising</col>, <cd>a rising of the heart, as in opposition.</cd> -- <col>Heart shell</col> <fld>(Zool.)</fld>, <cd>any marine, bivalve shell of the genus <gen>Cardium</gen> and allied genera, having a heart-shaped shell; esp., the European <gen>Isocardia cor</gen>; -- called also <altname>heart cockle</altname>.</cd> -- <col>Heart sickness</col>, <cd>extreme depression of spirits.</cd> -- <col>Heart and soul</col>, <cd>with the utmost earnestness.</cd> -- <col>Heart urchin</col> <fld>(Zool.)</fld>, <cd>any heartshaped, spatangoid sea urchin. See <er>Spatangoid</er>.</cd> -- <col>Heart wheel</col>, <cd>a form of cam, shaped like a heart. See <er>Cam</er>.</cd> -- <col>In good heart</col>, <cd>in good courage; in good hope.</cd> -- <col>Out of heart</col>, <cd>discouraged.</cd> -- <col>Poor heart</col>, <cd>an exclamation of pity.</cd> -- <col>To break the heart of</col>. <sd>(a)</sd> <cd>To bring to despair or hopeless grief; to cause to be utterly cast down by sorrow.</cd> <sd>(b)</sd> <cd>To bring almost to completion; to finish very nearly; -- said of anything undertaken; <as>as, he has <ex>broken the heart</ex> of the task</as>.</cd> -- <col>To find in the heart</col>, <cd>to be willing or disposed.</cd> <ldquo/I could <xex>find in my heart</xex> to ask your pardon.<rdquo/ <au>Sir P. Sidney.</au> -- <col>To have at heart</col>, <cd>to desire (anything) earnestly.</cd> -- <col>To have in the heart</col>, <cd>to purpose; to design or intend to do.</cd> -- <col>To have the heart in the mouth</col>, <cd>to be much frightened.</cd> -- <col>To lose heart</col>, <cd>to become discouraged.</cd> -- <col>To lose one's heart</col>, <cd>to fall in love.</cd> -- <col>To set the heart at rest</col>, <cd>to put one's self at ease.</cd> -- <col>To set the heart upon</col>, <cd>to fix the desires on; to long for earnestly; to be very fond of.</cd> -- <col>To take heart of grace</col>, <cd>to take courage.</cd> -- <col>To take to heart</col>, <cd>to grieve over.</cd> -- <col>To wear one's heart upon one's sleeve</col>, <cd>to expose one's feelings or intentions; to be frank or impulsive.</cd> -- <mcol><col>With all one's heart</col>, <col>With one's whole heart</col></mcol>, <cd>very earnestly; fully; completely; devotedly.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heart</ent><br/
@@ -8900,7 +8900,7 @@ Of endless agitation.</q> <rj><qau>Wordsworth.</qau></rj><br/
 <syn><b>Syn. --</b> pulse, pulsation, beat.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><col><b>in a heartbeat</b></col> <cd>immediately.</cd></cs><br/
+<p><cs><col>in a heartbeat</col> <cd>immediately.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Heartbreak</ent><br/
@@ -9013,7 +9013,7 @@ There pinch the maids as blue as bilberry.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Metal. & Manuf.)</fld> <def>The floor of a furnace, on which the material to be heated lies, or the lowest part of a melting furnace, into which the melted material settles; <as>as, an open-<ex>hearth</ex> smelting furnace</as>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Hearth ends</b></col> <fld>(Metal.)</fld>, <cd>fragments of lead ore ejected from the furnace by the blast.</cd> -- <mcol><col><b>Hearth money</b></col>, <col><b>Hearth penny</b></col></mcol> <ety>[AS. <ets>heor<edh/pening</ets>]</ety>, a <cd>tax formerly laid in England on hearths, each hearth (in all houses paying the church and poor rates) being taxed at two shillings; -- called also <altname>chimney money</altname>, etc.</cd></cs><br/
+<p><cs><col>Hearth ends</col> <fld>(Metal.)</fld>, <cd>fragments of lead ore ejected from the furnace by the blast.</cd> -- <mcol><col>Hearth money</col>, <col>Hearth penny</col></mcol> <ety>[AS. <ets>heor<edh/pening</ets>]</ety>, a <cd>tax formerly laid in England on hearths, each hearth (in all houses paying the church and poor rates) being taxed at two shillings; -- called also <altname>chimney money</altname>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>He had been importuned by the common people to relieve them from the . . . burden of the <qex>hearth money</qex>.</q> <rj><qau>Macaulay.</qau></rj><br/
@@ -9040,7 +9040,7 @@ There pinch the maids as blue as bilberry.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>With zeal; actively; vigorously; willingly; cordially; <as>as, he <ex>heartily</ex> assisted the prince</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To eat heartily</b></col>, <cd>to eat freely and with relish.</cd>  <rj><au>Addison.</au></rj></cs></p>
+<p><cs><col>To eat heartily</col>, <cd>to eat freely and with relish.</cd>  <rj><au>Addison.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Sincerely; cordially; zealously; vigorously; actively; warmly; eagerly; ardently; earnestly.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -9287,7 +9287,7 @@ Avoided pinching cold and scorching <qex>heat</qex>!</q> <rj><qau>Milton.</qau><
 <p><sn>12.</sn> <def>Strong psychological pressure, as in a police investigation; <as>as, when they turned up the <ex>heat,</ex> he took it on the lam</as>.</def> <mark>[slang]</mark> <br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>Animal heat</b></col>, <col><b>Blood heat</b></col>, <col><b>Capacity for heat</b></col></mcol>, <cd>etc. See under <er>Animal</er>, <er>Blood</er>, etc.</cd> -- <col><b>Atomic heat</b></col> <fld>(Chem.)</fld>, <cd>the product obtained by multiplying the atomic weight of any element by its specific heat.  The atomic heat of all solid elements is nearly a constant, the mean value being 6.4.</cd> -- <col><b>Dynamical theory of heat</b></col>, <cd>that theory of heat which assumes it to be, not a peculiar kind of matter, but a peculiar motion of the ultimate particles of matter.</cd> <col><b>Heat engine</b></col>, <cd>any apparatus by which a heated substance, as a heated fluid, is made to perform work by giving motion to mechanism, as a hot-air engine, or a steam engine.</cd> -- <col><b>Heat producers</b></col>. <fld>(Physiol.)</fld> <cd>See under <er>Food</er>.</cd> -- <col><b>Heat rays</b></col>, <cd>a term formerly applied to the rays near the red end of the spectrum, whether within or beyond the visible spectrum.</cd> -- <col><b>Heat weight</b></col> <fld>(Mech.)</fld>, <cd>the product of any quantity of heat by the mechanical equivalent of heat divided by the absolute temperature; -- called also <altname>thermodynamic function</altname>, and <altname>entropy</altname>.</cd> -- <col><b>Mechanical equivalent of heat</b></col>. <cd>See under <er>Equivalent</er>.</cd> -- <col><b>Specific heat of a substance</b> <plain>(at any temperature)</plain></col>, <cd>the number of units of heat required to raise the temperature of a unit mass of the substance at that temperature one degree.</cd> -- <col><b>Unit of heat</b></col>, <cd>the quantity of heat required to raise, by one degree, the temperature of a unit mass of water, initially at a certain standard temperature. The temperature usually employed is that of 0<deg/ Centigrade, or 32<deg/ Fahrenheit.</cd></cs><br/
+<p><cs><mcol><col>Animal heat</col>, <col>Blood heat</col>, <col>Capacity for heat</col></mcol>, <cd>etc. See under <er>Animal</er>, <er>Blood</er>, etc.</cd> -- <col>Atomic heat</col> <fld>(Chem.)</fld>, <cd>the product obtained by multiplying the atomic weight of any element by its specific heat.  The atomic heat of all solid elements is nearly a constant, the mean value being 6.4.</cd> -- <col>Dynamical theory of heat</col>, <cd>that theory of heat which assumes it to be, not a peculiar kind of matter, but a peculiar motion of the ultimate particles of matter.</cd> <col>Heat engine</col>, <cd>any apparatus by which a heated substance, as a heated fluid, is made to perform work by giving motion to mechanism, as a hot-air engine, or a steam engine.</cd> -- <col>Heat producers</col>. <fld>(Physiol.)</fld> <cd>See under <er>Food</er>.</cd> -- <col>Heat rays</col>, <cd>a term formerly applied to the rays near the red end of the spectrum, whether within or beyond the visible spectrum.</cd> -- <col>Heat weight</col> <fld>(Mech.)</fld>, <cd>the product of any quantity of heat by the mechanical equivalent of heat divided by the absolute temperature; -- called also <altname>thermodynamic function</altname>, and <altname>entropy</altname>.</cd> -- <col>Mechanical equivalent of heat</col>. <cd>See under <er>Equivalent</er>.</cd> -- <col><b>Specific heat of a substance</b> <plain>(at any temperature)</plain></col>, <cd>the number of units of heat required to raise the temperature of a unit mass of the substance at that temperature one degree.</cd> -- <col>Unit of heat</col>, <cd>the quantity of heat required to raise, by one degree, the temperature of a unit mass of water, initially at a certain standard temperature. The temperature usually employed is that of 0<deg/ Centigrade, or 32<deg/ Fahrenheit.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heat</ent><br/
@@ -9338,7 +9338,7 @@ Avoided pinching cold and scorching <qex>heat</qex>!</q> <rj><qau>Milton.</qau><
 <p><sn>3.</sn> <def>A pistol or other carryable firearm; <as>as, gunmen with their <ex>heaters</ex> bulging in their pockets</as>.</def> <mark>[slang]</mark><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Feed heater</b></col>. <cd>See under <er>Feed</er>.</cd></cs><br/
+<p><cs><col>Feed heater</col>. <cd>See under <er>Feed</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heath</ent><br/
@@ -9352,7 +9352,7 @@ Avoided pinching cold and scorching <qex>heat</qex>!</q> <rj><qau>Milton.</qau><
 Stands on the blasted <qex>heath</qex>.</q> <rj><qau>Milton</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heath cock</b></col> <fld>(Zool.)</fld>, <cd>the blackcock. See <cref>Heath grouse</cref> (below).</cd> -- <col><b>Heath grass</b></col> <fld>(Bot.)</fld>, <cd>a kind of perennial grass, of the genus <gen>Triodia</gen> (<spn>Triodia decumbens</spn>), growing on dry heaths.</cd> -- <mcol><col><b>Heath grouse</b></col>, <it>or</it>  <col><b>Heath game</b></col></mcol> <fld>(Zool.)</fld>, <cd>a European grouse (<spn>Tetrao tetrix</spn>), which inhabits heaths; -- called also <altname>black game</altname>, <altname>black grouse</altname>, <altname>heath poult</altname>, <altname>heath fowl</altname>, <altname>moor fowl</altname>.  The male is called <altname>heath cock</altname>, and <altname>blackcock</altname>; the female, <altname>heath hen</altname>, and <altname>gray hen</altname>.</cd> -- <col><b>Heath hen</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Heath grouse</cref> (above).</cd> -- <col><b>Heath pea</b></col> <fld>(Bot.)</fld>, <cd>a species of bitter vetch (<spn>Lathyrus macrorhizus</spn>), the tubers of which are eaten, and in Scotland are used to flavor whisky.</cd> -- <col><b>Heath throstle</b></col> <fld>(Zool.)</fld>, <cd>a European thrush which frequents heaths; the ring ouzel.</cd></cs><br/
+<p><cs><col>Heath cock</col> <fld>(Zool.)</fld>, <cd>the blackcock. See <cref>Heath grouse</cref> (below).</cd> -- <col>Heath grass</col> <fld>(Bot.)</fld>, <cd>a kind of perennial grass, of the genus <gen>Triodia</gen> (<spn>Triodia decumbens</spn>), growing on dry heaths.</cd> -- <mcol><col>Heath grouse</col>, <it>or</it>  <col>Heath game</col></mcol> <fld>(Zool.)</fld>, <cd>a European grouse (<spn>Tetrao tetrix</spn>), which inhabits heaths; -- called also <altname>black game</altname>, <altname>black grouse</altname>, <altname>heath poult</altname>, <altname>heath fowl</altname>, <altname>moor fowl</altname>.  The male is called <altname>heath cock</altname>, and <altname>blackcock</altname>; the female, <altname>heath hen</altname>, and <altname>gray hen</altname>.</cd> -- <col>Heath hen</col>. <fld>(Zool.)</fld> <cd>See <cref>Heath grouse</cref> (above).</cd> -- <col>Heath pea</col> <fld>(Bot.)</fld>, <cd>a species of bitter vetch (<spn>Lathyrus macrorhizus</spn>), the tubers of which are eaten, and in Scotland are used to flavor whisky.</cd> -- <col>Heath throstle</col> <fld>(Zool.)</fld>, <cd>a European thrush which frequents heaths; the ring ouzel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heathclad</ent><br/
@@ -9369,7 +9369,7 @@ Stands on the blasted <qex>heath</qex>.</q> <rj><qau>Milton</qau></rj><br/
 <p><q>If it is no more than a moral discourse, he may preach it and they may hear it, and yet both continue unconverted <qex>heathens</qex>.</q> <rj><qau>V. Knox.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The heathen</b></col>, <cd>as the term is used in the Scriptures, all people except the Jews; now used of all people except Christians, Jews, and Muslims.</cd></cs><br/
+<p><cs><col>The heathen</col>, <cd>as the term is used in the Scriptures, all people except the Jews; now used of all people except Christians, Jews, and Muslims.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Ask of me, and I shall give thee the <qex>heathen</qex> for thine inheritance.</q> <rj><qau>Ps. ii. 8.</qau></rj></p>
@@ -9450,7 +9450,7 @@ And <qex>heather</qex>, where his footsteps pass,<br/
 The brighter seem.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heather bell</b></col> <fld>(Bot.)</fld>, <cd>one of the pretty subglobose flowers of two European kinds of heather (<spn>Erica Tetralix</spn>, and <spn>Erica cinerea</spn>).</cd></cs><br/
+<p><cs><col>Heather bell</col> <fld>(Bot.)</fld>, <cd>one of the pretty subglobose flowers of two European kinds of heather (<spn>Erica Tetralix</spn>, and <spn>Erica cinerea</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heathery</ent><br/
@@ -9471,7 +9471,7 @@ The brighter seem.</q> <rj><qau>Longfellow.</qau></rj><br/
 <hw>Heat"ing</hw> <pr>(h<emac/t"<icr/ng)</pr>, <pos>a.</pos> <def>That heats or imparts heat; promoting warmth or heat; exciting action; stimulating; <as>as, <ex>heating</ex> medicines or applications</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heating surface</b></col> <fld>(Steam Boilers)</fld>, <cd>the aggregate surface exposed to fire or to the heated products of combustion, esp. of all the plates or sheets that are exposed to water on their opposite surfaces; -- called also <altname>fire surface</altname>.</cd></cs><br/
+<p><cs><col>Heating surface</col> <fld>(Steam Boilers)</fld>, <cd>the aggregate surface exposed to fire or to the heated products of combustion, esp. of all the plates or sheets that are exposed to water on their opposite surfaces; -- called also <altname>fire surface</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heatingly</ent><br/
@@ -9523,7 +9523,7 @@ The brighter seem.</q> <rj><qau>Longfellow.</qau></rj><br/
 That <qex>heave</qex> our friths, and crowd upon our shores.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To heave a cable short</b></col> <fld>(Naut.)</fld>, <cd>to haul in cable till the ship is almost perpendicularly above the anchor.</cd> -- <col><b>To heave a ship ahead</b></col> <fld>(Naut.)</fld>, <cd>to warp her ahead when not under sail, as by means of cables.</cd> -- <col><b>To heave a ship down</b></col> <fld>(Naut.)</fld>, <cd>to throw or lay her down on one side; to careen her.</cd> -- <col><b>To heave a ship to</b></col> <fld>(Naut.)</fld>, <cd>to bring the ship's head to the wind, and stop her motion.</cd> -- <col><b>To heave about</b></col> <fld>(Naut.)</fld>, <cd>to put about suddenly.</cd> -- <col><b>To heave in</b></col> <fld>(Naut.)</fld>, <cd>to shorten (cable).</cd> -- <col><b>To heave in stays</b></col> <fld>(Naut.)</fld>, <cd>to put a vessel on the other tack.</cd> -- <col><b>To heave out a sail</b></col> <fld>(Naut.)</fld>, <cd>to unfurl it.</cd> -- <col><b>To heave taut</b></col> <fld>(Naut.)</fld>, <cd>to turn a capstan, etc., till the rope becomes strained. See <er>Taut</er>, and <er>Tight</er>.</cd> -- <col><b>To heave the lead</b></col> <fld>(Naut.)</fld>, <cd>to take soundings with lead and line.</cd> -- <col><b>To heave the log</b></col>. <fld>(Naut.)</fld> <cd>See <er>Log</er>.</cd> -- <col><b>To heave up anchor</b></col> <fld>(Naut.)</fld>, <cd>to raise it from the bottom of the sea or elsewhere.</cd></cs><br/
+<p><cs><col>To heave a cable short</col> <fld>(Naut.)</fld>, <cd>to haul in cable till the ship is almost perpendicularly above the anchor.</cd> -- <col>To heave a ship ahead</col> <fld>(Naut.)</fld>, <cd>to warp her ahead when not under sail, as by means of cables.</cd> -- <col>To heave a ship down</col> <fld>(Naut.)</fld>, <cd>to throw or lay her down on one side; to careen her.</cd> -- <col>To heave a ship to</col> <fld>(Naut.)</fld>, <cd>to bring the ship's head to the wind, and stop her motion.</cd> -- <col>To heave about</col> <fld>(Naut.)</fld>, <cd>to put about suddenly.</cd> -- <col>To heave in</col> <fld>(Naut.)</fld>, <cd>to shorten (cable).</cd> -- <col>To heave in stays</col> <fld>(Naut.)</fld>, <cd>to put a vessel on the other tack.</cd> -- <col>To heave out a sail</col> <fld>(Naut.)</fld>, <cd>to unfurl it.</cd> -- <col>To heave taut</col> <fld>(Naut.)</fld>, <cd>to turn a capstan, etc., till the rope becomes strained. See <er>Taut</er>, and <er>Tight</er>.</cd> -- <col>To heave the lead</col> <fld>(Naut.)</fld>, <cd>to take soundings with lead and line.</cd> -- <col>To heave the log</col>. <fld>(Naut.)</fld> <cd>See <er>Log</er>.</cd> -- <col>To heave up anchor</col> <fld>(Naut.)</fld>, <cd>to raise it from the bottom of the sea or elsewhere.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 680 --></p>
@@ -9559,7 +9559,7 @@ That <qex>heave</qex> our friths, and crowd upon our shores.</q> <rj><qau>Thomso
 <p><sn>4.</sn> <def>To make an effort to vomit; to retch; to vomit.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To heave at</b></col>. <sd>(a)</sd> <cd>To make an effort at.</cd> <sd>(b)</sd> <cd>To attack, to oppose.</cd> <mark>[Obs.]</mark> <au>Fuller.</au> -- <col><b>To heave in sight</b></col> <cd>(as a ship at sea), to come in sight; to appear.</cd> -- <col><b>To heave up</b></col>, <cd>to vomit.</cd> <mark>[Low]</mark></cs><br/
+<p><cs><col>To heave at</col>. <sd>(a)</sd> <cd>To make an effort at.</cd> <sd>(b)</sd> <cd>To attack, to oppose.</cd> <mark>[Obs.]</mark> <au>Fuller.</au> -- <col>To heave in sight</col> <cd>(as a ship at sea), to come in sight; to appear.</cd> -- <col>To heave up</col>, <cd>to vomit.</cd> <mark>[Low]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heave</ent><br/
@@ -9797,7 +9797,7 @@ Is <qex>heavened</qex> in the hush of purple hills.</q> <rj><qau>G. Massey.</qau
 <p><sn>12.</sn> <def>With child; pregnant.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heavy artillery</b></col>. <fld>(Mil.)</fld> <sd>(a)</sd> <cd>Guns of great weight or large caliber, esp. siege, garrison, and seacoast guns.</cd> <sd>(b)</sd> <cd>Troops which serve heavy guns.</cd> -- <col><b>Heavy cavalry</b></col>. <cd>See under <er>Cavalry</er>.</cd> -- <col><b>Heavy fire</b></col> <fld>(Mil.)</fld>, <cd>a continuous or destructive cannonading, or discharge of small arms.</cd> -- <col><b>Heavy metal</b></col> <fld>(Mil.)</fld>, <cd>large guns carrying balls of a large size; also, large balls for such guns.</cd><-- a type of rock music (1970's), with a hard beat, amplified electronically --> -- <col><b>Heavy metals</b></col>. <fld>(Chem.)</fld> <cd>See under <er>Metal</er>.</cd> -- <col><b>Heavy weight</b></col>, <cd>in wrestling, boxing, etc., a term applied to the heaviest of the classes into which contestants are divided.  Cf. <cref>Feather weight</cref> <sd>(c)</sd>, under <er>Feather</er>.</cd></cs><br/
+<p><cs><col>Heavy artillery</col>. <fld>(Mil.)</fld> <sd>(a)</sd> <cd>Guns of great weight or large caliber, esp. siege, garrison, and seacoast guns.</cd> <sd>(b)</sd> <cd>Troops which serve heavy guns.</cd> -- <col>Heavy cavalry</col>. <cd>See under <er>Cavalry</er>.</cd> -- <col>Heavy fire</col> <fld>(Mil.)</fld>, <cd>a continuous or destructive cannonading, or discharge of small arms.</cd> -- <col>Heavy metal</col> <fld>(Mil.)</fld>, <cd>large guns carrying balls of a large size; also, large balls for such guns.</cd><-- a type of rock music (1970's), with a hard beat, amplified electronically --> -- <col>Heavy metals</col>. <fld>(Chem.)</fld> <cd>See under <er>Metal</er>.</cd> -- <col>Heavy weight</col>, <cd>in wrestling, boxing, etc., a term applied to the heaviest of the classes into which contestants are divided.  Cf. <cref>Feather weight</cref> <sd>(c)</sd>, under <er>Feather</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>Heavy</xex> is used in composition to form many words which need no special explanation; as, <xex>heavy</xex>-built, <xex>heavy</xex>-browed, <xex>heavy</xex>-gaited, etc.</note><br/
@@ -10054,7 +10054,7 @@ Is <qex>heavened</qex> in the hush of purple hills.</q> <rj><qau>G. Massey.</qau
 <p><sn>6.</sn> <def>A bend or winding of a stream.</def> <mark>[Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Half heck</b></col>, <cd>the lower half of a door.</cd> -- <col><b>Heck board</b></col>, <cd>the loose board at the bottom or back of a cart.</cd> -- <mcol><col><b>Heck box</b></col> <it>or</it> <col><b>Heck frame</b></col></mcol>, <cd>that which carries the heck in warping.</cd></cs><br/
+<p><cs><col>Half heck</col>, <cd>the lower half of a door.</cd> -- <col>Heck board</col>, <cd>the loose board at the bottom or back of a cart.</cd> -- <mcol><col>Heck box</col> <it>or</it> <col>Heck frame</col></mcol>, <cd>that which carries the heck in warping.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heck</ent><br/
@@ -10098,7 +10098,7 @@ Is <qex>heavened</qex> in the hush of purple hills.</q> <rj><qau>G. Massey.</qau
 <p><sn>2.</sn> <def>In a hectic condition; having hectic fever; consumptive; <as>as, a <ex>hectic</ex> patient</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hectic fever</b></col> <fld>(Med.)</fld>, <cd>a fever of irritation and debility, occurring usually at a advanced stage of exhausting disease, as a in pulmonary consumption.</cd></cs><br/
+<p><cs><col>Hectic fever</col> <fld>(Med.)</fld>, <cd>a fever of irritation and debility, occurring usually at a advanced stage of exhausting disease, as a in pulmonary consumption.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hectic</ent><br/
@@ -10215,7 +10215,7 @@ Of sweetbrier <qex>hedges</qex> I pursue my walk.</q> <rj><qau>Thomson.</qau></r
 <p><note><hand/ <xex>Hedge</xex>, when used adjectively or in composition, often means <xex>rustic</xex>, <xex>outlandish</xex>, <xex>illiterate</xex>, <xex>poor</xex>, or <xex>mean</xex>; as, <xex>hedge</xex> priest; <xex>hedge</xex>born, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hedge bells</b></col>, <col><b>Hedge bindweed</b></col></mcol> <fld>(Bot.)</fld>, <cd>a climbing plant related to the morning-glory (<spn>Convolvulus sepium</spn>).</cd> -- <col><b>Hedge bill</b></col>, <cd>a long-handled billhook.</cd> -- <col><b>Hedge garlic</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Alliaria</gen>. See <cref>Garlic mustard</cref>, under <er>Garlic</er>.</cd> -- <col><b>Hedge hyssop</b></col> <fld>(Bot.)</fld>, <cd>a bitter herb of the genus <gen>Gratiola</gen>, the leaves of which are emetic and purgative.</cd> -- <col><b>Hedge marriage</b></col>, <cd>a secret or clandestine marriage, especially one performed by a hedge priest.</cd> <mark>[Eng.]</mark> -- <col><b>Hedge mustard</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Sisymbrium</gen>, belonging to the Mustard family.</cd> -- <col><b>Hedge nettle</b></col> <fld>(Bot.)</fld>, <cd>an herb, or under shrub, of the genus <gen>Stachys</gen>, belonging to the Mint family. It has a nettlelike appearance, though quite harmless.</cd> -- <col><b>Hedge note</b></col>. <sd>(a)</sd> <cd>The note of a hedge bird.</cd> <sd>(b)</sd> <cd>Low, contemptible writing.</cd> <mark>[Obs.]</mark> <au>Dryden.</au> -- <col><b>Hedge priest</b></col>, <cd>a poor, illiterate priest.</cd> <au>Shak.</au> -- <col><b>Hedge school</b></col>, <cd>an open-air school in the shelter of a hedge, in Ireland; a school for rustics.</cd> -- <col><b>Hedge sparrow</b></col> <fld>(Zool.)</fld>, <cd>a European warbler (<spn>Accentor modularis</spn>) which frequents hedges. Its color is reddish brown, and ash; the wing coverts are tipped with white. Called also <altname>chanter</altname>, <altname>hedge warbler</altname>, <altname>dunnock</altname>, and <altname>doney</altname>.</cd> -- <col><b>Hedge writer</b></col>, <cd>an insignificant writer, or a writer of low, scurrilous stuff.</cd> <mark>[Obs.]</mark> <au>Swift.</au> -- <col><b>To breast up a hedge</b></col>. <cd>See under <er>Breast</er>.</cd> -- <col><b>To hang in the hedge</b></col>, <cd>to be at a standstill.</cd> <ldquo/While the business of money <xex>hangs in the hedge</xex>.<rdquo/  <rj><au>Pepys.</au></rj></cs><br/
+<p><cs><mcol><col>Hedge bells</col>, <col>Hedge bindweed</col></mcol> <fld>(Bot.)</fld>, <cd>a climbing plant related to the morning-glory (<spn>Convolvulus sepium</spn>).</cd> -- <col>Hedge bill</col>, <cd>a long-handled billhook.</cd> -- <col>Hedge garlic</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Alliaria</gen>. See <cref>Garlic mustard</cref>, under <er>Garlic</er>.</cd> -- <col>Hedge hyssop</col> <fld>(Bot.)</fld>, <cd>a bitter herb of the genus <gen>Gratiola</gen>, the leaves of which are emetic and purgative.</cd> -- <col>Hedge marriage</col>, <cd>a secret or clandestine marriage, especially one performed by a hedge priest.</cd> <mark>[Eng.]</mark> -- <col>Hedge mustard</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Sisymbrium</gen>, belonging to the Mustard family.</cd> -- <col>Hedge nettle</col> <fld>(Bot.)</fld>, <cd>an herb, or under shrub, of the genus <gen>Stachys</gen>, belonging to the Mint family. It has a nettlelike appearance, though quite harmless.</cd> -- <col>Hedge note</col>. <sd>(a)</sd> <cd>The note of a hedge bird.</cd> <sd>(b)</sd> <cd>Low, contemptible writing.</cd> <mark>[Obs.]</mark> <au>Dryden.</au> -- <col>Hedge priest</col>, <cd>a poor, illiterate priest.</cd> <au>Shak.</au> -- <col>Hedge school</col>, <cd>an open-air school in the shelter of a hedge, in Ireland; a school for rustics.</cd> -- <col>Hedge sparrow</col> <fld>(Zool.)</fld>, <cd>a European warbler (<spn>Accentor modularis</spn>) which frequents hedges. Its color is reddish brown, and ash; the wing coverts are tipped with white. Called also <altname>chanter</altname>, <altname>hedge warbler</altname>, <altname>dunnock</altname>, and <altname>doney</altname>.</cd> -- <col>Hedge writer</col>, <cd>an insignificant writer, or a writer of low, scurrilous stuff.</cd> <mark>[Obs.]</mark> <au>Swift.</au> -- <col>To breast up a hedge</col>. <cd>See under <er>Breast</er>.</cd> -- <col>To hang in the hedge</col>, <cd>to be at a standstill.</cd> <ldquo/While the business of money <xex>hangs in the hedge</xex>.<rdquo/  <rj><au>Pepys.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedge</ent><br/
@@ -10243,7 +10243,7 @@ Of sweetbrier <qex>hedges</qex> I pursue my walk.</q> <rj><qau>Thomson.</qau></r
 <p><sn>5.</sn> <def>To protect oneself against excessive loss in an activity by taking a countervailing action; <as>as, to <ex>hedge</ex> an investment denominated in a foreign currency by buying or selling futures in that currency; to <ex>hedge</ex> a donation to one political party by also donating to the opposed political party</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>To hedge a bet</b></col>, <cd>to bet upon both sides; that is, after having bet on one side, to bet also on the other, thus guarding against loss.  See hedge{5}.</cd></cs><br/
+<p><cs><col>To hedge a bet</col>, <cd>to bet upon both sides; that is, after having bet on one side, to bet also on the other, thus guarding against loss.  See hedge{5}.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedge</ent><br/
@@ -10298,7 +10298,7 @@ Of sweetbrier <qex>hedges</qex> I pursue my walk.</q> <rj><qau>Thomson.</qau></r
 <p><sn>6.</sn> <fld>(Mil.)</fld> <def>a defensive obstacle having pointed barbs extending outward, such as one composed of crossed logs with barbed wire wound around them, or a tangle of steel beams embedded in concrete used to impede or damage landing craft on a beach; also, a position well-fortified with such defensive obstacles.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Hedgehog caterpillar</b></col> <fld>(Zool.)</fld>, <cd>the hairy larvae of several species of bombycid moths, as of the Isabella moth. It curls up like a hedgehog when disturbed. See <er>Woolly bear</er>, and <er>Isabella moth</er>.</cd> -- <col><b>Hedgehog fish</b></col> <fld>(Zool.)</fld>, <cd>any spinose plectognath fish, esp. of the genus <gen>Diodon</gen>; the porcupine fish.</cd> -- <col><b>Hedgehog grass</b></col> <fld>(Bot.)</fld>, <cd>a grass with spiny involucres, growing on sandy shores; burgrass (<spn>Cenchrus tribuloides</spn>).</cd> -- <col><b>Hedgehog rat</b></col> <fld>(Zool.)</fld>, <cd>one of several West Indian rodents, allied to the porcupines, but with ratlike tails, and few quills, or only stiff bristles. The hedgehog rats belong to <gen>Capromys</gen>, <gen>Plagiodon</gen>, and allied genera.</cd> -- <col><b>Hedgehog shell</b></col> <fld>(Zool.)</fld>, <cd>any spinose, marine, univalve shell of the genus <gen>Murex</gen>.</cd> -- <col><b>Hedgehog thistle</b></col> <fld>(Bot.)</fld>, <cd>a plant of the Cactus family, globular in form, and covered with spines (<gen>Echinocactus</gen>).</cd> -- <col><b>Sea hedgehog</b></col>. <cd>See <er>Diodon</er>.</cd></cs><br/
+<p><cs><col>Hedgehog caterpillar</col> <fld>(Zool.)</fld>, <cd>the hairy larvae of several species of bombycid moths, as of the Isabella moth. It curls up like a hedgehog when disturbed. See <er>Woolly bear</er>, and <er>Isabella moth</er>.</cd> -- <col>Hedgehog fish</col> <fld>(Zool.)</fld>, <cd>any spinose plectognath fish, esp. of the genus <gen>Diodon</gen>; the porcupine fish.</cd> -- <col>Hedgehog grass</col> <fld>(Bot.)</fld>, <cd>a grass with spiny involucres, growing on sandy shores; burgrass (<spn>Cenchrus tribuloides</spn>).</cd> -- <col>Hedgehog rat</col> <fld>(Zool.)</fld>, <cd>one of several West Indian rodents, allied to the porcupines, but with ratlike tails, and few quills, or only stiff bristles. The hedgehog rats belong to <gen>Capromys</gen>, <gen>Plagiodon</gen>, and allied genera.</cd> -- <col>Hedgehog shell</col> <fld>(Zool.)</fld>, <cd>any spinose, marine, univalve shell of the genus <gen>Murex</gen>.</cd> -- <col>Hedgehog thistle</col> <fld>(Bot.)</fld>, <cd>a plant of the Cactus family, globular in form, and covered with spines (<gen>Echinocactus</gen>).</cd> -- <col>Sea hedgehog</col>. <cd>See <er>Diodon</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedgeless</ent><br/
@@ -10336,7 +10336,7 @@ Of sweetbrier <qex>hedges</qex> I pursue my walk.</q> <rj><qau>Thomson.</qau></r
 <p><sn>2.</sn> <def>Of or relating to Hedonism or the Hedonic sect.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hedonic sect</b></col> <cd>a sect that placed the highest good in the gratification of the senses, -- called also <altname>Cyrenaic sect</altname>, (which see), and <altname>School of Aristippus</altname>.</cd></cs><br/
+<p><cs><col>Hedonic sect</col> <cd>a sect that placed the highest good in the gratification of the senses, -- called also <altname>Cyrenaic sect</altname>, (which see), and <altname>School of Aristippus</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hedonics</ent><br/
@@ -10439,7 +10439,7 @@ Whose eyes they are that wound him so.</q> <rj><qau>Waller.</qau></rj></p>
 <hw>Heel</hw> <pr>(h<emac/l)</pr>, <pos>v. i.</pos> <ety>[OE. <ets>helden</ets> to lean, incline, AS. <ets>heldan</ets>, <ets>hyldan</ets>; akin to Icel. <ets>halla</ets>, Dan. <ets>helde</ets>, Sw. <ets>h<aum/lla</ets> to tilt, pour, and perh. to E. <ets>hill</ets>.]</ety> <fld>(Naut.)</fld> <def>To lean or tip to one side, as a ship; <as>as, the ship <ex>heels</ex> aport; the boat <ex>heeled</ex> over when the squall struck it.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heeling error</b></col> <fld>(Naut.)</fld>, <cd>a deviation of the compass caused by the heeling of an iron vessel to one side or the other.</cd></cs><br/
+<p><cs><col>Heeling error</col> <fld>(Naut.)</fld>, <cd>a deviation of the compass caused by the heeling of an iron vessel to one side or the other.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heel</ent><br/
@@ -10474,7 +10474,7 @@ His winged <qex>heels</qex> and then his armed head.</q> <rj><qau>Denham.</qau><
 <p><sn>9.</sn>  <def>In a carding machine, the part of a flat nearest the cylinder.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Heel chain</b></col> <fld>(Naut.)</fld>, <cd>a chain passing from the bowsprit cap around the heel of the jib boom.</cd> -- <col><b>Heel plate</b></col>, <cd>the butt plate of a gun.</cd> -- <col><b>Heel of a rafter</b></col>. <fld>(Arch.)</fld> <cd>See <er>Heel</er>, <pos>n.</pos>, <snr>7</snr>.</cd> -- <col><b>Heel ring</b></col>, <cd>a ring for fastening a scythe blade to the snath.</cd> -- <col><b>Neck and heels</b></col>, <cd>the whole body.</cd> <mark>(Colloq.)</mark> -- <col><b>To be at the heels of</b></col>, <cd>to pursue closely; to follow hard; <as>as, hungry want <ex>is at</ex> my <ex>heels</ex></as>.</cd> <au>Otway.</au> -- <col><b>To be down at the heel</b></col>, <cd>to be slovenly or in a poor plight.</cd> -- <col><b>To be out at the heels</b></col>, <cd>to have on stockings that are worn out; hence, to be shabby, or in a poor plight.</cd> <au>Shak.</au> -- <col><b>To cool the heels</b></col>. <cd>See under <er>Cool</er>.</cd> -- <col><b>To go heels over head</b></col>, <cd>to turn over so as to bring the heels uppermost; hence, to move in a inconsiderate, or rash, manner.</cd> -- <col><b>To have the heels of</b></col>, <cd>to outrun.</cd> -- <col><b>To lay by the heels</b></col>, <cd>to fetter; to shackle; to imprison.</cd> <au>Shak.</au> <au>Addison.</au> -- <col><b>To show the heels</b></col>, <cd>to flee; to run from.</cd> -- <col><b>To take to the heels</b></col>, <cd>to flee; to betake to flight.</cd> -- <col><b>To throw up another's heels</b></col>, <cd>to trip him.</cd> <au>Bunyan.</au> -- <col><b>To tread upon one's heels</b></col>, <cd>to follow closely.</cd> <au>Shak.</au></cs><br/
+<p><cs><col>Heel chain</col> <fld>(Naut.)</fld>, <cd>a chain passing from the bowsprit cap around the heel of the jib boom.</cd> -- <col>Heel plate</col>, <cd>the butt plate of a gun.</cd> -- <col>Heel of a rafter</col>. <fld>(Arch.)</fld> <cd>See <er>Heel</er>, <pos>n.</pos>, <snr>7</snr>.</cd> -- <col>Heel ring</col>, <cd>a ring for fastening a scythe blade to the snath.</cd> -- <col>Neck and heels</col>, <cd>the whole body.</cd> <mark>(Colloq.)</mark> -- <col>To be at the heels of</col>, <cd>to pursue closely; to follow hard; <as>as, hungry want <ex>is at</ex> my <ex>heels</ex></as>.</cd> <au>Otway.</au> -- <col>To be down at the heel</col>, <cd>to be slovenly or in a poor plight.</cd> -- <col>To be out at the heels</col>, <cd>to have on stockings that are worn out; hence, to be shabby, or in a poor plight.</cd> <au>Shak.</au> -- <col>To cool the heels</col>. <cd>See under <er>Cool</er>.</cd> -- <col>To go heels over head</col>, <cd>to turn over so as to bring the heels uppermost; hence, to move in a inconsiderate, or rash, manner.</cd> -- <col>To have the heels of</col>, <cd>to outrun.</cd> -- <col>To lay by the heels</col>, <cd>to fetter; to shackle; to imprison.</cd> <au>Shak.</au> <au>Addison.</au> -- <col>To show the heels</col>, <cd>to flee; to run from.</cd> -- <col>To take to the heels</col>, <cd>to flee; to betake to flight.</cd> -- <col>To throw up another's heels</col>, <cd>to trip him.</cd> <au>Bunyan.</au> -- <col>To tread upon one's heels</col>, <cd>to follow closely.</cd> <au>Shak.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heel</ent><br/
@@ -10716,7 +10716,7 @@ With violent <qex>hefts</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>My grief was at the <qex>height</qex> before thou camest.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>On height</b></col>, <cd>aloud.</cd> <mark>[Obs.]</mark><br/
+<p><cs><col>On height</col>, <cd>aloud.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>[He] spake these same words, all <qex>on hight</qex>.</q> <rj><qau>Chaucer.</qau></rj></cs><br/
@@ -10793,7 +10793,7 @@ Contempt!</q> <rj><qau>Milton.</qau></rj></p>
 <p><q>And I his <qex>heir</qex> in misery alone.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heir apparent</b></col>. <fld>(Law.)</fld> <cd>See under <er>Apparent</er>.</cd> -- <col><b>Heir at law</b></col>, <cd>one who, after his ancector's death, has a right to inherit all his intestate estate.</cd> <au>Wharton (Law Dict.).</au> -- <col><b>Heir presumptive</b></col>, <cd>one who, if the ancestor should die immediately, would be his heir, but whose right to the inheritance may be defeated by the birth of a nearer relative, or by some other contingency.</cd></cs><br/
+<p><cs><col>Heir apparent</col>. <fld>(Law.)</fld> <cd>See under <er>Apparent</er>.</cd> -- <col>Heir at law</col>, <cd>one who, after his ancector's death, has a right to inherit all his intestate estate.</cd> <au>Wharton (Law Dict.).</au> -- <col>Heir presumptive</col>, <cd>one who, if the ancestor should die immediately, would be his heir, but whose right to the inheritance may be defeated by the birth of a nearer relative, or by some other contingency.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heir</ent><br/
@@ -10827,7 +10827,7 @@ The honored <qex>heirlooms</qex> of his ancestors.</q> <rj><qau>Moir.</qau></rj>
 <hw>Heir"ship</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The state, character, or privileges of an heir; right of inheriting.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heirship movables</b></col>, <cd>certain kinds of movables which the heir is entitled to take, besides the heritable estate.</cd> <mark>[Scot.]</mark></cs><br/
+<p><cs><col>Heirship movables</col>, <cd>certain kinds of movables which the heir is entitled to take, besides the heritable estate.</cd> <mark>[Scot.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hejira</ent><br/
@@ -10947,7 +10947,7 @@ The honored <qex>heirlooms</qex> of his ancestors.</q> <rj><qau>Moir.</qau></rj>
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Shaped like a snail shell; pertaining to the <fam>Helicidae</fam>, or Snail family.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Helicoid parabola</b></col> <fld>(Math.)</fld>, <cd>the parabolic spiral.</cd></cs><br/
+<p><cs><col>Helicoid parabola</col> <fld>(Math.)</fld>, <cd>the parabolic spiral.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helicoid</ent><br/
@@ -11001,7 +11001,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <mhw>{ <hw>He`li*o*cen"tric</hw> <pr>(h<emac/`l<icr/*<osl/*s<ecr/n"tr<icr/k)</pr>, <hw>He`li*o*cen"tric"al</hw> <pr>(h<emac/`l<icr/*<osl/*s<ecr/n"tr<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Helio-</ets> + <ets>centric</ets>, <ets>centrical</ets>: cf. F. <ets>h<eacute/liocentrique</ets>.]</ety> <fld>(Astron.)</fld> <def>pertaining to the sun's center, or appearing to be seen from it; having, or relating to, the sun as a center; -- opposed to <contr>geocentrical</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heliocentric parallax</b></col>. <cd>See under <er>Parallax</er>.</cd> -- <mcol><col><b>Heliocentric place</b></col>, <col><b>latitude</b></col>, <col><b>longitude</b></col></mcol>, <cd>etc. (of a heavenly body), the direction, latitude, longitude, etc., of the body as viewed from the sun.</cd></cs><br/
+<p><cs><col>Heliocentric parallax</col>. <cd>See under <er>Parallax</er>.</cd> -- <mcol><col>Heliocentric place</col>, <col>latitude</col>, <col>longitude</col></mcol>, <cd>etc. (of a heavenly body), the direction, latitude, longitude, etc., of the body as viewed from the sun.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliochrome</ent><br/
@@ -11050,7 +11050,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <p><sn>2.</sn> <def>Of or pertaining to heliography or a heliograph; made by heliography.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heliographic chart</b></col>. <cd>See under <er>Chart</er>.</cd></cs><br/
+<p><cs><col>Heliographic chart</col>. <cd>See under <er>Chart</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliography</ent><br/
@@ -11122,7 +11122,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Min.)</fld> <def>See <er>Bloodstone</er> <sdr>(a)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heliotrope purple</b></col>, <cd>a grayish purple color.</cd></cs><br/
+<p><cs><col>Heliotrope purple</col>, <cd>a grayish purple color.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heliotroper</ent><br/
@@ -11166,7 +11166,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj><br/
 <mhw><hw>Hel`i*spher"ic</hw> <pr>(?)</pr>, <hw>Hel`i*spher"ic*al</hw> <pr>(<?/)</pr></mhw>, <pos>a.</pos> <ety>[<ets>Helix</ets> + <ets>spheric</ets>, <ets>spherical</ets>.]</ety> <def>Spiral.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Helispherical line</b></col> <fld>(Math.)</fld>. <cd>the rhomb line in navigation.</cd> <mark>[R.]</mark></cs><br/
+<p><cs><col>Helispherical line</col> <fld>(Math.)</fld>. <cd>the rhomb line in navigation.</cd> <mark>[R.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helium</ent><br/
@@ -11214,7 +11214,7 @@ That summons thee to heaven or to <qex>hell</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>3.</sn> <def>A place where outcast persons or things are gathered</def>; as: <sd>(a)</sd> <def>A dungeon or prison; also, in certain running games, a place to which those who are caught are carried for detention.</def> <sd>(b)</sd> <def>A gambling house.</def> <ldquo/A convenient little gambling <xex>hell</xex> for those who had grown reckless.<rdquo/ <au>W. Black.</au> <sd>(c)</sd> <def>A place into which a tailor throws his shreds, or a printer his broken type.</def> <au>Hudibras.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Gates of hell</b></col>. <fld>(Script.)</fld> <cd>See <er>Gate</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs><br/
+<p><cs><col>Gates of hell</col>. <fld>(Script.)</fld> <cd>See <er>Gate</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hell</ent><br/
@@ -11317,7 +11317,7 @@ That summons thee to heaven or to <qex>hell</qex>.</q> <rj><qau>Shak.</qau></rj>
 <mhw>{ <hw>Hel`le*nis"tic</hw> <pr>(?)</pr>, <hw>Hel`le*nis"tic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>Hell<eacute/nistique</ets>.]</ety> <def>Pertaining to the Hellenists.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hellenistic language</b></col>, <col><b>Hellenistic dialect</b></col>, <it>or</it> <col><b>Hellenistic idiom</b></col></mcol>, <cd>the Greek spoken or used by the Jews who lived in countries where the Greek language prevailed; the Jewish-Greek dialect or idiom of the Septuagint.</cd></cs><br/
+<p><cs><mcol><col>Hellenistic language</col>, <col>Hellenistic dialect</col>, <it>or</it> <col>Hellenistic idiom</col></mcol>, <cd>the Greek spoken or used by the Jews who lived in countries where the Greek language prevailed; the Jewish-Greek dialect or idiom of the Septuagint.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hellenistically</ent><br/
@@ -11410,7 +11410,7 @@ That summons thee to heaven or to <qex>hell</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><sn>4.</sn> <ety>[Cf. <er>Helve</er>.]</ety> <def>A helve.</def> <mark>[Obs. or Prov. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Helm amidships</b></col>, <cd>when the tiller, rudder, and keel are in the same plane.</cd> -- <col><b>Helm aport</b></col>, <cd>when the tiller is borne over to the port side of the ship.</cd> -- <col><b>Helm astarboard</b></col>, <cd>when the tiller is borne to the starboard side.</cd> -- <mcol><col><b>Helm alee</b></col>, <col><b>Helm aweather</b></col></mcol>, <cd>when the tiller is borne over to the lee or to the weather side.</cd> -- <mcol><col><b>Helm hard alee</b></col>, <col><b>Helm hard aport</b></col>, <col><b>Helm hard astarboard</b></col>, etc.,</mcol> <cd>when the tiller is borne over to the extreme limit.</cd> -- <col><b>Helm port</b></col>, <cd>the round hole in a vessel's counter through which the rudderstock passes.</cd> -- <col><b>Helm down</b></col>, <cd>helm alee.</cd> -- <col><b>Helm up</b></col>, <cd>helm aweather.</cd> -- <col><b>To ease the helm</b></col>, <cd>to let the tiller come more amidships, so as to lessen the strain on the rudder.</cd> -- <col><b>To feel the helm</b></col>, <cd>to obey it.</cd> -- <col><b>To right the helm</b></col>, <cd>to put it amidships.</cd> -- <col><b>To shift the helm</b></col>, <cd>to bear the tiller over to the corresponding position on the opposite side of the vessel.</cd>  <rj><au>Ham. Nav. Encyc.</au></rj></cs><br/
+<p><cs><col>Helm amidships</col>, <cd>when the tiller, rudder, and keel are in the same plane.</cd> -- <col>Helm aport</col>, <cd>when the tiller is borne over to the port side of the ship.</cd> -- <col>Helm astarboard</col>, <cd>when the tiller is borne to the starboard side.</cd> -- <mcol><col>Helm alee</col>, <col>Helm aweather</col></mcol>, <cd>when the tiller is borne over to the lee or to the weather side.</cd> -- <mcol><col>Helm hard alee</col>, <col>Helm hard aport</col>, <col>Helm hard astarboard</col>, etc.,</mcol> <cd>when the tiller is borne over to the extreme limit.</cd> -- <col>Helm port</col>, <cd>the round hole in a vessel's counter through which the rudderstock passes.</cd> -- <col>Helm down</col>, <cd>helm alee.</cd> -- <col>Helm up</col>, <cd>helm aweather.</cd> -- <col>To ease the helm</col>, <cd>to let the tiller come more amidships, so as to lessen the strain on the rudder.</cd> -- <col>To feel the helm</col>, <cd>to obey it.</cd> -- <col>To right the helm</col>, <cd>to put it amidships.</cd> -- <col>To shift the helm</col>, <cd>to bear the tiller over to the corresponding position on the opposite side of the vessel.</cd>  <rj><au>Ham. Nav. Encyc.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helm</ent><br/
@@ -11463,7 +11463,7 @@ Are seen in glittering ranks.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <def>That which resembles a helmet in form, position, etc.</def>; as: <sd>(a)</sd> <fld>(Chem.)</fld> <def>The upper part of a retort.</def> <au>Boyle.</au> <sd>(b)</sd> <fld>(Bot.)</fld> <def>The hood-formed upper sepal or petal of some flowers, as of the monkshood or the snapdragon.</def> <sd>(c)</sd> <fld>(Zool.)</fld> <def>A naked shield or protuberance on the top or fore part of the head of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Helmet beetle</b></col> <fld>(Zool.)</fld>, <cd>a leaf-eating beetle of the family <fam>Chrysomelidae</fam>, having a short, broad, and flattened body. Many species are known.</cd> -- <col><b>Helmet shell</b></col> <fld>(Zool.)</fld>, <cd>one of many species of tropical marine univalve shells belonging to <gen>Cassis</gen> and allied genera. Many of them are large and handsome; several are used for cutting as cameos, and hence are called <altname>cameo shells</altname>. See <er>King conch</er>.</cd> -- <col><b>Helmet shrike</b></col> <fld>(Zool.)</fld>, <cd>an African wood shrike of the genus <gen>Prionodon</gen>, having a large crest.</cd></cs><br/
+<p><cs><col>Helmet beetle</col> <fld>(Zool.)</fld>, <cd>a leaf-eating beetle of the family <fam>Chrysomelidae</fam>, having a short, broad, and flattened body. Many species are known.</cd> -- <col>Helmet shell</col> <fld>(Zool.)</fld>, <cd>one of many species of tropical marine univalve shells belonging to <gen>Cassis</gen> and allied genera. Many of them are large and handsome; several are used for cutting as cameos, and hence are called <altname>cameo shells</altname>. See <er>King conch</er>.</cd> -- <col>Helmet shrike</col> <fld>(Zool.)</fld>, <cd>an African wood shrike of the genus <gen>Prionodon</gen>, having a large crest.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Helmeted</ent><br/
@@ -11593,13 +11593,13 @@ Are seen in glittering ranks.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>7.</sn> <def>To wait upon, as the guests at table, by carving and passing food.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To help forward</b></col>, <cd>to assist in advancing.</cd> -- <col><b>To help off</b></col>, <cd>to help to go or pass away, as time; to assist in removing.</cd> <au>Locke.</au> -- <col><b>To help on</b></col>, <cd>to forward; to promote by aid.</cd> -- <col><b>To help out</b></col>, <cd>to aid, as in delivering from a difficulty, or to aid in completing a design or task.</cd><br/
+<p><cs><col>To help forward</col>, <cd>to assist in advancing.</cd> -- <col>To help off</col>, <cd>to help to go or pass away, as time; to assist in removing.</cd> <au>Locke.</au> -- <col>To help on</col>, <cd>to forward; to promote by aid.</cd> -- <col>To help out</col>, <cd>to aid, as in delivering from a difficulty, or to aid in completing a design or task.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The god of learning and of light<br/
 Would want a god himself <qex>to help</qex> him <qex>out</qex>.</q> <rj><qau>Swift.</qau></rj></p>
 
-<p>-- <col><b>To help over</b></col>, <cd>to enable to surmount; <as>as, <ex>to help</ex> one <ex>over</ex> an obstacle</as>.</cd> -- <col><b>To help to</b></col>, <cd>to supply with; to furnish with; as, <xex>to help</xex> one <xex>to</xex> soup.</cd> -- <col><b>To help up</b></col>, <cd>to help (one) to get up; to assist in rising, as after a fall, and the like.</cd> <ldquo/A man is well <xex>holp up</xex> that trusts to you.<rdquo/ <au>Shak.</au></cs></p>
+<p>-- <col>To help over</col>, <cd>to enable to surmount; <as>as, <ex>to help</ex> one <ex>over</ex> an obstacle</as>.</cd> -- <col>To help to</col>, <cd>to supply with; to furnish with; as, <xex>to help</xex> one <xex>to</xex> soup.</cd> -- <col>To help up</col>, <cd>to help (one) to get up; to assist in rising, as after a fall, and the like.</cd> <ldquo/A man is well <xex>holp up</xex> that trusts to you.<rdquo/ <au>Shak.</au></cs></p>
 
 <p><syn><b>Syn.</b> -- To aid; assist; succor; relieve; serve; support; sustain; befriend.</syn> <usage> -- To <er>Help</er>, <er>Aid</er>, <er>Assist</er>. These words all agree in the idea of affording relief or support to a person under difficulties. <xex>Help</xex> turns attention especially to the source of relief. If I fall into a pit, I call for <xex>help</xex>; and he who <xex>helps</xex> me out does it by an act of his own. <xex>Aid</xex> turns attention to the other side, and supposes co<oum/peration on the part of him who is relieved; as, he <xex>aided</xex> me in getting out of the pit; I got out by the <xex>aid</xex> of a ladder which he brought. <xex>Assist</xex> has a primary reference to relief afforded by a person who <ldquo/stands by<rdquo/ in order to relieve. It denotes both <xex>help</xex> and <xex>aid</xex>. Thus, we say of a person who is weak, I <xex>assisted</xex> him upstairs, or, he mounted the stairs by my <xex>assistance</xex>. When <xex>help</xex> is used as a noun, it points less distinctively and exclusively to the source of relief, or, in other words, agrees more closely with <xex>aid</xex>. Thus we say, I got out of a pit by the <xex>help</xex> of my friend.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -11611,7 +11611,7 @@ Would want a god himself <qex>to help</qex> him <qex>out</qex>.</q> <rj><qau>Swi
 <p><q>A generous present <xex>helps</xex> to persuade, as well as an agreeable person.</q> <rj><qau>Garth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To help out</b></col>, <cd>to lend aid; to bring a supply.</cd></cs><br/
+<p><cs><col>To help out</col>, <cd>to lend aid; to bring a supply.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Help</ent><br/
@@ -11791,7 +11791,7 @@ Pleasant and <qex>helpful</qex> to him!</q> <rj><qau>Shak.</qau></rj></p>
 Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To hem about</b></col>, <col><b>To hem around</b></col>, <it>or</it> <col><b>To hem in</b></col></mcol>, <cd>to inclose and confine; to surround; to environ.</cd>  <ldquo/With valiant squadrons round <xex>about to hem</xex>.<rdquo/ <au>Fairfax.</au> <ldquo/<xex>Hemmed in</xex> to be a spoil to tyranny.<rdquo/ <au>Daniel.</au> -- <col><b>To hem out</b></col>, <cd>to shut out.</cd>  <ldquo/You can not <xex>hem</xex> me <xex>out</xex> of London.<rdquo/  <au>J. Webster.</au></cs><br/
+<p><cs><mcol><col>To hem about</col>, <col>To hem around</col>, <it>or</it> <col>To hem in</col></mcol>, <cd>to inclose and confine; to surround; to environ.</cd>  <ldquo/With valiant squadrons round <xex>about to hem</xex>.<rdquo/ <au>Fairfax.</au> <ldquo/<xex>Hemmed in</xex> to be a spoil to tyranny.<rdquo/ <au>Daniel.</au> -- <col>To hem out</col>, <cd>to shut out.</cd>  <ldquo/You can not <xex>hem</xex> me <xex>out</xex> of London.<rdquo/  <au>J. Webster.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hema-</ent><br/
@@ -11833,7 +11833,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><note><hand/ As applied to vertebrates, <xex>hemal</xex> is the same as <xex>ventral</xex>, the heart and great blood vessels being on the ventral, and the central nervous system on the dorsal, side of the vertebral column.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hemal arch</b></col> <fld>(Anat.)</fld>, <cd>the ventral arch in a segment of the spinal skeleton, formed by vertebral processes or ribs.</cd></cs><br/
+<p><cs><col>Hemal arch</col> <fld>(Anat.)</fld>, <cd>the ventral arch in a segment of the spinal skeleton, formed by vertebral processes or ribs.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemaphaein</ent><br/
@@ -12215,7 +12215,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><q>He died . . . mourned by a <qex>hemisphere</qex>.</q> <rj><qau>J. P. Peters.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cerebral hemispheres</b></col>. <fld>(Anat.)</fld> <cd>See <er>Brain</er>.</cd> -- <col><b>Magdeburg hemispheres</b></col> <fld>(Physics)</fld>, <cd>two hemispherical cups forming, when placed together, a cavity from which the air can be withdrawn by an air pump; -- used to illustrate the pressure of the air. So called because invented by Otto von Guericke at <etsep>Magdeburg</etsep>.</cd></cs></p>
+<p><cs><col>Cerebral hemispheres</col>. <fld>(Anat.)</fld> <cd>See <er>Brain</er>.</cd> -- <col>Magdeburg hemispheres</col> <fld>(Physics)</fld>, <cd>two hemispherical cups forming, when placed together, a cavity from which the air can be withdrawn by an air pump; -- used to illustrate the pressure of the air. So called because invented by Otto von Guericke at <etsep>Magdeburg</etsep>.</cd></cs></p>
 
 <p><ent>Hemispherical</ent><br/
 <ent>Hemispheric</ent><br/
@@ -12288,7 +12288,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>3.</sn> <def>The wood or timber of the hemlock tree.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Ground hemlock</b></col>, <it>or</it> <col><b>Dwarf hemlock</b></col></mcol>. <cd>See under <er>Ground</er>.</cd></cs><br/
+<p><cs><mcol><col>Ground hemlock</col>, <it>or</it> <col>Dwarf hemlock</col></mcol>. <cd>See under <er>Ground</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hemmel</ent><br/
@@ -12405,7 +12405,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><sn>2.</sn> <def>The fiber of the skin or rind of the plant, prepared for spinning. The name has also been extended to various fibers resembling the true hemp.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>African hemp</b></col>, <col><b>Bowstring hemp</b></col></mcol>. <cd>See under <er>African</er>, and <er>Bowstring</er>.</cd> -- <col><b>Bastard hemp</b></col>, <cd>the Asiatic herb <spn>Datisca cannabina</spn>.</cd> -- <col><b>Canada hemp</b></col>, <cd>a species of dogbane (<spn>Apocynum cannabinum</spn>), the fiber of which was used by the Indians.</cd> -- <col><b>Hemp agrimony</b></col>, <cd>a coarse, composite herb of Europe (<spn>Eupatorium cannabinum</spn>), much like the American boneset.</cd> -- <col><b>Hemp nettle</b></col>, <cd>a plant of the genus <gen>Galeopsis</gen> (<spn>Galeopsis Tetrahit</spn>), belonging to the Mint family.</cd> -- <col><b>Indian hemp</b></col>. <cd>See under <er>Indian</er>, <pos>a.</pos></cd> -- <col><b>Manila hemp</b></col>, <cd>the fiber of <spn>Musa textilis</spn>.</cd> -- <col><b>Sisal hemp</b></col>, <cd>the fiber of <spn>Agave sisalana</spn>, of Mexico and Yucatan.</cd> -- <col><b>Sunn hemp</b></col>, <cd>a fiber obtained from a leguminous plant (<spn>Crotalaria juncea</spn>).</cd> -- <col><b>Water hemp</b></col>, <cd>an annual American weed (<spn>Acnida cannabina</spn>), related to the amaranth.</cd></cs><br/
+<p><cs><mcol><col>African hemp</col>, <col>Bowstring hemp</col></mcol>. <cd>See under <er>African</er>, and <er>Bowstring</er>.</cd> -- <col>Bastard hemp</col>, <cd>the Asiatic herb <spn>Datisca cannabina</spn>.</cd> -- <col>Canada hemp</col>, <cd>a species of dogbane (<spn>Apocynum cannabinum</spn>), the fiber of which was used by the Indians.</cd> -- <col>Hemp agrimony</col>, <cd>a coarse, composite herb of Europe (<spn>Eupatorium cannabinum</spn>), much like the American boneset.</cd> -- <col>Hemp nettle</col>, <cd>a plant of the genus <gen>Galeopsis</gen> (<spn>Galeopsis Tetrahit</spn>), belonging to the Mint family.</cd> -- <col>Indian hemp</col>. <cd>See under <er>Indian</er>, <pos>a.</pos></cd> -- <col>Manila hemp</col>, <cd>the fiber of <spn>Musa textilis</spn>.</cd> -- <col>Sisal hemp</col>, <cd>the fiber of <spn>Agave sisalana</spn>, of Mexico and Yucatan.</cd> -- <col>Sunn hemp</col>, <cd>a fiber obtained from a leguminous plant (<spn>Crotalaria juncea</spn>).</cd> -- <col>Water hemp</col>, <cd>an annual American weed (<spn>Acnida cannabina</spn>), related to the amaranth.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hempen</ent><br/
@@ -12443,7 +12443,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><note><hand/ Used adjectively or in combination to indicate the female; as, <xex>hen</xex> canary, <xex>hen</xex> eagle, <xex>hen</xex> turkey, pea<xex>hen</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hen clam</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A clam of the <gen>Mactra</gen>, and allied genera; the sea clam or surf clam. See <er>Surf clam</er>.</cd> <sd>(b)</sd> <cd>A California clam of the genus <gen>Pachydesma</gen>.</cd> -- <col><b>Hen driver</b></col>. <cd>See <cref>Hen harrier</cref> (below).</cd> -- <col><b>Hen harrier</b></col> <fld>(Zool.)</fld>, <cd>a hawk (<spn>Circus cyaneus</spn>), found in Europe and America; -- called also <altname>dove hawk</altname>, <altname>henharm</altname>, <altname>henharrow</altname>, <altname>hen driver</altname>, and usually, in America, <altname>marsh hawk</altname>. See <er>Marsh hawk</er>.</cd> -- <col><b>Hen hawk</b></col> <fld>(Zool.)</fld>, <cd>one of several species of large hawks which capture hens; esp., the American red-tailed hawk (<spn>Buteo borealis</spn>), the red-shouldered hawk (<spn>Buteo lineatus</spn>), and the goshawk.</cd></cs><br/
+<p><cs><col>Hen clam</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A clam of the <gen>Mactra</gen>, and allied genera; the sea clam or surf clam. See <er>Surf clam</er>.</cd> <sd>(b)</sd> <cd>A California clam of the genus <gen>Pachydesma</gen>.</cd> -- <col>Hen driver</col>. <cd>See <cref>Hen harrier</cref> (below).</cd> -- <col>Hen harrier</col> <fld>(Zool.)</fld>, <cd>a hawk (<spn>Circus cyaneus</spn>), found in Europe and America; -- called also <altname>dove hawk</altname>, <altname>henharm</altname>, <altname>henharrow</altname>, <altname>hen driver</altname>, and usually, in America, <altname>marsh hawk</altname>. See <er>Marsh hawk</er>.</cd> -- <col>Hen hawk</col> <fld>(Zool.)</fld>, <cd>one of several species of large hawks which capture hens; esp., the American red-tailed hawk (<spn>Buteo borealis</spn>), the red-shouldered hawk (<spn>Buteo lineatus</spn>), and the goshawk.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Henbane</ent><br/
@@ -12695,7 +12695,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <def>Any substance resembling hepar proper, in appearance; specifically, in homeopathy, calcium sulphide, called also <altname>hepar sulphuris calcareum</altname> (<?/).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hepar antimonii</b></col> <pr>(<?/)</pr> <fld>(Old Chem.)</fld>, <cd>a substance, of a liver-brown color, obtained by fusing together antimony sulphide with alkaline sulphides, and consisting of sulphantimonites of the alkalies; -- called also <altname>liver of antimony</altname>.</cd></cs><br/
+<p><cs><col>Hepar antimonii</col> <pr>(<?/)</pr> <fld>(Old Chem.)</fld>, <cd>a substance, of a liver-brown color, obtained by fusing together antimony sulphide with alkaline sulphides, and consisting of sulphantimonites of the alkalies; -- called also <altname>liver of antimony</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hepatic</ent><br/
@@ -12708,7 +12708,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>Pertaining to, or resembling, the plants called <class>Hepaticae</class>, or scale mosses and liverworts.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hepatic duct</b></col> <fld>(Anat.)</fld>, <cd>any biliary duct; esp., the duct, or one of the ducts, which carries the bile from the liver to the cystic and common bile ducts. See <xex>Illust.</xex>, under <er>Digestive</er>.</cd> -- <col><b>Hepatic gas</b></col> <fld>(Old Chem.)</fld>, <cd>sulphureted hydrogen gas.</cd> -- <mcol><col><b>Hepatic mercurial ore</b></col>, <it>or</it> <col><b>Hepatic cinnabar</b></col></mcol>. <cd>See under <er>Cinnabar</er>.</cd></cs><br/
+<p><cs><col>Hepatic duct</col> <fld>(Anat.)</fld>, <cd>any biliary duct; esp., the duct, or one of the ducts, which carries the bile from the liver to the cystic and common bile ducts. See <xex>Illust.</xex>, under <er>Digestive</er>.</cd> -- <col>Hepatic gas</col> <fld>(Old Chem.)</fld>, <cd>sulphureted hydrogen gas.</cd> -- <mcol><col>Hepatic mercurial ore</col>, <it>or</it> <col>Hepatic cinnabar</col></mcol>. <cd>See under <er>Cinnabar</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hepatica</ent><br/
@@ -12825,7 +12825,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>Hep*tag"o*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>heptagonal</ets>.]</ety> <def>Having seven angles or sides.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heptagonal numbers</b></col> <fld>(Arith.)</fld>, <cd>the numbers of the series 1, 7, 18, 34, 55, etc., being figurate numbers formed by adding successively the terms of the arithmetical series 1, 6, 11, 16, 21, etc.</cd></cs><br/
+<p><cs><col>Heptagonal numbers</col> <fld>(Arith.)</fld>, <cd>the numbers of the series 1, 7, 18, 34, 55, etc., being figurate numbers formed by adding successively the terms of the arithmetical series 1, 6, 11, 16, 21, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heptagynia</ent><br/
@@ -12974,7 +12974,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>5.</sn> <def>Any messenger.</def> <ldquo/My <xex>herald</xex> is returned.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heralds' College</b></col>, <cd>in England, an ancient corporation, dependent upon the crown, instituted or perhaps recognized by Richard III. in 1483, consisting of the three Kings-at-Arms and the Chester, Lancaster, Richmond, Somerset, Windsor, and York Heralds, together with the Earl Marshal. This retains from the Middle Ages the charge of the armorial bearings of persons privileged to bear them, as well as of genealogies and kindred subjects; -- called also <altname>College of Arms</altname>.</cd></cs><br/
+<p><cs><col>Heralds' College</col>, <cd>in England, an ancient corporation, dependent upon the crown, instituted or perhaps recognized by Richard III. in 1483, consisting of the three Kings-at-Arms and the Chester, Lancaster, Richmond, Somerset, Windsor, and York Heralds, together with the Earl Marshal. This retains from the Middle Ages the charge of the armorial bearings of persons privileged to bear them, as well as of genealogies and kindred subjects; -- called also <altname>College of Arms</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herald</ent><br/
@@ -13031,7 +13031,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj><br/
 Grazing the tender <qex>herb</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Herb bennet</b></col>. <fld>(Bot.)</fld> <cd>See <er>Bennet</er>.</cd> -- <col><b>Herb Christopher</b></col> <fld>(Bot.)</fld>, <cd>an herb (<spn>Actaea spicata</spn>), whose root is used in nervous diseases; the baneberry. The name is occasionally given to other plants, as the royal fern, the wood betony, etc.</cd> -- <col><b>Herb Gerard</b></col> <fld>(Bot.)</fld>, <cd>the goutweed; -- so called in honor of St. <etsep>Gerard</etsep>, who used to be invoked against the gout.</cd> <au>Dr. Prior.</au> -- <mcol><col><b>Herb grace</b></col>, <it>or</it> <col><b>Herb of grace</b></col></mcol>. <fld>(Bot.)</fld> <cd>See <er>Rue</er>.</cd> -- <col><b>Herb Margaret</b></col> <fld>(Bot.)</fld>, <cd>the daisy. See <er>Marguerite</er>.</cd> -- <col><b>Herb Paris</b></col> <fld>(Bot.)</fld>, <cd>an Old World plant related to the trillium (<spn>Paris quadrifolia</spn>), commonly reputed poisonous.</cd> -- <col><b>Herb Robert</b></col> <fld>(Bot.)</fld>, <cd>a species of <gen>Geranium</gen> (<spn>Geranium Robertianum</spn>.)</cd></cs><br/
+<p><cs><col>Herb bennet</col>. <fld>(Bot.)</fld> <cd>See <er>Bennet</er>.</cd> -- <col>Herb Christopher</col> <fld>(Bot.)</fld>, <cd>an herb (<spn>Actaea spicata</spn>), whose root is used in nervous diseases; the baneberry. The name is occasionally given to other plants, as the royal fern, the wood betony, etc.</cd> -- <col>Herb Gerard</col> <fld>(Bot.)</fld>, <cd>the goutweed; -- so called in honor of St. <etsep>Gerard</etsep>, who used to be invoked against the gout.</cd> <au>Dr. Prior.</au> -- <mcol><col>Herb grace</col>, <it>or</it> <col>Herb of grace</col></mcol>. <fld>(Bot.)</fld> <cd>See <er>Rue</er>.</cd> -- <col>Herb Margaret</col> <fld>(Bot.)</fld>, <cd>the daisy. See <er>Marguerite</er>.</cd> -- <col>Herb Paris</col> <fld>(Bot.)</fld>, <cd>an Old World plant related to the trillium (<spn>Paris quadrifolia</spn>), commonly reputed poisonous.</cd> -- <col>Herb Robert</col> <fld>(Bot.)</fld>, <cd>a species of <gen>Geranium</gen> (<spn>Geranium Robertianum</spn>.)</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herbaceous</ent><br/
@@ -13212,7 +13212,7 @@ Grazing the tender <qex>herb</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>A constellation in the northern hemisphere, near Lyra.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hercules' beetle</b></col> <fld>(Zool.)</fld>, <cd>any species of <gen>Dynastes</gen>, an American genus of very large lamellicorn beetles, esp. <spn>Dynastes hercules</spn> of South America, which grows to a length of six inches.</cd> -- <col><b>Hercules powder</b></col>, <cd>an explosive containing nitroglycerin; -- used for blasting.</cd></cs><br/
+<p><cs><col>Hercules' beetle</col> <fld>(Zool.)</fld>, <cd>any species of <gen>Dynastes</gen>, an American genus of very large lamellicorn beetles, esp. <spn>Dynastes hercules</spn> of South America, which grows to a length of six inches.</cd> -- <col>Hercules powder</col>, <cd>an explosive containing nitroglycerin; -- used for blasting.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hercules-club</ent><br/
@@ -13260,7 +13260,7 @@ Who think too little and who talk too much.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>You can never interest the common <qex>herd</qex> in the abstract question.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Herd's grass</b></col> <fld>(Bot.)</fld>, <cd>one of several species of grass, highly esteemed for hay. See under <er>Grass</er>.</cd></cs><br/
+<p><cs><col>Herd's grass</col> <fld>(Bot.)</fld>, <cd>one of several species of grass, highly esteemed for hay. See under <er>Grass</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herd</ent><br/
@@ -13359,7 +13359,7 @@ One of the number.</q> <rj><qau>Addison.</qau></rj><br/
 <p><note><hand/ <xex>Here</xex>, in the last sense, is sometimes used before a verb without subject; as, <xex>Here goes</xex>, for Now (something or somebody) goes; -- especially occurring thus in drinking healths. <ldquo/<xex>Here's</xex> [a health] to thee, Dick.<rdquo/</note>  <rj><au>Cowley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Here and there</b></col>, <cd>in one place and another; in a dispersed manner; irregularly.</cd> <ldquo/Footsteps <xex>here and there</xex>.<rdquo/ <au>Longfellow.</au> -- <col><b>It is neither, here nor there</b></col>, <cd>it is neither in this place nor in that, neither in one place nor in another; hence, it is to no purpose, irrelevant, nonsense.</cd><-- mostly used to mean "irrelevant" --> <au>Shak.</au></cs></p>
+<p><cs><col>Here and there</col>, <cd>in one place and another; in a dispersed manner; irregularly.</cd> <ldquo/Footsteps <xex>here and there</xex>.<rdquo/ <au>Longfellow.</au> -- <col>It is neither, here nor there</col>, <cd>it is neither in this place nor in that, neither in one place nor in another; hence, it is to no purpose, irrelevant, nonsense.</cd><-- mostly used to mean "irrelevant" --> <au>Shak.</au></cs></p>
 
 <p><ent>Hereabouts</ent><br/
 <ent>Herea-bout</ent><br/
@@ -13617,7 +13617,7 @@ And hateful <qex>heresies</qex> by God abhor'd.</q> <rj><qau>Spenser.</qau></rj>
 <hw>Her"i*ot</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>heregeatu</ets> military equipment, heriot; <ets>here</ets> army + <ets>geatwe</ets>, pl., arms, equipments.]</ety> <fld>(Eng. Law)</fld> <def>Formerly, a payment or tribute of arms or military accouterments, or the best beast, or chattel, due to the lord on the death of a tenant; in modern use, a customary tribute of goods or chattels to the lord of the fee, paid on the decease of a tenant.</def>  <rj><au>Blackstone. Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heriot custom</b></col>, <cd>a heriot depending on usage.</cd> -- <col><b>Heriot service</b></col> <fld>(Law)</fld>, <cd>a heriot due by reservation in a grant or lease of lands.</cd>  <rj><au>Spelman. Blackstone.</au></rj></cs><br/
+<p><cs><col>Heriot custom</col>, <cd>a heriot depending on usage.</cd> -- <col>Heriot service</col> <fld>(Law)</fld>, <cd>a heriot due by reservation in a grant or lease of lands.</cd>  <rj><au>Spelman. Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heriotable</ent><br/
@@ -13642,7 +13642,7 @@ And hateful <qex>heresies</qex> by God abhor'd.</q> <rj><qau>Spenser.</qau></rj>
 <p><q>This son shall be legitimate and <qex>heritable</qex>.</q> <rj><qau>Sir M. Hale.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heritable rights</b></col> <fld>(Scots Law)</fld>, <cd>rights of the heir; rights to land or whatever may be intimately connected with land; realty.</cd>  <rj><au>Jacob (Law Dict.).</au></rj></cs><br/
+<p><cs><col>Heritable rights</col> <fld>(Scots Law)</fld>, <cd>rights of the heir; rights to land or whatever may be intimately connected with land; realty.</cd>  <rj><au>Jacob (Law Dict.).</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heritage</ent><br/
@@ -13696,7 +13696,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 <hw>Her*maph"ro*dite</hw>, <pos>a.</pos> <def>Including, or being of, both sexes; <as>as, an <ex>hermaphrodite</ex> animal or flower</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hermaphrodite brig</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Brig</er>.</cd>  <rj><au>Totten.</au></rj></cs></p>
+<p><cs><col>Hermaphrodite brig</col>. <fld>(Naut.)</fld> <cd>See under <er>Brig</er>.</cd>  <rj><au>Totten.</au></rj></cs></p>
 
 <p><ent>Hermaphroditical</ent><br/
 <ent>Hermaphroditic</ent><br/
@@ -13747,7 +13747,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 <p><sn>3.</sn> <def>Made perfectly close or air-tight by fusion, so that no gas or spirit can enter or escape; <as>as, an <ex>hermetic</ex> seal</as>. See Note under <er>Hermetically</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hermetic art</b></col>, <cd>alchemy.</cd> -- <col><b>Hermetic books</b></col>. <sd>(a)</sd> <cd>Books of the Egyptians, which treat of astrology.</cd> <sd>(b)</sd> <cd>Books which treat of universal principles, of the nature and orders of celestial beings, of medicine, and other topics.</cd></cs><br/
+<p><cs><col>Hermetic art</col>, <cd>alchemy.</cd> -- <col>Hermetic books</col>. <sd>(a)</sd> <cd>Books of the Egyptians, which treat of astrology.</cd> <sd>(b)</sd> <cd>Books which treat of universal principles, of the nature and orders of celestial beings, of medicine, and other topics.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hermetically</ent><br/
@@ -13773,7 +13773,7 @@ Their fathers handed down</q> <rj><qau>Southey.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Cookery)</fld> <def>A spiced molasses cookie, often containing chopped raisins and nuts.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Hermit crab</b></col> <fld>(Zool.)</fld>, <cd>a marine decapod crustacean of the family <fam>Paguridae</fam>. The species are numerous, and belong to many genera. Called also <altname>soldier crab</altname>. The hermit crabs usually occupy the dead shells of various univalve mollusks. See <xex>Illust.</xex> of <er>Commensal</er>.</cd> -- <col><b>Hermit thrush</b></col> <fld>(Zool.)</fld>, <cd>an American thrush (<spn>Turdus Pallasii</spn>), with retiring habits, but having a sweet song.</cd> -- <col><b>Hermit warbler</b></col> <fld>(Zool.)</fld>, <cd>a California wood warbler (<spn>Dendroica occidentalis</spn>), having the head yellow, the throat black, and the back gray, with black streaks.</cd></cs><br/
+<p><cs><col>Hermit crab</col> <fld>(Zool.)</fld>, <cd>a marine decapod crustacean of the family <fam>Paguridae</fam>. The species are numerous, and belong to many genera. Called also <altname>soldier crab</altname>. The hermit crabs usually occupy the dead shells of various univalve mollusks. See <xex>Illust.</xex> of <er>Commensal</er>.</cd> -- <col>Hermit thrush</col> <fld>(Zool.)</fld>, <cd>an American thrush (<spn>Turdus Pallasii</spn>), with retiring habits, but having a sweet song.</cd> -- <col>Hermit warbler</col> <fld>(Zool.)</fld>, <cd>a California wood warbler (<spn>Dendroica occidentalis</spn>), having the head yellow, the throat black, and the back gray, with black streaks.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hermitage</ent><br/
@@ -13827,7 +13827,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Her"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Hernias</plw> <pr>(#)</pr>, L. <plw>Herniae</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Med.)</fld> <def>A protrusion, consisting of an organ or part which has escaped from its natural cavity, and projects through some natural or accidental opening in the walls of the latter; <as>as, <ex>hernia</ex> of the brain, of the lung, or of the bowels</as>. Hernia of the abdominal viscera in most common. Called also <altname>rupture</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Strangulated hernia</b></col>, <cd>a hernia so tightly compressed in some part of the channel through which it has been protruded as to arrest its circulation, and produce swelling of the protruded part. It may occur in recent or chronic hernia, but is more common in the latter.</cd></cs><br/
+<p><cs><col>Strangulated hernia</col>, <cd>a hernia so tightly compressed in some part of the channel through which it has been protruded as to arrest its circulation, and produce swelling of the protruded part. It may occur in recent or chronic hernia, but is more common in the latter.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hernial</ent><br/
@@ -13858,7 +13858,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>The shining quality of an epic <qex>hero</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hero worship</b></col>, <cd>extravagant admiration for great men, likened to the ancient worship of heroes.</cd></cs><br/
+<p><cs><col>Hero worship</col>, <cd>extravagant admiration for great men, likened to the ancient worship of heroes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><qex>Hero worship</qex> exists, has existed, and will forever exist, universally among mankind.</q> <rj><qau>Carlyle.</qau></rj><br/
@@ -13886,7 +13886,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Sculpture & Painting)</fld> <def>Larger than life size, but smaller than colossal; -- said of the representation of a human figure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heroic Age</b></col>, <cd>the age when the heroes, or those called the children of the gods, are supposed to have lived.</cd> -- <col><b>Heroic poetry</b></col>, <cd>that which celebrates the deeds of a hero; epic poetry.</cd> -- <mcol><col><b>Heroic treatment</b></col> <it>or</it> <col><b>Heroic remedies</b></col></mcol> <fld>(Med.)</fld>, <cd>treatment or remedies of a severe character, suited to a desperate case.</cd> -- <col><b>Heroic verse</b></col> <fld>(Pros.)</fld>, <cd>the verse of heroic or epic poetry, being in English, German, and Italian the iambic of ten syllables; in French the iambic of twelve syllables; and in classic poetry the hexameter.</cd></cs></p>
+<p><cs><col>Heroic Age</col>, <cd>the age when the heroes, or those called the children of the gods, are supposed to have lived.</cd> -- <col>Heroic poetry</col>, <cd>that which celebrates the deeds of a hero; epic poetry.</cd> -- <mcol><col>Heroic treatment</col> <it>or</it> <col>Heroic remedies</col></mcol> <fld>(Med.)</fld>, <cd>treatment or remedies of a severe character, suited to a desperate case.</cd> -- <col>Heroic verse</col> <fld>(Pros.)</fld>, <cd>the verse of heroic or epic poetry, being in English, German, and Italian the iambic of ten syllables; in French the iambic of twelve syllables; and in classic poetry the hexameter.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Brave; intrepid; courageous; daring; valiant; bold; gallant; fearless; enterprising; noble; magnanimous; illustrious.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -13936,7 +13936,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ There are several common American species; as, the great blue heron (<spn>Ardea herodias</spn>); the little blue (<spn>Ardea c<oe/rulea</spn>); the green (<spn>Ardea virescens</spn>); the snowy (<spn>Ardea candidissima</spn>); the night heron or qua-bird (<spn>Nycticorax nycticorax</spn>). The plumed herons are called <stype>egrets</stype>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heron's bill</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erodium</gen>; -- so called from the fancied resemblance of the fruit to the head and beak of the heron.</cd></cs><br/
+<p><cs><col>Heron's bill</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Erodium</gen>; -- so called from the fancied resemblance of the fruit to the head and beak of the heron.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heroner</ent><br/
@@ -14033,14 +14033,14 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Her"ring</hw> <pr>(h<ecr/r"r<icr/ng)</pr>, <pos>n.</pos> <ety>[OE. <ets>hering</ets>, AS. <ets>h<ae/ring</ets>; akin to D. <ets>haring</ets>, G. <ets>h<aum/ring</ets>, <ets>hering</ets>, OHG. <ets>haring</ets>, <ets>hering</ets>, and prob. to AS. <ets>here</ets> army, and so called because they commonly move in large numbers.  Cf. <er>Harry</er>.]</ety> <fld>(Zool.)</fld> <def>One of various species of fishes of the genus <gen>Clupea</gen>, and allied genera, esp. the common round or English herring (<spn>Clupea harengus</spn>) of the North Atlantic.  Herrings move in vast schools, coming in spring to the shores of Europe and America, where they are salted and smoked in great quantities.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Herring gull</b></col> <fld>(Zool.)</fld>, <cd>a large gull which feeds in part upon herrings; esp., <spn>Larus argentatus</spn> in America, and <spn>Larus cachinnans</spn> in England. See <er>Gull</er>.</cd> -- <col><b>Herring hog</b></col> <fld>(Zool.)</fld>, <cd>the common porpoise.</cd> -- <col><b>King of the herrings</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The chimaera (<spn>Chimaera monstrosa</spn>) which follows the schools of herring.  Called also <altname>rabbit fish</altname> in the <country>U. K.</country>  See <er>Chimaera</er>.</cd> <sd>(b)</sd> <cd>The opah.</cd></cs><br/
+<p><cs><col>Herring gull</col> <fld>(Zool.)</fld>, <cd>a large gull which feeds in part upon herrings; esp., <spn>Larus argentatus</spn> in America, and <spn>Larus cachinnans</spn> in England. See <er>Gull</er>.</cd> -- <col>Herring hog</col> <fld>(Zool.)</fld>, <cd>the common porpoise.</cd> -- <col>King of the herrings</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The chimaera (<spn>Chimaera monstrosa</spn>) which follows the schools of herring.  Called also <altname>rabbit fish</altname> in the <country>U. K.</country>  See <er>Chimaera</er>.</cd> <sd>(b)</sd> <cd>The opah.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herringbone</ent><br/
 <hw>Her"ring*bone`</hw> <pr>(h<ecr/r"r<icr/ng*b<omac/n`)</pr>, <pos>a.</pos> <def>Pertaining to, or like, the spine of a herring; especially, characterized by an arrangement of work in rows of parallel lines, which in the alternate rows slope in different directions.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Herringbone stitch</b></col>, <cd>a kind of cross-stitch in needlework, chiefly used in flannel.</cd>  <rj><au>Simmonds.</au></rj></cs><br/
+<p><cs><col>Herringbone stitch</col>, <cd>a kind of cross-stitch in needlework, chiefly used in flannel.</cd>  <rj><au>Simmonds.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Herrnhuter</ent><br/
@@ -14084,7 +14084,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Her own proper, true, or real character; hence, her right, or sane, mind; <as>as, the woman was deranged, but she is now <ex>herself</ex> again; she has come to <ex>herself</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By herself</b></col>, <cd>alone; apart; unaccompanied.</cd></cs><br/
+<p><cs><col>By herself</col>, <cd>alone; apart; unaccompanied.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hersillon</ent><br/
@@ -14115,7 +14115,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hertz"i*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pert. to the German physicist <person>Heinrich <etsep>Hertz</etsep></person>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>Hertzian telegraphy</b></col>, <cd>telegraphy by means of the Hertzian waves; wireless telegraphy.</cd> -- <col><b>H. waves</b></col>, <cd>electric waves; -- so called because Hertz was the first to investigate them systematically. His apparatus consisted essentially in an <xex>oscillator</xex> for producing the waves, and a <xex>resonator</xex> for detecting them. The waves were found to have the same velocity as light, and to undergo reflection, refraction, and polarization.</cd></cs><br/
+<p><cs><col>Hertzian telegraphy</col>, <cd>telegraphy by means of the Hertzian waves; wireless telegraphy.</cd> -- <col>H. waves</col>, <cd>electric waves; -- so called because Hertz was the first to investigate them systematically. His apparatus consisted essentially in an <xex>oscillator</xex> for producing the waves, and a <xex>resonator</xex> for detecting them. The waves were found to have the same velocity as light, and to undergo reflection, refraction, and polarization.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Herzog</ent><br/
@@ -14264,7 +14264,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Hes"sian</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or relating to Hesse, in Germany, or to the Hessians.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hessian boots</b></col>, <it>or</it> <col><b>Hessians</b></col></mcol>, <cd>boot of a kind worn in England, in the early part of the nineteenth century, tasseled in front.</cd> <au>Thackeray.</au> -- <mcol><col><b>Hessian cloth</b></col>, <it>or</it> <col><b>Hessians</b></col></mcol>, <cd>a coarse hempen cloth for sacking.</cd> -- <col><b>Hessian crucible</b></col>. <cd>See under <er>Crucible</er>.</cd> -- <col><b>Hessian fly</b></col> <fld>(Zool.)</fld>, <cd>a small dipterous fly or midge (<spn>Cecidomyia destructor</spn>). Its larvae live between the base of the lower leaves and the stalk of wheat, and are very destructive to young wheat; -- so called from the erroneous idea that it was brought into America by the Hessian troops, during the Revolution.</cd></cs><br/
+<p><cs><mcol><col>Hessian boots</col>, <it>or</it> <col>Hessians</col></mcol>, <cd>boot of a kind worn in England, in the early part of the nineteenth century, tasseled in front.</cd> <au>Thackeray.</au> -- <mcol><col>Hessian cloth</col>, <it>or</it> <col>Hessians</col></mcol>, <cd>a coarse hempen cloth for sacking.</cd> -- <col>Hessian crucible</col>. <cd>See under <er>Crucible</er>.</cd> -- <col>Hessian fly</col> <fld>(Zool.)</fld>, <cd>a small dipterous fly or midge (<spn>Cecidomyia destructor</spn>). Its larvae live between the base of the lower leaves and the stalk of wheat, and are very destructive to young wheat; -- so called from the erroneous idea that it was brought into America by the Hessian troops, during the Revolution.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hessian</ent><br/
@@ -14487,7 +14487,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Het`er*o*ge"ne*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/; <?/ + <?/ race, kind; akin to E. <ets>kin</ets>: cf. F. <ets>h<eacute/t<eacute/rog<egrave/ne</ets>.]</ety> <def>Differing in kind; having unlike qualities; possessed of different characteristics; dissimilar; -- opposed to <xex>homogeneous</xex>, and said of two or more connected objects, or of a conglomerate mass, considered in respect to the parts of which it is made up.</def> -- <wordforms><wf>Het`er*o*ge"ne*ous*ly</wf>, <pos>adv.</pos> -- <wf>Het`er*o*ge"ne*ous*ness</wf>, <pos>n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heterogeneous nouns</b></col> <fld>(Gram.)</fld>, <cd>nouns having different genders in the singular and plural numbers; as, <xex>hic locus</xex>, of the masculine gender in the singular, and <xex>hi loci</xex> and <xex>h<ae/c loca</xex>, both masculine and neuter in the plural; <xex>hoc c<ae/lum</xex>, neuter in the singular; <xex>hi c<ae/li</xex>, masculine in the plural.</cd> -- <col><b>Heterogeneous quantities</b></col> <fld>(Math.)</fld>, <cd>such quantities as are incapable of being compared together in respect to magnitude, and surfaces and solids.</cd> -- <col><b>Heterogeneous surds</b></col> <fld>(Math.)</fld>, <cd>surds having different radical signs.</cd></cs><br/
+<p><cs><col>Heterogeneous nouns</col> <fld>(Gram.)</fld>, <cd>nouns having different genders in the singular and plural numbers; as, <xex>hic locus</xex>, of the masculine gender in the singular, and <xex>hi loci</xex> and <xex>h<ae/c loca</xex>, both masculine and neuter in the plural; <xex>hoc c<ae/lum</xex>, neuter in the singular; <xex>hi c<ae/li</xex>, masculine in the plural.</cd> -- <col>Heterogeneous quantities</col> <fld>(Math.)</fld>, <cd>such quantities as are incapable of being compared together in respect to magnitude, and surfaces and solids.</cd> -- <col>Heterogeneous surds</col> <fld>(Math.)</fld>, <cd>surds having different radical signs.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterogenesis</ent><br/
@@ -14537,7 +14537,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Het`er*ol"o*gous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hetero-</ets> + Gr. <?/ proportion.]</ety> <def>Characterized by heterology; consisting of different elements, or of like elements in different proportions; different; -- opposed to <xex>homologous</xex>; <as>as, <ex>heterologous</ex> organs</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Heterologous stimulus</b></col>. <fld>(Physiol.)</fld> <cd>See under <er>Stimulus</er>.</cd> -- <col><b>Heterologous tumor</b></col> <fld>(Med.)</fld>, <cd>a tumor differing in structure from the normal tissues of the body.</cd></cs><br/
+<p><cs><col>Heterologous stimulus</col>. <fld>(Physiol.)</fld> <cd>See under <er>Stimulus</er>.</cd> -- <col>Heterologous tumor</col> <fld>(Med.)</fld>, <cd>a tumor differing in structure from the normal tissues of the body.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Heterology</ent><br/
@@ -14895,14 +14895,14 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Hex"a*gon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>hexagonum</ets>, Gr. <?/ six-cornered; <grk>"e`x</grk> six (akin to E. <ets>six</ets>) + <?/ angle.]</ety> <fld>(Geom.)</fld> <def>A plane figure of six angles.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Regular hexagon</b></col>, <cd>a hexagon in which the angles are all equal, and the sides are also all equal.</cd></cs><br/
+<p><cs><col>Regular hexagon</col>, <cd>a hexagon in which the angles are all equal, and the sides are also all equal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexagonal</ent><br/
 <hw>Hex*ag"o*nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>hexagonal</ets>.]</ety> <def>Having six sides and six angles; six-sided.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hexagonal system</b></col>. <fld>(Crystal.)</fld> <cd>See under <er>Crystallization</er>.</cd></cs><br/
+<p><cs><col>Hexagonal system</col>. <fld>(Crystal.)</fld> <cd>See under <er>Crystallization</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexagonally</ent><br/
@@ -14933,7 +14933,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Hex`a*he"dron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Hexahedrons</plw> <pr>(#)</pr>, L. <plw>Hexahedra</plw> <pr>(#)</pr>.</plu> <ety>[<ets>Hexa-</ets> + Gr. <?/ seat, base, fr. <?/ to sit: cf. F. <ets>hexa<egrave/dre</ets>.]</ety> <fld>(Geom.)</fld> <def>A solid body of six sides or faces.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Regular hexahedron</b></col>, <cd>a hexagon having six equal squares for its sides; a cube.</cd></cs><br/
+<p><cs><col>Regular hexahedron</col>, <cd>a hexagon having six equal squares for its sides; a cube.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hexahemeron</ent><br/
@@ -15247,7 +15247,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 <hw>Hick"o*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[North American Indian <ets>pawcohiccora</ets> (Capt. J. Smith) a kind of milk or oily liquor pressed from pounded hickory nuts. <ldquo/<ets>Pohickory</ets><rdquo/ is named in a list of Virginia trees, in 1653, and this was finally shortened to <ldquo/hickory.<rdquo/  <au>J. H. Trumbull.</au>]</ety> <fld>(Bot.)</fld> <def>An American tree of the genus <gen>Carya</gen>, of which there are several species.  The shagbark is the <spn>Carya alba</spn>, and has a very rough bark; it affords the hickory nut of the markets.  The pignut, or brown hickory, is the <spn>Carya glabra</spn>.  The swamp hickory is <spn>Carya amara</spn>, having a nut whose shell is very thin and the kernel bitter.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hickory shad</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The mattowacca, or fall herring.</cd> <sd>(b)</sd> <cd>The gizzard shad.</cd></cs><br/
+<p><cs><col>Hickory shad</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The mattowacca, or fall herring.</cd> <sd>(b)</sd> <cd>The gizzard shad.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hicksite</ent><br/
@@ -15278,7 +15278,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 <hw>Hid"den</hw> <pr>(?)</pr>, <pos>p. p. & a.</pos> <def>from <er>Hide</er>. Concealed; put out of view; secret; not known; mysterious.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hidden fifths</b></col> <it>or</it> <col><b>Hidden octaves</b></col></mcol> <fld>(Mus.)</fld>, <cd>consecutive fifths or octaves, not sounded, but suggested or implied in the parallel motion of two parts towards a fifth or an octave.</cd></cs></p>
+<p><cs><mcol><col>Hidden fifths</col> <it>or</it> <col>Hidden octaves</col></mcol> <fld>(Mus.)</fld>, <cd>consecutive fifths or octaves, not sounded, but suggested or implied in the parallel motion of two parts towards a fifth or an octave.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- <er>Hidden</er>, <er>Secret</er>, <er>Covert</er>.</syn> <usage> <xex>Hidden</xex> may denote either known to on one; as, a <xex>hidden</xex> disease; or intentionally concealed; as, a <xex>hidden</xex> purpose of revenge. <xex>Secret</xex> denotes that the thing is known only to the party or parties concerned; as, a <xex>secret</xex> conspiracy. <xex>Covert</xex> literally denotes what is not <xex>open</xex> or avowed; as, a <xex>covert</xex> plan; but is often applied to what we mean shall be understood, without openly expressing it; as, a <xex>covert</xex> allusion. <xex>Secret</xex> is opposed to <xex>known</xex>, and <xex>hidden</xex> to <xex>revealed</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -15326,7 +15326,7 @@ Where truth is <qex>hid</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>In the time of trouble he shall <qex>hide</qex> me in his pavilion.</q> <rj><qau>Ps. xxvi. 5.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hide one's self</b></col>, <cd>to put one's self in a condition to be safe; to secure protection.</cd> <ldquo/A prudent man foreseeth the evil, and <xex>hideth himself</xex>.<rdquo/ <au>Prov. xxii. 3.</au> -- <col><b>To hide the face</b></col>, <cd>to withdraw favor.</cd> <ldquo/Thou didst <xex>hide thy face</xex>, and I was troubled.<rdquo/ <au>Ps. xxx. 7.</au> -- <col><b>To hide the face from</b></col>. <sd>(a)</sd> <cd>To overlook; to pardon.</cd> <ldquo/<xex>Hide thy face from</xex> my sins.<rdquo/ <au>Ps. li. 9.</au> <sd>(b)</sd> <cd>To withdraw favor from; to be displeased with.</cd></cs></p>
+<p><cs><col>To hide one's self</col>, <cd>to put one's self in a condition to be safe; to secure protection.</cd> <ldquo/A prudent man foreseeth the evil, and <xex>hideth himself</xex>.<rdquo/ <au>Prov. xxii. 3.</au> -- <col>To hide the face</col>, <cd>to withdraw favor.</cd> <ldquo/Thou didst <xex>hide thy face</xex>, and I was troubled.<rdquo/ <au>Ps. xxx. 7.</au> -- <col>To hide the face from</col>. <sd>(a)</sd> <cd>To overlook; to pardon.</cd> <ldquo/<xex>Hide thy face from</xex> my sins.<rdquo/ <au>Ps. li. 9.</au> <sd>(b)</sd> <cd>To withdraw favor from; to be displeased with.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To conceal; secrete; disguise; dissemble; screen; cloak; mask; veil. See <er>Conceal</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -15338,7 +15338,7 @@ Where truth is <qex>hid</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Bred to disguise, in public 'tis you <qex>hide</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hide and seek</b></col>, <cd>a play of children, in which some hide themselves, and others seek them.</cd>  <rj><au>Swift.</au></rj></cs><br/
+<p><cs><col>Hide and seek</col>, <cd>a play of children, in which some hide themselves, and others seek them.</cd>  <rj><au>Swift.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hide</ent><br/
@@ -15501,7 +15501,7 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <hw>Hi`er*at"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>hieraticus</ets>, Gr. <grk>"ieratiko`s</grk>; akin to <grk>"iero`s</grk> sacred: cf. F. <ets>hi<eacute/ratique</ets>.]</ety> <def>Consecrated to sacred uses; sacerdotal; pertaining to priests.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hieratic character</b></col>, <cd>a mode of ancient Egyptian writing; a modified form of hieroglyphics, tending toward a cursive hand and formerly supposed to be the sacerdotal character, as the <xex>demotic</xex> was supposed to be that of the people.</cd></cs><br/
+<p><cs><col>Hieratic character</col>, <cd>a mode of ancient Egyptian writing; a modified form of hieroglyphics, tending toward a cursive hand and formerly supposed to be the sacerdotal character, as the <xex>demotic</xex> was supposed to be that of the people.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>It was a false notion of the Greeks that of the three kinds of writing used by the Egyptians, two -- for that reason called hieroglyphic and <qex>hieratic</qex> -- were employed only for sacred, while the third, the demotic, was employed for secular, purposes. No such distinction is discoverable on the more ancient Egyptian monuments; bur we retain the old names founded on misapprehension.</q> <rj><qau>W. H. Ward (Johnson's Cyc.).</qau></rj><br/
@@ -15732,12 +15732,12 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <p><sn>6.</sn> <fld>(Phon.)</fld> <def>Made with a high position of some part of the tongue in relation to the palate, as <emac/ (<emac/ve), <oomac/ (f<oomac/d). See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 10, 11.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>High admiral</b></col>, <cd>the chief admiral.</cd> -- <col><b>High altar</b></col>, <cd>the principal altar in a church.</cd> -- <col><b>High and dry</b></col>, <cd>out of water; out of reach of the current or tide; -- said of a vessel, aground or beached.</cd> -- <col><b>High and mighty</b></col> <cd>arrogant; overbearing.</cd> <mark>[Colloq.]</mark> -- <col><b>High art</b></col>, <cd>art which deals with lofty and dignified subjects and is characterized by an elevated style avoiding all meretricious display.</cd> -- <col><b>High bailiff</b></col>, <cd>the chief bailiff.</cd> -- <mcol><col><b>High Church</b></col>, <and/ <col><b>Low Church</b></col></mcol>, <cd>two ecclesiastical parties in the Church of England and the Protestant Episcopal Church. The high-churchmen emphasize the doctrine of the apostolic succession, and hold, in general, to a sacramental presence in the Eucharist, to baptismal regeneration, and to the sole validity of Episcopal ordination. They attach much importance to ceremonies and symbols in worship. Low-churchmen lay less stress on these points, and, in many instances, reject altogether the peculiar tenets of the high-church school. See <er>Broad Church</er>.</cd> -- <col><b>High constable</b></col> <fld>(Law)</fld>, <cd>a chief of constabulary. See <er>Constable</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col><b>High commission court</b></col>, <cd>a court of ecclesiastical jurisdiction in England erected and united to the regal power by Queen Elizabeth in 1559. On account of the abuse of its powers it was abolished in 1641.</cd> -- <col><b>High day</b></col> <fld>(Script.)</fld>, <cd>a holy or feast day.</cd> <au>John xix. 31.</au> -- <col><b>High festival</b></col> <fld>(Eccl.)</fld>, <cd>a festival to be observed with full ceremonial.</cd> -- <mcol><col><b>High German</b></col>, <it>or</it> <col><b>High Dutch</b></col></mcol>. <cd>See under <er>German</er>.</cd> -- <col><b>High jinks</b></col>, <cd>an old Scottish pastime; hence, noisy revelry; wild sport.</cd> <mark>[Colloq.]</mark> <ldquo/All the <xex>high jinks</xex> of the county, when the lad comes of age.<rdquo/  <au>F. Harrison.</au> -- <col><b>High latitude</b></col> <fld>(Geog.)</fld>, <cd>one designated by the higher figures; consequently, a latitude remote from the equator.</cd> -- <col><b>High life</b></col>, <cd>life among the aristocracy or the rich.</cd> -- <col><b>High liver</b></col>, <cd>one who indulges in a rich diet.</cd> -- <col><b>High living</b></col>, <cd>a feeding upon rich, pampering food.</cd> -- <col><b>High Mass</b></col>. <fld>(R. C. Ch.)</fld> <cd>See under <er>Mass</er>.</cd> -- <col><b>High milling</b></col>, <cd>a process of making flour from grain by several successive grindings and intermediate sorting, instead of by a single grinding.</cd> -- <col><b>High noon</b></col>, <cd>the time when the sun is in the meridian.</cd> -- <col><b>High place</b></col> <fld>(Script.)</fld>, <cd>an eminence or mound on which sacrifices were offered.</cd> -- <col><b>High priest</b></col>. <cd>See in the Vocabulary.</cd> -- <col><b>High relief</b></col>. <fld>(Fine Arts)</fld> <cd>See <er>Alto-rilievo</er>.</cd> -- <col><b>High school</b></col>. See under <er>School</er>. <col><b>High seas</b></col> <fld>(Law)</fld>, <cd>the open sea; the part of the ocean not in the territorial waters of any particular sovereignty, usually distant three miles or more from the coast line.</cd> <au>Wharton.</au> -- <col><b>High steam</b></col>, <cd>steam having a high pressure.</cd> -- <col><b>High steward</b></col>, <cd>the chief steward.</cd> -- <col><b>High tea</b></col>, <cd>tea with meats and extra relishes.</cd> -- <col><b>High tide</b></col>, <cd>the greatest flow of the tide; high water.</cd> -- <col><b>High time</b></col>. <sd>(a)</sd> <cd>Quite time; full time for the occasion.</cd> <sd>(b)</sd> <cd>A time of great excitement or enjoyment; a carousal.</cd> <mark>[Slang]</mark> -- <col><b>High treason</b></col>, <cd>treason against the sovereign or the state, the highest civil offense. See <er>Treason</er>.</cd><br/
+<p><cs><col>High admiral</col>, <cd>the chief admiral.</cd> -- <col>High altar</col>, <cd>the principal altar in a church.</cd> -- <col>High and dry</col>, <cd>out of water; out of reach of the current or tide; -- said of a vessel, aground or beached.</cd> -- <col>High and mighty</col> <cd>arrogant; overbearing.</cd> <mark>[Colloq.]</mark> -- <col>High art</col>, <cd>art which deals with lofty and dignified subjects and is characterized by an elevated style avoiding all meretricious display.</cd> -- <col>High bailiff</col>, <cd>the chief bailiff.</cd> -- <mcol><col>High Church</col>, <and/ <col>Low Church</col></mcol>, <cd>two ecclesiastical parties in the Church of England and the Protestant Episcopal Church. The high-churchmen emphasize the doctrine of the apostolic succession, and hold, in general, to a sacramental presence in the Eucharist, to baptismal regeneration, and to the sole validity of Episcopal ordination. They attach much importance to ceremonies and symbols in worship. Low-churchmen lay less stress on these points, and, in many instances, reject altogether the peculiar tenets of the high-church school. See <er>Broad Church</er>.</cd> -- <col>High constable</col> <fld>(Law)</fld>, <cd>a chief of constabulary. See <er>Constable</er>, <pos>n.</pos>, <snr>2</snr>.</cd> -- <col>High commission court</col>, <cd>a court of ecclesiastical jurisdiction in England erected and united to the regal power by Queen Elizabeth in 1559. On account of the abuse of its powers it was abolished in 1641.</cd> -- <col>High day</col> <fld>(Script.)</fld>, <cd>a holy or feast day.</cd> <au>John xix. 31.</au> -- <col>High festival</col> <fld>(Eccl.)</fld>, <cd>a festival to be observed with full ceremonial.</cd> -- <mcol><col>High German</col>, <it>or</it> <col>High Dutch</col></mcol>. <cd>See under <er>German</er>.</cd> -- <col>High jinks</col>, <cd>an old Scottish pastime; hence, noisy revelry; wild sport.</cd> <mark>[Colloq.]</mark> <ldquo/All the <xex>high jinks</xex> of the county, when the lad comes of age.<rdquo/  <au>F. Harrison.</au> -- <col>High latitude</col> <fld>(Geog.)</fld>, <cd>one designated by the higher figures; consequently, a latitude remote from the equator.</cd> -- <col>High life</col>, <cd>life among the aristocracy or the rich.</cd> -- <col>High liver</col>, <cd>one who indulges in a rich diet.</cd> -- <col>High living</col>, <cd>a feeding upon rich, pampering food.</cd> -- <col>High Mass</col>. <fld>(R. C. Ch.)</fld> <cd>See under <er>Mass</er>.</cd> -- <col>High milling</col>, <cd>a process of making flour from grain by several successive grindings and intermediate sorting, instead of by a single grinding.</cd> -- <col>High noon</col>, <cd>the time when the sun is in the meridian.</cd> -- <col>High place</col> <fld>(Script.)</fld>, <cd>an eminence or mound on which sacrifices were offered.</cd> -- <col>High priest</col>. <cd>See in the Vocabulary.</cd> -- <col>High relief</col>. <fld>(Fine Arts)</fld> <cd>See <er>Alto-rilievo</er>.</cd> -- <col>High school</col>. See under <er>School</er>. <col>High seas</col> <fld>(Law)</fld>, <cd>the open sea; the part of the ocean not in the territorial waters of any particular sovereignty, usually distant three miles or more from the coast line.</cd> <au>Wharton.</au> -- <col>High steam</col>, <cd>steam having a high pressure.</cd> -- <col>High steward</col>, <cd>the chief steward.</cd> -- <col>High tea</col>, <cd>tea with meats and extra relishes.</cd> -- <col>High tide</col>, <cd>the greatest flow of the tide; high water.</cd> -- <col>High time</col>. <sd>(a)</sd> <cd>Quite time; full time for the occasion.</cd> <sd>(b)</sd> <cd>A time of great excitement or enjoyment; a carousal.</cd> <mark>[Slang]</mark> -- <col>High treason</col>, <cd>treason against the sovereign or the state, the highest civil offense. See <er>Treason</er>.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is now sufficient to speak of high treason as treason simply, seeing that petty treason, as a distinct offense, has been abolished.  <rj><au>Mozley & W.</au></rj></note></p>
 
-<p>-- <col><b>High water</b></col>, <cd>the utmost flow or greatest elevation of the tide; also, the time of such elevation.</cd> -- <col><b>High-water mark</b></col>. <sd>(a)</sd> <cd>That line of the seashore to which the waters ordinarily reach at high water.</cd> <sd>(b)</sd> <cd>A mark showing the highest level reached by water in a river or other body of fresh water, as in time of freshet.</cd> -- <col><b>High-water shrub</b></col> <fld>(Bot.)</fld>, <cd>a composite shrub (<spn>Iva frutescens</spn>), growing in salt marshes along the Atlantic coast of the United States.</cd> -- <col><b>High wine</b></col>, <cd>distilled spirits containing a high percentage of alcohol; -- usually in the plural.</cd> -- <col><b>To be on a high horse</b></col>, <cd>to be on one's dignity; to bear one's self loftily.</cd> <mark>[Colloq.]</mark> -- <col><b>With a high hand</b></col>. <sd>(a)</sd> <cd>With power; in force; triumphantly.</cd> <ldquo/The children of Israel went out <xex>with a high hand</xex>.<rdquo/ <au>Ex. xiv. 8.</au> <sd>(b)</sd> <cd>In an overbearing manner, arbitrarily.</cd> <ldquo/They governed the city <xex>with a high hand</xex>.<rdquo/ <au>Jowett (Thucyd. ).</au></cs></p>
+<p>-- <col>High water</col>, <cd>the utmost flow or greatest elevation of the tide; also, the time of such elevation.</cd> -- <col>High-water mark</col>. <sd>(a)</sd> <cd>That line of the seashore to which the waters ordinarily reach at high water.</cd> <sd>(b)</sd> <cd>A mark showing the highest level reached by water in a river or other body of fresh water, as in time of freshet.</cd> -- <col>High-water shrub</col> <fld>(Bot.)</fld>, <cd>a composite shrub (<spn>Iva frutescens</spn>), growing in salt marshes along the Atlantic coast of the United States.</cd> -- <col>High wine</col>, <cd>distilled spirits containing a high percentage of alcohol; -- usually in the plural.</cd> -- <col>To be on a high horse</col>, <cd>to be on one's dignity; to bear one's self loftily.</cd> <mark>[Colloq.]</mark> -- <col>With a high hand</col>. <sd>(a)</sd> <cd>With power; in force; triumphantly.</cd> <ldquo/The children of Israel went out <xex>with a high hand</xex>.<rdquo/ <au>Ex. xiv. 8.</au> <sd>(b)</sd> <cd>In an overbearing manner, arbitrarily.</cd> <ldquo/They governed the city <xex>with a high hand</xex>.<rdquo/ <au>Jowett (Thucyd. ).</au></cs></p>
 
 <p><syn><b>Syn.</b> -- Tall; lofty; elevated; noble; exalted; supercilious; proud; violent; full; dear. See <er>Tall</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -15749,7 +15749,7 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <p><note><hand/ <xex>High</xex> is extensively used in the formation of compound words, most of which are of very obvious signification; as, <xex>high</xex>-aimed, <xex>high</xex>-arched, <xex>high</xex>-aspiring, <xex>high</xex>-bearing, <xex>high</xex>-boasting, <xex>high</xex>-browed, <xex>high</xex>-crested, <xex>high</xex>-crowned, <xex>high</xex>-designing, <xex>high</xex>-engendered, <xex>high</xex>-feeding, <xex>high</xex>-flaming, <xex>high</xex>-flavored, <xex>high</xex>-gazing, <xex>high</xex>-heaped, <xex>high</xex>-heeled, <xex>high</xex>-priced, <xex>high</xex>-reared, <xex>high</xex>-resolved, <xex>high</xex>-rigged, <xex>high</xex>-seated, <xex>high</xex>-shouldered, <xex>high</xex>-soaring, <xex>high</xex>-towering, <xex>high</xex>-voiced, and the like.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>High and low</b></col>, <cd>everywhere; in all supposable places; <as>as, I hunted <ex>high and low</ex></as>.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>High and low</col>, <cd>everywhere; in all supposable places; <as>as, I hunted <ex>high and low</ex></as>.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>High</ent><br/
@@ -15762,12 +15762,12 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <p><sn>3.</sn> <fld>(Card Playing)</fld> <def>The highest card dealt or drawn.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>High, low, jack, and the game</b></col>, <cd>a game at cards; -- also called <altname>all fours</altname>, <altname>old sledge</altname>, and <altname>seven up</altname>.</cd> -- <col><b>In high and low</b></col>, <cd>utterly; completely; in every respect.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au>  -- <col><b>On high</b></col>, <cd>aloft; above.</cd><br/
+<p><cs><col>High, low, jack, and the game</col>, <cd>a game at cards; -- also called <altname>all fours</altname>, <altname>old sledge</altname>, and <altname>seven up</altname>.</cd> -- <col>In high and low</col>, <cd>utterly; completely; in every respect.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au>  -- <col>On high</col>, <cd>aloft; above.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The dayspring from <qex>on high</qex> hath visited us.</q> <rj><qau>Luke i. 78.</qau></rj></p>
 
-<p>-- <col><b>The Most High</b></col>, <cd>the Supreme Being; God.</cd></cs><br/
+<p>-- <col>The Most High</col>, <cd>the Supreme Being; God.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>High</ent><br/
@@ -16007,7 +16007,7 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <hw>High"land</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Elevated or mountainous land; (often in the <pluf>pl.</pluf>) an elevated region or country; <as>as, the <ex>Highlands</ex> of Scotland</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Highland fling</b></col>, <cd>a dance peculiar to the Scottish Highlanders; a sort of hornpipe.</cd></cs><br/
+<p><cs><col>Highland fling</col>, <cd>a dance peculiar to the Scottish Highlanders; a sort of hornpipe.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>highland</ent><br/
@@ -16131,7 +16131,7 @@ Of <qex>hierarchies</qex>, of orders, and degrees.</q> <rj><qau>Milton.</qau></r
 <p><sn>3.</sn> <def>Using intense psychological pressure or other incentives to convince others to do things; aggressively persistent; <as>as, <ex>high-pressure</ex> salesmen; <ex>high-pressure</ex> tactics</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>High-pressure engine</b></col>, <cd>an engine in which steam at high pressure is used. It may be either a condensing or a noncondensing engine. Formerly the term was used only of the latter. See <er>Steam engine</er>.</cd></cs><br/
+<p><cs><col>High-pressure engine</col>, <cd>an engine in which steam at high pressure is used. It may be either a condensing or a noncondensing engine. Formerly the term was used only of the latter. See <er>Steam engine</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>High priest</ent><br/
@@ -16470,7 +16470,7 @@ Seem objects of indifferent weight.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 <p><sn>3.</sn> <def>A single cluster or group of plants growing close together, and having the earth heaped up about them; <as>as, a <ex>hill</ex> of corn or potatoes</as>.</def> <mark>[U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hill ant</b></col> <fld>(Zool.)</fld>, <cd>a common ant (<spn>Formica rufa</spn>), of Europe and America, which makes mounds or ant-hills over its nests.</cd> -- <col><b>Hill myna</b></col> <fld>(Zool.)</fld>, <cd>one of several species of birds of India, of the genus <gen>Gracula</gen>, and allied to the starlings. They are easily taught to speak many words. <altsp>[Written also <asp>hill mynah</asp>.]</altsp> See <er>Myna</er>.</cd> -- <col><b>Hill partridge</b></col> <fld>(Zool.)</fld>, <cd>a partridge of the genus <gen>Aborophila</gen>, of which numerous species in habit Southern Asia and the East Indies.</cd> -- <col><b>Hill tit</b></col> <fld>(Zool.)</fld>, <cd>one of numerous species of small Asiatic singing birds of the family <fam>Leiotrichid<ae/</fam>. Many are beautifully colored.</cd></cs><br/
+<p><cs><col>Hill ant</col> <fld>(Zool.)</fld>, <cd>a common ant (<spn>Formica rufa</spn>), of Europe and America, which makes mounds or ant-hills over its nests.</cd> -- <col>Hill myna</col> <fld>(Zool.)</fld>, <cd>one of several species of birds of India, of the genus <gen>Gracula</gen>, and allied to the starlings. They are easily taught to speak many words. <altsp>[Written also <asp>hill mynah</asp>.]</altsp> See <er>Myna</er>.</cd> -- <col>Hill partridge</col> <fld>(Zool.)</fld>, <cd>a partridge of the genus <gen>Aborophila</gen>, of which numerous species in habit Southern Asia and the East Indies.</cd> -- <col>Hill tit</col> <fld>(Zool.)</fld>, <cd>one of numerous species of small Asiatic singing birds of the family <fam>Leiotrichid<ae/</fam>. Many are beautifully colored.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 694 --></p>
@@ -16596,7 +16596,7 @@ Of the same herd, <qex>himself</qex> the same had done.</q> <rj><qau>Denham.</qa
 <p><sn>2.</sn> <def>One's true or real character; one's natural temper and disposition; the state of being in one's right or sane mind (after unconsciousness, passion, delirium, or abasement); <as>as, the man has come to <ex>himself</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>By himself</b></col>, <cd>alone; unaccompanied; apart; sequestered; as, he sits or studies <xex>by himself</xex>.</cd> -- <col><b>To leave one to himself</b></col>, <cd>to withdraw from him; to let him take his own course.</cd></cs></p>
+<p><cs><col>By himself</col>, <cd>alone; unaccompanied; apart; sequestered; as, he sits or studies <xex>by himself</xex>.</cd> -- <col>To leave one to himself</col>, <cd>to withdraw from him; to let him take his own course.</cd></cs></p>
 
 <p><ent>Himselven</ent><br/
 <ent>Himselve</ent><br/
@@ -16796,7 +16796,7 @@ Chait . . . . . . . . . . . .  March-April
 <hw>hindsight</hw> <pos>n.</pos> <def>understanding the nature of an event after it has happened; <as>as, <ex>hindsight</ex> is always clearer than foresight</as>.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><mcol><col><b>20-20 hindsight</b></col>, <col><b>twenty-twenty hindsight</b></col></mcol>  <cd>Perfect understanding of an event after it has happened; -- a term usually used with sarcasm in response to criticism of one's decision, implying that the critic is unfairly judging the wisdom of the decision in light of information that was not available when the decision was made.</cd></cs><br/
+<p><cs><mcol><col>20-20 hindsight</col>, <col>twenty-twenty hindsight</col></mcol>  <cd>Perfect understanding of an event after it has happened; -- a term usually used with sarcasm in response to criticism of one's decision, implying that the critic is unfairly judging the wisdom of the decision in light of information that was not available when the decision was made.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hindu</ent><br/
@@ -16859,7 +16859,7 @@ On golden <qex>hinges</qex> turning.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Nor slept the winds . . . but rushed abroad.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hinge joint</b></col>. <sd>(a)</sd> <fld>(Anat.)</fld> <cd>See <er>Ginglymus</er>.</cd> <sd>(b)</sd> <fld>(Mech.)</fld> <cd>Any joint resembling a hinge, by which two pieces are connected so as to permit relative turning in one plane.</cd> -- <col><b>To be off the hinges</b></col>, <cd>to be in a state of disorder or irregularity; to have lost proper adjustment.</cd>  <rj><au>Tillotson.</au></rj></cs><br/
+<p><cs><col>Hinge joint</col>. <sd>(a)</sd> <fld>(Anat.)</fld> <cd>See <er>Ginglymus</er>.</cd> <sd>(b)</sd> <fld>(Mech.)</fld> <cd>Any joint resembling a hinge, by which two pieces are connected so as to permit relative turning in one plane.</cd> -- <col>To be off the hinges</col>, <cd>to be in a state of disorder or irregularity; to have lost proper adjustment.</cd>  <rj><au>Tillotson.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hinge</ent><br/
@@ -16913,7 +16913,7 @@ On golden <qex>hinges</qex> turning.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>We whisper, and <qex>hint</qex>, and chuckle.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hint at</b></col>, <cd>to allude to lightly, indirectly, or cautiously.</cd></cs></p>
+<p><cs><col>To hint at</col>, <cd>to allude to lightly, indirectly, or cautiously.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To allude; refer; glance; touch.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -16932,7 +16932,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hinterland</ent><br/
-<hw>hin"ter*land`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.; <ets>hinter</ets> behind + <ets>land</ets> land.]</ety> <def>a remote and undeveloped area; originally, the land or region lying behind the coast district. The term is used esp. with reference to the so-called <col><b>doctrine of the hinterland</b></col>, sometimes advanced, that occupation of the coast supports a claim to an exclusive right to occupy, from time to time, the territory lying inland of the coast.</def><br/
+<hw>hin"ter*land`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.; <ets>hinter</ets> behind + <ets>land</ets> land.]</ety> <def>a remote and undeveloped area; originally, the land or region lying behind the coast district. The term is used esp. with reference to the so-called <col>doctrine of the hinterland</col>, sometimes advanced, that occupation of the coast supports a claim to an exclusive right to occupy, from time to time, the territory lying inland of the coast.</def><br/
 <syn><b>Syn. --</b> backwoods, back country, boondocks.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
@@ -16953,7 +16953,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Engin)</fld> <def>In a bridge truss, the place where an inclined end post meets the top chord.</def>  <rj><au>Waddell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hip bone</b></col> <fld>(Anat.)</fld>, <cd>the innominate bone; -- called also <altname>haunch bone</altname> and <altname>huckle bone</altname>.</cd> -- <col><b>Hip girdle</b></col> <fld>(Anat.)</fld>, <cd>the pelvic girdle.</cd> -- <col><b>Hip joint</b></col> <fld>(Anat.)</fld>, <cd>the articulation between the thigh bone and hip bone.</cd> -- <col><b>Hip knob</b></col> <fld>(Arch.)</fld>, <cd>a finial, ball, or other ornament at the intersection of the hip rafters and the ridge.</cd> -- <col><b>Hip molding</b></col> <fld>(Arch.)</fld>, <cd>a molding on the hip of a roof, covering the hip joint of the slating or other roofing.</cd> -- <col><b>Hip rafter</b></col> <fld>(Arch.)</fld>, <cd>the rafter extending from the wall plate to the ridge in the angle of a hip roof.</cd> -- <mcol><col><b>Hip roof</b></col>, <col><b>Hipped roof</b></col></mcol> <fld>(Arch.)</fld>, <cd>a roof having sloping ends and sloping sides. See <er>Hip</er>, <pos>n.</pos>, <snr>2</snr>., and <er>Hip</er>, <pos>v. t.</pos>, 3.</cd> -- <col><b>Hip tile</b></col>, <cd>a tile made to cover the hip of a roof.</cd> -- <mcol><col><b>To catch upon the hip</b></col>, <it>or</it> <col><b>To have on the hip</b></col></mcol>, <cd>to have or get the advantage of; -- a figure probably derived from wresting.</cd> <au>Shak.</au> -- <col><b>To smite hip and thigh</b></col>, <cd>to overthrow completely; to defeat utterly.</cd> <au>Judg. xv. 8.</au></cs><br/
+<p><cs><col>Hip bone</col> <fld>(Anat.)</fld>, <cd>the innominate bone; -- called also <altname>haunch bone</altname> and <altname>huckle bone</altname>.</cd> -- <col>Hip girdle</col> <fld>(Anat.)</fld>, <cd>the pelvic girdle.</cd> -- <col>Hip joint</col> <fld>(Anat.)</fld>, <cd>the articulation between the thigh bone and hip bone.</cd> -- <col>Hip knob</col> <fld>(Arch.)</fld>, <cd>a finial, ball, or other ornament at the intersection of the hip rafters and the ridge.</cd> -- <col>Hip molding</col> <fld>(Arch.)</fld>, <cd>a molding on the hip of a roof, covering the hip joint of the slating or other roofing.</cd> -- <col>Hip rafter</col> <fld>(Arch.)</fld>, <cd>the rafter extending from the wall plate to the ridge in the angle of a hip roof.</cd> -- <mcol><col>Hip roof</col>, <col>Hipped roof</col></mcol> <fld>(Arch.)</fld>, <cd>a roof having sloping ends and sloping sides. See <er>Hip</er>, <pos>n.</pos>, <snr>2</snr>., and <er>Hip</er>, <pos>v. t.</pos>, 3.</cd> -- <col>Hip tile</col>, <cd>a tile made to cover the hip of a roof.</cd> -- <mcol><col>To catch upon the hip</col>, <it>or</it> <col>To have on the hip</col></mcol>, <cd>to have or get the advantage of; -- a figure probably derived from wresting.</cd> <au>Shak.</au> -- <col>To smite hip and thigh</col>, <cd>to overthrow completely; to defeat utterly.</cd> <au>Judg. xv. 8.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hip</ent><br/
@@ -16966,14 +16966,14 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To make with a hip or hips, as a roof.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hipped roof</b></col>. <cd>See <cref>Hip roof</cref>, under <er>Hip</er>.</cd></cs><br/
+<p><cs><col>Hipped roof</col>. <cd>See <cref>Hip roof</cref>, under <er>Hip</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hip</ent><br/
 <hw>Hip</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>hepe</ets>, AS. <ets>he<oacute/pe</ets>; cf. OHG. <ets>hiufo</ets> a bramble bush.]</ety> <fld>(Bot.)</fld> <def>The fruit of a rosebush, especially of the English dog-rose (<spn>Rosa canina</spn>); called also <altname>rose hip</altname>.</def> <altsp>[Written also <asp>hop</asp>, <asp>hep</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hip tree</b></col> <fld>(Bot.)</fld>, <cd>the dog-rose.</cd></cs><br/
+<p><cs><col>Hip tree</col> <fld>(Bot.)</fld>, <cd>the dog-rose.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hip</ent><br/
@@ -17112,14 +17112,14 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hip*poc"ra*tes</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A famous Greek physician and medical writer, born in Cos, about 460 <sc>b. c.</sc></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hippocrates' sleeve</b></col>, <cd>a conical strainer, made by stitching together two adjacent sides of a square piece of cloth, esp. flannel of linen.</cd></cs><br/
+<p><cs><col>Hippocrates' sleeve</col>, <cd>a conical strainer, made by stitching together two adjacent sides of a square piece of cloth, esp. flannel of linen.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hippocratic</ent><br/
 <hw>Hip"po*crat"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Hippocrates, or to his teachings.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hippocratic face</b></col> <ety>[L. <ets>facies Hippocratica</ets>]</ety>, <cd>the change produced in the countenance by death, or long sickness, excessive evacuations, excessive hunger, and the like. The nose is pinched, the eyes are sunk, the temples hollow, the ears cold and retracted, the skin of the forehead tense and dry, the complexion livid, the lips pendent, relaxed, and cold; -- so called, as having been described by Hippocrates.</cd> <au>Dunglison.</au></cs><br/
+<p><cs><col>Hippocratic face</col> <ety>[L. <ets>facies Hippocratica</ets>]</ety>, <cd>the change produced in the countenance by death, or long sickness, excessive evacuations, excessive hunger, and the like. The nose is pinched, the eyes are sunk, the temples hollow, the ears cold and retracted, the skin of the forehead tense and dry, the complexion livid, the lips pendent, relaxed, and cold; -- so called, as having been described by Hippocrates.</cd> <au>Dunglison.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hippocratic oath</ent><br/
@@ -17225,7 +17225,7 @@ Is common.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hip*pu"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"i`ppos</grk> horse + <grk>o"y`ron</grk> urine: cf. F. <ets>hippurique</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>Obtained from the urine of horses; <as>as, <ex>hippuric</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hippuric acid</b></col>, <cd>a white crystalline substance, containing nitrogen, present in the urine of herbivorous animals, and in small quantity in human urine. By the action of acids, it is decomposed into benzoic acid and glycocoll.</cd></cs><br/
+<p><cs><col>Hippuric acid</col>, <cd>a white crystalline substance, containing nitrogen, present in the urine of herbivorous animals, and in small quantity in human urine. By the action of acids, it is decomposed into benzoic acid and glycocoll.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hippurite</ent><br/
@@ -17609,7 +17609,7 @@ Of public scorn.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Linguistics)</fld> <def>Same as <er>diachronic</er>.</def> <ant>synchronic</ant><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><cs><col><b>Historical painting</b></col>, <cd>that branch of painting which represents the events of history.</cd> -- <col><b>Historical sense</b></col>, <cd>that meaning of a passage which is deduced from the circumstances of time, place, etc., under which it was written.</cd> -- <col><b>The historic sense</b></col>, <cd>the capacity to conceive and represent the unity and significance of a past era or age.</cd></cs><br/
+<p><cs><col>Historical painting</col>, <cd>that branch of painting which represents the events of history.</cd> -- <col>Historical sense</col>, <cd>that meaning of a passage which is deduced from the circumstances of time, place, etc., under which it was written.</cd> -- <col>The historic sense</col>, <cd>the capacity to conceive and represent the unity and significance of a past era or age.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Historically</ent><br/
@@ -17686,7 +17686,7 @@ Could ever hear by tale or <qex>history</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>What <qex>histories</qex> of toil could I declare!</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>History piece</b></col>, <cd>a representation in painting, drawing, etc., of any real event, including the actors and the action.</cd> -- <col><b>Natural history</b></col>, <cd>a description and classification of objects in nature, as minerals, plants, animals, etc., and the phenomena which they exhibit to the senses.</cd></cs></p>
+<p><cs><col>History piece</col>, <cd>a representation in painting, drawing, etc., of any real event, including the actors and the action.</cd> -- <col>Natural history</col>, <cd>a description and classification of objects in nature, as minerals, plants, animals, etc., and the phenomena which they exhibit to the senses.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Chronicle; annals; relation; narration.</syn> <usage> -- <er>History</er>, <er>Chronicle</er>, <er>Annals</er>. <xex>History</xex> is a methodical record of important events which concern a community of men, usually so arranged as to show the connection of causes and effects, to give an analysis of motive and action etc. A <xex>chronicle</xex> is a record of such events, conforming to the order of time as its distinctive feature. <xex>Annals</xex> are a chronicle divided up into separate years. By poetic license <xex>annals</xex> is sometimes used for <xex>history</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
@@ -17785,7 +17785,7 @@ To <qex>hit</qex> the sense of human sight.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Backgammon)</fld> <def>To take up, or replace by a piece belonging to the opposing player; -- said of a single unprotected piece on a point.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hit off</b></col>, <cd>to describe with quick characteristic strokes; as, <xex>to hit off</xex> a speaker.</cd> <au>Sir W. Temple.</au> -- <col><b>To hit out</b></col>, <cd>to perform by good luck.</cd> <mark>[Obs.]</mark> <au>Spenser.</au></cs><br/
+<p><cs><col>To hit off</col>, <cd>to describe with quick characteristic strokes; as, <xex>to hit off</xex> a speaker.</cd> <au>Sir W. Temple.</au> -- <col>To hit out</col>, <cd>to perform by good luck.</cd> <mark>[Obs.]</mark> <au>Spenser.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hit</ent><br/
@@ -17808,7 +17808,7 @@ Where hope is coldest and despair most fits.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>And millions miss for one that <qex>hits</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>To hit on</b></col> <it>or</it> <col><b>To hit upon</b></col></mcol>, <cd>to light upon; to come to by chance; to discover unexpectedly; <as>as, he <ex>hit on</ex> the solution after days of trying</as>.</cd> <ldquo/None of them <xex>hit upon</xex> the art.<rdquo/  <rj><au>Addison.</au></rj></cs><br/
+<p><cs><mcol><col>To hit on</col> <it>or</it> <col>To hit upon</col></mcol>, <cd>to light upon; to come to by chance; to discover unexpectedly; <as>as, he <ex>hit on</ex> the solution after days of trying</as>.</cd> <ldquo/None of them <xex>hit upon</xex> the art.<rdquo/  <rj><au>Addison.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hit</ent><br/
@@ -17837,7 +17837,7 @@ And God's good providence, a lucky <qex>hit</qex>.</q> <rj><qau>Pope.</qau></rj>
 <p><sn>6.</sn> <def>An act of murder performed for hire, esp. by a professional assassin.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>Base hit</b></col>, <col><b>Safe hit</b></col>, <col><b>Sacrifice hit</b></col></mcol>. <fld>(Baseball)</fld> <cd>See under <er>Base</er>, <er>Safe</er>, etc.</cd></cs></p>
+<p><cs><mcol><col>Base hit</col>, <col>Safe hit</col>, <col>Sacrifice hit</col></mcol>. <fld>(Baseball)</fld> <cd>See under <er>Base</er>, <er>Safe</er>, etc.</cd></cs></p>
 
 <p><ent>Hit.</ent><br/
 <hw>Hit.</hw> <pos>adj.</pos> <def>Having become very popular or acclaimed; -- said of entertainment performances; <as>as, a <ex>hit</ex> song, a <ex>hit</ex> movie</as>.</def><br/
@@ -17872,7 +17872,7 @@ And God's good providence, a lucky <qex>hit</qex>.</q> <rj><qau>Pope.</qau></rj>
 <p><sn>2.</sn> <def>To move with hitches; <as>as, he <ex>hitched</ex> his chair nearer</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hitch up</b></col>. <sd>(a)</sd> <cd>To fasten up.</cd> <sd>(b)</sd> <cd>To pull or raise with a jerk; as, a sailor <xex>hitches up</xex> his trousers.</cd> <sd>(c)</sd> <cd>To attach, as a horse, to a vehicle; as, <xex>hitch up</xex> the gray mare.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To hitch up</col>. <sd>(a)</sd> <cd>To fasten up.</cd> <sd>(b)</sd> <cd>To pull or raise with a jerk; as, a sailor <xex>hitches up</xex> his trousers.</cd> <sd>(c)</sd> <cd>To attach, as a horse, to a vehicle; as, <xex>hitch up</xex> the gray mare.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hitch</ent><br/
@@ -17923,7 +17923,7 @@ And God's good providence, a lucky <qex>hit</qex>.</q> <rj><qau>Pope.</qau></rj>
 <p><q><qex>Hither</qex> we refer whatsoever belongeth unto the highest perfection of man.</q> <rj><qau>Hooker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hither and thither</b></col>, <cd>to and fro; backward and forward; in various directions.</cd> <ldquo/Victory is like a traveller, and goeth <xex>hither and thither</xex>.<rdquo/  <rj><au>Knolles.</au></rj></cs><br/
+<p><cs><col>Hither and thither</col>, <cd>to and fro; backward and forward; in various directions.</cd> <ldquo/Victory is like a traveller, and goeth <xex>hither and thither</xex>.<rdquo/  <rj><au>Knolles.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hither</ent><br/
@@ -18004,7 +18004,7 @@ Of twenty summers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Baseball)</fld> <def>The batter; <as>as, there are two strikes on the <ex>hitter</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>heavy hitter</b></col> <sn>1.</sn> <cd>A baseball player who gets many extra-base hits.</cd>  <sn>2.</sn> <cd>A person who is very important or is very effective at his profession.</cd></cs><br/
+<p><cs><col>heavy hitter</col> <sn>1.</sn> <cd>A baseball player who gets many extra-base hits.</cd>  <sn>2.</sn> <cd>A person who is very important or is very effective at his profession.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>hitting</ent><br/
@@ -18037,7 +18037,7 @@ Of twenty summers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>The <qex>hive</qex> of Roman liars.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hive bee</b></col> <fld>(Zool.)</fld>, <cd>the honeybee.</cd></cs><br/
+<p><cs><col>Hive bee</col> <fld>(Zool.)</fld>, <cd>the honeybee.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hive</ent><br/
@@ -18258,7 +18258,7 @@ Of twenty summers.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Bot.)</fld> <def>Covered with short, dense, grayish white hairs; canescent.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hoary bat</b></col> <fld>(Zool.)</fld>, <cd>an American bat (<spn>Atalapha cinerea</spn>), having the hair yellowish, or brown, tipped with white.</cd></cs><br/
+<p><cs><col>Hoary bat</col> <fld>(Zool.)</fld>, <cd>an American bat (<spn>Atalapha cinerea</spn>), having the hair yellowish, or brown, tipped with white.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoatzin</ent><br/
@@ -18426,7 +18426,7 @@ Defend us, good Heaven !</q> <rj><qau>Beau. &  FL.</qau></rj><br/
 <p><sn>2.</sn> <def>A clownish person; a rustic.</def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hobnail liver</b></col> <fld>(Med.)</fld>, <cd>a disease in which the liver is shrunken, hard, and covered with projections like hobnails; one of the forms of cirrhosis of the liver.</cd></cs><br/
+<p><cs><col>Hobnail liver</col> <fld>(Med.)</fld>, <cd>a disease in which the liver is shrunken, hard, and covered with projections like hobnails; one of the forms of cirrhosis of the liver.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hobnail</ent><br/
@@ -18636,14 +18636,14 @@ Defend us, good Heaven !</q> <rj><qau>Beau. &  FL.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The horned or piked dogfish. See <er>Dogfish</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Dutch hoe</b></col>, <cd>one having the blade set for use in the manner of a spade.</cd> -- <col><b>Horse hoe</b></col>, <cd>a kind of cultivator.</cd></cs><br/
+<p><cs><col>Dutch hoe</col>, <cd>one having the blade set for use in the manner of a spade.</cd> -- <col>Horse hoe</col>, <cd>a kind of cultivator.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoe</ent><br/
 <hw>Hoe</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Hoed</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Hoeing</conjf>.]</vmorph> <ety>[Cf. F. <ets>houer</ets>.]</ety> <def>To cut, dig, scrape, turn, arrange, or clean, with a hoe; <as>as, to <ex>hoe</ex> the earth in a garden</as>; also, to clear from weeds, or to loosen or arrange the earth about, with a hoe; <as>as, to <ex>hoe</ex> corn</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hoe one's row</b></col>, <cd>to do one's share of a job.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To hoe one's row</col>, <cd>to do one's share of a job.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoe</ent><br/
@@ -18681,7 +18681,7 @@ Defend us, good Heaven !</q> <rj><qau>Beau. &  FL.</qau></rj><br/
 <p><sn>5.</sn> <fld>(Paper Manuf.)</fld> <def>A device for mixing and stirring the pulp of which paper is made.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bush hog</b></col>, <col><b>Ground hog</b></col>, etc.</mcol>. <cd>See under <er>Bush</er>, <er>Ground</er>, etc.</cd> -- <col><b>Hog caterpillar</b></col> <fld>(Zool.)</fld>, <cd>the larva of the green grapevine sphinx; -- so called because the head and first three segments are much smaller than those behind them, so as to make a resemblance to a hog's snout. See <er>Hawk moth</er>.</cd> -- <col><b>Hog cholera</b></col>, <cd>an epidemic contagious fever of swine, attended by liquid, fetid, diarrhea, and by the appearance on the skin and mucous membrane of spots and patches of a scarlet, purple, or black color. It is fatal in from one to six days, or ends in a slow, uncertain recovery.</cd> <au>Law (Farmer's Veter. Adviser.)</au> -- <col><b>Hog deer</b></col> <fld>(Zool.)</fld>, <cd>the axis deer.</cd> -- <col><b>Hog gum</b></col> <fld>(Bot.)</fld>, <cd>West Indian tree (<spn>Symphonia globulifera</spn>), yielding an aromatic gum.</cd> -- <col><b>Hog of wool</b></col>, <cd>the trade name for the fleece or wool of sheep of the second year.</cd> -- <col><b>Hog peanut</b></col> <fld>(Bot.)</fld>, <cd>a kind of earth pea.</cd> -- <col><b>Hog plum</b></col> <fld>(Bot.)</fld>, <cd>a tropical tree, of the genus <gen>Spondias</gen> (<spn>Spondias lutea</spn>), with fruit somewhat resembling plums, but chiefly eaten by hogs.  It is found in the West Indies.</cd> -- <col><b>Hog's bean</b></col> <fld>(Bot.)</fld>, <cd>the plant henbane.</cd> -- <col><b>Hog's bread</b></col>.<fld>(Bot.)</fld> <cd>See <er>Sow bread</er>.</cd> -- <col><b>Hog's fennel</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Fennel</er>.</cd> -- <col><b>Mexican hog</b></col> <fld>(Zool.)</fld>, <cd>the peccary.</cd> -- <col><b>Water hog</b></col>. <fld>(Zool.)</fld> <cd>See <er>Capybara</er>.</cd></cs><br/
+<p><cs><mcol><col>Bush hog</col>, <col>Ground hog</col>, etc.</mcol>. <cd>See under <er>Bush</er>, <er>Ground</er>, etc.</cd> -- <col>Hog caterpillar</col> <fld>(Zool.)</fld>, <cd>the larva of the green grapevine sphinx; -- so called because the head and first three segments are much smaller than those behind them, so as to make a resemblance to a hog's snout. See <er>Hawk moth</er>.</cd> -- <col>Hog cholera</col>, <cd>an epidemic contagious fever of swine, attended by liquid, fetid, diarrhea, and by the appearance on the skin and mucous membrane of spots and patches of a scarlet, purple, or black color. It is fatal in from one to six days, or ends in a slow, uncertain recovery.</cd> <au>Law (Farmer's Veter. Adviser.)</au> -- <col>Hog deer</col> <fld>(Zool.)</fld>, <cd>the axis deer.</cd> -- <col>Hog gum</col> <fld>(Bot.)</fld>, <cd>West Indian tree (<spn>Symphonia globulifera</spn>), yielding an aromatic gum.</cd> -- <col>Hog of wool</col>, <cd>the trade name for the fleece or wool of sheep of the second year.</cd> -- <col>Hog peanut</col> <fld>(Bot.)</fld>, <cd>a kind of earth pea.</cd> -- <col>Hog plum</col> <fld>(Bot.)</fld>, <cd>a tropical tree, of the genus <gen>Spondias</gen> (<spn>Spondias lutea</spn>), with fruit somewhat resembling plums, but chiefly eaten by hogs.  It is found in the West Indies.</cd> -- <col>Hog's bean</col> <fld>(Bot.)</fld>, <cd>the plant henbane.</cd> -- <col>Hog's bread</col>.<fld>(Bot.)</fld> <cd>See <er>Sow bread</er>.</cd> -- <col>Hog's fennel</col>. <fld>(Bot.)</fld> <cd>See under <er>Fennel</er>.</cd> -- <col>Mexican hog</col> <fld>(Zool.)</fld>, <cd>the peccary.</cd> -- <col>Water hog</col>. <fld>(Zool.)</fld> <cd>See <er>Capybara</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hog</ent><br/
@@ -18770,7 +18770,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <hw>Hog"ging</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>Drooping at the ends; arching;-in distinction from <xex>sagging</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hogging frame</b></col>. <cd>See <er>Hogframe</er>.</cd></cs><br/
+<p><cs><col>Hogging frame</col>. <cd>See <er>Hogframe</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoggish</ent><br/
@@ -18893,7 +18893,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><q><qex>Hoisting</qex> him into his father's throne.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hoisting engine</b></col>, <cd>a steam engine for operating a hoist.</cd></cs><br/
+<p><cs><col>Hoisting engine</col>, <cd>a steam engine for operating a hoist.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoist</ent><br/
@@ -18906,7 +18906,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>The perpendicular height of a flag, as opposed to the <xex>fly</xex>, or horizontal length when flying from a staff.</def> <sd>(b)</sd> <def>The height of a fore-and-aft sail next the mast or stay.</def>  <rj><au>Totten.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hoist bridge</b></col>, <cd>a drawbridge that is lifted instead of being swung or drawn aside.</cd></cs><br/
+<p><cs><col>Hoist bridge</col>, <cd>a drawbridge that is lifted instead of being swung or drawn aside.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoist</ent><br/
@@ -19075,13 +19075,13 @@ Shall <qex>hold</qex> their course.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Let him <qex>hold</qex> his fingers thus.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hold a wager</b></col>, <cd>to lay or hazard a wager.</cd> <au>Swift.</au> -- <col><b>To hold forth</b></col>, <sd>(a)</sd> <pos>v. t.</pos><cd>to offer; to exhibit; to propose; to put forward.</cd> <ldquo/The propositions which books <xex>hold forth</xex> and pretend to teach.<rdquo/ <au>Locke.</au> <sd>(b)</sd> <pos>v. i.</pos> <cd>To talk at length; to harangue.</cd> -- <col><b>To held in</b></col>, <cd>to restrain; to curd.</cd> -- <col><b>To hold in hand</b></col>, <cd>to toy with; to keep in expectation; to have in one's power.</cd> <mark>[Obs.]</mark><br/
+<p><cs><col>To hold a wager</col>, <cd>to lay or hazard a wager.</cd> <au>Swift.</au> -- <col>To hold forth</col>, <sd>(a)</sd> <pos>v. t.</pos><cd>to offer; to exhibit; to propose; to put forward.</cd> <ldquo/The propositions which books <xex>hold forth</xex> and pretend to teach.<rdquo/ <au>Locke.</au> <sd>(b)</sd> <pos>v. i.</pos> <cd>To talk at length; to harangue.</cd> -- <col>To held in</col>, <cd>to restrain; to curd.</cd> -- <col>To hold in hand</col>, <cd>to toy with; to keep in expectation; to have in one's power.</cd> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O, fie! to receive favors, return falsehoods,<br/
 And <qex>hold</qex> a lady in <qex>hand</qex>.</q> <rj><qau>Beaw. & Fl.</qau></rj></p>
 
-<p>-- <col><b>To hold in play</b></col>, <cd>to keep under control; to dally with.</cd> <au>Macaulay.</au> -- <col><b>To hold off</b></col>, <cd>to keep at a distance.</cd> -- <col><b>To hold on</b></col>, <cd>to hold in being, continuance or position; as, <xex>to hold</xex> a rider <xex>on</xex>.</cd> -- <col><b>To hold one's day</b></col>, <cd>to keep one's appointment.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col><b>To hold one's own</b></col>. <cd>To keep good one's present condition absolutely or relatively; not to fall off, or to lose ground; as, a ship <xex>holds her own</xex> when she does not lose ground in a race or chase; a man <xex>holds his own</xex> when he does not lose strength or weight.</cd> -- <col><b>To hold one's peace</b></col>, <cd>to keep silence.</cd>- <col><b>To hold out</b></col>. <sd>(a)</sd> <cd>To extend; to offer.</cd> <ldquo/Fortune <xex>holds out</xex> these to you as rewards.<rdquo/ <au>B. Jonson.</au> <sd>(b)</sd> <cd>To continue to do or to suffer; to endure.</cd> <ldquo/He can not long <xex>hold out</xex> these pangs.<rdquo/ <au>Shak.</au> -- <col><b>To hold up</b></col>. <sd>(a)</sd> <cd>To raise; to lift; as, <xex>hold up</xex> your head.</cd> <sd>(b)</sd> <cd>To support; to sustain.</cd> <ldquo/He <xex>holds</xex> himself <xex>up</xex> in virtue.<rdquo/<au>Sir P. Sidney.</au> <sd>(c)</sd> <cd>To exhibit; to display; as, he was <xex>held up</xex> as an example.</cd>  <sd>(d)</sd> <cd>To rein in; to check; to halt; as, <xex>hold up</xex> your horses.</cd> <sd>(e)</sd> <cd>to rob, usually at gunpoint; -- often with the demand to <ldquo/hold up<rdquo/ the hands.</cd> <sd>(f)</sd> <cd>To delay.</cd> -- <col><b>To hold water</b></col>. <sd>(a)</sd> <cd>Literally, to retain water without leaking; hence (<mark>Fig.</mark>), to be whole, sound, consistent, without gaps or holes; -- commonly used in a negative sense; as, his statements will not <xex>hold water</xex>.</cd> <mark>[Colloq.]</mark> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To hold the oars steady in the water, thus checking the headway of a boat.</cd></cs><br/
+<p>-- <col>To hold in play</col>, <cd>to keep under control; to dally with.</cd> <au>Macaulay.</au> -- <col>To hold off</col>, <cd>to keep at a distance.</cd> -- <col>To hold on</col>, <cd>to hold in being, continuance or position; as, <xex>to hold</xex> a rider <xex>on</xex>.</cd> -- <col>To hold one's day</col>, <cd>to keep one's appointment.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>To hold one's own</col>. <cd>To keep good one's present condition absolutely or relatively; not to fall off, or to lose ground; as, a ship <xex>holds her own</xex> when she does not lose ground in a race or chase; a man <xex>holds his own</xex> when he does not lose strength or weight.</cd> -- <col>To hold one's peace</col>, <cd>to keep silence.</cd>- <col>To hold out</col>. <sd>(a)</sd> <cd>To extend; to offer.</cd> <ldquo/Fortune <xex>holds out</xex> these to you as rewards.<rdquo/ <au>B. Jonson.</au> <sd>(b)</sd> <cd>To continue to do or to suffer; to endure.</cd> <ldquo/He can not long <xex>hold out</xex> these pangs.<rdquo/ <au>Shak.</au> -- <col>To hold up</col>. <sd>(a)</sd> <cd>To raise; to lift; as, <xex>hold up</xex> your head.</cd> <sd>(b)</sd> <cd>To support; to sustain.</cd> <ldquo/He <xex>holds</xex> himself <xex>up</xex> in virtue.<rdquo/<au>Sir P. Sidney.</au> <sd>(c)</sd> <cd>To exhibit; to display; as, he was <xex>held up</xex> as an example.</cd>  <sd>(d)</sd> <cd>To rein in; to check; to halt; as, <xex>hold up</xex> your horses.</cd> <sd>(e)</sd> <cd>to rob, usually at gunpoint; -- often with the demand to <ldquo/hold up<rdquo/ the hands.</cd> <sd>(f)</sd> <cd>To delay.</cd> -- <col>To hold water</col>. <sd>(a)</sd> <cd>Literally, to retain water without leaking; hence (<mark>Fig.</mark>), to be whole, sound, consistent, without gaps or holes; -- commonly used in a negative sense; as, his statements will not <xex>hold water</xex>.</cd> <mark>[Colloq.]</mark> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To hold the oars steady in the water, thus checking the headway of a boat.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hold</ent><br/
@@ -19131,7 +19131,7 @@ From weeping, but his eyes rebelled.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>His imagination <qex>holds</qex> immediately from nature.</q> <rj><qau>Hazlitt.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hold on!</b></col> <col><b>Hold up!</b></col> <cd>wait; stop; forbear.</cd> <mark>[Collog]</mark> -- <col><b>To hold forth</b></col></mcol>, <cd>to speak in public; to harangue; to preach.</cd> <au>L'Estrange.</au> -- <col><b>To hold in</b></col>, <cd>to restrain one's self; as, he wanted to laugh and could hardly <xex>hold in</xex>.</cd> -- <col><b>To hold off</b></col>, <cd>to keep at a distance.</cd> -- <col><b>To hold on</b></col>, <cd>to keep fast hold; to continue; to go on.</cd> <ldquo/The trade <xex>held on</xex> for many years,<rdquo/ <au>Swift.</au> -- <col><b>To hold out</b></col>, <cd>to last; to endure; to continue; to maintain one's self; not to yield or give way.</cd> -- <col><b>To hold over</b></col>, <cd>to remain in office, possession, etc., beyond a certain date.</cd> -- <mcol><col><b>To hold to</b></col> <it>or</it> <col><b>To hold with</b></col></mcol>, <cd>to take sides with, as a person or opinion.</cd> -- <col><b>To hold together</b></col>, <cd>to be joined; not to separate; to remain in union.</cd> <au>Dryden.</au> <au>Locke.</au> -- <col><b>To hold up</b></col>. <sd>(a)</sd> <cd>To support one's self; to remain unbent or unbroken; as, to <xex>hold up</xex> under misfortunes.</cd> <sd>(b)</sd> <cd>To cease raining; to cease to stop; as, it <xex>holds up</xex>.</cd> <au>Hudibras.</au> <sd>(c)</sd> <cd>To keep up; not to fall behind; not to lose ground.</cd> <au>Collier.</au></cs><br/
+<p><cs><mcol><col>Hold on!</col> <col>Hold up!</col> <cd>wait; stop; forbear.</cd> <mark>[Collog]</mark> -- <col>To hold forth</col></mcol>, <cd>to speak in public; to harangue; to preach.</cd> <au>L'Estrange.</au> -- <col>To hold in</col>, <cd>to restrain one's self; as, he wanted to laugh and could hardly <xex>hold in</xex>.</cd> -- <col>To hold off</col>, <cd>to keep at a distance.</cd> -- <col>To hold on</col>, <cd>to keep fast hold; to continue; to go on.</cd> <ldquo/The trade <xex>held on</xex> for many years,<rdquo/ <au>Swift.</au> -- <col>To hold out</col>, <cd>to last; to endure; to continue; to maintain one's self; not to yield or give way.</cd> -- <col>To hold over</col>, <cd>to remain in office, possession, etc., beyond a certain date.</cd> -- <mcol><col>To hold to</col> <it>or</it> <col>To hold with</col></mcol>, <cd>to take sides with, as a person or opinion.</cd> -- <col>To hold together</col>, <cd>to be joined; not to separate; to remain in union.</cd> <au>Dryden.</au> <au>Locke.</au> -- <col>To hold up</col>. <sd>(a)</sd> <cd>To support one's self; to remain unbent or unbroken; as, to <xex>hold up</xex> under misfortunes.</cd> <sd>(b)</sd> <cd>To cease raining; to cease to stop; as, it <xex>holds up</xex>.</cd> <au>Hudibras.</au> <sd>(c)</sd> <cd>To keep up; not to fall behind; not to lose ground.</cd> <au>Collier.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hold</ent><br/
@@ -19243,7 +19243,7 @@ Of Bolingbroke.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>The burden or chorus of a song.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holding note</b></col> <fld>(Mus.)</fld>, <cd>a note sustained in one part, while the other parts move.</cd></cs><br/
+<p><cs><col>Holding note</col> <fld>(Mus.)</fld>, <cd>a note sustained in one part, while the other parts move.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>holding company</ent><br/
@@ -19311,7 +19311,7 @@ Were full of chinks and <qex>holes</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Hollow; concavity; aperture; rent; fissure; crevice; orifice; interstice; perforation; excavation; pit; cave; den; cell.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hole and corner</b></col>, <cd>clandestine, underhand.</cd> <mark>[Colloq.]</mark> <ldquo/The wretched trickery of <xex>hole</xex> and <xex>corner</xex> buffery.<rdquo/ <au>Dickens.</au> -- <col><b>Hole board</b></col> <fld>(Fancy Weaving)</fld>, <cd>a board having holes through which cords pass which lift certain warp threads; -- called also <altname>compass board</altname>.</cd></cs><br/
+<p><cs><col>Hole and corner</col>, <cd>clandestine, underhand.</cd> <mark>[Colloq.]</mark> <ldquo/The wretched trickery of <xex>hole</xex> and <xex>corner</xex> buffery.<rdquo/ <au>Dickens.</au> -- <col>Hole board</col> <fld>(Fancy Weaving)</fld>, <cd>a board having holes through which cords pass which lift certain warp threads; -- called also <altname>compass board</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 699 --></p>
@@ -19372,7 +19372,7 @@ On a sunshine <qex>holiday</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><note><hand/ In the United States <xex>legal holidays</xex>, so called, are determined by law, commonly by the statutes of the several States. The holidays most generally observed are: the 22d day of February (Washington's birthday), the 30th day of May (Memorial day), the 4th day of July (Independence day), the 25th day of December (Christmas day). In most of the States the 1st day of January is a holiday. When any of these days falls on Sunday, usually the Monday following is observed as the holiday. In many of the States a day in the spring (as Good Friday, or the first Thursday in April), and a day in the fall (as the last Thursday in November) are now regularly appointed by Executive proclamation to be observed, the former as a day of fasting and prayer, the latter as a day of thanksgiving and are kept as holidays. In England, the days of the greater church feasts (designated in the calendar by a red letter, and commonly called <xex>red-letter days</xex>) are observed as general holidays. <xex>Bank holidays</xex> are those on which, by act of Parliament, banks may suspend business. Although Sunday is a holiday in the sense of a day when business is legally suspended, it is not usually included in the general term, the phrase <ldquo/Sundays and holidays<rdquo/ being more common.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The holidays</b></col>, <cd>any fixed or usual period for relaxation or festivity; especially, Christmas and New Year's day with the intervening time.</cd></cs><br/
+<p><cs><col>The holidays</col>, <cd>any fixed or usual period for relaxation or festivity; especially, Christmas and New Year's day with the intervening time.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holiday</ent><br/
@@ -19410,7 +19410,7 @@ On a sunshine <qex>holiday</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Israel was <qex>holiness</qex> unto the Lord.</q> <rj><qau>Jer.ii.3.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>His holiness</b></col>, <cd>a title of the pope; -- formerly given also to Greek bishops and Greek emperors.</cd></cs></p>
+<p><cs><col>His holiness</col>, <cd>a title of the pope; -- formerly given also to Greek bishops and Greek emperors.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Piety; devotion; godliness; sanctity; sacredness; righteousness.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -19489,7 +19489,7 @@ Came to the mariner's <qex>hollo</qex>.</q> <rj><qau>Coleridge.</qau></rj><br/
 <p><sn>4.</sn> <def>Not sincere or faithful; false; deceitful; not sound; <as>as, a <ex>hollow</ex> heart; a <ex>hollow</ex> friend.</as></def>  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hollow newel</b></col> <fld>(Arch.)</fld>, <cd>an opening in the center of a winding staircase in place of a newel post, the stairs being supported by the wall; an open newel; also, the stringpiece or rail winding around the well of such a staircase.</cd> -- <col><b>Hollow quoin</b></col> <fld>(Engin.)</fld>, <cd>a pier of stone or brick made behind the lock gates of a canal, and containing a hollow or recess to receive the ends of the gates.</cd> -- <col><b>Hollow root</b></col>. <fld>(Bot.)</fld> <cd>See <er>Moschatel</er>.</cd> -- <col><b>Hollow square</b></col>. <cd>See <er>Square</er>.</cd> -- <col><b>Hollow ware</b></col>, <cd>hollow vessels; -- a trade name for cast-iron kitchen utensils, earthenware, etc.</cd></cs></p>
+<p><cs><col>Hollow newel</col> <fld>(Arch.)</fld>, <cd>an opening in the center of a winding staircase in place of a newel post, the stairs being supported by the wall; an open newel; also, the stringpiece or rail winding around the well of such a staircase.</cd> -- <col>Hollow quoin</col> <fld>(Engin.)</fld>, <cd>a pier of stone or brick made behind the lock gates of a canal, and containing a hollow or recess to receive the ends of the gates.</cd> -- <col>Hollow root</col>. <fld>(Bot.)</fld> <cd>See <er>Moschatel</er>.</cd> -- <col>Hollow square</col>. <cd>See <er>Square</er>.</cd> -- <col>Hollow ware</col>, <cd>hollow vessels; -- a trade name for cast-iron kitchen utensils, earthenware, etc.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Concave; sunken; low; vacant; empty; void; false; faithless; deceitful; treacherous.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -19589,7 +19589,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>The holm oak. See 1st <er>Holm</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holly-leaved oak</b></col> <fld>(Bot.)</fld>, <cd>the black scrub oak. See <er>Scrub oak</er>.</cd> -- <col><b>Holly rose</b></col> <fld>(Bot.)</fld>, <cd>a West Indian shrub, with showy, yellow flowers (<spn>Turnera ulmifolia</spn>).</cd> -- <col><b>Sea holly</b></col> <fld>(Bot.)</fld>, <cd>a species of Eryngium. See <er>Eryngium</er>.</cd></cs><br/
+<p><cs><col>Holly-leaved oak</col> <fld>(Bot.)</fld>, <cd>the black scrub oak. See <er>Scrub oak</er>.</cd> -- <col>Holly rose</col> <fld>(Bot.)</fld>, <cd>a West Indian shrub, with showy, yellow flowers (<spn>Turnera ulmifolia</spn>).</cd> -- <col>Sea holly</col> <fld>(Bot.)</fld>, <cd>a species of Eryngium. See <er>Eryngium</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hollygrape</ent><br/
@@ -19618,7 +19618,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <p><q>The soft wind blowing over meadowy <qex>holms</qex>.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holm thrush</b></col> <fld>(Zool.)</fld>, <cd>the missel thrush.</cd></cs><br/
+<p><cs><col>Holm thrush</col> <fld>(Zool.)</fld>, <cd>the missel thrush.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holmes</ent><br/
@@ -19687,7 +19687,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <hw>Hol`o*cryp"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Holo-</ets> + Gr. <grk>kry`ptein</grk> to conceal.]</ety> <def>Wholly or completely concealing; incapable of being deciphered.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holocryptic cipher</b></col>, <cd>a cipher so constructed as to afford no clew to its meaning to one ignorant of the key.</cd></cs><br/
+<p><cs><col>Holocryptic cipher</col>, <cd>a cipher so constructed as to afford no clew to its meaning to one ignorant of the key.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holocrystalline</ent><br/
@@ -19762,7 +19762,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj><br/
 <hw>Hol`o*phyt"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Holo</ets> + Gr.<?/ a plant.]</ety> <def>Wholly or distinctively vegetable.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holophytic nutrition</b></col> <pr>(<?/)</pr>, <cd>that form of nutrition, characteristic of vegetable organisms, in which carbonic acid, ammonia, and nitrates are absorbed as food, in distinction from the animal mode of nutrition, by the ingestion of albuminous matter.</cd></cs><br/
+<p><cs><col>Holophytic nutrition</col> <pr>(<?/)</pr>, <cd>that form of nutrition, characteristic of vegetable organisms, in which carbonic acid, ammonia, and nitrates are absorbed as food, in distinction from the animal mode of nutrition, by the ingestion of albuminous matter.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holorhinal</ent><br/
@@ -19880,14 +19880,14 @@ Before her, and the park.</q> <rj><qau>Tennyson.</qau></rj><br/
 The Church our annual steps has brought.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Holy Alliance</b></col> <fld>(Hist.)</fld>, <cd>a league ostensibly for conserving religion, justice, and peace in Europe, but really for repressing popular tendencies toward constitutional government, entered into by <person>Alexander I.</person> of Russia, <person>Francis I.</person> of Austria, and <person>Frederic William III.</person> of Prussia, at Paris, on the 26th of September, 1815, and subsequently joined by all the sovereigns of Europe, except the pope and the king of England.</cd> -- <col><b>Holy bark</b></col>. <cd>See <er>Cascara sagrada</er>.</cd> -- <col><b>Holy Communion</b></col>. <cd>See <er>Eucharist</er>.</cd> -- <col><b>Holy family</b></col> <fld>(Art)</fld>, <cd>a picture in which the infant Christ, his parents, and others of his family are represented.</cd> -- <col><b>Holy Father</b></col>, <cd>a title of the pope.</cd> -- <col><b>Holy Ghost</b></col> <fld>(Theol.)</fld>, <cd>the third person of the Trinity; the Comforter; the Paraclete.</cd> -- <col><b>Holy Grail</b></col>. <cd>See <er>Grail</er>.</cd> -- <col><b>Holy grass</b></col> <fld>(Bot.)</fld>, <cd>a sweet-scented grass (<spn>Hierochloa borealis</spn> and <spn>Hierochloa alpina</spn>). In the north of Europe it was formerly strewed before church doors on saints' days; whence the name. It is common in the northern and western parts of the United States.  Called also <altname>vanilla grass</altname> <it>or</it> <altname>Seneca grass</altname>.</cd> -- <col><b>Holy Innocents' day</b></col>, <cd>Childermas day.</cd> -- <col><b>Holy Land</b></col>, <cd>Palestine, the birthplace of Christianity.</cd> -- <col><b>Holy office</b></col>, <cd>the Inquisition.</cd> -- <col><b>Holy of holies</b></col> <fld>(Script.)</fld>, <cd>the innermost apartment of the Jewish tabernacle or temple, where the ark was kept, and where no person entered, except the high priest once a year.</cd> -- <col><b>Holy One</b></col>. <sd>(a)</sd> <cd>The Supreme Being; -- so called by way of emphasis.</cd> <ldquo/ The <xex>Holy One</xex> of Israel.<rdquo/ <au>Is. xliii. 14.</au> <sd>(b)</sd> <cd>One separated to the service of God.</cd> -- <col><b>Holy orders</b></col>. <cd>See <er>Order</er>.</cd> -- <col><b>Holy rood</b></col>, <cd>the cross or crucifix, particularly one placed, in churches. over the entrance to the chancel.</cd> -- <col><b>Holy rope</b></col>, <cd>a plant, the hemp agrimony.</cd> -- <col><b>Holy Saturday</b></col> <fld>(Eccl.)</fld>, <cd>the Saturday immediately preceding the festival of Easter; the vigil of Easter.</cd> -- <col><b>Holy Spirit</b></col>, <cd>same as <cref>Holy Ghost</cref> (above).</cd> -- <col><b>Holy Spirit plant</b></col>. <cd>See <er>Dove plant</er>.</cd> -- <col><b>Holy thistle</b></col> <fld>(Bot.)</fld>, <cd>the blessed thistle. See under <er>Thistle</er>.</cd> -- <col><b>Holy Thursday</b></col>. <fld>(Eccl.)</fld> <sd>(a)</sd> <fld>(Episcopal Ch.)</fld> <cd>Ascension day.</cd> <sd>(b)</sd> <fld>(R. C. Ch.)</fld> <cd>The Thursday in Holy Week; Maundy Thursday.</cd> -- <col><b>Holy war</b></col>, <cd>a crusade; an expedition carried on by Christians against the Saracens in the Holy Land, in the eleventh, twelfth, and thirteenth centuries, for the possession of the holy places.</cd><-- now used mostly for the Moslem jihad --> -- <col><b>Holy water</b></col> <fld>(Gr. & R. C. Churches)</fld>, <cd>water which has been blessed by the priest for sacred purposes.</cd> -- <col><b>Holy-water stoup</b></col>, <cd>the stone stoup or font placed near the entrance of a church, as a receptacle for holy water.</cd> -- <col><b>Holy Week</b></col> <fld>(Eccl.)</fld>, <cd>the week before Easter, in which the passion of our Savior is commemorated.</cd> -- <col><b>Holy writ</b></col>, <cd>the sacred Scriptures.</cd> <ldquo/ Word of <xex>holy writ</xex>.<rdquo/ <au>Wordsworth.</au></cs><br/
+<p><cs><col>Holy Alliance</col> <fld>(Hist.)</fld>, <cd>a league ostensibly for conserving religion, justice, and peace in Europe, but really for repressing popular tendencies toward constitutional government, entered into by <person>Alexander I.</person> of Russia, <person>Francis I.</person> of Austria, and <person>Frederic William III.</person> of Prussia, at Paris, on the 26th of September, 1815, and subsequently joined by all the sovereigns of Europe, except the pope and the king of England.</cd> -- <col>Holy bark</col>. <cd>See <er>Cascara sagrada</er>.</cd> -- <col>Holy Communion</col>. <cd>See <er>Eucharist</er>.</cd> -- <col>Holy family</col> <fld>(Art)</fld>, <cd>a picture in which the infant Christ, his parents, and others of his family are represented.</cd> -- <col>Holy Father</col>, <cd>a title of the pope.</cd> -- <col>Holy Ghost</col> <fld>(Theol.)</fld>, <cd>the third person of the Trinity; the Comforter; the Paraclete.</cd> -- <col>Holy Grail</col>. <cd>See <er>Grail</er>.</cd> -- <col>Holy grass</col> <fld>(Bot.)</fld>, <cd>a sweet-scented grass (<spn>Hierochloa borealis</spn> and <spn>Hierochloa alpina</spn>). In the north of Europe it was formerly strewed before church doors on saints' days; whence the name. It is common in the northern and western parts of the United States.  Called also <altname>vanilla grass</altname> <it>or</it> <altname>Seneca grass</altname>.</cd> -- <col>Holy Innocents' day</col>, <cd>Childermas day.</cd> -- <col>Holy Land</col>, <cd>Palestine, the birthplace of Christianity.</cd> -- <col>Holy office</col>, <cd>the Inquisition.</cd> -- <col>Holy of holies</col> <fld>(Script.)</fld>, <cd>the innermost apartment of the Jewish tabernacle or temple, where the ark was kept, and where no person entered, except the high priest once a year.</cd> -- <col>Holy One</col>. <sd>(a)</sd> <cd>The Supreme Being; -- so called by way of emphasis.</cd> <ldquo/ The <xex>Holy One</xex> of Israel.<rdquo/ <au>Is. xliii. 14.</au> <sd>(b)</sd> <cd>One separated to the service of God.</cd> -- <col>Holy orders</col>. <cd>See <er>Order</er>.</cd> -- <col>Holy rood</col>, <cd>the cross or crucifix, particularly one placed, in churches. over the entrance to the chancel.</cd> -- <col>Holy rope</col>, <cd>a plant, the hemp agrimony.</cd> -- <col>Holy Saturday</col> <fld>(Eccl.)</fld>, <cd>the Saturday immediately preceding the festival of Easter; the vigil of Easter.</cd> -- <col>Holy Spirit</col>, <cd>same as <cref>Holy Ghost</cref> (above).</cd> -- <col>Holy Spirit plant</col>. <cd>See <er>Dove plant</er>.</cd> -- <col>Holy thistle</col> <fld>(Bot.)</fld>, <cd>the blessed thistle. See under <er>Thistle</er>.</cd> -- <col>Holy Thursday</col>. <fld>(Eccl.)</fld> <sd>(a)</sd> <fld>(Episcopal Ch.)</fld> <cd>Ascension day.</cd> <sd>(b)</sd> <fld>(R. C. Ch.)</fld> <cd>The Thursday in Holy Week; Maundy Thursday.</cd> -- <col>Holy war</col>, <cd>a crusade; an expedition carried on by Christians against the Saracens in the Holy Land, in the eleventh, twelfth, and thirteenth centuries, for the possession of the holy places.</cd><-- now used mostly for the Moslem jihad --> -- <col>Holy water</col> <fld>(Gr. & R. C. Churches)</fld>, <cd>water which has been blessed by the priest for sacred purposes.</cd> -- <col>Holy-water stoup</col>, <cd>the stone stoup or font placed near the entrance of a church, as a receptacle for holy water.</cd> -- <col>Holy Week</col> <fld>(Eccl.)</fld>, <cd>the week before Easter, in which the passion of our Savior is commemorated.</cd> -- <col>Holy writ</col>, <cd>the sacred Scriptures.</cd> <ldquo/ Word of <xex>holy writ</xex>.<rdquo/ <au>Wordsworth.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holy cross</ent><br/
 <hw>Ho"ly cross"</hw> <pr>(?; 115)</pr>. <def>The cross as the symbol of Christ's crucifixion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Congregation of the Holy Cross</b></col> <fld>(R. C. Ch.)</fld>, <cd>a community of lay brothers and priests, in France and the United States, engaged chiefly in teaching and manual Labor. Originally called <altname>Brethren of St. Joseph</altname>. The <xex>Sisters of the Holy Cross</xex> engage in similar work.</cd> <au>Addis & Arnold.</au> -- <col><b>Holy-cross day</b></col>, <cd>the fourteenth of September, observed as a church festival, in memory of the exaltation of our Savior's cross.</cd></cs><br/
+<p><cs><col>Congregation of the Holy Cross</col> <fld>(R. C. Ch.)</fld>, <cd>a community of lay brothers and priests, in France and the United States, engaged chiefly in teaching and manual Labor. Originally called <altname>Brethren of St. Joseph</altname>. The <xex>Sisters of the Holy Cross</xex> engage in similar work.</cd> <au>Addis & Arnold.</au> -- <col>Holy-cross day</col>, <cd>the fourteenth of September, observed as a church festival, in memory of the exaltation of our Savior's cross.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Holyday</ent><br/
@@ -20030,7 +20030,7 @@ For without hearts there is no <qex>home</qex>.</q> <rj><qau>Byron.</qau></rj><b
 <p><sn>6.</sn> <fld>(Baseball)</fld> <def>The <cref>home base</cref>; <as>as, he started for <ex>home</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>At home</b></col>.<sd>(a)</sd> <cd>At one's own house, or lodgings.</cd> <sd>(b)</sd> <cd>In one's own town or country; as, peace abroad and <ex>at home</ex>.</cd> <sd>(c)</sd> <cd>Prepared to receive callers.</cd> -- <col><b>Home department</b></col>, <cd>the department of executive administration, by which the internal affairs of a country are managed.</cd> <mark>[Eng.]</mark> <col><b>To be at home on any subject</b></col>, <cd>to be conversant or familiar with it.</cd> -- <col><b>To feel at home</b></col>, <cd>to be at one's ease.</cd> -- <col><b>To make one's self at home</b></col>, <cd>to conduct one's self with as much freedom as if at home.</cd></cs></p>
+<p><cs><col>At home</col>.<sd>(a)</sd> <cd>At one's own house, or lodgings.</cd> <sd>(b)</sd> <cd>In one's own town or country; as, peace abroad and <ex>at home</ex>.</cd> <sd>(c)</sd> <cd>Prepared to receive callers.</cd> -- <col>Home department</col>, <cd>the department of executive administration, by which the internal affairs of a country are managed.</cd> <mark>[Eng.]</mark> <col>To be at home on any subject</col>, <cd>to be conversant or familiar with it.</cd> -- <col>To feel at home</col>, <cd>to be at one's ease.</cd> -- <col>To make one's self at home</col>, <cd>to conduct one's self with as much freedom as if at home.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Tenement; house; dwelling; abode; domicile.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -20045,7 +20045,7 @@ For without hearts there is no <qex>home</qex>.</q> <rj><qau>Byron.</qau></rj><b
 <p><sn>3.</sn> <fld>(Games)</fld>  <def>In various games, the ultimate point aimed at in a progress; goal</def>; as: <sd>(a)</sd> <fld>(Baseball)</fld> <def>The plate at which the batter stands; same as <cref>home base</cref> and <cref>home plate</cref>.</def> <sd>(b)</sd> <fld>(Lacrosse)</fld> <def>The place of a player in front of an opponent's goal; also, the player.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><mcol><col><b>Home base</b></col> <it>or</it> <col><b>Home plate</b></col></mcol> <fld>(Baseball)</fld>, <cd>the base at which the batter stands when batting, and which is the last base to be reached in scoring a run.</cd> -- <mcol><col><b>Home farm</b></col>, <col><b>grounds</b></col></mcol>, etc., <cd>the farm, grounds, etc., adjacent to the residence of the owner.</cd> -- <col><b>Home lot</b></col>, <cd>an inclosed plot on which the owner's home stands.</cd> <mark>[U. S.]</mark> -- <col><b>Home rule</b></col>, <cd>rule or government of an appendent or dependent country, as to all local and internal legislation, by means of a governing power vested in the people within the country itself, in contradistinction to a government established by the dominant country; <as>as, <ex>home rule</ex> in Ireland</as>. Also used adjectively; as, <xex>home-rule</xex> members of Parliament.</cd> -- <col><b>Home ruler</b></col>, <cd>one who favors or advocates home rule.</cd> --  <col><b>Home stretch</b></col> <fld>(Sport.)</fld>, <cd>that part of a race course between the last curve and the winning post.</cd> -- <col><b>Home thrust</b></col>, <cd>a well directed or effective thrust; one that wounds in a vital part; hence, in controversy, a personal attack.</cd></cs><br/
+<p><cs><mcol><col>Home base</col> <it>or</it> <col>Home plate</col></mcol> <fld>(Baseball)</fld>, <cd>the base at which the batter stands when batting, and which is the last base to be reached in scoring a run.</cd> -- <mcol><col>Home farm</col>, <col>grounds</col></mcol>, etc., <cd>the farm, grounds, etc., adjacent to the residence of the owner.</cd> -- <col>Home lot</col>, <cd>an inclosed plot on which the owner's home stands.</cd> <mark>[U. S.]</mark> -- <col>Home rule</col>, <cd>rule or government of an appendent or dependent country, as to all local and internal legislation, by means of a governing power vested in the people within the country itself, in contradistinction to a government established by the dominant country; <as>as, <ex>home rule</ex> in Ireland</as>. Also used adjectively; as, <xex>home-rule</xex> members of Parliament.</cd> -- <col>Home ruler</col>, <cd>one who favors or advocates home rule.</cd> --  <col>Home stretch</col> <fld>(Sport.)</fld>, <cd>that part of a race course between the last curve and the winning post.</cd> -- <col>Home thrust</col>, <cd>a well directed or effective thrust; one that wounds in a vital part; hence, in controversy, a personal attack.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Home</ent><br/
@@ -20070,7 +20070,7 @@ For without hearts there is no <qex>home</qex>.</q> <rj><qau>Byron.</qau></rj><b
 <p><note><hand/ <xex>Home</xex> is often used in the formation of compound words, many of which need no special definition; as, <xex>home</xex>-brewed, <xex>home</xex>-built, <xex>home-grown</xex>, <xex>etc.</xex></note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To bring home</b></col>. <cd>See under <er>Bring</er>.</cd> -- <col><b>To come home</b></col>.<sd>(a)</sd> <cd>To touch or affect personally. See under <er>Come</er>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To drag toward the vessel, instead of holding firm, as the cable is shortened; -- said of an anchor.</cd> -- <col><b>To haul home the sheets of a sail</b></col> <fld>(Naut.)</fld>, <cd>to haul the clews close to the sheave hole.</cd>  <rj><au>Totten.</au></rj></cs><br/
+<p><cs><col>To bring home</col>. <cd>See under <er>Bring</er>.</cd> -- <col>To come home</col>.<sd>(a)</sd> <cd>To touch or affect personally. See under <er>Come</er>.</cd> <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To drag toward the vessel, instead of holding firm, as the cable is shortened; -- said of an anchor.</cd> -- <col>To haul home the sheets of a sail</col> <fld>(Naut.)</fld>, <cd>to haul the clews close to the sheave hole.</cd>  <rj><au>Totten.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>home</ent><br/
@@ -20332,7 +20332,7 @@ His Chloe in the <qex>homeliest</qex> strains.</q> <rj><qau>Pope.</qau></rj><br/
 <hw>Ho*mer"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Homericus</ets>, Gr. <grk>"Omhriko`s</grk>.]</ety> <def>Of or pertaining to <persfn>Homer</persfn>, the most famous of Greek poets; resembling the poetry of Homer.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homeric verse</b></col>, <cd>hexameter verse; -- so called because used by Homer in his epics.</cd></cs><br/
+<p><cs><col>Homeric verse</col>, <cd>hexameter verse; -- so called because used by Homer in his epics.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homesick</ent><br/
@@ -20374,7 +20374,7 @@ His Chloe in the <qex>homeliest</qex> strains.</q> <rj><qau>Pope.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Law)</fld> <def>The home and appurtenant land and buildings owned by the head of a family, and occupied by him and his family.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homestead law</b></col>. <sd>(a)</sd> <cd>A law conferring special privileges or exemptions upon owners of homesteads; esp., a law exempting a homestead from attachment or sale under execution for general debts. Such laws, with limitations as to the extent or value of the property, exist in most of the States. Called also <altname>homestead exemption law</altname>.</cd> <sd>(b)</sd> <cd>Also, a designation of an Act of Congress authorizing and regulating the sale of public lands, in parcels of 160 acres each, to actual settlers.</cd> <mark>[U.S.]</mark></cs><br/
+<p><cs><col>Homestead law</col>. <sd>(a)</sd> <cd>A law conferring special privileges or exemptions upon owners of homesteads; esp., a law exempting a homestead from attachment or sale under execution for general debts. Such laws, with limitations as to the extent or value of the property, exist in most of the States. Called also <altname>homestead exemption law</altname>.</cd> <sd>(b)</sd> <cd>Also, a designation of an Act of Congress authorizing and regulating the sale of public lands, in parcels of 160 acres each, to actual settlers.</cd> <mark>[U.S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homesteader</ent><br/
@@ -20401,7 +20401,7 @@ His Chloe in the <qex>homeliest</qex> strains.</q> <rj><qau>Pope.</qau></rj><br/
 <mhw>{ <hw>Home"ward</hw> <pr>(?)</pr>, <hw>Home"wards</hw> <pr>(?)</pr>, }</mhw> <pos>adv.</pos> <ety>[AS. <ets>h<amac/mweard</ets>.]</ety> <def>Toward home; in the direction of one's house, town, or country.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homeward bound</b></col>, <cd>bound for home; going homeward; <as>as, the <ex>homeward bound</ex> fleet</as>.</cd></cs><br/
+<p><cs><col>Homeward bound</col>, <cd>bound for home; going homeward; <as>as, the <ex>homeward bound</ex> fleet</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>homework</ent><br/
@@ -20479,7 +20479,7 @@ His Chloe in the <qex>homeliest</qex> strains.</q> <rj><qau>Pope.</qau></rj><br/
 Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Book of Homilies</b></col>. <cd>A collection of authorized, printed sermons, to be read by ministers in churches, esp. one issued in the time of Edward VI., and a second, issued in the reign of Elizabeth; -- both books being certified to contain a <ldquo/godly and wholesome doctrine.<rdquo/</cd></cs><br/
+<p><cs><col>Book of Homilies</col>. <cd>A collection of authorized, printed sermons, to be read by ministers in churches, esp. one issued in the time of Edward VI., and a second, issued in the reign of Elizabeth; -- both books being certified to contain a <ldquo/godly and wholesome doctrine.<rdquo/</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hominal</ent><br/
@@ -20490,7 +20490,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Hom"ing</hw> <pr>(h<omac/m"<icr/ng)</pr>, <pos>p. a.</pos> <def>Home-returning; -- used specifically of carrier pigeons.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homing pigeon</b></col>, <cd>any pigeon trained to return home from a distance.  Also called <altname>carrier pigeon</altname>.  Most are bred from the domestic pigeon <spn>Columba livia</spn>.  Homing pigeons are used for sending back messages or for flying races.  By carrying the birds away and releasing them at gradually increasing distances from home, they may be trained to return with more or less certainty and promptness from distances up to four or five hundred miles.  The birds typically do not stop on their way home, and may average as much as 60 miles per hour on their return trip.  If the distance is increased much beyond 400 miles, the birds are unable to cover it without stopping for a prolonged rest, and their return becomes doubtful.  The record for returnig from a distance is close to 1,200 miles.  Homing pigeons are not bred for fancy points or special colors, but for strength, speed, endurance, and intelligence or homing instinct.  Although used since ancient times, <ex>homing pigeons</ex> have been largely displaced for practical purposes by radio and electronic communications, but they are still used in some special situations at the end of the 20th century.  They were used in military operations as recently as in World War II.</cd></cs><br/
+<p><cs><col>Homing pigeon</col>, <cd>any pigeon trained to return home from a distance.  Also called <altname>carrier pigeon</altname>.  Most are bred from the domestic pigeon <spn>Columba livia</spn>.  Homing pigeons are used for sending back messages or for flying races.  By carrying the birds away and releasing them at gradually increasing distances from home, they may be trained to return with more or less certainty and promptness from distances up to four or five hundred miles.  The birds typically do not stop on their way home, and may average as much as 60 miles per hour on their return trip.  If the distance is increased much beyond 400 miles, the birds are unable to cover it without stopping for a prolonged rest, and their return becomes doubtful.  The record for returnig from a distance is close to 1,200 miles.  Homing pigeons are not bred for fancy points or special colors, but for strength, speed, endurance, and intelligence or homing instinct.  Although used since ancient times, <ex>homing pigeons</ex> have been largely displaced for practical purposes by radio and electronic communications, but they are still used in some special situations at the end of the 20th century.  They were used in military operations as recently as in World War II.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>hominid</ent><br/
@@ -20806,7 +20806,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <p><sd>(b)</sd> <fld>(Alg.)</fld> <def>Having the same relative proportion or value, as the two antecedents or the two consequents of a proportion.</def> <sd>(c)</sd> <fld>(Chem.)</fld> <def>Characterized by homology; belonging to the same type or series; corresponding in composition and properties. See <er>Homology</er>, <snr>3</snr>.</def> <sd>(d)</sd> <fld>(Biol.)</fld> <def>Being of the same typical structure; having like relations to a fundamental type to structure; as, those bones in the hand of man and the fore foot of a horse are <xex>homologous</xex> that correspond in their structural relations, that is, in their relations to the type structure of the fore limb in vertebrates.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homologous stimulus</b></col>. <fld>(Physiol.)</fld> <cd>See under <er>Stimulus</er>.</cd></cs><br/
+<p><cs><col>Homologous stimulus</col>. <fld>(Physiol.)</fld> <cd>See under <er>Stimulus</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 702 --></p>
@@ -20815,7 +20815,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Hom`o*lo*graph"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Homo-</ets> + Gr. <grk>"o`los</grk> whole + <ets>-graph</ets> + <ets>-ic</ets>; but cf. F. <ets>homalographique</ets>, Gr. <?/ even, level.]</ety> <def>Preserving the mutual relations of parts, especially as to size and form; maintaining relative proportion.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Homolographic projection</b></col>, <cd>a method of constructing geographical charts or maps, so that the surfaces, as delineated on a plane, have the same relative size as the real surfaces; that is, so that the relative actual areas of the different countries are accurately represented by the corresponding portions of the map.</cd></cs><br/
+<p><cs><col>Homolographic projection</col>, <cd>a method of constructing geographical charts or maps, so that the surfaces, as delineated on a plane, have the same relative size as the real surfaces; that is, so that the relative actual areas of the different countries are accurately represented by the corresponding portions of the map.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homologue</ent><br/
@@ -20835,7 +20835,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>The correspondence or resemblance of substances belonging to the same type or series; a similarity of composition varying by a small, regular difference, and usually attended by a regular variation in physical properties; <as>as, there is an <ex>homology</ex> between methane, <chform>CH4</chform>, ethane, <chform>C2H6</chform>, propane, <chform>C3H8</chform>, etc.</as>, all members of the paraffin series. In an extended sense, the term is applied to the relation between chemical elements of the same group; <as>as, chlorine, bromine, and iodine are said to be in <ex>homology</ex> with each other</as>.  Cf. <er>Heterology</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>General homology</b></col> <fld>(Biol.)</fld>, <cd>the higher relation which a series of parts, or a single part, bears to the fundamental or general type on which the group is constituted.</cd> <au>Owen.</au> -- <col><b>Serial homology</b></col> <fld>(Biol.)</fld>, <cd>representative or repetitive relation in the segments of the same organism, -- as in the lobster, where the parts follow each other in a straight line or series.</cd> <au>Owen.</au> See <er>Homotypy</er>. -- <col><b>Special homology</b></col> <fld>(Biol.)</fld>, <cd>the correspondence of a part or organ with those of a different animal, as determined by relative position and connection.</cd> <au>Owen.</au></cs><br/
+<p><cs><col>General homology</col> <fld>(Biol.)</fld>, <cd>the higher relation which a series of parts, or a single part, bears to the fundamental or general type on which the group is constituted.</cd> <au>Owen.</au> -- <col>Serial homology</col> <fld>(Biol.)</fld>, <cd>representative or repetitive relation in the segments of the same organism, -- as in the lobster, where the parts follow each other in a straight line or series.</cd> <au>Owen.</au> See <er>Homotypy</er>. -- <col>Special homology</col> <fld>(Biol.)</fld>, <cd>the correspondence of a part or organ with those of a different animal, as determined by relative position and connection.</cd> <au>Owen.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Homomallous</ent><br/
@@ -21066,7 +21066,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <hw>Hone</hw>, <pos>n.</pos> <ety>[AS. <ets>h<amac/n</ets>; akin to Icel. <ets>hein</ets>, OSw. <ets>hen</ets>; cf. Skr. <ets><cced/<amac/<nsdot/a</ets>, also <ets><cced/<omac/</ets>, <ets><cced/i</ets>, to sharpen, and E. <ets>cone</ets>. <root/38, 228.]</ety> <def>A stone of a fine grit, or a slab, as of metal, covered with an abrading substance or powder, used for sharpening cutting instruments, and especially for setting razors; an oilstone.</def>  <rj><au>Tusser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hone slate</b></col><cd>See <er>Polishing slate</er>.</cd> -- <col><b>Hone stone</b></col>, <cd>one of several kinds of stone used for hones. See <er>Novaculite</er>.</cd></cs><br/
+<p><cs><col>Hone slate</col><cd>See <er>Polishing slate</er>.</cd> -- <col>Hone stone</col>, <cd>one of several kinds of stone used for hones. See <er>Novaculite</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hone</ent><br/
@@ -21128,7 +21128,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <p><sn>2.</sn> <def>In an honest manner; <as>as, a contract <ex>honestly</ex> made; to live <ex>honestly</ex>; to speak <ex>honestly</ex>.</as></def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To come honestly by</b></col>. <sd>(a)</sd> <cd>To get honestly.</cd> <sd>(b)</sd> <cd>A circumlocution for <xex>to inherit</xex>; as, <xex>to come honestly by</xex> a feature, a mental trait, a peculiarity.</cd></cs><br/
+<p><cs><col>To come honestly by</col>. <sd>(a)</sd> <cd>To get honestly.</cd> <sd>(b)</sd> <cd>A circumlocution for <xex>to inherit</xex>; as, <xex>to come honestly by</xex> a feature, a mental trait, a peculiarity.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honesty</ent><br/
@@ -21178,7 +21178,7 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj><br/
 <p><note><hand/ <xex>Honey</xex> is often used adjectively or as the first part of compound; as, <xex>honey</xex>dew or <xex>honey</xex> dew; <xex>honey</xex> guide or <xex>honey</xex>guide; <xex>honey</xex> locust or <xex>honey</xex>-locust.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Honey ant</b></col> <fld>(Zool.)</fld>, <cd>a small ant (<spn>Myrmecocystus melliger</spn>), found in the Southwestern United States, and in Mexico, living in subterranean formicares. There are larger and smaller ordinary workers, and others, which serve as receptacles or cells for the storage of honey, their abdomens becoming distended to the size of a currant. These, in times of scarcity, regurgitate the honey and feed the rest.</cd> -- <col><b>Honey badger</b></col> <fld>(Zool.)</fld>, <cd>the ratel.</cd> -- <col><b>Honey bear</b></col>. <fld>(Zool.)</fld> <cd>See <er>Kinkajou</er>.</cd> -- <col><b>Honey buzzard</b></col> <fld>(Zool.)</fld>, <cd>a bird related to the kites, of the genus <gen>Pernis</gen>.  The European species is <spn>Pernis apivorus</spn>; the Indian or crested honey buzzard is <spn>Pernis ptilorhyncha</spn>.  They feed upon honey and the larv<ae/ of bees.  Called also <altname>bee hawk</altname>, <altname>bee kite</altname>.</cd> -- <col><b>Honey guide</b></col> <fld>(Zool.)</fld>, <cd>one of several species of small birds of the family <fam>Indicatorid<ae/</fam>, inhabiting Africa and the East Indies. They have the habit of leading persons to the nests to wild bees. Called also <altname>honeybird</altname>, and <altname>indicator</altname>.</cd> -- <col><b>Honey harvest</b></col>, <cd>the gathering of honey from hives, or the honey which is gathered.</cd> <au>Dryden.</au> -- <col><b>Honey kite</b></col>. <fld>(Zool.)</fld> <cd>See <cref>Honey buzzard</cref> (above).</cd> -- <col><b>Honey locust</b></col> <fld>(Bot.)</fld>, <cd>a North American tree (<spn>Gleditschia triacanthos</spn>), armed with thorns, and having long pods with a sweet pulp between the seeds.</cd> -- <col><b>Honey month</b></col>. <cd>Same as <er>Honeymoon</er>.</cd> -- <col><b>Honey weasel</b></col> <fld>(Zool.)</fld>, <cd>the ratel.</cd></cs><br/
+<p><cs><col>Honey ant</col> <fld>(Zool.)</fld>, <cd>a small ant (<spn>Myrmecocystus melliger</spn>), found in the Southwestern United States, and in Mexico, living in subterranean formicares. There are larger and smaller ordinary workers, and others, which serve as receptacles or cells for the storage of honey, their abdomens becoming distended to the size of a currant. These, in times of scarcity, regurgitate the honey and feed the rest.</cd> -- <col>Honey badger</col> <fld>(Zool.)</fld>, <cd>the ratel.</cd> -- <col>Honey bear</col>. <fld>(Zool.)</fld> <cd>See <er>Kinkajou</er>.</cd> -- <col>Honey buzzard</col> <fld>(Zool.)</fld>, <cd>a bird related to the kites, of the genus <gen>Pernis</gen>.  The European species is <spn>Pernis apivorus</spn>; the Indian or crested honey buzzard is <spn>Pernis ptilorhyncha</spn>.  They feed upon honey and the larv<ae/ of bees.  Called also <altname>bee hawk</altname>, <altname>bee kite</altname>.</cd> -- <col>Honey guide</col> <fld>(Zool.)</fld>, <cd>one of several species of small birds of the family <fam>Indicatorid<ae/</fam>, inhabiting Africa and the East Indies. They have the habit of leading persons to the nests to wild bees. Called also <altname>honeybird</altname>, and <altname>indicator</altname>.</cd> -- <col>Honey harvest</col>, <cd>the gathering of honey from hives, or the honey which is gathered.</cd> <au>Dryden.</au> -- <col>Honey kite</col>. <fld>(Zool.)</fld> <cd>See <cref>Honey buzzard</cref> (above).</cd> -- <col>Honey locust</col> <fld>(Bot.)</fld>, <cd>a North American tree (<spn>Gleditschia triacanthos</spn>), armed with thorns, and having long pods with a sweet pulp between the seeds.</cd> -- <col>Honey month</col>. <cd>Same as <er>Honeymoon</er>.</cd> -- <col>Honey weasel</col> <fld>(Zool.)</fld>, <cd>the ratel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 703 --></p>
@@ -21221,7 +21221,7 @@ But <qex>honey</qex> at the whisper of a lord.</q> <rj><qau>Tennyson.</qau></rj>
 <p><sn>2.</sn> <def>Any substance, as a easting of iron, a piece of worm-eaten wood, or of triple, etc., perforated with cells like a honeycomb.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Honeycomb moth</b></col> <fld>(Zool.)</fld>, <cd>the wax moth.</cd> -- <col><b>Honeycomb stomach</b></col>. <fld>(Anat.)</fld> <cd>See <er>Reticulum</er>.</cd></cs><br/
+<p><cs><col>Honeycomb moth</col> <fld>(Zool.)</fld>, <cd>the wax moth.</cd> -- <col>Honeycomb stomach</col>. <fld>(Anat.)</fld> <cd>See <er>Reticulum</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honeycombed</ent><br/
@@ -21337,7 +21337,7 @@ But <qex>honey</qex> at the whisper of a lord.</q> <rj><qau>Tennyson.</qau></rj>
 <hw>Hong</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chinese <ets>hang</ets>, Canton dialect <ets>hong</ets>, a mercantile house, factory.]</ety> <def>A mercantile establishment or factory for foreign trade in China, as formerly at Canton; a succession of offices connected by a common passage and used for business or storage.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hong merchant</b></col>, <cd>one of the few Chinese merchants who, previous to the treaty of 1842, formed a guild which had the exclusive privilege of trading with foreigners.</cd></cs><br/
+<p><cs><col>Hong merchant</col>, <cd>one of the few Chinese merchants who, previous to the treaty of 1842, formed a guild which had the exclusive privilege of trading with foreigners.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hong</ent><br/
@@ -21465,7 +21465,7 @@ Loved I not <qex>honor</qex> more.</q> <rj><qau>Lovelace.</qau></rj><br/
 <p><sn>12.</sn> <pluf>pl.</pluf> <fld>(Whist)</fld> <def>The ace, king, queen, and jack of trumps.  The ten and nine are sometimes called <contr>Dutch honors</contr>.</def>  <rj><au>R. A. Proctor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Affair of honor</b></col>, <cd>a dispute to be decided by a duel, or the duel itself.</cd> -- <col><b>Court of honor</b></col>, <cd>a court or tribunal to investigate and decide questions relating to points of honor; as a court of chivalry, or a military court to investigate acts or omissions which are unofficerlike or ungentlemanly in their nature.</cd> -- <col><b>Debt of honor</b></col>, <cd>a debt contracted by a verbal promise, or by betting or gambling, considered more binding than if recoverable by law.</cd> -- <col><b>Honor bright!</b></col> An assurance of truth or fidelity. <mark>[Colloq.]</mark> -- <col><b>Honor court</b></col> <fld>(Feudal Law)</fld>, <cd>one held in an honor or seignory.</cd> -- <col><b>Honor point</b></col>. <fld>(Her.)</fld> <cd>See <er>Escutcheon</er>.</cd> -- <col><b>Honors of war</b></col> <fld>(Mil.)</fld>, <cd>distinctions granted to a vanquished enemy, as of marching out from a camp or town armed, and with colors flying.</cd> -- <mcol><col><b>Law of honor</b></col> <it>or</it> <col><b>Code of honor</b></col></mcol>, <cd>certain rules by which social intercourse is regulated among persons of fashion, and which are founded on a regard to reputation.</cd> <au>Paley.</au> -- <col><b>Maid of honor</b></col>, <sd>(a)</sd> <cd>a lady of rank, whose duty it is to attend the queen when she appears in public.</cd> <sd>(b)</sd> <cd>the bride's principle attendant at a wedding, if unmarried.  If married, she is referred to as the <col>matron of honor</col>.</cd> -- <col><b>On one's honor</b></col>, <cd>on the pledge of one's honor; as, the members of the House of Lords in Great Britain, are not under oath, but give their statements or verdicts <xex>on their honor</xex>.</cd> -- <col><b>Point of honor</b></col>, <cd>a scruple or nice distinction in matters affecting one's honor; as, he raised a <xex>point of honor</xex>.</cd> -- <col><b>To do the honors</b></col>, <cd>to bestow honor, as on a guest; to act as host or hostess at an entertainment.</cd> <ldquo/To <xex>do the honors</xex> and to give the word.<rdquo/ <au>Pope.</au> -- <col><b>To do one honor</b></col>, <cd>to confer distinction upon one.</cd> -- <col><b>To have the honor</b></col>, <cd>to have the privilege or distinction.</cd> -- <col><b>Word of honor</b></col>, <cd>an engagement confirmed by a pledge of honor.</cd></cs><br/
+<p><cs><col>Affair of honor</col>, <cd>a dispute to be decided by a duel, or the duel itself.</cd> -- <col>Court of honor</col>, <cd>a court or tribunal to investigate and decide questions relating to points of honor; as a court of chivalry, or a military court to investigate acts or omissions which are unofficerlike or ungentlemanly in their nature.</cd> -- <col>Debt of honor</col>, <cd>a debt contracted by a verbal promise, or by betting or gambling, considered more binding than if recoverable by law.</cd> -- <col>Honor bright!</col> An assurance of truth or fidelity. <mark>[Colloq.]</mark> -- <col>Honor court</col> <fld>(Feudal Law)</fld>, <cd>one held in an honor or seignory.</cd> -- <col>Honor point</col>. <fld>(Her.)</fld> <cd>See <er>Escutcheon</er>.</cd> -- <col>Honors of war</col> <fld>(Mil.)</fld>, <cd>distinctions granted to a vanquished enemy, as of marching out from a camp or town armed, and with colors flying.</cd> -- <mcol><col>Law of honor</col> <it>or</it> <col>Code of honor</col></mcol>, <cd>certain rules by which social intercourse is regulated among persons of fashion, and which are founded on a regard to reputation.</cd> <au>Paley.</au> -- <col>Maid of honor</col>, <sd>(a)</sd> <cd>a lady of rank, whose duty it is to attend the queen when she appears in public.</cd> <sd>(b)</sd> <cd>the bride's principle attendant at a wedding, if unmarried.  If married, she is referred to as the <col>matron of honor</col>.</cd> -- <col>On one's honor</col>, <cd>on the pledge of one's honor; as, the members of the House of Lords in Great Britain, are not under oath, but give their statements or verdicts <xex>on their honor</xex>.</cd> -- <col>Point of honor</col>, <cd>a scruple or nice distinction in matters affecting one's honor; as, he raised a <xex>point of honor</xex>.</cd> -- <col>To do the honors</col>, <cd>to bestow honor, as on a guest; to act as host or hostess at an entertainment.</cd> <ldquo/To <xex>do the honors</xex> and to give the word.<rdquo/ <au>Pope.</au> -- <col>To do one honor</col>, <cd>to confer distinction upon one.</cd> -- <col>To have the honor</col>, <cd>to have the privilege or distinction.</cd> -- <col>Word of honor</col>, <cd>an engagement confirmed by a pledge of honor.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honor</ent><br/
@@ -21537,7 +21537,7 @@ More <qex>honor'd</qex> in the breach than the observance.</q> <rj><qau>Shak.</q
 <p><note><hand/ <xex>Honorable</xex> is a title of quality, conferred by English usage upon the younger children of earls and all the children of viscounts and barons. The maids of honor, lords of session, and the supreme judges of England and Ireland are entitled to the prefix. In American usage, it is a title of courtesy merely, bestowed upon those who hold, or have held, any of the higher public offices, esp. governors, judges, members of Congress or of the Senate, mayors, and often also extended to lower officials, such as city council members.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Right honorable</b></col>. <cd>See under <er>Right</er>.</cd></cs><br/
+<p><cs><col>Right honorable</col>. <cd>See under <er>Right</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Honorableness</ent><br/
@@ -21684,7 +21684,7 @@ To hide thy state from being understood?</q> <rj><qau>Spenser.</qau></rj><br/
 Thus with my hat, and sigh and say, <ldquo/Amen.<rdquo/</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hooding end</b></col> <fld>(Shipbuilding)</fld>, <cd>the end of a hood where it enters the rabbet in the stem post or stern post.</cd></cs><br/
+<p><cs><col>Hooding end</col> <fld>(Shipbuilding)</fld>, <cd>the end of a hood where it enters the rabbet in the stem post or stern post.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hood</ent><br/
@@ -21711,7 +21711,7 @@ Thus with my hat, and sigh and say, <ldquo/Amen.<rdquo/</q> <rj><qau>Shak.</qau>
 <p><sn>4.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>Having the head conspicuously different in color from the rest of the plumage; -- said of birds.</def> <sd>(b)</sd> <def>Having a hoodlike crest or prominence on the head or neck; <as>as, the <ex>hooded</ex> seal; a <ex>hooded</ex> snake.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hooded crow</b></col>, <cd>a European crow <fld>(Corvus cornix)</fld>; -- called also <altname>hoody</altname>, <altname>dun crow</altname>, and <altname>royston crow</altname>.</cd> -- <col><b>Hooded gull</b></col>, <cd>the European black-headed pewit or gull.</cd> -- <col><b>Hooded merganser</b></col>. <cd>See <er>Merganser</er>.</cd> -- <col><b>Hooded seal</b></col>, <cd>a large North Atlantic seal (<spn>Cystophora cristata</spn>). The male has a large, inflatible, hoodlike sac upon the head. Called also <altname>hoodcap</altname>.</cd> -- <col><b>Hooded sheldrake</b></col>, <cd>the hooded merganser. See <er>Merganser</er>.</cd> -- <col><b>Hooded snake</b></col>. <cd>See <er>Cobra de capello</er>, <er>Asp</er>, <er>Haje</er>, etc.</cd> -- <col><b>Hooded warbler</b></col>, <cd>a small American warbler (<spn>Sylvania mitrata</spn>).</cd></cs><br/
+<p><cs><col>Hooded crow</col>, <cd>a European crow <fld>(Corvus cornix)</fld>; -- called also <altname>hoody</altname>, <altname>dun crow</altname>, and <altname>royston crow</altname>.</cd> -- <col>Hooded gull</col>, <cd>the European black-headed pewit or gull.</cd> -- <col>Hooded merganser</col>. <cd>See <er>Merganser</er>.</cd> -- <col>Hooded seal</col>, <cd>a large North Atlantic seal (<spn>Cystophora cristata</spn>). The male has a large, inflatible, hoodlike sac upon the head. Called also <altname>hoodcap</altname>.</cd> -- <col>Hooded sheldrake</col>, <cd>the hooded merganser. See <er>Merganser</er>.</cd> -- <col>Hooded snake</col>. <cd>See <er>Cobra de capello</er>, <er>Asp</er>, <er>Haje</er>, etc.</cd> -- <col>Hooded warbler</col>, <cd>a small American warbler (<spn>Sylvania mitrata</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoodless</ent><br/
@@ -21801,7 +21801,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>2.</sn> <def>To be on a tramp; to foot.</def> <mark>[Slang, U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hoof it</b></col>, <cd>to foot it.</cd>  -- <col><b>On the hoof</b></col>, <cd>of cattle, standing (on the hoof); not slaughtered.</cd> -- <col><b>beef on the hoof</b></col>, <cd>live cattle.</cd></cs><br/
+<p><cs><col>To hoof it</col>, <cd>to foot it.</cd>  -- <col>On the hoof</col>, <cd>of cattle, standing (on the hoof); not slaughtered.</cd> -- <col>beef on the hoof</col>, <cd>live cattle.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hoofbound</ent><br/
@@ -21868,7 +21868,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>10.</sn> <fld>(Computers)</fld> <def>A procedure within the encoding of a computer program which allows the user to modify the program so as to import data from or export data to other programs.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>By hook or by crook</b></col>, <cd>one way or other; by any means, direct or indirect.</cd> <au>Milton.</au> <ldquo/In hope her to attain <xex>by hook or crook</xex>.<rdquo/ <au>Spenser.</au> -- <col><b>Off the hook</b></col>, <cd>freed from some obligation or difficulty; <as>as, to get <ex>off the hook</ex> by getting someone else to do the job</as>.</cd> <mark>[Colloq.]</mark> -- <col><b>Off the hooks</b></col>, <cd>unhinged; disturbed; disordered.</cd> <mark>[Colloq.]</mark> <ldquo/In the evening, by water, to the Duke of Albemarle, whom I found mightly <xex>off the hooks</xex> that the ships are not gone out of the river.<rdquo/ <au>Pepys.</au><-- = out of joint --> -- <col><b>On one's own hook</b></col>, <cd>on one's own account or responsibility; by one's self.</cd> <mark>[Colloq. U.S.]</mark> <au>Bartlett.</au> -- <col><b>To go off the hooks</b></col>, <cd>to die.</cd> <mark>[Colloq.]</mark> <au>Thackeray.</au> -- <col><b>Bid hook</b></col>, <cd>a small boat hook.</cd> -- <col><b>Chain hook</b></col>. <cd>See under <er>Chain</er>.</cd> -- <col><b>Deck hook</b></col>, <cd>a horizontal knee or frame, in the bow of a ship, on which the forward part of the deck rests.</cd> -- <col><b>Hook and eye</b></col>, <cd>one of the small wire hooks and loops for fastening together the opposite edges of a garment, etc.</cd> -- <col><b>Hook bill</b></col> <fld>(Zool.)</fld>, <cd>the strongly curved beak of a bird.</cd> -- <col><b>Hook ladder</b></col>, <cd>a ladder with hooks at the end by which it can be suspended, as from the top of a wall.</cd> -- <col><b>Hook motion</b></col> <fld>(Steam Engin.)</fld>, <cd>a valve gear which is reversed by V hooks.</cd> -- <col><b>Hook squid</b></col>, <cd>any squid which has the arms furnished with hooks, instead of suckers, as in the genera <gen>Enoploteuthis</gen> and <gen>Onychteuthis</gen>.</cd> -- <col><b>Hook wrench</b></col>, <cd>a wrench or spanner, having a hook at the end, instead of a jaw, for turning a bolthead, nut, or coupling.</cd></cs><br/
+<p><cs><col>By hook or by crook</col>, <cd>one way or other; by any means, direct or indirect.</cd> <au>Milton.</au> <ldquo/In hope her to attain <xex>by hook or crook</xex>.<rdquo/ <au>Spenser.</au> -- <col>Off the hook</col>, <cd>freed from some obligation or difficulty; <as>as, to get <ex>off the hook</ex> by getting someone else to do the job</as>.</cd> <mark>[Colloq.]</mark> -- <col>Off the hooks</col>, <cd>unhinged; disturbed; disordered.</cd> <mark>[Colloq.]</mark> <ldquo/In the evening, by water, to the Duke of Albemarle, whom I found mightly <xex>off the hooks</xex> that the ships are not gone out of the river.<rdquo/ <au>Pepys.</au><-- = out of joint --> -- <col>On one's own hook</col>, <cd>on one's own account or responsibility; by one's self.</cd> <mark>[Colloq. U.S.]</mark> <au>Bartlett.</au> -- <col>To go off the hooks</col>, <cd>to die.</cd> <mark>[Colloq.]</mark> <au>Thackeray.</au> -- <col>Bid hook</col>, <cd>a small boat hook.</cd> -- <col>Chain hook</col>. <cd>See under <er>Chain</er>.</cd> -- <col>Deck hook</col>, <cd>a horizontal knee or frame, in the bow of a ship, on which the forward part of the deck rests.</cd> -- <col>Hook and eye</col>, <cd>one of the small wire hooks and loops for fastening together the opposite edges of a garment, etc.</cd> -- <col>Hook bill</col> <fld>(Zool.)</fld>, <cd>the strongly curved beak of a bird.</cd> -- <col>Hook ladder</col>, <cd>a ladder with hooks at the end by which it can be suspended, as from the top of a wall.</cd> -- <col>Hook motion</col> <fld>(Steam Engin.)</fld>, <cd>a valve gear which is reversed by V hooks.</cd> -- <col>Hook squid</col>, <cd>any squid which has the arms furnished with hooks, instead of suckers, as in the genera <gen>Enoploteuthis</gen> and <gen>Onychteuthis</gen>.</cd> -- <col>Hook wrench</col>, <cd>a wrench or spanner, having a hook at the end, instead of a jaw, for turning a bolthead, nut, or coupling.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hook</ent><br/
@@ -21884,7 +21884,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>3.</sn> <def>To steal.</def> <mark>[Colloq. Eng. & U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hook on</b></col>, <cd>to fasten or attach by, or as by, hook.</cd></cs><br/
+<p><cs><col>To hook on</col>, <cd>to fasten or attach by, or as by, hook.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hook</ent><br/
@@ -21999,7 +21999,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>5.</sn> <def>An old measure of capacity, variously estimated at from one to four pecks.</def> <mark>[Eng.]</mark>  <rj><au>Halliwell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bulge hoop</b></col>, <col><b>Chine hoop</b></col>, <col><b>Quarter hoop</b></col></mcol>, <cd>the hoop nearest the middle of a cask, that nearest the end, and the intermediate hoop between these two, respectively.</cd> -- <col><b>Flat hoop</b></col>, <cd>a wooden hoop dressed flat on both sides.</cd> -- <col><b>Half-round hoop</b></col>, <cd>a wooden hoop left rounding and undressed on the outside.</cd> -- <col><b>Hoop iron</b></col>, <cd>iron in thin narrow strips, used for making hoops.</cd> -- <col><b>Hoop lock</b></col>, <cd>the fastening for uniting the ends of wooden hoops by notching and interlocking them.</cd> -- <col><b>Hoop skirt</b></col>, <cd>a framework of hoops for expanding the skirts of a woman's dress; -- called also <altname>hoop petticoat</altname>.</cd> -- <col><b>Hoop snake</b></col> <fld>(Zool.)</fld>, <cd>a harmless snake of the Southern United States (<spn>Abaster erythrogrammus</spn>); -- so called from the mistaken notion that it curves itself into a hoop, taking its tail into its mouth, and rolls along with great velocity.</cd> -- <col><b>Hoop tree</b></col> <fld>(Bot.)</fld>, <cd>a small West Indian tree (<spn>Melia sempervirens</spn>), of the Mahogany family.</cd></cs><br/
+<p><cs><mcol><col>Bulge hoop</col>, <col>Chine hoop</col>, <col>Quarter hoop</col></mcol>, <cd>the hoop nearest the middle of a cask, that nearest the end, and the intermediate hoop between these two, respectively.</cd> -- <col>Flat hoop</col>, <cd>a wooden hoop dressed flat on both sides.</cd> -- <col>Half-round hoop</col>, <cd>a wooden hoop left rounding and undressed on the outside.</cd> -- <col>Hoop iron</col>, <cd>iron in thin narrow strips, used for making hoops.</cd> -- <col>Hoop lock</col>, <cd>the fastening for uniting the ends of wooden hoops by notching and interlocking them.</cd> -- <col>Hoop skirt</col>, <cd>a framework of hoops for expanding the skirts of a woman's dress; -- called also <altname>hoop petticoat</altname>.</cd> -- <col>Hoop snake</col> <fld>(Zool.)</fld>, <cd>a harmless snake of the Southern United States (<spn>Abaster erythrogrammus</spn>); -- so called from the mistaken notion that it curves itself into a hoop, taking its tail into its mouth, and rolls along with great velocity.</cd> -- <col>Hoop tree</col> <fld>(Bot.)</fld>, <cd>a small West Indian tree (<spn>Melia sempervirens</spn>), of the Mahogany family.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoop</ent><br/
@@ -22016,7 +22016,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>2.</sn> <def>To whoop, as in whooping cough. See <er>Whoop</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hooping cough</b></col>. <fld>(Med.)</fld> <cd>See <er>Whooping cough</er>.</cd></cs><br/
+<p><cs><col>Hooping cough</col>. <fld>(Med.)</fld> <cd>See <er>Whooping cough</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoop</ent><br/
@@ -22100,7 +22100,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>3.</sn> <def>A very funny event, person, or experience; <as>as, watching Jack try to catch that greased pig was a <ex>hoot</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Hoot owl</b></col> <fld>(Zool.)</fld>, <cd>the barred owl (<spn>Syrnium nebulosum</spn>). See <er>Barred owl</er>.</cd> -- <col><b>not give a hoot</b></col> <cd>not care at all.</cd></cs><br/
+<p><cs><col>Hoot owl</col> <fld>(Zool.)</fld>, <cd>the barred owl (<spn>Syrnium nebulosum</spn>). See <er>Barred owl</er>.</cd> -- <col>not give a hoot</col> <cd>not care at all.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hoot down</ent><br/
@@ -22162,7 +22162,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>2.</sn> <def>A dance; esp., an informal dance of ball.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hop, skip and jump</b></col>, <col><b>Hop, step and a jump</b></col> <it>or</it> <col><b>Hop, step and jump</b></col></mcol>, <sn>1.</sn> <cd>a game or athletic sport in which the participants cover as much ground as possible by a hop, stride, and jump in succession.</cd> <sn>2.</sn> <cd>a short distance.</cd></cs> <rj><au>Addison.</au></rj><br/
+<p><cs><mcol><col>Hop, skip and jump</col>, <col>Hop, step and a jump</col> <it>or</it> <col>Hop, step and jump</col></mcol>, <sn>1.</sn> <cd>a game or athletic sport in which the participants cover as much ground as possible by a hop, stride, and jump in succession.</cd> <sn>2.</sn> <cd>a short distance.</cd></cs> <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Hop</ent><br/
@@ -22175,7 +22175,7 @@ You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj><br/
 <p><sn>3.</sn> <def>The fruit of the dog-rose. See <er>Hip</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hop back</b></col>. <fld>(Brewing)</fld> <cd>See under 1st <er>Back</er>.</cd> -- <col><b>Hop clover</b></col> <fld>(Bot.)</fld>, <cd>a species of yellow clover having heads like hops in miniature (<spn>Trifolium agrarium</spn>, and <spn>Trifolium procumbens</spn>).</cd> -- <col><b>Hop flea</b></col> <fld>(Zool.)</fld>, <cd>a small flea beetle (<spn>Haltica concinna</spn>), very injurious to hops.</cd> -- <col><b>Hop fly</b></col> <fld>(Zool.)</fld>, <cd>an aphid (<spn>Phorodon humuli</spn>), very injurious to hop vines.</cd> -- <col><b>Hop froth fly</b></col> <fld>(Zool.)</fld>, <cd>an hemipterous insect (<spn>Aphrophora interrupta</spn>), allied to the cockoo spits. It often does great damage to hop vines.</cd> -- <col><b>Hop hornbeam</b></col> <fld>(Bot.)</fld>, <cd>an American tree of the genus <gen>Ostrya</gen> (<spn>Ostrya Virginica</spn>) the American ironwood; also, a European species (<spn>Ostrya vulgaris</spn>).</cd> -- <col><b>Hop moth</b></col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Hypena humuli</spn>), which in the larval state is very injurious to hop vines.</cd> -- <col><b>Hop picker</b></col>, <cd>one who picks hops.</cd> -- <col><b>Hop pole</b></col>, <cd>a pole used to support hop vines.</cd> -- <col><b>Hop tree</b></col> <fld>(Bot.)</fld>, <cd>a small American tree (<spn>Ptelia trifoliata</spn>), having broad, flattened fruit in large clusters, sometimes used as a substitute for hops.</cd> -- <col><b>Hop vine</b></col> <fld>(Bot.)</fld>, <cd>the climbing vine or stalk of the hop.</cd></cs><br/
+<p><cs><col>Hop back</col>. <fld>(Brewing)</fld> <cd>See under 1st <er>Back</er>.</cd> -- <col>Hop clover</col> <fld>(Bot.)</fld>, <cd>a species of yellow clover having heads like hops in miniature (<spn>Trifolium agrarium</spn>, and <spn>Trifolium procumbens</spn>).</cd> -- <col>Hop flea</col> <fld>(Zool.)</fld>, <cd>a small flea beetle (<spn>Haltica concinna</spn>), very injurious to hops.</cd> -- <col>Hop fly</col> <fld>(Zool.)</fld>, <cd>an aphid (<spn>Phorodon humuli</spn>), very injurious to hop vines.</cd> -- <col>Hop froth fly</col> <fld>(Zool.)</fld>, <cd>an hemipterous insect (<spn>Aphrophora interrupta</spn>), allied to the cockoo spits. It often does great damage to hop vines.</cd> -- <col>Hop hornbeam</col> <fld>(Bot.)</fld>, <cd>an American tree of the genus <gen>Ostrya</gen> (<spn>Ostrya Virginica</spn>) the American ironwood; also, a European species (<spn>Ostrya vulgaris</spn>).</cd> -- <col>Hop moth</col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Hypena humuli</spn>), which in the larval state is very injurious to hop vines.</cd> -- <col>Hop picker</col>, <cd>one who picks hops.</cd> -- <col>Hop pole</col>, <cd>a pole used to support hop vines.</cd> -- <col>Hop tree</col> <fld>(Bot.)</fld>, <cd>a small American tree (<spn>Ptelia trifoliata</spn>), having broad, flattened fruit in large clusters, sometimes used as a substitute for hops.</cd> -- <col>Hop vine</col> <fld>(Bot.)</fld>, <cd>the climbing vine or stalk of the hop.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hop</ent><br/
@@ -22342,7 +22342,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>6.</sn> <fld>(Naut.)</fld> <def>A vessel for carrying waste, garbage, etc., out to sea, so constructed as to discharge its load by a mechanical contrivance; -- called also <altname>dumping scow</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bell and hopper</b></col> <fld>(Metal.)</fld>, <cd>the apparatus at the top of a blast furnace, through which the charge is introduced, while the gases are retained.</cd> -- <col><b>Hopper boy</b></col>, <cd>a rake in a mill, moving in a circle to spread meal for drying, and to draw it over an opening in the floor, through which it falls.</cd> -- <col><b>Hopper closet</b></col>, <cd>a water-closet, without a movable pan, in which the receptacle is a funnel standing on a draintrap.</cd> -- <col><b>Hopper cock</b></col>, <cd>a faucet or valve for flushing the hopper of a water-closet.</cd></cs><br/
+<p><cs><col>Bell and hopper</col> <fld>(Metal.)</fld>, <cd>the apparatus at the top of a blast furnace, through which the charge is introduced, while the gases are retained.</cd> -- <col>Hopper boy</col>, <cd>a rake in a mill, moving in a circle to spread meal for drying, and to draw it over an opening in the floor, through which it falls.</cd> -- <col>Hopper closet</col>, <cd>a water-closet, without a movable pan, in which the receptacle is a funnel standing on a draintrap.</cd> -- <col>Hopper cock</col>, <cd>a faucet or valve for flushing the hopper of a water-closet.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hopperdozer</ent><br/
@@ -22368,7 +22368,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hop"ping</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of one who, or that which, hops; a jumping, frisking, or dancing.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hopping Dick</b></col> <fld>(Zool.)</fld>, <cd>a thrush of Jamaica (<spn>Merula leucogenys</spn>), resembling the English blackbird in its familiar manners, agreeable song, and dark plumage.</cd></cs><br/
+<p><cs><col>Hopping Dick</col> <fld>(Zool.)</fld>, <cd>a thrush of Jamaica (<spn>Merula leucogenys</spn>), resembling the English blackbird in its familiar manners, agreeable song, and dark plumage.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hopping</ent><br/
@@ -22394,7 +22394,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hop"po</hw> <pr>(?)</pr>, <pos>n.</pos> <sd>(a)</sd> <def>A collector of customs, as at Canton; an overseer of commerce.</def> <sd>(b)</sd> <def>A tribunal or commission having charge of the revenue derived from trade and navigation.</def> <mark>[China]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hoppo men</b></col>, <cd>Chinese customhouse officers.</cd></cs><br/
+<p><cs><col>Hoppo men</col>, <cd>Chinese customhouse officers.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hopsacking</ent><br/
@@ -22443,7 +22443,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q><qex>Horary</qex>, or soon decaying, fruits of summer.</q> <rj><qau>Sir T. Browne.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horary circles</b></col>. <cd>See <er>Circles</er>.</cd></cs><br/
+<p><cs><col>Horary circles</col>. <cd>See <er>Circles</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horatian</ent><br/
@@ -22484,7 +22484,7 @@ Breathe I against thee, upon pain of life.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>A lozenge or tablet, usually sweetened, containing extract of horehound, used as a remedy for a cough or a sore throat.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><mcol><col><b>Fetid horehound</b></col>, <it>or</it> <col><b>Black horehound</b></col></mcol>, <cd>a disagreeable plant resembling horehound (<spn>Ballota nigra</spn>).</cd> -- <col><b>Water horehound</b></col>, <cd>a species of the genus <gen>Lycopus</gen>, resembling mint, but not aromatic.</cd></cs><br/
+<p><cs><mcol><col>Fetid horehound</col>, <it>or</it> <col>Black horehound</col></mcol>, <cd>a disagreeable plant resembling horehound (<spn>Ballota nigra</spn>).</cd> -- <col>Water horehound</col>, <cd>a species of the genus <gen>Lycopus</gen>, resembling mint, but not aromatic.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horizon</ent><br/
@@ -22517,7 +22517,7 @@ Invested with bright rays.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>6.</sn> <mark>[fig.]</mark> <def>A boundary point or line, or  a time point, beyond which new knowledge or experiences may be found; <as>as, more powerful computers are just over the <ex>horizon</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Apparent horizon</b></col>. <cd>See under <er>Apparent</er>.</cd> -- <col><b>Artificial horizon</b></col>, <cd>a level mirror, as the surface of mercury in a shallow vessel, or a plane reflector adjusted to the true level artificially; -- used chiefly with the sextant for observing the double altitude of a celestial body.</cd> -- <col><b>Celestial horizon</b></col>. <fld>(Astron.)</fld> <cd>See def. <snr>2</snr>, above.</cd> -- <col><b>Dip of the horizon</b></col> <fld>(Astron.)</fld>, <cd>the vertical angle between the sensible horizon and a line to the visible horizon, the latter always being below the former.</cd> -- <mcol><col><b>Rational horizon</b></col>, and <col><b>Sensible horizon</b></col></mcol>. <fld>(Astron.)</fld> <cd>See def. <snr>2</snr>, above.</cd> -- <col><b>Visible horizon</b></col>. <cd>See definitions 1 and 2, above.</cd></cs><br/
+<p><cs><col>Apparent horizon</col>. <cd>See under <er>Apparent</er>.</cd> -- <col>Artificial horizon</col>, <cd>a level mirror, as the surface of mercury in a shallow vessel, or a plane reflector adjusted to the true level artificially; -- used chiefly with the sextant for observing the double altitude of a celestial body.</cd> -- <col>Celestial horizon</col>. <fld>(Astron.)</fld> <cd>See def. <snr>2</snr>, above.</cd> -- <col>Dip of the horizon</col> <fld>(Astron.)</fld>, <cd>the vertical angle between the sensible horizon and a line to the visible horizon, the latter always being below the former.</cd> -- <mcol><col>Rational horizon</col>, and <col>Sensible horizon</col></mcol>. <fld>(Astron.)</fld> <cd>See def. <snr>2</snr>, above.</cd> -- <col>Visible horizon</col>. <cd>See definitions 1 and 2, above.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horizontal</ent><br/
@@ -22530,7 +22530,7 @@ Invested with bright rays.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>3.</sn> <def>Measured or contained in a plane of the horizon; <as>as, <ex>horizontal</ex> distance</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horizontal drill</b></col>, <cd>a drilling machine having a horizontal drill spindle.</cd> -- <col><b>Horizontal engine</b></col>, <cd>one the piston of which works horizontally.</cd> -- <col><b>Horizontal fire</b></col> <fld>(Mil.)</fld>, <cd>the fire of ordnance and small arms at point-blank range or at low angles of elevation.</cd> -- <col><b>Horizontal force</b></col> <fld>(Physics)</fld>, <cd>the horizontal component of the earth's magnetic force.</cd> -- <col><b>Horizontal line</b></col> <fld>(Descriptive Geometry & Drawing)</fld>, <cd>a constructive line, either drawn or imagined, which passes through the point of sight, and is the chief line in the projection upon which all verticals are fixed, and upon which all vanishing points are found.</cd> -- <col><b>Horizontal parallax</b></col>. <cd>See under <er>Parallax</er>.</cd> -- <col><b>Horizontal plane</b></col> <fld>(Descriptive Geometry)</fld>, <cd>a plane parallel to the horizon, upon which it is assumed that objects are projected. See <er>Projection</er>. It is upon the horizontal plane that the ground plan of the buildings is supposed to be drawn.</cd> -- <col><b>Horizontal projection</b></col>, <cd>a projection made on a plane parallel to the horizon.</cd> -- <col><b>Horizontal range</b></col> <fld>(Gunnery)</fld>, <cd>the distance in a horizontal plane to which a gun will throw a projectile.</cd> -- <col><b>Horizontal water wheel</b></col>, <cd>a water wheel in which the axis is vertical, the buckets or floats revolving in a horizontal plane, as in most turbines.</cd></cs><br/
+<p><cs><col>Horizontal drill</col>, <cd>a drilling machine having a horizontal drill spindle.</cd> -- <col>Horizontal engine</col>, <cd>one the piston of which works horizontally.</cd> -- <col>Horizontal fire</col> <fld>(Mil.)</fld>, <cd>the fire of ordnance and small arms at point-blank range or at low angles of elevation.</cd> -- <col>Horizontal force</col> <fld>(Physics)</fld>, <cd>the horizontal component of the earth's magnetic force.</cd> -- <col>Horizontal line</col> <fld>(Descriptive Geometry & Drawing)</fld>, <cd>a constructive line, either drawn or imagined, which passes through the point of sight, and is the chief line in the projection upon which all verticals are fixed, and upon which all vanishing points are found.</cd> -- <col>Horizontal parallax</col>. <cd>See under <er>Parallax</er>.</cd> -- <col>Horizontal plane</col> <fld>(Descriptive Geometry)</fld>, <cd>a plane parallel to the horizon, upon which it is assumed that objects are projected. See <er>Projection</er>. It is upon the horizontal plane that the ground plan of the buildings is supposed to be drawn.</cd> -- <col>Horizontal projection</col>, <cd>a projection made on a plane parallel to the horizon.</cd> -- <col>Horizontal range</col> <fld>(Gunnery)</fld>, <cd>the distance in a horizontal plane to which a gun will throw a projectile.</cd> -- <col>Horizontal water wheel</col>, <cd>a water wheel in which the axis is vertical, the buckets or floats revolving in a horizontal plane, as in most turbines.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horizontality</ent><br/
@@ -22607,7 +22607,7 @@ Their phalanx.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>12.</sn> <def>a body of water shaped like a horn; <as>as, the Golden <ex>Horn</ex> in Istanbul</as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Horn block</b></col>, <cd>the frame or pedestal in which a railway car axle box slides up and down; -- also called <altname>horn plate</altname>.</cd> -- <col><b>Horn of a dilemma</b></col>. <cd>See under <er>Dilemma</er>.</cd> -- <col><b>Horn distemper</b></col>, <cd>a disease of cattle, affecting the internal substance of the horn.</cd> -- <col><b>Horn drum</b></col>, <cd>a wheel with long curved scoops, for raising water.</cd> -- <col><b>Horn lead</b></col> <fld>(Chem.)</fld>, <cd>chloride of lead.</cd> -- <col><b>Horn maker</b></col>, <cd>a maker of cuckolds.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col><b>Horn mercury</b></col>. <fld>(Min.)</fld> <cd>Same as <cref>Horn quicksilver</cref> (below).</cd> -- <col><b>Horn poppy</b></col> <fld>(Bot.)</fld>, <cd>a plant allied to the poppy (<spn>Glaucium luteum</spn>), found on the sandy shores of Great Britain and Virginia; -- called also <altname>horned poppy</altname>.</cd> <au>Gray.</au> -- <col><b>Horn pox</b></col> <fld>(Med.)</fld>, <cd>abortive smallpox with an eruption like that of chicken pox.</cd> -- <col><b>Horn quicksilver</b></col> <fld>(Min.)</fld>, <cd>native calomel, or bichloride of mercury.</cd> -- <col><b>Horn shell</b></col> <fld>(Zool.)</fld>, <cd>any long, sharp, spiral, gastropod shell, of the genus <gen>Cerithium</gen>, and allied genera.</cd> -- <col><b>Horn silver</b></col> <fld>(Min.)</fld>, <cd>cerargyrite.</cd> -- <col><b>Horn slate</b></col>, <cd>a gray, siliceous stone.</cd> -- <mcol><col><b>To pull in one's horns</b></col>, <col><b>To haul in one's horns</b></col></mcol>, <cd>to withdraw some arrogant pretension; to cease a demand or withdraw an assertion.</cd> <mark>[Colloq.]</mark> -- <mcol><col><b>To raise the horn</b></col>, <it>or</it> <col><b>To lift the horn</b></col></mcol> <fld>(Script.)</fld>, <cd>to exalt one's self; to act arrogantly.</cd> <ldquo/'Gainst them that raised thee dost thou <xex>lift</xex> thy <xex>horn</xex>?<rdquo/ <au>Milton.</au> -- <col><b>To take a horn</b></col>, <cd>to take a drink of intoxicating liquor.</cd> <mark>[Low]</mark></cs>
+<p><cs><col>Horn block</col>, <cd>the frame or pedestal in which a railway car axle box slides up and down; -- also called <altname>horn plate</altname>.</cd> -- <col>Horn of a dilemma</col>. <cd>See under <er>Dilemma</er>.</cd> -- <col>Horn distemper</col>, <cd>a disease of cattle, affecting the internal substance of the horn.</cd> -- <col>Horn drum</col>, <cd>a wheel with long curved scoops, for raising water.</cd> -- <col>Horn lead</col> <fld>(Chem.)</fld>, <cd>chloride of lead.</cd> -- <col>Horn maker</col>, <cd>a maker of cuckolds.</cd> <mark>[Obs.]</mark> <au>Shak.</au> -- <col>Horn mercury</col>. <fld>(Min.)</fld> <cd>Same as <cref>Horn quicksilver</cref> (below).</cd> -- <col>Horn poppy</col> <fld>(Bot.)</fld>, <cd>a plant allied to the poppy (<spn>Glaucium luteum</spn>), found on the sandy shores of Great Britain and Virginia; -- called also <altname>horned poppy</altname>.</cd> <au>Gray.</au> -- <col>Horn pox</col> <fld>(Med.)</fld>, <cd>abortive smallpox with an eruption like that of chicken pox.</cd> -- <col>Horn quicksilver</col> <fld>(Min.)</fld>, <cd>native calomel, or bichloride of mercury.</cd> -- <col>Horn shell</col> <fld>(Zool.)</fld>, <cd>any long, sharp, spiral, gastropod shell, of the genus <gen>Cerithium</gen>, and allied genera.</cd> -- <col>Horn silver</col> <fld>(Min.)</fld>, <cd>cerargyrite.</cd> -- <col>Horn slate</col>, <cd>a gray, siliceous stone.</cd> -- <mcol><col>To pull in one's horns</col>, <col>To haul in one's horns</col></mcol>, <cd>to withdraw some arrogant pretension; to cease a demand or withdraw an assertion.</cd> <mark>[Colloq.]</mark> -- <mcol><col>To raise the horn</col>, <it>or</it> <col>To lift the horn</col></mcol> <fld>(Script.)</fld>, <cd>to exalt one's self; to act arrogantly.</cd> <ldquo/'Gainst them that raised thee dost thou <xex>lift</xex> thy <xex>horn</xex>?<rdquo/ <au>Milton.</au> -- <col>To take a horn</col>, <cd>to take a drink of intoxicating liquor.</cd> <mark>[Low]</mark></cs>
 <-- blow one's own horn.  To call attention to one's own accomplishments.  opposed to "hide one's light under a bushel"  --><br/
 [<source>1913 Webster</source>]</p>
 
@@ -22626,7 +22626,7 @@ Their phalanx.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Horn"beam`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Beam</er>.]</ety> <fld>(Bot.)</fld> <def>A tree of the genus <gen>Carpinus</gen> (<spn>Carpinus Americana</spn>), having a smooth gray bark and a ridged trunk, the wood being white and very hard.  It is common along the banks of streams in the United States, and is also called <altname>ironwood</altname>.  The English hornbeam is <spn>Carpinus Betulus</spn>.  The American is called also <altname>blue beech</altname> and <altname>water beech</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hop hornbeam</b></col>. <fld>(Bot.)</fld> <cd>See under <er>Hop</er>.</cd></cs><br/
+<p><cs><col>Hop hornbeam</col>. <fld>(Bot.)</fld> <cd>See under <er>Hop</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornbill</ent><br/
@@ -22639,7 +22639,7 @@ Their phalanx.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Horn"blende`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>horn</ets> horn + <ets>blende</ets> blende.]</ety> <fld>(Min.)</fld> <def>The common black, or dark green or brown, variety of amphibole. (See <er>Amphibole</er>.) It belongs to the aluminous division of the species, and is also characterized by its containing considerable iron. Also used as a general term to include the whole species.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hornblende schist</b></col> <fld>(Geol.)</fld>, <cd>a hornblende rock of schistose structure.</cd></cs><br/
+<p><cs><col>Hornblende schist</col> <fld>(Geol.)</fld>, <cd>a hornblende rock of schistose structure.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornblendic</ent><br/
@@ -22669,7 +22669,7 @@ Their phalanx.</q> <rj><qau>Milton.</qau></rj><br/
 Within the nether tip.</q> <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horned bee</b></col> <fld>(Zool.)</fld>, <cd>a British wild bee (<spn>Osmia bicornis</spn>), having two little horns on the head.</cd> -- <col><b>Horned dace</b></col> <fld>(Zool.)</fld>, <cd>an American cyprinoid fish (<spn>Semotilus corporialis</spn>) common in brooks and ponds; the common chub. See <xex>Illust.</xex> of <er>Chub</er>.</cd> -- <col><b>Horned frog</b></col> <fld>(Zool.)</fld>, <cd>a very large Brazilian frog (<spn>Ceratophrys cornuta</spn>), having a pair of triangular horns arising from the eyelids.</cd> -- <col><b>Horned grebe</b></col> <fld>(Zool.)</fld>, <cd>a species of grebe (<spn>Colymbus auritus</spn>), of Arctic Europe and America, having two dense tufts of feathers on the head.</cd> -- <col><b>Horned horse</b></col> <fld>(Zool.)</fld>, <cd>the gnu.</cd> -- <col><b>Horned lark</b></col> <fld>(Zool.)</fld>, <cd>the shore lark.</cd> -- <col><b>Horned lizard</b></col> <fld>(Zool.)</fld>, <cd>the horned toad.</cd> -- <col><b>Horned owl</b></col> <fld>(Zool.)</fld>, <cd>a large North American owl (<spn>Bubo Virginianus</spn>), having a pair of elongated tufts of feathers on the head. Several distinct varieties are known; as, the Arctic, Western, dusky, and striped <xex>horned owls</xex>, differing in color, and inhabiting different regions; -- called also <altname>great horned owl</altname>, <altname>horn owl</altname>, <altname>eagle owl</altname>, and <altname>cat owl</altname>. Sometimes also applied to the <altname>long-eared owl</altname>. See <cref>Eared owl</cref>, under <er>Eared</er>.</cd> -- <col><b>Horned poppy</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Horn poppy</cref>, under <er>Horn</er>.</cd> -- <col><b>Horned pout</b></col> <fld>(Zool.)</fld>, <cd>an American fresh-water siluroid fish; the bullpout.</cd> -- <col><b>Horned rattler</b></col> <fld>(Zool.)</fld>, <cd>a species of rattlesnake (<spn>Crotalus cerastes</spn>), inhabiting the dry, sandy plains, from California to Mexico. It has a pair of triangular horns between the eyes; -- called also <altname>sidewinder</altname>.</cd> -- <col><b>Horned ray</b></col> <fld>(Zool.)</fld>, <cd>the sea devil.</cd> -- <col><b>Horned screamer</b></col> <fld>(Zool.)</fld>, <cd>the kamichi.</cd> -- <col><b>Horned snake</b></col> <fld>(Zool.)</fld>, <cd>the cerastes.</cd> -- <col><b>Horned toad</b></col> <fld>(Zool.)</fld>, <cd>any lizard of the genus <gen>Phrynosoma</gen>, of which nine or ten species are known. These lizards have several hornlike spines on the head, and a broad, flat body, covered with spiny scales. They inhabit the dry, sandy plains from California to Mexico and Texas. Called also <altname>horned lizard</altname>.</cd> -- <col><b>Horned viper</b></col>. <fld>(Zool.)</fld> <cd>See <er>Cerastes</er>.</cd></cs><br/
+<p><cs><col>Horned bee</col> <fld>(Zool.)</fld>, <cd>a British wild bee (<spn>Osmia bicornis</spn>), having two little horns on the head.</cd> -- <col>Horned dace</col> <fld>(Zool.)</fld>, <cd>an American cyprinoid fish (<spn>Semotilus corporialis</spn>) common in brooks and ponds; the common chub. See <xex>Illust.</xex> of <er>Chub</er>.</cd> -- <col>Horned frog</col> <fld>(Zool.)</fld>, <cd>a very large Brazilian frog (<spn>Ceratophrys cornuta</spn>), having a pair of triangular horns arising from the eyelids.</cd> -- <col>Horned grebe</col> <fld>(Zool.)</fld>, <cd>a species of grebe (<spn>Colymbus auritus</spn>), of Arctic Europe and America, having two dense tufts of feathers on the head.</cd> -- <col>Horned horse</col> <fld>(Zool.)</fld>, <cd>the gnu.</cd> -- <col>Horned lark</col> <fld>(Zool.)</fld>, <cd>the shore lark.</cd> -- <col>Horned lizard</col> <fld>(Zool.)</fld>, <cd>the horned toad.</cd> -- <col>Horned owl</col> <fld>(Zool.)</fld>, <cd>a large North American owl (<spn>Bubo Virginianus</spn>), having a pair of elongated tufts of feathers on the head. Several distinct varieties are known; as, the Arctic, Western, dusky, and striped <xex>horned owls</xex>, differing in color, and inhabiting different regions; -- called also <altname>great horned owl</altname>, <altname>horn owl</altname>, <altname>eagle owl</altname>, and <altname>cat owl</altname>. Sometimes also applied to the <altname>long-eared owl</altname>. See <cref>Eared owl</cref>, under <er>Eared</er>.</cd> -- <col>Horned poppy</col>. <fld>(Bot.)</fld> <cd>See <cref>Horn poppy</cref>, under <er>Horn</er>.</cd> -- <col>Horned pout</col> <fld>(Zool.)</fld>, <cd>an American fresh-water siluroid fish; the bullpout.</cd> -- <col>Horned rattler</col> <fld>(Zool.)</fld>, <cd>a species of rattlesnake (<spn>Crotalus cerastes</spn>), inhabiting the dry, sandy plains, from California to Mexico. It has a pair of triangular horns between the eyes; -- called also <altname>sidewinder</altname>.</cd> -- <col>Horned ray</col> <fld>(Zool.)</fld>, <cd>the sea devil.</cd> -- <col>Horned screamer</col> <fld>(Zool.)</fld>, <cd>the kamichi.</cd> -- <col>Horned snake</col> <fld>(Zool.)</fld>, <cd>the cerastes.</cd> -- <col>Horned toad</col> <fld>(Zool.)</fld>, <cd>any lizard of the genus <gen>Phrynosoma</gen>, of which nine or ten species are known. These lizards have several hornlike spines on the head, and a broad, flat body, covered with spiny scales. They inhabit the dry, sandy plains from California to Mexico and Texas. Called also <altname>horned lizard</altname>.</cd> -- <col>Horned viper</col>. <fld>(Zool.)</fld> <cd>See <er>Cerastes</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornedness</ent><br/
@@ -22702,7 +22702,7 @@ Within the nether tip.</q> <rj><qau>Coleridge.</qau></rj><br/
 <hw>Hor"net</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>hyrnet</ets>; akin to OHG. <ets>hornaz</ets>, <ets>hornuz</ets>, G. <ets>horniss</ets>; perh. akin to E. <ets>horn</ets>, and named from the sound it makes as if blowing the horn; but more prob. akin to D. <ets>horzel</ets>, Lith. <ets>szirszone</ets>, L. <ets>crabo</ets>.]</ety> <fld>(Zool.)</fld> <def>A large, strong wasp.  The European species (<spn>Vespa crabro</spn>) is of a dark brown and yellow color. It is very pugnacious, and its sting is very severe.  Its nest is constructed of a paperlike material, and the layers of comb are hung together by columns.  The American white-faced hornet (<spn>Vespa maculata</spn>) is larger and has similar habits.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hornet fly</b></col> <fld>(Zool.)</fld>, <cd>any dipterous insect of the genus <gen>Asilus</gen>, and allied genera, of which there are numerous species. They are large and fierce flies which capture bees and other insects, often larger than themselves, and suck their blood. Called also <altname>hawk fly</altname>, <altname>robber fly</altname>.</cd> -- <col><b>To stir up a hornet's nest</b></col>, <cd>to provoke the attack of a swarm of spiteful enemies or spirited critics.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>Hornet fly</col> <fld>(Zool.)</fld>, <cd>any dipterous insect of the genus <gen>Asilus</gen>, and allied genera, of which there are numerous species. They are large and fierce flies which capture bees and other insects, often larger than themselves, and suck their blood. Called also <altname>hawk fly</altname>, <altname>robber fly</altname>.</cd> -- <col>To stir up a hornet's nest</col>, <cd>to provoke the attack of a swarm of spiteful enemies or spirited critics.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornfish</ent><br/
@@ -22721,7 +22721,7 @@ Within the nether tip.</q> <rj><qau>Coleridge.</qau></rj><br/
 <hw>Horn"ing</hw>, <pos>n.</pos> <def>Appearance of the moon when increasing, or in the form of a crescent.</def>  <rj><au>J. Gregory.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Letters of horning</b></col> <fld>(Scots Law)</fld>, <cd>the process or authority by which a person, directed by the decree of a court of justice to pay or perform anything, is ordered to comply therewith.</cd>  <rj><au>Mozley & W.</au></rj></cs><br/
+<p><cs><col>Letters of horning</col> <fld>(Scots Law)</fld>, <cd>the process or authority by which a person, directed by the decree of a court of justice to pay or perform anything, is ordered to comply therewith.</cd>  <rj><au>Mozley & W.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hornish</ent><br/
@@ -23009,7 +23009,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Breathes a browner <qex>horror</qex> on the woods.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The horrors</b></col>, <cd>delirium tremens.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>The horrors</col>, <cd>delirium tremens.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 707 --></p>
@@ -23080,7 +23080,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <xex>Horse</xex> is much used adjectively and in composition to signify <xex>of</xex>, or <xex>having to do with</xex>, <xex>a horse</xex> or <xex>horses</xex>, <xex>like a horse</xex>, etc.; as, <xex>horse</xex> collar, <xex>horse</xex> dealer or <xex>horse</xex><?/dealer, <xex>horse</xex>hoe, <xex>horse</xex> jockey; and hence, often in the sense of <xex>strong</xex>, <xex>loud</xex>, <xex>coarse</xex>, etc.; as, <xex>horse</xex>laugh, <xex>horse</xex> nettle or <xex>horse</xex>-nettle, <xex>horse</xex>play, <xex>horse</xex> ant, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Black horse</b></col>, <col><b>Blood horse</b></col></mcol>, <cd>etc. See under <er>Black</er>, etc.</cd> -- <col><b>Horse aloes</b></col>, <cd>caballine aloes.</cd> -- <col><b>Horse ant</b></col> <fld>(Zool.)</fld>, <cd>a large ant (<spn>Formica rufa</spn>); -- called also <altname>horse emmet</altname>.</cd> -- <col><b>Horse artillery</b></col>, <cd>that portion of the artillery in which the cannoneers are mounted, and which usually serves with the cavalry; flying artillery.</cd> -- <col><b>Horse balm</b></col> <fld>(Bot.)</fld>, <cd>a strong-scented labiate plant (<spn>Collinsonia Canadensis</spn>), having large leaves and yellowish flowers.</cd> -- <col><b>Horse bean</b></col> <fld>(Bot.)</fld>, <cd>a variety of the English or Windsor bean (<spn>Faba vulgaris</spn>), grown for feeding horses.</cd> -- <col><b>Horse boat</b></col>, <cd>a boat for conveying horses and cattle, or a boat propelled by horses.</cd> -- <col><b>Horse bot</b></col>. <fld>(Zool.)</fld> <cd>See <er>Botfly</er>, and <er>Bots</er>.</cd> -- <col><b>Horse box</b></col>, <cd>a railroad car for transporting valuable horses, as hunters.</cd> <mark>[Eng.]</mark> -- <mcol><col><b>Horse breaker</b></col> <it>or</it> <col><b>Horse trainer</b></col></mcol>, <cd>one employed in subduing or training horses for use.</cd> -- <col><b>Horse car</b></col>. <sd>(a)</sd> <cd>A railroad car drawn by horses. See under <er>Car</er>.</cd> <sd>(b)</sd> <cd>A car fitted for transporting horses.</cd> -- <col><b>Horse cassia</b></col> <fld>(Bot.)</fld>, <cd>a leguminous plant (<spn>Cassia Javanica</spn>), bearing long pods, which contain a black, catharic pulp, much used in the East Indies as a horse medicine.</cd> -- <col><b>Horse cloth</b></col>, <cd>a cloth to cover a horse.</cd> -- <col><b>Horse conch</b></col> <fld>(Zool.)</fld>, <cd>a large, spiral, marine shell of the genus Triton. See <er>Triton</er>.</cd> -- <col><b>Horse courser</b></col>. <sd>(a)</sd> <cd>One that runs horses, or keeps horses for racing.</cd> <au>Johnson.</au> <sd>(b)</sd> <cd>A dealer in horses.</cd> <mark>[Obs.]</mark> <au>Wiseman.</au> -- <col><b>Horse crab</b></col> <fld>(Zool.)</fld>, <cd>the Limulus; -- called also <altname>horsefoot</altname>, <altname>horsehoe crab</altname>, and <altname>king crab</altname>.</cd> -- <col><b>Horse crevall<eacute/</b></col> <fld>(Zool.)</fld>, <cd>the cavally.</cd><-- a type of fish --> -- <col><b>Horse emmet</b></col> <fld>(Zool.)</fld>, <cd>the horse ant.</cd> -- <col><b>Horse finch</b></col> <fld>(Zool.)</fld>, <cd>the chaffinch.</cd> <mark>[Prov. Eng.]</mark> -- <col><b>Horse gentian</b></col> <fld>(Bot.)</fld>, <cd>fever root.</cd> -- <col><b>Horse iron</b></col> <fld>(Naut.)</fld>, <cd>a large calking iron.</cd> -- <col><b>Horse latitudes</b></col>, <cd>a space in the North Atlantic famous for calms and baffling winds, being between the westerly winds of higher latitudes and the trade winds.</cd> <au>Ham. Nav. Encyc.</au> -- <col><b>Horse mackrel</b></col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common tunny (<spn>Orcynus thunnus</spn>), found on the Atlantic coast of Europe and America, and in the Mediterranean.</cd> <sd>(b)</sd> <cd>The bluefish (<spn>Pomatomus saltatrix</spn>).</cd> <sd>(c)</sd> <cd>The scad.</cd> <sd>(d)</sd> <cd>The name is locally applied to various other fishes, as the California hake, the black candlefish, the jurel, the bluefish, etc.</cd> -- <col><b>Horse marine</b></col> <fld>(Naut.)</fld>, <cd>an awkward, lubbery person; one of a mythical body of marine cavalry.</cd> <mark>[Slang]</mark> -- <col><b>Horse mussel</b></col> <fld>(Zool.)</fld>, <cd>a large, marine mussel (<spn>Modiola modiolus</spn>), found on the northern shores of Europe and America.</cd> -- <col><b>Horse nettle</b></col> <fld>(Bot.)</fld>, <cd>a coarse, prickly, American herb, the <spn>Solanum Carolinense</spn>.</cd> -- <col><b>Horse parsley</b></col>. <fld>(Bot.)</fld> <cd>See <er>Alexanders</er>.</cd> -- <col><b>Horse purslain</b></col> <fld>(Bot.)</fld>, <cd>a coarse fleshy weed of tropical America (<spn>Trianthema monogymnum</spn>).</cd> -- <col><b>Horse race</b></col>, <cd>a race by horses; a match of horses in running or trotting.</cd> -- <col><b>Horse racing</b></col>, <cd>the practice of racing with horses.</cd> -- <col><b>Horse railroad</b></col>, <cd>a railroad on which the cars are drawn by horses; -- in England, and sometimes in the United States, called a <altname>tramway</altname>.</cd> -- <col><b>Horse run</b></col> <fld>(Civil Engin.)</fld>, <cd>a device for drawing loaded wheelbarrows up an inclined plane by horse power.</cd> -- <col><b>Horse sense</b></col>, <cd>strong common sense.</cd> <mark>[Colloq. U.S.]</mark> -- <col><b>Horse soldier</b></col>, <cd>a cavalryman.</cd> -- <col><b>Horse sponge</b></col> <fld>(Zool.)</fld>, <cd>a large, coarse, commercial sponge (<spn>Spongia equina</spn>).</cd> -- <col><b>Horse stinger</b></col> <fld>(Zool.)</fld>, a large dragon fly. <mark>[Prov. Eng.]</mark> -- <col><b>Horse sugar</b></col> <fld>(Bot.)</fld>, <cd>a shrub of the southern part of the United States (<spn>Symplocos tinctoria</spn>), whose leaves are sweet, and good for fodder.</cd> -- <col><b>Horse tick</b></col> <fld>(Zool.)</fld>, <cd>a winged, dipterous insect (<spn>Hippobosca equina</spn>), which troubles horses by biting them, and sucking their blood; -- called also <altname>horsefly</altname>, <altname>horse louse</altname>, and <altname>forest fly</altname>.</cd> -- <col><b>Horse vetch</b></col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Hippocrepis</gen> (<spn>Hippocrepis comosa</spn>), cultivated for the beauty of its flowers; -- called also <altname>horsehoe vetch</altname>, from the peculiar shape of its pods.</cd> -- <col><b>Iron horse</b></col>, <cd>a locomotive.</cd> <mark>[Colloq.]</mark> -- <col><b>Salt horse</b></col>, <cd>the sailor's name for salt beef.</cd> -- <col><b>To look a gift horse in the mouth</b></col>, <cd>to examine the mouth of a horse which has been received as a gift, in order to ascertain his age; -- hence, to accept favors in a critical and thankless spirit.</cd> <au>Lowell.</au> -- <col><b>To take horse</b></col>. <sd>(a)</sd> <cd>To set out on horseback.</cd> <au>Macaulay.</au> <sd>(b)</sd> <cd>To be covered, as a mare.</cd> <sd>(c)</sd> <cd>See definition 7 (above).</cd></cs><br/
+<p><cs><mcol><col>Black horse</col>, <col>Blood horse</col></mcol>, <cd>etc. See under <er>Black</er>, etc.</cd> -- <col>Horse aloes</col>, <cd>caballine aloes.</cd> -- <col>Horse ant</col> <fld>(Zool.)</fld>, <cd>a large ant (<spn>Formica rufa</spn>); -- called also <altname>horse emmet</altname>.</cd> -- <col>Horse artillery</col>, <cd>that portion of the artillery in which the cannoneers are mounted, and which usually serves with the cavalry; flying artillery.</cd> -- <col>Horse balm</col> <fld>(Bot.)</fld>, <cd>a strong-scented labiate plant (<spn>Collinsonia Canadensis</spn>), having large leaves and yellowish flowers.</cd> -- <col>Horse bean</col> <fld>(Bot.)</fld>, <cd>a variety of the English or Windsor bean (<spn>Faba vulgaris</spn>), grown for feeding horses.</cd> -- <col>Horse boat</col>, <cd>a boat for conveying horses and cattle, or a boat propelled by horses.</cd> -- <col>Horse bot</col>. <fld>(Zool.)</fld> <cd>See <er>Botfly</er>, and <er>Bots</er>.</cd> -- <col>Horse box</col>, <cd>a railroad car for transporting valuable horses, as hunters.</cd> <mark>[Eng.]</mark> -- <mcol><col>Horse breaker</col> <it>or</it> <col>Horse trainer</col></mcol>, <cd>one employed in subduing or training horses for use.</cd> -- <col>Horse car</col>. <sd>(a)</sd> <cd>A railroad car drawn by horses. See under <er>Car</er>.</cd> <sd>(b)</sd> <cd>A car fitted for transporting horses.</cd> -- <col>Horse cassia</col> <fld>(Bot.)</fld>, <cd>a leguminous plant (<spn>Cassia Javanica</spn>), bearing long pods, which contain a black, catharic pulp, much used in the East Indies as a horse medicine.</cd> -- <col>Horse cloth</col>, <cd>a cloth to cover a horse.</cd> -- <col>Horse conch</col> <fld>(Zool.)</fld>, <cd>a large, spiral, marine shell of the genus Triton. See <er>Triton</er>.</cd> -- <col>Horse courser</col>. <sd>(a)</sd> <cd>One that runs horses, or keeps horses for racing.</cd> <au>Johnson.</au> <sd>(b)</sd> <cd>A dealer in horses.</cd> <mark>[Obs.]</mark> <au>Wiseman.</au> -- <col>Horse crab</col> <fld>(Zool.)</fld>, <cd>the Limulus; -- called also <altname>horsefoot</altname>, <altname>horsehoe crab</altname>, and <altname>king crab</altname>.</cd> -- <col>Horse crevall<eacute/</col> <fld>(Zool.)</fld>, <cd>the cavally.</cd><-- a type of fish --> -- <col>Horse emmet</col> <fld>(Zool.)</fld>, <cd>the horse ant.</cd> -- <col>Horse finch</col> <fld>(Zool.)</fld>, <cd>the chaffinch.</cd> <mark>[Prov. Eng.]</mark> -- <col>Horse gentian</col> <fld>(Bot.)</fld>, <cd>fever root.</cd> -- <col>Horse iron</col> <fld>(Naut.)</fld>, <cd>a large calking iron.</cd> -- <col>Horse latitudes</col>, <cd>a space in the North Atlantic famous for calms and baffling winds, being between the westerly winds of higher latitudes and the trade winds.</cd> <au>Ham. Nav. Encyc.</au> -- <col>Horse mackrel</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The common tunny (<spn>Orcynus thunnus</spn>), found on the Atlantic coast of Europe and America, and in the Mediterranean.</cd> <sd>(b)</sd> <cd>The bluefish (<spn>Pomatomus saltatrix</spn>).</cd> <sd>(c)</sd> <cd>The scad.</cd> <sd>(d)</sd> <cd>The name is locally applied to various other fishes, as the California hake, the black candlefish, the jurel, the bluefish, etc.</cd> -- <col>Horse marine</col> <fld>(Naut.)</fld>, <cd>an awkward, lubbery person; one of a mythical body of marine cavalry.</cd> <mark>[Slang]</mark> -- <col>Horse mussel</col> <fld>(Zool.)</fld>, <cd>a large, marine mussel (<spn>Modiola modiolus</spn>), found on the northern shores of Europe and America.</cd> -- <col>Horse nettle</col> <fld>(Bot.)</fld>, <cd>a coarse, prickly, American herb, the <spn>Solanum Carolinense</spn>.</cd> -- <col>Horse parsley</col>. <fld>(Bot.)</fld> <cd>See <er>Alexanders</er>.</cd> -- <col>Horse purslain</col> <fld>(Bot.)</fld>, <cd>a coarse fleshy weed of tropical America (<spn>Trianthema monogymnum</spn>).</cd> -- <col>Horse race</col>, <cd>a race by horses; a match of horses in running or trotting.</cd> -- <col>Horse racing</col>, <cd>the practice of racing with horses.</cd> -- <col>Horse railroad</col>, <cd>a railroad on which the cars are drawn by horses; -- in England, and sometimes in the United States, called a <altname>tramway</altname>.</cd> -- <col>Horse run</col> <fld>(Civil Engin.)</fld>, <cd>a device for drawing loaded wheelbarrows up an inclined plane by horse power.</cd> -- <col>Horse sense</col>, <cd>strong common sense.</cd> <mark>[Colloq. U.S.]</mark> -- <col>Horse soldier</col>, <cd>a cavalryman.</cd> -- <col>Horse sponge</col> <fld>(Zool.)</fld>, <cd>a large, coarse, commercial sponge (<spn>Spongia equina</spn>).</cd> -- <col>Horse stinger</col> <fld>(Zool.)</fld>, a large dragon fly. <mark>[Prov. Eng.]</mark> -- <col>Horse sugar</col> <fld>(Bot.)</fld>, <cd>a shrub of the southern part of the United States (<spn>Symplocos tinctoria</spn>), whose leaves are sweet, and good for fodder.</cd> -- <col>Horse tick</col> <fld>(Zool.)</fld>, <cd>a winged, dipterous insect (<spn>Hippobosca equina</spn>), which troubles horses by biting them, and sucking their blood; -- called also <altname>horsefly</altname>, <altname>horse louse</altname>, and <altname>forest fly</altname>.</cd> -- <col>Horse vetch</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Hippocrepis</gen> (<spn>Hippocrepis comosa</spn>), cultivated for the beauty of its flowers; -- called also <altname>horsehoe vetch</altname>, from the peculiar shape of its pods.</cd> -- <col>Iron horse</col>, <cd>a locomotive.</cd> <mark>[Colloq.]</mark> -- <col>Salt horse</col>, <cd>the sailor's name for salt beef.</cd> -- <col>To look a gift horse in the mouth</col>, <cd>to examine the mouth of a horse which has been received as a gift, in order to ascertain his age; -- hence, to accept favors in a critical and thankless spirit.</cd> <au>Lowell.</au> -- <col>To take horse</col>. <sd>(a)</sd> <cd>To set out on horseback.</cd> <au>Macaulay.</au> <sd>(b)</sd> <cd>To be covered, as a mare.</cd> <sd>(c)</sd> <cd>See definition 7 (above).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horse</ent><br/
@@ -23110,7 +23110,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>An extended ridge of sand, gravel, and boulders, in a half-stratified condition.</def>  <rj><au>Agassiz.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>On horseback</b></col>, <cd>on the back of a horse; mounted or riding on a horse or horses; in the saddle.</cd><br/
+<p><cs><col>On horseback</col>, <cd>on the back of a horse; mounted or riding on a horse or horses; in the saddle.</cd><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The long journey was to be performed <qex>on horseback</qex>.</q> <rj><qau>Prescott.</qau></rj></cs><br/
@@ -23172,7 +23172,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Horses, generally; the qualities of a horse; <as>as, he is a judge of <ex>horseflesh</ex></as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horseflesh ore</b></col> <fld>(Min.)</fld>, <cd>a miner's name for bornite, in allusion to its peculiar reddish color on fresh facture.</cd></cs><br/
+<p><cs><col>Horseflesh ore</col> <fld>(Min.)</fld>, <cd>a miner's name for bornite, in allusion to its peculiar reddish color on fresh facture.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horsefly</ent><br/
@@ -23196,14 +23196,14 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Horse" Guards`</hw> <pr>(h<ocir/rs"g<aum/rdz`)</pr>. <fld>(Mil.)</fld> <def>A body of cavalry so called; esp., a British regiment, called the Royal Horse Guards, which furnishes guards of state for the sovereign.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>The Horse Guards</b></col>, <cd>a name given to the former headquarters of the commander in chief of the British army, at Whitehall in London.</cd></cs><br/
+<p><cs><col>The Horse Guards</col>, <cd>a name given to the former headquarters of the commander in chief of the British army, at Whitehall in London.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horsehair</ent><br/
 <hw>Horse"hair`</hw> <pr>(h<ocir/rs"h<acir/r`)</pr>, <pos>n.</pos> <def>A hair of a horse, especially one from the mane or tail; the hairs of the mane or tail taken collectively;</def> <specif>Specifically:</specif> <def>a black shiny fabric made of such hairs, used commonly in the 1800's as a covering for stuffed furniture such as chairs and couches.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Horsehair worm</b></col> <fld>(Zool.)</fld>, <cd>the hair worm or gordius.</cd></cs><br/
+<p><cs><col>Horsehair worm</col> <fld>(Zool.)</fld>, <cd>the hair worm or gordius.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horsehead</ent><br/
@@ -23303,7 +23303,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ The power of a draught horse, of average strength, working eight hours per day, is about four fifths of a standard <xex>horse power</xex>.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Brake horse power</b></col>, <cd>the net effective power of a prime mover, as a steam engine, water wheel, etc., in horse powers, as shown by a friction brake. See <cref>Friction brake</cref>, under <er>Friction</er>.</cd> -- <col><b>Indicated horse power</b></col>, <cd>the power exerted in the cylinder of an engine, stated in horse powers, estimated from the diameter and speed of the piston, and the mean effective pressure upon it as shown by an indicator. See <er>Indicator</er>.</cd> -- <col><b>Nominal horse power</b></col> <fld>(Steam Engine)</fld>, <cd>a term still sometimes used in England to express certain proportions of cylinder, but having no value as a standard of measurement.</cd></cs><br/
+<p><cs><col>Brake horse power</col>, <cd>the net effective power of a prime mover, as a steam engine, water wheel, etc., in horse powers, as shown by a friction brake. See <cref>Friction brake</cref>, under <er>Friction</er>.</cd> -- <col>Indicated horse power</col>, <cd>the power exerted in the cylinder of an engine, stated in horse powers, estimated from the diameter and speed of the piston, and the mean effective pressure upon it as shown by an indicator. See <er>Indicator</er>.</cd> -- <col>Nominal horse power</col> <fld>(Steam Engine)</fld>, <cd>a term still sometimes used in England to express certain proportions of cylinder, but having no value as a standard of measurement.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>A machine worked by a horse, for driving other machinery; a horse motor.</def><br/
@@ -23313,7 +23313,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Horse"-rad`ish</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A plant of the genus <gen>Nasturtium</gen> (<spn>Nasturtium Armoracia</spn>), allied to scurvy grass, having a root of a pungent taste, much used, when grated, as a condiment and in medicine.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Horse-radish tree</b></col>. <fld>(Bot.)</fld> <cd>See <er>Moringa</er>.</cd></cs><br/
+<p><cs><col>Horse-radish tree</col>. <fld>(Bot.)</fld> <cd>See <er>Moringa</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horserake</ent><br/
@@ -23343,7 +23343,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <pluf>pl.</pluf> <def>A game in which horseshoes or horseshoe-shaped objects (usually made of metal) are thrown at either of two stakes fixed in the ground at a distance of 30 to 40 feet apart.  The player stands at or near one stake and throws several the horseshoes at the other stake.  Points are scored when the player throws the horseshoe so that it surrounds the stake; fewer points are scored if the horseshoe is close to but not surrounding the stake.  The players take turns and the first player to achieve the target score wins; <as>as, <ldquo/almost<rdquo/ only counts with hand grenades or in <ex>horseshoes</ex></as>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Horsehoe head</b></col> <fld>(Med.)</fld>, <cd>an old name for the condition of the skull in children, in which the sutures are too open, the coronal suture presenting the form of a horsehoe.</cd> <au>Dunglison.</au> -- <col><b>Horsehoe magnet</b></col>, <cd>an artificial magnet in the form of a horsehoe.</cd> -- <col><b>Horsehoe nail</b></col>. <cd>See <er>Horsenail</er>.</cd> -- <col><b>Horsehoe nose</b></col> <fld>(Zool.)</fld>, <cd>a bat of the genus <gen>Rhinolophus</gen>, having a nasal fold of skin shaped like a horsehoe.</cd></cs><br/
+<p><cs><col>Horsehoe head</col> <fld>(Med.)</fld>, <cd>an old name for the condition of the skull in children, in which the sutures are too open, the coronal suture presenting the form of a horsehoe.</cd> <au>Dunglison.</au> -- <col>Horsehoe magnet</col>, <cd>an artificial magnet in the form of a horsehoe.</cd> -- <col>Horsehoe nail</col>. <cd>See <er>Horsenail</er>.</cd> -- <col>Horsehoe nose</col> <fld>(Zool.)</fld>, <cd>a bat of the genus <gen>Rhinolophus</gen>, having a nasal fold of skin shaped like a horsehoe.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Horseshoeing</ent><br/
@@ -23364,7 +23364,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ Commanders are distinguished by the number of <xex>horsetails</xex> carried before them. Thus, the sultan has seven, the grand vizier five, and the pashas three, two, or one.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Shrubby horsetail</b></col>. <fld>(Bot.)</fld> <cd>See <er>Joint-fir</er>.</cd></cs><br/
+<p><cs><col>Shrubby horsetail</col>. <fld>(Bot.)</fld> <cd>See <er>Joint-fir</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>horse-trade</ent><br/
@@ -23492,7 +23492,7 @@ For his shrunk shank.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>A flexible pipe, made of leather, India rubber, or other material, and used for conveying fluids, especially water, from a faucet, hydrant, or fire engine.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hose carriage</b></col>, <col><b>Hose cart</b></col>, <it>or</it> <col><b>Hose truck</b></col></mcol>, <cd>a wheeled vehicle fitted for conveying hose for extinguishing fires.</cd> -- <col><b>Hose company</b></col>, <cd>a company of men appointed to bring and manage hose in the extinguishing of fires.</cd> <mark>[U.S.]</mark> -- <col><b>Hose coupling</b></col>, <cd>coupling with interlocking parts for uniting hose, end to end.</cd> -- <col><b>Hose wrench</b></col>, <cd>a spanner for turning hose couplings, to unite or disconnect them.</cd></cs><br/
+<p><cs><mcol><col>Hose carriage</col>, <col>Hose cart</col>, <it>or</it> <col>Hose truck</col></mcol>, <cd>a wheeled vehicle fitted for conveying hose for extinguishing fires.</cd> -- <col>Hose company</col>, <cd>a company of men appointed to bring and manage hose in the extinguishing of fires.</cd> <mark>[U.S.]</mark> -- <col>Hose coupling</col>, <cd>coupling with interlocking parts for uniting hose, end to end.</cd> -- <col>Hose wrench</col>, <cd>a spanner for turning hose couplings, to unite or disconnect them.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hosen</ent><br/
@@ -23549,7 +23549,7 @@ With <qex>hospitable</qex> ray.</q> <rj><qau>Goldsmith.</qau></rj><br/
 <p><sn>2.</sn> <def>A building in which the sick, injured, or infirm are received and treated; a public or private institution founded for reception and cure, or for the refuge, of persons diseased in body or mind, or disabled, infirm, or dependent, and in which they are treated either at their own expense, or more often by charity in whole or in part; a tent, building, or other place where the sick or wounded of an army cared for.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hospital ship</b></col>, <cd>a vessel fitted up for a floating hospital.</cd> -- <col><b>Hospital Sunday</b></col>, <cd>a Sunday set apart for simultaneous contribution in churches to hospitals; as, the London <xex>Hospital Sunday</xex>.</cd></cs><br/
+<p><cs><col>Hospital ship</col>, <cd>a vessel fitted up for a floating hospital.</cd> -- <col>Hospital Sunday</col>, <cd>a Sunday set apart for simultaneous contribution in churches to hospitals; as, the London <xex>Hospital Sunday</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hospital</ent><br/
@@ -23828,7 +23828,7 @@ And we shall talk before we fight.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>4.</sn> <def>Acrid; biting; pungent; <as>as, <ex>hot</ex> as mustard</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hot bed</b></col> <fld>(Iron Manuf.)</fld>, <cd>an iron platform in a rolling mill, on which hot bars, rails, etc., are laid to cool.</cd> -- <col><b>Hot wall</b></col> <fld>(Gardening)</fld>, <cd>a wall provided with flues for the conducting of heat, to hasten the growth of fruit trees or the ripening of fruit.</cd> -- <col><b>Hot well</b></col> <fld>(Condensing Engines)</fld>, <cd>a receptacle for the hot water drawn from the condenser by the air pump. This water is returned to the boiler, being drawn from the hot well by the feed pump.</cd> -- <col><b>In hot water</b></col> (<mark>Fig.</mark>), <cd>in trouble; in difficulties.</cd> <mark>[Colloq.]</mark></cs></p>
+<p><cs><col>Hot bed</col> <fld>(Iron Manuf.)</fld>, <cd>an iron platform in a rolling mill, on which hot bars, rails, etc., are laid to cool.</cd> -- <col>Hot wall</col> <fld>(Gardening)</fld>, <cd>a wall provided with flues for the conducting of heat, to hasten the growth of fruit trees or the ripening of fruit.</cd> -- <col>Hot well</col> <fld>(Condensing Engines)</fld>, <cd>a receptacle for the hot water drawn from the condenser by the air pump. This water is returned to the boiler, being drawn from the hot well by the feed pump.</cd> -- <col>In hot water</col> (<mark>Fig.</mark>), <cd>in trouble; in difficulties.</cd> <mark>[Colloq.]</mark></cs></p>
 
 <p><syn><b>Syn.</b> -- Burning; fiery; fervid; glowing; eager; animated; brisk; vehement; precipitate; violent; furious; ardent; fervent; impetuous; irascible; passionate; hasty; excitable.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -24045,7 +24045,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>2.</sn> <def>The language of the Hottentots, which is remarkable for its clicking sounds; the <altname>Khoisan</altname> language.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Hottentot cherry</b></col> <fld>(Bot.)</fld>, <cd>a South African plant of the genus <gen>Cassine</gen> (<spn>Cassine maurocenia</spn>), having handsome foliage, with generally inconspicuous white or green flowers.</cd> <au>Loudon.</au> -- <col><b>Hottentot's bread</b></col>. <fld>(Bot.)</fld> <cd>See <cref>Elephant's foot</cref> <sdr>(a)</sdr>, under <er>Elephant</er>.</cd></cs><br/
+<p><cs><col>Hottentot cherry</col> <fld>(Bot.)</fld>, <cd>a South African plant of the genus <gen>Cassine</gen> (<spn>Cassine maurocenia</spn>), having handsome foliage, with generally inconspicuous white or green flowers.</cd> <au>Loudon.</au> -- <col>Hottentot's bread</col>. <fld>(Bot.)</fld> <cd>See <cref>Elephant's foot</cref> <sdr>(a)</sdr>, under <er>Elephant</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hottentotism</ent><br/
@@ -24113,7 +24113,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><sn>5.</sn> <def>A side bar used to strengthen portions of the running gear of a vehicle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To follow the hounds</b></col>, <cd>to hunt with hounds.</cd></cs><br/
+<p><cs><col>To follow the hounds</col>, <cd>to hunt with hounds.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hound</ent><br/
@@ -24170,7 +24170,7 @@ Now hight I Philostrate, not worth a mite.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><q>Vilvoorden, three <qex>hours</qex> from Brussels.</q> <rj><qau>J. P. Peters.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>After hours</b></col>, <cd>after the time appointed for one's regular labor.</cd> -- <col><b>Canonical hours</b></col>. <cd>See under <er>Canonical</er>.</cd> -- <col><b>Hour angle</b></col> <fld>(Astron.)</fld>, <cd>the angle between the hour circle passing through a given body, and the meridian of a place.</cd> -- <col><b>Hour circle</b></col>. <fld>(Astron.)</fld> <sd>(a)</sd> <cd>Any circle of the sphere passing through the two poles of the equator; esp., one of the circles drawn on an artificial globe through the poles, and dividing the equator into spaces of 15<deg/, or one hour, each.</cd> <sd>(b)</sd> <cd>A circle upon an equatorial telescope lying parallel to the plane of the earth's equator, and graduated in hours and subdivisions of hours of right ascension.</cd> <sd>(c)</sd> <cd>A small brass circle attached to the north pole of an artificial globe, and divided into twenty-four parts or hours. It is used to mark differences of time in working problems on the globe.</cd> -- <col><b>Hour hand</b></col>, <cd>the hand or index which shows the hour on a timepiece.</cd> -- <col><b>Hour line</b></col>. <sd>(a)</sd> <fld>(Astron.)</fld> <cd>A line indicating the hour.</cd> <sd>(b)</sd> <fld>(Dialing)</fld> <cd>A line on which the shadow falls at a given hour; the intersection of an hour circle which the face of the dial.</cd> -- <col><b>Hour plate</b></col>, <cd>the plate of a timepiece on which the hours are marked; the dial.</cd> <au>Locke.</au> -- <col><b>Sidereal hour</b></col>, <cd>the twenty-fourth part of a sidereal day.</cd> -- <col><b>Solar hour</b></col>, <cd>the twenty-fourth part of a solar day.</cd> -- <col><b>The small hours</b></col>, <cd>the early hours of the morning, as one o'clock, two o'clock, etc.</cd><-- also "wee hours" --> -- <col><b>To keep good hours</b></col>, <cd>to be regular in going to bed early.</cd></cs><br/
+<p><cs><col>After hours</col>, <cd>after the time appointed for one's regular labor.</cd> -- <col>Canonical hours</col>. <cd>See under <er>Canonical</er>.</cd> -- <col>Hour angle</col> <fld>(Astron.)</fld>, <cd>the angle between the hour circle passing through a given body, and the meridian of a place.</cd> -- <col>Hour circle</col>. <fld>(Astron.)</fld> <sd>(a)</sd> <cd>Any circle of the sphere passing through the two poles of the equator; esp., one of the circles drawn on an artificial globe through the poles, and dividing the equator into spaces of 15<deg/, or one hour, each.</cd> <sd>(b)</sd> <cd>A circle upon an equatorial telescope lying parallel to the plane of the earth's equator, and graduated in hours and subdivisions of hours of right ascension.</cd> <sd>(c)</sd> <cd>A small brass circle attached to the north pole of an artificial globe, and divided into twenty-four parts or hours. It is used to mark differences of time in working problems on the globe.</cd> -- <col>Hour hand</col>, <cd>the hand or index which shows the hour on a timepiece.</cd> -- <col>Hour line</col>. <sd>(a)</sd> <fld>(Astron.)</fld> <cd>A line indicating the hour.</cd> <sd>(b)</sd> <fld>(Dialing)</fld> <cd>A line on which the shadow falls at a given hour; the intersection of an hour circle which the face of the dial.</cd> -- <col>Hour plate</col>, <cd>the plate of a timepiece on which the hours are marked; the dial.</cd> <au>Locke.</au> -- <col>Sidereal hour</col>, <cd>the twenty-fourth part of a sidereal day.</cd> -- <col>Solar hour</col>, <cd>the twenty-fourth part of a solar day.</cd> -- <col>The small hours</col>, <cd>the early hours of the morning, as one o'clock, two o'clock, etc.</cd><-- also "wee hours" --> -- <col>To keep good hours</col>, <cd>to be regular in going to bed early.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hourglass</ent><br/
@@ -24268,7 +24268,7 @@ Do C<ae/sar what he can.</q> <rj><qau>Shak.</qau></rj><br/
 <p><note><hand/ <xex>House</xex> is much used adjectively and as the first element of compounds. The sense is usually obvious; as, <xex>house</xex> cricket, <xex>house</xex>maid, <xex>house</xex> painter, <xex>house</xex>work.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>House ant</b></col> <fld>(Zool.)</fld>, <cd>a very small, yellowish brown ant (<spn>Myrmica molesta</spn>), which often infests houses, and sometimes becomes a great pest.</cd> -- <col><b>House of bishops</b></col> <fld>(Prot. Epis. Ch.)</fld>, <cd>one of the two bodies composing a general convertion, the other being House of Clerical and Lay Deputies.</cd> -- <col><b>House boat</b></col>, <cd>a covered boat used as a dwelling.</cd> -- <col><b>House of call</b></col>, <cd>a place, usually a public house, where journeymen connected with a particular trade assemble when out of work, ready for the <xex>call</xex> of employers.</cd> <mark>[Eng.]</mark><-- modern name? --> <au>Simonds.</au> -- <col><b>House car</b></col> <fld>(Railroad)</fld>, <cd>a freight car with inclosing sides and a roof; a box car.</cd> -- <col><b>House of correction</b></col>. <cd>See <er>Correction</er>.</cd> -- <col><b>House cricket</b></col> <fld>(Zool.)</fld>, <cd>a European cricket (<spn>Gryllus domesticus</spn>), which frequently lives in houses, between the bricks of chimneys and fireplaces. It is noted for the loud chirping or stridulation of the males.</cd> -- <col><b>House dog</b></col>, <cd>a dog kept in or about a dwelling house.</cd> -- <col><b>House finch</b></col> <fld>(Zool.)</fld>, <cd>the burion.</cd> -- <col><b>House flag</b></col>, <cd>a flag denoting the commercial house to which a merchant vessel belongs.</cd> -- <col><b>House fly</b></col> <fld>(Zool.)</fld>, <cd>a common fly (esp. <spn>Musca domestica</spn>), which infests houses both in Europe and America. Its larva is a maggot which lives in decaying substances or excrement, about sink drains, etc.</cd> -- <col><b>House of God</b></col>, <cd>a temple or church.</cd> -- <col><b>House of ill fame</b></col>. <cd>See <cref>Ill fame</cref> under <er>Ill</er>, <pos>a.</pos></cd> -- <col><b>House martin</b></col> <fld>(Zool.)</fld>, <cd>a common European swallow (<spn>Hirundo urbica</spn>). It has feathered feet, and builds its nests of mud against the walls of buildings. Called also <altname>house swallow</altname>, and <altname>window martin</altname>.</cd> -- <col><b>House mouse</b></col> <fld>(Zool.)</fld>, <cd>the common mouse (<spn>Mus musculus</spn>).</cd> -- <col><b>House physician</b></col>, <cd>the resident medical adviser of a hospital or other public institution.</cd> -- <col><b>House snake</b></col> <fld>(Zool.)</fld>, <cd>the milk snake.</cd> -- <col><b>House sparrow</b></col> <fld>(Zool.)</fld>, <cd>the common European sparrow (<spn>Passer domesticus</spn>). It has recently been introduced into America, where it has become very abundant, esp. in cities. Called also <altname>thatch sparrow</altname>.</cd> -- <col><b>House spider</b></col> <fld>(Zool.)</fld>, <cd>any spider which habitually lives in houses. Among the most common species are <spn>Theridium tepidariorum</spn> and <spn>Tegenaria domestica</spn>.</cd> -- <col><b>House surgeon</b></col>, <cd>the resident surgeon of a hospital.</cd> -- <col><b>House wren</b></col> <fld>(Zool.)</fld>, <cd>the common wren of the Eastern United States (<spn>Troglodytes a<eum/don</spn>). It is common about houses and in gardens, and is noted for its vivacity, and loud musical notes. See <er>Wren</er>.</cd> -- <col><b>Religious house</b></col>, <cd>a monastery or convent.</cd> -- <col><b>The White House</b></col>, <cd>the official residence of the President of the United States; -- hence, colloquially, the office of President.</cd><-- also, a parliament building in Moscow --> -- <col><b>To bring down the house</b></col>. <cd>See under <er>Bring</er>.</cd> -- <col><b>To keep house</b></col>, <cd>to maintain an independent domestic establishment.</cd> -- <col><b>To keep open house</b></col>, <cd>to entertain friends at all times.</cd></cs></p>
+<p><cs><col>House ant</col> <fld>(Zool.)</fld>, <cd>a very small, yellowish brown ant (<spn>Myrmica molesta</spn>), which often infests houses, and sometimes becomes a great pest.</cd> -- <col>House of bishops</col> <fld>(Prot. Epis. Ch.)</fld>, <cd>one of the two bodies composing a general convertion, the other being House of Clerical and Lay Deputies.</cd> -- <col>House boat</col>, <cd>a covered boat used as a dwelling.</cd> -- <col>House of call</col>, <cd>a place, usually a public house, where journeymen connected with a particular trade assemble when out of work, ready for the <xex>call</xex> of employers.</cd> <mark>[Eng.]</mark><-- modern name? --> <au>Simonds.</au> -- <col>House car</col> <fld>(Railroad)</fld>, <cd>a freight car with inclosing sides and a roof; a box car.</cd> -- <col>House of correction</col>. <cd>See <er>Correction</er>.</cd> -- <col>House cricket</col> <fld>(Zool.)</fld>, <cd>a European cricket (<spn>Gryllus domesticus</spn>), which frequently lives in houses, between the bricks of chimneys and fireplaces. It is noted for the loud chirping or stridulation of the males.</cd> -- <col>House dog</col>, <cd>a dog kept in or about a dwelling house.</cd> -- <col>House finch</col> <fld>(Zool.)</fld>, <cd>the burion.</cd> -- <col>House flag</col>, <cd>a flag denoting the commercial house to which a merchant vessel belongs.</cd> -- <col>House fly</col> <fld>(Zool.)</fld>, <cd>a common fly (esp. <spn>Musca domestica</spn>), which infests houses both in Europe and America. Its larva is a maggot which lives in decaying substances or excrement, about sink drains, etc.</cd> -- <col>House of God</col>, <cd>a temple or church.</cd> -- <col>House of ill fame</col>. <cd>See <cref>Ill fame</cref> under <er>Ill</er>, <pos>a.</pos></cd> -- <col>House martin</col> <fld>(Zool.)</fld>, <cd>a common European swallow (<spn>Hirundo urbica</spn>). It has feathered feet, and builds its nests of mud against the walls of buildings. Called also <altname>house swallow</altname>, and <altname>window martin</altname>.</cd> -- <col>House mouse</col> <fld>(Zool.)</fld>, <cd>the common mouse (<spn>Mus musculus</spn>).</cd> -- <col>House physician</col>, <cd>the resident medical adviser of a hospital or other public institution.</cd> -- <col>House snake</col> <fld>(Zool.)</fld>, <cd>the milk snake.</cd> -- <col>House sparrow</col> <fld>(Zool.)</fld>, <cd>the common European sparrow (<spn>Passer domesticus</spn>). It has recently been introduced into America, where it has become very abundant, esp. in cities. Called also <altname>thatch sparrow</altname>.</cd> -- <col>House spider</col> <fld>(Zool.)</fld>, <cd>any spider which habitually lives in houses. Among the most common species are <spn>Theridium tepidariorum</spn> and <spn>Tegenaria domestica</spn>.</cd> -- <col>House surgeon</col>, <cd>the resident surgeon of a hospital.</cd> -- <col>House wren</col> <fld>(Zool.)</fld>, <cd>the common wren of the Eastern United States (<spn>Troglodytes a<eum/don</spn>). It is common about houses and in gardens, and is noted for its vivacity, and loud musical notes. See <er>Wren</er>.</cd> -- <col>Religious house</col>, <cd>a monastery or convent.</cd> -- <col>The White House</col>, <cd>the official residence of the President of the United States; -- hence, colloquially, the office of President.</cd><-- also, a parliament building in Moscow --> -- <col>To bring down the house</col>. <cd>See under <er>Bring</er>.</cd> -- <col>To keep house</col>, <cd>to maintain an independent domestic establishment.</cd> -- <col>To keep open house</col>, <cd>to entertain friends at all times.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Dwelling; residence; abode. See <er>Tenement</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -24392,7 +24392,7 @@ His <qex>household</qex> twice a day to prayers.</q> <rj><qau>Swift.</qau></rj><
 <hw>House"hold`</hw>, <pos>a.</pos> <def>Belonging to the house and family; domestic; <as>as, <ex>household</ex> furniture; <ex>household</ex> affairs.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Household bread</b></col>, <cd>bread made in the house for common use; hence, bread that is not of the finest quality.</cd> <mark>[Obs.]</mark> -- <col><b>Household gods</b></col> <fld>(Rom. Antiq.)</fld>, <cd>the gods presiding over the house and family; the <xex>Lares</xex> and <xex>Penates</xex>; hence, all objects endeared by association with home.</cd> -- <col><b>Household troops</b></col>, <cd>troops appointed to attend and guard the sovereign or his residence.</cd></cs><br/
+<p><cs><col>Household bread</col>, <cd>bread made in the house for common use; hence, bread that is not of the finest quality.</cd> <mark>[Obs.]</mark> -- <col>Household gods</col> <fld>(Rom. Antiq.)</fld>, <cd>the gods presiding over the house and family; the <xex>Lares</xex> and <xex>Penates</xex>; hence, all objects endeared by association with home.</cd> -- <col>Household troops</col>, <cd>troops appointed to attend and guard the sovereign or his residence.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Householder</ent><br/
@@ -24402,7 +24402,7 @@ His <qex>household</qex> twice a day to prayers.</q> <rj><qau>Swift.</qau></rj><
 <p><q>Towns in which almost every <qex>householder</qex> was an English Protestant.</q> <rj><qau>Macaulay.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Compound householder</b></col>. <cd>See <er>Compound</er>, <pos>a.</pos></cd></cs><br/
+<p><cs><col>Compound householder</col>. <cd>See <er>Compound</er>, <pos>a.</pos></cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 710 --></p>
@@ -24482,7 +24482,7 @@ Small <qex>housekeeping</qex> enough, said Ph<oe/be.</q> <rj><qau>Sir W. Scott.<
 <hw>House"maid`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A female servant employed to do housework, esp. to take care of the rooms.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Housemaid's knee</b></col> <fld>(Med.)</fld>, <cd>a swelling over the knee, due to an enlargement of the bursa in the front of the kneepan; -- so called because frequently occurring in servant girls who work upon their knees.</cd></cs><br/
+<p><cs><col>Housemaid's knee</col> <fld>(Med.)</fld>, <cd>a swelling over the knee, due to an enlargement of the bursa in the front of the kneepan; -- so called because frequently occurring in servant girls who work upon their knees.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>houseman</ent><br/
@@ -24550,7 +24550,7 @@ Small <qex>housekeeping</qex> enough, said Ph<oe/be.</q> <rj><qau>Sir W. Scott.<
 <p><sn>3.</sn> <def>A hussy.</def> <mark>[R.]</mark> <altsp>[Usually written <asp>huswife</asp>.]</altsp>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Sailor's housewife</b></col>, <cd>a ditty-bag.</cd></cs></p>
+<p><cs><col>Sailor's housewife</col>, <cd>a ditty-bag.</cd></cs></p>
 
 <p><ent>Housewive</ent><br/
 <ent>Housewife</ent><br/
@@ -24639,7 +24639,7 @@ Small <qex>housekeeping</qex> enough, said Ph<oe/be.</q> <rj><qau>Sir W. Scott.<
 <hw>Hove</hw> <pr>(?)</pr>, <def><pos>imp. & p. p.</pos> of <er>Heave</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hove short</b></col>, <col><b>Hove to</b></col></mcol>. <cd>See <cref>To heave a cable short</cref>, <cref>To heave a ship to</cref>, etc., under <er>Heave</er>.</cd></cs><br/
+<p><cs><mcol><col>Hove short</col>, <col>Hove to</col></mcol>. <cd>See <cref>To heave a cable short</cref>, <cref>To heave a ship to</cref>, etc., under <er>Heave</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hove</ent><br/
@@ -24871,7 +24871,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <p><q>Wild <qex>howled</qex> the wind.</q> <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Howling monkey</b></col>. <fld>(Zool.)</fld> <cd>See <er>Howler</er>, <snr>2</snr>.</cd> -- <col><b>Howling wilderness</b></col>, <cd>a wild, desolate place inhabited only by wild beasts.</cd> <au>Deut. xxxii. 10.</au></cs><br/
+<p><cs><col>Howling monkey</col>. <fld>(Zool.)</fld> <cd>See <er>Howler</er>, <snr>2</snr>.</cd> -- <col>Howling wilderness</col>, <cd>a wild, desolate place inhabited only by wild beasts.</cd> <au>Deut. xxxii. 10.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Howl</ent><br/
@@ -25028,13 +25028,13 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <p><sn>8.</sn> <def>The central location within which activities tend to concentrate, or from which activities radiate outward; a focus of activity.</def><br/
 [<source>PJC</source>]</p>
 
-<p><sn>9.</sn> <specif>Hence:</specif> <fld>(Aeronautics)</fld> <def>A large airport used as a central transfer station for an airline, permitting economic air transportation between remote locations by directing travellers through the hub, often changing planes at the hub, and thus keeping the seat occupancy rate on the airplanes high.  The <ex>hub</ex> together with the <ecol><b>feeder lines</b></ecol> from remote locations constitute the so-called <col><b>hub and spoke system</b></col> of commercial air passenger transportation.  A commercial airline may have more than one such <ex>hub</ex>.</def><br/
+<p><sn>9.</sn> <specif>Hence:</specif> <fld>(Aeronautics)</fld> <def>A large airport used as a central transfer station for an airline, permitting economic air transportation between remote locations by directing travellers through the hub, often changing planes at the hub, and thus keeping the seat occupancy rate on the airplanes high.  The <ex>hub</ex> together with the <ecol><b>feeder lines</b></ecol> from remote locations constitute the so-called <col>hub and spoke system</col> of commercial air passenger transportation.  A commercial airline may have more than one such <ex>hub</ex>.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>10.</sn> <def>The city of Boston, Massachusetts referred to locally by the nickname <altname>The Hub</altname>.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>Hub plank</b></col> <fld>(Highway Bridges)</fld>, <cd>a horizontal guard plank along a truss at the height of a wagon-wheel hub.</cd> -- <col><b>Up to the hub</b></col>, <cd>as far as possible in embarrassment or difficulty, or in business, like a wheel sunk in mire; deeply involved.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>Hub plank</col> <fld>(Highway Bridges)</fld>, <cd>a horizontal guard plank along a truss at the height of a wagon-wheel hub.</cd> -- <col>Up to the hub</col>, <cd>as far as possible in embarrassment or difficulty, or in business, like a wheel sunk in mire; deeply involved.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hubble-bubble</ent><br/
@@ -25086,7 +25086,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <p><sn>2.</sn> <def>A bunch or part projecting like the hip.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Huckle bone</b></col>. <sd>(a)</sd> <cd>The hip bone; the innominate bone.</cd> <sd>(b)</sd> <cd>A small bone of the ankle; astragalus.</cd> <mark>[R.]</mark>  <rj><au>Udall.</au></rj></cs><br/
+<p><cs><col>Huckle bone</col>. <sd>(a)</sd> <cd>The hip bone; the innominate bone.</cd> <sd>(b)</sd> <cd>A small bone of the ankle; astragalus.</cd> <mark>[R.]</mark>  <rj><au>Udall.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huckle-backed</ent><br/
@@ -25097,7 +25097,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 <hw>Huc"kle*ber`ry</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Whortleberry</er>.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The edible black or dark blue fruit of several species of the American genus <gen>Gaylussacia</gen>, shrubs nearly related to the blueberries (<gen>Vaccinium</gen>), and formerly confused with them.  The commonest huckelberry comes from <spn>Gaylussacia resinosa</spn>.</def> <sd>(b)</sd> <def>The shrub that bears the berries. Called also whortleberry.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Squaw huckleberry</b></col>. <cd>See <er>Deeberry</er>.</cd></cs><br/
+<p><cs><col>Squaw huckleberry</col>. <cd>See <er>Deeberry</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huckster</ent><br/
@@ -25200,7 +25200,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <hw>Hue</hw>, <pos>n.</pos> <ety>[OE. <ets>hue</ets>, <ets>huer</ets>, to hoot, shout, prob. fr. OF. <ets>hu</ets> an exclamation.]</ety> <def>A shouting or vociferation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hue and cry</b></col> <fld>(Law)</fld>, <cd>a loud outcry with which felons were anciently pursued, and which all who heard it were obliged to take up, joining in the pursuit till the malefactor was taken; in later usage, a written proclamation issued on the escape of a felon from prison, requiring all persons to aid in retaking him.</cd>  <rj><au>Burrill.</au></rj></cs><br/
+<p><cs><col>Hue and cry</col> <fld>(Law)</fld>, <cd>a loud outcry with which felons were anciently pursued, and which all who heard it were obliged to take up, joining in the pursuit till the malefactor was taken; in later usage, a written proclamation issued on the escape of a felon from prison, requiring all persons to aid in retaking him.</cd>  <rj><au>Burrill.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hued</ent><br/
@@ -25251,7 +25251,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <p><q>Lewd, shallow-brained <qex>huffs</qex> make atheism and contempt of religion the sole badge . . . of wit.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To take huff</b></col>, <cd>to take offence.</cd>  <rj><au>Cowper.</au></rj></cs><br/
+<p><cs><col>To take huff</col>, <cd>to take offence.</cd>  <rj><au>Cowper.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huffcap</ent><br/
@@ -25304,7 +25304,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Naut.)</fld> <def>To keep close to; <as>as, to <ex>hug</ex> the land; to <ex>hug</ex> the wind.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hug one's self</b></col>, <cd>to congratulate one's self; to chuckle.</cd></cs><br/
+<p><cs><col>To hug one's self</col>, <cd>to congratulate one's self; to chuckle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hug</ent><br/
@@ -25417,7 +25417,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <p><sn>3.</sn> <def>Anything bulky or unwieldly.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Shear hulk</b></col>, <cd>an old ship fitted with an apparatus to fix or take out the masts of a ship.</cd> -- <col><b>The hulks</b></col>, <cd>old or dismasted ships, formerly used as prisons.</cd> <mark>[Eng.]</mark> <au>Dickens.</au></cs><br/
+<p><cs><col>Shear hulk</col>, <cd>an old ship fitted with an apparatus to fix or take out the masts of a ship.</cd> -- <col>The hulks</col>, <cd>old or dismasted ships, formerly used as prisons.</cd> <mark>[Eng.]</mark> <au>Dickens.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hulk</ent><br/
@@ -25438,7 +25438,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <p><q>Deep in their <qex>hulls</qex> our deadly bullets light.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hull down</b></col>, <cd>said of a ship so distant that her hull is concealed by the convexity of the sea.</cd></cs><br/
+<p><cs><col>Hull down</col>, <cd>said of a ship so distant that her hull is concealed by the convexity of the sea.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hull</ent><br/
@@ -25460,7 +25460,7 @@ Their hoods, their cloaks, and get them gone.</q> <rj><qau>Swift.</qau></rj><br/
 <hw>Hulled</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Deprived of the hulls.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hulled corn</b></col>, <cd>kernels of maize prepared for food by removing the hulls.</cd></cs><br/
+<p><cs><col>Hulled corn</col>, <cd>kernels of maize prepared for food by removing the hulls.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huller</ent><br/
@@ -25553,7 +25553,7 @@ And <qex>hums</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <ety>[Perh. so called because strongly intoxicating.]</ety> <def>A kind of strong drink formerly used.</def> <mark>[Obs.]</mark>  <rj><au>Beau. & Fl.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Venous hum</b></col>. <cd>See under <er>Venous</er>.</cd></cs><br/
+<p><cs><col>Venous hum</col>. <cd>See under <er>Venous</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hum</ent><br/
@@ -25798,7 +25798,7 @@ The still, and music <qex>humanity</qex>.</q> <rj><qau>Wordsworth.</qau></rj><br
 <p><q>Without a <qex>humble</qex> imitation of the divine Author of our . . . religion we can never hope to be a happy nation.</q> <rj><qau>Washington.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Humble plant</b></col> <fld>(Bot.)</fld>, <cd>a species of sensitive plant, of the genus <gen>Mimosa</gen> (<spn>Mimosa sensitiva</spn>).</cd> -- <col><b>To eat humble pie</b></col>, <cd>to endure mortification; to submit or apologize abjectly; to yield passively to insult or humiliation; -- a phrase derived from a pie made of the entrails or <xex>humbles</xex> of a deer, which was formerly served to servants and retainers at a hunting feast. See <er>Humbles</er>.</cd> <au>Halliwell.</au> <au>Thackeray.</au></cs><br/
+<p><cs><col>Humble plant</col> <fld>(Bot.)</fld>, <cd>a species of sensitive plant, of the genus <gen>Mimosa</gen> (<spn>Mimosa sensitiva</spn>).</cd> -- <col>To eat humble pie</col>, <cd>to endure mortification; to submit or apologize abjectly; to yield passively to insult or humiliation; -- a phrase derived from a pie made of the entrails or <xex>humbles</xex> of a deer, which was formerly served to servants and retainers at a hunting feast. See <er>Humbles</er>.</cd> <au>Halliwell.</au> <au>Thackeray.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humble</ent><br/
@@ -25911,7 +25911,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hu"mer*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>humerus</ets> the shoulder: cf. F. <ets>hum<eacute/ral</ets>.]</ety> <fld>(Anat.)</fld> <def>Of or pertaining to the humerus, or upper part of the arm; brachial.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Humeral veil</b></col> <fld>(R. C. Ch.)</fld>, <cd>a long, narrow veil or scarf of the same material as the vestments, worn round the shoulders by the officiating priest or his attendant at Mass, and used to protect the sacred vessels from contact with the hands.</cd></cs><br/
+<p><cs><col>Humeral veil</col> <fld>(R. C. Ch.)</fld>, <cd>a long, narrow veil or scarf of the same material as the vestments, worn round the shoulders by the officiating priest or his attendant at Mass, and used to protect the sacred vessels from contact with the hands.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humerus</ent><br/
@@ -25955,7 +25955,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <specif>Specifically:</specif> <def>The content of water vapor in the air, expressed as a percent of the maximum amount of water vapor that the air can hold at the given temperature; also called <altname>relative humidity</altname>.  The capacity of the air to hold moisture increases with temperature, so if the temperature changes without changing the absolute content of the atmospheric moisture, the relative humidity will also change.</def><br/
 [<source>PJC</source>]</p>
 
-<p><cs><col><b>relative humidity</b></col> <cd>Same as <er>humidity</er>{2}.</cd></cs><br/
+<p><cs><col>relative humidity</col> <cd>Same as <er>humidity</er>{2}.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><note><hand/ In hygrometrical reports (as of the United States Signal Service) complete saturation of the air by water vapor is designated by a <ex>relative humidity</ex> of 100, and its partial saturation by smaller numbers in direct proportion to the actual content of water vapor.</note><br/
@@ -26054,7 +26054,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hum"ming</hw>, <pos>n.</pos> <def>A sound like that made by bees; a low, murmuring sound; a hum.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hummingale</b></col>, <cd>lively or strong ale.</cd> <au>Dryden.</au> -- <col><b>Humming-bird moth</b></col> <fld>(Zool.)</fld>, <cd>a hawk moth. See <cref>Hawk moth</cref>, under <er>Hawk</er>, the bird.</cd></cs><br/
+<p><cs><col>Hummingale</col>, <cd>lively or strong ale.</cd> <au>Dryden.</au> -- <col>Humming-bird moth</col> <fld>(Zool.)</fld>, <cd>a hawk moth. See <cref>Hawk moth</cref>, under <er>Hawk</er>, the bird.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>humming bird</ent><br/
@@ -26123,7 +26123,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><q>A great deal of excellent <qex>humor</qex> was expended on the perplexities of mine host.</q> <rj><qau>W. Irving.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Aqueous humor</b></col>, <col><b>Crystalline humor</b></col> <it>or</it> <col><b>Crystalline lens</b></col>, <col><b>Vitreous humor</b></col></mcol>. <fld>(Anat.)</fld> <cd>See <er>Eye</er>.</cd> -- <col><b>Out of humor</b></col>, <cd>dissatisfied; displeased; in an unpleasant frame of mind.</cd></cs></p>
+<p><cs><mcol><col>Aqueous humor</col>, <col>Crystalline humor</col> <it>or</it> <col>Crystalline lens</col>, <col>Vitreous humor</col></mcol>. <fld>(Anat.)</fld> <cd>See <er>Eye</er>.</cd> -- <col>Out of humor</col>, <cd>dissatisfied; displeased; in an unpleasant frame of mind.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Wit; satire; pleasantry; temper; disposition; mood; frame; whim; fancy; caprice. See <er>Wit</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
@@ -26149,7 +26149,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <hw>Hu"mor*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>humoral</ets>.]</ety> <def>Pertaining to, or proceeding from, the humors; <as>as, a <ex>humoral</ex> fever</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Humoral pathology</b></col> <fld>(Med.)</fld>, <cd>the pathology, or doctrine of the nature of diseases, which attributes all morbid phenomena to the disordered condition of the fluids or humors of the body.</cd></cs><-- antiquated --><br/
+<p><cs><col>Humoral pathology</col> <fld>(Med.)</fld>, <cd>the pathology, or doctrine of the nature of diseases, which attributes all morbid phenomena to the disordered condition of the fluids or humors of the body.</cd></cs><-- antiquated --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Humoralism</ent><br/
@@ -26397,7 +26397,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><sn>2.</sn> <def>A division of a country in England, supposed to have originally contained a <xex>hundred</xex> families, or freemen.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hundred court</b></col>, <cd>a court held for all the inhabitants of a hundred.</cd> <mark>[Eng.]</mark>  <rj><au>Blackstone.</au></rj></cs><br/
+<p><cs><col>Hundred court</col>, <cd>a court held for all the inhabitants of a hundred.</cd> <mark>[Eng.]</mark>  <rj><au>Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hundred</ent><br/
@@ -26440,21 +26440,21 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <hw>Hung</hw> <pr>(?)</pr>, <def><pos>imp. & p. p.</pos> of <er>Hang</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hung beef</b></col>, <cd>the fleshy part of beef slightly salted and hung up to dry; dried beef.</cd></cs><br/
+<p><cs><col>Hung beef</col>, <cd>the fleshy part of beef slightly salted and hung up to dry; dried beef.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hungarian</ent><br/
 <hw>Hun*ga"ri*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to Hungary or to the people of Hungary.</def> -- <def2><pos>n.</pos> <def>A native or one of the people of Hungary.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hungarian grass</b></col>. <cd>See <cref>Italian millet</cref>, under <er>Millet</er>.</cd></cs><br/
+<p><cs><col>Hungarian grass</col>. <cd>See <cref>Italian millet</cref>, under <er>Millet</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hungary</ent><br/
 <hw>Hun"ga*ry</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A country in Central Europe, formerly a part of the Austro-Hungarian Empire.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><cs><col><b>Hungary water</b></col>, <cd>a distilled <ldquo/water,<rdquo/ made from dilute alcohol aromatized with rosemary flowers, etc.</cd></cs><br/
+<p><cs><col>Hungary water</col>, <cd>a distilled <ldquo/water,<rdquo/ made from dilute alcohol aromatized with rosemary flowers, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hunger</ent><br/
@@ -26648,7 +26648,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><sn>4.</sn>  <fld>(Change Ringing)</fld> <def>To shift up and down in order regularly.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><cs><col><b>To hunt counter</b></col>, <cd>to trace the scent backward in hunting, as a hound to go back on one's steps.</cd> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></cs><br/
+<p><cs><col>To hunt counter</col>, <cd>to trace the scent backward in hunting, as a hound to go back on one's steps.</cd> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hunt</ent><br/
@@ -26703,7 +26703,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><sn>6.</sn> <def>A hunting watch, or one of which the crystal is protected by a metallic cover.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hunter's room</b></col>, <cd>the lunation after the harvest moon.</cd> -- <col><b>Hunter's screw</b></col> <fld>(Mech.)</fld>, <cd>a differential screw, so named from the inventor. See under <er>Differential</er>.</cd></cs><br/
+<p><cs><col>Hunter's room</col>, <cd>the lunation after the harvest moon.</cd> -- <col>Hunter's screw</col> <fld>(Mech.)</fld>, <cd>a differential screw, so named from the inventor. See under <er>Differential</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hunterian</ent><br/
@@ -26714,7 +26714,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <hw>Hunt"ing</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The pursuit of game or of wild animals.</def>  <rj><au>A. Smith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Happy hunting grounds</b></col>, <cd>the region to which, according to the belief of American Indians, the souls of warriors and hunters pass after death, to be happy in hunting and feasting.</cd> <au>Tylor.</au> -- <col><b>Hunting box</b></col>. <cd>Same As <cref>Hunting lodge</cref> (below).</cd> -- <col><b>Hunting cat</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting cog</b></col> <fld>(Mach.)</fld>, <cd>a tooth in the larger of two geared wheels which makes its number of teeth prime to the number in the smaller wheel, thus preventing the frequent meeting of the same pairs of teeth.</cd> -- <col><b>Hunting dog</b></col> <fld>(Zool.)</fld>, <cd>the hyena dog.</cd> -- <col><b>Hunting ground</b></col>, <cd>a region or district abounding in game; esp. (<pluf>pl.</pluf>), the regions roamed over by the North American Indians in search of game.</cd> -- <col><b>Hunting horn</b></col>, <cd>a bulge; a horn used in the chase. See <er>Horn</er>, and <er>Bulge</er>.</cd> -- <col><b>Hunting leopard</b></col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col><b>Hunting lodge</b></col>, <cd>a temporary residence for the purpose of hunting.</cd> -- <col><b>Hunting seat</b></col>, <cd>a hunting lodge.</cd> <au>Gray.</au> -- <col><b>Hunting shirt</b></col>, <cd>a coarse shirt for hunting, often of leather.</cd> -- <col><b>Hunting spider</b></col> <fld>(Zool.)</fld>, <cd>a spider which hunts its prey, instead of catching it in a web; a wolf spider.</cd> -- <col><b>Hunting watch</b></col>. <cd>See <er>Hunter</er>, <snr>6</snr>.</cd></cs><br/
+<p><cs><col>Happy hunting grounds</col>, <cd>the region to which, according to the belief of American Indians, the souls of warriors and hunters pass after death, to be happy in hunting and feasting.</cd> <au>Tylor.</au> -- <col>Hunting box</col>. <cd>Same As <cref>Hunting lodge</cref> (below).</cd> -- <col>Hunting cat</col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col>Hunting cog</col> <fld>(Mach.)</fld>, <cd>a tooth in the larger of two geared wheels which makes its number of teeth prime to the number in the smaller wheel, thus preventing the frequent meeting of the same pairs of teeth.</cd> -- <col>Hunting dog</col> <fld>(Zool.)</fld>, <cd>the hyena dog.</cd> -- <col>Hunting ground</col>, <cd>a region or district abounding in game; esp. (<pluf>pl.</pluf>), the regions roamed over by the North American Indians in search of game.</cd> -- <col>Hunting horn</col>, <cd>a bulge; a horn used in the chase. See <er>Horn</er>, and <er>Bulge</er>.</cd> -- <col>Hunting leopard</col> <fld>(Zool.)</fld>, <cd>the cheetah.</cd> -- <col>Hunting lodge</col>, <cd>a temporary residence for the purpose of hunting.</cd> -- <col>Hunting seat</col>, <cd>a hunting lodge.</cd> <au>Gray.</au> -- <col>Hunting shirt</col>, <cd>a coarse shirt for hunting, often of leather.</cd> -- <col>Hunting spider</col> <fld>(Zool.)</fld>, <cd>a spider which hunts its prey, instead of catching it in a web; a wolf spider.</cd> -- <col>Hunting watch</col>. <cd>See <er>Hunter</er>, <snr>6</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huntress</ent><br/
@@ -26728,7 +26728,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><sn>2.</sn> <def>The person whose office it is to manage the chase or to look after the hounds.</def>  <rj><au>L'Estrange.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Huntsman's cup</b></col> <fld>(Bot.)</fld>, <cd>the sidesaddle flower, or common American pitcher plant (<spn>Sarracenia purpurea</spn>).</cd></cs><br/
+<p><cs><col>Huntsman's cup</col> <fld>(Bot.)</fld>, <cd>the sidesaddle flower, or common American pitcher plant (<spn>Sarracenia purpurea</spn>).</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 714 --></p>
@@ -26758,7 +26758,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <p><sn>3.</sn> <def>An artificial barrier, variously constructed, over which men or horses leap in a race.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hurdle race</b></col>, <cd>a race in which artificial barriers in the form of hurdles, fences, etc., must be leaped.</cd></cs><br/
+<p><cs><col>Hurdle race</col>, <cd>a race in which artificial barriers in the form of hurdles, fences, etc., must be leaped.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurdle</ent><br/
@@ -26893,7 +26893,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 <hw>Hur*rah"</hw>, <pos>n.</pos> <def>A cheer; a shout of joy, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hurrah's nest</b></col>, <cd>state of utmost confusion.</cd> <mark>[Colloq. U.S.]</mark></cs><br/
+<p><cs><col>Hurrah's nest</col>, <cd>state of utmost confusion.</cd> <mark>[Colloq. U.S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A perfect <qex>hurrah's nest</qex> in our kitchen.</q> <rj><qau>Mrs. Stowe.</qau></rj><br/
@@ -26918,7 +26918,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 A dreadful <qex>hurricane</qex>.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hurricane bird</b></col> <fld>(Zool.)</fld>, <cd>the frigate bird.</cd> -- <col><b>Hurricane deck</b></col>. <fld>(Naut.)</fld> <cd>See under <er>Deck</er>.</cd></cs><br/
+<p><cs><col>Hurricane bird</col> <fld>(Zool.)</fld>, <cd>the frigate bird.</cd> -- <col>Hurricane deck</col>. <fld>(Naut.)</fld> <cd>See under <er>Deck</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurricano</ent><br/
@@ -26968,7 +26968,7 @@ The little number of your doubtful friends.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hur"ry</hw>, <pos>v. i.</pos> <def>To move or act with haste; to proceed with celerity or precipitation; <as>as, let us <ex>hurry</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hurry up</b></col>, <cd>to make haste.</cd> <mark>[Colloq.]</mark></cs><br/
+<p><cs><col>To hurry up</col>, <cd>to make haste.</cd> <mark>[Colloq.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hurry</ent><br/
@@ -27145,7 +27145,7 @@ The little number of your doubtful friends.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>5.</sn> <def>The male of a pair of animals.</def> <mark>[R.]</mark>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>A ship's husband</b></col> <fld>(Naut.)</fld>, <cd>an agent representing the owners of a ship, who manages its expenses and receipts.</cd></cs><br/
+<p><cs><col>A ship's husband</col> <fld>(Naut.)</fld>, <cd>an agent representing the owners of a ship, who manages its expenses and receipts.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Husband</ent><br/
@@ -27219,7 +27219,7 @@ Their candles are all out.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>And <qex>hush'd</qex> my deepest grief of all.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>To hush up</b></col>, <cd>to procure silence concerning; to suppress; to keep secret.</cd> <ldquo/This matter is <xex>hushed up</xex>.<rdquo/  <rj><au>Pope.</au></rj></cs><br/
+<p><cs><col>To hush up</col>, <cd>to procure silence concerning; to suppress; to keep secret.</cd> <ldquo/This matter is <xex>hushed up</xex>.<rdquo/  <rj><au>Pope.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hush</ent><br/
@@ -27236,7 +27236,7 @@ Their candles are all out.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Hush</hw>, <pos>n.</pos> <def>Stillness; silence; quiet.</def> <mark>[R.]</mark> <ldquo/It is the <xex>hush</xex> of night.<rdquo/  <rj><au>Byron.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hush money</b></col>, <cd>money paid to secure silence, or to prevent the disclosure of facts.</cd>  <rj><au>Swift.</au></rj></cs><br/
+<p><cs><col>Hush money</col>, <cd>money paid to secure silence, or to prevent the disclosure of facts.</cd>  <rj><au>Swift.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hush</ent><br/
@@ -27271,7 +27271,7 @@ Their candles are all out.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>The supporting frame of a run of millstones.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Husks of the prodigal son</b></col> <fld>(Bot.)</fld>, <cd>the pods of the carob tree. See <er>Carob</er>.</cd></cs><br/
+<p><cs><col>Husks of the prodigal son</col> <fld>(Bot.)</fld>, <cd>the pods of the carob tree. See <er>Carob</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Husk</ent><br/
@@ -27433,7 +27433,7 @@ To the hall and <qex>hut</qex></q>. <rj><qau>Bp. Coxe.</qau></rj><br/
 <p><sn>4.</sn> <fld>(Mining)</fld> <sd>(a)</sd> <def>A car on low wheels, in which coal is drawn in the mine and hoisted out of the pit.</def> <sd>(b)</sd> <def>A jig for washing ore.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Bolting hutch</b></col>, <col><b>Booby hutch</b></col></mcol>, <cd>etc. See under <er>Bolting</er>, etc.</cd></cs><br/
+<p><cs><mcol><col>Bolting hutch</col>, <col>Booby hutch</col></mcol>, <cd>etc. See under <er>Bolting</er>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hutch</ent><br/
@@ -27463,7 +27463,7 @@ To the hall and <qex>hut</qex></q>. <rj><qau>Bp. Coxe.</qau></rj><br/
 <hw>Huy*ghe"ni*an</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or invented by, Christian <xex>Huyghens</xex>, a Dutch astronomer of the seventeenth century; <as>as, the <ex>Huyghenian</ex> telescope</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Huyghenian eyepiece</b></col><cd>See under <er>Eyepiece</er>.</cd></cs><br/
+<p><cs><col>Huyghenian eyepiece</col><cd>See under <er>Eyepiece</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Huzz</ent><br/
@@ -27510,7 +27510,7 @@ To the hall and <qex>hut</qex></q>. <rj><qau>Bp. Coxe.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Min.)</fld> <def>A red variety of zircon, sometimes used as a gem. See <er>Zircon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyacinth bean</b></col> <fld>(Bot.)</fld>, <cd>a climbing leguminous plant (<spn>Dolichos Lablab</spn>), related to the true bean. It has dark purple flowers and fruit.</cd></cs><br/
+<p><cs><col>Hyacinth bean</col> <fld>(Bot.)</fld>, <cd>a climbing leguminous plant (<spn>Dolichos Lablab</spn>), related to the true bean. It has dark purple flowers and fruit.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyacinthian</ent><br/
@@ -27700,7 +27700,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy"da*tid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, <?/, a watery vesicle under the upper eyelid, fr. <grk>"y`dwr</grk>, <grk>"y`datos</grk>, water: cf. F. <ets>hydatide</ets>.]</ety> <fld>(Zool.)</fld> <def>A membranous sac or bladder filled with a pellucid fluid, found in various parts of the bodies of animals, but unconnected with the tissues. It is usually formed by parasitic worms, esp. by larval tapeworms, as Echinococcus and C<oe/nurus. See these words in the Vocabulary.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydatid of Morgagni</b></col> <fld>(Anat.)</fld>, <cd>one of the small pedunculated bodies found between the testicle and the head of the epididymis, and supposed to be a remnant of the M<uum/llerian duct.</cd></cs><br/
+<p><cs><col>Hydatid of Morgagni</col> <fld>(Anat.)</fld>, <cd>one of the small pedunculated bodies found between the testicle and the head of the epididymis, and supposed to be a remnant of the M<uum/llerian duct.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydatiform</ent><br/
@@ -27829,14 +27829,14 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy*dra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>The act of becoming, or state of being, a hydrate.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Water of hydration</b></col> <fld>(Chem.)</fld>, <cd>water chemically combined with some substance to form a hydrate; -- distinguished from <contr>water of crystallization</contr>.</cd></cs><br/
+<p><cs><col>Water of hydration</col> <fld>(Chem.)</fld>, <cd>water chemically combined with some substance to form a hydrate; -- distinguished from <contr>water of crystallization</contr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydraulic</ent><br/
 <hw>Hy*drau"lic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>hydraulique</ets>, L. <ets>hydraulicus</ets>, fr. Gr. <?/, <?/, a water organ; <grk>"y`dwr</grk> water + <?/ flute, pipe. See <er>Hydra</er>.]</ety> <def>Of or pertaining to hydraulics, or to fluids in motion; conveying, or acting by, water; <as>as, an <ex>hydraulic</ex> clock, crane, or dock</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydraulic accumulator</b></col>, <cd>an accumulator for hydraulic machinery of any kind. See <er>Accumulator</er>, <snr>2</snr>.</cd> -- <col><b>Hydraulic brake</b></col>, <cd>a cataract. See <er>Cataract</er>, 3.</cd> -- <col><b>Hydraulic cement</b></col>, <cd>a cement or mortar made of hydraulic lime, which will harden under water.</cd> -- <col><b>Hydraulic elevator</b></col>, <cd>a lift operated by the weight or pressure of water.</cd> -- <col><b>Hydraulic jack</b></col>. <cd>See under <er>Jack</er>.</cd> -- <col><b>Hydraulic lime</b></col>, <cd>quicklime obtained from hydraulic limestone, and used for cementing under water, etc.</cd> -- <col><b>Hydraulic limestone</b></col>, <cd>a limestone which contains some clay, and which yields a quicklime that will set, or form a firm, strong mass, under water.</cd> -- <col><b>Hydraulic main</b></col> <fld>(Gas Works)</fld>, <cd>a horizontal pipe containing water at the bottom into which the ends of the pipes from the retorts dip, for passing the gas through water in order to remove ammonia.</cd> -- <col><b>Hydraulic mining</b></col>, <cd>a system of mining in which the force of a jet of water is used to wash down a bank of gold-bearing gravel or earth.</cd> <mark>[Pacific Coast]</mark> -- <col><b>Hydraulic press</b></col>, <cd>a hydrostatic press. See under <er>Hydrostatic</er>.</cd> -- <col><b>Hydraulic propeller</b></col>, <cd>a device for propelling ships by means of a stream of water ejected under water rearward from the ship.</cd> -- <col><b>Hydraulic ram</b></col>, <cd>a machine for raising water by means of the energy of the moving water of which a portion is to be raised. When the rush of water through the main pipe <figref>d</figref> shuts the valve at <figref>a</figref>, the momentum of the current thus suddenly checked forces part of it into the air chamber <figref>b</figref>, and up the pipe <figref>c</figref>, its return being prevented by a valve at the entrance to the air chamber, while the dropping of the valve <figref>a</figref> by its own weight allows another rush through the main pipe, and so on alternately.</cd> -- <col><b>Hydraulic valve</b></col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A valve for regulating the distribution of water in the cylinders of hydraulic elevators, cranes, etc.</cd> <sd>(b)</sd> <fld>(Gas Works)</fld> <cd>An inverted cup with a partition dipping into water, for opening or closing communication between two gas mains, the open ends of which protrude about the water.</cd></cs><br/
+<p><cs><col>Hydraulic accumulator</col>, <cd>an accumulator for hydraulic machinery of any kind. See <er>Accumulator</er>, <snr>2</snr>.</cd> -- <col>Hydraulic brake</col>, <cd>a cataract. See <er>Cataract</er>, 3.</cd> -- <col>Hydraulic cement</col>, <cd>a cement or mortar made of hydraulic lime, which will harden under water.</cd> -- <col>Hydraulic elevator</col>, <cd>a lift operated by the weight or pressure of water.</cd> -- <col>Hydraulic jack</col>. <cd>See under <er>Jack</er>.</cd> -- <col>Hydraulic lime</col>, <cd>quicklime obtained from hydraulic limestone, and used for cementing under water, etc.</cd> -- <col>Hydraulic limestone</col>, <cd>a limestone which contains some clay, and which yields a quicklime that will set, or form a firm, strong mass, under water.</cd> -- <col>Hydraulic main</col> <fld>(Gas Works)</fld>, <cd>a horizontal pipe containing water at the bottom into which the ends of the pipes from the retorts dip, for passing the gas through water in order to remove ammonia.</cd> -- <col>Hydraulic mining</col>, <cd>a system of mining in which the force of a jet of water is used to wash down a bank of gold-bearing gravel or earth.</cd> <mark>[Pacific Coast]</mark> -- <col>Hydraulic press</col>, <cd>a hydrostatic press. See under <er>Hydrostatic</er>.</cd> -- <col>Hydraulic propeller</col>, <cd>a device for propelling ships by means of a stream of water ejected under water rearward from the ship.</cd> -- <col>Hydraulic ram</col>, <cd>a machine for raising water by means of the energy of the moving water of which a portion is to be raised. When the rush of water through the main pipe <figref>d</figref> shuts the valve at <figref>a</figref>, the momentum of the current thus suddenly checked forces part of it into the air chamber <figref>b</figref>, and up the pipe <figref>c</figref>, its return being prevented by a valve at the entrance to the air chamber, while the dropping of the valve <figref>a</figref> by its own weight allows another rush through the main pipe, and so on alternately.</cd> -- <col>Hydraulic valve</col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A valve for regulating the distribution of water in the cylinders of hydraulic elevators, cranes, etc.</cd> <sd>(b)</sd> <fld>(Gas Works)</fld> <cd>An inverted cup with a partition dipping into water, for opening or closing communication between two gas mains, the open ends of which protrude about the water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydraulical</ent><br/
@@ -27874,13 +27874,13 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy"dric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[From <er>Hydrogen</er>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, hydrogen; <as>as, <ex>hydric</ex> oxide</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydric dioxide</b></col>. <fld>(Chem.)</fld> <cd>See <cref>Hydrogen dioxide</cref>, under <er>Hydrogen</er>.</cd> -- <col><b>Hydric oxide</b></col> <fld>(Chem.)</fld>, <cd>water.</cd> -- <col><b>Hydric sulphate</b></col> <fld>(Chem.)</fld>, <cd>hydrogen sulphate or sulphuric acid.</cd></cs><br/
+<p><cs><col>Hydric dioxide</col>. <fld>(Chem.)</fld> <cd>See <cref>Hydrogen dioxide</cref>, under <er>Hydrogen</er>.</cd> -- <col>Hydric oxide</col> <fld>(Chem.)</fld>, <cd>water.</cd> -- <col>Hydric sulphate</col> <fld>(Chem.)</fld>, <cd>hydrogen sulphate or sulphuric acid.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydride</ent><br/
 <hw>Hy"dride</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydr-</ets> + <ets>ide</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound of the binary type, in which hydrogen is united with some other element.</def><-- spec., with a more electropositive element --></p>
 
-<p><cs><col><b>lith"i*um hy"dride</b></col> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <cd>A hydride of lithium, <chform>LiH</chform>, commonly used as a powerful reducing agent in organic chemistry.</cd></cs><br/
+<p><cs><col>lith"i*um hy"dride</col> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <cd>A hydride of lithium, <chform>LiH</chform>, commonly used as a powerful reducing agent in organic chemistry.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Hydriform</ent><br/
@@ -27899,7 +27899,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dri*od"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydr-</ets> + <ets>iodic</ets>: cf. F. <ets>hydriodique</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, hydrogen and iodine; -- said of an acid (<chform>HI</chform>) produced by the combination of these elements.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydriodic acid</b></col> <fld>(Chem.)</fld>, <cd>a pungent, colorless gas, <chform>HI</chform>, usually prepared as a solution in water. It is strong reducing agent. Called also <altname>hydrogen iodide</altname>.</cd></cs><br/
+<p><cs><col>Hydriodic acid</col> <fld>(Chem.)</fld>, <cd>a pungent, colorless gas, <chform>HI</chform>, usually prepared as a solution in water. It is strong reducing agent. Called also <altname>hydrogen iodide</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydriodide</ent><br/
@@ -27948,7 +27948,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*bro"mic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>bromic</ets>.]</ety> <fld>(Chem.)</fld> <def>Composed of hydrogen and bromine; <as>as, <ex>hydrobromic</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrobromic acid</b></col> <fld>(Chem.)</fld>, <cd>a colorless, pungent, corrosive gas, <chform>HBr</chform>, usually collected as a solution in water. It resembles hydrochloric acid, but is weaker and less stable. Called also <altname>hydrogen bromide</altname>.</cd></cs><br/
+<p><cs><col>Hydrobromic acid</col> <fld>(Chem.)</fld>, <cd>a colorless, pungent, corrosive gas, <chform>HBr</chform>, usually collected as a solution in water. It resembles hydrochloric acid, but is weaker and less stable. Called also <altname>hydrogen bromide</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrobromide</ent><br/
@@ -27959,7 +27959,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*car"bon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>carbon</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound containing only hydrogen and carbon, as methane, benzene, etc.; also, by extension, any of their derivatives.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col><b>Hydrocarbon burner</b></col>, <col><b>furnace</b></col>, <col><b>stove</b></col></mcol>, <cd>a burner, furnace, or stove with which liquid fuel, as petroleum, is used.</cd></cs><br/
+<p><cs><mcol><col>Hydrocarbon burner</col>, <col>furnace</col>, <col>stove</col></mcol>, <cd>a burner, furnace, or stove with which liquid fuel, as petroleum, is used.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrocarbonaceous</ent><br/
@@ -27994,7 +27994,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*ceph"a*loid</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydrocephalus</ets> + <ets>-oid</ets>.]</ety> <fld>(Med.)</fld> <def>Resembling hydrocephalus.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrocephaloid affection</b></col> <fld>(Med.)</fld>, <cd>the group of symptoms which follow exhausting diarrhea in young children, resembling those of acute hydrocephalus, or tubercular meningitis.</cd></cs><br/
+<p><cs><col>Hydrocephaloid affection</col> <fld>(Med.)</fld>, <cd>the group of symptoms which follow exhausting diarrhea in young children, resembling those of acute hydrocephalus, or tubercular meningitis.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrocephalous</ent><br/
@@ -28013,7 +28013,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*chlo"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>chloric</ets>: cf. F. <ets>hydrochlorique</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or compounded of, chlorine and hydrogen gas; <as>as, <ex>hydrochloric</ex> acid</as>; chlorhydric.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrochloric acid</b></col> <fld>(Chem.)</fld>, <cd>hydrogen chloride; a colorless, corrosive gas, <chform>HCl</chform>, of pungent, suffocating odor. It is made in great quantities in the soda process, by the action of sulphuric acid on common salt. It has a great affinity for water, and the commercial article is a strong solution of the gas in water. It is a typical acid, and is an indispensable agent in commercial and general chemical work. Called also <altname>muriatic acid</altname> and <altname>chlorhydric acid</altname>.</cd></cs><br/
+<p><cs><col>Hydrochloric acid</col> <fld>(Chem.)</fld>, <cd>hydrogen chloride; a colorless, corrosive gas, <chform>HCl</chform>, of pungent, suffocating odor. It is made in great quantities in the soda process, by the action of sulphuric acid on common salt. It has a great affinity for water, and the commercial article is a strong solution of the gas in water. It is a typical acid, and is an indispensable agent in commercial and general chemical work. Called also <altname>muriatic acid</altname> and <altname>chlorhydric acid</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrochloride</ent><br/
@@ -28032,7 +28032,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*cy*an"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>anic</ets>: cf. F. <ets>hydrocyanique</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or derived from the combination of, hydrogen and cyanogen.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrocyanic acid</b></col> <fld>(Chem.)</fld>, <cd>a colorless, mobile, volatile liquid, <chform>HCN</chform>, having a characteristic peach-blossom odor. It is one of the most deadly poisons. It is made by the action of sulphuric acid on yellow prussiate of potassium (potassium ferrocyanide), and chemically resembles hydrochloric and hydrobromic acids. Called also <altname>prussic acid</altname>, <altname>hydrogen cyanide</altname>, etc.</cd></cs><br/
+<p><cs><col>Hydrocyanic acid</col> <fld>(Chem.)</fld>, <cd>a colorless, mobile, volatile liquid, <chform>HCN</chform>, having a characteristic peach-blossom odor. It is one of the most deadly poisons. It is made by the action of sulphuric acid on yellow prussiate of potassium (potassium ferrocyanide), and chemically resembles hydrochloric and hydrobromic acids. Called also <altname>prussic acid</altname>, <altname>hydrogen cyanide</altname>, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrocyanide</ent><br/
@@ -28043,7 +28043,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <mhw>{ <hw>Hy`dro*dy*nam"ic</hw> <pr>(?)</pr>, <hw>Hy`dro*dy*nam"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 1 + <ets>dynamic</ets>, <ets>-ical</ets>: cf. F. <ets>hydrodynamique</ets>.]</ety> <def>Pertaining to, or derived from, the dynamical action of water of a liquid; of or pertaining to water power.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrodynamic friction</b></col>, <cd>friction produced by the viscosity of a liquid in motion.</cd></cs><br/
+<p><cs><col>Hydrodynamic friction</col>, <cd>friction produced by the viscosity of a liquid in motion.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrodynamics</ent><br/
@@ -28061,7 +28061,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro-e*lec"tric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 1 + <ets>electric</ets>.]</ety> <def>Pertaining to, employed in, or produced by, the evolution of electricity by means of a battery in which water or steam is used.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydro-electric machine</b></col> <fld>(Physics)</fld>, <cd>an apparatus invented by <person>Sir William Armstrong</person> of England for generating electricity by the escape of high-pressure steam from a series of jets connected with a strong boiler, in which the steam is produced.</cd></cs><br/
+<p><cs><col>Hydro-electric machine</col> <fld>(Physics)</fld>, <cd>an apparatus invented by <person>Sir William Armstrong</person> of England for generating electricity by the escape of high-pressure steam from a series of jets connected with a strong boiler, in which the steam is produced.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydro-extractor</ent><br/
@@ -28084,7 +28084,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*flu*or"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>fluoric</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, hydrogen and fluorine; fluohydric; <as>as, <ex>hydrofluoric</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrofluoric acid</b></col> <fld>(Chem.)</fld>, <cd>a colorless, mobile, volatile liquid, <chform>HF</chform>, very corrosive in its action, and having a strong, pungent, suffocating odor. It is produced by the action of sulphuric acid on fluorite, and is usually collected as a solution in water. It attacks all silicates, as glass or porcelain, is the agent employed in etching glass, and is preserved only in vessels of platinum, lead, caoutchouc, or gutta-percha.</cd></cs><br/
+<p><cs><col>Hydrofluoric acid</col> <fld>(Chem.)</fld>, <cd>a colorless, mobile, volatile liquid, <chform>HF</chform>, very corrosive in its action, and having a strong, pungent, suffocating odor. It is produced by the action of sulphuric acid on fluorite, and is usually collected as a solution in water. It attacks all silicates, as glass or porcelain, is the agent employed in etching glass, and is preserved only in vessels of platinum, lead, caoutchouc, or gutta-percha.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 717 --></p>
@@ -28108,7 +28108,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ Although a gas, hydrogen is chemically similar to the metals in its nature, having the properties of a weak base.  It is, in all acids, the base which is replaced by metals and basic radicals to form salts.  Like all other gases, it is condensed by great cold and pressure to a liquid which freezes and solidifies by its own evaporation. It is absorbed in large quantities by certain metals (esp. palladium), forming alloy-like compounds; hence, in view of quasi-metallic nature, it is sometimes called <altname>hydrogenium</altname>. It is the typical reducing agent, as opposed to oxidizers, as oxygen, chlorine, etc.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Bicarbureted hydrogen</b></col>, <cd>an old name for ethylene.</cd> -- <col><b>Carbureted hydrogen gas</b></col>. <cd>See under <er>Carbureted</er>.</cd> -- <col><b>Hydrogen dioxide</b></col>, <cd>a thick, colorless liquid, <chform>H2O2</chform>, resembling water, but having a bitter, sour taste, produced by the action of acids on barium peroxide. It decomposes into water and oxygen, and is manufactured in large quantities for an oxidizing and bleaching agent. Called also <altname>oxygenated water</altname>.<-- usually "hydrogen peroxide", or "peroxide" in weak solutions used as an antiseptic--></cd> -- <col><b>Hydrogen oxide</b></col>, <cd>a chemical name for water, H<?/O.</cd> -- <col><b>Hydrogen sulphide</b></col>, <cd>a colorless inflammable gas, <chform>H2S</chform>, having the characteristic odor of bad eggs, and found in many mineral springs. It is produced by the action of acids on metallic sulphides, and is an important chemical reagent. Called also <altname>sulphureted hydrogen</altname>.</cd></cs><br/
+<p><cs><col>Bicarbureted hydrogen</col>, <cd>an old name for ethylene.</cd> -- <col>Carbureted hydrogen gas</col>. <cd>See under <er>Carbureted</er>.</cd> -- <col>Hydrogen dioxide</col>, <cd>a thick, colorless liquid, <chform>H2O2</chform>, resembling water, but having a bitter, sour taste, produced by the action of acids on barium peroxide. It decomposes into water and oxygen, and is manufactured in large quantities for an oxidizing and bleaching agent. Called also <altname>oxygenated water</altname>.<-- usually "hydrogen peroxide", or "peroxide" in weak solutions used as an antiseptic--></cd> -- <col>Hydrogen oxide</col>, <cd>a chemical name for water, H<?/O.</cd> -- <col>Hydrogen sulphide</col>, <cd>a colorless inflammable gas, <chform>H2S</chform>, having the characteristic odor of bad eggs, and found in many mineral springs. It is produced by the action of acids on metallic sulphides, and is an important chemical reagent. Called also <altname>sulphureted hydrogen</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrogenate</ent><br/
@@ -28207,7 +28207,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q><qex>Hydrolytic</qex> agents, such as sulphuric acid or caustic alkali.</q> <rj><qau>Encyc. Brit.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrolytic ferment</b></col> <fld>(Physiol. Chem.)</fld>, <cd>an enzyme (formerly referred to as a <it>ferment</it>), which acts only in the presence of water, and which causes the substance acted upon to take up a molecule of water, resulting in the splitting of a chemical bond and often splitting one compound into two.  Thus, diastase of malt, ptyalin of saliva, and boiling dilute sulphuric acid all convert starch by hydration into dextrin and sugar.  Nearly all of the digestive enzymes are hydrolytic in their action.  Since 1910 such an enzyme is usually referred to as a <altname><er>hydrolase</er></altname> or <altname><er>hydrolytic enzyme</er></altname>.</cd></cs><br/
+<p><cs><col>Hydrolytic ferment</col> <fld>(Physiol. Chem.)</fld>, <cd>an enzyme (formerly referred to as a <it>ferment</it>), which acts only in the presence of water, and which causes the substance acted upon to take up a molecule of water, resulting in the splitting of a chemical bond and often splitting one compound into two.  Thus, diastase of malt, ptyalin of saliva, and boiling dilute sulphuric acid all convert starch by hydration into dextrin and sugar.  Nearly all of the digestive enzymes are hydrolytic in their action.  Since 1910 such an enzyme is usually referred to as a <altname><er>hydrolase</er></altname> or <altname><er>hydrolytic enzyme</er></altname>.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Hydromagnesite</ent><br/
@@ -28281,7 +28281,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><sn>3.</sn> <def>Made by means of an hydrometer; <as>as, <ex>hydrometric</ex> observations</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrometric pendulum</b></col>, <cd>a species of hydrometer consisting of a hollow ball of ivory or metal suspended by a treated from the center of a graduated quadrant, and held in a stream to measure the velocity of the water by the inclination given to the thread; a kind of current gauge.</cd></cs><br/
+<p><cs><col>Hydrometric pendulum</col>, <cd>a species of hydrometer consisting of a hollow ball of ivory or metal suspended by a treated from the center of a graduated quadrant, and held in a stream to measure the velocity of the water by the inclination given to the thread; a kind of current gauge.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrometrograph</ent><br/
@@ -28299,7 +28299,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy`dro*mi"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydro-</ets>, 1 + <ets>mica</ets>.]</ety> <fld>(Min.)</fld> <def>A variety of potash mica containing water. It is less elastic than ordinary muscovite.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydromica schist</b></col> <fld>(Min.)</fld>, <cd>a mica schist characterized by the presence of hydromica. It often has a silky luster and almost soapy feel.</cd></cs><br/
+<p><cs><col>Hydromica schist</col> <fld>(Min.)</fld>, <cd>a mica schist characterized by the presence of hydromica. It often has a silky luster and almost soapy feel.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydronephrosis</ent><br/
@@ -28472,7 +28472,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><q>The first discovery made in <qex>hydrostatics</qex> since the time of Archimedes is due to Stevinus.</q> <rj><qau>Hallam.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydrostatic balance</b></col>, <cd>a balance for weighing substances in water, for the purpose of ascertaining their specific gravities.</cd> -- <col><b>Hydrostatic bed</b></col>, <cd>a water bed.</cd> -- <col><b>Hydrostatic bellows</b></col>, <cd>an apparatus consisting of a water-tight bellowslike case with a long, upright tube, into which water may be poured to illustrate the hydrostatic paradox.</cd> -- <col><b>Hydrostatic paradox</b></col>, <cd>the proposition in hydrostatics that any quantity of water, however small, may be made to counterbalance any weight, however great; or the law of the equality of pressure of fluids in all directions.</cd> -- <col><b>Hydrostatic press</b></col>, <cd>a machine in which great force, with slow motion, is communicated to a large plunger by means of water forced into the cylinder in which it moves, by a forcing pump of small diameter, to which the power is applied, the principle involved being the same as in the hydrostatic bellows. Also called <altname>hydraulic press</altname>, and <altname>Bramah press</altname>. In the illustration, <figref>a</figref> is a pump with a small plunger <figref>b</figref>, which forces the water into the cylinder <figref>c</figref>, thus driving upward the large plunder <figref>d</figref>, which performs the reduced work, such as compressing cotton bales, etc.</cd></cs><br/
+<p><cs><col>Hydrostatic balance</col>, <cd>a balance for weighing substances in water, for the purpose of ascertaining their specific gravities.</cd> -- <col>Hydrostatic bed</col>, <cd>a water bed.</cd> -- <col>Hydrostatic bellows</col>, <cd>an apparatus consisting of a water-tight bellowslike case with a long, upright tube, into which water may be poured to illustrate the hydrostatic paradox.</cd> -- <col>Hydrostatic paradox</col>, <cd>the proposition in hydrostatics that any quantity of water, however small, may be made to counterbalance any weight, however great; or the law of the equality of pressure of fluids in all directions.</cd> -- <col>Hydrostatic press</col>, <cd>a machine in which great force, with slow motion, is communicated to a large plunger by means of water forced into the cylinder in which it moves, by a forcing pump of small diameter, to which the power is applied, the principle involved being the same as in the hydrostatic bellows. Also called <altname>hydraulic press</altname>, and <altname>Bramah press</altname>. In the illustration, <figref>a</figref> is a pump with a small plunger <figref>b</figref>, which forces the water into the cylinder <figref>c</figref>, thus driving upward the large plunder <figref>d</figref>, which performs the reduced work, such as compressing cotton bales, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydrostatically</ent><br/
@@ -28594,7 +28594,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy*drox"y-</hw> <pr>(?)</pr>. <fld>(Chem.)</fld> <def>A combining form, also used adjectively, indicating <xex>hydroxyl</xex> as an ingredient.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hydroxy acid</b></col> <fld>(Chem.)</fld>, <cd>an organic acid, having (besides the hydroxyl group of the carboxyl radical) an alcoholic hydroxyl group, and thus having the qualities of an alcohol in addition to its acid properties; as, lactic and tartaric acids are <xex>hydroxy</xex> acids.</cd></cs><br/
+<p><cs><col>Hydroxy acid</col> <fld>(Chem.)</fld>, <cd>an organic acid, having (besides the hydroxyl group of the carboxyl radical) an alcoholic hydroxyl group, and thus having the qualities of an alcohol in addition to its acid properties; as, lactic and tartaric acids are <xex>hydroxy</xex> acids.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydroxyl</ent><br/
@@ -28664,7 +28664,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><note><hand/ The striped hyena (<spn>Hy<ae/na striata</spn>) inhabits Southern Asia and a large part of Africa.  The brown hyena (<spn>Hy<ae/na brunnea</spn>), and the spotted hyena (<spn>Crocuta maculata</spn>), are found in Southern Africa.  The extinct cave hyena (<spn>Hy<ae/na spel<ae/a</spn>) inhabited England and France.</note><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Cave hyena</b></col>. <cd>See under <er>Cave</er>.</cd> -- <col><b>Hyena dog</b></col> <fld>(Zool.)</fld>, <cd>a South African canine animal (<spn>Lycaon venaticus</spn>), which hunts in packs, chiefly at night. It is smaller than the common wolf, with very large, erect ears, and a bushy tail. Its color is reddish or yellowish brown, blotched with black and white. Called also <altname>hunting dog</altname>.</cd></cs><br/
+<p><cs><col>Cave hyena</col>. <cd>See under <er>Cave</er>.</cd> -- <col>Hyena dog</col> <fld>(Zool.)</fld>, <cd>a South African canine animal (<spn>Lycaon venaticus</spn>), which hunts in packs, chiefly at night. It is smaller than the common wolf, with very large, erect ears, and a bushy tail. Its color is reddish or yellowish brown, blotched with black and white. Called also <altname>hunting dog</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyetal</ent><br/
@@ -28747,7 +28747,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 <hw>Hy*grom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ wet, moist + <ets>-meter</ets>: cf. F. <ets>hygrom<egrave/tre</ets>.]</ety> <fld>(Physics)</fld> <def>An instrument for measuring the degree of moisture of the atmosphere.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Daniell's hygrometer</b></col>, <cd>a form of hygrometer consisting of a bent glass tube terminating in two bulbs, the one covered with muslin, the other of black glass, and containing ether and a thermometer. Ether being poured on the muslin, the black ball, cooled by the evaporation of the ether within, is soon covered with dew; at this moment, the inclosed thermometer gives the dew-point, and this, compared with the reading of one in the air, determines the humidity.</cd></cs></p>
+<p><cs><col>Daniell's hygrometer</col>, <cd>a form of hygrometer consisting of a bent glass tube terminating in two bulbs, the one covered with muslin, the other of black glass, and containing ether and a thermometer. Ether being poured on the muslin, the black ball, cooled by the evaporation of the ether within, is soon covered with dew; at this moment, the inclosed thermometer gives the dew-point, and this, compared with the reading of one in the air, determines the humidity.</cd></cs></p>
 
 <p><ent>Hygrometrical</ent><br/
 <ent>Hygrometric</ent><br/
@@ -28964,7 +28964,7 @@ There dwelt no joy in Eden's rosy bower.</q> <rj><qau>Campbell.</qau></rj><br/
 Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hymn book</b></col>, <cd>a book containing a collection of hymns, as for use in churches; a hymnal.</cd></cs><br/
+<p><cs><col>Hymn book</col>, <cd>a book containing a collection of hymns, as for use in churches; a hymnal.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hymn</ent><br/
@@ -29062,7 +29062,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>Of or pertaining to the bony or cartilaginous arch which supports the tongue. Sometimes applied to the tongue itself.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyoid arch</b></col> <fld>(Anat.)</fld>, <cd>the arch of cartilaginous or bony segments, which connects the base of the tongue with either side of the skull.</cd> -- <col><b>Hyoid bone</b></col> <fld>(Anat.)</fld>, <cd>the bone in the base of the tongue, the middle part of the hyoid arch.</cd></cs><br/
+<p><cs><col>Hyoid arch</col> <fld>(Anat.)</fld>, <cd>the arch of cartilaginous or bony segments, which connects the base of the tongue with either side of the skull.</cd> -- <col>Hyoid bone</col> <fld>(Anat.)</fld>, <cd>the bone in the base of the tongue, the middle part of the hyoid arch.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyoid</ent><br/
@@ -29176,7 +29176,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 \'d8<hw>Hy`per*<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A superabundance or congestion of blood in an organ or part of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Active hyper<ae/mia</b></col>, <cd>congestion due to increased flow of blood to a part.</cd> -- <col><b>Passive hyper<ae/mia</b></col>, <cd>interchange due to obstruction in the return of blood from a part.</cd></cs></p>
+<p><cs><col>Active hyper<ae/mia</col>, <cd>congestion due to increased flow of blood to a part.</cd> -- <col>Passive hyper<ae/mia</col>, <cd>interchange due to obstruction in the return of blood from a part.</cd></cs></p>
 
 <p>-- <wordforms><wf>Hy`per*<ae/"mic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -29232,7 +29232,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Rhet.)</fld> <def>Relating to, containing, or of the nature of, hyperbole; exaggerating or diminishing beyond the fact; exceeding the truth; <as>as, an <ex>hyperbolical</ex> expression</as>.</def> <ldquo/This <xex>hyperbolical</xex> epitaph.<rdquo/  <rj><au>Fuller.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyperbolic functions</b></col> <fld>(Math.)</fld>, <cd>certain functions which have relations to the hyperbola corresponding to those which sines, cosines, tangents, etc., have to the circle; and hence, called <stype>hyperbolic sines</stype>, <stype>hyperbolic cosines</stype>, etc.</cd> -- <col><b>Hyperbolic logarithm</b></col>. <cd>See <er>Logarithm</er>.</cd> -- <col><b>Hyperbolic spiral</b></col> <fld>(Math.)</fld>, <cd>a spiral curve, the law of which is, that the distance from the pole to the generating point varies inversely as the angle swept over by the radius vector.</cd></cs><br/
+<p><cs><col>Hyperbolic functions</col> <fld>(Math.)</fld>, <cd>certain functions which have relations to the hyperbola corresponding to those which sines, cosines, tangents, etc., have to the circle; and hence, called <stype>hyperbolic sines</stype>, <stype>hyperbolic cosines</stype>, etc.</cd> -- <col>Hyperbolic logarithm</col>. <cd>See <er>Logarithm</er>.</cd> -- <col>Hyperbolic spiral</col> <fld>(Math.)</fld>, <cd>a spiral curve, the law of which is, that the distance from the pole to the generating point varies inversely as the angle swept over by the radius vector.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 720 --></p>
@@ -29268,7 +29268,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy*per"bo*loid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hyperbola</ets> + <ets>-oid</ets>: cf. F. <ets>hyperbolo<ium/de</ets>.]</ety> <fld>(Geom.)</fld> <def>A surface of the second order, which is cut by certain planes in hyperbolas; also, the solid, bounded in part by such a surface.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyperboloid of revolution</b></col>, <cd>an hyperboloid described by an hyperbola revolving about one of its axes. The surface has two separate sheets when the axis of revolution is the transverse axis, but only one when the axis of revolution is the conjugate axis of the hyperbola.</cd></cs><br/
+<p><cs><col>Hyperboloid of revolution</col>, <cd>an hyperboloid described by an hyperbola revolving about one of its axes. The surface has two separate sheets when the axis of revolution is the transverse axis, but only one when the axis of revolution is the conjugate axis of the hyperbola.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyperboloid</ent><br/
@@ -29417,7 +29417,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy`per*met"ric*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a redundant syllable; exceeding the common measure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypermetrical verse</b></col> <fld>(Gr. & Lat. Pros.)</fld>, <cd>a verse which contains a syllable more than the ordinary measure.</cd></cs></p>
+<p><cs><col>Hypermetrical verse</col> <fld>(Gr. & Lat. Pros.)</fld>, <cd>a verse which contains a syllable more than the ordinary measure.</cd></cs></p>
 
 <p><ent>Hypermetropy</ent><br/
 <ent>Hypermetropia</ent><br/
@@ -29813,7 +29813,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy`po*chlo"rous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>chlorous</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, chlorine having a valence lower than in chlorous compounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypochlorous acid</b></col> <fld>(Chem.)</fld>, <cd>an acid derived from chlorine, not known in a pure state, but forming various salts, called hypochlorites.</cd></cs><br/
+<p><cs><col>Hypochlorous acid</col> <fld>(Chem.)</fld>, <cd>an acid derived from chlorine, not known in a pure state, but forming various salts, called hypochlorites.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondres</ent><br/
@@ -29831,7 +29831,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>2.</sn> <def>Affected, characterized, or produced, by hypochondriasis.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypochondriac region</b></col> <fld>(Anat.)</fld>, <cd>a region on either side of the abdomen beneath the cartilages of the false ribs, beside the epigastric, and above the lumbar, region.</cd></cs><br/
+<p><cs><col>Hypochondriac region</col> <fld>(Anat.)</fld>, <cd>a region on either side of the abdomen beneath the cartilages of the false ribs, beside the epigastric, and above the lumbar, region.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypochondriac</ent><br/
@@ -29961,7 +29961,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hyp`o*der"mic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er>Hypoderma</er>.]</ety> <def>Of or pertaining to the parts under the skin.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypodermic medication</b></col>, <cd>the application of remedies under the epidermis, usually by means of a small syringe, called the hypodermic syringe.</cd></cs></p>
+<p><cs><col>Hypodermic medication</col>, <cd>the application of remedies under the epidermis, usually by means of a small syringe, called the hypodermic syringe.</cd></cs></p>
 
 <p>-- <wordforms><wf>Hyp`o*der"mic*al*ly</wf> <pr>(#)</pr>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -29996,14 +29996,14 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hyp`o*g<ae/"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + Gr. <grk>gai^a</grk>, <grk>gh^</grk>, earth.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or obtained from, the peanut, or earthnut (<spn>Arachis hypog<ae/a</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypog<ae/ic acid</b></col> <fld>(Chem.)</fld>, <cd>an acid in the oil of the earthnut, in which it exists as a glyceride, and from which it is extracted as a white, crystalline substance.</cd></cs><br/
+<p><cs><col>Hypog<ae/ic acid</col> <fld>(Chem.)</fld>, <cd>an acid in the oil of the earthnut, in which it exists as a glyceride, and from which it is extracted as a white, crystalline substance.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypogastric</ent><br/
 <hw>Hyp`o*gas"tric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>hypogastrique</ets>. See <er>Hypogastrium</er>.]</ety> <fld>(Anat.)</fld> <def>Of or pertaining to the hypogastrium or the hypogastric region.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypogastric region</b></col>. <sd>(a)</sd> <cd>The lower part of the abdomen.</cd> <sd>(b)</sd> <cd>An arbitrary division of the abdomen below the umbilical and between the two iliac regions.</cd></cs><br/
+<p><cs><col>Hypogastric region</col>. <sd>(a)</sd> <cd>The lower part of the abdomen.</cd> <sd>(b)</sd> <cd>An arbitrary division of the abdomen below the umbilical and between the two iliac regions.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypogastrium</ent><br/
@@ -30062,7 +30062,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy`po*ni"trous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>nitrous</ets>.]</ety> <fld>(Chem.)</fld> <def>Containing or derived from nitrogen having a lower valence than in nitrous compounds.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyponitrous acid</b></col> <fld>(Chem.)</fld>, <cd>an unstable nitrogen acid, <chform>NOH</chform>, whose salts are produced by reduction of the nitrates, although the acid itself is not isolated in the free state except as a solution in water; -- called also <altname>nitrosylic acid</altname>.</cd></cs><br/
+<p><cs><col>Hyponitrous acid</col> <fld>(Chem.)</fld>, <cd>an unstable nitrogen acid, <chform>NOH</chform>, whose salts are produced by reduction of the nitrates, although the acid itself is not isolated in the free state except as a solution in water; -- called also <altname>nitrosylic acid</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>hyponym</ent><br/
@@ -30090,14 +30090,14 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy`po*phos*phor"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>phosphoric</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or derived from, or containing, phosphorus in a lower state of oxidation than in phosphoric compounds; <as>as, <ex>hypophosphoric</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypophosphoric acid</b></col> <fld>(Chem.)</fld>, <cd>an acid, <chform>P2H4O6</chform>, produced by the slow oxidation of moist phosphorus, and isolated only as a solution in water. It is regarded as a condensation product of one molecule of phosphoric acid with one of phosphorous acid, by partial dehydration.</cd></cs><br/
+<p><cs><col>Hypophosphoric acid</col> <fld>(Chem.)</fld>, <cd>an acid, <chform>P2H4O6</chform>, produced by the slow oxidation of moist phosphorus, and isolated only as a solution in water. It is regarded as a condensation product of one molecule of phosphoric acid with one of phosphorous acid, by partial dehydration.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypophosphorous</ent><br/
 <hw>Hy`po*phos"phor*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>phosphorous</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, phosphorus in a lower state of oxidation than in phosphoric compounds; <as>as, <ex>hypophosphorous</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypophosphorous acid</b></col> <fld>(Chem.)</fld> <cd>, an acid, <chform>H3PO2</chform>, whose salts are produced by the action of barium hygrate on phosphorus. It may be obtained from its water solution, by exaporation and freezing, as a white crystalline substance. It is a powerful reducing agent.</cd></cs><br/
+<p><cs><col>Hypophosphorous acid</col> <fld>(Chem.)</fld> <cd>, an acid, <chform>H3PO2</chform>, whose salts are produced by the action of barium hygrate on phosphorus. It may be obtained from its water solution, by exaporation and freezing, as a white crystalline substance. It is a powerful reducing agent.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypophyllous</ent><br/
@@ -30175,7 +30175,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Med.)</fld> <def>Depending upon, or due to, deposition or setting; <as>as, <ex>hypostatic</ex> cognestion, cognestion due to setting of blood by gravitation</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypostatic union</b></col> <fld>(Theol.)</fld>, <cd>the union of the divine with the human nature of Christ.</cd>  <rj><au>Tillotson.</au></rj></cs><br/
+<p><cs><col>Hypostatic union</col> <fld>(Theol.)</fld>, <cd>the union of the divine with the human nature of Christ.</cd>  <rj><au>Tillotson.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypostatically</ent><br/
@@ -30221,14 +30221,14 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy`po*sul*phur"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>sulphuric</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, sulphur in a lower state of oxidation than in the sulphuric compounds; <as>as, <ex>hyposulphuric</ex> acid</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyposulphuric acid</b></col>, <cd>an acid, <chform>H2S2O6</chform>, obtained by the action of manganese dioxide on sulphur dioxide, and known only in a watery solution and in its salts; -- called also <altname>dithionic acid</altname>. See <er>Dithionic</er>.</cd></cs><br/
+<p><cs><col>Hyposulphuric acid</col>, <cd>an acid, <chform>H2S2O6</chform>, obtained by the action of manganese dioxide on sulphur dioxide, and known only in a watery solution and in its salts; -- called also <altname>dithionic acid</altname>. See <er>Dithionic</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyposulphurous</ent><br/
 <hw>Hy`po*sul"phur*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>hypo-</ets> + <ets>sulphurous</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or containing, sulphur, all, or a part, in a low state of oxidation.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyposulphurous acid</b></col>. <sd>(a)</sd> <cd>Thiosulphuric acid.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>An acid, <chform>H2SO2</chform>, obtained by the reduction of sulphurous acid. It is not obtained in the free state, but in an orange-yellow water solution, which is a strong reducing and bleaching agent. Called also <altname>hydrosulphurous acid</altname>.</cd></cs><br/
+<p><cs><col>Hyposulphurous acid</col>. <sd>(a)</sd> <cd>Thiosulphuric acid.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>An acid, <chform>H2SO2</chform>, obtained by the reduction of sulphurous acid. It is not obtained in the free state, but in an orange-yellow water solution, which is a strong reducing and bleaching agent. Called also <altname>hydrosulphurous acid</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hypotarsus</ent><br/
@@ -30305,7 +30305,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Supposition; assumption. See <er>Theory</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Nebular hypothesis</b></col>. <cd>See under <er>Nebular</er>.</cd></cs></p>
+<p><cs><col>Nebular hypothesis</col>. <cd>See under <er>Nebular</er>.</cd></cs></p>
 
 <p><ent>Hypothetical</ent><br/
 <ent>Hypothetic</ent><br/
@@ -30315,7 +30315,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><q>Causes <qex>hypothetical</qex> at least, if not real, for the various phenomena of the existence of which our experience informs us.</q> <rj><qau>Sir W. Hamilton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hypothetical baptism</b></col> <fld>(Ch. of Eng.)</fld>, <cd>baptism administered to persons in respect to whom it is doubtful whether they have or have not been baptized before.</cd>  <rj><au>Hook.</au></rj></cs></p>
+<p><cs><col>Hypothetical baptism</col> <fld>(Ch. of Eng.)</fld>, <cd>baptism administered to persons in respect to whom it is doubtful whether they have or have not been baptized before.</cd>  <rj><au>Hook.</au></rj></cs></p>
 
 <p>-- <wordforms><wf>Hy`po*thet"ic*al*ly</wf>, <pos>adv.</pos></wordforms>  <rj><au>South.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -30414,7 +30414,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 <hw>Hy"son</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>hi-tshun</ets>, lit., first crop, or blooming spring.]</ety> <def>A fragrant kind of green tea.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col><b>Hyson skin</b></col>, <cd>the light and inferior leaves separated from the hyson by a winnowing machine.</cd>  <rj><au>M<lsquo/Culloch.</au></rj></cs><br/
+<p><cs><col>Hyson skin</col>, <cd>the light and inferior leaves separated from the hyson by a winnowing machine.</cd>  <rj><au>M<lsquo/Culloch.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hyssop</ent><br/
@@ -30438,7 +30438,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hysteretic</ent><br/
-<hw>Hys`ter*et"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Elec.)</fld> <def>Of or pertaining to hysteresis.</def> <cs>-- <col><b>Hysteretic constant</b></col>, <cd>the hysteretic loss in ergs per cubic centimeter per cycle.</cd></cs><br/
+<hw>Hys`ter*et"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Elec.)</fld> <def>Of or pertaining to hysteresis.</def> <cs>-- <col>Hysteretic constant</col>, <cd>the hysteretic loss in ergs per cubic centimeter per cycle.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hysteria</ent><br/
