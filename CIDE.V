@@ -9934,7 +9934,7 @@ Her sparkling beauty did but see.</q> <rj><qau>Crompton.</qau></rj><br/
 <hw>Vir*tu"</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[It. <ets>virt<ugrave/</ets> virtue, excellence, from L. <ets>virtus</ets>.  See <er>Virtue</er>.]</ety> <def>A love of the fine arts; a taste for curiosities.</def>  <rj><au>J. Spence.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col>An article of virtu</col>, <it>or</it> <col>a piece of virtu</col>, <col></col></mcol>, <cd>an object of art or antiquity; a curiosity, such as those found in museums or private collections.</cd></cs><br/
+<p><cs><mcol><col>An article of virtu</col>, <it>or</it> <col>a piece of virtu</col></mcol>, <cd>an object of art or antiquity; a curiosity, such as those found in museums or private collections.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>I had thoughts, in my chambers to place it in view,<br/

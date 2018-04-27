@@ -19010,7 +19010,7 @@ With <qex>mercenary</qex> lines, with servile pen.</q> <rj><qau>Daniel.</qau></r
 <hw>Mer"chant</hw>, <pos>a.</pos> <def>Of, pertaining to, or employed in, trade or merchandise; <as>as, the <ex>merchant</ex> service</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><mcol><col>Merchant bar</col>, <col>Merchant iron</col> <it>or</it> <col>Merchant steel</col></mcol>, <cd>certain common sizes of wrought iron and steel bars.</cd> -- <mcol><col><b>Merchant service</b> <it>or</it> <b>Merchant marine</b></col></mcol>, <cd>the mercantile marine of a country.</cd> <au>Am. Cyc.</au> -- <col>Merchant ship</col>, <cd>a ship employed in commerce.</cd> -- <col>Merchant tailor</col>, <cd>a tailor who keeps and sells materials for the garments which he makes.</cd></cs><br/
+<p><cs><mcol><col>Merchant bar</col>, <col>Merchant iron</col> <it>or</it> <col>Merchant steel</col></mcol>, <cd>certain common sizes of wrought iron and steel bars.</cd> -- <mcol><col>Merchant service</col> <it>or</it> <col>Merchant marine</col></mcol>, <cd>the mercantile marine of a country.</cd> <au>Am. Cyc.</au> -- <col>Merchant ship</col>, <cd>a ship employed in commerce.</cd> -- <col>Merchant tailor</col>, <cd>a tailor who keeps and sells materials for the garments which he makes.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merchant</ent><br/
