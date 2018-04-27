@@ -108,8 +108,8 @@ Tag           Font         Description
 <mitem>       *            Multiple items, a set of items in a table.
 
 <point ...>   *            A series of point size markers, many unique.
-<point1.5>                 One of the tags of the form <point**> where **
-<point6>                   represents the typographic point size of the
+<point26>                  One of the tags of the form <point**> where **
+<point10>                  represents the typographic point size of the
                            enclosed text.
 
 <pre>                      An HTML tag indicating that the enclosed
@@ -377,7 +377,7 @@ Tag           Font         Meaning and Description
 
 <mstypec>     *            Multiple synonymous subtypes. (not used)
 
-<mtable>      *            Multiple table, encloses <table> figures. (used once)
+<mtable>      *            Multiple table, encloses <table> figures. (not used)
 
 <musfig>      *            Music figure.  Only in a note under the entry
                            "Figure", the two numbers of each such field are
@@ -425,7 +425,7 @@ Tag           Font         Meaning and Description
 
 <rj>          *            Right justified.
 
-<row>         *            Designates a row in a table.
+<row>         *            Designates a row in a table or matrix. (used thrice)
 
 <ship>        *            The name of a ship. (used once)
 
@@ -443,15 +443,15 @@ Tag           Font         Meaning and Description
                            only in one entry, for a musical notation.
 
 <table>       *            Always a filled rectangular array, having <row>
-                           and <item> elements.
+                           and <item> elements. (not used)
 
-<td>          *            Table datum - one cell in a table. (used twice)
+<td>          *            Table datum - one cell in a table. (not used)
 
-<th>          *            Table header. (used once)
+<th>          *            Table header. (not used)
 
 <tradename>   *            Tags a commercial Trade name. (used once)
 
-<ttitle>      *            Table title. (used once)
+<ttitle>      *            Table title. (not used)
 ====================================================================
 
 * Functional Tags

@@ -42484,48 +42484,34 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 <p>   The type which compose an ordinary book font consist of Roman <sc>CAPITALS</sc>, <sc>small capitals</sc>, and lower-case letters, and <it>Italic CAPITALS</it> and <it>lower-case</it> letters, with accompanying figures, points, and reference marks, -- in all about two hundred characters. Including the various modern styles of fancy type, some three or four hundred varieties of face are made. Besides the ordinary Roman and <xex>Italic</xex>, some of the most important of the varieties are --<br/
 [<source>1913 Webster</source>]</p>
 
-<p><table>
-<row><oldenglishtype>Old English.</oldenglishtype>  <blacklettertype>Black Letter.</blacklettertype></row>
-<row><oldstyletype>Old Style.</oldstyletype>  <frenchelzevirtype>French Elzevir.</frenchelzevirtype></row>
-<row><boldfacetype>Boldface.</boldfacetype>  <antiquetype>Antique.</antiquetype></row>
-<row><clarendontype>Clarendon.</clarendontype>  <gothictype>Gothic.</gothictype></row>
-<row><typewritertype>Typewriter.</typewritertype>  <scripttype>Script.</scripttype></row>
-</table><br/
+<p><collapse>
+<oldenglishtype>Old English.</oldenglishtype>  <blacklettertype>Black Letter.</blacklettertype>
+<oldstyletype>Old Style.</oldstyletype>  <frenchelzevirtype>French Elzevir.</frenchelzevirtype>
+<boldfacetype>Boldface.</boldfacetype>  <antiquetype>Antique.</antiquetype>
+<clarendontype>Clarendon.</clarendontype>  <gothictype>Gothic.</gothictype>
+<typewritertype>Typewriter.</typewritertype>  <scripttype>Script.</scripttype>
+</collapse><br/
 [<source>1913 Webster</source>]</p>
 
 <p>  The smallest body in common use is diamond; then follow in order of size, pearl, agate, nonpareil, minion, brevier, bourgeois (or two-line diamond), long primer (or two-line pearl), small pica (or two-line agate), pica (or two-line nonpareil), English (or two-line minion), Columbian (or two-line brevier), great primer (or two-line bourgeois), paragon (or two-line long primer), double small pica (or two-line small pica), double pica (or two-line pica), double English (or two-line English), double great primer (or two-line great primer), double paragon (or two-line paragon), canon (or two-line double pica). Above this, the sizes are called five-line pica, six-line pica, seven-line pica, and so on, being made mostly of wood. The following alphabets show the different sizes up to great primer.<br/
 [<source>1913 Webster</source>]</p>
 
-<p><table>
-<row>Brilliant . . abcdefghijklmnopqrstuvwxyz</row>
-<-- brilliant l = 1.0 mm -->
-<row>Diamond . .  abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  1.1 mm -->
-<row>Pearl . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Agate . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Nonpareil . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Minion . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Brevier . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Bourgeois . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Long primer . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l =  mm -->
-<row>Small pica . . abcdefghijklmnopqrstuvwxyz</row>
-<-- small pica l = 2.5 mm -->
-<row>Pica . . . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l = 2.9 mm -->
-<row>English . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l = 3.3 mm -->
-<row>Columbian . . . abcdefghijklmnopqrstuvwxyz</row>
-<--  l = 3.6 mm -->
-<row>Great primer . . . abcdefghijklmnopqrstuvwxyz</row>
-<-- Great primer l = 4.0 mm -->
-</table><br/
+<p><collapse>
+Brilliant . . abcdefghijklmnopqrstuvwxyz
+Diamond . .  abcdefghijklmnopqrstuvwxyz
+Pearl . . . abcdefghijklmnopqrstuvwxyz
+Agate . . . abcdefghijklmnopqrstuvwxyz
+Nonpareil . . . abcdefghijklmnopqrstuvwxyz
+Minion . . . abcdefghijklmnopqrstuvwxyz
+Brevier . . . abcdefghijklmnopqrstuvwxyz
+Bourgeois . . abcdefghijklmnopqrstuvwxyz
+Long primer . . . abcdefghijklmnopqrstuvwxyz
+Small pica . . abcdefghijklmnopqrstuvwxyz
+Pica . . . . . abcdefghijklmnopqrstuvwxyz
+English . . . abcdefghijklmnopqrstuvwxyz
+Columbian . . . abcdefghijklmnopqrstuvwxyz
+Great primer . . . abcdefghijklmnopqrstuvwxyz
+</collapse><br/
 [<source>1913 Webster</source>]</p>
 
 <p>   The foregoing account is conformed to the designations made use of by American type founders, but is substantially correct for England. <xex>Agate</xex>, however, is called <xex>ruby</xex>, in England, where, also, a size intermediate between nonpareil and minion is employed, called <xex>emerald</xex>.</note><br/
@@ -42534,37 +42520,7 @@ Short blistered breeches, and those <qex>types</qex> of travel.</q> <rj><qau>Sha
 <p><cs><col><b>Point system of type bodies</b></col> <fld>(Type Founding)</fld>, <cd>a system adopted by the type founders of the United States by which the various sizes of type have been so modified and changed that each size bears an exact proportional relation to every other size. The system is a modification of a French system, and is based on the pica body. This pica body is divided into twelfths, which are termed <ldquo/points,<rdquo/ and every type body consist of a given number of these points. Many of the type founders indicate the new sizes of type by the number of points, and the old names are gradually being done away with. By the point system type founders cast type of a uniform size and height, whereas formerly fonts of pica or other type made by different founders would often vary slightly so that they could not be used together. There are no type in actual use corresponding to the smaller theoretical sizes of the point system. In some cases, as in that of <xex>ruby</xex>, the term used designates a different size from that heretofore so called.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- Here is inserted a two-column table, in which the sizes of the bodies of the various types are represented by a 2.5 cm long bar of the corresponding height; the two columns are separated by a thin vertical line. -->
-<-- pica (12 pt.) = 4.3 mm tall -->
-<table>
-1  American  9  Bourgeois
-<point1><bar/</point1> <point9><bar/</point9>
-1<frac12/  German
-<point1.5><bar/</point1.5>
-2  Saxon   10  Long Primer
-<point2><bar/</point2> <point10><bar/</point10>
-2<frac12/  Norse
-<point2.5><bar/</point2.5>
-3  Brilliant  11 Small Pica
-<point3><bar/</point3> <point11><bar/</point11>
-3<frac12/  Ruby   12  Pica
-<point3.5><bar/</point3.5> <point12><bar/</point12>
-4  Excelsior
-<point4><bar/</point4>
-4<frac12/  Diamond  14  English
-<point4.5><bar/</point4.5> <point14><bar/</point14>
-5  Pearl   16  Columbian
-<point5><bar/</point5> <point16><bar/</point16>
-5<frac12/  Agate
-<point5.5><bar/</point5.5>
-6  Nonpareil   18  Great Primer
-<point6><bar/</point6> <point18><bar/</point18>
-7  Minion
-<point7><bar/</point7>
-8  Brevier   20  Paragon
-<point8><bar/</point8> <point20><bar/</point20>
-<caption>Diagram of the "points" by which sizes of Type are graduated in the "Point System".</caption>
-</table><br/
+<p><collapse>[Diagram of the "points" by which sizes of Type are graduated in the "Point System".]</collapse><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col><b>Type founder</b></col>, <cd>one who casts or manufacture type.</cd> -- <mcol><col><b>Type foundry</b></col>, <col><b>Type foundery</b></col></mcol>, <cd>a place for the manufacture of type.</cd> -- <col><b>Type metal</b></col>, <cd>an alloy used in making type, stereotype plates, etc., and in backing up electrotype plates. It consists essentially of lead and antimony, often with a little tin, nickel, or copper.</cd> -- <col><b>Type wheel</b></col>, <cd>a wheel having raised letters or characters on its periphery, and used in typewriters, printing telegraphs, etc.</cd> -- <col><b>Unity of type</b></col> <fld>(Biol.)</fld>, <cd>that fundamental agreement in structure which is seen in organic beings of the same class, and is quite independent of their habits of life.</cd>  <rj><au>Darwin.</au></rj></cs><br/

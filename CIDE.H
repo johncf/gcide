@@ -16726,9 +16726,10 @@ Tells how man's daily work goes forward here.</q> <rj><qau>Trench.</qau></rj><br
 
 <p><ent>Hindu calendar</ent><br/
 <ent>Hindoo calendar</ent><br/
-<mhw>{<hw>Hin"doo calendar</hw> <it>or</it>  <hw>Hindu calendar</hw>  }</mhw>. <def>A lunisolar calendar of India, according to which the year is divided into twelve months, with an extra month inserted after every month in which two new moons occur (once in three years).</def> <note>The intercalary month has the name of the one which precedes it. The year usually commences about April 11. The months are follows:</p>
+<mhw>{<hw>Hin"doo calendar</hw> <it>or</it>  <hw>Hindu calendar</hw>  }</mhw>. <def>A lunisolar calendar of India, according to which the year is divided into twelve months, with an extra month inserted after every month in which two new moons occur (once in three years).</def> <note>The intercalary month has the name of the one which precedes it. The year usually commences about April 11. The months are follows:<br/
+[<source>Webster 1913 Suppl.</source>]</p>
 
-<p><table><pre>
+<p><pre>
 Baisakh . . . . . . . . . .    April-May
 Jeth . . . . . . . . . . . . . May-June
 Asarh . . . . . . . . . . . .  June-July
@@ -16741,17 +16742,17 @@ Pus . . . . . . . . . . . . .  Dec.-Jan.
 Magh . . . . . . . . . . . . . Jan.-Feb.
 Phagun (Phalgun) . . . . . . . Feb.-March
 Chait . . . . . . . . . . . .  March-April
-</pre></table></note><br/
+</pre></note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Hinduism</ent><br/
 <ent>Hindooism</ent><br/
-<mhw>{ <hw>Hin"doo*ism</hw>, <hw>Hin"du*ism</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <def>The religious doctrines and rites of the Hindus; Brahmanism.</def></p>
+<mhw>{ <hw>Hin"doo*ism</hw>, <hw>Hin"du*ism</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <def>The religious doctrines and rites of the Hindus; Brahmanism.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Hindustani</ent><br/
-<ent>Hindoostani</ent><br/
 <ent>Hindoostanee</ent><br/
-<mhw>{ <hw>Hin"doo*sta"nee</hw>, <hw>Hin"doo*sta"ni</hw>, <hw>Hin"du*sta"ni</hw>  }</mhw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Hind. <ets>Hind<umac/st<amac/n<imac/</ets> an Indian, fr. Hind. and Per. <ets>Hind<umac/st<amac/n</ets> India.]</ety> <def>Of or pertaining to the Hindoos or their language.</def> -- <def2><pos>n.</pos> <def>The language of Hindustan; the name given by Europeans to the most generally spoken of the modern Aryan languages of India. It is Hindi with the addition of Persian and Arabic words.</def></def2><br/
+<mhw>{ <hw>Hin"doo*sta"nee</hw>, <hw>Hin"du*sta"ni</hw>  }</mhw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Hind. <ets>Hind<umac/st<amac/n<imac/</ets> an Indian, fr. Hind. and Per. <ets>Hind<umac/st<amac/n</ets> India.]</ety> <def>Of or pertaining to the Hindoos or their language.</def> -- <def2><pos>n.</pos> <def>The language of Hindustan; the name given by Europeans to the most generally spoken of the modern Aryan languages of India. It is Hindi with the addition of Persian and Arabic words.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hindostani</ent><br/

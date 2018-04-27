@@ -6687,106 +6687,96 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 <p><note><hand/ The elements are naturally classified in several families or groups, as the group of the <xex>alkaline</xex> elements, the <xex>halogen</xex> group, and the like. They are roughly divided into two great classes, the <xex>metals</xex>, as sodium, calcium, etc., which form basic compounds, and the <xex>nonmetals</xex> or <xex>metalloids</xex>, as oxygen, sulphur, chlorine, which form acid compounds; but the distinction is only relative, and some, as arsenic, tin, aluminium, etc., form both acid and basic compounds. The essential fact regarding every element is its <xex>atomic number</xex>. When the elements are tabulated in the order of their ascending atomic numbers, the arrangement constitutes the series of the <xex>Periodic law</xex> of <person>Mendelejeff</person>. See <cref>Periodic law</cref>, under <er>Periodic</er>. This Periodic law enables us to predict the qualities of unknown elements. The number of elements known [in 1890] was about seventy-five, but the gaps in the Periodic law indicated the possibility of many more. Many of the elements with which we are familiar, as hydrogen, carbon, iron, gold, etc., have been recognized, by means of spectrum analysis, in the sun and the fixed stars. The chemical elements are now known not be simple bodies, but combinations of subatomic particles such as protons, neutrons, and electrons. In fact, the atomic number is the number of protons found in the nucleus of an atom. In formulas, the elements are designated by abbreviations of their names in Latin or New Latin, given in the table below.</note><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><pre><table><ttitle>The Elements</ttitle><br/
-------------------------------------------------------------<br/
-Name                   |Sym-|   Atomic  Weight           |<br/
-                       |bol |  O=16  |  H=1  | C=12.000<br/
-------------------------------------------------------------<br/
-Aluminum               | Al |  27.1  |  26.9 |<br/
-Antimony (Stibium)     | Sb | 120    | 119.1 |<br/
-Argon                  | A  |  39.9  |  39.6 |<br/
-Arsenic                | As |  75    |  74.4 |<br/
-Astatine               | At |<br/
-Barium                 | Ba | 137.4  | 136.4 |<br/
-Beryllium              | Be |<br/
-Bismuth                | Bi | 208.5  | 206.9 |<br/
-Boron                  | B  |  11    |  10.9 |<br/
-Bromine                | Br |  79.96 |  79.36|<br/
-Cadmium                | Cd | 112.4  | 111.6 |<br/
-Cesium  (Caesium)      | Cs | 133    | 132   |<br/
-Calcium                | Ca |  40    |  39.7 |<br/
-Carbon                 | C  |  12    |  11.91| 12.000<br/
-Cerium                 | Ce | 140    | 139   |<br/
-Chlorine               | Cl |  35.45 |  35.18|<br/
-Chromium               | Cr |  52.1  |  51.7 |<br/
-Cobalt                 | Co |<br/
-Columbium       (see <er>Beryllium</er>)<br/
-Copper                 | Cu |<br/
-  (<altname>Cuprum</altname>)<br/
-Erbium                 | Er |<br/
-Europium               | Eu |<br/
-Einsteinium            | Es |<br/
-Fermium                | Fe |<br/
-Fluorine               | F  |<br/
-Gadolinium             | Gd |<br/
-Gallium                | Ga |<br/
-Germanium              | Ge |<br/
-Glucinum      (now <er>Beryllium</er>)<br/
-Gold  (<it>Aurum</it>) | Au |<br/
-Helium                 | He |<br/
-Hydrogen               | H  |<br/
-Indium                 | In |<br/
-Iodine                 | I  |<br/
-Iridium                | Ir |<br/
-Iron                   | Fe |<br/
-  (<xex>Ferrum</xex>)<br/
-Krypton                | Kr |<br/
-Lanthanum              | La |<br/
-Lead                   | Pb |<br/
-  (<xex>Plumbum</xex>)<br/
-Lithium                | Li |<br/
-Magnesium              | Mg |<br/
-Manganese              | Mn |<br/
-Mercury                | Hg |<br/
-(<altname>Hydrargyrum</altname>)<br/
-Molybdenum             | Mo |<br/
-Neodymium              | Nd |<br/
-Neon                   | Ne |<br/
-Nickel                 | Ni |<br/
-Niobium                | Nb |<br/
-  (see Columbium)<br/
-Nitrogen               | N  |<br/
-Osmium                 | Os |<br/
-Oxygen                 | O  |<br/
-Palladium              | Pd |<br/
-Phosphorus             | P  |<br/
-Platinum               | Pt |<br/
-Potassium              | K  |<br/
- (<xex>Kalium</xex>)<br/
-Praseodymium           | Pr |<br/
-Rhodium                | Rh |<br/
-Rubidium               | Rb |<br/
-Ruthenium              | Ru |<br/
-Samarium               | Sa |<br/
-Scandium               | Sc |<br/
-Selenium               | Se |<br/
-Silicon                | Si |<br/
-Silver                 | Ag |<br/
- (<xex>Argentum</xex>)<br/
-Sodium                 | Na |<br/
-   (<xex>Natrium</xex>)<br/
-Strontium              | Sr |<br/
-Sulphur                | S  |<br/
-Tantalum               | Ta |<br/
-Tellurium              | Te |<br/
-Thallium               | Tl |<br/
-Thorium                | Th |<br/
-Thulium                | Tu |<br/
-Tin                    | Sn |<br/
-  (<xex>Stannum</xex>)<br/
-Titanium               | Ti |<br/
-Tungsten               | W  |<br/
-  (<xex>Wolfram</xex>ium)<br/
-Uranium                | U  |<br/
-Vanadium               | V  |<br/
-Wolfranium (see <er>Tungsten</er>)<br/
-Xenon                  | X  |<br/
-Ytterbium              | Yb |<br/
-Yttrium                | Y  |<br/
-Zinc                   | Zn |<br/
-Zirconium              | Zr |<br/
-------------------------------------------------------------<br/
-</table></pre><br/
+<p><collapse><b>The Elements</b><br/
+<pre>
+------------------------------------------------------------
+Name                   |Sym-| Atomic Weight  |
+                       |bol |  O=16  |  H=1  |
+------------------------------------------------------------
+Aluminum               | Al |  27.1  |  26.9  |
+Antimony (Stibium)     | Sb | 120    | 119.1  |
+Argon                  | A  |  39.9  |  39.6  |
+Arsenic                | As |  75    |  74.4  |
+Astatine               | At |
+Barium                 | Ba | 137.4  | 136.4  |
+Beryllium              | Be |
+Bismuth                | Bi | 208.5  | 206.9  |
+Boron                  | B  |  11    |  10.9  |
+Bromine                | Br |  79.96 |  79.36 |
+Cadmium                | Cd | 112.4  | 111.6  |
+Cesium (Caesium)       | Cs | 133    | 132    |
+Calcium                | Ca |  40    |  39.7  |
+Carbon                 | C  |  12    |  11.91 |
+Cerium                 | Ce | 140    | 139    |
+Chlorine               | Cl |  35.45 |  35.18 |
+Chromium               | Cr |  52.1  |  51.7  |
+Cobalt                 | Co |
+Columbium (now Niobium)
+Copper (Cuprum)        | Cu |
+Erbium                 | Er |
+Europium               | Eu |
+Einsteinium            | Es |
+Fermium                | Fe |
+Fluorine               | F  |
+Gadolinium             | Gd |
+Gallium                | Ga |
+Germanium              | Ge |
+Glucinum (now Beryllium)
+Gold (Aurum)           | Au |
+Helium                 | He |
+Hydrogen               | H  |
+Indium                 | In |
+Iodine                 | I  |
+Iridium                | Ir |
+Iron (Ferrum)          | Fe |
+Krypton                | Kr |
+Lanthanum              | La |
+Lead (Plumbum)         | Pb |
+Lithium                | Li |
+Magnesium              | Mg |
+Manganese              | Mn |
+Mercury (Hydrargyrum)  | Hg |
+Molybdenum             | Mo |
+Neodymium              | Nd |
+Neon                   | Ne |
+Nickel                 | Ni |
+Niobium                | Nb |
+Nitrogen               | N  |
+Osmium                 | Os |
+Oxygen                 | O  |
+Palladium              | Pd |
+Phosphorus             | P  |
+Platinum               | Pt |
+Potassium (Kalium)     | K  |
+Praseodymium           | Pr |
+Rhodium                | Rh |
+Rubidium               | Rb |
+Ruthenium              | Ru |
+Samarium               | Sa |
+Scandium               | Sc |
+Selenium               | Se |
+Silicon                | Si |
+Silver (Argentum)      | Ag |
+Sodium (Natrium)       | Na |
+Strontium              | Sr |
+Sulphur                | S  |
+Tantalum               | Ta |
+Tellurium              | Te |
+Thallium               | Tl |
+Thorium                | Th |
+Thulium                | Tu |
+Tin (Stannum)          | Sn |
+Titanium               | Ti |
+Tungsten (Wolframium)  | W  |
+Uranium                | U  |
+Vanadium               | V  |
+Xenon                  | Xe |
+Ytterbium              | Yb |
+Yttrium                | Y  |
+Zinc                   | Zn |
+Zirconium              | Zr |
+------------------------------------------------------------
+</pre></collapse><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note>Several other elements have been announced, as holmium, vesbium, austrium, etc., but their properties, and in some cases their existence, have not yet been definitely established.</note><br/
