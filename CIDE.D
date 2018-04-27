@@ -30249,8 +30249,6 @@ The several caskets to this noble prince.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To obtain for the first time sight or knowledge of, as of a thing existing already, but not perceived or known; to find; to ascertain; to espy; to detect.</def> <wns>[wns=1,2,3,4,5,6,7,8]</wns><br/
 [<source>1913 Webster</source>]</p>
 
-<-- all 8 senses in WordNet seem to fit under this category. -->
-
 <p><q>Some to <qex>discover</qex> islands far away.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
