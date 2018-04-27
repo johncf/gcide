@@ -19830,7 +19830,7 @@ To give me hearing what I shall <qex>reply</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Reporter</ent><br/
-<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def>
+<hw>Re*port"er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>One who reports.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>An officer or person who makes authorized statements of law proceedings and decisions, or of legislative debates.</def> <sd>(b)</sd> <def>One who reports speeches, the proceedings of public meetings, news, etc., for the newspapers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Of our tales judge and <qex>reportour</qex>.</q> <rj><qau>Chaucer.</qau></rj><br/

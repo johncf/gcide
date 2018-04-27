@@ -36149,7 +36149,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mormon</ent><br/
-<hw>Mor"mon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Eccl.)</fld> <def>One of a Christian denomination (<membof>The Church of Jesus Christ of Latter-day Saints</membof>) in the United States, followers of <person>Joseph Smith</person>, who professed to have found an addition to the Bible, engraved on golden plates, called the <col><it>Book of Mormon</it></col>, first published in 1830.  The Mormons believe in polygamy, and their hierarchy of apostles, etc., has control of civil and religious matters.</def><br/
+<hw>Mor"mon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <fld>(Eccl.)</fld> <def>One of a Christian denomination (<membof>The Church of Jesus Christ of Latter-day Saints</membof>) in the United States, followers of <person>Joseph Smith</person>, who professed to have found an addition to the Bible, engraved on golden plates, called the <ecol>Book of Mormon</ecol>, first published in 1830.  The Mormons believe in polygamy, and their hierarchy of apostles, etc., has control of civil and religious matters.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The Mormons call their religious organization <membof>The Church of Jesus Christ of Latter-day Saints</membof>. Its head claims to receive revelations of God's will, and to have certain supernatural powers.  The church headquarters are in <city>Salt Lake City</city>, Utah.  They form a substantial fraction of the population of Utah, and at the end of the 20th centrury their numbers were increasing due to active proselytization.</note><br/
