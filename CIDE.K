@@ -357,7 +357,7 @@
 \'d8<hw>Ka"ma</hw> <pr>(k<aum/"m<aum/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>k<amac/ma</ets> love, the god of love.]</ety> <sn>1.</sn> <def>The Hindu Cupid. He is represented as a beautiful youth, with a bow of sugar cane or flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <col>ka"ma ru"pa</col> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <col>ka"ma lo"ca</col> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><-- not the same as karma --><br/
+<p><sn>2.</sn> <def>Desire; animal passion;</def> -- <note>supposed to create the <ecol>ka"ma ru"pa</ecol> <pr>(r<oomac/p<adot/)</pr> <ety>[Skr. <ets>r<umac/pa</ets> shape, image]</ety>, a kind of simulacrum or astral likeness of a man which exists after his death in an invisible plane of being, called <ecol>ka"ma lo"ca</ecol> <pr>(l<omac/"k<adot/)</pr> <ety>[Skr. <ets>l<omac/ka</ets> space, world]</ety>, until the impulses which created it are exhausted and it finally fades away.</note><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Kamala</ent><br/

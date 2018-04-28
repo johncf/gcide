@@ -32290,8 +32290,7 @@ Let him not know it, and he's not <qex>robbed</qex> at all.</q> <rj><qau>Shak.</
 <p><q>I am accursed to <qex>rob</qex> in that thief's company.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Robalito</ent><br/
-<ent>Robalo</ent><br/
+<p><ent>Robalo</ent><br/
 <hw>Rob"a*lo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>r<oacute/balo</ets>.]</ety> <def>Any of several pikelike marine fishes of the West Indies and tropical America constituting the family <fam>Oxylabracidae</fam>, esp. the largest species (<spn>Oxylabrax undecimalis</spn>, syn. <spn>Centropomus undecimalis</spn>), a valuable food fish called also <stype>snook</stype>, the smaller species being called <hw>Rob`a*li"to</hw> <pr>(<?/)</pr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 

@@ -2522,7 +2522,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p><ent>Lamellarly</ent><br/
 <ent>Lamellar</ent><br/
-<hw>Lam"el*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>lamellaire</ets>.]</ety> <def>Flat and thin; lamelliform; composed of lamellAE.</def> -- <def2><hw>Lam"el*lar*ly</hw>, <pos>adv.</pos> <def>In thin plates or scales.</def></def2><br/
+<hw>Lam"el*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>lamellaire</ets>.]</ety> <def>Flat and thin; lamelliform; composed of lamell<ae/.</def> -- <def2><hw>Lam"el*lar*ly</hw>, <pos>adv.</pos> <def>In thin plates or scales.</def></def2><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Lamellary</ent><br/
@@ -10989,22 +10989,13 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 <p><cs><col>Hunting leopard</col>. <cd>See <er>Cheetah</er>.</cd> --<col>Leopard cat</col> <fld>(Zool.)</fld> <cd>any one of several species or varieties of small, spotted cats found in Africa, Southern Asia, and the East Indies; esp., <spn>Felis Bengalensis</spn>.</cd> -- <col>Leopard marmot</col>. <cd>See <er>Gopher</er>, <snr>2</snr>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>leopardbane</ent><br/
-<hw>leop"ard*bane</hw> <pr>(l<ecr/p"<etil/rd*b<amac/n`)</pr>, <pos>n.</pos> <def>Any of several herbs of the genus <gen>Doronicum</gen> (as <spn>Doronicum acaule</spn> syn. <spn>Arnica acaulis</spn>) having alternate often clasping stem leaves cultivated for their long stalks of yellow flower heads.  See <er>leopard's bane</er>.</def><br/
-<syn><b>Syn. --</b> leopard's-bane, leopard's bane.</syn><br/
-[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
-
-<p><cs><col>false" leop`ard*bane</col> <pr>(f<add/ls" l<ecr/p`<etil/rd*b<amac/n`)</pr>, <pos>n.</pos> <cd>Any of several herbs of the genus <gen>Doronicum</gen>, such as the <stype>great false leopardbane</stype> (<spn>Doronicum pardalianches</spn>) of North America and the <stype>oriental false leopardbane</stype> (<spn>Doronicum orientale</spn> syn. <spn>Doronicum caucasicum</spn>).</cd></cs><br/
-[<source>PJC</source>]</p>
-
 <p><ent>leopardess</ent><br/
 <hw>leop"ard*ess</hw> <pr>(l<ecr/p"<etil/rd*<ecr/s)</pr>, <pos>n.</pos> <def>A female leopard.</def><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><ent>leopard's bane</ent><br/
-<hw>leop"ard's bane`</hw> <pr>(l<ecr/p"<etil/rdz b<amac/n`)</pr> <pos>n.</pos> <fld>(Bot.)</fld> <def>A name of several harmless plants, as <spn>Arnica montana</spn> (<spn>Arnica acaulis</spn> syn. <spn>Doronicum acaule</spn>), <spn>Senecio Doronicum</spn>, and <spn>Paris quadrifolia</spn>.</def><br/
-<syn><b>Syn. --</b> leopardbane, leopard's-bane.</syn><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
+<p><ent>Leopard's bane</ent><br/
+<hw>Leop"ard's bane`</hw> <pr>(l<ecr/p"<etil/rdz b<amac/n`)</pr> <pos>n.</pos> <fld>(Bot.)</fld> <def>A name of several harmless plants, as <spn>Arnica montana</spn>, <spn>Senecio Doronicum</spn>, and <spn>Paris quadrifolia</spn>.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>leopardwood</ent><br/
 <hw>leop"ard*wood`</hw>, <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Letterwood</er>.</def><br/

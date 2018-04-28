@@ -19669,10 +19669,8 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Mer"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mermen</plw> <pr>(<?/)</pr>.</plu> <def>The male corresponding to <contr>mermaid</contr>; a sea man, or man fish.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Mero cabrolla</ent><br/
-<ent>Mero de lo alto</ent><br/
-<ent>Mero</ent><br/
-\'d8<hw>Me"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. Pg. <ets>mero</ets>.]</ety> <def>Any of several large groupers of warm seas, esp. the guasa (<spn>Epinephelus guaza</spn>), the red grouper (<spn>Epinephelus morio</spn>), the black grouper (<spn>Epinephelus nigritas</spn>), distinguished as <styp><hw>Me"ro de lo al"to</hw></styp> <pr>(<?/)</pr>, and a species called also <stype>rock hind</stype>, distinguished as <styp><hw>Me"ro ca*brol"la</hw></styp> <pr>(<?/)</pr>.</def><br/
+<p><ent>Mero</ent><br/
+\'d8<hw>Me"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. Pg. <ets>mero</ets>.]</ety> <def>Any of several large groupers of warm seas, esp. the guasa (<spn>Epinephelus guaza</spn>), the red grouper (<spn>Epinephelus morio</spn>), the black grouper (<spn>Epinephelus nigritas</spn>), distinguished as <ecol>Me"ro de lo al"to</ecol> <pr>(<?/)</pr>, and a species called also <stype>rock hind</stype>, distinguished as <ecol>Me"ro ca*brol"la</ecol> <pr>(<?/)</pr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Meroblast</ent><br/
@@ -22354,7 +22352,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 <p><sn>2.</sn> <def>A flooring laid over a floor to bring it up to some height or level.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
-<p><sn>3.</sn>  Also <col>mezzanine floor</col>. <fld>(Theat.)</fld> <def>A floor under the stage, from which various contrivances, as traps, are worked.</def><br/
+<p><sn>3.</sn> Also <ecol>mezzanine floor</ecol>. <fld>(Theat.)</fld> <def>A floor under the stage, from which various contrivances, as traps, are worked.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>4.</sn> <def>The lowest balcony in a theater, or the forward part of the first balcony.</def><br/

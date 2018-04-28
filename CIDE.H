@@ -27878,10 +27878,8 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Hydride</ent><br/
-<hw>Hy"dride</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydr-</ets> + <ets>ide</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound of the binary type, in which hydrogen is united with some other element.</def><-- spec., with a more electropositive element --></p>
-
-<p><cs><col>lith"i*um hy"dride</col> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <cd>A hydride of lithium, <chform>LiH</chform>, commonly used as a powerful reducing agent in organic chemistry.</cd></cs><br/
-[<source>PJC</source>]</p>
+<hw>Hy"dride</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydr-</ets> + <ets>ide</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound of the binary type, in which hydrogen is united with some other element.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><ent>Hydriform</ent><br/
 <hw>Hy"dri*form</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Hydra</ets> + <ets>-form</ets>.]</ety> <fld>(Zool.)</fld> <def>Having the form or structure of a hydra.</def><br/

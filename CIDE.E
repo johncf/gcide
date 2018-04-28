@@ -17349,22 +17349,16 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 <hw>En`zo*<oum/t"ic</hw> <pr>(<ecr/n`z<osl/*<ocr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'en</grk> in + <grk>zw^,on</grk> an animal: cf. F. <ets>enzo<oum/tique</ets>.]</ety> <def>Afflicting animals; -- used of a disease affecting the animals of a district. It corresponds to an <xex>endemic</xex> disease among men.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>enzyme</ent><br/
-<hw>en"zyme</hw> <pr>(<ecr/n"z<imac/m)</pr>, <pos>n.</pos> <ety>[Pref. <ets>en-</ets> (Gr. <grk>'en</grk> in) + Gr. <grk>zy`mh</grk>  leaven.]</ety> <fld>(Physiol. Chem.)</fld> <def>A protein produced by a living organism, capable of catalyzing a chemical reaction.  Almost all processes in living organisms require some form of enzyme to cause the reactions to occur at a rate sufficient to support life.  There are a very wide variety of enzymes, each specifically catalyzing a different chemical reaction, the sum of which cause the bulk of the physiological changes observed as life processes.  Enzymes, like most proteins, are synthesized by the protein-synthetic mechanism of the living cell, at special sites on ribosomes, using the genetic information in messenger RNA transcribed from the genetic instructions stored as nuleotide sequences in the DNA (or in some viruses, the RNA) of the genome.  Some examples of enzymes are: pepsin, diastase, rennet, DNA polymerase, invertase, glucose oxidase, protease, and ribonuclease.  There are many other types of enzyme.</def><br/
-[<source>1913 Webster</source> + <source>PJC</source>]</p>
+<p><ent>Enzyme</ent><br/
+<hw>En"zyme</hw> <pr>(<ecr/n"z<imac/m)</pr>, <pos>n.</pos> <ety>[Pref. <ets>en-</ets> (Gr. <grk>'en</grk> in) + Gr. <grk>zy`mh</grk> leaven.]</ety> <fld>(Physiol. Chem.)</fld> <def>An unorganized or unformed ferment, in distinction from an organized or living ferment; a soluble, or chemical, ferment. <mark>[Outdated]</mark> Ptyalin, pepsin, diastase, and rennet are good examples of enzymes.</def><br/
+[<source>1913 Webster</source>]</p>
 
-<p><note>The 1913 Webster defined an enzyme as: <br/
-An unorganized or unformed ferment, in distinction from an organized or living ferment; a soluble, or chemical, ferment.</note><br/
+<p><sn>2.</sn> <def>A protein produced by a living organism, capable of catalyzing a chemical reaction.  Almost all processes in living organisms require some form of enzyme to cause the reactions to occur at a rate sufficient to support life.  There are a very wide variety of enzymes, each specifically catalyzing a different chemical reaction, the sum of which cause the bulk of the physiological changes observed as life processes.  Enzymes, like most proteins, are synthesized by the protein-synthetic mechanism of the living cell, at special sites on ribosomes, using the genetic information in messenger RNA transcribed from the genetic instructions stored as nuleotide sequences in the DNA (or in some viruses, the RNA) of the genome.  Some examples of enzymes are: pepsin, diastase, rennet, DNA polymerase, invertase, glucose oxidase, protease, and ribonuclease.  There are many other types of enzyme.</def><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Eocene</ent><br/
-<hw>E"o*cene</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'hw`s</grk> daybreak, dawn + <?/ new, recent.]</ety> <fld>(Geol.)</fld> <def>Pertaining to the first in time of the three subdivisions into which the Tertiary formation is divided by geologists, and alluding to the approximation in its life to that of the present era; <as>as, <ex>Eocene</ex> deposits</as>.</def> -- <def2><pos>n.</pos> <def>The Eocene formation.</def></def2>  <rj><au>Lyell.</au></rj><br/
+<hw>E"o*cene</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'hw`s</grk> daybreak, dawn + <?/ new, recent.]</ety> <fld>(Geol.)</fld> <def>Pertaining to the first in time of the three subdivisions into which the Tertiary formation is divided by geologists, and alluding to the approximation in its life to that of the present era; <as>as, <ex>Eocene</ex> deposits</as>.</def> <mark>[Outdated]</mark> -- <def2><pos>n.</pos> <def>The Eocene formation.</def></def2> <rj><au>Lyell.</au></rj> <mark>[Outdated]</mark><br/
 [<source>1913 Webster</source>]</p>
-
-<p><ent>eohippus</ent><br/
-<hw>eo*hip"pus</hw> <pr>(<emac/`<osl/*h<icr/p"p<ucr/s)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'hw`s</grk> dawn + <grk>"ippos</grk>horse.]</ety> <def>an extinct primitive dog-sized 4-toed Eocene mammal, the earliest <isa>horse</isa> known in the line of descent of the modern horse.  It is classed in the extinct genus <gen>Hydracotherium</gen>.  Called also <altname>dawn horse</altname>.</def><br/
-<syn><b>Syn. --</b> dawn horse.</syn><br/
-[<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Eolian</ent><br/
 <hw>E*o"li*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[See <er><AE/olian</er>.]</ety> <sn>1.</sn> <def><AE/olian.</def><br/

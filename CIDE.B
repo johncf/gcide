@@ -27298,8 +27298,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Blue"ness</hw>, <pos>n.</pos> <def>The quality of being blue; a blue color.</def>  <rj><au>Boyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Bluenoser</ent><br/
-<ent>Bluenose</ent><br/
+<p><ent>Bluenose</ent><br/
 <hw>Blue"nose`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A nickname for a Nova Scotian; also, a Nova Scotian ship (called also <hw>Blue"nos`er</hw> <pr>(<?/)</pr>); a Nova Scotian potato, etc.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
@@ -40863,7 +40862,7 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 \'d8<hw>Bro`chette"</hw> <pr>(br<osl/`sh<ecr/t")</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>broche</ets>. See <er>Broach</er>, <pos>n.</pos>]</ety> <fld>(Cookery)</fld> <def>A small spit or skewer.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p> -- <cs><col>En bro`chette"</col> <pr>(<aum/n)</pr> <ety>[F.]</ety>, <cd>on a brochette; skewered.</cd></cs><br/
+<p><cs><col>En bro`chette"</col> <pr>(<aum/n)</pr> <ety>[F.]</ety>, <cd>on a brochette; skewered.</cd></cs><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Brochure</ent><br/

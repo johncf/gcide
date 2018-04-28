@@ -24423,7 +24423,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Top out</ent><br/
-<hw>Top out</hw>. <fld>(Building)</fld> <def>To top off; to finish by putting on a cap of top (uppermost) course (called a <col>top`ping-out" course</col>).</def><br/
+<hw>Top out</hw>. <fld>(Building)</fld> <def>To top off; to finish by putting on a cap of top (uppermost) course (called a <ecol>top`ping-out" course</ecol>).</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Topper</ent><br/
@@ -33696,8 +33696,7 @@ And <qex>frifles</qex> life.</q> <rj><qau>Young.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Gr. & Rom. Antiq.)</fld> <sd>(a)</sd> <def>A kind of triangular lyre or harp.</def> <sd>(b)</sd> <def>A kind of game at ball played by three persons standing at the angular points of a triangle.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Trigonid</ent><br/
-<sn>4.</sn> <fld>(Zool.)</fld> <def>The cutting region of the crown of an upper molar, usually the anterior part. That of a lower molar is the <hw>Tri"go*nid</hw> <pr>(<?/)</pr>.</def><br/
+<p><sn>4.</sn> <fld>(Zool.)</fld> <def>The cutting region of the crown of an upper molar, usually the anterior part. That of a lower molar is the <hw>Tri"go*nid</hw> <pr>(<?/)</pr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Trigonal</ent><br/
