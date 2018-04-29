@@ -5261,7 +5261,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj><br/
 <p><q>The <qex>d<eacute/bouch<eacute/s</qex> were ordered widened to afford easy egress.</q> <rj><qau>The Century.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>D<eacute/bouchure</ent><br/
+<p><ent>Debouchure</ent><br/
 \'d8<hw>D<eacute/`bou`chure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The outward opening of a river, of a valley, or of a strait.</def><br/
 [<source>1913 Webster</source>]</p>
 

@@ -8577,8 +8577,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj><br/
 <p><ent>Ferae</ent><br/
 \'d8<hw>Fe"r<ae/</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[L., wild animals, fem. pl. of <ets>ferus</ets> wild.]</ety> <fld>(Zool.)</fld> <def>A group of mammals which formerly included the Carnivora, Insectivora, Marsupialia, and lemurs, but is now often restricted to the Carnivora.</def></p>
 
-<p><ent>Fer<ae/ natur<ae/</ent><br/
-<-- no pos in original = adj.? -->
+<p><ent>Ferae naturae</ent><br/
 \'d8<hw>Fe"r<ae/ na*tu"r<ae/</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Of a wild nature; -- applied to animals, as foxes, wild ducks, etc., in which no one can claim property.</def><br/
 [<source>1913 Webster</source>]</p>
 

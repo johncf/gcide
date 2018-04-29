@@ -8394,7 +8394,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Re*chase"</hw> <pr>(r<emac/*ch<amac/s")</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>re-</ets> + <ets>chase</ets>: cf. F. <ets>rechasser</ets>.]</ety> <def>To chase again; to chase or drive back.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><ent>Rechauff<eacute/</ent><br/
+<p><ent>Rechauffe</ent><br/
 \'d8<hw>R<eacute/`chauf`f<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., orig. p.p. of <ets>r<eacute/chauffer</ets> 8warm over. See <er>Chafe</er>, <pos>v. t.</pos>]</ety> <def>A dish of food that has been warmed again, hence, fig., something made up from old material; a rehash.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 

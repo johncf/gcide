@@ -12077,7 +12077,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj><br/
 <hw>Vol`a*p<uum/k"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Literally, world's speech; the name of an artificial language invented by <person>Johan Martin Schleyer</person>, of <city>Constance</city>, <country>Switzerland</country>, about 1879.  For more about <ldquo/planned languages<rdquo/, see <er>Esperanto</er>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><ent>Volap<uum/kist</ent><br/
+<p><ent>Volapukist</ent><br/
 <hw>Vol`a*p<uum/k"ist</hw>, <pos>n.</pos> <def>One who is conversant with, or who favors adoption of, Volap<uum/k.</def><br/
 [<source>1913 Webster</source>]</p>
 
