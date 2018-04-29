@@ -17,9 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>Y.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Y</ent><br/
 <hw>Y</hw> <pr>(w<imac/)</pr>. <def>Y, the twenty-fifth letter of the English alphabet, at the beginning of a word or syllable, except when a prefix (see Y-), is usually a fricative vocal consonant; as a prefix, and usually in the middle or at the end of a syllable, it is a vowel.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 145, 178-9, 272.</def><br/
 [<source>1913 Webster</source>]</p>

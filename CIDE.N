@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>N.</point26></centered></p>
-
 <p><ent>N</ent><br/
 <hw>N</hw> <pr>(<ecr/n)</pr>, <def>the fourteenth letter of English alphabet, is a vocal consonent, and, in allusion to its mode of formation, is called the <xex>dentinasal</xex> or <xex>linguanasal</xex> consonent. Its commoner sound is that heard in <xex>ran</xex>, <xex>done</xex>; but when immediately followed in the same word by the sound of <xex>g</xex> hard or <xex>k</xex> (as in <xex>single</xex>, <xex>sink</xex>, <xex>conquer</xex>), it usually represents the same sound as the digraph <xex>ng</xex> in <xex>sing</xex>, <xex>bring</xex>, etc. This is a simple but related sound, and is called the <xex>gutturo-nasal</xex> consonent. See <er>Guide to Pronunciation</er>, <sect/<sect/ 243-246.</def><br/
 [<source>1913 Webster</source>]</p>

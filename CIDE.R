@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point16>R.</point16></centered></p>
-
 <p><ent>R</ent><br/
 <hw>R</hw> <pr>(<aum/r)</pr>. <def>R, the eighteenth letter of the English alphabet, is a vocal consonant.  It is sometimes called a <xex>semivowel</xex>, and a <xex>liquid</xex>. See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 178, 179, and 250-254.</def> <ldquo/<xex>R</xex> is the dog's letter and hurreth in the sound.<rdquo/  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -40138,7 +40136,4 @@ Never defied men braver.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ It is now extinct, but was formerly abundant at Bering's Island, near Bering's Straits.  It was twenty-five feet or more in length, with a thick, blackish, naked skin.  The last were killed in 1768 for their oil and flesh.</note><-- another man-made extinction --><br/
-[<source>1913 Webster</source>]</p>
-
-<p><-- Bottom of page 1263.  "S" begins at the top of page 1264 --><br/
 [<source>1913 Webster</source>]</p>

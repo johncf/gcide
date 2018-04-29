@@ -19,8 +19,6 @@
 
 <p><-- p. 535 --></p>
 
-<p><centered><point26>F.</point26></centered></p>
-
 <p><ent>F</ent><br/
 <hw>F</hw> <pr>(<ecr/f)</pr>. <sn>1.</sn> <def>F is the sixth letter of the English alphabet, and a nonvocal consonant. Its form and sound are from the Latin. The Latin borrowed the form from the Greek digamma <?/, which probably had the value of English <it>w</it> consonant. The form and value of Greek letter came from the Ph<oe/nician, the ultimate source being probably Egyptian. Etymologically <it>f</it> is most closely related to <it>p</it>, <it>k</it>, <it>v</it>, and <it>b</it>; as in E. <it>f</it>ive, Gr. <grk>pe`nte</grk>; E. wol<it>f</it>, L. lu<it>p</it>us, Gr. <grk>ly`kos</grk>; E. <it>f</it>ox, <it>v</it>ixen ; <it>f</it>ragile, <it>b</it>reak; <it>f</it>ruit, <it>b</it>rook, <pos>v. t.</pos>; E. <it>b</it>ear, L. <it>f</it>erre. See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 178, 179, 188, 198, 230.</def><br/
 [<source>1913 Webster</source>]</p>

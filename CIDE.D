@@ -19,8 +19,6 @@
 
 <p><-- p. 364 --></p>
 
-<p><centered><point26>D.</point26></centered></p>
-
 <p><ent>D</ent><br/
 <hw>D</hw> <pr>(d<emac/)</pr> <sn>1.</sn> <def>The fourth letter of the English alphabet, and a vocal consonant. The English letter is from Latin, which is from Greek, which took it from Ph<oe/nician, the probable ultimate origin being Egyptian. It is related most nearly to <xex>t</xex> and <xex>th</xex>; <as>as, Eng. <xex>d</xex>eep, G. <xex>t</xex>ief; Eng. <xex>d</xex>aughter, G. <xex>t</xex>ochter, Gr. <grk>qyga`thr</grk>, Skr. <xex>d</xex>uhitr</as>. See <xex>Guide to Pronunciation</xex>, <root/178, 179, 229.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -52356,5 +52354,3 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The name is sometimes applied also to the koulan or onager. See <er>Koulan</er>.</note></p>
-
-<p><-- D ends and E begins in the middle of page 464 --></p>

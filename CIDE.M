@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>M.</point26></centered></p>
-
 <p><ent>M</ent><br/
 <hw>M</hw> <pr>(<ecr/m)</pr>. <sn>1.</sn> <def>M, the thirteenth letter of the English alphabet, is a vocal consonant, and from the manner of its formation, is called the <xex>labio-nasal</xex> consonant. See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 178-180, 242.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -44264,5 +44262,3 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 <p><ent>Myzostomata</ent><br/
 \'d8<hw>My`zo*stom"a*ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>my`zein</grk> to suck + <grk>sto`ma</grk>, <grk>-atos</grk>, mouth.]</ety> <fld>(Zool.)</fld> <def>An order of curious parasitic worms found on crinoids. The body is short and disklike, with four pairs of suckers and five pairs of hook-bearing parapodia on the under side.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 961 --></p>

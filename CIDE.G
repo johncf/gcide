@@ -17,9 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>G.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>G</ent><br/
 <hw>G</hw> <pr>(j<emac/)</pr> <sn>1.</sn> <def>G is the seventh letter of the English alphabet, and a vocal consonant. It has two sounds; one simple, as in <xex>gave</xex>, <xex>go</xex>, <xex>gull</xex>; the other compound (like that of <it>j</it>), as in <xex>gem</xex>, <xex>gin</xex>, <xex>dingy</xex>. See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 231-6, 155, 176, 178, 179, 196, 211, 246.</def><br/
 [<source>1913 Webster</source>]</p>

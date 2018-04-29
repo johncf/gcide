@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>T.</point26></centered></p>
-
 <p><ent>T</ent><br/
 <hw>T</hw> <pr>(t<emac/)</pr>, <def>the twentieth letter of the English alphabet, is a nonvocal consonant. With the letter <xex>h</xex> it forms the digraph <xex>th</xex>, which has two distinct sounds, as in <xex>th</xex>in, <xex>th</xex>en. See <xex>Guide to Pronunciation</xex>, <sect/<sect/262-264, and also <sect/<sect/153, 156, 169, 172, 176, 178-180.</def><br/
 [<source>1913 Webster</source>]</p>

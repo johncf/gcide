@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>X.</point26></centered></p>
-
 <p><ent>X</ent><br/
 <hw>X</hw> <pr>(<ecr/ks)</pr>. <def>X, the twenty-fourth letter of the English alphabet, has three sounds; a compound nonvocal sound (that of <xex>ks</xex>), as in <xex>wax</xex>; a compound vocal sound (that of <xex>gz</xex>), as in <xex>example</xex>; and, at the beginning of a word, a simple vocal sound (that of <it>z</it>), as in <xex>xanthic</xex>.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 217, 270, 271.</def><br/
 [<source>1913 Webster</source>]</p>

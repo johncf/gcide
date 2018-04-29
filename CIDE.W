@@ -19,9 +19,6 @@
 
 <p><-- p. 1621 --></p>
 
-<p><centered><point26>W.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>W</ent><br/
 <hw>W</hw> <pr>(d<ucr/b"'l <umac/)</pr>, <def>the twenty-third letter of the English alphabet, is usually a consonant, but sometimes it is a vowel, forming the second element of certain diphthongs, as in <xex>few</xex>, <xex>how</xex>. It takes its written form and its name from the repetition of a V, this being the original form of the Roman capital letter which we call <xex>U</xex>. Etymologically it is most related to <xex>v</xex> and <xex>u</xex>.  See V, and U. Some of the uneducated classes in England, especially in London, confuse <xex>w</xex> and <xex>v</xex>, substituting the one for the other, as <xex>weal</xex> for <xex>veal</xex>, and <xex>veal</xex> for <xex>weal</xex>; <xex>wine</xex> for <xex>vine</xex>, and <xex>vine</xex> for <xex>wine</xex>, etc.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 266-268.</def><br/
 [<source>1913 Webster</source>]</p>

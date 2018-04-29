@@ -17,9 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>J.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>J</ent><br/
 <hw>J</hw> <pr>(j<amac/)</pr>. <def>J is the tenth letter of the English alphabet. It is a later variant form of the Roman letter I, used to express a consonantal sound, that is, originally, the sound of English <xex>y</xex> in <xex>yet</xex>. The forms J and I have, until a recent time, been classed together, and they have been used interchangeably.</def><br/
 [<source>1913 Webster</source>]</p>

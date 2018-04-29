@@ -19,8 +19,6 @@
 
 <p><-- p. 723 --></p>
 
-<p><centered><point26>I.</point26></centered></p>
-
 <p><ent>I</ent><br/
 <hw>I</hw> <pr>(<imac/)</pr>. <sn>1.</sn> <def>I, the ninth letter of the English alphabet, takes its form from the Ph<oe/nician, through the Latin and the Greek. The Ph<oe/nician letter was probably of Egyptian origin. Its original value was nearly the same as that of the Italian I, or long <xex>e</xex> as in <xex>mete</xex>. Etymologically I is most closely related to <xex>e</xex>, <xex>y</xex>, <xex>j</xex>, <xex>g</xex>; as in d<xex>i</xex>nt, d<xex>e</xex>nt, b<xex>e</xex>verage, L. b<xex>i</xex>bere; E. k<xex>i</xex>n, AS. c<xex>y</xex>nn; E. th<xex>i</xex>n, AS. <thorn/<xex>y</xex>nne; E. domin<xex>i</xex>on, don<xex>j</xex>on, dun<xex>g</xex>eon.</def>
    In English I has two principal vowel sounds: the long sound, as in <xex>p<imac/ne</xex>, <xex><imac/ce</xex>; and the short sound, as in <xex>p<icr/n</xex>. It has also three other sounds: (<xex>a</xex>) That of <xex>e</xex> in <xex>term</xex>, as in <xex>thirst</xex>. (<xex>b</xex>) That of <xex>e</xex> in <xex>mete</xex> (in words of foreign origin), as in <xex>machine</xex>, <xex>pique</xex>, <xex>regime</xex>. (<xex>c</xex>) That of consonant <xex>y</xex> (in many words in which it precedes another vowel), as in <xex>bunion</xex>, <xex>million</xex>, <xex>filial</xex>, <xex>Christian</xex>, etc. It enters into several digraphs, as in <xex>fail</xex>, <xex>field</xex>, <xex>seize</xex>, <xex>feign</xex>. <xex>friend</xex>; and with <xex>o</xex> often forms a proper diphtong, as in <xex>oil</xex>, <xex>join</xex>, <xex>coin</xex>.</p>

@@ -19,9 +19,6 @@
 
 <p><-- p. 821 --></p>
 
-<p><centered><point26>L.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>L</ent><br/
 <hw>L</hw> <pr>(<ecr/l)</pr> <pos>n.</pos> <sn>1.</sn> <def>L is the twelfth letter of the English alphabet, and a vocal consonant. It is usually called a <xex>semivowel</xex> or <xex>liquid</xex>. Its form and value are from the Greek, through the Latin, the form of the Greek letter being from the Ph<oe/nician, and the ultimate origin prob. Egyptian. Etymologically, it is most closely related to <xex>r</xex> and <xex>u</xex>; as in pi<xex>l</xex>grim, pe<xex>r</xex>egrine, co<xex>u</xex>ch (fr. co<xex>ll</xex>ocare), a<xex>u</xex>bura (fr. LL. a<xex>l</xex>burnus).</def><br/
 [<source>1913 Webster</source>]</p>

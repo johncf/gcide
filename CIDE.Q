@@ -19,9 +19,6 @@
 
 <p><-- p. 1171 --></p>
 
-<p><centered><point26>Q.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Q</ent><br/
 <hw>Q</hw> <pr>(k<umac/)</pr>, <def>the seventeenth letter of the English alphabet, has but one sound (that of <xex>k</xex>), and is always followed by <xex>u</xex>, the two letters together being sounded like <xex>kw</xex>, except in some words in which the <xex>u</xex> is silent. See <xex>Guide to Pronunciation</xex>, <sect/ 249. Q is not found in Anglo-Saxon, <xex>cw</xex> being used instead of <xex>qu</xex>; as in <xex>cwic</xex>, quick; <xex>cwen</xex>, queen. The name (k<umac/) is from the French <xex>ku</xex>, which is from the Latin name of the same letter; its form is from the Latin, which derived it, through a Greek alphabet, from the Ph<oe/nician, the ultimate origin being Egyptian.</def><br/
 [<source>1913 Webster</source>]</p>

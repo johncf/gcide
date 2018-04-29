@@ -17,11 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- D ends and E begins in the middle of page 464 --></p>
-
-<p><centered><point26>E.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>E</ent><br/
 <hw>E</hw> <pr>(<emac/)</pr>. <sn>1.</sn> <def>The fifth letter of the English alphabet.</def> <note>It derives its form, name, and value from the Latin, the form and value being further derived from the Greek, into which it came from the Ph<oe/nician, and ultimately, probably, from the Egyptian. Its etymological relations are closest with the vowels <xex>i</xex>, <xex>a</xex>, and <xex>o</xex>, as illustrated by to f<xex>a</xex>ll, to f<xex>e</xex>ll; m<xex>a</xex>n, pl. m<xex>e</xex>n; dr<xex>i</xex>nk, dr<xex>a</xex>nk, dr<xex>e</xex>nch; d<xex>i</xex>nt, d<xex>e</xex>nt; d<xex>oo</xex>m, d<xex>ee</xex>m; g<xex>oo</xex>se, pl. g<xex>ee</xex>se; b<xex>ee</xex>f, OF. b<xex>oe</xex>f, L. b<xex>o</xex>s; and E. ch<xex>ee</xex>r, OF. ch<xex>ie</xex>re, LL. <xex>ca</xex>ra.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -34020,5 +34015,3 @@ On cliffs and cedar tops their <qex>eyries</qex> build.</q> <rj><qau>Milton.</qa
 
 <p><ent>Eysell</ent><br/
 <hw>Ey"sell</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Eisel</er>.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
-
-<p><-- end of page 534.  Next page is 535, beginning of "F". --></p>

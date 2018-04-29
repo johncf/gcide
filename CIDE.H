@@ -17,9 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>H.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>H</ent><br/
 <hw>H</hw> <pr>(<amac/ch)</pr>, <def>the eighth letter of the English alphabet, is classed among the consonants, and is formed with the mouth organs in the same position as that of the succeeding vowel. It is used with certain consonants to form digraphs representing sounds which are not found in the alphabet, as <it>sh</it>, <it>th</it>, <it><th/</it>, as in <it>shall</it>, <it>thing</it>, <it><th/ine</it> (for <it>zh</it> see <sect/274); also, to modify the sounds of some other letters, as when placed after c and p, with the former of which it represents a compound sound like that of <it>tsh</it>, as in <it>charm</it> (written also <it>tch</it> as in <it>catch</it>), with the latter, the sound of <it>f</it>, as in <it>phase</it>, <it>phantom</it>. In some words, mostly derived or introduced from foreign languages, <it>h</it> following <it>c</it> and <it>g</it> indicates that those consonants have the hard sound before <it>e</it>, <it>i</it>, and <it>y</it>, as in <xex>chemistry</xex>, <xex>chiromancy</xex>, <xex>chyle</xex>, <xex>Ghent</xex>, <xex>Ghibelline</xex>, etc.; in some others, <it>ch</it> has the sound of <it>sh</it>, as in <xex>chicane</xex>.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 153, 179, 181-3, 237-8.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -30508,5 +30505,3 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj><br/
 
 <p><ent>Hythe</ent><br/
 <hw>Hythe</hw> <pr>(h<imac/<th/)</pr>, <pos>n.</pos> <def>A small haven. See <er>Hithe</er>.</def> <mark>[Obs.]</mark></p>
-
-<p><-- bottom of page 722.  Next page is 723, starting "I" --></p>

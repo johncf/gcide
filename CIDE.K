@@ -19,9 +19,6 @@
 
 <p><-- p. 808 --></p>
 
-<p><centered><point26>K.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>K</ent><br/
 <hw>K</hw>, <pr>(k<amac/)</pr>, <def>the eleventh letter of the English alphabet, is nonvocal consonant. The form and sound of the letter <hwf>K</hwf> are from the Latin, which used the letter but little except in the early period of the language. It came into the Latin from the Greek, which received it from a Ph<oe/nician source, the ultimate origin probably being Egyptian.  Etymologically <hwf>K</hwf> is most nearly related to <it>c</it>, <it>g</it>, <it>h</it> (which see).</def></p>
 
@@ -6809,5 +6806,3 @@ As he had <qex>kyked</qex> on the newe moon.</q> <rj><qau>Chaucer.</qau></rj><br
 <p><ent>Kytoplasma</ent><br/
 \'d8<hw>Ky`to*plas"ma</hw> <pr>(k<imac/`t<osl/*pl<acr/z"m<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ky`tos</grk> a hollow vessel + <grk>pla`sma</grk> thing molded.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyoplasma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 821 --></p>

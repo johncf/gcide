@@ -17,9 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><centered><point26>V.</point26></centered><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>V</ent><br/
 <hw>V</hw> <pr>(v<emac/)</pr>. <sn>1.</sn> <def>V, the twenty-second letter of the English alphabet, is a vocal consonant. V and U are only varieties of the same character, U being the cursive form, while V is better adapted for engraving, as in stone. The two letters were formerly used indiscriminately, and till a comparatively recent date words containing them were often classed together in dictionaries and other books of reference (see <er>U</er>). The letter V is from the Latin alphabet, where it was used both as a consonant (about like English <it>w</it>) and as a vowel. The Latin derives it from a form (V) of the Greek vowel <UPSILON/ (see <er>Y</er>), this Greek letter being either from the same Semitic letter as the digamma <universbold>F</universbold> (see <er>F</er>), or else added by the Greeks to the alphabet which they took from the Semitic. Etymologically <xex>v</xex> is most nearly related to <xex>u</xex>, <xex>w</xex>, <xex>f</xex>, <xex>b</xex>, <xex>p</xex>; as in <xex>v</xex>ine, <xex>w</xex>ine; a<xex>v</xex>oirdupois, ha<xex>b</xex>it, ha<xex>v</xex>e; sa<xex>f</xex>e, sa<xex>v</xex>e; tro<xex>v</xex>er, trou<xex>b</xex>adour, tro<xex>p</xex>e. See U, F, etc.</def><br/
 [<source>1913 Webster</source>]</p>

@@ -19,8 +19,6 @@
 
 <p><-- p. 109 pr=SA --></p>
 
-<p><centered><point26>B.</point26></centered></p>
-
 <p><ent>B</ent><br/
 <hw>B</hw> <pr>(b<emac/)</pr> <def>is the second letter of the English alphabet. (See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 196, 220.) It is etymologically related to <it>p</it>, <it>v</it>, <it>f</it>, <it>w</it>, and <it>m</it>, letters representing sounds having a close organic affinity to its own sound; as in Eng. <xex>b</xex>ursar and <xex>p</xex>urser; Eng. <xex>b</xex>ear and Lat. <xex>f</xex>erre; Eng. sil<xex>v</xex>er and Ger. sil<xex>b</xex>er; Lat. cu<xex>b</xex>itum and It. go<xex>m</xex>ito; Eng. se<xex>v</xex>en, Anglo-Saxon seo<xex>f</xex>on, Ger. sie<xex>b</xex>en, Lat. se<xex>p</xex>tem, Gr.<grk>"epta`</grk>, Sanskrit sa<xex>p</xex>tan.  The form of letter B is Roman, from the Greek B (<xex>Beta</xex>), of Semitic origin. The small b was formed by gradual change from the capital B.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -48777,5 +48775,3 @@ I met this crown.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Byzantium</ent><br/
 <hw>Byzantium</hw> <pos>prop. n.</pos> <def>An ancient city on the Bosphorus founded by the Greeks.  It was later renamed <altname>Constaninople</altname> in honor of the emperor <persfn>Constantine</persfn>, and renamed <altname>Istanbul</altname> by the Turks, which name it still retains.</def><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- p. 199 --></p>
