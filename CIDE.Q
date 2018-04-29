@@ -137,7 +137,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadra</ent><br/
-\'d8<hw>Quad"ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadr<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a square, the socle, a platband, a fillet.]</ety> <fld>(Arch.)</fld> <sd>(a)</sd> <def>The plinth, or lowest member, of any pedestal, podium, water table, or the like.</def> <sd>(b)</sd> <def>A fillet, or listel.</def><br/
+<par/<hw>Quad"ra</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadr<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a square, the socle, a platband, a fillet.]</ety> <fld>(Arch.)</fld> <sd>(a)</sd> <def>The plinth, or lowest member, of any pedestal, podium, water table, or the like.</def> <sd>(b)</sd> <def>A fillet, or listel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrable</ent><br/
@@ -153,7 +153,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadragesima</ent><br/
-\'d8<hw>Quad`ra*ges"i*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>quadragesimus</ets> the fortieth, fr. <ets>quadraginta</ets> forty; akin to <ets>quattuor</ets> four. See <er>Four</er>.]</ety> <fld>(Eccl.)</fld> <def>The forty days of fast preceding Easter; Lent.</def><br/
+<par/<hw>Quad`ra*ges"i*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>quadragesimus</ets> the fortieth, fr. <ets>quadraginta</ets> forty; akin to <ets>quattuor</ets> four. See <er>Four</er>.]</ety> <fld>(Eccl.)</fld> <def>The forty days of fast preceding Easter; Lent.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Quadragesima Sunday</col>, <cd>the first Sunday in Lent, about forty days before Easter.</cd></cs><br/
@@ -182,7 +182,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrans</ent><br/
-\'d8<hw>Quad"rans</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadrantes</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Rom. Antiq.)</fld> <def>A fourth part of the coin called an as. See 3d As, 2.</def><br/
+<par/<hw>Quad"rans</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadrantes</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <sn>1.</sn> <fld>(Rom. Antiq.)</fld> <def>A fourth part of the coin called an as. See 3d As, 2.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The fourth of a penny; a farthing. See <er>Cur</er>.</def><br/
@@ -332,7 +332,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrennium</ent><br/
-\'d8<hw>Quad*ren"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Quadrennial</er>.]</ety> <def>A space or period of four years.</def><br/
+<par/<hw>Quad*ren"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Quadrennial</er>.]</ety> <def>A space or period of four years.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadri-</ent><br/
@@ -360,7 +360,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadriceps</ent><br/
-\'d8<hw>Quad"ri*ceps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>qyattuor</ets> four + <ets>caput</ets> head.]</ety> <fld>(Anat.)</fld> <def>The great extensor muscle of the knee, divided above into four parts which unite in a single tendon at the knee.</def><br/
+<par/<hw>Quad"ri*ceps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>qyattuor</ets> four + <ets>caput</ets> head.]</ety> <fld>(Anat.)</fld> <def>The great extensor muscle of the knee, divided above into four parts which unite in a single tendon at the knee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadricipital</ent><br/
@@ -407,7 +407,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadriga</ent><br/
-\'d8<hw>Quad*ri"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadrig<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Quadrijugous</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>A car or chariot drawn by four horses abreast.</def><br/
+<par/<hw>Quad*ri"ga</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quadrig<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Quadrijugous</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>A car or chariot drawn by four horses abreast.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrigeminous</ent><br/
@@ -571,7 +571,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrivium</ent><br/
-\'d8<hw>Quad*riv"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>The four <ldquo/liberal arts,<rdquo/ arithmetic, music, geometry, and astronomy; -- so called by the schoolmen. See <er>Trivium</er>.</def><br/
+<par/<hw>Quad*riv"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>The four <ldquo/liberal arts,<rdquo/ arithmetic, music, geometry, and astronomy; -- so called by the schoolmen. See <er>Trivium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadroon</ent><br/
@@ -583,7 +583,7 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrumana</ent><br/
-\'d8<hw>Quad*ru"ma*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Quadrumane</er>.]</ety> <fld>(Zool.)</fld> <def>A division of the Primates comprising the apes and monkeys; -- so called because the hind foot is usually prehensile, and the great toe opposable somewhat like a thumb. Formerly the <xex>Quadrumana</xex> were considered an order distinct from the Bimana, which last included man alone.</def><br/
+<par/<hw>Quad*ru"ma*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Quadrumane</er>.]</ety> <fld>(Zool.)</fld> <def>A division of the Primates comprising the apes and monkeys; -- so called because the hind foot is usually prehensile, and the great toe opposable somewhat like a thumb. Formerly the <xex>Quadrumana</xex> were considered an order distinct from the Bimana, which last included man alone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quadrumane</ent><br/
@@ -669,11 +669,11 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quaere</ent><br/
-\'d8<hw>Qu<ae/"re</hw> <pr>(?)</pr>, <pos>v. imperative.</pos> <ety>[L., imperative of <ets>quaerere</ets> to seek.]</ety> <def>Inquire; question; see; -- used to signify doubt or to suggest investigation.</def><br/
+<par/<hw>Qu<ae/"re</hw> <pr>(?)</pr>, <pos>v. imperative.</pos> <ety>[L., imperative of <ets>quaerere</ets> to seek.]</ety> <def>Inquire; question; see; -- used to signify doubt or to suggest investigation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quaestor</ent><br/
-\'d8<hw>Qu<ae/s"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Questor</er>.</def><br/
+<par/<hw>Qu<ae/s"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Questor</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quaff</ent><br/
@@ -1178,7 +1178,7 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>A definite portion of a manifoldness, limited by a mark or by a boundary.</def>  <rj><au>W. K. Clifford.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col>\'d8Quantum meruit</col> <pr>(<?/)</pr> <ety>[L., as much as he merited]</ety> <fld>(Law)</fld>, <cd>a count in an action grounded on a promise that the defendant would pay to the plaintiff for his service as much as he should deserve.</cd> -- <mcol><col>\'d8Quantum sufficit</col> <pr>(<?/)</pr>, <it>or</it> <col>Quantum suff.</col></mcol>  <ety>[L., as much suffices]</ety> <fld>(Med.)</fld>, <cd>a sufficient quantity; -- abbreviated  <altname>q. s.</altname> in pharmacy.</cd> -- <col>\'d8Quantum valebat</col> <pr>(<?/)</pr> <ety>[L., as much at it was worth]</ety> <fld>(Law)</fld>, <cd>a count in an action to recover of the defendant, for goods sold, as much as they were worth.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
+<p><cs><col><par/Quantum meruit</col> <pr>(<?/)</pr> <ety>[L., as much as he merited]</ety> <fld>(Law)</fld>, <cd>a count in an action grounded on a promise that the defendant would pay to the plaintiff for his service as much as he should deserve.</cd> -- <mcol><col><par/Quantum sufficit</col> <pr>(<?/)</pr>, <it>or</it> <col>Quantum suff.</col></mcol>  <ety>[L., as much suffices]</ety> <fld>(Med.)</fld>, <cd>a sufficient quantity; -- abbreviated  <altname>q. s.</altname> in pharmacy.</cd> -- <col><par/Quantum valebat</col> <pr>(<?/)</pr> <ety>[L., as much at it was worth]</ety> <fld>(Law)</fld>, <cd>a count in an action to recover of the defendant, for goods sold, as much as they were worth.</cd>  <rj><au>Blackstone.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quap</ent><br/
@@ -1420,7 +1420,7 @@ Did <qex>quarrel</qex> with the noblest grace she owed.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quarte</ent><br/
-\'d8<hw>Quarte</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as 2d <er>Carte</er>.</def><br/
+<par/<hw>Quarte</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Same as 2d <er>Carte</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quartene</ent><br/
@@ -1896,7 +1896,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quattrocento</ent><br/
-\'d8<hw>Quat`tro*cen"to</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[It., four hundred, used as an abbreviated expression for the dates beginning with fourteen hundred.]</ety> <def>The fifteenth century, when applied to Italian art or literature; <as>as, the sculpture of the <ex>quattrocento</ex>; <ex>quattrocento</ex> style</as>.</def> -- <wordforms><wf>Quat`tro*cen"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
+<par/<hw>Quat`tro*cen"to</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[It., four hundred, used as an abbreviated expression for the dates beginning with fourteen hundred.]</ety> <def>The fifteenth century, when applied to Italian art or literature; <as>as, the sculpture of the <ex>quattrocento</ex>; <ex>quattrocento</ex> style</as>.</def> -- <wordforms><wf>Quat`tro*cen"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Quatuor</ent><br/
@@ -2012,7 +2012,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quebracho</ent><br/
-\'d8<hw>Que*bra"cho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>A Chilian apocynaceous tree (<spn>Aspidosperma Quebracho</spn>); also, its bark, which is used as a febrifuge, and for dyspn<oe/a of the lung, or bronchial diseases; -- called also <altname>white quebracho</altname>, to distinguish it from the <xex>red quebracho</xex>, a Mexican anacardiaceous tree (<spn>Loxopterygium Lorentzii</spn>) whose bark is said to have similar properties.</def>  <rj><au>J. Smith (Dict. Econ. Plants).</au></rj><br/
+<par/<hw>Que*bra"cho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Bot.)</fld> <def>A Chilian apocynaceous tree (<spn>Aspidosperma Quebracho</spn>); also, its bark, which is used as a febrifuge, and for dyspn<oe/a of the lung, or bronchial diseases; -- called also <altname>white quebracho</altname>, to distinguish it from the <xex>red quebracho</xex>, a Mexican anacardiaceous tree (<spn>Loxopterygium Lorentzii</spn>) whose bark is said to have similar properties.</def>  <rj><au>J. Smith (Dict. Econ. Plants).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quebrith</ent><br/
@@ -2231,7 +2231,7 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quelquechose</ent><br/
-\'d8<hw>Quelque"chose`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>quelque chose</ets> something.]</ety> <def>A trifle; a kickshaw.</def>  <rj><au>Donne.</au></rj><br/
+<par/<hw>Quelque"chose`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>quelque chose</ets> something.]</ety> <def>A trifle; a kickshaw.</def>  <rj><au>Donne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Queme</ent><br/
@@ -2317,7 +2317,7 @@ She will not <qex>quench</qex>!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quercus</ent><br/
-\'d8<hw>Quer"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., an oak.]</ety> <fld>(Bot.)</fld> <def>A genus of trees constituted by the oak. See <er>Oak</er>.</def><br/
+<par/<hw>Quer"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., an oak.]</ety> <fld>(Bot.)</fld> <def>A genus of trees constituted by the oak. See <er>Oak</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Querele</ent><br/
@@ -3007,7 +3007,7 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quidam</ent><br/
-\'d8<hw>Qui"dam</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Somebody; one unknown.</def>  <rj><au>Spenser.</au></rj><br/
+<par/<hw>Qui"dam</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Somebody; one unknown.</def>  <rj><au>Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quiddany</ent><br/
@@ -3382,7 +3382,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quindecemvir</ent><br/
-\'d8<hw>Quin`de*cem"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Quindecemvirs</plw> <pr>(#)</pr>, L. <plw>Quindecemviri</plw> <pr>(#)</pr>.</plu> <ety>[L., from <ets>quindecim</ets> fifteen + <ets>vir</ets> a man.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of a sacerdotal college of fifteen men whose chief duty was to take care of the Sibylline books.</def><br/
+<par/<hw>Quin`de*cem"vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Quindecemvirs</plw> <pr>(#)</pr>, L. <plw>Quindecemviri</plw> <pr>(#)</pr>.</plu> <ety>[L., from <ets>quindecim</ets> fifteen + <ets>vir</ets> a man.]</ety> <fld>(Rom. Antiq.)</fld> <def>One of a sacerdotal college of fifteen men whose chief duty was to take care of the Sibylline books.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quindecemvirate</ent><br/
@@ -3412,7 +3412,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinia</ent><br/
-\'d8<hw>Quin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Chem.)</fld> <def>Quinine.</def><br/
+<par/<hw>Quin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Chem.)</fld> <def>Quinine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinible</ent><br/
@@ -3457,7 +3457,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinoa</ent><br/
-\'d8<hw>Qui*no"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The seeds of a kind of goosewort (<spn>Chenopodium Quinoa</spn>), used in Chili and Peru for making porridge or cakes; also, food thus made.</def><br/
+<par/<hw>Qui*no"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The seeds of a kind of goosewort (<spn>Chenopodium Quinoa</spn>), used in Chili and Peru for making porridge or cakes; also, food thus made.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinogen</ent><br/
@@ -3572,7 +3572,7 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquennalia</ent><br/
-\'d8<hw>Quin`quen*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>quinquennalis</ets>. See <er>Ouinquennial</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>Public games celebrated every five years.</def><br/
+<par/<hw>Quin`quen*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>quinquennalis</ets>. See <er>Ouinquennial</er>.]</ety> <fld>(Rom. Antiq.)</fld> <def>Public games celebrated every five years.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquennial</ent><br/
@@ -3607,11 +3607,11 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquevir</ent><br/
-\'d8<hw>Quin"que*vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl; E. <plw>Quinquevirs</plw> <pr>(#)</pr>, L. <plw>Quinqueviri</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>quinque</ets> Five + <ets>vir</ets> man.]</ety> <fld>(Bot. Antiq.)</fld> <def>One of five commissioners appointed for some special object.</def><br/
+<par/<hw>Quin"que*vir</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl; E. <plw>Quinquevirs</plw> <pr>(#)</pr>, L. <plw>Quinqueviri</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>quinque</ets> Five + <ets>vir</ets> man.]</ety> <fld>(Bot. Antiq.)</fld> <def>One of five commissioners appointed for some special object.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquina</ent><br/
-\'d8<hw>Quin*qui"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. & F. See <er>Quinine</er>.]</ety> <def>Peruvian bark.</def><br/
+<par/<hw>Quin*qui"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. & F. See <er>Quinine</er>.]</ety> <def>Peruvian bark.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quinquivalent</ent><br/
@@ -3789,7 +3789,7 @@ But all his merry <qex>quips</qex> are o'er.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>PJC</source>]</p>
 
 <p><ent>Quipu</ent><br/
-\'d8<hw>Qui"pu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quipus</plw> <pr>(#)</pr>.</plu> <ety>[Peruv. <ets>quipu</ets> a knot.]</ety> <def>A contrivance employed by the ancient Peruvians, Mexicans, etc., as a substitute for writing and figures, consisting of a main cord, from which hung at certain distances smaller cords of various colors, each having a special meaning, as silver, gold, corn, soldiers. etc. Single, double, and triple knots were tied in the smaller cords, representing definite numbers. It was chiefly used for arithmetical purposes, and to register important facts and events.</def> <altsp>[Written also <asp>quipo</asp>.]</altsp> <au>Tylor.</au><br/
+<par/<hw>Qui"pu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Quipus</plw> <pr>(#)</pr>.</plu> <ety>[Peruv. <ets>quipu</ets> a knot.]</ety> <def>A contrivance employed by the ancient Peruvians, Mexicans, etc., as a substitute for writing and figures, consisting of a main cord, from which hung at certain distances smaller cords of various colors, each having a special meaning, as silver, gold, corn, soldiers. etc. Single, double, and triple knots were tied in the smaller cords, representing definite numbers. It was chiefly used for arithmetical purposes, and to register important facts and events.</def> <altsp>[Written also <asp>quipo</asp>.]</altsp> <au>Tylor.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The mysterious science of the <qex>quipus</qex> . . . supplied the Peruvians with the means of communicating their ideas to one another, and of transmitting them to future generations.</q> <rj><qau>Prescott.</qau></rj><br/
@@ -3833,7 +3833,7 @@ But all his merry <qex>quips</qex> are o'er.</q> <rj><qau>Tennyson.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quirites</ent><br/
-\'d8<hw>Qui*ri"tes</hw> <pr>(kw<icr/*r<imac/"t<emac/z)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>Cures</ets>, a Sabine town.]</ety> <fld>(Rom. Antiq.)</fld> <def>Roman citizens.</def><br/
+<par/<hw>Qui*ri"tes</hw> <pr>(kw<icr/*r<imac/"t<emac/z)</pr>, <pos>n. pl.</pos> <ety>[L., fr. <ets>Cures</ets>, a Sabine town.]</ety> <fld>(Rom. Antiq.)</fld> <def>Roman citizens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ After the Sabines and Romans had united themselves into one community, under Romulus, the name of <xex>Quirites</xex> was taken in addition to that of <xex>Romani</xex>, the Romans calling themselves in a civil capacity <xex>Quirites</xex>, while in a political and military capacity they retained the name of <xex>Romani</xex>.</note>  <rj><au>Andrews.</au></rj><br/
@@ -4116,7 +4116,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Qui vive</ent><br/
-\'d8<hw>Qui` vive"</hw> <pr>(k<esl/` v<esl/v")</pr>. <ety>[F., fr. <ets>qui</ets> who + <ets>vive</ets>, pres. subj. of <ets>vivre</ets> to live.]</ety> <def>The challenge of a French sentinel, or patrol; -- used like the English challenge: <ldquo/Who comes there?<rdquo/</def><br/
+<par/<hw>Qui` vive"</hw> <pr>(k<esl/` v<esl/v")</pr>. <ety>[F., fr. <ets>qui</ets> who + <ets>vive</ets>, pres. subj. of <ets>vivre</ets> to live.]</ety> <def>The challenge of a French sentinel, or patrol; -- used like the English challenge: <ldquo/Who comes there?<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>To be on the qui vive</col>, <cd>to be on guard; to be watchful and alert, like a sentinel.</cd></cs><br/
@@ -4215,7 +4215,7 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quodlibet</ent><br/
-\'d8<hw>Quod"li*bet</hw> <pr>(kw<ocr/d"l<icr/*b<ecr/t)</pr>, <pos>n.</pos> <ety>[L., what you please.]</ety><br/
+<par/<hw>Quod"li*bet</hw> <pr>(kw<ocr/d"l<icr/*b<ecr/t)</pr>, <pos>n.</pos> <ety>[L., what you please.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <def>A nice point; a subtilty; a debatable point.</def><br/
@@ -4420,7 +4420,7 @@ With mended morals, <qex>quotha</qex>, -- fine new lives !</q> <rj><qau>Mrs. Bro
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Quo warranto</ent><br/
-\'d8<hw>Quo` war*ran"to</hw> <pr>(kw<omac/` w<ocr/r*r<acr/n"t<osl/)</pr>. <ety>[So called from the Law L. words <ets>quo warranto</ets> (by what authority), in the original Latin form of the writ. See <er>Which</er>, and <er>Warrant</er>.]</ety> <fld>(Law)</fld> <def>A writ brought before a proper tribunal, to inquire by what warrant a person or a corporation acts, or exercises certain powers.</def>  <rj><au>Blackstone.</au></rj><br/
+<par/<hw>Quo` war*ran"to</hw> <pr>(kw<omac/` w<ocr/r*r<acr/n"t<osl/)</pr>. <ety>[So called from the Law L. words <ets>quo warranto</ets> (by what authority), in the original Latin form of the writ. See <er>Which</er>, and <er>Warrant</er>.]</ety> <fld>(Law)</fld> <def>A writ brought before a proper tribunal, to inquire by what warrant a person or a corporation acts, or exercises certain powers.</def>  <rj><au>Blackstone.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ An information in the nature of a <xex>quo warranto</xex> is now common as a substitute for the writ.

@@ -65,7 +65,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ma</ent><br/
-\'d8<hw>Ma</hw>, <pos>conj.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>But; -- used in cautionary phrases; <as>as, <ldquo/Vivace, <ex>ma</ex> non troppo presto<rdquo/ (i. e., lively, <xex>but</xex> not too quick)</as>.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
+<par/<hw>Ma</hw>, <pos>conj.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>But; -- used in cautionary phrases; <as>as, <ldquo/Vivace, <ex>ma</ex> non troppo presto<rdquo/ (i. e., lively, <xex>but</xex> not too quick)</as>.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maa</ent><br/
@@ -94,7 +94,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maasha</ent><br/
-\'d8<hw>Ma*ash"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An East Indian coin, of about one tenth of the weight of a rupee.</def><br/
+<par/<hw>Ma*ash"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An East Indian coin, of about one tenth of the weight of a rupee.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maat</ent><br/
@@ -120,7 +120,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mabolo</ent><br/
-\'d8<hw>Ma*bo"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A kind of persimmon tree (<spn>Diospyros discolor</spn>) from the Philippine Islands, now introduced into the East and West Indies. It bears an edible fruit as large as a quince.</def><br/
+<par/<hw>Ma*bo"lo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A kind of persimmon tree (<spn>Diospyros discolor</spn>) from the Philippine Islands, now introduced into the East and West Indies. It bears an edible fruit as large as a quince.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mac</ent><br/
@@ -164,11 +164,11 @@
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Macaco</ent><br/
-\'d8<hw>Ma*ca"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Pg. <ets>macaco</ets>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of lemurs, as the ruffed lemur (<spn>Lemur macaco</spn>), and the ring-tailed lemur (<spn>Lemur catta</spn>).</def><br/
+<par/<hw>Ma*ca"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Pg. <ets>macaco</ets>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of lemurs, as the ruffed lemur (<spn>Lemur macaco</spn>), and the ring-tailed lemur (<spn>Lemur catta</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macacus</ent><br/
-\'d8<hw>Ma*ca"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., a word of African origin.  Cf. <er>Macaco</er>, <er>Macaque</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of monkeys, found in Asia and the East Indies, now usually called <altname>Macaca</altname>.  They have short tails and prominent eyebrows.  See also <er>Macaca</er>.</def><br/
+<par/<hw>Ma*ca"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., a word of African origin.  Cf. <er>Macaco</er>, <er>Macaque</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of monkeys, found in Asia and the East Indies, now usually called <altname>Macaca</altname>.  They have short tails and prominent eyebrows.  See also <er>Macaca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>macadam</ent><br/
@@ -224,7 +224,7 @@
 [<source>PJC</source>]</p>
 
 <p><ent>Macaque</ent><br/
-\'d8<hw>Ma`caque"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Macacus</er>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of short-tailed monkeys of the genus <gen>Macaca</gen> (formerly <gen>Macacus</gen>), found in rocky regions of Asia and Africa; <as>as, <spn>Macaca maurus</spn>, the moor <ex>macaque</ex> of the East Indies</as>.</def>  <note><spn>Macaca mulatta</spn> is the <stype>Rhesus monkey</stype>, much used in biomedical research, and namesake of the Rh factor used in blood typing (due to discovery of that factor in the <it>Rh</it>esus monkey).</note><br/
+<par/<hw>Ma`caque"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Macacus</er>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of short-tailed monkeys of the genus <gen>Macaca</gen> (formerly <gen>Macacus</gen>), found in rocky regions of Asia and Africa; <as>as, <spn>Macaca maurus</spn>, the moor <ex>macaque</ex> of the East Indies</as>.</def>  <note><spn>Macaca mulatta</spn> is the <stype>Rhesus monkey</stype>, much used in biomedical research, and namesake of the Rh factor used in blood typing (due to discovery of that factor in the <it>Rh</it>esus monkey).</note><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Macaranga gum</ent><br/
@@ -293,11 +293,11 @@
 [<source>PJC</source>]</p>
 
 <p><ent>Macauco</ent><br/
-\'d8<hw>Ma*cau"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of several species of small lemurs, as <spn>Lemur murinus</spn>, which resembles a rat in size.</def><br/
+<par/<hw>Ma*cau"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any one of several species of small lemurs, as <spn>Lemur murinus</spn>, which resembles a rat in size.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macavahu</ent><br/
-\'d8<hw>Ma`ca*va"hu</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Brazilian monkey (<spn>Callithrix torquatus</spn>), -- called also <altname>collared teetee</altname>.</def><br/
+<par/<hw>Ma`ca*va"hu</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Brazilian monkey (<spn>Callithrix torquatus</spn>), -- called also <altname>collared teetee</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macaw</ent><br/
@@ -379,7 +379,7 @@
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Macedoine</ent><br/
-\'d8<hw>Ma`c<eacute/`doine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., apparently the same word as <ets>Mac<eacute/doine</ets> Macedonia.]</ety> <def>A kind of mixed dish, as of cooked vegetables with white sauce, sweet jelly with whole fruit, mixed diced fruits or vegetables etc.; served hot or cold;</def> <specif>Also,</specif> <mark>(fig.)</mark>, <def>a medley.</def><br/
+<par/<hw>Ma`c<eacute/`doine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., apparently the same word as <ets>Mac<eacute/doine</ets> Macedonia.]</ety> <def>A kind of mixed dish, as of cooked vegetables with white sauce, sweet jelly with whole fruit, mixed diced fruits or vegetables etc.; served hot or cold;</def> <specif>Also,</specif> <mark>(fig.)</mark>, <def>a medley.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Macedonia</ent><br/
@@ -442,11 +442,11 @@
 
 <p><ent>Machairodus</ent><br/
 <ent>Machaerodus</ent><br/
-<mhw>{ \'d8<hw>Ma*chae"ro*dus</hw> <pr>(m<adot/*k<emac/"r<osl/*d<ucr/s)</pr>, \'d8<hw>Ma*chai"ro*dus</hw> <pr>(m<adot/*k<imac/"r<osl/*d<ucr/s)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ma`chaira</grk> dagger + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct mammals allied to the cats, and having in the upper jaw canine teeth of remarkable size and strength; -- hence called <altname>saber-toothed tigers</altname>.</def><br/
+<mhw>{ <par/<hw>Ma*chae"ro*dus</hw> <pr>(m<adot/*k<emac/"r<osl/*d<ucr/s)</pr>, <par/<hw>Ma*chai"ro*dus</hw> <pr>(m<adot/*k<imac/"r<osl/*d<ucr/s)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ma`chaira</grk> dagger + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct mammals allied to the cats, and having in the upper jaw canine teeth of remarkable size and strength; -- hence called <altname>saber-toothed tigers</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Machete</ent><br/
-\'d8<hw>Ma*che"te</hw> <pr>(m<adot/*sh<ecr/t"<esl/; <it>Sp.</it> m<adot/*ch<amac/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A large heavy knife resembling a broadsword, often two or three feet in length, -- used by the inhabitants of Spanish America as a hatchet to cut their way through thickets, and for various other purposes.</def>  <rj><au>J. Stevens.</au></rj><br/
+<par/<hw>Ma*che"te</hw> <pr>(m<adot/*sh<ecr/t"<esl/; <it>Sp.</it> m<adot/*ch<amac/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A large heavy knife resembling a broadsword, often two or three feet in length, -- used by the inhabitants of Spanish America as a hatchet to cut their way through thickets, and for various other purposes.</def>  <rj><au>J. Stevens.</au></rj><br/
 <syn><b>Syn. --</b> matchet.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -480,7 +480,7 @@
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Machicoulis</ent><br/
-\'d8<hw>Ma`chi`cou`lis"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>m<acir/chicoulis</ets>.]</ety> <fld>(Mil. Arch.)</fld> <def>Same as <er>Machicolation</er>.</def><br/
+<par/<hw>Ma`chi`cou`lis"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>m<acir/chicoulis</ets>.]</ety> <fld>(Mil. Arch.)</fld> <def>Same as <er>Machicolation</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>machilid</ent><br/
@@ -799,7 +799,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Maclurea</ent><br/
-\'d8<hw>Ma*clu"re*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named from <person>William <etsep>Maclure</etsep></person>, the geologist.]</ety> <fld>(Paleon.)</fld> <def>A genus of spiral gastropod shells, often of large size, characteristic of the lower Silurian rocks.</def><br/
+<par/<hw>Ma*clu"re*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named from <person>William <etsep>Maclure</etsep></person>, the geologist.]</ety> <fld>(Paleon.)</fld> <def>A genus of spiral gastropod shells, often of large size, characteristic of the lower Silurian rocks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maclurin</ent><br/
@@ -902,7 +902,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrochires</ent><br/
-\'d8<hw>Mac`ro*chi"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>makro`s</grk> long + <?/ hand.]</ety> <fld>(Zool.)</fld> <def>A division of birds including the swifts and humming birds. So called from the length of the distal part of the wing.</def><br/
+<par/<hw>Mac`ro*chi"res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>makro`s</grk> long + <?/ hand.]</ety> <fld>(Zool.)</fld> <def>A division of birds including the swifts and humming birds. So called from the length of the distal part of the wing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macroclemys</ent><br/
@@ -919,7 +919,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrocystis</ent><br/
-\'d8<hw>Mac`ro*cys"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Cyst</er>.]</ety> <fld>(Bot.)</fld> <def>An immensely long blackish seaweed of the Pacific (<spn>Macrocystis pyrifera</spn>), having numerous almond-shaped air vessels.</def><br/
+<par/<hw>Mac`ro*cys"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Cyst</er>.]</ety> <fld>(Bot.)</fld> <def>An immensely long blackish seaweed of the Pacific (<spn>Macrocystis pyrifera</spn>), having numerous almond-shaped air vessels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>macro lens</ent><br/
@@ -967,7 +967,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Macroglossia</ent><br/
-\'d8<hw>Mac`ro*glos"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Glossa</er>.]</ety> <fld>(Med.)</fld> <def>Enlargement or hypertrophy of the tongue.</def><br/
+<par/<hw>Mac`ro*glos"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Glossa</er>.]</ety> <fld>(Med.)</fld> <def>Enlargement or hypertrophy of the tongue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrognathic</ent><br/
@@ -1040,7 +1040,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macropteres</ent><br/
-\'d8<hw>Ma*crop"te*res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ long + <grk>ptero`n</grk> feather, wing.]</ety> <fld>(Zool.)</fld> <def>A division of birds; the Longipennes.</def><br/
+<par/<hw>Ma*crop"te*res</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ long + <grk>ptero`n</grk> feather, wing.]</ety> <fld>(Zool.)</fld> <def>A division of birds; the Longipennes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macropterous</ent><br/
@@ -1048,7 +1048,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macropus</ent><br/
-\'d8<hw>Mac"ro*pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macropod</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of marsupials including the common kangaroo.</def><br/
+<par/<hw>Mac"ro*pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macropod</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of marsupials including the common kangaroo.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macropyramid</ent><br/
@@ -1061,7 +1061,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrosporangium</ent><br/
-\'d8<hw>Mac`ro*spo*ran"gi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Sporangium</er>.]</ety> <fld>(Bot.)</fld> <def>A sporangium or conceptacle containing only large spores; -- opposed to <contr>microsporangium</contr>.  Both are found in the genera <gen>Selaginella</gen>, <gen>Isoctes</gen>, and <gen>Marsilia</gen>, plants remotely allied to ferns.</def><br/
+<par/<hw>Mac`ro*spo*ran"gi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Macro-</er>, and <er>Sporangium</er>.]</ety> <fld>(Bot.)</fld> <def>A sporangium or conceptacle containing only large spores; -- opposed to <contr>microsporangium</contr>.  Both are found in the genera <gen>Selaginella</gen>, <gen>Isoctes</gen>, and <gen>Marsilia</gen>, plants remotely allied to ferns.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrospore</ent><br/
@@ -1086,7 +1086,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 
 <p><ent>Macroural</ent><br/
 <ent>Macroura</ent><br/
-<mhw>\'d8<hw>Ma*crou"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <hw>Ma*crou"ral</hw> <pr>(<?/)</pr>, <pos>a.</pos>, etc.</mhw> <fld>(Zool.)</fld> <def>Same as <er>Macrura</er>, <er>Macrural</er>, etc.</def><br/
+<mhw><par/<hw>Ma*crou"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos>, <hw>Ma*crou"ral</hw> <pr>(<?/)</pr>, <pos>a.</pos>, etc.</mhw> <fld>(Zool.)</fld> <def>Same as <er>Macrura</er>, <er>Macrural</er>, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrouridae</ent><br/
@@ -1099,7 +1099,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrura</ent><br/
-\'d8<hw>Ma*cru"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ long + <?/ tail.]</ety> <fld>(Zool.)</fld> <def>A subdivision of decapod Crustacea, having the abdomen largely developed. It includes the lobster, prawn, shrimp, and many similar forms.  Cf. <er>Decapoda</er>.</def><br/
+<par/<hw>Ma*cru"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ long + <?/ tail.]</ety> <fld>(Zool.)</fld> <def>A subdivision of decapod Crustacea, having the abdomen largely developed. It includes the lobster, prawn, shrimp, and many similar forms.  Cf. <er>Decapoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macrural</ent><br/
@@ -1128,11 +1128,11 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mactra</ent><br/
-\'d8<hw>Mac"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ kneading trough, fr. <?/ to knead.]</ety> <fld>(Zool.)</fld> <def>Any marine bivalve shell of the genus <gen>Mactra</gen>, and allied genera. Many species are known. Some of them are used as food, as <spn>Mactra stultorum</spn>, of Europe. See <cref>Surf clam</cref>, under <er>Surf</er>.</def><br/
+<par/<hw>Mac"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ kneading trough, fr. <?/ to knead.]</ety> <fld>(Zool.)</fld> <def>Any marine bivalve shell of the genus <gen>Mactra</gen>, and allied genera. Many species are known. Some of them are used as food, as <spn>Mactra stultorum</spn>, of Europe. See <cref>Surf clam</cref>, under <er>Surf</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Macula</ent><br/
-\'d8<hw>Mac"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Maculae</plw> <pr>(#)</pr>.</plu> <ety>[L., spot, stain, blot. See <er>Mail</er> armor, and cf. <er>Mackle</er>, <er>Macule</er>.]</ety> <sn>1.</sn> <def>A spot, as on the skin, or on the surface of the sun or of some other luminous orb; called also <altname>macule</altname>.</def><br/
+<par/<hw>Mac"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Maculae</plw> <pr>(#)</pr>.</plu> <ety>[L., spot, stain, blot. See <er>Mail</er> armor, and cf. <er>Mackle</er>, <er>Macule</er>.]</ety> <sn>1.</sn> <def>A spot, as on the skin, or on the surface of the sun or of some other luminous orb; called also <altname>macule</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A rather large spot or blotch of color.</def><br/
@@ -1321,7 +1321,7 @@ It would have <qex>madded</qex> me.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Madame</ent><br/
-\'d8<hw>Ma`dame"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesdames</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>ma</ets> my (L. <ets>mea</ets>) + <ets>dame</ets> dame. See <er>Dame</er>, and cf. <er>Madonna</er>.]</ety> <def>My lady; -- a French title formerly given to ladies of quality; now, in France, given to all married women.</def>  <rj><au>Chaucer.</au></rj><br/
+<par/<hw>Ma`dame"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesdames</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>ma</ets> my (L. <ets>mea</ets>) + <ets>dame</ets> dame. See <er>Dame</er>, and cf. <er>Madonna</er>.]</ety> <def>My lady; -- a French title formerly given to ladies of quality; now, in France, given to all married women.</def>  <rj><au>Chaucer.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mad apple</ent><br/
@@ -1490,7 +1490,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mademoiselle</ent><br/
-\'d8<hw>Ma`de*moi`selle"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesdemoiselles</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>ma</ets> my, f. of <ets>mon</ets> + <ets>demoiselle</ets> young lady. See <er>Damsel</er>.]</ety> <sn>1.</sn> <def>A French title of courtesy given to a girl or an unmarried lady, equivalent to the English <sig>Miss</sig>.</def>  <rj><au>Goldsmith.</au></rj><br/
+<par/<hw>Ma`de*moi`selle"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesdemoiselles</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>ma</ets> my, f. of <ets>mon</ets> + <ets>demoiselle</ets> young lady. See <er>Damsel</er>.]</ety> <sn>1.</sn> <def>A French title of courtesy given to a girl or an unmarried lady, equivalent to the English <sig>Miss</sig>.</def>  <rj><au>Goldsmith.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A marine food fish (<spn>Sciaena chrysura</spn>), of the Southern United States; -- called also <altname>yellowtail</altname>, and <altname>silver perch</altname>.</def><br/
@@ -1537,7 +1537,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Madia</ent><br/
-\'d8<hw>Ma"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Sp. <ets>madi</ets>, fr. Chilian <ets>madi</ets>, the native name.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, of which one species (<spn>Madia sativa</spn>) is cultivated for the oil yielded from its seeds by pressure.  This oil is sometimes used instead of olive oil for the table.</def><br/
+<par/<hw>Ma"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Sp. <ets>madi</ets>, fr. Chilian <ets>madi</ets>, the native name.]</ety> <fld>(Bot.)</fld> <def>A genus of composite plants, of which one species (<spn>Madia sativa</spn>) is cultivated for the oil yielded from its seeds by pressure.  This oil is sometimes used instead of olive oil for the table.</def><br/
 <syn><b>Syn. --</b> melosa, Chile tarweed, madia oil plant, <spn>Madia sativa</spn>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1554,11 +1554,11 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madisterium</ent><br/
-\'d8<hw>Mad`is*te"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/.]</ety> <fld>(Surg.)</fld> <def>An instrument to extract hairs.</def><br/
+<par/<hw>Mad`is*te"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/.]</ety> <fld>(Surg.)</fld> <def>An instrument to extract hairs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madjoun</ent><br/
-\'d8<hw>Mad"joun</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Ar. <ets>ma'j<umac/n</ets>.]</ety> <def>An intoxicating confection from the hemp plant; -- used by the Turks and Hindus.</def> <altsp>[Written also <asp>majoun</asp>.]</altsp><br/
+<par/<hw>Mad"joun</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Ar. <ets>ma'j<umac/n</ets>.]</ety> <def>An intoxicating confection from the hemp plant; -- used by the Turks and Hindus.</def> <altsp>[Written also <asp>majoun</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madly</ent><br/
@@ -1616,11 +1616,11 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Madoqua</ent><br/
-\'d8<hw>Ma"do*qua</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Abyssinian antelope (<spn>Neotragus Saltiana</spn>), about the size of a hare.</def><br/
+<par/<hw>Ma"do*qua</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small Abyssinian antelope (<spn>Neotragus Saltiana</spn>), about the size of a hare.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madrague</ent><br/
-\'d8<hw>Ma`drague"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[R.]</ety> <def>A large fish pound used for the capture of the tunny in the Mediterranean; also applied to the seines used for the same purpose.</def><br/
+<par/<hw>Ma`drague"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[R.]</ety> <def>A large fish pound used for the capture of the tunny in the Mediterranean; also applied to the seines used for the same purpose.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>madras</ent><br/
@@ -1639,11 +1639,11 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 <p><-- p. 881 --></p>
 
 <p><ent>Madrepora</ent><br/
-\'d8<hw>Mad`re*po"ra</hw> <pr>(m<acr/d`r<esl/*p<omac/"r<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Madrepore</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of reef corals abundant in tropical seas. It includes than one hundred and fifty species, most of which are elegantly branched.</def> -- <wordforms><wf>Mad`re*po"ral</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mad`re*po"ra</hw> <pr>(m<acr/d`r<esl/*p<omac/"r<adot/)</pr>, <pos>n.</pos> <ety>[NL. See <er>Madrepore</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of reef corals abundant in tropical seas. It includes than one hundred and fifty species, most of which are elegantly branched.</def> -- <wordforms><wf>Mad`re*po"ral</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madreporaria</ent><br/
-\'d8<hw>Mad`re*po*ra"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Madrepore</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Anthozoa, including most of the species that produce stony corals. See <xex>Illust.</xex> of <er>Anthozoa</er>.</def> -- <wordforms><wf>Mad`re*po*ra"ri*an</wf> <pr>(#)</pr>, <pos>a. & n.</pos></wordforms><br/
+<par/<hw>Mad`re*po*ra"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Madrepore</er>.]</ety> <fld>(Zool.)</fld> <def>An extensive division of Anthozoa, including most of the species that produce stony corals. See <xex>Illust.</xex> of <er>Anthozoa</er>.</def> -- <wordforms><wf>Mad`re*po*ra"ri*an</wf> <pr>(#)</pr>, <pos>a. & n.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madrepore</ent><br/
@@ -1702,7 +1702,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Madrina</ent><br/
-\'d8<hw>Ma*dri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., prop., a godmother.]</ety> <def>An animal (usually an old mare), wearing a bell and acting as the leader of a troop of pack mules.</def> <mark>[S. America]</mark><br/
+<par/<hw>Ma*dri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., prop., a godmother.]</ety> <def>An animal (usually an old mare), wearing a bell and acting as the leader of a troop of pack mules.</def> <mark>[S. America]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>madrono</ent><br/
@@ -1747,14 +1747,14 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Maenad</ent><br/
-\'d8<hw>Mae"nad</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Maenas</ets>, <ets>-adis</ets>, Gr. <?/, <?/, fr. <?/ to rave.]</ety> <sn>1.</sn> <def>A Bacchante; a priestess or votary of Bacchus.</def><br/
+<par/<hw>Mae"nad</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>Maenas</ets>, <ets>-adis</ets>, Gr. <?/, <?/, fr. <?/ to rave.]</ety> <sn>1.</sn> <def>A Bacchante; a priestess or votary of Bacchus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A frantic or frenzied woman.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maestoso</ent><br/
-\'d8<hw>Ma`es*to"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Majestic or majestically; -- a direction to perform a passage or piece of music in a dignified manner.</def><br/
+<par/<hw>Ma`es*to"so</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Majestic or majestically; -- a direction to perform a passage or piece of music in a dignified manner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maestricht monitor</ent><br/
@@ -1762,7 +1762,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maestro</ent><br/
-\'d8<hw>Ma*es"tro</hw> <pr>(m<imac/s"tr<osl/; <it>It</it>. m<aum/*<asl/s"tr<osl/)</pr>, <pos>n.</pos> <ety>[It., fr. L. <ets>magister</ets>. See <er>Master</er>.]</ety> <def>A master in any art, especially in music; a composer or orchestra conductor.</def><br/
+<par/<hw>Ma*es"tro</hw> <pr>(m<imac/s"tr<osl/; <it>It</it>. m<aum/*<asl/s"tr<osl/)</pr>, <pos>n.</pos> <ety>[It., fr. L. <ets>magister</ets>. See <er>Master</er>.]</ety> <def>A master in any art, especially in music; a composer or orchestra conductor.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mafa</ent><br/
@@ -1771,7 +1771,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Mafia</ent><br/
 <ent>Maffia</ent><br/
-<mhw>{ \'d8<hw>Maf"fi*a</hw> <pr>(?)</pr>, \'d8<hw>Ma"fi*a</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[It. <ets>maffia</ets>.]</ety> <sn>1.</sn> <def>A secret society which organized in Sicily as a political organization, but is now widespread among Italians, and is used to further or protect private interests, reputedly by illegal methods; called also the <altname>Sicilian Mafia</altname>.</def> <wns>[wns=2]</wns><br/
+<mhw>{ <par/<hw>Maf"fi*a</hw> <pr>(?)</pr>, <par/<hw>Ma"fi*a</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[It. <ets>maffia</ets>.]</ety> <sn>1.</sn> <def>A secret society which organized in Sicily as a political organization, but is now widespread among Italians, and is used to further or protect private interests, reputedly by illegal methods; called also the <altname>Sicilian Mafia</altname>.</def> <wns>[wns=2]</wns><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>A group of loosely associated of criminal organizations in the United States, some having ties to the Sicilian Mafia, and organized in <ldquo/families<rdquo/; the term is applied to the entire group of organizations, or to any one local group.  Also, loosely, organized groups of criminals anywhere, as the Russian <ex>mafia</ex>.</def> <wns>[wns=1]</wns><br/
@@ -1787,7 +1787,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Mafioso</ent><br/
 <ent>Maffioso</ent><br/
-<mhw>{ \'d8<hw>Maf`fi*o"so</hw> <pr>(?)</pr>, \'d8<hw>Ma`fi*o"so</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>; <plu>pl. <plw>-si</plw> <pr>(#)</pr></plu>. <ety>[It. <ets>maffioso</ets>.]</ety> <def>A member of the mafia.</def><br/
+<mhw>{ <par/<hw>Maf`fi*o"so</hw> <pr>(?)</pr>, <par/<hw>Ma`fi*o"so</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos>; <plu>pl. <plw>-si</plw> <pr>(#)</pr></plu>. <ety>[It. <ets>maffioso</ets>.]</ety> <def>A member of the mafia.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Maffle</ent><br/
@@ -1800,7 +1800,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Mafioso</ent><br/
 <ent>Mafia</ent><br/
-<mhw>{ \'d8<hw>Maf"i*a</hw> <pr>(?)</pr>, \'d8<hw>Ma`fi*o"so</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>see <er>maffia</er>, <er>maffioso</er>.</def><br/
+<mhw>{ <par/<hw>Maf"i*a</hw> <pr>(?)</pr>, <par/<hw>Ma`fi*o"so</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>see <er>maffia</er>, <er>maffioso</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>mag</ent><br/
@@ -1918,7 +1918,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maggiore</ent><br/
-\'d8<hw>Mag`gio"re</hw> <pr>(m<aum/d`j<omac/"r<asl/)</pr>, <pos>a.</pos> <ety>[It., from L. <ets>major</ets>, compar. of <ets>magnus</ets> great. See <er>Major</er>.]</ety> <fld>(Mus.)</fld> <def>Greater, in respect to scales, intervals, etc., when used in opposition to <contr>minor</contr>; major.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
+<par/<hw>Mag`gio"re</hw> <pr>(m<aum/d`j<omac/"r<asl/)</pr>, <pos>a.</pos> <ety>[It., from L. <ets>major</ets>, compar. of <ets>magnus</ets> great. See <er>Major</er>.]</ety> <fld>(Mus.)</fld> <def>Greater, in respect to scales, intervals, etc., when used in opposition to <contr>minor</contr>; major.</def>  <rj><au>Moore (Encyc. of Music).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maggot</ent><br/
@@ -1956,7 +1956,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Magi</ent><br/
-\'d8<hw>Ma"gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>Magus</ets>, Gr. <?/; of Per. origin.  Cf. <er>Mage</er>, <er>Magic</er>.]</ety> <def>A caste of priests, philosophers, and magicians, among the ancient Persians; hence, any holy men or sages of the East.</def><br/
+<par/<hw>Ma"gi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., pl. of <ets>Magus</ets>, Gr. <?/; of Per. origin.  Cf. <er>Mage</er>, <er>Magic</er>.]</ety> <def>A caste of priests, philosophers, and magicians, among the ancient Persians; hence, any holy men or sages of the East.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The inspired <qex>Magi</qex> from the Orient came.</q> <rj><qau>Sandys.</qau></rj><br/
@@ -2042,7 +2042,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Magister</ent><br/
-\'d8<hw>Ma*gis"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Master</er>.]</ety> <def>Master; sir; -- a title of the Middle Ages, given to a person in authority, or to one having a license from a university to teach philosophy and the liberal arts.</def><br/
+<par/<hw>Ma*gis"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Master</er>.]</ety> <def>Master; sir; -- a title of the Middle Ages, given to a person in authority, or to one having a license from a university to teach philosophy and the liberal arts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Magisterial</ent><br/
@@ -2142,7 +2142,7 @@ Her father called.</q> <rj><qau>Glover.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Magma</ent><br/
-\'d8<hw>Mag"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to squeeze, knead.]</ety> <sn>1.</sn> <def>Any crude mixture of mineral or organic matters in the state of a thin paste.</def>  <rj><au>Ure.</au></rj><br/
+<par/<hw>Mag"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to squeeze, knead.]</ety> <sn>1.</sn> <def>Any crude mixture of mineral or organic matters in the state of a thin paste.</def>  <rj><au>Ure.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <sd>(a)</sd> <def>A thick residuum obtained from certain substances after the fluid parts are expressed from them; the grounds which remain after treating a substance with any menstruum, as water or alcohol.</def> <sd>(b)</sd> <def>A salve or confection of thick consistency.</def>  <rj><au>Dunglison.</au></rj><br/
@@ -2611,7 +2611,7 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Magnificat</ent><br/
-\'d8<hw>Mag*nif"i*cat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., it magnifies.]</ety> <def>The song of the Virgin Mary, <au>Luke i. 46</au>; -- so called because it commences with this word in the Vulgate.</def><br/
+<par/<hw>Mag*nif"i*cat</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., it magnifies.]</ety> <def>The song of the Virgin Mary, <au>Luke i. 46</au>; -- so called because it commences with this word in the Vulgate.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Magnificate</ent><br/
@@ -2859,7 +2859,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maguari</ent><br/
-\'d8<hw>Ma`gua*ri"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From native name: cf. Pg. <ets>magoari</ets>.]</ety> <fld>(Zool.)</fld> <def>A South American stork (<spn>Euxenara maguari</spn>), having a forked tail.</def><br/
+<par/<hw>Ma`gua*ri"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From native name: cf. Pg. <ets>magoari</ets>.]</ety> <fld>(Zool.)</fld> <def>A South American stork (<spn>Euxenara maguari</spn>), having a forked tail.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maguey</ent><br/
@@ -2888,7 +2888,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Maha</ent><br/
-\'d8<hw>Ma"ha</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A kind of baboon; the wanderoo.</def><br/
+<par/<hw>Ma"ha</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A kind of baboon; the wanderoo.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maha</ent><br/
@@ -2897,12 +2897,12 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 
 <p><ent>Mahabharatam</ent><br/
 <ent>Mahabarata</ent><br/
-<mhw>{ \'d8<hw>Ma*ha*ba"ra*ta</hw> <pr>(?)</pr>, \'d8<hw>Ma*ha*bha"ra*tam</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Skr. <ets>mah<amac/bh<amac/rata</ets>.]</ety> <fld>(Hinduism)</fld> <def>A celebrated sacred epic poem of the Hindus, written in Sanskrit.  It is of great length, and is chiefly devoted to a history, in many episodes, of a civil war between two dynasties of ancient India.</def><br/
+<mhw>{ <par/<hw>Ma*ha*ba"ra*ta</hw> <pr>(?)</pr>, <par/<hw>Ma*ha*bha"ra*tam</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Skr. <ets>mah<amac/bh<amac/rata</ets>.]</ety> <fld>(Hinduism)</fld> <def>A celebrated sacred epic poem of the Hindus, written in Sanskrit.  It is of great length, and is chiefly devoted to a history, in many episodes, of a civil war between two dynasties of ancient India.</def><br/
 <syn><b>Syn. --</b> Mahabharatam, Mahabharatum.</syn><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahaled</ent><br/
-\'d8<hw>Ma*ha"led</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[Ar. <ets>mahled</ets>.]</ety> <fld>(Bot.)</fld> <def>A cherry tree (<spn>Prunus Mahaleb</spn>) of Southern Europe.  The wood is prized by cabinetmakers, the twigs are used for pipe stems, the flowers and leaves yield a perfume, and from the fruit a violet dye and a fermented liquor (like kirschwasser) are prepared.</def><br/
+<par/<hw>Ma*ha"led</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[Ar. <ets>mahled</ets>.]</ety> <fld>(Bot.)</fld> <def>A cherry tree (<spn>Prunus Mahaleb</spn>) of Southern Europe.  The wood is prized by cabinetmakers, the twigs are used for pipe stems, the flowers and leaves yield a perfume, and from the fruit a violet dye and a fermented liquor (like kirschwasser) are prepared.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>maharajah</ent><br/
@@ -2915,11 +2915,11 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Maharif</ent><br/
-\'d8<hw>Ma`ha*rif"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An African antelope (<spn>Hippotragus Bakeri</spn>). Its face is striped with black and white.</def><br/
+<par/<hw>Ma`ha*rif"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>An African antelope (<spn>Hippotragus Bakeri</spn>). Its face is striped with black and white.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maharmah</ent><br/
-\'d8<hw>Ma*har"mah</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A muslin wrapper for the head and the lower part of the face, worn by Turkish and Armenian women when they go abroad.</def><br/
+<par/<hw>Ma*har"mah</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A muslin wrapper for the head and the lower part of the face, worn by Turkish and Armenian women when they go abroad.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahatma</ent><br/
@@ -3006,7 +3006,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maholi</ent><br/
-\'d8<hw>Ma*ho"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South African lemur (<spn>Galago maholi</spn>), having very large ears.</def> <altsp>[Written also <asp>moholi</asp>.]</altsp><br/
+<par/<hw>Ma*ho"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South African lemur (<spn>Galago maholi</spn>), having very large ears.</def> <altsp>[Written also <asp>moholi</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahometan</ent><br/
@@ -3055,7 +3055,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahoohoo</ent><br/
-\'d8<hw>Ma*hoo"hoo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The African white two-horned rhinoceros (<spn>Atelodus simus</spn>).</def><br/
+<par/<hw>Ma*hoo"hoo</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The African white two-horned rhinoceros (<spn>Atelodus simus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahori</ent><br/
@@ -3070,7 +3070,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahout</ent><br/
-\'d8<hw>Ma*hout"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>mah<amac/wat</ets>, Skr. <ets>mah<amac/m<amac/tra</ets>; <ets>mahat</ets> great + <ets>m<amac/tr<amac/</ets> measure.]</ety> <def>The keeper and driver of an elephant.</def> <mark>[East Indies]</mark><br/
+<par/<hw>Ma*hout"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>mah<amac/wat</ets>, Skr. <ets>mah<amac/m<amac/tra</ets>; <ets>mahat</ets> great + <ets>m<amac/tr<amac/</ets> measure.]</ety> <def>The keeper and driver of an elephant.</def> <mark>[East Indies]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mahovo</ent><br/
@@ -3095,7 +3095,7 @@ With the injuries of many.</q> <rj><qau>Massinger.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maia</ent><br/
-\'d8<hw>Ma"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From L. <ets>Maia</ets>, a goddess.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of spider crabs, including the common European species (<spn>Maia squinado</spn>).</def> <sd>(b)</sd> <def>A beautiful American bombycid moth (<spn>Eucronia maia</spn>).</def><br/
+<par/<hw>Ma"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From L. <ets>Maia</ets>, a goddess.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of spider crabs, including the common European species (<spn>Maia squinado</spn>).</def> <sd>(b)</sd> <def>A beautiful American bombycid moth (<spn>Eucronia maia</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maian</ent><br/
@@ -3136,7 +3136,7 @@ And never seen thee, never borne thee son.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maidan</ent><br/
-\'d8<hw>Mai*dan"</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>midan</asp>, <asp>meidan</asp>, <asp>mydan</asp>, etc.]</altsp> <ety>[Hind. & Per. <ets>maid<amac/n</ets>, fr. Ar. <ets>maid<amac/n</ets>.]</ety> <def>In various  parts of Asia, an open space, as for military exercises, or for a market place; an open grassy tract; an esplanade.</def></p>
+<par/<hw>Mai*dan"</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>midan</asp>, <asp>meidan</asp>, <asp>mydan</asp>, etc.]</altsp> <ety>[Hind. & Per. <ets>maid<amac/n</ets>, fr. Ar. <ets>maid<amac/n</ets>.]</ety> <def>In various  parts of Asia, an open space, as for military exercises, or for a market place; an open grassy tract; an esplanade.</def></p>
 
 <p><q>A gallop on the green <qex>maidan</qex>.</q>  <rj><qau>M. Crawford.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -3337,11 +3337,11 @@ What a <qex>maidenly</qex> man-at-arms are you become !</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maikel</ent><br/
-\'d8<hw>Mai*kel"</hw> <pr>(m<aum/<icr/*k<asl/l")</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American carnivore of the genus <gen>Conepatus</gen>, allied to the skunk, but larger, and having a longer snout. The tail is not bushy.</def><br/
+<par/<hw>Mai*kel"</hw> <pr>(m<aum/<icr/*k<asl/l")</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American carnivore of the genus <gen>Conepatus</gen>, allied to the skunk, but larger, and having a longer snout. The tail is not bushy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maikong</ent><br/
-\'d8<hw>Mai*kong"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American wild dog (<spn>Canis cancrivorus</spn>); the crab-eating dog.</def><br/
+<par/<hw>Mai*kong"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A South American wild dog (<spn>Canis cancrivorus</spn>); the crab-eating dog.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mail</ent><br/
@@ -4109,7 +4109,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Majorat</ent><br/
-\'d8<hw>Ma`jo`rat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>majorat</ets>, LL. <ets>majoratus</ets>. See <er>Major</er>, <pos>a.</pos>, and cf. <er>Majorate</er>.]</ety> <sn>1.</sn> <def>The right of succession to property according to age; -- so termed in some of the countries of continental Europe.</def><br/
+<par/<hw>Ma`jo`rat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>majorat</ets>, LL. <ets>majoratus</ets>. See <er>Major</er>, <pos>a.</pos>, and cf. <er>Majorate</er>.]</ety> <sn>1.</sn> <def>The right of succession to property according to age; -- so termed in some of the countries of continental Europe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(French Law)</fld> <def>Property, landed or funded, so attached to a title of honor as to descend with it.</def><br/
@@ -4227,7 +4227,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Majusculae</ent><br/
-\'d8<hw>Ma*jus"cu*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fem. pl. fr. <ets>majusculus</ets> somewhat greater or great, dim. of <ets>major</ets>, <ets>majus</ets>. See <er>Major</er>.]</ety> <fld>(Palaeography)</fld> <def>Capital letters, as found in manuscripts of the sixth century and earlier.</def><br/
+<par/<hw>Ma*jus"cu*lae</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., fem. pl. fr. <ets>majusculus</ets> somewhat greater or great, dim. of <ets>major</ets>, <ets>majus</ets>. See <er>Major</er>.]</ety> <fld>(Palaeography)</fld> <def>Capital letters, as found in manuscripts of the sixth century and earlier.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Majuscule</ent><br/
@@ -4558,7 +4558,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Maki</ent><br/
-\'d8<hw>Ma"ki</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from native name.]</ety> <fld>(Zool.)</fld> <def>A lemur. See <er>Lemur</er>.</def><br/
+<par/<hw>Ma"ki</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from native name.]</ety> <fld>(Zool.)</fld> <def>A lemur. See <er>Lemur</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Making</ent><br/
@@ -4613,7 +4613,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mala</ent><br/
-\'d8<hw>Ma"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>pl. of <singw>Malum</singw>.</sing> <ety>[L.]</ety> <def>Evils; wrongs; offenses against right and law.</def><br/
+<par/<hw>Ma"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>pl. of <singw>Malum</singw>.</sing> <ety>[L.]</ety> <def>Evils; wrongs; offenses against right and law.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Mala in se</col> <ety>[L.]</ety> <fld>(Law)</fld>, <cd>offenses which are such from their own nature, at common law, irrespective of statute.</cd> -- <col>Mala prohibita</col> <ety>[L.]</ety> <fld>(Law)</fld>, <cd>offenses prohibited by statute, as distinguished from <contr>mala in se</contr>, which are offenses at common law.</cd></cs><br/
@@ -4667,7 +4667,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacobdella</ent><br/
-\'d8<hw>Mal`a*cob*del"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A genus of nemertean worms, parasitic in the gill cavity of clams and other bivalves. They have a large posterior sucker, like that of a leech. See <xex>Illust.</xex> of <er>Bdellomorpha</er>.</def><br/
+<par/<hw>Mal`a*cob*del"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A genus of nemertean worms, parasitic in the gill cavity of clams and other bivalves. They have a large posterior sucker, like that of a leech. See <xex>Illust.</xex> of <er>Bdellomorpha</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacoderm</ent><br/
@@ -4687,7 +4687,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacopoda</ent><br/
-\'d8<hw>Mal`a*cop"o*da</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class of air-breathing <phylum>Arthropoda</phylum>; -- called also <altname><class>Protracheata</class></altname>, and <altname><class>Onychophora</class></altname>.</def><br/
+<par/<hw>Mal`a*cop"o*da</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class of air-breathing <phylum>Arthropoda</phylum>; -- called also <altname><class>Protracheata</class></altname>, and <altname><class>Onychophora</class></altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ They somewhat resemble myriapods, and have from seventeen to thirty-three pairs of short, imperfectly jointed legs, two pairs of simple jaws, and a pair of antennae. The trancheae are connected with numerous spiracles scattered over the surface of the body. <gen>Peripatus</gen> is the only known genus. See <er>Peripatus</er>.</note><br/
@@ -4698,7 +4698,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacopterygii</ent><br/
-\'d8<hw>Mal`a*cop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>pte`ryx</grk> wing, fin, fr. <grk>ptero`n</grk> feather.]</ety> <fld>(Zool.)</fld> <def>An order of fishes in which the fin rays, except the anterior ray of the pectoral and dorsal fins, are closely jointed, and not spiny.  It includes the carp, pike, salmon, shad, etc. Called also <ord>Malacopteri</ord>.</def><br/
+<par/<hw>Mal`a*cop`te*ryg"i*i</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>pte`ryx</grk> wing, fin, fr. <grk>ptero`n</grk> feather.]</ety> <fld>(Zool.)</fld> <def>An order of fishes in which the fin rays, except the anterior ray of the pectoral and dorsal fins, are closely jointed, and not spiny.  It includes the carp, pike, salmon, shad, etc. Called also <ord>Malacopteri</ord>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacopterygious</ent><br/
@@ -4714,7 +4714,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacostraca</ent><br/
-\'d8<hw>Mal`a*cos"tra*ca</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., from Gr. <grk>malako`s</grk> soft + <?/ shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>A subclass of Crustacea, including Arthrostraca and Thoracostraca, or all those higher than the Entomostraca.</def><br/
+<par/<hw>Mal`a*cos"tra*ca</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., from Gr. <grk>malako`s</grk> soft + <?/ shell of a testacean.]</ety> <fld>(Zool.)</fld> <def>A subclass of Crustacea, including Arthrostraca and Thoracostraca, or all those higher than the Entomostraca.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacostracan</ent><br/
@@ -4734,7 +4734,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacozoa</ent><br/
-\'d8<hw>Mal`a*co*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>An extensive group of Invertebrata, including the <phylum>Mollusca</phylum>, Brachiopoda, and Bryozoa. Called also <altname>Malacozoaria</altname>.</def><br/
+<par/<hw>Mal`a*co*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>malako`s</grk> soft + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>An extensive group of Invertebrata, including the <phylum>Mollusca</phylum>, Brachiopoda, and Bryozoa. Called also <altname>Malacozoaria</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malacozoic</ent><br/
@@ -4778,7 +4778,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malagash</ent><br/
-\'d8<hw>Mal`a*gash"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Malagasy</er>.</def><br/
+<par/<hw>Mal`a*gash"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Malagasy</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malagasy</ent><br/
@@ -4790,7 +4790,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Malaise</ent><br/
-\'d8<hw>Ma`laise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mal</ets> ill + <ets>aise</ets> ease.]</ety> <fld>(Med.)</fld> <def>An indefinite feeling of uneasiness, or of being sick or ill at ease.</def><br/
+<par/<hw>Ma`laise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mal</ets> ill + <ets>aise</ets> ease.]</ety> <fld>(Med.)</fld> <def>An indefinite feeling of uneasiness, or of being sick or ill at ease.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malamate</ent><br/
@@ -4798,7 +4798,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malambo</ent><br/
-\'d8<hw>Ma*lam"bo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A yellowish aromatic bark, used in medicine and perfumery, said to be from the South American shrub <spn>Croton Malambo</spn>.</def><br/
+<par/<hw>Ma*lam"bo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A yellowish aromatic bark, used in medicine and perfumery, said to be from the South American shrub <spn>Croton Malambo</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malamethane</ent><br/
@@ -4836,7 +4836,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malapterurus</ent><br/
-\'d8<hw>Mal*ap`te*ru"rus</hw> <pr>(m<acr/l*<acr/p`t<esl/*r<udd/"r<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., from Gr. <grk>malako`s</grk> soft + <grk>ptero`n</grk> wing + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of African siluroid fishes, including the electric catfishes. See <cref>Electric cat</cref>, under <er>Electric</er>.</def> <altsp>[Sometimes spelled <asp>Malopterurus</asp>.]</altsp><br/
+<par/<hw>Mal*ap`te*ru"rus</hw> <pr>(m<acr/l*<acr/p`t<esl/*r<udd/"r<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., from Gr. <grk>malako`s</grk> soft + <grk>ptero`n</grk> wing + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of African siluroid fishes, including the electric catfishes. See <cref>Electric cat</cref>, under <er>Electric</er>.</def> <altsp>[Sometimes spelled <asp>Malopterurus</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malapterurus electricus</ent><br/
@@ -4969,7 +4969,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Malbrouck</ent><br/
-\'d8<hw>Mal"brouck</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>A West African arboreal monkey (<spn>Cercopithecus cynosurus</spn>).</def><br/
+<par/<hw>Mal"brouck</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>A West African arboreal monkey (<spn>Cercopithecus cynosurus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malcolmia</ent><br/
@@ -5670,7 +5670,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malleolus</ent><br/
-\'d8<hw>Mal*le"*o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Malleoli</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>malleus</ets> hammer.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A projection at the distal end of each bone of the leg at the ankle joint. The malleolus of the tibia is the internal projection, that of the fibula the external.</def><br/
+<par/<hw>Mal*le"*o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Malleoli</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>malleus</ets> hammer.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A projection at the distal end of each bone of the leg at the ankle joint. The malleolus of the tibia is the internal projection, that of the fibula the external.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def><ldquo/ A layer, <rdquo/ a shoot partly buried in the ground, and there cut halfway through.</def><br/
@@ -5681,7 +5681,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malleus</ent><br/
-\'d8<hw>Mal"le*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mallei</plw> <pr>(#)</pr>.</plu> <ety>[L., hammer. See <er>Mall</er> a beetle.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The outermost of the three small auditory bones, ossicles; the hammer. It is attached to the tympanic membrane by a long process, the handle or manubrium. See <xex>Illust.</xex> of <er>Far</er>.</def><br/
+<par/<hw>Mal"le*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mallei</plw> <pr>(#)</pr>.</plu> <ety>[L., hammer. See <er>Mall</er> a beetle.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The outermost of the three small auditory bones, ossicles; the hammer. It is attached to the tympanic membrane by a long process, the handle or manubrium. See <xex>Illust.</xex> of <er>Far</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the hard lateral pieces of the mastax of Rotifera. See <er>Mastax</er>.</def><br/
@@ -5691,11 +5691,11 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mallophaga</ent><br/
-\'d8<hw>Mal*loph"a*ga</hw> <pr>(m<acr/l*l<ocr/f"<adot/*g<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mallo`s</grk> a lock of wool + <grk>fagei^n</grk> to eat.]</ety> <fld>(Zool.)</fld> <def>An extensive group of insects which are parasitic on birds and mammals, and feed on the feathers and hair; -- called also <altname>bird lice</altname>. See <cref>Bird louse</cref>, under <er>Bird</er>.</def><br/
+<par/<hw>Mal*loph"a*ga</hw> <pr>(m<acr/l*l<ocr/f"<adot/*g<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mallo`s</grk> a lock of wool + <grk>fagei^n</grk> to eat.]</ety> <fld>(Zool.)</fld> <def>An extensive group of insects which are parasitic on birds and mammals, and feed on the feathers and hair; -- called also <altname>bird lice</altname>. See <cref>Bird louse</cref>, under <er>Bird</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mallotus</ent><br/
-\'d8<hw>Mal*lo"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr Gr. <?/ fleecy.]</ety> <fld>(Zool.)</fld> <def>A genus of small Arctic fishes. One American species, the capelin (<spn>Mallotus villosus</spn>), is extensively used as bait for cod.</def><br/
+<par/<hw>Mal*lo"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr Gr. <?/ fleecy.]</ety> <fld>(Zool.)</fld> <def>A genus of small Arctic fishes. One American species, the capelin (<spn>Mallotus villosus</spn>), is extensively used as bait for cod.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mallows</ent><br/
@@ -5730,7 +5730,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malmag</ent><br/
-\'d8<hw>Mal"mag</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from native name in Madagascar.]</ety> <fld>(Zool.)</fld> <def>The tarsius, or spectral lemur.</def><br/
+<par/<hw>Mal"mag</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., from native name in Madagascar.]</ety> <fld>(Zool.)</fld> <def>The tarsius, or spectral lemur.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malmsey</ent><br/
@@ -5802,7 +5802,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Malpighia</ent><br/
-\'d8<hw>Mal*pi"ghi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Malpighian</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of tropical American shrubs with opposite leaves and small white or reddish flowers. The drupes of <spn>Malpighia glabra</spn> (formerly <spn>Malpighia urens</spn>) are eaten under the name of <prod>Barbadoes cherries</prod>.</def><br/
+<par/<hw>Mal*pi"ghi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Malpighian</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of tropical American shrubs with opposite leaves and small white or reddish flowers. The drupes of <spn>Malpighia glabra</spn> (formerly <spn>Malpighia urens</spn>) are eaten under the name of <prod>Barbadoes cherries</prod>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malpighiaceous</ent><br/
@@ -5924,7 +5924,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Maltha</ent><br/
-\'d8<hw>Mal"tha</hw> <pr>(m<acr/l"th<adot/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ma`lqa</grk>.]</ety> <sn>1.</sn> <def>A variety of bitumen, viscid and tenacious, like pitch, unctuous to the touch, and exhaling a bituminous odor.</def><br/
+<par/<hw>Mal"tha</hw> <pr>(m<acr/l"th<adot/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>ma`lqa</grk>.]</ety> <sn>1.</sn> <def>A variety of bitumen, viscid and tenacious, like pitch, unctuous to the touch, and exhaling a bituminous odor.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Mortar.</def> <mark>[Obs.]</mark>  <rj><au>Holland.</au></rj><br/
@@ -6015,7 +6015,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malum</ent><br/
-\'d8<hw>Ma"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mala</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>An evil. See <er>Mala</er>.</def><br/
+<par/<hw>Ma"lum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mala</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>An evil. See <er>Mala</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Malva</ent><br/
@@ -6085,11 +6085,11 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mamelon</ent><br/
-\'d8<hw>Mam"e*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A rounded hillock; a rounded elevation or protuberance.</def>  <rj><au>Westmin. Rev.</au></rj><br/
+<par/<hw>Mam"e*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A rounded hillock; a rounded elevation or protuberance.</def>  <rj><au>Westmin. Rev.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mameluco</ent><br/
-\'d8<hw>Mam`e*lu"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A child born of a white father and Indian mother.</def> <mark>[S. Amer.]</mark><br/
+<par/<hw>Mam`e*lu"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A child born of a white father and Indian mother.</def> <mark>[S. Amer.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mameluke</ent><br/
@@ -6119,7 +6119,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mammalia</ent><br/
-\'d8<hw>Mam*ma"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>mammalis</ets>. See <er>Mammal</er>.]</ety> <fld>(Zool.)</fld> <def>The highest class of Vertebrata.  The young are nourished for a time by milk, or an analogous fluid, secreted by the mammary glands of the mother.</def><br/
+<par/<hw>Mam*ma"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from L. <ets>mammalis</ets>. See <er>Mammal</er>.]</ety> <fld>(Zool.)</fld> <def>The highest class of Vertebrata.  The young are nourished for a time by milk, or an analogous fluid, secreted by the mammary glands of the mother.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Mammalia are divided into three subclasses; --<br/
@@ -6217,7 +6217,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mammilla</ent><br/
-\'d8<hw>Mam*mil"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mammilae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>mamma</ets> a breast.]</ety> <fld>(Anat.)</fld> <def>The nipple.</def><br/
+<par/<hw>Mam*mil"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mammilae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>mamma</ets> a breast.]</ety> <fld>(Anat.)</fld> <def>The nipple.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mammillary</ent><br/
@@ -6339,7 +6339,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mamzer</ent><br/
-\'d8<hw>Mam"zer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>m<aacute/mz<emac/r</ets>.]</ety> <def>A person born of relations between whom marriage was forbidden by the Mosaic law; a bastard.</def> <au>Deut. xxiii. 2 (Douay version).</au><br/
+<par/<hw>Mam"zer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>m<aacute/mz<emac/r</ets>.]</ety> <def>A person born of relations between whom marriage was forbidden by the Mosaic law; a bastard.</def> <au>Deut. xxiii. 2 (Douay version).</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Man</ent><br/
@@ -6727,7 +6727,7 @@ Some stick to you, and some to t'other side.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mandamus</ent><br/
-\'d8<hw>Man*da"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we command, fr. <ets>mandare</ets> to command.]</ety> <fld>(Law)</fld> <def>A writ issued by a superior court and directed to some inferior tribunal, or to some corporation or person exercising authority, commanding the performance of some specified duty.</def><br/
+<par/<hw>Man*da"mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we command, fr. <ets>mandare</ets> to command.]</ety> <fld>(Law)</fld> <def>A writ issued by a superior court and directed to some inferior tribunal, or to some corporation or person exercising authority, commanding the performance of some specified duty.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mandarin</ent><br/
@@ -6810,7 +6810,7 @@ Her mighty <qex>mandates</qex>, and her words you hear.</q> <rj><qau>Dryden.</qa
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mandator</ent><br/
-\'d8<hw>Man*da"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>A director; one who gives a mandate or order.</def>  <rj><au>Ayliffe.</au></rj><br/
+<par/<hw>Man*da"tor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>A director; one who gives a mandate or order.</def>  <rj><au>Ayliffe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rom. Law)</fld> <def>The person who employs another to perform a mandate.</def>  <rj><au>Bouvier.</au></rj><br/
@@ -6896,7 +6896,7 @@ Her mighty <qex>mandates</qex>, and her words you hear.</q> <rj><qau>Dryden.</qa
 
 <p><ent>Mandioca</ent><br/
 <ent>Mandioc</ent><br/
-<mhw>{ <hw>Man"di*oc</hw> <pr>(?)</pr>, \'d8<hw>Man`di*o"ca</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Manioc</er>.</def><br/
+<mhw>{ <hw>Man"di*oc</hw> <pr>(?)</pr>, <par/<hw>Man`di*o"ca</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <fld>(Bot.)</fld> <def>See <er>Manioc</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mandlestone</ent><br/
@@ -6987,7 +6987,7 @@ That living mortals, hearing them, run mad.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manducus</ent><br/
-\'d8<hw>Man*du"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>manducare</ets> to chew.]</ety> <fld>(Gr. & Rom. Antiq.)</fld> <def>A grotesque mask, representing a person chewing or grimacing, worn in processions and by comic actors on the stage.</def><br/
+<par/<hw>Man*du"cus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>manducare</ets> to chew.]</ety> <fld>(Gr. & Rom. Antiq.)</fld> <def>A grotesque mask, representing a person chewing or grimacing, worn in processions and by comic actors on the stage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mane</ent><br/
@@ -7028,7 +7028,7 @@ That living mortals, hearing them, run mad.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maneh</ent><br/
-\'d8<hw>Ma"neh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>m<amac/neh</ets>.]</ety> <def>A Hebrew weight for gold or silver, being one hundred shekels of gold and sixty shekels of silver.</def>  <rj><au>Ezek. xlv. 12.</au></rj><br/
+<par/<hw>Ma"neh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Heb. <ets>m<amac/neh</ets>.]</ety> <def>A Hebrew weight for gold or silver, being one hundred shekels of gold and sixty shekels of silver.</def>  <rj><au>Ezek. xlv. 12.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maneless</ent><br/
@@ -7047,7 +7047,7 @@ That living mortals, hearing them, run mad.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manes</ent><br/
-\'d8<hw>Ma"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>The benevolent spirits of the dead, especially of dead ancestors, regarded as family deities and protectors.</def><br/
+<par/<hw>Ma"nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>The benevolent spirits of the dead, especially of dead ancestors, regarded as family deities and protectors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Hail, O ye holy <qex>manes</qex>!</q> <rj><qau>Dryden.</qau></rj><br/
@@ -7331,7 +7331,7 @@ That living mortals, hearing them, run mad.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mangue</ent><br/
-\'d8<hw>Mangue</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The kusimanse.</def><br/
+<par/<hw>Mangue</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>The kusimanse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mangy</ent><br/
@@ -7755,7 +7755,7 @@ His voice, his figure, and his gesture knew.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manille</ent><br/
-\'d8<hw>Ma*nille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See 1st <er>Manilla</er>, <snr>1</snr>.</def><br/
+<par/<hw>Ma*nille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>See 1st <er>Manilla</er>, <snr>1</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>man in the street</ent><br/
@@ -7829,7 +7829,7 @@ His voice, his figure, and his gesture knew.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manis</ent><br/
-\'d8<hw>Ma"nis</hw> <pr>(m<amac/"n<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>manes</ets> the ghosts or shades of the dead. So called from its dismal appearance, and because it seeks for its food by night.]</ety> <fld>(Zool.)</fld> <def>A genus of edentates, covered with large, hard, triangular scales, with sharp edges that overlap each other like tiles on a roof.  They inhabit the warmest parts of Asia and Africa, and feed on ants. Called also <altname>Scaly anteater</altname>. See <er>Pangolin</er>.</def><br/
+<par/<hw>Ma"nis</hw> <pr>(m<amac/"n<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>manes</ets> the ghosts or shades of the dead. So called from its dismal appearance, and because it seeks for its food by night.]</ety> <fld>(Zool.)</fld> <def>A genus of edentates, covered with large, hard, triangular scales, with sharp edges that overlap each other like tiles on a roof.  They inhabit the warmest parts of Asia and Africa, and feed on ants. Called also <altname>Scaly anteater</altname>. See <er>Pangolin</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manitu</ent><br/
@@ -8053,7 +8053,7 @@ What <qex>manner</qex> of man art thou?</q> <rj><qau>Coleridge.</qau></rj><br/
 
 <p><ent>Maennerchor</ent><br/
 <ent>Mannerchor</ent><br/
-\'d8<hw>M<aum/n"ner*chor`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>G. pl.</it> <plw>M<aum/nnerch<oum/re</plw> <pr>(#)</pr></plu>. <ety>[G.; <ets>m<aum/nner</ets>, pl. of <ets>mann</ets> man + <ets>chor</ets> chorus.]</ety> <def>A German men's chorus or singing club.</def><br/
+<par/<hw>M<aum/n"ner*chor`</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>G. pl.</it> <plw>M<aum/nnerch<oum/re</plw> <pr>(#)</pr></plu>. <ety>[G.; <ets>m<aum/nner</ets>, pl. of <ets>mann</ets> man + <ets>chor</ets> chorus.]</ety> <def>A German men's chorus or singing club.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mannered</ent><br/
@@ -8168,7 +8168,7 @@ Most like to <qex>mannish</qex> creature.</q> <rj><qau>Gower.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mano</ent><br/
-\'d8<hw>Ma"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., hand.]</ety> <def>The muller, or crushing and grinding stone, used in grinding corn on a metate.</def> <mark>[Mexico & Local U. S.]</mark><br/
+<par/<hw>Ma"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., lit., hand.]</ety> <def>The muller, or crushing and grinding stone, used in grinding corn on a metate.</def> <mark>[Mexico & Local U. S.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Manoeuvre</ent><br/
@@ -8397,7 +8397,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manta</ent><br/
-\'d8<hw>Man"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>The <er>manta ray</er>.  See also <er>Cephaloptera</er> and <er>Sea devil</er>.</def><br/
+<par/<hw>Man"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>The <er>manta ray</er>.  See also <er>Cephaloptera</er> and <er>Sea devil</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>manta ray</ent><br/
@@ -8409,7 +8409,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manteau</ent><br/
-\'d8<hw>Man`teau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> F. <plw>Manteaux</plw> <pr>(#)</pr>, E. <plw>Manteaus</plw> <pr>(#)</pr>.</plu> <ety>[F. See <er>Mantle</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A woman's cloak or mantle.</def><br/
+<par/<hw>Man`teau"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> F. <plw>Manteaux</plw> <pr>(#)</pr>, E. <plw>Manteaus</plw> <pr>(#)</pr>.</plu> <ety>[F. See <er>Mantle</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>A woman's cloak or mantle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A gown worn by women.</def> <mark>[Obs.]</mark><br/
@@ -8492,7 +8492,7 @@ And in one grave their <qex>mansions</qex> keep.</q> <rj><qau>Den<?/am.</qau></r
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mantis</ent><br/
-\'d8<hw>Man"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a prophet.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of voracious orthopterous insects of the genus <gen>Mantis</gen>, and allied genera. They are  predacious long-bodied large-eyed insects of warm regions, are remarkable for their slender grotesque forms, and for holding their stout anterior legs in a manner suggesting hands folded in prayer. The common American species is <spn>Mantis Carolina</spn>.</def><br/
+<par/<hw>Man"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a prophet.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of voracious orthopterous insects of the genus <gen>Mantis</gen>, and allied genera. They are  predacious long-bodied large-eyed insects of warm regions, are remarkable for their slender grotesque forms, and for holding their stout anterior legs in a manner suggesting hands folded in prayer. The common American species is <spn>Mantis Carolina</spn>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Mantis shrimp</col>. <fld>(Zool.)</fld> <cd>The <er>Squilla</er>, a tropical marine burrowing crustacean with large grasping appendages.  Also called <altname>mantis crab</altname> and <altname>mantis prawn</altname>.</cd></cs><br/
@@ -8636,7 +8636,7 @@ Do cream and <qex>mantle</qex> like a standing pond.</q> <rj><qau>Shak.</qau></r
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mantra</ent><br/
-\'d8<hw>Man"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <def>A prayer; an invocation; a religious formula; a charm.</def> <mark>[India]</mark><br/
+<par/<hw>Man"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <def>A prayer; an invocation; a religious formula; a charm.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Among the Hindoos each caste and tribe has a <xex>mantra</xex> peculiar to itself; as, the <xex>mantra</xex> of the Brahmans.</note>  <rj><au>Balfour (Cyc. of India).</au></rj><br/
@@ -8665,7 +8665,7 @@ Do cream and <qex>mantle</qex> like a standing pond.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manu</ent><br/
-\'d8<hw>Ma"nu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hind. Myth.)</fld> <def>One of a series of progenitors of human beings, and authors of human wisdom.</def><br/
+<par/<hw>Ma"nu</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr.]</ety> <fld>(Hind. Myth.)</fld> <def>One of a series of progenitors of human beings, and authors of human wisdom.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manual</ent><br/
@@ -8734,7 +8734,7 @@ Do cream and <qex>mantle</qex> like a standing pond.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manubrium</ent><br/
-\'d8<hw>Ma*nu"bri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Manubria</plw> <pr>(#)</pr>, E. <plw>Manubriums</plw> <pr>(#)</pr>.</plu> <ety>[L., handle, fr. <ets>manus</ets> hand.]</ety><br/
+<par/<hw>Ma*nu"bri*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Manubria</plw> <pr>(#)</pr>, E. <plw>Manubriums</plw> <pr>(#)</pr>.</plu> <ety>[L., handle, fr. <ets>manus</ets> hand.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>A handlelike process or part; esp., the anterior segment of the sternum, or presternum, and the handlelike process of the malleus.</def><br/
@@ -8818,7 +8818,7 @@ Do cream and <qex>mantle</qex> like a standing pond.</q> <rj><qau>Shak.</qau></r
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>manul</ent><br/
-\'d8<hw>ma"nul</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A wild cat (<spn>Felis manul</spn>), having long, soft, light-colored fur.  It is found in the mountains of Central Asia, and dwells among rocks.</def><br/
+<par/<hw>ma"nul</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A wild cat (<spn>Felis manul</spn>), having long, soft, light-colored fur.  It is found in the mountains of Central Asia, and dwells among rocks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manumise</ent><br/
@@ -8894,7 +8894,7 @@ And with vain, outward things be no more moved.</q> <rj><qau>Donne.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manus</ent><br/
-\'d8<hw>Ma"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Manus</plw>.</plu> <ety>[L., the hand.]</ety> <fld>(Anat.)</fld> <def>The distal segment of the fore limb, including the carpus and fore foot or hand.</def><br/
+<par/<hw>Ma"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Manus</plw>.</plu> <ety>[L., the hand.]</ety> <fld>(Anat.)</fld> <def>The distal segment of the fore limb, including the carpus and fore foot or hand.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Manuscript</ent><br/
@@ -9088,7 +9088,7 @@ Find native graves.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mapach</ent><br/
-\'d8<hw>Ma*pach"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Mexican.]</ety> <def>The raccoon.</def><br/
+<par/<hw>Ma*pach"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Mexican.]</ety> <def>The raccoon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mapinguari</ent><br/
@@ -9178,15 +9178,15 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mara</ent><br/
-\'d8<hw>Ma"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>m<amac/ra</ets>.]</ety> <fld>(Hind. Myth.)</fld> <def>The principal or ruling evil spirit.</def>  <rj><au>E. Arnold.</au></rj><br/
+<par/<hw>Ma"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Skr. <ets>m<amac/ra</ets>.]</ety> <fld>(Hind. Myth.)</fld> <def>The principal or ruling evil spirit.</def>  <rj><au>E. Arnold.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mara</ent><br/
-\'d8<hw>Ma"ra</hw>, <pos>n.</pos> <ety>[Icel. <ets>mara</ets> nightmare, an ogress. See <er>Nightmare</er>.]</ety> <fld>(Norse Myth.)</fld> <def>A female demon who torments people in sleep by crouching on their chests or stomachs, or by causing terrifying visions.</def><br/
+<par/<hw>Ma"ra</hw>, <pos>n.</pos> <ety>[Icel. <ets>mara</ets> nightmare, an ogress. See <er>Nightmare</er>.]</ety> <fld>(Norse Myth.)</fld> <def>A female demon who torments people in sleep by crouching on their chests or stomachs, or by causing terrifying visions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mara</ent><br/
-\'d8<hw>Ma"ra</hw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Patagonian cavy, a hare-like rodent (<spn>Dolichotis patagonum</spn> or <spn>Dolichotis Patagonicus</spn>) of the pampas of Argentina.</def><br/
+<par/<hw>Ma"ra</hw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Patagonian cavy, a hare-like rodent (<spn>Dolichotis patagonum</spn> or <spn>Dolichotis Patagonicus</spn>) of the pampas of Argentina.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marabou</ent><br/
@@ -9211,7 +9211,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marai</ent><br/
-\'d8<hw>Ma*rai"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A sacred inclosure or temple; -- so called by the islanders of the Pacific Ocean.</def><br/
+<par/<hw>Ma*rai"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A sacred inclosure or temple; -- so called by the islanders of the Pacific Ocean.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maranatha</ent><br/
@@ -9245,7 +9245,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Maraschino</ent><br/
-\'d8<hw>Ma`ra*schi"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>marasca</ets>, <ets>amarasca</ets>, a sour cherry, L. <ets>amarus</ets> bitter.]</ety> <def>A liqueur distilled from fermented cherry juice, and flavored with the pit of a variety of cherry which grows in Dalmatia.</def><br/
+<par/<hw>Ma`ra*schi"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., fr. <ets>marasca</ets>, <ets>amarasca</ets>, a sour cherry, L. <ets>amarus</ets> bitter.]</ety> <def>A liqueur distilled from fermented cherry juice, and flavored with the pit of a variety of cherry which grows in Dalmatia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>maraschino cherry</ent><br/
@@ -9418,7 +9418,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marbrinus</ent><br/
-\'d8<hw>Mar*bri"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. OF. & F. <ets>marble</ets> marble. See <er>Marble</er>.]</ety> <def>A cloth woven so as to imitate the appearance of marble; -- much used in the 15th and 16th centuries.</def>  <rj><au>Beck (Draper's Dict.).</au></rj><br/
+<par/<hw>Mar*bri"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL., fr. OF. & F. <ets>marble</ets> marble. See <er>Marble</er>.]</ety> <def>A cloth woven so as to imitate the appearance of marble; -- much used in the 15th and 16th centuries.</def>  <rj><au>Beck (Draper's Dict.).</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marc</ent><br/
@@ -9456,7 +9456,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marcato</ent><br/
-\'d8<hw>Mar*ca"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>In a marked emphatic manner; -- used adverbially as a direction.</def><br/
+<par/<hw>Mar*ca"to</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>In a marked emphatic manner; -- used adverbially as a direction.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marceline</ent><br/
@@ -9636,7 +9636,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marcobrunner</ent><br/
-\'d8<hw>Mar`co*brun"ner</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>Marcobrunner</ets>.]</ety> <def>A celebrated Rhine wine.</def><br/
+<par/<hw>Mar`co*brun"ner</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. <ets>Marcobrunner</ets>.]</ety> <def>A celebrated Rhine wine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marconi</ent><br/
@@ -9674,7 +9674,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marcor</ent><br/
-\'d8<hw>Mar"cor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>marcere</ets> to wither.]</ety> <def>A wasting away of flesh; decay.</def> <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
+<par/<hw>Mar"cor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>marcere</ets> to wither.]</ety> <def>A wasting away of flesh; decay.</def> <mark>[Obs.]</mark>  <rj><au>Sir T. Browne.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marcosian</ent><br/
@@ -9682,7 +9682,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mardi gras</ent><br/
-\'d8<hw>Mar"di` gras"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., literally, fat Tuesday.]</ety> <sn>1.</sn> <def>The last day of Carnival; the Tuesday before Ash Wednesday (the beginning of Lent and fasting); Shrove Tuesday; -- in some cities a great day of carnival and merrymaking; in the United States it is especially associated with <city>New Orleans</city>.</def><br/
+<par/<hw>Mar"di` gras"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., literally, fat Tuesday.]</ety> <sn>1.</sn> <def>The last day of Carnival; the Tuesday before Ash Wednesday (the beginning of Lent and fasting); Shrove Tuesday; -- in some cities a great day of carnival and merrymaking; in the United States it is especially associated with <city>New Orleans</city>.</def><br/
 <syn><b>Syn. --</b> pancake day.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -9705,7 +9705,7 @@ Goes slow and stately by them.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mare clausum</ent><br/
-\'d8<hw>Ma"re clau"sum</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Internat. Law)</fld> <def>Lit., closed sea; hence, a body of water within the separate jurisdiction of the nation; -- opposed to <contr>open sea</contr> (<contr>mare liberum</contr>), the water open to all nations and over which no single nation has special control.</def><br/
+<par/<hw>Ma"re clau"sum</hw> <pr>(?)</pr>. <ety>[L.]</ety> <fld>(Internat. Law)</fld> <def>Lit., closed sea; hence, a body of water within the separate jurisdiction of the nation; -- opposed to <contr>open sea</contr> (<contr>mare liberum</contr>), the water open to all nations and over which no single nation has special control.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mareis</ent><br/
@@ -9884,7 +9884,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marginalia</ent><br/
-\'d8<hw>Mar`gi*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>Marginal notes.</def><br/
+<par/<hw>Mar`gi*na"li*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <def>Marginal notes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marginality</ent><br/
@@ -9923,7 +9923,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Marginella</ent><br/
-\'d8<hw>Mar`gi*nel"la</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., dim. of L. <ets>margo</ets>, <ets>marginis</ets>, a margin.]</ety> <fld>(Zool.)</fld> <def>A genus of small, polished, marine univalve shells, native of all warm seas.</def><br/
+<par/<hw>Mar`gi*nel"la</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., dim. of L. <ets>margo</ets>, <ets>marginis</ets>, a margin.]</ety> <fld>(Zool.)</fld> <def>A genus of small, polished, marine univalve shells, native of all warm seas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marginicidal</ent><br/
@@ -10011,11 +10011,11 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marimba</ent><br/
-\'d8<hw>Ma*rim"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A musical istrument of percussion, consisting of bars yielding musical tones when struck.</def>  <rj><au>Knight.</au></rj><br/
+<par/<hw>Ma*rim"ba</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <def>A musical istrument of percussion, consisting of bars yielding musical tones when struck.</def>  <rj><au>Knight.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marimonda</ent><br/
-\'d8<hw>Mar`i*mon"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>A spider monkey (<spn>Ateles belzebuth</spn>) of Central and South America.</def><br/
+<par/<hw>Mar`i*mon"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>A spider monkey (<spn>Ateles belzebuth</spn>) of Central and South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marinade</ent><br/
@@ -10400,7 +10400,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 
 <p><ent>markhor</ent><br/
 <ent>Markhoor</ent><br/
-<mhw>\'d8<hw>Mark"hoor`</hw>, <hw>mark"hor`</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>m<amac/r-kh<omac/r</ets> snake eater.]</ety> <fld>(Zool.)</fld> <def>A large wild goat (<spn>Capra falconeri</spn> syn. <spn>Capra megaceros</spn>), having huge flattened spiral horns.  It inhabits the mountains of Northern India and Cashmere.</def><br/
+<mhw><par/<hw>Mark"hoor`</hw>, <hw>mark"hor`</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Per. <ets>m<amac/r-kh<omac/r</ets> snake eater.]</ety> <fld>(Zool.)</fld> <def>A large wild goat (<spn>Capra falconeri</spn> syn. <spn>Capra megaceros</spn>), having huge flattened spiral horns.  It inhabits the mountains of Northern India and Cashmere.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marking</ent><br/
@@ -10549,7 +10549,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marmoratum opus</ent><br/
-\'d8<hw>Mar`mo*ra`tum o"pus</hw> <pr>(?)</pr>. <ety>[L. See <er>Marmorate</er>, and <er>Opus</er>.]</ety> <fld>(Arch.)</fld> <def>A kind of hard finish for plasterwork, made of plaster of Paris and marble dust, and capable of taking a high polish.</def><br/
+<par/<hw>Mar`mo*ra`tum o"pus</hw> <pr>(?)</pr>. <ety>[L. See <er>Marmorate</er>, and <er>Opus</er>.]</ety> <fld>(Arch.)</fld> <def>A kind of hard finish for plasterwork, made of plaster of Paris and marble dust, and capable of taking a high polish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marmorean</ent><br/
@@ -10558,7 +10558,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marmorosis</ent><br/
-\'d8<hw>Mar`mo*ro"sis</hw> <pr>(m<aum/r`m<osl/*r<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Geol.)</fld> <def>The metamorphism of limestone, that is, its conversion into marble.</def>  <rj><au>Geikie.</au></rj><br/
+<par/<hw>Mar`mo*ro"sis</hw> <pr>(m<aum/r`m<osl/*r<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Geol.)</fld> <def>The metamorphism of limestone, that is, its conversion into marble.</def>  <rj><au>Geikie.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marmose</ent><br/
@@ -10677,7 +10677,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marquise</ent><br/
-\'d8<hw>Mar`quise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Marquis</er>, and cf. <er>Marquee</er>.]</ety> <def>The wife of a marquis; a marchioness.</def><br/
+<par/<hw>Mar`quise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Marquis</er>, and cf. <er>Marquee</er>.]</ety> <def>The wife of a marquis; a marchioness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marquisship</ent><br/
@@ -10819,7 +10819,7 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marrubium</ent><br/
-\'d8<hw>Mar*ru"bi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of bitter aromatic plants, sometimes used in medicine; hoarhound.</def><br/
+<par/<hw>Mar*ru"bi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot.)</fld> <def>A genus of bitter aromatic plants, sometimes used in medicine; hoarhound.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marruecos</ent><br/
@@ -10896,12 +10896,12 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marsdenia</ent><br/
-\'d8<hw>Mars*de"ni*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. From W. <ets>Marsden</ets>, an English author.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the Milkweed family, mostly woody climbers with fragrant flowers, several species of which furnish valuable fiber, and one species (<spn>Marsdenia tinctoria</spn>) affords indigo.</def><br/
+<par/<hw>Mars*de"ni*a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL. From W. <ets>Marsden</ets>, an English author.]</ety> <fld>(Bot.)</fld> <def>A genus of plants of the Milkweed family, mostly woody climbers with fragrant flowers, several species of which furnish valuable fiber, and one species (<spn>Marsdenia tinctoria</spn>) affords indigo.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marseillaise</ent><br/
 <ent>Marseillais</ent><br/
-<mhw>{ \'d8<hw>Mar`sei`llais"</hw> <pr>(?)</pr>, <pos>a. m.</pos> \'d8<hw>Mar`sei`llaise"</hw> <pr>(?)</pr>, <pos>a. f.</pos> }</mhw><ety>[F.]</ety> <def>Of or pertaining to Marseilles, in France, or to its inhabitants.</def><br/
+<mhw>{ <par/<hw>Mar`sei`llais"</hw> <pr>(?)</pr>, <pos>a. m.</pos> <par/<hw>Mar`sei`llaise"</hw> <pr>(?)</pr>, <pos>a. f.</pos> }</mhw><ety>[F.]</ety> <def>Of or pertaining to Marseilles, in France, or to its inhabitants.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col>Marseillaise hymn</col>, <it>or</it> <col>The Marseillaise</col></mcol>, <cd>the national anthem of France, popularly so called.  It was composed in 1792, by Rouget de l'Isle, an officer then stationed at Strasburg.  In Paris it was sung for the first time by the band of men who came from Marseilles to aid in the revolution of August 10, 1792; whence the name.</cd></cs><br/
@@ -10909,7 +10909,7 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 
 <p><ent>Marseillaise</ent><br/
 <ent>Marseillais</ent><br/
-<mhw>{ \'d8<hw>Mar`sei`llais"</hw>, <pos>n. m.</pos> \'d8<hw>Mar`sei`llaise"</hw>, <pos>n. f.</pos> }</mhw><ety>[F.]</ety> <def>A native or inhabitant of Marseilles.</def><br/
+<mhw>{ <par/<hw>Mar`sei`llais"</hw>, <pos>n. m.</pos> <par/<hw>Mar`sei`llaise"</hw>, <pos>n. f.</pos> }</mhw><ety>[F.]</ety> <def>A native or inhabitant of Marseilles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marseilles</ent><br/
@@ -11019,7 +11019,7 @@ As, in their order, next to light they came.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marsipobranchia</ent><br/
-\'d8<hw>Mar"si*po*bran"chi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a pouch + <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>A class of <subphylum>Vertebrata</subphylum>, lower than fishes, characterized by their purselike gill cavities, cartilaginous skeletons, absence of limbs, and a suckerlike mouth destitute of jaws.  It includes the lampreys and hagfishes. See <er>Cyclostoma</er>, and <er>Lamprey</er>. Called also <altname>Marsipobranchiata</altname>, and <altname>Marsipobranchii</altname>.</def><br/
+<par/<hw>Mar"si*po*bran"chi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a pouch + <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>A class of <subphylum>Vertebrata</subphylum>, lower than fishes, characterized by their purselike gill cavities, cartilaginous skeletons, absence of limbs, and a suckerlike mouth destitute of jaws.  It includes the lampreys and hagfishes. See <er>Cyclostoma</er>, and <er>Lamprey</er>. Called also <altname>Marsipobranchiata</altname>, and <altname>Marsipobranchii</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marsupial</ent><br/
@@ -11040,7 +11040,7 @@ As, in their order, next to light they came.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Marsupialia</ent><br/
-\'d8<hw>Mar*su`pi*a"li*a</hw> <pr>(m<aum/r*s<umac/`p<icr/*<amac/"l<icr/*<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. L. <ets>marsupium</ets> a pouch, bag, purse, Gr. <grk>marsy`pion</grk>, dim. of <grk>ma`rsypos</grk>, <grk>ma`rsipos</grk>.]</ety> <fld>(Zool.)</fld> <def>A subclass of <class>Mammalia</class>, including nearly all the mammals of Australia and the adjacent islands, together with the opossums of America.  They differ from ordinary mammals in having the corpus callosum very small, in being implacental, and in having their young born while very immature.  The female generally carries the young for some time after birth in an external pouch, or marsupium.  Called also <altname>Marsupiata</altname>.</def><br/
+<par/<hw>Mar*su`pi*a"li*a</hw> <pr>(m<aum/r*s<umac/`p<icr/*<amac/"l<icr/*<adot/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. L. <ets>marsupium</ets> a pouch, bag, purse, Gr. <grk>marsy`pion</grk>, dim. of <grk>ma`rsypos</grk>, <grk>ma`rsipos</grk>.]</ety> <fld>(Zool.)</fld> <def>A subclass of <class>Mammalia</class>, including nearly all the mammals of Australia and the adjacent islands, together with the opossums of America.  They differ from ordinary mammals in having the corpus callosum very small, in being implacental, and in having their young born while very immature.  The female generally carries the young for some time after birth in an external pouch, or marsupium.  Called also <altname>Marsupiata</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marsupian</ent><br/
@@ -11053,7 +11053,7 @@ As, in their order, next to light they came.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marsupion</ent><br/
-\'d8<hw>mar*su"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Marsupium</er>.</def><br/
+<par/<hw>mar*su"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Same as <er>Marsupium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marsupite</ent><br/
@@ -11061,7 +11061,7 @@ As, in their order, next to light they came.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marsupium</ent><br/
-\'d8<hw>mar*su"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>marsupia</plw> <pr>(#)</pr>.</plu> <ety>[L., a pouch]</ety>, <fld>(Anat. & Zool.)</fld> <sd>(a)</sd> <def>The pouch, formed by a fold of the skin of the abdomen, in which marsupials carry their young; also, a pouch for similar use in other animals, as certain Crustacea.</def> <sd>(b)</sd> <def>The pecten in the eye of birds and reptiles. See <er>Pecten</er>.</def><br/
+<par/<hw>mar*su"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>marsupia</plw> <pr>(#)</pr>.</plu> <ety>[L., a pouch]</ety>, <fld>(Anat. & Zool.)</fld> <sd>(a)</sd> <def>The pouch, formed by a fold of the skin of the abdomen, in which marsupials carry their young; also, a pouch for similar use in other animals, as certain Crustacea.</def> <sd>(b)</sd> <def>The pecten in the eye of birds and reptiles. See <er>Pecten</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mart</ent><br/
@@ -11105,7 +11105,7 @@ To undeservers.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>martel de fer</ent><br/
-\'d8<hw>mar`tel` de fer"</hw> <pr>(?)</pr>. <ety>[OF., hammer of iron.]</ety> <def>A weapon resembling a hammer, often having one side of the head pointed; -- used by horsemen in the Middle Ages to break armor.</def>  <rj><au>Fairholt.</au></rj><br/
+<par/<hw>mar`tel` de fer"</hw> <pr>(?)</pr>. <ety>[OF., hammer of iron.]</ety> <def>A weapon resembling a hammer, often having one side of the head pointed; -- used by horsemen in the Middle Ages to break armor.</def>  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>marteline</ent><br/
@@ -11763,7 +11763,7 @@ Thou <qex>martyrest</qex> with sorrow and with smart.</q> <rj><qau>Spenser.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Masora</ent><br/
-\'d8<hw>Ma*so"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NHeb. <ets>m<amac/s<omac/r<amac/h</ets> tradition.]</ety> <def>A Jewish critical work on the text of the Hebrew Scriptures, composed by several learned rabbis of the school of Tiberias, in the eighth and ninth centuries.</def> <altsp>[Written also <asp>Masorah</asp>, <asp>Massora</asp>, and <asp>Massorah</asp>.]</altsp><br/
+<par/<hw>Ma*so"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NHeb. <ets>m<amac/s<omac/r<amac/h</ets> tradition.]</ety> <def>A Jewish critical work on the text of the Hebrew Scriptures, composed by several learned rabbis of the school of Tiberias, in the eighth and ninth centuries.</def> <altsp>[Written also <asp>Masorah</asp>, <asp>Massora</asp>, and <asp>Massorah</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Masoret</ent><br/
@@ -11971,14 +11971,14 @@ Of <qex>carnage</qex>, prey innumerable!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Masseur</ent><br/
-\'d8<hw>Mas`seur"</hw> <pr>(m<adot/*s<ucir/r")</pr>, <pos>n.</pos>; <plu>pl. <plw>Masseurs</plw> <pr>(m<adot/*s<ucir/rz"; <it>F.</it> m<adot/*s<ucir/r")</pr></plu>. <ety>[F. See <er>Massage</er>.]</ety> <sn>1.</sn> <def>A man who practices massage.</def><br/
+<par/<hw>Mas`seur"</hw> <pr>(m<adot/*s<ucir/r")</pr>, <pos>n.</pos>; <plu>pl. <plw>Masseurs</plw> <pr>(m<adot/*s<ucir/rz"; <it>F.</it> m<adot/*s<ucir/r")</pr></plu>. <ety>[F. See <er>Massage</er>.]</ety> <sn>1.</sn> <def>A man who practices massage.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>An instrument used in the performance of massage.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Masseuse</ent><br/
-\'d8<hw>Mas`seuse"</hw> <pr>(m<adot/*s<ucir/z")</pr>, <pos>n.</pos>; <plu>pl. <plw>Masseuses</plw> <pr>(<it>F.</it> m<adot/*s<ucir/z")</pr></plu>. <ety>[F.]</ety> <def>A woman who practices massage.</def><br/
+<par/<hw>Mas`seuse"</hw> <pr>(m<adot/*s<ucir/z")</pr>, <pos>n.</pos>; <plu>pl. <plw>Masseuses</plw> <pr>(<it>F.</it> m<adot/*s<ucir/z")</pr></plu>. <ety>[F.]</ety> <def>A woman who practices massage.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>massicot</ent><br/
@@ -12107,7 +12107,7 @@ Of some great ammiral.<--sic--></q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mastax</ent><br/
-\'d8<hw>Mas"tax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ mouth, jaws.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The pharynx of a rotifer. It usually contains four horny pieces. The two central ones form the incus, against which the mallei, or lateral ones, work so as to crush the food.</def> <sd>(b)</sd> <def>The lore of a bird.</def><br/
+<par/<hw>Mas"tax</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ mouth, jaws.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>The pharynx of a rotifer. It usually contains four horny pieces. The two central ones form the incus, against which the mallei, or lateral ones, work so as to crush the food.</def> <sd>(b)</sd> <def>The lore of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Masted</ent><br/
@@ -12431,7 +12431,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastigopoda</ent><br/
-\'d8<hw>Mas`ti*gop"o*da</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>ma`stix</grk>, <grk>ma`stigos</grk>, a whip + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>Formerly considered identical to the Infusoria, now distinguished from that group, which has been reordered.  See <er>Mastigophora</er>.</def><br/
+<par/<hw>Mas`ti*gop"o*da</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>ma`stix</grk>, <grk>ma`stigos</grk>, a whip + <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Zool.)</fld> <def>Formerly considered identical to the Infusoria, now distinguished from that group, which has been reordered.  See <er>Mastigophora</er>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mastigure</ent><br/
@@ -12446,7 +12446,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastitis</ent><br/
-\'d8<hw>Mas*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>masto`s</grk> breast + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the breast.</def><br/
+<par/<hw>Mas*ti"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>masto`s</grk> breast + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the breast.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastless</ent><br/
@@ -12468,7 +12468,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastodonsaurus</ent><br/
-\'d8<hw>Mas`to*don*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>Mastodon</ets> + Gr. <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>A large extinct genus of labyrinthodonts, found in the European Triassic rocks.</def><br/
+<par/<hw>Mas`to*don*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. E. <ets>Mastodon</ets> + Gr. <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>A large extinct genus of labyrinthodonts, found in the European Triassic rocks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastodontic</ent><br/
@@ -12477,7 +12477,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 
 <p><ent>Mastodyny</ent><br/
 <ent>Mastodynia</ent><br/
-<mhw>\'d8<hw>Mas`to*dyn"i*a</hw> <pr>(?)</pr>, <hw>Mas*tod"y*ny</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL. <ets>mastodynia</ets>, fr. Gr. <grk>masto`s</grk> the breast + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain occuring in the mamma or female breast, -- a form of neuralgia.</def><br/
+<mhw><par/<hw>Mas`to*dyn"i*a</hw> <pr>(?)</pr>, <hw>Mas*tod"y*ny</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL. <ets>mastodynia</ets>, fr. Gr. <grk>masto`s</grk> the breast + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain occuring in the mamma or female breast, -- a form of neuralgia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mastoid</ent><br/
@@ -12574,7 +12574,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Matachin</ent><br/
-\'d8<hw>Ma`ta*chin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An old dance with swords and bucklers; a sword dance.</def><br/
+<par/<hw>Ma`ta*chin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>An old dance with swords and bucklers; a sword dance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mataco</ent><br/
@@ -12612,7 +12612,7 @@ You took it with a <qex>matadore</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Matamata</ent><br/
-\'d8<hw>Ma`ta*ma"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <fld>(Zool.)</fld> <def>The bearded tortoise (<spn>Chelys fimbriata</spn>) of South American rivers.</def><br/
+<par/<hw>Ma`ta*ma"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg.]</ety> <fld>(Zool.)</fld> <def>The bearded tortoise (<spn>Chelys fimbriata</spn>) of South American rivers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Matanza</ent><br/
@@ -12830,7 +12830,7 @@ Would not have <qex>matched</qex> his daughter with a king.</q> <rj><qau>Addison
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mate</ent><br/
-\'d8<hw>Ma"te</hw> <pr>(m<aum/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>The Paraguay tea, being the dried leaf of the Brazilian holly (<spn>Ilex Paraguensis</spn>).  The infusion has a pleasant odor, with an agreeable bitter taste, and is much used for tea in South America.</def><br/
+<par/<hw>Ma"te</hw> <pr>(m<aum/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>The Paraguay tea, being the dried leaf of the Brazilian holly (<spn>Ilex Paraguensis</spn>).  The infusion has a pleasant odor, with an agreeable bitter taste, and is much used for tea in South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mate</ent><br/
@@ -12907,11 +12907,11 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Matelasse</ent><br/
-\'d8<hw>Mate`las`s<eacute/"</hw> <pr>(m<adot/`l<adot/`s<asl/")</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>matelasser</ets> to cushion, to cover as with a mattress, fr. <ets>matelas</ets> mattress. See <er>Mattress</er>.]</ety> <def>Ornamented by means of an imitation or suggestion of quilting, the surface being marked by depressed lines which form squares or lozenges in relief; <as>as, <ex>matelass<eacute/</ex> silks</as>.</def><br/
+<par/<hw>Mate`las`s<eacute/"</hw> <pr>(m<adot/`l<adot/`s<asl/")</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>matelasser</ets> to cushion, to cover as with a mattress, fr. <ets>matelas</ets> mattress. See <er>Mattress</er>.]</ety> <def>Ornamented by means of an imitation or suggestion of quilting, the surface being marked by depressed lines which form squares or lozenges in relief; <as>as, <ex>matelass<eacute/</ex> silks</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Matelasse</ent><br/
-\'d8<hw>Mate`las`s<eacute/"</hw>, <pos>n.</pos> <def>A quilted ornamented dress fabric of silk or silk and wool.</def><br/
+<par/<hw>Mate`las`s<eacute/"</hw>, <pos>n.</pos> <def>A quilted ornamented dress fabric of silk or silk and wool.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mateless</ent><br/
@@ -12935,7 +12935,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mater</ent><br/
-\'d8<hw>Ma"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mother. See <er>Mother</er>.]</ety> <def>See <er>Alma mater</er>, <er>Dura mater</er>, and <er>Pia mater</er>.</def><br/
+<par/<hw>Ma"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mother. See <er>Mother</er>.]</ety> <def>See <er>Alma mater</er>, <er>Dura mater</er>, and <er>Pia mater</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Material</ent><br/
@@ -13077,7 +13077,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Materia medica</ent><br/
-\'d8<hw>Ma*te"ri*a med"i*ca</hw> <pr>(?)</pr>. <ety>[L. See <er>Matter</er>, and <er>Medical</er>.]</ety> <sn>1.</sn> <def>Material or substance used in the composition of remedies; -- a general term for all substances used as curative agents in medicine.</def><br/
+<par/<hw>Ma*te"ri*a med"i*ca</hw> <pr>(?)</pr>. <ety>[L. See <er>Matter</er>, and <er>Medical</er>.]</ety> <sn>1.</sn> <def>Material or substance used in the composition of remedies; -- a general term for all substances used as curative agents in medicine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>That branch of medical science which treats of the sources, nature and properties of all the substances that are employed for the cure of diseases, primarily with natural preparations, rather than pure or synthetic medicines; pharmacognosy.</def><br/
@@ -13097,7 +13097,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Materiel</ent><br/
-\'d8<hw>Ma`t<eacute/`ri`el"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Material</er>.]</ety> <def>Those objects in a complex system which constitute the <xex>materials</xex>, or instruments employed, in distinction from the <xex>personnel</xex>, or men; for example, the buildings, libraries, and apparatus of a college, in distinction from its officers; -- used in a collective sense.</def><br/
+<par/<hw>Ma`t<eacute/`ri`el"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Material</er>.]</ety> <def>Those objects in a complex system which constitute the <xex>materials</xex>, or instruments employed, in distinction from the <xex>personnel</xex>, or men; for example, the buildings, libraries, and apparatus of a college, in distinction from its officers; -- used in a collective sense.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Specifically:</specif> <fld>(Military)</fld> <def>The arms, munitions, baggage, equipment, provisions, etc., of an army.</def><br/
@@ -13187,7 +13187,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mathesis</ent><br/
-\'d8<hw>Ma*the"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, from <?/, <?/, to learn.]</ety> <def>Learning; especially, mathematics.</def> <mark>[R.]</mark>  <rj><au>Pope.</au></rj><br/
+<par/<hw>Ma*the"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, from <?/, <?/, to learn.]</ety> <def>Learning; especially, mathematics.</def> <mark>[R.]</mark>  <rj><au>Pope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mathurin</ent><br/
@@ -13203,7 +13203,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Matin</ent><br/
-\'d8<hw>M<acir/`tin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>m<acir/tin</ets>.]</ety> <fld>(Zool.)</fld> <def>A French mastiff.</def><br/
+<par/<hw>M<acir/`tin"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>m<acir/tin</ets>.]</ety> <fld>(Zool.)</fld> <def>A French mastiff.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Matin</ent><br/
@@ -13635,7 +13635,7 @@ No <qex>matter</qex> which, so neither of them lie.</q> <rj><qau>Dryden.</qau></
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mattoir</ent><br/
-\'d8<hw>Mat*toir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>matoir</ets>.]</ety> <fld>(Engraving)</fld> <def>A kind of coarse punch with a rasplike face, used for making a rough surface on etching ground, or on the naked copper, the effect after biting being very similar to stippled lines.</def><br/
+<par/<hw>Mat*toir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>matoir</ets>.]</ety> <fld>(Engraving)</fld> <def>A kind of coarse punch with a rasplike face, used for making a rough surface on etching ground, or on the naked copper, the effect after biting being very similar to stippled lines.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mattowacca</ent><br/
@@ -13797,7 +13797,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maucaco</ent><br/
-\'d8<hw>Mau*ca"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>A lemur; -- applied to several species, as the White-fronted, the ruffed, and the ring-tailed lemurs.</def><br/
+<par/<hw>Mau*ca"co</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the native name.]</ety> <fld>(Zool.)</fld> <def>A lemur; -- applied to several species, as the White-fronted, the ruffed, and the ring-tailed lemurs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maud</ent><br/
@@ -14115,7 +14115,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maxilla</ent><br/
-\'d8<hw>Max*il"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Maxillae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>mala</ets> jaw, jawbone.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The bone of either the upper or the under jaw.</def> <sd>(b)</sd> <def>The bone, or principal bone, of the upper jaw, the bone of the lower jaw being the <xex>mandible</xex>.</def> <mark>[Now commonly used in this restricted sense.]</mark><br/
+<par/<hw>Max*il"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Maxillae</plw> <pr>(#)</pr>.</plu> <ety>[L., dim. of <ets>mala</ets> jaw, jawbone.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The bone of either the upper or the under jaw.</def> <sd>(b)</sd> <def>The bone, or principal bone, of the upper jaw, the bone of the lower jaw being the <xex>mandible</xex>.</def> <mark>[Now commonly used in this restricted sense.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the lower or outer jaws of arthropods.</def><br/
@@ -14283,7 +14283,7 @@ Some general maxims, or be right by chance.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Maya</ent><br/
-\'d8<hw>Ma"ya</hw> <pr>(m<aum/"y<aum/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Hindu Philos.)</fld> <def>The name (in Vedantic philosphy) for the doctrine of the unreality of matter, called, in English, <altname>idealism</altname>; hence, nothingness; vanity; illusion.</def><br/
+<par/<hw>Ma"ya</hw> <pr>(m<aum/"y<aum/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Hindu Philos.)</fld> <def>The name (in Vedantic philosphy) for the doctrine of the unreality of matter, called, in English, <altname>idealism</altname>; hence, nothingness; vanity; illusion.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Hindu Philos.)</fld> <def>the Hindu goddess personifying the power that creates phenomena.</def> <au>[RHUD]</au><br/
@@ -14409,7 +14409,7 @@ Some general maxims, or be right by chance.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mayoral</ent><br/
-\'d8<hw>May"or*al</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. <ets>mayor</ets> greater, L. <ets>major</ets>.]</ety> <def>The conductor of a mule team; also, a head shepherd.</def><br/
+<par/<hw>May"or*al</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. <ets>mayor</ets> greater, L. <ets>major</ets>.]</ety> <def>The conductor of a mule team; also, a head shepherd.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mayoral</ent><br/
@@ -14985,7 +14985,7 @@ Through wood and dale the sacred river ran.</q> <rj><qau>Coleridge.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meandrina</ent><br/
-\'d8<hw>Me`an*dri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.: cf. F. <ets>m<eacute/andrine</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of corals with meandering grooves and ridges, including the brain corals.</def><br/
+<par/<hw>Me`an*dri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.: cf. F. <ets>m<eacute/andrine</ets>.]</ety> <fld>(Zool.)</fld> <def>A genus of corals with meandering grooves and ridges, including the brain corals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meandry</ent><br/
@@ -15372,7 +15372,7 @@ Down to a hidden sea.</q>  <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meatus</ent><br/
-\'d8<hw>Me*a"tus</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos>; <plu>E. <it>pl.</it> <plw>Meatuses</plw> <pr>(<?/)</pr>.</plu> <ety>[L., a going, passage, fr. <ets>meare</ets> to go.]</ety> <fld>(Anat.)</fld> <def>A natural passage or canal; <as>as, the external auditory <ex>meatus</ex></as>. See <xex>Illust.</xex> of <er>Ear</er>.</def><br/
+<par/<hw>Me*a"tus</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos>; <plu>E. <it>pl.</it> <plw>Meatuses</plw> <pr>(<?/)</pr>.</plu> <ety>[L., a going, passage, fr. <ets>meare</ets> to go.]</ety> <fld>(Anat.)</fld> <def>A natural passage or canal; <as>as, the external auditory <ex>meatus</ex></as>. See <xex>Illust.</xex> of <er>Ear</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meaty</ent><br/
@@ -15404,7 +15404,7 @@ Down to a hidden sea.</q>  <rj><qau>Coleridge.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mecate</ent><br/
-\'d8<hw>Me*ca"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A rope of hair or of maguey fiber, for tying horses, etc.</def> <mark>[Southwestern U. S.]</mark><br/
+<par/<hw>Me*ca"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A rope of hair or of maguey fiber, for tying horses, etc.</def> <mark>[Southwestern U. S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meccawee</ent><br/
@@ -15608,7 +15608,7 @@ Descend to a <qex>mechanic</qex> dialect.</q> <rj><qau>Roscommon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meconidium</ent><br/
-\'d8<hw>Mec`o*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <?/ a poppy. So called in allusion to the shape of the seed capsules of the poppy.]</ety> <fld>(Zool.)</fld> <def>A kind of gonophore produced by hydroids of the genus <gen>Gonothyraea</gen>.  It has tentacles, and otherwise resembles a free medusa, but remains attached by a pedicel.</def><br/
+<par/<hw>Mec`o*nid"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of Gr. <?/ a poppy. So called in allusion to the shape of the seed capsules of the poppy.]</ety> <fld>(Zool.)</fld> <def>A kind of gonophore produced by hydroids of the genus <gen>Gonothyraea</gen>.  It has tentacles, and otherwise resembles a free medusa, but remains attached by a pedicel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meconin</ent><br/
@@ -15620,7 +15620,7 @@ Descend to a <qex>mechanic</qex> dialect.</q> <rj><qau>Roscommon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meconium</ent><br/
-\'d8<hw>Me*co"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ poppy.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Opium.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>The contents of the fetal intestine; hence, first excrement.</def><br/
+<par/<hw>Me*co"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ poppy.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Opium.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>The contents of the fetal intestine; hence, first excrement.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medal</ent><br/
@@ -15745,7 +15745,7 @@ Did never <qex>meddle</qex> with my thoughts.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Media</ent><br/
-\'d8<hw>Me"di*a</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mediae</plw> <pr>(-<emac/)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle.]</ety> <sn>1.</sn> <fld>(Phonetics)</fld> <def>One of the sonant mutes <beta/, <delta/, <gamma/ (<it>b</it>, <it>d</it>, <it>g</it>), in Greek, or of their equivalents in other languages, so named as intermediate between the <xex>tenues</xex>, <pi/, <tau/, <kappa/ (<it>p</it>, <it>t</it>, <it>k</it>), and the <it>aspiratae</it>  (aspirates) <phi/, <theta/, <chi/ (<it>ph</it> or <it>f</it>, <it>th</it>, <it>ch</it>). Also called <altname>middle mute</altname>, or <altname>medial</altname>, and sometimes <altname>soft mute</altname>.</def><br/
+<par/<hw>Me"di*a</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mediae</plw> <pr>(-<emac/)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle.]</ety> <sn>1.</sn> <fld>(Phonetics)</fld> <def>One of the sonant mutes <beta/, <delta/, <gamma/ (<it>b</it>, <it>d</it>, <it>g</it>), in Greek, or of their equivalents in other languages, so named as intermediate between the <xex>tenues</xex>, <pi/, <tau/, <kappa/ (<it>p</it>, <it>t</it>, <it>k</it>), and the <it>aspiratae</it>  (aspirates) <phi/, <theta/, <chi/ (<it>ph</it> or <it>f</it>, <it>th</it>, <it>ch</it>). Also called <altname>middle mute</altname>, or <altname>medial</altname>, and sometimes <altname>soft mute</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mediacy</ent><br/
@@ -15781,7 +15781,7 @@ Did never <qex>meddle</qex> with my thoughts.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medialuna</ent><br/
-\'d8<hw>Me"di*a*lu"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>media luna</ets> half-moon.]</ety> <fld>(Zool.)</fld> <def>See <er>Half-moon</er>.</def><br/
+<par/<hw>Me"di*a*lu"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. <ets>media luna</ets> half-moon.]</ety> <fld>(Zool.)</fld> <def>See <er>Half-moon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Median</ent><br/
@@ -15808,7 +15808,7 @@ Did never <qex>meddle</qex> with my thoughts.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Mediastinum</ent><br/
 <ent>Mediastine</ent><br/
-<mhw>{ <hw>Me`di*as"tine</hw> <pr>(?)</pr>, \'d8<hw>Me`di*as*ti"num</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>mediastinum</ets>, fr. L. <ets>medius</ets> middle; cf. <ets>mediastinus</ets> helper, a menial servant, LL. <ets>mediastinus</ets> equiv. to <ets>medius</ets>: cf F. <ets>m<eacute/diastin</ets>.]</ety> <fld>(Anat.)</fld> <def>A partition; a septum; specifically, the folds of the pleura (and the space included between them) which divide the thorax into a right and left cavity. The space included between these folds of the pleura, called the <xex>mediastinal space</xex>, contains the heart and gives passage to the esophagus and great blood vessels.</def><br/
+<mhw>{ <hw>Me`di*as"tine</hw> <pr>(?)</pr>, <par/<hw>Me`di*as*ti"num</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>mediastinum</ets>, fr. L. <ets>medius</ets> middle; cf. <ets>mediastinus</ets> helper, a menial servant, LL. <ets>mediastinus</ets> equiv. to <ets>medius</ets>: cf F. <ets>m<eacute/diastin</ets>.]</ety> <fld>(Anat.)</fld> <def>A partition; a septum; specifically, the folds of the pleura (and the space included between them) which divide the thorax into a right and left cavity. The space included between these folds of the pleura, called the <xex>mediastinal space</xex>, contains the heart and gives passage to the esophagus and great blood vessels.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mediate</ent><br/
@@ -16068,7 +16068,7 @@ Their <qex>medicinal</qex> gum.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medicornu</ent><br/
-\'d8<hw>Med`i*cor"nu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Medicornua</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle + <ets>cornu</ets> horn.]</ety> <fld>(Anat.)</fld> <def>The middle or inferior horn of each lateral ventricle of the brain.</def>  <rj><au>B. G. Wilder.</au></rj><br/
+<par/<hw>Med`i*cor"nu</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Medicornua</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle + <ets>cornu</ets> horn.]</ety> <fld>(Anat.)</fld> <def>The middle or inferior horn of each lateral ventricle of the brain.</def>  <rj><au>B. G. Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medics</ent><br/
@@ -16260,7 +16260,7 @@ All these extremes; and must remove all <qex>mediums</qex>.</q> <rj><qau>Denham.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medius</ent><br/
-\'d8<hw>Me"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Medii</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle. See <er>Medium</er>.]</ety> <fld>(Anat.)</fld> <def>The third or middle finger; the third digit, or that which corresponds to it.</def><br/
+<par/<hw>Me"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Medii</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle. See <er>Medium</er>.]</ety> <fld>(Anat.)</fld> <def>The third or middle finger; the third digit, or that which corresponds to it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medjidieh</ent><br/
@@ -16317,7 +16317,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medoc</ent><br/
-\'d8<hw>M<eacute/`doc"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Mayduke</er>.]</ety> <def>A class of claret wines, including several varieties, from the district of M<eacute/doc in the department of Gironde.</def><br/
+<par/<hw>M<eacute/`doc"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Mayduke</er>.]</ety> <def>A class of claret wines, including several varieties, from the district of M<eacute/doc in the department of Gironde.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medregal</ent><br/
@@ -16367,7 +16367,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Medusa</ent><br/
-\'d8<hw>Me*du"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>The Gorgon; or one of the Gorgons whose hair was changed into serpents, after which all who looked upon her were turned into stone.</def><br/
+<par/<hw>Me*du"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>The Gorgon; or one of the Gorgons whose hair was changed into serpents, after which all who looked upon her were turned into stone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <plu>[<it>pl.</it> <plw>Medusae</plw> <pr>(<?/)</pr>.]</plu> <fld>(Zool.)</fld> <def>Any free swimming acaleph; a jellyfish.</def><br/
@@ -16465,7 +16465,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meerkat</ent><br/
-\'d8<hw>Meer"kat</hw> <pr>(m<emac/r"k<acr/t)</pr>, <pos>n.</pos> <ety>[D.]</ety> <fld>(Zool.)</fld> <def>A South African carnivore (<spn>Suricata suricata</spn>, formerly <spn>Cynictis penicillata</spn>), allied to the ichneumons, having a lemurlike face and only four toes; called also <altname>yellow mongoose</altname> and <altname>suricate</altname>.</def> <altsp>[Also spelled <asp>mierkat</asp>.]</altsp><br/
+<par/<hw>Meer"kat</hw> <pr>(m<emac/r"k<acr/t)</pr>, <pos>n.</pos> <ety>[D.]</ety> <fld>(Zool.)</fld> <def>A South African carnivore (<spn>Suricata suricata</spn>, formerly <spn>Cynictis penicillata</spn>), allied to the ichneumons, having a lemurlike face and only four toes; called also <altname>yellow mongoose</altname> and <altname>suricate</altname>.</def> <altsp>[Also spelled <asp>mierkat</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>While his compatrioits scuffle about in the sand for delicious scorpions or fat, tasty mice, one <qex>meerkat</qex> stands alone, bolt upright on an exposed perch, scanning for hawks with dark eyes wide, ready to call out at the first sign of danger.  Like other such guards in the animal kingdom, these endearingly vulnerable <qex>meerkat</qex> sentinels have long impressed biologists as true altruists -- creatures willing to forgo food and brave danger to protect others.<br/
@@ -16619,7 +16619,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megaceros</ent><br/
-\'d8<hw>Me*gac"e*ros</hw> <pr>(m<esl/*g<acr/s"<esl/*r<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`gas</grk> great + <grk>ke`ras</grk> horn.]</ety> <fld>(Paleon.)</fld> <def>The Irish elk.</def><br/
+<par/<hw>Me*gac"e*ros</hw> <pr>(m<esl/*g<acr/s"<esl/*r<ocr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`gas</grk> great + <grk>ke`ras</grk> horn.]</ety> <fld>(Paleon.)</fld> <def>The Irish elk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megachile</ent><br/
@@ -16685,7 +16685,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Megalocephaly</ent><br/
 <ent>Megalocephalia</ent><br/
-<mhw>{ \'d8<hw>Meg`a*lo*ce*pha"li*a</hw> <pr>(?)</pr>, <hw>Meg`a*lo*ceph"a*ly</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>megalocephalia</ets>, fr. Gr. <?/ having a large head.]</ety> <fld>(Med.)</fld> <def>The condition of having an abnormally large head; called also <altname>megacephaly</altname>.</def> -- <wordforms><wf>Meg`a*lo*ce*phal"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<mhw>{ <par/<hw>Meg`a*lo*ce*pha"li*a</hw> <pr>(?)</pr>, <hw>Meg`a*lo*ceph"a*ly</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[NL. <ets>megalocephalia</ets>, fr. Gr. <?/ having a large head.]</ety> <fld>(Med.)</fld> <def>The condition of having an abnormally large head; called also <altname>megacephaly</altname>.</def> -- <wordforms><wf>Meg`a*lo*ce*phal"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Megalocyte</ent><br/
@@ -16707,7 +16707,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Megalonyx</ent><br/
-\'d8<hw>Meg`a*lon"yx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>'o`nyx</grk> claw.]</ety> <fld>(Paleon.)</fld> <def>An extinct quaternary mammal, of great size, allied to the sloth.</def><br/
+<par/<hw>Meg`a*lon"yx</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>'o`nyx</grk> claw.]</ety> <fld>(Paleon.)</fld> <def>An extinct quaternary mammal, of great size, allied to the sloth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megalophonous</ent><br/
@@ -16735,7 +16735,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Megalosaurus</ent><br/
 <ent>Megalosaur</ent><br/
-<mhw>{ <hw>Meg"a*lo*saur`</hw> <pr>(?)</pr>, \'d8<hw>Meg`a*lo*sau"rus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>megalosaurus</ets>, fr. Gr. <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>say^ros</grk> lizard: cf. F. <ets>m<eacute/galosaure</ets>.]</ety> <fld>(Paleon.)</fld> <def>A gigantic carnivorous dinosaur, whose fossil remains have been found in England and elsewhere.</def><br/
+<mhw>{ <hw>Meg"a*lo*saur`</hw> <pr>(?)</pr>, <par/<hw>Meg`a*lo*sau"rus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>megalosaurus</ets>, fr. Gr. <grk>me`gas</grk>, <grk>mega`lh</grk>, great + <grk>say^ros</grk> lizard: cf. F. <ets>m<eacute/galosaure</ets>.]</ety> <fld>(Paleon.)</fld> <def>A gigantic carnivorous dinosaur, whose fossil remains have been found in England and elsewhere.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megameter</ent><br/
@@ -16759,7 +16759,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megaphyton</ent><br/
-\'d8<hw>Me*gaph"y*ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`gas</grk> great + <grk>fyto`n</grk> plant.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of tree ferns with large, two-ranked leaves, or fronds.</def><br/
+<par/<hw>Me*gaph"y*ton</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`gas</grk> great + <grk>fyto`n</grk> plant.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of tree ferns with large, two-ranked leaves, or fronds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megapode</ent><br/
@@ -16813,7 +16813,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Megatherium</ent><br/
 <ent>Megathere</ent><br/
-<mhw>{ <hw>Meg"a*there</hw> <pr>(?)</pr>, \'d8<hw>Meg`a*the"ri*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>megatherium</ets>, fr. Gr. <grk>me`gas</grk> great + <grk>qhri`on</grk> beast.]</ety> <fld>(Paleon.)</fld> <def>An extinct gigantic quaternary mammal, allied to the ant-eaters and sloths. Its remains are found in South America.</def><br/
+<mhw>{ <hw>Meg"a*there</hw> <pr>(?)</pr>, <par/<hw>Meg`a*the"ri*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>megatherium</ets>, fr. Gr. <grk>me`gas</grk> great + <grk>qhri`on</grk> beast.]</ety> <fld>(Paleon.)</fld> <def>An extinct gigantic quaternary mammal, allied to the ant-eaters and sloths. Its remains are found in South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Megatheroid</ent><br/
@@ -16890,7 +16890,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meiosis</ent><br/
-\'d8<hw>Mei*o"sis</hw> <pr>(m<isl/*<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mei`wsis</grk>, fr. <grk>meioy^n</grk> to make smaller, from <grk>mei`wn</grk>. See <er>Meionite</er>.]</ety> <sn>1.</sn> <fld>(Rhet.)</fld> <def>Diminution; a species of hyperbole, representing a thing as being less than it really is; understatement; see also <stype>litotes</stype>.</def><br/
+<par/<hw>Mei*o"sis</hw> <pr>(m<isl/*<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mei`wsis</grk>, fr. <grk>meioy^n</grk> to make smaller, from <grk>mei`wn</grk>. See <er>Meionite</er>.]</ety> <sn>1.</sn> <fld>(Rhet.)</fld> <def>Diminution; a species of hyperbole, representing a thing as being less than it really is; understatement; see also <stype>litotes</stype>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <fld>(Cell Biology)</fld> <def>The cellular process by which a diploid progenitor cell forms haploid gametes, including a division of one diploid cell into two cells, each with one of the homologous sets of chromosomes.</def><br/
@@ -16909,7 +16909,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Meistersinger</ent><br/
-\'d8<hw>Meis"ter*sing`er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>See <er>Mastersinger</er>.</def><br/
+<par/<hw>Meis"ter*sing`er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>See <er>Mastersinger</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mekhitarist</ent><br/
@@ -16922,11 +16922,11 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 
 <p><ent>Melado</ent><br/
 <ent>Melada</ent><br/
-<mhw>{ \'d8<hw>Me*la"da</hw> <pr>(?)</pr>, \'d8<hw>Me*la"do</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Sp., prop. p. p. of <ets>melar</ets> to sugar, candy, fr. L. <ets>mel</ets> honey. See <er>Molasses</er>.]</ety> <def>A mixture of sugar and molasses; crude sugar as it comes from the pans without being drained.</def><br/
+<mhw>{ <par/<hw>Me*la"da</hw> <pr>(?)</pr>, <par/<hw>Me*la"do</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Sp., prop. p. p. of <ets>melar</ets> to sugar, candy, fr. L. <ets>mel</ets> honey. See <er>Molasses</er>.]</ety> <def>A mixture of sugar and molasses; crude sugar as it comes from the pans without being drained.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melaena</ent><br/
-\'d8<hw>Me*lae"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, m., <grk>me`laina</grk>, f., black.]</ety> <fld>(Med.)</fld> <def>A discharge from the bowels of black matter, consisting of altered blood.</def><br/
+<par/<hw>Me*lae"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, m., <grk>me`laina</grk>, f., black.]</ety> <fld>(Med.)</fld> <def>A discharge from the bowels of black matter, consisting of altered blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melain</ent><br/
@@ -16965,7 +16965,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanaemia</ent><br/
-\'d8<hw>Mel`a*nae"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which the blood contains black pigment either floating freely or imbedded in the white blood corpuscles.</def><br/
+<par/<hw>Mel`a*nae"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>a"i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which the blood contains black pigment either floating freely or imbedded in the white blood corpuscles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanagogue</ent><br/
@@ -16973,7 +16973,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melancholia</ent><br/
-\'d8<hw>Mel`an*cho"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Melancholy</er>.]</ety> <fld>(Med.)</fld> <def>A kind of mental unsoundness characterized by extreme depression of spirits, ill-grounded fears, delusions, and brooding over one particular subject or train of ideas.</def><br/
+<par/<hw>Mel`an*cho"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Melancholy</er>.]</ety> <fld>(Med.)</fld> <def>A kind of mental unsoundness characterized by extreme depression of spirits, ill-grounded fears, delusions, and brooding over one particular subject or train of ideas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melancholian</ent><br/
@@ -17067,7 +17067,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melange</ent><br/
-\'d8<hw>M<eacute/`lange"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mell</er>, <er>Meddle</er>.]</ety> <def>A mixture; a medley.</def><br/
+<par/<hw>M<eacute/`lange"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mell</er>, <er>Meddle</er>.]</ety> <def>A mixture; a medley.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanian</ent><br/
@@ -17114,7 +17114,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanochroi</ent><br/
-\'d8<hw>Mel`a*noch"ro*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Melanochroic</er>.]</ety> <fld>(Ethnol.)</fld> <def>A group of the human race, including the dark whites.</def><br/
+<par/<hw>Mel`a*noch"ro*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Melanochroic</er>.]</ety> <fld>(Ethnol.)</fld> <def>A group of the human race, including the dark whites.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanochroic</ent><br/
@@ -17130,11 +17130,11 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanoma</ent><br/
-\'d8<hw>Mel`a*no"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>L. pl. <plw>-nomata</plw> <pr>(#)</pr></plu>. <ety>[NL.; Gr. <?/, <?/, black + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A tumor containing dark pigment.  Such tumors are usually malignant and often fatal.</def> <sd>(b)</sd> <def>Development of dark-pigmented tumors.</def><br/
+<par/<hw>Mel`a*no"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>L. pl. <plw>-nomata</plw> <pr>(#)</pr></plu>. <ety>[NL.; Gr. <?/, <?/, black + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A tumor containing dark pigment.  Such tumors are usually malignant and often fatal.</def> <sd>(b)</sd> <def>Development of dark-pigmented tumors.</def><br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Melanorrhoea</ent><br/
-\'d8<hw>Mel`a*nor*rhoe"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <?/ to flow.]</ety> <fld>(Bot.)</fld> <def>An East Indian genus of large trees. <spn>Melanorrh<oe/a usitatissima</spn> is the lignum-vitae of Pegu (in Burma), and yields a valuable black varnish.</def><-- #"Pegu" is part of Burma (now Myanmar) --><br/
+<par/<hw>Mel`a*nor*rhoe"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <?/ to flow.]</ety> <fld>(Bot.)</fld> <def>An East Indian genus of large trees. <spn>Melanorrh<oe/a usitatissima</spn> is the lignum-vitae of Pegu (in Burma), and yields a valuable black varnish.</def><-- #"Pegu" is part of Burma (now Myanmar) --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanoscope</ent><br/
@@ -17142,7 +17142,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanosis</ent><br/
-\'d8<hw>Mel`a*no"sis</hw> <pr>(?)</pr>, <ety>[NL., fr. Gr. <?/ a growing black, fr. <grk>me`las</grk>, <grk>me`lanos</grk>, black.]</ety> <fld>(Med.)</fld> <def>The morbid deposition of black matter, often of a malignant character, causing pigmented tumors.</def><br/
+<par/<hw>Mel`a*no"sis</hw> <pr>(?)</pr>, <ety>[NL., fr. Gr. <?/ a growing black, fr. <grk>me`las</grk>, <grk>me`lanos</grk>, black.]</ety> <fld>(Med.)</fld> <def>The morbid deposition of black matter, often of a malignant character, causing pigmented tumors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melanosperm</ent><br/
@@ -17174,7 +17174,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melasma</ent><br/
-\'d8<hw>Me*las"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ black spot.]</ety> <fld>(Med.)</fld> <def>A dark discoloration of the skin, usually local; <as>as, Addison's <ex>melasma</ex>, or Addison's disease</as>.</def> -- <wordforms><wf>Me*las"mic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Me*las"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ black spot.]</ety> <fld>(Med.)</fld> <def>A dark discoloration of the skin, usually local; <as>as, Addison's <ex>melasma</ex>, or Addison's disease</as>.</def> -- <wordforms><wf>Me*las"mic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melasses</ent><br/
@@ -17186,7 +17186,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melastoma</ent><br/
-\'d8<hw>Me*las"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk> black + <grk>sto`ma</grk> mouth.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen tropical shrubs; -- so called from the black berries of some species, which stain the mouth.</def><br/
+<par/<hw>Me*las"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`las</grk> black + <grk>sto`ma</grk> mouth.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen tropical shrubs; -- so called from the black berries of some species, which stain the mouth.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melastomaceous</ent><br/
@@ -17229,18 +17229,18 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meleagris</ent><br/
-\'d8<hw>Mel`e*a"gris</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., the Guinea fowl.]</ety> <fld>(Zool.)</fld> <def>A genus of American gallinaceous birds, including the <member>common turkey</member> and the <members>wild turkeys</members>.</def><br/
+<par/<hw>Mel`e*a"gris</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., the Guinea fowl.]</ety> <fld>(Zool.)</fld> <def>A genus of American gallinaceous birds, including the <member>common turkey</member> and the <members>wild turkeys</members>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Melee</ent><br/
-\'d8<hw>M<ecir/`l<eacute/e"</hw> <pr>(m<asl/`l<asl/")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>m<ecir/ler</ets> to mix. See <er>Meddle</er>, <er>Mell</er>, and cf. <er>Mellay</er>.]</ety> <sn>1.</sn> <def>A fight in which the combatants are mingled in one confused mass; a hand to hand conflict; an affray.</def><br/
+<par/<hw>M<ecir/`l<eacute/e"</hw> <pr>(m<asl/`l<asl/")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>m<ecir/ler</ets> to mix. See <er>Meddle</er>, <er>Mell</er>, and cf. <er>Mellay</er>.]</ety> <sn>1.</sn> <def>A fight in which the combatants are mingled in one confused mass; a hand to hand conflict; an affray.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A cavalry exercise in which two groups of riders try to cut paper plumes off the helmets of their opponents, the contest continuing until no member of one group retains his plume; -- sometimes called <altname>Balaklava m<ecir/l<eacute/e</altname>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Melena</ent><br/
-\'d8<hw>Me*le"na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>See <er>Melaena</er>.</def><br/
+<par/<hw>Me*le"na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>See <er>Melaena</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melene</ent><br/
@@ -17356,11 +17356,11 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melisma</ent><br/
-\'d8<hw>Me*lis"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Melismata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>me`lisma</grk> a song.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A piece of melody; a song or tune, -- as opposed to <contr>recitative</contr> or musical declamation.</def> <sd>(b)</sd> <def>A grace or embellishment.</def><br/
+<par/<hw>Me*lis"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Melismata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>me`lisma</grk> a song.]</ety> <fld>(Mus.)</fld> <sd>(a)</sd> <def>A piece of melody; a song or tune, -- as opposed to <contr>recitative</contr> or musical declamation.</def> <sd>(b)</sd> <def>A grace or embellishment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melissa</ent><br/
-\'d8<hw>Me*lis"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`lissa</grk> a bee, honey.]</ety> <fld>(Bot.)</fld> <def>A genus of labiate herbs, including the balm, or bee balm (<spn>Melissa officinalis</spn>).</def><br/
+<par/<hw>Me*lis"sa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`lissa</grk> a bee, honey.]</ety> <fld>(Bot.)</fld> <def>A genus of labiate herbs, including the balm, or bee balm (<spn>Melissa officinalis</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melissic</ent><br/
@@ -17436,7 +17436,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melligo</ent><br/
-\'d8<hw>Mel*li"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Honeydew.</def><br/
+<par/<hw>Mel*li"go</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Honeydew.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melliloquent</ent><br/
@@ -17545,7 +17545,7 @@ Heaven with all freaks of light.</q> <rj><qau>Percival.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melluco</ent><br/
-\'d8<hw>Mel*lu"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A climbing plant (<spn>Ullucus officinalis</spn>) of the Andes, having tuberous roots which are used as a substitute for potatoes.</def><br/
+<par/<hw>Mel*lu"co</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A climbing plant (<spn>Ullucus officinalis</spn>) of the Andes, having tuberous roots which are used as a substitute for potatoes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melne</ent><br/
@@ -17634,7 +17634,7 @@ Heaven with all freaks of light.</q> <rj><qau>Percival.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meloe</ent><br/
-\'d8<hw>Mel"o*e</hw> <pr>(?)</pr>, <ety>[ NL., fr. Gr. <?/ to probe a wound.]</ety> <fld>(Zool.)</fld> <def>A genus of beetles without wings, but having short oval elytra; the oil beetles.  These beetles are sometimes used instead of cantharides for raising blisters. See <cref>Oil beetle</cref>, under <er>Oil</er>.</def><br/
+<par/<hw>Mel"o*e</hw> <pr>(?)</pr>, <ety>[ NL., fr. Gr. <?/ to probe a wound.]</ety> <fld>(Zool.)</fld> <def>A genus of beetles without wings, but having short oval elytra; the oil beetles.  These beetles are sometimes used instead of cantharides for raising blisters. See <cref>Oil beetle</cref>, under <er>Oil</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 911 --></p>
@@ -17687,7 +17687,7 @@ Heaven with all freaks of light.</q> <rj><qau>Percival.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Melopoeia</ent><br/
-\'d8<hw>Mel`o*p<oe/"ia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>me`los</grk> song + <grk>poiei^n</grk> to make.]</ety> <fld>(Mus.)</fld> <def>The art of forming melody; melody; -- now often used for a melodic passage, rather than a complete melody.</def><br/
+<par/<hw>Mel`o*p<oe/"ia</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>me`los</grk> song + <grk>poiei^n</grk> to make.]</ety> <fld>(Mus.)</fld> <def>The art of forming melody; melody; -- now often used for a melodic passage, rather than a complete melody.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>melosa</ent><br/
@@ -17900,11 +17900,11 @@ Heaven with all freaks of light.</q> <rj><qau>Percival.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Memento mori</ent><br/
-\'d8<hw>Me*men"to mo"ri</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Lit., remember to die, i.e., that you must die; a warning to be prepared for death; an object, as a death's-head or a personal ornament, usually emblematic, used as a reminder of death.</def><br/
+<par/<hw>Me*men"to mo"ri</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Lit., remember to die, i.e., that you must die; a warning to be prepared for death; an object, as a death's-head or a personal ornament, usually emblematic, used as a reminder of death.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Meminna</ent><br/
-\'d8<hw>Me*min"na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small deerlet, or chevrotain, of India.</def><br/
+<par/<hw>Me*min"na</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small deerlet, or chevrotain, of India.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Memnon</ent><br/
@@ -17973,7 +17973,7 @@ Buy tombs, by books, by <qex>memorable</qex> deeds.</q> <rj><qau>Sir J. Davies.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Memoria</ent><br/
-\'d8<hw>Me*mo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Memory.</def><br/
+<par/<hw>Me*mo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Memory.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Memoria technica</col>, <cd>technical memory; a contrivance for aiding the memory.</cd></cs><br/
@@ -18056,7 +18056,7 @@ Fix the smooth oar, and bid me live to fame.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Memoriter</ent><br/
-\'d8<hw>Me*mor"i*ter</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., fr. <ets>memor</ets> mindful. See <er>Memorable</er>.]</ety> <def>By, or from, memory.</def><br/
+<par/<hw>Me*mor"i*ter</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[L., fr. <ets>memor</ets> mindful. See <er>Memorable</er>.]</ety> <def>By, or from, memory.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Memorize</ent><br/
@@ -18203,11 +18203,11 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>menage</ent><br/
-\'d8<hw>m<eacute/`nage"</hw> <pr>(m<asl/`n<adot/zh")</pr>, <pos>n.</pos> <def>See <er>manege</er>.</def><br/
+<par/<hw>m<eacute/`nage"</hw> <pr>(m<asl/`n<adot/zh")</pr>, <pos>n.</pos> <def>See <er>manege</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>menage</ent><br/
-\'d8<hw>m<eacute/`nage"</hw> <pr>(m<asl/`n<adot/zh")</pr>, <pos>n.</pos> <ety>[See <er>Menagerie</er>.]</ety> <sn>1.</sn> <def>A collection of animals; a menagerie.</def> <mark>[Obs.]</mark>  <rj><au>Addison.</au></rj><br/
+<par/<hw>m<eacute/`nage"</hw> <pr>(m<asl/`n<adot/zh")</pr>, <pos>n.</pos> <ety>[See <er>Menagerie</er>.]</ety> <sn>1.</sn> <def>A collection of animals; a menagerie.</def> <mark>[Obs.]</mark>  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A social group living together; a household.</def><br/
@@ -18219,7 +18219,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>menage a trois</ent><br/
 <ent>menage-a-trois</ent><br/
-\'d8<hw>m<eacute/`nage <agrave/` trois"</hw> <pr>(m<asl/`n<adot/zh" <adot/ trw<adot/)</pr>, <pos>n.</pos> <ety>[F., household for three]</ety>  <sn>1.</sn> <def>A relationship involving three people, especially one in which three people live together and have sexual relations, such as a married couple and a lover of one of the pair.</def><br/
+<par/<hw>m<eacute/`nage <agrave/` trois"</hw> <pr>(m<asl/`n<adot/zh" <adot/ trw<adot/)</pr>, <pos>n.</pos> <ety>[F., household for three]</ety>  <sn>1.</sn> <def>A relationship involving three people, especially one in which three people live together and have sexual relations, such as a married couple and a lover of one of the pair.</def><br/
 [<source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A single sexual encounter in which three people participate.</def><br/
@@ -18244,7 +18244,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menaion</ent><br/
-\'d8<hw>Me*na"ion</hw> <pr>(m<esl/*n<amac/"y<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Menaia</plw> <pr>(-y<adot/)</pr>.</plu> <ety>[NL., from Gr. <grk>mhnai^os</grk> monthly.]</ety> <fld>(Eccl.)</fld> <def>A work of twelve volumes, each containing the offices in the Greek Church for a month; also, each volume of the same.</def>  <rj><au>Shipley.</au></rj><br/
+<par/<hw>Me*na"ion</hw> <pr>(m<esl/*n<amac/"y<ocr/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Menaia</plw> <pr>(-y<adot/)</pr>.</plu> <ety>[NL., from Gr. <grk>mhnai^os</grk> monthly.]</ety> <fld>(Eccl.)</fld> <def>A work of twelve volumes, each containing the offices in the Greek Church for a month; also, each volume of the same.</def>  <rj><au>Shipley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menald</ent><br/
@@ -18490,12 +18490,12 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Menobranchus</ent><br/
 <ent>menobranch</ent><br/
-<mhw>{ <hw>men"o*branch</hw> <pr>(?)</pr>, \'d8<hw>Men`o*bran"chus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menobranchus</ets>, fr. Gr. <?/ to remain + <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>A large aquatic American salamander of the genus <gen>Necturus</gen>, having permanent external gills.</def><br/
+<mhw>{ <hw>men"o*branch</hw> <pr>(?)</pr>, <par/<hw>Men`o*bran"chus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menobranchus</ets>, fr. Gr. <?/ to remain + <?/ a gill.]</ety> <fld>(Zool.)</fld> <def>A large aquatic American salamander of the genus <gen>Necturus</gen>, having permanent external gills.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menology</ent><br/
 <ent>Menologium</ent><br/
-<mhw>{ \'d8<hw>Men`o*lo"gi*um</hw> <pr>(?)</pr>, <hw>Me*nol"o*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Menologia</plw> <pr>(#)</pr>, E. <plw>Menologies</plw> <pr>(#)</pr>.</plu> <ety>[NL. <ets>menologium</ets>, fr. Gr. <grk>mh`n</grk> month + <grk>lo`gos</grk> discourse : cf. F. <ets>m<eacute/nologe</ets>.]</ety> <sn>1.</sn> <def>A register of months.</def>  <rj><au>Bp. Stillingfleet.</au></rj><br/
+<mhw>{ <par/<hw>Men`o*lo"gi*um</hw> <pr>(?)</pr>, <hw>Me*nol"o*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Menologia</plw> <pr>(#)</pr>, E. <plw>Menologies</plw> <pr>(#)</pr>.</plu> <ety>[NL. <ets>menologium</ets>, fr. Gr. <grk>mh`n</grk> month + <grk>lo`gos</grk> discourse : cf. F. <ets>m<eacute/nologe</ets>.]</ety> <sn>1.</sn> <def>A register of months.</def>  <rj><au>Bp. Stillingfleet.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Gr. Church)</fld> <def>A brief calendar of the lives of the saints for each day in the year, or a simple remembrance of those whose lives are not written.</def><br/
@@ -18507,15 +18507,15 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Menopome</ent><br/
 <ent>Menopoma</ent><br/
-<mhw>{ \'d8<hw>Men`o*po"ma</hw> <pr>(?)</pr>, <hw>Men"o*pome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menopoma</ets>, fr. Gr. <?/ to remain + <?/ lid.]</ety> <fld>(Zool.)</fld> <def>The hellbender.</def><br/
+<mhw>{ <par/<hw>Men`o*po"ma</hw> <pr>(?)</pr>, <hw>Men"o*pome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>menopoma</ets>, fr. Gr. <?/ to remain + <?/ lid.]</ety> <fld>(Zool.)</fld> <def>The hellbender.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menorrhagia</ent><br/
-\'d8<hw>Men`or*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <?/ to break.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Profuse menstruation.</def> <sd>(b)</sd> <def>Any profuse bleeding from the uterus; Metrorrhagia.</def><br/
+<par/<hw>Men`or*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <?/ to break.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>Profuse menstruation.</def> <sd>(b)</sd> <def>Any profuse bleeding from the uterus; Metrorrhagia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menostasis</ent><br/
-\'d8<hw>Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'ista`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
+<par/<hw>Me*nos"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mh`n</grk> month + <grk>'ista`nai</grk> to stop.]</ety> <fld>(Med.)</fld> <def>Stoppage of the menses.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menostation</ent><br/
@@ -18547,7 +18547,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menses</ent><br/
-\'d8<hw>Men"ses</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>mensis</ets> month, pl. <ets>menses</ets> months, and the monthly courses of women.  Cf. <er>Month</er>.]</ety> <fld>(Med.)</fld> <def>The catamenial or menstrual discharge, a periodic flow of blood or bloody fluid from the uterus or female generative organs.</def><br/
+<par/<hw>Men"ses</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>mensis</ets> month, pl. <ets>menses</ets> months, and the monthly courses of women.  Cf. <er>Month</er>.]</ety> <fld>(Med.)</fld> <def>The catamenial or menstrual discharge, a periodic flow of blood or bloody fluid from the uterus or female generative organs.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menstrual</ent><br/
@@ -18641,7 +18641,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mentagra</ent><br/
-\'d8<hw>Men"ta*gra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>mentum</ets> chin + Gr. <?/ a catching.]</ety> <fld>(Med.)</fld> <def>Sycosis.</def><br/
+<par/<hw>Men"ta*gra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>mentum</ets> chin + Gr. <?/ a catching.]</ety> <fld>(Med.)</fld> <def>Sycosis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mental</ent><br/
@@ -18688,7 +18688,7 @@ This eye shoots forth!</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mentha</ent><br/
-\'d8<hw>Men"tha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mint</er> the plant.]</ety> <fld>(Bot.)</fld> <def>A widely distributed genus of fragrant herbs, including the peppermint, spearmint, etc. The plants have small flowers, usually arranged in dense axillary clusters.</def><br/
+<par/<hw>Men"tha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mint</er> the plant.]</ety> <fld>(Bot.)</fld> <def>A widely distributed genus of fragrant herbs, including the peppermint, spearmint, etc. The plants have small flowers, usually arranged in dense axillary clusters.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Menthene</ent><br/
@@ -18749,7 +18749,7 @@ Of me more must be heard of.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mentum</ent><br/
-\'d8<hw>men"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., chin.]</ety> <fld>(Zool.)</fld> <def>The front median plate of the labium in insects. See <er>Labium</er>.</def><br/
+<par/<hw>men"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., chin.]</ety> <fld>(Zool.)</fld> <def>The front median plate of the labium in insects. See <er>Labium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mentzelia</ent><br/
@@ -18838,7 +18838,7 @@ Of me more must be heard of.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mephitis</ent><br/
-\'d8<hw>Me*phi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>mephitis</ets> : cf. F. <ets>m<eacute/phitis</ets>.]</ety> <sn>1.</sn> <def>Noxious, pestilential, or foul exhalations from decomposing substances, filth, or other source.</def><br/
+<par/<hw>Me*phi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>mephitis</ets> : cf. F. <ets>m<eacute/phitis</ets>.]</ety> <sn>1.</sn> <def>Noxious, pestilential, or foul exhalations from decomposing substances, filth, or other source.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A genus of mammals, including the skunks.</def><br/
@@ -18907,7 +18907,7 @@ Of me more must be heard of.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mercenaria</ent><br/
-\'d8<hw>Mer`ce*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mercenary</er>.]</ety> <fld>(Zool.)</fld> <def>The <er>quahog</er>.</def><br/
+<par/<hw>Mer`ce*na"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mercenary</er>.]</ety> <fld>(Zool.)</fld> <def>The <er>quahog</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mercenarian</ent><br/
@@ -19314,7 +19314,7 @@ Than <qex>merely</qex> to oblige your friends.</q> <rj><qau>Swift.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merenchyma</ent><br/
-\'d8<hw>Me*ren"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a part + <ets>-enchyma</ets>, as in <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Tissue composed of spheroidal cells.</def><br/
+<par/<hw>Me*ren"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a part + <ets>-enchyma</ets>, as in <ets>parenchyma</ets>.]</ety> <fld>(Bot.)</fld> <def>Tissue composed of spheroidal cells.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meresman</ent><br/
@@ -19499,7 +19499,7 @@ I haste now to my setting.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meringue</ent><br/
-\'d8<hw>Me`ringue"</hw> <pr>(F. m<etil/`r<acr/N"g'; E. m<ecr/*r<acr/ng")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A delicate pastry made of powdered sugar and the whites of eggs whipped up, -- with jam or cream added.</def><br/
+<par/<hw>Me`ringue"</hw> <pr>(F. m<etil/`r<acr/N"g'; E. m<ecr/*r<acr/ng")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A delicate pastry made of powdered sugar and the whites of eggs whipped up, -- with jam or cream added.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merino</ent><br/
@@ -19573,7 +19573,7 @@ And every author's <qex>merit</qex>, but his own.</q> <rj><qau>Pope.</qau></rj><
 
 <p><ent>Merithallus</ent><br/
 <ent>Merithal</ent><br/
-<mhw>{ <hw>Mer"i*thal</hw> <pr>(?)</pr>, \'d8<hw>Mer`i*thal"lus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>merithallus</ets>, fr. Gr. <?/, <ets>or</ets> <?/, a part + <?/ a young shoot.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Internode</er>.</def><br/
+<mhw>{ <hw>Mer"i*thal</hw> <pr>(?)</pr>, <par/<hw>Mer`i*thal"lus</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>merithallus</ets>, fr. Gr. <?/, <ets>or</ets> <?/, a part + <?/ a young shoot.]</ety> <fld>(Bot.)</fld> <def>Same as <er>Internode</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meritmonger</ent><br/
@@ -19668,7 +19668,7 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mero</ent><br/
-\'d8<hw>Me"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. Pg. <ets>mero</ets>.]</ety> <def>Any of several large groupers of warm seas, esp. the guasa (<spn>Epinephelus guaza</spn>), the red grouper (<spn>Epinephelus morio</spn>), the black grouper (<spn>Epinephelus nigritas</spn>), distinguished as <ecol>Me"ro de lo al"to</ecol> <pr>(<?/)</pr>, and a species called also <stype>rock hind</stype>, distinguished as <ecol>Me"ro ca*brol"la</ecol> <pr>(<?/)</pr>.</def><br/
+<par/<hw>Me"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. Pg. <ets>mero</ets>.]</ety> <def>Any of several large groupers of warm seas, esp. the guasa (<spn>Epinephelus guaza</spn>), the red grouper (<spn>Epinephelus morio</spn>), the black grouper (<spn>Epinephelus nigritas</spn>), distinguished as <ecol>Me"ro de lo al"to</ecol> <pr>(<?/)</pr>, and a species called also <stype>rock hind</stype>, distinguished as <ecol>Me"ro ca*brol"la</ecol> <pr>(<?/)</pr>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Meroblast</ent><br/
@@ -19700,11 +19700,11 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meros</ent><br/
-\'d8<hw>Me"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`ros</grk> part.]</ety> <fld>(Arch.)</fld> <def>The plain surface between the channels of a triglyph.</def> <altsp>[Written also <asp>merus</asp>.]</altsp>  <rj><au>Weale.</au></rj><br/
+<par/<hw>Me"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`ros</grk> part.]</ety> <fld>(Arch.)</fld> <def>The plain surface between the channels of a triglyph.</def> <altsp>[Written also <asp>merus</asp>.]</altsp>  <rj><au>Weale.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meros</ent><br/
-\'d8<hw>Me"ros</hw>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`ros</grk> the thigh.]</ety> <fld>(Anat.)</fld> <def>The proximal segment of the hind limb; the thigh.</def><br/
+<par/<hw>Me"ros</hw>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`ros</grk> the thigh.]</ety> <fld>(Anat.)</fld> <def>The proximal segment of the hind limb; the thigh.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merosome</ent><br/
@@ -19712,11 +19712,11 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merostomata</ent><br/
-\'d8<hw>Mer`o*stom"a*ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>me`ros</grk> thigh + <?/, -<?/, mouth.]</ety> <fld>(Zool.)</fld> <def>A class of <phylum>Arthropoda</phylum>, allied to the <class>Crustacea</class>.  It includes the trilobites, <ord>Eurypteroidea</ord>, and <ord>Limuloidea</ord>.  All are extinct except the horseshoe crabs (<gen>Limulus</gen>) of the last group. See <er>Limulus</er>.</def><br/
+<par/<hw>Mer`o*stom"a*ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>me`ros</grk> thigh + <?/, -<?/, mouth.]</ety> <fld>(Zool.)</fld> <def>A class of <phylum>Arthropoda</phylum>, allied to the <class>Crustacea</class>.  It includes the trilobites, <ord>Eurypteroidea</ord>, and <ord>Limuloidea</ord>.  All are extinct except the horseshoe crabs (<gen>Limulus</gen>) of the last group. See <er>Limulus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merou</ent><br/
-\'d8<hw>M<eacute/`rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>See <er>Jack</er>, <snr>8</snr> <sdr>(c)</sdr>.</def><br/
+<par/<hw>M<eacute/`rou"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Zool.)</fld> <def>See <er>Jack</er>, <snr>8</snr> <sdr>(c)</sdr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merovingian</ent><br/
@@ -19843,7 +19843,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Merus</ent><br/
-\'d8<hw>Me"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Arch.)</fld> <def>See <er>Meros</er>.</def><br/
+<par/<hw>Me"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Arch.)</fld> <def>See <er>Meros</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mervaille</ent><br/
@@ -19855,7 +19855,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mesa</ent><br/
-\'d8<hw>me"sa</hw> <pr>(m<asl/"s<adot/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A high tableland; a plateau on a hill.</def> <mark>[Southwestern U.S.]</mark>  <rj><au>Bartlett.</au></rj><br/
+<par/<hw>me"sa</hw> <pr>(m<asl/"s<adot/)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A high tableland; a plateau on a hill.</def> <mark>[Southwestern U.S.]</mark>  <rj><au>Bartlett.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesaconate</ent><br/
@@ -19875,7 +19875,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesalliance</ent><br/
-\'d8<hw>M<eacute/`sal`li`ance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A marriage with a person of inferior social position; a misalliance.</def><br/
+<par/<hw>M<eacute/`sal`li`ance"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A marriage with a person of inferior social position; a misalliance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mesally</ent><br/
@@ -19899,11 +19899,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mescal</ent><br/
-\'d8<hw>Mes*cal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A distilled liquor prepared in Mexico from a species of agave. See <er>Agave</er>.</def><br/
+<par/<hw>Mes*cal"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A distilled liquor prepared in Mexico from a species of agave. See <er>Agave</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesdames</ent><br/
-\'d8<hw>Mes`dames"</hw> <pr>(F. ?, E. ?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Madame</er> and <er>Madam</er>.</def><br/
+<par/<hw>Mes`dames"</hw> <pr>(F. ?, E. ?)</pr>, <pos>n.</pos>, <def><pos>pl.</pos> of <er>Madame</er> and <er>Madam</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meseems</ent><br/
@@ -19919,7 +19919,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesembryanthemum</ent><br/
-\'d8<hw>Me*sem`bry*an"the*mum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>meshmbri`a</grk> midday + <grk>'a`nqos</grk> flower.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous or suffruticose plants, chiefly natives of South Africa.  The leaves are opposite, thick, and fleshy.  The flowers usually open about midday, whence the name.</def><br/
+<par/<hw>Me*sem`bry*an"the*mum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>meshmbri`a</grk> midday + <grk>'a`nqos</grk> flower.]</ety> <fld>(Bot.)</fld> <def>A genus of herbaceous or suffruticose plants, chiefly natives of South Africa.  The leaves are opposite, thick, and fleshy.  The flowers usually open about midday, whence the name.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesencephalic</ent><br/
@@ -19927,11 +19927,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesencephalon</ent><br/
-\'d8<hw>Mes`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er> and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The middle segment of the brain; the midbrain.  Sometimes abbreviated to <altname>mesen</altname>. See <er>Brain</er>.</def><br/
+<par/<hw>Mes`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er> and <er>Encephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The middle segment of the brain; the midbrain.  Sometimes abbreviated to <altname>mesen</altname>. See <er>Brain</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesenchyma</ent><br/
-\'d8<hw>Mes*en"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <ets>-enchyma</ets>, as in E. <ets>parenchyma</ets>.]</ety> <fld>(Biol.)</fld> <def>The part of the mesoblast which gives rise to the connective tissues and blood.</def><br/
+<par/<hw>Mes*en"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <ets>-enchyma</ets>, as in E. <ets>parenchyma</ets>.]</ety> <fld>(Biol.)</fld> <def>The part of the mesoblast which gives rise to the connective tissues and blood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesenteric</ent><br/
@@ -19939,7 +19939,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesenteron</ent><br/
-\'d8<hw>Mes*en"te*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Enteron</er>.]</ety> <fld>(Anat.)</fld> <def>All that part of the alimentary canal which is developed from the primitive enteron and is lined with hypoblast. It is distinguished from the <xex>stomodaeum</xex>, a part at the anterior end of the canal, including the cavity of the mouth, and the <xex>proctodaeum</xex>, a part at the posterior end, which are formed by invagination and are lined with epiblast.</def><br/
+<par/<hw>Mes*en"te*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Enteron</er>.]</ety> <fld>(Anat.)</fld> <def>All that part of the alimentary canal which is developed from the primitive enteron and is lined with hypoblast. It is distinguished from the <xex>stomodaeum</xex>, a part at the anterior end of the canal, including the cavity of the mouth, and the <xex>proctodaeum</xex>, a part at the posterior end, which are formed by invagination and are lined with epiblast.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesentery</ent><br/
@@ -20081,7 +20081,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mesoarium</ent><br/
-\'d8<hw>Mes`o*a"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`sos</grk> middle + <grk>'w,a`rion</grk>, dim. of <grk>'w,o`n</grk> an egg.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum which suspends the ovary from the dorsal wall of the body cavity; the <altname>mesovarium</altname>.</def><br/
+<par/<hw>Mes`o*a"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>me`sos</grk> middle + <grk>'w,a`rion</grk>, dim. of <grk>'w,o`n</grk> an egg.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum which suspends the ovary from the dorsal wall of the body cavity; the <altname>mesovarium</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoblast</ent><br/
@@ -20097,11 +20097,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesobronchium</ent><br/
-\'d8<hw>Mes`o*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesobronchia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Meso-</er>, and <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>The main bronchus of each lung.</def><br/
+<par/<hw>Mes`o*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesobronchia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Meso-</er>, and <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>The main bronchus of each lung.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesocaecum</ent><br/
-\'d8<hw>Mes`o*cae"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Anat.)</fld> <ety>[NL. See <er>Meso-</er>, and <er>Caecum</er>.]</ety> <def>The fold of peritoneum attached to the caecum.</def> -- <wordforms><wf>Mes`o*cae"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mes`o*cae"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Anat.)</fld> <ety>[NL. See <er>Meso-</er>, and <er>Caecum</er>.]</ety> <def>The fold of peritoneum attached to the caecum.</def> -- <wordforms><wf>Mes`o*cae"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesocarp</ent><br/
@@ -20113,7 +20113,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesocephalon</ent><br/
-\'d8<hw>Mes`o*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Cephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The pons Varolii.</def><br/
+<par/<hw>Mes`o*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Cephalon</er>.]</ety> <fld>(Anat.)</fld> <def>The pons Varolii.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesocephalous</ent><br/
@@ -20122,7 +20122,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 
 <p><ent>Mesocoelia</ent><br/
 <ent>Mesocoele</ent><br/
-<mhw>{ <hw>Mes`o*coe"le</hw> <pr>(?)</pr>, \'d8<hw>Mes`o*coe"li*a</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>mesocoelia</ets>. See <er>Meso-</er>, and <er>Coelia</er>.]</ety> <fld>(Anat.)</fld> <def>The cavity of the mesencephalon; the iter.</def><br/
+<mhw>{ <hw>Mes`o*coe"le</hw> <pr>(?)</pr>, <par/<hw>Mes`o*coe"li*a</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>mesocoelia</ets>. See <er>Meso-</er>, and <er>Coelia</er>.]</ety> <fld>(Anat.)</fld> <def>The cavity of the mesencephalon; the iter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesocolon</ent><br/
@@ -20155,7 +20155,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesogaster</ent><br/
-\'d8<hw>Mes`o*gas"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ belly.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum connecting the stomach with the dorsal wall of the abdominal cavity; the mesogastrium.</def><br/
+<par/<hw>Mes`o*gas"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ belly.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum connecting the stomach with the dorsal wall of the abdominal cavity; the mesogastrium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesogastric</ent><br/
@@ -20169,11 +20169,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesogastrium</ent><br/
-\'d8<hw>Mes`o*gas"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mesogaster</er>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The umbilical region.</def> <sd>(b)</sd> <def>The mesogaster.</def><br/
+<par/<hw>Mes`o*gas"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mesogaster</er>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The umbilical region.</def> <sd>(b)</sd> <def>The mesogaster.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesogloea</ent><br/
-\'d8<hw>Mes`o*gl<oe/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a glutinous substance.]</ety> <fld>(Zool.)</fld> <def>A thin gelatinous tissue separating the ectoderm and endoderm in certain coelenterates.</def> -- <wordforms><wf>Mes`o*gl<oe/"al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mes`o*gl<oe/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a glutinous substance.]</ety> <fld>(Zool.)</fld> <def>A thin gelatinous tissue separating the ectoderm and endoderm in certain coelenterates.</def> -- <wordforms><wf>Mes`o*gl<oe/"al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesognathous</ent><br/
@@ -20181,11 +20181,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesohepar</ent><br/
-\'d8<hw>Mes`o*he"par</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Hepar</er>.]</ety> <fld>(Anat.)</fld> <def>A fold of the peritoneum connecting the liver with the dorsal wall of the abdominal cavity.</def><br/
+<par/<hw>Mes`o*he"par</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Hepar</er>.]</ety> <fld>(Anat.)</fld> <def>A fold of the peritoneum connecting the liver with the dorsal wall of the abdominal cavity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesohippus</ent><br/
-\'d8<hw>Mes`o*hip"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct mammal of the Horse family, but not larger than a sheep, and having three toes on each foot.</def><br/
+<par/<hw>Mes`o*hip"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct mammal of the Horse family, but not larger than a sheep, and having three toes on each foot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesolabe</ent><br/
@@ -20205,11 +20205,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesometrium</ent><br/
-\'d8<hw>Mes`o*me"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Metrium</er>.]</ety> <fld>(Anat.)</fld> <def>The fold of the peritoneum supporting the oviduct.</def><br/
+<par/<hw>Mes`o*me"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Metrium</er>.]</ety> <fld>(Anat.)</fld> <def>The fold of the peritoneum supporting the oviduct.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesomycetes</ent><br/
-\'d8<hw>Mes`o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; <ets>meso-</ets> + <ets>mycetes</ets>.]</ety> <fld>(Bot.)</fld> <def>One of the three classes into which the fungi are divided in <persfn>Brefeld's</persfn> classification.</def> -- <wordforms><wf>Mes`o*my*ce"tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mes`o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; <ets>meso-</ets> + <ets>mycetes</ets>.]</ety> <fld>(Bot.)</fld> <def>One of the three classes into which the fungi are divided in <persfn>Brefeld's</persfn> classification.</def> -- <wordforms><wf>Mes`o*my*ce"tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mesomyodian</ent><br/
@@ -20221,7 +20221,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meson</ent><br/
-\'d8<hw>Mes"on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`son</grk> middle, neut. of <grk>me`sos</grk>, a., middle.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The mesial plane dividing the body of an animal into similar right and left halves. The line in which it meets the dorsal surface has been called the <part>dorsimeson</part>, and the corresponding ventral edge the <part>ventrimeson</part>.</def>  <rj><au>B. G. Wilder.</au></rj><br/
+<par/<hw>Mes"on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`son</grk> middle, neut. of <grk>me`sos</grk>, a., middle.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The mesial plane dividing the body of an animal into similar right and left halves. The line in which it meets the dorsal surface has been called the <part>dorsimeson</part>, and the corresponding ventral edge the <part>ventrimeson</part>.</def>  <rj><au>B. G. Wilder.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Physics)</fld> <def>An <isa>elementary particle</isa> made up of two quarks; a hadron having a baryon number of zero; any hadron other than a baryon.  Mesons are bosons with integral values of spin, having a mass intermediate between those of the electron and a nucleon; they may have positive or negative charges, or may be neutral.  Mesons are of three types: the <stype>pion</stype> (<pi/-meson), <stype>kaon</stype> (K-mesons), and <stype><eta/-mesons</stype>.</def><br/
@@ -20243,23 +20243,23 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesonephros</ent><br/
-\'d8<hw>Mes`o*neph"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>nefro`s</grk> kidney.]</ety> <fld>(Anat.)</fld> <def>The middle one of the three pairs of embryonic renal organs developed in most vertebrates; the Wolffian body.</def><br/
+<par/<hw>Mes`o*neph"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>nefro`s</grk> kidney.]</ety> <fld>(Anat.)</fld> <def>The middle one of the three pairs of embryonic renal organs developed in most vertebrates; the Wolffian body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesonotum</ent><br/
-\'d8<hw>Mes`o*no"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>nw^ton</grk> the back.]</ety> <fld>(Zool.)</fld> <def>The dorsal portion of the mesothorax of insects.</def><br/
+<par/<hw>Mes`o*no"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>nw^ton</grk> the back.]</ety> <fld>(Zool.)</fld> <def>The dorsal portion of the mesothorax of insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesophloeum</ent><br/
-\'d8<hw>Mes`o*phl<oe/"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>floio`s</grk> bark.]</ety> <fld>(Bot.)</fld> <def>The middle bark of a tree; the green layer of bark, usually soon covered by the outer or corky layer, and obliterated.</def><br/
+<par/<hw>Mes`o*phl<oe/"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>floio`s</grk> bark.]</ety> <fld>(Bot.)</fld> <def>The middle bark of a tree; the green layer of bark, usually soon covered by the outer or corky layer, and obliterated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesophryon</ent><br/
-\'d8<hw>Me*soph"ry*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>meso`fryon</grk>.]</ety> <fld>(Anat.)</fld> <def>See <er>Glabella</er>.</def><br/
+<par/<hw>Me*soph"ry*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>meso`fryon</grk>.]</ety> <fld>(Anat.)</fld> <def>See <er>Glabella</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesophyllum</ent><br/
-\'d8<hw>Mes`o*phyl"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>fy`llon</grk> leaf.]</ety> <fld>(Bot.)</fld> <def>The parenchyma of a leaf between the skin of the two surfaces.</def>  <rj><au>Gray.</au></rj><br/
+<par/<hw>Mes`o*phyl"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <grk>fy`llon</grk> leaf.]</ety> <fld>(Bot.)</fld> <def>The parenchyma of a leaf between the skin of the two surfaces.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoplast</ent><br/
@@ -20273,23 +20273,23 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesopodiale</ent><br/
-\'d8<hw>Mes`o*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesopodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/, dim. of <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the carpus or tarsus.</def><br/
+<par/<hw>Mes`o*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mesopodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/, dim. of <grk>poy`s</grk>, <grk>podo`s</grk>, foot.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the carpus or tarsus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesopodium</ent><br/
-\'d8<hw>Mes`o*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mesopodiale</er>.]</ety> <fld>(Zool.)</fld> <def>The middle portion of the foot in the Gastropoda and Pteropoda.</def><br/
+<par/<hw>Mes`o*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mesopodiale</er>.]</ety> <fld>(Zool.)</fld> <def>The middle portion of the foot in the Gastropoda and Pteropoda.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesopterygium</ent><br/
-\'d8<hw>Me*sop`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The middle one of the three principal basal cartilages in the fins of fishes.</def> -- <wordforms><wf>Me*sop`ter*yg"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Me*sop`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The middle one of the three principal basal cartilages in the fins of fishes.</def> -- <wordforms><wf>Me*sop`ter*yg"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesorchium</ent><br/
-\'d8<hw>Me*sor"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a testicle.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum which attaches the testis to the dorsal wall of the body cavity or scrotal sac.</def><br/
+<par/<hw>Me*sor"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a testicle.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum which attaches the testis to the dorsal wall of the body cavity or scrotal sac.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesorectum</ent><br/
-\'d8<hw>Mes`o*rec"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>rectum</ets>.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum, or mesentery, attached to the rectum.</def> -- <wordforms><wf>Mes`o*rec"tal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mes`o*rec"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>rectum</ets>.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum, or mesentery, attached to the rectum.</def> -- <wordforms><wf>Mes`o*rec"tal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesorhine</ent><br/
@@ -20297,11 +20297,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesosauria</ent><br/
-\'d8<hw>Mes`o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Mosasauria</er>.</def><br/
+<par/<hw>Mes`o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Same as <er>Mosasauria</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoscapula</ent><br/
-\'d8<hw>Mes`o*scap"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>scapula</ets>.]</ety> <fld>(Anat.)</fld> <def>A process from the middle of the scapula in some animals; the spine of the scapula.</def><br/
+<par/<hw>Mes`o*scap"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>scapula</ets>.]</ety> <fld>(Anat.)</fld> <def>A process from the middle of the scapula in some animals; the spine of the scapula.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoscapular</ent><br/
@@ -20309,7 +20309,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoscutum</ent><br/
-\'d8<hw>Mes`o*scu"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>scutum</ets>.]</ety> <fld>(Zool.)</fld> <def>The scutum or dorsal plate of the middle thoracic segment of an insect. See <xex>Illust.</xex> of <er>Butterfly</er>.</def><br/
+<par/<hw>Mes`o*scu"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>scutum</ets>.]</ety> <fld>(Zool.)</fld> <def>The scutum or dorsal plate of the middle thoracic segment of an insect. See <xex>Illust.</xex> of <er>Butterfly</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoseme</ent><br/
@@ -20336,7 +20336,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesosternum</ent><br/
-\'d8<hw>Mes`o*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>sternum</ets>.]</ety><br/
+<par/<hw>Mes`o*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Meso-</ets> + <ets>sternum</ets>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>The middle portion, or body, of the sternum.</def><br/
@@ -20350,11 +20350,11 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mesotheca</ent><br/
-\'d8<hw>Mes`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ box.]</ety> <fld>(Zool.)</fld> <def>The middle layer of the gonophore in the Hydrozoa.</def><br/
+<par/<hw>Mes`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ box.]</ety> <fld>(Zool.)</fld> <def>The middle layer of the gonophore in the Hydrozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesothelium</ent><br/
-\'d8<hw>Mes`o*the"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + E. epi<ets>thelium</ets>.]</ety> <fld>(Biol.)</fld> <def>Epithelial mesoderm; a layer of cuboidal epithelium cells, formed from a portion of the mesoderm during the differetiation of the germ layers. It constitutes the boundary of the c<oe/lum.</def><br/
+<par/<hw>Mes`o*the"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + E. epi<ets>thelium</ets>.]</ety> <fld>(Biol.)</fld> <def>Epithelial mesoderm; a layer of cuboidal epithelium cells, formed from a portion of the mesoderm during the differetiation of the germ layers. It constitutes the boundary of the c<oe/lum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesothoracic</ent><br/
@@ -20378,7 +20378,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesovarium</ent><br/
-\'d8<hw>Mes`o*va"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Ovary</er>.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum connecting the ovary with the wall of the abdominal cavity.</def><br/
+<par/<hw>Mes`o*va"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meso-</er>, and <er>Ovary</er>.]</ety> <fld>(Anat.)</fld> <def>The fold of peritoneum connecting the ovary with the wall of the abdominal cavity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesoxalate</ent><br/
@@ -20390,7 +20390,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesozoa</ent><br/
-\'d8<hw>Mes`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mesozoic</er>.]</ety> <fld>(Zool.)</fld> <def>A group of very lowly organized, wormlike parasites, including the Dicyemata.  They are found in cephalopods. See <er>Dicyemata</er>.</def><br/
+<par/<hw>Mes`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mesozoic</er>.]</ety> <fld>(Zool.)</fld> <def>A group of very lowly organized, wormlike parasites, including the Dicyemata.  They are found in cephalopods. See <er>Dicyemata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesozoic</ent><br/
@@ -20545,7 +20545,7 @@ That fret the clouds are <qex>messengers</qex> of day.</q> <rj><qau>Shak.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Messidor</ent><br/
-\'d8<hw>Mes`si`dor"</hw> <pr>(F. ?; E. ?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>messis</ets> harvest.]</ety> <def>The tenth month of the French republican calendar dating from September 22, 1792.  It began June 19, and ended July 18.  See <er>Vend<eacute/miaire</er>.</def><br/
+<par/<hw>Mes`si`dor"</hw> <pr>(F. ?; E. ?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>messis</ets> harvest.]</ety> <def>The tenth month of the French republican calendar dating from September 22, 1792.  It began June 19, and ended July 18.  See <er>Vend<eacute/miaire</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Messieurs</ent><br/
@@ -20608,7 +20608,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mesymnicum</ent><br/
-\'d8<hw>Me*sym"ni*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a festive song. See <er>Hymn</er>.]</ety> <fld>(Anc. Poetry)</fld> <def>A repetition at the end of a stanza.</def><br/
+<par/<hw>Me*sym"ni*cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`sos</grk> middle + <?/ a festive song. See <er>Hymn</er>.]</ety> <fld>(Anc. Poetry)</fld> <def>A repetition at the end of a stanza.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Met</ent><br/
@@ -20643,12 +20643,12 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 
 <p><ent>Metabole</ent><br/
 <ent>Metabola</ent><br/
-<mhw>{ \'d8<hw>Me*tab"o*la</hw> <pr>(?)</pr>, \'d8<hw>Me*tab"o*le</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., from Gr. <?/ change; <?/ beyond + <?/ to throw.]</ety> <fld>(Med.)</fld> <def>A change or mutation; a change of disease, symptoms, or treatment.</def><br/
+<mhw>{ <par/<hw>Me*tab"o*la</hw> <pr>(?)</pr>, <par/<hw>Me*tab"o*le</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., from Gr. <?/ change; <?/ beyond + <?/ to throw.]</ety> <fld>(Med.)</fld> <def>A change or mutation; a change of disease, symptoms, or treatment.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metabolia</ent><br/
 <ent>Metabola</ent><br/
-<mhw>{ \'d8<hw>Me*tab"o*la</hw> <pr>(?)</pr>, \'d8<hw>Met`a*bo"li*a</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. See 1st <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>A comprehensive group of insects, including those that undegro a metamorphosis.</def><br/
+<mhw>{ <par/<hw>Me*tab"o*la</hw> <pr>(?)</pr>, <par/<hw>Met`a*bo"li*a</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL. See 1st <er>Metabola</er>.]</ety> <fld>(Zool.)</fld> <def>A comprehensive group of insects, including those that undegro a metamorphosis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metabolian</ent><br/
@@ -20663,7 +20663,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metabolisis</ent><br/
-\'d8<hw>Met`a*bol"i*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Metabolism.</def> <mark>[R.]</mark><br/
+<par/<hw>Met`a*bol"i*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>Metabolism.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metabolism</ent><br/
@@ -20714,7 +20714,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metachrosis</ent><br/
-\'d8<hw>Met`a*chro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ beyond + <?/ a coloring.]</ety> <fld>(Biol.)</fld> <def>The power of changing color at will by the expansion of special pigment cells, under nerve influence, as seen in many reptiles, fishes, etc.</def>  <rj><au>Cope.</au></rj><br/
+<par/<hw>Met`a*chro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ beyond + <?/ a coloring.]</ety> <fld>(Biol.)</fld> <def>The power of changing color at will by the expansion of special pigment cells, under nerve influence, as seen in many reptiles, fishes, etc.</def>  <rj><au>Cope.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metacinnabarite</ent><br/
@@ -20730,7 +20730,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metacromion</ent><br/
-\'d8<hw>Met`a*cro"mi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>A process projecting backward and downward from the acromion of the scapula of some mammals.</def><br/
+<par/<hw>Met`a*cro"mi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Anat.)</fld> <def>A process projecting backward and downward from the acromion of the scapula of some mammals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metadiscoidal</ent><br/
@@ -20845,7 +20845,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metalepsis</ent><br/
-\'d8<hw>Met`a*lep"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metalepses</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ participation, alteration, fr. <?/ to partake, to take in exchange; <?/ beyond + <?/ to take.]</ety> <fld>(Rhet.)</fld> <def>The continuation of a trope in one word through a succession of significations, or the union of two or more tropes of a different kind in one word.</def><br/
+<par/<hw>Met`a*lep"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metalepses</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/ participation, alteration, fr. <?/ to partake, to take in exchange; <?/ beyond + <?/ to take.]</ety> <fld>(Rhet.)</fld> <def>The continuation of a trope in one word through a succession of significations, or the union of two or more tropes of a different kind in one word.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metalepsy</ent><br/
@@ -21085,7 +21085,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metanauplius</ent><br/
-\'d8<hw>Met`a*nau"pli*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meta-</er>, and <er>Nauplius</er>.]</ety> <fld>(Zool.)</fld> <def>A larval crustacean in a stage following the nauplius, and having about seven pairs of appendages.</def><br/
+<par/<hw>Met`a*nau"pli*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Meta-</er>, and <er>Nauplius</er>.]</ety> <fld>(Zool.)</fld> <def>A larval crustacean in a stage following the nauplius, and having about seven pairs of appendages.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metanephritic</ent><br/
@@ -21093,11 +21093,11 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metanephros</ent><br/
-\'d8<hw>Met`a*neph"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ behind + <?/ kidney.]</ety> <fld>(Anat.)</fld> <def>The most posterior of the three pairs of embryonic renal organs developed in many vertebrates.</def><br/
+<par/<hw>Met`a*neph"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ behind + <?/ kidney.]</ety> <fld>(Anat.)</fld> <def>The most posterior of the three pairs of embryonic renal organs developed in many vertebrates.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metanotum</ent><br/
-\'d8<hw>Met`a*no"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ behind + <?/ back.]</ety> <fld>(Zool.)</fld> <def>The dorsal portion of the metaphorax of insects.</def><br/
+<par/<hw>Met`a*no"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ behind + <?/ back.]</ety> <fld>(Zool.)</fld> <def>The dorsal portion of the metaphorax of insects.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metantimonate</ent><br/
@@ -21229,7 +21229,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metaphysis</ent><br/
-\'d8<hw>Me*taph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ nature.]</ety> <def>Change of form; transformation.</def><br/
+<par/<hw>Me*taph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ nature.]</ety> <def>Change of form; transformation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metaplasm</ent><br/
@@ -21249,19 +21249,19 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metapodiale</ent><br/
-\'d8<hw>Met`a*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Metapode</er>.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the metacarpus or metatarsus.</def><br/
+<par/<hw>Met`a*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Metapode</er>.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the metacarpus or metatarsus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metapodium</ent><br/
-\'d8<hw>Met`a*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapodia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Metapode</er>.</def><br/
+<par/<hw>Met`a*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapodia</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Metapode</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metapophysis</ent><br/
-\'d8<hw>Met`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Meta-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A tubercle projecting from the anterior articular processes of some vertebrae; a mammillary process.</def><br/
+<par/<hw>Met`a*poph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Metapophyses</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Meta-</er>, and <er>Apophysis</er>.]</ety> <fld>(Anat.)</fld> <def>A tubercle projecting from the anterior articular processes of some vertebrae; a mammillary process.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metapterygium</ent><br/
-\'d8<hw>Me*tap`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ fin.]</ety> <fld>(Anat.)</fld> <def>The posterior of the three principal basal cartilages in the fins of fishes.</def> -- <wordforms><wf>Me*tap`ter*yg"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Me*tap`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ fin.]</ety> <fld>(Anat.)</fld> <def>The posterior of the three principal basal cartilages in the fins of fishes.</def> -- <wordforms><wf>Me*tap`ter*yg"i*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metasilicate</ent><br/
@@ -21320,7 +21320,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metasternum</ent><br/
-\'d8<hw>Met`a*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>meta-</ets> + <ets>sternum</ets>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The most posterior element of the sternum; the ensiform process; xiphisternum.</def><br/
+<par/<hw>Met`a*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>meta-</ets> + <ets>sternum</ets>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The most posterior element of the sternum; the ensiform process; xiphisternum.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The ventral plate of the third or last segment of the thorax of insects.</def><br/
@@ -21328,7 +21328,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 
 <p><ent>Metastome</ent><br/
 <ent>Metastoma</ent><br/
-<mhw>{ \'d8<hw>Me*tas"to*ma</hw> <pr>(?)</pr>, <hw>Met"a*stome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>metastoma</ets>, from Gr. <grk>meta`</grk> behind + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>A median elevation behind the mouth in the arthropods.</def><br/
+<mhw>{ <par/<hw>Me*tas"to*ma</hw> <pr>(?)</pr>, <hw>Met"a*stome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>metastoma</ets>, from Gr. <grk>meta`</grk> behind + <grk>sto`ma</grk> mouth.]</ety> <fld>(Zool.)</fld> <def>A median elevation behind the mouth in the arthropods.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metatarsal</ent><br/
@@ -21344,7 +21344,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>metate</ent><br/
-\'d8<hw>me*ta"te</hw> <pr>(m<asl/*t<aum/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp., fr. Mex. <ets>metlatl</ets>.]</ety> <def>A flat or somewhat hollowed stone upon which grain or other food is ground, by means of a smaller stone or pestle.</def> <mark>[Southwestern U. S. & Sp. Amer.]</mark><br/
+<par/<hw>me*ta"te</hw> <pr>(m<asl/*t<aum/"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp., fr. Mex. <ets>metlatl</ets>.]</ety> <def>A flat or somewhat hollowed stone upon which grain or other food is ground, by means of a smaller stone or pestle.</def> <mark>[Southwestern U. S. & Sp. Amer.]</mark><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Metatheria</ent><br/
@@ -21404,15 +21404,15 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metayage</ent><br/
-\'d8<hw>M<eacute/`ta`yage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>M<eacute/tayer</er>.]</ety> <def>A system of farming on halves.</def> <mark>[France & Italy]</mark><br/
+<par/<hw>M<eacute/`ta`yage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>M<eacute/tayer</er>.]</ety> <def>A system of farming on halves.</def> <mark>[France & Italy]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metayer</ent><br/
-\'d8<hw>M<eacute/`ta`yer"</hw> <pr>(F. ?; E. ?)</pr>, <pos>n.</pos> <ety>[F., fr. LL. <ets>medietarius</ets>, fr. L. <ets>medius</ets> middle, half. See <er>Mid</er>, <pos>a.</pos>]</ety> <def>One who cultivates land for a share (usually one half) of its yield, receiving stock, tools, and seed from the landlord; a type of <isa>sharecropper</isa>.</def> <mark>[France & Italy]</mark>  <rj><au>Milman.</au></rj><br/
+<par/<hw>M<eacute/`ta`yer"</hw> <pr>(F. ?; E. ?)</pr>, <pos>n.</pos> <ety>[F., fr. LL. <ets>medietarius</ets>, fr. L. <ets>medius</ets> middle, half. See <er>Mid</er>, <pos>a.</pos>]</ety> <def>One who cultivates land for a share (usually one half) of its yield, receiving stock, tools, and seed from the landlord; a type of <isa>sharecropper</isa>.</def> <mark>[France & Italy]</mark>  <rj><au>Milman.</au></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Metazoa</ent><br/
-\'d8<hw>Met`a*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ after + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>Those animals in which the protoplasmic mass, constituting the egg, is converted into a multitude of cells, which are metamorphosed into the tissues of the body.  A central cavity is commonly developed, and the cells around it are at first arranged in two layers, -- the <xex>ectoderm</xex> and <xex>endoderm</xex>.  The group comprises nearly all animals except the Protozoa.</def><br/
+<par/<hw>Met`a*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ after + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>Those animals in which the protoplasmic mass, constituting the egg, is converted into a multitude of cells, which are metamorphosed into the tissues of the body.  A central cavity is commonly developed, and the cells around it are at first arranged in two layers, -- the <xex>ectoderm</xex> and <xex>endoderm</xex>.  The group comprises nearly all animals except the Protozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metazoan</ent><br/
@@ -21424,7 +21424,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metazoon</ent><br/
-\'d8<hw>Met`a*zo"on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Metazoa.</def><br/
+<par/<hw>Met`a*zo"on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Metazoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mete</ent><br/
@@ -21492,7 +21492,7 @@ Our physics.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metensomatosis</ent><br/
-\'d8<hw>Met`en*so`ma*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a change of body (by the soul), fr. Gr. <?/.]</ety> <fld>(Biol.)</fld> <def>The assimilation by one body or organism of the elements of another.</def><br/
+<par/<hw>Met`en*so`ma*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a change of body (by the soul), fr. Gr. <?/.]</ety> <fld>(Biol.)</fld> <def>The assimilation by one body or organism of the elements of another.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meteor</ent><br/
@@ -21904,7 +21904,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metier</ent><br/
-\'d8<hw>M<eacute/`tier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Calling; vocation; business; trade.</def></p>
+<par/<hw>M<eacute/`tier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>Calling; vocation; business; trade.</def></p>
 
 <p><q>Not only is it the business of no one to preach the truth but it is the <qex>m<eacute/tier</qex> of many to conceal it.</q>  <rj><qau>A. R. Colquhoun.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -21914,12 +21914,12 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 
 <p><ent>Metive</ent><br/
 <ent>Metif</ent><br/
-<mhw>{ \'d8<hw>M<eacute/`tif"</hw> <pr>(?)</pr>, <pos>n. m.</pos> \'d8<hw>M<eacute/`tive"</hw> <pr>(?)</pr>, <pos>n. f.</pos> }</mhw><ety>[F.]</ety> <def>See <er>M<eacute/tis</er>.</def><br/
+<mhw>{ <par/<hw>M<eacute/`tif"</hw> <pr>(?)</pr>, <pos>n. m.</pos> <par/<hw>M<eacute/`tive"</hw> <pr>(?)</pr>, <pos>n. f.</pos> }</mhw><ety>[F.]</ety> <def>See <er>M<eacute/tis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metisse</ent><br/
 <ent>Metis</ent><br/
-<mhw>{ \'d8<hw>M<eacute/`tis"</hw> <pr>(?)</pr>, <pos>n. m.</pos> \'d8<hw>M<eacute/`tisse"</hw> <pr>(?)</pr>, <pos>n. f.</pos> }</mhw><ety>[F.; akin to Sp. <ets>mestizo</ets>. See <er>Mestizo</er>.]</ety> <sn>1.</sn> <def>The offspring of a white person and an American Indian.</def><br/
+<mhw>{ <par/<hw>M<eacute/`tis"</hw> <pr>(?)</pr>, <pos>n. m.</pos> <par/<hw>M<eacute/`tisse"</hw> <pr>(?)</pr>, <pos>n. f.</pos> }</mhw><ety>[F.; akin to Sp. <ets>mestizo</ets>. See <er>Mestizo</er>.]</ety> <sn>1.</sn> <def>The offspring of a white person and an American Indian.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The offspring of a white person and a quadroon; an octoroon.</def> <mark>[Local, U. S.]</mark>  <rj><au>Bartlett.</au></rj><br/
@@ -21981,7 +21981,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metosteon</ent><br/
-\'d8<hw>Me*tos"te*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ bone.]</ety> <fld>(Anat.)</fld> <def>The postero-lateral ossification in the sternum of birds; also, the part resulting from such ossification.</def><br/
+<par/<hw>Me*tos"te*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ after + <?/ bone.]</ety> <fld>(Anat.)</fld> <def>The postero-lateral ossification in the sternum of birds; also, the part resulting from such ossification.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 920 --></p>
@@ -22047,7 +22047,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metritis</ent><br/
-\'d8<hw>Me*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ womb + <ets>-tis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the womb.</def><br/
+<par/<hw>Me*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ womb + <ets>-tis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the womb.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metrochrome</ent><br/
@@ -22143,7 +22143,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metrorrhagia</ent><br/
-\'d8<hw>Met`ror*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ womb + <?/ to break.]</ety> <fld>(Med.)</fld> <def>Profuse bleeding from the womb, esp. such as does not occur at the menstrual period.</def><br/
+<par/<hw>Met`ror*rha"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ womb + <?/ to break.]</ety> <fld>(Med.)</fld> <def>Profuse bleeding from the womb, esp. such as does not occur at the menstrual period.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metroscope</ent><br/
@@ -22151,7 +22151,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metrosideros</ent><br/
-\'d8<hw>Met`ro*si*de"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ heart of a tree + <?/ iron.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees or shrubs, found in Australia and the South Sea Islands, and having very hard wood.  <spn>Metrosideros vera</spn> is the true ironwood.</def><br/
+<par/<hw>Met`ro*si*de"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ heart of a tree + <?/ iron.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees or shrubs, found in Australia and the South Sea Islands, and having very hard wood.  <spn>Metrosideros vera</spn> is the true ironwood.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Metrotome</ent><br/
@@ -22199,7 +22199,7 @@ Shows most true <qex>mettle</qex> when you check his course.</q> <rj><qau>Pope.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Meum</ent><br/
-\'d8<hw>Me"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., neut. of <ets>meus</ets> mine.]</ety> <def>Lit., mine; that which is mine; -- used in the phrase <xex>meum et tuum</xex>, or <xex>meum and tuum</xex>; <as>as, to confound <ex>meum and tuum</ex>, to fail to distinguish one's own property from that of others</as>; to be dishonest.</def></p>
+<par/<hw>Me"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., neut. of <ets>meus</ets> mine.]</ety> <def>Lit., mine; that which is mine; -- used in the phrase <xex>meum et tuum</xex>, or <xex>meum and tuum</xex>; <as>as, to confound <ex>meum and tuum</ex>, to fail to distinguish one's own property from that of others</as>; to be dishonest.</def></p>
 
 <p><q>Ancestors . . . generally esteemed more renowned for ancient family and high courage than for accurately regarding the trifling distinction of <qex>meum and tuum</qex>.</q>  <rj><qau>Sir W. Scott.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -22299,7 +22299,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 
 <p><ent>Mexical</ent><br/
 <ent>Mexal</ent><br/
-<mhw>\'d8<hw>Mex*al"</hw> <pr>(?)</pr>, <hw>Mex"i*cal</hw> <pr>(#)</pr></mhw>, <pos>n.</pos> <ety>[Sp. <ets>mexcal</ets>.]</ety> <def>See <er>Mescal</er>.</def><br/
+<mhw><par/<hw>Mex*al"</hw> <pr>(?)</pr>, <hw>Mex"i*cal</hw> <pr>(#)</pr></mhw>, <pos>n.</pos> <ety>[Sp. <ets>mexcal</ets>.]</ety> <def>See <er>Mescal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mexican</ent><br/
@@ -22330,7 +22330,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezquita</ent><br/
-\'d8<hw>Mez*qui"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A mosque.</def><br/
+<par/<hw>Mez*qui"ta</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A mosque.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezuzoth</ent><br/
@@ -22340,7 +22340,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mezza majolica</ent><br/
-\'d8<hw>Mez"za ma*jol"i*ca</hw> <pr>(?)</pr>. <ety>[It. See <er>Mezzo</er>; <er>Majolica</er>.]</ety> <fld>(Ceramics)</fld> <def>Italian pottery of the epoch and general character of majolica, but less brilliantly decorated, esp. such pottery without tin enamel, but painted and glazed.</def><br/
+<par/<hw>Mez"za ma*jol"i*ca</hw> <pr>(?)</pr>. <ety>[It. See <er>Mezzo</er>; <er>Majolica</er>.]</ety> <fld>(Ceramics)</fld> <def>Italian pottery of the epoch and general character of majolica, but less brilliantly decorated, esp. such pottery without tin enamel, but painted and glazed.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mezzanine</ent><br/
@@ -22357,11 +22357,11 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Mezza voce</ent><br/
-\'d8<hw>Mez"za vo"ce</hw> <pr>(?)</pr>. <ety>[It., fr. <ets>mezzo</ets>, fem. <ets>mezza</ets> middle, half + <ets>voce</ets> voice, L. <ets>vox</ets>.]</ety> <fld>(Mus.)</fld> <def>With a medium fullness of sound.</def><br/
+<par/<hw>Mez"za vo"ce</hw> <pr>(?)</pr>. <ety>[It., fr. <ets>mezzo</ets>, fem. <ets>mezza</ets> middle, half + <ets>voce</ets> voice, L. <ets>vox</ets>.]</ety> <fld>(Mus.)</fld> <def>With a medium fullness of sound.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezzo</ent><br/
-\'d8<hw>Mez"zo</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It., from L. <ets>medius</ets> middle, half. See <er>Mid</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>Mean; not extreme.</def><br/
+<par/<hw>Mez"zo</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It., from L. <ets>medius</ets> middle, half. See <er>Mid</er>, <pos>a.</pos>]</ety> <fld>(Mus.)</fld> <def>Mean; not extreme.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezzo-relievo</ent><br/
@@ -22369,7 +22369,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezzo-rilievo</ent><br/
-\'d8<hw>Mez"zo-ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <sd>(a)</sd> <def>A middle degree of relief in figures, between high and low relief.</def> <sd>(b)</sd> <def>Sculpture in this kind of relief. See under <er>Alto-rilievo</er>.</def><br/
+<par/<hw>Mez"zo-ri*lie"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <sd>(a)</sd> <def>A middle degree of relief in figures, between high and low relief.</def> <sd>(b)</sd> <def>Sculpture in this kind of relief. See under <er>Alto-rilievo</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mezzo-soprano</ent><br/
@@ -22487,7 +22487,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Micella</ent><br/
-\'d8<hw>Mi*cel"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Micellae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>mica</ets> a morsel, grain.]</ety> <fld>(Biol.)</fld> <def>A theoretical aggregation of molecules constituting a structural particle of protoplasm, capable of increase or diminution without change in chemical nature.</def><br/
+<par/<hw>Mi*cel"la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Micellae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>mica</ets> a morsel, grain.]</ety> <fld>(Biol.)</fld> <def>A theoretical aggregation of molecules constituting a structural particle of protoplasm, capable of increase or diminution without change in chemical nature.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miche</ent><br/
@@ -22554,7 +22554,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Micraster</ent><br/
-\'d8<hw>Mi*cras"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mikro`s</grk> small + <?/ star.]</ety> <fld>(Paleon.)</fld> <def>A genus of sea urchins, similar to Spatangus, abounding in the chalk formation; -- from the starlike disposal of the ambulacral furrows.</def><br/
+<par/<hw>Mi*cras"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mikro`s</grk> small + <?/ star.]</ety> <fld>(Paleon.)</fld> <def>A genus of sea urchins, similar to Spatangus, abounding in the chalk formation; -- from the starlike disposal of the ambulacral furrows.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Micrencephalous</ent><br/
@@ -22578,7 +22578,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Microbacteria</ent><br/
-\'d8<hw>Mi`cro*bac*te"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Bacterium</er>.]</ety> <fld>(Biol.)</fld> <def>In the classification of <persfn>Cohn</persfn>, one of the four tribes of Bacteria.</def><br/
+<par/<hw>Mi`cro*bac*te"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Bacterium</er>.]</ety> <fld>(Biol.)</fld> <def>In the classification of <persfn>Cohn</persfn>, one of the four tribes of Bacteria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ In this classification bacteria are divided into four tribes: 1. <fam>Spherobacteria</fam>, or spherical bacteria, as the genus <gen>Micrococcus</gen>. 2. <fam>Microbacteria</fam>, or bacteria in the form of short rods, including the genus <gen>Bacterium</gen>. 3. <fam>Desmobacteria</fam>, or bacteria in straight filaments, of which the genus <gen>Bacillus</gen> is a type. 4. <fam>Spirobacteria</fam>, or bacteria in spiral filaments, as the genus <gen>Vibrio</gen>.</note><br/
@@ -22590,7 +22590,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 
 <p><ent>Microbion</ent><br/
 <ent>Microbe</ent><br/
-<mhw>{ <hw>Mi"crobe</hw> <pr>(?)</pr>, \'d8<hw>Mi*cro"bi*on</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>microbion</ets>, fr. Gr. <?/ little + <?/ life.]</ety> <fld>(Biol.)</fld> <def>A microscopic organism; a microorganism; -- particularly applied to bacteria and especially to pathogenic forms; <as>as, the <ex>microbe</ex> of fowl cholera</as>.</def><br/
+<mhw>{ <hw>Mi"crobe</hw> <pr>(?)</pr>, <par/<hw>Mi*cro"bi*on</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>microbion</ets>, fr. Gr. <?/ little + <?/ life.]</ety> <fld>(Biol.)</fld> <def>A microscopic organism; a microorganism; -- particularly applied to bacteria and especially to pathogenic forms; <as>as, the <ex>microbe</ex> of fowl cholera</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>microbian</ent><br/
@@ -22638,7 +22638,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Micrococcus</ent><br/
-\'d8<hw>Mi`cro*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Micrococci</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Micro-</er>, and <er>Coccus</er>.]</ety> <fld>(Biol.)</fld> <def>A genus of <fam>Spherobacteria</fam>, in the form of very small globular or oval cells, forming, by transverse division, filaments, or chains of cells, or in some cases single organisms shaped like dumb-bells (<gen>Diplococcus</gen>), all without the power of motion. See <xex>Illust.</xex> of <er>Ascoccus</er>.</def><br/
+<par/<hw>Mi`cro*coc"cus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Micrococci</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Micro-</er>, and <er>Coccus</er>.]</ety> <fld>(Biol.)</fld> <def>A genus of <fam>Spherobacteria</fam>, in the form of very small globular or oval cells, forming, by transverse division, filaments, or chains of cells, or in some cases single organisms shaped like dumb-bells (<gen>Diplococcus</gen>), all without the power of motion. See <xex>Illust.</xex> of <er>Ascoccus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Physiologically, micrococci are divided into three groups; <xex>chromogenic</xex>, characterized by their power of forming pigment; <xex>zymogenic</xex>, including those associated with definite chemical processes; and <xex>pathogenic</xex>, those connected with disease.</note><br/
@@ -22743,11 +22743,11 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microlepidoptera</ent><br/
-\'d8<hw>Mi`cro*lep`i*dop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Lepidoptera</er>.]</ety> <fld>(Zool.)</fld> <def>A tribe of <ord>Lepidoptera</ord>, including a vast number of minute species, as the plume moth, clothes moth, etc.</def><br/
+<par/<hw>Mi`cro*lep`i*dop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Lepidoptera</er>.]</ety> <fld>(Zool.)</fld> <def>A tribe of <ord>Lepidoptera</ord>, including a vast number of minute species, as the plume moth, clothes moth, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microlestes</ent><br/
-\'d8<hw>Mi`cro*les"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mikro`s</grk> small + <?/ a robber.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of small Triassic mammals, the oldest yet found in European strata.</def><br/
+<par/<hw>Mi`cro*les"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mikro`s</grk> small + <?/ a robber.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of small Triassic mammals, the oldest yet found in European strata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microlite</ent><br/
@@ -22987,7 +22987,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microsporangium</ent><br/
-\'d8<hw>Mi`cro*spo*ran"gi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Sporangium</er>.]</ety> <fld>(Bot.)</fld> <def>A sporangium or conceptacle containing only very minute spores.  Cf. <er>Macrosporangium</er>.</def><br/
+<par/<hw>Mi`cro*spo*ran"gi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Micro-</er>, and <er>Sporangium</er>.]</ety> <fld>(Bot.)</fld> <def>A sporangium or conceptacle containing only very minute spores.  Cf. <er>Macrosporangium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microspore</ent><br/
@@ -23036,7 +23036,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microzoa</ent><br/
-\'d8<hw>Mi`cro*zo"a</hw> <pr>(m<imac/`kr<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mikro`s</grk> small + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>The Infusoria.</def><br/
+<par/<hw>Mi`cro*zo"a</hw> <pr>(m<imac/`kr<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mikro`s</grk> small + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>The Infusoria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Microzo0spore</ent><br/
@@ -23291,7 +23291,7 @@ Shall list'ning in <qex>mid</qex> air suspend their wings.</q> <rj><qau>Pope.</q
 <p><ent>Mithgarthr</ent><br/
 <ent>Midgarth</ent><br/
 <ent>Midgard</ent><br/
-<mhw>{ <hw>Mid"gard</hw> <pr>(m<icr/d"g<aum/rd)</pr>, <pos>n.</pos> Also <hw>Mid"garth</hw> <pr>(-g<aum/r<th/)</pr>, \'d8<hw>Mith"garthr</hw> <pr>(<it>Icel.</it> m<esl/<th/"g<aum/r<th/r')</pr> }</mhw>. <ety>[Icel. <ets>mi<edh/gar<edh/r</ets>.]</ety> <fld>(Teut. Myth.)</fld> <def>The middle space or region between heaven and hell, the abode of human beings; the earth.</def><br/
+<mhw>{ <hw>Mid"gard</hw> <pr>(m<icr/d"g<aum/rd)</pr>, <pos>n.</pos> Also <hw>Mid"garth</hw> <pr>(-g<aum/r<th/)</pr>, <par/<hw>Mith"garthr</hw> <pr>(<it>Icel.</it> m<esl/<th/"g<aum/r<th/r')</pr> }</mhw>. <ety>[Icel. <ets>mi<edh/gar<edh/r</ets>.]</ety> <fld>(Teut. Myth.)</fld> <def>The middle space or region between heaven and hell, the abode of human beings; the earth.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Midge</ent><br/
@@ -23412,7 +23412,7 @@ Shall list'ning in <qex>mid</qex> air suspend their wings.</q> <rj><qau>Pope.</q
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Midrash</ent><br/
-\'d8<hw>Mid*rash"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Midrashim</plw> <pr>(#)</pr>, <plw>Midrashoth</plw> <pr>(#)</pr>.</plu> <ety>[Heb., explanation.]</ety> <def>A talmudic exposition of the Hebrew law, or of some part of it.</def><br/
+<par/<hw>Mid*rash"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Midrashim</plw> <pr>(#)</pr>, <plw>Midrashoth</plw> <pr>(#)</pr>.</plu> <ety>[Heb., explanation.]</ety> <def>A talmudic exposition of the Hebrew law, or of some part of it.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Midrib</ent><br/
@@ -23956,7 +23956,7 @@ And <qex>milder</qex> glory to the noon.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miliaria</ent><br/
-\'d8<hw>Mil`i*a"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Miliary</er>.]</ety> <fld>(Med.)</fld> <def>A fever accompanied by an eruption of small, isolated, red pimples, resembling a millet seed in form or size; miliary fever.</def><br/
+<par/<hw>Mil`i*a"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Miliary</er>.]</ety> <fld>(Med.)</fld> <def>A fever accompanied by an eruption of small, isolated, red pimples, resembling a millet seed in form or size; miliary fever.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miliary</ent><br/
@@ -23977,11 +23977,11 @@ And <qex>milder</qex> glory to the noon.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Milice</ent><br/
-\'d8<hw>Mi`lice"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Militia.</def> <mark>[Obs.]</mark><br/
+<par/<hw>Mi`lice"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Militia.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Milieu</ent><br/
-\'d8<hw>Mi`lieu"</hw> <pr>(m<esl/*ly<etil/")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mi</ets> middle (L. <ets>medius</ets>) + <ets>lieu</ets> place. See <er>Demi-</er>, <er>Lieu</er>.]</ety> <def>Environment.</def></p>
+<par/<hw>Mi`lieu"</hw> <pr>(m<esl/*ly<etil/")</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mi</ets> middle (L. <ets>medius</ets>) + <ets>lieu</ets> place. See <er>Demi-</er>, <er>Lieu</er>.]</ety> <def>Environment.</def></p>
 
 <p><q>The intellectual and moral <qex>milieu</qex> created by multitudes of self-centered, cultivated personalities.</q>  <rj><qau>J. A. Symonds.</qau></rj></p>
 
@@ -23989,7 +23989,7 @@ And <qex>milder</qex> glory to the noon.</q> <rj><qau>Waller.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Miliola</ent><br/
-\'d8<hw>Mil"i*o`la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>milium</ets> millet. So named from its resemblance to millet seed.]</ety> <fld>(Zool.)</fld> <def>A genus of <ord>Foraminifera</ord>, having a porcelanous shell with several longitudinal chambers.</def><br/
+<par/<hw>Mil"i*o`la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of L. <ets>milium</ets> millet. So named from its resemblance to millet seed.]</ety> <fld>(Zool.)</fld> <def>A genus of <ord>Foraminifera</ord>, having a porcelanous shell with several longitudinal chambers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miliolite</ent><br/
@@ -24474,7 +24474,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millepora</ent><br/
-\'d8<hw>Mil*le*po"ra</hw> <pr>(m<icr/l*l<esl/*p<omac/"r<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Hydrocorallia, which includes the millipores.</def><br/
+<par/<hw>Mil*le*po"ra</hw> <pr>(m<icr/l*l<esl/*p<omac/"r<adot/)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of Hydrocorallia, which includes the millipores.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millepore</ent><br/
@@ -24534,7 +24534,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Milliard</ent><br/
-\'d8<hw>Mil`liard"</hw> <pr>(F. m<esl/l`y<adot/r"; E. m<icr/l"l<icr/*<aum/rd)</pr>, <pos>n.</pos> <ety>[F., from <ets>mille</ets>, <ets>mil</ets>, thousand, L. <ets>mille</ets>.]</ety> <def>A thousand millions; -- usually called <altname>billion</altname> in the United States.   See <er>Billion</er>.</def><br/
+<par/<hw>Mil`liard"</hw> <pr>(F. m<esl/l`y<adot/r"; E. m<icr/l"l<icr/*<aum/rd)</pr>, <pos>n.</pos> <ety>[F., from <ets>mille</ets>, <ets>mil</ets>, thousand, L. <ets>mille</ets>.]</ety> <def>A thousand millions; -- usually called <altname>billion</altname> in the United States.   See <er>Billion</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Milliary</ent><br/
@@ -24549,7 +24549,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millier</ent><br/
-\'d8<hw>Mil`lier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mille</ets> thousand.]</ety> <def>A weight of the metric system, being one million grams; a metric ton.</def><br/
+<par/<hw>Mil`lier"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mille</ets> thousand.]</ety> <def>A weight of the metric system, being one million grams; a metric ton.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millifold</ent><br/
@@ -24646,7 +24646,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millionnaire</ent><br/
-\'d8<hw>Mil`lion`naire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Millionaire.</def><br/
+<par/<hw>Mil`lion`naire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Millionaire.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Millionth</ent><br/
@@ -24783,7 +24783,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Milvus</ent><br/
-\'d8<hw>Mil"vus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kite.]</ety> <fld>(Zool.)</fld> <def>A genus of raptorial birds, including the European kite.</def><br/
+<par/<hw>Mil"vus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kite.]</ety> <fld>(Zool.)</fld> <def>A genus of raptorial birds, including the European kite.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mime</ent><br/
@@ -24836,7 +24836,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 [<source>PJC</source>]</p>
 
 <p><ent>Mimesis</ent><br/
-\'d8<hw>Mi*me"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ imitation.]</ety> <fld>(Rhet. & Biol.)</fld> <def>Imitation; mimicry.</def><br/
+<par/<hw>Mi*me"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ imitation.]</ety> <fld>(Rhet. & Biol.)</fld> <def>Imitation; mimicry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mimetene</ent><br/
@@ -24937,7 +24937,7 @@ The habit <qex>mimic</qex>, and the mien belie.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mimosa</ent><br/
-\'d8<hw>Mi*mo"sa</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ imitator.  Cf. <er>Mime</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants, containing many species, and including the sensitive plants (<spn>Mimosa sensitiva</spn>, and <spn>Mimosa pudica</spn>).</def><br/
+<par/<hw>Mi*mo"sa</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ imitator.  Cf. <er>Mime</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants, containing many species, and including the sensitive plants (<spn>Mimosa sensitiva</spn>, and <spn>Mimosa pudica</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term <ex>mimosa</ex> is also applied in commerce to several kinds bark imported from Australia, and used in tanning; -- called also <altname>wattle bark</altname>.</note>  <rj><au>Tomlinson.</au></rj><br/
@@ -24976,7 +24976,7 @@ The habit <qex>mimic</qex>, and the mien belie.</q> <rj><qau>Dryden.</qau></rj><
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>mina</ent><br/
-\'d8<hw>mi"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Minae</plw> <pr>(#)</pr>, E. <plw>Minas</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <def>An ancient weight or denomination of money, of varying value.  The Attic mina was valued at a hundred drachmas.</def><br/
+<par/<hw>mi"na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Minae</plw> <pr>(#)</pr>, E. <plw>Minas</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <def>An ancient weight or denomination of money, of varying value.  The Attic mina was valued at a hundred drachmas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mina</ent><br/
@@ -25732,7 +25732,7 @@ Into a manly stride.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Minimus</ent><br/
-\'d8<hw>Min"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Minimi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Minim</er>.]</ety> <sn>1.</sn> <def>A being of the smallest size.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
+<par/<hw>Min"i*mus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Minimi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Minim</er>.]</ety> <sn>1.</sn> <def>A being of the smallest size.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The little finger; the fifth digit, or that corresponding to it, in either the manus or pes.</def><br/
@@ -26064,7 +26064,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Minorat</ent><br/
-\'d8<hw>Mi`no*rat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. Cf. <er>Minor</er>, <pos>a.</pos>]</ety> <fld>(Law)</fld> <def>A custom or right, analogous to borough-English in England, formerly existing in various parts of Europe, and surviving in parts of Germany and Austria, by which certain entailed estates, as a homestead and adjacent land, descend to the youngest male heir.</def><br/
+<par/<hw>Mi`no*rat"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G. Cf. <er>Minor</er>, <pos>a.</pos>]</ety> <fld>(Law)</fld> <def>A custom or right, analogous to borough-English in England, formerly existing in various parts of Europe, and surviving in parts of Germany and Austria, by which certain entailed estates, as a homestead and adjacent land, descend to the youngest male heir.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Minorate</ent><br/
@@ -26396,7 +26396,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Minutia</ent><br/
-\'d8<hw>Mi*nu"ti*a</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Minutiae</plw> <pr>(-<emac/)</pr>.</plu> <ety>[L., fr. <ets>minutus</ets> small, minute. See 4th <er>Minute</er>.]</ety> <def>A minute particular; a small or minor detail; -- used chiefly in the plural.</def><br/
+<par/<hw>Mi*nu"ti*a</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Minutiae</plw> <pr>(-<emac/)</pr>.</plu> <ety>[L., fr. <ets>minutus</ets> small, minute. See 4th <er>Minute</er>.]</ety> <def>A minute particular; a small or minor detail; -- used chiefly in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Minx</ent><br/
@@ -26425,7 +26425,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miohippus</ent><br/
-\'d8<hw>Mi`o*hip"pus</hw> <pr>(m<imac/`<osl/*h<icr/p"p<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mei`wn</grk> less + <grk>"ippo`s</grk> horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct Miocene mammal of the Horse family, closely related to the genus <gen>Anhithecrium</gen>, and having three usable hoofs on each foot.</def><br/
+<par/<hw>Mi`o*hip"pus</hw> <pr>(m<imac/`<osl/*h<icr/p"p<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mei`wn</grk> less + <grk>"ippo`s</grk> horse.]</ety> <fld>(Paleon.)</fld> <def>An extinct Miocene mammal of the Horse family, closely related to the genus <gen>Anhithecrium</gen>, and having three usable hoofs on each foot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miquelet</ent><br/
@@ -26441,7 +26441,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mira</ent><br/
-\'d8<hw>Mi"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>mirus</ets> wonderful.]</ety> <fld>(Astron.)</fld> <def>A remarkable variable star in the constellation Cetus (<altname><omicron/ Ceti</altname>).</def><br/
+<par/<hw>Mi"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from L. <ets>mirus</ets> wonderful.]</ety> <fld>(Astron.)</fld> <def>A remarkable variable star in the constellation Cetus (<altname><omicron/ Ceti</altname>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mirabilary</ent><br/
@@ -26453,7 +26453,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><ent>Mirabilis</ent><br/
-\'d8<hw>Mi*rab"i*lis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., wonderful.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Four-o'clock</er>.</def><br/
+<par/<hw>Mi*rab"i*lis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., wonderful.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Four-o'clock</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mirabilite</ent><br/
@@ -27087,7 +27087,7 @@ Would lay <qex>miscarriages</qex> upon his prince.</q> <rj><qau>Dryden.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miscellanea</ent><br/
-\'d8<hw>Mis"cel*la"ne*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Miscellany</er>.]</ety> <def>A collection of miscellaneous matters; matters of various kinds.</def><br/
+<par/<hw>Mis"cel*la"ne*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. See <er>Miscellany</er>.]</ety> <def>A collection of miscellaneous matters; matters of various kinds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miscellaneous</ent><br/
@@ -27787,7 +27787,7 @@ Bends at his treasure, counts, recounts it o'er.</q> <rj><qau>Goldsmith.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Miserere</ent><br/
-\'d8<hw>Mis`e*re"re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., have mercy, fr. <ets>misereri</ets> to have mercy, fr. <ets>miser</ets>. See <er>Miser</er>.]</ety><br/
+<par/<hw>Mis`e*re"re</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., have mercy, fr. <ets>misereri</ets> to have mercy, fr. <ets>miser</ets>. See <er>Miser</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(R. C. Ch.)</fld> <def>The psalm usually appointed for penitential acts, being the 50th psalm in the Latin version.  It commences with the word <xex>miserere</xex>.</def><br/
@@ -27816,7 +27816,7 @@ Bends at his treasure, counts, recounts it o'er.</q> <rj><qau>Goldsmith.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Misericordia</ent><br/
-\'d8<hw>Mis`e*ri*cor"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mercy, compassion; <ets>miser</ets> wretched + <ets>cor</ets>, <ets>cordis</ets>, heart.]</ety><br/
+<par/<hw>Mis`e*ri*cor"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mercy, compassion; <ets>miser</ets> wretched + <ets>cor</ets>, <ets>cordis</ets>, heart.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>1.</sn> <fld>(O. Law)</fld> <def>An amercement.</def>  <rj><au>Burrill.</au></rj><br/
@@ -28886,7 +28886,7 @@ What wonder then if one, of women all, did <qex>miss</qex>?</q> <rj><qau>Spenser
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Missa</ent><br/
-\'d8<hw>Mis"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Missae</plw> <pr>(#)</pr>.</plu> <ety>[LL. See 1st <er>Mass</er>.]</ety> <fld>(R. C. Ch.)</fld> <def>The service or sacrifice of the Mass.</def><br/
+<par/<hw>Mis"sa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Missae</plw> <pr>(#)</pr>.</plu> <ety>[LL. See 1st <er>Mass</er>.]</ety> <fld>(R. C. Ch.)</fld> <def>The service or sacrifice of the Mass.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Missal</ent><br/
@@ -29390,7 +29390,7 @@ Or <qex>Mister</qex> Other's marriage or decease.</q> <rj><qau>Mrs. Browning.</q
 
 <p><ent>Mistigri</ent><br/
 <ent>Mistigris</ent><br/
-<mhw>{ \'d8<hw>Mis`ti`gris"</hw> <pr>(?)</pr>, \'d8<hw>Mis`ti`gri"</hw>  }</mhw>, <pos>n.</pos> <ety>[F. <ets>mistigri</ets>.]</ety> <def>A variety of the game of poker in which the joker is used, and called <xex>mistigris</xex> or <xex>mistigri</xex>.</def><br/
+<mhw>{ <par/<hw>Mis`ti`gris"</hw> <pr>(?)</pr>, <par/<hw>Mis`ti`gri"</hw>  }</mhw>, <pos>n.</pos> <ety>[F. <ets>mistigri</ets>.]</ety> <def>A variety of the game of poker in which the joker is used, and called <xex>mistigris</xex> or <xex>mistigri</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mistihead</ent><br/
@@ -29434,7 +29434,7 @@ Or <qex>Mister</qex> Other's marriage or decease.</q> <rj><qau>Mrs. Browning.</q
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mistonusk</ent><br/
-\'d8<hw>Mis"to*nusk</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the Indian name.]</ety> <fld>(Zool.)</fld> <def>The American badger.</def><br/
+<par/<hw>Mis"to*nusk</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From the Indian name.]</ety> <fld>(Zool.)</fld> <def>The American badger.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mistook</ent><br/
@@ -29591,7 +29591,7 @@ Ensuing dangers.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mistura</ent><br/
-\'d8<hw>Mis*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mixture</er>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A mingled compound in which different ingredients are contained in a liquid state; a mixture. See <er>Mixture</er>, <pos>n.</pos>, <snr>4</snr>.</def> <sd>(b)</sd> <def>Sometimes, a liquid medicine containing very active substances, and which can only be administered by drops.</def>  <rj><au>Dunglison.</au></rj><br/
+<par/<hw>Mis*tu"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. See <er>Mixture</er>.]</ety> <fld>(Med.)</fld> <sd>(a)</sd> <def>A mingled compound in which different ingredients are contained in a liquid state; a mixture. See <er>Mixture</er>, <pos>n.</pos>, <snr>4</snr>.</def> <sd>(b)</sd> <def>Sometimes, a liquid medicine containing very active substances, and which can only be administered by drops.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Misturn</ent><br/
@@ -29629,7 +29629,7 @@ The <qex>mistier</qex> it seemeth.</q> <rj><qau>Piers Plowman.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Misurato</ent><br/
-\'d8<hw>Mi`su*ra"to</hw> <pr>(m<emac/`s<oomac/*r<aum/"t<osl/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Measured; -- a direction to perform a passage in strict or measured time.</def><br/
+<par/<hw>Mi`su*ra"to</hw> <pr>(m<emac/`s<oomac/*r<aum/"t<osl/)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Measured; -- a direction to perform a passage in strict or measured time.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Misusage</ent><br/
@@ -29920,7 +29920,7 @@ Wot be <qex>misvalued</qex> both of old and young.</q> <rj><qau>W. Browne.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mitosis</ent><br/
-\'d8<hw>Mi*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a thread.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyokinesis</er>.</def><br/
+<par/<hw>Mi*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a thread.]</ety> <fld>(Biol.)</fld> <def>See <er>Karyokinesis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mitotic</ent><br/
@@ -29928,18 +29928,18 @@ Wot be <qex>misvalued</qex> both of old and young.</q> <rj><qau>W. Browne.</qau>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mitraille</ent><br/
-\'d8<hw>Mi`traille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mitrailleur</er>.]</ety> <def>Shot or bits of iron used sometimes in loading cannon.</def><br/
+<par/<hw>Mi`traille"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mitrailleur</er>.]</ety> <def>Shot or bits of iron used sometimes in loading cannon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mitrailleur</ent><br/
-\'d8<hw>Mi`tra`illeur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>One who serves a mitrailleuse.</def><br/
+<par/<hw>Mi`tra`illeur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <fld>(Mil.)</fld> <def>One who serves a mitrailleuse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A mitralleuse.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mitrailleuse</ent><br/
-\'d8<hw>Mi`tra`illeuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mitrailler</ets> to fire grapeshot, fr. <ets>mitraille</ets> old iron, grapeshot, dim. of OF. <ets>mite</ets> a mite.]</ety> <fld>(Mil.)</fld> <def>A breech-loading machine gun consisting of a number of barrels fitted together, so arranged that the barrels can be fired simultaneously, or successively, and rapidly.</def> <mark>[obsolescent]</mark> <br/
+<par/<hw>Mi`tra`illeuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>mitrailler</ets> to fire grapeshot, fr. <ets>mitraille</ets> old iron, grapeshot, dim. of OF. <ets>mite</ets> a mite.]</ety> <fld>(Mil.)</fld> <def>A breech-loading machine gun consisting of a number of barrels fitted together, so arranged that the barrels can be fired simultaneously, or successively, and rapidly.</def> <mark>[obsolescent]</mark> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mitral</ent><br/
@@ -29988,7 +29988,7 @@ Wot be <qex>misvalued</qex> both of old and young.</q> <rj><qau>W. Browne.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mittimus</ent><br/
-\'d8<hw>Mit"ti*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we send, fr. <ets>mittere</ets> to send.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>A precept or warrant granted by a justice for committing to prison a party charged with crime; a warrant of commitment to prison.</def> <au>Burrill.</au> <sd>(b)</sd> <def>A writ for removing records from one court to another.</def>  <au>Brande & C.</au><br/
+<par/<hw>Mit"ti*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., we send, fr. <ets>mittere</ets> to send.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>A precept or warrant granted by a justice for committing to prison a party charged with crime; a warrant of commitment to prison.</def> <au>Burrill.</au> <sd>(b)</sd> <def>A writ for removing records from one court to another.</def>  <au>Brande & C.</au><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mittler's green</ent><br/
@@ -30530,7 +30530,7 @@ My dear Columbo, dead and gone.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moche</ent><br/
-\'d8<hw>Moche</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A bale of raw silk.</def><br/
+<par/<hw>Moche</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A bale of raw silk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moche</ent><br/
@@ -30542,7 +30542,7 @@ My dear Columbo, dead and gone.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mochila</ent><br/
-\'d8<hw>Mo*chi"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A large leather flap which covers the saddletree.</def> <mark>[Western U.S.]</mark><br/
+<par/<hw>Mo*chi"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <def>A large leather flap which covers the saddletree.</def> <mark>[Western U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mock</ent><br/
@@ -30892,7 +30892,7 @@ Who was the <qex>model</qex> of thy father's life.</q> <rj><qau>Shak.</qau></rj>
 [<source>PJC</source>]</p>
 
 <p><ent>Modena</ent><br/
-\'d8<hw>Mod"e*na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Modena</ets>, in Italy.]</ety> <def>A certain crimsonlike color.</def>  <rj><au>Good.</au></rj><br/
+<par/<hw>Mod"e*na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>Modena</ets>, in Italy.]</ety> <def>A certain crimsonlike color.</def>  <rj><au>Good.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modenese</ent><br/
@@ -31002,7 +31002,7 @@ While Tories call me Whig, and Whigs a Tory.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moderato</ent><br/
-\'d8<hw>Mod`e*ra"to</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It. See <er>Moderate</er>.]</ety> <fld>(Mus.)</fld> <def>With a moderate degree of quickness; moderately.</def><br/
+<par/<hw>Mod`e*ra"to</hw> <pr>(?)</pr>, <pos>a. & adv.</pos> <ety>[It. See <er>Moderate</er>.]</ety> <fld>(Mus.)</fld> <def>With a moderate degree of quickness; moderately.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Allegro moderato</col>, <cd>a little slower than allegro.</cd> -- <col>Andante moderato</col>, <cd>a little faster than andante.</cd></cs><br/
@@ -31213,7 +31213,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modiolus</ent><br/
-\'d8<hw>Mo*di"o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modioli</plw> <pr>(#)</pr>.</plu> <ety>[L., a small measure.]</ety> <fld>(Anat.)</fld> <def>The central column in the osseous cochlea of the ear.</def><br/
+<par/<hw>Mo*di"o*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modioli</plw> <pr>(#)</pr>.</plu> <ety>[L., a small measure.]</ety> <fld>(Anat.)</fld> <def>The central column in the osseous cochlea of the ear.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modish</ent><br/
@@ -31228,11 +31228,11 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modiste</ent><br/
-\'d8<hw>Mo`diste"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mode</er>; cf. <er>Modist</er>.]</ety> <def>One, esp. a woman, who makes, or deals in, articles of fashion, esp. of the fashionable dress of ladies; a dress-maker or milliner.</def><br/
+<par/<hw>Mo`diste"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mode</er>; cf. <er>Modist</er>.]</ety> <def>One, esp. a woman, who makes, or deals in, articles of fashion, esp. of the fashionable dress of ladies; a dress-maker or milliner.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Modius</ent><br/
-\'d8<hw>Mo"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modii</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A dry measure, containing about a peck.</def><br/
+<par/<hw>Mo"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modii</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <fld>(Rom. Antiq.)</fld> <def>A dry measure, containing about a peck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modocs</ent><br/
@@ -31300,14 +31300,14 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modulus</ent><br/
-\'d8<hw>Mod"u*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Moduli</plw> <pr>(#)</pr>.</plu> <ety>[L., a small measure. See <er>Module</er>, <pos>n.</pos>]</ety> <fld>(Math., Mech., & Physics)</fld> <def>A quantity or coefficient, or constant, which expresses the measure of some specified force, property, or quality, as of elasticity, strength, efficiency, etc.; a parameter.</def><br/
+<par/<hw>Mod"u*lus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Moduli</plw> <pr>(#)</pr>.</plu> <ety>[L., a small measure. See <er>Module</er>, <pos>n.</pos>]</ety> <fld>(Math., Mech., & Physics)</fld> <def>A quantity or coefficient, or constant, which expresses the measure of some specified force, property, or quality, as of elasticity, strength, efficiency, etc.; a parameter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Modulus of a machine</col>, <cd>a formula expressing the work which a given machine can perform under the conditions involved in its construction; the relation between the work done upon a machine by the moving power, and that yielded at the working points, either constantly, if its motion be uniform, or in the interval of time which it occupies in passing from any given velocity to the same velocity again, if its motion be variable; -- called also the <xex>efficiency</xex> of the machine.</cd> <au>Mosley.</au> <au>Rankine.</au> -- <col>Modulus of a system of logarithms</col> <fld>(Math.)</fld>, <cd>a number by which all the Napierian logarithms must be multiplied to obtain the logarithms in another system.</cd> -- <col>Modulus of elasticity</col>. <sd>(a)</sd> <cd>The measure of the elastic force of any substance, expressed by the ratio of a stress on a given unit of the substance to the accompanying distortion, or strain</cd>. <sd>(b)</sd> <cd>An expression of the force (usually in terms of the height in feet or weight in pounds of a column of the same body) which would be necessary to elongate a prismatic body of a transverse section equal to a given unit, as a square inch or foot, to double, or to compress it to half, its original length, were that degree of elongation or compression possible, or within the limits of elasticity; -- called also <altname>Young's modulus</altname>.</cd> -- <col>Modulus of rupture</col>, <cd>the measure of the force necessary to break a given substance across, as a beam, expressed by eighteen times the load which is required to break a bar of one inch square, supported flatwise at two points one foot apart, and loaded in the middle between the points of support.</cd> <au>Rankine.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modus</ent><br/
-\'d8<hw>Mo"dus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Mode</er>.]</ety> <fld>(Old Law)</fld> <sn>1.</sn> <def>The arrangement of, or mode of expressing, the terms of a contract or conveyance.</def><br/
+<par/<hw>Mo"dus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Modi</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Mode</er>.]</ety> <fld>(Old Law)</fld> <sn>1.</sn> <def>The arrangement of, or mode of expressing, the terms of a contract or conveyance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>A qualification involving the idea of variation or departure from some general rule or form, in the way of either restriction or enlargement, according to the circumstances of the case, as in the will of a donor, an agreement between parties, and the like.</def>  <rj><au>Bracton.</au></rj><br/
@@ -31320,11 +31320,11 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modus operandi</ent><br/
-\'d8<hw>Mo"dus op`er*an"di</hw> <pr>(<?/)</pr> <ety>[L.]</ety>, <def>manner of operating. Often abbreviated to <abbr>MO</abbr></def><br/
+<par/<hw>Mo"dus op`er*an"di</hw> <pr>(<?/)</pr> <ety>[L.]</ety>, <def>manner of operating. Often abbreviated to <abbr>MO</abbr></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Modus vivendi</ent><br/
-\'d8<hw>Mo"dus vi*ven"di</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Mode, or manner, of living; hence, a temporary arrangement of affairs until disputed matters can be settled.</def><br/
+<par/<hw>Mo"dus vi*ven"di</hw> <pr>(?)</pr>. <ety>[L.]</ety> <def>Mode, or manner, of living; hence, a temporary arrangement of affairs until disputed matters can be settled.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Mody</ent><br/
@@ -31523,7 +31523,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moho</ent><br/
-\'d8<hw>Mo"ho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A gallinule (<spn>Notornis Mantelli</spn>) formerly inhabiting New Zealand, but now supposed to be extinct.  It was incapable of flight. See <er>Notornis</er>.</def><br/
+<par/<hw>Mo"ho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A gallinule (<spn>Notornis Mantelli</spn>) formerly inhabiting New Zealand, but now supposed to be extinct.  It was incapable of flight. See <er>Notornis</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moho</ent><br/
@@ -31535,7 +31535,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moholi</ent><br/
-\'d8<hw>Mo*ho"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Maholi</er>.</def><br/
+<par/<hw>Mo*ho"li</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <er>Maholi</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mohorovicic discontinuity</ent><br/
@@ -31552,7 +31552,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 
 <p><ent>Muharram</ent><br/
 <ent>Mohurrum</ent><br/
-<mhw>{ \'d8<hw>Mo*hur"rum</hw> <pr>(?)</pr>, \'d8<hw>Mu*har"ram</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Ar. <ets>muharram</ets>, prop., sacred, forbidden, n., the first month of the Mohammedan lunar year.]</ety> <sn>1.</sn> <def>The first month of the Mohammedan year.</def>  <rj><au>Whitworth.</au></rj><br/
+<mhw>{ <par/<hw>Mo*hur"rum</hw> <pr>(?)</pr>, <par/<hw>Mu*har"ram</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Ar. <ets>muharram</ets>, prop., sacred, forbidden, n., the first month of the Mohammedan lunar year.]</ety> <sn>1.</sn> <def>The first month of the Mohammedan year.</def>  <rj><au>Whitworth.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A festival of the Shiah sect of the Muslims held during the first ten days of the month Mohurrum.</def><br/
@@ -31607,22 +31607,22 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moineau</ent><br/
-\'d8<hw>Moi"neau</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fort.)</fld> <def>A small flat bastion, raised in the middle of an overlong curtain.</def><br/
+<par/<hw>Moi"neau</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fort.)</fld> <def>A small flat bastion, raised in the middle of an overlong curtain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moira</ent><br/
-\'d8<hw>Moi"ra</hw> <pr>(moi"r<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>Moi^ra</grk>.]</ety> <fld>(Greek Myth.)</fld> <def>The deity who assigns to every man his lot.</def><br/
+<par/<hw>Moi"ra</hw> <pr>(moi"r<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>Moi^ra</grk>.]</ety> <fld>(Greek Myth.)</fld> <def>The deity who assigns to every man his lot.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moire</ent><br/
-\'d8<hw>Moire</hw> <pr>(mw<aum/r)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Mohair</er>.]</ety> <sn>1.</sn> <def>Originally, a fine textile fabric made of the hair of an Asiatic goat; afterwards, any textile fabric to which a watered appearance is given in the process of calendering.</def><br/
+<par/<hw>Moire</hw> <pr>(mw<aum/r)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Mohair</er>.]</ety> <sn>1.</sn> <def>Originally, a fine textile fabric made of the hair of an Asiatic goat; afterwards, any textile fabric to which a watered appearance is given in the process of calendering.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A watered, clouded, or frosted appearance produced upon either textile fabrics or metallic surfaces; moi`r<eacute/.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moire</ent><br/
-\'d8<hw>Moi`r<eacute/"</hw> <pr>(mw<aum/`r<amac/"; m<omac/"r<amac/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A watered, clouded, or frosted appearance on textile fabrics or metallic surfaces.</def><br/
+<par/<hw>Moi`r<eacute/"</hw> <pr>(mw<aum/`r<amac/"; m<omac/"r<amac/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A watered, clouded, or frosted appearance on textile fabrics or metallic surfaces.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>Erroneously, moire, the fabric.</def><br/
@@ -31639,7 +31639,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moire</ent><br/
-\'d8<hw>Moi`r<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>moirer</ets> to water (silk, etc.). See <er>Moire</er>.]</ety> <def>Watered; having a watered or clouded appearance; -- as of silk or metals.</def><br/
+<par/<hw>Moi`r<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>moirer</ets> to water (silk, etc.). See <er>Moire</er>.]</ety> <def>Watered; having a watered or clouded appearance; -- as of silk or metals.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Moire</ent><br/
@@ -31647,7 +31647,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Moire metallique</ent><br/
-\'d8<hw>Moi`r<eacute/" m<eacute/`tal`lique"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>A crystalline or frosted appearance produced by some acids on tin plate; also, the tin plate thus treated.</def><br/
+<par/<hw>Moi`r<eacute/" m<eacute/`tal`lique"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>A crystalline or frosted appearance produced by some acids on tin plate; also, the tin plate thus treated.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moist</ent><br/
@@ -32141,11 +32141,11 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moll</ent><br/
-\'d8<hw>Moll</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[G., fr. L. <ets>mollis</ets> soft, tender, elegiac.  Cf. <er>Molle</er>.]</ety> <fld>(Mus.)</fld> <def>Minor; in the minor mode; <as>as, A <ex>moll</ex>, that is, A minor</as>.</def><br/
+<par/<hw>Moll</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[G., fr. L. <ets>mollis</ets> soft, tender, elegiac.  Cf. <er>Molle</er>.]</ety> <fld>(Mus.)</fld> <def>Minor; in the minor mode; <as>as, A <ex>moll</ex>, that is, A minor</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mollah</ent><br/
-\'d8<hw>Mol"lah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>maul<amac/</ets>, commonly <ets>moll<amac/</ets>in Turkey.]</ety> <sn>1.</sn> <def>One of the higher order of Turkish; also, a Turkish title of respect for a religious and learned man.</def> <altsp>[Written also <asp>mullah</asp> and <asp>moolah</asp>.]</altsp><br/
+<par/<hw>Mol"lah</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>maul<amac/</ets>, commonly <ets>moll<amac/</ets>in Turkey.]</ety> <sn>1.</sn> <def>One of the higher order of Turkish; also, a Turkish title of respect for a religious and learned man.</def> <altsp>[Written also <asp>mullah</asp> and <asp>moolah</asp>.]</altsp><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><sn>2.</sn> <def>A title of respect used in Islamic countries for one who is learned in Islamic law; a teacher or expounder of Islamic law.</def><br/
@@ -32202,7 +32202,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mollities</ent><br/
-\'d8<hw>Mol*li"ti*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., softness.]</ety> <fld>(Med.)</fld> <def>Unnatural softness of any organ or part.</def>  <rj><au>Dunglison.</au></rj><br/
+<par/<hw>Mol*li"ti*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., softness.]</ety> <fld>(Med.)</fld> <def>Unnatural softness of any organ or part.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mollitude</ent><br/
@@ -32214,7 +32214,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mollusca</ent><br/
-\'d8<hw>Mol*lus"ca</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Mollusk</er>.]</ety> <fld>(Zool.)</fld> <def>One of the grand divisions of the animal kingdom, a phylum including the classes <class>Cephalopoda</class>, <class>Gastropoda</class>, <class>Pteropoda</class>, <class>Scaphopoda</class>, and <class>Pelecyopoda</class> (syn. <class>Bivalvia</class>, formerly called <class>Lamellibranchiata</class>, or <class>Conchifera</class>).  These animals have an unsegmented bilateral body, with most of the organs and parts paired, but not repeated longitudinally.  Most of them develop a mantle, which incloses either a branchial or a pulmonary cavity.  They are generally more or less covered and protected by a calcareous shell, which may be univalve, bivalve, or multivalve.</def><br/
+<par/<hw>Mol*lus"ca</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL. See <er>Mollusk</er>.]</ety> <fld>(Zool.)</fld> <def>One of the grand divisions of the animal kingdom, a phylum including the classes <class>Cephalopoda</class>, <class>Gastropoda</class>, <class>Pteropoda</class>, <class>Scaphopoda</class>, and <class>Pelecyopoda</class> (syn. <class>Bivalvia</class>, formerly called <class>Lamellibranchiata</class>, or <class>Conchifera</class>).  These animals have an unsegmented bilateral body, with most of the organs and parts paired, but not repeated longitudinally.  Most of them develop a mantle, which incloses either a branchial or a pulmonary cavity.  They are generally more or less covered and protected by a calcareous shell, which may be univalve, bivalve, or multivalve.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ Formerly the Brachiopoda, Bryzoa, and Tunicata were united with the Lamellibranchiata in an artificial group called Acephala, which was also included under Mollusca. See <er>Molluscoidea</er>.</note><br/
@@ -32233,7 +32233,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Molluscoidea</ent><br/
-\'d8<hw>Mol`lus*coi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mollusk</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Invertebrata which includes the classes <class>Brachiopoda</class> and <class>Bryozoa</class>; -- called also <altname>Anthoid Mollusca</altname>.</def><br/
+<par/<hw>Mol`lus*coi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mollusk</er>, and <er>-oid</er>.]</ety> <fld>(Zool.)</fld> <def>A division of Invertebrata which includes the classes <class>Brachiopoda</class> and <class>Bryozoa</class>; -- called also <altname>Anthoid Mollusca</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Originally the Tunicata were included under Molluscoidea, from which they are known to differ widely in structure and embryology. Molluscoidea were formerly considered a subdivision of Mollusca, but they are now known to have more relationship with Annelida than with Mollusca.</note><br/
@@ -32244,7 +32244,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Molluscum</ent><br/
-\'d8<hw>Mol*lus"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mollusk</er>.]</ety> <fld>(Med.)</fld> <def>A cutaneous disease characterized by numerous tumors, of various forms, filled with a thick matter; -- so called from the resemblance of the tumors to some molluscous animals.</def>  <rj><au>Dunglison.</au></rj><br/
+<par/<hw>Mol*lus"cum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Mollusk</er>.]</ety> <fld>(Med.)</fld> <def>A cutaneous disease characterized by numerous tumors, of various forms, filled with a thick matter; -- so called from the resemblance of the tumors to some molluscous animals.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mollusk</ent><br/
@@ -32300,7 +32300,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Molossus</ent><br/
-\'d8<hw>Mo*los"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, prop., Molossian, belonging to the Molossians, a people in the eastern part of Epirus.]</ety> <fld>(Gr. & Lat. Pros.)</fld> <def>A foot of three long syllables.</def> <altsp>[Written also <asp>molosse</asp>.]</altsp><br/
+<par/<hw>Mo*los"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, prop., Molossian, belonging to the Molossians, a people in the eastern part of Epirus.]</ety> <fld>(Gr. & Lat. Pros.)</fld> <def>A foot of three long syllables.</def> <altsp>[Written also <asp>molosse</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Molotov</ent><br/
@@ -32348,7 +32348,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Molto</ent><br/
-\'d8<hw>Mol"to</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Much; very; <as>as, <ex>molto</ex> adagio, very slow</as>.</def><br/
+<par/<hw>Mol"to</hw> <pr>(?)</pr>, <pos>adv.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Much; very; <as>as, <ex>molto</ex> adagio, very slow</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moly</ent><br/
@@ -32530,7 +32530,7 @@ His free will.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Momus</ent><br/
-\'d8<hw>Mo"mus</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Gr. <?/ blame, ridicule, Momus.]</ety> <fld>(Gr. Myth.)</fld> <def>The god of mockery and censure.</def><br/
+<par/<hw>Mo"mus</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Gr. <?/ blame, ridicule, Momus.]</ety> <fld>(Gr. Myth.)</fld> <def>The god of mockery and censure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mon</ent><br/
@@ -32542,7 +32542,7 @@ His free will.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mona</ent><br/
-\'d8<hw>Mo"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. Sp. & Pg. <ets>mona</ets>, fem. of <ets>mono</ets> a monkey, ape.]</ety> <fld>(Zool.)</fld> <def>A small, handsome, long-tailed West American monkey (<spn>Cercopithecus mona</spn>). The body is dark olive, with a spot of white on the haunches.</def><br/
+<par/<hw>Mo"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. Sp. & Pg. <ets>mona</ets>, fem. of <ets>mono</ets> a monkey, ape.]</ety> <fld>(Zool.)</fld> <def>A small, handsome, long-tailed West American monkey (<spn>Cercopithecus mona</spn>). The body is dark olive, with a spot of white on the haunches.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monachal</ent><br/
@@ -32588,11 +32588,11 @@ His free will.</q> <rj><qau>Milton.</qau></rj><br/
 <p><-- p. 938 --></p>
 
 <p><ent>Monadaria</ent><br/
-\'d8<hw>Mon`a*da"ri*a</hw> <pr>(m<ocr/n`<adot/*d<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Monad</er>.]</ety> <fld>(Zool.)</fld> <def>The Infusoria.</def><br/
+<par/<hw>Mon`a*da"ri*a</hw> <pr>(m<ocr/n`<adot/*d<amac/"r<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Monad</er>.]</ety> <fld>(Zool.)</fld> <def>The Infusoria.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monadelphia</ent><br/
-\'d8<hw>Mon`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> alone + <grk>'adelfo`s</grk> brother.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having the stamens united into a tube, or ring, by the filaments, as in the Mallow family.</def><br/
+<par/<hw>Mon`a*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> alone + <grk>'adelfo`s</grk> brother.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants having the stamens united into a tube, or ring, by the filaments, as in the Mallow family.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monadelphous</ent><br/
@@ -32630,7 +32630,7 @@ His free will.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monandria</ent><br/
-\'d8<hw>Mo*nan"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> alone + <grk>'anh`r</grk>, <grk>'andro`s</grk>, a man.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants embracing those having but a single stamen.</def><br/
+<par/<hw>Mo*nan"dri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> alone + <grk>'anh`r</grk>, <grk>'andro`s</grk>, a man.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants embracing those having but a single stamen.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monandrian</ent><br/
@@ -32757,7 +32757,7 @@ Can this dark <qex>monarchy</qex> afford false Clarence.</q> <rj><qau>Shak.</qau
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Monas</ent><br/
-\'d8<hw>Mo"nas</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Monad</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of minute flagellate Infusoria of which there are many species, both free and attached. See <xex>Illust.</xex> under <er>Monad</er>.</def><br/
+<par/<hw>Mo"nas</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Monad</er>.]</ety> <fld>(Zool.)</fld> <def>A genus of minute flagellate Infusoria of which there are many species, both free and attached. See <xex>Illust.</xex> under <er>Monad</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monasterial</ent><br/
@@ -32833,7 +32833,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Monde</ent><br/
-\'d8<hw>Monde</hw> <pr>(m<ocir/Nd)</pr>, <pos>n.</pos> <ety>[F. See <er>Mundane</er>.]</ety> <def>The world; a globe as an ensign of royalty.</def> <mark>[R.]</mark>  <rj><au>A. Drummond.</au></rj><br/
+<par/<hw>Monde</hw> <pr>(m<ocir/Nd)</pr>, <pos>n.</pos> <ety>[F. See <er>Mundane</er>.]</ety> <def>The world; a globe as an ensign of royalty.</def> <mark>[R.]</mark>  <rj><au>A. Drummond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Le beau monde</col> <ety>[F.]</ety>, <cd>fashionable society. See <er>Beau monde</er>.</cd> -- <col>Demi monde</col>. <cd>See <er>Demimonde</er>.</cd></cs><br/
@@ -32861,7 +32861,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monera</ent><br/
-\'d8<hw>Mo*ne"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single.]</ety> <fld>(Zool.)</fld> <def>The lowest division of rhizopods, including those which resemble the amoebas, but are destitute of a nucleus.</def> <mark>[archaic]</mark> <br/
+<par/<hw>Mo*ne"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single.]</ety> <fld>(Zool.)</fld> <def>The lowest division of rhizopods, including those which resemble the amoebas, but are destitute of a nucleus.</def> <mark>[archaic]</mark> <br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Biol.)</fld> <def>One of the five kingdoms of living organisms in the five-kingdom classification, consisting of microscopic usually monocellular prokaryotic organisms that mostly reproduce by asexual fission, sporulation, or budding; it includes the bacteria and cyanophytes (blue-green algae), as well as certain primitive pathogenic microbes, such as the Rickettsias.</def><br/
@@ -32876,11 +32876,11 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moneron</ent><br/
-\'d8<hw>Mo*ne"ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Monera</plw> <pr>(#)</pr>; E. <plw>Monerons</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Monera.</def><br/
+<par/<hw>Mo*ne"ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Monera</plw> <pr>(#)</pr>; E. <plw>Monerons</plw> <pr>(#)</pr>.</plu> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>One of the Monera.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monerula</ent><br/
-\'d8<hw>Mo*ner"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of <ets>moner</ets>. See <er>Monera</er>.]</ety> <fld>(Biol.)</fld> <def>A germ in that stage of development in which its form is simply that of a non-nucleated mass of protoplasm.  It precedes the one-celled germ.  So called from its likeness to a moner.</def>  <rj><au>Haeckel.</au></rj><br/
+<par/<hw>Mo*ner"u*la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., dim. of <ets>moner</ets>. See <er>Monera</er>.]</ety> <fld>(Biol.)</fld> <def>A germ in that stage of development in which its form is simply that of a non-nucleated mass of protoplasm.  It precedes the one-celled germ.  So called from its likeness to a moner.</def>  <rj><au>Haeckel.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monesia</ent><br/
@@ -33125,7 +33125,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moniliales</ent><br/
-\'d8<hw>Mo*nil`i*a"les</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>monile</ets> necklace, -- because the conidia are produced in chains.]</ety> <fld>(Bot.)</fld> <def>The largest of the three orders into which the Fungi Imperfecti are divided, including various forms.</def><br/
+<par/<hw>Mo*nil`i*a"les</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>monile</ets> necklace, -- because the conidia are produced in chains.]</ety> <fld>(Bot.)</fld> <def>The largest of the three orders into which the Fungi Imperfecti are divided, including various forms.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>moniliasis</ent><br/
@@ -33395,7 +33395,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mono</ent><br/
-\'d8<hw>Mo"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>The <altname>black howler</altname> (<spn>Mycetes villosus</spn>), a monkey of Central America.</def><br/
+<par/<hw>Mo"no</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.]</ety> <fld>(Zool.)</fld> <def>The <altname>black howler</altname> (<spn>Mycetes villosus</spn>), a monkey of Central America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monobasic</ent><br/
@@ -33432,7 +33432,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoceros</ent><br/
-\'d8<hw>Mo*noc"e*ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>mo`nos</grk> alone, single + <grk>ke`ras</grk> horn.]</ety> <sn>1.</sn> <def>A one-horned creature; a unicorn; a sea monster with one horn.</def><br/
+<par/<hw>Mo*noc"e*ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>mo`nos</grk> alone, single + <grk>ke`ras</grk> horn.]</ety> <sn>1.</sn> <def>A one-horned creature; a unicorn; a sea monster with one horn.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Mighty <qex>monoceroses</qex> with immeasured tails.</q> <rj><qau>Spenser.</qau></rj><br/
@@ -33497,7 +33497,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monocondyla</ent><br/
-\'d8<hw>Mon`o*con"dy*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mono-</er>, and <er>Condyle</er>.]</ety> <fld>(Zool.)</fld> <def>A group of vertebrates, including the birds and reptiles, or those that have only one occipital condyle; the Sauropsida.</def><br/
+<par/<hw>Mon`o*con"dy*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mono-</er>, and <er>Condyle</er>.]</ety> <fld>(Zool.)</fld> <def>A group of vertebrates, including the birds and reptiles, or those that have only one occipital condyle; the Sauropsida.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monocotyl</ent><br/
@@ -33572,7 +33572,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monodelphia</ent><br/
-\'d8<hw>Mon`o*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <grk>delfy`s</grk> the womb.]</ety> <fld>(Zool.)</fld> <def>The group that includes all ordinary or placental mammals; the Placentalia. See <er>Mammalia</er>.</def><br/
+<par/<hw>Mon`o*del"phi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <grk>delfy`s</grk> the womb.]</ety> <fld>(Zool.)</fld> <def>The group that includes all ordinary or placental mammals; the Placentalia. See <er>Mammalia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monodelphous</ent><br/
@@ -33618,7 +33618,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Monoecia</ent><br/
-\'d8<hw>Mo*noe"ci*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ house.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants, whose stamens and pistils are in distinct flowers in the same plant.</def><br/
+<par/<hw>Mo*noe"ci*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ house.]</ety> <fld>(Bot.)</fld> <def>A Linnaean class of plants, whose stamens and pistils are in distinct flowers in the same plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoecian</ent><br/
@@ -33641,7 +33641,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monogamia</ent><br/
-\'d8<hw>Mon`o*ga"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Monogamous</er>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants, having solitary flowers with united anthers, as in the genus <gen>Lobelia</gen>.</def><br/
+<par/<hw>Mon`o*ga"mi*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Monogamous</er>.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants, having solitary flowers with united anthers, as in the genus <gen>Lobelia</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monogamic</ent><br/
@@ -33802,7 +33802,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monogynia</ent><br/
-\'d8<hw>Mon`o*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants, including those which have only one style or stigma.</def><br/
+<par/<hw>Mon`o*gyn"i*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>A Linnaean order of plants, including those which have only one style or stigma.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monogynian</ent><br/
@@ -33868,7 +33868,7 @@ Is lucky and happy and good and gay.</q><br/
 
 <p><ent>Monomachy</ent><br/
 <ent>Monomachia</ent><br/
-<mhw>{ \'d8<hw>Mon`o*ma"chi*a</hw> <pr>(?)</pr>, <hw>Mo*nom"a*chy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>monomachia</ets>, Gr. <?/, fr. <?/ fighting in single combat; <grk>mo`nos</grk> single, alone + <?/ to fight.]</ety> <def>A duel; single combat.</def> <ldquo/The duello or <xex>monomachia</xex>.<rdquo/  <rj><au>Sir W. Scott.</au></rj><br/
+<mhw>{ <par/<hw>Mon`o*ma"chi*a</hw> <pr>(?)</pr>, <hw>Mo*nom"a*chy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>monomachia</ets>, Gr. <?/, fr. <?/ fighting in single combat; <grk>mo`nos</grk> single, alone + <?/ to fight.]</ety> <def>A duel; single combat.</def> <ldquo/The duello or <xex>monomachia</xex>.<rdquo/  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monomachist</ent><br/
@@ -33948,12 +33948,12 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monomphalus</ent><br/
-\'d8<hw>Mo*nom"pha*lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> alone + <?/ the navel.]</ety> <def>A form of double monster, in which two individuals are united by a common umbilicus.</def><br/
+<par/<hw>Mo*nom"pha*lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> alone + <?/ the navel.]</ety> <def>A form of double monster, in which two individuals are united by a common umbilicus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monomyaria</ent><br/
 <ent>Monomya</ent><br/
-<mhw>{ \'d8<hw>Mo*no"my*a</hw> <pr>(?)</pr>, \'d8<hw>Mon`o*my*a"ri*a</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/, <?/, muscle.]</ety> <fld>(Zool.)</fld> <def>An order of lamellibranchs having but one muscle for closing the shell, as the oyster.</def><br/
+<mhw>{ <par/<hw>Mo*no"my*a</hw> <pr>(?)</pr>, <par/<hw>Mon`o*my*a"ri*a</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/, <?/, muscle.]</ety> <fld>(Zool.)</fld> <def>An order of lamellibranchs having but one muscle for closing the shell, as the oyster.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monomyary</ent><br/
@@ -34036,11 +34036,11 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoplegia</ent><br/
-\'d8<hw>Mon`ople"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ a stroke.]</ety> <fld>(Med.)</fld> <def>Paralysis affecting a single limb.</def><br/
+<par/<hw>Mon`ople"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ a stroke.]</ety> <fld>(Med.)</fld> <def>Paralysis affecting a single limb.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monopneumona</ent><br/
-\'d8<hw>Mon`op*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mono-</er>, and <er>Pneumonia</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of Dipnoi, including the Ceratodus.</def> <altsp>[Written also <asp>monopneumonia</asp>.]</altsp><br/
+<par/<hw>Mon`op*neu"mo*na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mono-</er>, and <er>Pneumonia</er>.]</ety> <fld>(Zool.)</fld> <def>A suborder of Dipnoi, including the Ceratodus.</def> <altsp>[Written also <asp>monopneumonia</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monopode</ent><br/
@@ -34055,7 +34055,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monopodium</ent><br/
-\'d8<hw>Mon`o*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Monopodia</plw> <pr>(#)</pr>, E. <plw>-ums</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Monopody</er>.]</ety> <fld>(Bot.)</fld> <def>A single and continuous vegetable axis; -- opposed to <contr>sympodium</contr>.</def><br/
+<par/<hw>Mon`o*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Monopodia</plw> <pr>(#)</pr>, E. <plw>-ums</plw> <pr>(#)</pr>.</plu> <ety>[L. See <er>Monopody</er>.]</ety> <fld>(Bot.)</fld> <def>A single and continuous vegetable axis; -- opposed to <contr>sympodium</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monopody</ent><br/
@@ -34117,7 +34117,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monopteron</ent><br/
-\'d8<hw>Mo*nop"ter*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monoptera</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Monopteral</er>.]</ety> <fld>(Arch.)</fld> <def>A circular temple consisting of a roof supported on columns, without a cella.</def><br/
+<par/<hw>Mo*nop"ter*on</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monoptera</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Monopteral</er>.]</ety> <fld>(Arch.)</fld> <def>A circular temple consisting of a roof supported on columns, without a cella.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoptote</ent><br/
@@ -34136,7 +34136,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monorhina</ent><br/
-\'d8<hw>Mon`o*rhi"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/, <?/, nose.]</ety> <fld>(Zool.)</fld> <def>The Marsipobranchiata.</def><br/
+<par/<hw>Mon`o*rhi"na</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/, <?/, nose.]</ety> <fld>(Zool.)</fld> <def>The Marsipobranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monorhyme</ent><br/
@@ -34222,7 +34222,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monothalama</ent><br/
-\'d8<hw>Mon`o*thal"a*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <grk>qa`lamos</grk> a chamber.]</ety> <fld>(Zool.)</fld> <def>A division of Foraminifera including those that have only one chamber.</def><br/
+<par/<hw>Mon`o*thal"a*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <grk>qa`lamos</grk> a chamber.]</ety> <fld>(Zool.)</fld> <def>A division of Foraminifera including those that have only one chamber.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monothalaman</ent><br/
@@ -34311,7 +34311,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monotremata</ent><br/
-\'d8<hw>Mon`o*trem"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ hole.]</ety> <fld>(Zool.)</fld> <def>A subclass of Mammalia, having a cloaca in which the ducts of the urinary, genital, and alimentary systems terminate, as in birds.  The female lays eggs like a bird. See <cref>Duck mole</cref>, under <er>Duck</er>, and <er>Echidna</er>.</def><br/
+<par/<hw>Mon`o*trem"a*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ hole.]</ety> <fld>(Zool.)</fld> <def>A subclass of Mammalia, having a cloaca in which the ducts of the urinary, genital, and alimentary systems terminate, as in birds.  The female lays eggs like a bird. See <cref>Duck mole</cref>, under <er>Duck</er>, and <er>Echidna</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monotrematous</ent><br/
@@ -34327,7 +34327,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monotropa</ent><br/
-\'d8<hw>Mo*not"ro*pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ turn, from <?/ to turn.]</ety> <fld>(Bot.)</fld> <def>A genus of parasitic or saprophytic plants including the Indian pipe and pine sap. The name alludes to the dropping end of the stem.</def><br/
+<par/<hw>Mo*not"ro*pa</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`nos</grk> single + <?/ turn, from <?/ to turn.]</ety> <fld>(Bot.)</fld> <def>A genus of parasitic or saprophytic plants including the Indian pipe and pine sap. The name alludes to the dropping end of the stem.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monotropaceae</ent><br/
@@ -34364,7 +34364,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoxylon</ent><br/
-\'d8<hw>Mo*nox"y*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, fr. <?/ made from one piece of wood; <grk>mo`nos</grk> alone + <?/ wood.]</ety> <def>A canoe or boat made from one piece of timber.</def><br/
+<par/<hw>Mo*nox"y*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/, fr. <?/ made from one piece of wood; <grk>mo`nos</grk> alone + <?/ wood.]</ety> <def>A canoe or boat made from one piece of timber.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monoxylous</ent><br/
@@ -34372,7 +34372,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monozoa</ent><br/
-\'d8<hw>Mon`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> single + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>A division of Radiolaria; -- called also <altname>Monocyttaria</altname>.</def> -- <wordforms><wf>Mon`o*zo"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Mon`o*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>mo`nos</grk> single + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>A division of Radiolaria; -- called also <altname>Monocyttaria</altname>.</def> -- <wordforms><wf>Mon`o*zo"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monroe doctrine</ent><br/
@@ -34380,7 +34380,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monseigneur</ent><br/
-\'d8<hw>Mon`sei`gneur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messeigneurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>seigneur</ets> lord, L. <ets>senior</ets> older. See <er>Senior</er>, and cf. <er>Monsieur</er>.]</ety> <def>My lord; -- a title in France of a person of high birth or rank; <as>as, <ex>Monseigneur</ex> the Prince, or <ex>Monseigneur</ex> the Archibishop</as>.  It was given, specifically, to the dauphin, before the Revolution of 1789. (Abbrev. <abbr>Mgr.</abbr>)</def><br/
+<par/<hw>Mon`sei`gneur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messeigneurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>seigneur</ets> lord, L. <ets>senior</ets> older. See <er>Senior</er>, and cf. <er>Monsieur</er>.]</ety> <def>My lord; -- a title in France of a person of high birth or rank; <as>as, <ex>Monseigneur</ex> the Prince, or <ex>Monseigneur</ex> the Archibishop</as>.  It was given, specifically, to the dauphin, before the Revolution of 1789. (Abbrev. <abbr>Mgr.</abbr>)</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monsel's salt</ent><br/
@@ -34392,7 +34392,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monsieur</ent><br/
-\'d8<hw>Mon*sieur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messieurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>Sieur</ets>, abbrev. of <ets>seigneur</ets> lord. See <er>Monseigneur</er>.]</ety> <sn>1.</sn> <def>The common title of civility in France in speaking to, or of, a man; Mr. or Sir.</def> <altsp>[Represented by the abbreviation <abbr>M.</abbr> or <abbr>Mons.</abbr> in the singular, and by <plw><abbr>MM.</abbr></plw> or <plw><abbr>Messrs.</abbr></plw> in the plural.]</altsp><br/
+<par/<hw>Mon*sieur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messieurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>Sieur</ets>, abbrev. of <ets>seigneur</ets> lord. See <er>Monseigneur</er>.]</ety> <sn>1.</sn> <def>The common title of civility in France in speaking to, or of, a man; Mr. or Sir.</def> <altsp>[Represented by the abbreviation <abbr>M.</abbr> or <abbr>Mons.</abbr> in the singular, and by <plw><abbr>MM.</abbr></plw> or <plw><abbr>Messrs.</abbr></plw> in the plural.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The oldest brother of the king of France.</def><br/
@@ -34402,7 +34402,7 @@ Is lucky and happy and good and gay.</q><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monsignore</ent><br/
-\'d8<hw>Mon`si*gno"re</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monsignors</plw> <pr>(#)</pr>.</plu> <ety>[It., my lord.  Cf. <er>Monseigneur</er>.]</ety> <def>My lord; -- an ecclesiastical dignity bestowed by the pope, entitling the bearer to social and domestic rank at the papal court. (Abbrev. <abbr>Mgr.</abbr>)</def><br/
+<par/<hw>Mon`si*gno"re</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monsignors</plw> <pr>(#)</pr>.</plu> <ety>[It., my lord.  Cf. <er>Monseigneur</er>.]</ety> <def>My lord; -- an ecclesiastical dignity bestowed by the pope, entitling the bearer to social and domestic rank at the papal court. (Abbrev. <abbr>Mgr.</abbr>)</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>monsoon</ent><br/
@@ -34515,7 +34515,7 @@ Visitest the bottom of the <qex>monstrous</qex> world.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mont</ent><br/
-\'d8<hw>Mont</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mount</er>, <pos>n.</pos>]</ety> <def>Mountain.</def><br/
+<par/<hw>Mont</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Mount</er>, <pos>n.</pos>]</ety> <def>Mountain.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Montaigne</ent><br/
@@ -34538,20 +34538,20 @@ Visitest the bottom of the <qex>monstrous</qex> world.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mont de piete</ent><br/
-\'d8<hw>Mont" de pi`<eacute/`t<eacute/"</hw> <pr>(?)</pr>. <ety>[F., fr. It. <ets>monte di piet<agrave/</ets> mount of piety.]</ety> <def>One of certain public pawnbroking establishments which originated in Italy in the 15th century, the object of which was to lend money at a low rate of interest to poor people in need; -- called also <altname>mount of piety</altname>.  The institution has been adopted in other countries, as in Spain and France. See <er>Lombard-house</er>.</def><br/
+<par/<hw>Mont" de pi`<eacute/`t<eacute/"</hw> <pr>(?)</pr>. <ety>[F., fr. It. <ets>monte di piet<agrave/</ets> mount of piety.]</ety> <def>One of certain public pawnbroking establishments which originated in Italy in the 15th century, the object of which was to lend money at a low rate of interest to poor people in need; -- called also <altname>mount of piety</altname>.  The institution has been adopted in other countries, as in Spain and France. See <er>Lombard-house</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 942 --></p>
 
 <p><ent>Monte</ent><br/
-\'d8<hw>Mon"te</hw> <pr>(m<ocr/n"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp., lit., mountain, hence, the stock of cards remaining after laying out a certain number, fr. L. <ets>mons</ets>, <ets>montis</ets>, mountain.]</ety> <def>A favorite gambling game among Spaniards, played with dice or cards.</def><br/
+<par/<hw>Mon"te</hw> <pr>(m<ocr/n"t<asl/)</pr>, <pos>n.</pos> <ety>[Sp., lit., mountain, hence, the stock of cards remaining after laying out a certain number, fr. L. <ets>mons</ets>, <ets>montis</ets>, mountain.]</ety> <def>A favorite gambling game among Spaniards, played with dice or cards.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>three-card monte</col> <cd>a gambling game using playing cards, in which a dealer shows a bettor three cards face up and specifies one to be identified, and after the cards are turned face down and moved around quickly, the bettor must identify which of the three cards is the specified card.  It is sometimes engaged in by dealers on the streets of a city, with bets made by passers-by.</cd></cs><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Monte</ent><br/
-\'d8<hw>Mon"te</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In Spanish America, a wood; forest; timber land; esp., in parts of South America, a comparatively wooden region.</def><br/
+<par/<hw>Mon"te</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In Spanish America, a wood; forest; timber land; esp., in parts of South America, a comparatively wooden region.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Monte-acid</ent><br/
@@ -34567,7 +34567,7 @@ Visitest the bottom of the <qex>monstrous</qex> world.</q> <rj><qau>Milton.</qau
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Monte-jus</ent><br/
-\'d8<hw>Monte"-jus"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>monter</ets> to bring up + <ets>jus</ets> juice.]</ety> <def>An apparatus for raising a liquid by pressure of air or steam in a reservoir containing the liquid.</def><br/
+<par/<hw>Monte"-jus"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>monter</ets> to bring up + <ets>jus</ets> juice.]</ety> <def>An apparatus for raising a liquid by pressure of air or steam in a reservoir containing the liquid.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Montem</ent><br/
@@ -34592,7 +34592,7 @@ Has by one vessel saved his name from death.</q> <rj><qau>King.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Montgolfier</ent><br/
-\'d8<hw>Mont`gol"fier</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A balloon which ascends by the buoyancy of air heated by a fire; a fire balloon; -- so called from two brothers, Stephen and <person>Joseph <etsep>Montgolfier</etsep></person>, of France, who first constructed and sent up a fire balloon.</def><br/
+<par/<hw>Mont`gol"fier</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A balloon which ascends by the buoyancy of air heated by a fire; a fire balloon; -- so called from two brothers, Stephen and <person>Joseph <etsep>Montgolfier</etsep></person>, of France, who first constructed and sent up a fire balloon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Month</ent><br/
@@ -34655,7 +34655,7 @@ Has by one vessel saved his name from death.</q> <rj><qau>King.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Montoir</ent><br/
-\'d8<hw>Mon`toir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>monter</ets> to mount. See <er>Montant</er>.]</ety> <def>A stone used in mounting a horse; a horse block.</def><br/
+<par/<hw>Mon`toir"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>monter</ets> to mount. See <er>Montant</er>.]</ety> <def>A stone used in mounting a horse; a horse block.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Monton</ent><br/
@@ -34793,7 +34793,7 @@ And in this <qex>mood</qex> will give us anything.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moodir</ent><br/
-\'d8<hw>Moo"dir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>mud<imac/r</ets>.]</ety> <def>The governor of a province in Egypt, etc.</def> <altsp>[Written also <asp>mudir</asp>.]</altsp><br/
+<par/<hw>Moo"dir</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Ar. <ets>mud<imac/r</ets>.]</ety> <def>The governor of a province in Egypt, etc.</def> <altsp>[Written also <asp>mudir</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moodish</ent><br/
@@ -35005,7 +35005,7 @@ And in this <qex>mood</qex> will give us anything.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moonshee</ent><br/
-\'d8<hw>Moon"shee</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>munish<imac/</ets>, fr. Ar. <ets>munish<imac/</ets> a writer, author, secretary, tutor.]</ety> <def>A Muslim professor or teacher of language.</def> <mark>[India]</mark><br/
+<par/<hw>Moon"shee</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>munish<imac/</ets>, fr. Ar. <ets>munish<imac/</ets> a writer, author, secretary, tutor.]</ety> <def>A Muslim professor or teacher of language.</def> <mark>[India]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moonshine</ent><br/
@@ -35222,7 +35222,7 @@ Before the victor cross shall fly.</q> <rj><qau>Fenton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mooruk</ent><br/
-\'d8<hw>Moo"ruk</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A species of cassowary (<spn>Casuarius Bennetti</spn>) found in New Britain, and noted for its agility in running and leaping.  It is smaller and has stouter legs than the common cassowary.  Its crest is bilobed; the neck and breast are black; the back, rufous mixed with black; and the naked skin of the neck, blue.</def><br/
+<par/<hw>Moo"ruk</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>A species of cassowary (<spn>Casuarius Bennetti</spn>) found in New Britain, and noted for its agility in running and leaping.  It is smaller and has stouter legs than the common cassowary.  Its crest is bilobed; the neck and breast are black; the back, rufous mixed with black; and the naked skin of the neck, blue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moory</ent><br/
@@ -35419,11 +35419,11 @@ Could not so <qex>mope</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moquette</ent><br/
-\'d8<hw>Mo*quette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of carpet having a short velvety pile.</def><br/
+<par/<hw>Mo*quette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A kind of carpet having a short velvety pile.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mora</ent><br/
-\'d8<hw>Mor"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A game of guessing the number of fingers extended in a quick movement of the hand, -- much played by Italians of the lower classes.</def><br/
+<par/<hw>Mor"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <def>A game of guessing the number of fingers extended in a quick movement of the hand, -- much played by Italians of the lower classes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mora</ent><br/
@@ -35431,7 +35431,7 @@ Could not so <qex>mope</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mora</ent><br/
-\'d8<hw>Mo"ra</hw>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Rom. & Civil Law)</fld> <def>Delay; esp., culpable delay; postponement.</def><br/
+<par/<hw>Mo"ra</hw>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Rom. & Civil Law)</fld> <def>Delay; esp., culpable delay; postponement.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moraine</ent><br/
@@ -35510,7 +35510,7 @@ And make a <qex>moral</qex> of the devil himself.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morale</ent><br/
-\'d8<hw>Mo`rale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Moral</er>, <pos>a.</pos>]</ety> <def>The moral condition, or the condition in other respects, so far as it is affected by, or dependent upon, moral considerations, such as zeal, spirit, hope, and confidence; mental state, as of a body of men, an army, and the like.</def><br/
+<par/<hw>Mo`rale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Moral</er>, <pos>a.</pos>]</ety> <def>The moral condition, or the condition in other respects, so far as it is affected by, or dependent upon, moral considerations, such as zeal, spirit, hope, and confidence; mental state, as of a body of men, an army, and the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moraler</ent><br/
@@ -35674,7 +35674,7 @@ By Wisdom, <qex>moralize</qex> his pensive road.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moratorium</ent><br/
-\'d8<hw>Mor`a*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Moratory</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A period during which an obligor has a legal right to delay meeting an obligation, esp. such a period granted, as to a bank, by a moratory law.</def><br/
+<par/<hw>Mor`a*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Moratory</er>.]</ety> <sn>1.</sn> <fld>(Law)</fld> <def>A period during which an obligor has a legal right to delay meeting an obligation, esp. such a period granted, as to a bank, by a moratory law.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn> <def>a suspension of an activity.</def><br/
@@ -35720,7 +35720,7 @@ By Wisdom, <qex>moralize</qex> his pensive road.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morbidezza</ent><br/
-\'d8<hw>Mor`bi*dez"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., softness, delicacy. See <er>Morbid</er>.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>Delicacy or softness in the representation of flesh.</def><br/
+<par/<hw>Mor`bi*dez"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It., softness, delicacy. See <er>Morbid</er>.]</ety> <sn>1.</sn> <fld>(Fine Arts)</fld> <def>Delicacy or softness in the representation of flesh.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>A term used as a direction in execution, signifying, with extreme delicacy.</def>  <rj><au>Ludden.</au></rj><br/
@@ -35765,7 +35765,7 @@ By Wisdom, <qex>moralize</qex> his pensive road.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morceau</ent><br/
-\'d8<hw>Mor`ceau"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A bit; a morsel.</def><br/
+<par/<hw>Mor`ceau"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A bit; a morsel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mordacious</ent><br/
@@ -35802,7 +35802,7 @@ By Wisdom, <qex>moralize</qex> his pensive road.</q> <rj><qau>Wordsworth.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mordente</ent><br/
-\'d8<hw>Mor*den"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>An embellishment resembling a trill.</def><br/
+<par/<hw>Mor*den"te</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>An embellishment resembling a trill.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mordicancy</ent><br/
@@ -35956,7 +35956,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morendo</ent><br/
-\'d8<hw>Mo*ren"do</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Dying; a gradual decrescendo at the end of a strain or cadence.</def><br/
+<par/<hw>Mo*ren"do</hw> <pr>(?)</pr>, <pos>a. & n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Dying; a gradual decrescendo at the end of a strain or cadence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moreness</ent><br/
@@ -35978,7 +35978,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mores</ent><br/
-\'d8<hw>Mo"res</hw> <pr>(m<omac/"r<emac/z)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Mos</singw> <pr>(m<omac/s)</pr></sing>. <ety>[L.]</ety> <def>Customs; habits; esp., moral customs conformity to which is more or less obligatory; customary law.</def> <mark>[singular is rarely used]</mark> <br/
+<par/<hw>Mo"res</hw> <pr>(m<omac/"r<emac/z)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Mos</singw> <pr>(m<omac/s)</pr></sing>. <ety>[L.]</ety> <def>Customs; habits; esp., moral customs conformity to which is more or less obligatory; customary law.</def> <mark>[singular is rarely used]</mark> <br/
 [<source>Webster 1913 Suppl.</source> + <source>PJC</source>]</p>
 
 <p><ent>Moresk</ent><br/
@@ -36018,7 +36018,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>PJC</source>]</p>
 
 <p><ent>Moria</ent><br/
-\'d8<hw>Mo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ folly.]</ety> <def>Idiocy; imbecility; fatuity; foolishness.</def><br/
+<par/<hw>Mo"ri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ folly.]</ety> <def>Idiocy; imbecility; fatuity; foolishness.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morian</ent><br/
@@ -36141,7 +36141,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mormon</ent><br/
-\'d8<hw>Mor"mon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>mormw`n</grk> monster, bugbear.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of sea birds, having a large, thick bill; the puffin.</def> <sd>(b)</sd> <def>The mandrill.</def><br/
+<par/<hw>Mor"mon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>mormw`n</grk> monster, bugbear.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A genus of sea birds, having a large, thick bill; the puffin.</def> <sd>(b)</sd> <def>The mandrill.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mormon</ent><br/
@@ -36184,11 +36184,11 @@ To noon he fell, from noon to dewy eve.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morne</ent><br/
-\'d8<hw>Morne</hw> <pr>(m<ocir/rn)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>morne</ets> sad, sorrowful. See <er>Mourn</er>.]</ety> <def>A ring fitted upon the head of a lance to prevent wounding an adversary in tilting.</def><br/
+<par/<hw>Morne</hw> <pr>(m<ocir/rn)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>morne</ets> sad, sorrowful. See <er>Mourn</er>.]</ety> <def>A ring fitted upon the head of a lance to prevent wounding an adversary in tilting.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morne</ent><br/
-\'d8<hw>Mor`n<eacute/"</hw> <pr>(m<ocir/r`n<asl/")</pr>, <pos>a.</pos> <ety>[F., fr. <ets>morne</ets> a morne.]</ety> <fld>(Her.)</fld> <def>Without teeth, tongue, or claws; -- said of a lion represented heraldically.</def><br/
+<par/<hw>Mor`n<eacute/"</hw> <pr>(m<ocir/r`n<asl/")</pr>, <pos>a.</pos> <ety>[F., fr. <ets>morne</ets> a morne.]</ety> <fld>(Her.)</fld> <def>Without teeth, tongue, or claws; -- said of a lion represented heraldically.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morning</ent><br/
@@ -36284,7 +36284,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Morosaurus</ent><br/
-\'d8<hw>Mo`ro*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mw^ros</grk> stupid + <grk>sau^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large herbivorous dinosaurs, found in Jurassic strata in America.</def><br/
+<par/<hw>Mo`ro*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mw^ros</grk> stupid + <grk>sau^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large herbivorous dinosaurs, found in Jurassic strata in America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morose</ent><br/
@@ -36312,7 +36312,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morosis</ent><br/
-\'d8<hw>Mo*ro"sis</hw> <pr>(m<osl/*r<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mw`rwsis</grk>, fr. <grk>mw^ros</grk> silly, foolish.]</ety> <fld>(Med.)</fld> <def>Idiocy; fatuity; stupidity.</def><br/
+<par/<hw>Mo*ro"sis</hw> <pr>(m<osl/*r<omac/"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mw`rwsis</grk>, fr. <grk>mw^ros</grk> silly, foolish.]</ety> <fld>(Med.)</fld> <def>Idiocy; fatuity; stupidity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morosity</ent><br/
@@ -36394,7 +36394,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>morpho</ent><br/
-\'d8<hw>mor"pho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, an epithet of Venus.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of large, handsome, tropical American butterflies, of the genus <gen>Morpho</gen>. They are noted for the very brilliant metallic luster and bright colors (often blue) of the upper surface of the wings.  The lower surface is usually brown or gray, with eyelike spots.</def><br/
+<par/<hw>mor"pho</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, an epithet of Venus.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of large, handsome, tropical American butterflies, of the genus <gen>Morpho</gen>. They are noted for the very brilliant metallic luster and bright colors (often blue) of the upper surface of the wings.  The lower surface is usually brown or gray, with eyelike spots.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>morphogenesis</ent><br/
@@ -36447,7 +36447,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morphosis</ent><br/
-\'d8<hw>Mor*pho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`rfwsis</grk> form, fr. <grk>morfh`</grk> form.]</ety> <fld>(Biol.)</fld> <def>The order or mode of development of an organ or part.</def><br/
+<par/<hw>Mor*pho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mo`rfwsis</grk> form, fr. <grk>morfh`</grk> form.]</ety> <fld>(Biol.)</fld> <def>The order or mode of development of an organ or part.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morphotic</ent><br/
@@ -36510,7 +36510,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morro</ent><br/
-\'d8<hw>Mor"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., any spherical object.]</ety> <def>A round hill or point of land; hence, <col>Morro castle</col>, a castle on a hill.</def><br/
+<par/<hw>Mor"ro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., any spherical object.]</ety> <def>A round hill or point of land; hence, <col>Morro castle</col>, a castle on a hill.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Morrot</ent><br/
@@ -37011,7 +37011,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morula</ent><br/
-\'d8<hw>Mor"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Morulae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>morum</ets> a mulberry.]</ety> <fld>(Biol.)</fld> <def>The sphere or globular mass of cells (<parts>blastomeres</parts>), formed by the clevage of the ovum or egg in the first stages of its development; -- called also <altname>mulberry mass</altname>, <altname>segmentation sphere</altname>, and <altname>blastosphere</altname>. See <er>Segmentation</er>.</def><br/
+<par/<hw>Mor"u*la</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Morulae</plw> <pr>(#)</pr>.</plu> <ety>[NL., dim. of L. <ets>morum</ets> a mulberry.]</ety> <fld>(Biol.)</fld> <def>The sphere or globular mass of cells (<parts>blastomeres</parts>), formed by the clevage of the ovum or egg in the first stages of its development; -- called also <altname>mulberry mass</altname>, <altname>segmentation sphere</altname>, and <altname>blastosphere</altname>. See <er>Segmentation</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morulation</ent><br/
@@ -37019,7 +37019,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Morus</ent><br/
-\'d8<hw>Mo"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mulberry tree. See <er>Mulberry</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees, some species of which produce edible fruit; the mulberry. See <er>Mulberry</er>.</def><br/
+<par/<hw>Mo"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., mulberry tree. See <er>Mulberry</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of trees, some species of which produce edible fruit; the mulberry. See <er>Mulberry</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <col>Morus alba</col> is the white mulberry, a native of India or China, the leaves of which are extensively used for feeding silkworms, for which it furnishes the chief food. -- <col>Morus multicaulis</col>, the many-stemmed or Chinese mulberry, is only a form of white mulberry, preferred on account of its more abundant leaves. -- <col>Morus nigra</col>, the black mulberry, produces a dark-colored fruit, of an agreeable flavor.</note><br/
@@ -37082,11 +37082,11 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mosasauria</ent><br/
-\'d8<hw>Mos`a*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mosasaurus</er>.]</ety> <fld>(Paleon.)</fld> <def>An order of large, extinct, marine reptiles, found in the Cretaceous rocks, especially in America.  They were serpentlike in form and in having loosely articulated and dilatable jaws, with large recurved teeth, but they had paddlelike feet. Some of them were over fifty feet long. They are, essentially, fossil sea serpents with paddles. Called also <altname>Pythonomarpha</altname>, and <altname>Mosasauria</altname>.</def><br/
+<par/<hw>Mos`a*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Mosasaurus</er>.]</ety> <fld>(Paleon.)</fld> <def>An order of large, extinct, marine reptiles, found in the Cretaceous rocks, especially in America.  They were serpentlike in form and in having loosely articulated and dilatable jaws, with large recurved teeth, but they had paddlelike feet. Some of them were over fifty feet long. They are, essentially, fossil sea serpents with paddles. Called also <altname>Pythonomarpha</altname>, and <altname>Mosasauria</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mosasaurus</ent><br/
-\'d8<hw>Mos`a*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Mosa</ets> the River Meuse (on which Meastricht is situated) + Gr. <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct marine reptiles allied to the lizards, but having the body much elongated, and the limbs in the form of paddles.  The first known species, nearly fifty feet in length, was discovered in Cretaceous beds near <city>Maestricht</city>, in the Netherlands.</def> <altsp>[Written also <asp>Mososaurus</asp>.]</altsp><br/
+<par/<hw>Mos`a*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>Mosa</ets> the River Meuse (on which Meastricht is situated) + Gr. <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct marine reptiles allied to the lizards, but having the body much elongated, and the limbs in the form of paddles.  The first known species, nearly fifty feet in length, was discovered in Cretaceous beds near <city>Maestricht</city>, in the Netherlands.</def> <altsp>[Written also <asp>Mososaurus</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moschatel</ent><br/
@@ -37135,7 +37135,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mososaurus</ent><br/
-\'d8<hw>Mos`o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Mosasaurus</er>.</def><br/
+<par/<hw>Mos`o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Paleon.)</fld> <def>Same as <er>Mosasaurus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mosque</ent><br/
@@ -37278,7 +37278,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mostra</ent><br/
-\'d8<hw>Mos"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>See <er>Direct</er>, <pos>n.</pos></def><br/
+<par/<hw>Mos"tra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>See <er>Direct</er>, <pos>n.</pos></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mostwhat</ent><br/
@@ -37781,7 +37781,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Motivo</ent><br/
-\'d8<hw>Mo*ti"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Motive</er>, <pos>n.</pos>]</ety> <def>See <er>Motive</er>, <pos>n.</pos>, <snr>3</snr>, 4.</def><br/
+<par/<hw>Mo*ti"vo</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It. See <er>Motive</er>, <pos>n.</pos>]</ety> <def>See <er>Motive</er>, <pos>n.</pos>, <snr>3</snr>, 4.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Motley</ent><br/
@@ -37817,7 +37817,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moto</ent><br/
-\'d8<hw>Mo"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Movement; manner of movement; particularly, movement with increased rapidity; -- used especially in the phrase <xex>con moto</xex>, directing to a somewhat quicker movement; <as>as, <ex>andante con moto</ex>, a little more rapidly than <ex>andante</ex>, etc.</as></def><br/
+<par/<hw>Mo"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>Movement; manner of movement; particularly, movement with increased rapidity; -- used especially in the phrase <xex>con moto</xex>, directing to a somewhat quicker movement; <as>as, <ex>andante con moto</ex>, a little more rapidly than <ex>andante</ex>, etc.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Motograph</ent><br/
@@ -38030,7 +38030,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouchoir</ent><br/
-\'d8<hw>Mou`choir"</hw> <pr>(m<oomac/`shw<aum/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A handkerchief.</def><br/
+<par/<hw>Mou`choir"</hw> <pr>(m<oomac/`shw<aum/r")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A handkerchief.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouezzin</ent><br/
@@ -38046,11 +38046,11 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouillation</ent><br/
-\'d8<hw>Mouil*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Mouill<eacute/</er>.]</ety> <fld>(Phon.)</fld> <def>The act of uttering the sound of a mouill<eacute/ letter.</def><br/
+<par/<hw>Mouil*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Mouill<eacute/</er>.]</ety> <fld>(Phon.)</fld> <def>The act of uttering the sound of a mouill<eacute/ letter.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouille</ent><br/
-\'d8<hw>Mouil`l<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., lit., wet.]</ety> <fld>(Phon.)</fld> <def>Applied to certain consonants having a <ldquo/liquid<rdquo/ or softened sound; <it>e. g.</it>, in French, <it>l</it> or <it>ll</it> and <it>gn</it> (like the <it>lli</it> in <xex>million</xex> and <it>ni</it> in <xex>minion</xex>); in Italian, <it>gl</it> and <it>gn</it>; in Spanish, <it>ll</it> and <it><ntil/</it>; in Portuguese, <it>lh</it> and <it>nh.</it></def><br/
+<par/<hw>Mouil`l<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., lit., wet.]</ety> <fld>(Phon.)</fld> <def>Applied to certain consonants having a <ldquo/liquid<rdquo/ or softened sound; <it>e. g.</it>, in French, <it>l</it> or <it>ll</it> and <it>gn</it> (like the <it>lli</it> in <xex>million</xex> and <it>ni</it> in <xex>minion</xex>); in Italian, <it>gl</it> and <it>gn</it>; in Spanish, <it>ll</it> and <it><ntil/</it>; in Portuguese, <it>lh</it> and <it>nh.</it></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mouldy</ent><br/
@@ -38572,7 +38572,7 @@ And ev'n the pavements were with <qex>mourning</qex> hid.</q> <rj><qau>Dryden.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mousquetaire</ent><br/
-\'d8<hw>Mous`que*taire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A musketeer, esp. one of the French royal musketeers of the 17th and 18th centuries, conspicuous both for their daring and their fine dress.</def><br/
+<par/<hw>Mous`que*taire"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A musketeer, esp. one of the French royal musketeers of the 17th and 18th centuries, conspicuous both for their daring and their fine dress.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>A mosquetaire cuff or glove, or other article of dress fancied to resemble those worn by the French mosquetaires.</def><br/
@@ -38597,14 +38597,14 @@ And ev'n the pavements were with <qex>mourning</qex> hid.</q> <rj><qau>Dryden.</
 [<source>PJC</source>]</p>
 
 <p><ent>Mousseline</ent><br/
-\'d8<hw>Mousse`line"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Muslin.</def><br/
+<par/<hw>Mousse`line"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Muslin.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Mousseline de laine</col> <pr>(<?/)</pr>. <ety>[F., muslin of wool.]</ety> <cd>Muslin delaine. See under <er>Muslin</er>.</cd> -- <col>Mousseline glass</col>, <cd>a kind of thin blown glassware, such as wineglasses, etc.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mousseline de soie</ent><br/
-\'d8<hw>Mousse`line de soie"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>A soft thin silk fabric with a weave like that of muslin.</def><br/
+<par/<hw>Mousse`line de soie"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>A soft thin silk fabric with a weave like that of muslin.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Moustache</ent><br/
@@ -39077,7 +39077,7 @@ Which are the <qex>movers</qex> of a languishing death.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moya</ent><br/
-\'d8<hw>Moy"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Mud poured out from volcanoes during eruptions; -- so called in South America.</def><br/
+<par/<hw>Moy"a</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Mud poured out from volcanoes during eruptions; -- so called in South America.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Moyle</ent><br/
@@ -39436,7 +39436,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mucor</ent><br/
-\'d8<hw>Mu"cor</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. <ets>mucere</ets> to be moldy or musty.]</ety> <fld>(Bot.)</fld> <def>A genus of minute fungi.  The plants consist of slender threads with terminal globular sporangia; mold.</def><br/
+<par/<hw>Mu"cor</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. <ets>mucere</ets> to be moldy or musty.]</ety> <fld>(Bot.)</fld> <def>A genus of minute fungi.  The plants consist of slender threads with terminal globular sporangia; mold.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mucorales</ent><br/
@@ -39468,7 +39468,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mucro</ent><br/
-\'d8<hw>Mu"cro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot. & Zool.)</fld> <def>A minute abrupt point, as of a leaf; any small, sharp point or process, terminating a larger part or organ.</def><br/
+<par/<hw>Mu"cro</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <fld>(Bot. & Zool.)</fld> <def>A minute abrupt point, as of a leaf; any small, sharp point or process, terminating a larger part or organ.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mucronated</ent><br/
@@ -39513,7 +39513,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mudar</ent><br/
-\'d8<hw>Mu"dar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>mad<amac/r</ets>.]</ety> <fld>(Bot.)</fld> <def>Either one of two asclepiadaceous shrubs (<spn>Calotropis gigantea</spn>, and <spn>Calotropis procera</spn>), which furnish a strong and valuable fiber.  The acrid milky juice is used medicinally.</def> <altsp>[Also spelled <asp>madar</asp> and <asp>muddar</asp>.]</altsp><br/
+<par/<hw>Mu"dar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind. <ets>mad<amac/r</ets>.]</ety> <fld>(Bot.)</fld> <def>Either one of two asclepiadaceous shrubs (<spn>Calotropis gigantea</spn>, and <spn>Calotropis procera</spn>), which furnish a strong and valuable fiber.  The acrid milky juice is used medicinally.</def> <altsp>[Also spelled <asp>madar</asp> and <asp>muddar</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mudarin</ent><br/
@@ -39894,7 +39894,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mugil</ent><br/
-\'d8<hw>Mu"gil</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a sort of fish.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes including the gray mullets. See <er>Mullet</er>.</def><br/
+<par/<hw>Mu"gil</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a sort of fish.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes including the gray mullets. See <er>Mullet</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mugilidae</ent><br/
@@ -39959,11 +39959,11 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mulada</ent><br/
-\'d8<hw>Mu*la"da</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A moor.</def> <mark>[Scot.]</mark>  <rj><au>Lockhart.</au></rj><br/
+<par/<hw>Mu*la"da</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A moor.</def> <mark>[Scot.]</mark>  <rj><au>Lockhart.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mulada</ent><br/
-\'d8<hw>Mu*la"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Amer., fr. Sp. <ets>mulo</ets>, <ets>mula</ets>, a mule.]</ety> <def>A drove of mules.</def> <mark>[Southwest. U.S.]</mark><br/
+<par/<hw>Mu*la"da</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp. Amer., fr. Sp. <ets>mulo</ets>, <ets>mula</ets>, a mule.]</ety> <def>A drove of mules.</def> <mark>[Southwest. U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mulatto</ent><br/
@@ -40079,7 +40079,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mulier</ent><br/
-\'d8<hw>Mu"li*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a woman.]</ety> <sn>1.</sn> <def>A woman.</def><br/
+<par/<hw>Mu"li*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a woman.]</ety> <sn>1.</sn> <def>A woman.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Lawful issue born in wedlock, in distinction from an elder brother born of the same parents before their marriage; a lawful son.</def> <sd>(b)</sd> <fld>(Civ. Law)</fld> <def>A woman; a wife; a mother.</def>  <rj><au>Blount.</au>  <au>Cowell.</au></rj><br/
@@ -41350,7 +41350,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muraena</ent><br/
-\'d8<hw>Mu*rae"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of large eels of the family <fam>Muraenidae</fam>. They differ from the common eel in lacking pectoral fins and in having the dorsal and anal fins continuous.  The murry (<spn>Muraena Helenae</spn>) of Southern Europe was the muraena of the Romans.  It is highly valued as a food fish.</def><br/
+<par/<hw>Mu*rae"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of large eels of the family <fam>Muraenidae</fam>. They differ from the common eel in lacking pectoral fins and in having the dorsal and anal fins continuous.  The murry (<spn>Muraena Helenae</spn>) of Southern Europe was the muraena of the Romans.  It is highly valued as a food fish.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Murenoid</ent><br/
@@ -41449,7 +41449,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Murex</ent><br/
-\'d8<hw>Mu"rex</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Murices</plw> <pr>(#)</pr>.</plu> <ety>[L., the purple fish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine gastropods, having rough, and frequently spinose, shells, which are often highly colored inside; the rock shells.  They abound in tropical seas.</def><br/
+<par/<hw>Mu"rex</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Murices</plw> <pr>(#)</pr>.</plu> <ety>[L., the purple fish.]</ety> <fld>(Zool.)</fld> <def>A genus of marine gastropods, having rough, and frequently spinose, shells, which are often highly colored inside; the rock shells.  They abound in tropical seas.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Murexan</ent><br/
@@ -41695,11 +41695,11 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mus</ent><br/
-\'d8<hw>Mus</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Mures</plw> <pr>(#)</pr>.</plu> <ety>[L., a mouse.]</ety> <fld>(Zool.)</fld> <def>A genus of small rodents, including the common mouse and rat.</def><br/
+<par/<hw>Mus</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Mures</plw> <pr>(#)</pr>.</plu> <ety>[L., a mouse.]</ety> <fld>(Zool.)</fld> <def>A genus of small rodents, including the common mouse and rat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musa</ent><br/
-\'d8<hw>Mu"sa</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Musae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Ar. <ets>mauz</ets>, <ets>mauza</ets>, banana.]</ety> <fld>(Bot.)</fld> <def>A genus of perennial, herbaceous, endogenous plants of great size, including the banana (<spn>Musa sapientum</spn>), the plantain (<spn>Musa paradisiaca</spn> of Linnaeus, but probably not a distinct species), the Abyssinian (<spn>Musa Ensete</spn>), the Philippine Island (<spn>Musa textilis</spn>, which yields Manila hemp), and about eighteen other species. See <xex>Illust.</xex> of <er>Banana</er> and <er>Plantain</er>.</def><br/
+<par/<hw>Mu"sa</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Musae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Ar. <ets>mauz</ets>, <ets>mauza</ets>, banana.]</ety> <fld>(Bot.)</fld> <def>A genus of perennial, herbaceous, endogenous plants of great size, including the banana (<spn>Musa sapientum</spn>), the plantain (<spn>Musa paradisiaca</spn> of Linnaeus, but probably not a distinct species), the Abyssinian (<spn>Musa Ensete</spn>), the Philippine Island (<spn>Musa textilis</spn>, which yields Manila hemp), and about eighteen other species. See <xex>Illust.</xex> of <er>Banana</er> and <er>Plantain</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musaceae</ent><br/
@@ -41733,7 +41733,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musca</ent><br/
-\'d8<hw>Mus"ca</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Muscae</plw> <pr>(#)</pr>.</plu> <ety>[L., a fly.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of dipterous insects, including the common house fly, and numerous allied species.</def><br/
+<par/<hw>Mus"ca</hw> <pr>(?)</pr>, <pos>prop. n.</pos>; <plu><it>pl.</it> <plw>Muscae</plw> <pr>(#)</pr>.</plu> <ety>[L., a fly.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A genus of dipterous insects, including the common house fly, and numerous allied species.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ Formerly, a large part of the Diptera were included under the genus <gen>Musca</gen>.</note><br/
@@ -41774,7 +41774,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muscales</ent><br/
-\'d8<hw>Mus*ca"les</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>muscus</ets> moss.]</ety> <fld>(Bot.)</fld> <def>An old name for mosses in the widest sense, including the true mosses and also hepaticae and sphagna.</def><br/
+<par/<hw>Mus*ca"les</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>muscus</ets> moss.]</ety> <fld>(Bot.)</fld> <def>An old name for mosses in the widest sense, including the true mosses and also hepaticae and sphagna.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muscallonge</ent><br/
@@ -41816,11 +41816,11 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muschelkalk</ent><br/
-\'d8<hw>Musch"el*kalk`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>muschel</ets> shell + <ets>kalk</ets> limestone.]</ety> <fld>(Geol.)</fld> <def>A kind of shell limestone, whose strata form the middle one of the three divisions of the Triassic formation in Germany. See <xex>Chart</xex>, under <er>Geology</er>.</def><br/
+<par/<hw>Musch"el*kalk`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., from <ets>muschel</ets> shell + <ets>kalk</ets> limestone.]</ety> <fld>(Geol.)</fld> <def>A kind of shell limestone, whose strata form the middle one of the three divisions of the Triassic formation in Germany. See <xex>Chart</xex>, under <er>Geology</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musci</ent><br/
-\'d8<hw>Mus"ci</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>muscus</ets> moss.]</ety> <fld>(Bot.)</fld> <def>An order or subclass of cryptogamous plants; the mosses. See <er>Moss</er>, and <er>Cryptogamia</er>.</def><br/
+<par/<hw>Mus"ci</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>muscus</ets> moss.]</ety> <fld>(Bot.)</fld> <def>An order or subclass of cryptogamous plants; the mosses. See <er>Moss</er>, and <er>Cryptogamia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Muscicapidae</ent><br/
@@ -42217,7 +42217,7 @@ Is fit for treasons, stratagems, and spoils.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Musicale</ent><br/
-\'d8<hw>Mu`si`cale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <ets>Soir<eacute/e musicale</ets>.]</ety> <def>A social musical party.</def> <mark>[Colloq.]</mark><br/
+<par/<hw>Mu`si`cale"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <ets>Soir<eacute/e musicale</ets>.]</ety> <def>A social musical party.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musically</ent><br/
@@ -42389,7 +42389,7 @@ Is fit for treasons, stratagems, and spoils.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musquaw</ent><br/
-\'d8<hw>Mus"quaw</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[American Indian name.]</ety> <fld>(Zool.)</fld> <def>The American black bear. See <er>Bear</er>.</def><br/
+<par/<hw>Mus"quaw</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[American Indian name.]</ety> <fld>(Zool.)</fld> <def>The American black bear. See <er>Bear</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Musquet</ent><br/
@@ -42710,7 +42710,7 @@ In rhombs, and wedges, and half-moons, and wings.</q> <rj><qau>Milton.</qau></rj
 [<source>PJC</source>]</p>
 
 <p><ent>mutandum</ent><br/
-\'d8<hw>mu*tan"dum</hw> <pr>(m<usl/*t<acr/n"d<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mutanda</plw> <pr>(m<usl/*t<acr/n"d<adot/)</pr>.</plu> <ety>[L., fr. <ets>mutare</ets> to change.]</ety> <def>A thing which is to be changed; something which must be altered; -- used chiefly in the plural.</def><br/
+<par/<hw>mu*tan"dum</hw> <pr>(m<usl/*t<acr/n"d<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Mutanda</plw> <pr>(m<usl/*t<acr/n"d<adot/)</pr>.</plu> <ety>[L., fr. <ets>mutare</ets> to change.]</ety> <def>A thing which is to be changed; something which must be altered; -- used chiefly in the plural.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>mutation</ent><br/
@@ -43179,7 +43179,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mya</ent><br/
-\'d8<hw>My"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>mya</ets> a kind of mussel.]</ety> <fld>(Zool.)</fld> <def>A genus of bivalve mollusks, including the common long, or soft-shelled, clam.</def><br/
+<par/<hw>My"a</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L. <ets>mya</ets> a kind of mussel.]</ety> <fld>(Zool.)</fld> <def>A genus of bivalve mollusks, including the common long, or soft-shelled, clam.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myaceae</ent><br/
@@ -43197,7 +43197,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myalgia</ent><br/
-\'d8<hw>My*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ muscle + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain in the muscles; muscular rheumatism or neuralgia.</def><br/
+<par/<hw>My*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ muscle + <?/ pain.]</ety> <fld>(Med.)</fld> <def>Pain in the muscles; muscular rheumatism or neuralgia.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myall wood</ent><br/
@@ -43205,11 +43205,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myaria</ent><br/
-\'d8<hw>My*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of bivalve mollusks of which the common clam (<gen>Mya</gen>) is the type.</def><br/
+<par/<hw>My*a"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A division of bivalve mollusks of which the common clam (<gen>Mya</gen>) is the type.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mycelium</ent><br/
-\'d8<hw>My*ce"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>my`khs</grk> a mushroom.]</ety> <fld>(Bot.)</fld> <def>The white threads or filamentous growth from which a mushroom or fungus is developed; the so-called mushroom spawn.</def> -- <wordforms><wf>My*ce"li*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>My*ce"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>my`khs</grk> a mushroom.]</ety> <fld>(Bot.)</fld> <def>The white threads or filamentous growth from which a mushroom or fungus is developed; the so-called mushroom spawn.</def> -- <wordforms><wf>My*ce"li*al</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myceloid</ent><br/
@@ -43217,7 +43217,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mycetes</ent><br/
-\'d8<hw>My*ce"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mykhth`s</grk> a bellower, fr. <grk>myka^sqai</grk> to bellow.]</ety> <fld>(Zool.)</fld> <def>A genus of South American monkeys, including the howlers. See <er>Howler</er>, <snr>2</snr>, and <xex>Illust.</xex></def><br/
+<par/<hw>My*ce"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>mykhth`s</grk> a bellower, fr. <grk>myka^sqai</grk> to bellow.]</ety> <fld>(Zool.)</fld> <def>A genus of South American monkeys, including the howlers. See <er>Howler</er>, <snr>2</snr>, and <xex>Illust.</xex></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mycetoid</ent><br/
@@ -43225,7 +43225,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mycetozoa</ent><br/
-\'d8<hw>My*ce`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <grk>my`khs</grk>, <grk>my`khtos</grk>, fungus + <?/ pl. of <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>The Myxomycetes; -- so called by those who regard them as a class of animals.</def> -- <wordforms><wf>My*ce`to*zo"an</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>My*ce`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <grk>my`khs</grk>, <grk>my`khtos</grk>, fungus + <?/ pl. of <grk>zw^,on</grk> an animal.]</ety> <fld>(Zool.)</fld> <def>The Myxomycetes; -- so called by those who regard them as a class of animals.</def> -- <wordforms><wf>My*ce`to*zo"an</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>mycobacteria</ent><br/
@@ -43238,7 +43238,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>mycoderma</ent><br/
-\'d8<hw>my`co*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>my`khs</grk> a fungus + <grk>de`rma</grk> skin.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>One of the forms in which bacteria group themselves; a more or less thick layer of motionless but living bacteria, formed by the bacteria uniting on the surface of the fluid in which they are developed.  This production differs from the zoogloea stage of bacteria by not having the intermediary mucous substance.</def><br/
+<par/<hw>my`co*der"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>my`khs</grk> a fungus + <grk>de`rma</grk> skin.]</ety> <sn>1.</sn> <fld>(Biol.)</fld> <def>One of the forms in which bacteria group themselves; a more or less thick layer of motionless but living bacteria, formed by the bacteria uniting on the surface of the fluid in which they are developed.  This production differs from the zoogloea stage of bacteria by not having the intermediary mucous substance.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <mark>(Capitalized)</mark> <def>A genus of microorganisms of which the acetic ferment (<spn>Mycoderma aceti</spn>), which converts alcoholic fluids into vinegar, is a representative.  Cf. <er>Mother</er>.</def><br/
@@ -43272,7 +43272,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 <p><-- p. 959 --></p>
 
 <p><ent>Mycothrix</ent><br/
-\'d8<hw>Myc"o*thrix</hw> <pr>(m<imac/k"<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. (spurious) <grk>my`khs</grk> mucus (L. <ets>mucus</ets>) + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Biol.)</fld> <def>The chain of micrococci formed by the division of the micrococci in multiplication.</def><br/
+<par/<hw>Myc"o*thrix</hw> <pr>(m<imac/k"<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. (spurious) <grk>my`khs</grk> mucus (L. <ets>mucus</ets>) + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Biol.)</fld> <def>The chain of micrococci formed by the division of the micrococci in multiplication.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mycteria</ent><br/
@@ -43289,11 +43289,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mydaus</ent><br/
-\'d8<hw>Myd"a*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>myda^n</grk> to be clammy or damp.]</ety> <fld>(Zool.)</fld> <def>The teledu.</def><br/
+<par/<hw>Myd"a*us</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>myda^n</grk> to be clammy or damp.]</ety> <fld>(Zool.)</fld> <def>The teledu.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mydriasis</ent><br/
-\'d8<hw>My*dri"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Physiol. & Med.)</fld> <def>A long-continued or excessive dilatation of the pupil of the eye.</def><br/
+<par/<hw>My*dri"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <fld>(Physiol. & Med.)</fld> <def>A long-continued or excessive dilatation of the pupil of the eye.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mydriatic</ent><br/
@@ -43301,7 +43301,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelencephala</ent><br/
-\'d8<hw>My`e*len*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Myelencephalon</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Vertebrata</er>.</def><br/
+<par/<hw>My`e*len*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Myelencephalon</er>.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Vertebrata</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelencephalic</ent><br/
@@ -43309,7 +43309,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelencephalon</ent><br/
-\'d8<hw>My`e*len*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>myelo`s</grk> marrow + E. <ets>encephalon</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The brain and spinal cord; the cerebro-spinal axis.  Sometimes abbreviated to <altname>myelencephal</altname>.</def> <sd>(b)</sd> <def>The metencephalon.</def>  <rj><au>Huxley.</au></rj><br/
+<par/<hw>My`e*len*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>myelo`s</grk> marrow + E. <ets>encephalon</ets>.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The brain and spinal cord; the cerebro-spinal axis.  Sometimes abbreviated to <altname>myelencephal</altname>.</def> <sd>(b)</sd> <def>The metencephalon.</def>  <rj><au>Huxley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelencephalous</ent><br/
@@ -43326,7 +43326,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myelitis</ent><br/
-\'d8<hw>My`e*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>myelo`s</grk> marrow + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <sn>1.</sn> <def>Inflammation of the spinal marrow or its membranes.</def><br/
+<par/<hw>My`e*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>myelo`s</grk> marrow + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <sn>1.</sn> <def>Inflammation of the spinal marrow or its membranes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>3.</sn> <def>Inflammation of bone marrow.</def><br/
@@ -43353,7 +43353,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelon</ent><br/
-\'d8<hw>My"e*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>myelo`s</grk> marrow.]</ety> <fld>(Anat.)</fld> <def>The spinal cord. (Sometimes abbrev. to <abbr>myel.</abbr>)</def><br/
+<par/<hw>My"e*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>myelo`s</grk> marrow.]</ety> <fld>(Anat.)</fld> <def>The spinal cord. (Sometimes abbrev. to <abbr>myel.</abbr>)</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myelonal</ent><br/
@@ -43361,15 +43361,15 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myeloneura</ent><br/
-\'d8<hw>My`e*lo*neu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>myelo`s</grk> + <grk>ney^ron</grk> a nerve.]</ety> <fld>(Zool.)</fld> <def>The Vertebrata.</def><br/
+<par/<hw>My`e*lo*neu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>myelo`s</grk> + <grk>ney^ron</grk> a nerve.]</ety> <fld>(Zool.)</fld> <def>The Vertebrata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myeloplax</ent><br/
-\'d8<hw>My*el"o*plax</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Myeloplaxes</plw> <pr>(#)</pr>, L. <plw>Myeloplaces</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>myelo`s</grk> marrow + <?/ anything flat and broad.]</ety> <fld>(Anat.)</fld> <def>One of the huge multinucleated cells found in the marrow of bone and occasionally in other parts; a giant cell. See <er>Osteoclast</er>.</def><br/
+<par/<hw>My*el"o*plax</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Myeloplaxes</plw> <pr>(#)</pr>, L. <plw>Myeloplaces</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>myelo`s</grk> marrow + <?/ anything flat and broad.]</ety> <fld>(Anat.)</fld> <def>One of the huge multinucleated cells found in the marrow of bone and occasionally in other parts; a giant cell. See <er>Osteoclast</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mygale</ent><br/
-\'d8<hw>Myg"a*le</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a field mouse, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of very large hairy spiders of the family <fam>Ctenizidae</fam>, having four lungs and only four spinnerets.  They do not spin webs, but usually construct tubes in the earth, which are often furnished with a trapdoor.  The South American bird spider (<spn>Mygale avicularia</spn>), and the crab spider, or matoutou (<spn>Mygale cancerides</spn>) are among the largest species.  They are also called <altname>trapdoor spiders</altname>.  Some of the species are erroneously called <xex>tarantulas</xex>, as the Texas tarantula (<spn>Mygale Hentzii</spn>).</def><br/
+<par/<hw>Myg"a*le</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a field mouse, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of very large hairy spiders of the family <fam>Ctenizidae</fam>, having four lungs and only four spinnerets.  They do not spin webs, but usually construct tubes in the earth, which are often furnished with a trapdoor.  The South American bird spider (<spn>Mygale avicularia</spn>), and the crab spider, or matoutou (<spn>Mygale cancerides</spn>) are among the largest species.  They are also called <altname>trapdoor spiders</altname>.  Some of the species are erroneously called <xex>tarantulas</xex>, as the Texas tarantula (<spn>Mygale Hentzii</spn>).</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Mykiss</ent><br/
@@ -43420,11 +43420,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>myocarditis</ent><br/
-\'d8<hw>my`o*car*di"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. see <er>myocardium</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the myocardium.</def><br/
+<par/<hw>my`o*car*di"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. see <er>myocardium</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the myocardium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myocardium</ent><br/
-\'d8<hw>My`o*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, muscle + <?/ heart.]</ety> <fld>(Anat.)</fld> <def>The main substance of the muscular wall of the heart inclosed between the epicardium and endocardium.</def><br/
+<par/<hw>My`o*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, muscle + <?/ heart.]</ety> <fld>(Anat.)</fld> <def>The main substance of the muscular wall of the heart inclosed between the epicardium and endocardium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myochrome</ent><br/
@@ -43432,7 +43432,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myocomma</ent><br/
-\'d8<hw>My`o*com"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Myocommata</plw> <pr>(#)</pr>, E. <plw>Myocommas</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Myo-</er>, and <er>Comma</er>.]</ety> <fld>(Anat.)</fld> <def>A myotome.</def><br/
+<par/<hw>My`o*com"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Myocommata</plw> <pr>(#)</pr>, E. <plw>Myocommas</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Myo-</er>, and <er>Comma</er>.]</ety> <fld>(Anat.)</fld> <def>A myotome.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myodynamics</ent><br/
@@ -43484,7 +43484,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myolemma</ent><br/
-\'d8<hw>My`o*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, a muscle + <?/ skin.]</ety> <fld>(Anat.)</fld> <def>Sarcolemma.</def><br/
+<par/<hw>My`o*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, a muscle + <?/ skin.]</ety> <fld>(Anat.)</fld> <def>Sarcolemma.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myolin</ent><br/
@@ -43505,7 +43505,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myoma</ent><br/
-\'d8<hw>My*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Myo-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor consisting of muscular tissue.</def><br/
+<par/<hw>My*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Myo-</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A tumor consisting of muscular tissue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myomancy</ent><br/
@@ -43517,11 +43517,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myomorpha</ent><br/
-\'d8<hw>My`o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>my^s</grk>, <grk>myo`s</grk>, a mouse + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>An extensive group of rodents which includes the rats, mice, jerboas, and many allied forms.</def><br/
+<par/<hw>My`o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>my^s</grk>, <grk>myo`s</grk>, a mouse + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>An extensive group of rodents which includes the rats, mice, jerboas, and many allied forms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myopathia</ent><br/
-\'d8<hw>My`o*pa*thi"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, a muscle + <?/, <?/, to suffer.]</ety> <fld>(Med.)</fld> <def>Any affection of the muscles or muscular system.</def><br/
+<par/<hw>My`o*pa*thi"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, a muscle + <?/, <?/, to suffer.]</ety> <fld>(Med.)</fld> <def>Any affection of the muscles or muscular system.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myopathic</ent><br/
@@ -43552,11 +43552,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myops</ent><br/
-\'d8<hw>My"ops</hw> <pr>(m<imac/"<ocr/ps)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Myope</er>.</def><br/
+<par/<hw>My"ops</hw> <pr>(m<imac/"<ocr/ps)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Myope</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myopsis</ent><br/
-\'d8<hw>My*op"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fly + <?/ sight.]</ety> <fld>(Med.)</fld> <def>The appearance of <cref>muscae volitantes</cref>. See <cref>Muscae volitantes</cref>, under <er>Musca</er>.</def><br/
+<par/<hw>My*op"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ fly + <?/ sight.]</ety> <fld>(Med.)</fld> <def>The appearance of <cref>muscae volitantes</cref>. See <cref>Muscae volitantes</cref>, under <er>Musca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myopy</ent><br/
@@ -43571,7 +43571,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myosis</ent><br/
-\'d8<hw>My*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to close the eyes or lips.]</ety> <fld>(Med.)</fld> <def>Long-continued contraction of the pupil of the eye.</def><br/
+<par/<hw>My*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to close the eyes or lips.]</ety> <fld>(Med.)</fld> <def>Long-continued contraction of the pupil of the eye.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myositic</ent><br/
@@ -43579,11 +43579,11 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myositis</ent><br/
-\'d8<hw>My`o*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, muscle + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the muscles.</def><br/
+<par/<hw>My`o*si"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, <?/, muscle + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the muscles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myosotis</ent><br/
-\'d8<hw>My`o*so"tis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL.; Gr. <?/, lit., mouse ear.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Mouse-ear</er>.</def><br/
+<par/<hw>My`o*so"tis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL.; Gr. <?/, lit., mouse ear.]</ety> <fld>(Bot.)</fld> <def>A genus of plants. See <er>Mouse-ear</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myotic</ent><br/
@@ -43603,7 +43603,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myrcia</ent><br/
-\'d8<hw>Myr"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A large genus of tropical American trees and shrubs, nearly related to the true myrtles (<gen>Myrtus</gen>), from which they differ in having very few seeds in each berry.</def><br/
+<par/<hw>Myr"ci*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A large genus of tropical American trees and shrubs, nearly related to the true myrtles (<gen>Myrtus</gen>), from which they differ in having very few seeds in each berry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myria-</ent><br/
@@ -43645,7 +43645,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myriapoda</ent><br/
-\'d8<hw>Myr`i*ap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ numberless + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class, or subclass, of arthropods, related to the hexapod insects, from which they differ in having the body made up of numerous similar segments, nearly all of which bear true jointed legs.  They have one pair of antennae, three pairs of mouth organs, and numerous tracheae, similar to those of true insects.  The larvae, when first hatched, often have but three pairs of legs. See <er>Centiped</er>, <er>Galleyworm</er>, <er>Milliped</er>.</def><br/
+<par/<hw>Myr`i*ap"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ numberless + <ets>-poda</ets>.]</ety> <fld>(Zool.)</fld> <def>A class, or subclass, of arthropods, related to the hexapod insects, from which they differ in having the body made up of numerous similar segments, nearly all of which bear true jointed legs.  They have one pair of antennae, three pairs of mouth organs, and numerous tracheae, similar to those of true insects.  The larvae, when first hatched, often have but three pairs of legs. See <er>Centiped</er>, <er>Galleyworm</er>, <er>Milliped</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The existing Myriapoda are divided into three orders: <ord>Chilopoda</ord>, <ord>Chilognatha</ord> or <ord>Diplopoda</ord>, and <ord>Pauropoda</ord> (see these words in the Vocabulary).  Large fossil species (very different from any living forms) are found in the Carboniferous formation.</note><br/
@@ -43660,7 +43660,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myrica</ent><br/
-\'d8<hw>My*ri"ca</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. Gr. <?/ tamarisk.]</ety> <fld>(Bot.)</fld> <def>A widely dispersed genus of shrubs and trees, usually with aromatic foliage.  It includes the bayberry or wax myrtle, the sweet gale, and the North American sweet fern, so called.</def><br/
+<par/<hw>My*ri"ca</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., fr. Gr. <?/ tamarisk.]</ety> <fld>(Bot.)</fld> <def>A widely dispersed genus of shrubs and trees, usually with aromatic foliage.  It includes the bayberry or wax myrtle, the sweet gale, and the North American sweet fern, so called.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myricin</ent><br/
@@ -43688,7 +43688,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myriopoda</ent><br/
-\'d8<hw>Myr`i*op"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Myriapoda</er>.</def><br/
+<par/<hw>Myr`i*op"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Myriapoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myriorama</ent><br/
@@ -43797,7 +43797,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myroxylon</ent><br/
-\'d8<hw>My*rox"y*lon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>my`ron</grk> a sweet juice distilling from a plant + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous trees of tropical America, the different species of which yield balsamic products, among which are balsam of Peru, and balsam of Tolu.  The species were formerly referred to <gen>Myrospermum</gen>.</def><br/
+<par/<hw>My*rox"y*lon</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>my`ron</grk> a sweet juice distilling from a plant + <grk>xy`lon</grk> wood.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous trees of tropical America, the different species of which yield balsamic products, among which are balsam of Peru, and balsam of Tolu.  The species were formerly referred to <gen>Myrospermum</gen>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myrrh</ent><br/
@@ -43872,7 +43872,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Mysis</ent><br/
-\'d8<hw>My"sis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <?/ a closing of the lips or eyes.]</ety> <fld>(Zool.)</fld> <def>A genus of small schizopod shrimps found both in fresh and salt water; the opossum shrimps.  One species inhabits the Great Lakes of North America, and is largely eaten by the whitefish.  The marine species form part of the food of right whales.</def><br/
+<par/<hw>My"sis</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <?/ a closing of the lips or eyes.]</ety> <fld>(Zool.)</fld> <def>A genus of small schizopod shrimps found both in fresh and salt water; the opossum shrimps.  One species inhabits the Great Lakes of North America, and is largely eaten by the whitefish.  The marine species form part of the food of right whales.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mystacal</ent><br/
@@ -44159,11 +44159,11 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Mytilus</ent><br/
-\'d8<hw>Myt"i*lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a sea mussel, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of marine bivalve shells, including the common mussel. See <xex>Illust.</xex> under <er>Byssus</er>.</def><br/
+<par/<hw>Myt"i*lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a sea mussel, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>A genus of marine bivalve shells, including the common mussel. See <xex>Illust.</xex> under <er>Byssus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myxa</ent><br/
-\'d8<hw>Myx"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a lamp nozzle, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>The distal end of the mandibles of a bird.</def><br/
+<par/<hw>Myx"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a lamp nozzle, Gr. <?/.]</ety> <fld>(Zool.)</fld> <def>The distal end of the mandibles of a bird.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>myxedema</ent><br/
@@ -44203,15 +44203,15 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myxocystodea</ent><br/
-\'d8<hw>Myx`o*cys*to"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ mucus + <?/ a bladder.]</ety> <fld>(Zool.)</fld> <def>A division of Infusoria including the Noctiluca.  See <er>Noctiluca</er>.</def><br/
+<par/<hw>Myx`o*cys*to"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ mucus + <?/ a bladder.]</ety> <fld>(Zool.)</fld> <def>A division of Infusoria including the Noctiluca.  See <er>Noctiluca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myxoedema</ent><br/
-\'d8<hw>Myx`oe*de"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. fr. Gr. <?/ mucus + <ets>oedema</ets>.]</ety> <fld>(Med.)</fld> <def>A disease producing a peculiar cretinoid appearance of the face, slow speech, and dullness of intellect, and due to failure of the functions of the thyroid gland.</def> <altsp>[Also spelled <asp>myxedema</asp>.]</altsp>-- <wordforms><wf>Myx`oe*dem"a*tous</wf> <pr>(#)</pr>, <pos>a.</pos>, <wf>Myx`oe*dem"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Myx`oe*de"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. fr. Gr. <?/ mucus + <ets>oedema</ets>.]</ety> <fld>(Med.)</fld> <def>A disease producing a peculiar cretinoid appearance of the face, slow speech, and dullness of intellect, and due to failure of the functions of the thyroid gland.</def> <altsp>[Also spelled <asp>myxedema</asp>.]</altsp>-- <wordforms><wf>Myx`oe*dem"a*tous</wf> <pr>(#)</pr>, <pos>a.</pos>, <wf>Myx`oe*dem"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Myxoma</ent><br/
-\'d8<hw>Myx*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Myxomata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ mucus + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor made up of a gelatinous tissue resembling that found in the umbilical cord.</def><br/
+<par/<hw>Myx*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Myxomata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ mucus + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A tumor made up of a gelatinous tissue resembling that found in the umbilical cord.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>myxomatosis</ent><br/
@@ -44224,7 +44224,7 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myxomycetes</ent><br/
-\'d8<hw>Myx`o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <?/ mucus, slime + <ets>myceles</ets>.]</ety> <fld>(Bot.)</fld> <def>A class of peculiar organisms, the slime molds, formerly regarded as animals (Mycetozoa), but now generally thought to be plants and often separated as a distinct phylum (Myxophyta); essentially equivalent to the division Myxomycota.  They are found on damp earth and decaying vegetable matter, and consist of naked masses of protoplasm, often of considerable size, which creep very slowly  over the surface and ingest solid food.</def> -- <wordforms><wf>Myx`o*my*ce"tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Myx`o*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <?/ mucus, slime + <ets>myceles</ets>.]</ety> <fld>(Bot.)</fld> <def>A class of peculiar organisms, the slime molds, formerly regarded as animals (Mycetozoa), but now generally thought to be plants and often separated as a distinct phylum (Myxophyta); essentially equivalent to the division Myxomycota.  They are found on damp earth and decaying vegetable matter, and consist of naked masses of protoplasm, often of considerable size, which creep very slowly  over the surface and ingest solid food.</def> -- <wordforms><wf>Myx`o*my*ce"tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 <syn><b>Syn. --</b> true slime molds, acellular slime molds, plasmodial slime molds.</syn><br/
 [<source>Webster 1913 Suppl.</source> + <source>WordNet 1.5</source>]</p>
 
@@ -44239,7 +44239,7 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myxophyta</ent><br/
-\'d8<hw>Myx*oph"y*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <?/ mucus, slime + <?/ plant.]</ety> <fld>(Bot.)</fld> <def>A phylum of the vegetable kingdom consisting of the class <class>Myxomycetes</class>.  By some botanists it is not separated from the Thallophyta.</def><br/
+<par/<hw>Myx*oph"y*ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; Gr. <?/ mucus, slime + <?/ plant.]</ety> <fld>(Bot.)</fld> <def>A phylum of the vegetable kingdom consisting of the class <class>Myxomycetes</class>.  By some botanists it is not separated from the Thallophyta.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myxopod</ent><br/
@@ -44256,9 +44256,9 @@ The <qex>mystic</qex> gulf from God to man.</q> <rj><qau>Emerson.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Myzontes</ent><br/
-\'d8<hw>My*zon"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to suck.]</ety> <fld>(Zool.)</fld> <def>The Marsipobranchiata.</def><br/
+<par/<hw>My*zon"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ to suck.]</ety> <fld>(Zool.)</fld> <def>The Marsipobranchiata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Myzostomata</ent><br/
-\'d8<hw>My`zo*stom"a*ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>my`zein</grk> to suck + <grk>sto`ma</grk>, <grk>-atos</grk>, mouth.]</ety> <fld>(Zool.)</fld> <def>An order of curious parasitic worms found on crinoids. The body is short and disklike, with four pairs of suckers and five pairs of hook-bearing parapodia on the under side.</def><br/
+<par/<hw>My`zo*stom"a*ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>my`zein</grk> to suck + <grk>sto`ma</grk>, <grk>-atos</grk>, mouth.]</ety> <fld>(Zool.)</fld> <def>An order of curious parasitic worms found on crinoids. The body is short and disklike, with four pairs of suckers and five pairs of hook-bearing parapodia on the under side.</def><br/
 [<source>1913 Webster</source>]</p>

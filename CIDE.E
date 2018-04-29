@@ -1469,15 +1469,15 @@ Have <qex>eat</qex> our substance.</q> <rj><qau>Tennyson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eau de Cologne</ent><br/
-\'d8<hw>Eau` de Co*logne"</hw> <pr>(?)</pr>. <ety>[F. <ets>eau</ets> water (L. <ets>aqua</ets>) +  <ets>de</ets> of + <ets>Cologne</ets>.]</ety> <def>Same as <er>Cologne</er>.</def><br/
+<par/<hw>Eau` de Co*logne"</hw> <pr>(?)</pr>. <ety>[F. <ets>eau</ets> water (L. <ets>aqua</ets>) +  <ets>de</ets> of + <ets>Cologne</ets>.]</ety> <def>Same as <er>Cologne</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eau de vie</ent><br/
-\'d8<hw>Eau` de vie"</hw> <pr>(?)</pr>. <ety>[F., water of life; <ets>eau</ets> (L. <ets>aqua</ets>) water  + <ets>de</ets> of + <ets>vie</ets> (L. <ets>vita</ets>) life.]</ety> <def>French name for brandy.  Cf. <xex>Aqua vit<ae/</xex>, under <er>Aqua</er>.</def>  <rj><au>Bescherelle.</au></rj><br/
+<par/<hw>Eau` de vie"</hw> <pr>(?)</pr>. <ety>[F., water of life; <ets>eau</ets> (L. <ets>aqua</ets>) water  + <ets>de</ets> of + <ets>vie</ets> (L. <ets>vita</ets>) life.]</ety> <def>French name for brandy.  Cf. <xex>Aqua vit<ae/</xex>, under <er>Aqua</er>.</def>  <rj><au>Bescherelle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eau forte</ent><br/
-\'d8<hw>Eau` forte"</hw> <pr>(<omac/` f<osl/rt")</pr>. <ety>[F., strong water, nitric acid (which is used in etching plates).]</ety> <fld>(Art)</fld> <def>An etching or a print from an etched plate.</def><br/
+<par/<hw>Eau` forte"</hw> <pr>(<omac/` f<osl/rt")</pr>. <ety>[F., strong water, nitric acid (which is used in etching plates).]</ety> <fld>(Art)</fld> <def>An etching or a print from an etched plate.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Eavedrop</ent><br/
@@ -1717,11 +1717,11 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecardines</ent><br/
-\'d8<hw>E*car"di*nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>e</ets> out, without + <ets>cardo</ets> a hinge.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of Brachiopoda; the Lyopomata. See <er>Brachiopoda</er>.</def><br/
+<par/<hw>E*car"di*nes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>e</ets> out, without + <ets>cardo</ets> a hinge.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of Brachiopoda; the Lyopomata. See <er>Brachiopoda</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecarte</ent><br/
-\'d8<hw><Eacute/`car`t<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop. p. p. fr. <ets><eacute/carter</ets> to reject, discard.]</ety> <def>A game at cards for two persons, with 32 cards, ranking K, Q, J, A, 10, 9, 8, 7.  Five cards are dealt each player, and the 11th turned as trump.  Five points constitute a game.</def><br/
+<par/<hw><Eacute/`car`t<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop. p. p. fr. <ets><eacute/carter</ets> to reject, discard.]</ety> <def>A game at cards for two persons, with 32 cards, ranking K, Q, J, A, 10, 9, 8, 7.  Five cards are dealt each player, and the 11th turned as trump.  Five points constitute a game.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ecaudate</ent><br/
@@ -1732,11 +1732,11 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecballium</ent><br/
-\'d8<hw>Ec*bal"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Ecbole</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of cucurbitaceous plants consisting of the single species <xex>Ecballium agreste</xex> (or <xex>Elaterium</xex>), the squirting cucumber. Its fruit, when ripe, bursts and violently ejects its seeds, together with a mucilaginous juice, from which elaterium, a powerful cathartic medicine, is prepared.</def><br/
+<par/<hw>Ec*bal"li*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Ecbole</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of cucurbitaceous plants consisting of the single species <xex>Ecballium agreste</xex> (or <xex>Elaterium</xex>), the squirting cucumber. Its fruit, when ripe, bursts and violently ejects its seeds, together with a mucilaginous juice, from which elaterium, a powerful cathartic medicine, is prepared.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecbasis</ent><br/
-\'d8<hw>Ec"ba*sis</hw> <pr>(<ecr/k"b<adot/*s<icr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'e`kbasis</grk> a going out, issue, or event; <grk>'ek</grk> out + <grk>bai`nein</grk> to go.]</ety> <fld>(Rhet.)</fld> <def>A figure in which the orator treats of things according to their events consequences.</def><br/
+<par/<hw>Ec"ba*sis</hw> <pr>(<ecr/k"b<adot/*s<icr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'e`kbasis</grk> a going out, issue, or event; <grk>'ek</grk> out + <grk>bai`nein</grk> to go.]</ety> <fld>(Rhet.)</fld> <def>A figure in which the orator treats of things according to their events consequences.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecbatic</ent><br/
@@ -1744,7 +1744,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecbole</ent><br/
-\'d8<hw>Ec"bo*le</hw> <pr>(<ecr/k"b<osl/*l<emac/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ekbolh`</grk> a throwing out, a digression, fr. <grk>'ekba`llein</grk> to throw out; <grk>'ek</grk> out of + <grk>ba`llein</grk> to throw.]</ety> <fld>(Rhet.)</fld> <def>A digression in which a person is introduced speaking his own words.</def><br/
+<par/<hw>Ec"bo*le</hw> <pr>(<ecr/k"b<osl/*l<emac/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ekbolh`</grk> a throwing out, a digression, fr. <grk>'ekba`llein</grk> to throw out; <grk>'ek</grk> out of + <grk>ba`llein</grk> to throw.]</ety> <fld>(Rhet.)</fld> <def>A digression in which a person is introduced speaking his own words.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecbolic</ent><br/
@@ -1760,7 +1760,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecce homo</ent><br/
-\'d8<hw>Ec"ce ho"mo</hw> <pr>(<ecr/k"s<esl/ h<omac/"m<osl/)</pr>. <ety>[L., behold the man. See John xix. 5.]</ety> <fld>(Paint.)</fld> <def>A picture which represents the Savior as given up to the people by Pilate, and wearing a crown of thorns.</def><br/
+<par/<hw>Ec"ce ho"mo</hw> <pr>(<ecr/k"s<esl/ h<omac/"m<osl/)</pr>. <ety>[L., behold the man. See John xix. 5.]</ety> <fld>(Paint.)</fld> <def>A picture which represents the Savior as given up to the people by Pilate, and wearing a crown of thorns.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eccentric</ent><br/
@@ -1835,7 +1835,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecchymosis</ent><br/
-\'d8<hw>Ec`chy*mo"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecchymoses</plw> <pr>(<?/)</pr>.</plu> <ety>[NL., fr. Gr. <?/, fr. <?/ to extravasate; <grk>'ek</grk> out of + <?/ to pour.]</ety> <fld>(Med.)</fld> <def>A livid or black and blue spot, produced by the extravasation or effusion of blood into the areolar tissue from a contusion.</def><br/
+<par/<hw>Ec`chy*mo"sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecchymoses</plw> <pr>(<?/)</pr>.</plu> <ety>[NL., fr. Gr. <?/, fr. <?/ to extravasate; <grk>'ek</grk> out of + <?/ to pour.]</ety> <fld>(Med.)</fld> <def>A livid or black and blue spot, produced by the extravasation or effusion of blood into the areolar tissue from a contusion.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecchymotic</ent><br/
@@ -1847,7 +1847,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecclesia</ent><br/
-\'d8<hw>Ec*cle"si*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecclesi<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Gr. Antiq.)</fld> <def>The public legislative assembly of the Athenians.</def><br/
+<par/<hw>Ec*cle"si*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecclesi<ae/</plw> <pr>(<?/)</pr>.</plu> <ety>[L., fr. Gr. <?/.]</ety> <sn>1.</sn> <fld>(Gr. Antiq.)</fld> <def>The public legislative assembly of the Athenians.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Eccl.)</fld> <def>A church, either as a body or as a building.</def><br/
@@ -1926,7 +1926,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecdysis</ent><br/
-\'d8<hw>Ec"dy*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecdyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`kdysis</grk> a getting out, fr. <grk>'ekdy`ein</grk>, to put off; <grk>'ek</grk> out + <grk>dy`ein</grk> to enter.]</ety> <fld>(Biol.)</fld> <def>The act of shedding, or casting off, an outer cuticular layer, as in the case of serpents, lobsters, etc.; a coming out; <as>as, the <ex>ecdysis</ex> of the pupa from its shell</as>; exuviation.</def><br/
+<par/<hw>Ec"dy*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecdyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`kdysis</grk> a getting out, fr. <grk>'ekdy`ein</grk>, to put off; <grk>'ek</grk> out + <grk>dy`ein</grk> to enter.]</ety> <fld>(Biol.)</fld> <def>The act of shedding, or casting off, an outer cuticular layer, as in the case of serpents, lobsters, etc.; a coming out; <as>as, the <ex>ecdysis</ex> of the pupa from its shell</as>; exuviation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecgonine</ent><br/
@@ -1934,7 +1934,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>echauguette</ent><br/
-\'d8<hw><Eacute/`chau`guette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small chamber or place of protection for a sentinel, usually in the form of a projecting turret, or the like. See <er>Castle</er>.</def><br/
+<par/<hw><Eacute/`chau`guette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A small chamber or place of protection for a sentinel, usually in the form of a projecting turret, or the like. See <er>Castle</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eche</ent><br/
@@ -1973,7 +1973,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Echidna</ent><br/
-\'d8<hw>E*chid"na</hw> <pr>(<esl/*k<icr/d"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a viper, adder, Gr. <grk>'e`chidna</grk>.]</ety> <sn>1.</sn> <fld>(Gr. Myth.)</fld> <def>A monster, half maid and half serpent.</def><br/
+<par/<hw>E*chid"na</hw> <pr>(<esl/*k<icr/d"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a viper, adder, Gr. <grk>'e`chidna</grk>.]</ety> <sn>1.</sn> <fld>(Gr. Myth.)</fld> <def>A monster, half maid and half serpent.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of <ord>Monotremata</ord> found in Australia, Tasmania, and New Guinea. They are toothless and covered with spines; -- called also <altname>porcupine ant-eater</altname>, and <altname>Australian ant-eater</altname>.</def><br/
@@ -2018,7 +2018,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Echinococcus</ent><br/
-\'d8<hw>E*chi`no*coc"cus</hw> <pr>(<ecr/*k<imac/"n<osl/*k<ocr/k*k)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>ko`kkos</grk> grain, seed, berry. So called because forming little granular bodies, each armed with hooklets and disposed upon the inner wall of the hydatid cysts.]</ety> <fld>(Zo<oum/l.)</fld> <def>A parasite of man and of many domestic and wild animals, forming compound cysts or tumors (called hydatid cysts) in various organs, but especially in the liver and lungs, which often cause death. It is the larval stage of the <spn>T<ae/nia echinococcus</spn>, a small tapeworm peculiar to the dog.  The adult form is not found in man.</def><br/
+<par/<hw>E*chi`no*coc"cus</hw> <pr>(<ecr/*k<imac/"n<osl/*k<ocr/k*k)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>ko`kkos</grk> grain, seed, berry. So called because forming little granular bodies, each armed with hooklets and disposed upon the inner wall of the hydatid cysts.]</ety> <fld>(Zo<oum/l.)</fld> <def>A parasite of man and of many domestic and wild animals, forming compound cysts or tumors (called hydatid cysts) in various organs, but especially in the liver and lungs, which often cause death. It is the larval stage of the <spn>T<ae/nia echinococcus</spn>, a small tapeworm peculiar to the dog.  The adult form is not found in man.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>echinocyte</ent><br/
@@ -2034,7 +2034,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinodermata</ent><br/
-\'d8<hw>E*chi`no*der"ma*ta</hw> <pr>(<esl/*k<imac/`n<osl/*d<etil/r"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>de`rma</grk>, <grk>-atos</grk>, skin.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the grand divisions of the animal kingdom. By many writers it was formerly included in the Radiata.</def> <altsp>[Written also <asp>Echinoderma</asp>.]</altsp><br/
+<par/<hw>E*chi`no*der"ma*ta</hw> <pr>(<esl/*k<imac/`n<osl/*d<etil/r"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>de`rma</grk>, <grk>-atos</grk>, skin.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the grand divisions of the animal kingdom. By many writers it was formerly included in the Radiata.</def> <altsp>[Written also <asp>Echinoderma</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 469 --></p>
@@ -2051,11 +2051,11 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinoidea</ent><br/
-\'d8<hw>Ech`i*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Echinus</er>, and <er>-oid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>The class Echinodermata which includes the sea urchins.  They have a calcareous shell, usually more or less spheroidal or disk-shaped, composed of many united plates, and covered with movable spines. See <er>Spatangoid</er>, <er>Clypeastroid</er>.</def> <altsp>[Written also <asp>Echinidea</asp>, and <asp>Echinoida</asp>.]</altsp><br/
+<par/<hw>Ech`i*noi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Echinus</er>, and <er>-oid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>The class Echinodermata which includes the sea urchins.  They have a calcareous shell, usually more or less spheroidal or disk-shaped, composed of many united plates, and covered with movable spines. See <er>Spatangoid</er>, <er>Clypeastroid</er>.</def> <altsp>[Written also <asp>Echinidea</asp>, and <asp>Echinoida</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinozoa</ent><br/
-\'d8<hw>E*chi`no*zo"a</hw> <pr>(<esl/*k<imac/`n<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> an echinus + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>The Echinodermata.</def><br/
+<par/<hw>E*chi`no*zo"a</hw> <pr>(<esl/*k<imac/`n<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> an echinus + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>The Echinodermata.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinulate</ent><br/
@@ -2064,7 +2064,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echinus</ent><br/
-\'d8<hw>E*chi"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echini</plw> <pr>(#)</pr>.</plu> <ety>[L., a hedgehog, sea urchin, Gr. <grk>'echi^nos</grk>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>A hedgehog.</def><br/
+<par/<hw>E*chi"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echini</plw> <pr>(#)</pr>.</plu> <ety>[L., a hedgehog, sea urchin, Gr. <grk>'echi^nos</grk>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>A hedgehog.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of echinoderms, including the common edible sea urchin of Europe.</def><br/
@@ -2074,7 +2074,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echiuroidea</ent><br/
-\'d8<hw>Ech`i*u*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>echiurus</ets>, the name of one genus (Gr. <grk>'e`chis</grk> an adder + <grk>o'yra`</grk> tail) + <ets>-oid</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A division of Annelida which includes the genus <gen>Echiurus</gen> and allies. They are often classed among the Gephyrea, and called the <altname>armed Gephyreans</altname>.</def><br/
+<par/<hw>Ech`i*u*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>echiurus</ets>, the name of one genus (Gr. <grk>'e`chis</grk> an adder + <grk>o'yra`</grk> tail) + <ets>-oid</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A division of Annelida which includes the genus <gen>Echiurus</gen> and allies. They are often classed among the Gephyrea, and called the <altname>armed Gephyreans</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Echo</ent><br/
@@ -2189,7 +2189,7 @@ Is <qex>echoed</qex> on forever.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eclair</ent><br/
-\'d8<hw><Eacute/`clair"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Cookery)</fld> <def>A kind of frosted cake, containing flavored cream.</def><br/
+<par/<hw><Eacute/`clair"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Cookery)</fld> <def>A kind of frosted cake, containing flavored cream.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eclaircise</ent><br/
@@ -2197,21 +2197,21 @@ Is <qex>echoed</qex> on forever.</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eclaircissement</ent><br/
-\'d8<hw>E*clair"cisse*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/claircir</ets>. See <er>Eclaircise</er>, <pos>v. t.</pos>]</ety> <def>The clearing up of anything which is obscure or not easily understood; an explanation.</def><br/
+<par/<hw>E*clair"cisse*ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/claircir</ets>. See <er>Eclaircise</er>, <pos>v. t.</pos>]</ety> <def>The clearing up of anything which is obscure or not easily understood; an explanation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The <qex>eclaircissement</qex> ended in the discovery of the informer.</q> <rj><qau>Clarendon.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eclampsia</ent><br/
-\'d8<hw>Ec*lamp"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a shining forth, fr. <?/ to shine forth; <?/  out + <?/ to shine.]</ety> <fld>(Med.)</fld> <def>A fancied perception of flashes of light, a symptom of epilepsy; hence, epilepsy itself; convulsions.</def><br/
+<par/<hw>Ec*lamp"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a shining forth, fr. <?/ to shine forth; <?/  out + <?/ to shine.]</ety> <fld>(Med.)</fld> <def>A fancied perception of flashes of light, a symptom of epilepsy; hence, epilepsy itself; convulsions.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term is generally restricted to a convulsive affection attending pregnancy and parturition, and to infantile convulsions.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eclampsy</ent><br/
-\'d8<hw>Ec*lamp"sy</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Same as <er>Eclampsia</er>.</def><br/
+<par/<hw>Ec*lamp"sy</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Same as <er>Eclampsia</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eclat</ent><br/
@@ -2489,11 +2489,11 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecorche</ent><br/
-\'d8<hw><Eacute/`cor`ch<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fine Arts)</fld> <def>A manikin, or image, representing an animal, especially man, with the skin removed so that the muscles are exposed for purposes of study.</def><br/
+<par/<hw><Eacute/`cor`ch<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fine Arts)</fld> <def>A manikin, or image, representing an animal, especially man, with the skin removed so that the muscles are exposed for purposes of study.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecossaise</ent><br/
-\'d8<hw><Eacute/`cos`saise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A dancing tune in the Scotch style.</def><br/
+<par/<hw><Eacute/`cos`saise"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mus.)</fld> <def>A dancing tune in the Scotch style.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecostate</ent><br/
@@ -2501,15 +2501,15 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecoute</ent><br/
-\'d8<hw><Eacute/`coute"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., a listening place.]</ety> <fld>(Mil.)</fld> <def>One of the small galleries run out in front of the glacis. They serve to annoy the enemy's miners.</def><br/
+<par/<hw><Eacute/`coute"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., a listening place.]</ety> <fld>(Mil.)</fld> <def>One of the small galleries run out in front of the glacis. They serve to annoy the enemy's miners.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecphasis</ent><br/
-\'d8<hw>Ec"pha*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/  to speak out.]</ety> <fld>(Rhet.)</fld> <def>An explicit declaration.</def><br/
+<par/<hw>Ec"pha*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/  to speak out.]</ety> <fld>(Rhet.)</fld> <def>An explicit declaration.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecphonema</ent><br/
-\'d8<hw>Ec`pho*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a thing called out, fr. <?/ to cry out; <grk>'ek</grk> out + <?/ voice.]</ety> <fld>(Rhet.)</fld> <def>A breaking out with some interjectional particle.</def><br/
+<par/<hw>Ec`pho*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a thing called out, fr. <?/ to cry out; <grk>'ek</grk> out + <?/ voice.]</ety> <fld>(Rhet.)</fld> <def>A breaking out with some interjectional particle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecphoneme</ent><br/
@@ -2517,7 +2517,7 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecphonesis</ent><br/
-\'d8<hw>Ec`pho*ne"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Ecphonema</er>.]</ety> <fld>(Rhet.)</fld> <def>An animated or passionate exclamation.</def><br/
+<par/<hw>Ec`pho*ne"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Ecphonema</er>.]</ety> <fld>(Rhet.)</fld> <def>An animated or passionate exclamation.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>The feelings by the <qex>ecphonesis</qex> are very various.</q> <rj><qau>Gibbs.</qau></rj><br/
@@ -2528,7 +2528,7 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecrasement</ent><br/
-\'d8<hw><Eacute/`crase`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Surg.)</fld> <def>The operation performed with an <eacute/craseur.</def><br/
+<par/<hw><Eacute/`crase`ment"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Surg.)</fld> <def>The operation performed with an <eacute/craseur.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecraseur</ent><br/
@@ -2536,7 +2536,7 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ecru</ent><br/
-\'d8<hw><Eacute/`cru"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>crudus</ets> raw.]</ety> <def>Having the color or appearance of unbleached stuff, as silk, linen, or the like.</def><br/
+<par/<hw><Eacute/`cru"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., fr. L. <ets>crudus</ets> raw.]</ety> <def>Having the color or appearance of unbleached stuff, as silk, linen, or the like.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecstasy</ent><br/
@@ -2614,11 +2614,11 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectasia</ent><br/
-\'d8<hw>Ec*ta"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Ectasis</er>.]</ety> <fld>(Med.)</fld> <def>A dilatation of a hollow organ or of a canal.</def><br/
+<par/<hw>Ec*ta"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Ectasis</er>.]</ety> <fld>(Med.)</fld> <def>A dilatation of a hollow organ or of a canal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectasis</ent><br/
-\'d8<hw>Ec"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'ek</grk> out + <?/ to stretch.]</ety> <fld>(Pros.)</fld> <def>The lengthening of a syllable from short to long.</def><br/
+<par/<hw>Ec"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'ek</grk> out + <?/ to stretch.]</ety> <fld>(Pros.)</fld> <def>The lengthening of a syllable from short to long.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectental</ent><br/
@@ -2634,18 +2634,18 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecthlipsis</ent><br/
-\'d8<hw>Ec*thlip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to squeeze out.]</ety> <sn>1.</sn> <def>The dropping out or suppression from a word of a consonant, with or without a vowel.</def><br/
+<par/<hw>Ec*thlip"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to squeeze out.]</ety> <sn>1.</sn> <def>The dropping out or suppression from a word of a consonant, with or without a vowel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Lat. Pros.)</fld> <def>The elision of a final <xex>m</xex>, with the preceding vowel, before a word beginning with a vowel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecthoreum</ent><br/
-\'d8<hw>Ec`tho*re"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecthorea</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ to leap out; <grk>ek</grk> out + <?/, <?/, to leap, dart.]</ety> <fld>(Zo<oum/l.)</fld> <def>The slender, hollow thread of a nettling cell or cnida. See <er>Nettling cell</er>.</def> <altsp>[Written also <asp>ecthor<ae/um</asp>.]</altsp><br/
+<par/<hw>Ec`tho*re"um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecthorea</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ to leap out; <grk>ek</grk> out + <?/, <?/, to leap, dart.]</ety> <fld>(Zo<oum/l.)</fld> <def>The slender, hollow thread of a nettling cell or cnida. See <er>Nettling cell</er>.</def> <altsp>[Written also <asp>ecthor<ae/um</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecthyma</ent><br/
-\'d8<hw>Ec*thy"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecthymata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ pimple, fr. <?/ to break out.]</ety> <fld>(Med.)</fld> <def>A cutaneous eruption, consisting of large, round pustules, upon an indurated and inflamed base.</def>  <rj><au>Dunglison.</au></rj><br/
+<par/<hw>Ec*thy"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ecthymata</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ pimple, fr. <?/ to break out.]</ety> <fld>(Med.)</fld> <def>A cutaneous eruption, consisting of large, round pustules, upon an indurated and inflamed base.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ecto-</ent><br/
@@ -2657,7 +2657,7 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectobronchium</ent><br/
-\'d8<hw>Ec`to*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ectobronchia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ecto-</er>, and <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>One of the dorsal branches of the main bronchi in the lungs of birds.</def></p>
+<par/<hw>Ec`to*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ectobronchia</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ecto-</er>, and <er>Bronchia</er>.]</ety> <fld>(Anat.)</fld> <def>One of the dorsal branches of the main bronchi in the lungs of birds.</def></p>
 
 <p><ent>Ectocuniform</ent><br/
 <ent>Ectocuneriform</ent><br/
@@ -2689,7 +2689,7 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectopia</ent><br/
-\'d8<hw>Ec*to"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ek</grk> out + <?/ place.]</ety> <fld>(Med.)</fld> <def>A morbid displacement of parts, especially such as is congenial; <as>as, <ex>ectopia</ex> of the heart, or of the bladder</as>.</def><br/
+<par/<hw>Ec*to"pi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ek</grk> out + <?/ place.]</ety> <fld>(Med.)</fld> <def>A morbid displacement of parts, especially such as is congenial; <as>as, <ex>ectopia</ex> of the heart, or of the bladder</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectopic</ent><br/
@@ -2705,7 +2705,7 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectoprocta</ent><br/
-\'d8<hw>Ec`to*proc"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ekto`s</grk> outside outside + <?/ the anus.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of Bryozoa in which the anus lies outside the circle of tentacles.</def><br/
+<par/<hw>Ec`to*proc"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ekto`s</grk> outside outside + <?/ the anus.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of Bryozoa in which the anus lies outside the circle of tentacles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectopy</ent><br/
@@ -2725,7 +2725,7 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectostosis</ent><br/
-\'d8<hw>Ec`tos*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Ect-</er>, and <er>Ostosis</er>.]</ety> <fld>(Physiol.)</fld> <def>A process of bone formation in which ossification takes place in the perichondrium and either surrounds or gradually replaces the cartilage.</def><br/
+<par/<hw>Ec`tos*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Ect-</er>, and <er>Ostosis</er>.]</ety> <fld>(Physiol.)</fld> <def>A process of bone formation in which ossification takes place in the perichondrium and either surrounds or gradually replaces the cartilage.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectozoic</ent><br/
@@ -2733,15 +2733,15 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectozoon</ent><br/
-\'d8<hw>Ec`to*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ectozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'ekto`s</grk> outside outside + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>See <er>Epizo<oum/n</er>.</def><br/
+<par/<hw>Ec`to*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ectozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'ekto`s</grk> outside outside + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>See <er>Epizo<oum/n</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectropion</ent><br/
-\'d8<hw>Ec*tro"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ a turning aside; <?/ from + <?/ to turn.]</ety> <fld>(Med.)</fld> <def>An unnatural eversion of the eyelids.</def><br/
+<par/<hw>Ec*tro"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ a turning aside; <?/ from + <?/ to turn.]</ety> <fld>(Med.)</fld> <def>An unnatural eversion of the eyelids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectropium</ent><br/
-\'d8<hw>Ec*tro"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Ectropion</er>.</def><br/
+<par/<hw>Ec*tro"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Ectropion</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ectrotic</ent><br/
@@ -2882,7 +2882,7 @@ From the bare wild the dissipated storm.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Edelweiss</ent><br/
-\'d8<hw>E"del*weiss</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>edel</ets> noble + <ets>weiss</ets> white.]</ety> <fld>(Bot.)</fld> <def>A little, perennial, white, woolly plant (<spn>Leontopodium alpinum</spn>), growing at high elevations in the Alps.  It is the national flower of Austria.</def><br/
+<par/<hw>E"del*weiss</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>edel</ets> noble + <ets>weiss</ets> white.]</ety> <fld>(Bot.)</fld> <def>A little, perennial, white, woolly plant (<spn>Leontopodium alpinum</spn>), growing at high elevations in the Alps.  It is the national flower of Austria.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Edema</ent><br/
@@ -2918,7 +2918,7 @@ From the bare wild the dissipated storm.</q> <rj><qau>Thomson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edentata</ent><br/
-\'d8<hw>E`den*ta"ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., neut. pl. from L. <ets>edentatus</ets>, p. p. of <ets>edentare</ets> to render toothless; <ets>e</ets> out + <ets>dens</ets>, <ets>dentis</ets>, tooth.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of mammals including the armadillos, sloths, and anteaters; -- called also <altname>Bruta</altname>.  The incisor teeth are rarely developed, and in some groups all the teeth are lacking.</def><br/
+<par/<hw>E`den*ta"ta</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., neut. pl. from L. <ets>edentatus</ets>, p. p. of <ets>edentare</ets> to render toothless; <ets>e</ets> out + <ets>dens</ets>, <ets>dentis</ets>, tooth.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of mammals including the armadillos, sloths, and anteaters; -- called also <altname>Bruta</altname>.  The incisor teeth are rarely developed, and in some groups all the teeth are lacking.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edentate</ent><br/
@@ -3212,7 +3212,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>edition de luxe</ent><br/
-\'d8<hw><Eacute/`di`tion" de luxe"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>See <er>Luxe</er>.</def><br/
+<par/<hw><Eacute/`di`tion" de luxe"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>See <er>Luxe</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Editioner</ent><br/
@@ -3260,7 +3260,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edriophthalma</ent><br/
-\'d8<hw>Ed`ri*oph*thal"ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"edrai^os</grk> steadfast + <grk>'ofqalmo`s</grk> the eye.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Crustacea in which the eyes are without stalks; the Arthrostraca.</def> <altsp>[Written also <asp>Edriophthalmata</asp>.]</altsp><br/
+<par/<hw>Ed`ri*oph*thal"ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"edrai^os</grk> steadfast + <grk>'ofqalmo`s</grk> the eye.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Crustacea in which the eyes are without stalks; the Arthrostraca.</def> <altsp>[Written also <asp>Edriophthalmata</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Edriophthalmous</ent><br/
@@ -3893,7 +3893,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Effigies</ent><br/
-\'d8<hw>Ef*fig"i*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Effigy</er>.</def>  <rj><au>Dryden.</au></rj><br/
+<par/<hw>Ef*fig"i*es</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Effigy</er>.</def>  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Effigy</ent><br/
@@ -4286,7 +4286,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egesta</ent><br/
-\'d8<hw>E*ges"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., neut. pl. from p. p. of L. <ets>egere</ets>. See <er>Egest</er>.]</ety> <fld>(Physiol.)</fld> <def>That which is egested or thrown off from the body by the various excretory channels; excrements; -- opposed to <contr>ingesta</contr>.</def><br/
+<par/<hw>E*ges"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., neut. pl. from p. p. of L. <ets>egere</ets>. See <er>Egest</er>.]</ety> <fld>(Physiol.)</fld> <def>That which is egested or thrown off from the body by the various excretory channels; excrements; -- opposed to <contr>ingesta</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Egestion</ent><br/
@@ -4723,7 +4723,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eidolon</ent><br/
-\'d8<hw>Ei*do"lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.  <?/ image. See <er>Idol</er>.]</ety> <def>An image or representation; a form; a phantom; an apparition.</def>  <rj><au>Sir W. Scott.</au></rj><br/
+<par/<hw>Ei*do"lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.  <?/ image. See <er>Idol</er>.]</ety> <def>An image or representation; a form; a phantom; an apparition.</def>  <rj><au>Sir W. Scott.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eigh</ent><br/
@@ -4873,7 +4873,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eikon</ent><br/
-\'d8<hw>Ei"kon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>e'ikw`n</grk>.]</ety> <sn>1.</sn> <def>An image or effigy; -- used rather in an abstract sense, and rarely for a work of art.</def><br/
+<par/<hw>Ei"kon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>e'ikw`n</grk>.]</ety> <sn>1.</sn> <def>An image or effigy; -- used rather in an abstract sense, and rarely for a work of art.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>an ikon.</def><br/
@@ -5028,7 +5028,7 @@ In curls on <qex>either</qex> cheek played.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ejecta</ent><br/
-\'d8<hw>E*jec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., neut. pl. of <ets>ejectus</ets> cast out. See <er>Eject</er>.]</ety> <def>Matter ejected; material thrown out; <as>as, the <ex>ejecta</ex> of a volcano; the <ex>ejecta</ex>, or excreta, of the body</as>.</def><br/
+<par/<hw>E*jec"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., neut. pl. of <ets>ejectus</ets> cast out. See <er>Eject</er>.]</ety> <def>Matter ejected; material thrown out; <as>as, the <ex>ejecta</ex> of a volcano; the <ex>ejecta</ex>, or excreta, of the body</as>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ejection</ent><br/
@@ -5062,7 +5062,7 @@ In curls on <qex>either</qex> cheek played.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ejoo</ent><br/
-\'d8<hw>E"joo</hw> <pr>(<emac/"j<oomac/)</pr>, <pos>n.</pos> <ety>[Malay <ets><imac/j<umac/</ets> or <ets>h<imac/j<umac/</ets>.]</ety> <def>Gomuti fiber. See <er>Gomuti</er>.</def><br/
+<par/<hw>E"joo</hw> <pr>(<emac/"j<oomac/)</pr>, <pos>n.</pos> <ety>[Malay <ets><imac/j<umac/</ets> or <ets>h<imac/j<umac/</ets>.]</ety> <def>Gomuti fiber. See <er>Gomuti</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ejulation</ent><br/
@@ -5181,11 +5181,11 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elaeagnus</ent><br/
-\'d8<hw>E`l<ae/*ag"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a B<oe/otian marsh plant; <?/ olive + <?/ sacred, pure.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs or small trees, having the foliage covered with small silvery scales; oleaster.</def><br/
+<par/<hw>E`l<ae/*ag"nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a B<oe/otian marsh plant; <?/ olive + <?/ sacred, pure.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs or small trees, having the foliage covered with small silvery scales; oleaster.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elaeis</ent><br/
-\'d8<hw>E*l<ae/"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ olive tree.]</ety> <fld>(Bot.)</fld> <def>A genus of palms.</def><br/
+<par/<hw>E*l<ae/"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ olive tree.]</ety> <fld>(Bot.)</fld> <def>A genus of palms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <xex>El<ae/is Guineensis</xex>, the African oil palm, is a tree twenty or thirty feet high, with immense pinnate leaves and large masses of fruit. The berries are rather larger than olives, and when boiled in water yield the orange-red palm oil.</note><br/
@@ -5238,7 +5238,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>elan</ent><br/
-\'d8<hw><Eacute/`lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lancer</ets> to dart.]</ety> <def>Ardor inspired by passion or enthusiasm.</def><br/
+<par/<hw><Eacute/`lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lancer</ets> to dart.]</ety> <def>Ardor inspired by passion or enthusiasm.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elance</ent><br/
@@ -5298,7 +5298,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elaps</ent><br/
-\'d8<hw>E"laps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., of uncertain origin.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of venomous snakes found both in America and the Old World. Many species are known. See <cref>Coral snake</cref>, under <er>Coral</er>.</def><br/
+<par/<hw>E"laps</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., of uncertain origin.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of venomous snakes found both in America and the Old World. Many species are known. See <cref>Coral snake</cref>, under <er>Coral</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elapse</ent><br/
@@ -5317,7 +5317,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elasipoda</ent><br/
-\'d8<hw>El`a*sip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ metal beaten out, metal plate + <ets>-poda</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of holothurians mostly found in the deep sea. They are remarkable for their bilateral symmetry and curious forms.</def> <altsp>[Written also <asp>Elasmopoda</asp>.]</altsp><br/
+<par/<hw>El`a*sip"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ metal beaten out, metal plate + <ets>-poda</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of holothurians mostly found in the deep sea. They are remarkable for their bilateral symmetry and curious forms.</def> <altsp>[Written also <asp>Elasmopoda</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elasmobranch</ent><br/
@@ -5329,11 +5329,11 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elasmobranchii</ent><br/
-\'d8<hw>E*las`mo*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a metal plate + L. <ets>branchia</ets> a gill.]</ety> <fld>(Zo<oum/l.)</fld> <def>A subclass of fishes, comprising the sharks, the rays, and the Chim<ae/ra. The skeleton is mainly cartilaginous.</def><br/
+<par/<hw>E*las`mo*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ a metal plate + L. <ets>branchia</ets> a gill.]</ety> <fld>(Zo<oum/l.)</fld> <def>A subclass of fishes, comprising the sharks, the rays, and the Chim<ae/ra. The skeleton is mainly cartilaginous.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elasmosaurus</ent><br/
-\'d8<hw>E*las`mo*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a metal plate + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct, long-necked, marine, cretaceous reptile from Kansas, allied to Plesiosaurus.</def><br/
+<par/<hw>E*las`mo*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a metal plate + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct, long-necked, marine, cretaceous reptile from Kansas, allied to Plesiosaurus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elastic</ent><br/
@@ -5446,7 +5446,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elater</ent><br/
-\'d8<hw>El"a*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ driver, fr. <?/ to drive.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>An elastic spiral filament for dispersing the spores, as in some liverworts.</def><br/
+<par/<hw>El"a*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ driver, fr. <?/ to drive.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>An elastic spiral filament for dispersing the spores, as in some liverworts.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>Any beetle of the family <fam>Elaterid<ae/</fam>, having the habit, when laid on the back, of giving a sudden upward spring, by a quick movement of the articulation between the abdomen and thorax; -- called also <altname>click beetle</altname>, <altname>spring beetle</altname>, and <altname>snapping beetle</altname>.</def><br/
@@ -6401,7 +6401,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Electrophorus</ent><br/
-\'d8<hw>E*lec`troph"o*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it>  <plw>\'d8Electrophori</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. combining form <ets>electro-</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Physics)</fld> <def>An instrument for exciting electricity, and repeating the charge indefinitely by induction, consisting of a flat cake of resin, shellac, or ebonite, upon which is placed a plate of metal.</def><br/
+<par/<hw>E*lec`troph"o*rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it>  <plw><par/Electrophori</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. combining form <ets>electro-</ets> + Gr. <grk>fe`rein</grk> to bear.]</ety> <fld>(Physics)</fld> <def>An instrument for exciting electricity, and repeating the charge indefinitely by induction, consisting of a flat cake of resin, shellac, or ebonite, upon which is placed a plate of metal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Electro-physiological</ent><br/
@@ -6426,7 +6426,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><ent>Electropoion fluid</ent><br/
 <ent>Electropoion</ent><br/
-<mhw>\'d8<hw>E*lec`tro*poi"on</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Electropoion fluid</hw></mhw>. <ety>[NL.; <ets>electro-</ets> + Gr. <grk>poiw^n</grk>, p. pr. of <grk>poiei^n</grk> to make.]</ety> <fld>(Elec.)</fld> <def>An exciting and depolarizing acid solution used in certain cells or batteries, as the Grenet battery. Electropoion is best prepared by mixing one gallon of concentrated sulphuric acid diluted with three gallons of water, with a solution of six pounds of potassium bichromate in two gallons of boiling water. It should be used cold.</def><br/
+<mhw><par/<hw>E*lec`tro*poi"on</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Electropoion fluid</hw></mhw>. <ety>[NL.; <ets>electro-</ets> + Gr. <grk>poiw^n</grk>, p. pr. of <grk>poiei^n</grk> to make.]</ety> <fld>(Elec.)</fld> <def>An exciting and depolarizing acid solution used in certain cells or batteries, as the Grenet battery. Electropoion is best prepared by mixing one gallon of concentrated sulphuric acid diluted with three gallons of water, with a solution of six pounds of potassium bichromate in two gallons of boiling water. It should be used cold.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Electro-polar</ent><br/
@@ -6514,7 +6514,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Electrotonus</ent><br/
-\'d8<hw>E`lec*trot"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. combining form <ets>electro-</ets> + Gr. <?/ tension.]</ety> <fld>(Physiol.)</fld> <def>The modified condition of a nerve, when a constant current of electricity passes through any part of it. See <er>Anelectrotonus</er>, and <er>Catelectrotonus</er>.</def><br/
+<par/<hw>E`lec*trot"o*nus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. combining form <ets>electro-</ets> + Gr. <?/ tension.]</ety> <fld>(Physiol.)</fld> <def>The modified condition of a nerve, when a constant current of electricity passes through any part of it. See <er>Anelectrotonus</er>, and <er>Catelectrotonus</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Electrotype</ent><br/
@@ -6652,7 +6652,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elegit</ent><br/
-\'d8<hw>E*le"git</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has chosen, fr. <ets>eligere</ets> to choose. See <er>Elect</er>.]</ety> <fld>(Law)</fld> <def>A judicial writ of execution, by which a defendant's goods are appraised and delivered to the plaintiff, and, if not sufficient to satisfy the debt, all of his lands are delivered, to be held till the debt is paid by the rents and profits, or until the defendant's interest has expired.</def><br/
+<par/<hw>E*le"git</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., he has chosen, fr. <ets>eligere</ets> to choose. See <er>Elect</er>.]</ety> <fld>(Law)</fld> <def>A judicial writ of execution, by which a defendant's goods are appraised and delivered to the plaintiff, and, if not sufficient to satisfy the debt, all of his lands are delivered, to be held till the debt is paid by the rents and profits, or until the defendant's interest has expired.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elegize</ent><br/
@@ -6926,7 +6926,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elenchus</ent><br/
-\'d8<hw>E*len"chus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Elench</er>.</def></p>
+<par/<hw>E*len"chus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>Same as <er>Elench</er>.</def></p>
 
 <p><ent>Elenctical</ent><br/
 <ent>Elenctic</ent><br/
@@ -6961,7 +6961,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elephantiasis</ent><br/
-\'d8<hw>El`e*phan*ti"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, from <grk>'ele`fas</grk>, <grk>'ele`fantos</grk>, an elephant.]</ety> <fld>(Med.)</fld> <def>A disease of the skin, in which it become enormously thickened, and is rough, hard, and fissured, like an elephant's hide.</def><br/
+<par/<hw>El`e*phan*ti"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, from <grk>'ele`fas</grk>, <grk>'ele`fantos</grk>, an elephant.]</ety> <fld>(Med.)</fld> <def>A disease of the skin, in which it become enormously thickened, and is rough, hard, and fissured, like an elephant's hide.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elephantidae</ent><br/
@@ -7000,7 +7000,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Eleutheromania</ent><br/
-\'d8<hw>E*leu`ther*o*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr.  <grk>'eleu`qeros</grk> free + E. <ets>mania</ets>.]</ety> <def>A mania or frantic zeal for freedom.</def> <mark>[R.]</mark>  <rj><au>Carlyle.</au></rj><br/
+<par/<hw>E*leu`ther*o*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr.  <grk>'eleu`qeros</grk> free + E. <ets>mania</ets>.]</ety> <def>A mania or frantic zeal for freedom.</def> <mark>[R.]</mark>  <rj><au>Carlyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eleutheromaniac</ent><br/
@@ -7120,7 +7120,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <p><-- p. 480 --></p>
 
 <p><ent>eleve</ent><br/
-\'d8<hw><Eacute/`l<egrave/ve"</hw> <pr>(<asl/`l<asl/v")</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lever</ets> to raise, bring up.]</ety> <def>A pupil; a student.</def><br/
+<par/<hw><Eacute/`l<egrave/ve"</hw> <pr>(<asl/`l<asl/v")</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lever</ets> to raise, bring up.]</ety> <def>A pupil; a student.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eleven</ent><br/
@@ -7346,7 +7346,7 @@ Through provinces of thought yet unexplored.</q> <rj><qau>Young.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>elite</ent><br/
-\'d8<hw><Eacute/`lite"</hw> <pr>(<amac/`l<emac/t")</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lire</ets> to choose, L.  <ets>eligere</ets>. See <er>Elect</er>.]</ety> <sn>1.</sn> <def>A choice or select body; the flower; <as>as, the <ex><eacute/lite</ex> of society</as>.</def><br/
+<par/<hw><Eacute/`lite"</hw> <pr>(<amac/`l<emac/t")</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lire</ets> to choose, L.  <ets>eligere</ets>. See <er>Elect</er>.]</ety> <sn>1.</sn> <def>A choice or select body; the flower; <as>as, the <ex><eacute/lite</ex> of society</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>See <er>Army organization</er>, <xex>Switzerland</xex>.</def><br/
@@ -7639,7 +7639,7 @@ The tongue not made for speech to speak thy praise.</q> <rj><qau>Milton.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eloge</ent><br/
-\'d8<hw><Eacute/`loge"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Elogium</er>.]</ety> <def>A panegyrical funeral oration.</def><br/
+<par/<hw><Eacute/`loge"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Elogium</er>.]</ety> <def>A panegyrical funeral oration.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Elogist</ent><br/
@@ -8099,7 +8099,7 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>aemail ombrant</ent><br/
-\'d8<hw><ae/`mail` om`brant"</hw> <pr>(?)</pr>. <ety>[F., shaded enamel.]</ety> <fld>(Fine Arts)</fld> <def>An art or process of flooding transparent colored glaze over designs stamped or molded on earthenware or porcelain.</def>  <rj><au>Ure.</au></rj><br/
+<par/<hw><ae/`mail` om`brant"</hw> <pr>(?)</pr>. <ety>[F., shaded enamel.]</ety> <fld>(Fine Arts)</fld> <def>An art or process of flooding transparent colored glaze over designs stamped or molded on earthenware or porcelain.</def>  <rj><au>Ure.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emanant</ent><br/
@@ -8846,7 +8846,7 @@ With gems and golden luster rich <qex>emblazed</qex>.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emboitement</ent><br/
-\'d8<hw>Em`bo<icir/te"ment`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>embo<icir/ter</ets> to fit in, insert; <ets>en</ets> in + <ets>bo<icir/te</ets> box.]</ety> <fld>(Biol.)</fld> <def>The hypothesis that all living things proceed from pre<eum/xisting germs, and that these encase the germs of all future living things, inclosed one within another.</def>  <rj><au>Buffon.</au></rj><br/
+<par/<hw>Em`bo<icir/te"ment`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>embo<icir/ter</ets> to fit in, insert; <ets>en</ets> in + <ets>bo<icir/te</ets> box.]</ety> <fld>(Biol.)</fld> <def>The hypothesis that all living things proceed from pre<eum/xisting germs, and that these encase the germs of all future living things, inclosed one within another.</def>  <rj><au>Buffon.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Embolden</ent><br/
@@ -8908,7 +8908,7 @@ With gems and golden luster rich <qex>emblazed</qex>.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Embonpoint</ent><br/
-\'d8<hw>Em`bon`point"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>en bon point</ets> in good condition. See <er>Bon</er>, and <er>Point</er>.]</ety> <def>Plumpness of person; -- said especially of persons somewhat corpulent.</def><br/
+<par/<hw>Em`bon`point"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>en bon point</ets> in good condition. See <er>Bon</er>, and <er>Point</er>.]</ety> <def>Plumpness of person; -- said especially of persons somewhat corpulent.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emborder</ent><br/
@@ -8996,7 +8996,7 @@ Androgeo's death.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Embouchure</ent><br/
-\'d8<hw>Em`bou`chure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>emboucher</ets> to put to the mouth; pref. <ets>em-</ets> (L. <ets>in</ets>) + <ets>bouche</ets> the mouth.  Cf. <er>Embouge</er>, <er>Debouch</er>.]</ety> <sn>1.</sn> <def>The mouth of a river; also, the mouth of a cannon.</def><br/
+<par/<hw>Em`bou`chure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>emboucher</ets> to put to the mouth; pref. <ets>em-</ets> (L. <ets>in</ets>) + <ets>bouche</ets> the mouth.  Cf. <er>Embouge</er>, <er>Debouch</er>.]</ety> <sn>1.</sn> <def>The mouth of a river; also, the mouth of a cannon.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The mouthpiece of a wind instrument.</def> <sd>(b)</sd> <def>The shaping of the lips to the mouthpiece; <as>as, a flute player has a good <ex>embouchure</ex></as>.</def><br/
@@ -9580,11 +9580,11 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emeritus</ent><br/
-\'d8<hw>E*mer"i*tus</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., having served out his time, p. p. of <ets>emerere</ets>, <ets>emereri</ets>, to obtain by service, serve out one's term; <ets>e</ets> out + <ets>merere</ets>, <ets>mereri</ets>, to merit, earn, serve.]</ety> <def>Honorably discharged from the performance of public duty on account of age, infirmity, or long and faithful services; -- said of an officer of a college or pastor of a church.</def><br/
+<par/<hw>E*mer"i*tus</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L., having served out his time, p. p. of <ets>emerere</ets>, <ets>emereri</ets>, to obtain by service, serve out one's term; <ets>e</ets> out + <ets>merere</ets>, <ets>mereri</ets>, to merit, earn, serve.]</ety> <def>Honorably discharged from the performance of public duty on account of age, infirmity, or long and faithful services; -- said of an officer of a college or pastor of a church.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emeritus</ent><br/
-\'d8<hw>E*mer"i*tus</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Emeriti</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A veteran who has honorably completed his service.</def></p>
+<par/<hw>E*mer"i*tus</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Emeriti</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>A veteran who has honorably completed his service.</def></p>
 
 <p><ent>Emeroids</ent><br/
 <ent>Emerods</ent><br/
@@ -9615,7 +9615,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 <p><-- p. 485 --></p>
 
 <p><ent>Emesis</ent><br/
-\'d8<hw>Em"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Emetic</er>.]</ety> <fld>(Med.)</fld> <def>A vomiting.</def><br/
+<par/<hw>Em"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Emetic</er>.]</ety> <fld>(Med.)</fld> <def>A vomiting.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emetic</ent><br/
@@ -9639,7 +9639,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>emeute</ent><br/
-\'d8<hw><Eacute/`meute"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A seditious tumult; an outbreak.</def><br/
+<par/<hw><Eacute/`meute"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A seditious tumult; an outbreak.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>E. M. F.</ent><br/
@@ -9654,7 +9654,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emgalla</ent><br/
-\'d8<hw>Em*gal"la</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <ety>[Native name.]</ety> <def>The South African wart hog. See <er>Wart hog</er>.</def><br/
+<par/<hw>Em*gal"la</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <ety>[Native name.]</ety> <def>The South African wart hog. See <er>Wart hog</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emicant</ent><br/
@@ -9726,7 +9726,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>emigre</ent><br/
-\'d8<hw><Eacute/`mi`gr<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., emigrant.]</ety> <sn>1.</sn> <def>One of the natives of <country>France</country> who were opposed to the first Revolution, and who left their country in consequence.</def><br/
+<par/<hw><Eacute/`mi`gr<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., emigrant.]</ety> <sn>1.</sn> <def>One of the natives of <country>France</country> who were opposed to the first Revolution, and who left their country in consequence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <specif>Hence:</specif> <def>Any emigrant, especially one who had fled his/her native land due to political conditions.</def><br/
@@ -9896,7 +9896,7 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emmetropia</ent><br/
-\'d8<hw>Em`me*tro"pi*a</hw> <pr>(<ecr/m"m<esl/*tr<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`mmetros</grk> in measure, proportioned, suitable (<grk>'en</grk> in + <grk>me`tron</grk> measure) + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, eye.]</ety> <fld>(Med.)</fld> <def>That refractive condition of the eye in which the rays of light are all brought accurately and without undue effort to a focus upon the retina; -- opposed to <contr>hypermetropia</contr>, <contr>myopia</contr>, and <contr>astigmatism</contr>.</def><br/
+<par/<hw>Em`me*tro"pi*a</hw> <pr>(<ecr/m"m<esl/*tr<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`mmetros</grk> in measure, proportioned, suitable (<grk>'en</grk> in + <grk>me`tron</grk> measure) + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, eye.]</ety> <fld>(Med.)</fld> <def>That refractive condition of the eye in which the rays of light are all brought accurately and without undue effort to a focus upon the retina; -- opposed to <contr>hypermetropia</contr>, <contr>myopia</contr>, and <contr>astigmatism</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emmetropic</ent><br/
@@ -10244,7 +10244,7 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emphysema</ent><br/
-\'d8<hw>Em`phy*se"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ inflation, fr. <?/ to inflate; <?/ in + <?/ to blow: cf. F. <ets>emphys<egrave/me</ets>.]</ety> <fld>(Med.)</fld> <def>A swelling produced by gas or air diffused in the cellular tissue.</def><br/
+<par/<hw>Em`phy*se"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ inflation, fr. <?/ to inflate; <?/ in + <?/ to blow: cf. F. <ets>emphys<egrave/me</ets>.]</ety> <fld>(Med.)</fld> <def>A swelling produced by gas or air diffused in the cellular tissue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><mcol><col>Emphysema of the lungs</col>, <col>Pulmonary emphysema</col></mcol> <fld>(Med.)</fld>, <cd>a common disease of the lungs in which the air cells are distended and their partition walls ruptured by an abnormal pressure of the air contained in them.</cd></cs><br/
@@ -10255,7 +10255,7 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emphyteusis</ent><br/
-\'d8<hw>Em`phy*teu"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., an implanting, fr.  <?/ to plant or improve land; <?/ in + <?/ to plant.]</ety> <fld>(Rom. Law)</fld> <def>A real right, susceptible of assignment and of descent, charged on productive real estate, the right being coupled with the enjoyment of the property on condition of taking care of the estate and paying taxes, and sometimes a small rent.</def>  <rj><au>Heumann.</au></rj><br/
+<par/<hw>Em`phy*teu"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., an implanting, fr.  <?/ to plant or improve land; <?/ in + <?/ to plant.]</ety> <fld>(Rom. Law)</fld> <def>A real right, susceptible of assignment and of descent, charged on productive real estate, the right being coupled with the enjoyment of the property on condition of taking care of the estate and paying taxes, and sometimes a small rent.</def>  <rj><au>Heumann.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emphyteutic</ent><br/
@@ -10450,7 +10450,7 @@ To turn the glebe.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Employe</ent><br/
-\'d8<hw>Em`ploy`<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>employer</ets>.]</ety> <def>One employed by another; a clerk or workman in the service of an employer.</def><br/
+<par/<hw>Em`ploy`<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., p. p. of <ets>employer</ets>.]</ety> <def>One employed by another; a clerk or workman in the service of an employer.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Employee</ent><br/
@@ -10551,7 +10551,7 @@ The soul is on a rack.</q> <rj><qau>Young.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empressement</ent><br/
-\'d8<hw>Em`presse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[F., fr <ets>s'empresser</ets> to hasten.]</ety> <def>Demonstrative warmth or cordiality of manner; display of enthusiasm.</def></p>
+<par/<hw>Em`presse`ment"</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[F., fr <ets>s'empresser</ets> to hasten.]</ety> <def>Demonstrative warmth or cordiality of manner; display of enthusiasm.</def></p>
 
 <p><q>He grasped my hand with a nervous <qex>empressement</qex>.</q>  <rj><qau>Poe.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -10590,7 +10590,7 @@ But here thy sword can do thee little stead.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emprosthotonos</ent><br/
-\'d8<hw>Em`pros*thot"o*nos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ forward + <?/ to draw.]</ety> <fld>(Med.)</fld> <def>A drawing of the body forward, in consequence of the spasmodic action of some of the muscles.</def>  <rj><au>Gross.</au></rj><br/
+<par/<hw>Em`pros*thot"o*nos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ forward + <?/ to draw.]</ety> <fld>(Med.)</fld> <def>A drawing of the body forward, in consequence of the spasmodic action of some of the muscles.</def>  <rj><au>Gross.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empte</ent><br/
@@ -10738,14 +10738,14 @@ But here thy sword can do thee little stead.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empyema</ent><br/
-\'d8<hw>Em`py*e"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, from <?/ to suppurate; <?/ in + <?/  pus.]</ety> <fld>(Med.)</fld> <def>A collection of blood, pus, or other fluid, in some cavity of the body, especially that of the pleura.</def>  <rj><au>Dunglison.</au></rj><br/
+<par/<hw>Em`py*e"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, from <?/ to suppurate; <?/ in + <?/  pus.]</ety> <fld>(Med.)</fld> <def>A collection of blood, pus, or other fluid, in some cavity of the body, especially that of the pleura.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The term <xex>empyema</xex> is now restricted to a collection of pus in the cavity of the pleura.</note><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empyesis</ent><br/
-\'d8<hw>Em`py*e"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  suppuration.]</ety> <fld>(Med.)</fld> <def>An eruption of pustules.</def><br/
+<par/<hw>Em`py*e"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  suppuration.]</ety> <fld>(Med.)</fld> <def>An eruption of pustules.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empyreal</ent><br/
@@ -10775,7 +10775,7 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empyreuma</ent><br/
-\'d8<hw>Em`py*reu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a live coal covered with ashes, fr. <?/ to set on fire, fr. <?/: cf. F. <ets>empyreume</ets>. See <er>Empyreal</er>.]</ety> <fld>(Chem.)</fld> <def>The peculiar smell and taste arising from products of decomposition of animal or vegetable substances when burnt in close vessels.</def></p>
+<par/<hw>Em`py*reu"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a live coal covered with ashes, fr. <?/ to set on fire, fr. <?/: cf. F. <ets>empyreume</ets>. See <er>Empyreal</er>.]</ety> <fld>(Chem.)</fld> <def>The peculiar smell and taste arising from products of decomposition of animal or vegetable substances when burnt in close vessels.</def></p>
 
 <p><ent>Empyreumatical</ent><br/
 <ent>Empyreumatic</ent><br/
@@ -10794,7 +10794,7 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Empyrosis</ent><br/
-\'d8<hw>Em"py*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ in + <?/ to burn.]</ety> <def>A general fire; a conflagration.</def> <mark>[Obs.]</mark>  <rj><au>Sir M. Hale.</au></rj><br/
+<par/<hw>Em"py*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ in + <?/ to burn.]</ety> <def>A general fire; a conflagration.</def> <mark>[Obs.]</mark>  <rj><au>Sir M. Hale.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emrods</ent><br/
@@ -10955,7 +10955,7 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Emydea</ent><br/
-\'d8<hw>E*myd"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Emys</ets> a genus of tortoises, L. <ets>emys</ets> a kind of fresh-water tortoise, Gr. <?/.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of chelonians which comprises many species of fresh-water tortoises and terrapins.</def><br/
+<par/<hw>E*myd"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>Emys</ets> a genus of tortoises, L. <ets>emys</ets> a kind of fresh-water tortoise, Gr. <?/.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of chelonians which comprises many species of fresh-water tortoises and terrapins.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>En-</ent><br/
@@ -11049,7 +11049,7 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enaliosauria</ent><br/
-\'d8<hw>En*al`i*o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr.  <?/ marine (<?/ in + <?/ the sea) + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct group of marine reptiles, embracing both the Ichthyosauria and the Plesiosauria, now regarded as distinct orders.</def><br/
+<par/<hw>En*al`i*o*sau"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr.  <?/ marine (<?/ in + <?/ the sea) + <?/ a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct group of marine reptiles, embracing both the Ichthyosauria and the Plesiosauria, now regarded as distinct orders.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enaliosaurian</ent><br/
@@ -11057,7 +11057,7 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enallage</ent><br/
-\'d8<hw>E*nal"la*ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ an exchange, fr. <?/ to exchange; <?/ in + <?/ to change.]</ety> <fld>(Gram.)</fld> <def>A substitution, as of one part of speech for another, of one gender, number, case, person, tense, mode, or voice, of the same word, for another.</def><br/
+<par/<hw>E*nal"la*ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ an exchange, fr. <?/ to exchange; <?/ in + <?/ to change.]</ety> <fld>(Gram.)</fld> <def>A substitution, as of one part of speech for another, of one gender, number, case, person, tense, mode, or voice, of the same word, for another.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enambush</ent><br/
@@ -11156,7 +11156,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enantiosis</ent><br/
-\'d8<hw>E*nan`ti*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ contradiction, fr. <grk>'enanti`os</grk> opposite.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which what is to be understood affirmatively is stated negatively, and the contrary; affirmation by contraries.</def><br/
+<par/<hw>E*nan`ti*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ contradiction, fr. <grk>'enanti`os</grk> opposite.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which what is to be understood affirmatively is stated negatively, and the contrary; affirmation by contraries.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enarch</ent><br/
@@ -11180,11 +11180,11 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enarthrodia</ent><br/
-\'d8<hw>En`ar*thro"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.  <?/ in + <?/. See <er>Arthrodia</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Enarthrosis</er>.</def> -- <wordforms><wf>En`ar*thro"di*al</wf>, <pos>a.</pos></wordforms><br/
+<par/<hw>En`ar*thro"di*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.  <?/ in + <?/. See <er>Arthrodia</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Enarthrosis</er>.</def> -- <wordforms><wf>En`ar*thro"di*al</wf>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enarthrosis</ent><br/
-\'d8<hw>En`ar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ jointed; <?/ in + <?/ joint.]</ety> <fld>(Anat.)</fld> <def>A ball and socket joint, or the kind of articulation represented by such a joint. See <er>Articulation</er>.</def><br/
+<par/<hw>En`ar*thro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ jointed; <?/ in + <?/ joint.]</ety> <fld>(Anat.)</fld> <def>A ball and socket joint, or the kind of articulation represented by such a joint. See <er>Articulation</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enascent</ent><br/
@@ -11220,7 +11220,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>En bloc</ent><br/
-\'d8<hw>En` bloc"</hw> <pr>(?)</pr>. <ety>[F. Cf. <er>Block</er>, <pos>n.</pos> ]</ety> <def>In a lump; as a whole; all together.</def> <ldquo/Movement of the ossicles <xex>en bloc</xex>.<rdquo/  <rj><au>Nature.</au></rj></p>
+<par/<hw>En` bloc"</hw> <pr>(?)</pr>. <ety>[F. Cf. <er>Block</er>, <pos>n.</pos> ]</ety> <def>In a lump; as a whole; all together.</def> <ldquo/Movement of the ossicles <xex>en bloc</xex>.<rdquo/  <rj><au>Nature.</au></rj></p>
 
 <p><q><qex>En bloc</qex> they are known as <ldquo/the herd<rdquo/.</q>  <rj><qau>W. A. Fraser.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -11230,7 +11230,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encaenia</ent><br/
-\'d8<hw>En*c<ae/"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>same as <er>Encenia</er>.</def><br/
+<par/<hw>En*c<ae/"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>same as <er>Encenia</er>.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Encage</ent><br/
@@ -11281,7 +11281,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encarpus</ent><br/
-\'d8<hw>En*car"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ containing fruit; <?/ in + <?/  fruit; cf. L. <ets>encarpa</ets>, pl., Gr. <?/.]</ety> <fld>(Arch.)</fld> <def>An ornament on a frieze or capital, consisting of festoons of fruit, flowers, leaves, etc.</def> <altsp>[Written also <asp>encarpa</asp>.]</altsp><br/
+<par/<hw>En*car"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ containing fruit; <?/ in + <?/  fruit; cf. L. <ets>encarpa</ets>, pl., Gr. <?/.]</ety> <fld>(Arch.)</fld> <def>An ornament on a frieze or capital, consisting of festoons of fruit, flowers, leaves, etc.</def> <altsp>[Written also <asp>encarpa</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encase</ent><br/
@@ -11332,7 +11332,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enceinte</ent><br/
-\'d8<hw>En`ceinte"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>enceindre</ets> to gird about, surround, L. <ets>incingere</ets>; <ets>in</ets> (intens). + <ets>cingere</ets> to gird. See <er>Cincture</er>.]</ety> <sn>1.</sn> <fld>(Fort.)</fld> <def>The line of works which forms the main inclosure of a fortress or place; -- called also <altname>body of the place</altname>.</def><br/
+<par/<hw>En`ceinte"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>enceindre</ets> to gird about, surround, L. <ets>incingere</ets>; <ets>in</ets> (intens). + <ets>cingere</ets> to gird. See <er>Cincture</er>.]</ety> <sn>1.</sn> <fld>(Fort.)</fld> <def>The line of works which forms the main inclosure of a fortress or place; -- called also <altname>body of the place</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>The area or town inclosed by a line of fortification.</def><br/
@@ -11342,11 +11342,11 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enceinte</ent><br/
-\'d8<hw>En`ceinte"</hw>, <pos>a.</pos> <ety>[F., fr. L. <ets>in</ets> not + <ets>cinctus</ets>, p. p. of <ets>cingere</ets> to gird about.]</ety> <def>Pregnant; with child.</def><br/
+<par/<hw>En`ceinte"</hw>, <pos>a.</pos> <ety>[F., fr. L. <ets>in</ets> not + <ets>cinctus</ets>, p. p. of <ets>cingere</ets> to gird about.]</ety> <def>Pregnant; with child.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encenia</ent><br/
-\'d8<hw>En*ce"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[LL. <ets>encaenia</ets>, fr. Gr. <?/ a feast of dedication; <?/ in + <?/ new.]</ety> <def>A festival commemorative of the founding of a city or the consecration of a church; also, the ceremonies (as at Oxford and Cambridge, England) commemorative of founders or benefactors.</def><br/
+<par/<hw>En*ce"ni*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[LL. <ets>encaenia</ets>, fr. Gr. <?/ a feast of dedication; <?/ in + <?/ new.]</ety> <def>A festival commemorative of the founding of a city or the consecration of a church; also, the ceremonies (as at Oxford and Cambridge, England) commemorative of founders or benefactors.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encense</ent><br/
@@ -11552,7 +11552,7 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchiridion</ent><br/
-\'d8<hw>En`chi*rid"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/; <?/ in + <?/ hand.]</ety> <def>Handbook; a manual of devotions.</def>  <rj><au>Evelyn.</au></rj><br/
+<par/<hw>En`chi*rid"i*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/; <?/ in + <?/ hand.]</ety> <def>Handbook; a manual of devotions.</def>  <rj><au>Evelyn.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchisel</ent><br/
@@ -11560,11 +11560,11 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchodus</ent><br/
-\'d8<hw>En"cho*dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a spear + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, a tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Cretaceous fishes; -- so named from their spear-shaped teeth. They were allied to the pike (<gen>Esox</gen>).</def><br/
+<par/<hw>En"cho*dus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a spear + <grk>'odoy`s</grk>, <grk>'odo`ntos</grk>, a tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Cretaceous fishes; -- so named from their spear-shaped teeth. They were allied to the pike (<gen>Esox</gen>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchondroma</ent><br/
-\'d8<hw>En`chon*dro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in + <?/ cartilage + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A cartilaginous tumor growing from the interior of a bone.</def>  <rj><au>Quain.</au></rj></p>
+<par/<hw>En`chon*dro"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in + <?/ cartilage + <ets>-oma</ets>.]</ety> <fld>(Med.)</fld> <def>A cartilaginous tumor growing from the interior of a bone.</def>  <rj><au>Quain.</au></rj></p>
 
 <p><ent>Enchoric</ent><br/
 <ent>Enchorial</ent><br/
@@ -11572,11 +11572,11 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchylemma</ent><br/
-\'d8<hw>En`chy*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to pour in + <?/ anything received.]</ety> <fld>(Biol.)</fld> <def>The basal substance of the cell nucleus; a hyaline or granular substance, more or less fluid during life, in which the other parts of the nucleus are imbedded.</def><br/
+<par/<hw>En`chy*lem"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to pour in + <?/ anything received.]</ety> <fld>(Biol.)</fld> <def>The basal substance of the cell nucleus; a hyaline or granular substance, more or less fluid during life, in which the other parts of the nucleus are imbedded.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enchyma</ent><br/
-\'d8<hw>En"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`gchyma</grk> an infusion; <grk>'en</grk> in + <grk>chei^n</grk> to pour.]</ety> <fld>(Biol.)</fld> <def>The primitive formative juice, from which the tissues, particularly the cellular tissue, are formed.</def><br/
+<par/<hw>En"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`gchyma</grk> an infusion; <grk>'en</grk> in + <grk>chei^n</grk> to pour.]</ety> <fld>(Biol.)</fld> <def>The primitive formative juice, from which the tissues, particularly the cellular tissue, are formed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encincture</ent><br/
@@ -11701,7 +11701,7 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encolure</ent><br/
-\'d8<hw>En`co`lure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The neck of horse.</def>  <rj><au>R. Browning.</au></rj><br/
+<par/<hw>En`co`lure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The neck of horse.</def>  <rj><au>R. Browning.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encomber</ent><br/
@@ -11781,7 +11781,7 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encoubert</ent><br/
-\'d8<hw>En`cou`bert"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., Pg. <ets>encorberto</ets>, <ets>encuberto</ets>, lit., covered.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of several species of armadillos of the genera <gen>Dasypus</gen> and <gen>Euphractus</gen>, having five toes both on the fore and hind feet.</def><br/
+<par/<hw>En`cou`bert"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., Pg. <ets>encorberto</ets>, <ets>encuberto</ets>, lit., covered.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of several species of armadillos of the genera <gen>Dasypus</gen> and <gen>Euphractus</gen>, having five toes both on the fore and hind feet.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encounter</ent><br/
@@ -11899,11 +11899,11 @@ Is a most sweet <qex>encouragement</qex> to prayer.</q> <rj><qau>Byron.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encrinoidea</ent><br/
-\'d8<hw>En`cri*noid"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Encrinus</er> and <er>-oid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>That order of the <class>Crinoidea</class> which includes most of the living and many fossil forms, having jointed arms around the margin of the oral disk; -- also called <altname>Brachiata</altname> and <altname>Articulata</altname>. See <xex>Illusts</xex>. under <er>Comatula</er> and <er>Crinoidea</er>.</def><br/
+<par/<hw>En`cri*noid"e*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Encrinus</er> and <er>-oid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>That order of the <class>Crinoidea</class> which includes most of the living and many fossil forms, having jointed arms around the margin of the oral disk; -- also called <altname>Brachiata</altname> and <altname>Articulata</altname>. See <xex>Illusts</xex>. under <er>Comatula</er> and <er>Crinoidea</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encrinus</ent><br/
-\'d8<hw>En"cri*nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Encrini</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Encrinite</er>.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil encrinoidea, from the Mesozoic rocks.</def><br/
+<par/<hw>En"cri*nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Encrini</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Encrinite</er>.]</ety> <fld>(Paleon.)</fld> <def>A genus of fossil encrinoidea, from the Mesozoic rocks.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Encrisped</ent><br/
@@ -12319,7 +12319,7 @@ Might be the be-all and the <qex>end-all</qex> here.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endeixis</ent><br/
-\'d8<hw>En*deix"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ indication. See <er>Endeictic</er>.]</ety> <fld>(Med.)</fld> <def>An indication.</def><br/
+<par/<hw>En*deix"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ indication. See <er>Endeictic</er>.]</ety> <fld>(Med.)</fld> <def>An indication.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endemial</ent><br/
@@ -12385,7 +12385,7 @@ Might be the be-all and the <qex>end-all</qex> here.</q> <rj><qau>Shak.</qau></r
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enderon</ent><br/
-\'d8<hw>En"de*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in + <?/ skin.]</ety> <fld>(Anat.)</fld> <def>The deep sensitive and vascular layer of the skin and mucous membranes.</def> -- <wordforms><wf>En`de*ron"ic</wf>, <pos>a.</pos></wordforms><br/
+<par/<hw>En"de*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ in + <?/ skin.]</ety> <fld>(Anat.)</fld> <def>The deep sensitive and vascular layer of the skin and mucous membranes.</def> -- <wordforms><wf>En`de*ron"ic</wf>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endiademed</ent><br/
@@ -12493,11 +12493,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endocarditis</ent><br/
-\'d8<hw>En`do*car*di"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the endocardium.</def><br/
+<par/<hw>En`do*car*di"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the endocardium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endocardium</ent><br/
-\'d8<hw>En`do*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>kardi`a</grk> heart.]</ety> <fld>(Anat.)</fld> <def>The membrane lining the cavities of the heart.</def><br/
+<par/<hw>En`do*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>kardi`a</grk> heart.]</ety> <fld>(Anat.)</fld> <def>The membrane lining the cavities of the heart.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endocarp</ent><br/
@@ -12529,7 +12529,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endodermis</ent><br/
-\'d8<hw>En`do*der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endoderm</er>.]</ety> <fld>(Bot.)</fld> <def>A layer of cells forming a kind of cuticle inside of the proper cortical layer, or surrounding an individual fibrovascular bundle.</def><br/
+<par/<hw>En`do*der"mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endoderm</er>.]</ety> <fld>(Bot.)</fld> <def>A layer of cells forming a kind of cuticle inside of the proper cortical layer, or surrounding an individual fibrovascular bundle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>endodontics</ent><br/
@@ -12570,7 +12570,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endogenesis</ent><br/
-\'d8<hw>En`do*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Endo-</ets> + <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>Endogeny.</def><br/
+<par/<hw>En`do*gen"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Endo-</ets> + <ets>genesis</ets>.]</ety> <fld>(Biol.)</fld> <def>Endogeny.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>endogenic</ent><br/
@@ -12625,11 +12625,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endometritis</ent><br/
-\'d8<hw>En`do*me*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endometrium</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the endometrium.</def><br/
+<par/<hw>En`do*me*tri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endometrium</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the endometrium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endometrium</ent><br/
-\'d8<hw>En`do*me"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>mh`tra</grk> the womb.]</ety> <fld>(Anat.)</fld> <def>The membrane lining the inner surface of the uterus, or womb.</def><br/
+<par/<hw>En`do*me"tri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>mh`tra</grk> the womb.]</ety> <fld>(Anat.)</fld> <def>The membrane lining the inner surface of the uterus, or womb.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endomorph</ent><br/
@@ -12637,11 +12637,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endomysium</ent><br/
-\'d8<hw>En`do*my"si*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>my^s</grk> a muscle.]</ety> <fld>(Anat.)</fld> <def>The delicate bands of connective tissue interspersed among muscular fibers.</def><br/
+<par/<hw>En`do*my"si*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>my^s</grk> a muscle.]</ety> <fld>(Anat.)</fld> <def>The delicate bands of connective tissue interspersed among muscular fibers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoneurium</ent><br/
-\'d8<hw>En`do*neu"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <?/ a sinew, nerve.]</ety> <fld>(Anat.)</fld> <def>The delicate bands of connective tissue among nerve fibers.</def><br/
+<par/<hw>En`do*neu"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <?/ a sinew, nerve.]</ety> <fld>(Anat.)</fld> <def>The delicate bands of connective tissue among nerve fibers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoparasite</ent><br/
@@ -12651,11 +12651,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 <p><-- p. 491 --></p>
 
 <p><ent>Endophloeum</ent><br/
-\'d8<hw>En`do*phl<oe/"um</hw> <pr>(<ecr/n`d<omac/*fl<emac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>floio`s</grk> bark.]</ety> <fld>(Bot.)</fld> <def>The inner layer of the bark of trees.</def><br/
+<par/<hw>En`do*phl<oe/"um</hw> <pr>(<ecr/n`d<omac/*fl<emac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>floio`s</grk> bark.]</ety> <fld>(Bot.)</fld> <def>The inner layer of the bark of trees.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endophragma</ent><br/
-\'d8<hw>En`do*phrag"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> + <grk>fra`gma</grk> a fence.]</ety> <fld>(Zo<oum/l.)</fld> <def>A chitinous structure above the nervous cord in the thorax of certain Crustacea.</def><br/
+<par/<hw>En`do*phrag"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> + <grk>fra`gma</grk> a fence.]</ety> <fld>(Zo<oum/l.)</fld> <def>A chitinous structure above the nervous cord in the thorax of certain Crustacea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endophragmal</ent><br/
@@ -12671,7 +12671,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoplasma</ent><br/
-\'d8<hw>En`do*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endoplasm</er>.]</ety> <fld>(Biol.)</fld> <def>Same as <er>Entoplasm</er> and <er>Endosarc</er>.</def><br/
+<par/<hw>En`do*plas"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endoplasm</er>.]</ety> <fld>(Biol.)</fld> <def>Same as <er>Entoplasm</er> and <er>Endosarc</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoplast</ent><br/
@@ -12679,7 +12679,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoplastica</ent><br/
-\'d8<hw>En`do*plas"ti*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/  within + <?/ plastic.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Rhizopoda having a distinct nucleus, as the am<oe/ba.</def><br/
+<par/<hw>En`do*plas"ti*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/  within + <?/ plastic.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Rhizopoda having a distinct nucleus, as the am<oe/ba.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endoplastule</ent><br/
@@ -12687,7 +12687,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endopleura</ent><br/
-\'d8<hw>En`do*pleu"ra</hw>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  within + <?/ rib, side. See <er>Pleura</er>.]</ety> <fld>(Bot.)</fld> <def>The inner coating of a seed. See <er>Tegmen</er>.</def><br/
+<par/<hw>En`do*pleu"ra</hw>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  within + <?/ rib, side. See <er>Pleura</er>.]</ety> <fld>(Bot.)</fld> <def>The inner coating of a seed. See <er>Tegmen</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endopleurite</ent><br/
@@ -12699,7 +12699,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endorhiza</ent><br/
-\'d8<hw>En`do*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endorhiz<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/  within + <?/ root.]</ety> <fld>(Bot.)</fld> <def>Any monocotyledonous plant; -- so named because many monocotyledons have an endorhizal embryo.</def><br/
+<par/<hw>En`do*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endorhiz<ae/</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/  within + <?/ root.]</ety> <fld>(Bot.)</fld> <def>Any monocotyledonous plant; -- so named because many monocotyledons have an endorhizal embryo.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ <ex>Endorhiza</ex> was proposed by Richard as a substitute for the term <xex>endogen</xex>, and <xex>exorhiza</xex> as a substitute for the term <xex>exogen</xex>; but they have not been generally adopted.</note></p>
@@ -12805,11 +12805,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endosteum</ent><br/
-\'d8<hw>En*dos"te*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ + <?/ a bone.]</ety> <fld>(Anat.)</fld> <def>The layer of vascular connective tissue lining the medullary cavities of bone.</def><br/
+<par/<hw>En*dos"te*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ + <?/ a bone.]</ety> <fld>(Anat.)</fld> <def>The layer of vascular connective tissue lining the medullary cavities of bone.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endostoma</ent><br/
-\'d8<hw>En*dos"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ + <?/, <?/, the mouth.]</ety> <fld>(Zo<oum/l.)</fld> <def>A plate which supports the labrum in certain Crustacea.</def><br/
+<par/<hw>En*dos"to*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ + <?/, <?/, the mouth.]</ety> <fld>(Zo<oum/l.)</fld> <def>A plate which supports the labrum in certain Crustacea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endostome</ent><br/
@@ -12828,11 +12828,11 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endotheca</ent><br/
-\'d8<hw>En`do*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`ndon</grk> within + <grk>qh`kh</grk> a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which partially fills the interior of the interseptal chambers of most madreporarian corals. It usually consists of a series of oblique tranverse septa, one above another.</def> -- <wordforms><wf>En`do*the"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>En`do*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`ndon</grk> within + <grk>qh`kh</grk> a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which partially fills the interior of the interseptal chambers of most madreporarian corals. It usually consists of a series of oblique tranverse septa, one above another.</def> -- <wordforms><wf>En`do*the"cal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endothecium</ent><br/
-\'d8<hw>En`do*the"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endotheca</er>.]</ety> <fld>(Bot.)</fld> <def>The inner lining of an anther cell.</def><br/
+<par/<hw>En`do*the"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Endotheca</er>.]</ety> <fld>(Bot.)</fld> <def>The inner lining of an anther cell.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endothelial</ent><br/
@@ -12840,7 +12840,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endothelium</ent><br/
-\'d8<hw>En`do*the"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endothelia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <?/ nipple.]</ety> <fld>(Anat.)</fld> <def>The thin epithelium lining the blood vessels, lymphatics, and serous cavities. See <er>Epithelium</er>.</def><br/
+<par/<hw>En`do*the"li*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endothelia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <?/ nipple.]</ety> <fld>(Anat.)</fld> <def>The thin epithelium lining the blood vessels, lymphatics, and serous cavities. See <er>Epithelium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endotheloid</ent><br/
@@ -12887,7 +12887,7 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endozoa</ent><br/
-\'d8<hw>En`do*zo"a</hw> <pr>(<ecr/n`d<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>See <er>Entozoa</er>.</def><br/
+<par/<hw>En`do*zo"a</hw> <pr>(<ecr/n`d<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>See <er>Entozoa</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>endozoic</ent><br/
@@ -13021,11 +13021,11 @@ As might the strokes of two such arms <qex>endure</qex>.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endyma</ent><br/
-\'d8<hw>En"dy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a garment.]</ety> <fld>(Anat.)</fld> <def>See <er>Ependyma</er>.</def><br/
+<par/<hw>En"dy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a garment.]</ety> <fld>(Anat.)</fld> <def>See <er>Ependyma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Endysis</ent><br/
-\'d8<hw>En"dy*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a putting on, fr. <?/ to put on.]</ety> <fld>(Biol.)</fld> <def>The act of developing a new coat of hair, a new set of feathers, scales, etc.; -- opposed to <contr>ecdysis</contr>.</def><br/
+<par/<hw>En"dy*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Endyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ a putting on, fr. <?/ to put on.]</ety> <fld>(Biol.)</fld> <def>The act of developing a new coat of hair, a new set of feathers, scales, etc.; -- opposed to <contr>ecdysis</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enecate</ent><br/
@@ -13327,7 +13327,7 @@ As might the strokes of two such arms <qex>endure</qex>.</q> <rj><qau>Dryden.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enfleurage</ent><br/
-\'d8<hw>En`fleu`rage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>en-</ets> (L. in) + <ets>fleur</ets> flower.]</ety> <def>A process of extracting perfumes by exposing absorbents, as fixed oils or fats, to the exhalations of the flowers. It is used for plants whose volatile oils are too delicate to be separated by distillation.</def><br/
+<par/<hw>En`fleu`rage"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>en-</ets> (L. in) + <ets>fleur</ets> flower.]</ety> <def>A process of extracting perfumes by exposing absorbents, as fixed oils or fats, to the exhalations of the flowers. It is used for plants whose volatile oils are too delicate to be separated by distillation.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Enflower</ent><br/
@@ -13958,7 +13958,7 @@ Motion to all.</q> <rj><qau>Decker.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Engoulee</ent><br/
-\'d8<hw>En`gou`l<eacute/e"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>engouler</ets> to swallow up; pref. <ets>en-</ets> (L. <ets>in</ets>) + <ets>gueule</ets> mouth.]</ety> <fld>(Her.)</fld> <def>Same as <er>Engouled</er>.</def><br/
+<par/<hw>En`gou`l<eacute/e"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>engouler</ets> to swallow up; pref. <ets>en-</ets> (L. <ets>in</ets>) + <ets>gueule</ets> mouth.]</ety> <fld>(Her.)</fld> <def>Same as <er>Engouled</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Engraff</ent><br/
@@ -14256,7 +14256,7 @@ He did <qex>engrave</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enhydros</ent><br/
-\'d8<hw>En*hy"dros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Enhydrous</er>.]</ety> <fld>(Min.)</fld> <def>A variety of chalcedony containing water.</def><br/
+<par/<hw>En*hy"dros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Enhydrous</er>.]</ety> <fld>(Min.)</fld> <def>A variety of chalcedony containing water.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enhydrous</ent><br/
@@ -14629,7 +14629,7 @@ He did <qex>engrave</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enmanche</ent><br/
-\'d8<hw>En`man`ch<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.; pref. <ets>en-</ets> (L. <ets>in</ets>) + <ets>manche</ets> sleeve.]</ety> <fld>(Her.)</fld> <def>Resembling, or covered with, a sleeve; -- said of the chief when lines are drawn from the middle point of the upper edge upper edge to the sides.</def><br/
+<par/<hw>En`man`ch<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F.; pref. <ets>en-</ets> (L. <ets>in</ets>) + <ets>manche</ets> sleeve.]</ety> <fld>(Her.)</fld> <def>Resembling, or covered with, a sleeve; -- said of the chief when lines are drawn from the middle point of the upper edge upper edge to the sides.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enmarble</ent><br/
@@ -14714,7 +14714,7 @@ He did <qex>engrave</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enneandria</ent><br/
-\'d8<hw>En`ne*an"dri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'enne`a</grk> nine + <grk>'anh`r</grk>, <grk>'andro`s</grk>, man, male: cf. F. <ets>enn<eacute/andrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants having nine stamens.</def></p>
+<par/<hw>En`ne*an"dri*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'enne`a</grk> nine + <grk>'anh`r</grk>, <grk>'andro`s</grk>, man, male: cf. F. <ets>enn<eacute/andrie</ets>.]</ety> <fld>(Bot.)</fld> <def>A Linn<ae/an class of plants having nine stamens.</def></p>
 
 <p><ent>Enneandrous</ent><br/
 <ent>Enneandrian</ent><br/
@@ -14769,19 +14769,19 @@ Alas! not all the blood of all the Howards.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ennui</ent><br/
-\'d8<hw>En`nui"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>in odio</ets> in hatred. See <er>Annoy</er>.]</ety> <def>A feeling of weariness and disgust; dullness and languor of spirits, arising from satiety or want of interest; tedium.</def>  <rj><au>T. Gray.</au></rj><br/
+<par/<hw>En`nui"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>in odio</ets> in hatred. See <er>Annoy</er>.]</ety> <def>A feeling of weariness and disgust; dullness and languor of spirits, arising from satiety or want of interest; tedium.</def>  <rj><au>T. Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ennuye</ent><br/
-\'d8<hw>En`nuy`<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>ennuyer</ets>. See <er>Ennui</er>.]</ety> <def>Affected with ennui; weary in spirits; emotionally exhausted.</def><br/
+<par/<hw>En`nuy`<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>ennuyer</ets>. See <er>Ennui</er>.]</ety> <def>Affected with ennui; weary in spirits; emotionally exhausted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ennuye</ent><br/
-\'d8<hw>En`nuy`<eacute/"</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>One who is affected with ennui.</def><br/
+<par/<hw>En`nuy`<eacute/"</hw>, <pos>n.</pos> <ety>[F.]</ety> <def>One who is affected with ennui.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ennuyee</ent><br/
-\'d8<hw>En`nuy`<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A woman affected with ennui.</def>  <rj><au>Mrs. Jameson.</au></rj><br/
+<par/<hw>En`nuy`<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A woman affected with ennui.</def>  <rj><au>Mrs. Jameson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enodal</ent><br/
@@ -14811,7 +14811,7 @@ Alas! not all the blood of all the Howards.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enopla</ent><br/
-\'d8<hw>En"o*pla</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/  armed; <?/ in + <?/, pl., armor.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the orders of Nemertina, characterized by the presence of a peculiar armature of spines or plates in the proboscis.</def><br/
+<par/<hw>En"o*pla</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/  armed; <?/ in + <?/, pl., armor.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the orders of Nemertina, characterized by the presence of a peculiar armature of spines or plates in the proboscis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enoptomancy</ent><br/
@@ -14918,7 +14918,7 @@ Alas! not all the blood of all the Howards.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>En passant</ent><br/
-\'d8<hw>En` pas`sant"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>In passing; in the course of any procedure;</def> -- <specif>said specif.</specif> <fld>(Chess)</fld>, <def>of the taking of an adverse pawn which makes a first move of two squares by a pawn already so advanced as to threaten the first of these squares. The pawn which takes <ex>en passant</ex> is advanced to the threatened square.</def><br/
+<par/<hw>En` pas`sant"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>In passing; in the course of any procedure;</def> -- <specif>said specif.</specif> <fld>(Chess)</fld>, <def>of the taking of an adverse pawn which makes a first move of two squares by a pawn already so advanced as to threaten the first of these squares. The pawn which takes <ex>en passant</ex> is advanced to the threatened square.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Enpatron</ent><br/
@@ -14980,7 +14980,7 @@ Alas! not all the blood of all the Howards.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>En rapport</ent><br/
-\'d8<hw>En` rap`port"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>In accord, harmony, or sympathy; having a mutual, esp. a private, understanding; of a hypnotic subject, being in such a mental state as to be especially subject to the influence of a particular person or persons.</def><br/
+<par/<hw>En` rap`port"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>In accord, harmony, or sympathy; having a mutual, esp. a private, understanding; of a hypnotic subject, being in such a mental state as to be especially subject to the influence of a particular person or persons.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Enrapt</ent><br/
@@ -15105,11 +15105,11 @@ Us hath <qex>enriched</qex> so openly.</q> <rj><qau>Chaucer's Dream.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>En route</ent><br/
-\'d8<hw>En` route"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>On the way or road.</def><br/
+<par/<hw>En` route"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>On the way or road.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ens</ent><br/
-\'d8<hw>Ens</hw> <pr>(<ecr/nz)</pr>, <pos>n.</pos> <ety>[L., <ets>ens</ets>, <ets>entis</ets>, a thing. See <er>Entity</er>.]</ety> <sn>1.</sn> <fld>(Metaph.)</fld> <def>Entity, being, or existence; an actually existing being; also, God, as the Being of Beings.</def><br/
+<par/<hw>Ens</hw> <pr>(<ecr/nz)</pr>, <pos>n.</pos> <ety>[L., <ets>ens</ets>, <ets>entis</ets>, a thing. See <er>Entity</er>.]</ety> <sn>1.</sn> <fld>(Metaph.)</fld> <def>Entity, being, or existence; an actually existing being; also, God, as the Being of Beings.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>Something supposed to condense within itself all the virtues and qualities of a substance from which it is extracted; essence.</def> <mark>[Obs.]</mark><br/
@@ -15191,11 +15191,11 @@ Us hath <qex>enriched</qex> so openly.</q> <rj><qau>Chaucer's Dream.</qau></rj><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ensemble</ent><br/
-\'d8<hw>En`sem"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The whole; all the parts taken together.</def><br/
+<par/<hw>En`sem"ble</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The whole; all the parts taken together.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ensemble</ent><br/
-\'d8<hw>En`sem"ble</hw>, <pos>adv.</pos> <ety>[F.]</ety> <def>All at once; together.</def><br/
+<par/<hw>En`sem"ble</hw>, <pos>adv.</pos> <ety>[F.]</ety> <def>All at once; together.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enshelter</ent><br/
@@ -15560,11 +15560,11 @@ The crown to thee and to thine heirs forever.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entasia</ent><br/
-\'d8<hw>En*ta"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Entasis</er>.]</ety> <fld>(Med.)</fld> <def>Tonic spasm; -- applied generically to denote any disease characterized by tonic spasms, as tetanus, trismus, etc.</def><br/
+<par/<hw>En*ta"si*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Entasis</er>.]</ety> <fld>(Med.)</fld> <def>Tonic spasm; -- applied generically to denote any disease characterized by tonic spasms, as tetanus, trismus, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entasis</ent><br/
-\'d8<hw>En"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a stretching; fr. <?/; <?/ in + <?/ to extend.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A slight convex swelling of the shaft of a column.</def><br/
+<par/<hw>En"ta*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a stretching; fr. <?/; <?/ in + <?/ to extend.]</ety> <sn>1.</sn> <fld>(Arch.)</fld> <def>A slight convex swelling of the shaft of a column.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>Same as <er>Entasia</er>.</def><br/
@@ -15583,7 +15583,7 @@ The crown to thee and to thine heirs forever.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entellus</ent><br/
-\'d8<hw>En*tel"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., the specific name, fr. Gr. <?/ to command.]</ety> <fld>(Zo<oum/l.)</fld> <def>An East Indian long-tailed bearded monkey (<spn>Semnopithecus entellus</spn>) regarded as sacred by the natives. It is remarkable for the caplike arrangement of the hair on the head. Called also <altname>hoonoomaun</altname> and <altname>hungoor</altname>.</def><br/
+<par/<hw>En*tel"lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., the specific name, fr. Gr. <?/ to command.]</ety> <fld>(Zo<oum/l.)</fld> <def>An East Indian long-tailed bearded monkey (<spn>Semnopithecus entellus</spn>) regarded as sacred by the natives. It is remarkable for the caplike arrangement of the hair on the head. Called also <altname>hoonoomaun</altname> and <altname>hungoor</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entend</ent><br/
@@ -15677,7 +15677,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enteralgia</ent><br/
-\'d8<hw>En`ter*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <?/ pain: cf. F. <ets>ent<eacute/ralgie</ets>.]</ety> <fld>(Med.)</fld> <def>Pain in the intestines; colic.</def><br/
+<par/<hw>En`ter*al"gi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <?/ pain: cf. F. <ets>ent<eacute/ralgie</ets>.]</ety> <fld>(Med.)</fld> <def>Pain in the intestines; colic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enterdeal</ent><br/
@@ -15714,7 +15714,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Enteritis</ent><br/
-\'d8<hw>En`te*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>An inflammation of the intestines.</def>  <rj><au>Hoblyn.</au></rj><br/
+<par/<hw>En`te*ri"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <ets>-itis</ets>.]</ety> <fld>(Med.)</fld> <def>An inflammation of the intestines.</def>  <rj><au>Hoblyn.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enterlace</ent><br/
@@ -15776,7 +15776,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enteron</ent><br/
-\'d8<hw>En"te*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine, fr. <grk>'ento`s</grk> within.]</ety> <fld>(Anat.)</fld> <def>The whole alimentary, or enteric, canal.</def><br/
+<par/<hw>En"te*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine, fr. <grk>'ento`s</grk> within.]</ety> <fld>(Anat.)</fld> <def>The whole alimentary, or enteric, canal.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enteropathy</ent><br/
@@ -15784,7 +15784,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enteropneusta</ent><br/
-\'d8<hw>En`te*rop*neus"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <?/ to breathe.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of wormlike invertebrates having, along the sides of the body, branchial openings for the branchial sacs, which are formed by diverticula of the alimentary canal. Balanoglossus is the only known genus. See <xex>Illustration</xex> in Appendix.</def><br/
+<par/<hw>En`te*rop*neus"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`nteron</grk> an intestine + <?/ to breathe.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of wormlike invertebrates having, along the sides of the body, branchial openings for the branchial sacs, which are formed by diverticula of the alimentary canal. Balanoglossus is the only known genus. See <xex>Illustration</xex> in Appendix.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enterorrhaphy</ent><br/
@@ -15972,7 +15972,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Enthelminthes</ent><br/
 <ent>Enthelmintha</ent><br/
-<mhw>{ \'d8<hw>En`thel*min"tha</hw> <pr>(?)</pr>, <hw>En`thel*min"thes</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <?/, <?/, worm.]</ety> <fld>(Zo<oum/l.)</fld> <def>Intestinal worms. See <er>Helminthes</er>.</def><br/
+<mhw>{ <par/<hw>En`thel*min"tha</hw> <pr>(?)</pr>, <hw>En`thel*min"thes</hw> <pr>(?)</pr>, }</mhw> <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <?/, <?/, worm.]</ety> <fld>(Zo<oum/l.)</fld> <def>Intestinal worms. See <er>Helminthes</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enthetic</ent><br/
@@ -16274,7 +16274,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entobronchium</ent><br/
-\'d8<hw>En`to*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entobronchia</plw> <pr>(#)</pr>.</plu> <ety>[See <ets>Ento-</ets>, and <ets>Bronchia</ets>.]</ety> <fld>(Anat.)</fld> <def>One of the main bronchi in the lungs of birds.</def></p>
+<par/<hw>En`to*bron"chi*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entobronchia</plw> <pr>(#)</pr>.</plu> <ety>[See <ets>Ento-</ets>, and <ets>Bronchia</ets>.]</ety> <fld>(Anat.)</fld> <def>One of the main bronchi in the lungs of birds.</def></p>
 
 <p><ent>Entocuniform</ent><br/
 <ent>Entocuneiform</ent><br/
@@ -16356,7 +16356,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entomophaga</ent><br/
-\'d8<hw>En`to*moph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ntomon</grk> an insect +  <grk>fagei^n</grk> to eat.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>a group of hymenopterous insects whose larv<ae/ feed parasitically upon living insects. See <er>Ichneumon</er>, <snr>2</snr>.</def><br/
+<par/<hw>En`to*moph"a*ga</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'e`ntomon</grk> an insect +  <grk>fagei^n</grk> to eat.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>a group of hymenopterous insects whose larv<ae/ feed parasitically upon living insects. See <er>Ichneumon</er>, <snr>2</snr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A group of marsupials which are partly insectivorous, as the opossum.</def><br/
@@ -16395,7 +16395,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Entomostraca</ent><br/
-\'d8<hw>En`to*mos"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ cut in pieces + <?/ burnt clay, the hard shell of Testacea.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the subclasses of Crustacea, including a large number of species, many of them minute. The group embraces several orders; as the <ord>Phyllopoda</ord>, <ord>Ostracoda</ord>, <ord>Copepoda</ord>, and <ord>Pectostraca</ord>. See <er>Copepoda</er>, <er>Phyllopoda</er>, and <er>Cladocera</er>.</def><br/
+<par/<hw>En`to*mos"tra*ca</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ cut in pieces + <?/ burnt clay, the hard shell of Testacea.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the subclasses of Crustacea, including a large number of species, many of them minute. The group embraces several orders; as the <ord>Phyllopoda</ord>, <ord>Ostracoda</ord>, <ord>Copepoda</ord>, and <ord>Pectostraca</ord>. See <er>Copepoda</er>, <er>Phyllopoda</er>, and <er>Cladocera</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entomostracan</ent><br/
@@ -16443,7 +16443,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entoprocta</ent><br/
-\'d8<hw>En`to*proc"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <?/ the anus.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Bryozoa in which the anus is within the circle of tentacles. See <er>Pedicellina</er>.</def><br/
+<par/<hw>En`to*proc"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <?/ the anus.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of Bryozoa in which the anus is within the circle of tentacles. See <er>Pedicellina</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entoptic</ent><br/
@@ -16459,7 +16459,7 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entosternum</ent><br/
-\'d8<hw>En`to*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entosterna</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ento-</er>, and <er>Sternum</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Entoplastron</er>.</def> -- <wordforms><wf>En`to*ster"nal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>En`to*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entosterna</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ento-</er>, and <er>Sternum</er>.]</ety> <fld>(Anat.)</fld> <def>See <er>Entoplastron</er>.</def> -- <wordforms><wf>En`to*ster"nal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entosthoblast</ent><br/
@@ -16475,13 +16475,13 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entourage</ent><br/
-\'d8<hw>En`tou`rage"</hw> <pr>(<aum/N`t<oomac/`r<adot/zh")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Surroundings; specif., collectively, one's attendants or associates.</def></p>
+<par/<hw>En`tou`rage"</hw> <pr>(<aum/N`t<oomac/`r<adot/zh")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>Surroundings; specif., collectively, one's attendants or associates.</def></p>
 
 <p><q>The <qex>entourage</qex> and mode of life of the mikados were not such as to make of them able rulers.</q>  <rj><qau>B. H. Chamberlain.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Entozoa</ent><br/
-\'d8<hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
+<par/<hw>En`to*zo"a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ within + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <sn>1.</sn> <def>A group of worms, including the tapeworms, flukes, roundworms, etc., most of which live parasitically in the interior of other animals; the Helminthes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>An artificial group, including all kinds of animals living parasitically in others.</def></p>
@@ -16496,11 +16496,11 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entozoon</ent><br/
-\'d8<hw>En`to*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Entozoa</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the Entozoa.</def><br/
+<par/<hw>En`to*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Entozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Entozoa</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the Entozoa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entr'acte</ent><br/
-\'d8<hw>En`tr'acte"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Interact</er>.]</ety> <sn>1.</sn> <def>The interval of time which occurs between the performance of any two acts of a drama.</def><br/
+<par/<hw>En`tr'acte"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Interact</er>.]</ety> <sn>1.</sn> <def>The interval of time which occurs between the performance of any two acts of a drama.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A dance, piece of music, or interlude, performed between two acts of a drama.</def><br/
@@ -16709,7 +16709,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entree</ent><br/
-\'d8<hw>En`tr<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Entry</er>.]</ety> <sn>1.</sn> <def>A coming in, or entrance; hence, freedom of access; permission or right to enter; <as>as, to have the <ex>entr<eacute/e</ex> of a house</as>.</def><br/
+<par/<hw>En`tr<eacute/e"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Entry</er>.]</ety> <sn>1.</sn> <def>A coming in, or entrance; hence, freedom of access; permission or right to enter; <as>as, to have the <ex>entr<eacute/e</ex> of a house</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Cookery)</fld> <def>In French usage, a dish served at the beginning of dinner to give zest to the appetite; in English usage, a side dish, served with a joint, or between the courses, as a cutlet, scalloped oysters, etc.</def> <mark>[obsolescent]</mark> <br/
@@ -16719,7 +16719,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>PJC</source>]</p>
 
 <p><ent>Entremets</ent><br/
-\'d8<hw>En`tre*mets"</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <ety>[F., fr. <ets>entre</ets> between + <ets>mets</ets> a dish, mess.]</ety> <sn>1.</sn> <fld>(Cookery)</fld> <def>A side dish; a dainty or relishing dish usually eaten after the joints or principal dish; also, a sweetmeat, served with a dinner.</def><br/
+<par/<hw>En`tre*mets"</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <ety>[F., fr. <ets>entre</ets> between + <ets>mets</ets> a dish, mess.]</ety> <sn>1.</sn> <fld>(Cookery)</fld> <def>A side dish; a dainty or relishing dish usually eaten after the joints or principal dish; also, a sweetmeat, served with a dinner.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Any small entertainment between two greater ones.</def> <mark>[R.]</mark><br/
@@ -16746,7 +16746,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 
 <p><ent>Entrepot</ent><br/
 <ent>entrepot</ent><br/
-<mhw><hw>en`tre*pot"</hw>, \'d8<hw>En`tre*p<ocir/t"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A warehouse; a magazine for depositing goods, stores, etc.</def><br/
+<mhw><hw>en`tre*pot"</hw>, <par/<hw>En`tre*p<ocir/t"</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A warehouse; a magazine for depositing goods, stores, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>a port where merchandise can be imported and re-exported with paying import duties; a mart or place where merchandise is deposited; <as>as, an <ex>entrep<ocir/t</ex> for shipping goods in transit</as>.</def><br/
@@ -16754,7 +16754,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Entrepreneur</ent><br/
-\'d8<hw>En`tre*pre*neur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Enterprise</er>.]</ety> <fld>(Polit. Econ.)</fld> <def>One who takes the initiative to create a product or establish a business for profit; generally, whoever undertakes on his own account an enterprise in which others are employed and risks are taken.</def>  <rj><au>F. A. Walker.</au></rj><br/
+<par/<hw>En`tre*pre*neur"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Enterprise</er>.]</ety> <fld>(Polit. Econ.)</fld> <def>One who takes the initiative to create a product or establish a business for profit; generally, whoever undertakes on his own account an enterprise in which others are employed and risks are taken.</def>  <rj><au>F. A. Walker.</au></rj><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>entrepreneurial</ent><br/
@@ -16769,7 +16769,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>PJC</source>]</p>
 
 <p><ent>Entresol</ent><br/
-\'d8<hw>En`tre*sol"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>A low story between two higher ones, usually between the ground floor and the first story; mezzanine.</def>  <rj><au>Parker.</au></rj><br/
+<par/<hw>En`tre*sol"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Arch.)</fld> <def>A low story between two higher ones, usually between the ground floor and the first story; mezzanine.</def>  <rj><au>Parker.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entrick</ent><br/
@@ -16785,11 +16785,11 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entropion</ent><br/
-\'d8<hw>En*tro"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Entropium</er>.</def><br/
+<par/<hw>En*tro"pi*on</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Entropium</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entropium</ent><br/
-\'d8<hw>En*tro"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Entropy</er>.]</ety> <fld>(Med.)</fld> <def>The inversion or turning in of the border of the eyelids.</def><br/
+<par/<hw>En*tro"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Entropy</er>.]</ety> <fld>(Med.)</fld> <def>The inversion or turning in of the border of the eyelids.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Entropy</ent><br/
@@ -16975,7 +16975,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Enuresis</ent><br/
-\'d8<hw>En`u*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to urinate in; <?/ + <?/ urine.]</ety> <fld>(Med.)</fld> <def>An involuntary discharge of urine; incontinence of urine.</def><br/
+<par/<hw>En`u*re"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ to urinate in; <?/ + <?/ urine.]</ety> <fld>(Med.)</fld> <def>An involuntary discharge of urine; incontinence of urine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Envassal</ent><br/
@@ -17402,11 +17402,11 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eos</ent><br/
-\'d8<hw>E"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'Hw`s</grk>.]</ety> <fld>(Gr. Myth.)</fld> <def>Aurora, the goddess of morn.</def><br/
+<par/<hw>E"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'Hw`s</grk>.]</ety> <fld>(Gr. Myth.)</fld> <def>Aurora, the goddess of morn.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eosaurus</ent><br/
-\'d8<hw>E`o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'hw`s</grk> dawn + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct marine reptile from the coal measures of Nova Scotia; -- so named because supposed to be of the earliest known reptiles.</def><br/
+<par/<hw>E`o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'hw`s</grk> dawn + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct marine reptile from the coal measures of Nova Scotia; -- so named because supposed to be of the earliest known reptiles.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eosin</ent><br/
@@ -17425,7 +17425,7 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eozoon</ent><br/
-\'d8<hw>E`o*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eozo<oum/ns</plw> <pr>(#)</pr>, L. <plw>Eozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'hw`s</grk> dawn + <grk>zw^,on</grk> an animal.]</ety> <fld>(Paleon.)</fld> <def>A peculiar structure found in the Arch<ae/an limestones of Canada and other regions. By some geologists it is believed to be a species of gigantic Foraminifera, but others consider it a concretion, without organic structure.</def><br/
+<par/<hw>E`o*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eozo<oum/ns</plw> <pr>(#)</pr>, L. <plw>Eozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'hw`s</grk> dawn + <grk>zw^,on</grk> an animal.]</ety> <fld>(Paleon.)</fld> <def>A peculiar structure found in the Arch<ae/an limestones of Canada and other regions. By some geologists it is believed to be a species of gigantic Foraminifera, but others consider it a concretion, without organic structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><-- p. 500 --></p>
@@ -17439,7 +17439,7 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epacris</ent><br/
-\'d8<hw>Ep"a*cris</hw> <pr>(<ecr/p"<adot/*kr<icr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`pakros</grk> pointed at the end. So called in allusion to the sharply pointed leaves.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs, natives of Australia, New Zealand, etc., having pretty white, red, or purple blossoms, and much resembling heaths.</def><br/
+<par/<hw>Ep"a*cris</hw> <pr>(<ecr/p"<adot/*kr<icr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'e`pakros</grk> pointed at the end. So called in allusion to the sharply pointed leaves.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs, natives of Australia, New Zealand, etc., having pretty white, red, or purple blossoms, and much resembling heaths.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epact</ent><br/
@@ -17462,23 +17462,23 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanadiplosis</ent><br/
-\'d8<hw>Ep*an`a*di*plo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to make double.]</ety> <fld>(Rhet.)</fld> <def>A figure by which the same word is used both at the beginning and at the end of a sentence; <as>as, <ldquo/<ex>Rejoice</ex> in the Lord always: and again I say, <ex>Rejoice</ex></as>.<rdquo/</def>  <rj><au>Phil. iv. 4.</au></rj><br/
+<par/<hw>Ep*an`a*di*plo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to make double.]</ety> <fld>(Rhet.)</fld> <def>A figure by which the same word is used both at the beginning and at the end of a sentence; <as>as, <ldquo/<ex>Rejoice</ex> in the Lord always: and again I say, <ex>Rejoice</ex></as>.<rdquo/</def>  <rj><au>Phil. iv. 4.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanalepsis</ent><br/
-\'d8<hw>Ep*an`a*lep"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to take up.]</ety> <fld>(Rhet.)</fld> <def>A figure by which the same word or clause is repeated after intervening matter.</def>  <rj><au>Gibbs.</au></rj><br/
+<par/<hw>Ep*an`a*lep"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to take up.]</ety> <fld>(Rhet.)</fld> <def>A figure by which the same word or clause is repeated after intervening matter.</def>  <rj><au>Gibbs.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanaphora</ent><br/
-\'d8<hw>Ep`a*naph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a recurrence; <grk>'epi`</grk> + <?/ to bring or carry back.]</ety> <fld>(Rhet.)</fld> <def>Same as <er>Anaphora</er>.</def>  <rj><au>Gibbs.</au></rj><br/
+<par/<hw>Ep`a*naph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a recurrence; <grk>'epi`</grk> + <?/ to bring or carry back.]</ety> <fld>(Rhet.)</fld> <def>Same as <er>Anaphora</er>.</def>  <rj><au>Gibbs.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanastrophe</ent><br/
-\'d8<hw>Ep`a*nas"tro*phe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a return, epanastrophe; <grk>'epi`</grk> + <?/ to return.]</ety> <fld>(Rhet.)</fld> <def>Same as <er>Anadiplosis</er>.</def>  <rj><au>Gibbs.</au></rj><br/
+<par/<hw>Ep`a*nas"tro*phe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a return, epanastrophe; <grk>'epi`</grk> + <?/ to return.]</ety> <fld>(Rhet.)</fld> <def>Same as <er>Anadiplosis</er>.</def>  <rj><au>Gibbs.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanodos</ent><br/
-\'d8<hw>E*pan"o*dos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a rising, return; <grk>'epi`</grk> + <?/ a way up, rising; <?/ up + <?/ way.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech in which the parts of a sentence or clause are repeated in inverse order</def>, as in the following: --<br/
+<par/<hw>E*pan"o*dos</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a rising, return; <grk>'epi`</grk> + <?/ a way up, rising; <?/ up + <?/ way.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech in which the parts of a sentence or clause are repeated in inverse order</def>, as in the following: --<br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>O more exceeding love, or law more just?<br/
@@ -17490,7 +17490,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanorthosis</ent><br/
-\'d8<hw>Ep`an*or*tho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to set right again; <?/ again + <?/ to set straight.]</ety> <def>A figure by which a speaker recalls a word or words, in order to substitute something else stronger or more significant; as, Most <xex>brave</xex>!  Brave, did I say? most <xex>heroic</xex> act!</def><br/
+<par/<hw>Ep`an*or*tho"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to set right again; <?/ again + <?/ to set straight.]</ety> <def>A figure by which a speaker recalls a word or words, in order to substitute something else stronger or more significant; as, Most <xex>brave</xex>!  Brave, did I say? most <xex>heroic</xex> act!</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epanthous</ent><br/
@@ -17533,7 +17533,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epeira</ent><br/
-\'d8<hw>E*pei"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of spiders, including the common garden spider (<spn>E. diadema</spn>). They spin geometrical webs. See <er>Garden spider</er>.</def><br/
+<par/<hw>E*pei"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of spiders, including the common garden spider (<spn>E. diadema</spn>). They spin geometrical webs. See <er>Garden spider</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epen</ent><br/
@@ -17545,15 +17545,15 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epencephalon</ent><br/
-\'d8<hw>Ep`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon, near + <?/ brain.]</ety> <fld>(Anat.)</fld> <def>The segment of the brain next behind the midbrain, including the cerebellum and pons; the hindbrain. Sometimes abbreviated to <abbr>epen.</abbr></def><br/
+<par/<hw>Ep`en*ceph"a*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon, near + <?/ brain.]</ety> <fld>(Anat.)</fld> <def>The segment of the brain next behind the midbrain, including the cerebellum and pons; the hindbrain. Sometimes abbreviated to <abbr>epen.</abbr></def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ependyma</ent><br/
-\'d8<hw>Ep*en"dy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ an upper garment; <grk>'epi`</grk> upon + <?/ a garment; <?/ in + <?/ to put on.]</ety> <fld>(Anat.)</fld> <def>The epithelial lining of the ventricles of the brain and the canal of the spinal cord; endyma; ependymis.</def><br/
+<par/<hw>Ep*en"dy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ an upper garment; <grk>'epi`</grk> upon + <?/ a garment; <?/ in + <?/ to put on.]</ety> <fld>(Anat.)</fld> <def>The epithelial lining of the ventricles of the brain and the canal of the spinal cord; endyma; ependymis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ependymis</ent><br/
-\'d8<hw>Ep*en"dy*mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Ependyma</er>.</def><br/
+<par/<hw>Ep*en"dy*mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Ependyma</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epenetic</ent><br/
@@ -17561,7 +17561,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epenthesis</ent><br/
-\'d8<hw>E*pen"the*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epentheses</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to put or set in.]</ety> <fld>(Gram.)</fld> <def>The insertion of a letter or a sound in the body of a word; <as>as, the <ex>b</ex> in <ldquo/nimble<rdquo/ from AS. <ex>n<emac/mol</ex></as>.</def><br/
+<par/<hw>E*pen"the*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epentheses</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/; <grk>'epi`</grk> + <?/ to put or set in.]</ety> <fld>(Gram.)</fld> <def>The insertion of a letter or a sound in the body of a word; <as>as, the <ex>b</ex> in <ldquo/nimble<rdquo/ from AS. <ex>n<emac/mol</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epenthetic</ent><br/
@@ -17569,15 +17569,15 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>epergne</ent><br/
-\'d8<hw><Eacute/`pergne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/pargne</ets> a sparing or saving; a treasury. <ldquo/Our <eacute/pergne is a little <ets>treasury</ets> of sweetmeats, fruits, and flowers.<rdquo/ <au>Brewer.</au>]</ety> <def>A centerpiece for table decoration, usually consisting of several dishes or receptacles of different sizes grouped together in an ornamental design.</def><br/
+<par/<hw><Eacute/`pergne"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/pargne</ets> a sparing or saving; a treasury. <ldquo/Our <eacute/pergne is a little <ets>treasury</ets> of sweetmeats, fruits, and flowers.<rdquo/ <au>Brewer.</au>]</ety> <def>A centerpiece for table decoration, usually consisting of several dishes or receptacles of different sizes grouped together in an ornamental design.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eperlan</ent><br/
-\'d8<hw><Eacute/`per`lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/perlan</ets>, fr. G. <ets>spierling</ets>. See <er>Sparling</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>The European smelt (<spn>Osmerus eperlanus</spn>).</def><br/
+<par/<hw><Eacute/`per`lan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/perlan</ets>, fr. G. <ets>spierling</ets>. See <er>Sparling</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>The European smelt (<spn>Osmerus eperlanus</spn>).</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epexegesis</ent><br/
-\'d8<hw>Ep*ex`e*ge"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ detailed narrative, fr. <?/ to recount in detail; <grk>'epi`</grk> + <?/ to lead, point out. See <er>Exegesis</er>.]</ety> <def>A full or additional explanation; exegesis.</def><br/
+<par/<hw>Ep*ex`e*ge"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ detailed narrative, fr. <?/ to recount in detail; <grk>'epi`</grk> + <?/ to lead, point out. See <er>Exegesis</er>.]</ety> <def>A full or additional explanation; exegesis.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epexegetical</ent><br/
@@ -17589,7 +17589,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephemera</ent><br/
-\'d8<hw>E*phem"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a day fly, fr. <?/ daily, lasting but a day; <?/ over + <?/ day.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A fever of one day's continuance only.</def><br/
+<par/<hw>E*phem"e*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a day fly, fr. <?/ daily, lasting but a day; <?/ over + <?/ day.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>A fever of one day's continuance only.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of insects including the day flies, or ephemeral flies. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def><br/
@@ -17638,7 +17638,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephemeron</ent><br/
-\'d8<hw>E*phem"e*ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ephemera</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ephemera</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the ephemeral flies.</def><br/
+<par/<hw>E*phem"e*ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ephemera</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Ephemera</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the ephemeral flies.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephemerous</ent><br/
@@ -17657,7 +17657,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephialtes</ent><br/
-\'d8<hw>Eph`i*al"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., one who leaps upon.]</ety> <def>The nightmare.</def>  <rj><au>Brande & C.</au></rj><br/
+<par/<hw>Eph`i*al"tes</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, lit., one who leaps upon.]</ety> <def>The nightmare.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephippial</ent><br/
@@ -17665,7 +17665,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephippium</ent><br/
-\'d8<hw>E*phip"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., saddle cloth, fr. Gr. <?/; <grk>'epi`</grk> on + <grk>"i`ppos</grk> horse.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A depression in the sphenoid bone; the pituitary fossa.</def><br/
+<par/<hw>E*phip"pi*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., saddle cloth, fr. Gr. <?/; <grk>'epi`</grk> on + <grk>"i`ppos</grk> horse.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>A depression in the sphenoid bone; the pituitary fossa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A saddle-shaped cavity to contain the winter eggs, situated on the back of Cladocera.</def><br/
@@ -17692,11 +17692,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ephyra</ent><br/
-\'d8<hw>Eph"y*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, an old name of Corinth.]</ety> <fld>(Zo<oum/l.)</fld> <def>A stage in the development of discophorous medus<ae/, when they first begin to swim about after being detached from the strobila. See <er>Strobila</er>.</def><br/
+<par/<hw>Eph"y*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, an old name of Corinth.]</ety> <fld>(Zo<oum/l.)</fld> <def>A stage in the development of discophorous medus<ae/, when they first begin to swim about after being detached from the strobila. See <er>Strobila</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epi-</ent><br/
-\'d8<hw>Ep"i-</hw> <pr>(?)</pr>. <ety>[Gr. <grk>'epi`</grk> on, upon, to; akin to Skr. <ets>api</ets> besides, and prob. to L. <ets>ob</ets> to, before, on account of, and perh. to E. <ets>of</ets>, <ets>off</ets>.]</ety> <def>A prefix, meaning <xex>upon</xex>, <xex>beside</xex>, <xex>among</xex>, <xex>on the outside</xex>, <xex>above</xex>, <xex>over</xex>. It becomes <xex>ep-</xex>before a vowel, as in <xex>epoch</xex>, and <xex>eph-</xex>before a Greek aspirate, as in <xex>ephemeral</xex>.</def><br/
+<par/<hw>Ep"i-</hw> <pr>(?)</pr>. <ety>[Gr. <grk>'epi`</grk> on, upon, to; akin to Skr. <ets>api</ets> besides, and prob. to L. <ets>ob</ets> to, before, on account of, and perh. to E. <ets>of</ets>, <ets>off</ets>.]</ety> <def>A prefix, meaning <xex>upon</xex>, <xex>beside</xex>, <xex>among</xex>, <xex>on the outside</xex>, <xex>above</xex>, <xex>over</xex>. It becomes <xex>ep-</xex>before a vowel, as in <xex>epoch</xex>, and <xex>eph-</xex>before a Greek aspirate, as in <xex>ephemeral</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiblast</ent><br/
@@ -17708,7 +17708,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiblema</ent><br/
-\'d8<hw>Ep`i*ble"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a cover; <?/ over + <?/ to throw.]</ety> <fld>(Bot.)</fld> <def>The epidermal cells of rootlets, specially adapted to absorb liquids.</def>  <rj><au>Goodale.</au></rj><br/
+<par/<hw>Ep`i*ble"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a cover; <?/ over + <?/ to throw.]</ety> <fld>(Bot.)</fld> <def>The epidermal cells of rootlets, specially adapted to absorb liquids.</def>  <rj><au>Goodale.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epibolic</ent><br/
@@ -17749,7 +17749,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicardium</ent><br/
-\'d8<hw>Ep`i*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <grk>kardi`a</grk> heart.]</ety> <fld>(Anat.)</fld> <def>That part of the pericardium which forms the outer surface of the heart; the cardiac pericardium.</def><br/
+<par/<hw>Ep`i*car"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <grk>kardi`a</grk> heart.]</ety> <fld>(Anat.)</fld> <def>That part of the pericardium which forms the outer surface of the heart; the cardiac pericardium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicaridan</ent><br/
@@ -17773,7 +17773,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicedium</ent><br/
-\'d8<hw>Ep`i*ce"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>An epicede.</def><br/
+<par/<hw>Ep`i*ce"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>An epicede.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicene</ent><br/
@@ -17798,7 +17798,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epichirema</ent><br/
-\'d8<hw>Ep`i*chi*re"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epichiremata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, from <?/ to attempt to prove.]</ety> <fld>(Rhet. & Logic)</fld> <def>A syllogism in which the proof of the major or minor premise, or both, is introduced with the premises themselves, and the conclusion is derived in the ordinary manner.</def> <altsp>[Written also <asp>epicheirema</asp>.]</altsp><br/
+<par/<hw>Ep`i*chi*re"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epichiremata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/, from <?/ to attempt to prove.]</ety> <fld>(Rhet. & Logic)</fld> <def>A syllogism in which the proof of the major or minor premise, or both, is introduced with the premises themselves, and the conclusion is derived in the ordinary manner.</def> <altsp>[Written also <asp>epicheirema</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epichordal</ent><br/
@@ -17813,7 +17813,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicleidium</ent><br/
-\'d8<hw>Ep`i*clei"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a little key.]</ety> <fld>(Anat.)</fld> <def>A projection, formed by a separate ossification, at the scapular end of the clavicle of many birds.</def><br/
+<par/<hw>Ep`i*clei"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a little key.]</ety> <fld>(Anat.)</fld> <def>A projection, formed by a separate ossification, at the scapular end of the clavicle of many birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiclinal</ent><br/
@@ -17851,7 +17851,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epicranium</ent><br/
-\'d8<hw>Ep`i*cra"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epi-</er>, and <er>Cranium</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The upper and superficial part of the head, including the scalp, muscles, etc.</def><br/
+<par/<hw>Ep`i*cra"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epi-</er>, and <er>Cranium</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The upper and superficial part of the head, including the scalp, muscles, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>The dorsal wall of the head of insects.</def><br/
@@ -18049,11 +18049,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epididymis</ent><br/
-\'d8<hw>Ep`i*did"y*mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>'epi`</grk> upon + <?/ testicle.]</ety> <fld>(Anat.)</fld> <def>An oblong vermiform mass on the dorsal side of the testicle, composed of numerous convolutions of the excretory duct of that organ.</def> -- <wordforms><wf>Ep`i*did"y*mal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<par/<hw>Ep`i*did"y*mis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>'epi`</grk> upon + <?/ testicle.]</ety> <fld>(Anat.)</fld> <def>An oblong vermiform mass on the dorsal side of the testicle, composed of numerous convolutions of the excretory duct of that organ.</def> -- <wordforms><wf>Ep`i*did"y*mal</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epididymitis</ent><br/
-\'d8<hw>Ep`i*did`y*mi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epididymis</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the epididymis, one of the common results of gonorrhea.</def><br/
+<par/<hw>Ep`i*did`y*mi"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epididymis</er>, and <er>-itis</er>.]</ety> <fld>(Med.)</fld> <def>Inflammation of the epididymis, one of the common results of gonorrhea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epidote</ent><br/
@@ -18068,7 +18068,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epigaea</ent><br/
-\'d8<hw>Ep`i*g<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ earth.]</ety> <fld>(Bot.)</fld> <def>An American genus of plants, containing but a single species (<spn>E. repens</spn>), the trailing arbutus.</def><br/
+<par/<hw>Ep`i*g<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ earth.]</ety> <fld>(Bot.)</fld> <def>An American genus of plants, containing but a single species (<spn>E. repens</spn>), the trailing arbutus.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epigaeous</ent><br/
@@ -18125,7 +18125,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epigeum</ent><br/
-\'d8<hw>Ep*i*ge"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epigee</er>.]</ety> <def>See <er>Perigee</er>.</def> <mark>[Obs.]</mark><br/
+<par/<hw>Ep*i*ge"um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epigee</er>.]</ety> <def>See <er>Perigee</er>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiglottic</ent><br/
@@ -18295,11 +18295,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epimachus</ent><br/
-\'d8<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`machos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`chh</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def><br/
+<par/<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`machos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`chh</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epimera</ent><br/
-\'d8<hw>E*pim"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Epimeron</er>.</def><br/
+<par/<hw>E*pim"e*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <def>See <er>Epimeron</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epimeral</ent><br/
@@ -18311,7 +18311,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epimeron</ent><br/
-\'d8<hw>E*pim"e*ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epimera</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a part.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>In crustaceans: The part of the side of a somite external to the basal joint of each appendage.</def> See <xex>Illust.</xex> under <er>Crustacea</er>. <sd>(b)</sd> <def>In insects: The lateral piece behind the episternum.</def> <altsp>[Written also <asp>epimerum</asp>.]</altsp><br/
+<par/<hw>E*pim"e*ron</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epimera</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a part.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>In crustaceans: The part of the side of a somite external to the basal joint of each appendage.</def> See <xex>Illust.</xex> under <er>Crustacea</er>. <sd>(b)</sd> <def>In insects: The lateral piece behind the episternum.</def> <altsp>[Written also <asp>epimerum</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epinastic</ent><br/
@@ -18323,11 +18323,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epineurium</ent><br/
-\'d8<hw>Ep`i*neu"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a nerve.]</ety> <fld>(Anat.)</fld> <def>The connective tissue framework and sheath of a nerve which bind together the nerve bundles, each of which has its own special sheath, or perineurium.</def><br/
+<par/<hw>Ep`i*neu"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ a nerve.]</ety> <fld>(Anat.)</fld> <def>The connective tissue framework and sheath of a nerve which bind together the nerve bundles, each of which has its own special sheath, or perineurium.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epinglette</ent><br/
-\'d8<hw>Ep`in*glette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mil.)</fld> <def>An iron needle for piercing the cartridge of a cannon before priming.</def><br/
+<par/<hw>Ep`in*glette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Mil.)</fld> <def>An iron needle for piercing the cartridge of a cannon before priming.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epinicial</ent><br/
@@ -18384,7 +18384,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphonema</ent><br/
-\'d8<hw>Ep`i*pho*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'epifw`nhma</grk>, fr. <grk>'epifwnei^n</grk> to mention; <grk>'epi`</grk> + <grk>fwnei^n</grk> to speak.]</ety> <fld>(Rhet.)</fld> <def>An exclamatory sentence, or striking reflection, which sums up or concludes a discourse.</def><br/
+<par/<hw>Ep`i*pho*ne"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'epifw`nhma</grk>, fr. <grk>'epifwnei^n</grk> to mention; <grk>'epi`</grk> + <grk>fwnei^n</grk> to speak.]</ety> <fld>(Rhet.)</fld> <def>An exclamatory sentence, or striking reflection, which sums up or concludes a discourse.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphoneme</ent><br/
@@ -18392,7 +18392,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphora</ent><br/
-\'d8<hw>E*piph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'epifora`</grk>, fr. <grk>'epife`rein</grk> to bring to or upon; <grk>'epi`</grk> + <grk>fe`rein</grk> to bring.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The watery eye; a disease in which the tears accumulate in the eye, and trickle over the cheek.</def><br/
+<par/<hw>E*piph"o*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>'epifora`</grk>, fr. <grk>'epife`rein</grk> to bring to or upon; <grk>'epi`</grk> + <grk>fe`rein</grk> to bring.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>The watery eye; a disease in which the tears accumulate in the eye, and trickle over the cheek.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Rhet.)</fld> <def>The emphatic repetition of a word or phrase, at the end of several sentences or stanzas.</def><br/
@@ -18411,7 +18411,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphyllum</ent><br/
-\'d8<hw>Ep`i*phyl"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of cactaceous plants having flattened, jointed stems, and petals united in a tube. The flowers are very showy, and several species are in cultivation.</def></p>
+<par/<hw>Ep`i*phyl"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Bot.)</fld> <def>A genus of cactaceous plants having flattened, jointed stems, and petals united in a tube. The flowers are very showy, and several species are in cultivation.</def></p>
 
 <p><ent>Epiphysial</ent><br/
 <ent>Epiphyseal</ent><br/
@@ -18419,7 +18419,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphysis</ent><br/
-\'d8<hw>E*piph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epiphyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`fysis</grk>, fr. <grk>'epify`ein</grk> to grow upon; <grk>'epi`</grk> upon + <grk>fy`ein</grk> to grow.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The end, or other superficial part, of a bone, which ossifies separately from the central portion, or <contr>diaphysis</contr>.</def> <sd>(b)</sd> <def>The cerebral epiphysis, or pineal gland. See <cref>Pineal gland</cref>, under <er>Pineal</er>.</def><br/
+<par/<hw>E*piph"y*sis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epiphyses</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`fysis</grk>, fr. <grk>'epify`ein</grk> to grow upon; <grk>'epi`</grk> upon + <grk>fy`ein</grk> to grow.]</ety> <fld>(Anat.)</fld> <sd>(a)</sd> <def>The end, or other superficial part, of a bone, which ossifies separately from the central portion, or <contr>diaphysis</contr>.</def> <sd>(b)</sd> <def>The cerebral epiphysis, or pineal gland. See <cref>Pineal gland</cref>, under <er>Pineal</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiphytal</ent><br/
@@ -18446,11 +18446,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiplexis</ent><br/
-\'d8<hw>Ep`i*plex"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., reproof, fr. Gr. <?/ , fr. <?/ to strike at, reprove; <grk>'epi`</grk> + <?/ to strike.]</ety> <fld>(Rhet.)</fld> <def>A figure by which a person seeks to convince and move by an elegant kind of upbraiding.</def><br/
+<par/<hw>Ep`i*plex"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., reproof, fr. Gr. <?/ , fr. <?/ to strike at, reprove; <grk>'epi`</grk> + <?/ to strike.]</ety> <fld>(Rhet.)</fld> <def>A figure by which a person seeks to convince and move by an elegant kind of upbraiding.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiploce</ent><br/
-\'d8<hw>E*pip"lo*ce</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., connection, from Gr. <?/ a plaiting together, fr. <?/ to plait or braid in; <grk>'epi`</grk> upon + <?/ to twist, plait.]</ety> <fld>(Rhet.)</fld> <def>A figure by which one striking circumstance is added, in due gradation, to another; climax; <it>e. g.</it>, <ldquo/He not only spared his enemies, but continued them in employment; not only continued, but advanced them.<rdquo/</def>  <rj><au>Johnson.</au></rj><br/
+<par/<hw>E*pip"lo*ce</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., connection, from Gr. <?/ a plaiting together, fr. <?/ to plait or braid in; <grk>'epi`</grk> upon + <?/ to twist, plait.]</ety> <fld>(Rhet.)</fld> <def>A figure by which one striking circumstance is added, in due gradation, to another; climax; <it>e. g.</it>, <ldquo/He not only spared his enemies, but continued them in employment; not only continued, but advanced them.<rdquo/</def>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiploic</ent><br/
@@ -18458,7 +18458,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epiploon</ent><br/
-\'d8<hw>E*pip"lo*<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epiploa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/.]</ety> <fld>(Anat.)</fld> <def>See <er>Omentum</er>.</def><br/
+<par/<hw>E*pip"lo*<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epiploa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/.]</ety> <fld>(Anat.)</fld> <def>See <er>Omentum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipodial</ent><br/
@@ -18469,7 +18469,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipodiale</ent><br/
-\'d8<hw>Ep`i*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/, dim. of <?/, <?/, foot.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the forearm or shank, the <xex>epipodialia</xex> being the radius, ulna, tibia, and fibula.</def><br/
+<par/<hw>Ep`i*po`di*a"le</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipodialia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/, dim. of <?/, <?/, foot.]</ety> <fld>(Anat.)</fld> <def>One of the bones of either the forearm or shank, the <xex>epipodialia</xex> being the radius, ulna, tibia, and fibula.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipodite</ent><br/
@@ -18477,7 +18477,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipodium</ent><br/
-\'d8<hw>Ep`i*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipodia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/, <?/, foot.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the lateral lobes of the foot in certain gastropods.</def><br/
+<par/<hw>Ep`i*po"di*um</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipodia</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/, <?/, foot.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the lateral lobes of the foot in certain gastropods.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipolic</ent><br/
@@ -18505,7 +18505,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epipubis</ent><br/
-\'d8<hw>Ep`i*pu"bis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipubes</plw> <pr>(#)</pr>.</plu> <ety>[NL., <ets>epi-</ets> + <ets>pubis</ets>.]</ety> <fld>(Anat.)</fld> <def>A cartilage or bone in front of the pubis in some amphibians and other animals.</def><br/
+<par/<hw>Ep`i*pu"bis</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epipubes</plw> <pr>(#)</pr>.</plu> <ety>[NL., <ets>epi-</ets> + <ets>pubis</ets>.]</ety> <fld>(Anat.)</fld> <def>A cartilage or bone in front of the pubis in some amphibians and other animals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Episcopacy</ent><br/
@@ -18607,7 +18607,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epispadias</ent><br/
-\'d8<hw>Ep`i*spa"di*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ to draw, rend.]</ety> <fld>(Med.)</fld> <def>A deformity in which the urethra opens upon the top of the penis, instead of at its extremity.</def><br/
+<par/<hw>Ep`i*spa"di*as</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ to draw, rend.]</ety> <fld>(Med.)</fld> <def>A deformity in which the urethra opens upon the top of the penis, instead of at its extremity.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epispastic</ent><br/
@@ -18631,7 +18631,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epistaxis</ent><br/
-\'d8<hw>Ep`i*stax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ to drop.]</ety> <fld>(Med.)</fld> <def>Bleeding at the nose.</def><br/
+<par/<hw>Ep`i*stax"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/ to drop.]</ety> <fld>(Med.)</fld> <def>Bleeding at the nose.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>epistemological</ent><br/
@@ -18648,7 +18648,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Episternum</ent><br/
-\'d8<hw>Ep`i*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Episterna</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Epi-</er>, and <er>Sternum</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>A median bone connected with the sternum, in many vertebrates; the interclavicle.</def> <sd>(b)</sd> <def>Same as <er>Epiplastron</er>.</def><br/
+<par/<hw>Ep`i*ster"num</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Episterna</plw> <pr>(#)</pr>.</plu> <ety>[NL. See <er>Epi-</er>, and <er>Sternum</er>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <sd>(a)</sd> <def>A median bone connected with the sternum, in many vertebrates; the interclavicle.</def> <sd>(b)</sd> <def>Same as <er>Epiplastron</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>One of the lateral pieces next to the sternum in the thorax of insects.</def><br/
@@ -18734,11 +18734,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Epistome</ent><br/
 <ent>Epistoma</ent><br/
-<mhw>{ \'d8<hw>E*pis"to*ma</hw> <pr>(?)</pr>, <hw>Ep"i*stome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>epistoma</ets>, fr. Gr. <grk>'epi`</grk> upon + <?/, <?/, mouth.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>The region between the antenn<ae/ and the mouth, in Crustacea.</def> <sd>(b)</sd> <def>A liplike organ that covers the mouth, in most Bryozoa. See <xex>Illust.</xex>, under <er>Entoprocta</er>.</def><br/
+<mhw>{ <par/<hw>E*pis"to*ma</hw> <pr>(?)</pr>, <hw>Ep"i*stome</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>epistoma</ets>, fr. Gr. <grk>'epi`</grk> upon + <?/, <?/, mouth.]</ety> <fld>(Zo<oum/l.)</fld> <sd>(a)</sd> <def>The region between the antenn<ae/ and the mouth, in Crustacea.</def> <sd>(b)</sd> <def>A liplike organ that covers the mouth, in most Bryozoa. See <xex>Illust.</xex>, under <er>Entoprocta</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epistrophe</ent><br/
-\'d8<hw>E*pis"tro*phe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/ a turning toward, return, fr. <?/ to turn toward; <grk>'epi`</grk> upon, to + <?/ to turn.]</ety> <fld>(Rhet.)</fld> <def>A figure in which successive clauses end with the same word or affirmation; <it>e. g.</it>, <ldquo/Are they Hebrews? <xex>so am I</xex>. Are they Israelites? <xex>so am I</xex>.<rdquo/</def>  <rj><au>2 Cor. xi. 22.</au></rj><br/
+<par/<hw>E*pis"tro*phe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., from Gr. <?/ a turning toward, return, fr. <?/ to turn toward; <grk>'epi`</grk> upon, to + <?/ to turn.]</ety> <fld>(Rhet.)</fld> <def>A figure in which successive clauses end with the same word or affirmation; <it>e. g.</it>, <ldquo/Are they Hebrews? <xex>so am I</xex>. Are they Israelites? <xex>so am I</xex>.<rdquo/</def>  <rj><au>2 Cor. xi. 22.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epistyle</ent><br/
@@ -18796,7 +18796,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epitasis</ent><br/
-\'d8<hw>E*pit"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  a stretching, fr. <?/ to stretch upon or over; <grk>'epi`</grk> upon + <?/ to stretch.]</ety> <sn>1.</sn> <def>That part which embraces the main action of a play, poem, and the like, and leads on to the catastrophe; -- opposed to <contr>protasis</contr>.</def><br/
+<par/<hw>E*pit"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/  a stretching, fr. <?/ to stretch upon or over; <grk>'epi`</grk> upon + <?/ to stretch.]</ety> <sn>1.</sn> <def>That part which embraces the main action of a play, poem, and the like, and leads on to the catastrophe; -- opposed to <contr>protasis</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>The period of violence in a fever or disease; paroxysm.</def>  <rj><au>Dunglison.</au></rj><br/
@@ -18818,7 +18818,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epitheca</ent><br/
-\'d8<hw>Ep`i*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/  a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>A continuous and, usually, structureless layer which covers more or less of the exterior of many corals.</def><br/
+<par/<hw>Ep`i*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <?/  a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>A continuous and, usually, structureless layer which covers more or less of the exterior of many corals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithelial</ent><br/
@@ -18830,7 +18830,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithelioma</ent><br/
-\'d8<hw>Ep`i*the`li*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epithelium</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A malignant growth containing epithelial cells; -- called also <altname>epithelial cancer</altname>.</def><br/
+<par/<hw>Ep`i*the`li*o"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epithelium</er>, and <er>-oma</er>.]</ety> <fld>(Med.)</fld> <def>A malignant growth containing epithelial cells; -- called also <altname>epithelial cancer</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithelium</ent><br/
@@ -18846,11 +18846,11 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithema</ent><br/
-\'d8<hw>Ep`i*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'epi`</grk> upon + <?/  a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>A horny excrescence upon the beak of birds.</def><br/
+<par/<hw>Ep`i*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'epi`</grk> upon + <?/  a case, box, fr. <?/ to place.]</ety> <fld>(Zo<oum/l.)</fld> <def>A horny excrescence upon the beak of birds.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithesis</ent><br/
-\'d8<hw>E*pith"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a putting on; <grk>'epi`</grk> upon + <?/ to place.]</ety> <def>The addition of a letter at the end of a word, without changing its sense; <as>as, <ex>numb</ex> for <ex>num</ex>, <ex>whilst</ex> for <ex>whiles</ex></as>.</def><br/
+<par/<hw>E*pith"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a putting on; <grk>'epi`</grk> upon + <?/ to place.]</ety> <def>The addition of a letter at the end of a word, without changing its sense; <as>as, <ex>numb</ex> for <ex>num</ex>, <ex>whilst</ex> for <ex>whiles</ex></as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epithet</ent><br/
@@ -18938,7 +18938,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epitrochlea</ent><br/
-\'d8<hw>Ep`i*troch"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epi-</er>, and <er>Trochlea</er>.]</ety> <fld>(Anat.)</fld> <def>A projection on the outer side of the distal end of the humerus; the external condyle.</def><br/
+<par/<hw>Ep`i*troch"le*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Epi-</er>, and <er>Trochlea</er>.]</ety> <fld>(Anat.)</fld> <def>A projection on the outer side of the distal end of the humerus; the external condyle.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epitrochlear</ent><br/
@@ -18950,11 +18950,11 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epitrope</ent><br/
-\'d8<hw>E*pit"ro*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ reference, arbitration, fr. <?/ to turn over, to give up, yield; <grk>'epi`</grk> upon, over + <?/ to turn.]</ety> <fld>(Rhet.)</fld> <def>A figure by which permission is either seriously or ironically granted to some one, to do what he proposes to do; <it>e. g.</it>, <ldquo/He that is unjust, let him be unjust still.<rdquo/</def><br/
+<par/<hw>E*pit"ro*pe</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ reference, arbitration, fr. <?/ to turn over, to give up, yield; <grk>'epi`</grk> upon, over + <?/ to turn.]</ety> <fld>(Rhet.)</fld> <def>A figure by which permission is either seriously or ironically granted to some one, to do what he proposes to do; <it>e. g.</it>, <ldquo/He that is unjust, let him be unjust still.<rdquo/</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epizeuxis</ent><br/
-\'d8<hw>Ep`i*zeux"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a fastening together, repetition, fr. <?/ to fasten to or upon; <grk>'epi`</grk> upon + <?/ to join, yoke.]</ety> <fld>(Rhet.)</fld> <def>A figure by which a word is repeated with vehemence or emphasis, as in the following lines: --</def><br/
+<par/<hw>Ep`i*zeux"is</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ a fastening together, repetition, fr. <?/ to fasten to or upon; <grk>'epi`</grk> upon + <?/ to join, yoke.]</ety> <fld>(Rhet.)</fld> <def>A figure by which a word is repeated with vehemence or emphasis, as in the following lines: --</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q><examp>Alone</examp>, <examp>alone</examp>, <examp>all all alone</examp>,<br/
@@ -18970,7 +18970,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epizoon</ent><br/
-\'d8<hw>Ep`i*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epizoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <grk>zw^,on</grk> animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the artificial group of invertebrates of various kinds, which live parasitically upon the exterior of other animals; an ectozo<oum/n. Among them are the lice, ticks, many acari, the lerneans, or fish lice, and other crustaceans.</def><br/
+<par/<hw>Ep`i*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Epizoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'epi`</grk> upon + <grk>zw^,on</grk> animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the artificial group of invertebrates of various kinds, which live parasitically upon the exterior of other animals; an ectozo<oum/n. Among them are the lice, ticks, many acari, the lerneans, or fish lice, and other crustaceans.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epizootic</ent><br/
@@ -19031,7 +19031,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epocha</ent><br/
-\'d8<hw>Ep"o*cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Epoch</er>.</def>  <rj><au>J. Adams.</au></rj><br/
+<par/<hw>Ep"o*cha</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Epoch</er>.</def>  <rj><au>J. Adams.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epochal</ent><br/
@@ -19076,11 +19076,11 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epoophoron</ent><br/
-\'d8<hw>Ep`o*<oum/ph"o*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'epi`</grk> upon + <?/ egg + <grk>fe`rein</grk> to bear.]</ety> <fld>(Anat.)</fld> <def>See <er>Parovarium</er>.</def></p>
+<par/<hw>Ep`o*<oum/ph"o*ron</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'epi`</grk> upon + <?/ egg + <grk>fe`rein</grk> to bear.]</ety> <fld>(Anat.)</fld> <def>See <er>Parovarium</er>.</def></p>
 
 <p><ent>Epopoeia</ent><br/
 <ent>Epopee</ent><br/
-<mhw>{ <hw>Ep"o*pee`</hw> <pr>(?)</pr>, \'d8<hw>Ep`o*p<oe/"ia</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets><eacute/pop<eacute/e</ets>, Gr. <?/; <grk>'e`pos</grk> song + <?/ to make. See <er>Epos</er>.]</ety> <def>An epic poem; epic poetry.</def><br/
+<mhw>{ <hw>Ep"o*pee`</hw> <pr>(?)</pr>, <par/<hw>Ep`o*p<oe/"ia</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets><eacute/pop<eacute/e</ets>, Gr. <?/; <grk>'e`pos</grk> song + <?/ to make. See <er>Epos</er>.]</ety> <def>An epic poem; epic poetry.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epopt</ent><br/
@@ -19088,7 +19088,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epos</ent><br/
-\'d8<hw>Ep"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <def>An epic.</def><br/
+<par/<hw>Ep"os</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/.]</ety> <def>An epic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epotation</ent><br/
@@ -19096,7 +19096,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eprouvette</ent><br/
-\'d8<hw><Eacute/`prou`vette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Gun.)</fld> <def>An apparatus for testing or proving the strength of gunpowder.</def><br/
+<par/<hw><Eacute/`prou`vette"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Gun.)</fld> <def>An apparatus for testing or proving the strength of gunpowder.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epsomite</ent><br/
@@ -19118,7 +19118,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epulis</ent><br/
-\'d8<hw>E*pu"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a gumboil; Gr. <grk>'epi`</grk> upon + <?/ gums.]</ety> <fld>(Med.)</fld> <def>A hard tumor developed from the gums.</def><br/
+<par/<hw>E*pu"lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a gumboil; Gr. <grk>'epi`</grk> upon + <?/ gums.]</ety> <fld>(Med.)</fld> <def>A hard tumor developed from the gums.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epulose</ent><br/
@@ -19138,7 +19138,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>epure</ent><br/
-\'d8<hw><Eacute/`pure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fine Arts)</fld> <def>A draught or model from which to build; especially, one of the full size of the work to be done; a detailed drawing.</def><br/
+<par/<hw><Eacute/`pure"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Fine Arts)</fld> <def>A draught or model from which to build; especially, one of the full size of the work to be done; a detailed drawing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Epworth League</ent><br/
@@ -19607,7 +19607,7 @@ And ruled in just <qex>equation</qex> with the night.</q> <rj><qau>Rowe.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equinia</ent><br/
-\'d8<hw>E*quin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Equine</er>.]</ety> <fld>(Med.)</fld> <def>Glanders.</def><br/
+<par/<hw>E*quin"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Equine</er>.]</ety> <fld>(Med.)</fld> <def>Glanders.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equinoctial</ent><br/
@@ -19813,7 +19813,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equisetum</ent><br/
-\'d8<hw>Eq`ui*se"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Equiseta</plw> <pr>(#)</pr>.</plu> <ety>[L., the horsetail, fr. <ets>equus</ets> horse + <ets>seta</ets> a thick,, stiff hair, bristle.]</ety> <fld>(Bot.)</fld> <def>A genus of vascular, cryptogamic, herbaceous plants; -- also called <altname>horsetails</altname>.</def><br/
+<par/<hw>Eq`ui*se"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Equiseta</plw> <pr>(#)</pr>.</plu> <ety>[L., the horsetail, fr. <ets>equus</ets> horse + <ets>seta</ets> a thick,, stiff hair, bristle.]</ety> <fld>(Bot.)</fld> <def>A genus of vascular, cryptogamic, herbaceous plants; -- also called <altname>horsetails</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The <gen>Equiseta</gen> have hollow jointed stems and no true leaves. The cuticle often contains siliceous granules, so that one species (<spn>E. hyemale</spn>) is used for scouring and polishing, under the name of <stype>Dutch rush</stype> or <stype>scouring rush</stype>.</note><br/
@@ -19870,7 +19870,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equites</ent><br/
-\'d8<hw>Eq"ui*tes</hw> <pr>(?)</pr> <pos>n. pl</pos> <ety>[L., pl. of <ets>eques</ets> a horseman.]</ety> <fld>(Rom. Antiq.)</fld> <def>An order of knights holding a middle place between the senate and the commonalty; members of the Roman equestrian order.</def><br/
+<par/<hw>Eq"ui*tes</hw> <pr>(?)</pr> <pos>n. pl</pos> <ety>[L., pl. of <ets>eques</ets> a horseman.]</ety> <fld>(Rom. Antiq.)</fld> <def>An order of knights holding a middle place between the senate and the commonalty; members of the Roman equestrian order.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equity</ent><br/
@@ -20062,7 +20062,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Equus</ent><br/
-\'d8<hw>E"quus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., horse.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of mammals, including the horse, ass, etc.</def><br/
+<par/<hw>E"quus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., horse.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of mammals, including the horse, ass, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Er</ent><br/
@@ -20415,7 +20415,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eremacausis</ent><br/
-\'d8<hw>Er`e*ma*cau"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ quietly + <?/ burning, fr. <?/ to burn.]</ety> <def>A gradual oxidation from exposure to air and moisture, as in the decay of old trees or of dead animals.</def><br/
+<par/<hw>Er`e*ma*cau"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ quietly + <?/ burning, fr. <?/ to burn.]</ety> <def>A gradual oxidation from exposure to air and moisture, as in the decay of old trees or of dead animals.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eremitage</ent><br/
@@ -20469,7 +20469,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Erf</ent><br/
-\'d8<hw>Erf</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Erven</plw> <pr>(#)</pr>.</plu> <ety>[D.]</ety> <def>A garden plot, usually about half an acre.</def> <mark>[Cape Colony]</mark><br/
+<par/<hw>Erf</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Erven</plw> <pr>(#)</pr>.</plu> <ety>[D.]</ety> <def>A garden plot, usually about half an acre.</def> <mark>[Cape Colony]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erg</ent><br/
@@ -20489,7 +20489,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Ergo</ent><br/
-\'d8<hw>Er"go</hw> <pr>(?)</pr>, <pos>conj. <or/ adv.</pos> <ety>[L.]</ety> <def>Therefore; consequently; -- often used in a jocular way.</def>  <rj><au>Shak.</au></rj><br/
+<par/<hw>Er"go</hw> <pr>(?)</pr>, <pos>conj. <or/ adv.</pos> <ety>[L.]</ety> <def>Therefore; consequently; -- often used in a jocular way.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>ergocalciferol</ent><br/
@@ -20655,7 +20655,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Eristalis</ent><br/
-\'d8<hw>E*ris"ta*lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of dipterous insects whose young (called <xex>rat-tailed larv<ae/</xex>) are remarkable for their long tapering tail, which spiracles at the tip, and for their ability to live in very impure and salt waters; -- also called <altname>drone fly</altname>.</def></p>
+<par/<hw>E*ris"ta*lis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of dipterous insects whose young (called <xex>rat-tailed larv<ae/</xex>) are remarkable for their long tapering tail, which spiracles at the tip, and for their ability to live in very impure and salt waters; -- also called <altname>drone fly</altname>.</def></p>
 
 <p><ent>Eristical</ent><br/
 <ent>Eristic</ent><br/
@@ -20799,7 +20799,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Eros</ent><br/
-\'d8<hw>E"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ love, <?/ (personified) Eros, fr. <?/ to love.]</ety> <fld>(Greek Myth.)</fld> <def>Love; the god of love; -- by earlier writers represented as one of the first and creative gods, by later writers as the son of Aphrodite, equivalent to the Latin god Cupid.</def><br/
+<par/<hw>E"ros</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/ love, <?/ (personified) Eros, fr. <?/ to love.]</ety> <fld>(Greek Myth.)</fld> <def>Love; the god of love; -- by earlier writers represented as one of the first and creative gods, by later writers as the son of Aphrodite, equivalent to the Latin god Cupid.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erose</ent><br/
@@ -20835,7 +20835,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erotesis</ent><br/
-\'d8<hw>Er`o*te"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a questioning, fr. <?/ to ask.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which a strong affirmation of the contrary, is implied under the form of an earnest interrogation, as in the following lines; -</def><br/
+<par/<hw>Er`o*te"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a questioning, fr. <?/ to ask.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which a strong affirmation of the contrary, is implied under the form of an earnest interrogation, as in the following lines; -</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>Must I give way and room to your rash choler?<br/
@@ -20943,7 +20943,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Errantia</ent><br/
-\'d8<hw>Er*ran"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>errare</ets> to wander. See <er>Err</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of ch<ae/topod annelids, including those that are not confined to tubes. See <er>Ch<ae/topoda</er>.</def> <altsp>[Written also <asp>Errantes</asp>.]</altsp><br/
+<par/<hw>Er*ran"ti*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>errare</ets> to wander. See <er>Err</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group of ch<ae/topod annelids, including those that are not confined to tubes. See <er>Ch<ae/topoda</er>.</def> <altsp>[Written also <asp>Errantes</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Errantry</ent><br/
@@ -20954,7 +20954,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Errata</ent><br/
-\'d8<hw>Er*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>Plural of <er>erratum</er>.  See <er>Erratum</er>.</def><br/
+<par/<hw>Er*ra"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <sn>1.</sn> <def>Plural of <er>erratum</er>.  See <er>Erratum</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A list of errors together with the corrections for the errors, added as a separate page of a text prior to publication, or as a separate sheet inserted into a printed text; <as>as, the <er>errata</er> was added after the printing was finished.</as>.</def><br/
@@ -21003,7 +21003,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erratum</ent><br/
-\'d8<hw>Er*ra"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Errata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>errare</ets>, <ets>erratum</ets>, to wander, err. See <er>Err</er>.]</ety> <def>An error or mistake in writing or printing.</def><br/
+<par/<hw>Er*ra"tum</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Errata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. <ets>errare</ets>, <ets>erratum</ets>, to wander, err. See <er>Err</er>.]</ety> <def>An error or mistake in writing or printing.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><q>A single <qex>erratum</qex> may knock out the brains of a whole passage.</q> <rj><qau>Cowper.</qau></rj><br/
@@ -21129,7 +21129,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eruca</ent><br/
-\'d8<hw>E*ru"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eruc<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a caterpillar, also, a sort of colewort.]</ety> <fld>(Zo<oum/l.)</fld> <def>An insect in the larval state; a caterpillar; a larva.</def><br/
+<par/<hw>E*ru"ca</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eruc<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., a caterpillar, also, a sort of colewort.]</ety> <fld>(Zo<oum/l.)</fld> <def>An insect in the larval state; a caterpillar; a larva.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erucic</ent><br/
@@ -21256,7 +21256,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>WordNet 1.5</source> + <source>PJC</source>]</p>
 
 <p><ent>Eryngium</ent><br/
-\'d8<hw>E*ryn"gi*um</hw> <pr>(<esl/*r<icr/n"j<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'hry`ggion</grk>, dim. of <grk>'h`ryggos</grk> eryngo; cf. L. <ets>eryngion</ets>, <ets>erynge</ets>.]</ety> <fld>(Bot.)</fld> <def>A large genus of umbelliferous plants somewhat like thistles in appearance, cosmopolitan in distribution. <spn>Eryngium maritimum</spn>, or sea holly, has been highly esteemed as an aphrodisiac, the roots being formerly candied.</def><br/
+<par/<hw>E*ryn"gi*um</hw> <pr>(<esl/*r<icr/n"j<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'hry`ggion</grk>, dim. of <grk>'h`ryggos</grk> eryngo; cf. L. <ets>eryngion</ets>, <ets>erynge</ets>.]</ety> <fld>(Bot.)</fld> <def>A large genus of umbelliferous plants somewhat like thistles in appearance, cosmopolitan in distribution. <spn>Eryngium maritimum</spn>, or sea holly, has been highly esteemed as an aphrodisiac, the roots being formerly candied.</def><br/
 <syn><b>Syn. --</b> genus <gen>Eryngium</gen>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -21294,7 +21294,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythema</ent><br/
-\'d8<hw>Er`y*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to redden, fr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Med.)</fld> <def>A disease of the skin, in which a diffused inflammation forms rose-colored patches of variable size.</def><br/
+<par/<hw>Er`y*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <?/ to redden, fr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Med.)</fld> <def>A disease of the skin, in which a diffused inflammation forms rose-colored patches of variable size.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythematic</ent><br/
@@ -21321,7 +21321,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythrina</ent><br/
-\'d8<hw>Er`y*thri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants growing in the tropics; coral tree; -- so called from its red flowers.</def><br/
+<par/<hw>Er`y*thri"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Bot.)</fld> <def>A genus of leguminous plants growing in the tropics; coral tree; -- so called from its red flowers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythrism</ent><br/
@@ -21383,7 +21383,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythronium</ent><br/
-\'d8<hw>Er`y*thro"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a kind of plant, fr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Chem.)</fld> <def>A name originally given (from its <xex>red</xex> acid) to the metal vanadium.</def> <mark>[R.]</mark><br/
+<par/<hw>Er`y*thro"ni*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ a kind of plant, fr. <grk>'eryqro`s</grk> red.]</ety> <fld>(Chem.)</fld> <def>A name originally given (from its <xex>red</xex> acid) to the metal vanadium.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythrophleine</ent><br/
@@ -21399,7 +21399,7 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythroxylon</ent><br/
-\'d8<hw>Er`y*throx"y*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'eryqro`s</grk> red + <?/ wood. So named from the red wood of some species.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs or small trees of the Flax family, growing in tropical countries. <spn>E. Coca</spn> is the source of cocaine. See <er>Coca</er>.</def><br/
+<par/<hw>Er`y*throx"y*lon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>'eryqro`s</grk> red + <?/ wood. So named from the red wood of some species.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubs or small trees of the Flax family, growing in tropical countries. <spn>E. Coca</spn> is the source of cocaine. See <er>Coca</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Erythrozyme</ent><br/
@@ -21619,7 +21619,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><ent>Eschara</ent><br/
-\'d8<hw>Es"cha*ra</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <?/ a grate, a pan of coals.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of Bryozoa which produce delicate corals, often incrusting like lichens, but sometimes branched.</def><br/
+<par/<hw>Es"cha*ra</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <?/ a grate, a pan of coals.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of Bryozoa which produce delicate corals, often incrusting like lichens, but sometimes branched.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Escharine</ent><br/
@@ -21713,7 +21713,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eschscholtzia</ent><br/
-\'d8<hw>Esch*scholtz"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Dr. <etsep>Eschscholtz</etsep></person>, a German botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of papaveraceous plants, found in California and upon the west coast of North America, some species of which produce beautiful yellow, orange, rose-colored, or white flowers; the California poppy.</def><br/
+<par/<hw>Esch*scholtz"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. Named after <person>Dr. <etsep>Eschscholtz</etsep></person>, a German botanist.]</ety> <fld>(Bot.)</fld> <def>A genus of papaveraceous plants, found in California and upon the west coast of North America, some species of which produce beautiful yellow, orange, rose-colored, or white flowers; the California poppy.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eschynite</ent><br/
@@ -21725,11 +21725,11 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 
 <p><ent>Escopette</ent><br/
 <ent>Escopet</ent><br/
-<mhw>{ <hw>Es`co*pet"</hw>, \'d8<hw>Es`co*pette"</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Sp. <ets>escopeta</ets>, F. <ets>escopette</ets>.]</ety> <def>A kind of firearm; a carbine.</def><br/
+<mhw>{ <hw>Es`co*pet"</hw>, <par/<hw>Es`co*pette"</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Sp. <ets>escopeta</ets>, F. <ets>escopette</ets>.]</ety> <def>A kind of firearm; a carbine.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Escorial</ent><br/
-\'d8<hw>Es*co"ri*al</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Prop. Sp. <ets>escorial</ets>, i. e., a hill or heap of rubbish, earth, and stones brought out of a mine, fr. <ets>escoria</ets> dross of metal, L. <ets>scoria</ets>, fr. Gr. <?/.  Cf. <er>Scoria</er>.]</ety> <def>A palace and mausoleum of the kings of Spain, being a vast and wonderful structure about twenty-five miles northwest of Madrid; called also <altname>escurial</altname>.  It was erected in 1563-1584 and contains a monastery.</def><br/
+<par/<hw>Es*co"ri*al</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[Prop. Sp. <ets>escorial</ets>, i. e., a hill or heap of rubbish, earth, and stones brought out of a mine, fr. <ets>escoria</ets> dross of metal, L. <ets>scoria</ets>, fr. Gr. <?/.  Cf. <er>Scoria</er>.]</ety> <def>A palace and mausoleum of the kings of Spain, being a vast and wonderful structure about twenty-five miles northwest of Madrid; called also <altname>escurial</altname>.  It was erected in 1563-1584 and contains a monastery.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
 <p><note><hand/ The ground plan is said to be in the form of a gridiron, the structure being designed in honor of <person>St. Lawrence</person>, who suffered martyrdom by being broiled on a gridiron; but the resemblance is very slight. It is nearly square, inclosing several courts, and has a projecting mass which stands for the handle.</note><br/
@@ -21760,7 +21760,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Escouade</ent><br/
-\'d8<hw>Es`couade"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Squad</er>,</def><br/
+<par/<hw>Es`couade"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>See <er>Squad</er>,</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Escout</ent><br/
@@ -21971,7 +21971,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esox</ent><br/
-\'d8<hw>E"sox</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a kind of pike.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of fresh-water fishes, including pike and pickerel.</def><br/
+<par/<hw>E"sox</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <ety>[L., a kind of pike.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of fresh-water fishes, including pike and pickerel.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Espace</ent><br/
@@ -22007,11 +22007,11 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esparto</ent><br/
-\'d8<hw>Es*par"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. L. <ets>spartum</ets> Spanish broom, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A species of Spanish grass (<spn>Macrochloa tenacissima</spn>), of which cordage, shoes, baskets, etc., are made. It is also used for making paper.</def><br/
+<par/<hw>Es*par"to</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp.; cf. L. <ets>spartum</ets> Spanish broom, Gr. <?/.]</ety> <fld>(Bot.)</fld> <def>A species of Spanish grass (<spn>Macrochloa tenacissima</spn>), of which cordage, shoes, baskets, etc., are made. It is also used for making paper.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Espauliere</ent><br/
-\'d8<hw>Es`pau`liere"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. & F. <ets><eacute/pauli<egrave/re</ets>. See <er>Espalier</er>.]</ety> <def>A defense for the shoulder, composed of flexible overlapping plates of metal, used in the 15th century; -- the origin of the modern <xex>epaulette</xex>.</def>  <rj><au>Fairholt.</au></rj><br/
+<par/<hw>Es`pau`liere"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. & F. <ets><eacute/pauli<egrave/re</ets>. See <er>Espalier</er>.]</ety> <def>A defense for the shoulder, composed of flexible overlapping plates of metal, used in the 15th century; -- the origin of the modern <xex>epaulette</xex>.</def>  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Especial</ent><br/
@@ -22111,7 +22111,7 @@ Copyright 1999 Globe Newspaper Company.] (available at http://www.esne.net/ligoj
 [<source>PJC</source>]</p>
 
 <p><ent>Espiaille</ent><br/
-\'d8<hw>Es`pi*aille"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Espial.</def> <mark>[Obs.]</mark><br/
+<par/<hw>Es`pi*aille"</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Espial.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Espial</ent><br/
@@ -22193,7 +22193,7 @@ And in the sacred Pantheon her <qex>espouse</qex>.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Espressivo</ent><br/
-\'d8<hw>Es`pres*si"vo</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>With expression.</def><br/
+<par/<hw>Es`pres*si"vo</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[It.]</ety> <fld>(Mus.)</fld> <def>With expression.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Espringal</ent><br/
@@ -22201,7 +22201,7 @@ And in the sacred Pantheon her <qex>espouse</qex>.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esprit</ent><br/
-\'d8<hw>Es`prit"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Spirit</er>.]</ety> <def>Spirit.</def><br/
+<par/<hw>Es`prit"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Spirit</er>.]</ety> <def>Spirit.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Esprit de corps</col> <pr>(<?/)</pr>, <cd>a French phrase much used by English writers to denote the common spirit pervading the members of a body or association of persons. It implies sympathy, enthusiasm, devotion, and jealous regard for the honor of the body as a whole.</cd></cs><br/
@@ -22260,7 +22260,7 @@ Come like a giant from a haven broad.</q> <rj><qau>Wordsworth.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esquisse</ent><br/
-\'d8<hw>Es`quisse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Sketch</er>.]</ety> <fld>(Fine Arts)</fld> <def>The first sketch of a picture or model of a statue.</def><br/
+<par/<hw>Es`quisse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. See <er>Sketch</er>.]</ety> <fld>(Fine Arts)</fld> <def>The first sketch of a picture or model of a statue.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>-ess</ent><br/
@@ -22558,19 +22558,19 @@ The people's magistrates.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Estacade</ent><br/
-\'d8<hw>Es`ta*cade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; cf. It. <ets>steccata</ets>, Sp. <ets>estacada</ets>.  Cf. <er>Stake</er>.]</ety> <fld>(Mil.)</fld> <def>A dike of piles in the sea, a river, etc., to check the approach of an enemy.</def></p>
+<par/<hw>Es`ta*cade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.; cf. It. <ets>steccata</ets>, Sp. <ets>estacada</ets>.  Cf. <er>Stake</er>.]</ety> <fld>(Mil.)</fld> <def>A dike of piles in the sea, a river, etc., to check the approach of an enemy.</def></p>
 
 <p><ent>Estafette</ent><br/
 <ent>Estafet</ent><br/
-<mhw>{ <hw>Es`ta*fet"</hw>, \'d8<hw>Es`ta*fette"</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>estafette</ets>, cf. Sp. <ets>estafeta</ets>; fr. It. <ets>stafetta</ets>, fr. <ets>staffa</ets> stirrup, fr. OHG. <ets>stapho</ets> footstep, footprint, G. <ets>stapfe</ets>; akin to E. <ets>step</ets>.]</ety> <def>A courier who conveys messages to another courier; a military courier sent from one part of an army to another.</def><br/
+<mhw>{ <hw>Es`ta*fet"</hw>, <par/<hw>Es`ta*fette"</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>estafette</ets>, cf. Sp. <ets>estafeta</ets>; fr. It. <ets>stafetta</ets>, fr. <ets>staffa</ets> stirrup, fr. OHG. <ets>stapho</ets> footstep, footprint, G. <ets>stapfe</ets>; akin to E. <ets>step</ets>.]</ety> <def>A courier who conveys messages to another courier; a military courier sent from one part of an army to another.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Estaminet</ent><br/
-\'d8<hw>Es`ta`mi`net"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A caf<eacute/, or room in a caf<eacute/, in which smoking is allowed.</def><br/
+<par/<hw>Es`ta`mi`net"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A caf<eacute/, or room in a caf<eacute/, in which smoking is allowed.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Estancia</ent><br/
-\'d8<hw>Es*tan"ci*a</hw> <pr>(<asl/s*t<adot/n"th<esl/*<adot/)</pr>, <pos>n.</pos> <ety>[Sp. See <er>Stanza</er>.]</ety> <def>A grazing farm; a country house.</def> <mark>[Spanish America]</mark><br/
+<par/<hw>Es*tan"ci*a</hw> <pr>(<asl/s*t<adot/n"th<esl/*<adot/)</pr>, <pos>n.</pos> <ety>[Sp. See <er>Stanza</er>.]</ety> <def>A grazing farm; a country house.</def> <mark>[Spanish America]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Estate</ent><br/
@@ -22825,7 +22825,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Estoile</ent><br/
-\'d8<hw>Es`toile"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF.]</ety> <fld>(Her.)</fld> <def>A six-pointed star whose rays are wavy, instead of straight like those of a mullet.</def> <altsp>[Written also <asp><eacute/toile</asp>.]</altsp><br/
+<par/<hw>Es`toile"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF.]</ety> <fld>(Her.)</fld> <def>A six-pointed star whose rays are wavy, instead of straight like those of a mullet.</def> <altsp>[Written also <asp><eacute/toile</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Estoile of eight points</col>, <cd>a star which has four straight and four wavy rays.</cd> -- <col>Estoile of four points</col>. <cd>Same as <cref>Cross estoil<eacute/</cref>, under <er>Cross</er>.</cd></cs><br/
@@ -22867,7 +22867,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Estramacon</ent><br/
-\'d8<hw>Es`tra`ma`con"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A straight, heavy sword with two edges, used in the 16th and 17th centuries.</def><br/
+<par/<hw>Es`tra`ma`con"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <sn>1.</sn> <def>A straight, heavy sword with two edges, used in the 16th and 17th centuries.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A blow with edge of a sword.</def>  <rj><au>Farrow.</au></rj><br/
@@ -22996,7 +22996,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Estufa</ent><br/
-\'d8<hw>Es*tu"fa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Estufas</plw> <pr>(#)</pr>.</plu> <ety>[Sp., a stove, a warm room.  Cf. <er>Stove</er>.]</ety> <def>An assembly room in dwelling of the Pueblo Indians.</def>  <rj><au>L. H. Morgan.</au></rj><br/
+<par/<hw>Es*tu"fa</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Estufas</plw> <pr>(#)</pr>.</plu> <ety>[Sp., a stove, a warm room.  Cf. <er>Stove</er>.]</ety> <def>An assembly room in dwelling of the Pueblo Indians.</def>  <rj><au>L. H. Morgan.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Esture</ent><br/
@@ -23027,7 +23027,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etaac</ent><br/
-\'d8<hw>E*taac"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>The blue buck.</def><br/
+<par/<hw>E*taac"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>The blue buck.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etacism</ent><br/
@@ -23039,7 +23039,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>etagere</ent><br/
-\'d8<hw><Eacute/`ta`g<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/tager</ets> to arrange on shelves, fr. <ets><eacute/tage</ets> story, floor. See <er>Stage</er>.]</ety> <def>A piece of furniture having a number of uninclosed shelves or stages, one above another, for receiving articles of elegance or use.</def>  <rj><au>Fairholt.</au></rj><br/
+<par/<hw><Eacute/`ta`g<egrave/re"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/tager</ets> to arrange on shelves, fr. <ets><eacute/tage</ets> story, floor. See <er>Stage</er>.]</ety> <def>A piece of furniture having a number of uninclosed shelves or stages, one above another, for receiving articles of elegance or use.</def>  <rj><au>Fairholt.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etamine</ent><br/
@@ -23047,7 +23047,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>etape</ent><br/
-\'d8<hw><Eacute/`tape"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Staple</er> a mart.]</ety> <sn>1.</sn>  <def>A public storehouse.</def><br/
+<par/<hw><Eacute/`tape"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. Cf. <er>Staple</er> a mart.]</ety> <sn>1.</sn>  <def>A public storehouse.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><sn>2.</sn>  <def>Supplies issued to troops on the march;</def> <specif>hence</specif> <fld>(Mil.)</fld>, <def>the place where troops on the march halt over night; also, by extension, the distance marched during a day.</def><br/
@@ -23057,11 +23057,11 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Etat Major</ent><br/
-\'d8<hw><Eacute/`tat" Ma`jor"</hw> <pr>(?)</pr>. <ety>[F., fr. <ets><eacute/tat</ets> state + L. <ets>major</ets> greater.]</ety> <fld>(Mil.)</fld> <def>The staff of an army, including all officers above the rank of colonel, also, all adjutants, inspectors, quartermasters, commissaries, engineers, ordnance officers, paymasters, physicians, signal officers, judge advocates; also, the noncommissioned assistants of the above officers.</def></p>
+<par/<hw><Eacute/`tat" Ma`jor"</hw> <pr>(?)</pr>. <ety>[F., fr. <ets><eacute/tat</ets> state + L. <ets>major</ets> greater.]</ety> <fld>(Mil.)</fld> <def>The staff of an army, including all officers above the rank of colonel, also, all adjutants, inspectors, quartermasters, commissaries, engineers, ordnance officers, paymasters, physicians, signal officers, judge advocates; also, the noncommissioned assistants of the above officers.</def></p>
 
 <p><ent>et caetera</ent><br/
 <ent>et cetera</ent><br/
-<mhw>{ \'d8<hw>Et` cet"e*ra</hw>, \'d8<hw>Et` c<ae/t"e*ra</hw>  }</mhw> <pr>(?)</pr>. <ety>[L. <ets>et</ets> and + <ets>caetera</ets> other things.]</ety> <def>Others of the like kind; and the rest; and so on; -- used to point out that <xex>other things</xex> which could be mentioned are to be understood.  Usually abbreviated into <it>etc.</it> or &c. (<it>&c.</it>)</def>  <rj><au>Shak.</au></rj><br/
+<mhw>{ <par/<hw>Et` cet"e*ra</hw>, <par/<hw>Et` c<ae/t"e*ra</hw>  }</mhw> <pr>(?)</pr>. <ety>[L. <ets>et</ets> and + <ets>caetera</ets> other things.]</ety> <def>Others of the like kind; and the rest; and so on; -- used to point out that <xex>other things</xex> which could be mentioned are to be understood.  Usually abbreviated into <it>etc.</it> or &c. (<it>&c.</it>)</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etch</ent><br/
@@ -23707,7 +23707,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>etoile</ent><br/
-\'d8<hw><Eacute/`toile"</hw> <pr>(<asl/`tw<aum/l")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Her.)</fld> <def>See <er>Estoile</er>.</def><br/
+<par/<hw><Eacute/`toile"</hw> <pr>(<asl/`tw<aum/l")</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Her.)</fld> <def>See <er>Estoile</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etrurian</ent><br/
@@ -23731,14 +23731,14 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>etude</ent><br/
-\'d8<hw><Eacute/`tude"</hw> <pr>(<asl/`t<usdot/d")</pr>, <pos>n.</pos> <ety>[F. See <er>Study</er>.]</ety> <sn>1.</sn> <def>A composition in the fine arts which is intended, or may serve, for a study.</def><br/
+<par/<hw><Eacute/`tude"</hw> <pr>(<asl/`t<usdot/d")</pr>, <pos>n.</pos> <ety>[F. See <er>Study</er>.]</ety> <sn>1.</sn> <def>A composition in the fine arts which is intended, or may serve, for a study.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>A study; an exercise; a piece for practice of some special point of technical execution.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>etui</ent><br/
-\'d8<hw><Eacute/`tui"</hw> <pr>(<asl/`tw<esl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A case for one or several small articles; esp., a box in which scissors, tweezers, and other articles of toilet or of daily use are carried.</def><br/
+<par/<hw><Eacute/`tui"</hw> <pr>(<asl/`tw<esl/")</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A case for one or several small articles; esp., a box in which scissors, tweezers, and other articles of toilet or of daily use are carried.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etwee</ent><br/
@@ -23762,7 +23762,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etymologicon</ent><br/
-\'d8<hw>Et`y*mo*log"i*con</hw> <pr>(-<icr/*k<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'etymologiko`n</grk>, prop. neut. sing. from <grk>'etymologiko`s</grk>.]</ety> <def>An etymological dictionary or manual.</def><br/
+<par/<hw>Et`y*mo*log"i*con</hw> <pr>(-<icr/*k<ocr/n)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'etymologiko`n</grk>, prop. neut. sing. from <grk>'etymologiko`s</grk>.]</ety> <def>An etymological dictionary or manual.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Etymologist</ent><br/
@@ -23807,7 +23807,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><ent>Eu</ent><br/
-\'d8<hw>Eu</hw> <pr>(?)</pr>. <ety>[Gr.  <grk>e'y^</grk> well, orig. neut. of <grk>e'y`s</grk> good; prob. connected with Skr. <ets>su</ets>, from the same root as E. <ets>is</ets>; or with Skr. <ets>vasu</ets> good, prob. fr. the same root as E. <ets>was</ets>.]</ety> <def>A prefix used frequently in composition, signifying <xex>well</xex>, <xex>good</xex>, <xex>advantageous</xex>; -- the opposite of <xex>dys-</xex>.</def><br/
+<par/<hw>Eu</hw> <pr>(?)</pr>. <ety>[Gr.  <grk>e'y^</grk> well, orig. neut. of <grk>e'y`s</grk> good; prob. connected with Skr. <ets>su</ets>, from the same root as E. <ets>is</ets>; or with Skr. <ets>vasu</ets> good, prob. fr. the same root as E. <ets>was</ets>.]</ety> <def>A prefix used frequently in composition, signifying <xex>well</xex>, <xex>good</xex>, <xex>advantageous</xex>; -- the opposite of <xex>dys-</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eubacteriales</ent><br/
@@ -23842,7 +23842,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>PJC</source>]</p>
 
 <p><ent>Eucalyptus</ent><br/
-\'d8<hw>Eu`ca*lyp"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>e'y^</grk> well, good + <?/ covered. The buds of Eucalyptus have a hemispherical or conical covering, which falls off at anthesis.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees, mostly Australian. Many of them grow to an immense height, one or two species exceeding the height even of the California Sequoia.</def><br/
+<par/<hw>Eu`ca*lyp"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>e'y^</grk> well, good + <?/ covered. The buds of Eucalyptus have a hemispherical or conical covering, which falls off at anthesis.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees, mostly Australian. Many of them grow to an immense height, one or two species exceeding the height even of the California Sequoia.</def><br/
 <syn><b>Syn. --</b> eucalyptus tree, gum tree, eucalypt.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -23867,7 +23867,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 <p><-- p. 514 --></p>
 
 <p><ent>Eucharis</ent><br/
-\'d8<hw>Eu"cha*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>eucharis</ets> agreeable, Gr. <grk>e'y`charis</grk> See <er>Eucharist</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of South American amaryllidaceous plants with large and beautiful white blossoms.</def><br/
+<par/<hw>Eu"cha*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>eucharis</ets> agreeable, Gr. <grk>e'y`charis</grk> See <er>Eucharist</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of South American amaryllidaceous plants with large and beautiful white blossoms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eucharist</ent><br/
@@ -23905,7 +23905,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>Euchology</ent><br/
 <ent>Euchologion</ent><br/
-<mhw>{ \'d8<hw>Eu`cho*lo"gi*on</hw> <pr>(?)</pr>, <hw>Eu*chol"o*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>euchologion</ets>, Gr. <?/ prayer book; <?/ prayer, vow (fr. <?/ to pray) + <?/ to say, speak.]</ety> <fld>(Eccl.)</fld> <def>A formulary of prayers; the book of offices in the Greek Church, containing the liturgy, sacraments, and forms of prayers.</def><br/
+<mhw>{ <par/<hw>Eu`cho*lo"gi*on</hw> <pr>(?)</pr>, <hw>Eu*chol"o*gy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>euchologion</ets>, Gr. <?/ prayer book; <?/ prayer, vow (fr. <?/ to pray) + <?/ to say, speak.]</ety> <fld>(Eccl.)</fld> <def>A formulary of prayers; the book of offices in the Greek Church, containing the liturgy, sacraments, and forms of prayers.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euchologue</ent><br/
@@ -23958,7 +23958,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eucopepoda</ent><br/
-\'d8<hw>Eu`co*pep"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Eu-</er> and <er>Copepoda</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the typical copepods and the lerneans.</def><br/
+<par/<hw>Eu`co*pep"o*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Eu-</er> and <er>Copepoda</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the typical copepods and the lerneans.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eucrasy</ent><br/
@@ -24019,7 +24019,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eudipleura</ent><br/
-\'d8<hw>Eu`di*pleu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + <?/ double + <?/ rib,<?/, pl.,side.]</ety> <fld>(Biol.)</fld> <def>The fundamental forms of organic life, that are composed of two equal and symmetrical halves.</def>  <rj><au>Syd. Soc. Lex.</au></rj><br/
+<par/<hw>Eu`di*pleu"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + <?/ double + <?/ rib,<?/, pl.,side.]</ety> <fld>(Biol.)</fld> <def>The fundamental forms of organic life, that are composed of two equal and symmetrical halves.</def>  <rj><au>Syd. Soc. Lex.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eudoxian</ent><br/
@@ -24027,11 +24027,11 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euganoidei</ent><br/
-\'d8<hw>Eu`ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + NL. <ets>ganoidei</ets>. See <er>Ganoid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the bony ganoids, as the gar pikes.</def><br/
+<par/<hw>Eu`ga*noi"de*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + NL. <ets>ganoidei</ets>. See <er>Ganoid</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the bony ganoids, as the gar pikes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euge</ent><br/
-\'d8<hw>Eu"ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., well done! bravo! Gr. <?/.]</ety> <def>Applause.</def> <mark>[Obs.]</mark>  <rj><au>Hammond.</au></rj><br/
+<par/<hw>Eu"ge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., well done! bravo! Gr. <?/.]</ety> <def>Applause.</def> <mark>[Obs.]</mark>  <rj><au>Hammond.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eugenesis</ent><br/
@@ -24039,7 +24039,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Eugenia</ent><br/
-\'d8<hw>Eu*ge"ni*a</hw> <pr>(<usl/*j<emac/"n<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL. Named in honor of Prince <etsep>Eugene</etsep> of Savoy.]</ety> <fld>(Bot.)</fld> <def>A genus of myrtaceous plants, mostly of tropical countries, and including several aromatic trees and shrubs, among which are the trees which produce allspice and cloves of commerce.</def><br/
+<par/<hw>Eu*ge"ni*a</hw> <pr>(<usl/*j<emac/"n<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL. Named in honor of Prince <etsep>Eugene</etsep> of Savoy.]</ety> <fld>(Bot.)</fld> <def>A genus of myrtaceous plants, mostly of tropical countries, and including several aromatic trees and shrubs, among which are the trees which produce allspice and cloves of commerce.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eugenic</ent><br/
@@ -24100,7 +24100,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euisopoda</ent><br/
-\'d8<hw>Eu`i*sop"o*da</hw> <pr>(?)</pr>. <pluf>pl.</pluf> <ety>[NL. See <er>Eu-</er> and <er>Isopoda</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the typical Isopoda.</def><br/
+<par/<hw>Eu`i*sop"o*da</hw> <pr>(?)</pr>. <pluf>pl.</pluf> <ety>[NL. See <er>Eu-</er> and <er>Isopoda</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A group which includes the typical Isopoda.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eukaryote</ent><br/
@@ -24114,7 +24114,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Eulachon</ent><br/
-\'d8<hw>Eu"la*chon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native Indian name.]</ety> <fld>(Zo<oum/l.)</fld> <def>The candlefish. <altsp>[Written also <asp>oulachan</asp>, <asp>oolacan</asp>, and <asp>ulikon</asp>.]</altsp> See <er>Candlefish</er>.</def><br/
+<par/<hw>Eu"la*chon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native Indian name.]</ety> <fld>(Zo<oum/l.)</fld> <def>The candlefish. <altsp>[Written also <asp>oulachan</asp>, <asp>oolacan</asp>, and <asp>ulikon</asp>.]</altsp> See <er>Candlefish</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eulerian</ent><br/
@@ -24158,11 +24158,11 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eumenides</ent><br/
-\'d8<hw>Eu*men"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., from Gr. <?/ lit., gracious goddesses.]</ety> <fld>(Class. Myth.)</fld> <def>A euphemistic name for the Furies of Erinyes.</def><br/
+<par/<hw>Eu*men"i*des</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L., from Gr. <?/ lit., gracious goddesses.]</ety> <fld>(Class. Myth.)</fld> <def>A euphemistic name for the Furies of Erinyes.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eumolpus</ent><br/
-\'d8<hw>Eu*mol"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sweetly singing.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of small beetles, one species of which (<spn>E. viti</spn>) is very injurious to the vines in the wine countries of Europe.</def><br/
+<par/<hw>Eu*mol"pus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sweetly singing.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of small beetles, one species of which (<spn>E. viti</spn>) is very injurious to the vines in the wine countries of Europe.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eumops</ent><br/
@@ -24210,11 +24210,11 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euonymus</ent><br/
-\'d8<hw>Eu*on"y*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. (cf. L. <ets>euonymos</ets>). fr. Gr. <?/, lit., of good name.]</ety> <fld>(Bot.)</fld> <def>A genus of small European and American trees; the spindle tree. The bark is used as a cathartic.</def><br/
+<par/<hw>Eu*on"y*mus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. (cf. L. <ets>euonymos</ets>). fr. Gr. <?/, lit., of good name.]</ety> <fld>(Bot.)</fld> <def>A genus of small European and American trees; the spindle tree. The bark is used as a cathartic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euornithes</ent><br/
-\'d8<hw>Eu`or*ni"thes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr., Gr. <grk>e'y^</grk> well + <?/, <?/ a bird.]</ety> <fld>(Zo<oum/l.)</fld> <def>The division of Aves which includes all the typical birds, or all living birds except the penguins and birds of ostrichlike form.</def><br/
+<par/<hw>Eu`or*ni"thes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr., Gr. <grk>e'y^</grk> well + <?/, <?/ a bird.]</ety> <fld>(Zo<oum/l.)</fld> <def>The division of Aves which includes all the typical birds, or all living birds except the penguins and birds of ostrichlike form.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euosmitte</ent><br/
@@ -24237,7 +24237,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 
 <p><ent>Eupepsy</ent><br/
 <ent>Eupepsia</ent><br/
-<mhw>{ \'d8<hw>Eu*pep"si*a</hw> <pr>(?)</pr>, <hw>Eu*pep"sy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>eupepsia</ets>, Fr. Gr. <?/, fr. <?/ easy of digestion; <grk>e'y^</grk> well + <?/ to cook, digest.]</ety> <fld>(Med.)</fld> <def>Soundness of the nutritive or digestive organs; good concoction or digestion; -- opposed to <contr>dyspepsia</contr>.</def><br/
+<mhw>{ <par/<hw>Eu*pep"si*a</hw> <pr>(?)</pr>, <hw>Eu*pep"sy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>eupepsia</ets>, Fr. Gr. <?/, fr. <?/ easy of digestion; <grk>e'y^</grk> well + <?/ to cook, digest.]</ety> <fld>(Med.)</fld> <def>Soundness of the nutritive or digestive organs; good concoction or digestion; -- opposed to <contr>dyspepsia</contr>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eupeptic</ent><br/
@@ -24307,7 +24307,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euphorbia</ent><br/
-\'d8<hw>Eu*phor"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>euphorbea</ets>. See <er>Euphorrium</er>.]</ety> <fld>(Bot.)</fld> <def>Spurge, or bastard spurge, a genus of plants of many species, mostly shrubby, herbaceous succulents, affording an acrid, milky juice. Some of them are armed with thorns. Most of them yield powerful emetic and cathartic products.</def></p>
+<par/<hw>Eu*phor"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>euphorbea</ets>. See <er>Euphorrium</er>.]</ety> <fld>(Bot.)</fld> <def>Spurge, or bastard spurge, a genus of plants of many species, mostly shrubby, herbaceous succulents, affording an acrid, milky juice. Some of them are armed with thorns. Most of them yield powerful emetic and cathartic products.</def></p>
 
 <p><ent>Euphorbial</ent><br/
 <ent>Euphorbiaceous</ent><br/
@@ -24398,15 +24398,15 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euplectella</ent><br/
-\'d8<hw>Eu`plec*tel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ well plaited; <grk>e'y^</grk> well + <?/ plaited.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of elegant, glassy sponges, consisting of interwoven siliceous fibers, and growing in the form of a cornucopia; -- called also <altname>Venus's flower-basket</altname>.</def><br/
+<par/<hw>Eu`plec*tel"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ well plaited; <grk>e'y^</grk> well + <?/ plaited.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of elegant, glassy sponges, consisting of interwoven siliceous fibers, and growing in the form of a cornucopia; -- called also <altname>Venus's flower-basket</altname>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euplexoptera</ent><br/
-\'d8<hw>Eu`plex*op"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + <?/ to plait + <?/ a wing.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of insects, including the earwig. The anterior wings are short, in the form of elytra, while the posterior wings fold up beneath them. See <er>Earwig</er>.</def><br/
+<par/<hw>Eu`plex*op"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>e'y^</grk> well + <?/ to plait + <?/ a wing.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of insects, including the earwig. The anterior wings are short, in the form of elytra, while the posterior wings fold up beneath them. See <er>Earwig</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eupnaea</ent><br/
-\'d8<hw>Eup*n<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. gr. <?/ easy breathing; <grk>e'y^</grk> well + <?/ to breathe.]</ety> <fld>(Physiol.)</fld> <def>Normal breathing where arterialization of the blood is normal, in distinction from <contr>dyspn<ae/a</contr>, in which the blood is insufficiently arterialized.</def>  <rj><au>Foster.</au></rj><br/
+<par/<hw>Eup*n<ae/"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. gr. <?/ easy breathing; <grk>e'y^</grk> well + <?/ to breathe.]</ety> <fld>(Physiol.)</fld> <def>Normal breathing where arterialization of the blood is normal, in distinction from <contr>dyspn<ae/a</contr>, in which the blood is insufficiently arterialized.</def>  <rj><au>Foster.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>eupyrion</ent><br/
@@ -24440,7 +24440,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eureka</ent><br/
-\'d8<hw>Eu*re"ka</hw> <pr>(?)</pr>. <ety>[Gr. <?/ I have found, perfect indicative of <?/ to find.]</ety> <def>The exclamation attributed to <persfn>Archimedes</persfn>, who is said to have cried out <ldquo/<xex>Eureka</xex>! <xex>eureka</xex>!<rdquo/ (I have found it! I have found it!), upon suddenly discovering a method of finding out how much the gold of <person>King Hiero's</person> crown had been alloyed. Hence, an expression of triumph concerning a discovery.</def><br/
+<par/<hw>Eu*re"ka</hw> <pr>(?)</pr>. <ety>[Gr. <?/ I have found, perfect indicative of <?/ to find.]</ety> <def>The exclamation attributed to <persfn>Archimedes</persfn>, who is said to have cried out <ldquo/<xex>Eureka</xex>! <xex>eureka</xex>!<rdquo/ (I have found it! I have found it!), upon suddenly discovering a method of finding out how much the gold of <person>King Hiero's</person> crown had been alloyed. Hence, an expression of triumph concerning a discovery.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eurhipidurous</ent><br/
@@ -24502,18 +24502,18 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Eurus</ent><br/
-\'d8<hw>Eu"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., gr. <?/.]</ety> <def>The east wind.</def><br/
+<par/<hw>Eu"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., gr. <?/.]</ety> <def>The east wind.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euryale</ent><br/
-\'d8<hw>Eu*ry"a*le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <etsep>Euryale</etsep>, one of the Gorgons.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of water lilies, growing in India and China. The only species (<spn>Euryale ferox</spn>) is very prickly on the peduncles and calyx. The rootstocks and seeds are used as food.</def><br/
+<par/<hw>Eu*ry"a*le</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <etsep>Euryale</etsep>, one of the Gorgons.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>A genus of water lilies, growing in India and China. The only species (<spn>Euryale ferox</spn>) is very prickly on the peduncles and calyx. The rootstocks and seeds are used as food.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of ophiurans with much-branched arms.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Euryalida</ent><br/
-\'d8<hw>Eu`ry*al"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A tribe of <class>Ophiuroidea</class>, including the genera <gen>Euryale</gen>, <gen>Astrophyton</gen>, etc. They generally have the arms branched. See <er>Astrophyton</er>.</def><br/
+<par/<hw>Eu`ry*al"i*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.]</ety> <fld>(Zo<oum/l.)</fld> <def>A tribe of <class>Ophiuroidea</class>, including the genera <gen>Euryale</gen>, <gen>Astrophyton</gen>, etc. They generally have the arms branched. See <er>Astrophyton</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eurycerous</ent><br/
@@ -24525,11 +24525,11 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eurypteroidea</ent><br/
-\'d8<hw>Eu*ryp`te*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Eurypteroid</er>.]</ety> <fld>(Paleont.)</fld> <def>An extinct order of Merostomata, of which the genus Eurypterus is the type. They are found only in Paleozoic rocks.</def> <altsp>[Written also <asp>Eurypterida</asp>.]</altsp><br/
+<par/<hw>Eu*ryp`te*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Eurypteroid</er>.]</ety> <fld>(Paleont.)</fld> <def>An extinct order of Merostomata, of which the genus Eurypterus is the type. They are found only in Paleozoic rocks.</def> <altsp>[Written also <asp>Eurypterida</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eurypterus</ent><br/
-\'d8<hw>Eu*ryp"te*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ broad + <?/ a wing.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Merostomata, found in Silurian rocks. Some of the species are more than three feet long.</def><br/
+<par/<hw>Eu*ryp"te*rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ broad + <?/ a wing.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct Merostomata, found in Silurian rocks. Some of the species are more than three feet long.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eurythmy</ent><br/
@@ -24568,7 +24568,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Eutexia</ent><br/
-\'d8<hw>Eu*tex"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a being easily melted.]</ety> <fld>(Physics)</fld> <def>The principle or process of forming from given components the eutectic alloy, or alloy of maximum fusibility.</def><br/
+<par/<hw>Eu*tex"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ a being easily melted.]</ety> <fld>(Physics)</fld> <def>The principle or process of forming from given components the eutectic alloy, or alloy of maximum fusibility.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Euterpe</ent><br/
@@ -25299,7 +25299,7 @@ Of heaven, the stars that usher <qex>evening</qex> rose.</q> <rj><qau>Milton.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eventognathi</ent><br/
-\'d8<hw>Ev`en*tog"na*thi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Dr. <grk>e'y^</grk> well + <?/ within <grk>gna`qos</grk> the jaw.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of fishes including a vast number of freshwater species such as the carp, loach, chub, etc.</def><br/
+<par/<hw>Ev`en*tog"na*thi</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Dr. <grk>e'y^</grk> well + <?/ within <grk>gna`qos</grk> the jaw.]</ety> <fld>(Zo<oum/l.)</fld> <def>An order of fishes including a vast number of freshwater species such as the carp, loach, chub, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eventration</ent><br/
@@ -26199,7 +26199,7 @@ From grateful souls <qex>exact</qex> reward at last</q> <rj><qau>Dryden.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exaeresis</ent><br/
-\'d8<hw>Ex*<ae/r"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.<?/ a taking away.]</ety> <fld>(Surg.)</fld> <def>In old writers, the operations concerned in the removal of parts of the body.</def><br/
+<par/<hw>Ex*<ae/r"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr.<?/ a taking away.]</ety> <fld>(Surg.)</fld> <def>In old writers, the operations concerned in the removal of parts of the body.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exaggerate</ent><br/
@@ -26516,7 +26516,7 @@ Doth want <qex>example</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exanthema</ent><br/
-\'d8<hw>Ex`an*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exanthemata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr.<?/, fr.<?/ to burst forth as flowers, break out, as ulcers; <?/, <?/, out + <grk>'anqei^n</grk> to bloom, <grk>'a`nqos</grk> flower: cf. F. <ets>exanth<egrave/me</ets>.]</ety> <fld>(Med.)</fld> <def>An efflorescence or discoloration of the skin; an eruption or breaking out, as in measles, smallpox, scarlatina, and the like diseases; -- sometimes limited to eruptions attended with fever.</def>  <rj><au>Dunglison.</au></rj></p>
+<par/<hw>Ex`an*the"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exanthemata</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr.<?/, fr.<?/ to burst forth as flowers, break out, as ulcers; <?/, <?/, out + <grk>'anqei^n</grk> to bloom, <grk>'a`nqos</grk> flower: cf. F. <ets>exanth<egrave/me</ets>.]</ety> <fld>(Med.)</fld> <def>An efflorescence or discoloration of the skin; an eruption or breaking out, as in measles, smallpox, scarlatina, and the like diseases; -- sometimes limited to eruptions attended with fever.</def>  <rj><au>Dunglison.</au></rj></p>
 
 <p><ent>Exanthematous</ent><br/
 <ent>Exanthematic</ent><br/
@@ -26524,7 +26524,7 @@ Doth want <qex>example</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exanthesis</ent><br/
-\'d8<hw>Ex`an*the"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ . See <er>Exanthema</er>. ]</ety> <fld>(Med.)</fld> <def>An eruption of the skin; cutaneous efflorescence.</def><br/
+<par/<hw>Ex`an*the"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <?/ . See <er>Exanthema</er>. ]</ety> <fld>(Med.)</fld> <def>An eruption of the skin; cutaneous efflorescence.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exantlate</ent><br/
@@ -26679,7 +26679,7 @@ Sets spinning.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 
 <p><ent>Excambium</ent><br/
 <ent>Excambion</ent><br/
-<mhw>{ \'d8<hw>Ex*cam"bi*on</hw> <pr>(?)</pr>, \'d8<hw>Ex*cam"bi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[LL. <ets>excambium</ets>. See <er>Excamb</er>.]</ety> <fld>(Scots Law)</fld> <def>Exchange; barter; -- used commonly of lands.</def><br/
+<mhw>{ <par/<hw>Ex*cam"bi*on</hw> <pr>(?)</pr>, <par/<hw>Ex*cam"bi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[LL. <ets>excambium</ets>. See <er>Excamb</er>.]</ety> <fld>(Scots Law)</fld> <def>Exchange; barter; -- used commonly of lands.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excandescence</ent><br/
@@ -26906,7 +26906,7 @@ What I see <qex>excellent</qex> in good or fair.</q> <rj><qau>Milton.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excelsior</ent><br/
-\'d8<hw>Ex*cel"si*or</hw>, <pos>a.</pos> <ety>[L., compar. of <ets>excelsus</ets> elevated, lofty, p. p. of <ets>excellere</ets>. See <er>Excel</er>, <pos>v. t.</pos>]</ety> <def>More lofty; still higher; ever upward.</def><br/
+<par/<hw>Ex*cel"si*or</hw>, <pos>a.</pos> <ety>[L., compar. of <ets>excelsus</ets> elevated, lofty, p. p. of <ets>excellere</ets>. See <er>Excel</er>, <pos>v. t.</pos>]</ety> <def>More lofty; still higher; ever upward.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excelsior</ent><br/
@@ -27105,7 +27105,7 @@ Prove, rather than impeach, the just remark.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excerption</ent><br/
-\'d8<hw>Ex*cerp"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>excerptio</ets>.]</ety> <sn>1.</sn> <def>The act of excerpting or selecting.</def> <mark>[R.]</mark><br/
+<par/<hw>Ex*cerp"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>excerptio</ets>.]</ety> <sn>1.</sn> <def>The act of excerpting or selecting.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>That which is selected or gleaned; an extract.</def> <mark>[R.]</mark><br/
@@ -27289,7 +27289,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 
 <p><ent>Excipulum</ent><br/
 <ent>Exciple</ent><br/
-<mhw>{ <hw>Ex"ci*ple</hw> <pr>(?)</pr>, \'d8<hw>Ex*cip"u*lum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>excipulum</ets>, fr. L. <ets>excipere</ets>. See <er>Except</er>.]</ety> <fld>(Bot.)</fld> <def>The outer part of the fructification of most lichens.</def><br/
+<mhw>{ <hw>Ex"ci*ple</hw> <pr>(?)</pr>, <par/<hw>Ex*cip"u*lum</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>excipulum</ets>, fr. L. <ets>excipere</ets>. See <er>Except</er>.]</ety> <fld>(Bot.)</fld> <def>The outer part of the fructification of most lichens.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excisable</ent><br/
@@ -27751,7 +27751,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excreta</ent><br/
-\'d8<hw>Ex*cre"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>Matters to be excreted.</def><br/
+<par/<hw>Ex*cre"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[L.]</ety> <def>Matters to be excreted.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excrete</ent><br/
@@ -27811,7 +27811,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excubitorium</ent><br/
-\'d8<hw>Ex*cu`bi*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>excubitorium</ets>; <ets>ex</ets> out + <ets>cubare</ets>, <ets>cubitum</ets>, to lie.]</ety> <fld>(Eccl. Antiq.)</fld> <def>A gallery in a church, where persons watched all night.</def><br/
+<par/<hw>Ex*cu`bi*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[LL. <ets>excubitorium</ets>; <ets>ex</ets> out + <ets>cubare</ets>, <ets>cubitum</ets>, to lie.]</ety> <fld>(Eccl. Antiq.)</fld> <def>A gallery in a church, where persons watched all night.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exculpable</ent><br/
@@ -27899,7 +27899,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excursus</ent><br/
-\'d8<hw>Ex*cur"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>excurrere</ets>, <ets>excursum</ets>. See <er>Excurrent</er>.]</ety> <def>A dissertation or digression appended to a work, and containing a more extended exposition of some important point or topic.</def><br/
+<par/<hw>Ex*cur"sus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. <ets>excurrere</ets>, <ets>excursum</ets>. See <er>Excurrent</er>.]</ety> <def>A dissertation or digression appended to a work, and containing a more extended exposition of some important point or topic.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Excusable</ent><br/
@@ -28015,7 +28015,7 @@ Then beauty is its own <qex>excuse</qex> for being.</q> <rj><qau>Emerson.</qau><
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exeat</ent><br/
-\'d8<hw>Ex"e*at</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., let him go forth.]</ety> <sn>1.</sn> <def>A license for absence from a college or a religious house.</def> <mark>[Eng.]</mark>  <rj><au>Shipley.</au></rj><br/
+<par/<hw>Ex"e*at</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., let him go forth.]</ety> <sn>1.</sn> <def>A license for absence from a college or a religious house.</def> <mark>[Eng.]</mark>  <rj><au>Shipley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>A permission which a bishop grants to a priest to go out of his diocese.</def>  <rj><au>Wharton.</au></rj><br/
@@ -28195,7 +28195,7 @@ The lazy, yawning drone.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <fld>(Law)</fld> <def>The person appointed by a testator to execute his will, or to see its provisions carried into effect, after his decease.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><cs><col>\'d8Executor de son tort</col> <ety>[Of., executor of his own wrong]</ety> <fld>(Law)</fld>, <cd>a stranger who intermeddles without authority in the distribution of the estate of a deceased person.</cd></cs><br/
+<p><cs><col><par/Executor de son tort</col> <ety>[Of., executor of his own wrong]</ety> <fld>(Law)</fld>, <cd>a stranger who intermeddles without authority in the distribution of the estate of a deceased person.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Executorial</ent><br/
@@ -28229,7 +28229,7 @@ The lazy, yawning drone.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exedra</ent><br/
-\'d8<hw>Ex"e*dra</hw> <pr>(<ecr/ks"<esl/*dr<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exedr<ae/</plw> <pr>(<ecr/ks"<esl/*dr<emac/)</pr>.</plu> <ety>[L., fr. Gr <grk>'exe`dra</grk>; <grk>'ex</grk> out + <grk>"e`dra</grk> seat.]</ety> <sn>1.</sn> <fld>(Class. Antiq.)</fld> <def>A room in a public building, furnished with seats.</def><br/
+<par/<hw>Ex"e*dra</hw> <pr>(<ecr/ks"<esl/*dr<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exedr<ae/</plw> <pr>(<ecr/ks"<esl/*dr<emac/)</pr>.</plu> <ety>[L., fr. Gr <grk>'exe`dra</grk>; <grk>'ex</grk> out + <grk>"e`dra</grk> seat.]</ety> <sn>1.</sn> <fld>(Class. Antiq.)</fld> <def>A room in a public building, furnished with seats.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <sd>(a)</sd> <def>The projection of any part of a building in a rounded form.</def> <sd>(b)</sd> <def>Any out-of-door seat in stone, large enough for several persons; esp., one of curved form.</def><br/
@@ -28414,7 +28414,7 @@ We are by doom to pay.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exequatur</ent><br/
-\'d8<hw>Ex`e*qua"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., 3d pers. sing. pres. subj. of <ets>exequi</ets>, <ets>exsequi</ets>, to perform, execute.]</ety> <sn>1.</sn> <def>A written official recognition of a consul or commercial agent, issued by the government to which he is accredited, and authorizing him to exercise his powers in the place to which he is assigned.</def><br/
+<par/<hw>Ex`e*qua"tur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., 3d pers. sing. pres. subj. of <ets>exequi</ets>, <ets>exsequi</ets>, to perform, execute.]</ety> <sn>1.</sn> <def>A written official recognition of a consul or commercial agent, issued by the government to which he is accredited, and authorizing him to exercise his powers in the place to which he is assigned.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <def>Official recognition or permission.</def>  <rj><au>Prescott.</au></rj><br/
@@ -28608,7 +28608,7 @@ The star by whom the lights of heaven are led.</q> <rj><qau>Dryden.</qau></rj><b
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exeunt</ent><br/
-\'d8<hw>Ex"e*unt</hw> <pr>(?)</pr>. <ety>[L., 3d pers. pl. pres. of <ets>exire</ets> to go out.]</ety> <def>They go out, or retire from the scene; <as>as, <ex>exeunt</ex> all except Hamlet</as>. See 1st <er>Exit</er>.</def><br/
+<par/<hw>Ex"e*unt</hw> <pr>(?)</pr>. <ety>[L., 3d pers. pl. pres. of <ets>exire</ets> to go out.]</ety> <def>They go out, or retire from the scene; <as>as, <ex>exeunt</ex> all except Hamlet</as>. See 1st <er>Exit</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exfetation</ent><br/
@@ -28795,7 +28795,7 @@ Like a bright <qex>exhalation</qex> in the evening.</q> <rj><qau>Shak.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exhedra</ent><br/
-\'d8<hw>Ex"he*dra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Exedra</er>.</def><br/
+<par/<hw>Ex"he*dra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <def>See <er>Exedra</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exheredate</ent><br/
@@ -29191,7 +29191,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Exit</ent><br/
-\'d8<hw>Ex"it</hw> <pr>(?)</pr>. <ety>[L., 3d pers. sing. pres. of <ets>exire</ets> to go out. See <er>Exeunt</er>, <er>Issue</er>.]</ety> <def>He (or she ) goes out, or retires from view; <as>as, <ex>exit</ex> Macbeth</as>.</def><br/
+<par/<hw>Ex"it</hw> <pr>(?)</pr>. <ety>[L., 3d pers. sing. pres. of <ets>exire</ets> to go out. See <er>Exeunt</er>, <er>Issue</er>.]</ety> <def>He (or she ) goes out, or retires from view; <as>as, <ex>exit</ex> Macbeth</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><note><hand/ The Latin words <xex>exit</xex> (he or she goes out), and <xex>exeunt</xex> ( they go out), are used in dramatic writings to indicate the time of withdrawal from the stage of one or more of the actors.</note><br/
@@ -29225,7 +29225,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>PJC</source>]</p>
 
 <p><ent>Ex libris</ent><br/
-\'d8<hw>Ex` li"bris</hw> <pr>(?)</pr>. <ety>[L. <ets>ex</ets> from + <ets>libris</ets> books.]</ety> <def>An inscription, label, or the like, in a book indicating its ownership; esp., a bookplate.</def><br/
+<par/<hw>Ex` li"bris</hw> <pr>(?)</pr>. <ety>[L. <ets>ex</ets> from + <ets>libris</ets> books.]</ety> <def>An inscription, label, or the like, in a book indicating its ownership; esp., a bookplate.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>ex-mayor</ent><br/
@@ -29256,7 +29256,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 
 <p><ent>Exocoetus</ent><br/
 <ent>Exocetus</ent><br/
-<mhw>\'d8<hw>Ex`o*ce"tus</hw> <pr>(? or ?)</pr>, \'d8<hw>Ex`oc<oe/"tus</hw></mhw>, <pos>n.</pos> <ety>[NL. <ets>exocetus</ets>, L. <ets>exocoetus</ets> a fish that sleeps on the shore, Gr. <grk>'exw`koitos</grk>, lit., sleeping out; <grk>'e`xw</grk> outside of + <grk>koi`th</grk> bed.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of fishes, including the common flying fishes. See <er>Flying fish</er>.</def><br/
+<mhw><par/<hw>Ex`o*ce"tus</hw> <pr>(? or ?)</pr>, <par/<hw>Ex`oc<oe/"tus</hw></mhw>, <pos>n.</pos> <ety>[NL. <ets>exocetus</ets>, L. <ets>exocoetus</ets> a fish that sleeps on the shore, Gr. <grk>'exw`koitos</grk>, lit., sleeping out; <grk>'e`xw</grk> outside of + <grk>koi`th</grk> bed.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of fishes, including the common flying fishes. See <er>Flying fish</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exoculate</ent><br/
@@ -29295,7 +29295,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>WordNet 1.5</source>]</p>
 
 <p><ent>Exodium</ent><br/
-\'d8<hw>Ex*o"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Exode</er>.</def><br/
+<par/<hw>Ex*o"di*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.]</ety> <def>See <er>Exode</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exodus</ent><br/
@@ -29317,7 +29317,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ex officio</ent><br/
-\'d8<hw>Ex` of*fi"ci*o</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ex officiis</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>From office; by virtue, or as a consequence, of an office; officially.</def><br/
+<par/<hw>Ex` of*fi"ci*o</hw> <pr>(?)</pr>; <plu><it>pl.</it> <plw>Ex officiis</plw> <pr>(#)</pr>.</plu> <ety>[L.]</ety> <def>From office; by virtue, or as a consequence, of an office; officially.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exogamous</ent><br/
@@ -29357,7 +29357,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exogyra</ent><br/
-\'d8<hw>Ex`o*gy"ra</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ out, outside + <?/ circle.]</ety> <fld>(Paleon.)</fld> <def>A genus of Cretaceous fossil shells allied to oysters.</def><br/
+<par/<hw>Ex`o*gy"ra</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[NL., fr. Gr. <?/ out, outside + <?/ circle.]</ety> <fld>(Paleon.)</fld> <def>A genus of Cretaceous fossil shells allied to oysters.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exolete</ent><br/
@@ -29413,7 +29413,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exophthalmia</ent><br/
-\'d8<hw>Ex`oph*thal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl.,fr. Gr. <?/ with prominent eyes; <?/ out + <?/ the eye.]</ety> <fld>(Med.)</fld> <def>The protrusion of the eyeball so that the eyelids will not cover it, in consequence of disease.</def><br/
+<par/<hw>Ex`oph*thal"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl.,fr. Gr. <?/ with prominent eyes; <?/ out + <?/ the eye.]</ety> <fld>(Med.)</fld> <def>The protrusion of the eyeball so that the eyelids will not cover it, in consequence of disease.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exophthalmic</ent><br/
@@ -29424,7 +29424,7 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 
 <p><ent>Exophthalmus</ent><br/
 <ent>Exophthalmos</ent><br/
-<mhw>\'d8<hw>Ex`oph*thal"mos</hw> <pr>(?)</pr>, \'d8<hw>Ex`oph*thal"mus</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Exophthalmia</er>.</def><br/
+<mhw><par/<hw>Ex`oph*thal"mos</hw> <pr>(?)</pr>, <par/<hw>Ex`oph*thal"mus</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Med.)</fld> <def>Same as <er>Exophthalmia</er>.</def><br/
 <syn><b>Syn. --</b> exophthalmus, exophthalmy.</syn><br/
 [<source>1913 Webster</source>]</p>
 
@@ -29547,7 +29547,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exorhiza</ent><br/
-\'d8<hw>Ex`o*rhi"za</hw> <pr>(<ecr/ks`<osl/*r<imac/"z<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exorhiz<ae/</plw> <pr>(-z<emac/)</pr>.</plu> <ety>[NL. fr. Gr. <grk>'e`xw</grk> outside + <grk>'ri`za</grk> root.]</ety> <fld>(Bot.)</fld> <def>A plant Whose radicle is not inclosed or sheathed by the cotyledons or plumule.</def>  <rj><au>Gray.</au></rj></p>
+<par/<hw>Ex`o*rhi"za</hw> <pr>(<ecr/ks`<osl/*r<imac/"z<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Exorhiz<ae/</plw> <pr>(-z<emac/)</pr>.</plu> <ety>[NL. fr. Gr. <grk>'e`xw</grk> outside + <grk>'ri`za</grk> root.]</ety> <fld>(Bot.)</fld> <def>A plant Whose radicle is not inclosed or sheathed by the cotyledons or plumule.</def>  <rj><au>Gray.</au></rj></p>
 
 <p><ent>Exorhizous</ent><br/
 <ent>Exorhizal</ent><br/
@@ -29582,7 +29582,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exosmosis</ent><br/
-\'d8<hw>Ex`os*mo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Exo-</er>, and <er>Osmose</er>.]</ety> <fld>(Physics)</fld> <def>See <er>Exosmose</er>.</def><br/
+<par/<hw>Ex`os*mo"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Exo-</er>, and <er>Osmose</er>.]</ety> <fld>(Physics)</fld> <def>See <er>Exosmose</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exosmotic</ent><br/
@@ -29610,7 +29610,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exostosis</ent><br/
-\'d8<hw>Ex`os*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ out + <?/ bone: cf. F <?/ <ets>exostose</ets>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Any protuberance of a bone which is not natural; an excrescence or morbid enlargement of a bone.</def>  <rj><au>Coxe.</au></rj><br/
+<par/<hw>Ex`os*to"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <?/ out + <?/ bone: cf. F <?/ <ets>exostose</ets>.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Any protuberance of a bone which is not natural; an excrescence or morbid enlargement of a bone.</def>  <rj><au>Coxe.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A knot formed upon or in the wood of trees by disease.</def></p>
@@ -29635,11 +29635,11 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exotheca</ent><br/
-\'d8<hw>Ex`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., fr. Gr. <grk>'e`xw</grk> outside + <?/ a case, box.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which fills the interspaces between the cost<ae/ of many madreporarian corals, usually consisting of small transverse or oblique septa.</def><br/
+<par/<hw>Ex`o*the"ca</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Nl., fr. Gr. <grk>'e`xw</grk> outside + <?/ a case, box.]</ety> <fld>(Zo<oum/l.)</fld> <def>The tissue which fills the interspaces between the cost<ae/ of many madreporarian corals, usually consisting of small transverse or oblique septa.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exothecium</ent><br/
-\'d8<hw>Ex`o*the"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Exotheca</er>.]</ety> <fld>(Bot.)</fld> <def>The outer coat of the anther.</def><br/
+<par/<hw>Ex`o*the"ci*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. See <er>Exotheca</er>.]</ety> <fld>(Bot.)</fld> <def>The outer coat of the anther.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exothermic</ent><br/
@@ -29835,7 +29835,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Ex parte</ent><br/
-\'d8<hw>Ex` par"te</hw> <pr>(?)</pr>. <ety>[L. See <er>Ex-</er>, and <er>Part</er>.]</ety> <def>Upon or from one side only; one-sided; partial; <as>as, an <ex>ex parte</ex> statement</as>.</def><br/
+<par/<hw>Ex` par"te</hw> <pr>(?)</pr>. <ety>[L. See <er>Ex-</er>, and <er>Part</er>.]</ety> <def>Upon or from one side only; one-sided; partial; <as>as, an <ex>ex parte</ex> statement</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><cs><col>Ex parte application</col>, <cd>one made without notice or opportunity to oppose.</cd> -- <col>Ex parte council</col>, <cd>one that assembles at the request of only one of the parties in dispute.</cd> -- <mcol><col>Ex parte hearing</col> <it>or</it> <col>Ex parte evidence</col></mcol> <fld>(Law)</fld>, <cd>that which is had or taken by one side or party in the absence of the other.  Hearings before grand juries, and affidavits, are <ex>ex parte</ex>.</cd>  <rj><au>Wharton's Law Dict.</au>  <au>Burrill.</au></rj></cs><br/
@@ -30879,7 +30879,7 @@ And ten low words oft creep in one dull line.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Explicit</ent><br/
-\'d8<hw>Ex"pli*cit</hw> <pr>(?)</pr>. <ety>[LL., an abbreviation of <ets>explicitus</ets> (<it>est liber</it>) the book (which anciently was a roll of parchment) is unfolded (and, of course, <ldquo/finished<rdquo/). See <er>Explicit</er>, <pos>a.</pos>]</ety> <def>A word formerly used (as <xex>finis</xex> is now) at the conclusion of a book to indicate the end.</def><br/
+<par/<hw>Ex"pli*cit</hw> <pr>(?)</pr>. <ety>[LL., an abbreviation of <ets>explicitus</ets> (<it>est liber</it>) the book (which anciently was a roll of parchment) is unfolded (and, of course, <ldquo/finished<rdquo/). See <er>Explicit</er>, <pos>a.</pos>]</ety> <def>A word formerly used (as <xex>finis</xex> is now) at the conclusion of a book to indicate the end.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Explicit</ent><br/
@@ -31192,7 +31192,7 @@ The massy ball and the brass tube unload.</q> <rj><qau>Blackmore.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Expose</ent><br/
-\'d8<hw>Ex`po`s<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop. p. p. of <ets>exposer</ets>. See <er>Expose</er>, <pos>v. t.</pos>]</ety> <def>A formal recital or exposition of facts; exposure, or revelation, of something which some one wished to keep concealed.</def><br/
+<par/<hw>Ex`po`s<eacute/"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., prop. p. p. of <ets>exposer</ets>. See <er>Expose</er>, <pos>v. t.</pos>]</ety> <def>A formal recital or exposition of facts; exposure, or revelation, of something which some one wished to keep concealed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>exposed</ent><br/
@@ -31253,7 +31253,7 @@ Hath been most sound.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><ent>Ex postfacto</ent><br/
 <ent>Ex post facto</ent><br/
-<mhw>{ \'d8<hw>Ex" post` fac"to</hw>, <it>or</it> \'d8<hw>Ex" post`fac"to</hw> <pr>(<ecr/ks" p<omac/st" f<acr/k"t<osl/)</pr> }</mhw>. <ety>[L., from what is done afterwards.]</ety> <fld>(Law)</fld> <def>From or by an after act, or thing done afterward; in consequence of a subsequent act; retrospective.</def></p>
+<mhw>{ <par/<hw>Ex" post` fac"to</hw>, <it>or</it> <par/<hw>Ex" post`fac"to</hw> <pr>(<ecr/ks" p<omac/st" f<acr/k"t<osl/)</pr> }</mhw>. <ety>[L., from what is done afterwards.]</ety> <fld>(Law)</fld> <def>From or by an after act, or thing done afterward; in consequence of a subsequent act; retrospective.</def></p>
 
 <p><-- note "after enactment" probably should read after-enactment. sic. -->
 <cs><col>Ex post facto law</col>, <cd>a law which operates by after enactment. The phrase is popularly applied to any law, civil or criminal, which is enacted with a retrospective effect, and with intention to produce that effect; but in its true application, as employed in American law, it relates only to crimes, and signifies a law which retroacts, by way of criminal punishment, upon that which was not a crime before its passage, or which raises the grade of an offense, or renders an act punishable in a more severe manner that it was when committed. <xex>Ex post facto laws</xex> are held to be contrary to the fundamental principles of a free government, and the States are prohibited from passing such laws by the Constitution of the United States.</cd>  <rj><au>Burrill.</au>  <au>Kent.</au></rj></cs><br/
@@ -32452,7 +32452,7 @@ She [Fancy] forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><ent>Extern</ent><br/
 <ent>Externe</ent><br/
-<mhw>\'d8<hw>Ex`terne"</hw>, <hw>Ex*tern"</hw></mhw> <pr>(<ecr/ks`t<ecr/rn")</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Extern</er>.]</ety> <def>a person affiliated with an institution who does not reside there;</def> <specif>especially,</specif> <fld>(Med.)</fld> <def>a doctor or medical student who is in attendance upon, or is assisting at, a hospital, but who does not reside in it.</def><br/
+<mhw><par/<hw>Ex`terne"</hw>, <hw>Ex*tern"</hw></mhw> <pr>(<ecr/ks`t<ecr/rn")</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Extern</er>.]</ety> <def>a person affiliated with an institution who does not reside there;</def> <specif>especially,</specif> <fld>(Med.)</fld> <def>a doctor or medical student who is in attendance upon, or is assisting at, a hospital, but who does not reside in it.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Exterraneous</ent><br/
@@ -32705,7 +32705,7 @@ That you <qex>extol</qex> me thus?</q> <rj><qau>Shak.</qau></rj></p>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Extra-</ent><br/
-\'d8<hw>Ex"tra-</hw> <pr>(?)</pr>. <ety>[L., fr. <ets>exter</ets>. See <er>Exterior</er>.]</ety> <def>A Latin preposition, denoting <sig>beyond</sig>, <sig>outside of</sig>; -- often used in composition as a prefix signifying <sig>outside of</sig>, <sig>beyond</sig>, <sig>besides</sig>, or <sig>in addition to</sig> what is denoted by the word to which it is prefixed.</def><br/
+<par/<hw>Ex"tra-</hw> <pr>(?)</pr>. <ety>[L., fr. <ets>exter</ets>. See <er>Exterior</er>.]</ety> <def>A Latin preposition, denoting <sig>beyond</sig>, <sig>outside of</sig>; -- often used in composition as a prefix signifying <sig>outside of</sig>, <sig>beyond</sig>, <sig>besides</sig>, or <sig>in addition to</sig> what is denoted by the word to which it is prefixed.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Extra</ent><br/
@@ -33526,7 +33526,7 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuvia</ent><br/
-\'d8<hw>Ex*u"vi*a</hw> <pr>(?)</pr>, <def><pos>n. sing.</pos> of <er>Exuvi<ae/</er>.</def><br/
+<par/<hw>Ex*u"vi*a</hw> <pr>(?)</pr>, <def><pos>n. sing.</pos> of <er>Exuvi<ae/</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuviability</ent><br/
@@ -33538,7 +33538,7 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Exuviae</ent><br/
-\'d8<hw>Ex*u"vi*<ae/</hw>, <pos>n. pl.</pos> <ety>[L., fr. <ets>exuere</ets> to draw out or off, to pull off.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>Cast skins, shells, or coverings of animals; any parts of animals which are shed or cast off, as the skins of snakes, the shells of lobsters, etc.</def><br/
+<par/<hw>Ex*u"vi*<ae/</hw>, <pos>n. pl.</pos> <ety>[L., fr. <ets>exuere</ets> to draw out or off, to pull off.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>Cast skins, shells, or coverings of animals; any parts of animals which are shed or cast off, as the skins of snakes, the shells of lobsters, etc.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><sn>2.</sn> <fld>(Geol.)</fld> <def>The fossil shells and other remains which animals have left in the strata of the earth.</def><br/
@@ -33992,7 +33992,7 @@ Are fastened upwardly on mine.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Eyra</ent><br/
-\'d8<hw>Ey"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native South American name.]</ety> <fld>(Zo<oum/l.)</fld> <def>A wild cat (<spn>Felis eyra</spn>) ranging from southern Brazil to Texas. It is reddish yellow and about the size of the domestic cat, but with a more slender body and shorter legs.</def></p>
+<par/<hw>Ey"ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Native South American name.]</ety> <fld>(Zo<oum/l.)</fld> <def>A wild cat (<spn>Felis eyra</spn>) ranging from southern Brazil to Texas. It is reddish yellow and about the size of the domestic cat, but with a more slender body and shorter legs.</def></p>
 
 <p><ent>Eyre</ent><br/
 <hw>Eyre</hw> <pr>(<acir/r)</pr>, <pos>n.</pos> <ety>[OF. <ets>erre</ets> journey, march, way, fr. L. <ets>iter</ets>, <ets>itineris</ets>, a going, way, fr. the root of <ets>ire</ets> to go.  Cf. <er>Errant</er>, <er>Itinerant</er>, <er>Issue</er>.]</ety> <fld>(O. Eng. Law)</fld> <def>A journey in circuit of certain judges called <xex>justices in eyre</xex> (or <xex>in itinere</xex>).</def><br/

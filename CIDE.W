@@ -384,7 +384,7 @@ Thou <qex>wafter</qex> of the soul to bliss or bane.</q> <rj><qau>Beau. & FL.</q
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wagati</ent><br/
-\'d8<hw>Wa*ga"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small East Indian wild cat (<spn>Felis wagati</spn>), regarded by some as a variety of the leopard cat.</def><br/
+<par/<hw>Wa*ga"ti</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small East Indian wild cat (<spn>Felis wagati</spn>), regarded by some as a variety of the leopard cat.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wage</ent><br/
@@ -1088,7 +1088,7 @@ And everlasting anguish be thy portion.</q> <rj><qau>Rowe.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wai Wu Pu</ent><br/
-\'d8<hw>Wai Wu Pu</hw> <pr>(?)</pr>. <ety>[Chinese <ets>wai</ets> foreign + <ets>wu</ets> affairs + <ets>pu</ets> office.]</ety> <def>The Department of Foreign Affairs in the Chinese government.</def></p>
+<par/<hw>Wai Wu Pu</hw> <pr>(?)</pr>. <ety>[Chinese <ets>wai</ets> foreign + <ets>wu</ets> affairs + <ets>pu</ets> office.]</ety> <def>The Department of Foreign Affairs in the Chinese government.</def></p>
 
 <p><q>The Tsung-li Yamen, or Foreign Office, created by a decree of January 19, 1861, was in July, 1902, superseded by the formation of a new Foreign Office called the <qex>Wai Wu Pu</qex>, . . . with precedence before all other boards.</q>  <rj><qau>J. Scott Keltie.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
@@ -1307,7 +1307,7 @@ Their sacred song, and <qex>waken</qex> raptures high.</q> <rj><qau>Milton.</qau
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Waldheimia</ent><br/
-\'d8<hw>Wald*hei"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which many species are found in the fossil state. A few still exist in the deep sea.</def><br/
+<par/<hw>Wald*hei"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which many species are found in the fossil state. A few still exist in the deep sea.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wale</ent><br/
@@ -6349,7 +6349,7 @@ To <qex>waver</qex>, or fall <qex>off and join with idols</qex>.</q> <rj><qau>Mi
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wawaskeesh</ent><br/
-\'d8<hw>Wa*was"keesh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From an Indian name.]</ety> <fld>(Zool.)</fld> <def>The wapiti, or wapiti, or American elk.</def><br/
+<par/<hw>Wa*was"keesh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From an Indian name.]</ety> <fld>(Zool.)</fld> <def>The wapiti, or wapiti, or American elk.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wawe</ent><br/
@@ -9604,7 +9604,7 @@ In measure what the mind may <qex>well</qex> contain.</q> <rj><qau>Milton.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Weltanschauung</ent><br/
-\'d8<hw>Welt"an"schau`ung</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Weltanschauungen</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>Lit., world view; a conception of the course of events in, and of the purpose of, the world as a whole, forming a philosophical view or apprehension of the universe; the general idea embodied in a cosmology.</def><br/
+<par/<hw>Welt"an"schau`ung</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu>pl. <plw>Weltanschauungen</plw> <pr>(#)</pr></plu>. <ety>[G.]</ety> <def>Lit., world view; a conception of the course of events in, and of the purpose of, the world as a whole, forming a philosophical view or apprehension of the universe; the general idea embodied in a cosmology.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Welte</ent><br/
@@ -9673,11 +9673,11 @@ Without the meed of some melodious tear.</q> <rj><qau>Milton.</qau></rj><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Weltschmertz</ent><br/
-\'d8<hw>Welt"schmertz`</hw> <pr>(v<ecr/lt"shm<ecr/rts`)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>welt</ets> world + <ets>schmertz</ets> pain. See <er>World</er>; <er>Smart</er>, <pos>v. i.</pos>]</ety> <def>Sorrow or sadness over the present or future evils or woes of the world in general; sentimental pessimism.</def><br/
+<par/<hw>Welt"schmertz`</hw> <pr>(v<ecr/lt"shm<ecr/rts`)</pr>, <pos>n.</pos> <ety>[G., fr. <ets>welt</ets> world + <ets>schmertz</ets> pain. See <er>World</er>; <er>Smart</er>, <pos>v. i.</pos>]</ety> <def>Sorrow or sadness over the present or future evils or woes of the world in general; sentimental pessimism.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Welwitschia</ent><br/
-\'d8<hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetaceae</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><-- sic --><br/
+<par/<hw>Wel*witsch"i*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. So named after the discoverer, Dr. <person>Friedrich <etsep>Welwitsch</etsep></person>.]</ety> <fld>(Bot.)</fld> <def>An African plant (<spn>Welwitschia mirabilis</spn>) belonging to the order <ord>Gnetaceae</ord>. It consists of a short, woody, topshaped stem, and never more than two leaves, which are the cotyledons enormously developed, and at length split into diverging segments.</def><-- sic --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wem</ent><br/
@@ -9791,7 +9791,7 @@ My most sweet <qex>wench</qex>, and gifts to boot.</q> <rj><qau>Chapman.</qau></
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wen-li</ent><br/
-\'d8<hw>W<ecir/n"-li`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>w<ecir/n li</ets>.]</ety> <def>The higher literary idiom of Chinese, that of the canonical books and of all composition pretending to literary standing.  It employs a classical or academic diction, and a more condensed and sententious style than Mandarin, and differs also in the doubling and arrangement of words.</def><br/
+<par/<hw>W<ecir/n"-li`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Chin. <ets>w<ecir/n li</ets>.]</ety> <def>The higher literary idiom of Chinese, that of the canonical books and of all composition pretending to literary standing.  It employs a classical or academic diction, and a more condensed and sententious style than Mandarin, and differs also in the doubling and arrangement of words.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Wenlock group</ent><br/
@@ -15055,7 +15055,7 @@ Are <qex>widowed</qex>, dreary storms o'er all prevail.</q> <rj><qau>J. Philips.
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Wiener Schnitzel</ent><br/
-\'d8<hw>Wie"ner Schnit"zel</hw> <pr>(?)</pr>. <ety>[G., Vienna cutlet.]</ety> <def>A veal cutlet variously seasoned garnished, often with lemon, sardines, and capers.</def><br/
+<par/<hw>Wie"ner Schnit"zel</hw> <pr>(?)</pr>. <ety>[G., Vienna cutlet.]</ety> <def>A veal cutlet variously seasoned garnished, often with lemon, sardines, and capers.</def><br/
 [<source>Webster 1913 Suppl.</source>]</p>
 
 <p><ent>Wier</ent><br/

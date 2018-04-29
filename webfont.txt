@@ -283,7 +283,7 @@ oct dec hex entity
 325 213  d5 <ocar/             \v{o}          ǒ   o     o hacek
 326 214  d6 <aemac/            \=\ae          ǣ   ae    ae ligature macron
 327 215  d7 <oemac/            \=\oe          œ̄   oe    oe ligature macron
-330 216  d8          par       $\parallel$    ‖   ||    double vertical bar
+330 216  d8 <par/    par       $\parallel$    ‖   ||    double vertical bar
 331 217  d9  *
 332 218  da  *
 333 219  db  *
