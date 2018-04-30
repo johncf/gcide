@@ -175,8 +175,6 @@ Her infant's thrilling kiss.</q> <rj><qau>Keble.</qau></rj><br/
 <hw>Ea"gle-sight`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Farsighted and strong-sighted; sharp-sighted.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 465 --></p>
-
 <p><ent>Eagless</ent><br/
 <hw>Ea"gless</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>aiglesse</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A female or hen eagle.</def> <mark>[R.]</mark>  <rj><au>Sherwood.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -652,8 +650,6 @@ Received the golden <qex>earnest</qex> of our death.</q> <rj><qau>Shak.</qau></r
 <hw>Ear"-shell`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>any of various large edible marine gastropod <isa>mollusks</isa> of the genus <gen>Haliotis</gen>, having a flattened ear-shaped shell with a pearly interior; -- called also <altname>sea-ear</altname>. See <er>Abalone</er>.</def><br/
 <syn><b>Syn. --</b> abalone.</syn><br/
 [<source>1913 Webster</source> + <source>WordNet 1.5</source>]</p>
-
-<p><-- p. 466 --></p>
 
 <p><ent>Earshot</ent><br/
 <hw>Ear"shot`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Reach of the ear; distance at which words may be heard.</def>  <rj><au>Dryden.</au></rj><br/
@@ -1147,8 +1143,6 @@ These troublesome disguises which we wear.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><q>Not soon provoked, she <qex>easily</qex> forgives.</q> <rj><qau>Prior.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 467 --></p>
 
 <p><sn>4.</sn> <def>Smoothly; quietly; gently; gracefully; without <?/umult or discord.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1653,8 +1647,6 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 <hw>E*bri"e*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ebrieties</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>ebrietas</ets>, from. <ets>ebrius</ets> intoxicated: cf. F. <ets><eacute/bri<eacute/te</ets>.  Cf. <er>So<?/er</er>.]</ety> <def>Drunkenness; intoxication by spirituous liquors; inebriety.</def> <ldquo/Ruinous <xex>ebriety</xex>.<rdquo/  <rj><au>Cowper.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 468 --></p>
-
 <p><ent>Ebrillade</ent><br/
 <hw>E*bril"lade</hw> <pr>(<esl/*br<icr/l"l<acr/d)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Man.)</fld> <def>A bridle check; a jerk of one rein, given to a horse when he refuses to turn.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2036,8 +2028,6 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj><br/
 <p><ent>Echinodermata</ent><br/
 <par/<hw>E*chi`no*der"ma*ta</hw> <pr>(<esl/*k<imac/`n<osl/*d<etil/r"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>de`rma</grk>, <grk>-atos</grk>, skin.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the grand divisions of the animal kingdom. By many writers it was formerly included in the Radiata.</def> <altsp>[Written also <asp>Echinoderma</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 469 --></p>
 
 <p><note><hand/ The species usually have an exterior calcareous skeleton, or shell, made of many pieces, and often covered with spines, to which the name. They may be star-shaped, cylindrical, disk-shaped, or more or less spherical. The body consists of several similar parts (<xex>spheromeres</xex>) repeated symmetrically around a central axis, at one end of which the mouth is situated. They generally have suckers for locomotion. The group includes the following classes: Crinoidea, Asterioidea, Ophiuroidea, Echinoidea, and Holothurioidea. See these words in the Vocabulary, and also <er>Ambulacrum</er>.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -2479,8 +2469,6 @@ To save a pittance.</q> <rj><qau>Harte.</qau></rj><br/
 
 <p><syn><b>Syn.</b> -- <er>Economy</er>, <er>Frugality</er>, <er>Parsimony</er>. <xex>Economy</xex> avoids all waste and extravagance, and applies money to the best advantage; <xex>frugality</xex> cuts off indulgences, and proceeds on a system of saving. The latter conveys the idea of not using or spending superfluously, and is opposed to <xex>lavishness</xex> or <xex>profusion</xex>. <xex>Frugality</xex> is usually applied to matters of consumption, and commonly points to simplicity of manners; <xex>parsimony</xex> is frugality carried to an extreme, involving meanness of spirit, and a sordid mode of living. <xex>Economy</xex> is a virtue, and <xex>parsimony</xex> a vice.</syn><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 470 --></p>
 
 <p><q>I have no other notion of <qex>economy</qex> than that it is the parent to liberty and ease.</q> <rj><qau>Swift.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2927,8 +2915,6 @@ From the bare wild the dissipated storm.</q> <rj><qau>Thomson.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>Belonging to the Edentata.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 471 --></p>
 
 <p><ent>Edentate</ent><br/
 <hw>E*den"tate</hw> <pr>(<esl/*d<ecr/n"t<asl/t)</pr>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>One of the Edentata.</def><br/
@@ -3381,8 +3367,6 @@ Of battle.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>The act of freeing from acids or any soluble substances, by affusions of water.</def> <mark>[R.]</mark>  <rj><au>Ure.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 472 --></p>
 
 <p><ent>Edulcorative</ent><br/
 <hw>E*dul"co*ra*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to <?/weeten or purify by affusions of water.</def><br/
@@ -3859,8 +3843,6 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 
 <p><syn><b>Syn.</b> -- Effective; effectual; competent; able; capable; material; potent.</syn><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 473 --></p>
 
 <p><ent>Efficient</ent><br/
 <hw>Ef*fi"cient</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An efficient cause; a prime mover.</def><br/
@@ -4403,8 +4385,6 @@ How fair she was.</q> <rj><qau>Warner.</qau></rj><br/
 <p><ent>eggshake</ent><br/
 <hw>eggshake</hw> <pos>n.</pos> <def>a milkshake with egg in it.</def><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- p. 474 --></p>
 
 <p><ent>egg-shaped</ent><br/
 <hw>egg"-shaped`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Resembling an egg in form; ovoid.</def><br/
@@ -4974,8 +4954,6 @@ In curls on <qex>either</qex> cheek played.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><q>Its active rays <qex>ejaculated</qex> thence.</q> <rj><qau>Blackmore.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 475 --></p>
 
 <p><sn>2.</sn> <def>To throw out, as an exclamation; to utter by a brief and sudden impulse; <as>as, to <ex>ejaculate</ex> a prayer</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -5882,8 +5860,6 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 <hw>E*lect`or*al"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The territory or dignity of an elector; electorate.</def> <mark>[R.]</mark>  <rj><au>Sir H. Wotton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 477 --></p>
-
 <p><ent>Electorate</ent><br/
 <hw>E*lect"or*ate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets><eacute/lectorat</ets>.]</ety> <sn>1.</sn> <def>The territory, jurisdiction, or dignity of an elector, as in the old German empire.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -6296,8 +6272,6 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><sn>2.</sn> <fld>(Mech.)</fld> <def>An apparatus or machine for producing motion and mechanical effects by the action of electricity; an electro-magnetic engine.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 478 --></p>
 
 <p><ent>Electro-muscular</ent><br/
 <hw>E*lec`tro-mus"cu*lar</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Physiol.)</fld> <def>Pertaining to the reaction (contraction) of the muscles under electricity, or their sensibility to it.</def><br/
@@ -7117,8 +7091,6 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>El"e*va`to*ry</hw>, <pos>n.</pos> <ety>[Cf. F. <ets><eacute/l<eacute/vatoire</ets>.]</ety> <fld>(Surg.)</fld> <def>See <er>Elevator</er>, <pos>n.</pos> <sdr>(e)</sdr>.</def>  <rj><au>Dunglison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 480 --></p>
-
 <p><ent>eleve</ent><br/
 <par/<hw><Eacute/`l<egrave/ve"</hw> <pr>(<asl/`l<asl/v")</pr>, <pos>n.</pos> <ety>[F., fr. <ets><eacute/lever</ets> to raise, bring up.]</ety> <def>A pupil; a student.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -7597,8 +7569,6 @@ And <qex>elliptical</qex> billiard balls!</q><br/
 
 <p><sn>2.</sn> <def>Departure from the usual state; an ecstasy.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 481 --></p>
 
 <p><ent>Elocular</ent><br/
 <hw>E*loc"u*lar</hw> <pr>(<esl/*l<ocr/k"<usl/*l<etil/r)</pr>, <pos>a.</pos> <ety>[Pref. <ets>e-</ets> + <ets>locular</ets>.]</ety> <def>Having but one cell, or cavity; not divided by a septum or partition.</def><br/
@@ -8109,8 +8079,6 @@ Is but a suburb of the life <qex>elysian</qex>.</q> <rj><qau>Longfellow.</qau></
 <p><ent>Emanate</ent><br/
 <hw>Em"a*nate</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Emanated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Emanating</conjf>.]</vmorph> <ety>[L. <ets>emanare</ets>, <ets>emanatum</ets>, to emanate; <ets>e</ets> out + <ets>manare</ets> to flow, prob. for <ets>madnare</ets>, and akin to <ets>madere</ets> to be wet, drip, <ets>madidus</ets> wet, drenched, drunk, Gr. <?/, <?/, wet, <?/ to be wet, Skr. <ets>mad</ets> to boil, <ets>matta</ets> drunk.  Cf. <er>Emane</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 482 --></p>
 
 <p><sn>1.</sn> <def>To issue forth from a source; to flow out from more or less constantly; <as>as, fragrance <ex>emanates</ex> from flowers</as>.</def></p>
 
@@ -8629,8 +8597,6 @@ Be not ensheltered and <qex>embayed</qex>, they are drowned.</q> <rj><qau>Shak.<
 <hw>Em"ber</hw>, <pos>a.</pos> <ety>[OE. <ets>ymber</ets>, AS. <ets>ymbren</ets>, <ets>ymbryne</ets>, prop., running around, circuit; <ets>ymbe</ets> around + <ets>ryne</ets> a running, fr. <ets>rinnan</ets> to run. See <er>Amb-</er>, and <er>Run</er>.]</ety> <def>Making a circuit of the year of the seasons; recurring in each quarter of the year; <as>as, <ex>ember</ex> fasts</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 483 --></p>
-
 <p><cs><col>Ember days</col> <fld>(R. C. & Eng. Ch.)</fld>, <cd>days set apart for fasting and prayer in each of the four seasons of the year. The Council of Placentia [<sc>A. D.</sc> 1095] appointed for <xex>ember days</xex> the Wednesday, Friday, and Saturday after the first Sunday in Lent, Whitsuntide, the 14th of September, and the  13th of December. The weeks in which these days fall are called <xex>ember weeks</xex>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -9090,8 +9056,6 @@ Between the mountain and the stream <qex>embraced</qex>.</q> <rj><qau>Denham.</q
 <p><q>Not that my song, in such a scanty space,<br/
 So large a subject fully can <qex>embrace</qex>.</q> <rj><qau>Dryden.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 484 --></p>
 
 <p><sn>6.</sn> <def>To accept; to undergo; to submit to.</def> <ldquo/I <xex>embrace</xex> this fortune patiently.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -9612,8 +9576,6 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj><br/
 <p><cs><col>Emery board</col>, <cd>cardboard pulp mixed with emery and molded into convenient.</cd> -- <mcol><col>Emery cloth</col> <it>or</it> <col>Emery paper</col></mcol>, <cd>cloth or paper on which the powder of emery is spread and glued for scouring and polishing.</cd> -- <col>Emery wheel</col>, <cd>a wheel containing emery, or having a surface of emery.  In machine shops, it is sometimes called a <altname>buff wheel</altname>, and by the manufacturers of cutlery, a <altname>glazer</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 485 --></p>
-
 <p><ent>Emesis</ent><br/
 <par/<hw>Em"e*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/. See <er>Emetic</er>.]</ety> <fld>(Med.)</fld> <def>A vomiting.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -10109,8 +10071,6 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj><br/
 <p><ent>Empearl</ent><br/
 <hw>Em*pearl"</hw> <pr>(<ecr/m*p<etil/rl")</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>em-</ets> + <ets>pearl</ets>.  Cf. <er>Impearl</er>.]</ety> <def>To form like pearls; to decorate with, or as with, pearls; to impearl.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 486 --></p>
 
 <p><ent>Empeople</ent><br/
 <hw>Em*peo"ple</hw> <pr>(<ecr/m*p<emac/"p'l)</pr>, <pos>v. t.</pos> <def>To form into a people or community; to inhabit; to people.</def> <mark>[Obs.]</mark><br/
@@ -10633,8 +10593,6 @@ But here thy sword can do thee little stead.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Emp"ty</hw> <pr>(?; 215)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Emptier</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Emptiest</adjf>.]</amorph> <ety>[AS. <ets>emtig</ets>, <ets><ae/mtig</ets>, <ets><ae/metig</ets>, fr. <ets><ae/mta</ets>, <ets><ae/metta</ets>, quiet, leisure, rest; of uncertain origin; cf. G. <ets>emsig</ets> busy.]</ety> <sn>1.</sn> <def>Containing nothing; not holding or having anything within; void of contents or appropriate contents; not filled; -- said of an inclosure, or a container, as a box, room, house, etc.; <as>as, an <ex>empty</ex> chest, room, purse, or pitcher; an <ex>empty</ex> stomach; <ex>empty</ex> shackles.</as></def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 487 --></p>
-
 <p><sn>2.</sn> <def>Free; clear; devoid; -- often with <xex>of</xex>.</def> <ldquo/That fair female troop . . . <xex>empty</xex> of all good.<rdquo/  <rj><au>Milton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -11089,8 +11047,6 @@ With hallelujahs.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Enamel</ent><br/
 <hw>En*am"el</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Enameled</conjf> <pr>(?)</pr> or <conjf>Enamelled</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Enameling</conjf> or <conjf>Enamelling</conjf>.]</vmorph> <sn>1.</sn> <def>To lay enamel upon; to decorate with enamel whether inlaid or painted.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 488 --></p>
 
 <p><sn>2.</sn> <def>To variegate with colors as if with enamel.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11624,8 +11580,6 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj><br/
 <hw>En*clave"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>The state of being an enclave.</def> <mark>[Recent]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 489 --></p>
-
 <p><ent>Enclitical</ent><br/
 <ent>Enclitic</ent><br/
 <mhw>{ <hw>En*clit"ic</hw> <pr>(<ecr/n*kl<icr/t"<icr/k)</pr>, <hw>En*clit"ic*al</hw> <pr>(<ecr/n*kl<icr/t"<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>encliticus</ets>, Gr. <grk>'egkli`tikos</grk>, fr. <grk>'egkli`nein</grk> to incline; <grk>'en</grk> in + <grk>kli`nein</grk> to bend. See <er>In</er>, and <er>Lean</er>, <pos>v. i.</pos>]</ety> <fld>(Gram.)</fld> <def>Affixed; subjoined; -- said of a word or particle which leans back upon the preceding word so as to become a part of it, and to lose its own independent accent, generally varying also the accent of the preceding word.</def><br/
@@ -12127,8 +12081,6 @@ And seem a saint, when most I play the devil.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>6.</sn> <fld>(Carpet Manuf.)</fld> <def>One of the yarns of the worsted warp in a Brussels carpet.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 490 --></p>
 
 <p><cs><col>An end</col>. <sd>(a)</sd> <cd>On end; upright; erect; endways.</cd> <au>Spenser</au> <sd>(b)</sd> <cd>To the end; continuously.</cd> <mark>[Obs.]</mark> <au>Richardson.</au> -- <col>End bulb</col> <fld>(Anat.)</fld>, <cd>one of the bulblike bodies in which some sensory nerve fibers end in certain parts of the skin and mucous membranes; -- also called <altname>end corpuscles</altname>.</cd> -- <col>End fly</col>, <cd>a bobfly.</cd> -- <col>End for end</col>, <cd>one end for the other; in reversed order.</cd> -- <col>End man</col>, <cd>the last man in a row; one of the two men at the extremities of a line of minstrels.</cd> -- <col>End on</col> <fld>(Naut.)</fld>, <cd>bow foremost.</cd> -- <col>End organ</col> <fld>(Anat.)</fld>, <cd>the structure in which a nerve fiber ends, either peripherally or centrally.</cd> -- <col>End plate</col> <fld>(Anat.)</fld>, <cd>one of the flat expansions in which motor nerve fibers terminate on muscular fibers.</cd> -- <col>End play</col> <fld>(Mach.)</fld>, <cd>movement endwise, or room for such movement.</cd> -- <col>End stone</col> <fld>(Horol.)</fld>, <cd>one of the two plates of a jewel in a timepiece; the part that limits the pivot's end play.</cd> -- <col>Ends of the earth</col>, <cd>the remotest regions of the earth.</cd> -- <col>In the end</col>, <cd>finally.</cd> <au>Shak.</au> -- <col>On end</col>, <cd>upright; erect.</cd> -- <col>To the end</col>, <cd>in order.</cd> <au>Bacon.</au> -- <col>To make both ends meet</col>, <cd>to live within one's income.</cd> <au>Fuller.</au> -- <col>To put an end to</col>, <cd>to destroy.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -12648,8 +12600,6 @@ With iron tough.</q> <rj><qau>Chaucer.</qau></rj><br/
 <hw>En`do*par"a*site</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Endo-</ets> + <ets>parasite</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>Any parasite which lives in the internal organs of an animal, as the tapeworms, Trichina, etc.; -- opposed to <contr>ectoparasite</contr>. See <er>Entozo<oum/n</er>.</def> -- <wordforms><wf>En`do*par`a*sit"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 491 --></p>
-
 <p><ent>Endophloeum</ent><br/
 <par/<hw>En`do*phl<oe/"um</hw> <pr>(<ecr/n`d<omac/*fl<emac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`ndon</grk> within + <grk>floio`s</grk> bark.]</ety> <fld>(Bot.)</fld> <def>The inner layer of the bark of trees.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -13153,8 +13103,6 @@ As might the strokes of two such arms <qex>endure</qex>.</q> <rj><qau>Dryden.</q
 
 <p><note><hand/ The <xex>kinetic energy</xex> of a body is the energy it has in virtue of being in motion. It is measured by one half of the product of the mass of each element of the body multiplied by the square of the velocity of the element, relative to some given body or point. The <xex>available kinetic energy</xex> of a material system unconnected with any other system is that energy which is due to the motions of the parts of the system relative to its center of mass. The <xex>potential energy</xex> of a body or system is that energy which is not kinetic; -- energy due to configuration. <xex>Kinetic energy</xex> is sometimes called <xex>actual energy</xex>. <xex>Kinetic energy</xex> is exemplified in the <xex>vis viva</xex> of moving bodies, in heat, electric currents, etc.; <xex>potential energy</xex>, in a bent spring, or a body suspended a given distance above the earth and acted on by gravity.</note><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 492 --></p>
 
 <p><cs><mcol><col>Accumulation</col>, <col>Conservation</col>, <col>Correlation</col>, <and/ <col>Degradation of energy</col></mcol>, <cd>etc. <fld>(Physics)</fld> See under <er>Accumulation</er>, <er>Conservation</er>, <er>Correlation</er>, etc.</cd></cs></p>
 
@@ -13726,8 +13674,6 @@ To catch the fish; what <qex>engines</qex> doth he make?</q> <rj><qau>Bunyan.</q
 <p><cs><col>Civil engineer</col>, <cd>a person skilled in the science of civil engineering.</cd> -- <col>Military engineer</col>, <cd>one who executes engineering works of a military nature. See under <er>Engineering</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 493 --></p>
-
 <p><ent>Engineer</ent><br/
 <hw>En`gi*neer"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Engineered</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Engineering</conjf>.]</vmorph> <sn>1.</sn> <def>To lay out or construct, as an engineer; to perform the work of an engineer on; <as>as, to <ex>engineer</ex> a road</as>.</def>  <rj><au>J. Hamilton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -14216,8 +14162,6 @@ He did <qex>engrave</qex>.</q> <rj><qau>Spenser.</qau></rj><br/
 <p><ent>Enharden</ent><br/
 <hw>En*hard"en</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>en-</ets> + <ets>harden</ets>: cf. F. <ets>enhardir</ets> to embolden.]</ety> <def>To harden; to embolden.</def> <mark>[Obs.]</mark>  <rj><au>Howell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 494 --></p>
 
 <p><ent>Enharmonical</ent><br/
 <ent>Enharmonic</ent><br/
@@ -14788,8 +14732,6 @@ Alas! not all the blood of all the Howards.</q> <rj><qau>Pope.</qau></rj><br/
 <hw>E*nod"al</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Bot.)</fld> <def>Without a node.</def>  <rj><au>Gray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 495 --></p>
-
 <p><ent>Enodation</ent><br/
 <hw>En`o*da"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>enodatio</ets> explanation, fr. <ets>enodare</ets> to free from knots. See <er>Enode</er>.]</ety> <def>The act or operation of clearing of knots, or of untying; hence, also, the solution of a difficulty.</def> <mark>[R.]</mark>  <rj><au>Bailey.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -15326,8 +15268,6 @@ Shall, with their freedom lost, all virtue lose.</q> <rj><qau>Milton.</qau></rj>
 <p><q>A fresh <qex>enslavement</qex> to their enemies.</q> <rj><qau>South.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 496 --></p>
-
 <p><ent>Enslaver</ent><br/
 <hw>En*slav"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who enslaves.</def>  <rj><au>Swift.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -15849,8 +15789,6 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>En`ter*tain"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Entertained</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Entertaining</conjf>.]</vmorph> <ety>[F. <ets>entretenir</ets>; <ets>entre</ets> between (L. <ets>inter</ets>) + <ets>tenir</ets> to hold, L. <ets>tenere</ets>. See <er>Tenable</er>.]</ety> <sn>1.</sn> <def>To be at the charges of; to take or keep in one's service; to maintain; to support; to harbor; to keep.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 497 --></p>
-
 <p><q>You, sir, I <qex>entertain</qex> for one of my hundred.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -16364,8 +16302,6 @@ And <qex>enticing</qex> men to pull.</q> <rj><qau>Beau. & Fl.</qau></rj><br/
 
 <p><sn>3.</sn> <def>A group of edentates, including the ant-eaters.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 498 --></p>
 
 <p><ent>Entomophagan</ent><br/
 <hw>En`to*moph"a*gan</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zo<oum/l.)</fld> <def>Relating to the Entomophaga.</def> -- <def2><pos>n.</pos> <def>One of the <er>Entomophaga</er>.</def></def2><br/
@@ -16898,8 +16834,6 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 <p><syn><b>Syn.</b> -- To reckon; compute; calculate; count; estimate; relate; rehearse; recapitulate; detail.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 499 --></p>
-
 <p><ent>Enumeration</ent><br/
 <hw>E*nu`mer*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>enumeratio</ets>: cf. F. <ets><eacute/num<eacute/ration</ets>.]</ety> <sn>1.</sn> <def>The act of enumerating, making separate mention, or recounting.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -17428,8 +17362,6 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj><br/
 <par/<hw>E`o*zo"<oum/n</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eozo<oum/ns</plw> <pr>(#)</pr>, L. <plw>Eozoa</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'hw`s</grk> dawn + <grk>zw^,on</grk> an animal.]</ety> <fld>(Paleon.)</fld> <def>A peculiar structure found in the Arch<ae/an limestones of Canada and other regions. By some geologists it is believed to be a species of gigantic Foraminifera, but others consider it a concretion, without organic structure.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 500 --></p>
-
 <p><ent>Eozoonal</ent><br/
 <hw>E`o*zo"<oum/n*al</hw> <pr>(<emac/`<osl/*z<omac/"<ocr/n*<ait/l)</pr>, <pos>a.</pos> <fld>(Paleon.)</fld> <def>Pertaining to the eozo<oum/n; containing eozo<oum/ns; <as>as, <ex>eozo<oum/nal</ex> limestone</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -17819,8 +17751,6 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Epiclinal</ent><br/
 <hw>Ep`i*cli"nal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Pref. <ets>epi-</ets> + Gr. <?/ a couch.]</ety> <fld>(Bot.)</fld> <def>Situated on the receptacle or disk of a flower.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 501 --></p>
 
 <p><ent>Epicoele</ent><br/
 <hw>Ep"i*coele</hw> <pr>(<ecr/p"<icr/*s<emac/l)</pr>, <pos>n.</pos> <ety>[Pref. <ets>epi-</ets> + Gr. <grk>koi^lon</grk> a hollow.]</ety> <fld>(Anat.)</fld> <def>A cavity formed by the invagination of the outer wall of the body, as the atrium of an amphioxus and possibly the body cavity of vertebrates.</def><br/
@@ -18274,8 +18204,6 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Ep`i*lo*gis"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. Gr. <?/  calculating. See <er>Epilogism</er>.]</ety> <def>Of or pertaining to epilogue; of the nature of an epilogue.</def>  <rj><au>T. Warton.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 502 --></p>
-
 <p><ent>Epilogize</ent><br/
 <hw>E*pil"o*gize</hw> <pr>(?)</pr>, <pos>v. i. & t.</pos> <ety>[See <er>Epilogism</er>.]</ety> <def>To speak an epilogue to; to utter as an epilogue.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -18693,8 +18621,6 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj><br/
 <hw>E*pis"to*la*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>epistolaris</ets>, fr. <ets>epistola</ets>: cf. F. <ets><eacute/pistolaire</ets>.]</ety> <sn>1.</sn> <def>Pertaining to epistles or letters; suitable to letters and correspondence; <as>as, an <ex>epistolary</ex> style</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 503 --></p>
-
 <p><sn>2.</sn> <def>Contained in letters; carried on by letters.</def> <ldquo/<xex>Epistolary</xex> correspondence.<rdquo/  <rj><au>Addison.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -19106,8 +19032,6 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 <ent>Epsom salts</ent><br/
 <mhw>{ <hw>Ep"som salts`</hw> <it>or</it> <hw>Ep"som salt`</hw> <pr>(?)</pr> }</mhw>. <fld>(Med.)</fld> <def>Sulphate of magnesia having cathartic qualities; -- originally prepared by boiling down the mineral waters at <etsep>Epsom</etsep>, England, -- whence the name; afterwards prepared from sea water; but now from certain minerals, as from siliceous hydrate of magnesia.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 504 --></p>
 
 <p><ent>Epulary</ent><br/
 <hw>Ep"u*la*ry</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>epularis</ets>, fr. <ets>epulum</ets> a feast: cf. F. <ets><eacute/pulaire</ets>.]</ety> <def>Of or pertaining to a feast or banquet.</def> <mark>[Obs.]</mark>  <rj><au>Smart.</au></rj><br/
@@ -19534,8 +19458,6 @@ And ruled in just <qex>equation</qex> with the night.</q> <rj><qau>Rowe.</qau></
 <hw>E`qui*li"brate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Equilibrated</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Equilibrating</conjf> <pr>(?)</pr>.]</vmorph> <ety>[L. <ets>aequilibratus</ets> in equilibrium; <ets>aequus</ets> equal + <ets>libra</ets> balance. See <er>Equilibrium</er>.]</ety> <def>To balance two scales, sides, or ends; to keep even with equal weight on each side; to keep in equipoise.</def>  <rj><au>H. Spenser.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 505 --></p>
-
 <p><ent>Equilibration</ent><br/
 <hw>E`qui*li*bra"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Act of keeping a balance, or state of being balanced; equipoise.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -19927,8 +19849,6 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>Equal in measure but not admitting of superposition; -- applied to magnitudes; <as>as, a square may be <ex>equivalent</ex> to a triangle</as>.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 506 --></p>
 
 <p><sn>3.</sn> <fld>(Geol.)</fld> <def>Contemporaneous in origin; <as>as, the <ex>equivalent</ex> strata of different countries</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20372,8 +20292,6 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj><br/
 <hw>erecting</hw> <pos>n.</pos> <def>the act of building or putting up.</def><br/
 <syn><b>Syn. --</b> erection.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- p. 507 --></p>
 
 <p><ent>Erective</ent><br/
 <hw>E*rect"ive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Making erect or upright; raising; tending to erect.</def><br/
@@ -20983,8 +20901,6 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 <hw>Er*rat"ic</hw>, <pos>n.</pos> <sn>1.</sn> <def>One who deviates from common and accepted opinions; one who is eccentric or preserve in his intellectual character.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 508 --></p>
-
 <p><sn>2.</sn> <def>A rogue.</def> <mark>[Obs.]</mark>  <rj><au>Cockeram.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -21466,8 +21382,6 @@ Appears far south <qex>eruptive</qex> through the cloud.</q> <rj><qau>Thomson.</
 <hw>Es`ca*pade"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Sp. <ets>escapada</ets> escape, fr. <ets>escapar</ets> to escape; or F., fr. It. <ets>scappata</ets> escape, escapade, fr. <ets>scappare</ets> to escape. see <er>Escape</er>.]</ety> <sn>1.</sn> <def>The fling of a horse, or ordinary kicking back of his heels; a gambol.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 509 --></p>
-
 <p><sn>2.</sn> <def>Act by which one breaks loose from the rules of propriety or good sense; a freak; a prank.</def>  <rj><au>Carlyle.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -21869,8 +21783,6 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 <p><ent>Esemplastic</ent><br/
 <hw>Es`em*plas"tic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'es</grk> into, to + <grk>"en</grk> one + <grk>plastiko`s</grk> molded, formed. See <er>Plastic</er>.]</ety> <def>Shaped into one; tending to, or formative into, unity.</def> <mark>[R.]</mark>  <rj><au>Coleridge.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 510 --></p>
 
 <p><ent>Eserine</ent><br/
 <hw>Es"er*ine</hw> <pr>(?; 104)</pr>, <pos>n.</pos> <ety>[From native name of the Calabar bean: cf. F. <ets><eacute/s<eacute/rine</ets>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid found in the Calabar bean, and the seed of <spn>Physostigma venenosum</spn>; physostigmine. It is used in ophthalmic surgery for its effect in contracting the pupil.</def><br/
@@ -22386,8 +22298,6 @@ Than courage.</q> <rj><qau>Denham.</qau></rj><br/
 <p><sn>4.</sn> <def>Containing the essence or characteristic portion of a substance, as of a plant; highly rectified; pure; hence, unmixed; <as>as, an <ex>essential</ex> oil</as>.</def> <ldquo/Mine own <xex>essential</xex> horror.<rdquo/  <rj><au>Ford.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 511 --></p>
-
 <p><sn>5.</sn> <fld>(Mus.)</fld> <def>Necessary; indispensable; -- said of those tones which constitute a chord, in distinction from ornamental or passing tones.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -22849,8 +22759,6 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 <p><ent>Estoppel</ent><br/
 <hw>Es*top"pel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Estop</er>.]</ety> <fld>(Law)</fld> <sd>(a)</sd> <def>A stop; an obstruction or bar to one's alleging or denying a fact contrary to his own previous action, allegation, or denial; an admission, by words or conduct, which induces another to purchase rights, against which the party making such admission can not take a position inconsistent with the admission.</def> <sd>(b)</sd> <def>The agency by which the law excludes evidence to dispute certain admissions, which the policy of the law treats as indisputable.</def>  <rj><au>Wharton.</au> <au>Stephen.</au> <au>Burrill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 512 --></p>
 
 <p><ent>Estovers</ent><br/
 <hw>Es*to"vers</hw> <pr>(<ecr/s*t<omac/"v<etil/rz)</pr>, <pos>n. pl.</pos> <ety>[OF. <ets>estoveir</ets>, <ets>estovoir</ets>, necessary, necessity, need, prop. an infin. meaning to suit, be fit, be necessary. See <er>Stover</er>.]</ety> <fld>(Law)</fld> <def>Necessaries or supplies; an allowance to a person out of an estate or other thing for support; as of wood to a tenant for life, etc., of sustenance to a man confined for felony out of his estate, or alimony to a woman divorced out of her husband's estate.</def>  <rj><au>Blackstone.</au></rj><br/
@@ -23343,8 +23251,6 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 <p><ent>Ethereally</ent><br/
 <hw>E*the"re*al*ly</hw>, <pos>adv.</pos> <def>In an ethereal manner.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 513 --></p>
 
 <p><ent>Etherealness</ent><br/
 <hw>E*the"re*al*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Ethereality.</def><br/
@@ -23864,8 +23770,6 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 <syn><b>Syn. --</b> eukaryotic.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 514 --></p>
-
 <p><ent>Eucharis</ent><br/
 <par/<hw>Eu"cha*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>eucharis</ets> agreeable, Gr. <grk>e'y`charis</grk> See <er>Eucharist</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of South American amaryllidaceous plants with large and beautiful white blossoms.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24271,8 +24175,6 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj><br
 <ent>Euphonic</ent><br/
 <mhw>{ <hw>Eu*phon"ic</hw> <pr>(?)</pr>, <hw>Eu*phon"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Pertaining to, or exhibiting, euphony; agreeable in sound; pleasing to the ear; euphonious; <as>as, a <ex>euphonic</ex> expression; <ex>euphonical</ex> orthography.</as></def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 515 --></p>
 
 <p><ent>Euphonicon</ent><br/
 <hw>Eu*phon"i*con</hw> <pr>(<usl/*f<ocr/n"<icr/*k<ocr/n)</pr>, <pos>n.</pos> <ety>[See <er>Euphony</er>.]</ety> <fld>(Mus.)</fld> <def>A kind of upright piano.</def><br/
@@ -24752,8 +24654,6 @@ By quick contraction or remove.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Eval</ent><br/
 <hw>E"val</hw> <pr>(<emac/"v<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>aevum</ets> lifetime, age, eternity.]</ety> <def>Relating to time or duration.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 516 --></p>
 
 <p><ent>Evaluate</ent><br/
 <hw>E*val"u*ate</hw> <pr>(<esl/*v<acr/l"<usl/*<amac/t)</pr>, <pos>v. t.</pos> <ety>[See <er>Evaluation</er>.]</ety> <def>To fix the value of; to rate; to appraise.</def><br/
@@ -25261,8 +25161,6 @@ Of heaven, the stars that usher <qex>evening</qex> rose.</q> <rj><qau>Milton.</q
 <p><syn><b>Syn.</b> -- Incident; occurrence; adventure; issue; result; termination; consequence; conclusion.</syn>  -- <usage><er>Event</er>, <er>Occurrence</er>, <er>Incident</er>, <er>Circumstance</er>. An <xex>event</xex> denotes that which arises from a preceding state of things. Hence we speak or watching the <xex>event</xex>; of tracing the progress of <xex>events</xex>. An <xex>occurrence</xex> has no reference to any antecedents, but simply marks that which <xex>meets</xex> us in our progress through life, as if by chance, or in the course of divine providence. The things which thus meet us, if important, are usually connected with antecedents; and hence <xex>event</xex> is the leading term. In the <ldquo/Declaration of Independence<rdquo/ it is said, <ldquo/When, in the cource of human <xex>events</xex>, it becomes necessary.<rdquo/ etc. Here, <xex>occurrences</xex> would be out of place. An <xex>incident</xex> is that which <xex>falls into</xex> a state of things to which is does not primarily belong; as, the <xex>incidents</xex> of a journey. The term is usually applied to things of secondary importance. A <xex>circumstance</xex> is one of the things surrounding us in our path of life. These may differ greatly in importance; but they are always <xex>outsiders</xex>, which operate upon us from without, exerting greater or less influence according to their intrinsic importance. A person giving an account of a campaign might dwell on the leading <xex>events</xex> which it produced; might mention some of its striking <xex>occurrences</xex>; might allude to some remarkable <xex>incidents</xex> which attended it; and might give the details of the favorable or adverse <xex>circumstances</xex> which marked its progress.</usage><-- events which produced it? --><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 517  --></p>
-
 <p><ent>Event</ent><br/
 <hw>E*vent"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[F. <ets><eacute/venter</ets> to fan, divulge, LL. <ets>eventare</ets> to fan, fr., L. <ets>e</ets> out + <ets>ventus</ets> wind.]</ety> <def>To break forth.</def> <mark>[Obs.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -25736,8 +25634,6 @@ When death's approach is seen so terrible.</q> <rj><qau>Shak.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Mischieveous; pernicious; injurious; hurtful; destructive; wicked; sinful; bad; corrupt; perverse; wrong; vicious; calamitous.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 518  bad typing! --></p>
-
 <p><ent>Evil</ent><br/
 <hw>E"vil</hw> <pr>(<emac/"v'l)</pr> <pos>n.</pos> <sn>1.</sn> <def>Anything which impairs the happiness of a being or deprives a being of any good; anything which causes suffering of any kind to sentient beings; injury; mischief; harm; -- opposed to <ant>good</ant>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -26187,8 +26083,6 @@ From grateful souls <qex>exact</qex> reward at last</q> <rj><qau>Dryden.</qau></
 <p><ent>Exactor</ent><br/
 <hw>Ex*act"or</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L.: cf. F. <ets>exacteur</ets>.]</ety> <def>One who exacts or demands by authority or right; hence, an extortioner; also, one unreasonably severe in injunctions or demands.</def>  <rj><au>Jer. Taylor.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 519 --></p>
 
 <p><ent>Exactress</ent><br/
 <hw>Ex*act"ress</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>exactrix</ets>.]</ety> <def>A woman who is an exactor.</def> <mark>[R.]</mark>  <rj><au>B. Jonson.</au></rj><br/
@@ -26647,8 +26541,6 @@ Sets spinning.</q> <rj><qau>Mrs. Browning.</qau></rj><br/
 <p><ent>Exauthorize</ent><br/
 <hw>Ex*au"thor*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>ex-</ets> + <ets>authorize</ets>.]</ety> <def>To deprive of authority.</def> <mark>[Obs.]</mark>  <rj><au>Selden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 520 --></p>
 
 <p><ent>Excalceate</ent><br/
 <hw>Ex*cal"ce*ate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>excalceatus</ets>, p. p. of <ets>excalceare</ets> to unshoe. See <er>Calceated</er>.]</ety> <def>To deprive of shoes.</def> <mark>[Obs.]</mark>  <rj><au>Chambers.</au></rj><br/
@@ -27150,8 +27042,6 @@ Is wasteful and ridiculous <qex>excess</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col>Spherical excess</col> <fld>(Geom.)</fld>, <cd>the amount by which the sum of the three angles of a spherical triangle exceeds two right angles. The spherical excess is proportional to the area of the triangle.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 521 --></p>
-
 <p><ent>Excessive</ent><br/
 <hw>Ex*cess"ive</hw> <pr>(<ecr/k*s<ecr/s"<icr/v)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>excessif</ets>.]</ety> <def>Characterized by, or exhibiting, excess; overmuch.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -27519,8 +27409,6 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 
 <p><cs><col>Excluded middle</col>. <fld>(logic)</fld> <cd>The name given to the third of the  <ldquo/three logical axioms,<rdquo/ so-called, namely, to that one which is expressed by the formula: <ldquo/Everything is either A or Not-A.<rdquo/ no third state or condition being involved or allowed. See <cref>Principle of contradiction</cref>, under <er>Contradiction</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 522 --></p>
 
 <p><ent>Exclusion</ent><br/
 <hw>Ex*clu"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>exclusio</ets>: cf. F. <ets>exclusion</ets>. See <er>Exclude</er>.]</ety> <sn>1.</sn> <def>The act of excluding, or of shutting out, whether by thrusting out or by preventing admission; a debarring; rejection; prohibition; the state of being excluded.</def><br/
@@ -27954,8 +27842,6 @@ No whiter page than Addison remains.</q> <rj><qau>Pope.</qau></rj><br/
 
 <p><syn><b>Syn.</b> -- To vindicate; exculpate; absolve; acquit.</syn> <usage> -- To <er>Pardon</er>, <er>Excuse</er>, <er>Forgive</er>. A superior <xex>pardons</xex> as an act of mercy or generosity; either a superior or an equal <xex>excuses</xex>. A crime, great fault, or a grave offence, as one against law or morals, may be <xex>pardoned</xex>; a small fault, such as a failure in social or conventional obligations, slight omissions or neglects may be <xex>excused</xex>. <xex>Forgive</xex> relates to offenses against one's self, and punishment foregone; as, to <xex>forgive</xex> injuries or one who has injured us; to <xex>pardon</xex> grave offenses, crimes, and criminals; to <xex>excuse</xex> an act of forgetfulness, an unintentional offense. <xex>Pardon</xex> is also a word of courtesy employed in the sense of <xex>excuse</xex>.</usage><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 523 --></p>
 
 <p><ent>Excuse</ent><br/
 <hw>Ex*cuse"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>excuse</ets>. See <er>Excuse</er>, <pos>v. t.</pos>]</ety> <sn>1.</sn> <def>The act of excusing, apologizing, exculpating, pardoning, releasing, and the like; acquittal; release; absolution; justification; extenuation.</def><br/
@@ -28494,8 +28380,6 @@ Of saints, the trial of their fortitude.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><col>Exercise bone</col> <fld>(Med.)</fld>, <cd>a deposit of bony matter in the soft tissues, produced by pressure or exertion.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 524 --></p>
-
 <p><ent>Exercise</ent><br/
 <hw>Ex"er*cise</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exercised</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Exercising</conjf> <pr>(?)</pr>.]</vmorph> <sn>1.</sn> <def>To set in action; to cause to act, move, or make exertion; to give employment to; to put in action habitually or constantly; to school or train; to exert repeatedly; to busy.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -28960,8 +28844,6 @@ Like <qex>exhibition</qex> thou shalt have from me.</q> <rj><qau>Shak.</qau></rj
 
 <p><q>I'll end my <qex>exhortation</qex> after dinner.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 525 --></p>
 
 <p><ent>Exhortative</ent><br/
 <hw>Ex*hor"ta*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>exhortativus</ets>: cf. F. <ets>exhortatif</ets>.]</ety> <def>Serving to exhort; exhortatory; hortative.</def>  <rj><au>Barrow.</au></rj><br/
@@ -29492,8 +29374,6 @@ Than if he never did <qex>exist</qex>.</q> <rj><qau>Swift.</qau></rj><br/
 <hw>Ex*or"bi*tate</hw> <pr>(?)</pr>, <pos>v. i.</pos> <ety>[L.<ets>exorbitatus</ets>, p. p. of <ets>exorbitare</ets>. See <er>Exorbitant</er>.]</ety> <def>To go out of the track; to deviate.</def> <mark>[Obs.]</mark>  <rj><au>Bentley.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 526 --></p>
-
 <p><ent>Exorcise</ent><br/
 <hw>Ex"or*cise</hw> <pr>(<ecr/ks"<ocr/r*s<imac/z)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exorcised</conjf> <pr>(-s<imac/zd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Exorcising</conjf> <pr>(-s<imac/`z<icr/ng)</pr>.]</vmorph> <ety>[L. <ets>exorcizare</ets>, Gr. <grk>'exorki`zein</grk>; <grk>'ex</grk> out + <grk>"orki`zein</grk> to make one swear, bind by an oath, fr. <grk>"o`rkos</grk> oath: cf. F. <ets>exorciser</ets>.]</ety> <sn>1.</sn> <def>To cast out, as a devil, evil spirits, etc., by conjuration or summoning by a holy name, or by certain ceremonies; to expel (a demon) or to conjure (a demon) to depart out of a person possessed by one.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -29977,8 +29857,6 @@ The seed of woman.</q> <rj><qau>Milton.</qau></rj><br/
 
 <p><syn><b>Syn.</b> -- Anticipation; confidence; trust.</syn><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 527 --></p>
 
 <p><ent>Expectative</ent><br/
 <hw>Ex*pect"a*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>expectatif</ets>.]</ety> <def>Constituting an object of expectation; contingent.</def><br/
@@ -30481,8 +30359,6 @@ How little weight my words with thee can find.</q> <rj><qau>Milton.</qau></rj><b
 <hw>Ex*per`i*men*ta"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of experimenting; practice by experiment.</def>  <rj><au>J. S. Mill.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 528 --></p>
-
 <p><ent>Experimentative</ent><br/
 <hw>Ex*per`i*men"ta*tive</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Experimental; of the nature of experiment.</def> <mark>[R.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -30972,8 +30848,6 @@ The massy ball and the brass tube unload.</q> <rj><qau>Blackmore.</qau></rj><br/
 <p><sn>2.</sn> <ety>[F. <ets>exploiter</ets>.]</ety> <def>To utilize; to make available; to get the value or usefulness out of; <as>as, to <ex>exploit</ex> a mine or agricultural lands; to <ex>exploit</ex> public opinion.</as></def> <mark>[Recent]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 529 --></p>
-
 <p><sn>3.</sn> <def>Hence: To draw an illegitimate profit from; to speculate on; to put upon.</def> <mark>[Recent]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -31461,8 +31335,6 @@ More than by deeds.</q> <rj><qau>B. Jonson.</qau></rj><br/
 <p><ent>Expressible</ent><br/
 <hw>Ex*press"i*ble</hw> <pr>(-<icr/*b'l)</pr>, <pos>a.</pos> <def>Capable of being expressed, squeezed out, shown, represented, or uttered.</def> -- <wordforms><wf>Express"i*bly</wf>,<pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 530 --></p>
 
 <p><ent>Expression</ent><br/
 <hw>Ex*pres"sion</hw> <pr>(<ecr/ks*pr<ecr/sh"<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>expressio</ets>: cf. F. <ets>expression</ets>.]</ety> <sn>1.</sn> <def>The act of expressing; the act of forcing out by pressure; <as>as, the <ex>expression</ex> of juices or oils</as>; also, of extorting or eliciting; <as>as, a forcible <ex>expression</ex> of truth</as>.</def><br/
@@ -32002,8 +31874,6 @@ Of reach and <qex>exquisite</qex> form.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Extemporiness</ent><br/
 <hw>Ex*tem"po*ri*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The quality of being done or devised extempore</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 531 --></p>
 
 <p><ent>Extemporization</ent><br/
 <hw>Ex*tem`po*ri*za"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The act of extemporizing; the act of doing anything extempore.</def><br/
@@ -32546,8 +32416,6 @@ She [Fancy] forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj><br/
 <p><q>Natural graces that <qex>extinguish</qex> art.</q> <rj><qau>Shak</qau></rj>.<br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 532 --></p>
-
 <p><ent>Extinguishable</ent><br/
 <hw>Ex*tin"guish*a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being quenched, destroyed, or suppressed.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -33048,8 +32916,6 @@ To something <qex>extraordinary</qex> my thoughts.</q> <rj><qau>Milton.</qau></r
 <p><syn><b>Syn.</b> -- Wildness; irregularity; excess; prodigality; profusion; waste; lavishness; unreasonableness; recklessness.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 533 --></p>
-
 <p><ent>Extravagancy</ent><br/
 <hw>Ex*trav"a*gan*cy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Extravagancies</plw> <pr>(<?/)</pr>.</plu> <def>Extravagance.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -33547,8 +33413,6 @@ And leap <qex>exulting</qex> like the bounding roe.</q> <rj><qau>Pope.</qau></rj
 <p><ent>Exuvial</ent><br/
 <hw>Ex*u"vi*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to exuvi<ae/.</def> <ldquo/<xex>Exuvial</xex> layers.<rdquo/ <ldquo/<xex>Exuvial</xex> deposits.<rdquo/<br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 534 --></p>
 
 <p><ent>Exuviate</ent><br/
 <hw>Ex*u"vi*ate</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Exuviated</conjf>, <pos>p. pr. & vb. n.</pos> <conjf>Exuviating</conjf>.]</vmorph> <pr>(<?/)</pr> <ety>[From <er>Exuviae</er>.]</ety> <fld>(Zo<oum/l.)</fld> <def>To shed an old covering or condition preliminary to taking on a new one; to molt.</def><br/

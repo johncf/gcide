@@ -302,9 +302,6 @@ From knocking their heads against hot <qex>Yankee-Doodles</qex>.</q> <rj><qau>Mo
 <hw>Ya"pock</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[Probably from the river <ets>Oyapok</ets>, between French Guiana and Brazil.]</ety> <fld>(Zool.)</fld> <def>A South American aquatic opossum (<spn>Chironectes variegatus</spn>) found in Guiana and Brazil. Its hind feet are webbed, and its fore feet do not have an opposable thumb for climbing. Called also <altname>water opossum</altname>.</def>  <altsp>[Written also <asp>yapack</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1673 --><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Yapon</ent><br/
 <hw>Ya"pon</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>Same as <er>Yaupon</er>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -771,9 +768,6 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Eng. Law)</fld> <def>A book containing annual reports of cases adjudged in the courts of England.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1674 --><br/
-[<source>1913 Webster</source>]</p>
-
 <p><note><hand/ The <xex>Yearbooks</xex> are the oldest English reports extant, beginning with the reign of Edward II., and ending with the reign of Henry VIII. They were published annually, and derive their name from that fact. They consist of eleven parts, or volumes, are written in Law French, and extend over nearly two hundred years. There are, however, several hiatuses, or chasms, in the series.</note>  <rj><au>Kent.</au>  <au>Bouvier.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
@@ -1154,9 +1148,6 @@ First fruits, the green ear and the <qex>yellow</qex> sheaf.</q> <rj><qau>Milton
 
 <p><ent>Yellowwood</ent><br/
 <hw>Yel"low*wood`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>The wood of any one of several different kinds of trees; also, any one of the trees themselves. Among the trees so called are the <spn>Cladrastis tinctoria</spn>, an American leguminous tree; the several species of prickly ash (<gen>Xanthoxylum</gen>); the Australian <spn>Flindersia Oxleyana</spn>, a tree related to the mahogany; certain South African species of <gen>Podocarpus</gen>, trees related to the yew; the East Indian <spn>Podocarpus latifolia</spn>; and the true satinwood (<spn>Chloroxylon Swietenia</spn>).  All these Old World trees furnish valuable timber.</def><br/
-[<source>1913 Webster</source>]</p>
-
-<p><-- p. 1675 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Yellowwort</ent><br/
@@ -1730,9 +1721,6 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 <p><ent>yin and yang</ent><br/
 <hw>yin and yang</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chinese philosophy)</fld> <def>the two fundamental principles, one negative, dark, passive, cold, wet, and feminine (yin) and the other (yang) positive, bright, active, dry, hot and masculine.  The interactions and balance of these forces in people and nature influence their behavior and fate.</def> <au>[RHUD]</au><br/
 [<source>PJC</source>]</p>
-
-<p><-- p. 1676  --><br/
-[<source>1913 Webster</source>]</p>
 
 <p><ent>Yis</ent><br/
 <hw>Yis</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>Yes.</def>  <mark>[Obs.]</mark><br/
@@ -2317,9 +2305,6 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 [<source>1913 Webster</source>]</p>
 
 <p><q>It is fit to read the best authors to <qex>youth</qex> first.</q> <rj><qau>B. Jonson.</qau></rj><br/
-[<source>1913 Webster</source>]</p>
-
-<p><-- p. 1677 --><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Youthful</ent><br/

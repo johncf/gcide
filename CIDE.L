@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 821 --></p>
-
 <p><ent>L</ent><br/
 <hw>L</hw> <pr>(<ecr/l)</pr> <pos>n.</pos> <sn>1.</sn> <def>L is the twelfth letter of the English alphabet, and a vocal consonant. It is usually called a <xex>semivowel</xex> or <xex>liquid</xex>. Its form and value are from the Greek, through the Latin, the form of the Greek letter being from the Ph<oe/nician, and the ultimate origin prob. Egyptian. Etymologically, it is most closely related to <xex>r</xex> and <xex>u</xex>; as in pi<xex>l</xex>grim, pe<xex>r</xex>egrine, co<xex>u</xex>ch (fr. co<xex>ll</xex>ocare), a<xex>u</xex>bura (fr. LL. a<xex>l</xex>burnus).</def><br/
 [<source>1913 Webster</source>]</p>
@@ -449,8 +447,6 @@ This garden.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Laborless</ent><br/
 <hw>La"bor*less</hw> <pr>(l<amac/"b<etil/r*l<ecr/s)</pr>, <pos>a.</pos> <def>Not involving labor; not laborious; easy.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 822 --></p>
 
 <p><ent>Laborous</ent><br/
 <hw>La"bor*ous</hw> <pr>(l<amac/"b<etil/r*<ucr/s)</pr>, <pos>a.</pos> <def>Laborious.</def> <mark>[Obs.]</mark> <au>Wyatt.</au> -- <wordforms><wf>La"bor*ous*ly</wf>, <pos>adv.</pos> <mark>[Obs.]</mark> <au>Sir T. Elyot.</au></wordforms><br/
@@ -918,8 +914,6 @@ Himself he tied.</q> <rj><qau>Spenser.</qau></rj><br/
 
 <p>-- <wordforms><wf>Lach"ry*mose`ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 823 --></p>
 
 <p><ent>Lacing</ent><br/
 <hw>La"cing</hw> <pr>(l<amac/"s<icr/ng)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of securing, fastening, or tightening, with a lace or laces.</def><br/
@@ -1407,8 +1401,6 @@ I think it <qex>lacks</qex> of twelve.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>2.</sn> <fld>(Biol.)</fld> <def>A small opening; a small depression or cavity; a space, as a vacant space between the cells of plants, or one of the spaces left among the tissues of the lower animals, which serve in place of vessels for the circulation of the body fluids, or the cavity or sac, usually of very small size, in a mucous membrane.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 824 --></p>
 
 <p><ent>Lacunar</ent><br/
 <ent>Lacunal</ent><br/
@@ -1926,8 +1918,6 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p><sn>2.</sn> <def>Last; long-delayed; -- obsolete, except in the phrase <xex>lag end</xex>.</def> <ldquo/The <xex>lag end</xex> of my life.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 825 --></p>
 
 <p><sn>3.</sn> <def>Last made; hence, made of refuse; inferior.</def> <mark>[Obs.]</mark> <ldquo/<xex>Lag</xex> souls.<rdquo/  <rj><au>Dryden.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -2495,8 +2485,6 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 <p><cs><col>Lame duck</col> <sd>(a)</sd> <fld>(Stock Exchange)</fld>, <cd>a person who can not fulfill his contracts.</cd> <mark>[Cant]</mark>  <sd>(b)</sd> <cd>An elected politician who is completing a term after having been defeated at an election; also, an office holder who cannot or chooses not to run again for the same office; -- So called from the presumed lack of political power of one who is soon to be out of office.</cd> <sd>(b)</sd> <cd>Any office holder who is serving out a term after a replacement has been selected.</cd></cs><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
 
-<p><-- p. 826 --></p>
-
 <p><ent>Lame</ent><br/
 <hw>Lame</hw> <pr>(l<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Lamed</conjf> <pr>(l<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Laming</conjf>.]</vmorph> <def>To make lame.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2942,8 +2930,6 @@ And grieved to find herself decayed so soon.</q> <rj><qau>Dryden.</qau></rj><br/
 <p><ent>Lamprey</ent><br/
 <hw>Lam"prey</hw> <pr>(l<acr/m"pr<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Lampreys</plw> <pr>(l<acr/m"pr<icr/z)</pr>.</plu> <ety>[OE. <ets>lampreie</ets>, F. <ets>lamproie</ets>, LL. <ets>lampreda</ets>, <ets>lampetra</ets>, from L. <ets>lambere</ets> to lick + <ets>petra</ets> rock, stone. The lampreys are so called because they attach themselves with their circular mouths to rocks and stones, whence they are also called <altname>rocksuckers</altname>. See <er>Lap</er> to drink, <er>Petrify</er>.]</ety> <fld>(Zool.)</fld> <def>An eel-like marsipobranch of the genus <gen>Petromyzon</gen>, and allied genera; called also <altname>lamprey eel</altname> and <altname>lamper eel</altname>.  The lampreys have a round, sucking mouth, without jaws, but set with numerous minute teeth, and one to three larger teeth on the palate (see <xex>Illust.</xex> of <er>Cyclostomi</er>). There are seven small branchial openings on each side.</def> <altsp>[Written also <asp>lamprel</asp>, and <asp>lampron</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 827 --></p>
 
 <p><note><hand/ The common or sea lamprey of America and Europe (<spn>Petromyzon marinus</spn>), which in spring ascends rivers to spawn, is considered excellent food by many, and is sold as a market fish in some localities.  The smaller river lampreys mostly belong to the genus <gen>Ammoc<oe/les</gen>, or <gen>Lampetra</gen>, as <spn>Ammoc<oe/les fluviatilis</spn>, of Europe, and <spn>Ammoc<oe/les <ae/pypterus</spn> of America.  All lampreys attach themselves to other fishes, as parasites, by means of the suckerlike mouth.</note><br/
 [<source>1913 Webster</source>]</p>
@@ -3402,8 +3388,6 @@ The king himself divulged, the <qex>land</qex> believed.</q> <rj><qau>Dryden.</q
 
 <p><sn>2.</sn> <def>The mistress of an inn or lodging house.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 828 --></p>
 
 <p><ent>Land League</ent><br/
 <hw>Land League</hw> <pos>n.</pos> <def>In Ireland, a combination of tenant farmers and other, organized, with <person>Charles Stewart Parnell</person> as president, in 1879 with a view to the reduction of farm rents and a reconstruction of the land laws.</def> -- <wordforms><wf>Land"*lea`guer</wf> <pr>(#)</pr>, <pos>n.</pos> -- <wf>Land"*lea`guism</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms></p>
@@ -3998,8 +3982,6 @@ The sting from pain.</q> <rj><qau>Tennyson.</qau></rj><br/
 <syn><b>Syn. --</b> lanseh, lansat, lanset.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 829 --></p>
-
 <p><ent>Lanseh</ent><br/
 <par/<hw>Lan"seh</hw> <pr>(l<adot/n"s<asl/)</pr>, <pos>n.</pos> <def>The small, yellow to whitish brown berrylike fruit of an East Indian tree (<spn>Lansium domesticum</spn>).  It has a fleshy pulp, with an agreeable tart subacid taste.</def>  <rj><au>Balfour.</au></rj><br/
 <syn><b>Syn. --</b> lansah, lansa, lansat, lanset.</syn><br/
@@ -4444,8 +4426,6 @@ And the wild water <qex>lapping</qex> on the crag.</q> <rj><qau>Tennyson.</qau><
 <p><ent>Lapp</ent><br/
 <hw>Lapp</hw> <pr>(l<acr/p)</pr>, <pos>n.</pos> <def>Same as <er>Laplander</er>.  Cf. <er>Lapps</er>.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 830 --></p>
 
 <p><ent>Lappaceous</ent><br/
 <hw>Lap*pa"ceous</hw> <pr>(l<acr/p*p<amac/"sh<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>lappaceus</ets> burlike, fr. <ets>lappa</ets> a bur.]</ety> <fld>(Bot.)</fld> <def>Resembling the capitulum of burdock; covered with forked points.</def><br/
@@ -4925,8 +4905,6 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 <hw>Lar"i*at</hw> <pr>(l<acr/r"<icr/*<acr/t)</pr>, <pos>n.</pos> <ety>[Sp. <ets>la reata</ets> the rope; <ets>la</ets> the + <ets>reata</ets> rope.  Cf. <er>Reata</er>.]</ety> <def>A long, slender rope made of hemp or strips of hide, esp. one with a noose; -- used as a lasso for catching cattle, horses, etc., and for picketing a horse so that he can graze without wandering.</def> <mark>[Mexico & Western U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 831 --></p>
-
 <p><ent>Lariat</ent><br/
 <hw>Lar"i*at</hw> <pr>(l<acr/r"<icr/*<acr/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Lariated</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Lariating</conjf>.]</vmorph> <def>To secure with a lariat fastened to a stake, as a horse or mule for grazing; also, to lasso or catch with a lariat.</def> <mark>[Western U.S.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -5392,8 +5370,6 @@ To the <qex>lascivious</qex> pleasing of a lute.</q> <rj><qau>Shak.</qau></rj></
 <p><sn>5.</sn> <def>Farthest of all from a given quality, character, or condition; most unlikely; having least fitness; <as>as, he is the <ex>last</ex> person to be accused of theft</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 832 --></p>
-
 <p><cs><col>At last</col>, <cd>at the end of a certain period; after delay.</cd> <ldquo/The duke of Savoy felt that the time had <xex>at last</xex> arrived.<rdquo/ <au>Motley.</au> -- <col>At the last</col>. <ety>[Prob. fr. AS. <ets>on l<amac/ste</ets> behind, following behind, fr. <ets>l<amac/st</ets> race, track, footstep. See <er>Last</er> mold of the foot.]</ety> <cd>At the end; in the conclusion.</cd> <mark>[Obs.]</mark> <ldquo/Gad, a troop shall overcome him; but he shall overcome <xex>at the last</xex>.<rdquo/ <au>Gen. xlix. 19.</au> -- <col>Last heir</col>, <cd>the person to whom lands escheat for lack of an heir.</cd> <mark>[Eng.]</mark> <au>Abbott.</au> -- <col>On one's last legs</col>, <cd>at, or near, the end of one's resources; hence, on the verge of failure or ruin, especially in a financial sense.</cd> <mark>[Colloq.]</mark> -- <col>To breathe one's last</col>, <cd>to die.</cd> -- <col>To the last</col>, <cd>to the end; till the conclusion.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -5826,8 +5802,6 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 <hw>lathee</hw> <pos>n.</pos> <def>a heavy stick (often bamboo) bound with iron; used by police in India.</def><br/
 <syn><b>Syn. --</b> lathi.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- p. 833 --></p>
 
 <p><ent>Lather</ent><br/
 <hw>Lath"er</hw> <pr>(l<acr/<th/"<etil/r)</pr>, <pos>n.</pos> <ety>[AS. <ets>le<aacute/<edh/or</ets> niter, in <ets>le<aacute/<edh/orwyrt</ets> soapwort; cf. Icel. <ets>lau<edh/r</ets>; perh. akin to E. <ets>lye</ets>.]</ety>  <sn>1.</sn> <def>Foam or froth made by soap moistened with water.</def><br/
@@ -6346,8 +6320,6 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <fld>(Med.)</fld> <def>Healthy; salubrious; normal; having a disposition to promote healing; not noxious; <as>as, <ex>laudable</ex> juices of the body; <ex>laudable</ex> pus.</as></def>  <rj><au>Arbuthnot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 834 --></p>
-
 <p><ent>Laudableness</ent><br/
 <hw>Laud"a*ble*ness</hw> <pr>(l<add/d"<adot/*b'l*n<ecr/s)</pr>, <pos>n.</pos> <def>The quality of being laudable; praiseworthiness; commendableness.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -6857,8 +6829,6 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 <syn><b>Syn. --</b> genus <gen>Lavatera</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 835 --></p>
-
 <p><ent>Lavatic</ent><br/
 <hw>La*vat"ic</hw> <pr>(l<adot/*v<acr/t"<icr/k)</pr>, <pos>a.</pos> <def>Like lava, or composed of lava; lavic.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -7205,8 +7175,6 @@ where each distance (line third) is the sum of 4 and a multiple of 3 by the seri
 <hw>law-makers</hw> <pos>n. pl.</pos> <def>Those persons who make or amend or repeal laws, collectively.</def><br/
 <syn><b>Syn. --</b> legislature, legislative assembly, general assembly.</syn><br/
 [<source>WordNet 1.5</source>]</p>
-
-<p><-- p. 836 --></p>
 
 <p><ent>Lawmaking</ent><br/
 <hw>Law"mak`ing</hw> <pr>(l<add/"m<amac/`k<icr/ng)</pr>, <pos>a.</pos> <def>Enacting laws; legislative.</def> -- <def2><pos>n.</pos> <def>The enacting of laws; legislation.</def></def2><br/
@@ -7723,8 +7691,6 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>Wicked; vicious.</def> <mark>[Obs. or Prov. Eng.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 837 --></p>
-
 <p><cs><col>Lazy tongs</col>, <cd>a system of jointed bars capable of great extension, originally made for picking up something at a distance, now variously applied in machinery.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Idle; indolent; sluggish; slothful. See <er>Idle</er>.</syn><br/
@@ -8119,8 +8085,6 @@ A life that <qex>leads</qex> melodious days.</q> <rj><qau>Tennyson.</qau></rj><b
 
 <p><q> They were both determined <qex>to turn over a new leaf</qex>.</q> <rj><qau>Richardson.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 838 --></p>
 
 <p><ent>Leaf out</ent><br/
 <ent>Leaf</ent><br/
@@ -8570,8 +8534,6 @@ To make perfumes ?</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><cs><col>To learn by heart</col>. <cd>See <cref>By heart</cref>, under <er>Heart</er>.</cd> -- <col>To learn by rote</col>, <cd>to memorize by repetition without exercise of the understanding.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 839 --></p>
 
 <p><ent>Learnable</ent><br/
 <hw>Learn"a*ble</hw> <pr>(l<etil/rn"<adot/*b'l)</pr>, <pos>a.</pos> <def>Such as can be learned.</def><br/
@@ -9148,8 +9110,6 @@ That <qex>leaves</qex> the print of blood where'er it walks.</q> <rj><qau>Shak.<
 <hw>Lec"tion*a*ry</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-ries</plw> <pr>(#)</pr>.</plu> <ety>[LL. <ets>lectionarium</ets>, <ets>lectionarius</ets> : cf. F. <ets>lectionnaire</ets>.]</ety> <fld>(Eccl.)</fld> <def>A book, or a list, of lections, for reading in divine service.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 840 pr=VMG --></p>
-
 <p><ent>Lector</ent><br/
 <hw>Lec"tor</hw> <pr>(l<ecr/k"t<ocr/r)</pr>, <pos>n.</pos> <ety>[L. See <er>Lection</er>.]</ety> <fld>(Eccl.)</fld> <def>A reader of lections; formerly, a person designated to read lessons to the illiterate.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -9686,8 +9646,6 @@ Eyed them askance.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><col>A good leg</col> <fld>(Naut.)</fld>, <cd>a course sailed on a tack which is near the desired course.</cd> -- <col>Leg bail</col>, <cd>escape from custody by flight.</cd> <mark>[Slang]</mark> -- <col>Legs of an hyperbola</col> (or other curve) <fld>(Geom.)</fld>, <cd>the branches of the curve which extend outward indefinitely.</cd> -- <col>Legs of a triangle</col>, <cd>the sides of a triangle; -- a name seldom used unless one of the sides is first distinguished by some appropriate term; <as>as, the hypotenuse and two <ex>legs</ex> of a right-angled triangle</as>.</cd> <col>On one's legs</col>, <cd>standing to speak.</cd> -- <col>On one's last legs</col>. <cd>See under <er>Last</er>.</cd> -- <col>To have legs</col> <fld>(Naut.)</fld>, <cd>to have speed.</cd><-- also, to have endurance, to continue longer than usual. --> -- <col>To stand on one's own legs</col>, <cd>to support one's self; to be independent.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 841 pr=VMG --></p>
-
 <p><ent>Leg</ent><br/
 <hw>Leg</hw> <pr>(l<ecr/g)</pr>, <pos>v. t.</pos> <def>To use as a leg, with <xex>it</xex> as object</def>: <sd>(a)</sd> <def>To bow.</def> <mark>[Obs.]</mark> <sd>(b)</sd> <def>To run.</def> <mark>[Low]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -10178,8 +10136,6 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 
 <p><sn>2.</sn> <def>Specifically, a supporter of the claims of the elder branch of the Bourbon dynasty to the crown of France.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 842 pr=VMG --></p>
 
 <p><ent>Legitimize</ent><br/
 <hw>Le*git"i*mize</hw> <pr>(l<esl/*j<icr/t"<icr/*m<imac/z)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Legitimized</conjf> <pr>(-m<imac/zd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Legitimizing</conjf>.]</vmorph> <def>To legitimate.</def><br/
@@ -10740,8 +10696,6 @@ With <qex>length</qex> of days, and every day like this.</q> <rj><qau>Dryden.</q
 <hw>Len`ni-Len*a"pe</hw> <pr>(l<ecr/n`n<icr/-l<ecr/n*<aum/"p<asl/)</pr>, <pos>n. pl.</pos> <fld>(Ethnol.)</fld> <def>A general name for a group of Algonquin tribes which formerly occupied the coast region of North America from Connecticut to Virginia. They included the Mohicans, Delawares, Shawnees, and several other tribes.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 843 pr=VMG --></p>
-
 <p><ent>Leno</ent><br/
 <hw>Le"no</hw> <pr>(l<emac/"n<osl/)</pr>, <pos>n.</pos> <ety>[Cf. It. <ets>leno</ets> weak, flexible.]</ety> <def>A light open cotton fabric used for window curtains.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -11182,8 +11136,6 @@ And with a <qex>Lenten</qex> salad cooled her blood.</q> <rj><qau>Dryden.</qau><
 
 <p><note><hand/ The term <xex>lepra</xex> was formerly given to various skin diseases, the leprosy of modern authors being <stype>Lepra Arabum</stype>. See <er>Leprosy</er>.</note><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 844 pr=VMG --></p>
 
 <p><ent>Lepre</ent><br/
 <hw>Lep"re</hw> <pr>(l<ecr/p"<etil/r)</pr>, <pos>n.</pos> <def>Leprosy.</def> <mark>[Obs.]</mark> <rj><au>Wyclif.</au></rj><br/
@@ -11716,8 +11668,6 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 <hw>Leth"al</hw> <pr>(l<ecr/th"<acr/l)</pr>, <pos>n.</pos> <ety>[<ets>L</ets>auric + <ets>eth</ets>er + <ets>al</ets>cohol.]</ety> <fld>(Chem.)</fld> <def>One of the higher alcohols of the paraffine series obtained from spermaceti as a white crystalline solid. It is so called because it occurs in the ethereal salt of lauric acid.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 845 pr=VMG --></p>
-
 <p><ent>Lethal</ent><br/
 <hw>Le"thal</hw> <pr>(l<emac/"th<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>lethalis</ets>, <ets>letalis</ets>, fr. <ets>lethum</ets>, <ets>letum</ets>, death: cf. F. <ets>l<eacute/thal</ets>.]</ety> <def>Deadly; mortal; fatal.</def> <ldquo/The <xex>lethal</xex> blow.<rdquo/ <au>W. Richardson.</au> -- <wordforms><wf>Le"thal*ly</wf>, <pos>adv.</pos></wordforms><br/
 [<source>1913 Webster</source>]</p>
@@ -12163,8 +12113,6 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 <hw>Le*vant"</hw> <pr>(l<esl/*v<acr/nt")</pr>, <pos>v. i.</pos> <ety>[Cf. Sp. <ets>levantar</ets> to raise, go from one place to another.]</ety> <def>To run away from one's debts; to decamp.</def> <mark>[Colloq. Eng.]</mark> <rj><au>Thackeray.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 846 pr=VMG --></p>
-
 <p><ent>Levanter</ent><br/
 <hw>Le*vant"er</hw> <pr>(l<esl/*v<acr/nt"<etil/r)</pr>, <pos>n.</pos> <ety>[From <er>Levant</er>, <pos>v.</pos>]</ety> <def>One who levants, or decamps.</def> <mark>[Colloq. Eng.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -12582,8 +12530,6 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>2.</sn> <def>A priest; -- so called in contempt or ridicule.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 847 pr=VMG --></p>
 
 <p><ent>Levitical</ent><br/
 <hw>Le*vit"ic*al</hw> <pr>(l<esl/*v<icr/t"<icr/*k<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>Leviticus</ets>, Gr. <grk>Leyitiko`s</grk>.]</ety> <sn>1.</sn> <def>Of or pertaining to a Levite or the Levites.</def><br/
@@ -13087,8 +13033,6 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 <p><sn>2.</sn> <fld>(Law)</fld> <def>To proceed against by filing a libel, particularly against a ship or goods.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 848 pr=VMG --></p>
-
 <p><ent>Libel</ent><br/
 <hw>Li"bel</hw> <pr>(l<imac/"b<ecr/l)</pr>, <pos>v. i.</pos> <def>To spread defamation, written or printed; -- with <ptcl>against</ptcl>.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -13570,8 +13514,6 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 <p><syn><b>Syn.</b> -- Leave; liberty; permission.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 849 pr=VMG --></p>
-
 <p><ent>License</ent><br/
 <hw>Li"cense</hw> <pr>(l<imac/"s<eit/ns)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Licensed</conjf> <pr>(l<imac/"s<eit/nst)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Licensing</conjf>.]</vmorph> <def>To permit or authorize by license; to give license to; <as>as, to <ex>license</ex> a man to preach</as>.</def>  <rj><au>Milton.</au>  <au>Shak.</au></rj><br/
 <syn><b>Syn. --</b> licence, certify.</syn><br/
@@ -13954,8 +13896,6 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p>-- <col>To lie over</col>. <sd>(a)</sd> <cd>To remain unpaid after the time when payment is due, as a note in bank.</cd> <sd>(b)</sd> <cd>To be deferred to some future occasion, as a resolution in a public deliberative body.</cd> -- <col>To lie to</col> <fld>(Naut.)</fld>, <cd>to stop or delay; especially, to head as near the wind as possible as being the position of greatest safety in a gale; -- said of a ship.  Cf. <cref>To bring to</cref>, under <er>Bring</er>.</cd> -- <col>To lie under</col>, <cd>to be subject to; to suffer; to be oppressed by.</cd> -- <col>To lie with</col>. <sd>(a)</sd> <cd>To lodge or sleep with.</cd> <sd>(b)</sd> <cd>To have sexual intercourse with.</cd> <sd>(c)</sd> <cd>To belong to; <as>as, it <ex>lies with</ex> you to make amends</as>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 850 pr=VMG --></p>
 
 <p><ent>Lie</ent><br/
 <hw>Lie</hw> <pr>(l<imac/)</pr>, <pos>n.</pos> <def>The position or way in which anything lies; the lay, as of land or country.</def>  <rj><au>J. H. Newman.</au></rj><br/
@@ -14410,8 +14350,6 @@ We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj><br
 <hw>Lift</hw> <pr>(l<icr/ft)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Lifted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Lifting</conjf>.]</vmorph> <ety>[Icel. <ets>lypta</ets>, fr. <ets>lopt</ets> air; akin to Sw. <ets>lyfta</ets> to lift, Dan. <ets>l<oum/fte</ets>, G. <ets>l<uum/ften</ets>; -- prop., to raise into the air. See <er>Loft</er>, and cf. 1st <er>Lift</er>.]</ety> <sn>1.</sn> <def>To move in a direction opposite to that of gravitation; to raise; to elevate; to bring up from a lower place to a higher; to upheave; sometimes implying a continued support or holding in the higher place; -- said of material things; <as>as, to <ex>lift</ex> the foot or the hand; to <ex>lift</ex> a chair or a burden</as>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 851 pr=VMG --></p>
-
 <p><sn>2.</sn> <def>To raise, elevate, exalt, improve, in rank, condition, estimation, character, etc.; -- often with <xex>up</xex>.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -14854,8 +14792,6 @@ His absent beams, has <qex>lighted</qex> up the sky.</q> <rj><qau>Dryden.</qau><
 
 <p><cs><mcol><col>Light cavalry</col>, <col>Light horse</col></mcol> <fld>(Mil.)</fld>, <cd>light-armed soldiers mounted on strong and active horses.</cd> -- <col>Light eater</col>, <cd>one who eats but little.</cd> -- <col>Light infantry</col>, <cd>infantry soldiers selected and trained for rapid evolutions.</cd> -- <col>Light of foot</col>. <sd>(a)</sd> <cd>Having a light step.</cd> <sd>(b)</sd> <cd>Fleet.</cd> -- <col>Light of heart</col>, <cd>gay, cheerful.</cd> -- <col>Light oil</col> <fld>(Chem.)</fld>, <cd>the oily product, lighter than water, forming the chief part of the first distillate of coal tar, and consisting largely of benzene and toluene.</cd> -- <col>Light sails</col> <fld>(Naut.)</fld>, <cd>all the sails above the topsails, with, also, the studding sails and flying jib.</cd> <au>Dana.</au> -- <col>Light sleeper</col>, <cd>one easily wakened.</cd> -- <col>Light weight</col>, <cd>a prize fighter, boxer, wrestler, or jockey, who is below a standard medium weight.  Cf. <cref>Feather weight</cref>, under <er>Feather</er>.</cd> <mark>[Cant]</mark> -- <col>To make light of</col>, <cd>to treat as of little consequence; to slight; to disregard.</cd> -- <col>To set light by</col>, <cd>to undervalue; to slight; to treat as of no importance; to despise.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 852 pr=VMG --></p>
 
 <p><ent>Light</ent><br/
 <hw>Light</hw> <pr>(l<imac/t)</pr>, <pos>adv.</pos> <def>Lightly; cheaply.</def>  <rj><au>Hooker.</au></rj><br/
@@ -15440,8 +15376,6 @@ Touched <qex>lightly</qex>.</q> <rj><qau>Milton.</qau></rj><br/
 <hw>Lig"ro*in</hw> <pr>(l<icr/g"r<osl/*<icr/n)</pr>, <pos>n.</pos> <def>A trade name applied somewhat indefinitely to some of the volatile products obtained in refining crude petroleum. It is a complex and variable mixture of several hydrocarbons, generally boils below 170<deg/ Fahr., and is more inflammable than safe kerosene. It is used as a solvent, as a carburetant for air gas, and for illumination in special lamps.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 853 pr=VMG --></p>
-
 <p><ent>Ligsam</ent><br/
 <hw>Lig"sam</hw> <pr>(l<icr/g"s<ait/m)</pr>, <pos>n.</pos> <ety>[Cf. D. <ets>liggen</ets> to lie, E. <ets>lie</ets> to be prostrate, and E. <ets>flotsam</ets>, <ets>jetsam</ets>, or <ets>ligan</ets>.]</ety> <def>Same as <er>Ligan</er>.</def>  <rj><au>Brande & C.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -15941,8 +15875,6 @@ By violet-hooded doctors.</q> <rj><qau>Tennyson.</qau></rj><br/
 
 <p><cs><col>Lima bean</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A variety of climbing or pole bean (<spn>Phaseolus lunatus</spn>), which has very large flattish seeds.</cd> <sd>(b)</sd> <cd>The seed of this plant, much used for food.</cd> -- <col>Lima wood</col> <fld>(Bot.)</fld>, <cd>the beautiful dark wood of the South American tree <spn>C<ae/salpinia echinata</spn>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 854 pr=VMG --></p>
 
 <p><ent>Limaceous</ent><br/
 <hw>Li*ma"ceous</hw> <pr>(l<isl/*m<amac/"sh<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>limax</ets>, <ets>limacis</ets>, slug, snail: cf. F. <ets>limac<eacute/</ets>.]</ety> <fld>(Zool.)</fld> <def>Pertaining to, or like, Limax, or the slugs.</def><br/
@@ -16466,8 +16398,6 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>3.</sn> <def>To illumine, as books or parchments, with ornamental figures, letters, or borders.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 855 pr=VMG --></p>
-
 <p><ent>Limnaea</ent><br/
 <par/<hw>Lim*n<ae/"a</hw> <pr>(l<icr/m*n<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>limnai^os</grk> pertaining to a marsh, fr. <grk>li`mh</grk> a marsh.]</ety> <fld>(Zool.)</fld> <def>A genus of fresh-water air-breathing mollusks, abundant in ponds and streams; -- called also <altname>pond snail</altname>.</def> <altsp>[Written also <asp>Lymn<ae/a</asp>.]</altsp><br/
 [<source>1913 Webster</source>]</p>
@@ -16936,8 +16866,6 @@ By very <qex>line</qex>, as of the stock real.</q> <rj><qau>Chaucer.</qau></rj><
 
 <p><cs><col>Hard lines</col>, <cd>hard lot.</cd> <au>C. Kingsley.</au> [See Def. 18.] -- <col>Line breeding</col> <fld>(Stockbreeding)</fld>, <cd>breeding by a certain family line of descent, especially in the selection of the dam or mother.</cd> -- <col>Line conch</col> <fld>(Zool.)</fld>, <cd>a spiral marine shell (<spn>Fasciolaria distans</spn>), of Florida and the West Indies. It is marked by narrow, dark, revolving lines.</cd> -- <col>Line engraving</col>. <sd>(a)</sd> <cd>Engraving in which the effects are produced by lines of different width and closeness, cut with the burin upon copper or similar material; also, a plate so engraved.</cd> <sd>(b)</sd> <cd>A picture produced by printing from such an engraving.</cd> -- <col>Line of battle</col>. <sd>(a)</sd> <fld>(Mil. Tactics)</fld> <cd>The position of troops drawn up in their usual order without any determined maneuver.</cd> <sd>(b)</sd> <fld>(Naval)</fld> <cd>The line or arrangement formed by vessels of war in an engagement.</cd> -- <col>Line of battle ship</col>. <cd>See <cref>Ship of the line</cref>, below.</cd> -- <col>Line of beauty</col> <fld>(Fine Arts)</fld>,<cd>an abstract line supposed to be beautiful in itself and absolutely; -- differently represented by different authors, often as a kind of elongated <it>S</it> (like the one drawn by Hogarth).</cd> -- <col>Line of centers</col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>A line joining two centers, or fulcra, as of wheels or levers.</cd> <sd>(b)</sd> <cd>A line which determines a dead center. See <cref>Dead center</cref>, under <er>Dead</er>.</cd> -- <col>Line of dip</col> <fld>(Geol.)</fld>, <cd>a line in the plane of a stratum, or part of a stratum, perpendicular to its intersection with a horizontal plane; the line of greatest inclination of a stratum to the horizon.</cd> -- <col>Line of fire</col> <fld>(Mil.)</fld>, <cd>the direction of fire.</cd> -- <col>Line of force</col> <fld>(Physics)</fld>, <cd>any line in a space in which forces are acting, so drawn that at every point of the line its tangent is the direction of the resultant of all the forces. It cuts at right angles every equipotential surface which it meets. Specifically <fld>(Magnetism)</fld>, a line in proximity to a magnet so drawn that any point in it is tangential with the direction of a short compass needle held at that point.</cd> <au>Faraday.</au> -- <col>Line of life</col> <fld>(Palmistry)</fld>, <cd>a line on the inside of the hand, curving about the base of the thumb, supposed to indicate, by its form or position, the length of a person's life.</cd> -- <col>Line of lines</col>. <cd>See <er>Gunter's line</er>.</cd> -- <col>Line of march</col>. <fld>(Mil.)</fld> <sd>(a)</sd> <cd>Arrangement of troops for marching.</cd> <sd>(b)</sd> <cd>Course or direction taken by an army or body of troops in marching.</cd> -- <col>Line of operations</col>, <cd>that portion of a theater of war which an army passes over in attaining its object.</cd> <au>H. W. Halleck.</au> -- <col>Line of sight</col> <fld>(Firearms)</fld>, <cd>the line which passes through the front and rear sight, at any elevation, when they are sighted at an object.</cd> -- <col>Line tub</col> <fld>(Naut.)</fld>, <cd>a tub in which the line carried by a whaleboat is coiled.</cd> -- <mcol><col>Mason and Dixon's line</col>, <col>Mason-Dixon line</col></mcol>, <cd>the boundary line between Pennsylvania and Maryland, as run before the Revolution (1764-1767) by two English astronomers named <person>Charles Mason</person> and <person>Jeremiah Dixon</person>. In an extended sense, the line between the free and the slave States; <as>as, below the <ex>Mason-Dixon line</ex>, i.e. in the South</as>.</cd> -- <col>On the line</col>, <sd>(a)</sd> <cd>on a level with the eye of the spectator; -- said of a picture, as hung in an exhibition of pictures.</cd> <sd>(b)</sd> <cd>at risk (dependent upon success) in a contest or enterprise; <as>as, the survival of the company is <ex>on the line</ex> in this project</as>.</cd> -- <col>Right line</col>, <cd>a straight line; the shortest line that can be drawn between two points.</cd> -- <col>Ship of the line</col>, <cd>formerly, a ship of war large enough to have a place in the line of battle; a vessel superior to a frigate; usually, a seventy-four, or three-decker; -- called also <altname>line of battle ship</altname> or <altname>battleship</altname>.</cd> <au>Totten.</au> -- <col>To cross the line</col>, <cd>to cross the equator, as a vessel at sea.</cd> -- <col>To give a person line</col>, <cd>to allow him more or less liberty until it is convenient to stop or check him, like a hooked fish that swims away with the line.</cd> -- <col>Water line</col> <fld>(Shipbuilding)</fld>, <cd>the outline of a horizontal section of a vessel, as when floating in the water.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 856 pr=VMG --></p>
 
 <p><ent>Line</ent><br/
 <hw>Line</hw> <pr>(l<imac/n)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To mark with a line or lines; to cover with lines; <as>as, to <ex>line</ex> a copy book</as>.</def><br/
@@ -17445,8 +17373,6 @@ To deck our soldiers.</q> <rj><qau>Shak.</qau></rj><br/
 <p><sn>2.</sn> <def>Hence: Anything, whether material or not, which binds together, or connects, separate things; a part of a connected series; a tie; a bond.</def> <ldquo/<xex>Links</xex> of iron.<rdquo/ <au>Shak.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 857 pr=VMG --></p>
-
 <p><q>The <qex>link</qex> of brotherhood, by which<br/
 One common Maker bound me to the kind.</q> <rj><qau>Cowper.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -17887,8 +17813,6 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>lipidosis</ent><br/
 <hw>lip`id*o"sis</hw> <pr>(l<icr/p`<icr/d*<omac/"s<icr/s)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>A disorder of lipid metabolism, whether congenital or acquired.</def><br/
 [<source>PJC</source>]</p>
-
-<p><-- p. 858 pr=VMG --></p>
 
 <p><ent>Lipinic</ent><br/
 <hw>Li*pin"ic</hw> <pr>(l<icr/*p<icr/n"<icr/k)</pr>, <pos>a.</pos> <fld>(Chem.)</fld> <def>Lipic.</def><br/
@@ -18427,8 +18351,6 @@ If with too credent ear you <qex>list</qex> his songs.</q> <rj><qau>Shak.</qau><
 <hw>List</hw>, <pos>n.</pos> <ety>[AS. <ets>l<imac/st</ets> a list of cloth; akin to D. <ets>lijst</ets>, G. <ets>leiste</ets>, OHG. <ets>l<imac/sta</ets>, Icel. <ets>lista</ets>, <ets>listi</ets>, Sw. <ets>list</ets>, Dan. <ets>liste</ets>. In sense 5 from F. <ets>liste</ets>, of German origin, and thus ultimately the same word.]</ety> <sn>1.</sn> <def>A strip forming the woven border or selvedge of cloth, particularly of broadcloth, and serving to strengthen it; hence, a strip of cloth; a fillet.</def> <ldquo/Gartered with a red and blue <xex>list</xex>.<rdquo/ <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 859 --></p>
-
 <p><sn>2.</sn> <def>A limit or boundary; a border.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -18926,8 +18848,6 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Lith`i*oph"i*lite</hw> <pr>(l<icr/th`<icr/*<ocr/f"<icr/*l<imac/t)</pr>, <pos>n.</pos> <ety>[<ets>Lithium</ets> + Gr. <grk>fi`los</grk> friend.]</ety> <fld>(Min.)</fld> <def>A phosphate of manganese and lithium; a variety of triphylite.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 860 --></p>
-
 <p><ent>Lithium</ent><br/
 <hw>Lith"i*um</hw> <pr>(l<icr/th"<icr/*<ucr/m)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>li`qeios</grk> of stone, fr. <grk>li`qos</grk> stone.]</ety> <fld>(Chem.)</fld> <def>A metallic element of the alkaline group, occurring in several minerals, as petalite, spodumene, lepidolite, triphylite, etc., and otherwise widely disseminated, though in small quantities.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -19419,8 +19339,6 @@ Of all the <qex>litter</qex> as it lay.</q> <rj><qau>Swift.</qau></rj><br/
 <p><q>The son that she did <qex>litter</qex> here,<br/
 A freckled whelp hagborn.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 861 --></p>
 
 <p><ent>Litter</ent><br/
 <hw>Lit"ter</hw> <pr>(l<icr/t"t<etil/r)</pr>, <pos>v. i.</pos> <sn>1.</sn> <def>To be supplied with litter as bedding; to sleep or make one's bed in litter.</def> <mark>[R.]</mark><br/
@@ -19934,8 +19852,6 @@ He seems.</q> <rj><qau>Milton.</qau></rj><br/
 <p><cs><col>Floating liver</col>. <cd>See <cref>Wandering liver</cref>, under <er>Wandering</er>.</cd> -- <mcol><col>Liver of antimony</col>, <col>Liver of sulphur</col></mcol>. <fld>(Old Chem.)</fld> <cd>See <er>Hepar</er>.</cd> -- <mcol><col>Liver brown</col>, <col>Liver color</col></mcol>, <cd>the color of liver, a dark, reddish brown.</cd> -- <col>Liver shark</col> <fld>(Zool.)</fld>, <cd>a very large shark (<spn>Cetorhinus maximus</spn>), inhabiting the northern coasts both of Europe and North America. It sometimes becomes forty feet in length, being one of the largest sharks known; but it has small simple teeth, and is not dangerous. It is captured for the sake of its liver, which often yields several barrels of oil. It has gill rakers, resembling whalebone, by means of which it separates small animals from the sea water.  Called also <altname>basking shark</altname>, <altname>bone shark</altname>, <altname>hoemother</altname>, <altname>homer</altname>, and <altname>sailfish</altname>; it is sometimes referred to as <altname>whale shark</altname>, but that name is more commonly used for the <spn>Rhincodon typus</spn>, which grows even larger</cd>. -- <col>Liver spots</col>, <cd>yellowish brown patches on the skin, or spots of chloasma.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 862 --></p>
-
 <p><ent>Liver</ent><br/
 <hw>Liv"er</hw> <pr>(l<icr/v"<etil/r)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The glossy ibis (<spn>Ibis falcinellus</spn>); -- said to have given its name to the city of Liverpool.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -20365,8 +20281,6 @@ To town with his ass carry.</q> <rj><qau>Gower.</qau></rj><br/
 <p><q>Those honors deep and broad, wherewith<br/
 Your majesty <qex>loads</qex> our house.</q> <rj><qau>Shak.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 863 --></p>
 
 <p><sn>2.</sn> <def>To adulterate or drug; <as>as, to <ex>load</ex> wine</as>.</def> <mark>[Cant]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -20958,8 +20872,6 @@ A <qex>local</qex> habitation and a name.</q> <rj><qau>Shak.</qau></rj><br/
 and dimension, and that they have nothing to do with grosser <qex>locality</qex>.</q> <rj><qau>Glanvill.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 864 --></p>
-
 <p><sn>2.</sn> <def>Position; situation; a place; a spot; esp., a geographical place or situation, as of a mineral or plant.</def><br/
 [<source>1913 Webster</source>]</p>
 
@@ -21455,8 +21367,6 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 <p><cs><col>Honey locust tree</col> <fld>(Bot.)</fld>, <cd>a tree of the genus <gen>Gleditschia</gen> ) <spn>Gleditschia triacanthus</spn>), having pinnate leaves and strong branching thorns; -- so called from a sweet pulp found between the seeds in the pods. Called also simply <altname>honey locust</altname>.</cd> -- <col>Water locust tree</col> <fld>(Bot.)</fld>, <cd>a small swamp tree (<spn>Gleditschia monosperma</spn>), of the Southern United States.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 865 --></p>
-
 <p><ent>Locution</ent><br/
 <hw>Lo*cu"tion</hw> <pr>(l<osl/*k<umac/"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>locutio</ets>, fr. <ets>loqui</ets> to speak: cf. F. <ets>locution</ets>. ]</ety> <def>Speech or discourse; a phrase; a form or mode of expression.</def> <ldquo/ Stumbling <xex>locutions</xex>.<rdquo/  <rj><au>G. Eliot.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -21924,8 +21834,6 @@ These about phrases forced by ceremony.</q> <rj><qau>Marston.</qau></rj><br/
 <p><ent>Logic</ent><br/
 <hw>Log"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>logike</ets>, F. <ets>logique</ets>, L. <ets>logica</ets>, <ets>logice</ets>, Gr. <grk>logikh`</grk> (sc. <grk>te`chnh</grk>), fr. <grk>logiko`s</grk> belonging to speaking or reason, fr. <grk>lo`gos</grk> speech, reason, <grk>le`gein</grk> to say, speak.  See <er>Legend</er>.]</ety> <sn>1.</sn> <def>The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 866 --></p>
 
 <p><q><qex>Logic</qex> is the science of the laws of thought, as thought; that is, of the necessary conditions to which thought, considered in itself, is subject.</q> <rj><qau>Sir W. Hamilton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -22486,8 +22394,6 @@ Doth walk in fear and dread.</q> <rj><qau>Coleridge.</qau></rj><br/
 <p><ent>Long</ent><br/
 <hw>Long</hw> <pr>(?)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Longer</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Longest</adjf> <pr>(?)</pr>.]</amorph> <ety>[AS. <ets>long</ets>, <ets>lang</ets>; akin to OS, OFries., D., & G. <ets>lang</ets>, Icel. <ets>langr</ets>, Sw. <ets>l<aring/ng</ets>, Dan. <ets>lang</ets>, Goth. <ets>laggs</ets>, L. <ets>longus</ets>.  <root/125.  Cf. <er>Length</er>, <er>Ling</er> a fish, <er>Linger</er>, <er>Lunge</er>, <er>Purloin</er>.]</ety> <sn>1.</sn> <def>Drawn out in a line, or in the direction of length; protracted; extended; <as>as, a <ex>long</ex> line; -- opposed to <ex>short</ex>, and distinguished from <ex>broad</ex> or <ex>wide</ex>.</as></def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 867 --></p>
 
 <p><sn>2.</sn> <def>Drawn out or extended in time; continued through a considerable tine, or to a great length; <as>as, a <ex>long</ex> series of events; a <ex>long</ex> debate; a <ex>long</ex> drama; a <ex>long</ex> history; a <ex>long</ex> book.</as></def><br/
 [<source>1913 Webster</source>]</p>
@@ -23070,8 +22976,6 @@ While the dull moral lies too plain below.</q> <rj><qau>Addison.</qau></rj><br/
 <p><ent>Loo</ent><br/
 <hw>Loo</hw> <pr>(l<oomac/)</pr>, <pos>n.</pos> <ety>[For older <ets>lanterloo</ets>, F. <ets>lanturelu</ets>, <ets>lanturlu</ets>, name of the game; orig., the refrain of a vaudeville.]</ety> <sd>(a)</sd> <def>An old game played with five, or three, cards dealt to each player from a full pack.  When five cards are used the highest card is the knave of clubs or (if so agreed upon) the knave of trumps; -- formerly called <altname>lanterloo</altname>.</def> <sd>(b)</sd> <def>A modification of the game of <ldquo/all fours<rdquo/ in which the players replenish their hands after each round by drawing each a card from the pack.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 868 --></p>
 
 <p><cs><col>Loo table</col>, <cd>a round table adapted for a circle of persons playing loo.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
@@ -23671,8 +23575,6 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Loose"strife`</hw> <pr>(l<oomac/s"str<imac/f`)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <sd>(a)</sd> <def>The name of several species of plants of the genus <gen>Lysimachia</gen>, having small star-shaped flowers, usually of a yellow color.</def> <sd>(b)</sd> <def>Any species of the genus <gen>Lythrum</gen>, having purple, or, in some species, crimson flowers.</def> <au>Gray.</au><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 869 --></p>
-
 <p><cs><col>False loosestrife</col>, <cd>a plant of the genus <gen>Ludwigia</gen>, which includes several species, most of which are found in the United States.</cd> -- <col>Tufted loosestrife</col>, <cd>the plant <spn>Lysimachia thyrsiflora</spn>, found in the northern parts of the United States and in Europe.</cd>  <rj><au>Gray.</au></rj></cs><br/
 [<source>1913 Webster</source>]</p>
 
@@ -24157,8 +24059,6 @@ My quondam barber.</q> <rj><qau>Dryden.</qau></rj><br/
 <par/<hw>Lor`i*ca"ta</hw> <pr>(l<ocr/r`<icr/*k<amac/"t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL. See <er>Loricate</er>.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A suborder of edentates, covered with bony plates, including the armadillos.</def> <sd>(b)</sd> <def>The crocodilia.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 870 --></p>
-
 <p><ent>Loricate</ent><br/
 <hw>Lor"i*cate</hw> <pr>(l<ocr/r"<icr/*k<amac/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Loricated</conjf> <pr>(l<ocr/r"<icr/*k<amac/t`<ecr/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Loricating</conjf> <pr>(l<ocr/r"<icr/*k<amac/`t<icr/ng)</pr>.]</vmorph> <ety>[L. <ets>loricatus</ets>, p. p. of <ets>loricare</ets> to clothe in mail, to cover with plastering, fr. <ets>lorica</ets> a leather cuirass, a plastering, fr. <ets>lorum</ets> thong.]</ety> <def>To cover with some protecting substance, as with lute{1}, a crust, coating, or plates.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -24599,8 +24499,6 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 
 <p><cs><col>European lotus</col>, <cd>a small tree (<spn>Diospyros Lotus</spn>) of Southern Europe and Asia; also, its rather large bluish black berry, which is called also the <altname>date plum</altname>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 871 --></p>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <def>An ornament much used in Egyptian architecture, generally asserted to have been suggested by the Egyptian water lily.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -25138,8 +25036,6 @@ The pretty follies that themselves commit.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>4.</sn> <def>One who is involved in a sexual relationship with another; <as>as, she took a <ex>lover</ex>.</as></def><br/
 [<source>PJC</source>]</p>
-
-<p><-- p. 872 --></p>
 
 <p><ent>Lovery</ent><br/
 <ent>Lover</ent><br/
@@ -25908,8 +25804,6 @@ To his one love his <qex>loyalty</qex> he saved.</q> <rj><qau>Spenser.</qau></rj
 <p><cs><col>Lozenge coach</col>, <cd>the coach of a dowager, having her coat of arms painted on a lozenge.</cd> <mark>[Obs.]</mark> <au>Walpole.</au> -- <col>Lozenge-molding</col> <fld>(Arch.)</fld>, <cd>a kind of molding, used in Norman architecture, characterized by lozenge-shaped ornaments.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 873 --></p>
-
 <p><ent>Lozenge-shaped</ent><br/
 <ent>Lozenged</ent><br/
 <mhw>{ <hw>Loz"enged</hw> <pr>(l<ocr/z"<ecr/njd)</pr>, <hw>Loz"enge-shaped`</hw> <pr>(-sh<amac/pt)</pr> }</mhw>, <pos>a.</pos> <def>Having the form of a lozenge or rhomb.</def><br/
@@ -26469,8 +26363,6 @@ He beats thee 'gainst the odds.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col>Luff tackle</col>, <cd>a purchase composed of a double and single block and fall, used for various purposes.</cd> <au>Totten.</au> -- <col>Luff upon luff</col>, <cd>a luff tackle attached to the fall of another luff tackle.</cd> <au>R. H. Dana, Jr.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 874 --></p>
-
 <p><ent>Luff</ent><br/
 <hw>Luff</hw> <pr>(l<ucr/f)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Luffed</conjf> <pr>(l<ucr/ft)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Luffing</conjf>.]</vmorph> <sn>1.</sn> <fld>(Naut.)</fld> <def>To turn the head of a vessel toward the wind; to sail nearer the wind; to turn the tiller so as to make the vessel sail nearer the wind.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -26982,8 +26874,6 @@ As beaten hence by your strange <qex>lunacy</qex>.</q> <rj><qau>Shak.</qau></rj>
 <p><syn><b>Syn.</b> -- Derangement; craziness; mania. See <er>Insanity</er>.</syn><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 875 --></p>
-
 <p><ent>Lunar</ent><br/
 <hw>Lu"nar</hw> <pr>(l<umac/"n<etil/r)</pr>, <pos>a.</pos> <ety>[L. <ets>lunaris</ets>, fr. <ets>luna</ets> the moon. See <er>Luna</er>, and cf. <er>Lunary</er>.]</ety> <sn>1.</sn> <def>Of or pertaining to the moon; <as>as, <ex>lunar</ex> observations</as>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -27401,8 +27291,6 @@ He <qex>lurched</qex> all swords of the garland.</q> <rj><qau>Shak.</qau></rj><b
 <p><ent>Lurch</ent><br/
 <hw>Lurch</hw>, <pos>n.</pos> <ety>[Cf. W. <ets>llerch</ets>, <ets>llerc</ets>, a frisk, a frisking backward or forward, a loitering, a lurking, a lurking, <ets>llercian</ets>, <ets>llerciaw</ets>, to be idle, to frisk; or perh. fr. E. <ets>lurch</ets> to lurk.]</ety> <def>A sudden roll of a ship to one side, as in heavy weather; hence, a swaying or staggering movement to one side, as that by a drunken man.</def> <mark>Fig.</mark>: <def>A sudden and capricious inclination of the mind.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 876 --></p>
 
 <p><ent>Lurch</ent><br/
 <hw>Lurch</hw> <pr>(l<ucir/rch)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Lurched</conjf> <pr>(l<ucir/rcht)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Lurching</conjf>.]</vmorph> <def>To roll or sway suddenly to one side, as a ship or a drunken man; to move forward while lurching.</def><br/
@@ -27979,8 +27867,6 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 <p><ent>Lutidine</ent><br/
 <hw>Lu"ti*dine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <ets>toluidine</ets>, by transposition.]</ety> <fld>(Chem.)</fld> <def>Any one of several metameric alkaloids, <chform>C5H3N.(CH3)2</chform>, of the pyridine series, obtained from bone oil as liquids, and having peculiar pungent odors. These alkaloids are also called respectively <altname>dimethyl pyridine</altname>, <altname>ethyl pyridine</altname>, etc.</def><-- most commonly 2,6-lutidine = 2,6-dimethyl pyridine --><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 877 --></p>
 
 <p><ent>Luting</ent><br/
 <hw>Lut"ing</hw> <pr>(l<umac/t"<icr/ng)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>See <er>Lute</er>, a cement.</def><br/
@@ -28638,8 +28524,6 @@ Nothing of earthly mixture might distain.</q> <rj><qau>Trench.</qau></rj><br/
 <p><ent>Lynx</ent><br/
 <hw>Lynx</hw> <pr>(l<icr/<nsm/ks)</pr>, <pos>n.</pos> <ety>[L. <ets>lynx</ets>, <ets>lyncis</ets>, Gr. <grk>ly`gx</grk>; akin to AS. <ets>lox</ets>, G. <ets>luchs</ets>, prob. named from its sharp sight, and akin to E. <ets>light</ets>. See <er>Light</er>, <pos>n.</pos>, and cf. <er>Ounce</er> an animal.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of several species of feline animals of the genus <gen>Felis</gen>, and subgenus <gen>Lynx</gen>. They have a short tail, and usually a pencil of hair on the tip of the ears.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 878 --></p>
 
 <p><note><hand/ Among the well-known species are the European lynx (<spn>Felis borealis</spn>); the Canada lynx or loup-cervier (<spn>Felis Canadensis</spn> syn. <spn>Lynx lynx</spn>); the bay lynx of America (<spn>Felis rufa</spn>), and its western spotted variety (var. <varn>maculata</varn>); and the pardine lynx (<spn>Felis pardina</spn>) of Southern Europe.</note></p>
 

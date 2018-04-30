@@ -17,8 +17,6 @@
     along with this copy of GCIDE.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-<p><-- p. 1171 --></p>
-
 <p><ent>Q</ent><br/
 <hw>Q</hw> <pr>(k<umac/)</pr>, <def>the seventeenth letter of the English alphabet, has but one sound (that of <xex>k</xex>), and is always followed by <xex>u</xex>, the two letters together being sounded like <xex>kw</xex>, except in some words in which the <xex>u</xex> is silent. See <xex>Guide to Pronunciation</xex>, <sect/ 249. Q is not found in Anglo-Saxon, <xex>cw</xex> being used instead of <xex>qu</xex>; as in <xex>cwic</xex>, quick; <xex>cwen</xex>, queen. The name (k<umac/) is from the French <xex>ku</xex>, which is from the Latin name of the same letter; its form is from the Latin, which derived it, through a Greek alphabet, from the Ph<oe/nician, the ultimate origin being Egyptian.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -378,8 +376,6 @@ That stood for heaven, in mighty <qex>quadrate</qex> joined.</q> <rj><qau>Milton
 <p><ent>Quadricostate</ent><br/
 <hw>Quad`ri*cos"tate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Quadri-</ets> + <ets>costate</ets>.]</ety> <def>Having four ribs.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1172 --></p>
 
 <p><ent>Quadridentate</ent><br/
 <hw>Quad`ri*den"tate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Quadri-</ets> + <ets>dentate</ets>.]</ety> <def>Having four teeth; <as>as, a <ex>quadridentate</ex> leaf</as>.</def><br/
@@ -768,8 +764,6 @@ Stouter hearts than a woman's have <qex>quailed</qex> in this terrible winter.</
 
 <p><cs><col>Bustard quail</col> <fld>(Zool.)</fld>, <cd>a small Asiatic quail-like bird of the genus <gen>Turnix</gen>, as <spn>Turnix taigoor</spn>, a black-breasted species, and the hill <ex>bustard quail</ex> (<spn>Turnix ocellatus</spn>). See <er>Turnix</er>.</cd> -- <col>Button quail</col> <fld>(Zool.)</fld>, <cd>one of several small Asiatic species of Turnix, as <spn>Turnix Sykesii</spn>, which is said to be the smallest game bird of India.</cd> -- <col>Mountain quail</col>. <cd>See under <er>Mountain</er>.</cd> -- <col>Quail call</col>, <cd>a call or pipe for alluring quails into a net or within range.</cd> -- <col>Quail dove</col> <fld>(Zool.)</fld>, <cd>any one of several American ground pigeons belonging to <gen>Geotrygon</gen> and allied genera.</cd> -- <col>Quail hawk</col> <fld>(Zool.)</fld>, <cd>the New Zealand sparrow hawk (<spn>Hieracidea Nov<ae/-Hollandi<ae/</spn>).</cd> -- <col>Quail pipe</col>. <cd>See <cref>Quail call</cref>, above.</cd> -- <col>Quail snipe</col> <fld>(Zool.)</fld>, <cd>the dowitcher, or red-breasted snipe; -- called also <altname>robin snipe</altname>, and <altname>brown snipe</altname>.</cd> -- <col>Sea quail</col> <fld>(Zool.)</fld>, <cd>the turnstone.</cd> <mark>[Local, U. S.]</mark></cs><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1173 --></p>
 
 <p><ent>Quaily</ent><br/
 <hw>Quail"y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Quail</er> the bird.]</ety> <fld>(Zool.)</fld> <def>The upland plover.</def> <mark>[Canadian]</mark><br/
@@ -1161,8 +1155,6 @@ On holy garbage, though by Homer cooked?</q> <rj><qau>Roscommon.</qau></rj><br/
 <p><cs><col>Quantity of estate</col> <fld>(Law)</fld>, <cd>its time of continuance, or degree of interest, as in fee, for life, or for years.</cd> <au>Wharton (Law Dict. )</au> -- <col>Quantity of matter</col>, <cd>in a body, its mass, as determined by its weight, or by its momentum under a given velocity.</cd> -- <col>Quantity of motion</col> <fld>(Mech.)</fld>, <cd>in a body, the relative amount of its motion, as measured by its momentum, varying as the product of mass and velocity.</cd> -- <col>Known quantities</col> <fld>(Math.)</fld>, <cd>quantities whose values are given.</cd> -- <col>Unknown quantities</col> <fld>(Math.)</fld>, <cd>quantities whose values are sought.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1174 --></p>
-
 <p><ent>Quantivalence</ent><br/
 <hw>Quan*tiv"a*lence</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quant</ets>us how much + E. <ets>valence</ets>.]</ety> <fld>(Chem.)</fld> <def>Valence.</def> <mark>[Archaic]</mark><br/
 [<source>1913 Webster</source>]</p>
@@ -1489,8 +1481,6 @@ The cumbrous elements.</q> <rj><qau>Milton.</qau></rj><br/
 <p><ent>Quarter</ent><br/
 <hw>Quar"ter</hw> <pr>(kw<aum/r"t<etil/r)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Quartered</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Quartering</conjf>.]</vmorph> <sn>1.</sn> <def>To divide into four equal parts.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1175 --></p>
 
 <p><sn>2.</sn> <def>To divide; to separate into parts or regions.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1995,8 +1985,6 @@ Though huge as mountains, are in pieces dashed.</q> <rj><qau>Waller.</qau></rj><
 <hw>Quea"si*ness</hw>, <pos>n.</pos> <def>The state of being queasy; nausea; qualmishness; squeamishness.</def>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1176 --></p>
-
 <p><ent>Queasy</ent><br/
 <hw>Quea"sy</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Icel. <ets>kweisa</ets> pain; cf. Norw. <ets>kveis</ets> sickness after a debauch.]</ety> <sn>1.</sn> <def>Sick at the stomach; affected with nausea; inclined to vomit; qualmish.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2440,8 +2428,6 @@ She will not <qex>quench</qex>!</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><note><hand/ The male is remarkable for the brilliant metallic green and gold colors of his plumage, and for his extremely long plumes, which often exceed three feet in length.</note><-- The feathers were valued as part of the dress of Inca kings. Now usu. called quetzal. --><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1177 --></p>
 
 <p><ent>Quest</ent><br/
 <hw>Quest</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>queste</ets>, F. <ets>qu<ecir/te</ets>, fr. L. <ets>quaerere</ets>, <ets>quaesitum</ets>, to seek for, to ask.  Cf. <er>Query</er>, <er>Question</er>.]</ety> <sn>1.</sn> <def>The act of seeking, or looking after anything; attempt to find or obtain; search; pursuit; <as>as, to rove in <ex>quest</ex> of game, of a lost child, of property, etc.</as></def><br/
@@ -2932,8 +2918,6 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 <p><q>Life hath <qex>quicksands</qex>, -- Life hath snares!</q> <rj><qau>Longfellow.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1178 --></p>
-
 <p><ent>Quick-scented</ent><br/
 <hw>Quick"-scent`ed</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Acute of smell.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3393,8 +3377,6 @@ With a bare bodkin.</q> <rj><qau>Shak.</qau></rj><br/
 <hw>Quin*dec"one</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quindecim</ets> fifteen.]</ety> <fld>(Chem.)</fld> <def>An unsaturated hydrocarbon, <chform>C15H26</chform>, of the valylene series, produced artificially as an oily liquid.</def> <altsp>[Written also <asp>quindekone</asp>.]</altsp><-- now quindecene??--><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1179 --></p>
-
 <p><ent>Quindecylic</ent><br/
 <hw>Quin`de*cyl"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>quindecim</ets> fifteen + <ets>-yl</ets>.]</ety> <fld>(Chem.)</fld> <def>Pertaining to, or designating, an acid of the fatty acid series, containing fifteen atoms of carbon; called also <altname>pentadecylic</altname> acid.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -3809,8 +3791,6 @@ But all his merry <qex>quips</qex> are o'er.</q> <rj><qau>Tennyson.</qau></rj><b
 <p><ent>Quire</ent><br/
 <hw>Quire</hw>, <pos>v. i.</pos> <def>To sing in concert.</def> <mark>[R.]</mark>  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1180 --></p>
 
 <p><ent>Quire</ent><br/
 <hw>Quire</hw> <pr>(kw<imac/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>quaer</ets>, <ets>quair</ets>, OF. <ets>quayer</ets>, <ets>cayer</ets>, <ets>ca<ium/er</ets>, F. <ets>cahier</ets>, a book of loose sheets, a quarter of a quire, LL. <ets>quaternus</ets>, <ets>quaternum</ets>, sheets of paper packed together, properly, four together, fr. L. <ets>quaterni</ets> four each, by fours, <ets>quattuor</ets> four.  See <er>Four</er> and cf. <er>Cahier</er>.]</ety> <def>A collection of twenty-four sheets of paper of the same size and quality, unfolded or having a single fold; one twentieth of a ream.</def><br/
@@ -4333,8 +4313,6 @@ And <qex>quiver</qex>, with three-bolted thunder stored.</q> <rj><qau>Milton.</q
 
 <p><sn>2.</sn> <def>That which is quoted or cited; a part of a book or writing named, repeated, or adduced as evidence or illustration.</def>  <rj><au>Locke.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 1181 --></p>
 
 <p><sn>3.</sn> <fld>(Com.)</fld> <def>The naming or publishing of the current price of stocks, bonds, or any commodity; also, the price named.</def></p>
 

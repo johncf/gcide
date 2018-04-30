@@ -185,8 +185,6 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><sn>10.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A flag, containing only the union, without the fly, usually hoisted on a jack staff at the bowsprit cap; -- called also <altname>union jack</altname>. The American <xex>jack</xex> is a small blue flag, with a star for each State.</def> <sd>(b)</sd> <def>A bar of iron athwart ships at a topgallant masthead, to support a royal mast, and give spread to the royal shrouds; -- called also <altname>jack crosstree</altname>.</def>  <rj><au>R. H. Dana, Jr.</au></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 795 --></p>
-
 <p><sn>11.</sn> <def>The knave of a suit of playing cards.</def></p>
 
 <p><sn>12.</sn> <pluf>(pl.)</pluf> <def>A game played with small (metallic, with tetrahedrally oriented spikes) objects (the jacks(1950+), formerly jackstones) that are tossed, caught, picked up, and arranged on a horizontal surface in various patterns; in the modern American game, the movements are accompanied by tossing or bouncing a rubber ball on the horizontal surface supporting the jacks. same as <altname>jackstones</altname>.</def><br/
@@ -603,8 +601,6 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <p><ent>Jactancy</ent><br/
 <hw>Jac"tan*cy</hw> <pr>(j<acr/k"t<ait/n*s<ycr/)</pr>, <pos>n.</pos> <ety>[L. <ets>jactantia</ets>, fr. <ets>jactans</ets>, p. pr. of <ets>jactare</ets> to throw, boast, freq. fr. <ets>jacere</ets> to throw; cf. F. <ets>jactance</ets>.]</ety> <def>A boasting; a bragging.</def> <mark>[Obs.]</mark><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 796 --></p>
 
 <p><ent>Jactation</ent><br/
 <hw>Jac*ta"tion</hw> <pr>(j<acr/k*t<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <ety>[L. <ets>jactatio</ets>, fr. <ets>jactare</ets>: af. F. <ets>jactation</ets>. See <er>Jactancy</er>.]</ety> <def>A throwing or tossing of the body; a shaking or agitation.</def>  <rj><au>Sir. W. Temple.</au></rj><br/
@@ -1202,8 +1198,6 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj><br/
 <syn><b>Syn. --</b> jamjar.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 797 --></p>
-
 <p><ent>Jan</ent><br/
 <hw>Jan</hw> <pr>(j<acr/n)</pr>, <pos>n.</pos> <ety>[Ar.]</ety> <fld>(Moham. Myth.)</fld> <def>One of an intermediate order between angels and men.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -1754,8 +1748,6 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col>Blue jaundice</col>. <cd>See <er>Cyanopathy</er>.</cd></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 798 --></p>
-
 <p><ent>Jaundice</ent><br/
 <hw>Jaun"dice</hw> <pr>(?)</pr>, <pos>v. t.</pos> <def>To affect with jaundice; to color by prejudice or envy; to prejudice.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -2305,8 +2297,6 @@ Had lost his art, and kept his ears.</q> <rj><qau>Swift.</qau></rj><br/
 <p><ent>Jenkins</ent><br/
 <hw>Jen"kins</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A name of contempt for a flatterer of persons high in social or official life; <as>as, the <ex>Jenkins</ex> employed by a newspaper</as>.</def> <mark>[Colloq. Eng. & U.S.]</mark>  <rj><au>G. W. Curtis.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 799 --></p>
 
 <p><ent>Jennet</ent><br/
 <hw>Jen"net</hw> <pr>(j<ecr/n"n<ecr/t)</pr>, <pos>n.</pos> <ety>[F. <ets>genet</ets>, Sp. <ets>jinete</ets>, orig., a mounted soldier, Ar. <ets>zen<amac/ta</ets> a tribe of Barbary celebrated for its cavalry.]</ety> <def>A small Spanish horse; a genet.</def><br/
@@ -2882,8 +2872,6 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj><br/
 <p><ent>jet-setting</ent><br/
 <hw>jet-setting</hw> <pos>n.</pos> <def>frequent international travel for pleasure, as contrasted with business.</def><br/
 [<source>PJC</source>]</p>
-
-<p><-- p. 800 --></p>
 
 <p><ent>Jetteau</ent><br/
 <hw>Jet"teau</hw> <pr>(j<ecr/t"t<osl/)</pr>, <pos>n.</pos> <def>See <er>Jet d'eau</er>.</def> <mark>[R.]</mark>  <rj><au>Addison.</au></rj><br/
@@ -3659,8 +3647,6 @@ We 've got the ships, we 've got the men, we 've got the money too.</q>
 <p><sn>4.</sn> <def>Any affair or event which affects one, whether fortunately or unfortunately.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 801 --></p>
-
 <p><sn>5.</sn> <def>A situation or opportunity of work; <as>as, he lost his <ex>job</ex></as>.</def> <mark>[Colloq.]</mark><br/
 [<source>1913 Webster</source>]</p>
 
@@ -4272,8 +4258,6 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj><br/
 <p><cs><col>Coursing joint</col> <fld>(Masonry)</fld>, <cd>the mortar joint between two courses of bricks or stones.</cd> -- <mcol><col>Fish joint</col>, <col>Miter joint</col>, <col>Universal joint</col></mcol>, etc. <cd>See under <er>Fish</er>, <er>Miter</er>, etc.</cd> -- <col>Joint bolt</col>, <cd>a bolt for fastening two pieces, as of wood, one endwise to the other, having a nut embedded in one of the pieces.</cd> -- <col>Joint chair</col> <fld>(Railroad)</fld>, <cd>the chair that supports the ends of abutting rails.</cd> -- <col>Joint coupling</col>, <cd>a universal joint for coupling shafting. See under <er>Universal</er>.</cd> -- <col>Joint hinge</col>, <cd>a hinge having long leaves; a strap hinge.</cd> -- <col>Joint splice</col>, <cd>a re<eum/nforce at a joint, to sustain the parts in their true relation.</cd> -- <col>Joint stool</col>. <sd>(a)</sd> <cd>A stool consisting of jointed parts; a folding stool.</cd> <au>Shak.</au> <sd>(b)</sd> <cd>A block for supporting the end of a piece at a joint; a joint chair.</cd> -- <col>Out of joint</col>, <cd>out of place; dislocated, as when the head of a bone slips from its socket; hence, not working well together; disordered.</cd> <ldquo/The time is <xex>out of joint</xex>.<rdquo/ <au>Shak.</au></cs><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 802 --></p>
-
 <p><ent>Joint</ent><br/
 <hw>Joint</hw> <pr>(joint)</pr>, <pos>a.</pos> <ety>[F., <ets>p. p.</ets> of <ets>joindre</ets>. See <er>Join</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
@@ -4819,8 +4803,6 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>1.</sn> <def>A diary; an account of daily transactions and events.</def> <specif>Specifically:</specif> <sd>(a)</sd> <fld>(Bookkeeping)</fld> <def>A book of accounts, in which is entered a condensed and grouped statement of the daily transactions.</def> <sd>(b)</sd> <fld>(Naut.)</fld> <def>A daily register of the ship's course and distance, the winds, weather, incidents of the voyage, etc.</def>  <sd>(c)</sd> <fld>(Legislature)</fld> <def>The record of daily proceedings, kept by the clerk.</def> <sd>(d)</sd> <def>A newspaper published daily;</def> <specif>by extension</specif>, <def>a weekly newspaper or any periodical publication, giving an account of passing events, the proceedings and memoirs of societies, etc.; a periodical; a magazine.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 803 --></p>
 
 <p><sn>2.</sn> <def>That which has occurred in a day; a day's work or travel; a day's journey.</def> <mark>[Obs. & R.]</mark>  <rj><au>B. Jonson.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5388,8 +5370,6 @@ They were <qex>Judaizing</qex> doctors, who taught the observation of the Mosaic
 <hw>Jud"dock</hw> <pr>(j<ucr/d"d<ocr/k)</pr>, <pos>n.</pos> <ety>[For <ets>judcock</ets>; <ets>jud</ets> (equiv. to Prov. E. <ets>gid</ets> a jacksnipe, W. <ets>giach</ets> snipe) + <ets>cock</ets>.]</ety> <fld>(Zool.)</fld> <def>See <er>Jacksnipe</er>.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 804 --></p>
-
 <p><ent>Judean</ent><br/
 <hw>Ju*de"an</hw> <pr>(j<usl/*d<emac/"<ait/n)</pr>, <pos>a.</pos> <ety>[L. <ets>Judaeus</ets>. See <er>Jew</er>.]</ety> <def>Of or pertaining to Judea.</def> -- <def2><pos>n.</pos> <def>A native of Judea; a Jew.</def></def2><br/
 [<source>1913 Webster</source>]</p>
@@ -5922,8 +5902,6 @@ Men into such strange mysteries?</q> <rj><qau>Shak.</qau></rj><br/
 <p><ent>Jugum</ent><br/
 <par/<hw>Ju"gum</hw> <pr>(j<umac/"g<ucr/m)</pr>, <pos>n.</pos>; <plu><it>pl.</it> L. <plw>Juga</plw> <pr>(j<umac/"g<adot/)</pr>, E. <plw>Jugums</plw> <pr>(#)</pr>.</plu> <ety>[L., a yoke, ridge.]</ety> <fld>(Bot.)</fld> <sd>(a)</sd> <def>One of the ridges commonly found on the fruit of umbelliferous plants.</def> <sd>(b)</sd> <def>A pair of the opposite leaflets of a pinnate plant.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 805 --></p>
 
 <p><ent>Juice</ent><br/
 <hw>Juice</hw> <pr>(j<umac/s)</pr>, <pos>n.</pos> <ety>[OE. <ets>juse</ets>, F. <ets>jus</ets> broth, gravy, juice, L. <ets>jus</ets>; akin to Skr. <ets>y<umac/sha</ets>.]</ety> <def>The characteristic fluid of any vegetable or animal substance; the sap or part which can be expressed from fruit, etc.; the fluid part which separates from meat in cooking.</def><br/
@@ -6551,8 +6529,6 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj><br/
 <syn><b>Syn. --</b> genus <gen>Juniperus</gen>.</syn><br/
 [<source>WordNet 1.5</source>]</p>
 
-<p><-- p. 806 --></p>
-
 <p><ent>Junk</ent><br/
 <hw>Junk</hw> <pr>(j<ucr/<nsm/k)</pr>, <pos>n.</pos> <def>A fragment of any solid substance; a thick piece. See <er>Chunk</er>.</def> <mark>[Colloq.]</mark>  <rj><au>Lowell.</au></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -7046,8 +7022,6 @@ To our own lips.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>4.</sn> <def>Agreeableness to right; equity; justness; <as>as, the <ex>justice</ex> of a claim</as>.</def><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 807 --></p>
 
 <p><sn>5.</sn> <def>A person duly commissioned to hold courts, or to try and decide controversies and administer justice.</def><br/
 [<source>1913 Webster</source>]</p>

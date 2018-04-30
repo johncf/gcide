@@ -171,9 +171,6 @@
 <hw>Xan`tho*rhi"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>xanqo`s</grk> yellow + <grk>"ri`za</grk> root.]</ety> <fld>(Bot.)</fld> <def>A genus of shrubby ranunculaceous plants of North America, including only the species <spn>Xanthorhiza apiifolia</spn>, which has roots of a deep yellow color; yellowroot. The bark is intensely bitter, and is sometimes used as a tonic.</def><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 1671 --><br/
-[<source>1913 Webster</source>]</p>
-
 <p><ent>Xanthorhoea</ent><br/
 <par/<hw>Xan`tho*rhoe"a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>xanqo`s</grk> yellow + <grk>"rei^n</grk> to flow.]</ety> <fld>(Bot.)</fld> <def>A genus of endogenous plants, native to Australia, having a thick, sometimes arborescent, stem, and long grasslike leaves.  See <er>Grass tree</er>.</def><br/
 [<source>1913 Webster</source>]</p>
@@ -738,9 +735,6 @@
 <p><ent>Xylopyrography</ent><br/
 <hw>Xy`lo*py*rog"ra*phy</hw> <pr>(?)</pr>. <pos>n.</pos> <ety>[<ets>Xylo-</ets> + Gr. <?/, <?/, fire + <ets>-graphy</ets>.]</ety> <def>The art or practice of burning pictures on wood with a hot iron; -- called also <altname>wood burning</altname> and <altname>poker painting</altname>.  See <cref>Poker picture</cref>, under <er>Poker</er>.</def><br/
 [<source>1913 Webster</source> + <source>PJC</source>]</p>
-
-<p><-- p. 1672 --><br/
-[<source>1913 Webster</source>]</p>
 
 <p><ent>Xyloquinone</ent><br/
 <hw>Xy`lo*qui"none</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Xyl</ets>ene + <ets>quinone</ets>.]</ety> <fld>(Chem.)</fld> <def>Any one of a group of quinone compounds obtained respectively by the oxidation of certain xylidine compounds. In general they are yellow crystalline substances.</def><br/
