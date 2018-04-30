@@ -5373,7 +5373,8 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj><br/
 <hw>E*late"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>elatus</ets> elevated, fig., elated, proud (the figure, perh., being borrowed from a prancing horse); <ets>e</ets> out + <ets>latus</ets> (used as p. p. of <ets>ferre</ets> to bear), for <ets>tlatus</ets>, and akin to E. <ets>tolerate</ets>. See <er>Tolerate</er>, and cf. <er>Extol</er>.]</ety><br/
 [<source>1913 Webster</source>]</p>
 
-<p><-- p. 476 --> <sn>1.</sn> <def>Lifted up; raised; elevated.</def></p>
+<p><sn>1.</sn> <def>Lifted up; raised; elevated.</def><br/
+[<source>1913 Webster</source>]</p>
 
 <p><q>With upper lip <qex>elate</qex>.</q> <rj><qau>Fenton.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
@@ -5390,7 +5391,8 @@ Sits empress, crowning good, repressing ill.</q> <rj><qau>Sir W. Jones.</qau></r
 Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pope.</qau></rj><br/
 [<source>1913 Webster</source>]</p>
 
-<p><q>Our nineteenth century is wonderfully set up in its own esteem, wonderfully <qex>elate</qex> at its progress.</q> <rj><qau>Mrs. H. H. Jackson.</qau></rj></p>
+<p><q>Our nineteenth century is wonderfully set up in its own esteem, wonderfully <qex>elate</qex> at its progress.</q> <rj><qau>Mrs. H. H. Jackson.</qau></rj><br/
+[<source>1913 Webster</source>]</p>
 
 <p><syn><b>Syn.</b> -- Puffed up; lofty; proud; haughty; exalted; inspirited; transported; delighted; overjoyed.</syn><br/
 [<source>1913 Webster</source>]</p>

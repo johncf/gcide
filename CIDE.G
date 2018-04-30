@@ -13106,8 +13106,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycogen</ent><br/
-<hw>Gly"co*gen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ sweet + <ets>-gen</ets>: cf. F. <ets>glycog<egrave/ne</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A white, amorphous, tasteless substance resembling starch, soluble in water to an opalescent fluid. It is found abundantly in the liver of most animals, and in small quantity in other organs and tissues, particularly in the embryo. It is quickly changed into sugar when boiled with dilute sulphuric or hydrochloric acid, and also by the action of amylolytic ferments.</def>
-<-- polysaccharide, used as a sugar storage substance in animals --><br/
+<hw>Gly"co*gen</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ sweet + <ets>-gen</ets>: cf. F. <ets>glycog<egrave/ne</ets>.]</ety> <fld>(Physiol. Chem.)</fld> <def>A white, amorphous, tasteless substance resembling starch, soluble in water to an opalescent fluid. It is found abundantly in the liver of most animals, and in small quantity in other organs and tissues, particularly in the embryo. It is quickly changed into sugar when boiled with dilute sulphuric or hydrochloric acid, and also by the action of amylolytic ferments.</def><br/
 [<source>1913 Webster</source>]</p>
 
 <p><ent>Glycogenic</ent><br/
@@ -19464,10 +19463,6 @@ Importing health and <qex>graveness</qex>.</q> <rj><qau>Shak.</qau></rj><br/
 
 <p><sn>2.</sn> <def>Sobriety of character or demeanor.</def> <ldquo/Men of <xex>gravity</xex> and learning.<rdquo/  <rj><au>Shak.</au></rj><br/
 [<source>1913 Webster</source>]</p>
-
-<p><-- p. 648 needs proofing ##proof
-- especially italicized words (also in etymologies) are not
- properly marked --></p>
 
 <p><sn>3.</sn> <def>Importance, significance, dignity, etc; hence, seriousness; enormity; <as>as, the <ex>gravity</ex> of an offense</as>.</def><br/
 [<source>1913 Webster</source>]</p>

@@ -170,16 +170,6 @@ A more sophisticated formatting of spaces within paragraphs may require the
 use of the fully-tagged master files.  If you have a need for these files,
 contact Patrick Cassidy: cassidy@micra.com.
 
-The approximate beginning of each page is marked by an SGML comment of the
-form `<-- p. 345 -->`.  (The exact beginning was in some cases in the middle
-of a paragraph, which we decided was not a good location for these
-page-number comments, so the page number was usually moved to the next
-paragraph break).  Pages which have been proofread by volunteers (e.g., with
-initials VOL) will have a note within that page comment: `<-- p. 345 pr=VOL
--->`.  Pages which have not been proofread yet (most of them) will have
-varying numbers of typographical errors in them.  We still (January 2012)
-need proofreaders to get the errors out of these dictionary files.
-
 ### Warning
 
 This version is only a first typing, and has numerous typographic errors,
