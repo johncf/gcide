@@ -1416,27 +1416,8 @@ But never <qex>taint</qex> my love.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Tait</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A small nocturnal and arboreal Australian marsupial (<spn>Tarsipes rostratus</spn>) about the size of a mouse. It has a long muzzle, a long tongue, and very few teeth, and feeds upon honey and insects. Called also <altname>noolbenger</altname>.</def></p>
 </entry>
 
-<entry main-word="Tajacu" source="1913 Webster;;PJC">
-<p><mhw>{ <hw>Ta*ja<cced/"u</hw>, <hw>Ta*jas"su</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>taja<cced/<uacute/</ets>, from Braz. <ets>taya<cced/<uacute/</ets> a hog or swine.]</ety> <fld>(Zool.)</fld> <def>The common, or collared, peccary (<spn>Tayassu tajacu</spn>).  Called also <altname>javelina</altname> and <altname>tayaussa</altname>.</def></p>
-
-<p source="PJC"><q><title>Javelina</title><br/
-Common Names: Collared Peccary, Musk Hog, Tayaussa<br/
-Genus: Tayassu<br/
-Species: tajacu<br/
-<br/
-The <a href="images/javelina.gif">javelina</a> is the only wild pig in North America. It looks exactly like a real pig except a little bigger.  It is a grizzled blackish-gray color with a yellowish band which runs under the neck.  The name <altname>collared peccary</altname> comes from the ruff of hair around its neck.  It has small, round ears and beady eyes. Its body is barrel-shaped with short legs.  Its head is pointed, ending in a disc-like nose. Javelinas have 3 toes on each hind foot. The upper tusks (1.5 inches long) are pointed down, instead of up like some other wild pigs. The javelina grows from 46 to 60 inches long, and can weigh up to 60 pounds.<br/
-<br/
-Javelinas live in the canyon area of the desert. They live there because it is bushy and there are water holes everywhere. They need the bushes for the shade and they need lots of water to live.<br/
-<br/
-The javelina eats cacti, grass, bulbs, berries, flowers, mushrooms, and fruit, which is easy for them to get in their habitat.<br/
-<br/
-The javelina always travel and live in groups. The female gives birth to twins about once a year. Her young travel with the group their whole life until they die. No new members are ever accepted into the group unless they are born into it.<br/
-<br/
-The javelinas have a very good nose. That can have its advantages if there is a predator around. They also look for food in groups so if they're attacked they can fight back in numbers.<br/
-<br/
-The javelina's niche is the water holes and bushes in the canyon area where they live. They get shade under the bushes, so they won't over heat. They can't survive long without water, so it's good to have water close by if you are a javelina.<br/
-<br/
-Javelinas' status in the wild is very good right now. There are lots of them around and they're not dying off or going extinct.</q>  <qau>Tristan A.  (from http://www.blueplanetbiomes.org/javelina.htm, 2000.)</qau></p>
+<entry main-word="Tajacu" source="1913 Webster">
+<p><mhw>{ <hw>Ta*ja<cced/"u</hw>, <hw>Ta*jas"su</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>taja<cced/<uacute/</ets>, from Braz. <ets>taya<cced/<uacute/</ets> a hog or swine.]</ety> <fld>(Zool.)</fld> <def>The common, or collared, peccary (<spn>Tayassu tajacu</spn>). <extra source="PJC">Called also <altname>javelina</altname>.</extra></def></p>
 </entry>
 
 <entry main-word="Taj Mahal" source="Webster 1913 Suppl.">

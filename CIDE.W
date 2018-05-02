@@ -1257,10 +1257,7 @@ The cloth that had wrought.</q> <rj><qau>Percy's Reliques.</qau></rj></p>
 </entry>
 
 <entry main-word="Walk-over" source="1913 Webster">
-<p><hw>Walk"-o`ver</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In racing, the going over a course by a horse which has no competitor for the prize.</def></p>
-
-<p source="1913 Webster;;PJC"><sn>2.</sn> <specif>Hence:</specif> <mark>(colloquially)</mark> <def>A one-sided contest; an uncontested, or an easy, victory.</def><br/
-<syn><b>Syn. --</b> walk; cake-walk.</syn></p>
+<p><hw>Walk"-o`ver</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In racing, the going over a course by a horse which has no competitor for the prize;</def> <specif>hence, colloquially,</specif> <def>a one-sided contest; an uncontested, or an easy, victory.</def>
 </entry>
 
 <entry main-word="Walkyr" source="1913 Webster">
@@ -14333,7 +14330,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A telegraph wire or cable; hence, an electric telegraph; <as>as, to send a message by <ex>wire</ex></as>.</def>  <mark>[Colloq.]</mark></p>
 
-<p source="PJC;;Webster 1913 Suppl."><sn>3.</sn> Chiefly in <pluf>pl.</pluf> <def>The system of wires used to operate the puppets in a puppet show;</def> <specif>hence</specif> <fld>(Chiefly Political Slang)</fld>, <def>the network of hidden influences controlling the action of a person or organization; <as>as, to pull the <ex>wires</ex> for office</as>; -- in this sense, synonymous with <altname>strings</altname>.</def></p>
+<p source="Webster 1913 Suppl."><sn>3.</sn> Chiefly in <pluf>pl.</pluf> <def>The system of wires used to operate the puppets in a puppet show;</def> <specif>hence</specif> <fld>(Chiefly Political Slang)</fld>, <def>the network of hidden influences controlling the action of a person or organization; <as>as, to pull the <ex>wires</ex> for office</as>. <extra source="PJC">In this sense, synonymous with <altname>strings</altname>.</extra></def></p>
 
 <p source="Webster 1913 Suppl."><sn>4.</sn>  <def>One who picks women's pockets.</def> <mark>[Thieves' Slang]</mark></p>
 

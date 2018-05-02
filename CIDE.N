@@ -9560,7 +9560,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="nonextant" source="WordNet 1.5">
 <p><hw>nonextant</hw> <pos>adj.</pos> <def>No longer existing; inaccessible through loss or destruction.</def></p>
 
-<p source=""><q>Its <qex>nonextant</qex> original was written on vellum</q> <qau>G. B. Saul</qau></p>
+<p><q>Its <qex>nonextant</qex> original was written on vellum</q> <qau>G. B. Saul</qau></p>
 </entry>
 
 <entry main-word="Nonextensile" source="1913 Webster">

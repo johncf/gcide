@@ -2679,7 +2679,7 @@ The field of motion, and the hour of rest.</q> <rj><qau>Akenside.</qau></rj></p>
 <p><hw>dateable</hw> <pos>adj.</pos>  <def>that can be given a date.  Opposite of <ant>undatable</ant>.</def> [Narrower terms: <stype>dated</stype>]<br/
 <syn><b>Syn. --</b> datable.</syn></p>
 
-<p source=""><q>a concrete and <qex>dateable</qex> happening</q> <qau>C. W. Shumaker</qau></p>
+<p><q>a concrete and <qex>dateable</qex> happening</q> <qau>C. W. Shumaker</qau></p>
 </entry>
 
 <entry main-word="dated" source="PJC;;WordNet 1.5">
@@ -20077,7 +20077,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj></p>
 <p><hw>dicky</hw> <pos>adj.</pos> <def>Faulty.</def> <mark>[British informal]</mark><br/
 <syn><b>Syn. --</b> dickey.</syn></p>
 
-<p source=""><q>I've got this <qex>dicky</qex> heart</q> <qau>John le Carre</qau></p>
+<p><q>I've got this <qex>dicky</qex> heart</q> <qau>John le Carre</qau></p>
 </entry>
 
 <entry main-word="dicky" source="WordNet 1.5">
@@ -30144,7 +30144,7 @@ To put an antic <qex>disposition</qex> on.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>dispossessed</hw> <pos>adj.</pos> <def>physically or spiritually homeless or deprived of security.</def><br/
 <syn><b>Syn. --</b> homeless, roofless.</syn></p>
 
-<p source=""><q>made a living out of shepherding <ex>dispossessed</ex> people from one country to another</q> <qau>James Stern</qau></p>
+<p><q>made a living out of shepherding <ex>dispossessed</ex> people from one country to another</q> <qau>James Stern</qau></p>
 </entry>
 
 <entry main-word="Dispossession" source="1913 Webster">
@@ -33362,7 +33362,7 @@ Their fiery torcher his <qex>diurnal</qex> ring.</q> <rj><qau>Shak.</qau></rj></
 <entry main-word="Divergence" source="1913 Webster">
 <p><mhw>{ <hw>Di*ver"gence</hw> <pr>(?)</pr>, <hw>Di*ver"gen*cy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>divergence</ets>.]</ety> <sn>1.</sn> <def>A receding from each other in moving from a common center; the state of being divergent; <as>as, an angle is made by the <ex>divergence</ex> of straight lines</as>.</def></p>
 
-<p><q>Rays come to the eye in a state of <qex>divergency</qex>.</q> <rj><qau><?/<?/<?/<?/<?/<?/.</qau></rj></p>
+<p><q>Rays come to the eye in a state of <qex>divergency</qex>.</q> <rj><qau>Paley.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Disagreement; difference.</def></p>
 

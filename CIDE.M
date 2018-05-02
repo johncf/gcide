@@ -33388,7 +33388,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 <p><mhw><hw>motivating</hw> <hw>motivative</hw></mhw> <pos>adj.</pos>  <def>causing motion or impelling to action; providing a motive{2}; <as>as, <ex>motivating</ex> arguments</as>.</def><br/
 <syn><b>Syn. --</b> motive(prenominal).</syn></p>
 
-<p source=""><q>It may well be that ethical language has primarily a <qex>motivative</qex> function</q> <qau>Arthur Pap</qau></p>
+<p><q>It may well be that ethical language has primarily a <qex>motivative</qex> function</q> <qau>Arthur Pap</qau></p>
 </entry>
 
 <entry main-word="motivation" source="PJC">

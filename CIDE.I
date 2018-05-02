@@ -23021,7 +23021,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <p><hw>integrated</hw> <pos>adj.</pos> <sn>1.</sn>  <def>Formed or united into a whole.</def><br/
 <syn><b>Syn. --</b> incorporate, incorporated, merged, unified.</syn></p>
 
-<p source=""><sn>2.</sn> <def>Formed into a whole or introduced into another entity; <as>as, an <ex>integrated</ex> Europe</as>.  Opposite of <ant>nonintegrated</ant>.</def> [Narrower terms: <stype>coordinated</stype>, <stype>interconnected</stype>, <stype>unified</stype>; <stype>embedded</stype>; <stype>incorporated</stype>; <stype>tight-knit</stype>, <stype>tightly knit</stype>]</p>
+<p><sn>2.</sn> <def>Formed into a whole or introduced into another entity; <as>as, an <ex>integrated</ex> Europe</as>.  Opposite of <ant>nonintegrated</ant>.</def> [Narrower terms: <stype>coordinated</stype>, <stype>interconnected</stype>, <stype>unified</stype>; <stype>embedded</stype>; <stype>incorporated</stype>; <stype>tight-knit</stype>, <stype>tightly knit</stype>]</p>
 
 <p><q>a more closely <qex>integrated</qex> economic and political system</q> <qau>Dwight D. Eisenhower</qau></p>
 

@@ -1158,11 +1158,10 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Ha"gi*o*scope`</hw> <pr>(h<amac/"j<icr/*<osl/*sk<omac/p`)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"a`gios</grk> sacred + <ets>-scope</ets>.]</ety> <def>An opening made in the interior walls of a cruciform church to afford a view of the altar to those in the transepts; -- called, in architecture, a <xex>squint</xex>.</def>  <rj><au>Hook.</au></rj></p>
 </entry>
 
-<entry main-word="hag-ridden" source="1913 Webster;;WordNet 1.5">
-<p><mhw><hw>hag"-rid`den</hw>, <hw>hag"rid`den</hw></mhw> <pr>(h<acr/g"r<icr/d`d'n)</pr>, <pos>a.</pos> <def>Ridden by a hag or witch;</def> <specif>hence,</specif> <def>afflicted with nightmares; tormented or harassed by nightmares or unreasonable fears.</def>  <rj><au>Beattie.</au>  <au>Cheyne.</au></rj><br/
-<syn><b>Syn. --</b> tormented.</syn></p>
+<entry main-word="Hag-ridden" source="1913 Webster">
+<p><mhw><hw>Hag"-rid`den</hw>, <hw>hag"rid`den</hw></mhw> <pr>(h<acr/g"r<icr/d`d'n)</pr>, <pos>a.</pos> <def>Ridden by a hag or witch;</def> <specif>hence,</specif> <def>afflicted with nightmares. <extra source="WordNet 1.5">tormented or harassed by nightmares or unreasonable fears.</extra></def>  <rj><au>Beattie.</au>  <au>Cheyne.</au></rj></p>
 
-<p source=""><q><qex>hagridden</qex> . . . by visions of an imminent heaven or hell upon earth</q> <qau>C. S. Lewis</qau></p>
+<p source="WordNet 1.5"><q><qex>hagridden</qex> . . . by visions of an imminent heaven or hell upon earth</q> <qau>C. S. Lewis</qau></p>
 </entry>
 
 <entry main-word="Hagseed" source="1913 Webster">
@@ -4510,7 +4509,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <mark>(Metaph.)</mark> <def>Performed by an inborn pattern of neural circuits; instinctive; not learned; <as>as, many bird songs are <ex>hard-wired</ex>, but some are learned</as>.</def></p>
 
-<p><q>People, as the cybernetic metaphor now has it, are <ldquo/hard wired<rdquo/ to do good in order to enhance their own happiness.</q> <au>Andrew Delbanco (New York Times Magazine, May 7, 2000; p. 46).</au></p>
+<p><q>People, as the cybernetic metaphor now has it, are <ldquo/hard wired<rdquo/ to do good in order to enhance their own happiness.</q> <qau>Andrew Delbanco (New York Times Magazine, May 7, 2000; p. 46).</qau></p>
 </entry>
 
 <entry main-word="hardwood" source="WordNet 1.5">
