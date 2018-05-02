@@ -30315,17 +30315,7 @@ Of this <qex>round</qex> world.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A series of changes or events ending where it began; a series of like events recurring in continuance; a cycle; a periodical revolution; <as>as, the <ex>round</ex> of the seasons; a <ex>round</ex> of pleasures.</as></def></p>
 
-<p><sn>3.</sn> <specif>Hence:</specif> <def>A course ending where it began; a circuit; a beat; especially, one freguently or regulary traversed; also, the act of traversing a circuit; <as>as, a watchman's <ex>round</ex>; the <ex>rounds</ex> of the postman</as>.</def></p>
-
-<p><sn>4.</sn> <def>A series of duties or tasks which must be performed in turn, and then repeated.</def></p>
-
-<p><q>the trivial <qex>round</qex>, the common task.</q> <rj><qau>Keble.</qau></rj></p>
-
-<p source="RH"><sn>5.</sn> <specif>Hence:</specif> <fld>(Mining, Tunneling)</fld> <def>One work cycle, consisting of drilling blast holes, loading them with explosive, blasting, mucking out, and, if necessary, installing temporary support.</def></p>
-
-<p source="PJC"><q> . . . <company>Inco</company> is still much more advanced than other mining companies.  He says that the LKAB mine in <country>Sweden</country> is the closest rival.  He predicts that, by 2008, <company>Inco</company> can reach a new productivity plateau, doubling the current mining productivity from 3,350 tonnes to 6,350 tonnes per person per year. Another aim is to triple the mine cycle rate (the time to drill, blast and muck a <qex>round</qex>) from one cycle to three complete cycles per 24 hours.</q> <qau>http://www.canadianminingjournal.com/issues/apr00/page10.asp</qau></p>
-
-<p><sn>6.</sn> <def>A course of action or conduct performed by a number of persons in turn, or one after another, as if seated in a circle.</def></p>
+<p><sn>3.</sn> <def>A course of action or conduct performed by a number of persons in turn, or one after another, as if seated in a circle.</def></p>
 
 <p><q>Women to cards may be compared: we play<br/
 A <qex>round</qex> or two; which used, we throw away.</q> <rj><qau>Granville.</qau></rj></p>
@@ -30333,40 +30323,46 @@ A <qex>round</qex> or two; which used, we throw away.</q> <rj><qau>Granville.</q
 <p><q>The feast was served; the bowl was crowned;<br/
 To the king's pleasure went the mirthful <qex>round</qex>.</q> <rj><qau>Prior.</qau></rj></p>
 
-<p source="PJC"><sn>7.</sn> <specif>Hence:</specif> <def>A complete set of plays in a game or contest covering a standard number of individual plays or parts; <as>as, a <ex>round</ex> of golf; a <ex>round</ex> of tennis</as>.</def></p>
+<p><sn>4.</sn> <def>A series of duties or tasks which must be performed in turn, and then repeated.</def></p>
 
-<p source="PJC"><sn>8.</sn> <specif>Hence:</specif> <def>One set of games in a tournament.</def></p>
+<p><q>the trivial <qex>round</qex>, the common task.</q> <rj><qau>Keble.</qau></rj></p>
 
-<p><sn>9.</sn> <def>The time during which prize fighters or boxers are in actual contest without an intermission, as prescribed by their rules; a bout.</def></p>
-
-<p><sn>10.</sn> <def>A circular dance.</def></p>
+<p><sn>5.</sn> <def>A circular dance.</def></p>
 
 <p><q>Come, knit hands, and beat the ground,<br/
 In a light fantastic <qex>round</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><sn>11.</sn> <def>That which goes round a whole circle or company; <as>as, a <ex>round</ex> of applause</as>.</def></p>
+<p><sn>6.</sn> <def>That which goes round a whole circle or company; <as>as, a <ex>round</ex> of applause</as>.</def></p>
 
-<p><sn>12.</sn> <def>Rotation, as in office; succession.</def>  <rj><au>Holyday.</au></rj></p>
+<p><sn>7.</sn> <def>Rotation, as in office; succession.</def>  <rj><au>Holyday.</au></rj></p>
 
-<p><sn>13.</sn> <def>The step of a ladder; a rundle or rung; also, a crosspiece which joins and braces the legs of a chair.</def></p>
+<p><sn>8.</sn> <def>The step of a ladder; a rundle or rung; also, a crosspiece which joins and braces the legs of a chair.</def></p>
 
 <p><q>All the <qex>rounds</qex> like Jacob's ladder rise.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>14.</sn> <fld>(Mil.)</fld> <sd>(a)</sd> <def>A walk performed by a guard or an officer round the rampart of a garrison, or among sentinels, to see that the sentinels are faithful and all things safe; also, the guard or officer, with his attendants, who performs this duty; -- usually in the plural.</def> <sd>(b)</sd> <def>A general discharge of firearms by a body of troops in which each soldier fires once.</def> <sd>(c)</sd> <def>One piece of ammunition for a firearm, used by discharging one piece at a time; <as>as, each soldier carried a hundred <ex>rounds</ex> of ammunition</as>.</def></p>
+<p><sn>9.</sn> <def>A course ending where it began; a circuit; a beat; especially, one freguently or regulary traversed; also, the act of traversing a circuit; <as>as, a watchman's <ex>round</ex>; the <ex>rounds</ex> of the postman</as>.</def></p>
 
-<p><sn>15.</sn> <fld>(Mus.)</fld> <def>A short vocal piece, resembling a catch in which three or four voices follow each other round in a species of canon in the unison.</def></p>
+<p source="1913 Webster"><sn>10.</sn> <fld>(Mil.)</fld> <sd>(a)</sd> <def>A walk performed by a guard or an officer round the rampart of a garrison, or among sentinels, to see that the sentinels are faithful and all things safe; also, the guard or officer, with his attendants, who performs this duty; -- usually in the plural.</def> <sd>(b)</sd> <def>A general discharge of firearms by a body of troops in which each soldier fires once.</def> <sd>(c)</sd> <def>Ammunition for discharging a piece or pieces once; <as>as, twenty <ex>rounds</ex> of ammunition</as> were given out.</def></p>
 
-<p><sn>16.</sn> <def>A brewer's vessel in which the fermentation is concluded, the yeast escaping through the bunghole.</def></p>
+<p><sn>11.</sn> <fld>(Mus.)</fld> <def>A short vocal piece, resembling a catch in which three or four voices follow each other round in a species of canon in the unison.</def></p>
 
-<p source="1913 Webster;;PJC"><sn>17.</sn> <def>A vessel filled, as for drinking; <as>as, to drink a <ex>round</ex> od ale together</as>.</def> <mark>[R.]</mark></p>
+<p><sn>12.</sn> <def>The time during which prize fighters or boxers are in actual contest without an intermission, as prescribed by their rules; a bout.</def></p>
 
-<p><sn>18.</sn> <def>An assembly; a group; a circle; <as>as, a <ex>round</ex> of politicians</as>.</def>  <rj><au>Addison.</au></rj></p>
+<p><sn>13.</sn> <def>A brewer's vessel in which the fermentation is concluded, the yeast escaping through the bunghole.</def></p>
 
-<p><sn>19.</sn> <fld>(Naut.)</fld> <def>See <er>Roundtop</er>.</def></p>
+<p><sn>14.</sn> <def>A vessel filled, as for drinking. <extra source="PJC"><as>as, to drink a <ex>round</ex> of ale together</as>.</extra></def> <mark>[R.]</mark></p>
 
-<p><sn>20.</sn> <def>Same as <cref>Round of beef</cref>, below.</def></p>
+<p><sn>15.</sn> <def>An assembly; a group; a circle; <as>as, a <ex>round</ex> of politicians</as>.</def>  <rj><au>Addison.</au></rj></p>
 
-<p><cs><col>Gentlemen of the round</col>. <sd>(a)</sd> <cd>Gentlemen soldiers of low rank who made the rounds. See 10 <sdr>(a)</sdr>, above.</cd>  <sd>(b)</sd> <cd>Disbanded soldiers who lived by begging.</cd> <mark>[Obs.]</mark></p>
+<p><sn>16.</sn> <fld>(Naut.)</fld> <def>See <er>Roundtop</er>.</def></p>
+
+<p><sn>17.</sn> <def>Same as <cref>Round of beef</cref>, below.</def></p>
+
+<p source="PJC"><sn>18.</sn> <def>A complete set of plays in a game or contest covering a standard number of individual plays or parts; <as>as, a <ex>round</ex> of golf; a <ex>round</ex> of tennis</as>.</def></p>
+
+<p source="PJC"><sn>19.</sn> <specif>Hence:</specif> <def>One set of games in a tournament.</def></p>
+
+<p><cs><col>Gentlemen of the round</col>. <sd>(a)</sd> <cd>Gentlemen soldiers of low rank who made the rounds. See <snr>10</snr> <sdr>(a)</sdr>, above.</cd>  <sd>(b)</sd> <cd>Disbanded soldiers who lived by begging.</cd> <mark>[Obs.]</mark></p>
 
 <p><q>Worm-eaten <qex>gentlemen of the round</qex>, such as have vowed to sit on the skirts of the city, let your provost and his half dozen of halberdiers do what they can.</q> <rj><qau>B. Jonson.</qau></rj></p>
 
