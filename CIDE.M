@@ -5787,7 +5787,7 @@ And say to all the world <ldquo/This was a <qex>man</qex>!<rdquo/</q> <rj><qau>S
 <p><q>Young men, in the conduct and <qex>manage</qex> of actions, embrace more than they can hold.</q> <rj><qau>Bacon.</qau></rj></p>
 
 <p><q>Down, down I come; like glistering Phaethon<br/
-Wanting the <qex>manage</qex> of unruly jades.</q>  <rj><au>Shak.</au></rj></p>
+Wanting the <qex>manage</qex> of unruly jades.</q>  <rj><qau>Shak.</qau></rj></p>
 
 <p><q>The unlucky <qex>manage</qex> of this fatal brawl.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -6949,7 +6949,7 @@ His voice, his figure, and his gesture knew.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Manipulation" source="1913 Webster">
 <p><hw>Ma*nip`u*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>manipulation</ets>.]</ety> <sn>1.</sn> <def>The act or process of manipulating, or the state of being manipulated; the act of handling work by hand; use of the hands, in an artistic or skillful manner, in science or art.</def></p>
 
-<p><q><qex>Manipulation</qex> is to the chemist like the external senses to the mind.</q>  <rj><au>Whewell.</au></rj></p>
+<p><q><qex>Manipulation</qex> is to the chemist like the external senses to the mind.</q>  <rj><qau>Whewell.</qau></rj></p>
 
 <p><sn>2.</sn> <def>The use of the hands in mesmeric operations.</def></p>
 

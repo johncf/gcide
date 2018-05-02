@@ -7343,7 +7343,7 @@ Than ever did the adviser.</q> <rj><qau>Burns.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To come to an accounting; to make up accounts; to settle; to examine and strike the balance of debt and credit; to adjust relations of desert or penalty.</def></p>
 
-<p><q><ldquo/Parfay,<rdquo/ sayst thou, <ldquo/sometime he <qex>reckon</qex> shall.<rdquo/</q>  <rj><au>Chaucer.</au></rj></p>
+<p><q><ldquo/Parfay,<rdquo/ sayst thou, <ldquo/sometime he <qex>reckon</qex> shall.<rdquo/</q>  <rj><qau>Chaucer.</qau></rj></p>
 
 <p source="1913 Webster;;PJC"><cs><col>To reckon for</col>, <cd>to answer for; to pay the account for.</cd> <ldquo/If they fail in their bounden duty, they shall <xex>reckon for</xex> it one day.<rdquo/ <au>Bp. Sanderson.</au> -- <mcol><col>To reckon on</col> <col>To reckon upon</col></mcol>, <cd>to count or depend on; to include as a factor within one's considerations.</cd> -- <col>To reckon with</col>, <sd>(a)</sd> <cd>to settle accounts or claims with; -- used literally or figuratively.</cd> <sd>(b)</sd> <cd>to include as a factor in one's plans or calculations; to anticipate.</cd> <sd>(c)</sd> <cd>to deal with; to handle; <as>as, I have to <ex>reckon with</ex> raising three children as well as doing my job</as>.</cd> </p>
 
@@ -12348,7 +12348,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>What man does not remember with <qex>regret</qex> the first time he read Robinson Crusoe?</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p><q>Never any prince expressed a more lively <qex>regret</qex> for the loss of a servant.</q>  <rj><au>Clarendon.</au></rj></p>
+<p><q>Never any prince expressed a more lively <qex>regret</qex> for the loss of a servant.</q>  <rj><qau>Clarendon.</qau></rj></p>
 
 <p><q>From its peaceful bosom [the grave] spring none but fond <qex>regrets</qex> and tender recollections.</q> <rj><qau>W. Irving.</qau></rj></p>
 
@@ -12451,7 +12451,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 <entry main-word="Regulate" source="1913 Webster">
 <p><hw>Reg"u*late</hw> <pr>(-l<amac/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Regulated</conjf> <pr>(-l<amac/`t<ecr/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Regulating</conjf>.]</vmorph> <ety>[L. <ets>regulatus</ets>, p. p. of <ets>regulare</ets>, fr. <ets>regula</ets>. See <er>Regular</er>.]</ety> <sn>1.</sn> <def>To adjust by rule, method, or established mode; to direct by rule or restriction; to subject to governing principles or laws.</def></p>
 
-<p><q>The laws which <qex>regulate</qex> the successions of the seasons.</q>  <rj><au>Macaulay.</au></rj></p>
+<p><q>The laws which <qex>regulate</qex> the successions of the seasons.</q>  <rj><qau>Macaulay.</qau></rj></p>
 
 <p><q>The herdsmen near the frontier adjudicated their own disputes, and <qex>regulated</qex> their own police.</q> <rj><qau>Bancroft.</qau></rj></p>
 
@@ -17179,7 +17179,7 @@ Thou couldst <qex>repress</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Reprieve" source="1913 Webster">
 <p><hw>Re*prieve"</hw> <pr>(r?-pr?v")</pr>, <pos>n.</pos> <sn>1.</sn> <def>A temporary suspension of the execution of a sentence, especially of a sentence of death.</def></p>
 
-<p><q>The morning Sir John Hotham was to die, a <qex>reprieve</qex> was sent to suspend the execution for three days.</q>  <rj><au>Clarendon.</au></rj></p>
+<p><q>The morning Sir John Hotham was to die, a <qex>reprieve</qex> was sent to suspend the execution for three days.</q>  <rj><qau>Clarendon.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Interval of ease or relief; respite.</def></p>
 
@@ -21967,7 +21967,7 @@ Here no bugles sound <qex>reveille</qex>.</q> <rj><qau>Sir W. Scott.</qau></rj><
 <entry main-word="Revel" source="1913 Webster">
 <p><hw>Rev"el</hw>, <pos>n.</pos> <ety>[OF. <ets>revel</ets> rebellion, disorder, feast, sport. See <er>Revel</er>, <pos>v. i.</pos>]</ety> <def>A feast with loose and noisy jollity; riotous festivity or merrymaking; a carousal.</def></p>
 
-<p><q>This day in mirth and <qex>revel</qex> to dispend.</q>  <rj><au>Chaucer.</au></rj></p>
+<p><q>This day in mirth and <qex>revel</qex> to dispend.</q>  <rj><qau>Chaucer.</qau></rj></p>
 
 <p><q>Some men ruin . . . their bodies by incessant <qex>revels</qex>.</q> <rj><qau>Rambler.</qau></rj></p>
 
@@ -26934,7 +26934,7 @@ The <qex>rivals</qex> of my watch, bid them make haste.</q> <rj><qau>Shak.</qau>
 <entry main-word="Rivet" source="1913 Webster">
 <p><hw>Riv"et</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>river</ets> to rivet; perh. fr. Icel. <ets>rifa</ets> to fasten together.  Cf. <er>Reef</er> part of a sail.]</ety> <def>A metallic pin with a head, used for uniting two plates or pieces of material together, by passing it through them and then beating or pressing down the point so that it shall spread out and form a second head; a pin or bolt headed or clinched at both ends.</def></p>
 
-<p><q>With busy hammers closing <qex>rivets</qex> up.</q>  <rj><au>Shak.</au></rj></p>
+<p><q>With busy hammers closing <qex>rivets</qex> up.</q>  <rj><qau>Shak.</qau></rj></p>
 
 <p><cs><mcol><col>Rivet joint</col>, <it>or</it> <col>Riveted joint</col></mcol>, <cd>a joint between two or more pieces secured by rivets.</cd></cs></p>
 </entry>

@@ -15862,7 +15862,7 @@ I <qex>lisped</qex> in numbers, for the numbers came.</q> <rj><qau>Pope.</qau></
 <entry main-word="Lisp" source="1913 Webster">
 <p><hw>Lisp</hw>, <pos>n.</pos> <def>The habit or act of lisping. See <er>Lisp</er>, <pos>v. i.</pos>, <snr>1</snr>.</def></p>
 
-<p><q>I overheard her answer, with a very pretty <qex>lisp</qex>, <ldquo/O! Strephon, you are a dangerous creature.<rdquo/</q>  <rj><au>Tatler.</au></rj></p>
+<p><q>I overheard her answer, with a very pretty <qex>lisp</qex>, <ldquo/O! Strephon, you are a dangerous creature.<rdquo/</q>  <rj><qau>Tatler.</qau></rj></p>
 </entry>
 
 <entry main-word="LISP" source="PJC">
@@ -16909,7 +16909,7 @@ Because their natures are <qex>little</qex>.</q> <rj><qau>Tennyson.</qau></rj></
 
 <p><sn>2.</sn> <def>A small degree or scale; miniature.</def> <ldquo/ His picture in <xex>little</xex>.<rdquo/  <rj><au>Shak.</au></rj></p>
 
-<p><q>A little, to or in a small degree; to a limited extent; somewhat; for a short time. <ldquo/ Stay a <qex>little</qex>.<rdquo/</q>  <rj><au>Shak.</au></rj></p>
+<p><q>A little, to or in a small degree; to a limited extent; somewhat; for a short time. <ldquo/ Stay a <qex>little</qex>.<rdquo/</q>  <rj><qau>Shak.</qau></rj></p>
 
 <p source=""><q>The painter flattered her a <qex>little</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -23869,7 +23869,7 @@ On the misty river tide.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Longing desire; eagerness to possess or enjoy; -- in a had sense; <as>as, the <ex>lust</ex> of gain</as>.</def></p>
 
-<p><q>The <qex>lust</qex> of reigning.</q>  <rj><au>Milton.</au></rj></p>
+<p><q>The <qex>lust</qex> of reigning.</q>  <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Licentious craving; a strong sexual appetite.</def>  <rj><au>Milton.</au></rj></p>
 

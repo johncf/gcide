@@ -7463,7 +7463,7 @@ In all his life, unto no manner wight.</q> <rj><qau>Chaucer.</qau></rj></p>
 
 <p><q>Such <qex>villainies</qex> roused Horace into wrath.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><q>That execrable sum of all <qex>villainies</qex> commonly called a slave trade.</q>  <rj><au>John Wesley.</au></rj></p>
+<p><q>That execrable sum of all <qex>villainies</qex> commonly called a slave trade.</q>  <rj><qau>John Wesley.</qau></rj></p>
 </entry>
 
 <entry main-word="Villakin" source="1913 Webster">

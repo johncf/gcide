@@ -7370,7 +7370,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj></p>
 
 <p><sn>1.</sn> <def>A man of extraordinari bulk and stature.</def></p>
 
-<p><q><qex>Giants</qex> of mighty bone and bold emprise.</q>  <rj><au>Milton.</au></rj></p>
+<p><q><qex>Giants</qex> of mighty bone and bold emprise.</q>  <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A person of extraordinary strength or powers, bodily or intellectual.</def></p>
 
@@ -17262,7 +17262,7 @@ And here and there a grayling.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To yield grass for grazing.</def></p>
 
-<p><q>The ground continueth the wet, whereby it will never <qex>graze</qex> to purpose.</q>  <rj><au>Bacon.</au></rj></p>
+<p><q>The ground continueth the wet, whereby it will never <qex>graze</qex> to purpose.</q>  <rj><qau>Bacon.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To touch something lightly in passing.</def></p>
 </entry>
@@ -21949,7 +21949,7 @@ An fall of lofty foundains.</q> <rj><qau>Byron.</qau></rj></p>
 <entry main-word="Gust" source="1913 Webster">
 <p><hw>Gust</hw> <pr>(g<ucr/st)</pr>, <pos>n.</pos> <ety>[Icel. <ets>gustr</ets> a cool breeze.  Cf. <er>Gush</er>.]</ety> <sn>1.</sn> <def>A sudden squall; a violent blast of wind; a sudden and brief rushing or driving of the wind.</def></p>
 
-<p><q>Snow, and hail, stormy <qex>gust</qex> and flaw.</q>  <rj><au>Milton.</au></rj></p>
+<p><q>Snow, and hail, stormy <qex>gust</qex> and flaw.</q>  <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A sudden violent burst of passion.</def>  <rj><au>Bacon.</au></rj></p>
 </entry>
@@ -21967,7 +21967,7 @@ An fall of lofty foundains.</q> <rj><qau>Byron.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Intellectual taste; fancy.</def></p>
 
-<p><q>A choice of it may be made according to the gust and manner of the ancients.</q>  <rj><au>Dryden.</au></rj></p>
+<p><q>A choice of it may be made according to the gust and manner of the ancients.</q>  <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Gust" source="1913 Webster">

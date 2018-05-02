@@ -20860,7 +20860,7 @@ And black Gehenna called, the type of hell.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Resembling a topic, or general maxim; hence, not demonstrative, but merely probable, as an argument.</def></p>
 
-<p><q>Evidences of fact can be no more than <qex>topical</qex> and probable.</q>  <rj><au>Sir M. Hale.</au></rj></p>
+<p><q>Evidences of fact can be no more than <qex>topical</qex> and probable.</q>  <rj><qau>Sir M. Hale.</qau></rj></p>
 </entry>
 
 <entry main-word="Topically" source="1913 Webster">

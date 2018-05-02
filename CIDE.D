@@ -1090,7 +1090,7 @@ As that proud <qex>dame</qex>, the lord protector's wife.</q> <rj><qau>Shak.</qa
 
 <p><sn>2.</sn> <def>The mistress of a family in common life, or the mistress of a common school; <as>as, a <ex>dame's</ex> school</as>.</def></p>
 
-<p><q>In the <qex>dame's</qex> classes at the village school.</q>  <rj><au>Emerson.</au></rj></p>
+<p><q>In the <qex>dame's</qex> classes at the village school.</q>  <rj><qau>Emerson.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A woman in general, esp. an elderly woman.</def></p>
 
@@ -6965,7 +6965,7 @@ From the dire nation in its early times?</q> <rj><qau>Pope.</qau></rj></p>
 
 <p><q>Two and a half per cent should be <qex>deducted</qex> out of the pay of the foreign troops.</q> <rj><qau>Bp. Burnet.</qau></rj></p>
 
-<p><q>We <qex>deduct</qex> from the computation of our years that part of our time which is spent in . . . infancy.</q>  <rj><au>Norris.</au></rj></p>
+<p><q>We <qex>deduct</qex> from the computation of our years that part of our time which is spent in . . . infancy.</q>  <rj><qau>Norris.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To reduce; to diminish.</def> <mark>[Obs.]</mark> <ldquo/Do not <xex>deduct</xex> it to days.<rdquo/  <rj><au>Massinger.</au></rj></p>
 </entry>
@@ -10691,7 +10691,7 @@ Shall <qex>deluge</qex> all.</q> <rj><qau>Pope.</qau></rj></p>
 <entry main-word="Delve" source="1913 Webster">
 <p><hw>Delve</hw>, <pos>n.</pos> <ety>[See <er>Delve</er>, <pos>v. t.</pos>, and cf. <er>Delf</er> a mine.]</ety> <def>A place dug; a pit; a ditch; a den; a cave.</def></p>
 
-<p><q>Which to that shady <qex>delve</qex> him brought at last.</q> <rj><au>Spenser.</au></rj></p>
+<p><q>Which to that shady <qex>delve</qex> him brought at last.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>The very tigers from their <qex>delves</qex><br/
 Look out.</q> <rj><qau>Moore.</qau></rj></p>
@@ -14320,7 +14320,7 @@ That should <qex>deracinate</qex> such savagery.</q> <rj><qau>Shak.</qau></rj></
 <entry main-word="Derelict" source="1913 Webster">
 <p><hw>Der"e*lict</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>derelictus</ets>, p. p. of <ets>derelinquere</ets> to forsake wholly, to abandon; <ets>de-</ets> + <ets>relinquere</ets> to leave. See <er>Relinquish</er>.]</ety> <sn>1.</sn> <def>Given up or forsaken by the natural owner or guardian; left and abandoned; <as>as, <ex>derelict</ex> lands</as>.</def></p>
 
-<p><q>The affections which these exposed or <qex>derelict</qex> children bear to their mothers, have no grounds of nature or assiduity but civility and opinion.</q>  <rj><au>Jer. Taylor.</au></rj></p>
+<p><q>The affections which these exposed or <qex>derelict</qex> children bear to their mothers, have no grounds of nature or assiduity but civility and opinion.</q>  <rj><qau>Jer. Taylor.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Lost; adrift; hence, wanting; careless; neglectful; unfaithful.</def></p>
 
@@ -34474,7 +34474,7 @@ As the light <qex>does</qex> the shadow.</q> <rj><qau> Longfellow.</qau></rj></p
 <entry main-word="Docibility" source="1913 Webster">
 <p><mhw>{ <hw>Doc`i*bil"i*ty</hw> <pr>(?)</pr>, <hw>Doc"i*ble*ness</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>docibilitas</ets>.]</ety> <def>Aptness for being taught; teachableness; docility.</def></p>
 
-<p><q>To persons of <qex>docibility</qex>, the real character may be easily taught in a few days.</q>  <rj><au>Boyle.</au></rj></p>
+<p><q>To persons of <qex>docibility</qex>, the real character may be easily taught in a few days.</q>  <rj><qau>Boyle.</qau></rj></p>
 
 <p><q>The <qex>docibleness</qex> of dogs in general.</q> <rj><qau>Walton.</qau></rj></p>
 </entry>
@@ -34910,7 +34910,7 @@ By <qex>doctrines</qex> fashioned to the varying hour.</q> <rj><qau> Goldsmith.<
 <entry main-word="Dodipate" source="1913 Webster">
 <p><mhw>{ <hw>Dod"i*pate</hw> <pr>(?)</pr>, <hw>Dod"i*poll</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Perh. fr. OE. <ets>dodden</ets> to cut off, to shear, and first applied to shaven-polled priests.]</ety> <def>A stupid person; a fool; a blockhead.</def></p>
 
-<p><q>Some will say, our curate is naught, an ass-head, a <qex>dodipoll</qex>.</q>  <rj><au> Latimer.</au></rj></p>
+<p><q>Some will say, our curate is naught, an ass-head, a <qex>dodipoll</qex>.</q>  <rj><qau> Latimer.</qau></rj></p>
 </entry>
 
 <entry main-word="Dodkin" source="1913 Webster">
@@ -36250,7 +36250,7 @@ He <qex>dons</qex> a surcoat which he doffs at morn.</q> <rj><qau>Emerson.</qau>
 <entry main-word="Donation" source="1913 Webster">
 <p><hw>Do*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>donatio</ets>; cf. F. <ets>donation</ets>.]</ety> <sn>1.</sn> <def>The act of giving or bestowing; a grant.</def></p>
 
-<p><q>After <qex>donation</qex> there is an absolute change and alienation of the property of the thing given.</q>  <rj><au>South.</au></rj></p>
+<p><q>After <qex>donation</qex> there is an absolute change and alienation of the property of the thing given.</q>  <rj><qau>South.</qau></rj></p>
 
 <p><sn>2.</sn> <def>That which is given as a present; that which is transferred to another gratuitously; a gift.</def></p>
 
@@ -42131,7 +42131,7 @@ Still shouts the inspiring sea.</q> <rj><qau>Lowell.</qau></rj></p>
 <p><hw>Drug</hw>, <pos>n.</pos> <ety>[F. <ets>drogue</ets>, prob. fr. D. <ets>droog</ets>; akin to E. <ets>dry</ets>; thus orig., dry substance, hers, plants, or wares. See <er>Dry</er>.]</ety> <sn>1.</sn> <def>Any animal, vegetable, or mineral substance used in the composition of medicines.</def></p>
 
 <p><q>Whence merchants bring<br/
-Their spicy <qex>drugs</qex>.</q>  <rj><au>Milton.</au></rj></p>
+Their spicy <qex>drugs</qex>.</q>  <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Any commodity that lies on hand, or is not salable; an article of slow sale, or in no demand; -- used often in the phrase <ldquo/a <ex>drug</ex> on the market<rdquo/.</def> <ldquo/But sermons are mere <xex>drugs</xex>.<rdquo/  <rj><au>Fielding.</au></rj></p>
 
@@ -42739,7 +42739,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj></
 <entry main-word="Dubious" source="1913 Webster">
 <p><hw>Du"bi*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>dubius</ets>, <ets>dubiosus</ets>, fr. <ets>duo</ets> two. See <er>Two</er>, and cf. <er>Doubt</er>.]</ety> <sn>1.</sn> <def>Doubtful or not settled in opinion; being in doubt; wavering or fluctuating; undetermined.</def> <ldquo/<xex>Dubious</xex> policy.<rdquo/  <rj><au>Sir T. Scott.</au></rj></p>
 
-<p><q>A <qex>dubious</qex>, agitated state of mind.</q>  <rj><au>Thackeray.</au></rj></p>
+<p><q>A <qex>dubious</qex>, agitated state of mind.</q>  <rj><qau>Thackeray.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Occasioning doubt; not clear, or obvious; equivocal; questionable; doubtful; <as>as, a <ex>dubious</ex> answer</as>.</def></p>
 
@@ -44416,7 +44416,7 @@ Falls on the moor the brief November day.</q> <rj><qau>Keble.</qau></rj></p>
 <entry main-word="Dusk" source="1913 Webster">
 <p><hw>Dusk</hw>, <pos>v. t.</pos> <def>To make dusk.</def> <mark>[Archaic]</mark></p>
 
-<p><q>After the sun is up, that shadow which <qex>dusketh</qex> the light of the moon must needs be under the earth.</q>  <rj><au>Holland.</au></rj></p>
+<p><q>After the sun is up, that shadow which <qex>dusketh</qex> the light of the moon must needs be under the earth.</q>  <rj><qau>Holland.</qau></rj></p>
 </entry>
 
 <entry main-word="Dusk" source="1913 Webster">

@@ -5463,7 +5463,7 @@ That the main <qex>harvest</qex> reaps.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A small stuffed cushion or footstool, for kneeling on in church, or for home use.</def></p>
 
-<p><q>And knees and <qex>hassocks</qex> are well nigh divorced.</q>  <rj><au>Cowper.</au></rj></p>
+<p><q>And knees and <qex>hassocks</qex> are well nigh divorced.</q>  <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Hast" source="">
@@ -14780,7 +14780,7 @@ Chait . . . . . . . . . . . .  March-April
 <entry main-word="Hine" source="1913 Webster">
 <p><hw>Hine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Hind</er> a servant.]</ety> <def>A servant; a farm laborer; a peasant; a hind.</def> <mark>[Obs.]</mark></p>
 
-<p><q>Bailiff, herd, nor other <qex>hine</qex>.</q>  <rj><au>Chaucer.</au></rj></p>
+<p><q>Bailiff, herd, nor other <qex>hine</qex>.</q>  <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Hinge" source="1913 Webster">
@@ -19058,7 +19058,7 @@ Thus with my hat, and sigh and say, <ldquo/Amen.<rdquo/</q> <rj><qau>Shak.</qau>
 <p><hw>Hood"lum</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A young rowdy; a rough, lawless fellow; colloquially, called also <altname>hood</altname>.</def> <mark>[Colloq. U.S.]</mark></p>
 
 <p source="PJC"><q>Just tell your <ex>hoodlum</ex> friends outside<br/
-You ain't got time to take no ride.</q> <rj><au>Yakety-Yak (Song)</au></rj></p>
+You ain't got time to take no ride.</q> <rj><qau>Yakety-Yak (Song)</qau></rj></p>
 </entry>
 
 <entry main-word="Hoodman" source="1913 Webster">
@@ -20083,7 +20083,7 @@ Within the nether tip.</q> <rj><qau>Coleridge.</qau></rj></p>
 <entry main-word="Horrent" source="1913 Webster">
 <p><hw>Hor"rent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>horrens</ets>, p. pr. of <ets>horrere</ets> to bristle. See <er>Horror</er>.]</ety> <def>Standing erect, as bristles; covered with bristling points; bristled; bristling.</def></p>
 
-<p><q>Rough and <qex>horrent</qex> with figures in strong relief.</q>  <rj><au>De Quincey.</au></rj></p>
+<p><q>Rough and <qex>horrent</qex> with figures in strong relief.</q>  <rj><qau>De Quincey.</qau></rj></p>
 
 <p><q>With bright emblazonry and <qex>horrent</qex> arms.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>

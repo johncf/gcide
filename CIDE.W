@@ -618,7 +618,7 @@ Desirous to return, and not received.</q> <rj><qau>Cowper.</qau></rj></p>
 <entry main-word="Wail" source="1913 Webster">
 <p><hw>Wail</hw>, <pos>v. i.</pos> <def>To express sorrow audibly; to make mournful outcry; to weep.</def></p>
 
-<p><q>Therefore I will <qex>wail</qex> and howl.</q>  <rj><au>Micah i. 8.</au></rj></p>
+<p><q>Therefore I will <qex>wail</qex> and howl.</q>  <rj><qau>Micah i. 8.</qau></rj></p>
 </entry>
 
 <entry main-word="Wail" source="1913 Webster">

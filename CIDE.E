@@ -26755,7 +26755,7 @@ To calm her fears and ease her boding mind?</q> <rj><qau>Philips.</qau></rj></p>
 
 <p><q>The <qex>expedition</qex> miserably failed.</q> <rj><qau>Prescott.</qau></rj></p>
 
-<p><q>Narrative of the exploring <qex>expedition</qex> to the Rocky Mountains.</q>  <rj><au>J. C. Fremont.</au></rj></p>
+<p><q>Narrative of the exploring <qex>expedition</qex> to the Rocky Mountains.</q>  <rj><qau>J. C. Fremont.</qau></rj></p>
 </entry>
 
 <entry main-word="Expeditionary" source="1913 Webster">

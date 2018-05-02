@@ -28654,7 +28654,7 @@ His end and <qex>frustrate</qex> thine ?</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>With crackling flames a caldron <qex>fries</qex>.</q> <rj><qau>Dryden</qau></rj></p>
 
-<p><q>The frothy billows <qex>fry</qex>.</q>  <rj><au>Spenser.</au></rj></p>
+<p><q>The frothy billows <qex>fry</qex>.</q>  <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To undergo or cause a disturbing action accompanied with a sensation of heat.</def></p>
 

@@ -9159,7 +9159,7 @@ Thy glorious heap of funeral.</q> <rj><qau>Chapman.</qau></rj></p>
 <p><sn>3.</sn> <def>Also used figuratively.</def></p>
 
 <p><q>Or heap the shrine of luxury and pride,<br/
-With <qex>incense</qex> kindled at the Muse's flame.</q>  <rj><au>Gray.</au></rj></p>
+With <qex>incense</qex> kindled at the Muse's flame.</q>  <rj><qau>Gray.</qau></rj></p>
 
 <p><cs><col>Incense tree</col>, <cd>the name of several balsamic trees of the genus <gen>Bursera</gen> (or <gen>Icica</gen>) mostly tropical American. The gum resin is used for incense. In Jamaica the <spn>Chrysobalanus Icaco</spn>, a tree related to the plums, is called <ex>incense tree</ex>.</cd> -- <col>Incense wood</col>, <cd>the fragrant wood of the tropical American tree <spn>Bursera heptaphylla</spn>.</cd></cs></p>
 </entry>
@@ -9216,7 +9216,7 @@ With <qex>incense</qex> kindled at the Muse's flame.</q>  <rj><au>Gray.</au></rj
 <p><sn>2.</sn> <def>Serving to kindle or set on fire.</def> <mark>[R.]</mark></p>
 
 <p><q>Part <qex>incentive</qex> reed<br/
-Provide, pernicious with one touch of fire.</q>  <rj><au>Milton.</au></rj></p>
+Provide, pernicious with one touch of fire.</q>  <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Incentive" source="1913 Webster">
@@ -15274,7 +15274,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj></p>
 <entry main-word="Inertness" source="1913 Webster">
 <p><hw>In*ert"ness</hw>, <pos>n.</pos> <sn>1.</sn> <def>Lack of activity or exertion; habitual indisposition to action or motion; sluggishness; apathy; insensibility.</def>  <rj><au>Glanvill.</au></rj></p>
 
-<p><q>Laziness and <qex>inertness</qex> of mind.</q>  <rj><au>Burke.</au></rj></p>
+<p><q>Laziness and <qex>inertness</qex> of mind.</q>  <rj><qau>Burke.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Absence of the power of self-motion; inertia.</def></p>
 </entry>
@@ -15290,7 +15290,7 @@ Upon a slothful ass he chose to ride.</q> <rj><qau>Spenser.</qau></rj></p>
 <entry main-word="Inescate" source="1913 Webster">
 <p><hw>In*es"cate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[L. <ets>inescatus</ets>, p. p. of <ets>inescare</ets>; <ets>in-</ets> in + <ets>esca</ets> bait.]</ety> <def>To allure; to lay a bait for.</def> <mark>[Obs.]</mark></p>
 
-<p><q>To <qex>inescate</qex> and beguile young women!</q>  <rj><au>Burton.</au></rj></p>
+<p><q>To <qex>inescate</qex> and beguile young women!</q>  <rj><qau>Burton.</qau></rj></p>
 </entry>
 
 <entry main-word="Inescation" source="1913 Webster">
@@ -23607,7 +23607,7 @@ By want embittered and <qex>intensified</qex>.</q> <rj><qau>Longfellow.</qau></r
 
 <p><sn>1.</sn> <def>The state or quality of being intense; intenseness; extreme degree; <as>as, <ex>intensity</ex> of heat, cold, mental application, passion, etc.</as></def></p>
 
-<p><q>If you would deepen the <qex>intensity</qex> of light, you must be content to bring into deeper blackness and more distinct and definite outline the shade that accompanies it.</q>  <rj><au>F. W. Robertson.</au></rj></p>
+<p><q>If you would deepen the <qex>intensity</qex> of light, you must be content to bring into deeper blackness and more distinct and definite outline the shade that accompanies it.</q>  <rj><qau>F. W. Robertson.</qau></rj></p>
 
 <p><sn>2.</sn> <fld>(Physics)</fld> <def>The amount or degree of energy with which a force operates or a cause acts; effectiveness, as estimated by results produced.</def></p>
 
