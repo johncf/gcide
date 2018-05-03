@@ -821,7 +821,7 @@ This ilke servant anon right out <qex>yede</qex>.</q> <rj><qau>Chaucer.</qau></r
 
 <p><note><hand/ Spenser and some later writers mistook this for a present of the defective imperfect <xex>yode</xex>. It is, however, only a variant of <xex>yode</xex>.  See <er>Yode</er>, and cf. <er>Yead</er>.</note></p>
 
-<p><q>[He] on foot was forced for to <qex>yeed</qex>.</q> <rj><qau>Spenser</qau></rj></p>
+<p><q>[He] on foot was forced for to <qex>yeed</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Yeel" source="1913 Webster">

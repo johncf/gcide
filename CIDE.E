@@ -10496,7 +10496,7 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>As one for . . . fierce <qex>encounters</qex> fit</q>. <rj><qau>Spenser.</qau></rj></p>
 
-<p source=""><q>To join their dark <qex>encounter</qex> in mid-air</q>. <rj><qau>Milton</qau></rj>.</p>
+<p source=""><q>To join their dark <qex>encounter</qex> in mid-air</q>. <rj><qau>Milton.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Contest; conflict; fight; combat; assault; rencounter; attack; engagement; onset. See <er>Contest</er>.</syn></p>
 </entry>
@@ -18091,7 +18091,7 @@ Bowed, but <qex>erect</qex> in heart?</q> <rj><qau>Keble.</qau></rj></p>
 
 <p><sn>2.</sn> <def>The state of being erected, lifted up, built, established, or founded; exaltation of feelings or purposes.</def></p>
 
-<p><q>Her peerless height my mind to high <qex>erection</qex> draws up.</q> <rj><qau>Sidney</qau></rj></p>
+<p><q>Her peerless height my mind to high <qex>erection</qex> draws up.</q> <rj><qau>Sidney.</qau></rj></p>
 
 <p><sn>3.</sn> <def>State of being stretched to stiffness; tension.</def></p>
 
@@ -26779,12 +26779,11 @@ To calm her fears and ease her boding mind?</q> <rj><qau>Philips.</qau></rj></p>
 <entry main-word="Expel" source="1913 Webster">
 <p><hw>Ex*pel"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Expelled</conjf> <pr>(?)</pr>, <pos>p. pr. & vb. n.</pos>. <conjf>Expelling</conjf>.]</vmorph> <ety>[L. <ets>expellere</ets>, <ets>expulsum</ets>; <ets>ex</ets> out + <ets>pellere</ets> to drive: cf.F. <ets>expeller</ets>. See <er>Pulse</er> a beat.]</ety> <sn>1.</sn> <def>To drive or force out from that within which anything is contained, inclosed, or situated; to eject; <as>as, to <ex>expel</ex> air from a bellows</as>.</def></p>
 
-<p><q>Did not ye . . . <qex>expel</qex> me out of my father's house?</q>
-<qau>Judg. xi. 7.</qau></p>
+<p><q>Did not ye . . . <qex>expel</qex> me out of my father's house?</q> <qau>Judg. xi. 7.</qau></p>
 
 <p><sn>2.</sn> <def>To drive away from one's country; to banish.</def></p>
 
-<p><q>Forewasted all their land, and them <qex>expelled</qex>.</q> <rj><qau>Spenser.</qau></rj>.</p>
+<p><q>Forewasted all their land, and them <qex>expelled</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>He shall <qex>expel</qex> them from before you . . . and ye shall possess their land.</q> <rj><qau>Josh. xxiii. 5.</qau></rj></p>
 
@@ -26794,7 +26793,7 @@ To calm her fears and ease her boding mind?</q> <rj><qau>Philips.</qau></rj></p>
 
 <p><sn>5.</sn> <def>To discharge; to shoot.</def> <mark>[Obs.]</mark></p>
 
-<p source=""><q>Then he another and another [shaft] did <qex>expel</qex>.</q> <rj><qau>Spenser.</qau></rj>.</p>
+<p source=""><q>Then he another and another [shaft] did <qex>expel</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- To banish; exile; eject; drive out. See <er>Banish</er>.</syn></p>
 </entry>
@@ -26824,7 +26823,7 @@ I would <qex>expend</qex> it with all willingness.</q> <rj><qau>Shak.</qau></rj>
 
 <p><sn>2.</sn> <def>To pay out or disburse money.</def></p>
 
-<p><q>They go elsewhere to enjoy and to <qex>expend</qex>.</q> <rj><qau>Macaulay</qau></rj>.</p>
+<p><q>They go elsewhere to enjoy and to <qex>expend</qex>.</q> <rj><qau>Macaulay.</qau></rj></p>
 </entry>
 
 <entry main-word="expended" source="WordNet 1.5">
@@ -28793,7 +28792,7 @@ She [Fancy] forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To obscure; to eclipse, as by superior splendor.</def></p>
 
-<p><q>Natural graces that <qex>extinguish</qex> art.</q> <rj><qau>Shak</qau></rj>.</p>
+<p><q>Natural graces that <qex>extinguish</qex> art.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Extinguishable" source="1913 Webster">
@@ -28825,7 +28824,7 @@ She [Fancy] forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Extirp" source="1913 Webster">
 <p><hw>Ex*tirp"</hw> <pr>(<?/)</pr>, <pos>v. t.</pos> <ety>[Cf. F. <ets>extirper</ets>.]</ety> <def>To extirpate.</def> <mark>[Obs.]</mark></p>
 
-<p><q>It is impossible to <qex>extirp</qex> it quite, friar.</q> <rj><qau>Shak</qau></rj>.</p>
+<p><q>It is impossible to <qex>extirp</qex> it quite, friar.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Extirpable" source="1913 Webster">

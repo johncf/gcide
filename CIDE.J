@@ -3088,12 +3088,12 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj></
 
 <p><sn>1.</sn> <def>A word used as a jocular oath.</def> <ldquo/By the living <xex>jingo</xex>.<rdquo/  <rj><au>Goldsmith.</au></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>2.</sn> <def>A statesman who pursues, or who favors, aggressive, domineering policy in foreign affairs; a bellicose superpatriot or chavinist.</def> <mark>[Cant, Eng.]</mark></p>
+<p><sn>2.</sn> <def>A statesman who pursues, or who favors, aggressive, domineering policy in foreign affairs. <extra source="PJC">a bellicose superpatriot or chavinist.</extra></def> <mark>[Cant, Eng.]</mark></p>
 
 <p><note><hand/ This sense arose from a doggerel song which was popular during the Turco-Russian war of 1877 and 1878. The first two lines were as follows: --</p>
 
 <p><q>We don't want to fight, but by <qex>Jingo</qex> if we do,<br/
-We 've got the ships, we 've got the men, we 've got the money too.</q>
+We've got the ships, we've got the men, we've got the money too.</q>
 </note></p>
 </entry>
 

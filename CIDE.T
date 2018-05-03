@@ -4459,10 +4459,10 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj></p>
 </entry>
 
 <entry main-word="Tautology" source="1913 Webster">
-<p><hw>Tau*tol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>tautologia</ets>, Gr. <?/: cf. F. <ets>tautologie</ets>.]</ety> <fld>(Rhet.)</fld> <def>A repetition of the same meaning in different words; needless repetition of an idea in different words or phrases; a representation of anything as the cause, condition, or consequence of itself, as in the following lines: --<br/
-<br/
-<q>The dawn is overcast, the morning lowers,<br/
-And heavily in clouds brings on the day.</q> <rj><qau>Addison.</qau></rj></def></p>
+<p><hw>Tau*tol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>tautologia</ets>, Gr. <?/: cf. F. <ets>tautologie</ets>.]</ety> <fld>(Rhet.)</fld> <def>A repetition of the same meaning in different words; needless repetition of an idea in different words or phrases; a representation of anything as the cause, condition, or consequence of itself,</def> as in the following lines: --</p>
+
+<p><q>The dawn is overcast, the morning lowers,<br/
+And heavily in clouds brings on the day.</q> <rj><qau>Addison.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Repetition.</syn> <usage> -- <er>Tautology</er>, <er>Repetition</er>. There may be frequent <xex>repetitions</xex> (as in legal instruments) which are warranted either by necessity or convenience; but <xex>tautology</xex> is always a fault, being a sameness of expression which adds nothing to the sense or the sound.</usage></p>
 </entry>
@@ -22095,7 +22095,7 @@ Of the turtle, crane, and beaver.</q> <rj><qau>Longfellow.</qau></rj></p>
 <entry main-word="T'other" source="1913 Webster">
 <p><hw>T'oth"er</hw> <pr>(?)</pr>. <def>A colloquial contraction of <sig>the other</sig>, and formerly a contraction for <xex>that other</xex>. See the Note under <er>That</er>, <snr>2</snr>.</def></p>
 
-<p><q>The <qex>tothir</qex> that was crucifield with him.</q> <rj><qau>Wyclif(John xix. 32)</qau></rj></p>
+<p><q>The <qex>tothir</qex> that was crucifield with him.</q> <rj><qau>Wyclif (John xix. 32)</qau></rj></p>
 </entry>
 
 <entry main-word="Totipalmate" source="1913 Webster">
@@ -25273,7 +25273,7 @@ On his <qex>transgression</qex>, death denounced that day ?</q> <rj><qau>Milton.
 
 <p><syn><b>Syn.</b> -- <er>Transient</er>, <er>Transitory</er>, <er>Fleeting</er>.</syn> <usage> <xex>Transient</xex> represents a thing as brief at the best; <xex>transitory</xex>, as liable at any moment to pass away. <xex>Fleeting</xex> goes further, and represents it as in the act of taking its flight. Life is <xex>transient</xex>; its joys are <xex>transitory</xex>; its hours are <xex>fleeting</xex>.</usage></p>
 
-<p><q>What is loose love? A <qex>transient</qex> gust.</q> <rj><qau>Pope</qau></rj></p>
+<p><q>What is loose love? A <qex>transient</qex> gust.</q> <rj><qau>Pope.</qau></rj></p>
 
 <p><q>If [we love] <qex>transitory</qex> things, which soon decay,<br/
 Age must be loveliest at the latest day.</q> <rj><qau>Donne.</qau></rj></p>

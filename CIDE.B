@@ -22717,8 +22717,8 @@ Began to <qex>bloom</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To be in a state of healthful, growing youth and vigor; to show beauty and freshness, as of flowers; to give promise, as by or with flowers.</def></p>
 
-<p><q>A better country <qex>blooms</qex> to view,</q>
-<q>Beneath a brighter sky.</q> <rj><qau>Logan.</qau></rj></p>
+<p><q>A better country <qex>blooms</qex> to view,<br/
+Beneath a brighter sky.</q> <rj><qau>Logan.</qau></rj></p>
 </entry>
 
 <entry main-word="Bloom" source="1913 Webster">

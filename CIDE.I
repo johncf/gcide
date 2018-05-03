@@ -6243,9 +6243,8 @@ I cling <qex>implicit</qex>.</q> <rj><qau>Pope.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To refer, ascribe, or attribute.</def> <mark>[Obs.]</mark></p>
 
-<p><q>Whence might this distaste arise?</q></p>
-
-<p source=""><q>If [from] neither your perverse and peevish will.<br/
+<p><q>Whence might this distaste arise?<br/
+If [from] neither your perverse and peevish will.<br/
 To which I most <qex>imply</qex> it.</q> <rj><qau>J. Webster.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- To involve; include; comprise; import; mean; denote; signify; betoken. See <er>Involve</er>.</syn></p>

@@ -13986,7 +13986,7 @@ My presence.</q> <rj><qau>Milton.</qau></rj></p>
 <p><sn>2.</sn> <def>Possessing, or conforming to, religion; pious; godly; <as>as, a <ex>religious</ex> man, life, behavior, etc.</as></def></p>
 
 <p><q>Men whose lives<br/
-<qex>Religious</qex> titled them the sons of God.</q> <rj><qau>Mlton</qau></rj></p>
+<qex>Religious</qex> titled them the sons of God.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Scrupulously faithful or exact; strict.</def></p>
 
@@ -17488,9 +17488,8 @@ By spirits <qex>reprobate</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To chide to the face as blameworthy; to accuse as guilty; to censure.</def></p>
 
-<p><q>What if thy son</q></p>
-
-<p><q>Prove disobedient, and, <qex>reproved</qex>, retort,<br/
+<p><q>What if thy son<br/
+Prove disobedient, and, <qex>reproved</qex>, retort,<br/
 <ldquo/Wherefore didst thou beget me?<rdquo/</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>4.</sn> <def>To express disapprobation of; <as>as, to <ex>reprove</ex> faults</as>.</def></p>
@@ -21469,7 +21468,7 @@ Fit <qex>retribution</qex>, empty as their deeds.</q> <rj><qau>Milton.</qau></rj
 <p><hw>Re*trieve"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Retrieved</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Retrieving</conjf>.]</vmorph> <ety>[OE. <ets>retreven</ets>, OF. <ets>retrover</ets> to find again, recover (<ets>il retroeve</ets>e finds again), F. <ets>retrouver</ets>; pref. <ets>re-</ets> re- + OF. <ets>trover</ets> to find, F. <ets>trouver</ets>. See <er>Trover</er>.]</ety> <sn>1.</sn> <def>To find again; to recover; to regain; to restore from loss or injury; <as>as, to <ex>retrieve</ex> one's character; to <ex>retrieve</ex> independence</as>.</def></p>
 
 <p><q>With late repentance now they would <qex>retrieve</qex><br/
-The bodies they forsook, and wish to live.</q> <rj><qau>Dryden</qau></rj></p>
+The bodies they forsook, and wish to live.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To recall; to bring back.</def></p>
 
@@ -25963,7 +25962,7 @@ Hath <qex>rung</qex> night's yawning peal.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Any loud sound; the sound of numerous voices; a sound continued, repeated, or reverberated.</def></p>
 
-<p><q>The <qex>ring</qex> of acclamations fresh in his ears.</q> <rj><qau>Bacon</qau></rj></p>
+<p><q>The <qex>ring</qex> of acclamations fresh in his ears.</q> <rj><qau>Bacon.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A chime, or set of bells harmonically tuned.</def></p>
 
@@ -31991,7 +31990,7 @@ He might the <qex>ruffled</qex> foe infest.</q> <rj><qau>Hudibras.</qau></rj></p
 
 <p><sn>8.</sn> <def>To throw together in a disorderly manner.</def> <mark>[R.]</mark></p>
 
-<p><q>I <qex>ruffled</qex> up falen leaves in heap.</q> <rj><qau>Chapman</qau></rj></p>
+<p><q>I <qex>ruffled</qex> up falen leaves in heap.</q> <rj><qau>Chapman.</qau></rj></p>
 
 <p><cs><col>To ruffle the feathers of</col>, <cd>to exite the resentment of; to irritate.</cd></cs></p>
 </entry>
@@ -32847,8 +32846,6 @@ She must have long ago <qex>run out</qex>.</q> <rj><qau>Dryden.</qau></rj></p>
 <p><sn>9.</sn> <def>To cause to stand as a candidate for office; to support for office; <as>as, to <ex>run</ex> some one for Congress</as>.</def> <mark>[Colloq. U.S.]</mark></p>
 
 <p><sn>10.</sn> <def>To encounter or incur, as a danger or risk; <as>as, to <ex>run</ex> the risk of losing one's life. See <ex>To run the chances</ex>, below</as>.</def> <ldquo/He <xex>runneth</xex> two dangers.<rdquo/  <rj><au>Bacon.</au></rj></p>
-
-<p source="PJC"><q>If we don't succeed, we <ex>run the risk</ex> of failure.</q>  <qau>Dan Quail</qau>.</p>
 
 <p><sn>11.</sn> <def>To put at hazard; to venture; to risk.</def></p>
 

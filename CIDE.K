@@ -4113,7 +4113,7 @@ Thus to make poor females mad.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Knee</hw> <pr>(n<emac/)</pr>, <pos>v. t.</pos> <def>To supplicate by kneeling.</def> <mark>[Obs.]</mark></p>
 
 <p><q>Fall down, and <qex>knee</qex><br/
-The way into his mercy.</q> <rj><qau>Shak</qau></rj></p>
+The way into his mercy.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Kneebrush" source="1913 Webster">

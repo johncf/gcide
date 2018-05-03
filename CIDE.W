@@ -2024,9 +2024,8 @@ Only for <qex>wantonness</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Wappened" source="1913 Webster">
 <p><hw>Wap"pened</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. <er>Waped</er>, <er>Wapper</er>.]</ety> <def>A word of doubtful meaning used once by Shakespeare.</def></p>
 
-<p><q>This [gold] is it</q></p>
-
-<p><q>That makes the <qex>wappen'd</qex> widow wed again.</q></p>
+<p><q>This [gold] is it<br/
+That makes the <qex>wappen'd</qex> widow wed again.</q></p>
 
 <p><note>It is conjectured by some that it is an error for <xex>wappered</xex>, meaning tremulous or exhausted.</note></p>
 </entry>

@@ -5095,7 +5095,7 @@ Argue your wisdom and your love to Richard.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Generalizable" source="1913 Webster">
 <p><hw>Gen"er*al*i`za*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Capable of being generalized, or reduced to a general form of statement, or brought under a general rule.</def></p>
 
-<p><q>Extreme cases are . . . not <qex>generalizable</qex>.</q> <rj><qau>Coleridge</qau></rj></p>
+<p><q>Extreme cases are . . . not <qex>generalizable</qex>.</q> <rj><qau>Coleridge.</qau></rj></p>
 </entry>
 
 <entry main-word="Generalization" source="1913 Webster">
@@ -15834,7 +15834,7 @@ Of luxury . . . allure mine eye.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Grandiloquence" source="1913 Webster">
 <p><hw>Gran*dil"o*quence</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The use of lofty words or phrases; bombast; -- usually in a bad sense.</def></p>
 
-<p><q>The sin of <qex>grandiloquence</qex> or tall talking.</q> <rj><qau>Thackeray,</qau></rj></p>
+<p><q>The sin of <qex>grandiloquence</qex> or tall talking.</q> <rj><qau>Thackeray.</qau></rj></p>
 </entry>
 
 <entry main-word="Grandiloquent" source="1913 Webster">
@@ -18405,7 +18405,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj></p>
 
 <p><q><qex>Grieve</qex> not the Holy Spirit of God.</q> <rj><qau>Eph. iv. 30.</qau></rj></p>
 
-<p><q>The maidens <qex>grieved</qex> themselves at my concern.</q> <rj><qau>Cowper,</qau></rj></p>
+<p><q>The maidens <qex>grieved</qex> themselves at my concern.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To sorrow over; <as>as, to <ex>grieve</ex> one's fate</as>.</def> <mark>[R.]</mark></p>
 </entry>

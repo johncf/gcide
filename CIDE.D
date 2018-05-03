@@ -336,7 +336,7 @@ Out of her fruitful, abundant flowers.</q> <rj><qau>Spenser.</qau></rj></p>
 And cowslips, and kingcups, and loved lilies.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>A college gown<br/
-That clad her like an April <qex>daffodilly</qex>.</q> <rj><qau>Tennyson</qau></rj></p>
+That clad her like an April <qex>daffodilly</qex>.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><q>And chance-sown <qex>daffodil</qex>.</q> <rj><qau>Whittier.</qau></rj></p>
 </entry>
@@ -3048,7 +3048,7 @@ The whole assembly of his fellow <qex>daws</qex>.</q> <rj><qau>Waller.</qau></rj
 
 <p><q>When life awakes, and <qex>dawns</qex> at every line.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p><q><qex>Dawn</qex> on our darkness and lend us thine aid.</q> <rj><qau>Heber,</qau></rj></p>
+<p><q><qex>Dawn</qex> on our darkness and lend us thine aid.</q> <rj><qau>Heber.</qau></rj></p>
 </entry>
 
 <entry main-word="Dawn" source="1913 Webster">
@@ -25884,7 +25884,7 @@ Were dropping wet, <qex>disconsolate</qex> and wan.</q> <rj><qau>Dryden.</qau></
 <p><q>Now is the winter of our <qex>discontent</qex><br/
 Made glorious summer by this sun of York.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><q>The rapacity of his father's administration had excited such universal <qex>discontent</qex>.</q> <rj><qau>Hallam</qau></rj></p>
+<p><q>The rapacity of his father's administration had excited such universal <qex>discontent</qex>.</q> <rj><qau>Hallam.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A discontented person; a malcontent.</def> <mark>[R.]</mark></p>
 
@@ -34133,9 +34133,8 @@ The just man, and <qex>divulges</qex> him through heaven.</q> <rj><qau>Milton.</
 
 <p><sn>3.</sn> <def>To impart; to communicate.</def></p>
 
-<p><q>Which would not be</q></p>
-
-<p source=""><q>To them [animals] made common and <qex>divulged</qex>.</q> <rj><qau>Milton.</qau></rj></p>
+<p><q>Which would not be<br/
+To them [animals] made common and <qex>divulged</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- To publish; disclose; discover; uncover; reveal; communicate; impart; tell.</syn></p>
 </entry>
@@ -37048,7 +37047,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>I am for curing the world by gentle alteratives, not by violent <qex>doses</qex>.</q> <rj><qau> W. Irving.</qau></rj></p>
 
-<p><q>I dare undertake that as fulsome a <qex>dose</qex> as you give him, he shall readily take it down.</q> <rj><qau> South.</qau></rj></p>
+<p><q>I dare undertake that as fulsome a <qex>dose</qex> as you give him, he shall readily take it down.</q> <rj><qau>South.</qau></rj></p>
 
 <p source="PJC"><sn>4.</sn> <def>a quantity of radiation which an object absorbs, or to which it is exposed.</def></p>
 </entry>
@@ -37058,7 +37057,7 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To give doses to; to medicine or physic to; to give potions to, constantly and without need.</def></p>
 
-<p><q>A self-opinioned physician, worse than his distemper, who shall <qex>dose</qex>, and bleed, and kill him, <ldquo/secundum artem.<rdquo/</q> <rj><qau> South</qau></rj></p>
+<p><q>A self-opinioned physician, worse than his distemper, who shall <qex>dose</qex>, and bleed, and kill him, <ldquo/secundum artem.<rdquo/</q> <rj><qau>South.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To give anything nauseous to.</def></p>
 </entry>
@@ -40508,7 +40507,7 @@ Their moisture has already <qex>drenched</qex> the plain.</q> <rj><qau>Dryden.</
 
 <p><q>Three hundred horses . . . smoothly <qex>dressed</qex>.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><q><qex>Dressing</qex> their hair with the white sea flower.</q> <rj><qau>Tennyson</qau></rj>.</p>
+<p><q><qex>Dressing</qex> their hair with the white sea flower.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p source=""><q>If he felt obliged to expostulate, he might have <qex>dressed</qex> his censures in a kinder form.</q> <rj><qau>Carlyle.</qau></rj></p>
 
@@ -40532,7 +40531,7 @@ Their moisture has already <qex>drenched</qex> the plain.</q> <rj><qau>Dryden.</
 
 <p><sn>2.</sn> <def>To clothe or apparel one's self; to put on one's garments; to pay particular regard to dress; <as>as, to <ex>dress</ex> quickly</as>.</def> <ldquo/To <xex>dress</xex> for a ball.<rdquo/  <rj><au>Latham.</au></rj></p>
 
-<p><q>To flaunt, to <qex>dress</qex>, to dance, to thrum.</q> <rj><qau>Tennyson</qau></rj>.</p>
+<p><q>To flaunt, to <qex>dress</qex>, to dance, to thrum.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><cs><mcol><col>To dress to the right</col>, <col>To dress to the left</col>, <col>To dress on the center</col></mcol> <fld>(Mil.)</fld>, <cd>to form alignment with reference to the soldier on the extreme right, or in the center, of the rank, who serves as a guide.</cd></cs></p>
 </entry>
@@ -42441,15 +42440,15 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj></
 <entry main-word="Dry" source="1913 Webster">
 <p><hw>Dry</hw> <pr>(dr<imac/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Drier</adjf> <pr>(?)</pr>; <pos>superl.</pos> <adjf>Driest</adjf>.]</amorph> <ety>[OE. <ets>dru<yogh/e</ets>, <ets>druye</ets>, <ets>drie</ets>, AS. <ets>dryge</ets>; akin to LG. <ets>dr<oum/ge</ets>, D. <ets>droog</ets>, OHG. <ets>trucchan</ets>, G. <ets>trocken</ets>, Icel. <ets>draugr</ets> a dry log.  Cf. <er>Drought</er>, <er>Drouth</er>, 3d <er>Drug</er>.]</ety> <sn>1.</sn> <def>Free from moisture; having little humidity or none; arid; not wet or moist; deficient in the natural or normal supply of moisture, as rain or fluid of any kind; -- said especially: <sd>(a)</sd> Of the weather: Free from rain or mist.</def></p>
 
-<p source=""><q>The weather, we agreed, was too <qex>dry</qex> for the season.</q> <rj><qau>Addison.</qau></rj></p>
+<p><q>The weather, we agreed, was too <qex>dry</qex> for the season.</q> <rj><qau>Addison.</qau></rj></p>
 
 <p><sd>(b)</sd> <def>Of vegetable matter: Free from juices or sap; not succulent; not green; <as>as, <ex>dry</ex> wood or hay</as>.</def> <sd>(c)</sd> <def>Of animals: Not giving milk; <as>as, the cow is <ex>dry</ex></as>.</def> <sd>(d)</sd> <def>Of persons: Thirsty; needing drink.</def></p>
 
-<p source=""><q>Give the <qex>dry</qex> fool drink.</q> <rj><qau> Shak</qau></rj></p>
+<p><q>Give the <qex>dry</qex> fool drink.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sd>(e)</sd> <def>Of the eyes: Not shedding tears.</def></p>
 
-<p source=""><q>Not a <qex>dry</qex> eye was to be seen in the assembly.</q> <rj><qau> Prescott.</qau></rj></p>
+<p><q>Not a <qex>dry</qex> eye was to be seen in the assembly.</q> <rj><qau> Prescott.</qau></rj></p>
 
 <p><sd>(f)</sd> <fld>(Med.)</fld> <def>Of certain morbid conditions, in which there is entire or comparative absence of moisture; as, <xex>dry</xex> gangrene; <xex>dry</xex> catarrh.</def></p>
 
@@ -43041,9 +43040,7 @@ To human virtues.</q> <rj><qau>Philips.</qau></rj></p>
 <entry main-word="Dudgeon" source="1913 Webster">
 <p><hw>Dudg"eon</hw>, <pos>n.</pos> <ety>[W. <ets>dygen</ets> anger, grudge.]</ety> <def>Resentment; ill will; anger; displeasure.</def></p>
 
-<p><q>I drink it to thee in <qex>dudgeon</qex> and hostility.</q></p>
-
-<p><q><qex>Sir T</qex>. <qex>Scott</qex>.</q></p>
+<p><q>I drink it to thee in <qex>dudgeon</qex> and hostility.</q> <qau>Sir T. Scott.</qau></p>
 </entry>
 
 <entry main-word="Dudgeon" source="1913 Webster">

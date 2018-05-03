@@ -6829,7 +6829,7 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <def>An article made of lead or an alloy of lead</def>; as: <sd>(a)</sd> <def>A plummet or mass of lead, used in sounding at sea.</def> <sd>(b)</sd> <fld>(Print.)</fld> <def>A thin strip of type metal, used to separate lines of type in printing.</def> <sd>(c)</sd> <def>Sheets or plates of lead used as a covering for roofs; hence, <pluf>pl.</pluf>, a roof covered with lead sheets or terne plates.</def></p>
 
-<p><q>I would have the tower two stories, and goodly <qex>leads</qex> upon the top.</q> <rj><qau>Bacon</qau></rj></p>
+<p><q>I would have the tower two stories, and goodly <qex>leads</qex> upon the top.</q> <rj><qau>Bacon.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A small cylinder of black lead or graphite, used in pencils.</def></p>
 
@@ -12400,7 +12400,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 <p><q><qex>Lives</qex> of great men all remind us<br/
 We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj></p>
 
-<p><q>'T is from high <qex>life</qex> high characters are drawn.</q> <rj><qau>Pope</qau></rj></p>
+<p><q>'T is from high <qex>life</qex> high characters are drawn.</q> <rj><qau>Pope.</qau></rj></p>
 
 <p><sn>6.</sn> <def>Animation; spirit; vivacity; vigor; energy.</def></p>
 
@@ -12422,7 +12422,7 @@ We can make our <qex>lives</qex> sublime.</q> <rj><qau>Longfellow.</qau></rj></p
 
 <p><q>The words that I speak unto you . . . they are <qex>life</qex>.</q> <rj><qau>John vi. 63.</qau></rj></p>
 
-<p><q>The warm <qex>life</qex> came issuing through the wound.</q> <rj><qau>Pope</qau></rj></p>
+<p><q>The warm <qex>life</qex> came issuing through the wound.</q> <rj><qau>Pope.</qau></rj></p>
 
 <p><sn>12.</sn> <def>A history of the acts and events of a life; a biography; <as>as, Johnson wrote the <ex>life</ex> of Milton</as>.</def></p>
 
@@ -20969,7 +20969,7 @@ Of having <qex>lost</qex> her favorite dove.</q> <rj><qau>Prior.</qau></rj></p>
 
 <p><sn>4.</sn> <def>To wander from; to miss, so as not to be able to and; to go astray from; <as>as, to <ex>lose</ex> one's way</as>.</def></p>
 
-<p><q>He hath <qex>lost</qex> his fellows.</q> <rj><qau>Shak</qau></rj></p>
+<p><q>He hath <qex>lost</qex> his fellows.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>5.</sn> <def>To ruin; to destroy; as destroy; <as>as, the ship was <ex>lost</ex> on the ledge</as>.</def></p>
 

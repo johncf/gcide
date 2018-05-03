@@ -903,7 +903,7 @@ But <qex>qualify</qex> the fire's extreme rage.</q> <rj><qau>Shak.</qau></rj></p
 <entry main-word="Quality" source="1913 Webster">
 <p><hw>Qual"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Qualities</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>qualit<eacute/</ets>, L. <ets>qualitas</ets>, fr. <ets>qualis</ets> how constituted, as; akin to E. <ets>which</ets>. See <er>Which</er>.]</ety> <sn>1.</sn> <def>The condition of being of such and such a sort as distinguished from others; nature or character relatively considered, as of goods; character; sort; rank.</def></p>
 
-<p><q>We lived most joyful, obtaining acquaintance with many of the city not of the meanest <qex>quality</qex>.</q> <rj><qau>Bacon</qau></rj></p>
+<p><q>We lived most joyful, obtaining acquaintance with many of the city not of the meanest <qex>quality</qex>.</q> <rj><qau>Bacon.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Special or temporary character; profession; occupation; assumed or asserted rank, part, or position.</def></p>
 
@@ -2536,7 +2536,7 @@ With fiery <qex>quickness</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Acuteness of perception; keen sensibility.</def></p>
 
-<p><q>Would not <qex>quickness</qex> of sensation be an inconvenience to an animal that must lie still ?</q> <rj><qau>Locke</qau></rj></p>
+<p><q>Would not <qex>quickness</qex> of sensation be an inconvenience to an animal that must lie still ?</q> <rj><qau>Locke.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Sharpness; pungency of taste.</def>  <rj><au>Mortimer.</au></rj></p>
 

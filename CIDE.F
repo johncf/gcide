@@ -2257,9 +2257,7 @@ By so much shall I <qex>falsify</qex> men's hope.</q> <rj><qau>Shak.</qau></rj><
 <entry main-word="Falsify" source="1913 Webster">
 <p><hw>Fal"si*fy</hw>, <pos>v. i.</pos> <def>To tell lies; to violate the truth.</def></p>
 
-<p><q>It is absolutely and universally unlawful to lie and <qex>falsify</qex>.</q></p>
-
-<p><q>South.</q></p>
+<p><q>It is absolutely and universally unlawful to lie and <qex>falsify</qex>.</q> <rj><qau>South.</qau></rj></p>
 </entry>
 
 <entry main-word="Falsism" source="1913 Webster">
@@ -9770,9 +9768,8 @@ Scarce find him bread from day to day.</q> <rj><qau>Longfellow.</qau></rj></p>
 <entry main-word="Figure" source="1913 Webster">
 <p><hw>Fig"ure</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Figured</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Figuring</conjf>.]</vmorph> <ety>[F. <ets>figurer</ets>, L. <ets>figurare</ets>, fr. <ets>figura</ets>. See <er>Figure</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To represent by a figure, as to form or mold; to make an image of, either palpable or ideal; also, to fashion into a determinate form; to shape.</def></p>
 
-<p><q>If love, alas! be pain I bear,</q></p>
-
-<p><q>No thought can <qex>figure</qex>, and no tongue declare.Prior.</q></p>
+<p><q>If love, alas! be pain I bear,<br/
+No thought can <qex>figure</qex>, and no tongue declare.</q> <qau>Prior.</qau></p>
 
 <p><sn>2.</sn> <def>To embellish with design; to adorn with figures.</def></p>
 
@@ -11799,9 +11796,8 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Firk" source="1913 Webster">
 <p><hw>Firk</hw>, <pos>v. i.</pos> <def>To fly out; to turn out; to go off.</def> <mark>[Obs.]</mark></p>
 
-<p><q>A wench is a rare bait, with which a man</q></p>
-
-<p><q>No sooner's taken but he straight <qex>firks</qex> mad.B.Jonson.</q></p>
+<p><q>A wench is a rare bait, with which a man<br/
+No sooner's taken but he straight <qex>firks</qex> mad.</q> <qau>B. Jonson.</qau></p>
 </entry>
 
 <entry main-word="Firk" source="1913 Webster">
@@ -13016,7 +13012,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj></p>
 </entry>
 
 <entry main-word="Flag" source="1913 Webster">
-<p><hw>Flag</hw> <pr>(fl<acr/g)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To let droop; to suffer to fall, or let fall, into feebleness; <as>as, to <ex>flag</ex> the wings</as>.</def>  <rj><au>prior.</au></rj></p>
+<p><hw>Flag</hw> <pr>(fl<acr/g)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To let droop; to suffer to fall, or let fall, into feebleness; <as>as, to <ex>flag</ex> the wings</as>.</def>  <rj><au>Prior.</au></rj></p>
 
 <p><sn>2.</sn> <def>To enervate; to exhaust the vigor or elasticity of.</def></p>
 
@@ -13561,8 +13557,8 @@ And met congenial, mingling <qex>flame</qex> with <qex>flame</qex>.</q> <rj><qau
 
 <p><sn>2.</sn> <fld>(Mil.)</fld> <sd>(a)</sd> <def>The side of an army, or of any division of an army, as of a brigade, regiment, or battalion; the extreme right or left; <as>as, to attack an enemy in <ex>flank</ex> is to attack him on the side</as>.</def></p>
 
-<p source=""><q>When to right and left the front</q>
-<q>Divided, and to either <qex>flank</qex> retired.</q> <rj><qau>Milton.</qau></rj></p>
+<p><q>When to right and left the front<br/
+Divided, and to either <qex>flank</qex> retired.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sd>(b)</sd> <fld>(Fort.)</fld> <def>That part of a bastion which reaches from the curtain to the face, and defends the curtain, the flank and face of the opposite bastion; any part of a work defending another by a fire along the outside of its parapet.</def> See <xex>Illust.</xex> of <er>Bastion</er>.</p>
 
@@ -28652,7 +28648,7 @@ His end and <qex>frustrate</qex> thine ?</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To simmer; to boil.</def> <mark>[Obs.]</mark></p>
 
-<p><q>With crackling flames a caldron <qex>fries</qex>.</q> <rj><qau>Dryden</qau></rj></p>
+<p><q>With crackling flames a caldron <qex>fries</qex>.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><q>The frothy billows <qex>fry</qex>.</q>  <rj><qau>Spenser.</qau></rj></p>
 
@@ -28958,7 +28954,7 @@ That <qex>fuels</qex> the infernal flame.</q> <rj><qau>Cowley.</qau></rj></p>
 
 <p><q>The <qex>fugitive</qex> Parthians follow.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><q>Can a <qex>fugitive</qex> daughter enjoy herself while her parents are in tear?</q> <rj><qau>Richardson</qau></rj></p>
+<p><q>Can a <qex>fugitive</qex> daughter enjoy herself while her parents are in tear?</q> <rj><qau>Richardson.</qau></rj></p>
 
 <p><q>A libellous pamphlet of a fugitive physician.</q> <rj><qau>Sir H. Wotton.</qau></rj></p>
 
