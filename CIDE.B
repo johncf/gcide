@@ -160,7 +160,7 @@
 
 <p><q>That <qex>babel</qex> of strange heathen languages.</q> <rj><qau>Hammond.</qau></rj></p>
 
-<p><q>The grinding <qex>babel</qex> of the street</q>. <rj><qau>R. L. Stevenson.</qau></rj></p>
+<p><q>The grinding <qex>babel</qex> of the street.</q> <rj><qau>R. L. Stevenson.</qau></rj></p>
 </entry>
 
 <entry main-word="Babery" source="1913 Webster">

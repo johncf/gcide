@@ -10494,9 +10494,9 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A meeting, with hostile purpose; hence, a combat; a battle; <as>as, a bloody <ex>encounter</ex></as>.</def></p>
 
-<p><q>As one for . . . fierce <qex>encounters</qex> fit</q>. <rj><qau>Spenser.</qau></rj></p>
+<p><q>As one for . . . fierce <qex>encounters</qex> fit.</q> <rj><qau>Spenser.</qau></rj></p>
 
-<p source=""><q>To join their dark <qex>encounter</qex> in mid-air</q>. <rj><qau>Milton.</qau></rj></p>
+<p source=""><q>To join their dark <qex>encounter</qex> in mid-air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Contest; conflict; fight; combat; assault; rencounter; attack; engagement; onset. See <er>Contest</er>.</syn></p>
 </entry>

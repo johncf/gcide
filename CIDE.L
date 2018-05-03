@@ -18798,7 +18798,7 @@ These about phrases forced by ceremony.</q> <rj><qau>Marston.</qau></rj></p>
 
 <p><q>The high and <qex>lofty</qex> One, that inhabiteth eternity.</q> <rj><qau>Is. lvii. 15.</qau></rj></p>
 
-<p><q><qex>Lofty</qex> and sour to them that loved him not</q>. <rj><qau>Shak.</qau></rj></p>
+<p><q><qex>Lofty</qex> and sour to them that loved him not.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source=""><q>Himself to sing, and build the <qex>lofty</qex> rhyme.</q> <rj><qau>Milton.</qau></rj></p>
 

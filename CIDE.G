@@ -7285,7 +7285,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj></p>
 
 <p><q>And he <qex>gave up the ghost</qex> full softly.</q> <rj><qau>Chaucer.</qau></rj></p>
 
-<p><q>Jacob . . . <qex>yielded up the ghost</qex>, and was gathered unto his people</q>. <rj><qau>Gen. xlix. 33.</qau></rj></p>
+<p><q>Jacob . . . <qex>yielded up the ghost</qex>, and was gathered unto his people.</q> <rj><qau>Gen. xlix. 33.</qau></rj></p>
 </entry>
 
 <entry main-word="Ghost" source="1913 Webster">
@@ -7404,7 +7404,7 @@ And was a blessed <qex>ghost</qex>.</q> <rj><qau>Coleridge.</qau></rj></p>
 <entry main-word="Giantship" source="1913 Webster">
 <p><hw>Gi"ant*ship</hw>, <pos>n.</pos> <def>The state, personality, or character, of a giant; -- a compellation for a giant.</def></p>
 
-<p><q>His <qex>giantship</qex> is gone somewhat crestfallen</q>. <rj><qau>Milton.</qau></rj></p>
+<p><q>His <qex>giantship</qex> is gone somewhat crestfallen.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Giaour" source="1913 Webster">
@@ -13376,7 +13376,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>10.</sn> <def>Not blemished or impeached; fair; honorable; unsullied; as in the phrases <xex>a good name</xex>, <xex>a good report</xex>, <xex>good repute</xex>, etc.</def></p>
 
-<p><q>A <qex>good</qex> name is better than precious ointment</q>. <rj><qau>Eccl. vii. 1.</qau></rj></p>
+<p><q>A <qex>good</qex> name is better than precious ointment.</q> <rj><qau>Eccl. vii. 1.</qau></rj></p>
 
 <p><cs><col>As good as</col>. <cd>See under <er>As</er>.</cd> -- <mcol><col>For good</col>, <it>or</it> <col>For good and all</col></mcol>, <cd>completely and finally; fully; truly.</cd></p>
 

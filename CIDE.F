@@ -6073,7 +6073,7 @@ Those rods of scorpions and those whips of steel.</q> <rj><qau>Creecn.</qau></rj
 
 <p><sn>2.</sn> <def>To have the sensibilities moved or affected.</def></p>
 
-<p><q>[She] <qex>feels</qex> with the dignity of a Roman matron</q>. <rj><qau>Burke.</qau></rj></p>
+<p><q>[She] <qex>feels</qex> with the dignity of a Roman matron.</q> <rj><qau>Burke.</qau></rj></p>
 
 <p><q>And mine as man, who <qex>feel</qex> for all mankind.</q> <rj><qau>Pope.</qau></rj></p>
 
@@ -6550,9 +6550,9 @@ My head to <qex>fellow</qex> pomp amongst his nobles.</q> <rj><qau>Ford.</qau></
 <p><q>The great contention of the sea and skies<br/
 Parted our <qex>fellowship</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><q><qex>Fellowship</qex> in pain divides not smart</q>. <rj><qau>Milton.</qau></rj></p>
+<p><q><qex>Fellowship</qex> in pain divides not smart.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><q><qex>Fellowship</qex> in woe doth woe assuage</q>. <rj><qau>Shak.</qau></rj></p>
+<p><q><qex>Fellowship</qex> in woe doth woe assuage.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>The goodliest <qex>fellowship</qex> of famous knights,<br/
 Whereof this world holds record.</q> <rj><qau>Tennyson.</qau></rj></p>
@@ -18994,7 +18994,7 @@ Agreed to travel.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To accept as authority; to adopt the opinions of; to obey; to yield to; to take as a rule of action; <as>as, to <ex>follow</ex> good advice</as>.</def></p>
 
-<p><q>Approve the best, and <qex>follow</qex> what I approve</q>. <rj><qau>Milton.</qau></rj></p>
+<p><q>Approve the best, and <qex>follow</qex> what I approve.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q><qex>Follow</qex> peace with all men.</q> <rj><qau>Heb. xii. 14.</qau></rj></p>
 

@@ -23968,7 +23968,7 @@ In another month to his brazen lies.</q> <rj><qau>Tennyson.</qau></rj></p>
 <p><hw>Hut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>hotte</ets>; akin to D. <ets>hut</ets>, G. <ets>h<uum/tte</ets>, OHG. <ets>hutta</ets>, Dan. <ets>hytte</ets>, Sw. <ets>hydda</ets>; and F. <ets>hutte</ets>, of G. origin; all akin to E. <ets>hide</ets> to conceal. See <er>Hude</er> to conceal.]</ety> <def>A small house, hivel, or cabin; a mean lodge or dwelling; a slightly built or temporary structure.</def></p>
 
 <p><q>Death comes on with equal footsteps<br/
-To the hall and <qex>hut</qex></q>. <rj><qau>Bp. Coxe.</qau></rj></p>
+To the hall and <qex>hut</qex>.</q> <rj><qau>Bp. Coxe.</qau></rj></p>
 </entry>
 
 <entry main-word="Hutch" source="1913 Webster">

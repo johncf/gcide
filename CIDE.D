@@ -29922,7 +29922,7 @@ Of thunder.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>Dis*ponge"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Pref. <ets>dis-</ets> + <ets>sponge</ets>.]</ety> <def>To sprinkle, as with water from a sponge.</def> <mark>[Poetic & Rare]</mark> <altsp>[Written also <asp>dispunge</asp>.]</altsp></p>
 
 <p><q>O sovereign mistress of true melancholy,<br/
-The poisonous damp of night <qex>disponge</qex> upon me</q>. <rj><qau>Shak.</qau></rj></p>
+The poisonous damp of night <qex>disponge</qex> upon me.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Dispope" source="1913 Webster">
@@ -39531,7 +39531,7 @@ Time's noblest offspring is the last.</q> <rj><qau>Berkeley.</qau></rj></p>
 
 <p><q>These starry blossoms, [of the snow] pure and white,<br/
 Soft falling, falling, through the night,<br/
-Have <qex>draped</qex> the woods and mere</q>. <rj><qau>Bungay.</qau></rj></p>
+Have <qex>draped</qex> the woods and mere.</q> <rj><qau>Bungay.</qau></rj></p>
 
 <p><sn>2.</sn> <def>To rail at; to banter.</def> <mark>[Obs.]</mark>  <rj><au>Sir W. Temple.</au></rj></p>
 </entry>
@@ -40231,20 +40231,20 @@ Till Fancy colored it and formed a <qex>dream</qex>.</q> <rj><qau>Pope.</qau></r
 <p><sn>2.</sn> <def>To let the mind run on in idle revery or vagary; to anticipate vaguely as a coming and happy reality; to have a visionary notion or idea; to imagine.</def></p>
 
 <p><q>Here may we sit and <qex>dream</qex><br/
-Over the heavenly theme</q>. <rj><qau>Keble.</qau></rj></p>
+Over the heavenly theme.</q> <rj><qau>Keble.</qau></rj></p>
 
-<p><q>They <qex>dream</qex> on in a constant course of reading, but not digesting</q>. <rj><qau>Locke.</qau></rj></p>
+<p><q>They <qex>dream</qex> on in a constant course of reading, but not digesting.</q> <rj><qau>Locke.</qau></rj></p>
 </entry>
 
 <entry main-word="Dream" source="1913 Webster">
 <p><hw>Dream</hw>, <pos>v. t.</pos> <def>To have a dream of; to see, or have a vision of, in sleep, or in idle fancy; -- often followed by an objective clause.</def></p>
 
-<p><q>Your old men shall <qex>dream</qex> dreams</q>. <rj><qau>Acts ii. 17.</qau></rj></p>
+<p><q>Your old men shall <qex>dream</qex> dreams.</q> <rj><qau>Acts ii. 17.</qau></rj></p>
 
 <p><q>At length in sleep their bodies they compose,<br/
-And <qex>dreamt</qex> the future fight</q>. <rj><qau>Dryden.</qau></rj></p>
+And <qex>dreamt</qex> the future fight.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><q>And still they <qex>dream</qex> that they shall still succeed</q>. <rj><qau>Cowper.</qau></rj></p>
+<p><q>And still they <qex>dream</qex> that they shall still succeed.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><cs><mcol><col>To dream away</col> <col>To dream out</col>, <col>To dream through</col>, etc.</mcol>, <cd>to pass in revery or inaction; to spend in idle vagaries; <as>as, to <ex>dream away</ex> an hour; to <ex>dream through</ex> life</as>.</cd> <ldquo/ Why does Antony <xex>dream out</xex> his hours?<rdquo/  <rj><au>Dryden.</au></rj></cs></p>
 </entry>
