@@ -4057,7 +4057,7 @@ Of food which in her duress she had found.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Rather" source="1913 Webster">
-<p><hw>Rath"er</hw> <pr>(r<acr/<th/"<etil/r)</pr>, <pos>a.</pos> <ety>[Compar. of <er>Rath</er>, <pos>a.</pos>]</ety> <def>Prior; earlier; former.</def> <mark>[Obs.]</mark></p>
+<p><hw>Rath"er</hw> <pr>(r<acr/<th/"<etil/r)</pr>, <pos>a.</pos> <ety>[<pos>Compar.</pos> of <er>Rath</er>, <pos>a.</pos>]</ety> <def>Prior; earlier; former.</def> <mark>[Obs.]</mark></p>
 
 <p><q>Now no man dwelleth at the <qex>rather</qex> town.</q> <rj><qau>Sir J. Mandeville.</qau></rj></p>
 </entry>

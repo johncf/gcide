@@ -7390,7 +7390,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Battel" source="1913 Webster">
-<p><hw>Bat"tel</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Obs. form. of <er>Battle</er>.]</ety> <fld>(Old Eng. Law)</fld> <def>A single combat; <as>as, trial by <ex>battel</ex></as>. See <cref>Wager of battel</cref>, under <er>Wager</er>.</def></p>
+<p><hw>Bat"tel</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Obs. form of <er>Battle</er>.]</ety> <fld>(Old Eng. Law)</fld> <def>A single combat; <as>as, trial by <ex>battel</ex></as>. See <cref>Wager of battel</cref>, under <er>Wager</er>.</def></p>
 </entry>
 
 <entry main-word="Battel" source="1913 Webster">
