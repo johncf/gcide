@@ -508,6 +508,10 @@ Tag           Font         Meaning and Description
                            marked part of speech.
                            See also <ecol>, tagging embedded collocations.
 
+<collapse>    *            Hidden, by default. Mostly remnants of contents that
+                           could not be replicated properly.
+                           E.g.: part of a table, captions of an illust.
+
 <colp>                     Collocation, no typographic significance.  Used
                            to mark a word combination defined in the
                            dictionary without affect on font. (not used)
@@ -581,6 +585,12 @@ Tag           Font         Meaning and Description
 
 <ex>          italic       Example.  An example of usage of the headword,
                            usually found within an <as> or <note> segment.
+
+<extra>       *            Extra content that has been added to the original
+                           to possibly make it more up to date. This tag
+                           always contains a "source" attribute which
+                           indicates the name of the source, usually the
+                           initials of the person who made the change.
 
 <fr>          *            Frequency of use, ordinal rank.  This is used for
                            WordNet entries, in which the synonyms were
@@ -714,6 +724,12 @@ Tag           Font         Meaning and Description
                            headword, within quotations marked by <q>..</q>
                            tags.
 
+<rev>         *            Revision made to the original to possibly make it
+                           more up to date. This tag always contains a "source"
+                           attribute (same as that for <extra>), and usually
+                           contains an "original" attribute to indicate the
+                           content that got replaced.
+
 <sd>          italic       Subdefinition, marked (a), (b), (c), etc.  These
                            are finer distinctions of word senses, used
                            within numbered word-sense (for main entries),
@@ -760,7 +776,7 @@ Tag           Font         Meaning and Description
                            pointlessly complicating for an on-line display.
 
 <ver>         *            Verified for current accuracy by a technical
-                           editor, without changes.
+                           editor, without changes. (not used)
 
 <vmorph>      *            Verb morphology (conjugation) segment, delimited
                            by square brackets.
