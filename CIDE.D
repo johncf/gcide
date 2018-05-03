@@ -19582,7 +19582,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Diaspora" source="Webster 1913 Suppl.">
-<p><par/<hw>Di*as"po*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/. See <er>Diaspore</er>.]</ety> <def>Lit., <ldquo/Dispersion.<rdquo/ -- applied collectively: (<it>a</it>) To those Jews who, after the Exile, were scattered through the Old World, and afterwards to Jewish Christians living among heathen. Cf. <au>James i. 1</au>. (<it>b</it>) By extension, to Christians isolated from their own communion, as among the Moravians to those living, usually as missionaries, outside of the parent congregation.</def></p>
+<p><par/<hw>Di*as"po*ra</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/. See <er>Diaspore</er>.]</ety> <def>Lit., <ldquo/Dispersion.<rdquo/ -- applied collectively: (<it>a</it>) To those Jews who, after the Exile, were scattered through the Old World, and afterwards to Jewish Christians living among heathen. Cf. <au>James i. 1.</au> (<it>b</it>) By extension, to Christians isolated from their own communion, as among the Moravians to those living, usually as missionaries, outside of the parent congregation.</def></p>
 </entry>
 
 <entry main-word="Diaspore" source="1913 Webster">
@@ -35364,7 +35364,7 @@ He dons a surcoat which he <qex>doffs</qex> at morn.</q> <rj><qau> Emerson.</qau
 </entry>
 
 <entry main-word="Dogwood" source="1913 Webster">
-<p><hw>Dog"wood`</hw> <pr>(-w<oocr/d`)</pr>, <pos>n.</pos> <ety>[So named from skewers (dags) being made of it. <au>Dr. Prior</au>.  See <er>Dag</er>, and <er>Dagger</er>.]</ety> <fld>(Bot.)</fld> <def>The <gen>Cornus</gen>, a genus of large shrubs or small trees, the wood of which is exceedingly hard, and serviceable for many purposes.</def></p>
+<p><hw>Dog"wood`</hw> <pr>(-w<oocr/d`)</pr>, <pos>n.</pos> <ety>[So named from skewers (dags) being made of it. <au>Dr. Prior.</au>  See <er>Dag</er>, and <er>Dagger</er>.]</ety> <fld>(Bot.)</fld> <def>The <gen>Cornus</gen>, a genus of large shrubs or small trees, the wood of which is exceedingly hard, and serviceable for many purposes.</def></p>
 
 <p><note><hand/ There are several species, one of which, <spn>Cornus mascula</spn>, called also <stype>cornelian cherry</stype>, bears a red acid berry. <spn>Cornus florida</spn> is the flowering dogwood, a small American tree with very showy blossoms.</note></p>
 

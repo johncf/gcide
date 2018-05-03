@@ -5213,7 +5213,7 @@ Were in a mask ?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Latimer" source="1913 Webster">
-<p><hw>Lat"i*mer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>latinier</ets>, <ets>latimier</ets>, prop., one knowing Latin.]</ety> <def>An interpreter.</def> <mark>[Obs.]</mark> <au>Coke</au>.</p>
+<p><hw>Lat"i*mer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OF. <ets>latinier</ets>, <ets>latimier</ets>, prop., one knowing Latin.]</ety> <def>An interpreter.</def> <mark>[Obs.]</mark> <au>Coke.</au></p>
 </entry>
 
 <entry main-word="Latimeria" source="WordNet 1.5">
@@ -6005,7 +6005,7 @@ And rolled on levers, <qex>launched</qex> her in the deep.</q> <rj><qau>Pope.</q
 </entry>
 
 <entry main-word="lavaliere" source="PJC;;Webster 1913 Suppl.">
-<p><mhw>{ <hw>la`va`liere"</hw>, <hw>la`val`lier"</hw>, or  <hw>La val`liere"</hw> }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after the <person>Duchesse de <ets>La Valliere</ets></person>, a mistress of <person>Louis XI.</person> <au>RHUD</au>.]</ety> <def>A neck ornament consisting of a chain and single jewelled pendant, or drop; also, the pendant itself.</def></p>
+<p><mhw>{ <hw>la`va`liere"</hw>, <hw>la`val`lier"</hw>, or  <hw>La val`liere"</hw> }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after the <person>Duchesse de <ets>La Valliere</ets></person>, a mistress of <person>Louis XI.</person> <au>RHUD.</au>]</ety> <def>A neck ornament consisting of a chain and single jewelled pendant, or drop; also, the pendant itself.</def></p>
 </entry>
 
 <entry main-word="lavaliere microphone" source="PJC">
@@ -24080,7 +24080,7 @@ In all its <qex>luster</qex>, to the noonday sky.</q> <rj><qau>Addison.</qau></r
 </entry>
 
 <entry main-word="Lute" source="1913 Webster">
-<p><hw>Lute</hw>, <pos>v. i.</pos> <def>To sound, as a lute.</def> <au>Piers Plowman</au>. <au>Keats</au>.</p>
+<p><hw>Lute</hw>, <pos>v. i.</pos> <def>To sound, as a lute.</def> <au>Piers Plowman.</au> <au>Keats.</au></p>
 </entry>
 
 <entry main-word="Lute" source="1913 Webster">

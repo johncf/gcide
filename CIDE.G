@@ -11379,7 +11379,7 @@ And <qex>glutted</qex> all night long breast-deep in corn.</q> <rj><qau>Tennyson
 
 <p><sn>3.</sn> <def>Something that fills up an opening; a clog.</def></p>
 
-<p><sn>4.</sn> <sd>(a)</sd> <def>A wooden wedge used in splitting blocks.</def> <mark>[Prov. Eng.]</mark> <sd>(b)</sd> <fld>(Mining)</fld> <def>A piece of wood used to fill up behind cribbing or tubbing.</def> <au>Raymond</au>. <sd>(c)</sd> <fld>(Bricklaying)</fld> <def>A bat, or small piece of brick, used to fill out a course.</def> <au>Knight.</au> <sd>(d)</sd> <fld>(Arch.)</fld> <def>An arched opening to the ashpit of a kiln.</def> <sd>(e)</sd> <def>A block used for a fulcrum.</def></p>
+<p><sn>4.</sn> <sd>(a)</sd> <def>A wooden wedge used in splitting blocks.</def> <mark>[Prov. Eng.]</mark> <sd>(b)</sd> <fld>(Mining)</fld> <def>A piece of wood used to fill up behind cribbing or tubbing.</def> <au>Raymond.</au> <sd>(c)</sd> <fld>(Bricklaying)</fld> <def>A bat, or small piece of brick, used to fill out a course.</def> <au>Knight.</au> <sd>(d)</sd> <fld>(Arch.)</fld> <def>An arched opening to the ashpit of a kiln.</def> <sd>(e)</sd> <def>A block used for a fulcrum.</def></p>
 
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>The broad-nosed eel (<spn>Anguilla latirostris</spn>), found in Europe, Asia, the West Indies, etc.</def></p>
 </entry>

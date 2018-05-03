@@ -3949,7 +3949,7 @@ Softened with pleasure and voluptuous life.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Venge" source="1913 Webster">
-<p><hw>Venge</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[F. <ets>venger</ets>.  See <er>Vengeance</er>.]</ety> <def>To avenge; to punish; to revenge.</def> <mark>[Obs.]</mark> <see>See <er>Avenge</er>, and <er>Revenge</er>.</see> <au>Chaucer</au>.  <ldquo/To <xex>venge</xex> me, as I may.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Venge</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[F. <ets>venger</ets>.  See <er>Vengeance</er>.]</ety> <def>To avenge; to punish; to revenge.</def> <mark>[Obs.]</mark> <see>See <er>Avenge</er>, and <er>Revenge</er>.</see> <au>Chaucer.</au>  <ldquo/To <xex>venge</xex> me, as I may.<rdquo/  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Vengeable" source="1913 Webster">

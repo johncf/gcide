@@ -1234,7 +1234,7 @@ And to just <qex>idioms</qex> fix our doubtful speech.</q> <rj><qau>Prior.</qau>
 
 <p source="1913 Webster;;PJC"><sn>3.</sn> <def>A combination of words having a meaning peculiar to itself and not predictable as a combination of the meanings of the individual words, but sanctioned by usage; <as>as, an <ex>idiomatic</ex> expression</as>; less commonly, a single word used in a peculiar sense.</def></p>
 
-<p><q>It is not by means of rules that such <qex>idioms</qex> as the following are made current: <ldquo/I can <examp>make nothing</examp> of it.<rdquo/ <ldquo/He <examp>treats</examp> his subject <examp>home</examp>.<rdquo/  <au>Dryden</au>. <ldquo/It is that within us that <examp>makes for</examp> righteousness.<rdquo/ <au>M. Arnold</au>.</q> <rj><qau>Gostwick (Eng. Gram.)</qau></rj></p>
+<p><q>It is not by means of rules that such <qex>idioms</qex> as the following are made current: <ldquo/I can <examp>make nothing</examp> of it.<rdquo/ <ldquo/He <examp>treats</examp> his subject <examp>home</examp>.<rdquo/  <au>Dryden.</au> <ldquo/It is that within us that <examp>makes for</examp> righteousness.<rdquo/ <au>M. Arnold.</au></q> <rj><qau>Gostwick (Eng. Gram.)</qau></rj></p>
 
 <p><q>Sometimes we identify the words with the object -- though by courtesy of <qex>idiom</qex> rather than in strict propriety of language.</q> <rj><qau>Coleridge.</qau></rj></p>
 
@@ -16067,7 +16067,7 @@ Amidst the gross <qex>infections</qex> of those times.</q> <rj><qau>Daniel.</qau
 
 <p source="PJC"><sn>7.</sn> <def>A localized area of tissue which is inflamed by growth of microorganisms; <as>as, he has an <ex>infection</ex> in his finger</as>.</def></p>
 
-<p><syn><b>Syn.</b> -- <er>Infection</er>, <er>Contagion</er>.</syn> <usage> -- <xex>Infection</xex> is often used in a definite and limited sense of the transmission of affections without direct contact of individuals or immediate application or introduction of the morbific agent, in contradistinction to <xex>contagion</xex>, which then implies transmission by direct contact. <au>Quain</au>. See <er>Contagious</er>.</usage></p>
+<p><syn><b>Syn.</b> -- <er>Infection</er>, <er>Contagion</er>.</syn> <usage> -- <xex>Infection</xex> is often used in a definite and limited sense of the transmission of affections without direct contact of individuals or immediate application or introduction of the morbific agent, in contradistinction to <xex>contagion</xex>, which then implies transmission by direct contact. <au>Quain.</au> See <er>Contagious</er>.</usage></p>
 </entry>
 
 <entry main-word="Infectious" source="1913 Webster">
@@ -23117,7 +23117,7 @@ As swine, yet <qex>intellected</qex> as before.</q> <rj><qau>Cowper.</qau></rj><
 </entry>
 
 <entry main-word="Intellection" source="1913 Webster">
-<p><hw>In`tel*lec"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>intellectio</ets> synecdoche: cf. F. <ets>intellection</ets>.]</ety> <def>A mental act or process;</def> <specif>especially:</specif> <sd>(a)</sd> <def>The act of understanding; simple apprehension of ideas; intuition.</def> <au>Bentley</au>. <sd>(b)</sd> <def>A creation of the mind itself.</def>  <rj><au>Hickok.</au></rj></p>
+<p><hw>In`tel*lec"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>intellectio</ets> synecdoche: cf. F. <ets>intellection</ets>.]</ety> <def>A mental act or process;</def> <specif>especially:</specif> <sd>(a)</sd> <def>The act of understanding; simple apprehension of ideas; intuition.</def> <au>Bentley.</au> <sd>(b)</sd> <def>A creation of the mind itself.</def>  <rj><au>Hickok.</au></rj></p>
 </entry>
 
 <entry main-word="Intellective" source="1913 Webster">

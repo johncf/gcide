@@ -1754,7 +1754,7 @@ We must supplant those rough, rug-headed <qex>kerns</qex>.</q> <rj><qau>Shak.</q
 </entry>
 
 <entry main-word="ketchup" source="PJC">
-<p><hw>ketch"up</hw> <pr>(?)</pr> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably of East Indian origin, because it was originally a kind of East Indian pickles.  Cf. also Malay <ets>k<ecr/chap</ets> fish sauce. <au>MW10</au>.]</ety> <def>A pureed table sauce made predominantly from tomatoes, flavored with onions, sugar, salt and spices; called also <altname>tomato ketchup</altname>. The term is also applied to pureed sauces containing mushrooms, walnuts, etc., being called in such cases <altname>mushroom ketchup</altname>, <altname>walnut ketchup</altname>, etc.</def> <altsp>[Written also <asp>catsup</asp> and <asp>catchup</asp>.]</altsp></p>
+<p><hw>ketch"up</hw> <pr>(?)</pr> <pr>(?)</pr>, <pos>n.</pos> <ety>[Probably of East Indian origin, because it was originally a kind of East Indian pickles.  Cf. also Malay <ets>k<ecr/chap</ets> fish sauce. <au>MW10.</au>]</ety> <def>A pureed table sauce made predominantly from tomatoes, flavored with onions, sugar, salt and spices; called also <altname>tomato ketchup</altname>. The term is also applied to pureed sauces containing mushrooms, walnuts, etc., being called in such cases <altname>mushroom ketchup</altname>, <altname>walnut ketchup</altname>, etc.</def> <altsp>[Written also <asp>catsup</asp> and <asp>catchup</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Ketine" source="1913 Webster">

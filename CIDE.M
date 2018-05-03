@@ -31985,7 +31985,7 @@ Nor ceased to burn till kingdoms were <qex>no more</qex>.</q> <rj><qau>Byron.</q
 </entry>
 
 <entry main-word="Morisco" source="1913 Webster">
-<p><hw>Mo*ris"co</hw>, <pos>n.</pos> <ety>[Sp. <ets>morisco</ets> Moorish.]</ety> <def>A thing of Moorish origin;</def> as: <sd>(a)</sd> <def>The Moorish language.</def> <sd>(b)</sd> <def>A Moorish dance, now called <altname>morris dance</altname>.</def> <au>Marston</au>. <sd>(c)</sd> <def>One who dances the Moorish dance.</def> <au>Shak</au>. <sd>(d)</sd> <def>Moresque decoration or architecture.</def></p>
+<p><hw>Mo*ris"co</hw>, <pos>n.</pos> <ety>[Sp. <ets>morisco</ets> Moorish.]</ety> <def>A thing of Moorish origin;</def> as: <sd>(a)</sd> <def>The Moorish language.</def> <sd>(b)</sd> <def>A Moorish dance, now called <altname>morris dance</altname>.</def> <au>Marston.</au> <sd>(c)</sd> <def>One who dances the Moorish dance.</def> <au>Shak.</au> <sd>(d)</sd> <def>Moresque decoration or architecture.</def></p>
 </entry>
 
 <entry main-word="Morisk" source="1913 Webster">

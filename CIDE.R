@@ -25930,7 +25930,7 @@ Hath <qex>rung</qex> night's yawning peal.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To repeat often, loudly, or earnestly.</def></p>
 
-<p><cs><col>To ring a peal</col>, <cd>to ring a set of changes on a chime of bells.</cd> -- <col>To ring the changes upon</col>. <cd>See under <er>Change</er>.</cd> -- <mcol><col>To ring in</col> <it>or</it> <col>To ring out</col></mcol>, <cd>to usher, attend on, or celebrate, by the ringing of bells; <as>as, <ex>to ring out</ex> the old year and <ex>ring in</ex> the new</as>.</cd> <au>Tennyson</au>. -- <col>To ring the bells backward</col>, <cd>to sound the chimes, reversing the common order; -- formerly done as a signal of alarm or danger.</cd> <au>Sir W. Scott.</au></cs></p>
+<p><cs><col>To ring a peal</col>, <cd>to ring a set of changes on a chime of bells.</cd> -- <col>To ring the changes upon</col>. <cd>See under <er>Change</er>.</cd> -- <mcol><col>To ring in</col> <it>or</it> <col>To ring out</col></mcol>, <cd>to usher, attend on, or celebrate, by the ringing of bells; <as>as, <ex>to ring out</ex> the old year and <ex>ring in</ex> the new</as>.</cd> <au>Tennyson.</au> -- <col>To ring the bells backward</col>, <cd>to sound the chimes, reversing the common order; -- formerly done as a signal of alarm or danger.</cd> <au>Sir W. Scott.</au></cs></p>
 </entry>
 
 <entry main-word="Ring" source="1913 Webster">

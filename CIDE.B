@@ -1777,7 +1777,7 @@ The picture of his punishment might see.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Baggala" source="1913 Webster">
-<p><par/<hw>Bag"ga*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ldquo/fem. of <ets>baghl</ets> a mule.<rdquo/ <au>Balfour</au>.]</ety> <fld>(Naut.)</fld> <def>A two-masted Arab or Indian trading vessel, used in the Indian Ocean.</def></p>
+<p><par/<hw>Bag"ga*la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Ar. <ldquo/fem. of <ets>baghl</ets> a mule.<rdquo/ <au>Balfour.</au>]</ety> <fld>(Naut.)</fld> <def>A two-masted Arab or Indian trading vessel, used in the Indian Ocean.</def></p>
 </entry>
 
 <entry main-word="Baggily" source="1913 Webster">
@@ -36803,7 +36803,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Bucephalus" source="Webster 1913 Suppl.">
 <p><hw>Bu*ceph"a*lus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., ox-headed; <?/ ox + <?/ head.]</ety> <sn>1.</sn>  <def>The celebrated war horse of Alexander the Great.</def></p>
 
-<p><sn>2.</sn>  <def>Hence, any riding horse.</def> <mark>[Jocose]</mark> <au>Sir W. Scott</au>.</p>
+<p><sn>2.</sn>  <def>Hence, any riding horse.</def> <mark>[Jocose]</mark> <au>Sir W. Scott.</au></p>
 </entry>
 
 <entry main-word="Buceros" source="1913 Webster">
@@ -39101,7 +39101,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Buoy" source="1913 Webster">
-<p><hw>Buoy</hw> <pr>(bwoi <it>or</it> boi; 277)</pr>, <pos>n.</pos> <ety>[D. <ets>boei</ets> buoy, fetter, fr. OF. <ets>boie</ets>, <ets>buie</ets>, chain, fetter, F. <ets>bou<eacute/e</ets> a buoy, from L. <ets>boia</ets>. <ldquo/<ets>Boiae</ets> genus vinculorum tam ferreae quam ligneae.<rdquo/ <au>Festus</au>. So called because chained to its place.]</ety> <fld>(Naut.)</fld> <def>A float; esp. a floating object moored to the bottom, to mark a channel or to point out the position of something beneath the water, as an anchor, shoal, rock, etc.</def></p>
+<p><hw>Buoy</hw> <pr>(bwoi <it>or</it> boi; 277)</pr>, <pos>n.</pos> <ety>[D. <ets>boei</ets> buoy, fetter, fr. OF. <ets>boie</ets>, <ets>buie</ets>, chain, fetter, F. <ets>bou<eacute/e</ets> a buoy, from L. <ets>boia</ets>. <ldquo/<ets>Boiae</ets> genus vinculorum tam ferreae quam ligneae.<rdquo/ <au>Festus.</au> So called because chained to its place.]</ety> <fld>(Naut.)</fld> <def>A float; esp. a floating object moored to the bottom, to mark a channel or to point out the position of something beneath the water, as an anchor, shoal, rock, etc.</def></p>
 
 <p><cs><col>Anchor buoy</col>, <cd>a buoy attached to, or marking the position of, an anchor.</cd> -- <col>Bell buoy</col>, <cd>a large buoy on which a bell is mounted, to be rung by the motion of the waves.</cd> -- <col>Breeches buoy</col>. <cd>See under <er>Breeches</er>.</cd> -- <col>Cable buoy</col>, <cd>an empty cask employed to buoy up the cable in rocky anchorage.</cd> -- <col>Can buoy</col>, <cd>a hollow buoy made of sheet or boiler iron, usually conical or pear-shaped.</cd> -- <col>Life buoy</col>, <cd>a float intended to support persons who have fallen into the water, until a boat can be dispatched to save them.</cd> -- <mcol><col>Nut buoy</col> <it>or</it> <col>Nun buoy</col></mcol>, <cd>a buoy large in the middle, and tapering nearly to a point at each end.</cd> -- <col>To stream the buoy</col>, <cd>to let the anchor buoy fall by the ship's side into the water, before letting go the anchor.</cd> -- <col>Whistling buoy</col>, <cd>a buoy fitted with a whistle that is blown by the action of the waves.</cd></cs></p>
 </entry>

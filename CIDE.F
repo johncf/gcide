@@ -26209,7 +26209,7 @@ That almost <qex>freezes</qex> up the heat of life.</q> <rj><qau>Shak.</qau></rj
 </entry>
 
 <entry main-word="Fremescent" source="Webster 1913 Suppl.">
-<p><hw>Fre*mes"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>fremere</ets> to roar, murmur + <ets>-escent</ets>.]</ety> <def>Becoming murmurous, roaring.</def> <ldquo/<xex>Fremescent</xex> clangor.<rdquo/ <au>Carlyle</au>. -- <wordforms><wf>Fre*mes"cence</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms></p>
+<p><hw>Fre*mes"cent</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>fremere</ets> to roar, murmur + <ets>-escent</ets>.]</ety> <def>Becoming murmurous, roaring.</def> <ldquo/<xex>Fremescent</xex> clangor.<rdquo/ <au>Carlyle.</au> -- <wordforms><wf>Fre*mes"cence</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Fremitus" source="Webster 1913 Suppl.">
@@ -27405,7 +27405,7 @@ Are <qex>friendly</qex> met.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 </entry>
 
 <entry main-word="Frivol" source="Webster 1913 Suppl.">
-<p><hw>Friv"ol</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To act frivolously; to trifle.</def> <au>Kipling</au>. -- <wordforms><wf>Friv"ol*er</wf> <pr>(#)</pr>, <wf>Friv"ol*ler</wf>, <pos>n.</pos> <mark>[All Colloq.]</mark></wordforms></p>
+<p><hw>Friv"ol</hw> <pr>(?)</pr>, <pos>v. i.</pos> <def>To act frivolously; to trifle.</def> <au>Kipling.</au> -- <wordforms><wf>Friv"ol*er</wf> <pr>(#)</pr>, <wf>Friv"ol*ler</wf>, <pos>n.</pos> <mark>[All Colloq.]</mark></wordforms></p>
 </entry>
 
 <entry main-word="Frivolism" source="1913 Webster">
