@@ -1,0 +1,66 @@
+<sect/ 1. KEY TO THE SYMBOLS
+
+In the RESPELLING FOR PRONUNCIATION in the Dictionary, there is employed -- as shown in the Table -- a symbol for every clear vowel or diphthongal sound in the language; with, four instances, a pair of equivalents for the same sound as occurring in different situations, viz.: <b><udd/ = <oomac/ ; <usdot/ = <oocr/ ; <ocir/ = <add/ ;</b> and <b><ycr/</b> (final) <b>= <icr/ ;</b> besides <b><ait/</b> and <b><eit/</b>, italicized, as these vowels are in certain cases obscured and turned toward the neutral form; also, apostrophe for the voice-glide; and <b>N</b> to indicate foreign nasalized vowels; -- some of the sounds occurring only in accented and others only in unaccented syllables, and some others, with but slight difference of quality, in both; -- the <b><etil/</b> is always of the <ldquo/narrow<rdquo/ form in accented and the <ldquo/wide<rdquo/ in unaccented syllables. The <b><asl/, <esl/,</b> and <b><osl/</b> are used to represent the similar sounds in foreign words, but not limited as they are in English to unaccented syllables. The <b><usdot/</b> is employed, as the nearest English vowel we have, inexact as it is, to replace <b>u</b> French and <b><uum/</b> German; and in like manner the <b><etil/</b> for the <b>eu</b> French and <b><oum/</b> German.
+
+The consonant letters <b>b, d, f, h, j, k, l, m, p, r, t, v, w,</b> and <b>y,</b> and the digraphs <b>sh</b> and <b>ng</b>, are used with their ordinary normal value; <b>g, s, z,</b> and <b>ch</b> are each limited to a single sound; <b>n</b> and <b>th</b> are marked for one sound of each and used unmarked for the other. No use is made of <b>c, q, x,</b> or the digraphs <b>ph, gh, dg</b> and <b>wh</b>. The principal substitutions made with each consonant symbol in the respelling are noted in the Table.
+
+<-- TODO transcribe special symbols, bold markings -->
+
+<amac/, as in . . . ale, fate, la"bor, cha"os, cham"ber, pa`tri*ar"chal.
+<asl/, as in . . . sen"ate, pref"ace, del"i*cate, a*e"ri*al, cha*ot"ic, sal"u*ta*ry.
+<acir/, as in . . . care, share, par"ent, com*pare", plow"share`, bear, air.
+<acr/, as in . . . am, add, fat, ran"dom, at*tack", ac*cept", re`ad*mit".
+<aum/, as in . . . arm, far, fa"ther, mar"tyr, ah, alms, art, palm.
+<adot/, as in . . . ask, grass, dance, a*bate", A*mer"i*ca, so"fa, bot"a*ny.
+<ait/, as in . . . fi"nal, in"fant, guid"ance, val"iant, hus"band, mad"am.
+<add/, as in . . . all, awe, swarm, talk, draw.
+<emac/, as in . . . eve, mete, se*rene", he`li*om"e*ter.
+<esl/, as in . . . e*vent", de*pend", cre*ate", so*ci"e*ty, de*lin"e*ate, se*rene".
+<ecr/, as in . . . end, met, ex*cuse", ef*face", car"pet, con`dem*na"tion.
+<etil/, as in . . . fern, her, er"mine, per*vert", ev"er, in"fer*ence.
+<eit/, as in . . . re"cent, de"cen*cy, pru"dence, pen"i*tent, nov"el.
+<imac/, as in . . . ice, time, sight, bind, in*spire", jus"ti*fi`a*ble.
+<isl/, as in . . . i*de"a, tri*bu"nal, di*am"e*ter, bi*ol"o*gy.
+<icr/, as in . . . ill, pin, pit"y, ad*mit", hab"it, di*vide", in*fin"i*tive.
+<omac/, as in . . . old, note, row, bold, o"ver, pro*pose", lo"co*mo`tive.
+<osl/, as in . . . o*bey", to*bac"co, sor"row, a*nat"o*my, pro*pose".
+<ocir/, as in . . . orb, lord, or"der, land"lord`, ab*hor", ab*hor"ring.
+<ocr/, as in . . . odd, not, tor"rid, for"est, oc*cur", in`cor*rect".
+<umac/, as in . . . use, pure, mute, tune, lute, du"ty, hu"man, as*sume".
+<usl/, as in . . . u*nite", ac"tu*ate, ed*u*ca"tion, hu*mane".
+<udd/, as in . . . rude, ru"mor, in*trude".
+<usdot/, as in . . . sull, put, push, ful*fill", joy"ful, in"stru*ment.
+<ucr/, as in . . . up, tub, stud"y, un"der, sub*mit", in"dus*try.
+<ucir/, as in . . . urn, furl, con*cur", burn.
+<ycr/, as in . . . pit"y, in"ju*ry, di*vin"i*ty.
+<oomac/, as in . . . food, moon, fool, noon, woo"ing.
+<oocr/, as in . . . foot, wool, book, good, crook"ed.
+ou, as in . . . out, thou, de*vour"
+N, representing simply the nasal tone (as in French or Portuguese) of the preceding vowel; as in ensemble <pr>(<aum/N`s<aum/N"b'l)</pr>, intrigante <pr>(<acr/N`tr<esl/`g<aum/Nt")</pr>.
+', (for voice-glide), as in pardon <pr>(p<aum/r"d'n)</pr>, eaten <pr>(<emac/t"'n)</pr>, evil <pr>(<emac/"v'l)</pr>.
+
+g (hard): as in go, begin, great, anger; for gu, as in guard; for gue, as in plague; for gh, as in ghost.
+s (surd, or sharp): as in so, this, haste; for c, as in cell, vice; for sc, as in scene, science; for ss, as in hiss.
+z (like s sonant): as in zone, haze; for s, as in is, lives, wise, music, ears, figs; for x, as in Xenophon, xylography.
+ch (=tsh): as in chair, much; for tch, as in match, etching.
+sh: for ch, as in machine, chaise, chandelier; for ce as in ocean; for ci as in social; for sci, as in conscious; for s, as in sure; for se, as in nauseous; for si, as in pension; for ss, as in issue; for ssi, as in passion; for ti, as in nation.
+zh (=sh made sonant): for z, as in azure; for zi, as in glazier, brazier; for s, as in pleasure, usual; for si, as in vision; for ssi, as in abscission; for g, as in rouge, cortege, genre.
+j (=dzh): for g, as in gem, giant, engine; for gi and ge, as in religion, pigeon; for di, as in soldier; for dg, as in edge, knowledge.
+k: for ch, as in chorus, epoch, anarchy; for c, as in cat, cube; for ck, as in pack, duck; for qu, as in conquer, coquette; for que, as in pique, oblique.
+kw: for qu, as in queen, quit, quality.
+ks (surd): for x, as in vex, exit, perplex, dextrous.
+gz (sonant): for x, as in exist, exact, example.
+f: for ph, as in philosophy, triumph; for gh, as in laugh, rough.
+hw: for wh, as in what, why, where.
+t: for ed, as in baked, crossed, capped; for th, as in thyme, Thomas.
+ng: as in long, singer; for ngue, as in tongue.
+<nsm/ (like ng): for n before the sound of k or hard g, as in bank, junction, linger, single, canker.
+n (the ordinary sound): as in no, none, man, many.
+<th/ (sonant): for th, as in then, though, this, smooth, breathe.
+th (surd): as in thin, through, wealth, worth, breath, width.
+
+Note. Foreign consonant sounds are represented by the nearest English equivalents.
+
+References. Figures annexed to the respelled form of the words refer to sections in the Guide to Pronunciation.
+
+Accents and Hyphens. The principal accent is indicated by a heavy mark <pr>(")</pr>, and the secondary accent by a lighter mark <pr>(`)</pr>, at the end of the syllable. Syllable division is otherwise indicated by a light hyphen <pr>(*)</pr>; a heavier hyphen joins the members of compound words.
