@@ -18011,7 +18011,7 @@ And in the <qex>ingot</qex> put it with merry cheer.</q> <rj><qau>Chaucer.</qau>
 </entry>
 
 <entry main-word="Ingraft" source="1913 Webster">
-<p><hw>In*graft"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ingrafted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Ingrafting</conjf>.]</vmorph> <ety>[Written also <ets>engraft</ets>.]</ety></p>
+<p><hw>In*graft"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ingrafted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Ingrafting</conjf>.]</vmorph> <altsp>[Written also <asp>engraft</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To insert, as a scion of one tree, shrub, or plant in another for propagation; <as>as, to <ex>ingraft</ex> a peach scion on a plum tree</as>;</def> <mark>[figuratively]</mark>, <def>to insert or introduce in such a way as to make a part of something.</def></p>
 
@@ -18048,7 +18048,7 @@ Upon our stock.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Ingrain" source="1913 Webster">
-<p><hw>In"grain`</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ingrained</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ingraining</conjf>.]</vmorph> <ety>[Written also <ets>engrain</ets>.]</ety></p>
+<p><hw>In"grain`</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ingrained</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ingraining</conjf>.]</vmorph> <altsp>[Written also <asp>engrain</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To dye with or in grain or kermes.</def></p>
 
@@ -20142,7 +20142,7 @@ Gladly into the ways of God with man.</q> <rj><qau>Miltom.</qau></rj></p>
 </entry>
 
 <entry main-word="Inquirer" source="1913 Webster">
-<p><hw>In*quir"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>enquirer</ets>.]</ety> <def>One who inquires or examines; questioner; investigator.</def>  <rj><au>Locke.</au></rj></p>
+<p><hw>In*quir"er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>enquirer</asp>.]</altsp> <def>One who inquires or examines; questioner; investigator.</def>  <rj><au>Locke.</au></rj></p>
 
 <p><q>Expert <qex>inquirers</qex> after truth.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
@@ -21325,7 +21325,7 @@ With earth's large mass.</q> <rj><qau>Crashaw.</qau></rj></p>
 </entry>
 
 <entry main-word="Insnare" source="1913 Webster">
-<p><hw>In*snare"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Insnared</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Insnaring</conjf>.]</vmorph> <ety>[Written also <ets>ensnare</ets>.]</ety></p>
+<p><hw>In*snare"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Insnared</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Insnaring</conjf>.]</vmorph> <altsp>[Written also <asp>ensnare</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To catch in a snare; to entrap; to take by artificial means.</def> <ldquo/<xex>Insnare</xex> a gudgeon.<rdquo/  <rj><au>Fenton.</au></rj></p>
 
@@ -29356,7 +29356,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Inwrap" source="1913 Webster">
-<p><hw>In*wrap"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Written also <ets>enwrap</ets>.]</ety></p>
+<p><hw>In*wrap"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <altsp>[Written also <asp>enwrap</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To cover by wrapping; to involve; to infold; <as>as, to <ex>inwrap</ex> in a cloak, in smoke, etc.</as></def></p>
 

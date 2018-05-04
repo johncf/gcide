@@ -9721,11 +9721,11 @@ As, in their order, next to light they came.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Marshaler" source="1913 Webster">
-<p><hw>Mar"shal*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>marshaller</ets>.]</ety> <def>One who marshals.</def></p>
+<p><hw>Mar"shal*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>marshaller</asp>.]</altsp> <def>One who marshals.</def></p>
 </entry>
 
 <entry main-word="Marshaling" source="1913 Webster">
-<p><hw>Mar"shal*ing</hw>, <pos>n.</pos> <ety>[Written also <ets>marshalling</ets>.]</ety></p>
+<p><hw>Mar"shal*ing</hw>, <pos>n.</pos> <altsp>[Written also <asp>marshalling</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>The act of arranging in due order.</def></p>
 
@@ -24939,7 +24939,7 @@ What may befall him, to his harm and ours.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Misjudgment" source="1913 Webster">
-<p><hw>Mis*judg"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>misjudgement</ets>.]</ety> <def>A wrong or unjust judgment.</def></p>
+<p><hw>Mis*judg"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>misjudgement</asp>.]</altsp> <def>A wrong or unjust judgment.</def></p>
 </entry>
 
 <entry main-word="Miskeep" source="1913 Webster">

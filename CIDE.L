@@ -357,7 +357,7 @@ This garden.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Laborer" source="1913 Webster">
-<p><hw>La"bor*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>labourer</ets>.]</ety> <def>One who labors in a toilsome occupation; a person who does work that requires strength rather than skill, as distinguished from that of an <contr>artisan</contr>.</def></p>
+<p><hw>La"bor*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>labourer</asp>.]</altsp> <def>One who labors in a toilsome occupation; a person who does work that requires strength rather than skill, as distinguished from that of an <contr>artisan</contr>.</def></p>
 </entry>
 
 <entry main-word="Laboring" source="1913 Webster">
@@ -10821,7 +10821,7 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Leveler" source="1913 Webster">
-<p><hw>Lev"el*er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <ety>[Written also <ets>leveller</ets>.]</ety> <sn>1.</sn> <def>One who, or that which, levels.</def></p>
+<p><hw>Lev"el*er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <altsp>[Written also <asp>leveller</asp>.]</altsp> <sn>1.</sn> <def>One who, or that which, levels.</def></p>
 
 <p><sn>2.</sn> <def>One who would remove social inequalities or distinctions; a socialist.</def></p>
 </entry>
@@ -10834,7 +10834,7 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Leveling" source="1913 Webster">
-<p><hw>Lev"el*ing</hw>, <pos>n.</pos> <ety>[Written also <ets>levelling</ets>.]</ety> <sn>1.</sn> <def>The act or operation of making level.</def></p>
+<p><hw>Lev"el*ing</hw>, <pos>n.</pos> <altsp>[Written also <asp>levelling</asp>.]</altsp> <sn>1.</sn> <def>The act or operation of making level.</def></p>
 
 <p><sn>2.</sn> <fld>(Surveying)</fld> <def>The art or operation of using a leveling instrument for finding a horizontal line, for ascertaining the differences of level between different points of the earth's surface included in a survey, for establishing grades, etc., as in finding the descent of a river, or locating a line of railroad.</def></p>
 
@@ -12377,7 +12377,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 </entry>
 
 <entry main-word="Lif" source="1913 Webster">
-<p><hw>Lif</hw> <pr>(l<icr/f)</pr>, <pos>n.</pos> <ety>[Written also <ets>lief</ets>.]</ety> <def>The fiber by which the petioles of the date palm are bound together, from which various kinds of cordage are made.</def></p>
+<p><hw>Lif</hw> <pr>(l<icr/f)</pr>, <pos>n.</pos> <altsp>[Written also <asp>lief</asp>.]</altsp> <def>The fiber by which the petioles of the date palm are bound together, from which various kinds of cordage are made.</def></p>
 </entry>
 
 <entry main-word="Life" source="1913 Webster">

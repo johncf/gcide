@@ -13124,7 +13124,7 @@ For him that's dead or false to me.</q> <rj><qau>Campbell.</qau></rj></p>
 </entry>
 
 <entry main-word="Willsome" source="1913 Webster">
-<p><hw>Will"some</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>wilsome</ets>.]</ety> <sn>1.</sn> <def>Willful; obstinate.</def>  <mark>[Obs.]</mark></p>
+<p><hw>Will"some</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Written also <asp>wilsome</asp>.]</altsp> <sn>1.</sn> <def>Willful; obstinate.</def>  <mark>[Obs.]</mark></p>
 
 <p><sn>2.</sn> <def>Fat; indolent.</def>  <mark>[Prov. Eng.]</mark>  <rj><au>Halliwell.</au></rj></p>
 
@@ -14453,7 +14453,7 @@ Our <qex>wintry</qex> course do thou beguile.</q> <rj><qau>Keble.</qau></rj></p>
 </entry>
 
 <entry main-word="Wiry" source="1913 Webster">
-<p><hw>Wir"y</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>wiery</ets>.]</ety></p>
+<p><hw>Wir"y</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Written also <asp>wiery</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>Made of wire; like wire; drawn out like wire.</def></p>
 
@@ -16707,7 +16707,7 @@ Of <qex>woody</qex> Ida's inmost grove.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Woolen" source="1913 Webster">
-<p><hw>Wool"en</hw>, <pos>n.</pos> <ety>[Written also <ets>woollen</ets>.]</ety> <def>Cloth made of wool; woollen goods.</def></p>
+<p><hw>Wool"en</hw>, <pos>n.</pos> <altsp>[Written also <asp>woollen</asp>.]</altsp> <def>Cloth made of wool; woollen goods.</def></p>
 </entry>
 
 <entry main-word="Woolenet" source="1913 Webster">

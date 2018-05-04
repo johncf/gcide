@@ -3835,7 +3835,7 @@ No more shall be the <qex>neighbor</qex> to my counsel.</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Neighborhood" source="1913 Webster">
-<p><hw>Neigh"bor*hood</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>neighbourhood</ets>.]</ety> <sn>1.</sn> <def>The quality or condition of being a neighbor; the state of being or dwelling near; proximity.</def></p>
+<p><hw>Neigh"bor*hood</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>neighbourhood</asp>.]</altsp> <sn>1.</sn> <def>The quality or condition of being a neighbor; the state of being or dwelling near; proximity.</def></p>
 
 <p><q>Then the prison and the palace were in awful <qex>neighborhood</qex>.</q> <rj><qau>Ld. Lytton.</qau></rj></p>
 

@@ -2313,7 +2313,7 @@ Coincidence, no doubt, but on the night of June 22, 1941, the Russian Scientist 
 </entry>
 
 <entry main-word="Tamil" source="1913 Webster">
-<p><hw>Ta"mil</hw>, <pos>n.</pos> <ety>[Written also <ets>Tamul</ets>.]</ety> <sn>1.</sn> <fld>(Ethnol.)</fld> <def>One of a Dravidian race of men native of Northern Ceylon and Southern India.</def></p>
+<p><hw>Ta"mil</hw>, <pos>n.</pos> <altsp>[Written also <asp>Tamul</asp>.]</altsp> <sn>1.</sn> <fld>(Ethnol.)</fld> <def>One of a Dravidian race of men native of Northern Ceylon and Southern India.</def></p>
 
 <p><sn>2.</sn> <def>The Tamil language, the most important of the Dravidian languages. See <er>Dravidian</er>, <pos>a.</pos></def></p>
 </entry>
@@ -15405,7 +15405,7 @@ Were daily <qex>thundered</qex> in our general's ear.</q> <rj><qau>Dryden.</qau>
 </entry>
 
 <entry main-word="Thunderous" source="1913 Webster">
-<p><hw>Thun"der*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>thundrous</ets>.]</ety> <sn>1.</sn> <def>Producing thunder.</def> <mark>[R.]</mark></p>
+<p><hw>Thun"der*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Written also <asp>thundrous</asp>.]</altsp> <sn>1.</sn> <def>Producing thunder.</def> <mark>[R.]</mark></p>
 
 <p><q>How he before the <qex>thunderous</qex> throne doth lie.</q> <rj><qau>Milton.</qau></rj></p>
 
@@ -17298,7 +17298,7 @@ Inclining to them both.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Timist" source="1913 Webster">
-<p><hw>Tim"ist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>timeist</ets>.]</ety> <sn>1.</sn> <fld>(Mus.)</fld> <def>A performer who keeps good time.</def></p>
+<p><hw>Tim"ist</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>timeist</asp>.]</altsp> <sn>1.</sn> <fld>(Mus.)</fld> <def>A performer who keeps good time.</def></p>
 
 <p><sn>2.</sn> <def>A timeserver.</def> <mark>[Obs.]</mark>  <rj><au>Overbury.</au></rj></p>
 </entry>
@@ -26475,7 +26475,7 @@ Bases and tinsel <qex>trappings</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Traveler" source="1913 Webster">
-<p><hw>Trav"el*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>traveler</ets>.]</ety> <sn>1.</sn> <def>One who travels; one who has traveled much.</def></p>
+<p><hw>Trav"el*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>traveler</asp>.]</altsp> <sn>1.</sn> <def>One who travels; one who has traveled much.</def></p>
 
 <p><sn>2.</sn> <def>A commercial agent who travels for the purpose of receiving orders for merchants, making collections, etc.</def></p>
 

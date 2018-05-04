@@ -17252,7 +17252,7 @@ ll I forget to love, and learn to grieve.</q> <rj><qau>Denham.</qau></rj></p>
 </entry>
 
 <entry main-word="Reprise" source="1913 Webster">
-<p><hw>Re*prise"</hw>, <pos>v. t.</pos> <ety>[Written also <ets>reprize</ets>.]</ety> <sn>1.</sn> <def>To take again; to retake.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
+<p><hw>Re*prise"</hw>, <pos>v. t.</pos> <altsp>[Written also <asp>reprize</asp>.]</altsp> <sn>1.</sn> <def>To take again; to retake.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
 
 <p><sn>2.</sn> <def>To recompense; to pay.</def> <mark>[Obs.]</mark></p>
 </entry>
@@ -22004,7 +22004,7 @@ Here no bugles sound <qex>reveille</qex>.</q> <rj><qau>Sir W. Scott.</qau></rj><
 </entry>
 
 <entry main-word="Reveler" source="1913 Webster">
-<p><hw>Rev"el*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>reveller</ets>.]</ety> <def>One who revels.</def> <ldquo/Moonshine <xex>revelers</xex>.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Rev"el*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>reveller</asp>.]</altsp> <def>One who revels.</def> <ldquo/Moonshine <xex>revelers</xex>.<rdquo/  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Revellent" source="1913 Webster">

@@ -7432,7 +7432,7 @@ Under these hard condition.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Villainous" source="1913 Webster">
-<p><hw>Vil"lain*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>villanous</ets>.]</ety></p>
+<p><hw>Vil"lain*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Written also <asp>villanous</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>Base; vile; mean; depraved; <as>as, a <ex>villainous</ex> person or wretch</as>.</def></p>
 

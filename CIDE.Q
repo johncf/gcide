@@ -1138,7 +1138,7 @@ Did <qex>quarrel</qex> with the noblest grace she owed.</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Quarrel" source="1913 Webster">
-<p><hw>Quar"rel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>quarreller</ets>.]</ety> <def>One who quarrels or wrangles; one who is quarrelsome.</def>  <rj><au>Shak.</au></rj></p>
+<p><hw>Quar"rel</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>quarreller</asp>.]</altsp> <def>One who quarrels or wrangles; one who is quarrelsome.</def>  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Quarrelet" source="1913 Webster">

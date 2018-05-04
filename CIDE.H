@@ -9244,7 +9244,7 @@ With violent <qex>hefts</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Heightener" source="1913 Webster">
-<p><hw>Height"en*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>hightener</ets>.]</ety> <def>One who, or that which, heightens.</def></p>
+<p><hw>Height"en*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>hightener</asp>.]</altsp> <def>One who, or that which, heightens.</def></p>
 </entry>
 
 <entry main-word="heights" source="PJC;;WordNet 1.5">
@@ -19312,7 +19312,7 @@ You ain't got time to take no ride.</q> <rj><qau>Yakety-Yak (Song)</qau></rj></p
 </entry>
 
 <entry main-word="Hoop" source="1913 Webster">
-<p><hw>Hoop</hw>, <pos>v. t.</pos> <ety>[Written also <ets>whoop</ets>.]</ety> <sn>1.</sn> <def>To drive or follow with a shout.</def> <ldquo/To be <xex>hooped</xex> out of Rome.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Hoop</hw>, <pos>v. t.</pos> <altsp>[Written also <asp>whoop</asp>.]</altsp> <sn>1.</sn> <def>To drive or follow with a shout.</def> <ldquo/To be <xex>hooped</xex> out of Rome.<rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><sn>2.</sn> <def>To call by a shout or peculiar cry.</def></p>
 </entry>
@@ -22803,7 +22803,7 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Hummeler" source="1913 Webster">
-<p><hw>Hum"mel*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>hummeller</ets>.]</ety> <def>One who, or a machine which, hummels.</def></p>
+<p><hw>Hum"mel*er</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>hummeller</asp>.]</altsp> <def>One who, or a machine which, hummels.</def></p>
 </entry>
 
 <entry main-word="Hummer" source="1913 Webster">

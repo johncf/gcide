@@ -3845,7 +3845,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Gauge" source="1913 Webster">
-<p><hw>Gauge</hw>, <pos>n.</pos> <ety>[Written also <ets>gage</ets>.]</ety> <sn>1.</sn> <def>A measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard.</def></p>
+<p><hw>Gauge</hw>, <pos>n.</pos> <altsp>[Written also <asp>gage</asp>.]</altsp> <sn>1.</sn> <def>A measure; a standard of measure; an instrument to determine dimensions, distance, or capacity; a standard.</def></p>
 
 <p><q>This plate must be a <qex>gauge</qex> to file your worm and groove to equal breadth by.</q> <rj><qau>Moxon.</qau></rj></p>
 
@@ -14232,7 +14232,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Gospelize" source="1913 Webster">
-<p><hw>Gos"pel*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gospelized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gospelizing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[Written also <ets>gospellize</ets>.]</ety></p>
+<p><hw>Gos"pel*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Gospelized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Gospelizing</conjf> <pr>(?)</pr>.]</vmorph> <altsp>[Written also <asp>gospellize</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To form according to the gospel; <as>as, a command <ex>gospelized</ex> to us</as>.</def>  <rj><au>Milton.</au></rj></p>
 
@@ -21476,7 +21476,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 </entry>
 
 <entry main-word="Gumbo" source="1913 Webster">
-<p><hw>Gum"bo</hw> <pr>(g<ucr/m"b<osl/)</pr>, <pos>n.</pos> <ety>[Written also <ets>gombo</ets>.]</ety> <sn>1.</sn> <def>A soup thickened with the mucilaginous pods of the okra; okra soup.</def> <specif>Especially,</specif> <def>A thick stew made with chicken (<stype>chicken gumbo</stype>), or seafood (<stype>seafood gumbo</stype>), thickened with okra or file, and also containing greens and often hot spices; it is particularly popular in Louisiana.</def></p>
+<p><hw>Gum"bo</hw> <pr>(g<ucr/m"b<osl/)</pr>, <pos>n.</pos> <altsp>[Written also <asp>gombo</asp>.]</altsp> <sn>1.</sn> <def>A soup thickened with the mucilaginous pods of the okra; okra soup.</def> <specif>Especially,</specif> <def>A thick stew made with chicken (<stype>chicken gumbo</stype>), or seafood (<stype>seafood gumbo</stype>), thickened with okra or file, and also containing greens and often hot spices; it is particularly popular in Louisiana.</def></p>
 
 <p><sn>2.</sn> <def>The okra plant or its pods.</def></p>
 </entry>

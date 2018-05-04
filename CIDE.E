@@ -7898,7 +7898,7 @@ With gems and golden luster rich <qex>emblazed</qex>.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Embosom" source="1913 Webster">
-<p><hw>Em*bos"om</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[Written also <ets>imbosom</ets>.]</ety> <sn>1.</sn> <def>To take into, or place in, the bosom; to cherish; to foster.</def></p>
+<p><hw>Em*bos"om</hw> <pr>(?)</pr>, <pos>v. t.</pos> <altsp>[Written also <asp>imbosom</asp>.]</altsp> <sn>1.</sn> <def>To take into, or place in, the bosom; to cherish; to foster.</def></p>
 
 <p><q>Glad to <qex>embosom</qex> his affection.</q> <rj><qau>Spenser.</qau></rj></p>
 
@@ -10903,7 +10903,7 @@ Might be the be-all and the <qex>end-all</qex> here.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Endeavor" source="1913 Webster">
-<p><hw>En*deav"or</hw>, <pos>n.</pos> <ety>[Written also <ets>endeavour</ets>.]</ety> <def>An exertion of physical or intellectual strength toward the attainment of an object; a systematic or continuous attempt; an effort; a trial.</def></p>
+<p><hw>En*deav"or</hw>, <pos>n.</pos> <altsp>[Written also <asp>endeavour</asp>.]</altsp> <def>An exertion of physical or intellectual strength toward the attainment of an object; a systematic or continuous attempt; an effort; a trial.</def></p>
 
 <p><q>To employ all my <qex>endeavor</qex> to obey you.</q> <rj><qau>Sir P. Sidney.</qau></rj></p>
 

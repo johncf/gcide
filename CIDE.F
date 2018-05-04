@@ -7939,7 +7939,7 @@ Shot down direct his <qex>fervid</qex> rays.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Fesels" source="">
-<p><hw>Fes"els</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[Written also <ets>fasels</ets>.]</ety> <def>See <er>Phasel</er>.</def> <mark>[Obs.]</mark>  <rj><au>May (Georgics).</au></rj></p>
+<p><hw>Fes"els</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <altsp>[Written also <asp>fasels</asp>.]</altsp> <def>See <er>Phasel</er>.</def> <mark>[Obs.]</mark>  <rj><au>May (Georgics).</au></rj></p>
 </entry>
 
 <entry main-word="Fess" source="1913 Webster">
@@ -29075,7 +29075,7 @@ air.</q> <rj><qau>Carlyle.</qau></rj></p>
 </entry>
 
 <entry main-word="Fulfillment" source="1913 Webster">
-<p><hw>Ful*fill"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>fulfilment</ets>.]</ety></p>
+<p><hw>Ful*fill"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>fulfilment</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>The act of fulfilling; accomplishment; completion; <as>as, the <ex>fulfillment</ex> of prophecy</as>.</def></p>
 

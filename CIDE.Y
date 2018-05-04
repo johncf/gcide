@@ -445,7 +445,7 @@ In which she had a cock, hight chanticleer.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Yaup" source="1913 Webster">
-<p><hw>Yaup</hw>, <pos>n.</pos> <ety>[Written also <ets>yawp</ets>.]</ety></p>
+<p><hw>Yaup</hw>, <pos>n.</pos> <altsp>[Written also <asp>yawp</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>A cry of distress, rage, or the like, as the cry of a sickly bird, or of a child in pain.</def>  <mark>[Scot. & Colloq. U. S.]</mark></p>
 
