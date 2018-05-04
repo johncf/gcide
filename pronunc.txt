@@ -111,16 +111,8 @@ relative to systems used in recent dictionaries.
 
    <amac/ long a (stressed)  (a with a macron above it) 
           late          =  l<amac/t
-          later         =  l<amac/t"<etil/r
-          comb-shaped   =  k<omac/m"-sh<amac/pt`
-          commemorate   =  k<ocr/m*m<ecr/m"<osl/*r<amac/t
-          deign         =  d<amac/n
-          deflate       =  d<esl/*fl<amac/t"
-          defray        =  d<esl/*fr<amac/"
-          defrayal      =  d<esl/*fr<amac/"<ait/l
 
-
-   <asl/  long a (unstressed)     
+   <asl/  long a (unstressed)
           commodate     =  k<ocr/m"m<osl/*d<asl/t
           cometary      =  k<ocr/m"<ecr/t*<asl/*r<ycr/
 
@@ -135,15 +127,13 @@ relative to systems used in recent dictionaries.
           absolve       =  <acr/b*s<ocr/lv"
           land          =  l<acr/nd
           lamp          =  l<acr/mp
-          
+
    <adot/ short a       (a with a dot above it)
           again         =  <adot/*g<ecr/n"
-          carouse       =  k<adot/*rouz"
           coma          =  k<omac/"m<adot/
           comma         =  k<ocr/m"m<adot/        |  *These sound different
           command       =  k<ocr/m*m<adot/nd"     |    to me
           mass          =  m<adot/s
-          mash          =  m<adot/sh
           mat           =  m<adot/t
 
    <acir/ a-circumflex ("only in syllables closed by r")
@@ -169,14 +159,6 @@ relative to systems used in recent dictionaries.
           water         =  w<add/"t<etil/r
           default       =  d<esl/*f<add/lt"
           defraud       =  d<esl/*fr<add/d"
-          deerstalker   =  d<emac/r"st<add/k`<etil/r
-
-
-   <eacute/  e-acute      (e with an acute accent over it --
-                           not used in pronunciations, but in the
-                           spelling of words derived from European
-                           languages,  especially French.)
-          prot<eacute/g<eacute/    =  pr<osl/`t<asl/`zh<asl/"
 
    <ecr/  short e         (e with a crescent [breve] above it)
           degenerate    =  d<esl/*j<ecr/n"<etil/r*<amac/t
@@ -199,34 +181,19 @@ relative to systems used in recent dictionaries.
           compeer       =  k<ocr/m*p<emac/r"
           deer          =  d<emac/r"
 
-   <etil/ e-tilde  
-              (representing the e before r in many words)
-              (for the same sound in -ur words, <ucir/ is used!)
+   <etil/ e-tilde (representing the e before r in many words)
           fern          =  f<etil/rn
           commercial    =  k<ocr/m*m<etil/r"sh<ait/l
           commerce      =  k<ocr/m"m<etil/rs
-
-   <eum/ e-umlaut  (e-diaeresis)
-              (not used in pronunciations.
-                          represents e after another e, used in the 1913
-                          Webster to indicate that the two e's are
-                          pronounced as two vowels, as in "reentry". 
-                          In the supplemented version, the second e,
-                          which is thus marked in the 1913 version, 
-                          usually has no umlaut over it, conforming
-                          to modern orthographic practise.)
-
-         re<eum/nforce  =  r<emac/`<ecr/n*f<omac/rs"
-         re<eum/entry   =  r<emac/`<ecr/n"tr<ycr/
 
    <icr/  short i         (i with a crescent [breve] above it)
                           Note: In most cases, this is used where the
                            short i sound of "lip" is intended, but it is
                            also used in the middle of words where Americans
-                           use an unstressed long "e" sound,  (as the
-                           "i" in "serial" and "serious")!?
-                            and also in  words ending in "ies",
-                              coded as "<icr/z" (as in liberties)
+                           use an unstressed long "e" sound, (as the
+                           "i" in "serial" and "serious"!?)
+                           and also in  words ending in "ies",
+                           coded as "<icr/z" (as in liberties)
           lip           =  l<icr/p
           pin           =  p<icr/n
           commission    =  k<ocr/m*m<icr/sh"<ucr/n
@@ -234,41 +201,36 @@ relative to systems used in recent dictionaries.
          *serial        =  s<emac/"r<icr/*<ait/l
          *serious       =  s<emac/"r<icr/*<ucr/s
           liberty       =  l<icr/b"<etil/r*t<ycr/
- *but:    liberties     =  l<icr/b"<etil/r*t<icr/z
+         *liberties     =  l<icr/b"<etil/r*t<icr/z
 
    <imac/ i-macron (long i, stressed)  (i with a macron above it) 
           combine       =  k<ocr/m*b<imac/n"
           combined      =  k<ocr/m*b<imac/"nd
 
-   <isl/  long i (unstressed)
+   <isl/  i-semilong (long i, unstressed)
           diameter      =  d<isl/*<acr/m"<esl/*t<etil/r
           diagonal      =  d<isl/*<acr/g"<osl/*n<ait/l
-
 
    <ocr/  short o         (o with a crescent [breve] above it)
           colossus      =  k<osl/*l<ocr/s"s<ucr/s
           commute       =  k<ocr/m*m<umac/t"
-   
-   <omac/ o-macron (long o, stressed)  (o with a macron above it) 
+
+   <omac/ o-macron (long o, stressed)  (o with a macron above it)
           boat          =  b<omac/t
           colt          =  k<omac/lt
           comb          =  k<omac/m
-          combing       =  k<omac/m"<icr/ng
           commode       =  k<ocr/m*m<omac/d"
           course        =  k<omac/rs
 
    <ocir/ o-circumflex ("only in syllables closed by r")
           orb           =  <ocir/rb
           lord          =  l<ocir/rd
-          lordship      =  l<ocir/rd"sh<icr/p
           lorn          =  l<ocir/rn
-          cord          =  k<ocir/rd
           commorse      =  k<ocr/m*m<ocir/rs"
           deform        =  d<esl/*f<ocir/rm"
-          deformed      =  d<esl/*f<ocir/rmd"
           dehortative   =  d<esl/*h<ocir/rt"<adot*t<icr/v
 
-   <osl/  "o semilong" (long o, unstressed)          
+   <osl/  o-semilong (long o, unstressed)
           diagonal      =  d<isl/*<acr/g"<osl/*n<ait/l
           dejectory     =  d<esl/*j<ecr/k"t<osl/*r<ycr/
 
@@ -277,32 +239,40 @@ relative to systems used in recent dictionaries.
           boot          =  b<oomac/t
           boost         =  b<oomac/st
           commove       =  k<ocr/m*m<oomac/v"
-   
-   <oomcr/ oo-crescent (an oo with a crescent [breve] above both o's)
+
+   <oocr/ oo-crescent (an oo with a crescent [breve] above both o's)
           foot          =  f<oocr/t
           cook          =  k<oocr/k
 
    <umac/  u macron (long u)
           commute       =  k<ocr/m*m<umac/t"
-          definitude    =  d<esl/*f<icr/n"<icr/*t<umac/d 
+          definitude    =  d<esl/*f<icr/n"<icr/*t<umac/d
           communicant   =  k<ocr/m*m<umac/"n<icr/*k<ait/nt
           defuse        =  d<esl/*f<umac/z"
 
-   <ucr/  short u         (u with a crescent [breve] above it)
+   <usl/  u-semilong
+
+   <udd/  u with double dots below
+
+   <usdot/  u with dot below
+
+   <ucr/  u with a crescent above (short u)
           come          =  k<ucr/m
           color         =  k<ucr/l"<etil/r
           colored       =  k<ucr/l"<etil/rd
           Columbia      =  k<osl/*l<ucr/m"b<icr/*<adot/
           up            =  <ucr/p
 
-   <ycr/  y-crescent  (y with a crescent [breve] above it)
-          used mostly for y-endings (supposed to sound similar to <icr/!!)
-            sounds to me like an unstressed long e 
+   <ucir/ u-circumflex (representing the u before r in many words)
+
+   <ycr/  y with a crescent above
+            used mostly for y-endings (supposed to sound similar to <icr/!!)
+            sounds to me like an unstressed long e
           comedy        =  k<ocr/m"<esl/*d<ycr/
           comely        =  k<ucr/m"l<ycr/
           liberty       =  l<icr/b"<etil/r*t<ycr/
 
-   <ymac/ y-macron  (y with a macron above it) 
+   <ymac/ y-macron
             used to represent the long i (stressed) sound, but
                examples in pronunciations seem to be absent.  It is
                found in some foreign words in the etymologies.
@@ -310,23 +280,21 @@ relative to systems used in recent dictionaries.
    ou     the common "ow" sound of "town", "browse"
           count       =  kount
 
-   <nsm/  n-submacron  (an n with a macron underneath)
-           represents the "ng" sound when it occurs before a
-             consonant
+   <nsm/  n-submacron (n with a macron underneath)
+            represents the "ng" sound when it occurs before a consonant
           defunct      =  d<esl/*f<ucr/<nsm/kt"
           commingle    =  k<ocr/m*m<icr/<nsm/"g'l
 
-  <th/    the "th" sound in "mother"
+   <th/   the "th" sound in "mother"
             this is represented in the printed work by a th ligature
-         carouse      =   k<adot/*rouz"
+          carouse      =   k<adot/*rouz"
 
-   zh     not a special character, but used to represent the 
-             "si" sound in words like
-
+   zh     not a special character, but used to represent the
+            "si" sound in words like
           decision   =  d<esl/*s<icr/zh"<ucr/n
 
    th     the usual sound as in thing and thorn
    sh     the usual as in ship
    ch     the usual as in chip
-   N      (capital N) represents the nasal "n" sound of the French language
-
+   N      (smallcap N) represents the nasal "n" sound of the French language
+   '      (apostrophe)
