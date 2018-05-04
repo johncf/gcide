@@ -9458,7 +9458,7 @@ And <qex>inches</qex> to the walls.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Inchpin" source="1913 Webster">
-<p><hw>Inch"pin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>inchipin</ets>, <ets>inche-pinne</ets>, <ets>inne-pinne</ets>.]</ety> <ety>[Cf. Gael. <ets>inne</ets>, <ets>innidh</ets>, bowel, entrail.]</ety> <def>The sweetbread of a deer.</def>  <rj><au>Cotgrave.</au></rj></p>
+<p><hw>Inch"pin</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>inchipin</asp>, <asp>inche-pinne</asp>, <asp>inne-pinne</asp>.]</altsp> <ety>[Cf. Gael. <ets>inne</ets>, <ets>innidh</ets>, bowel, entrail.]</ety> <def>The sweetbread of a deer.</def>  <rj><au>Cotgrave.</au></rj></p>
 </entry>
 
 <entry main-word="Inchworm" source="1913 Webster">

@@ -4888,7 +4888,7 @@ So goodly and erect, though <qex>faulty</qex> since.</q> <rj><qau>Milton.</qau><
 </entry>
 
 <entry main-word="favor" source="1913 Webster">
-<p><hw>fa"vor</hw> <pr>(f<amac/"v<etil/r)</pr>, <pos>n.</pos> <ety>[Written also <ets>favour</ets>.]</ety> <ety>[OF. <ets>favor</ets>, F. <ets>faveur</ets>, L. <ets>favor</ets>, fr. <ets>favere</ets> to be favorable, cf. Skr. <ets>bh<amac/vaya</ets> to further, foster, causative of <ets>bh<umac/</ets> to become, be.  Cf. <er>Be</er>. In the phrase <ets>to curry favor</ets>, <ets>favor</ets> is prob. for <ets>favel</ets> a horse. See 2d <er>Favel</er>.]</ety> <sn>1.</sn> <def>Kind regard; propitious aspect; countenance; friendly disposition; kindness; good will.</def></p>
+<p><hw>fa"vor</hw> <pr>(f<amac/"v<etil/r)</pr>, <pos>n.</pos> <altsp>[Written also <asp>favour</asp>.]</altsp> <ety>[OF. <ets>favor</ets>, F. <ets>faveur</ets>, L. <ets>favor</ets>, fr. <ets>favere</ets> to be favorable, cf. Skr. <ets>bh<amac/vaya</ets> to further, foster, causative of <ets>bh<umac/</ets> to become, be.  Cf. <er>Be</er>. In the phrase <ets>to curry favor</ets>, <ets>favor</ets> is prob. for <ets>favel</ets> a horse. See 2d <er>Favel</er>.]</ety> <sn>1.</sn> <def>Kind regard; propitious aspect; countenance; friendly disposition; kindness; good will.</def></p>
 
 <p><q>Hath crawled into the <qex>favor</qex> of the king.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -4933,7 +4933,7 @@ His chief delight and <qex>favor</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Favor" source="1913 Webster">
-<p><hw>Fa"vor</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Favored</conjf> <pr>(f<amac/"v<etil/rd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Favoring</conjf>.]</vmorph> <ety>[Written also <ets>favour</ets>.]</ety> <ety>[Cf. OF. <ets>favorer</ets>, <ets>favorir</ets>. See <er>Favor</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To regard with kindness; to support; to aid, or to have the disposition to aid, or to wish success to; to be propitious to; to treat with consideration or tenderness; to show partiality or unfair bias towards.</def></p>
+<p><hw>Fa"vor</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Favored</conjf> <pr>(f<amac/"v<etil/rd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Favoring</conjf>.]</vmorph> <altsp>[Written also <asp>favour</asp>.]</altsp> <ety>[Cf. OF. <ets>favorer</ets>, <ets>favorir</ets>. See <er>Favor</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To regard with kindness; to support; to aid, or to have the disposition to aid, or to wish success to; to be propitious to; to treat with consideration or tenderness; to show partiality or unfair bias towards.</def></p>
 
 <p><q>O happy youth! and <qex>favored</qex> of the skies.</q> <rj><qau>Pope.</qau></rj></p>
 
@@ -11294,7 +11294,7 @@ Of utmost hope!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Finjan" source="Webster 1913 Suppl.">
-<p><hw>Fin*jan"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <ets>fingan</ets>, <ets>findjan</ets>, <ets>fingian</ets>, etc.]</ety> <ety>[Ar. <ets>finj<amac/n</ets>.]</ety> <def>In the Levant, a small coffee cup without a handle, such as is held in a cup or stand called a <er>zarf</er>.</def></p>
+<p><hw>Fin*jan"</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Also <asp>fingan</asp>, <asp>findjan</asp>, <asp>fingian</asp>, etc.]</altsp> <ety>[Ar. <ets>finj<amac/n</ets>.]</ety> <def>In the Levant, a small coffee cup without a handle, such as is held in a cup or stand called a <er>zarf</er>.</def></p>
 </entry>
 
 <entry main-word="Fin keel" source="Webster 1913 Suppl.">
@@ -25002,7 +25002,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Frampel" source="1913 Webster">
-<p><mhw>{ <hw>Fram"pel</hw> <pr>(?)</pr>, <hw>Fram"poid</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[Also written <ets>frampul</ets>, <ets>frampled</ets>, <ets>framfold</ets>.]</ety> <ety>[Cf. W. <ets>fframfol</ets> passionate, <ets>ffrom</ets> angry, fretting; or perh. akin to E. <ets>frump</ets>.]</ety> <def>Peevish; cross; vexatious; quarrelsome.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
+<p><mhw>{ <hw>Fram"pel</hw> <pr>(?)</pr>, <hw>Fram"poid</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <altsp>[Also written <asp>frampul</asp>, <asp>frampled</asp>, <asp>framfold</asp>.]</altsp> <ety>[Cf. W. <ets>fframfol</ets> passionate, <ets>ffrom</ets> angry, fretting; or perh. akin to E. <ets>frump</ets>.]</ety> <def>Peevish; cross; vexatious; quarrelsome.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 
 <p><q>Is Pompey grown so malapert, so <qex>frampel</qex>?</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 </entry>

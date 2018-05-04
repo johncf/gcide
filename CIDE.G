@@ -305,7 +305,7 @@ And with a <qex>gad</qex> of steel will write these words.</q> <rj><qau>Shak.</q
 </entry>
 
 <entry main-word="Gaekwar" source="Webster 1913 Suppl.">
-<p><hw>Gaek"war</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <ets>Gaikwar</ets>, <ets>Guicowar</ets>.]</ety> <ety>[Marathi <ets>g<amac/ekw<amac/r</ets>, prop., a cowherd.]</ety> <def>The title of the ruling Prince of Baroda, in Gujarat, in Bombay, India.</def></p>
+<p><hw>Gaek"war</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Also <asp>Gaikwar</asp>, <asp>Guicowar</asp>.]</altsp> <ety>[Marathi <ets>g<amac/ekw<amac/r</ets>, prop., a cowherd.]</ety> <def>The title of the ruling Prince of Baroda, in Gujarat, in Bombay, India.</def></p>
 </entry>
 
 <entry main-word="Gael" source="1913 Webster">

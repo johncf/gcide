@@ -39209,7 +39209,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Burden" source="1913 Webster">
-<p><hw>Bur"den</hw> <pr>(b<ucir/"d'n)</pr>, <pos>n.</pos> <altsp>[Written also <ets>burthen</ets>.]</altsp> <ety>[OE. <ets>burden</ets>, <ets>burthen</ets>, <ets>birthen</ets>, <ets>birden</ets>, AS. <ets>byr<edh/en</ets>; akin to Icel. <ets>byr<edh/i</ets>, Dan. <ets>byrde</ets>, Sw. <ets>b<oum/rda</ets>, G. <ets>b<uum/rde</ets>, OHG. <ets>burdi</ets>, Goth. <ets>ba<uacute/r<thorn/ei</ets>, fr. the root of E. <ets>bear</ets>, AS. <ets>beran</ets>, Goth. <ets>bairan</ets>. <root/92. See 1st <er>Bear</er>.]</ety> <sn>1.</sn> <def>That which is borne or carried; a load.</def></p>
+<p><hw>Bur"den</hw> <pr>(b<ucir/"d'n)</pr>, <pos>n.</pos> <altsp>[Written also <asp>burthen</asp>.]</altsp> <ety>[OE. <ets>burden</ets>, <ets>burthen</ets>, <ets>birthen</ets>, <ets>birden</ets>, AS. <ets>byr<edh/en</ets>; akin to Icel. <ets>byr<edh/i</ets>, Dan. <ets>byrde</ets>, Sw. <ets>b<oum/rda</ets>, G. <ets>b<uum/rde</ets>, OHG. <ets>burdi</ets>, Goth. <ets>ba<uacute/r<thorn/ei</ets>, fr. the root of E. <ets>bear</ets>, AS. <ets>beran</ets>, Goth. <ets>bairan</ets>. <root/92. See 1st <er>Bear</er>.]</ety> <sn>1.</sn> <def>That which is borne or carried; a load.</def></p>
 
 <p><q>Plants with goodly <qex>burden</qex> bowing.</q> <rj><qau>Shak.</qau></rj></p>
 

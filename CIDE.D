@@ -8569,7 +8569,7 @@ Should look so near upon her foul <qex>deformities</qex>.</q> <rj><qau>Milton.</
 </entry>
 
 <entry main-word="Deforser" source="1913 Webster">
-<p><hw>De*fors"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Deforce</er>.]</ety> <ety>[Written also <ets>deforsor</ets>.]</ety> <def>A deforciant.</def> <mark>[Obs.]</mark> <rj><au>Blount.</au></rj></p>
+<p><hw>De*fors"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Deforce</er>.]</ety> <altsp>[Written also <asp>deforsor</asp>.]</altsp> <def>A deforciant.</def> <mark>[Obs.]</mark> <rj><au>Blount.</au></rj></p>
 </entry>
 
 <entry main-word="Defoul" source="1913 Webster">
@@ -20020,7 +20020,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Dicker" source="1913 Webster">
-<p><hw>Dick"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <ets>daker</ets>, <ets>dakir</ets>; akin to Icel. <ets>dekr</ets>, Dan. <ets>deger</ets>, G. <ets>decher</ets>; all prob. from LL. <ets>dacra</ets>, <ets>dacrum</ets>, the number ten, akin to L. <ets>decuria</ets> a division consisting of ten, fr. <ets>decem</ets> ten. See <er>Ten</er>.]</ety> <sn>1.</sn> <def>The number or quantity of ten, particularly ten hides or skins; a dakir; <as>as, a <ex>dicker</ex> of gloves</as>.</def> <mark>[Obs.]</mark></p>
+<p><hw>Dick"er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <asp>daker</asp>, <asp>dakir</asp>; akin to Icel. <ets>dekr</ets>, Dan. <ets>deger</ets>, G. <ets>decher</ets>; all prob. from LL. <ets>dacra</ets>, <ets>dacrum</ets>, the number ten, akin to L. <ets>decuria</ets> a division consisting of ten, fr. <ets>decem</ets> ten. See <er>Ten</er>.]</ety> <sn>1.</sn> <def>The number or quantity of ten, particularly ten hides or skins; a dakir; <as>as, a <ex>dicker</ex> of gloves</as>.</def> <mark>[Obs.]</mark></p>
 
 <p><q>A <qex>dicker</qex> of cowhides.</q> <rj><qau>Heywood.</qau></rj></p>
 

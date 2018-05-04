@@ -6139,7 +6139,7 @@ Deceitfully goes forth the morn.</q> <rj><qau>Wordsworth.</qau></rj></p>
 </entry>
 
 <entry main-word="Vetch" source="1913 Webster">
-<p><hw>Vetch</hw> <pr>(v<ecr/ch)</pr>, <pos>n.</pos> <ety>[Also <ets>fitch</ets>; OE. <ets>ficche</ets>, <ets>feche</ets>, for <ets>veche</ets>, OF. <ets>veche</ets>, <ets>vecce</ets>, <ets>vesche</ets>, <ets>vesce</ets>, F. <ets>vesce</ets>, fr. L. <ets>vicia</ets>.]</ety> <fld>(Bot.)</fld> <def>Any leguminous plant of the genus <gen>Vicia</gen>, some species of which are valuable for fodder. The common species is <spn>Vicia sativa</spn>.</def></p>
+<p><hw>Vetch</hw> <pr>(v<ecr/ch)</pr>, <pos>n.</pos> <ety>[Also <asp>fitch</asp>; OE. <ets>ficche</ets>, <ets>feche</ets>, for <ets>veche</ets>, OF. <ets>veche</ets>, <ets>vecce</ets>, <ets>vesche</ets>, <ets>vesce</ets>, F. <ets>vesce</ets>, fr. L. <ets>vicia</ets>.]</ety> <fld>(Bot.)</fld> <def>Any leguminous plant of the genus <gen>Vicia</gen>, some species of which are valuable for fodder. The common species is <spn>Vicia sativa</spn>.</def></p>
 
 <p><note><hand/ The name is also applied to many other leguminous plants of different genera; as the chichling vetch, of the genus <gen>Lathyrus</gen>; the horse vetch, of the genus <gen>Hippocrepis</gen>; the kidney vetch (<spn>Anthyllis vulneraria</spn>); the milk vetch, of the genus <gen>Astragalus</gen>; the licorice vetch, or wild licorice (<spn>Abrus precatorius</spn>).</note></p>
 </entry>

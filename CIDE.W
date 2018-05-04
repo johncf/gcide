@@ -1317,7 +1317,7 @@ That with his singing <qex>walled</qex> that city.</q> <rj><qau>Chaucer.</qau></
 </entry>
 
 <entry main-word="Wallachian" source="Webster 1913 Suppl.">
-<p><hw>Wal*la"chi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Also <ets>Walachian</ets>, <ets>Wallach</ets>, <ets>Wallack</ets>, <ets>Vlach</ets>, etc.]</ety> <def>Of or pertaining to <etsep>Wallachia</etsep>, a former principality, now part of the kingdom, of Roumania.</def> -- <def2><pos>n.</pos>  <def>An inhabitant of Wallachia; also, the language of the Wallachians; Roumanian.</def></def2></p>
+<p><hw>Wal*la"chi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Also <asp>Walachian</asp>, <asp>Wallach</asp>, <asp>Wallack</asp>, <asp>Vlach</asp>, etc.]</altsp> <def>Of or pertaining to <geog>Wallachia</geog>, a former principality, now part of the kingdom, of Roumania.</def> -- <def2><pos>n.</pos>  <def>An inhabitant of Wallachia; also, the language of the Wallachians; Roumanian.</def></def2></p>
 </entry>
 
 <entry main-word="Wallack" source="Webster 1913 Suppl.">
@@ -13004,7 +13004,7 @@ To attend our further pleasure presently.</q> <rj><qau>J. Webster.</qau></rj></p
 </entry>
 
 <entry main-word="Willful" source="1913 Webster">
-<p><hw>Will"ful</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Will</ets> + <ets>full</ets>.]</ety> <ety>[Written also <ets>wilful</ets>.]</ety></p>
+<p><hw>Will"ful</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Will</ets> + <ets>full</ets>.]</ety> <altsp>[Written also <asp>wilful</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>Of set purpose; self-determined; voluntary; <as>as, <ex>willful</ex> murder</as>.</def>  <rj><au>Foxe.</au></rj></p>
 
@@ -18703,11 +18703,8 @@ That drew our swords, now secret <qex>wrests</qex> them from our hand.</q> <rj><
 <entry main-word="Wretched" source="1913 Webster">
 <p><hw>Wretch"ed</hw>, <pos>a.</pos> <sn>1.</sn> <def>Very miserable; sunk in, or accompanied by, deep affliction or distress, as from want, anxiety, or grief; calamitous; woeful; very afflicting.</def>  <ldquo/To what <xex>wretched</xex> state reserved!<rdquo/  <rj><au>Milton.</au></rj></p>
 
-<p><q>O cruel! Death! to those you are more kind<br/
+<p><q>O cruel Death! to those you are more kind<br/
 Than to the <qex>wretched</qex> mortals left behind.</q> <rj><qau>Waller.</qau></rj></p>
-
-<p><-- <q>The <qex>wretched</qex> refuse of your teeming shore . . . </q>
- --></p>
 
 <p><sn>2.</sn> <def>Worthless; paltry; very poor or mean; miserable; <as>as, a <ex>wretched</ex> poem; a <ex>wretched</ex> cabin</as>.</def></p>
 

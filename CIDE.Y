@@ -722,7 +722,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Yearn" source="1913 Webster">
-<p><hw>Yearn</hw> <pr>(y<etil/rn)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Yearned</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Yearning</conjf>.]</vmorph> <ety>[Also <ets>earn</ets>, <ets>ern</ets>; probably a corruption of OE. <ets>ermen</ets> to grieve, AS. <ets>ierman</ets>, <ets>yrman</ets>, or <ets>geierman</ets>, <ets>geyrman</ets>, fr. <ets>earm</ets> wretched, poor; akin to D. & G. <ets>arm</ets>, Icel. <ets>armr</ets>, Goth. <ets>arms</ets>. The <ets>y-</ets> in English is perhaps due to the AS. <ets>ge</ets> (see <er>Y-</er>).]</ety> <def>To pain; to grieve; to vex.</def>  <mark>[Obs.]</mark> <ldquo/She laments, sir, for it, that it would <xex>yearn</xex> your heart to see it.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Yearn</hw> <pr>(y<etil/rn)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Yearned</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Yearning</conjf>.]</vmorph> <ety>[Also <asp>earn</asp>, <asp>ern</asp>; probably a corruption of OE. <ets>ermen</ets> to grieve, AS. <ets>ierman</ets>, <ets>yrman</ets>, or <ets>geierman</ets>, <ets>geyrman</ets>, fr. <ets>earm</ets> wretched, poor; akin to D. & G. <ets>arm</ets>, Icel. <ets>armr</ets>, Goth. <ets>arms</ets>. The <ets>y-</ets> in English is perhaps due to the AS. <ets>ge</ets> (see <er>Y-</er>).]</ety> <def>To pain; to grieve; to vex.</def>  <mark>[Obs.]</mark> <ldquo/She laments, sir, for it, that it would <xex>yearn</xex> your heart to see it.<rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><q>It <qex>yearns</qex> me not if men my garments wear.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>

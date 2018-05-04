@@ -16938,11 +16938,11 @@ Who fluttered over all things like a fan.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Mere" source="1913 Webster">
-<p><hw>Mere</hw> <pr>(m<emac/r)</pr>, <pos>n.</pos> <ety>[Written also <ets>mar</ets>.]</ety> <ety>[OE. <ets>mere</ets>, AS. <ets>mere</ets> mere, sea; akin to D. <ets>meer</ets> lake, OS. <ets>meri</ets> sea, OHG. <ets>meri</ets>, <ets>mari</ets>, G. <ets>meer</ets>, Icel. <ets>marr</ets>, Goth. <ets>marei</ets>, Russ. <ets>more</ets>, W. <ets>mor</ets>, Ir. & Gael. <ets>muir</ets>, L. <ets>mare</ets>, and perh. to L. <ets>mori</ets> to die, and meaning originally, that which is dead, a waste.  Cf. <er>Mortal</er>, <er>Marine</er>, <er>Marsh</er>, <er>Mermaid</er>, <er>Moor</er>.]</ety> <def>A pool or lake.</def>  <rj><au>Drayton.</au>  <au>Tennyson.</au></rj></p>
+<p><hw>Mere</hw> <pr>(m<emac/r)</pr>, <pos>n.</pos> <altsp>[Written also <asp>mar</asp>.]</altsp> <ety>[OE. <ets>mere</ets>, AS. <ets>mere</ets> mere, sea; akin to D. <ets>meer</ets> lake, OS. <ets>meri</ets> sea, OHG. <ets>meri</ets>, <ets>mari</ets>, G. <ets>meer</ets>, Icel. <ets>marr</ets>, Goth. <ets>marei</ets>, Russ. <ets>more</ets>, W. <ets>mor</ets>, Ir. & Gael. <ets>muir</ets>, L. <ets>mare</ets>, and perh. to L. <ets>mori</ets> to die, and meaning originally, that which is dead, a waste.  Cf. <er>Mortal</er>, <er>Marine</er>, <er>Marsh</er>, <er>Mermaid</er>, <er>Moor</er>.]</ety> <def>A pool or lake.</def>  <rj><au>Drayton.</au>  <au>Tennyson.</au></rj></p>
 </entry>
 
 <entry main-word="Mere" source="1913 Webster">
-<p><hw>Mere</hw>, <pos>n.</pos> <ety>[Written also <ets>meer</ets> and <ets>mear</ets>.]</ety> <ety>[AS. <ets>gem<aemac/re</ets>. <root/269.]</ety> <def>A boundary.</def>  <rj><au>Bacon.</au></rj></p>
+<p><hw>Mere</hw>, <pos>n.</pos> <altsp>[Written also <asp>meer</asp> and <asp>mear</asp>.]</altsp> <ety>[AS. <ets>gem<aemac/re</ets>. <root/269.]</ety> <def>A boundary.</def>  <rj><au>Bacon.</au></rj></p>
 </entry>
 
 <entry main-word="Mere" source="1913 Webster">

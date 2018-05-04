@@ -16649,7 +16649,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lithoxyl" source="1913 Webster">
-<p><hw>Li*thox`yl</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>lithoxyle</ets>.]</ety> <ety>[<ets>Litho-</ets> + Gr. <?/ wood: cf. F. <ets>lithoxyle</ets>.]</ety> <def>Petrified wood.</def> <mark>[Obs.]</mark></p>
+<p><hw>Li*thox`yl</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>lithoxyle</asp>.]</altsp> <ety>[<ets>Litho-</ets> + Gr. <?/ wood: cf. F. <ets>lithoxyle</ets>.]</ety> <def>Petrified wood.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Lithuanian" source="1913 Webster">
@@ -18018,7 +18018,7 @@ Your majesty <qex>loads</qex> our house.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lobscouse" source="1913 Webster">
-<p><hw>Lob"scouse`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>lobscourse</ets> from which <ets>lobscouse</ets> is corrupted.]</ety> <ety>[<ets>Lob</ets> + <ets>course</ets>.]</ety> <fld>(Naut.)</fld> <def>A combination of meat with vegetables, bread, etc., usually stewed, sometimes baked; an olio.</def></p>
+<p><hw>Lob"scouse`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <asp>lobscourse</asp> from which <xex>lobscouse</xex> is corrupted.]</ety> <ety>[<ets>Lob</ets> + <ets>course</ets>.]</ety> <fld>(Naut.)</fld> <def>A combination of meat with vegetables, bread, etc., usually stewed, sometimes baked; an olio.</def></p>
 </entry>
 
 <entry main-word="Lobsided" source="1913 Webster">

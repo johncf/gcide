@@ -13920,7 +13920,7 @@ Of all-subdoing sleep.</q> <rj><qau>Chapman.</qau></rj></p>
 </entry>
 
 <entry main-word="Thrapple" source="1913 Webster">
-<p><hw>Thrap"ple</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <ets>thropple</ets>, corrupted fr. <ets>throttle</ets>.]</ety> <def>Windpipe; throttle.</def> <mark>[Prov. Eng. & Scot.]</mark></p>
+<p><hw>Thrap"ple</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Also <asp>thropple</asp>, corrupted fr. <ets>throttle</ets>.]</ety> <def>Windpipe; throttle.</def> <mark>[Prov. Eng. & Scot.]</mark></p>
 </entry>
 
 <entry main-word="Thrash" source="1913 Webster">
@@ -19462,7 +19462,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="Tollbooth" source="1913 Webster">
-<p><hw>Toll"booth`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Toll</ets> a tax + <ets>booth</ets>.]</ety> <ety>[Written also <ets>tolbooth</ets>.]</ety> <sn>1.</sn> <def>A place where goods are weighed to ascertain the duties or toll.</def> <mark>[Obs.]</mark></p>
+<p><hw>Toll"booth`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Toll</ets> a tax + <ets>booth</ets>.]</ety> <altsp>[Written also <asp>tolbooth</asp>.]</altsp> <sn>1.</sn> <def>A place where goods are weighed to ascertain the duties or toll.</def> <mark>[Obs.]</mark></p>
 
 <p><q>He saw Levy . . . sitting at the <qex>tollbooth</qex>.</q> <rj><qau>Wyclif (Mark ii. 14).</qau></rj></p>
 

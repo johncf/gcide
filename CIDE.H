@@ -3315,7 +3315,7 @@ Are but the <qex>handsels</qex> of our joys hereafter.</q> <rj><qau>Herrick.</qa
 </entry>
 
 <entry main-word="Handsel" source="1913 Webster">
-<p><hw>Hand"sel</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Handseled</conjf> <it>or</it> <conjf>Handselled</conjf> <pr>(h<acr/nd"s<ecr/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Handseling</conjf> <it>or</it> <conjf>Handselling</conjf>.]</vmorph> <ety>[Written also <ets>hansel</ets>.]</ety> <ety>[OE <ets>handsellen</ets>, <ets>hansellen</ets>; cf. Icel. <ets>hadsala</ets>, <ets>handselja</ets>. See <er>Handsel</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To give a handsel to.</def></p>
+<p><hw>Hand"sel</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Handseled</conjf> <it>or</it> <conjf>Handselled</conjf> <pr>(h<acr/nd"s<ecr/ld)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Handseling</conjf> <it>or</it> <conjf>Handselling</conjf>.]</vmorph> <altsp>[Written also <asp>hansel</asp>.]</altsp> <ety>[OE <ets>handsellen</ets>, <ets>hansellen</ets>; cf. Icel. <ets>hadsala</ets>, <ets>handselja</ets>. See <er>Handsel</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To give a handsel to.</def></p>
 
 <p><sn>2.</sn> <def>To use or do for the first time, esp. so as to make fortunate or unfortunate; to try experimentally.</def></p>
 
@@ -4602,7 +4602,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Harem" source="1913 Webster">
-<p><hw>Ha"rem</hw> <pr>(h<amac/"r<ecr/m; 277)</pr>, <pos>n.</pos><ety>[Ar. <ets>haram</ets>, orig., anything forbidden or sacred, fr. <ets>harama</ets> to forbid, prohibit.]</ety> <ety>[Written also <ets>haram</ets> and <ets>hareem</ets>.]</ety> <sn>1.</sn> <def>The apartments or portion of the house allotted to females in Muslim families.</def></p>
+<p><hw>Ha"rem</hw> <pr>(h<amac/"r<ecr/m; 277)</pr>, <pos>n.</pos> <ety>[Ar. <ets>haram</ets>, orig., anything forbidden or sacred, fr. <ets>harama</ets> to forbid, prohibit.]</ety> <altsp>[Written also <asp>haram</asp> and <asp>hareem</asp>.]</altsp> <sn>1.</sn> <def>The apartments or portion of the house allotted to females in Muslim families.</def></p>
 
 <p><sn>2.</sn> <def>The family of wives and concubines belonging to one man, in Muslim countries; a seraglio.</def></p>
 </entry>
@@ -6342,7 +6342,7 @@ With modest warrant.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Haw" source="1913 Webster">
-<p><hw>Haw</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Hawed</conjf> <pr>(h<add/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Hawing</conjf>.]</vmorph> <ety>[Written also <ets>hoi</ets>.]</ety> <ety>[Perhaps connected with <ets>here</ets>, <ets>hither</ets>; cf., however, F. <ets>huhau</ets>, <ets>hurhau</ets>, <ets>hue</ets>, interj. used in turning a horse to the right, G. <ets>hott</ets>, <ets>h<uum/</ets>, interj. used in calling to a horse.]</ety> <def>To turn to the near side, or toward the driver; -- said of cattle or a team: a word used by teamsters in guiding their teams, and most frequently in the imperative. See <er>Gee</er>.</def></p>
+<p><hw>Haw</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Hawed</conjf> <pr>(h<add/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Hawing</conjf>.]</vmorph> <altsp>[Written also <asp>hoi</asp>.]</altsp> <ety>[Perhaps connected with <ets>here</ets>, <ets>hither</ets>; cf., however, F. <ets>huhau</ets>, <ets>hurhau</ets>, <ets>hue</ets>, interj. used in turning a horse to the right, G. <ets>hott</ets>, <ets>h<uum/</ets>, interj. used in calling to a horse.]</ety> <def>To turn to the near side, or toward the driver; -- said of cattle or a team: a word used by teamsters in guiding their teams, and most frequently in the imperative. See <er>Gee</er>.</def></p>
 
 <p><cs><mcol><col>To haw and gee</col>, <it>or</it> <col>To haw and gee about</col></mcol>, <cd>to go from one thing to another without good reason; to have no settled purpose; to be irresolute or unstable.</cd> <mark>[Colloq.]</mark></cs></p>
 </entry>
@@ -12214,7 +12214,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Herpetology" source="1913 Webster">
-<p><hw>Her`pe*tol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also, but less properly, <ets>erpetology</ets>.]</ety> <ety>[Gr. <?/ a creeping thing, reptile (fr. <?/ to creep) + <ets>-logy</ets>: cf. F. <ets>herp<eacute/tologie</ets>.]</ety> <def>The natural history of reptiles; that branch of Zoology which relates to reptiles, including their structure, classification, and habits.</def></p>
+<p><hw>Her`pe*tol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also, but less properly, <asp>erpetology</asp>.]</altsp> <ety>[Gr. <?/ a creeping thing, reptile (fr. <?/ to creep) + <ets>-logy</ets>: cf. F. <ets>herp<eacute/tologie</ets>.]</ety> <def>The natural history of reptiles; that branch of Zoology which relates to reptiles, including their structure, classification, and habits.</def></p>
 </entry>
 
 <entry main-word="Herpetotomist" source="1913 Webster">
@@ -20156,7 +20156,7 @@ Of <qex>horrid</qex> hell.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Horror" source="1913 Webster">
-<p><hw>Hor"ror</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Formerly written <ets>horrour</ets>.]</ety> <ety>[L. <ets>horror</ets>, fr. <ets>horrere</ets> to bristle, to shiver, to tremble with cold or dread, to be dreadful or terrible; cf. Skr. <ets>h<?/sh</ets> to bristle.]</ety> <sn>1.</sn> <def>A bristling up; a rising into roughness; tumultuous movement.</def> <mark>[Archaic]</mark></p>
+<p><hw>Hor"ror</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Formerly written <asp>horrour</asp>.]</altsp> <ety>[L. <ets>horror</ets>, fr. <ets>horrere</ets> to bristle, to shiver, to tremble with cold or dread, to be dreadful or terrible; cf. Skr. <ets>h<?/sh</ets> to bristle.]</ety> <sn>1.</sn> <def>A bristling up; a rising into roughness; tumultuous movement.</def> <mark>[Archaic]</mark></p>
 
 <p><q>Such fresh <qex>horror</qex> as you see driven through the wrinkled waves.</q> <rj><qau>Chapman.</qau></rj></p>
 

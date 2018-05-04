@@ -4580,7 +4580,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Raveler" source="1913 Webster">
-<p><hw>Rav"el*er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <ety>[Also <ets>raveller</ets>.]</ety> <def>One who ravels.</def></p>
+<p><hw>Rav"el*er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <altsp>[Also <asp>raveller</asp>.]</altsp> <def>One who ravels.</def></p>
 </entry>
 
 <entry main-word="Ravelin" source="1913 Webster">
@@ -4588,7 +4588,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Raveling" source="1913 Webster">
-<p><hw>Rav"el*ing</hw> <pr>(r<acr/v"'l*<icr/ng)</pr>, <pos>n.</pos> <ety>[Also <ets>ravelling</ets>.]</ety> <sn>1.</sn> <def>The act of untwisting or of disentangling.</def></p>
+<p><hw>Rav"el*ing</hw> <pr>(r<acr/v"'l*<icr/ng)</pr>, <pos>n.</pos> <altsp>[Also <asp>ravelling</asp>.]</altsp> <sn>1.</sn> <def>The act of untwisting or of disentangling.</def></p>
 
 <p><sn>2.</sn> <def>That which is raveled out; esp., a thread detached from a texture.</def></p>
 </entry>
@@ -24372,7 +24372,7 @@ Waked by the lark, hath roused the <qex>ribald</qex> crows.</q> <rj><qau>Shak.</
 </entry>
 
 <entry main-word="Ribband" source="1913 Webster">
-<p><hw>Rib"band`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Rib</ets> + <ets>band</ets>.]</ety> <ety>[Written also <ets>riband</ets>, and <ets>ribbon</ets>.]</ety> <fld>(Shipbuilding)</fld> <def>A long, narrow strip of timber bent and bolted longitudinally to the ribs of a vessel, to hold them in position, and give rigidity to the framework.</def></p>
+<p><hw>Rib"band`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Rib</ets> + <ets>band</ets>.]</ety> <altsp>[Written also <asp>riband</asp>, and <asp>ribbon</asp>.]</altsp> <fld>(Shipbuilding)</fld> <def>A long, narrow strip of timber bent and bolted longitudinally to the ribs of a vessel, to hold them in position, and give rigidity to the framework.</def></p>
 
 <p><cs><col>Rib-band lines</col>, <cd>oblique longitudinal sections of the hull of a vessel.</cd>  <rj><au>Knight.</au></rj></cs></p>
 </entry>
