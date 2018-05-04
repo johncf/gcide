@@ -17913,7 +17913,7 @@ To artist <qex>ingenuity</qex> and skill.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Ingle" source="1913 Webster">
-<p><hw>In"gle</hw>, <pos>n.</pos> <ety>[Written also <ets>engle</ets>, <ets>enghle</ets>: cf. Gael. & Ir. <ets>aingeal</ets> an angel.  Cf. <er>Engle</er>.]</ety> <def>A paramour; a favourite; a sweetheart; an engle.</def> <mark>[Obs.]</mark>  <rj><au>Toone.</au></rj></p>
+<p><hw>In"gle</hw>, <pos>n.</pos> <ety>[Written also <asp>engle</asp>, <asp>enghle</asp>: cf. Gael. & Ir. <ets>aingeal</ets> an angel.  Cf. <er>Engle</er>.]</ety> <def>A paramour; a favourite; a sweetheart; an engle.</def> <mark>[Obs.]</mark>  <rj><au>Toone.</au></rj></p>
 </entry>
 
 <entry main-word="Ingle" source="1913 Webster">
@@ -26711,7 +26711,7 @@ Of trees thick <qex>interwoven</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Inthrallment" source="1913 Webster">
-<p><hw>In*thrall"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>inthralment</ets>, <ets>enthrallment</ets>.]</ety> <def>Act of inthralling, or state of being inthralled; servitude; bondage; vassalage.</def></p>
+<p><hw>In*thrall"ment</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>inthralment</asp>, <asp>enthrallment</asp>.]</altsp> <def>Act of inthralling, or state of being inthralled; servitude; bondage; vassalage.</def></p>
 </entry>
 
 <entry main-word="Inthrone" source="1913 Webster">

@@ -4612,7 +4612,7 @@ They <qex>ravel</qex> more, still less resolved.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Raven" source="1913 Webster">
-<p><hw>Rav"en</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ravened</conjf> <pr>(r<acr/v"'nd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ravening</conjf>.]</vmorph> <ety>[Written also <ets>ravin</ets>, and <ets>ravine</ets>.]</ety></p>
+<p><hw>Rav"en</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Ravened</conjf> <pr>(r<acr/v"'nd)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Ravening</conjf>.]</vmorph> <altsp>[Written also <asp>ravin</asp>, and <asp>ravine</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>To obtain or seize by violence.</def>  <rj><au>Hakewill.</au></rj></p>
 

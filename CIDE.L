@@ -6807,7 +6807,7 @@ He will remain so.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Leach" source="1913 Webster">
-<p><hw>Leach</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Leached</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Leaching</conjf>.]</vmorph> <ety>[Written also <ets>leech</ets> and <ets>letch</ets>.]</ety> <sn>1.</sn> <def>To remove the soluble constituents from by subjecting to the action of percolating water or other liquid; <as>as, to <ex>leach</ex> ashes or coffee</as>.</def></p>
+<p><hw>Leach</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Leached</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Leaching</conjf>.]</vmorph> <altsp>[Written also <asp>leech</asp> and <asp>letch</asp>.]</altsp> <sn>1.</sn> <def>To remove the soluble constituents from by subjecting to the action of percolating water or other liquid; <as>as, to <ex>leach</ex> ashes or coffee</as>.</def></p>
 
 <p><sn>2.</sn> <def>To dissolve out; -- often used with <xex>out</xex>; <as>as, to <ex>leach</ex> out alkali from ashes</as>.</def></p>
 </entry>

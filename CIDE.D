@@ -102,7 +102,7 @@
 </entry>
 
 <entry main-word="Dace" source="1913 Webster;;PJC">
-<p><hw>Dace</hw> <pr>(d<amac/s)</pr>, <pos>n.</pos> <ety>[Written also <ets>dare</ets>, <ets>dart</ets>, fr. F. <ets>dard</ets> dase, dart, of German origin. <ets>Dace</ets> is for an older <ets>darce</ets>, fr. an OF. nom. <ets>darz</ets>. See <er>Dart</er> a javelin.]</ety> <fld>(Zool.)</fld> <def>A small European cyprinoid fish (<spn>Leuciscus leuciscus</spn>, formerly <spn>Squalius leuciscus</spn> or <spn>Leuciscus vulgaris</spn>); -- called also <altname>dare</altname>.</def></p>
+<p><hw>Dace</hw> <pr>(d<amac/s)</pr>, <pos>n.</pos> <ety>[Written also <asp>dare</asp>, <asp>dart</asp>, fr. F. <ets>dard</ets> dase, dart, of German origin. <ets>Dace</ets> is for an older <ets>darce</ets>, fr. an OF. nom. <ets>darz</ets>. See <er>Dart</er> a javelin.]</ety> <fld>(Zool.)</fld> <def>A small European cyprinoid fish (<spn>Leuciscus leuciscus</spn>, formerly <spn>Squalius leuciscus</spn> or <spn>Leuciscus vulgaris</spn>); -- called also <altname>dare</altname>.</def></p>
 
 <p source="1913 Webster"><note><hand/ In America the name is given to several related fishes of the genera <gen>Squalius</gen>, <gen>Minnilus</gen>, etc. The black-nosed dace is <spn>Rhinichthys atronasus</spn> the horned dace is <spn>Semotilus corporalis</spn>. For red dace, see <er>Redfin</er>.</note></p>
 </entry>

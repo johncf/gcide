@@ -5968,7 +5968,7 @@ Some stick to you, and some to t'other side.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Manchu" source="1913 Webster">
-<p><hw>Man*chu"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Written also <ets>Manchoo</ets>, <ets>Mantchoo</ets>, etc.]</ety> <def>Of or pertaining to Manchuria or its inhabitants.</def> -- <def2><pos>n.</pos> <def>A native or inhabitant of Manchuria; also, the language spoken by the Manchus.</def></def2></p>
+<p><hw>Man*chu"</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Written also <asp>Manchoo</asp>, <asp>Mantchoo</asp>, etc.]</altsp> <def>Of or pertaining to Manchuria or its inhabitants.</def> -- <def2><pos>n.</pos> <def>A native or inhabitant of Manchuria; also, the language spoken by the Manchus.</def></def2></p>
 </entry>
 
 <entry main-word="Mancipate" source="1913 Webster">

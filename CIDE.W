@@ -13160,7 +13160,7 @@ For him that's dead or false to me.</q> <rj><qau>Campbell.</qau></rj></p>
 </entry>
 
 <entry main-word="Wilt" source="1913 Webster">
-<p><hw>Wilt</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Wilting</conjf>.]</vmorph> <ety>[Written also <ets>welt</ets>, a modification of <ets>welk</ets>.]</ety> <def>To begin to wither; to lose freshness and become flaccid, as a plant when exposed when exposed to drought, or to great heat in a dry day, or when separated from its root; to droop;. to wither.</def>  <mark>[Prov. Eng. & U. S.]</mark></p>
+<p><hw>Wilt</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Wilting</conjf>.]</vmorph> <ety>[Written also <asp>welt</asp>, a modification of <er>welk</er>.]</ety> <def>To begin to wither; to lose freshness and become flaccid, as a plant when exposed when exposed to drought, or to great heat in a dry day, or when separated from its root; to droop; to wither.</def>  <mark>[Prov. Eng. & U. S.]</mark></p>
 </entry>
 
 <entry main-word="Wilt" source="1913 Webster">

@@ -13331,7 +13331,7 @@ Without some <qex>thistly</qex> sorrow at its side.</q> <rj><qau>Cowper.</qau></
 </entry>
 
 <entry main-word="Thitsee" source="1913 Webster">
-<p><hw>Thit"see</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Written also <ets>theesee</ets>, and <ets>thietsie</ets>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The varnish tree of Burmah (<spn>Melanorrhoea usitatissima</spn>).</def></p>
+<p><hw>Thit"see</hw> <pr>(?)</pr>, <pos>n.</pos> <altsp>[Written also <asp>theesee</asp>, and <asp>thietsie</asp>.]</altsp> <sn>1.</sn> <fld>(Bot.)</fld> <def>The varnish tree of Burmah (<spn>Melanorrhoea usitatissima</spn>).</def></p>
 
 <p><sn>2.</sn> <def>A black varnish obtained from the tree.</def></p>
 </entry>
