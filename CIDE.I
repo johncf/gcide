@@ -21824,13 +21824,13 @@ Are base respects of thrift, but none of love.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>These seem as if, in the time of Edward I., they were drawn up into the form of a law, in the first <qex>instance</qex>.</q> <rj><qau>Sir M. Hale.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>4.</sn> <def>That which offers itself or is offered as an illustrative case; something cited in proof or exemplification; a case occurring; an example; <as>as, we could find no <ex>instance</ex> of poisoning in the town within the past year</as>.</def></p>
+<p><sn>4.</sn> <def>That which offers itself or is offered as an illustrative case; something cited in proof or exemplification; a case occurring; an example.</def></p>
 
 <p><q>Most remarkable <qex>instances</qex> of suffering.</q> <rj><qau>Atterbury.</qau></rj></p>
 
 <p><sn>5.</sn> <def>A token; a sign; a symptom or indication.</def>  <rj><au>Shak.</au></rj></p>
 
-<p source=""><cs><col>Causes of instance</col>, <cd>those which proceed at the solicitation of some party.</cd> <au>Hallifax.</au> -- <col>Court of first instance</col>, <cd>the court by which a case is first tried.</cd> -- <col>For instance</col>, <cd>by way of example or illustration; for example.</cd> -- <col>Instance Court</col> <fld>(Law)</fld>, <cd>the Court of Admiralty acting within its ordinary jurisdiction, as distinguished from its action as a <xex>prize court</xex>.</cd></cs></p>
+<p><cs><col>Causes of instance</col>, <cd>those which proceed at the solicitation of some party.</cd> <au>Hallifax.</au> -- <col>Court of first instance</col>, <cd>the court by which a case is first tried.</cd> -- <col>For instance</col>, <cd>by way of example or illustration.</cd> -- <col>Instance Court</col> <fld>(Law)</fld>, <cd>the Court of Admiralty acting within its ordinary jurisdiction, as distinguished from its action as a <xex>prize court</xex>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Example; case. See <er>Example</er>.</syn></p>
 </entry>
