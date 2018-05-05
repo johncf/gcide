@@ -32379,7 +32379,7 @@ And the eternal <qex>morrow</qex> dawn.</q> <rj><qau>Crashaw.</qau></rj></p>
 </entry>
 
 <entry main-word="Morse" source="1913 Webster">
-<p><hw>Morse</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>morse</ets>, Russ. <ets>morj'</ets>; perh. akin to E. <ets>mere</ets> lake; cf. Russ. <ets>more</ets> sea.]</ety> <fld>(Zool.)</fld> <def>The walrus. See <er>Walrus</er>.</def></p>
+<p><hw>Morse</hw> <pr>(m<ocir/rs)</pr>, <pos>n.</pos> <ety>[F. <ets>morse</ets>, Russ. <ets>morj'</ets>; perh. akin to E. <ets>mere</ets> lake; cf. Russ. <ets>more</ets> sea.]</ety> <fld>(Zool.)</fld> <def>The walrus. See <er>Walrus</er>.</def></p>
 </entry>
 
 <entry main-word="Morse" source="1913 Webster">
@@ -32387,62 +32387,9 @@ And the eternal <qex>morrow</qex> dawn.</q> <rj><qau>Crashaw.</qau></rj></p>
 </entry>
 
 <entry main-word="Morse alphabet" source="1913 Webster">
-<p><hw>Morse" al"pha*bet</hw> <pr>(?)</pr>. <def>same as <er>Morse code</er>.</def></p>
-</entry>
+<p><hw>Morse" al"pha*bet</hw> <pr>(<acr/l"f<adot/*b<ecr/t)</pr>. <def>A telegraphic alphabet in very general use, invented by <person>Samuel F. B. Morse</person>, the inventor of Morse's telegraph. The letters are represented by dots and dashes impressed or printed on paper, as, <middot/<mdash/ (A), <mdash/<middot/<middot/<middot/ (B), <mdash/<middot/<middot/ (D), <middot/ (E), <middot/ <middot/ (O), <middot/ <middot/<middot/ (R), <mdash/ (T), etc., or by sounds, flashes of light, etc., with greater or less intervals between them. <extra source="JCF">[Also called <altname>Morse code</altname>.]</extra></def></p>
 
-<entry main-word="Morse code" source="1913 Webster;;PJC">
-<p><hw>Morse" code"</hw> <pr>(?)</pr>. <fld>(Teleg.)</fld> <def>a telegraphic code, in which dots, dashes, and spaces represent letters, numbers, and other elements of text.  The original code was invented by <person>Samuel B. <etsep>Morse</etsep></person>. The code now mostly used is the <stype>International Morse code</stype>, also referred to simply as the <ex>Morse code</ex>.</def></p>
-
-<p source=""><note>The present International Morse Code is given in the table below.  There are no spaces in the <stype>International Morse Code</stype>.<br/
-<br/
-<pre><tt><er>Alphabet</er><br/
-----------------------------------------------------------<br/
-A .-          H ....       O ---          V ...-<br/
-B -...        I ..         P .--.         W .--<br/
-C _._.        J .---       Q --.-         X -..-<br/
-D -..         K -.-        R .-.          Y -.--<br/
-E .           L .-..       S ...          Z --..<br/
-F ..-.        M --         T -<br/
-G --.         N -.         U ..-<br/
-<br/
-<er>Numerals</er><br/
-<br/
-1 .----       4 ....-          7 --...<br/
-2 ..---       5 .....          8 ---..<br/
-3 ...--       6 -....          9 ----.<br/
-0 -----
-<br/
-<er>Punctuation</er><br/
-<br/
- . (Period)            .-.-.-    , (Comma)             --..--<br/
- ? (Question Mark)     ..--..    ; (Semicolon)         -.-.-.
- : (Colon)             ---...    ' (apostrophe)        .----.
- - (hyphen)            -....-    / (forward slash)     -..-.
- ( (left parenthesis)  -.--.     ) (right parenthesis) -.--.-
-----------------------------------------------------------------<br/
-</tt></pre></p>
-
-<p source="">The Alphabetic code which was originally in use in North America is given in the table below.  In length, or duration, one dash is theoretically equal to three dots; the space between the elements of a letter is equal to one dot; the interval in spaced letters, as O . ., is equal to three dots. There are no spaces in any letter composed wholly or in part of dashes.</p>
-
-<p source=""><pre><tt><er>Alphabet</er><br/
-<br/
-A .-          H ....       O . .          V ...-<br/
-B - . . .     I ..         P .....        W .--<br/
-C .. .        J -.-.       Q ..-.         X .-..<br/
-D -..         K -.-        R . ..         Y .. ..<br/
-E .           L <mdash/    S ...          Z ... .<br/
-F .-.         M --         T --           & . ...<br/
-G --.         N -.         U ..-<br/
-<br/
-<er>Numerals</er><br/
-<br/
-1 .--.        4 . . . .-          7 --..<br/
-2 ..-..       5 ---               8 - . . . .<br/
-3 . . . -.    6 . . . . . .       9 -..-<br/
-0 ----     Period ..--..   Comma .-.-<br/
-</tt></pre></p>
-
-<p source="PJC;;Webster 1913 Suppl.">The Morse code was used chiefly with the electric telegraph, but is also employed in signalling with flags, lights, etc.</note></p>
+<p source="Webster 1913 Suppl."><note>The Morse code is used chiefly with the electric telegraph, but is also employed in signalling with flags, lights, etc.</note> <mark>[Outdated]</mark></p>
 </entry>
 
 <entry main-word="Morsel" source="1913 Webster">
