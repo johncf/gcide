@@ -19560,7 +19560,7 @@ Of heaven's ascent they lift their feet.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>As to his being on the <qex>foot</qex> of a servant.</q> <rj><qau>Walpole.</qau></rj></p>
 
-<p><sn>7.</sn> <def>A measure of length equivalent to twelve inches; one third of a yard. See <er>Yard</er>.</def></p>
+<p><sn>7.</sn> <def>A measure of length equivalent to twelve inches; one third of a yard. See <er>Yard</er>. <extra source="JCF">It is sometimes denoted by a prime (<prime/); <as>as, 6<prime/ 3<dprime/ denoting 6 feet 3 inches</as>.</extra></def></p>
 
 <p><note><hand/ This measure is supposed to be taken from the length of a man's foot. It differs in length in different countries. In the United States and in England it is 304.8 millimeters.</note></p>
 

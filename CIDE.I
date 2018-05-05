@@ -9338,11 +9338,7 @@ You must divine and human rights remove.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Inch" source="1913 Webster">
 <p><hw>Inch</hw>, <pos>n.</pos> <ety>[OE. <ets>inche</ets>, <ets>unche</ets>, AS. <ets>ynce</ets>, L. <ets>uncia</ets> the twelfth part, inch, ounce. See <er>Ounce</er> a weight.]</ety></p>
 
-<p><sn>1.</sn> <def>A measure of length, the twelfth part of a foot, commonly subdivided into halves, quarters, eights, sixteenths, etc., as among mechanics. It was also formerly divided into twelve parts, called <xex>lines</xex>, and originally into three parts, called <xex>barleycorns</xex>, its length supposed to have been determined from three grains of barley placed end to end lengthwise. It is also sometimes called a <xex>prime</xex> (<prime/), composed of twelve seconds (<prime/<prime/), as in the duodecimal system of arithmetic.</def></p>
-
-<p source="PJC"><note> The symbol <prime/ is the same symbol as the light accent, or the "minutes" of an arc.   The "seconds" symbol should actually have the two strokes closer than in repeated "minutes", but in this dictionary <prime/<prime/ will be interpreted as "seconds".</note></p>
-
-<p><q>12 seconds (<prime/<prime/) make 1 <qex>inch</qex> or prime. 12 <qex>inches</qex> or primes (<prime/)  make 1 foot.</q> <rj><qau>B. Greenleaf.</qau></rj></p>
+<p><sn>1.</sn> <def>A measure of length, the twelfth part of a foot, commonly subdivided into halves, quarters, eights, sixteenths, etc., as among mechanics. It was also formerly divided into twelve parts, called <xex>lines</xex>, and originally into three parts, called <xex>barleycorns</xex>, its length supposed to have been determined from three grains of barley placed end to end lengthwise. <rev source="JCF">It is sometimes denoted by a double prime (<dprime/); <as>as, 6<prime/ 3<dprime/ denoting 6 feet 3 inches</as>.</rev></def></p>
 
 <p><note><hand/ The meter, the accepted scientific standard of length, equals 39.37 inches; the inch is equal to 2.54 centimeters. See <er>Metric system</er>, and <er>Meter</er>.</note></p>
 
