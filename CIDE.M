@@ -23217,7 +23217,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj></p
 
 <p><q>Four <qex>minutes</qex>, that is to say, <qex>minutes</qex> of an hour.</q> <rj><qau>Chaucer.</qau></rj></p>
 
-<p><sn>2.</sn> <def>The sixtieth part of a degree; sixty seconds (Marked thus (<prime/); <as>as, 10<deg/ 20<prime/</as>).</def></p>
+<p><sn>2.</sn> <def>The sixtieth part of a degree; sixty seconds. (Marked thus (<prime/); <as>as, 10<deg/ 20<prime/</as>.)</def></p>
 
 <p><sn>3.</sn> <def>A nautical or a geographic mile.</def></p>
 
@@ -30467,7 +30467,7 @@ Is lucky and happy and good and gay.</q></p>
 </entry>
 
 <entry main-word="Monseigneur" source="1913 Webster">
-<p><par/<hw>Mon`sei`gneur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messeigneurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>seigneur</ets> lord, L. <ets>senior</ets> older. See <er>Senior</er>, and cf. <er>Monsieur</er>.]</ety> <def>My lord; -- a title in France of a person of high birth or rank; <as>as, <ex>Monseigneur</ex> the Prince, or <ex>Monseigneur</ex> the Archibishop</as>.  It was given, specifically, to the dauphin, before the Revolution of 1789. (Abbrev. <abbr>Mgr.</abbr>)</def></p>
+<p><par/<hw>Mon`sei`gneur"</hw> <pr>(F. m<ocir/N`s<asl/`ny<etil/r"; E. m<ocr/n*s<ecr/n"y<etil/r)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messeigneurs</plw> <pr>(F. m<asl/`s<asl/`ny<etil/r"; E. m<ecr/s*s<ecr/n"y<etil/rz)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>seigneur</ets> lord, L. <ets>senior</ets> older. See <er>Senior</er>, and cf. <er>Monsieur</er>.]</ety> <def>My lord; -- a title in France of a person of high birth or rank; <as>as, <ex>Monseigneur</ex> the Prince, or <ex>Monseigneur</ex> the Archibishop</as>.  It was given, specifically, to the dauphin, before the Revolution of 1789. (Abbrev. <abbr>Mgr.</abbr>)</def></p>
 </entry>
 
 <entry main-word="Monsel's salt" source="1913 Webster">
@@ -30479,7 +30479,7 @@ Is lucky and happy and good and gay.</q></p>
 </entry>
 
 <entry main-word="Monsieur" source="1913 Webster">
-<p><par/<hw>Mon*sieur"</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messieurs</plw> <pr>(#)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>Sieur</ets>, abbrev. of <ets>seigneur</ets> lord. See <er>Monseigneur</er>.]</ety> <sn>1.</sn> <def>The common title of civility in France in speaking to, or of, a man; Mr. or Sir.</def> <altsp>[Represented by the abbreviation <abbr>M.</abbr> or <abbr>Mons.</abbr> in the singular, and by <plw><abbr>MM.</abbr></plw> or <plw><abbr>Messrs.</abbr></plw> in the plural.]</altsp></p>
+<p><par/<hw>Mon*sieur"</hw> <pr>(F. m<ocr/*sy<etil/"; E. m<ocr/*s<emac/r")</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Messieurs</plw> <pr>(F. m<amac/`sy<etil/" E. m<ecr/sh"y<etil/rz)</pr>.</plu> <ety>[F., fr. <ets>mon</ets> my + <ets>Sieur</ets>, abbrev. of <ets>seigneur</ets> lord. See <er>Monseigneur</er>.]</ety> <sn>1.</sn> <def>The common title of civility in France in speaking to, or of, a man; Mr. or Sir.</def> <altsp>[Represented by the abbreviation <abbr>M.</abbr> or <abbr>Mons.</abbr> in the singular, and by <plw><abbr>MM.</abbr></plw> or <plw><abbr>Messrs.</abbr></plw> in the plural.]</altsp></p>
 
 <p><sn>2.</sn> <def>The oldest brother of the king of France.</def></p>
 
@@ -30487,7 +30487,7 @@ Is lucky and happy and good and gay.</q></p>
 </entry>
 
 <entry main-word="Monsignore" source="1913 Webster">
-<p><par/<hw>Mon`si*gno"re</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monsignors</plw> <pr>(#)</pr>.</plu> <ety>[It., my lord.  Cf. <er>Monseigneur</er>.]</ety> <def>My lord; -- an ecclesiastical dignity bestowed by the pope, entitling the bearer to social and domestic rank at the papal court. (Abbrev. <abbr>Mgr.</abbr>)</def></p>
+<p><par/<hw>Mon`si*gno"re</hw> <pr>(m<osl/n`s<esl/*ny<osl/"r<asl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Monsignors</plw> <pr>(-r<esl/)</pr>.</plu> <ety>[It., my lord.  Cf. <er>Monseigneur</er>.]</ety> <def>My lord; -- an ecclesiastical dignity bestowed by the pope, entitling the bearer to social and domestic rank at the papal court. (Abbrev. <abbr>Mgr.</abbr>)</def></p>
 </entry>
 
 <entry main-word="monsoon" source="1913 Webster">

@@ -167,10 +167,10 @@
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A finger or toe; a digit.</def> <sd>(b)</sd> <def>The claw or terminal joint of a leg of an insect or crustacean.</def></p>
 </entry>
 
-<entry main-word="dactylar" source="1913 Webster">
-<p><hw>dac"tyl*ar</hw> <pr>(d<acr/k"t<icr/l*<etil/r)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Pertaining to dactyl; dactylic.</def></p>
+<entry main-word="Dactylar" source="1913 Webster">
+<p><hw>Dac"tyl*ar</hw> <pr>(d<acr/k"t<icr/l*<etil/r)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Pertaining to dactyl; dactylic.</def></p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>Of or pertaining to a finger or toe, or to the claw of an insect crustacean.</def></p>
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>Of or pertaining to a finger or toe, or to the claw of an insect or crustacean.</def></p>
 </entry>
 
 <entry main-word="Dactylet" source="1913 Webster">

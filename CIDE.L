@@ -22969,7 +22969,7 @@ To dote thus on such <qex>luggage</qex>!</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lugworm" source="1913 Webster">
-<p><hw>Lug"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>1st lug</ets> + <ets>worm</ets>.]</ety> <fld>(Zool.)</fld> <def>A large marine annelid (<spn>Arenicola marina</spn>) having a row of tufted gills along each side of the back.  It is found burrowing in sandy beaches, both in America and Europe, and is used for bait by European fishermen.  Called also <altname>lobworm</altname>, and <altname>baitworm</altname>.</def></p>
+<p><hw>Lug"worm`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[1st <ets>lug</ets> + <ets>worm</ets>.]</ety> <fld>(Zool.)</fld> <def>A large marine annelid (<spn>Arenicola marina</spn>) having a row of tufted gills along each side of the back.  It is found burrowing in sandy beaches, both in America and Europe, and is used for bait by European fishermen.  Called also <altname>lobworm</altname>, and <altname>baitworm</altname>.</def></p>
 </entry>
 
 <entry main-word="Luke" source="1913 Webster">

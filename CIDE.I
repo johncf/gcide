@@ -35,7 +35,7 @@
 </entry>
 
 <entry main-word="I" source="1913 Webster">
-<p><hw>I</hw> <pr>(<imac/)</pr>, <pos>pron.</pos> <nmorph>[<pos>poss.</pos> <er>My</er> <pr>(m<imac/)</pr> or <er>Mine</er> <pr>(m<imac/n)</pr>; <pos>object.</pos> <er>Me</er> <pr>(m<emac/)</pr>. <plu><it>pl.</it> <pos>nom.</pos> <plw>We</plw> <pr>(w<emac/)</pr>; <pos>poss.</pos> <plw>Our</plw> <pr>(our)</pr> or <plw>Ours</plw> <pr>(ourz)</pr>; <pos>object.</pos> <plw>Us</plw> <pr>(<ucr/s)</pr>.</plu>]</nmorph> <ety>[OE. <ets>i</ets>, <ets>ich</ets>, <ets>ic</ets>, AS. <ets>ic</ets>; akin to OS. & D. <ets>ik</ets>, OHG. <ets>ih</ets>, G. <ets>ich</ets>, Icel. <ets>ek</ets>, Dan. <ets>jeg</ets>, Sw. <ets>jag</ets>, Goth. <ets>ik</ets>, OSlav. <ets>az'</ets>, Russ. <ets>ia</ets>, W. <ets>i</ets>, L. <ets>ego</ets>, Gr. <grk>'egw`</grk>, <grk>'egw`n</grk>, Skr. <ets>aham</ets>. <root/179.  Cf. <er>Egoism</er>.]</ety> <def>The nominative case of the pronoun of the first person; the word with which a speaker or writer denotes himself.</def></p>
+<p><hw>I</hw> <pr>(<imac/)</pr>, <pos>pron.</pos> <nmorph>[<pos>poss.</pos> <er>My</er> <pr>(m<imac/)</pr> or <er>Mine</er> <pr>(m<imac/n)</pr>; <pos>obj.</pos> <er>Me</er> <pr>(m<emac/)</pr>. <plu><it>pl.</it> <pos>nom.</pos> <plw>We</plw> <pr>(w<emac/)</pr>; <pos>poss.</pos> <plw>Our</plw> <pr>(our)</pr> or <plw>Ours</plw> <pr>(ourz)</pr>; <pos>obj.</pos> <plw>Us</plw> <pr>(<ucr/s)</pr>.</plu>]</nmorph> <ety>[OE. <ets>i</ets>, <ets>ich</ets>, <ets>ic</ets>, AS. <ets>ic</ets>; akin to OS. & D. <ets>ik</ets>, OHG. <ets>ih</ets>, G. <ets>ich</ets>, Icel. <ets>ek</ets>, Dan. <ets>jeg</ets>, Sw. <ets>jag</ets>, Goth. <ets>ik</ets>, OSlav. <ets>az'</ets>, Russ. <ets>ia</ets>, W. <ets>i</ets>, L. <ets>ego</ets>, Gr. <grk>'egw`</grk>, <grk>'egw`n</grk>, Skr. <ets>aham</ets>. <root/179.  Cf. <er>Egoism</er>.]</ety> <def>The nominative case of the pronoun of the first person; the word with which a speaker or writer denotes himself.</def></p>
 </entry>
 
 <entry main-word="IAA" source="WordNet 1.5">
@@ -4504,7 +4504,7 @@ Eternal King.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Immute" source="1913 Webster">
-<p><hw>Im*mute"</hw> <pr>(<icr/m*m<umac/t")</pr>, <pos>v. t.</pos> <ety>[L. <ets>immutare</ets>, <ets>immutatum</ets>; perf. <ets>im-</ets> in + <ets>mutare</ets> to change : cf. OF. <ets>immuter</ets>.]</ety> <def>To change or alter.</def> <mark>[Obs.]</mark>  <rj><au>J. Salkeld.</au></rj></p>
+<p><hw>Im*mute"</hw> <pr>(<icr/m*m<umac/t")</pr>, <pos>v. t.</pos> <ety>[L. <ets>immutare</ets>, <ets>immutatum</ets>; pref. <ets>im-</ets> in + <ets>mutare</ets> to change : cf. OF. <ets>immuter</ets>.]</ety> <def>To change or alter.</def> <mark>[Obs.]</mark>  <rj><au>J. Salkeld.</au></rj></p>
 </entry>
 
 <entry main-word="Imp" source="1913 Webster">
@@ -4523,7 +4523,7 @@ Of squabbling <qex>imps</qex>.</q> <rj><qau>Beattie.</qau></rj></p>
 </entry>
 
 <entry main-word="Imp" source="1913 Webster">
-<p><hw>Imp</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imped</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imping</conjf>.]</vmorph> <ety>[AS. <ets>impian</ets> to imp, ingraft, plant; akin to Dan. <ets>ympe</ets>, Sw. <ets>ympa</ets>, OHG. <ets>impf<omac/n</ets>, <ets>impit<omac/n</ets>, G. <ets>impfen</ets>. See <er>Imp</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To graft; to insert as a scion.</def> <mark>[Obs.]</mark>  <rj><au>Rom. of R.</au></rj></p>
+<p><hw>Imp</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imped</conjf> <pr>(<icr/mt; 215)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imping</conjf>.]</vmorph> <ety>[AS. <ets>impian</ets> to imp, ingraft, plant; akin to Dan. <ets>ympe</ets>, Sw. <ets>ympa</ets>, OHG. <ets>impf<omac/n</ets>, <ets>impit<omac/n</ets>, G. <ets>impfen</ets>. See <er>Imp</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To graft; to insert as a scion.</def> <mark>[Obs.]</mark>  <rj><au>Rom. of R.</au></rj></p>
 
 <p><sn>2.</sn> <fld>(Falconry)</fld> <def>To graft with new feathers, as a wing; to splice a broken feather.</def> <specif>Hence,</specif> <mark>[Fig.]</mark>:  <def>To repair; to extend; to increase; to strengthen; to equip.</def> <mark>[Archaic]</mark></p>
 
@@ -6333,7 +6333,7 @@ To which I most <qex>imply</qex> it.</q> <rj><qau>J. Webster.</qau></rj></p>
 </entry>
 
 <entry main-word="Imporosity" source="1913 Webster">
-<p><hw>Im`po*ros"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Perf. <ets>im-</ets> not + <ets>porosity</ets>: cf. F. <ets>imporosit<eacute/</ets>.]</ety> <def>The state or quality of being imporous; lack of porosity; compactness.</def> <ldquo/The . . . <xex>imporosity</xex> betwixt the tangible parts.<rdquo/  <rj><au>Bacon.</au></rj></p>
+<p><hw>Im`po*ros"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>im-</ets> not + <ets>porosity</ets>: cf. F. <ets>imporosit<eacute/</ets>.]</ety> <def>The state or quality of being imporous; lack of porosity; compactness.</def> <ldquo/The . . . <xex>imporosity</xex> betwixt the tangible parts.<rdquo/  <rj><au>Bacon.</au></rj></p>
 </entry>
 
 <entry main-word="Imporous" source="1913 Webster">

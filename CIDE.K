@@ -857,7 +857,7 @@ But hateful docks, rough thistles, <qex>kecksies</qex>, burs.</q> <rj><qau>Shak.
 </entry>
 
 <entry main-word="Keelhaul" source="1913 Webster">
-<p><hw>Keel"haul`</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Keelhauled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Keelhauling</conjf>.]</vmorph> <ety>[<ets>3d keel</ets> + <ets>haul</ets>: cf. LG. & D. <ets>kielhalen</ets>, G. <ets>kielholen</ets>. ]</ety> <altsp>[Written also <asp>keelhale</asp>.]</altsp> <fld>(Naut.)</fld> <def>To haul under the keel of a ship, by ropes attached to the yardarms on each side. It was formerly practiced as a punishment in the Dutch and English navies.</def>  <rj><au>Totten.</au></rj></p>
+<p><hw>Keel"haul`</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Keelhauled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Keelhauling</conjf>.]</vmorph> <ety>[3d <ets>keel</ets> + <ets>haul</ets>: cf. LG. & D. <ets>kielhalen</ets>, G. <ets>kielholen</ets>. ]</ety> <altsp>[Written also <asp>keelhale</asp>.]</altsp> <fld>(Naut.)</fld> <def>To haul under the keel of a ship, by ropes attached to the yardarms on each side. It was formerly practiced as a punishment in the Dutch and English navies.</def>  <rj><au>Totten.</au></rj></p>
 </entry>
 
 <entry main-word="Keeling" source="1913 Webster">

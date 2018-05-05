@@ -12201,7 +12201,7 @@ Remote from all the pleasures of the world.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Her*pet"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>herp<eacute/tique</ets>.]</ety> <def>Pertaining to, or resembling, the herpes; partaking of the nature of herpes; <as>as, <ex>herpetic</ex> eruptions</as>.</def></p>
 </entry>
 
-<entry main-word="Herpetism" source="">
+<entry main-word="Herpetism" source="1913 Webster">
 <p><hw>Her"pe*tism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Herpes</er>.]</ety> <fld>(Med.)</fld> <def>See <cref>Dartrous diathesis</cref>, under <er>Dartrous</er>.</def></p>
 </entry>
 
