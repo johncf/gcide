@@ -97,9 +97,9 @@ this transcription, and the two letters are left as individuals.
 The dagger <dag/, double dagger <ddag/, and paragraph mark <para/ are rarely
 used.
 
-The double prime, or "seconds" of a degree is sometimes represented by a
-double "light accent" (code 183 = \'b7).  In other places, and in later
-versions, it is represented by <sec/ = \'a9.
+The double prime, or "seconds" of a arc is sometimes represented by a
+double "light accent".  In other places, and in later versions, it is
+represented by <dprime/.
 
 The symbols "greater than" <gt/ and "less than" are encountered only once,
 but are distinguished from the right- and left-angle brackets (> and <)
@@ -144,7 +144,7 @@ syllable accented.  The light accent \'b7 is also used as the "prime" in
 mathematical expressions (e.g. a\'b7 = "a prime"), or as "minutes" in
 degrees-minutes-seconds, and when doubled (\'b7\'b7) serves as "double
 prime" in mathematical expressions, and as "seconds" in
-degrees-minutes-seconds.  The character \'a9 (<sec/ or &Prime;) is also used
+degrees-minutes-seconds.  The character (<dprime/ or &Prime;) is also used
 to represent the double prime.
 
   (5) Although the semilong vowels are in the table (e.g. the "asl" = "a
@@ -159,187 +159,122 @@ this a mistake?
   (7) The symbol <nsc/ is used for "N small capitals", used in
 pronunciations to represent the soun fo the nasal N in French words.
 
-  (8) A weak accent (when not in pronunciations) is symbolized by <prime/,
-the "minutes" (of a degree) symbol.  A strong accent is symbolized by
-<bprime/ ("bold prime", not an ISO entity).
-
-  (9) If you find any exceptions to these usage assertions, please
+  (8) If you find any exceptions to these usage assertions, please
 let me know.
 
-----------------------------------------------------------------------------
-     webfont       ISO 8879   TeX             Uc  ASC   Description
-------------------
-oct dec hex entity
-----------------------------------------------------------------------------
-025  21  15  *                 \S             §   *     section symbol
-
-074  60  3c          lt        $<$            <   <     less than
-076  62  3e          gt        $>$            >   >     greater than
-
-200 128  80 <Cced/   Ccedil    \c{C}          Ç   C     C cedilla
-201 129  81 <uum/    uuml      \"u            ü   ue    u umlaut (diaeresis)
-202 130  82 <eacute/ eacute    \'e            é   e     e acute
-203 131  83 <acir/   acirc     \^a            â   a     a circumflex
-204 132  84 <aum/    auml      \"a            ä   ae    a umlaut (diaeresis)
-205 133  85 <agrave/ agrave    \`a            à   a     a grave
-206 134  86 <aring/  aring     \aa            å   aa    a ring above
-207 135  87 <cced/   ccedil    \c{c}          ç   c     c cedilla
-210 136  88 <ecir/   ecirc     \^e            ê   e     e circumflex
-211 137  89 <eum/    euml      \"e            ë   e     e umlaut (diaeresis)
-212 138  8a <egrave/ egrave    \`e            è   e     e grave
-213 139  8b <ium/    iuml      \"i            ï   i     i umlaut (diaeresis)
-214 140  8c <icir/   icirc     \^i            î   i     i circumflex
-215 141  8d <igrave/ igrave    \`i            ì   i     i grave
-216 142  8e <Aum/    Auml                     Ä   A     A umlaut
-217 143  8f          Aring                    Å   Aa    A ring above
-
-220 144  90 <Eacute/ Eacute    \'E            É   E     E acute
-221 145  91 <ae/     aelig     \ae            æ   ae    ligature ae
-222 146  92 <AE/     AElig     \AE            Æ   AE    ligature AE
-223 147  93 <ocir/   ocirc     \^o            ô   o     o circumflex
-224 148  94 <oum/    ouml      \"o            ö   oe    o umlaut (diaeresis)
-225 149  95 <ograve/ ograve    \`o            ò   o     o grave
-226 150  96 <ucir/   ucirc     \^u            û   u     u circumflex
-227 151  97 <ugrave/ ugrave    \`u            ù   u     u grave
-230 152  98 <yum/    yuml                     ÿ   y     y umlaut
-231 153  99 <Oum/    Ouml                     Ö   O     O umlaut
-232 154  9a <Uum/    Uuml      \"U            Ü   U     U umlaut (diaeresis)
-233 155  9b
-234 156  9c <pound/  pound     \pounds        £   *     pound sign (British)
-235 157  9d  *
-236 158  9e  *
-237 159  9f  *
-240 160  a0 <aacute/ aacute    \'a            á   a     a acute
-241 161  a1 <iacute/ iacute    \'i            í   i     i acute
-242 162  a2 <oacute/ oacute    \'o            ó   o     o acute
-243 163  a3 <uacute/ uacute    \'u            ú   u     u acute
-244 164  a4 <ntil/   ntilde    \~n            ñ   ny    n tilde
-245 165  a5 <Ntil/   Ntilde                   Ñ   NY    N tilde
-246 166  a6 <frac23/           $\frac{2}{3}$  ⅔   2/3   two-thirds
-247 167  a7 <frac13/           $\frac{1}{3}$  ⅓   1/3   one-third
-250 168  a8  *
-251 169  a9 <sec/    Prime                    ˝   ''    seconds (of
-                                                        degree or time)
-                                                        Also, inches
-                                                        or double prime.
-252 170  aa  *
-253 171  ab <frac12/           $\frac{1}{2}$  ½   1/2   one-half
-254 172  ac <frac14/           $\frac{1}{4}$  ¼   1/4   one-quarter
-255 173  ad  *
-256 174  ae  *
-257 175  af  *
-260 176  b0 <?/                                   (?)   Place-holder
-                                                        for unknown or
-                                                        illegible
-                                                        character.
-261 177  b1  *
-262 178  b2  *
-263 179  b3  *
-264 180  b4  *                 $\updownarrow$ ↑   *     vertical arrow
-265 181  b5 <hand/                            ☞   *     pointing hand
-                                                        (printer's "fist")
-266 182  b6 <bprime/           \"{}           ˝   ''    bold accent
-                                                        (used in
-                                                        pronunciations)
-267 183  b7 <prime/  prime     \'{}           ´   '     light accent
-                                                        (used in
-                                                        pronunciations)
-                                                        also minutes
-                                                        (of arc or time)
-270 184  b8 <rdquo/  rdquo     ''             ”   "     close double quote
-271 185  b9  *
-272 186  ba  *                 $\parallel$    ‖   ||    vertical double bar
-                                                        (l)
-273 187  bb  *
-274 188  bc <sect/  sect       \S             §   *     section mark
-275 189  bd <ldquo/ ldquo      ``             “   "     open double quotes
-276 190  be <amac/  amacr      \=a            ā   a     a macron
-277 191  bf <lsquo/ lsquo      `              ‘   `     left single quote
-
-300 192  c0 <nsm/                             ṉ   ng    "n sub-macron"
-301 193  c1 <sharp/ sharp      $\sharp$       ♯   #     musical sharp
-302 194  c2 <flat/  flat       $\flat$        ♭   *     musical flat
-303 195  c3  *                 --             –   --    long dash (en-dash?)
-304 196  c4  *                 $-$            ―   -     horizontal line
-305 197  c5 <th/ (part 1)                         t     first part of
-                                                        th ligature;
-                                                        see e7 for part 2
-306 198  c6 <imac/  imacr      \=i            ī   i     i macron
-307 199  c7 <emac/  emacr      \=e            ē   e     e macron
-310 200  c8 <dsdot/                           ḍ   d     Sanskrit/Tamil d dot
-311 201  c9 <nsdot/                           ṇ   n     Sanskrit/Tamil n dot
-312 202  ca <tsdot/                           ṭ   t     Sanskrit/Tamil t dot
-313 203  cb <ecr/              \u{e}          ĕ   e     e breve
-314 204  cc <icr/              \u{i}          ĭ   i     i breve
-315 205  cd  *
-316 206  ce <ocr/              \u{o}          ŏ   o     o breve
-317 207  cf  -                 --             ‐   -     short dash
-
-320 208  d0  --      mdash     ---            —   ---   long (em) dash
-321 209  d1 <OE/     OElig     \OE            Œ   OE    OE ligature
-322 210  d2 <oe/     oelig     \oe            œ   oe    oe ligature
-323 211  d3 <omac/   omacr     \=o            ō   o     o macron
-324 212  d4 <umac/   umacr     \=u            ū   u     u macron
-325 213  d5 <ocar/             \v{o}          ǒ   o     o hacek
-326 214  d6 <aemac/            \=\ae          ǣ   ae    ae ligature macron
-327 215  d7 <oemac/            \=\oe          œ̄   oe    oe ligature macron
-330 216  d8 <par/    par       $\parallel$    ‖   ||    double vertical bar
-331 217  d9  *
-332 218  da  *
-333 219  db  *
-334 220  dc <ucr/   ubreve     \u{u}          ŭ   u     u breve
-335 221  dd <acr/   abreve     \u{a}          ă   a     a breve
-336 222  de <cre/   ssmile     \u{}           ˘   ~     crescent
-                                                        (like a breve, but
-                                                        vertically centered
-                                                        -- represents the
-                                                        short accent in
-                                                        poetic meter)
-337 223  df <ymac/             \=y            ȳ   y     y macron
-
-340 224  e0  <asl/                            ā̇   a     a "semilong"
-                                                        (has a macron with a
-                                                        short vertical bar
-                                                        on top in middle)
-                                                        (unicode symbol
-                                                        shown has a dot
-                                                        instead of a short
-                                                        vertical bar)
-341 225  e1  <esl/                            ē̇   e     e "semilong"
-342 226  e2  <isl/                            ī̇   i     i "semilong"
-343 227  e3  <osl/                            ō̇   o     o "semilong"
-344 228  e4  <usl/                            ū̇   u     u "semilong"
-345 229  e5  <adot/                           ȧ   a     a with dot above
-346 230  e6  <mu/                             μ   mu    small Greek mu
-347 231  e7  <th/ (part 2)                              second part of
-                                                        th ligature;
-                                                        see c5 for part 1
-350 232  e8  *
-351 233  e9  *
-352 234  ea  *
-353 235  eb <edh/   edh                       ð   th    small eth
-354 236  ec  *
-355 237  ed <thorn/ thorn                     þ   th    small thorn
-356 238  ee <atil/  atilde     \~a            ã   a     a tilde
-357 239  ef <ndot/                            ṅ   n     n with dot above
-
-360 240  f0 <rsdot/            \d{r}          ṛ   r     r with a dot below
-361 241  f1   *
-362 242  f2   *
-363 243  f3   *
-364 244  f4 <yogh/                            ȝ   y     small yogh
-365 245  f5 <mdash/ mdash      ---            —   ---   em dash
-366 246  f6 <divide/ divide    $\div$         ÷   /     division sign
-367 247  f7         ap         $\approx$      ≈   ~=    "double tilde"
-370 248  f8 <deg/   deg        ${}^\circ$     °   *     degree sign
-371 249  f9 <middot/           $\bullet$      •   *     bold middle dot
-372 250  fa   *                $\cdot$        ·   *     light middle dot
-373 251  fb <root/  radic      $\surd$        √   *     root sign
-374 252  fc   *
-375 253  fd   *
-376 254  fe   *
-377 255  ff   *
-----------------------------------------------------------------------------
+-----------------------------------------------------------------
+Webfont   ISO 8879   TeX             Uc  ASCII   Description
+ entity
+-----------------------------------------------------------------
+<lt/      lt         $<$             <   <       less than
+<gt/      gt         $>$             >   >       greater than
+<Cced/    Ccedil     \c{C}           Ç   C       C cedilla
+<uum/     uuml       \"u             ü   ue      u umlaut (diaeresis)
+<eacute/  eacute     \'e             é   e       e acute
+<acir/    acirc      \^a             â   a       a circumflex
+<aum/     auml       \"a             ä   ae      a umlaut (diaeresis)
+<agrave/  agrave     \`a             à   a       a grave
+<aring/   aring      \aa             å   aa      a ring above
+<cced/    ccedil     \c{c}           ç   c       c cedilla
+<ecir/    ecirc      \^e             ê   e       e circumflex
+<eum/     euml       \"e             ë   e       e umlaut (diaeresis)
+<egrave/  egrave     \`e             è   e       e grave
+<ium/     iuml       \"i             ï   i       i umlaut (diaeresis)
+<icir/    icirc      \^i             î   i       i circumflex
+<igrave/  igrave     \`i             ì   i       i grave
+<Aum/     Auml                       Ä   A       A umlaut
+          Aring                      Å   Aa      A ring above
+<Eacute/  Eacute     \'E             É   E       E acute
+<ae/      aelig      \ae             æ   ae      ligature ae
+<AE/      AElig      \AE             Æ   AE      ligature AE
+<ocir/    ocirc      \^o             ô   o       o circumflex
+<oum/     ouml       \"o             ö   oe      o umlaut (diaeresis)
+<ograve/  ograve     \`o             ò   o       o grave
+<ucir/    ucirc      \^u             û   u       u circumflex
+<ugrave/  ugrave     \`u             ù   u       u grave
+<yum/     yuml                       ÿ   y       y umlaut
+<Oum/     Ouml                       Ö   O       O umlaut
+<Uum/     Uuml       \"U             Ü   U       U umlaut (diaeresis)
+<pound/   pound      \pounds         £   *       pound sign (British)
+<aacute/  aacute     \'a             á   a       a acute
+<iacute/  iacute     \'i             í   i       i acute
+<oacute/  oacute     \'o             ó   o       o acute
+<uacute/  uacute     \'u             ú   u       u acute
+<ntil/    ntilde     \~n             ñ   ny      n tilde
+<Ntil/    Ntilde                     Ñ   NY      N tilde
+<frac23/             $\frac{2}{3}$   ⅔   2/3     two-thirds
+<frac13/             $\frac{1}{3}$   ⅓   1/3     one-third
+<frac12/             $\frac{1}{2}$   ½   1/2     one-half
+<frac14/             $\frac{1}{4}$   ¼   1/4     one-quarter
+<?/                                      (?)     Place-holder for illegible character
+*                    $\updownarrow$  ↑   *       vertical arrow
+<hand/                               ☞   *       pointing hand (printer's "fist")
+<prime/   prime                      ′   '       prime, or minutes (of arc/time)
+<sec/     Prime                      ″   ''      double prime, or seconds (of arc/time)
+<dprime/                                         Also, inches or double prime
+<acute/   acute                      ´   '       acute accent
+<grave/                              `   `       grave accent (to distinguish
+                                                 from the light accent indicator)
+<rdquo/   rdquo      ''              ”   "       close double quote
+<par/                $\parallel$     ‖   ||      vertical double bar
+<sect/    sect       \S              §   *       section mark
+<ldquo/   ldquo      ``              “   "       open double quotes
+<amac/    amacr      \=a             ā   a       a macron
+<lsquo/   lsquo      `               ‘   `       left single quote
+<nsm/                                ṉ   ng      "n sub-macron"
+<sharp/   sharp      $\sharp$        ♯   #       musical sharp
+<flat/    flat       $\flat$         ♭   *       musical flat
+                                     -   -       hyphen-minus (ascii)
+*                    -               ‐   -       hyphen
+*                    --              –   --      en dash
+<minus/                              −   --      minus sign
+<mdash/   mdash      ---             —   ---     em dash
+*                                    ―   ---     horizontal bar (a.k.a quot. dash)
+<th/                                 t͟h  th      th ligature (to indicate dh sound)
+<imac/    imacr      \=i             ī   i       i macron
+<emac/    emacr      \=e             ē   e       e macron
+<dsdot/                              ḍ   d       Sanskrit/Tamil d dot
+<nsdot/                              ṇ   n       Sanskrit/Tamil n dot
+<tsdot/                              ṭ   t       Sanskrit/Tamil t dot
+<ecr/                \u{e}           ĕ   e       e breve
+<icr/                \u{i}           ĭ   i       i breve
+<ocr/                \u{o}           ŏ   o       o breve
+<OE/      OElig      \OE             Œ   OE      OE ligature
+<oe/      oelig      \oe             œ   oe      oe ligature
+<omac/    omacr      \=o             ō   o       o macron
+<umac/    umacr      \=u             ū   u       u macron
+<ocar/               \v{o}           ǒ   o       o hacek
+<aemac/              \=\ae           ǣ   ae      ae ligature macron
+<oemac/              \=\oe           œ̄   oe      oe ligature macron
+<par/     par        $\parallel$     ‖   ||      double vertical bar
+<ucr/     ubreve     \u{u}           ŭ   u       u breve
+<acr/     abreve     \u{a}           ă   a       a breve
+<cre/     ssmile     \u{}            ˘   ~       crescent (like a breve, but
+                                                 vertically centered --
+                                                 represents the short accent in
+                                                 poetic meter)
+<ymac/               \=y             ȳ   y       y macron
+<asl/                                ā̇   a       a "semilong"
+                                                 (macron with a dot in middle)
+<esl/                                ē̇   e       e "semilong"
+<isl/                                ī̇   i       i "semilong"
+<osl/                                ō̇   o       o "semilong"
+<usl/                                ū̇   u       u "semilong"
+<adot/                               ȧ   a       a with dot above
+<mu/                                 μ   mu      small Greek mu
+<edh/     edh                        ð   th      small eth
+<thorn/   thorn                      þ   th      small thorn
+<atil/    atilde     \~a             ã   a       a tilde
+<ndot/                               ṅ   n       n with dot above
+<rsdot/              \d{r}           ṛ   r       r with a dot below
+<yogh/                               ȝ   y       small yogh
+<divide/  divide     $\div$          ÷   /       division sign
+          ap         $\approx$       ≈   ~=      "double tilde"
+<deg/     deg        ${}^\circ$      °   *       degree sign
+*                    $\bullet$       •   *       bold middle dot
+<middot/             $\cdot$         ·   *       light middle dot
+<root/    radic      $\surd$         √   *       root sign
+-----------------------------------------------------------------
 
 The table below gives some additional information about some of the more
 commonly used entities:
@@ -366,35 +301,32 @@ decimal  hex    char  definition
   164    a4     ñ     <ntil/ Spanish "enye"
   166    a6     ⅔     <frac23/ two-thirds (fraction)
   167    a7     ⅓     <frac13/ one-third (fraction)
-  169    a9     ˝     <sec/  seconds of degree or time, or double-prime
+  169    a9     ˝     <dprime/ double-prime, or seconds of arc or time
   171    ab     ½     <frac12/ one-half, as in the original IBM set
   172    ac     ¼     <frac14/ one-fourth (fraction)
   176    b0           <?/ = (reverse-video question mark), used
                       to represent an uncodable or illegible character
   180    b4     ´     long verticle double-headed arrow (a reference mark)
-  181    b5     ☞     <hand/ = (the typographer's "fist")
-                      Appearing as a "pointing hand" character
-                      (for explanatory notes)
-  182    b6     ˝     bold accent in headwords
+  181    b5     ☞     <hand/ = (the typographer's "fist") Appearing as a
+                      "pointing hand" character (in explanatory notes)
+  182    b6           bold accent in headwords
                       replaced in full ASCII version by double quote = "
   183    b7     ´     light accent in headwords
                       replaced within headwords in the full ASCII version
-                      by an open-single-quote (` = ASCII 96, not the same
-                      as 191, \'bf).   This mark is used also for
-                      minutes of a degree, and for "prime" to modify
-                      variables in mathematical expressions.
+                      by a backtick (` = ASCII 96, not the same as <lsquo/).
+                      This mark is used also for minutes of a degree, and for
+                      "prime" to modify variables in mathematical expressions.
                       -- two of these in sequence represent seconds of
                       a degree, or double prime.  The seconds symbol
                       is also represented by <sec/ (hex a9).
-  184    b8     ”     close double quotes (used with 189 [= \'bd],
-                      open quote)
+  184    b8     ”     <rdquo/ close double quotes (used with <ldquo/)
   186    ba     ‖     vertical double bar - represents the symbol used
                       in the printed dictionary before a headword to
                       signify that the word was adopted without
                       anglicization from a foreign language but in the
                       full-ASCII version this function uses \'d8 -- see 216
   188    bc     §     <sect/ section mark
-  189    bd     “     open double quotes (used with 184, close quote)
+  189    bd     “     <ldquo/ open double quotes (used with <rdquo/)
   190    be     ā     <amac/ a macron
   191    bf     ‘     <lsquo/ "left single quote"
                       single open quote mark (not same as ASCII 96)
@@ -414,83 +346,80 @@ decimal  hex    char  definition
                       conversion hasn't yet been done.  In the full
                       ASCII version, a double hypen "--" represent the
                       m-dash.
-  197    c5      t    <th/ (part 1) first of a pair of characters
-  197+231 =      th   used to represent the th ligature --
-                      <th/ represents the "th" sound of "mother"
-                      see 231 (e7) for part 2
-  198    c6      ī   <imac/ = i macron
-  199    c7      ē   <emac/ = e macron
-  200    c8      ḍ   <dsdot/ Sanskrit/Tamil d with dot underneath
-  201    c9      ṇ   <nsdot/ Sanskrit/Tamil n with dot underneath
-  202    ca      ṭ   <tsdot/ Sanskrit/Tamil t with dot underneath
-  203    cb      ĕ   <ecr/ = e with crescent (breve) above.  Used
-                     - in some etymologies and pronunciation
-  204    cc      ĭ   <icr/ = i with crescent (breve) above - used
-                     - in some etymologies and pronunciation
-  206    ce      ŏ   <ocr/ = o with crescent (breve) above - used
-                     - in some etymologies and pronunciation
-  207    cf      ‐   short dash, used in hyphenated words, and in
-                     breaking syllables where no accent is used. But
-                     sometimes the typists used the normal hyphen
-                     [45], or the long dash (decimal 208) for that
-                     purpose.  The normal hyphen is the same length
-                     as the long dash, but one pixel higher in the
-                     character box.
-                     # In headwords, in the full ASCII version, this
-                     short dash is represented by the asterisk "*".
-  208    d0      —   <mdash/ = represents the long dash, used for the em
-                     dash which often precedes certain sections within a
-                     definition, and which separates some sections,
-                     such as wordforms or collocations within a
-                     collocation segment.  This is replaced in the
-                     full ASCII version by a double hyphen, "--".
-  210    d2      œ   <oe/ = "oe" fused ligature
-  211    d3      ō   <omac/ = o macron
-  212    d4      ū   <umac/ = u macron
-  213    d5      ǒ   <ocar/ o with caron (hacek) (inverted
+  197    c5      t    first of a pair of characters (part 2: 231 e7)
+  197+231             <th/ used to represent the th ligature --
+                      represents the "th" sound of "mother"
+  198    c6      ī    <imac/ = i macron
+  199    c7      ē    <emac/ = e macron
+  200    c8      ḍ    <dsdot/ Sanskrit/Tamil d with dot underneath
+  201    c9      ṇ    <nsdot/ Sanskrit/Tamil n with dot underneath
+  202    ca      ṭ    <tsdot/ Sanskrit/Tamil t with dot underneath
+  203    cb      ĕ    <ecr/ = e with crescent (breve) above.  Used
+                      - in some etymologies and pronunciation
+  204    cc      ĭ    <icr/ = i with crescent (breve) above - used
+                      - in some etymologies and pronunciation
+  206    ce      ŏ    <ocr/ = o with crescent (breve) above - used
+                      - in some etymologies and pronunciation
+  207    cf      ‐    short dash, used in hyphenated words, and in
+                      breaking syllables where no accent is used. But
+                      sometimes the typists used the normal hyphen
+                      [45], or the long dash (decimal 208) for that
+                      purpose.  The normal hyphen is the same length
+                      as the long dash, but one pixel higher in the
+                      character box.
+                      # In headwords, in the full ASCII version, this
+                      short dash is represented by the asterisk "*".
+  208    d0      —    <mdash/ = represents the long dash, used for the em
+                      dash which often precedes certain sections within a
+                      definition, and which separates some sections,
+                      such as wordforms or collocations within a
+                      collocation segment.  This is replaced in the
+                      full ASCII version by a double hyphen, "--".
+  210    d2      œ    <oe/ = "oe" fused ligature
+  211    d3      ō    <omac/ = o macron
+  212    d4      ū    <umac/ = u macron
+  213    d5      ǒ    <ocar/ o with caron (hacek) (inverted
                       circumflex) above
-  214    d6      ǣ   <aemac/ = "ae" ligature with a macron
-  215    d7      œ̄   <oemac/ = "oe" ligature with a macron
-  216    d8      ‖   <par/ double vertical bar (short length; the long
-                     length is the graphics character 186)
-                     This precedes words marked with a double
-                     vertical bar in the original dictionary,
-                     signifying that the word was adopted directly
-                     into English without modification of the spelling.
-  220    dc      ŭ   <ucr/ = u with crescent above - used in some etymologies
-  221    dd      ă   <acr/ = a with crescent above - used in some etymologies
-  222    de      ˘   <cre/ = "crescent", an upward-curving crescent
-                     used as a poetic meter mark
-  223    df      ȳ   <ymac/ = y macron (used in Anglo-Saxon?)
-  229    e5      ȧ   <adot/ = a with a dot above (for pronunciations)
-  231    e7      h   <th/ (part 2) second of a two-character combination
-  197+231 = th       used to represent the th ligature in pronunciations
-                     <th/ represents the "th" sound of "mother"
-  235    eb      ð   <edh/ = Old English and Icelandic "edh", (or "eth")
-                     like a Greek delta with a hatch mark through
-                     the ascender. Used to represent the
-                     Anglo-Saxon/Icelandic/Gothic character, in
-                     etymologies, pronounced like "th"
-  237    ed      þ   <thorn/ "thorn", an Old English and Icelandic
-                     character, appears like a "p" with an extended
-                     ascender.
-                     Used to represent the
-                     Anglo-Saxon/Icelandic/Gothic character, in
-                     etymologies, pronounced like "th" in "thorn"
-                     and also as in "brother"
-  238    ee      ã   <atil/ a with tilde above - in some etymologies
-  244    f4      ȝ   <yogh/ like a script "3" or "z". Used in Old English
-                     etymologies, analogous to "y"
-  247    f7      ≈   double tilde ("approximately equals").
-                     used by typists as a place-holder in word
-                     combinations where the capitalized headword
-                     should be.
-  248    f8      °   <deg/ degrees (temperature or angle).  Note: some
-                     typists used a superscript "o" to signify
-                     degrees.  This must be corrected!
-  249    f9      •   middle dot (bold)
-  250    fa      ·   middle dot (light)
-  251    fb      √   <root/ "root" sign used in etymologies, as in original
+  214    d6      ǣ    <aemac/ = "ae" ligature with a macron
+  215    d7      œ̄    <oemac/ = "oe" ligature with a macron
+  216    d8      ‖    <par/ double vertical bar (short length; the long
+                      length is the graphics character 186)
+                      This precedes words marked with a double
+                      vertical bar in the original dictionary,
+                      signifying that the word was adopted directly
+                      into English without modification of the spelling.
+  220    dc      ŭ    <ucr/ = u with crescent above - used in some etymologies
+  221    dd      ă    <acr/ = a with crescent above - used in some etymologies
+  222    de      ˘    <cre/ = "crescent", an upward-curving crescent
+                      used as a poetic meter mark
+  223    df      ȳ    <ymac/ = y macron (used in Anglo-Saxon?)
+  229    e5      ȧ    <adot/ = a with a dot above (for pronunciations)
+  231    e7      h    second of a two-character combination (see part 1: 197)
+  235    eb      ð    <edh/ = Old English and Icelandic "edh", (or "eth")
+                      like a Greek delta with a hatch mark through
+                      the ascender. Used to represent the
+                      Anglo-Saxon/Icelandic/Gothic character, in
+                      etymologies, pronounced like "th"
+  237    ed      þ    <thorn/ "thorn", an Old English and Icelandic
+                      character, appears like a "p" with an extended
+                      ascender.
+                      Used to represent the
+                      Anglo-Saxon/Icelandic/Gothic character, in
+                      etymologies, pronounced like "th" in "thorn"
+                      and also as in "brother"
+  238    ee      ã    <atil/ a with tilde above - in some etymologies
+  244    f4      ȝ    <yogh/ like a script "3" or "z". Used in Old English
+                      etymologies, analogous to "y"
+  247    f7      ≈    double tilde ("approximately equals").
+                      used by typists as a place-holder in word
+                      combinations where the capitalized headword
+                      should be.
+  248    f8      °    <deg/ degrees (temperature or angle).  Note: some
+                      typists used a superscript "o" to signify
+                      degrees.  This must be corrected!
+  249    f9      •    middle dot (bold)
+  250    fa      ·    middle dot (light)
+  251    fb      √    <root/ "root" sign used in etymologies, as in original
 
 * Greek transliteration
 
@@ -528,7 +457,6 @@ Some examples of the combined forms (aspirant + accent):
    "a` -- ἄ
    "a~ -- ἂ,
    "a~ -- ἃ
-
 
 ** Iota subscriptum
 
@@ -605,11 +533,3 @@ Examples:
 <grk>zw^,on</grk>          ζῷον
 <grk>o'i^nos</grk>         οἶνος
 <grk>"ydra`rgyros</grk>    ὑδράργυρος
-
-
-Local Variables:
-mode: Outline
-coding: utf-8
-fill-column: 76
-End:
-
