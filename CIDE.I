@@ -19419,7 +19419,7 @@ For this same night.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>4.</sn> <def>One of the colleges (societies or buildings) in London, for students of the law barristers; <as>as, the <ex>Inns</ex> of Court; the <ex>Inns</ex> of Chancery; Serjeants' <ex>Inns</ex>.</as></def></p>
 
-<p><cs><col>Inns of chancery</col> <fld>(Eng.)</fld>, <cd>colleges in which young students formerly began their law studies, now occupied chiefly bp attorn`ys, solocitors, etc.</cd> -- <col>Inns of court</col> <fld>(Eng.)</fld>, <cd>the four societies of <ldquo/students and practicers of the law of England<rdquo/ which in London exercise the exclusive right of admitting persons to practice at the bar; also, the buildings in which the law students and barristers have their chambers. They are the Inner Temple, the Middle Temple, Lincoln's Inn, and Gray's Inn.</cd></cs></p>
+<p><cs><col>Inns of chancery</col> <fld>(Eng.)</fld>, <cd>colleges in which young students formerly began their law studies, now occupied chiefly bp attorneys, solocitors, etc.</cd> -- <col>Inns of court</col> <fld>(Eng.)</fld>, <cd>the four societies of <ldquo/students and practicers of the law of England<rdquo/ which in London exercise the exclusive right of admitting persons to practice at the bar; also, the buildings in which the law students and barristers have their chambers. They are the Inner Temple, the Middle Temple, Lincoln's Inn, and Gray's Inn.</cd></cs></p>
 </entry>
 
 <entry main-word="Inn" source="1913 Webster">

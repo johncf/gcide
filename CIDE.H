@@ -2900,7 +2900,7 @@ This is a man's invention and his <qex>hand</qex>.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="handbasin" source="WordNet 1.5">
-<p><hw>handbasin</hw> <pos>n.</pos> <def>A small basin used for washing thehands; <as>as, `wash-hand basin' is a British term</as>.</def><br/
+<p><hw>handbasin</hw> <pos>n.</pos> <def>A small basin used for washing thehands; <as>as, <lsquo/wash-hand basin<rsquo/ is a British term</as>.</def><br/
 <syn><b>Syn. --</b> washbasin, washbowl, lavabo, wash-hand basin.</syn></p>
 </entry>
 

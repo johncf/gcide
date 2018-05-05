@@ -23666,7 +23666,7 @@ B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></
 <entry main-word="directed" source="WordNet 1.5">
 <p><hw>directed</hw> <pos>adj.</pos> <sn>1.</sn> <def>having a specified direction; often used in combination; <as>as, goal-<ex>directed</ex></as>.</def></p>
 
-<p source="PJC;;WordNet 1.5"><sn>2.</sn> <def>marked with a destination; -- of mail or parcels; <as>as, I throw away all mail <ex>directed</ex> to `resident'</as>.  Opposite of <ant>unaddressed</ant>.</def><br/
+<p source="PJC;;WordNet 1.5"><sn>2.</sn> <def>marked with a destination; -- of mail or parcels; <as>as, I throw away all mail <ex>directed</ex> to <lsquo/resident<rsquo/</as>.  Opposite of <ant>unaddressed</ant>.</def><br/
 <syn><b>Syn. --</b> addressed.</syn></p>
 </entry>
 
@@ -39988,7 +39988,7 @@ Or thou <qex>draw</qex> beauty and not feel its power?</q> <rj><qau>Prior.</qau>
 </entry>
 
 <entry main-word="Drawing knife" source="1913 Webster">
-<p><mhw>{ <hw>Draw"ing knife"</hw> <pr>(?)</pr>, <hw>Draw"knife`</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <sn>1.</sn> <def>A woodworker`s and joiner's tool having a blade with a handle at each end, used to shave off surfaces, by drawing it toward one; a shave; -- called also <altname>drawshave</altname>, and <altname>drawing shave</altname>.</def></p>
+<p><mhw>{ <hw>Draw"ing knife"</hw> <pr>(?)</pr>, <hw>Draw"knife`</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <sn>1.</sn> <def>A woodworker's and joiner's tool having a blade with a handle at each end, used to shave off surfaces, by drawing it toward one; a shave; -- called also <altname>drawshave</altname>, and <altname>drawing shave</altname>.</def></p>
 
 <p><sn>2.</sn> <fld>(Carp.)</fld> <def>A tool used for the purpose of making an incision along the path a saw is to follow, to prevent it from tearing the surface of the wood.</def></p>
 </entry>
@@ -43678,7 +43678,7 @@ To blush like a banner bathed in slaughter.</q> <rj><qau>Percival.</qau></rj></p
 
 <p><q>I was musing in the midst of my <qex>dumps</qex>.</q> <rj><qau>Bunyan.</qau></rj></p>
 
-<p><note><hand/ The ludicrous associations now attached to this word did not originally belong to it. <ldquo/Holland's translation of Livy represents the Romans as being `in the <xex>dumps'</xex> after the battle of Cann<ae/.<rdquo/</note>  <rj><au>Trench.</au></rj></p>
+<p><note><hand/ The ludicrous associations now attached to this word did not originally belong to it. <ldquo/Holland's translation of Livy represents the Romans as being <lsquo/in the <xex>dumps</xex><rsquo/ after the battle of Cann<ae/.<rdquo/</note>  <rj><au>Trench.</au></rj></p>
 
 <p><sn>2.</sn> <def>Absence of mind; revery.</def>  <rj><au>Locke.</au></rj></p>
 

@@ -19615,79 +19615,6 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 
 <entry main-word="Esperanto" source="PJC;;Webster 1913 Suppl.">
 <p><hw>Es`pe*ran"to</hw> <pr>(?)</pr>, <pos>n.</pos> <def>An artificial language, intended to be universal, devised by Dr. Zamenhof, a Russian, who adopted the pseudonym <ldquo/Dr. Esperanto<rdquo/ in publishing his first pamphlet regarding it in 1887.  The vocabulary is very largely based upon words common to the chief European languages, and sounds peculiar to any one language are eliminated.  The spelling is phonetic, and the accent (stress) is always on the penult.  A revised and simplified form, called <er>Ido</er> was developed in 1907, but <ex>Esperanto</ex> remained at the end of the 20th century the most popular artificial language designed for normal human linguistic communication.</def> -- <wordforms><wf>Es`pe*ran"tist</wf> <pr>(#)</pr>, <pos>n.</pos></wordforms></p>
-
-<p source="PJC"><q>Esperanto<br/
-<br/
-By Mark Feeney, Globe Staff, 05/12/99<br/
-<br/
-A surprising 2 million speakers worldwide get their words' worth from the 'planned language' created in the 19th century<br/
-<br/
-People were thinking big in the late 19th century. They utopianized, they universalized, they created Zionism, the modern Olympics, the Socialist International.<br/
-<br/
-Thinking big back then sometimes meant thinking weird. Inundate the planet with a dark bubbly syrup? Try Coca-Cola. Chew 80 times before swallowing your food? Fletcherism, as the practice was called, was once more popular than Coke. A universal language? Say <ldquo/Esperanto.<rdquo/<br/
-<br/
-Unlike Coke, Esperanto has not conquered the world. Unlike Fletcherism, neither has it disappeared. In the late 20th century, it remains on the tip of surprisingly many tongues.<br/
-<br/
-Esperanto? It's Greek to me: Esperanto was invented by Dr. Ludwig L. Zamenhof, an optometrist, in 1887.  A Polish Jew, Zamenhof grew up in Bialystok, a city where Russian, Polish, German, and Yiddish were commonly spoken. Zamenhof had a knack for languages (he spoke eight, not counting Esperanto). He was also very much a product of his era. It occurred to him that if different peoples all spoke the same tongue, they might get along better. He decided to invent one - not a language to replace other languages, but one to supplement them, so that everyone, regardless of native tongue, might be able to communicate with one another.<br/
-<br/
-Zamenhof began working on his project when he was 15 and spent 13 years perfecting it. He presented his new language in a book called <ldquo/Dr. Esperanto's International Language.<rdquo/ <ldquo/Esperanto<rdquo/ means <ldquo/one who hopes.<rdquo/<br/
-<br/
-Esperanto derives its vocabulary from various European languages: Latin, Greek, and Romance and Germanic tongues. The grammar is regular and greatly simplified. The spelling is phonetic, and nouns have no genders. Its regularity and simplicity make it easy to learn.<br/
-<br/
-<ldquo/In the beginning<rdquo/: <ldquo/En la komenco Dio kreis la cielon kaj teron<rdquo/ is the Esperanto translation of the first 10 words from the King James Version of the Bible (<ldquo/In the beginning God created the heavens and the earth<rdquo/).<br/
-<br/
-First, there was Volapuk: Esperanto is neither the first nor only constructed language. The idea goes back at least to the 17th century and the philosopher Rene Descartes. It derived further intellectual credence from the Enlightenment belief in universal systems and the primacy of reason. However, it wasn't until the late 19th century that the first constructed languages appeared.<br/
-<br/
-Volapuk, invented by a Catholic priest, the Rev. J. M. Schleyer, predates Esperanto by nearly a decade. It attracted several hundred thousand practitioners, but once the novelty wore off, Volapuk quickly lost out to Esperanto. Both languages eventually gave birth to <ldquo/improved<rdquo/ versions, known, respectively, as Idiom Neutral and Ido (short for Esperandido), but neither really took hold.<br/
-<br/
-Other invented languages include Solresol, based on the musical scale; Timerio, a numerical language; Glosa, an attempt to create an international language using as few words as possible; and Interlingua, which is derived from English and Romance languages.<br/
-<br/
-Diego Marani, a translator for the European Council of Ministers in Brussels, has drawn considerable attention with his Europanto, a playful blend of English and various European languages (see sidebar).<br/
-<br/
-Lights! Camera! Esperanto!: An Esperanto film canon exists, albeit consisting of only one title, <ldquo/Incubus,<rdquo/ a 1965 fantasy/sci-fi feature starring a pre-<ldquo/Star Trek<rdquo/ William Shatner. The <ldquo/Incubus<rdquo/ Web site (http://www.incubusthefilm.com) makes noises about a forthcoming video release, but no dates are given.<br/
-<br/
-What's so funny about peace, love, and Esperanto?: Elvis Costello commissioned Esperanto liner notes for his album <ldquo/Blood and Chocolate.<rdquo/<br/
-<br/
-The East is Esperantist: There are an estimated 2 million Esperantists in the world, and they live in at least 86 countries.<br/
-<br/
-Historically, the movement has been strongest in Central Europe. As Miko Sloper, director of the Esperanto League for North America (ELNA), points out, <ldquo/You travel a hundred miles in any direction there and you might need to speak some other language to be understood. It's very practical to have a common language, and for obvious political reasons most people there certainly didn't want it to be Russian.<rdquo/<br/
-<br/
-Though the World Esperanto Association (UEA) is headquartered in Rotterdam, more than half the world's Esperanto speakers are now believed to live in China. The language's popularity there stems from a 40-part instructional series broadcast on Chinese television in the early '90s.
-<br/
-Large pockets of Esperantists also exist in Korea and Japan.<br/
-<br/
-Truth, justice, and the Esperanto way: ELNA, the leading Esperanto organization in this country, is located in El Cerrito, Calif. The Bay Area is the closest thing America has to an Esperanto hotbed, thanks largely to San Francisco State University, whose annual Summer Esperanto Workshop celebrates its 30th anniversary in July.<br/
-<br/
-Locally, the Esperanto Society of New England has about 50 members.<br/
-<br/
-One hobbit, one orc, one elf, one dwarf - one language?: J. R. R. Tolkien, who taught philology at Oxford University when not writing <ldquo/The Hobbit<rdquo/ and <ldquo/The Lord of the Rings,<rdquo/ gave Esperanto his endorsement, sort of.<br/
-<ldquo/My advice to all who have the time or inclination to concern themselves with the international language movement would be: `Back Esperanto loyally.'<rdquo/<br/
-<br/
-Friends in high places: At least six Nobel Prize winners have been Esperantists. So was Yugloslavia's postwar ruler Josip Broz Tito.<br/
-<br/
-Esperanto? Ho, ho, ho: The language's image as a sort of verbal vegetarianism has meant that Esperanto often serves as a linguistic fall guy. <person>Isaac Bashevis Singer</person> once denounced modern Hebrew <ldquo/as soulless Esperanto.<rdquo/ <person>Fran Lebowitz</person> writes in one of her humor pieces, <ldquo/The writer is to the real world what Esperanto is to the language world - funny, maybe, but not that funny.<rdquo/<br/
-<br/
-You can judge a language by its enemies: Hitler derided Esperanto in <ldquo/Mein Kampf.<rdquo/ Stalin labeled it <ldquo/the language of spies.<rdquo/ US Senator Joseph McCarthy accused Esperantists of being communists.<br/
-<br/
-You can judge a language by its literature: PEN, the international writers organization, has an Esperanto chapter. Some 30,000 titles have been published in the language. <ldquo/People write novels in Esperanto,<rdquo/ says <person>Humphrey Tonkin</person>, professor of humanities at the University of Hartford and past president of the UEA. <ldquo/There's quite a lot of poetry. As with any other language, there are good novels and bad novels, good poetry and bad poetry.<rdquo/<br/
-<br/
-Among authors translated into Esperanto are Dante, Tolstoy, Goethe, Ibsen, and Sartre.<br/
-<br/
-Bill Gates does not speak Esperanto: Sun Microsystems originally advertised its Java computing system as <ldquo/the Esperanto of computer languages.<rdquo/<br/
-<br/
-Then again, maybe he does: The number of Esperanto Web sites - for instance, there's http://esperanto.wunderground.com, which offers weather forecasts in Esperanto - would suggest the language has a disproportionately high following among the digerati. <ldquo/It kind of makes intuitive sense, <rdquo/ says Sloper, that people who use artificial languages on-screen would be intrigued by an artificial language in the rest of their lives (actually, Esperantists prefer the term <ldquo/planned language<rdquo/).<br/
-<br/
-David Wolff, an Acton software engineer who's the president of ELNA, agrees. <ldquo/Programmers are used to looking for solutions to things, looking for ways to fix problems, and looking especially for ways that are inexpensive and effective. Esperanto is that kind of a solution. You follow simple rules. It's easy to get into and to learn it, and it clearly solves a specific kind of problem.<rdquo/<br/
-<br/
-Waiting for the <ldquo/fina venko<rdquo/: <ldquo/We're still a little club, in a way, and there's a camaraderie to that,<rdquo/ says Sloper.<br/
-<br/
-<ldquo/Esperantists speak of the `fina venko,' or `final victory.' The concept is that eventually every moderately educated person on the earth will know Esperanto enough to, say, be able to order a cup of coffee in it. Is that going to happen? I don't really care. It would be nice if everyone knew Esperanto, but already there are enough people who do so that we have a community.<br/
-<br/
-<ldquo/There are directories of Esperantists all over the world, and when someone is traveling to a foreign country it will frequently happen that an Esperantist will write or e-mail a fellow Esperantist and be invited to stay in his home.  Does that happen with people who speak just English? I don't think so.<rdquo/</q><br/
-<br/
-<qau>Mark Feeney<br/
-[This story ran on page F01 of the Boston Globe on 05/12/99.<br/
-Copyright 1999 Globe Newspaper Company.] (available at http://www.esne.net/ligoj/boston_globe_article.htm)</qau></p>
 </entry>
 
 <entry main-word="Espiaille" source="1913 Webster">
@@ -22123,7 +22050,7 @@ By quick contraction or remove.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p source="PJC"><sn>4.</sn> <def>Having or characterized by a zealous, crusading enthusiasm for a cause.</def></p>
 
-<p source="PJC"><sn>5.</sn> <def>Adhering to a form of Christianity characterized by a conservative interpretation of the bible, but disavowing the label 'bdfundamentalist`'b8.</def></p>
+<p source="PJC"><sn>5.</sn> <def>Adhering to a form of Christianity characterized by a conservative interpretation of the bible, but disavowing the label <ldquo/fundamentalist.<rdquo/</def></p>
 
 <p><cs><col>Evangelical Alliance</col>, <cd>an alliance for mutual strengthening and common work, comprising Christians of different denominations and countries, organized in Liverpool, England, in 1845.</cd> -- <col>Evangelical Church</col>. <sd>(a)</sd> <cd>The Protestant Church in Germany.</cd> <sd>(b)</sd> <cd>A church founded by a fusion of Lutherans and Calvinists in Germany in 1817.</cd> -- <col>Evangelical Union</col>, <cd>a religious sect founded in Scotland in 1843 by the <person>Rev. James Morison</person>; -- called also <altname>Morisonians</altname>.</cd></cs></p>
 </entry>

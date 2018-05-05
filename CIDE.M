@@ -27979,20 +27979,17 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 <entry main-word="Moire" source="1913 Webster">
 <p><par/<hw>Moire</hw> <pr>(mw<aum/r)</pr>, <pos>n.</pos> <ety>[F.  Cf. <er>Mohair</er>.]</ety> <sn>1.</sn> <def>Originally, a fine textile fabric made of the hair of an Asiatic goat; afterwards, any textile fabric to which a watered appearance is given in the process of calendering.</def></p>
 
-<p><sn>2.</sn> <def>A watered, clouded, or frosted appearance produced upon either textile fabrics or metallic surfaces; moi`r<eacute/.</def></p>
+<p><sn>2.</sn> <def>A watered, clouded, or frosted appearance produced upon either textile fabrics or metallic surfaces.</def></p>
+
+<p><cs><col>Moire antique</col>, <cd>a superior kind of thick silk moire.</cd></cs></p>
 </entry>
 
 <entry main-word="Moire" source="Webster 1913 Suppl.">
 <p><par/<hw>Moi`r<eacute/"</hw> <pr>(mw<aum/`r<amac/"; m<omac/"r<amac/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A watered, clouded, or frosted appearance on textile fabrics or metallic surfaces.</def></p>
 
-<p><sn>2.</sn>  <def>Erroneously, moire, the fabric.</def></p>
+<p><sn>2.</sn> <def>Erroneously, moire, the fabric.</def></p>
 
-<p source="PJC"><sn>3.</sn>  <def>A wavy pattern of lines produced by the superposition of two patterns having closely spaced, often curved, lines, so that the lines of the two patterns intersect at an acute angle.  When the superposing patterns are moved relative to the observer or relative to each other, a shimmering effect is produced in which the apparent pattern changes, often producing a pleasing artistic effect.  The effect may be seen, for example, when the superposed folds of a sheer fabric, such as a window curtain, are observed with transmitted light.</def><br/
-<syn><b>Syn. --</b> moire pattern.</syn></p>
-
-<p source="PJC"><sn>4.</sn>  <fld>(Printing)</fld> <def>An interference pattern produced by the dots of a color printing process.</def></p>
-
-<p source="1913 Webster"><cs><col>Moire antique</col>, <cd>a superior kind of thick moire.</cd></cs></p>
+<p source="JCF;;PJC"><cs><mcol><col>Moir<eacute/ pattern</col> or <col>Moir<eacute/ fringes</col></mcol>, <sd>(a)</sd> <cd>An pattern produced when an opaque ruled pattern with transparent gaps is overlaid on another similar pattern.</cd> <sd>(b)</sd> <fld>(Printing)</fld> <cd>An interference pattern produced by the dots of a color printing process.</cd></cs></p>
 </entry>
 
 <entry main-word="Moire" source="Webster 1913 Suppl.">
@@ -28004,7 +28001,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 </entry>
 
 <entry main-word="Moire metallique" source="1913 Webster">
-<p><par/<hw>Moi`r<eacute/" m<eacute/`tal`lique"</hw> <pr>(?)</pr>. <ety>[F.]</ety> <def>A crystalline or frosted appearance produced by some acids on tin plate; also, the tin plate thus treated.</def></p>
+<p><par/<hw>Moi`r<eacute/" m<eacute/`tal`lique"</hw> <pr>(mw<aum/`r<asl/" m<asl/`t<adot/l`l<emac/k")</pr>. <ety>[F.]</ety> <def>A crystalline or frosted appearance produced by some acids on tin plate; also, the tin plate thus treated.</def></p>
 </entry>
 
 <entry main-word="Moist" source="1913 Webster">

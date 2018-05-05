@@ -8797,7 +8797,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 
 <p><sn>2.</sn> <def>Lawfully begotten; born in wedlock.</def></p>
 
-<p><sn>3.</sn> <def>Authorized; real; genuine; not false, counterfe`t, or spurious; <as>as,$<ex>legitimate</ex> poems of Chaucer; <ex>legitimate</ex> inscriptions.</as></def></p>
+<p><sn>3.</sn> <def>Authorized; real; genuine; not false, counterfeit, or spurious; <as>as, <ex>legitimate</ex> poems of Chaucer; <ex>legitimate</ex> inscriptions.</as></def></p>
 
 <p><sn>4.</sn> <def>Conforming to known principles, or accepted rules; <as>as, <ex>legitimate</ex> reasoning; a <ex>legitimate</ex> standard, or method; a <ex>legitimate</ex> combination of colors.</as></def></p>
 

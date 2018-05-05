@@ -20543,7 +20543,7 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj></p>
 <p><par/<hw>Bla*s<eacute/"</hw> <pr>(bl<adot/*z<asl/")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>blaser</ets>.]</ety> <sn>1.</sn> <def>Having the sensibilities deadened by excess or frequency of enjoyment; sated or surfeited with pleasure; uninterested because of frequent exposure or indulgence; used up.</def><br/
 <syn><b>Syn. --</b> bored.</syn></p>
 
-<p source="WordNet 1.5"><sn>2.</sn> <def>very sophisticated; versed in the ways of the world.</def> <illu>the <ex>blase</ex> traveler refers to the ocean he has crossed as `the pond'</illu><br/
+<p source="WordNet 1.5"><sn>2.</sn> <def>very sophisticated; versed in the ways of the world.</def> <illu>the <ex>blase</ex> traveler refers to the ocean he has crossed as <lsquo/the pond<rsquo/</illu><br/
 <syn><b>Syn. --</b> knowing, worldly.</syn></p>
 
 <p source="WordNet 1.5"><sn>3.</sn>  <def>uninterested and attaching little importance; -- of attitudes toward duties.</def> <illu>a <ex>blase</ex> attitude about housecleaning</illu><br/

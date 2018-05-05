@@ -16935,7 +16935,7 @@ Your wearied virtue.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Repousse" source="1913 Webster">
-<p><par/<hw>Re*pous`s<eacute/"</hw> <pr>(r<it>e</it> -p??`s?")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>repousser</ets> to thrust back; pref <ets>re-</ets> + <ets>pousser</ets> to push. See <er>Push</er>.]</ety> <sd>(a)</sd> <def>Formed in relief, as a pattern on metal.</def> <sd>(b)</sd> <def>Ornamented with patterns in relief made by pressing or hammering on the reverse side; -- said of thin metal, or of a vessel made of thin metal.</def> -- <def2><pos>n.</pos> <def>Repouss<eacute/ work.</def></def2></p>
+<p><par/<hw>Re*pous`s<eacute/"</hw> <pr>(r<eit/*p<oomac/`s?")</pr>, <pos>a.</pos> <ety>[F., p. p. of <ets>repousser</ets> to thrust back; pref <ets>re-</ets> + <ets>pousser</ets> to push. See <er>Push</er>.]</ety> <sd>(a)</sd> <def>Formed in relief, as a pattern on metal.</def> <sd>(b)</sd> <def>Ornamented with patterns in relief made by pressing or hammering on the reverse side; -- said of thin metal, or of a vessel made of thin metal.</def> -- <def2><pos>n.</pos> <def>Repouss<eacute/ work.</def></def2></p>
 
 <p><cs><col>Repouss<eacute/ work</col>, <cd>ornamentation of metal in relief by pressing or hammering on the reverse side.</cd></cs></p>
 </entry>

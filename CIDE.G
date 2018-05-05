@@ -12563,12 +12563,9 @@ To bestial <qex>gods</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="God-fearing" source="1913 Webster">
-<p><mhw>god"fear`ing, <hw>God"-fear`ing</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a reverential and loving feeling towards God; devoutly religious.</def><br/
-<syn><b>Syn. --</b> devout, pious.</syn></p>
+<p><hw>God"-fear`ing</hw> <pr>(-f<emac/r`<icr/ng)</pr>, <pos>a.</pos> <def>Having a reverential and loving feeling towards God; religious.</def></p>
 
 <p><q>A brave <qex>god-fearing</qex> man.</q> <rj><qau>Tennyson.</qau></rj></p>
-
-<p source="WordNet 1.5"><q>a <ex>god-fearing</ex> and law-abiding people.</q> <rj><qau>H. L. Mencken</qau></rj></p>
 </entry>
 
 <entry main-word="godforsaken" source="WordNet 1.5">
