@@ -210,8 +210,8 @@ Webfont   ISO 8879   TeX             Uc  ASCII   Description
 *                    $\updownarrow$  ↑   *       vertical arrow
 <hand/                               ☞   *       pointing hand (printer's "fist")
 <prime/   prime                      ′   '       prime, or minutes (of arc/time)
-<sec/     Prime                      ″   ''      double prime, or seconds (of arc/time)
-<dprime/                                         Also, inches or double prime
+<dprime/  Prime                      ″   ''      double prime, or seconds (of arc/time)
+                                                 Also, inches or double prime
 <acute/   acute                      ´   '       acute accent
 <grave/                              `   `       grave accent (to distinguish
                                                  from the light accent indicator)
@@ -316,9 +316,6 @@ decimal  hex    char  definition
                       by a backtick (` = ASCII 96, not the same as <lsquo/).
                       This mark is used also for minutes of a degree, and for
                       "prime" to modify variables in mathematical expressions.
-                      -- two of these in sequence represent seconds of
-                      a degree, or double prime.  The seconds symbol
-                      is also represented by <sec/ (hex a9).
   184    b8     ”     <rdquo/ close double quotes (used with <ldquo/)
   186    ba     ‖     vertical double bar - represents the symbol used
                       in the printed dictionary before a headword to

@@ -16942,8 +16942,8 @@ You lose it in the moment you <qex>detect</qex>.</q> <rj><qau>Pope.</qau></rj></
 <p><hw>De*ter"mi*nant</hw>, <pos>n.</pos> <sn>1.</sn> <def>That which serves to determine; that which causes determination.</def></p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>The sum of a series of products of several numbers, these products being formed according to certain specified laws</def>; <note>thus, the <ex>determinant</ex> of the nine numbers<br/
-<matrix><row>a, b, c,</row><row>a<prime/, b<prime/, c<prime/,</row><row>a<prime/<prime/, b<prime/<prime/, c<prime/<prime/,</row></matrix><br/
-is <mathex>a b<prime/ c<prime/<prime/ - a b<prime/<prime/ c<prime/ + a<prime/ b<prime/<prime/ c - a<prime/ b c<prime/<prime/ + a<prime/<prime/ b<prime/ c</mathex>. The determinant is written by placing the numbers from which it is formed in a square between two vertical lines. The theory of <ex>determinants</ex> forms a very important branch of modern mathematics.</note></p>
+<matrix><row>a, b, c,</row><row>a<prime/, b<prime/, c<prime/,</row><row>a<dprime/, b<dprime/, c<dprime/,</row></matrix><br/
+is <mathex>a b<prime/ c<dprime/ - a b<dprime/ c<prime/ + a<prime/ b<dprime/ c - a<prime/ b c<dprime/ + a<dprime/ b<prime/ c</mathex>. The determinant is written by placing the numbers from which it is formed in a square between two vertical lines. The theory of <ex>determinants</ex> forms a very important branch of modern mathematics.</note></p>
 
 <p><sn>3.</sn> <fld>(Logic)</fld> <def>A mark or attribute, attached to the subject or predicate, narrowing the extent of both, but rendering them more definite and precise.</def>  <rj><au>Abp. Thomson.</au></rj></p>
 </entry>
