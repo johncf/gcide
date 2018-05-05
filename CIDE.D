@@ -162,7 +162,7 @@
 </entry>
 
 <entry main-word="Dactyl" source="1913 Webster">
-<p><hw>Dac"tyl</hw> <pr>(d<acr/k"t<icr/l)</pr>, <pos>n.</pos> <ety>[L. <ets>dactylus</ets>, Gr. <grk>da`ktylos</grk> a finger, a dactyl.  Cf. <er>Digit</er>.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>A poetical foot of three sylables (-- <cre/ <cre/), one long followed by two short, or one accented followed by two unaccented; <as>as, L. <it>t<eum/gm<icr/n<ecr/</it>, E. <it>mer<bprime/ciful</it>; -- so called from the similarity of its arrangement to that of the joints of a finger.</as></def> <altsp>[Written also <asp>dactyle</asp>.]</altsp></p>
+<p><hw>Dac"tyl</hw> <pr>(d<acr/k"t<icr/l)</pr>, <pos>n.</pos> <ety>[L. <ets>dactylus</ets>, Gr. <grk>da`ktylos</grk> a finger, a dactyl.  Cf. <er>Digit</er>.]</ety> <sn>1.</sn> <fld>(Pros.)</fld> <def>A poetical foot of three sylables (-- <cre/ <cre/), one long followed by two short, or one accented followed by two unaccented; <as>as, L. <xex>t<eum/gm<icr/n<ecr/</xex>, E. <xex>mer"ciful</xex>; -- so called from the similarity of its arrangement to that of the joints of a finger.</as></def> <altsp>[Written also <asp>dactyle</asp>.]</altsp></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A finger or toe; a digit.</def> <sd>(b)</sd> <def>The claw or terminal joint of a leg of an insect or crustacean.</def></p>
 </entry>

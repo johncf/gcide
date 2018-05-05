@@ -36516,7 +36516,7 @@ Great primer . . . abcdefghijklmnopqrstuvwxyz
 <entry main-word="Typhoean" source="1913 Webster">
 <p><hw>Ty*pho"e*an</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>Typhoius</ets>, from <ets>Typhoeus</ets>, Gr. <?/, <?/.]</ety> <def>Of or pertaining to Typhoeus <pr>(t<isl/*f<omac/"<umac/s)</pr>, the fabled giant of Greek mythology, having a hundred heads; resembling Typhoeus.</def></p>
 
-<p><note><hand/ Sometimes incorrectly written and pronounced <it>Ty-ph<oe/<bprime/an</it> <pr>(<?/)</pr>, or <it>Ty-phe<bprime/an.</it></note></p>
+<p><note><hand/ Sometimes incorrectly written and pronounced <xex>Ty*ph<oe/"an</xex> <pr>(<?/)</pr>, or <xex>Ty*phe"an</xex>.</note></p>
 </entry>
 
 <entry main-word="Typhoid" source="1913 Webster">
