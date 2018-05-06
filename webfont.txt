@@ -274,6 +274,9 @@ Webfont   ISO 8879   TeX             Uc  ASCII   Description
 *                    $\bullet$       •   *       bold middle dot
 <middot/             $\cdot$         ·   *       light middle dot
 <root/    radic      $\surd$         √   *       root sign
+<cflex/                              ˆ   ^       circumflex
+<srtil/                              ˜   ~       small/raised tilde
+<invbre/                              ̑           inverted breve
 -----------------------------------------------------------------
 
 The table below gives some additional information about some of the more
