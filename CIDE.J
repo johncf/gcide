@@ -5590,7 +5590,7 @@ Then, if ever, come perfect days.</q> <rj><qau>Lowell.</qau></rj></p>
 
 <p source="1913 Webster"><q>The <qex>jungles</qex> of India are of bamboos, canes, and other palms, very difficult to penetrate.</q> <rj><qau>Balfour (Cyc. of India).</qau></rj></p>
 
-<p source="PJC"><sn>2.</sn> Hence: <mark>(Fig.)</mark>  <def>A place of danger or ruthless competition for survival.</def> /'bdIt's a <xex>jungle</xex> out there./'b8</p>
+<p source="PJC"><sn>2.</sn> Hence: <mark>(Fig.)</mark>  <def>A place of danger or ruthless competition for survival.</def> <ldquo/It's a <xex>jungle</xex> out there.<rdquo/</p>
 
 <p source="PJC"><sn>3.</sn> <def>Anything which causes confusion or difficulty due to intricacy; <as>as, a <ex>jungle</ex> of environmental regulations</as>.</def> <au>MW10.</au></p>
 
@@ -6323,7 +6323,7 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj></
 </entry>
 
 <entry main-word="juvenile hormone" source="PJC">
-<p><hw>juvenile hormone</hw> <fld>(Zo/'94l.)</fld> <pos>n.</pos> <def>A hormone secreted by insects which inhibits the molting of an insect from its juvenile into its adult form; also, substances having similar activity, but produced by plants.</def></p>
+<p><hw>juvenile hormone</hw> <fld>(Zool.)</fld> <pos>n.</pos> <def>A hormone secreted by insects which inhibits the molting of an insect from its juvenile into its adult form; also, substances having similar activity, but produced by plants.</def></p>
 </entry>
 
 <entry main-word="Juvenileness" source="1913 Webster">

@@ -38143,7 +38143,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj></p
 <entry main-word="Bulldog" source="1913 Webster">
 <p><hw>Bull"dog`</hw>, <pos>a.</pos> <def>Characteristic of, or like, a bulldog; stubborn; <as>as, <ex>bulldog</ex> courage; <ex>bulldog</ex> tenacity</as>.</def></p>
 
-<p><cs><col>Bulldog bat</col> <fld>(Zo'94l.)</fld>, <cd>a bat of the genus <gen>Nyctinomus</gen>; -- so called from the shape of its face.</cd></cs></p>
+<p><cs><col>Bulldog bat</col> <fld>(Zool.)</fld>, <cd>a bat of the genus <gen>Nyctinomus</gen>; -- so called from the shape of its face.</cd></cs></p>
 </entry>
 
 <entry main-word="Bulldoze" source="1913 Webster">

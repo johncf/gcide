@@ -6360,7 +6360,7 @@ By knighthood, <qex>gentry</qex>, and sweet friendship's oath.</q> <rj><qau>Shak
 <p><hw>Georgian architecture</hw>. <def>British or British colonial architecture of the period of the four Georges, especially that of the period before 1800.</def></p>
 </entry>
 
-<entry main-word="Georgic" source="">
+<entry main-word="Georgic" source="1913 Webster">
 <p><hw>Geor"gic</hw> <pr>(j<ocir/r"j<icr/k)</pr>, <pos>n.</pos> <ety>[L. <ets>georgicum</ets> (sc. <ets>carmen</ets>), and <ets>georgica</ets>, pl., Gr. <grk>bi`blion gewrgiko`n</grk>, and <grk>ta~ gewrgika`</grk>: cf. F. <ets>g<eacute/orgiques</ets>, pl. See <er>Georgic</er>, <pos>a.</pos>]</ety> <def>A rural poem; a poetical composition on husbandry, containing rules for cultivating lands, etc.; <as>as, the <ex>Georgics</ex> of Virgil</as>.</def></p>
 </entry>
 
