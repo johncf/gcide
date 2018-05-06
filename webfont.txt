@@ -163,120 +163,116 @@ pronunciations to represent the soun fo the nasal N in French words.
 let me know.
 
 -----------------------------------------------------------------
-Webfont   ISO 8879   TeX             Uc  ASCII   Description
+Webfont     ISO 8879    TeX             Uc  ASCII   Description
  entity
 -----------------------------------------------------------------
-<lt/      lt         $<$             <   <       less than
-<gt/      gt         $>$             >   >       greater than
-<Cced/    Ccedil     \c{C}           Ç   C       C cedilla
-<uum/     uuml       \"u             ü   ue      u umlaut (diaeresis)
-<eacute/  eacute     \'e             é   e       e acute
-<acir/    acirc      \^a             â   a       a circumflex
-<aum/     auml       \"a             ä   ae      a umlaut (diaeresis)
-<agrave/  agrave     \`a             à   a       a grave
-<aring/   aring      \aa             å   aa      a ring above
-<cced/    ccedil     \c{c}           ç   c       c cedilla
-<ecir/    ecirc      \^e             ê   e       e circumflex
-<eum/     euml       \"e             ë   e       e umlaut (diaeresis)
-<egrave/  egrave     \`e             è   e       e grave
-<ium/     iuml       \"i             ï   i       i umlaut (diaeresis)
-<icir/    icirc      \^i             î   i       i circumflex
-<igrave/  igrave     \`i             ì   i       i grave
-<Aum/     Auml                       Ä   A       A umlaut
-          Aring                      Å   Aa      A ring above
-<Eacute/  Eacute     \'E             É   E       E acute
-<ae/      aelig      \ae             æ   ae      ligature ae
-<AE/      AElig      \AE             Æ   AE      ligature AE
-<ocir/    ocirc      \^o             ô   o       o circumflex
-<oum/     ouml       \"o             ö   oe      o umlaut (diaeresis)
-<ograve/  ograve     \`o             ò   o       o grave
-<ucir/    ucirc      \^u             û   u       u circumflex
-<ugrave/  ugrave     \`u             ù   u       u grave
-<yum/     yuml                       ÿ   y       y umlaut
-<Oum/     Ouml                       Ö   O       O umlaut
-<Uum/     Uuml       \"U             Ü   U       U umlaut (diaeresis)
-<pound/   pound      \pounds         £   *       pound sign (British)
-<aacute/  aacute     \'a             á   a       a acute
-<iacute/  iacute     \'i             í   i       i acute
-<oacute/  oacute     \'o             ó   o       o acute
-<uacute/  uacute     \'u             ú   u       u acute
-<ntil/    ntilde     \~n             ñ   ny      n tilde
-<Ntil/    Ntilde                     Ñ   NY      N tilde
-<frac23/             $\frac{2}{3}$   ⅔   2/3     two-thirds
-<frac13/             $\frac{1}{3}$   ⅓   1/3     one-third
-<frac12/             $\frac{1}{2}$   ½   1/2     one-half
-<frac14/             $\frac{1}{4}$   ¼   1/4     one-quarter
-<?/                                      (?)     Place-holder for illegible character
-*                    $\updownarrow$  ↑   *       vertical arrow
-<hand/                               ☞   *       pointing hand (printer's "fist")
-<prime/   prime                      ′   '       prime, or minutes (of arc/time)
-<dprime/  Prime                      ″   ''      double prime, or seconds (of arc/time)
-                                                 Also, inches or double prime
-<acute/   acute                      ´   '       acute accent
-<grave/                              `   `       grave accent (to distinguish
-                                                 from the light accent indicator)
-<rdquo/   rdquo      ''              ”   "       close double quote
-<par/                $\parallel$     ‖   ||      vertical double bar
-<sect/    sect       \S              §   *       section mark
-<ldquo/   ldquo      ``              “   "       open double quotes
-<amac/    amacr      \=a             ā   a       a macron
-<lsquo/   lsquo      `               ‘   `       left single quote
-<nsm/                                ṉ   ng      "n sub-macron"
-<sharp/   sharp      $\sharp$        ♯   #       musical sharp
-<flat/    flat       $\flat$         ♭   *       musical flat
-                                     -   -       hyphen-minus (ascii)
-*                    -               ‐   -       hyphen
-*                    --              –   --      en dash
-<minus/                              −   --      minus sign
-<mdash/   mdash      ---             —   ---     em dash
-*                                    ―   ---     horizontal bar (a.k.a quot. dash)
-<th/                                 t͟h  th      th ligature (to indicate dh sound)
-<imac/    imacr      \=i             ī   i       i macron
-<emac/    emacr      \=e             ē   e       e macron
-<dsdot/                              ḍ   d       Sanskrit/Tamil d dot
-<nsdot/                              ṇ   n       Sanskrit/Tamil n dot
-<tsdot/                              ṭ   t       Sanskrit/Tamil t dot
-<ecr/                \u{e}           ĕ   e       e breve
-<icr/                \u{i}           ĭ   i       i breve
-<ocr/                \u{o}           ŏ   o       o breve
-<OE/      OElig      \OE             Œ   OE      OE ligature
-<oe/      oelig      \oe             œ   oe      oe ligature
-<omac/    omacr      \=o             ō   o       o macron
-<umac/    umacr      \=u             ū   u       u macron
-<ocar/               \v{o}           ǒ   o       o hacek
-<aemac/              \=\ae           ǣ   ae      ae ligature macron
-<oemac/              \=\oe           œ̄   oe      oe ligature macron
-<par/     par        $\parallel$     ‖   ||      double vertical bar
-<ucr/     ubreve     \u{u}           ŭ   u       u breve
-<acr/     abreve     \u{a}           ă   a       a breve
-<cre/     ssmile     \u{}            ˘   ~       crescent (like a breve, but
-                                                 vertically centered --
-                                                 represents the short accent in
-                                                 poetic meter)
-<ymac/               \=y             ȳ   y       y macron
-<asl/                                ā̇   a       a "semilong"
-                                                 (macron with a dot in middle)
-<esl/                                ē̇   e       e "semilong"
-<isl/                                ī̇   i       i "semilong"
-<osl/                                ō̇   o       o "semilong"
-<usl/                                ū̇   u       u "semilong"
-<adot/                               ȧ   a       a with dot above
-<mu/                                 μ   mu      small Greek mu
-<edh/     edh                        ð   th      small eth
-<thorn/   thorn                      þ   th      small thorn
-<atil/    atilde     \~a             ã   a       a tilde
-<ndot/                               ṅ   n       n with dot above
-<rsdot/              \d{r}           ṛ   r       r with a dot below
-<yogh/                               ȝ   y       small yogh
-<divide/  divide     $\div$          ÷   /       division sign
-          ap         $\approx$       ≈   ~=      "double tilde"
-<deg/     deg        ${}^\circ$      °   *       degree sign
-*                    $\bullet$       •   *       bold middle dot
-<middot/             $\cdot$         ·   *       light middle dot
-<root/    radic      $\surd$         √   *       root sign
-<cflex/                              ˆ   ^       circumflex
-<srtil/                              ˜   ~       small/raised tilde
-<invbre/                              ̑           inverted breve
+<lt/        lt          $<$             <   <       less than
+<gt/        gt          $>$             >   >       greater than
+<ae/        aelig       \ae             æ   ae      ligature ae
+<AE/        AElig       \AE             Æ   AE      ligature AE
+<oe/        oelig       \oe             œ   oe      oe ligature
+<OE/        OElig       \OE             Œ   OE      OE ligature
+<cced/      ccedil      \c{c}           ç   c       c cedilla
+<Cced/      Ccedil      \c{C}           Ç   C       C cedilla
+<aring/     aring       \aa             å   a       a ring above
+*           Aring                       Å   A       A ring above
+<aacute/    aacute      \'a             á   a       a acute
+<eacute/    eacute      \'e             é   e       e acute
+<iacute/    iacute      \'i             í   i       i acute
+<oacute/    oacute      \'o             ó   o       o acute
+<uacute/    uacute      \'u             ú   u       u acute
+<Eacute/    Eacute      \'E             É   E       E acute
+<acir/      acirc       \^a             â   a       a circumflex
+<ecir/      ecirc       \^e             ê   e       e circumflex
+<icir/      icirc       \^i             î   i       i circumflex
+<ocir/      ocirc       \^o             ô   o       o circumflex
+<ucir/      ucirc       \^u             û   u       u circumflex
+<agrave/    agrave      \`a             à   a       a grave
+<egrave/    egrave      \`e             è   e       e grave
+<igrave/    igrave      \`i             ì   i       i grave
+<ograve/    ograve      \`o             ò   o       o grave
+<ugrave/    ugrave      \`u             ù   u       u grave
+<aum/       auml        \"a             ä   a       a umlaut (diaeresis)
+<eum/       euml        \"e             ë   e       e umlaut (diaeresis)
+<ium/       iuml        \"i             ï   i       i umlaut (diaeresis)
+<oum/       ouml        \"o             ö   o       o umlaut (diaeresis)
+<uum/       uuml        \"u             ü   u       u umlaut (diaeresis)
+<yum/       yuml                        ÿ   y       y umlaut
+<Aum/       Auml                        Ä   A       A umlaut
+<Oum/       Ouml                        Ö   O       O umlaut
+<Uum/       Uuml        \"U             Ü   U       U umlaut (diaeresis)
+<atil/      atilde      \~a             ã   a       a tilde
+<ntil/      ntilde      \~n             ñ   n       n tilde
+<Ntil/      Ntilde                      Ñ   N       N tilde
+<amac/      amacr       \=a             ā   a       a macron
+<imac/      imacr       \=i             ī   i       i macron
+<emac/      emacr       \=e             ē   e       e macron
+<omac/      omacr       \=o             ō   o       o macron
+<umac/      umacr       \=u             ū   u       u macron
+<ymac/                  \=y             ȳ   y       y macron
+<aemac/                 \=\ae           ǣ   ae      ae ligature macron
+<oemac/                 \=\oe           œ̄   oe      oe ligature macron
+<acr/       abreve      \u{a}           ă   a       a breve
+<ecr/                   \u{e}           ĕ   e       e breve
+<icr/                   \u{i}           ĭ   i       i breve
+<ocr/                   \u{o}           ŏ   o       o breve
+<ucr/       ubreve      \u{u}           ŭ   u       u breve
+<ocar/                  \v{o}           ǒ   o       o hacek
+<asl/                                   ā̇   a       a "semilong" (macron + middot)
+<esl/                                   ē̇   e       e "semilong"
+<isl/                                   ī̇   i       i "semilong"
+<osl/                                   ō̇   o       o "semilong"
+<usl/                                   ū̇   u       u "semilong"
+<adot/                                  ȧ   a       a with dot above
+<ndot/                                  ṅ   n       n with dot above
+<dsdot/                                 ḍ   d       Sanskrit/Tamil d dot
+<nsdot/                                 ṇ   n       Sanskrit/Tamil n dot
+<rsdot/                 \d{r}           ṛ   r       r with a dot below
+<tsdot/                                 ṭ   t       Sanskrit/Tamil t dot
+<nsm/                                   ṉ   ng      "n sub-macron"
+<frac12/                $\frac{1}{2}$   ½   1/2     one-half
+<frac14/                $\frac{1}{4}$   ¼   1/4     one-quarter
+<frac13/                $\frac{1}{3}$   ⅓   1/3     one-third
+<frac23/                $\frac{2}{3}$   ⅔   2/3     two-thirds
+<?/                                     �   (?)     Place-holder for illegible character
+<hand/                                  ☞   *       pointing hand (printer's "fist")
+<deg/       deg         ${}^\circ$      °   *       degree sign
+<prime/     prime                       ′   '       prime, or minutes (of arc/time)
+<dprime/    Prime                       ″   ''      double prime, or seconds (of arc/time)
+<ldquo/     ldquo       ``              “   "       open double quotes
+<rdquo/     rdquo       ''              ”   "       close double quote
+<lsquo/     lsquo       `               ‘   '       left single quote
+<rsquo/     rsquo       '               ’   '       right single quote
+<par/                   $\parallel$     ‖   ||      vertical double bar
+<sect/      sect        \S              §   *       section mark
+<sharp/     sharp       $\sharp$        ♯   #       musical sharp
+<flat/      flat        $\flat$         ♭   *       musical flat
+<pound/     pound       \pounds         £   *       pound sign (British)
+*                                       -   -       hyphen-minus (ascii)
+*                       -               ‐   -       hyphen
+*                       --              –   --      en dash
+<minus/                                 −   --      minus sign
+<mdash/     mdash       ---             —   ---     em dash
+*                                       ―   ---     horizontal bar (a.k.a quot. dash)
+<th/                                    t͟h  th      th ligature (to indicate dh sound)
+<par/       par         $\parallel$     ‖   ||      double vertical bar
+<cre/       ssmile      \u{}            ˘   u       crescent (see info below)
+<mu/                                    μ   mu      small Greek mu
+<edh/       edh                         ð   th      small eth
+<thorn/     thorn                       þ   th      small thorn
+<yogh/                                  ȝ   y       small yogh
+<divide/    divide      $\div$          ÷   /       division sign
+*           ap          $\approx$       ≈   ~=      "double tilde"
+*                       $\bullet$       •   *       bold middle dot
+*                       $\updownarrow$  ↑   ^       vertical arrow
+<middot/                $\cdot$         ·   *       light middle dot
+<root/      radic       $\surd$         √   /       root sign
+<acute/     acute                       ´   '       acute accent
+<grave/                                 `   `       grave accent (to distinguish
+                                                    from the light accent indicator)
+<cflex/                                 ˆ   ^       circumflex
+<srtil/                                 ˜   ~       small/raised tilde
+<invbre/                                 ̑   ^       inverted breve
 -----------------------------------------------------------------
 
 The table below gives some additional information about some of the more
@@ -391,7 +387,9 @@ decimal  hex    char  definition
   220    dc      ŭ    <ucr/ = u with crescent above - used in some etymologies
   221    dd      ă    <acr/ = a with crescent above - used in some etymologies
   222    de      ˘    <cre/ = "crescent", an upward-curving crescent
-                      used as a poetic meter mark
+                      used as a poetic meter mark (short syllable)
+                      possible unicode candidates:     U+02D8 U+2323 U+23D1
+                      corresponding "long" candidates: U+00AF U+2014 U+2013
   223    df      ȳ    <ymac/ = y macron (used in Anglo-Saxon?)
   229    e5      ȧ    <adot/ = a with a dot above (for pronunciations)
   231    e7      h    second of a two-character combination (see part 1: 197)
