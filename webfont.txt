@@ -273,6 +273,9 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <cflex/                                 ˆ   ^       circumflex
 <srtil/                                 ˜   ~       small/raised tilde
 <invbre/                                 ̑   ^       inverted breve
+<bacc/                                      "       bold accent (outside <pr> <hw> etc.)
+<lacc/                                      `       light accent (outside <pr> <hw> etc.)
+<sdiv/                                      *       syllable division (outside <pr> <hw> etc.)
 -----------------------------------------------------------------
 
 The table below gives some additional information about some of the more
