@@ -16633,7 +16633,7 @@ I'll urge thee round the dusty plain.</q> <rj><qau>Fawkes.</qau></rj></p>
 </entry>
 
 <entry main-word="Til" source="1913 Webster">
-<p><hw>Til</hw> <pr>(?)</pr>, <pos>prep. & conj.</pos> <def>See <er>Till</er>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Til</hw> <pr>(t<imac/l)</pr>, <pos>prep. & conj.</pos> <def>See <er>Till</er>.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Tilbury" source="1913 Webster">
@@ -16641,7 +16641,7 @@ I'll urge thee round the dusty plain.</q> <rj><qau>Fawkes.</qau></rj></p>
 </entry>
 
 <entry main-word="Tilde" source="1913 Webster">
-<p><par/<hw>Til"de</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>, <it><ltil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def></p>
+<p><par/<hw>Til"de</hw> <pr>(t<emac/"d<asl/)</pr>, <pos>n.</pos> <ety>[Sp., fr. L. <ets>titulus</ets> a superscription, title, token, sign. See <er>Title</er>, <pos>n.</pos>]</ety> <def>The accentual mark placed over <it>n</it>, and sometimes over <it>l</it>, in Spanish words [thus, <it><ntil/</it>, <it><ltil/</it>], indicating that, in pronunciation, the sound of the following vowel is to be preceded by that of the initial, or consonantal, <it>y</it>.</def></p>
 </entry>
 
 <entry main-word="Tile" source="1913 Webster">

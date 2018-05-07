@@ -262,6 +262,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <thorn/     thorn                       þ   th      small thorn
 <yogh/                                  ȝ   y       small yogh
 <divide/    divide      $\div$          ÷   /       division sign
+<times/     times       $\times$        ×   *       multiplication sign
 *           ap          $\approx$       ≈   ~=      "double tilde"
 *                       $\bullet$       •   *       bold middle dot
 *                       $\updownarrow$  ↑   ^       vertical arrow

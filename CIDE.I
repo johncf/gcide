@@ -1095,13 +1095,13 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Ideogram" source="1913 Webster">
-<p><hw>I*de"o*gram</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Ideo-</ets> + <ets>-gram</ets>; cf. F. <ets>id<eacute/ograme</ets>.]</ety> <sn>1.</sn> <def>An original, pictorial element of writing; a kind of hieroglyph expressing no sound, but only an idea.</def></p>
+<p><hw>I*de"o*gram</hw> <pr>(?*d<emac/"<osl/*gr<acr/m)</pr>, <pos>n.</pos> <ety>[<ets>Ideo-</ets> + <ets>-gram</ets>; cf. F. <ets>id<eacute/ograme</ets>.]</ety> <sn>1.</sn> <def>An original, pictorial element of writing; a kind of hieroglyph expressing no sound, but only an idea.</def></p>
 
 <p><q><qex>Ideograms</qex> may be defined to be pictures intended to represent either things or thoughts.</q> <rj><qau>I. Taylor (The Alphabet).</qau></rj></p>
 
 <p><q>You might even have a history without language written or spoken, by means of <qex>ideograms</qex> and gesture.</q> <rj><qau>J. Peile.</qau></rj></p>
 
-<p><sn>2.</sn> <def>A symbol used for convenience, or for abbreviation; <as>as, 1, 2, 3, +, -, <?/, $, <?/, etc.</as></def></p>
+<p><sn>2.</sn> <def>A symbol used for convenience, or for abbreviation; <as>as, 1, 2, 3, +, <minus/, <times/, $, <sect/, etc.</as></def></p>
 
 <p><sn>3.</sn> <def>A phonetic symbol; a letter.</def></p>
 </entry>

@@ -11154,13 +11154,13 @@ Shall with a fierce <qex>reflux</qex> on me redound.</q> <rj><qau>Milton.</qau><
 </entry>
 
 <entry main-word="Refract" source="1913 Webster">
-<p><hw>Re*fract"</hw> <pr>(r?*fr$kt")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Refracted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Refracting</conjf>.]</vmorph> <ety>[L. <ets>refractus</ets>, p. p. of <ets>refringere</ets>; pref. <ets>re-</ets> re- + <ets>frangere</ets> to break: cf. F. <ets>r<eacute/fracter</ets>. SEe <er>FRacture</er>, and cf. <er>Refrain</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To bend sharply and abruptly back; to break off.</def></p>
+<p><hw>Re*fract"</hw> <pr>(r<esl/*fr<acr/kt")</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Refracted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Refracting</conjf>.]</vmorph> <ety>[L. <ets>refractus</ets>, p. p. of <ets>refringere</ets>; pref. <ets>re-</ets> re- + <ets>frangere</ets> to break: cf. F. <ets>r<eacute/fracter</ets>. See <er>Fracture</er>, and cf. <er>Refrain</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To bend sharply and abruptly back; to break off.</def></p>
 
-<p><sn>2.</sn> <def>To break the natural course of, as rays of light orr heat, when passing from one transparent medium to another of different density; to cause to deviate from a direct course by an action distinct from reflection; <as>as, a dense medium <ex>refrcts</ex> the rays of light as they pass into it from a rare medium</as>.</def></p>
+<p><sn>2.</sn> <def>To break the natural course of, as rays of light or heat, when passing from one transparent medium to another of different density; to cause to deviate from a direct course by an action distinct from reflection; <as>as, a dense medium <ex>refracts</ex> the rays of light as they pass into it from a rare medium</as>.</def></p>
 </entry>
 
 <entry main-word="Refractable" source="1913 Webster">
-<p><hw>Re*fract"a*ble</hw> <pr>(-?*b'l)</pr>, <pos>a.</pos> <def>Capable of being refracted.</def></p>
+<p><hw>Re*fract"a*ble</hw> <pr>(-<adot/*b'l)</pr>, <pos>a.</pos> <def>Capable of being refracted.</def></p>
 </entry>
 
 <entry main-word="Refracted" source="1913 Webster">
@@ -15886,7 +15886,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Reometer" source="1913 Webster">
-<p><hw>Re*om"e*ter</hw> <pr>(r?-?m"?-t$r)</pr>, <pos>n.</pos> <def>Same as <er>Rheometer</er>.</def></p>
+<p><hw>Re*om"e*ter</hw> <pr>(r?*<ocr/m"<esl/*t<etil/r)</pr>, <pos>n.</pos> <def>Same as <er>Rheometer</er>.</def></p>
 </entry>
 
 <entry main-word="Reopen" source="1913 Webster">
@@ -18738,7 +18738,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residenter" source="1913 Webster">
-<p><hw>Res"i*dent*er</hw> <pr>(-$r)</pr>, <pos>n.</pos> <def>A resident.</def> <mark>[Obs. or Colloq.]</mark></p>
+<p><hw>Res"i*dent*er</hw> <pr>(-<etil/r)</pr>, <pos>n.</pos> <def>A resident.</def> <mark>[Obs. or Colloq.]</mark></p>
 </entry>
 
 <entry main-word="Residential" source="1913 Webster">
