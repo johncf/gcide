@@ -214,7 +214,7 @@ Tag           Font         Meaning and Description
                            mention of who a person was, which is typically
                            included as a definition.
 
-<biography>   *            Same as <bio>
+<biography>   *            Same as <bio> (not used)
 
 <booki>       italic       Marks the name of a book, pamphlet, or similar
                            document.

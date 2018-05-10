@@ -1930,8 +1930,8 @@ At alle times, though him <qex>gamed</qex> or smarte.</q> <rj><qau>Chaucer.</qau
 <p><hw>gam"ing</hw> <pr>(g<amac/m"<icr/ng)</pr>, <pos>n.</pos> <def>The act or practice of playing games for stakes or wagers; gambling.</def></p>
 </entry>
 
-<entry main-word="gamma" source="1913 Webster">
-<p><hw>gam"ma</hw> <pr>(g<acr/m"m<adot/)</pr>, <pos>n.</pos> <def>The third letter (<GAMMA/, <gamma/ = Eng. <sig>G</sig>) of the Greek alphabet.</def></p>
+<entry main-word="Gamma" source="1913 Webster">
+<p><hw>Gam"ma</hw> <pr>(g<acr/m"m<adot/)</pr>, <pos>n.</pos> <def>The third letter (<GAMMA/, <gamma/ = Eng. <sig>G</sig>) of the Greek alphabet.</def></p>
 </entry>
 
 <entry main-word="Gammadion" source="1913 Webster">
