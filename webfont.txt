@@ -1,5 +1,5 @@
-                 WEBSTER FONTS
-                 =============
+WEBSTER FONTS
+=============
 
 * Overview
 
@@ -13,26 +13,18 @@ are required for visualizing unusual characters used in the etymology and
 pronunciation fields of the dictionary, in a form comparable to the way they
 appear in the original.
 
-The GCIDE markup provides two ways for representing such characters: using
-special "escape sequences" and using special markup entities.  Historically,
-"escape sequences" were used to indicate the character's ordinal position in
-a special font, prepared by MICRA, Inc. to represent it on screen.  Although
-nowadays this method is obsolete, the dictionary corpus still uses these
-sequences.  This file describes their mapping to Unicode characters.
+The GCIDE markup uses special markup entities.  Historically, "escape
+sequences" were used to indicate the character's ordinal position in a
+special font, prepared by MICRA, Inc. to represent it on screen.  Although
+nowadays this method is obsolete.
 
-An escape sequence has the form \'xx, where "x" represent lowercase
-hexadecimal digits.  For example, \'94 stands for "o" with diaeresis.  There
-are only 256 such sequences.
-
-Special markup entities are able to represent a wider range of characters.
+Special markup entities are able to represent a wide range of characters.
 A markup entity is similar to SGML one, but has a different format.  The
 traditional &xx; format was judged inconvenient because the ampersand is
 used frequently in the corpus.  Instead, GCIDE entities have the format
 <WORD/, where "<" and "/" represent the beginning and end of the entity and
 WORD represents the character itself.  Valid WORDs are in some cases
 abbreviations (for compactness) of the ISO 8879 recommended symbols.
-Characters representable by escape sequences can also be represented by
-entities, but the reverse is not true, due to a limited range of the former.
 
 The Greek words appearing in the etymologies, when they are included, are
 typed in a roman-letter transcription, which is described below in chapter
@@ -41,13 +33,12 @@ typed in a roman-letter transcription, which is described below in chapter
 * Unrecognized characters
 
 Wherever the typists did not know the character to use, they usually
-inserted a reverse-video question mark (decimal 176).  This appears in
-full-ASCII versions as <?/.  This mark was used both for characters in
-non-ASCII fonts, and for unreadable characters (i.e., characters smeared in
-the original or distorted in the copies available to the typists. The type
-in the original was in many places smeared and illegible at the left and
-right page margins; occasionally, small parts of words were blotted out by
-plain white space).
+inserted a reverse-video question mark.  This appears in full-ASCII versions
+as <?/.  This mark was used both for characters in non-ASCII fonts, and for
+unreadable characters (i.e., characters smeared in the original or distorted
+in the copies available to the typists. The type in the original was in many
+places smeared and illegible at the left and right page margins;
+occasionally, small parts of words were blotted out by plain white space).
 
 * Italics
 
@@ -60,50 +51,40 @@ the italicized vowel.
 
 * Diacritics
 
-Vowels with a circle above (as in Swedish) are coded <xring/ (x with a ring,
-or "degrees" mark over it); vowels with tilde over them are represented by
-<xtil/, where "x" is the vowel, as in <etil/ (<atil/ also has code 238);
-letters with a dot above are represented by <xdot/ -- letter with a dot
-below are represented by <xsdot/ ("subdot"); vowels with the semi-long mark
-(a macron with a short perpendicular vertical stroke attached above) are
-represented by <xsl/; the circumflex vowels have codes on this list, but may
-also be represented as <xcir/; vowels with macrons above are <xmac/
-(including <oomac/, the "oo" with an unbroken macron above the two letters,
-<aemac/ = the ligature ae with a macron [also 214 = \'d6], and <oemac/ the
-ligature oe with a macron [also 215 = \'d7]); vowels with umlauts or a
-crescent (breve) above have codes in this list, but may also be represented
-by <xum/ and <xcr/ respectively.  There is an occasional hacek or caron mark
-(an inverted circumflex) in the original; such letters are coded <xcar/.
-The o with a caron has code 213, but no other letter with a caron is
-representable by an escape sequence.
-
-The diaeresis is treated typographically as identical to the umlaut.  A
-special modification, used only for poetry (see entry "saturnian verse"
-under "saturnian") is a vowel with a macron, in which the macron is lighter
-than the usual macron, signifying a stressed syllable which has a short
-vowel sound.  This is represented by <xsmac/ ("short mac").
+- Vowels with a circle above (as in Swedish) are coded <xring/ (x with a ring);
+- vowels with tilde over them are represented by <xtil/ as in <etil/;
+- letters with a dot above are represented by <xdot/;
+- letters with a dot below are represented by <xsdot/ ("subdot");
+- vowels with the "semi-long" mark are represented by <xsl/ ("semi-long" is
+  a macron with a short perpendicular vertical stroke attached above);
+- the circumflex vowels are represented as <xcir/;
+- vowels with macrons above are <xmac/ (including <oomac/, the "oo" with an
+  unbroken macron above the two letters, <aemac/ = the ligature ae with a
+  macron);
+- vowels with umlauts are represented by <xum/;
+- vowels with a crescent (breve) above are represented by <xcr/;
+- there is an occasional hacek or caron mark (an inverted circumflex) in the
+  original; such letters are coded <xcar/.
 
 Another special character used in pronunciations is an "n" with an underline
 (like a macron, but below the letter), used to represent the "ng" sound.
-This is coded <nsm/ ("n sub-macron").  The ligated th used in pronunciations
-to depict the "th" sound of "the" is coded as <th/.
+This is coded <nsm/ ("n sub-macron").
+
+The ligated th used in pronunciations to depict the "th" sound of "the" is
+coded as <th/. Due to the lack of such a unicode character, this might be
+replaced with a "th" with a double sub-macron.
 
 NOTE: the letter combinations "fi" and "fl" are invariably printed as the
-ligatures &filig; and &fllig;, but these ligatures are not marked as such in
-this transcription, and the two letters are left as individuals.
+ligatures, but these ligatures are not marked as such in this transcription,
+and the two letters are left as individuals.
 
 * Special symbols
 
 The dagger <dag/, double dagger <ddag/, and paragraph mark <para/ are rarely
 used.
 
-The double prime, or "seconds" of a arc is sometimes represented by a
-double "light accent".  In other places, and in later versions, it is
-represented by <dprime/.
-
-The symbols "greater than" <gt/ and "less than" are encountered only once,
-but are distinguished from the right- and left-angle brackets (> and <)
-because of possible typographical differences in some fonts.
+The symbols "greater than" and "less than" are encountered only once, and
+are represented by <gt/ and <lt/ to not trip tag and entity parsing.
 
 The schwa is symbolized by <schwa/.  It is not used in the pronunciations,
 but is mentioned as a symbol.  The right-pointing arrow is <rarr/,
@@ -115,14 +96,26 @@ italics font.
 * Symbol summary
 
 Below is a complete list of the symbols used in the Webster, together with
-their "webfont" number (escape sequence), corresponding markup entity, and
-corresponding symbols in ISO 8879 and Tex coding.  Much of this table was
-prepared by Rik Faith, to whom we express our appreciation.
+their markup entity, and corresponding symbols in ISO 8879 and Tex coding.
+Much of this table was prepared by Rik Faith, to whom we express our
+appreciation.
 
-The "Uc" column gives the Unicode representation of the character.  The
-"nearest ASCII" equivalents are given for those who want to display the data
-as best one can in 7-bit simple ASCII symbols without using the "entity"
-symbols.
+The "Uc" column gives the Unicode representation of the character. A few
+characters could not be represented using Unicode, such as:
+- <asl/, <esl/ etc.: "semi-long" diacritics is supposed to have a macron
+  with a short vertical bar in the middle. U+030D is the "right" combining
+  character to use for achieving this (e.g. ā̍), but many fonts don't render
+  it correctly. Thus, we used a middle dot above instead, which looks very
+  similar.
+- <th/: this denotes the "th" digraph having the horizontal line of t
+  elongated to touch the letter h. This could not be represented in Unicode,
+  as far as I tried. An alternative might be to have a double sub-macron
+  below "th", as shown below.
+- Apart from these, there are many other one-off differences.
+
+The "nearest ASCII" equivalents are given for those who want to display the
+data as best one can in 7-bit simple ASCII symbols without using the
+"entity" symbols.
 
 Comments:
   (1) The symbol in the "entity" column is the SGML-like symbol used in the
@@ -131,36 +124,21 @@ Comments:
       by Smith and Stutely.
 
   (2) An asterisk "*" in the "entity" column means that this symbol and code
-value is not used in any form in GCIDE.
+      value is not used in any form in GCIDE.
 
-  (3) If no asterisk is in the "entity" column, and no other symbol is
-there, this means that in the Webster, only the hexadecimal representation
-was used (e.g. for \'d8, \'bd, and \'b8).
+  (3) The heavy and light "accents" (<bacc/ and <lacc/), are never above a
+      letter (these are not diacritical marks), but in-between letters, as
+      the stress accent used in the headwords and pronunciations (" and `).
+      The accent *follows* the syllable accented.
 
-  (4) \'b6 and \'b7, the heavy and light "accents", are never above a letter
-(these are not diacritical marks), but in-between letters, as the stress
-accent used in the headwords and pronunciations.  The accent *follows* the
-syllable accented.  The light accent \'b7 is also used as the "prime" in
-mathematical expressions (e.g. a\'b7 = "a prime"), or as "minutes" in
-degrees-minutes-seconds, and when doubled (\'b7\'b7) serves as "double
-prime" in mathematical expressions, and as "seconds" in
-degrees-minutes-seconds.  The character (<dprime/ or &Prime;) is also used
-to represent the double prime.
+  (4) For some reason, the a breve and u breve have ISO codes (in the
+      Latin-2 table), but the other vowels don't, in the Smith & Stutely
+      book.  Is this a mistake?
 
-  (5) Although the semilong vowels are in the table (e.g. the "asl" = "a
-semilong", most of the entries in the ASCII version dictionary use the <xsl/
-symbol coding.  If you know of any printers' names for these, do let me
-know.
+  (7) Capital 'N' in pronunciations indicate "N in smallcaps", to represent
+      the sound for the nasal N in French words.
 
-  (6) For some reason, the a breve and u breve have ISO codes (in the
-Latin-2 table), but the other vowels don't, in the Smith & Stutely book.  Is
-this a mistake?
-
-  (7) The symbol <nsc/ is used for "N small capitals", used in
-pronunciations to represent the soun fo the nasal N in French words.
-
-  (8) If you find any exceptions to these usage assertions, please
-let me know.
+  (8) Feel free to report any exceptions to these usage assertions.
 
 -----------------------------------------------------------------
 Webfont     ISO 8879    TeX             Uc  ASCII   Description
@@ -173,9 +151,8 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <oe/        oelig       \oe             œ   oe      oe ligature
 <OE/        OElig       \OE             Œ   OE      OE ligature
 <cced/      ccedil      \c{c}           ç   c       c cedilla
-<Cced/      Ccedil      \c{C}           Ç   C       C cedilla
 <aring/     aring       \aa             å   a       a ring above
-*           Aring                       Å   A       A ring above
+<uring/     aring       \aa             ů   u       u ring above
 <aacute/    aacute      \'a             á   a       a acute
 <eacute/    eacute      \'e             é   e       e acute
 <iacute/    iacute      \'i             í   i       i acute
@@ -197,28 +174,27 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <ium/       iuml        \"i             ï   i       i umlaut (diaeresis)
 <oum/       ouml        \"o             ö   o       o umlaut (diaeresis)
 <uum/       uuml        \"u             ü   u       u umlaut (diaeresis)
-<yum/       yuml                        ÿ   y       y umlaut
-<Aum/       Auml                        Ä   A       A umlaut
-<Oum/       Ouml                        Ö   O       O umlaut
-<Uum/       Uuml        \"U             Ü   U       U umlaut (diaeresis)
 <atil/      atilde      \~a             ã   a       a tilde
+<etil/      etilde      \~e             ẽ   e       e tilde
+<ltil/                  \~l             l̃   l       l tilde
+<mtil/                  \~m             m̃   m       m tilde
 <ntil/      ntilde      \~n             ñ   n       n tilde
-<Ntil/      Ntilde                      Ñ   N       N tilde
 <amac/      amacr       \=a             ā   a       a macron
-<imac/      imacr       \=i             ī   i       i macron
 <emac/      emacr       \=e             ē   e       e macron
+<imac/      imacr       \=i             ī   i       i macron
 <omac/      omacr       \=o             ō   o       o macron
 <umac/      umacr       \=u             ū   u       u macron
 <ymac/                  \=y             ȳ   y       y macron
 <aemac/                 \=\ae           ǣ   ae      ae ligature macron
-<oemac/                 \=\oe           œ̄   oe      oe ligature macron
+<oomac/                 \={oo}          ꝏ̄   oo      oo ligature macron
 <acr/       abreve      \u{a}           ă   a       a breve
 <ecr/                   \u{e}           ĕ   e       e breve
 <icr/                   \u{i}           ĭ   i       i breve
 <ocr/                   \u{o}           ŏ   o       o breve
 <ucr/       ubreve      \u{u}           ŭ   u       u breve
+<oocr/                  \u{oo}          ꝏ̃   oo      oo breve
 <ocar/                  \v{o}           ǒ   o       o hacek
-<asl/                                   ā̇   a       a "semilong" (macron + middot)
+<asl/                                   ā̇   a       a "semilong" (see Diacritics)
 <esl/                                   ē̇   e       e "semilong"
 <isl/                                   ī̇   i       i "semilong"
 <osl/                                   ō̇   o       o "semilong"
@@ -227,56 +203,94 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <ndot/                                  ṅ   n       n with dot above
 <dsdot/                                 ḍ   d       Sanskrit/Tamil d dot
 <nsdot/                                 ṇ   n       Sanskrit/Tamil n dot
-<rsdot/                 \d{r}           ṛ   r       r with a dot below
+<rsdot/                                 ṛ   r       r with a dot below
 <tsdot/                                 ṭ   t       Sanskrit/Tamil t dot
-<nsm/                                   ṉ   ng      "n sub-macron"
-<frac12/                $\frac{1}{2}$   ½   1/2     one-half
-<frac14/                $\frac{1}{4}$   ¼   1/4     one-quarter
-<frac13/                $\frac{1}{3}$   ⅓   1/3     one-third
-<frac23/                $\frac{2}{3}$   ⅔   2/3     two-thirds
+<usdot/                                 ụ   u       u with a dot below
+<nsm/                                   ṉ   n       "n sub-macron"
+<frac12/                                ½   1/2     one-half
+<frac14/                                ¼   1/4     one-quarter
+<frac13/                                ⅓   1/3     one-third
+<frac23/                                ⅔   2/3     two-thirds
 <?/                                     �   (?)     Place-holder for illegible character
-<hand/                                  ☞   *       pointing hand (printer's "fist")
-<deg/       deg         ${}^\circ$      °   *       degree sign
+<hand/                                  ☞   ->      pointing hand (printer's "fist")
+<deg/       deg                         °           degree sign
 <prime/     prime                       ′   '       prime, or minutes (of arc/time)
 <dprime/    Prime                       ″   ''      double prime, or seconds (of arc/time)
 <ldquo/     ldquo       ``              “   "       open double quotes
 <rdquo/     rdquo       ''              ”   "       close double quote
 <lsquo/     lsquo       `               ‘   '       left single quote
 <rsquo/     rsquo       '               ’   '       right single quote
-<par/                   $\parallel$     ‖   ||      vertical double bar
-<sect/      sect        \S              §   *       section mark
-<sharp/     sharp       $\sharp$        ♯   #       musical sharp
-<flat/      flat        $\flat$         ♭   *       musical flat
+<par/                                   ‖   ||      vertical double bar
+<sect/      sect        \S              §   S       section mark
+<sharp/     sharp                       ♯   #       musical sharp
+<flat/      flat                        ♭   *       musical flat
 <pound/     pound       \pounds         £   *       pound sign (British)
-*                                       -   -       hyphen-minus (ascii)
-*                       -               ‐   -       hyphen
-*                       --              –   --      en dash
-<minus/                                 −   --      minus sign
-<mdash/     mdash       ---             —   ---     em dash
-*                                       ―   ---     horizontal bar (a.k.a quot. dash)
+-                       -               -   -       hyphen-minus (ascii)
+*                                       ‐   -       hyphen
+*                       --              –   -       en dash
+<minus/                                 −   -       minus sign
+<mdash/     mdash       ---             —   --      em dash
+*                                       ―   --      horizontal bar (a.k.a quot. dash)
 <th/                                    t͟h  th      th ligature (to indicate dh sound)
-<par/       par         $\parallel$     ‖   ||      double vertical bar
-<cre/       ssmile      \u{}            ˘   u       crescent (see info below)
-<mu/                                    μ   mu      small Greek mu
+<par/       par                         ‖   ||      double vertical bar
+<cre/       ssmile      \u{}            ⌣   u       crescent (see info below)
 <edh/       edh                         ð   th      small eth
 <thorn/     thorn                       þ   th      small thorn
 <yogh/                                  ȝ   y       small yogh
 <divide/    divide      $\div$          ÷   /       division sign
 <times/     times       $\times$        ×   *       multiplication sign
 *           ap          $\approx$       ≈   ~=      "double tilde"
-*                       $\bullet$       •   *       bold middle dot
-*                       $\updownarrow$  ↑   ^       vertical arrow
-<middot/                $\cdot$         ·   *       light middle dot
+<rarr/                  \leftarrow      →   >       right arrow (in chem. eq.)
+<middot/                                ·   *       light middle dot
 <root/      radic       $\surd$         √   /       root sign
+<alpha/     alpha                       α   a       small Greek letter alpha
+<beta/      beta                        β   b       small Greek letter beta
+<gamma/     gamma                       γ   g       small Greek letter gamma
+<GAMMA/     Gamma                       Γ   G       capital Greek letter gamma
+<delta/     delta                       δ   d       small Greek letter delta
+<DELTA/     Delta                       Δ   D       capital Greek letter delta
+<epsilon/   epsilon                     ε   e       small Greek letter epsilon
+<zeta/      zeta                        ζ   z       small Greek letter zeta
+<eta/       eta                         η   h       small Greek letter eta
+<theta/     theta                       θ   th      small Greek letter theta
+<THETA/     Theta                       Θ   Th      capital Greek letter theta
+<iota/      iota                        ι   i       small Greek letter iota
+<kappa/     kappa                       κ   k       small Greek letter kappa
+<lambda/    lambda                      λ   l       small Greek letter lambda
+<LAMBDA/    Lambda                      Λ   L       capital Greek letter lambda
+<mu/        mu                          μ   m       small Greek letter mu
+<nu/        nu                          ν   n       small Greek letter nu
+<xi/        xi                          ξ   x       small Greek letter xi
+<XI/        Xi                          Ξ   X       capital Greek letter xi
+<omicron/   omicron                     ο   o       small Greek letter omicron
+<pi/        pi                          π   p       small Greek letter pi
+<PI/        Pi                          Π   P       capital Greek letter pi
+<rho/       rho                         ρ   r       small Greek letter rho
+<sigma/     sigma                       σ   s       small Greek letter sigma
+<sigmat/    sigmaf                      ς   s       small Greek letter terminal sigma
+<SIGMA/     Sigma                       Σ   S       capital Greek letter sigma
+<tau/       tau                         τ   t       small Greek letter tau
+<upsilon/   upsilon                     υ   y       small Greek letter upsilon
+<phi/       phi                         φ   f       small Greek letter phi
+<PHI/       Phi                         Φ   F       capital Greek letter phi
+<chi/       chi                         χ   ch      small Greek letter chi
+<psi/       psi                         ψ   ps      small Greek letter psi
+<PSI/       Psi                         Ψ   Ps      capital Greek letter psi
+<omega/     omega                       ω   w       small Greek letter omega
+<OMEGA/     Omega                       Ω   W       capital Greek letter omega
 <acute/     acute                       ´   '       acute accent
-<grave/                                 `   `       grave accent (to distinguish
-                                                    from the light accent indicator)
+<grave/                                 `   `       grave accent (to distinguish from
+                                                    the light accent indicator)
+<star/                                  *   *       an asterisk (to distinguish from the
+                                                    syllable division indicator)
+<asterism/                              ⁂   *       asterism (three asterisks arranged
+                                                    in a triangle)
 <cflex/                                 ˆ   ^       circumflex
 <srtil/                                 ˜   ~       small/raised tilde
 <invbre/                                 ̑   ^       inverted breve
-<bacc/                                      "       bold accent (outside <pr> <hw> etc.)
-<lacc/                                      `       light accent (outside <pr> <hw> etc.)
-<sdiv/                                      *       syllable division (outside <pr> <hw> etc.)
+<bacc/                                  ˈ   "       bold accent (outside <pr> <hw> etc.)
+<lacc/                                  ˌ   `       light accent (outside <pr> <hw> etc.)
+<sdiv/                                  ·   *       syllable division (outside <pr> <hw> etc.)
 <tsup/                                  ᵗ   t       superscript t (used in <hw> once)
 <esup/                                  ᵉ   e       superscript e (used in <hw> once)
 <isub/                                  ᵢ   i       subscript i (used in <hw> once)
@@ -384,7 +398,6 @@ decimal  hex    char  definition
   213    d5      ǒ    <ocar/ o with caron (hacek) (inverted
                       circumflex) above
   214    d6      ǣ    <aemac/ = "ae" ligature with a macron
-  215    d7      œ̄    <oemac/ = "oe" ligature with a macron
   216    d8      ‖    <par/ double vertical bar (short length; the long
                       length is the graphics character 186)
                       This precedes words marked with a double
@@ -393,7 +406,7 @@ decimal  hex    char  definition
                       into English without modification of the spelling.
   220    dc      ŭ    <ucr/ = u with crescent above - used in some etymologies
   221    dd      ă    <acr/ = a with crescent above - used in some etymologies
-  222    de      ˘    <cre/ = "crescent", an upward-curving crescent
+  222    de      ⌣    <cre/ = "crescent", an upward-curving crescent
                       used as a poetic meter mark (short syllable)
                       possible unicode candidates:     U+02D8 U+2323 U+23D1
                       corresponding "long" candidates: U+00AF U+2014 U+2013
@@ -488,8 +501,8 @@ entity and transliteration.  The capitalized Greek letters are represented
 by the capitalized versions of the letters shown here.
 
 -----------------------------------------
-  Greek letter    transliteration
-------------    ---------------
+ Greek letter     transliteration
+--------------    ---------------
 α   alpha           a
 β   beta            b
 γ   gamma           g

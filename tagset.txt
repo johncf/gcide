@@ -10,17 +10,9 @@ If any tag is not listed here, it is either (1) one of the "point" (font
 size) or "type" (font style) tags, which should be self-explanatory; or (2)
 is a functional field with no effect on the typography.
 
-Last modified March 12, 1999.
-     For questions, contact:
-     Patrick Cassidy           cassidy@micra.com
-     735 Belvidere Ave.
-     Plainfield, NJ 07062
-     (908) 561-3416   or (908) 668-5252
-
 A separate file, webfont.txt, contains the list of the individual
-non-ASCII characters represented by either higher-order hexadecimal
-character marks (e.g., \'94, for o-umlaut) or by entity tags (e.g.,
-<root/, for the square root symbol.)
+non-ASCII characters represented by entity tags (e.g., <root/, for the
+square root symbol.)
 
 * Introduction
 
@@ -94,8 +86,6 @@ Tag           Font         Description
 <ct>          bold         Same as <colf>, a font similar to that used in
                            collocations.  However, this tag is used in a
                            table and could be set to a different font.
-
-<h1>          *            HTML tag -- largest heading font. (not used)
 
 <h2>          *            HTML tag -- second largest heading font.
                            (used thrice)
@@ -195,26 +185,14 @@ Tag           Font         Meaning and Description
                            author, where a quotation within double quotes is
                            given in the same paragraph as the definition.
                            The double quotes are indicated by the open-quote
-                           (\'bd) and close-quote (\'b8).  In both cases, it
-                           is typically right-justified, almost always
-                           fitting on the same line with the last line of
-                           the definition or quotation.
-
-                           Within collocation segments, it is usually used
-                           only after quotations, and is not
-                           right-justified, except occasionally where it
-                           would be close to the right margin, and then
-                           apparently is is right-justified.  We have not
-                           explicitly marked those which are
-                           right-justified, but they can be recognized
-                           because they are on a line by themselves,
-                           preceded by two carriage returns.
+                           (<ldquo/) and close-quote (<rdquo/).  In both
+                           cases, it is typically right-justified, almost
+                           always fitting on the same line with the last
+                           line of the definition or quotation.
 
 <bio>         *            Marks a biography.  Should be longer than a short
                            mention of who a person was, which is typically
                            included as a definition.
-
-<biography>   *            Same as <bio> (not used)
 
 <booki>       italic       Marks the name of a book, pamphlet, or similar
                            document.
@@ -230,8 +208,6 @@ Tag           Font         Meaning and Description
 <causes>      italic       tags the infectious disease caused by the
                            headword.  Implied type of the agent is a
                            microorganism, and the tag must mark a disease.
-
-<causesp>     *            Same as <causes> without the italic type. (not used)
 
 <causedby>    italic       inverse of <causes>: tags the causative agent of
                            an infectious disease, which is the headword.
@@ -295,14 +271,10 @@ Tag           Font         Meaning and Description
                            particularly <as> (an illustrative phrase
                            starting with "as" or "thus" and containing the
                            headword (or a morphological derivative).  The
-                           <mark>, \'bd...\'b8 quotations (left and right
-                           double quotes) and <au> fields may be found
-                           within a definition field, but should and usually
-                           are located outside the definition proper.  The
-                           marking macro was inconsistent in this placement,
-                           and the exclusion of the <mark>, <au> and
-                           quotations needs to be completed by the
-                           proof-readers.
+                           <mark>, quotations (surrounded by <ldquo/ and
+                           <rdquo/) and <au> fields may be found within a
+                           definition field, but should and usually are located
+                           outside the definition proper.
 
                            Certain definitions contain <pos> fields within
                            them, where the headword is an irregular
@@ -371,13 +343,7 @@ Tag           Font         Meaning and Description
 
 <jour>        *            Title of a journal (periodical). (used once)
 
-<matrix>      *            Always a filled rectangular array. (used twice)
-
-<matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns). (not used)
-
-<mstypec>     *            Multiple synonymous subtypes. (not used)
-
-<mtable>      *            Multiple table, encloses <table> figures. (not used)
+<matrix>      *            Always a filled rectangular array. (used thrice)
 
 <musfig>      *            Music figure.  Only in a note under the entry
                            "Figure", the two numbers of each such field are
@@ -386,8 +352,11 @@ Tag           Font         Meaning and Description
                            horizontal stroke midway through each
                            numeral. Unique to this entry. (used once)
 
-<p>           *            Paragraph tag, used always in pairs.  Line breaks
-                           may be embedded inside the paragraphs.
+<p>           *            Paragraph tag. Line breaks may be embedded inside
+                           the paragraphs. The open tag may contain a
+                           'source' attribute if the source of that
+                           paragraph is different from the one indicated
+                           in 'source' attribute of the parent <entry>.
 
 <person>      *            Marks the proper name of a person.  Used only
                            occasionally, but should be used more frequently
@@ -433,8 +402,6 @@ Tag           Font         Meaning and Description
                            subdivision of a country. Includes, e.g. Canadian
                            provinces.
 
-<subtypes>    *            Lists subtypes of the headword. (not used)
-
 <sup>         *            Superscript
 
 <supr>        *            Supra.  The two parts of each such field are
@@ -442,16 +409,7 @@ Tag           Font         Meaning and Description
                            horizontal bar between (as in a fraction).  Used
                            only in one entry, for a musical notation.
 
-<table>       *            Always a filled rectangular array, having <row>
-                           and <item> elements. (not used)
-
-<td>          *            Table datum - one cell in a table. (not used)
-
-<th>          *            Table header. (not used)
-
 <tradename>   *            Tags a commercial Trade name. (used once)
-
-<ttitle>      *            Table title. (not used)
 ====================================================================
 
 * Functional Tags
@@ -512,10 +470,6 @@ Tag           Font         Meaning and Description
                            could not be replicated properly.
                            E.g.: part of a table, captions of an illust.
 
-<colp>                     Collocation, no typographic significance.  Used
-                           to mark a word combination defined in the
-                           dictionary without affect on font. (not used)
-
 <conjf>       small caps   The conjugated (non-infinitive) forms of verbs.
                            imp. & p. p. is common, as well as p. pr. &
                            vb. n.  Irregular variants of these are less
@@ -542,12 +496,12 @@ Tag           Font         Meaning and Description
                            embedded.  See also <col>, tagging explicitly
                            defined collocations.
 
-<ent>         Bold         Entry field. Gives the headword without accent or
-                           syllabication marks, and with special-character
-                           symbols converted to their nearest ASCII
-                           equivalents.  Can be used without conversion as
-                           the string that serves as the index word for that
-                           entry.
+<entry>       *            Each main entry is wrapped within these tags.
+                           The open tag must contain two attributes:
+                           'main-word', indicating one of the head-words
+                           in plain ASCII form, and 'source', indicating
+                           the default source(s) of that entry.
+                           The entry tag must contain one or more <p> tags.
 
 <er>          small caps   Entry reference.  References to headwords within
                            the "etymology" section are in small caps.  Such
@@ -609,12 +563,9 @@ Tag           Font         Meaning and Description
                            chapter "Greek transliteration" in file
                            "webfont.txt"
 
-<hw>          bold,        A headword.  Each main entry begins with the <hw>
-              larger by    mark, and ends at the next <hw> mark.  The main
-              2 points     entries are not otherwise explicitly marked as a
-                           distinctive field.  The same word may appear as a
-                           headword several times, usually as different
-                           parts of speech, but sometimes with different
+<hw>          bold,        A headword. The same word may appear as a
+              larger by    headword several times, usually as different
+              2 points     parts of speech, but sometimes with different
                            entries as the same part of speech, presumably to
                            indicate a different etymology.  Within the hw
                            field the heavy accent is represented by double
@@ -709,12 +660,11 @@ Tag           Font         Meaning and Description
                            filled in, if there are any volunteers willing to
                            do it.
 
-<q>           smaller by   Quotation.  No bracketing quotation marks, though
-              two points,  occasionally \'bd-\'b8 quotations occur within
-              centered,    these quotations.  These quotations tend to be
-              Separate     more complete sentences, rather than just
-              paragraph    phrases, such as are contained within quotation
-                           marks within the definition paragraph.
+<q>           smaller by   Centered quotation, without bracketing quotation marks.
+              two points,  These quotations tend to be more complete sentences,
+              centered,    rather than just phrases, such as are contained within
+              Separate     quotation marks within the definition paragraph.
+              paragraph
 
 <qau>         italic,      Quotation author.  Used only for the
               right        quotations marked with <q> that are centered in
@@ -736,9 +686,7 @@ Tag           Font         Meaning and Description
                            and also used for subdefinitions within
                            collocation segments, which have no numbering of
                            senses.  The letter is italic, the parentheses
-                           are not.  This tag is also used to indicate the
-                           lettered subdefinition when it is referred to at
-                           another point in the text.
+                           are not.
 
 <sdr>         italic       Subdefinition reference.
 
@@ -774,9 +722,6 @@ Tag           Font         Meaning and Description
                            segments, font is plain, but spacing is smaller
                            than normal definition spacing.  This seems
                            pointlessly complicating for an on-line display.
-
-<ver>         *            Verified for current accuracy by a technical
-                           editor, without changes. (not used)
 
 <vmorph>      *            Verb morphology (conjugation) segment, delimited
                            by square brackets.
@@ -831,14 +776,6 @@ Tag           Font         Meaning and Description
 <chform>      plain,      Chemical formula.  The letters are plain font, but
               numbers     the numbers are subscript.  This is mostly useful
               subscript   as a functional mark to pinpoint chemicals.
-
-<chformi>     plain       Chemical formula same as <chform>, but not
-                          processed specially by the tag-converter program.
-                          The letters are plain font, but the numbers are
-                          subscript.  Used in place of <chform> when the
-                          formula has a tag inside, which cannot now be
-                          processed by the <chform> processing routine.
-                          (not used)
 
 <chname>      *           Chemical name.  Used to allow a IUPAC chemical
                           name to be processed as a unit in spite of
@@ -901,8 +838,6 @@ Tag           Font         Meaning and Description
 <figcap>      *            Figure caption.
 
 <figtitle>    *            Figure title.
-
-<funct>       *            Tags a mathematical function. (not used)
 
 <chreact>     *            Chemical reaction.  Similar to chemical formulas
                            (which are contained but not explicitly marked),
