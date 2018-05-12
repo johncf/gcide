@@ -579,7 +579,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Ye" source="1913 Webster">
-<p><mhw>{<hw>Y<supr>e</supr></hw>, <hw>Ye</hw> <pr>(<th/<emac/)</pr>}</mhw>, <def>an old method of printing the article <xex>the</xex> (AS.  <ets><thorn/e</ets>), the <ldquo/y<rdquo/ being used in place of the Anglo-Saxon thorn (<thorn/). It is sometimes incorrectly pronounced <pr>y<emac/</pr>.  See <er>The</er>, and <er>Thorn</er>, <pos>n.</pos>, <snr>4</snr>.</def></p>
+<p><mhw>{<hw>Y<esup/</hw>, <hw>Ye</hw> <pr>(<th/<emac/)</pr>}</mhw>, <def>an old method of printing the article <xex>the</xex> (AS. <ets><thorn/e</ets>), the <ldquo/y<rdquo/ being used in place of the Anglo-Saxon thorn (<thorn/). It is sometimes incorrectly pronounced <pr>y<emac/</pr>.  See <er>The</er>, and <er>Thorn</er>, <pos>n.</pos>, <snr>4</snr>.</def></p>
 </entry>
 
 <entry main-word="Ye" source="1913 Webster">
@@ -2111,7 +2111,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Yt" source="1913 Webster">
-<p><mhw>{ <hw>Y<supr>t</supr></hw>, <hw>Yt</hw> <pr>(<th/<acr/t)</pr> }</mhw>, <def>An old method of printing <sig>that</sig> (AS. <xex><thorn/<ae/t</xex>, <xex><edh/<ae/t</xex>) the <ldquo/y<rdquo/ taking the place of the old letter <ldquo/thorn<rdquo/ (<thorn/).  Cf. <er>Ye</er>, the.</def></p>
+<p><mhw>{ <hw>Y<tsup/</hw>, <hw>Yt</hw> <pr>(<th/<acr/t)</pr> }</mhw>, <def>An old method of printing <sig>that</sig> (AS. <xex><thorn/<ae/t</xex>, <xex><edh/<ae/t</xex>) the <ldquo/y<rdquo/ taking the place of the old letter <ldquo/thorn<rdquo/ (<thorn/).  Cf. <er>Ye</er>, the.</def></p>
 </entry>
 
 <entry main-word="Ythrowe" source="1913 Webster">

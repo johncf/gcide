@@ -277,6 +277,9 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <bacc/                                      "       bold accent (outside <pr> <hw> etc.)
 <lacc/                                      `       light accent (outside <pr> <hw> etc.)
 <sdiv/                                      *       syllable division (outside <pr> <hw> etc.)
+<tsup/                                  ᵗ   t       superscript t (used in <hw> once)
+<esup/                                  ᵉ   e       superscript e (used in <hw> once)
+<isub/                                  ᵢ   i       subscript i (used in <hw> once)
 -----------------------------------------------------------------
 
 The table below gives some additional information about some of the more
