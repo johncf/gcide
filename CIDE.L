@@ -16200,7 +16200,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>In the <qex>literary</qex> as well as fashionable world.</q> <rj><qau>Mason.</qau></rj></p>
 
-<p><cs><col>Literary property</col>. <sd>(a)</sd> <cd>Property which consists in written or printed compositions.</cd> <sd>(b)</sd> <cd>The exclusive right of publication as recognized and limited by law.</cd></cs><--- e.g. a copyright --></p>
+<p><cs><col>Literary property</col>. <sd>(a)</sd> <cd>Property which consists in written or printed compositions.</cd> <sd>(b)</sd> <cd>The exclusive right of publication as recognized and limited by law.</cd></cs><-- e.g. a copyright --></p>
 </entry>
 
 <entry main-word="Literate" source="1913 Webster">

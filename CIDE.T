@@ -20231,7 +20231,7 @@ Shall tithe or <qex>toll</qex> in our dominions.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="Tonsillitis" source="PJC">
-<p><hw>Ton`sil*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Inflammation of the tonsils; --- same as <er>tonsilitis</er>.</def></p>
+<p><hw>Ton`sil*li"tis</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>Inflammation of the tonsils; -- same as <er>tonsilitis</er>.</def></p>
 </entry>
 
 <entry main-word="Tonsilotome" source="1913 Webster">

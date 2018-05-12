@@ -373,7 +373,7 @@ Tag           Font         Meaning and Description
 
 <matrix>      *            Always a filled rectangular array. (used twice)
 
-<matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns). (used once)
+<matrix2x5>   *            A 2x5 matrix (2 rows by 5 columns). (not used)
 
 <mstypec>     *            Multiple synonymous subtypes. (not used)
 

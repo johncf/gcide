@@ -28323,7 +28323,7 @@ Than smiles of other maidens are.</q> <rj><qau>H. Coleridge.</qau></rj></p>
 </entry>
 
 <entry main-word="Frugal" source="1913 Webster">
-<p><hw>Fru"gal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>frugalis</ets>, fr. <ets>frugi</ets>, lit., for <ets>fruit</ets>; hence, fit for food, useful, proper, temperate, the dative of <ets>frux</ets>, <ets>frugis</ets>, fruit, akin to E. <ets>fruit</ets>: cf. F. <ets>frugal</ets>. See <er>Fruit</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>Economical in the use or appropriation of resources; not wasteful or lavish; wise in the expenditure or application of force, materials, time, etc.; characterized by frugality; sparing; economical; saving; <as>as, a <ex>frugal</ex> housekeeper; <ex>frugal</ex> of time.</as></def></p>
+<p><hw>Fru"gal</hw> <pr>(fr<udd/"g<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>frugalis</ets>, fr. <ets>frugi</ets>, lit., for <ets>fruit</ets>; hence, fit for food, useful, proper, temperate, the dative of <ets>frux</ets>, <ets>frugis</ets>, fruit, akin to E. <ets>fruit</ets>: cf. F. <ets>frugal</ets>. See <er>Fruit</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>Economical in the use or appropriation of resources; not wasteful or lavish; wise in the expenditure or application of force, materials, time, etc.; characterized by frugality; sparing; economical; saving; <as>as, a <ex>frugal</ex> housekeeper; <ex>frugal</ex> of time.</as></def></p>
 
 <p><q>I oft admire<br/
 How Nature, wise and <qex>frugal</qex>, could commit<br/
@@ -28333,18 +28333,17 @@ Such disproportions.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Frugality" source="1913 Webster">
-<p><hw>Fru*gal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Frugalities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>frugalitas</ets>: cf. F. <ets>frugalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality of being frugal; prudent economy; that careful management of anything valuable which expends nothing unnecessarily, and applies what is used to a profitable purpose; thrift; -- opposed to <xex>extravagance</xex>.</def></p>
+<p><hw>Fru*gal"i*ty</hw> <pr>(fr<usdot/*g<acr/l"<icr/*t<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Frugalities</plw> <pr>(-t<icr/z)</pr>.</plu> <ety>[L. <ets>frugalitas</ets>: cf. F. <ets>frugalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality of being frugal; prudent economy; that careful management of anything valuable which expends nothing unnecessarily, and applies what is used to a profitable purpose; thrift; -- opposed to <contr>extravagance</contr>.</def></p>
 
-<p><q><qex>Frugality</qex> is founded on the principle that all riches have<br/
-limits.</q> <rj><qau>Burke.</qau></rj></p>
+<p><q><qex>Frugality</qex> is founded on the principle that all riches have limits.</q> <rj><qau>Burke.</qau></rj></p>
 
-<p source=""><sn>2.</sn> <def>A sparing use; sparingness; <as>as, frugality of praise</as>.</def></p>
+<p><sn>2.</sn> <def>A sparing use; sparingness; <as>as, frugality of praise</as>.</def></p>
 
 <p><syn><b>Syn.</b> -- Economy; parsimony. See <er>Economy</er>.</syn></p>
 </entry>
 
 <entry main-word="Frugally" source="1913 Webster">
-<p><hw>Fru"gal*ly</hw> <pr>(?)</pr>, <pos>adv.</pos> <def>Thriftily; prudently.</def></p>
+<p><hw>Fru"gal*ly</hw> <pr>(fr<udd/"g<oit/l*l<ycr/)</pr>, <pos>adv.</pos> <def>Thriftily; prudently.</def></p>
 </entry>
 
 <entry main-word="Frugalness" source="1913 Webster">

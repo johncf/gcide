@@ -27858,7 +27858,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 1333*         Nov.19, 1914        1352*          Apr.26, 1933<br/
 1334          Nov. 9, 1915        1353           Apr.16, 1934<br/
 1335          Oct.28, 1916        1354           Apr. 5, 1935<br/
------------------------------------------------------------------<br/
+--------------------------------------------------------------<br/
 * Leap year  + First year of the 45th cycle<br/
 ++ First year of the 46th cycle<br/
 </tt></pre><br/
