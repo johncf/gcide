@@ -7442,7 +7442,7 @@ Under these hard condition.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><cs><col>Villainous judgment</col> <fld>(O. E. Law)</fld>, <cd>a judgment that casts reproach on the guilty person.</cd></cs></p>
 
-<p>--- <wordforms><wf>Vil"lain*ous*ly</wf>, <pos>adv.</pos> <wf>Vil"lain*ous*ness</wf>, <pos>n.</pos></wordforms></p>
+<p>-- <wordforms><wf>Vil"lain*ous*ly</wf>, <pos>adv.</pos> <wf>Vil"lain*ous*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Villainy" source="1913 Webster">

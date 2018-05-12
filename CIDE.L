@@ -23658,7 +23658,7 @@ like chanticleer.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A double score in cribbage for the winner when his adversary has been left in the <xex>lurch</xex>.</def></p>
 
-<p><q>Lady --- has cried her eyes out on losing a <qex>lurch</qex>.</q> <rj><qau>Walpole.</qau></rj></p>
+<p><q>Lady ---- has cried her eyes out on losing a <qex>lurch</qex>.</q> <rj><qau>Walpole.</qau></rj></p>
 
 <p><cs><col>To leave one in the lurch</col>. <sd>(a)</sd> <cd>In the game of cribbage, to leave one's adversary so far behind that the game is won before he has scored thirty-one.</cd> <sd>(b)</sd> <cd>To leave one behind; hence, to abandon, or fail to stand by, a person in a difficulty.</cd> <au>Denham.</au></p>
 

@@ -22612,7 +22612,7 @@ In judging eyes, as libertines from wits.</q> <rj><qau>Young.</qau></rj></p>
 <p><hw>formalized</hw> <pos>adj.</pos> <sn>1.</sn>  <def>concerned with or characterized by rigorous adherence to recognized forms, especially in religion or art; using formalism; <as>as, highly <ex>formalized</ex> plays like "Waiting for Godot"</as>.</def><br/
 <syn><b>Syn. --</b> formalistic.</syn></p>
 
-<p><sn>2.</sn> <def>given formal standing or endorsement; made official or legitimate by the observance of proper procedures.</def> <hascons>official (vs. unofficial) --- (having official authority or sanction: "official permission"; "an official representative")</hascons></p>
+<p><sn>2.</sn> <def>given formal standing or endorsement; made official or legitimate by the observance of proper procedures.</def> <hascons>official (vs. unofficial) -- (having official authority or sanction: "official permission"; "an official representative")</hascons></p>
 </entry>
 
 <entry main-word="Formally" source="1913 Webster">
@@ -28333,7 +28333,7 @@ Such disproportions.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Frugality" source="1913 Webster">
-<p><hw>Fru*gal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Frugalities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>frugalitas</ets>: cf. F. <ets>frugalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality of being frugal; prudent economy; that careful management of anything valuable which expends nothing unnecessarily, and applies what is used to a profitable purpose; thrift; --- opposed to <xex>extravagance</xex>.</def></p>
+<p><hw>Fru*gal"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Frugalities</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>frugalitas</ets>: cf. F. <ets>frugalit<eacute/</ets>.]</ety> <sn>1.</sn> <def>The quality of being frugal; prudent economy; that careful management of anything valuable which expends nothing unnecessarily, and applies what is used to a profitable purpose; thrift; -- opposed to <xex>extravagance</xex>.</def></p>
 
 <p><q><qex>Frugality</qex> is founded on the principle that all riches have<br/
 limits.</q> <rj><qau>Burke.</qau></rj></p>

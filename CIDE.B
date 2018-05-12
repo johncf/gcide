@@ -2386,7 +2386,7 @@ To make his <qex>balance</qex> true.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="balanced" source="WordNet 1.5">
-<p><hw>bal"anced</hw> <pos>adj.</pos> <def>being in a state of proper balance or equilibrium; -- opposite of <ant>unbalanced</ant>.</def> <illu>the carefully <ex>balanced</ex> seesaw</illu> <illu>a properly <ex>balanced</ex> symphony orchestra</illu> <illu>a <ex>balanced</ex> assessment of intellectual and cultural history</illu> <illu>a <ex>balanced</ex> blend of whiskeys</illu> <illu>the educated man shows a <ex>balanced</ex> development of all his powers</illu> [Narrower terms: <stype>counterbalanced, counter-balanced, counterpoised</stype>; <stype>well-balanced</stype>; <stype>poised</stype>] [Related terms: <hascons>stable --- (maintaining equilibrium)</hascons>]</p>
+<p><hw>bal"anced</hw> <pos>adj.</pos> <def>being in a state of proper balance or equilibrium; -- opposite of <ant>unbalanced</ant>.</def> <illu>the carefully <ex>balanced</ex> seesaw</illu> <illu>a properly <ex>balanced</ex> symphony orchestra</illu> <illu>a <ex>balanced</ex> assessment of intellectual and cultural history</illu> <illu>a <ex>balanced</ex> blend of whiskeys</illu> <illu>the educated man shows a <ex>balanced</ex> development of all his powers</illu> [Narrower terms: <stype>counterbalanced, counter-balanced, counterpoised</stype>; <stype>well-balanced</stype>; <stype>poised</stype>] [Related terms: <hascons>stable -- (maintaining equilibrium)</hascons>]</p>
 </entry>
 
 <entry main-word="Balancement" source="1913 Webster">
@@ -6807,7 +6807,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="bastardized" source="WordNet 1.5">
-<p><hw>bastardized</hw> <pos>adj.</pos> <fld>(Arts)</fld> <def>deriving from more than one source or style.</def> <hascons>impure (vs. pure) --- (combined with extraneous elements)</hascons></p>
+<p><hw>bastardized</hw> <pos>adj.</pos> <fld>(Arts)</fld> <def>deriving from more than one source or style.</def> <hascons>impure (vs. pure) -- (combined with extraneous elements)</hascons></p>
 </entry>
 
 <entry main-word="Bastardly" source="1913 Webster">

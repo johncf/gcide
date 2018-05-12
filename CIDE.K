@@ -4335,7 +4335,7 @@ Of hopes laid waste, <qex>knells</qex> in that word, <ldquo/alone<rdquo/.</q> <r
 </entry>
 
 <entry main-word="Knight" source="1913 Webster">
-<p><hw>Knight</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knighted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Knighting</conjf>.]</vmorph> <def>To dub or create (one) a knight; -- done in England by the sovereign only, who taps the kneeling candidate with a sword, saying: Rise, Sir ---.</def></p>
+<p><hw>Knight</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Knighted</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Knighting</conjf>.]</vmorph> <def>To dub or create (one) a knight; -- done in England by the sovereign only, who taps the kneeling candidate with a sword, saying: Rise, Sir ----.</def></p>
 
 <p><q>A soldier, by the honor-giving hand<br/
 Of C<oe/ur-de-Lion <qex>knighted</qex> in the field.</q> <rj><qau>Shak.</qau></rj></p>

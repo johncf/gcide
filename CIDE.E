@@ -6628,7 +6628,7 @@ The dark Earth follows wheeled in her <qex>ellipse</qex>.</q> <rj><qau>Tennyson.
 
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>An ellipse.</def> <mark>[Obs.]</mark></p>
 
-<p source="PJC"><sn>3.</sn> <fld>(Printing)</fld> <def>a printing symbol, usually three periods in a row (. . .), indicating the omission of some part of a text; -- used commonly in quotations, so as to suppress words not essential to the meaning.  A long dash (---) and three asterisks (* * *) are sometimes used with the same meaning.</def></p>
+<p source="PJC"><sn>3.</sn> <fld>(Printing)</fld> <def>a printing symbol, usually three periods in a row (. . .), indicating the omission of some part of a text; -- used commonly in quotations, so as to suppress words not essential to the meaning.  A long dash (<emdash/) and three asterisks (* * *) are sometimes used with the same meaning.</def></p>
 </entry>
 
 <entry main-word="Ellipsograph" source="1913 Webster">

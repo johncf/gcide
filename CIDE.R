@@ -8458,7 +8458,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 
 <p><q>Let the music of them be <qex>recreative</qex>.</q> <rj><qau>Bacon.</qau></rj></p>
 
-<p>--- <wordforms><wf>Rec"re*a`tive*ly</wf>, <pos>adv.</pos> -- <wf>Rec"re*a`tive*ness</wf>, <pos>n.</pos></wordforms></p>
+<p>-- <wordforms><wf>Rec"re*a`tive*ly</wf>, <pos>adv.</pos> -- <wf>Rec"re*a`tive*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Recrement" source="1913 Webster">
@@ -20777,7 +20777,7 @@ Unalterably firm his love entire.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Retchless" source="1913 Webster">
 <p><hw>Retch"less</hw>, <pos>a.</pos> <def>Careless; reckless.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj></p>
 
-<p>--- <wordforms><wf>Retch"less*ly</wf>, <pos>adv.</pos> -- <wf>Retch"less*ness</wf>, <pos>n.</pos> <mark>[Obs.]</mark></wordforms></p>
+<p>-- <wordforms><wf>Retch"less*ly</wf>, <pos>adv.</pos> -- <wf>Retch"less*ness</wf>, <pos>n.</pos> <mark>[Obs.]</mark></wordforms></p>
 </entry>
 
 <entry main-word="Rete" source="1913 Webster">
@@ -24998,7 +24998,7 @@ Yet touched and shamed by <qex>ridicule</qex> alone.</q> <rj><qau>Pope.</qau></r
 
 <p><syn><b>Syn.</b> -- Ludicrous; laughable; risible; droll; comical; absurd; preposterous. See <er>Ludicrous</er>.</syn></p>
 
-<p>--- <wordforms><wf>Ri*dic"u*lous*ly</wf>, <pos>adv.</pos> -- <wf>Ri*dic"u*lous*ness</wf>, <pos>n.</pos></wordforms></p>
+<p>-- <wordforms><wf>Ri*dic"u*lous*ly</wf>, <pos>adv.</pos> -- <wf>Ri*dic"u*lous*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Riding" source="1913 Webster">
@@ -28508,7 +28508,7 @@ Is hauled about in gallantry robust.</q> <rj><qau>Thomson.</qau></rj></p>
 <entry main-word="Rompish" source="1913 Webster">
 <p><hw>Romp"ish</hw>, <pos>a.</pos> <def>Given to rude play; inclined to romp; frolicsome.</def></p>
 
-<p>--- <wordforms><wf>Romp"ish</wf>, <pos>adv.</pos> -- <wf>Romp"ish*ness</wf>, <pos>n.</pos></wordforms></p>
+<p>-- <wordforms><wf>Romp"ish</wf>, <pos>adv.</pos> -- <wf>Romp"ish*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Rompu" source="1913 Webster">
