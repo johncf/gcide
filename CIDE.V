@@ -2993,7 +2993,7 @@ With other promises and other <qex>vaunts</qex>.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Veda" source="1913 Webster">
-<p><hw>Ve"da</hw> <pr>(v<amac/"d<adot/<or/ v<emac/"d<adot/; 277)</pr>, <pos>n.</pos> <ety>[Skr. <ets>v<emac/da</ets>, properly, knowledge, from <ets>vid</ets> to know. See <er>Wit</er>.]</ety> <def>The ancient sacred literature of the Hindus; also, one of the four collections, called <stype>Rig-Veda</stype>, <stype>Yajur-Veda</stype>, <stype>Sama-Veda</stype>, and <stype>Atharva-Veda</stype>, constituting the most ancient portions of that literature.</def></p>
+<p><hw>Ve"da</hw> <pr>(v<amac/"d<adot/ <or/ v<emac/"d<adot/; 277)</pr>, <pos>n.</pos> <ety>[Skr. <ets>v<emac/da</ets>, properly, knowledge, from <ets>vid</ets> to know. See <er>Wit</er>.]</ety> <def>The ancient sacred literature of the Hindus; also, one of the four collections, called <stype>Rig-Veda</stype>, <stype>Yajur-Veda</stype>, <stype>Sama-Veda</stype>, and <stype>Atharva-Veda</stype>, constituting the most ancient portions of that literature.</def></p>
 
 <p><note><hand/ The language of the Vedas is usually called <col>Vedic Sanskrit</col>, as distinguished from the later and more settled form called <col>classical Sanskrit</col>.</note></p>
 </entry>
