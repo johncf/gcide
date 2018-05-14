@@ -1098,6 +1098,7 @@ well as separator entities such as <or/ or <and/):
 - <col><oneof>King's, <or/ Queen's</oneof> counsel</col>
 - <col><oneof>Analytical <or/ co<oum/rdinate</oneof> geometry</col>
 - <ecol>Constantinian <oneof>symbol, <or/ monogram</oneof></ecol>
+- <col>Face of a <oneof>watch, clock, compass, card</oneof></col> etc.
 
 Note: The first two examples would be *incorrect* to be written as:
 
