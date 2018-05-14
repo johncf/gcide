@@ -658,7 +658,7 @@
 
 <p><note><hand/ The common mackerel (<spn>Scomber scombrus</spn>), which inhabits both sides of the North Atlantic, is one of the most important food fishes.  It is mottled with green and blue.  The Spanish mackerel (<spn>Scomberomorus maculatus</spn>), of the American coast, is covered with bright yellow circular spots.</note></p>
 
-<p><cs><mcol><col>Bull mackerel</col>, <col>Chub mackerel</col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Chub</er>.</cd> -- <col>Frigate mackerel</col>. <cd>See under <er>Frigate</er>.</cd> -- <col>Horse mackerel</col> . <cd>See under <er>Horse</er>.</cd> -- <col>Mackerel bird</col> <fld>(Zool.)</fld>, <cd>the wryneck; -- so called because it arrives in England at the time when mackerel are in season.</cd> -- <col>Mackerel cock</col> <fld>(Zool.)</fld>, <cd>the Manx shearwater; -- so called because it precedes the appearance of the mackerel on the east coast of Ireland.</cd> -- <col>Mackerel guide</col>. <fld>(Zool.)</fld> <cd>See <er>Garfish</er> <sdr>(a)</sdr>.</cd> -- <col>Mackerel gull</col> <fld>(Zool.)</fld> <cd>any one of several species of gull which feed upon or follow mackerel, as the kittiwake.</cd> -- <col>Mackerel midge</col> <fld>(Zool.)</fld>, <cd>a very small oceanic gadoid fish of the North Atlantic.  It is about an inch and a half long and has four barbels on the upper jaw.  It is now considered the young of the genus <gen>Onos</gen>, or <gen>Motella</gen>.</cd> -- <col>Mackerel plow</col>, <cd>an instrument for creasing the sides of lean mackerel to improve their appearance.</cd> <au>Knight.</au> -- <col>Mackerel shark</col> <fld>(Zool.)</fld>, <cd>the porbeagle.</cd> -- <mcol><col>Mackerel sky</col>, <it>or</it> <col>Mackerel-back sky</col></mcol>, <cd>a sky flecked with small white clouds; a cirro-cumulus. See <er>Cloud</er>.</cd></cs></p>
+<p><cs><mcol><col>Bull mackerel</col>, <col>Chub mackerel</col></mcol>. <fld>(Zool.)</fld> <cd>See under <er>Chub</er>.</cd> -- <col>Frigate mackerel</col>. <cd>See under <er>Frigate</er>.</cd> -- <col>Horse mackerel</col> . <cd>See under <er>Horse</er>.</cd> -- <col>Mackerel bird</col> <fld>(Zool.)</fld>, <cd>the wryneck; -- so called because it arrives in England at the time when mackerel are in season.</cd> -- <col>Mackerel cock</col> <fld>(Zool.)</fld>, <cd>the Manx shearwater; -- so called because it precedes the appearance of the mackerel on the east coast of Ireland.</cd> -- <col>Mackerel guide</col>. <fld>(Zool.)</fld> <cd>See <er>Garfish</er> <sdr>(a)</sdr>.</cd> -- <col>Mackerel gull</col> <fld>(Zool.)</fld> <cd>any one of several species of gull which feed upon or follow mackerel, as the kittiwake.</cd> -- <col>Mackerel midge</col> <fld>(Zool.)</fld>, <cd>a very small oceanic gadoid fish of the North Atlantic.  It is about an inch and a half long and has four barbels on the upper jaw.  It is now considered the young of the genus <gen>Onos</gen>, or <gen>Motella</gen>.</cd> -- <col>Mackerel plow</col>, <cd>an instrument for creasing the sides of lean mackerel to improve their appearance.</cd> <au>Knight.</au> -- <col>Mackerel shark</col> <fld>(Zool.)</fld>, <cd>the porbeagle.</cd> -- <mcol><col>Mackerel sky</col>, <or/ <col>Mackerel-back sky</col></mcol>, <cd>a sky flecked with small white clouds; a cirro-cumulus. See <er>Cloud</er>.</cd></cs></p>
 
 <p><q><qex>Mackerel sky</qex> and mare's-tails<br/
 Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj></p>
@@ -1797,7 +1797,7 @@ Of brazen chariots raged.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p source="PJC"><sn>2.</sn> <def>The art of creating illusions which appear to the observer to be inexplicable except by some supernatural influence; it includes simple sleight of hand (legerdemain) as well as more elaborate stage magic, using special devices constructed to produce mystifying effects; <as>as, the <ex>magic</ex> of <person>David Copperfield</person></as>.  It is practised as an entertainment, by magicians who do not pretend to have supernatural powers.</def></p>
 
-<p><cs><col>Celestial magic</col>, <cd>a supposed supernatural power which gave to spirits a kind of dominion over the planets, and to the planets an influence over men.</cd> -- <col>Natural magic</col>, <cd>the art of employing the powers of nature to produce effects apparently supernatural.</cd> -- <mcol><col>Superstitious magic</col>, <it>or</it> <col>Geotic magic</col></mcol>, <cd>the invocation of devils or demons, involving the supposition of some tacit or express agreement between them and human beings.</cd></cs></p>
+<p><cs><col>Celestial magic</col>, <cd>a supposed supernatural power which gave to spirits a kind of dominion over the planets, and to the planets an influence over men.</cd> -- <col>Natural magic</col>, <cd>the art of employing the powers of nature to produce effects apparently supernatural.</cd> -- <mcol><col>Superstitious magic</col>, <or/ <col>Geotic magic</col></mcol>, <cd>the invocation of devils or demons, involving the supposition of some tacit or express agreement between them and human beings.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Sorcery; witchcraft; necromancy; conjuration; enchantment.</syn></p>
 </entry>
@@ -2060,7 +2060,7 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p source="1913 Webster;;PJC"><sn>5.</sn> <def>Having, susceptible to, or induced by, animal magnetism, so called; hypnotic; <as>as, a <ex>magnetic</ex> sleep</as>. See <er>Magnetism</er>.</def> <mark>[Archaic]</mark> </p>
 
-<p source="1913 Webster;;PJC"><cs><mcol><col>Magnetic amplitude</col>, <col>attraction</col>, <col>dip</col>, <col>induction</col></mcol>, <cd>etc. See under <er>Amplitude</er>, <er>Attraction</er>, etc.</cd> -- <col>Magnetic battery</col>, <cd>a combination of bar or horseshoe magnets with the like poles adjacent, so as to act together with great power.</cd> -- <col>Magnetic compensator</col>, <cd>a contrivance connected with a ship's compass for compensating or neutralizing the effect of the iron of the ship upon the needle.</cd> -- <col>Magnetic curves</col>, <cd>curves indicating lines of magnetic force, as in the arrangement of iron filings between the poles of a powerful magnet.</cd> -- <col>Magnetic elements</col>. <sd>(a)</sd> <fld>(Chem. Physics)</fld> <cd>Those elements, as iron, nickel, cobalt, chromium, manganese, etc., which are capable or becoming magnetic.</cd> <sd>(b)</sd> <fld>(Physics)</fld> <cd>In respect to terrestrial magnetism, the declination, inclination, and intensity</cd>. <sd>(c)</sd> <cd>See under <er>Element</er>.</cd>  -- <col>Magnetic fluid</col>, <cd>the hypothetical fluid whose existence was formerly assumed in the explanations of the phenomena of magnetism; -- no longer considered a meaningful concept.</cd> -- <mcol><col>Magnetic iron</col>, <it>or</it> <col>Magnetic iron ore</col></mcol>. <fld>(Min.)</fld> <cd>Same as <er>Magnetite</er>.</cd> -- <col>Magnetic needle</col>, <cd>a slender bar of steel, magnetized and suspended at its center on a sharp-pointed pivot, or by a delicate fiber, so that it may take freely the direction of the magnetic meridian.  It constitutes the essential part of a compass, such as the mariner's and the surveyor's.</cd> -- <col>Magnetic poles</col>, <cd>the two points in the opposite polar regions of the earth at which the direction of the dipping needle is vertical.</cd> -- <col>Magnetic pyrites</col>. <cd>See <er>Pyrrhotite</er>.</cd> -- <col>Magnetic storm</col> <fld>(Terrestrial Physics)</fld>, <cd>a disturbance of the earth's magnetic force characterized by great and sudden changes.</cd> -- <col>magnetic tape</col> <fld>(Electronics)</fld>, <cd>a ribbon of plastic material to which is affixed a thin layer of powder of a material which can be magnetized, such as ferrite.  Such tapes are used in various electronic devices to record fluctuating voltages, which can be used to represent sounds, images, or binary data.  Devices such as audio casette recorders, videocasette recorders, and computer data storage devices use <ex>magnetic tape</ex> as an inexpensive medium to store data.  Different magnetically susceptible materials are used in such tapes.</cd> -- <col>Magnetic telegraph</col>, <cd>a telegraph acting by means of a magnet. See <er>Telegraph</er>.</cd></cs></p>
+<p source="1913 Webster;;PJC"><cs><mcol><col>Magnetic amplitude</col>, <col>attraction</col>, <col>dip</col>, <col>induction</col></mcol>, <cd>etc. See under <er>Amplitude</er>, <er>Attraction</er>, etc.</cd> -- <col>Magnetic battery</col>, <cd>a combination of bar or horseshoe magnets with the like poles adjacent, so as to act together with great power.</cd> -- <col>Magnetic compensator</col>, <cd>a contrivance connected with a ship's compass for compensating or neutralizing the effect of the iron of the ship upon the needle.</cd> -- <col>Magnetic curves</col>, <cd>curves indicating lines of magnetic force, as in the arrangement of iron filings between the poles of a powerful magnet.</cd> -- <col>Magnetic elements</col>. <sd>(a)</sd> <fld>(Chem. Physics)</fld> <cd>Those elements, as iron, nickel, cobalt, chromium, manganese, etc., which are capable or becoming magnetic.</cd> <sd>(b)</sd> <fld>(Physics)</fld> <cd>In respect to terrestrial magnetism, the declination, inclination, and intensity</cd>. <sd>(c)</sd> <cd>See under <er>Element</er>.</cd>  -- <col>Magnetic fluid</col>, <cd>the hypothetical fluid whose existence was formerly assumed in the explanations of the phenomena of magnetism; -- no longer considered a meaningful concept.</cd> -- <mcol><col>Magnetic iron</col>, <or/ <col>Magnetic iron ore</col></mcol>. <fld>(Min.)</fld> <cd>Same as <er>Magnetite</er>.</cd> -- <col>Magnetic needle</col>, <cd>a slender bar of steel, magnetized and suspended at its center on a sharp-pointed pivot, or by a delicate fiber, so that it may take freely the direction of the magnetic meridian.  It constitutes the essential part of a compass, such as the mariner's and the surveyor's.</cd> -- <col>Magnetic poles</col>, <cd>the two points in the opposite polar regions of the earth at which the direction of the dipping needle is vertical.</cd> -- <col>Magnetic pyrites</col>. <cd>See <er>Pyrrhotite</er>.</cd> -- <col>Magnetic storm</col> <fld>(Terrestrial Physics)</fld>, <cd>a disturbance of the earth's magnetic force characterized by great and sudden changes.</cd> -- <col>magnetic tape</col> <fld>(Electronics)</fld>, <cd>a ribbon of plastic material to which is affixed a thin layer of powder of a material which can be magnetized, such as ferrite.  Such tapes are used in various electronic devices to record fluctuating voltages, which can be used to represent sounds, images, or binary data.  Devices such as audio casette recorders, videocasette recorders, and computer data storage devices use <ex>magnetic tape</ex> as an inexpensive medium to store data.  Different magnetically susceptible materials are used in such tapes.</cd> -- <col>Magnetic telegraph</col>, <cd>a telegraph acting by means of a magnet. See <er>Telegraph</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Magnetic" source="1913 Webster">
@@ -3228,7 +3228,7 @@ With huge force, and with importable <qex>main</qex>.</q> <rj><qau>Spenser.</qau
 
 <p><sn>3.</sn> Specifically: <sd>(a)</sd> <def>The great sea, as distinguished from an arm, bay, etc. ; the high sea; the ocean.</def> <ldquo/Struggling in the <xex>main</xex>.<rdquo/ <au>Dryden.</au> <sd>(b)</sd> <def>The continent, as distinguished from an island; the mainland.</def> <ldquo/Invaded the <xex>main</xex> of Spain.<rdquo/ <au>Bacon.</au> <sd>(c)</sd> <def>principal duct or pipe, as distinguished from lesser ones; esp. <fld>(Engin.)</fld>, a principal pipe leading to or from a reservoir; <as>as, a fire <ex>main</ex></as>.</def></p>
 
-<p><cs><col>Forcing main</col>, <cd>the delivery pipe of a pump.</cd> -- <mcol><col>For the main</col>, <it>or</it> <col>In the main</col></mcol>, <cd>for the most part; in the greatest part.</cd> -- <mcol><col>With might and main</col>, <it>or</it> <col>With all one's might and main</col></mcol>, <cd>with all one's strength; with violent effort.</cd></cs></p>
+<p><cs><col>Forcing main</col>, <cd>the delivery pipe of a pump.</cd> -- <mcol><col>For the main</col>, <or/ <col>In the main</col></mcol>, <cd>for the most part; in the greatest part.</cd> -- <mcol><col>With might and main</col>, <or/ <col>With all one's might and main</col></mcol>, <cd>with all one's strength; with violent effort.</cd></cs></p>
 
 <p><q><qex>With might and main</qex> they chased the murderous fox.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
@@ -3710,7 +3710,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 
 <p><sn>4.</sn> <def>The amount or number by which one aggregate exceeds all other aggregates with which it is contrasted; especially, the number by which the votes for a successful candidate exceed those for all other candidates; <as>as, he is elected by a <ex>majority</ex> of five hundred votes</as>. See <er>Plurality</er>.</def></p>
 
-<p><cs><mcol><col>To go over to the majority</col> <it>or</it> <col>To join the majority</col></mcol>, <cd>to die.</cd></cs></p>
+<p><cs><mcol><col>To go over to the majority</col> <or/ <col>To join the majority</col></mcol>, <cd>to die.</cd></cs></p>
 </entry>
 
 <entry main-word="majority leader" source="WordNet 1.5">
@@ -3874,7 +3874,7 @@ To excel the natural with <qex>made</qex> delights.</q> <rj><qau>Spenser.</qau><
 
 <p><q>He was all <qex>made up</qex> of love and charms!</q> <rj><qau>Addison.</qau></rj></p>
 
-<p><sd>(e)</sd> <cd>To compensate; to make good; <as>as, <ex>to make up</ex> a loss</as>.</cd> <sd>(f)</sd> <cd>To adjust, or to arrange for settlement; <as>as, <ex>to make up</ex> accounts</as></cd>. <sd>(g)</sd> <cd>To dress and paint for a part, as an actor; <as>as, he was well <ex>made up</ex></as>.</cd> -- <col>To make up a face</col>, <cd>to distort the face as an expression of pain or derision.</cd> -- <col>To make up one's mind</col>, <cd>to reach a mental determination; to resolve.</cd> -- <mcol><col>To make way</col>, <it>or</it>  <col>To make one's way</col></mcol>. <sd>(a)</sd> <cd>To make progress; to advance.</cd> <sd>(b)</sd> <cd>To open a passage; to clear the way</cd>. -- <col>To make words</col>, <cd>to multiply words.</cd></cs></p>
+<p><sd>(e)</sd> <cd>To compensate; to make good; <as>as, <ex>to make up</ex> a loss</as>.</cd> <sd>(f)</sd> <cd>To adjust, or to arrange for settlement; <as>as, <ex>to make up</ex> accounts</as></cd>. <sd>(g)</sd> <cd>To dress and paint for a part, as an actor; <as>as, he was well <ex>made up</ex></as>.</cd> -- <col>To make up a face</col>, <cd>to distort the face as an expression of pain or derision.</cd> -- <col>To make up one's mind</col>, <cd>to reach a mental determination; to resolve.</cd> -- <mcol><col>To make way</col>, <or/  <col>To make one's way</col></mcol>. <sd>(a)</sd> <cd>To make progress; to advance.</cd> <sd>(b)</sd> <cd>To open a passage; to clear the way</cd>. -- <col>To make words</col>, <cd>to multiply words.</cd></cs></p>
 </entry>
 
 <entry main-word="Make" source="1913 Webster">
@@ -3899,7 +3899,7 @@ Do <qex>make</qex> against it.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>To solace him some time, as I do when I <qex>make</qex>.</q> <rj><qau>P. Plowman.</qau></rj></p>
 
-<p><cs><mcol><col>To make as if</col>, <it>or</it> <col>To make as though</col></mcol>, <cd>to pretend that; to make show that; to make believe (see under <er>Make</er>, <pos>v. t.</pos>).</cd></p>
+<p><cs><mcol><col>To make as if</col>, <or/ <col>To make as though</col></mcol>, <cd>to pretend that; to make show that; to make believe (see under <er>Make</er>, <pos>v. t.</pos>).</cd></p>
 
 <p><q>Joshua and all Israel <qex>made as if</qex> they were beaten before them, and fled.</q> <rj><qau>Josh. viii. 15.</qau></rj></p>
 
@@ -4474,7 +4474,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Male-" source="1913 Webster">
-<p><hw>Male-</hw> <pr>(m<acr/l- <it>or</it>  m<acr/l<esl/-)</pr>. <def>See <er>Mal-</er>.</def></p>
+<p><hw>Male-</hw> <pr>(m<acr/l- <or/  m<acr/l<esl/-)</pr>. <def>See <er>Mal-</er>.</def></p>
 </entry>
 
 <entry main-word="Male" source="1913 Webster">
@@ -4757,7 +4757,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>2.</sn> <fld>(Law)</fld> <def>Any wicked or mischievous intention of the mind; a depraved inclination to mischief; an intention to vex, annoy, or injure another person, or to do a wrongful act without just cause or cause or excuse; a wanton disregard of the rights or safety of others; willfulness.</def></p>
 
-<p><cs><mcol><col>Malice aforethought</col> <it>or</it> <col>Malice prepense</col></mcol>, <cd>malice previously and deliberately entertained.</cd></cs></p>
+<p><cs><mcol><col>Malice aforethought</col> <or/ <col>Malice prepense</col></mcol>, <cd>malice previously and deliberately entertained.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Spite; ill will; malevolence; grudge; pique; bitterness; animosity; malignity; maliciousness; rancor; virulence.</syn> <usage> See <er>Spite</er>. -- <er>Malevolence</er>, <er>Malignity</er>, <er>Malignancy</er>. <xex>Malice</xex> is a stronger word than <xex>malevolence</xex>, which may imply only a desire that evil may befall another, while <xex>malice</xex> desires, and perhaps intends, to bring it about. <xex>Malignity</xex> is intense and deepseated <xex>malice</xex>. It implies a natural delight in hating and wronging others. One who is <xex>malignant</xex> must be both <xex>malevolent</xex> and <xex>malicious</xex>; but a man may be <xex>malicious</xex> without being <xex>malignant</xex>.</usage></p>
 
@@ -4786,7 +4786,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Law)</fld> <def>With wicked or mischievous intentions or motives; wrongful and done intentionally without just cause or excuse; <as>as, a <ex>malicious</ex> act</as>.</def></p>
 
-<p><cs><col>Malicious abandonment</col>, <cd>the desertion of a wife or husband without just cause.</cd> <au>Burrill.</au> -- <mcol><col>Malicious prosecution</col> <it>or</it> <col>Malicious arrest</col></mcol> <fld>(Law)</fld>, <cd>a wanton prosecution or arrest, by regular process in a civil or criminal proceeding, without probable cause.</cd> <au>Bouvier.</au></cs></p>
+<p><cs><col>Malicious abandonment</col>, <cd>the desertion of a wife or husband without just cause.</cd> <au>Burrill.</au> -- <mcol><col>Malicious prosecution</col> <or/ <col>Malicious arrest</col></mcol> <fld>(Law)</fld>, <cd>a wanton prosecution or arrest, by regular process in a civil or criminal proceeding, without probable cause.</cd> <au>Bouvier.</au></cs></p>
 
 <p><syn><b>Syn.</b> -- Ill-disposed; evil-minded; mischievous; envious; malevolent; invidious; spiteful; bitter; malignant; rancorous; malign.</syn></p>
 
@@ -5181,7 +5181,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Malpighian" source="1913 Webster">
 <p><hw>Mal*pi"ghi*an</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of, pertaining to, or discovered by, <person>Marcello <etsep>Malpighi</etsep></person>, an Italian anatomist of the 17th century.</def></p>
 
-<p><cs><mcol><col>Malpighian capsules</col> <it>or</it> <col>Malpighian corpuscles</col></mcol> <fld>(Anatomy)</fld>, <cd>the globular dilatations, containing the glomeruli or Malpighian tufts, at the extremities of the urinary tubules of the kidney.</cd> -- <col>Malpighian corpuscles of the spleen</col>, <cd>masses of adenoid tissue connected with branches of the splenic artery.</cd></cs></p>
+<p><cs><mcol><col>Malpighian capsules</col> <or/ <col>Malpighian corpuscles</col></mcol> <fld>(Anatomy)</fld>, <cd>the globular dilatations, containing the glomeruli or Malpighian tufts, at the extremities of the urinary tubules of the kidney.</cd> -- <col>Malpighian corpuscles of the spleen</col>, <cd>masses of adenoid tissue connected with branches of the splenic artery.</cd></cs></p>
 </entry>
 
 <entry main-word="malpighian body" source="WordNet 1.5">
@@ -5217,7 +5217,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Malt" source="1913 Webster">
 <p><hw>Malt</hw>, <pos>a.</pos> <def>Relating to, containing, or made with, malt.</def></p>
 
-<p><cs><col>Malt liquor</col>, <cd>an alcoholic liquor, as beer, ale, porter, etc., prepared by fermenting an infusion of malt.</cd> -- <col>Malt dust</col>, <cd>fine particles of malt, or of the grain used in making malt; -- used as a fertilizer.</cd> <ldquo/ <xex>Malt dust</xex> consists chiefly of the infant radicle separated from the grain.<rdquo/ <au>Sir H. Davy.</au> -- <col>Malt floor</col>, <cd>a floor for drying malt.</cd> -- <mcol><col>Malt house</col>, <it>or</it> <col>Malthouse</col></mcol>, <cd>a house in which malt is made.</cd> -- <col>Malt kiln</col>, <cd>a heated chamber for drying malt.</cd></cs></p>
+<p><cs><col>Malt liquor</col>, <cd>an alcoholic liquor, as beer, ale, porter, etc., prepared by fermenting an infusion of malt.</cd> -- <col>Malt dust</col>, <cd>fine particles of malt, or of the grain used in making malt; -- used as a fertilizer.</cd> <ldquo/ <xex>Malt dust</xex> consists chiefly of the infant radicle separated from the grain.<rdquo/ <au>Sir H. Davy.</au> -- <col>Malt floor</col>, <cd>a floor for drying malt.</cd> -- <mcol><col>Malt house</col>, <or/ <col>Malthouse</col></mcol>, <cd>a house in which malt is made.</cd> -- <col>Malt kiln</col>, <cd>a heated chamber for drying malt.</cd></cs></p>
 </entry>
 
 <entry main-word="Malt" source="1913 Webster">
@@ -6356,7 +6356,7 @@ That living mortals, hearing them, run mad.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source="1913 Webster"><note><hand/ An alloy of manganese with iron (called <xex>ferromanganese</xex>) is used to increase the density and hardness of steel.</note></p>
 
-<p source="1913 Webster"><cs><mcol><col>Black oxide of manganese</col>, <col>Manganese dioxide</col> <it>or</it> <col>Manganese peroxide</col>, <it>or</it> <col>Black manganese</col></mcol> <fld>(Chem.)</fld>, <cd>a heavy black powder <chform>MnO2</chform>, occurring native as the mineral pyrolusite, and valuable as a strong oxidizer; -- called also familiarly <altname>manganese</altname>. It colors glass violet, and is used as a decolorizer to remove the green tint of impure glass.</cd></cs></p>
+<p source="1913 Webster"><cs><mcol><col>Black oxide of manganese</col>, <col>Manganese dioxide</col> <or/ <col>Manganese peroxide</col>, <or/ <col>Black manganese</col></mcol> <fld>(Chem.)</fld>, <cd>a heavy black powder <chform>MnO2</chform>, occurring native as the mineral pyrolusite, and valuable as a strong oxidizer; -- called also familiarly <altname>manganese</altname>. It colors glass violet, and is used as a decolorizer to remove the green tint of impure glass.</cd></cs></p>
 </entry>
 
 <entry main-word="manganese bronze" source="WordNet 1.5">
@@ -6848,7 +6848,7 @@ His voice, his figure, and his gesture knew.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p source="PJC"><sn>2.</sn> <def><cref>Manila paper</cref> or the color of <cref>manila paper</cref>.</def></p>
 
-<p><cs><mcol><col>Manila cheroot</col> <it>or</it> <col>Manila cigar</col></mcol>, <cd>a cheroot or cigar made of tobacco grown in the Philippine Islands.</cd></cs></p>
+<p><cs><mcol><col>Manila cheroot</col> <or/ <col>Manila cigar</col></mcol>, <cd>a cheroot or cigar made of tobacco grown in the Philippine Islands.</cd></cs></p>
 </entry>
 
 <entry main-word="manila bay" source="WordNet 1.5">
@@ -7154,7 +7154,7 @@ What <qex>manner</qex> of man art thou?</q> <rj><qau>Coleridge.</qau></rj></p>
 
 <p><note><hand/ In old usage, <ptcl>of</ptcl> was often omitted after <xex>manner</xex>, when employed in this sense. <ldquo/A <xex>manner</xex> Latin corrupt was her speech.<rdquo/</note>  <rj><au>Chaucer.</au></rj></p>
 
-<p><cs><col>By any manner of means</col>, <cd>in any way possible; by any sort of means.</cd> -- <mcol><col>To be taken in the manner</col> <it>or</it> <col>To be taken with the manner</col></mcol>. <ety>[A corruption of <ets>to be taken in the mainor</ets>. See <er>Mainor</er>.]</ety> <cd>To be taken in the very act.</cd> <mark>[Obs.]</mark> <see>See <er>Mainor</er>.</see> -- <col>To make one's manners</col>, <cd>to make a bow or courtesy; to offer salutation.</cd> -- <col>Manners bit</col>, <cd>a portion left in a dish for the sake of good manners.</cd> <au>Hallwell.</au></cs></p>
+<p><cs><col>By any manner of means</col>, <cd>in any way possible; by any sort of means.</cd> -- <mcol><col>To be taken in the manner</col> <or/ <col>To be taken with the manner</col></mcol>. <ety>[A corruption of <ets>to be taken in the mainor</ets>. See <er>Mainor</er>.]</ety> <cd>To be taken in the very act.</cd> <mark>[Obs.]</mark> <see>See <er>Mainor</er>.</see> -- <col>To make one's manners</col>, <cd>to make a bow or courtesy; to offer salutation.</cd> -- <col>Manners bit</col>, <cd>a portion left in a dish for the sake of good manners.</cd> <au>Hallwell.</au></cs></p>
 
 <p><syn><b>Syn.</b> -- Method; mode; custom; habit; fashion; air; look; mien; aspect; appearance. See <er>Method</er>.</syn></p>
 </entry>
@@ -8092,7 +8092,7 @@ Find native graves.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><note><hand/ <xex>Maple</xex> is much used adjectively, or as the first part of a compound; as, <xex>maple</xex> tree, <xex>maple</xex> leaf, etc.</note></p>
 
-<p><cs><mcol><col>Bird's-eye maple</col>, <col>Curled maple</col></mcol>, <cd>varieties of the wood of the rock maple, in which a beautiful lustrous grain is produced by the sinuous course of the fibers.</cd> -- <mcol><col>Maple honey</col>, <col>Maple molasses</col>, <col>Maple syrup</col>, <it>or</it> <col>Maple sirup</col></mcol>, <cd>maple sap boiled to the consistency of molasses.</cd> -- <col>Maple sugar</col>, <cd>sugar obtained from the sap of the sugar maple by evaporation.</cd></cs></p>
+<p><cs><mcol><col>Bird's-eye maple</col>, <col>Curled maple</col></mcol>, <cd>varieties of the wood of the rock maple, in which a beautiful lustrous grain is produced by the sinuous course of the fibers.</cd> -- <mcol><col>Maple honey</col>, <col>Maple molasses</col>, <col>Maple syrup</col>, <or/ <col>Maple sirup</col></mcol>, <cd>maple sap boiled to the consistency of molasses.</cd> -- <col>Maple sugar</col>, <cd>sugar obtained from the sap of the sugar maple by evaporation.</cd></cs></p>
 </entry>
 
 <entry main-word="maple-leaf begonia" source="WordNet 1.5">
@@ -8895,7 +8895,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj></p>
 <entry main-word="Marigold" source="1913 Webster">
 <p><hw>Mar"i*gold</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Mary</ets> + <ets>gold</ets>.]</ety> <fld>(Bot.)</fld> <def>A name for several plants with golden yellow blossoms, especially the <spn>Calendula officinalis</spn> (see <er>Calendula</er>), and the cultivated species of <gen>Tagetes</gen>.</def></p>
 
-<p><note><hand/ There are several yellow-flowered plants of different genera bearing this name; as, the <stype>African marigold</stype> <it>or</it> <stype>French marigold</stype> of the genus <gen>Tagetes</gen>, of which several species and many varieties are found in gardens. They are mostly strong-smelling herbs from South America and Mexico: <stype>bur marigold</stype>, of the genus <gen>Bidens</gen>; <stype>corn marigold</stype>, of the genus <gen>Chrysanthemum</gen> (<spn>Chrysanthemum segetum</spn>, a pest in the cornfields of Italy); <stype>fig marigold</stype>, of the genus <gen>Mesembryanthemum</gen>; <stype>marsh marigold</stype>, of the genus <gen>Caltha</gen> (<spn>Caltha palustris</spn>), commonly known in America as the <stype>cowslip</stype>. See <er>Marsh Marigold</er>.</note></p>
+<p><note><hand/ There are several yellow-flowered plants of different genera bearing this name; as, the <stype>African marigold</stype> <or/ <stype>French marigold</stype> of the genus <gen>Tagetes</gen>, of which several species and many varieties are found in gardens. They are mostly strong-smelling herbs from South America and Mexico: <stype>bur marigold</stype>, of the genus <gen>Bidens</gen>; <stype>corn marigold</stype>, of the genus <gen>Chrysanthemum</gen> (<spn>Chrysanthemum segetum</spn>, a pest in the cornfields of Italy); <stype>fig marigold</stype>, of the genus <gen>Mesembryanthemum</gen>; <stype>marsh marigold</stype>, of the genus <gen>Caltha</gen> (<spn>Caltha palustris</spn>), commonly known in America as the <stype>cowslip</stype>. See <er>Marsh Marigold</er>.</note></p>
 
 <p><cs><col>Marigold window</col>. <fld>(Arch.)</fld> <cd>See <cref>Rose window</cref>, under <er>Rose</er>.</cd></cs></p>
 </entry>
@@ -9678,7 +9678,7 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 <entry main-word="Marseillais" source="1913 Webster">
 <p><mhw>{ <par/<hw>Mar`sei`llais"</hw> <pr>(?)</pr>, <pos>a. m.</pos> <par/<hw>Mar`sei`llaise"</hw> <pr>(?)</pr>, <pos>a. f.</pos> }</mhw><ety>[F.]</ety> <def>Of or pertaining to Marseilles, in France, or to its inhabitants.</def></p>
 
-<p><cs><mcol><col>Marseillaise hymn</col>, <it>or</it> <col>The Marseillaise</col></mcol>, <cd>the national anthem of France, popularly so called.  It was composed in 1792, by Rouget de l'Isle, an officer then stationed at Strasburg.  In Paris it was sung for the first time by the band of men who came from Marseilles to aid in the revolution of August 10, 1792; whence the name.</cd></cs></p>
+<p><cs><mcol><col>Marseillaise hymn</col>, <or/ <col>The Marseillaise</col></mcol>, <cd>the national anthem of France, popularly so called.  It was composed in 1792, by Rouget de l'Isle, an officer then stationed at Strasburg.  In Paris it was sung for the first time by the band of men who came from Marseilles to aid in the revolution of August 10, 1792; whence the name.</cd></cs></p>
 </entry>
 
 <entry main-word="Marseillais" source="1913 Webster">
@@ -9702,7 +9702,7 @@ With thief or his <qex>marrow</qex>, for fear of ill end.</q> <rj><qau>Tusser.</
 
 <p><sn>2.</sn> <def>An officer of high rank, charged with the arrangement of ceremonies, the conduct of operations, or the like</def>; <specif>as, specifically:</specif> <sd>(a)</sd> <def>One who goes before a prince to declare his coming and provide entertainment; a harbinger; a pursuivant.</def> <sd>(b)</sd> <def>One who regulates rank and order at a feast or any other assembly, directs the order of procession, and the like.</def> <sd>(c)</sd> <def>The chief officer of arms, whose duty it was, in ancient times, to regulate combats in the lists.</def> <au>Johnson.</au> <sd>(d)</sd> <fld>(France)</fld> <def>The highest military officer.</def> In other countries of Europe a marshal is a military officer of high rank, and called <altname>field marshal</altname>. <sd>(e)</sd> <fld>(Am. Law)</fld> <def>A ministerial officer, appointed for each judicial district of the United States, to execute the process of the courts of the United States, and perform various duties, similar to those of a sheriff.  The name is also sometimes applied to certain police officers of a city.</def></p>
 
-<p><cs><col>Earl marshal of England</col>, <cd>the eighth officer of state; an honorary title, and personal, until made hereditary in the family of the Duke of Norfolk. During a vacancy in the office of high constable, the earl marshal has jurisdiction in the court of chivalry.</cd> <au>Brande & C.</au> -- <col>Earl marshal of Scotland</col>, <cd>an officer who had command of the cavalry under the constable. This office was held by the family of Keith, but forfeited by rebellion in 1715.</cd> -- <mcol><col>Knight marshal</col>, <it>or</it> <col>Marshal of the King's house</col></mcol>, <cd>formerly, in England, the marshal of the king's house, who was authorized to hear and determine all pleas of the Crown, to punish faults committed within the verge, etc. His court was called the Court of Marshalsea.</cd> -- <col>Marshal of the Queen's Bench</col>, <cd>formerly the title of the officer who had the custody of the Queen's bench prison in Southwark.</cd> <au>Mozley & W.</au></cs></p>
+<p><cs><col>Earl marshal of England</col>, <cd>the eighth officer of state; an honorary title, and personal, until made hereditary in the family of the Duke of Norfolk. During a vacancy in the office of high constable, the earl marshal has jurisdiction in the court of chivalry.</cd> <au>Brande & C.</au> -- <col>Earl marshal of Scotland</col>, <cd>an officer who had command of the cavalry under the constable. This office was held by the family of Keith, but forfeited by rebellion in 1715.</cd> -- <mcol><col>Knight marshal</col>, <or/ <col>Marshal of the King's house</col></mcol>, <cd>formerly, in England, the marshal of the king's house, who was authorized to hear and determine all pleas of the Crown, to punish faults committed within the verge, etc. His court was called the Court of Marshalsea.</cd> -- <col>Marshal of the Queen's Bench</col>, <cd>formerly the title of the officer who had the custody of the Queen's bench prison in Southwark.</cd> <au>Mozley & W.</au></cs></p>
 </entry>
 
 <entry main-word="Marshal" source="1913 Webster">
@@ -10575,7 +10575,7 @@ Of <qex>carnage</qex>, prey innumerable!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Masse shot" source="1913 Webster">
-<p><mhw>{ <hw>Mass<eacute/</hw>, <it>or</it> <hw>Mass<eacute/ shot</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <fld>(Billiards)</fld> <def>A stroke made with the cue held vertically.</def></p>
+<p><mhw>{ <hw>Mass<eacute/</hw>, <or/ <hw>Mass<eacute/ shot</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <fld>(Billiards)</fld> <def>A stroke made with the cue held vertically.</def></p>
 </entry>
 
 <entry main-word="Masser" source="1913 Webster">
@@ -11112,7 +11112,7 @@ Had been a <qex>mastery</qex>.</q> <rj><qau>B. Jonson.</qau></rj></p>
 </entry>
 
 <entry main-word="Matabele" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Mat`a*be"le</hw> <pr>(?)</pr>, <it>or</it> <hw>Mat`a*be"les</hw> <pr>(?)</pr> }</mhw>, <pos>prop. n. pl.</pos>, <sing><it>sing.</it> <singw>Matabele</singw>.</sing> <altsp>[Written also <asp>Matabili</asp>.]</altsp> <fld>(Ethnol.)</fld> <def>A warlike South African Kaffir tribe.</def></p>
+<p><mhw>{ <hw>Mat`a*be"le</hw> <pr>(?)</pr>, <or/ <hw>Mat`a*be"les</hw> <pr>(?)</pr> }</mhw>, <pos>prop. n. pl.</pos>, <sing><it>sing.</it> <singw>Matabele</singw>.</sing> <altsp>[Written also <asp>Matabili</asp>.]</altsp> <fld>(Ethnol.)</fld> <def>A warlike South African Kaffir tribe.</def></p>
 </entry>
 
 <entry main-word="Matachin" source="1913 Webster">
@@ -11935,7 +11935,7 @@ No <qex>matter</qex> which, so neither of them lie.</q> <rj><qau>Dryden.</qau></
 
 <p><sn>10.</sn> <fld>(Print.)</fld> <def>Written manuscript, or anything to be set in type; copy; also, type set up and ready to be used, or which has been used, in printing.</def></p>
 
-<p><cs><col>Dead matter</col> <fld>(Print.)</fld>, <cd>type which has been used, or which is not to be used, in printing, and is ready for distribution.</cd> -- <col>Live matter</col> <fld>(Print.)</fld>, <cd>type set up, but not yet printed from.</cd> -- <mcol><col>Matter in bar</col>, <col>Matter of fact</col></mcol>. <cd>See under <er>Bar</er>, and <er>Fact</er>.</cd> -- <col>Matter of record</col>, <cd>anything recorded.</cd> -- <mcol><col>Upon the matter</col>, <it>or</it> <col>Upon the whole matter</col></mcol>, <cd>considering the whole; taking all things into view; all things considered.</cd></cs></p>
+<p><cs><col>Dead matter</col> <fld>(Print.)</fld>, <cd>type which has been used, or which is not to be used, in printing, and is ready for distribution.</cd> -- <col>Live matter</col> <fld>(Print.)</fld>, <cd>type set up, but not yet printed from.</cd> -- <mcol><col>Matter in bar</col>, <col>Matter of fact</col></mcol>. <cd>See under <er>Bar</er>, and <er>Fact</er>.</cd> -- <col>Matter of record</col>, <cd>anything recorded.</cd> -- <mcol><col>Upon the matter</col>, <or/ <col>Upon the whole matter</col></mcol>, <cd>considering the whole; taking all things into view; all things considered.</cd></cs></p>
 
 <p><q>Waller, with Sir William Balfour, exceeded in horse, but were, <qex>upon the whole matter</qex>, equal in foot.</q> <rj><qau>Clarendon.</qau></rj></p>
 </entry>
@@ -12287,7 +12287,7 @@ Unskilled in speech, nor yet <qex>mature</qex> of age?</q> <rj><qau>Pope.</qau><
 </entry>
 
 <entry main-word="Maundy coins" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Maundy coins</hw> <it>or</it> <hw>Maundy money</hw>  }</mhw>. <def>Silver coins or money of the nominal value of 1<it>d.</it>, 2<it>d.</it>, 3<it>d.</it>, and 4<it>d.</it>, struck annually for the Maundy alms.</def></p>
+<p><mhw>{ <hw>Maundy coins</hw> <or/ <hw>Maundy money</hw>  }</mhw>. <def>Silver coins or money of the nominal value of 1<it>d.</it>, 2<it>d.</it>, 3<it>d.</it>, and 4<it>d.</it>, struck annually for the Maundy alms.</def></p>
 </entry>
 
 <entry main-word="Maundy Thursday" source="1913 Webster">
@@ -13099,7 +13099,7 @@ Our fathers no <qex>mean</qex> foes.</q> <rj><qau>J. Philips.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>Average; having an intermediate value between two extremes, or between the several successive values of a variable quantity during one cycle of variation; <as>as, <ex>mean</ex> distance; <ex>mean</ex> motion; <ex>mean</ex> solar day.</as></def></p>
 
-<p><cs><col>Mean distance</col> (of a planet from the sun) <fld>(Astron.)</fld>, <cd>the average of the distances throughout one revolution of the planet, equivalent to the semi-major axis of the orbit.</cd> -- <col>Mean error</col> <fld>(Math. Phys.)</fld>, <cd>the average error of a number of observations found by taking the mean value of the positive and negative errors without regard to sign.</cd> -- <mcol><col>Mean-square error</col>, <it>or</it> <col>Error of the mean square</col></mcol> <fld>(Math. Phys.)</fld>, <cd>the error the square of which is the mean of the squares of all the errors; -- called also, <altname>mean square deviation</altname>, <altname>mean error</altname>.</cd> -- <col>Mean line</col>. <fld>(Crystallog.)</fld> <cd>Same as <er>Bisectrix</er>.</cd> -- <col>Mean noon</col>, <cd>noon as determined by mean time.</cd> -- <col>Mean proportional</col> (between two numbers) <fld>(Math.)</fld>, <cd>the square root of their product.</cd> -- <col>Mean sun</col>, <cd>a fictitious sun supposed to move uniformly in the equator so as to be on the meridian each day at mean noon.</cd> -- <col>Mean time</col>, <cd>time as measured by an equable motion, as of a perfect clock, or as reckoned on the supposition that all the days of the year are of a mean or uniform length, in contradistinction from <xex>apparent</xex> time, or that actually indicated by the sun, and from <xex>sidereal</xex> time, or that measured by the stars.</cd></cs></p>
+<p><cs><col>Mean distance</col> (of a planet from the sun) <fld>(Astron.)</fld>, <cd>the average of the distances throughout one revolution of the planet, equivalent to the semi-major axis of the orbit.</cd> -- <col>Mean error</col> <fld>(Math. Phys.)</fld>, <cd>the average error of a number of observations found by taking the mean value of the positive and negative errors without regard to sign.</cd> -- <mcol><col>Mean-square error</col>, <or/ <col>Error of the mean square</col></mcol> <fld>(Math. Phys.)</fld>, <cd>the error the square of which is the mean of the squares of all the errors; -- called also, <altname>mean square deviation</altname>, <altname>mean error</altname>.</cd> -- <col>Mean line</col>. <fld>(Crystallog.)</fld> <cd>Same as <er>Bisectrix</er>.</cd> -- <col>Mean noon</col>, <cd>noon as determined by mean time.</cd> -- <col>Mean proportional</col> (between two numbers) <fld>(Math.)</fld>, <cd>the square root of their product.</cd> -- <col>Mean sun</col>, <cd>a fictitious sun supposed to move uniformly in the equator so as to be on the meridian each day at mean noon.</cd> -- <col>Mean time</col>, <cd>time as measured by an equable motion, as of a perfect clock, or as reckoned on the supposition that all the days of the year are of a mean or uniform length, in contradistinction from <xex>apparent</xex> time, or that actually indicated by the sun, and from <xex>sidereal</xex> time, or that measured by the stars.</cd></cs></p>
 </entry>
 
 <entry main-word="Mean" source="1913 Webster">
@@ -13145,7 +13145,7 @@ Our fathers no <qex>mean</qex> foes.</q> <rj><qau>J. Philips.</qau></rj></p>
 
 <p><q>If <qex>by any means</qex> I might attain to the resurrection of the dead.</q> <rj><qau>Phil. iii. ll.</qau></rj></p>
 
-<p>-- <mcol><col>By no means</col>, <it>or</it> <col>By no manner of means</col></mcol>, <cd>not at all; certainly not; not in any degree.</cd></p>
+<p>-- <mcol><col>By no means</col>, <or/ <col>By no manner of means</col></mcol>, <cd>not at all; certainly not; not in any degree.</cd></p>
 
 <p><q>The wine on this side of the lake is <qex>by no means</qex> so good as that on the other.</q> <rj><qau>Addison.</qau></rj></cs></p>
 </entry>
@@ -13365,7 +13365,7 @@ On power you know I must obey ?</q> <rj><qau>Prior.</qau></rj></p>
 
 <p><sn>13.</sn> <pluf>pl.</pluf> <fld>(Geol.)</fld> <def>Beds or strata; <as>as, coal <ex>measures</ex>; lead <ex>measures</ex>.</as></def></p>
 
-<p><cs><mcol><col>linear measure</col>, <col>lineal measure</col>, <it>or</it> <col>long measure</col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col>Liquid measure</col>, <cd>the measure of liquids.</cd> -- <col>Square measure</col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col>To have hard measure</col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col>To take measures</col>, <cd>to make preparations; to provide means.</cd> -- <col>To take one's measure</col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col>To tread a measure</col>, <cd>to dance in the style so called. See <snr>9</snr> <sdr>(a)</sdr>.</cd></cs></p>
+<p><cs><mcol><col>linear measure</col>, <col>lineal measure</col>, <or/ <col>long measure</col></mcol>, <cd>measure of length; the measure of lines or distances.</cd> -- <col>Liquid measure</col>, <cd>the measure of liquids.</cd> -- <col>Square measure</col>, <cd>the measure of superficial area of surfaces in square units, as inches, feet, miles, etc.</cd> -- <col>To have hard measure</col>, <cd>to have harsh treatment meted out to one; to be harshly or oppressively dealt with.</cd> -- <col>To take measures</col>, <cd>to make preparations; to provide means.</cd> -- <col>To take one's measure</col>, <cd>to measure one, as for a garment; hence, to form an opinion of one's disposition, character, ability, etc.</cd> -- <col>To tread a measure</col>, <cd>to dance in the style so called. See <snr>9</snr> <sdr>(a)</sdr>.</cd></cs></p>
 
 <p><q>Say to her, we have measured many miles<br/
 <qex>To tread a measure</qex> with her on this grass.</q> <rj><qau>Shak.</qau></rj></p>
@@ -14709,7 +14709,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj></p>
 <entry main-word="Megarian" source="1913 Webster">
 <p><mhw>{ <hw>Me*ga"ri*an</hw> <pr>(?)</pr>, <hw>Me*gar"ic</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <def>Belonging, or pertaining, to Megara, a city of ancient Greece.</def></p>
 
-<p><cs><mcol><col>Megarian school</col>, <it>or</it> <col>Megaric school</col></mcol>, <cd>a school of philosophy established at <city>Megara</city>, after the death of Socrates, by his disciples, and remarkable for its logical subtlety.</cd></cs></p>
+<p><cs><mcol><col>Megarian school</col>, <or/ <col>Megaric school</col></mcol>, <cd>a school of philosophy established at <city>Megara</city>, after the death of Socrates, by his disciples, and remarkable for its logical subtlety.</cd></cs></p>
 </entry>
 
 <entry main-word="Megascope" source="1913 Webster">
@@ -16729,7 +16729,7 @@ With <qex>mercenary</qex> lines, with servile pen.</q> <rj><qau>Daniel.</qau></r
 <entry main-word="Merchant" source="1913 Webster">
 <p><hw>Mer"chant</hw>, <pos>a.</pos> <def>Of, pertaining to, or employed in, trade or merchandise; <as>as, the <ex>merchant</ex> service</as>.</def></p>
 
-<p><cs><mcol><col>Merchant bar</col>, <col>Merchant iron</col> <it>or</it> <col>Merchant steel</col></mcol>, <cd>certain common sizes of wrought iron and steel bars.</cd> -- <mcol><col>Merchant service</col> <it>or</it> <col>Merchant marine</col></mcol>, <cd>the mercantile marine of a country.</cd> <au>Am. Cyc.</au> -- <col>Merchant ship</col>, <cd>a ship employed in commerce.</cd> -- <col>Merchant tailor</col>, <cd>a tailor who keeps and sells materials for the garments which he makes.</cd></cs></p>
+<p><cs><mcol><col>Merchant bar</col>, <col>Merchant iron</col> <or/ <col>Merchant steel</col></mcol>, <cd>certain common sizes of wrought iron and steel bars.</cd> -- <mcol><col>Merchant service</col> <or/ <col>Merchant marine</col></mcol>, <cd>the mercantile marine of a country.</cd> <au>Am. Cyc.</au> -- <col>Merchant ship</col>, <cd>a ship employed in commerce.</cd> -- <col>Merchant tailor</col>, <cd>a tailor who keeps and sells materials for the garments which he makes.</cd></cs></p>
 </entry>
 
 <entry main-word="Merchant" source="1913 Webster">
@@ -17104,11 +17104,11 @@ I haste now to my setting.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><note><hand/ The planes of the geographical and astronomical meridians coincide. Meridians, on a map or globe, are lines drawn at certain intervals due north and south, or in the direction of the poles.</note></p>
 
-<p><cs><mcol><col>Calculated for the meridian of</col>, <it>or</it> <col>fitted to the meridian of</col>, <it>or</it> <col>adapted to the meridian of</col></mcol>, <cd>suited to the local circumstances, capabilities, or special requirements of.</cd></cs></p>
+<p><cs><mcol><col>Calculated for the meridian of</col>, <or/ <col>fitted to the meridian of</col>, <or/ <col>adapted to the meridian of</col></mcol>, <cd>suited to the local circumstances, capabilities, or special requirements of.</cd></cs></p>
 
 <p><q>All other knowledge merely serves the concerns of this life, and is <qex>fitted to the meridian</qex> there<qex>of</qex>.</q> <rj><qau>Sir M. Hale.</qau></rj></p>
 
-<p>-- <cs><mcol><col>First meridian</col> <it>or</it> <col>prime meridian</col></mcol>, <cd>the meridian from which longitudes are reckoned.   The meridian of Greenwich is the one commonly employed in calculations of longitude by geographers, and in actual practice, although in various countries other and different meridians, chiefly those which pass through the capitals of the countries, are occasionally used; as, in France, the meridian of Paris; in the United States, the meridian of Washington, etc.</cd> -- <col>Guide meridian</col> <fld>(Public Land Survey)</fld>, <cd>a line, marked by monuments, running North and South through a section of country between other more carefully established meridians called <xex>principal meridians</xex>, used for reference in surveying.</cd> <mark>[U.S.]</mark> -- <col>Magnetic meridian</col>, <cd>a great circle, passing through the zenith and coinciding in direction with the magnetic needle, or a line on the earth's surface having the same direction.</cd> -- <col>Meridian circle</col> <fld>(Astron.)</fld>, <cd>an instrument consisting of a telescope attached to a large graduated circle and so mounted that the telescope revolves like the transit instrument in a meridian plane. By it the right ascension and the declination of a star may be measured in a single observation.</cd> -- <col>Meridian instrument</col> <fld>(Astron.)</fld>, <cd>any astronomical instrument having a telescope that rotates in a meridian plane.</cd> -- <mcol><col>Meridian of a globe</col>, <it>or</it> <col>Brass meridian</col></mcol>, <cd>a graduated circular ring of brass, in which the artificial globe is suspended and revolves.</cd></cs></p>
+<p>-- <cs><mcol><col>First meridian</col> <or/ <col>prime meridian</col></mcol>, <cd>the meridian from which longitudes are reckoned.   The meridian of Greenwich is the one commonly employed in calculations of longitude by geographers, and in actual practice, although in various countries other and different meridians, chiefly those which pass through the capitals of the countries, are occasionally used; as, in France, the meridian of Paris; in the United States, the meridian of Washington, etc.</cd> -- <col>Guide meridian</col> <fld>(Public Land Survey)</fld>, <cd>a line, marked by monuments, running North and South through a section of country between other more carefully established meridians called <xex>principal meridians</xex>, used for reference in surveying.</cd> <mark>[U.S.]</mark> -- <col>Magnetic meridian</col>, <cd>a great circle, passing through the zenith and coinciding in direction with the magnetic needle, or a line on the earth's surface having the same direction.</cd> -- <col>Meridian circle</col> <fld>(Astron.)</fld>, <cd>an instrument consisting of a telescope attached to a large graduated circle and so mounted that the telescope revolves like the transit instrument in a meridian plane. By it the right ascension and the declination of a star may be measured in a single observation.</cd> -- <col>Meridian instrument</col> <fld>(Astron.)</fld>, <cd>any astronomical instrument having a telescope that rotates in a meridian plane.</cd> -- <mcol><col>Meridian of a globe</col>, <or/ <col>Brass meridian</col></mcol>, <cd>a graduated circular ring of brass, in which the artificial globe is suspended and revolves.</cd></cs></p>
 </entry>
 
 <entry main-word="Meridional" source="1913 Webster">
@@ -18242,7 +18242,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 </entry>
 
 <entry main-word="Metacenter" source="1913 Webster">
-<p><mhw>{ <hw>Met`a*cen"ter</hw> <pr>(?)</pr> <it>or</it> <hw>Met`a*cen"tre</hw> }</mhw>, <pos>n.</pos> <ety>[Pref. <ets>meta-</ets> + <ets>center</ets>.]</ety> <fld>(Hydrostatics)</fld> <def>The point of intersection of a vertical line through the center of gravity of the fluid displaced by a floating body which is tipped through a small angle from its position of equilibrium, and the inclined line which was vertical through the center of gravity of the body when in equilibrium.</def></p>
+<p><mhw>{ <hw>Met`a*cen"ter</hw> <pr>(?)</pr> <or/ <hw>Met`a*cen"tre</hw> }</mhw>, <pos>n.</pos> <ety>[Pref. <ets>meta-</ets> + <ets>center</ets>.]</ety> <fld>(Hydrostatics)</fld> <def>The point of intersection of a vertical line through the center of gravity of the fluid displaced by a floating body which is tipped through a small angle from its position of equilibrium, and the inclined line which was vertical through the center of gravity of the body when in equilibrium.</def></p>
 
 <p><note><hand/ When the metacenter is above the center of gravity, the position of the body is stable; when below it, unstable.</note></p>
 </entry>
@@ -18632,7 +18632,7 @@ To lands in Kent, and <qex>messuages</qex> in York.</q> <rj><qau>Tennyson.</qau>
 </entry>
 
 <entry main-word="metaphor" source="1913 Webster">
-<p><hw>met"a*phor`</hw> <pr>(m<ecr/t"<adot/*f<ocir/r` <it>or</it> m<ecr/t"<adot/*f<etil/r)</pr>, <pos>n.</pos> <ety>[F. <ets>m<eacute/taphore</ets>, L. <ets>metaphora</ets>, fr. Gr. <grk>metafora`</grk>, fr. <grk>metafe`rein</grk> to carry over, transfer; <grk>meta`</grk> beyond, over + <grk>fe`rein</grk> to bring, bear.]</ety> <fld>(Rhet.)</fld> <def>The transference of the relation between one set of objects to another set for the purpose of brief explanation; a compressed simile; <it>e. g.</it>, the ship plows the sea.</def> <au>Abbott & Seeley.</au> <ldquo/All the world's a stage.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>met"a*phor`</hw> <pr>(m<ecr/t"<adot/*f<ocir/r` <or/ m<ecr/t"<adot/*f<etil/r)</pr>, <pos>n.</pos> <ety>[F. <ets>m<eacute/taphore</ets>, L. <ets>metaphora</ets>, fr. Gr. <grk>metafora`</grk>, fr. <grk>metafe`rein</grk> to carry over, transfer; <grk>meta`</grk> beyond, over + <grk>fe`rein</grk> to bring, bear.]</ety> <fld>(Rhet.)</fld> <def>The transference of the relation between one set of objects to another set for the purpose of brief explanation; a compressed simile; <it>e. g.</it>, the ship plows the sea.</def> <au>Abbott & Seeley.</au> <ldquo/All the world's a stage.<rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><note><hand/ The statement, <ldquo/that man is a fox,<rdquo/ is a metaphor; but <ldquo/that man is like a fox,<rdquo/ is a simile, similitude, or comparison.</note></p>
 </entry>
@@ -19371,7 +19371,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 <entry main-word="Metonic" source="1913 Webster">
 <p><hw>Me*ton"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>m<eacute/tonique</ets>.]</ety> <def>Pertaining to, or discovered by, <persfn><etsep>Meton</etsep></persfn>, the Athenian.</def></p>
 
-<p><cs><mcol><col>Metonic year</col> <it>or</it> <col>Metonic cycle</col></mcol>. <fld>(Astron.)</fld> <cd>See under <er>Cycle</er>.</cd></cs></p>
+<p><cs><mcol><col>Metonic year</col> <or/ <col>Metonic cycle</col></mcol>. <fld>(Astron.)</fld> <cd>See under <er>Cycle</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Metonymic" source="1913 Webster">
@@ -20163,7 +20163,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 <entry main-word="Micrometer" source="1913 Webster">
 <p><hw>Mi*crom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Micro-</ets> + <ets>-meter</ets>: cf. F. <ets>microm<egrave/tre</ets>.]</ety> <def>An instrument, used with a telescope or microscope, for measuring minute distances, or the apparent diameters of objects which subtend minute angles.  The measurement given directly is that of the image of the object formed at the focus of the object glass.</def></p>
 
-<p><cs><mcol><col>Circular micrometer</col>, <it>or</it> <col>Ring micrometer</col></mcol>, <cd>a metallic ring fixed in the focus of the object glass of a telescope, and used to determine differences of right ascension and declination between stars by observations of the times at which the stars cross the inner or outer periphery of the ring.</cd> -- <col>Double image micrometer</col>, <cd>a micrometer in which two images of an object are formed in the field, usually by the two halves of a bisected lens which are movable along their line of section by a screw, and distances are determined by the number of screw revolutions necessary to bring the points to be measured into optical coincidence. When the two images are formed by a bisected object glass, it is called a <xex>divided-object-glass micrometer</xex>, and when the instrument is large and equatorially mounted, it is known as a <xex>heliometer</xex>.</cd> -- <col>Double refraction micrometer</col>, <cd>a species of double image micrometer, in which the two images are formed by the double refraction of rock crystal.</cd> -- <mcol><col>Filar micrometer</col>, <it>or</it> <col>Bifilar micrometer</col></mcol>. <cd>See under <er>Bifilar</er>.</cd> -- <mcol><col>Micrometer caliper</col> <it>or</it> <col>Micrometer gauge</col></mcol> <fld>(Mech.)</fld>, <cd>a caliper or gauge with a micrometer screw, for measuring dimensions with great accuracy.</cd> -- <col>Micrometer head</col>, <cd>the head of a micrometer screw.</cd> -- <col>Micrometer microscope</col>, <cd>a compound microscope combined with a filar micrometer, used chiefly for reading and subdividing the divisions of large astronomical and geodetical instruments.</cd> -- <col>Micrometer screw</col>, <cd>a screw with a graduated head used in some forms of micrometers; turning the head one full revolution advances the position of the tip of the screw only by a little.</cd> -- <col>Position micrometer</col>. <cd>See under <er>Position</er>.</cd> -- <mcol><col>Scale micrometer</col>, <it>or</it> <col>Linear micrometer</col></mcol>, <cd>a minute and very delicately graduated scale of equal parts used in the field of a telescope or microscope, for measuring distances by direct comparison.</cd></cs></p>
+<p><cs><mcol><col>Circular micrometer</col>, <or/ <col>Ring micrometer</col></mcol>, <cd>a metallic ring fixed in the focus of the object glass of a telescope, and used to determine differences of right ascension and declination between stars by observations of the times at which the stars cross the inner or outer periphery of the ring.</cd> -- <col>Double image micrometer</col>, <cd>a micrometer in which two images of an object are formed in the field, usually by the two halves of a bisected lens which are movable along their line of section by a screw, and distances are determined by the number of screw revolutions necessary to bring the points to be measured into optical coincidence. When the two images are formed by a bisected object glass, it is called a <xex>divided-object-glass micrometer</xex>, and when the instrument is large and equatorially mounted, it is known as a <xex>heliometer</xex>.</cd> -- <col>Double refraction micrometer</col>, <cd>a species of double image micrometer, in which the two images are formed by the double refraction of rock crystal.</cd> -- <mcol><col>Filar micrometer</col>, <or/ <col>Bifilar micrometer</col></mcol>. <cd>See under <er>Bifilar</er>.</cd> -- <mcol><col>Micrometer caliper</col> <or/ <col>Micrometer gauge</col></mcol> <fld>(Mech.)</fld>, <cd>a caliper or gauge with a micrometer screw, for measuring dimensions with great accuracy.</cd> -- <col>Micrometer head</col>, <cd>the head of a micrometer screw.</cd> -- <col>Micrometer microscope</col>, <cd>a compound microscope combined with a filar micrometer, used chiefly for reading and subdividing the divisions of large astronomical and geodetical instruments.</cd> -- <col>Micrometer screw</col>, <cd>a screw with a graduated head used in some forms of micrometers; turning the head one full revolution advances the position of the tip of the screw only by a little.</cd> -- <col>Position micrometer</col>. <cd>See under <er>Position</er>.</cd> -- <mcol><col>Scale micrometer</col>, <or/ <col>Linear micrometer</col></mcol>, <cd>a minute and very delicately graduated scale of equal parts used in the field of a telescope or microscope, for measuring distances by direct comparison.</cd></cs></p>
 </entry>
 
 <entry main-word="Micrometric" source="1913 Webster">
@@ -20272,7 +20272,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 <entry main-word="Microscope" source="1913 Webster">
 <p><hw>Mi"cro*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Micro-</ets> + <ets>-scope</ets>.]</ety> <def>An optical instrument, consisting of a lens, or combination of lenses, for making an enlarged image of an object which is too minute to be viewed by the <cref>naked eye</cref>.</def></p>
 
-<p><cs><col>Compound microscope</col>, <cd>an instrument consisting of a combination of lenses such that the image formed by the lens or set of lenses nearest the object (called the <xex>objective</xex>) is magnified by another lens called the <xex>ocular</xex> or <xex>eyepiece</xex>.</cd> -- <mcol><col>Oxyhydrogen microscope</col>, and <col>Solar microscope</col></mcol>. <cd>See under <er>Oxyhydrogen</er>, and <er>Solar</er>.</cd> -- <mcol><col>Simple microscope</col>, <it>or</it> <col>Single microscope</col></mcol>, <cd>a single convex lens used to magnify objects placed in its focus.</cd></cs></p>
+<p><cs><col>Compound microscope</col>, <cd>an instrument consisting of a combination of lenses such that the image formed by the lens or set of lenses nearest the object (called the <xex>objective</xex>) is magnified by another lens called the <xex>ocular</xex> or <xex>eyepiece</xex>.</cd> -- <mcol><col>Oxyhydrogen microscope</col>, and <col>Solar microscope</col></mcol>. <cd>See under <er>Oxyhydrogen</er>, and <er>Solar</er>.</cd> -- <mcol><col>Simple microscope</col>, <or/ <col>Single microscope</col></mcol>, <cd>a single convex lens used to magnify objects placed in its focus.</cd></cs></p>
 </entry>
 
 <entry main-word="Microscopial" source="1913 Webster">
@@ -20333,7 +20333,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 </entry>
 
 <entry main-word="Microspectroscope" source="1913 Webster">
-<p><hw>Mi`cro*spec"tro*scope</hw> <pr>(m<imac/`kr<osl/*sp<ecr/k"tr<osl/*sk<omac/p <it>or</it> m<icr/`kr<osl/*sp<ecr/k"tr<osl/*sk<omac/p)</pr>, <pos>n.</pos> <ety>[<ets>Micro-</ets> + <ets>spectroscope</ets>.]</ety> <fld>(Physics)</fld> <def>A spectroscope arranged for attachment to a microscope, for observation of the spectrum of light from minute portions of any substance.</def></p>
+<p><hw>Mi`cro*spec"tro*scope</hw> <pr>(m<imac/`kr<osl/*sp<ecr/k"tr<osl/*sk<omac/p <or/ m<icr/`kr<osl/*sp<ecr/k"tr<osl/*sk<omac/p)</pr>, <pos>n.</pos> <ety>[<ets>Micro-</ets> + <ets>spectroscope</ets>.]</ety> <fld>(Physics)</fld> <def>A spectroscope arranged for attachment to a microscope, for observation of the spectrum of light from minute portions of any substance.</def></p>
 </entry>
 
 <entry main-word="Microsporangium" source="1913 Webster">
@@ -20743,7 +20743,7 @@ Shall list'ning in <qex>mid</qex> air suspend their wings.</q> <rj><qau>Pope.</q
 </entry>
 
 <entry main-word="Mid sea" source="1913 Webster">
-<p><mhw>{ <hw>Mid" sea"</hw>, <it>or</it> <hw>Mid"-sea"</hw> <pr>(?)</pr> }</mhw> <pos>n.</pos> <def>The middle part of the sea or ocean.</def>  <rj><au>Milton.</au></rj></p>
+<p><mhw>{ <hw>Mid" sea"</hw>, <or/ <hw>Mid"-sea"</hw> <pr>(?)</pr> }</mhw> <pos>n.</pos> <def>The middle part of the sea or ocean.</def>  <rj><au>Milton.</au></rj></p>
 
 <p><cs><col>The Mid-sea</col>, <cd>the Mediterranean Sea.</cd> <mark>[Obs.]</mark></cs></p>
 </entry>
@@ -21110,7 +21110,7 @@ And <qex>milder</qex> glory to the noon.</q> <rj><qau>Waller.</qau></rj></p>
 
 <p><q>Adore him as a <qex>mild</qex> and merciful Being.</q> <rj><qau>Rogers.</qau></rj></p>
 
-<p><cs><mcol><col>Mild steel</col>, <it>or</it> <col>Low steel</col></mcol>, <cd>steel that has but little carbon in it and is not readily hardened.</cd></cs></p>
+<p><cs><mcol><col>Mild steel</col>, <or/ <col>Low steel</col></mcol>, <cd>steel that has but little carbon in it and is not readily hardened.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Soft; gentle; bland; calm; tranquil; soothing; pleasant; placid; meek; kind; tender; indulgent; clement; mollifying; lenitive; assuasive. See <er>Gentle</er>.</syn></p>
 </entry>
@@ -21148,7 +21148,7 @@ And <qex>milder</qex> glory to the noon.</q> <rj><qau>Waller.</qau></rj></p>
 
 <p><note><hand/ The distance called a <xex>mile</xex> varies greatly in different countries.  Its length in yards is, in Norway, 12,182; in Brunswick, 11,816; in Sweden, 11,660; in Hungary, 9,139; in Switzerland, 8,548; in Austria, 8,297; in Prussia, 8,238; in Poland, 8,100; in Italy, 2,025; in England and the United States, 1,760; in Spain, 1,552; in the Netherlands, 1,094.</note></p>
 
-<p><cs><mcol><col>Geographical mile</col> <it>or</it> <col>Nautical mile</col></mcol>, <cd>one sixtieth of a degree of a great circle of the earth, or 6080.27 feet.</cd> -- <col>Mile run</col>. <cd>Same as <cref>Train mile</cref>. See under <er>Train</er>.</cd> -- <col>Roman mile</col>, <cd>a thousand paces, equal to 1,614 yards English measure.</cd> -- <col>Statute mile</col>, <cd>a mile conforming to statute, that is, in England and the United States, a mile of 5,280 feet, as distinguished from any other mile.</cd></cs></p>
+<p><cs><mcol><col>Geographical mile</col> <or/ <col>Nautical mile</col></mcol>, <cd>one sixtieth of a degree of a great circle of the earth, or 6080.27 feet.</cd> -- <col>Mile run</col>. <cd>Same as <cref>Train mile</cref>. See under <er>Train</er>.</cd> -- <col>Roman mile</col>, <cd>a thousand paces, equal to 1,614 yards English measure.</cd> -- <col>Statute mile</col>, <cd>a mile conforming to statute, that is, in England and the United States, a mile of 5,280 feet, as distinguished from any other mile.</cd></cs></p>
 </entry>
 
 <entry main-word="Mileage" source="1913 Webster">
@@ -21678,7 +21678,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 <p><hw>mil"let</hw> <pr>(m<icr/l"l<ecr/t)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>mil</ets>, L. <ets>milium</ets>; akin to Gr. <grk>meli`nh</grk>, AS. <ets>mil</ets>.]</ety> <fld>(Bot.)</fld> <def>The name of several cereal and forage grasses which bear an abundance of small roundish grains. The common millets of Germany and Southern Europe are <spn>Panicum miliaceum</spn>, and <spn>Setaria Italica</spn>.</def></p>
 
 <p source="1913 Webster"><-- all species in this note are subtypes -->
-<note><hand/ <col>Arabian millet</col> is <spn>Sorghum Halepense</spn>. -- <col>Egyptian millet</col> <it>or</it> <col>East Indian millet</col> is <spn>Penicillaria spicata</spn>. -- <col>Indian millet</col> is <spn>Sorghum vulgare</spn>. (See under <er>Indian</er>.) -- <col>Italian millet</col> is <spn>Setaria Italica</spn>, a coarse, rank-growing annual grass, valuable for fodder when cut young, and bearing nutritive seeds; -- called also <altname>Hungarian grass</altname>. -- <col>Texas millet</col> is <spn>Panicum Texanum</spn>. -- <col>Wild millet</col>, <xex>or</xex> <col>Millet grass</col>, is <spn>Milium effusum</spn>, a tall grass growing in woods.</note></p>
+<note><hand/ <col>Arabian millet</col> is <spn>Sorghum Halepense</spn>. -- <col>Egyptian millet</col> <or/ <col>East Indian millet</col> is <spn>Penicillaria spicata</spn>. -- <col>Indian millet</col> is <spn>Sorghum vulgare</spn>. (See under <er>Indian</er>.) -- <col>Italian millet</col> is <spn>Setaria Italica</spn>, a coarse, rank-growing annual grass, valuable for fodder when cut young, and bearing nutritive seeds; -- called also <altname>Hungarian grass</altname>. -- <col>Texas millet</col> is <spn>Panicum Texanum</spn>. -- <col>Wild millet</col>, <xex>or</xex> <col>Millet grass</col>, is <spn>Milium effusum</spn>, a tall grass growing in woods.</note></p>
 </entry>
 
 <entry main-word="mill-girl" source="WordNet 1.5">
@@ -21852,7 +21852,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 
 <p><note><hand/ The cellular siliceous rock called buhrstone is usually employed for millstones; also, some kinds of lava, as that Niedermendig, or other firm rock with rough texture. The surface of a millstone has usually a series of radial grooves in which the powdered material collects.</note></p>
 
-<p><cs><col>Millstone girt</col> <fld>(Geol.)</fld>, <cd>a hard and coarse, gritty sandstone, dividing the Carboniferous from the Subcarboniferous strata. See <cref>Farewell rock</cref>, under <er>Farewell</er>, <pos>a.</pos>, and <xex>Chart</xex> of <er>Geology</er>.</cd> -- <mcol><col>To see into a millstone</col> <it>or</it> <col>To see through a millstone</col></mcol>, <cd>to see into or through a difficult matter.</cd> <mark>(Colloq.)</mark></cs></p>
+<p><cs><col>Millstone girt</col> <fld>(Geol.)</fld>, <cd>a hard and coarse, gritty sandstone, dividing the Carboniferous from the Subcarboniferous strata. See <cref>Farewell rock</cref>, under <er>Farewell</er>, <pos>a.</pos>, and <xex>Chart</xex> of <er>Geology</er>.</cd> -- <mcol><col>To see into a millstone</col> <or/ <col>To see through a millstone</col></mcol>, <cd>to see into or through a difficult matter.</cd> <mark>(Colloq.)</mark></cs></p>
 </entry>
 
 <entry main-word="millwheel" source="WordNet 1.5">
@@ -22211,7 +22211,7 @@ Into a manly stride.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Memory; remembrance; recollection; <as>as, to have or keep in <ex>mind</ex>, to call to <ex>mind</ex>, to put in <ex>mind</ex>, etc.</as></def></p>
 
-<p><cs><mcol><col>To have a mind</col> <it>or</it> <col>To have a great mind</col></mcol>, <cd>to be inclined or strongly inclined in purpose; -- used with an infinitive.</cd> <ldquo/Sir Roger de Coverly . . . told me that he <xex>had a great mind</xex> to see the new tragedy with me.<rdquo/ <au>Addison.</au> -- <col>To lose one's mind</col>, <cd>to become insane, or imbecile.</cd> -- <col>To make up one's mind</col>, <cd>to come to an opinion or decision; to determine.</cd> -- <col>To put in mind</col>, <cd>to remind.</cd> <ldquo/Regard us simply as <xex>putting you in mind</xex> of what you already know to be good policy.<rdquo/ <au>Jowett (Thucyd. ).</au></cs></p>
+<p><cs><mcol><col>To have a mind</col> <or/ <col>To have a great mind</col></mcol>, <cd>to be inclined or strongly inclined in purpose; -- used with an infinitive.</cd> <ldquo/Sir Roger de Coverly . . . told me that he <xex>had a great mind</xex> to see the new tragedy with me.<rdquo/ <au>Addison.</au> -- <col>To lose one's mind</col>, <cd>to become insane, or imbecile.</cd> -- <col>To make up one's mind</col>, <cd>to come to an opinion or decision; to determine.</cd> -- <col>To put in mind</col>, <cd>to remind.</cd> <ldquo/Regard us simply as <xex>putting you in mind</xex> of what you already know to be good policy.<rdquo/ <au>Jowett (Thucyd. ).</au></cs></p>
 </entry>
 
 <entry main-word="Mind" source="1913 Webster">
@@ -22737,7 +22737,7 @@ Into a manly stride.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>The little finger; the fifth digit, or that corresponding to it, in either the manus or pes.</def></p>
 
-<p source="PJC"><cs><mcol><col>de minimis</col> <it>or</it> <col>de minimus</col></mcol> <pos>a.</pos><cd>of trifling consequence or importance; too insignificant to be worthy of concern; -- a reference to the phrase <cref>de minimis non curat lex</cref>.</cd> -- <col>de minimis non curat lex</col> <ety>[Latin]</ety> <cd>The law does not concern itself with trifles; -- a principle of law, that even if a technical violation of a law appears to exist according to the letter of the law, if the effect is too small to be of consequence, the violation of the law will not be considered as a sufficient cause of action, whether in civil or criminal proceedings.</cd></cs></p>
+<p source="PJC"><cs><mcol><col>de minimis</col> <or/ <col>de minimus</col></mcol> <pos>a.</pos><cd>of trifling consequence or importance; too insignificant to be worthy of concern; -- a reference to the phrase <cref>de minimis non curat lex</cref>.</cd> -- <col>de minimis non curat lex</col> <ety>[Latin]</ety> <cd>The law does not concern itself with trifles; -- a principle of law, that even if a technical violation of a law appears to exist according to the letter of the law, if the effect is too small to be of consequence, the violation of the law will not be considered as a sufficient cause of action, whether in civil or criminal proceedings.</cd></cs></p>
 </entry>
 
 <entry main-word="Mining" source="1913 Webster">
@@ -23251,7 +23251,7 @@ That shoulde keep and rule this cit<eacute/.</q> <rj><qau>Chaucer.</qau></rj></p
 </entry>
 
 <entry main-word="Minute" source="1913 Webster">
-<p><hw>Mi*nute"</hw> <pr>(m<imac/*n<umac/t" <it>or</it> m<icr/*n<umac/t")</pr>, <pos>a.</pos> <ety>[L. <ets>minutus</ets>, p. p. of <ets>minuere</ets> to lessen. See <er>Minish</er>, <er>Minor</er>, and cf. <er>Menu</er>, <er>Minuet</er>.]</ety></p>
+<p><hw>Mi*nute"</hw> <pr>(m<imac/*n<umac/t" <or/ m<icr/*n<umac/t")</pr>, <pos>a.</pos> <ety>[L. <ets>minutus</ets>, p. p. of <ets>minuere</ets> to lessen. See <er>Minish</er>, <er>Minor</er>, and cf. <er>Menu</er>, <er>Minuet</er>.]</ety></p>
 
 <p><sn>1.</sn> <def>Very small; little; tiny; fine; slight; slender; inconsiderable; <as>as, <ex>minute</ex> details</as>.</def> <ldquo/<xex>Minute</xex> drops.<rdquo/  <rj><au>Milton.</au></rj></p>
 
@@ -25487,7 +25487,7 @@ To the <qex>mislead</qex> and lonely traveler.</q> <rj><qau>Milton.</qau></rj></
 
 <p><q>Enormous riot and <qex>misrule</qex> surveyed.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p><cs><mcol><col>Abbot of Misrule</col>, <it>or</it> <col>Lord of Misrule</col></mcol>. <cd>See under <er>Abbot</er>, and <er>Lord</er>.</cd></cs></p>
+<p><cs><mcol><col>Abbot of Misrule</col>, <or/ <col>Lord of Misrule</col></mcol>. <cd>See under <er>Abbot</er>, and <er>Lord</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Misruly" source="1913 Webster">
@@ -27781,7 +27781,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 
 <p source="Webster 1913 Suppl."><sn>4.</sn> <def>A great personage; magnate; autocrat; <as>as, an industrial <ex>mogul</ex></as>.</def></p>
 
-<p><cs><mcol><col>Great Mogul</col>, <it>or</it>  <col>Grand Mogul</col></mcol>, <cd>the sovereign of the empire founded in Hindustan by the Mongols under <persfn>Baber</persfn> in the sixteenth century.  Hence, a very important personage; a lord; -- sometimes only <altname>mogul</altname> or <altname>Moghul</altname>.</cd></cs>  <rj><au>Dryden.</au></rj></p>
+<p><cs><mcol><col>Great Mogul</col>, <or/  <col>Grand Mogul</col></mcol>, <cd>the sovereign of the empire founded in Hindustan by the Mongols under <persfn>Baber</persfn> in the sixteenth century.  Hence, a very important personage; a lord; -- sometimes only <altname>mogul</altname> or <altname>Moghul</altname>.</cd></cs>  <rj><au>Dryden.</au></rj></p>
 </entry>
 
 <entry main-word="Moghul" source="PJC">
@@ -28113,7 +28113,7 @@ Scarce serves to quench my furnace-burning heat.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="molar" source="PJC">
-<p><hw>mo"lar</hw> <pr>(m<omac/"l<etil/r <it>or</it>  m<omac/"l<aum/r)</pr>, <pos>a.</pos> <ety>[L. <ets>moles</ets> mass.]</ety> <fld>(Chem.)</fld> <def>Being at a concentration having the designated number of moles (of solute) per liter of solvent; <as>as, an 0.2 <ex>molar</ex> solution of sodium chloride in water is close to isotonic</as>.</def></p>
+<p><hw>mo"lar</hw> <pr>(m<omac/"l<etil/r <or/  m<omac/"l<aum/r)</pr>, <pos>a.</pos> <ety>[L. <ets>moles</ets> mass.]</ety> <fld>(Chem.)</fld> <def>Being at a concentration having the designated number of moles (of solute) per liter of solvent; <as>as, an 0.2 <ex>molar</ex> solution of sodium chloride in water is close to isotonic</as>.</def></p>
 </entry>
 
 <entry main-word="Molar" source="1913 Webster">
@@ -28259,7 +28259,7 @@ Has <qex>moldered</qex> into beauty many a tower.</q> <rj><qau>Mason.</qau></rj>
 <entry main-word="Molding" source="1913 Webster">
 <p><mhw>{ <hw>Mold"ing</hw>, <hw>Mould"ing</hw>, }</mhw> <pos>p. a.</pos> <def>Used in making a mold or moldings; used in shaping anything according to a pattern.</def></p>
 
-<p><cs><mcol><col>Molding board</col> <it>or</it> <col>Moulding board</col></mcol>. <sd>(a)</sd> <cd>See <cref>Follow board</cref>, under <er>Follow</er>, <pos>v. t.</pos></cd> <sd>(b)</sd> <cd>A board on which bread or pastry is kneaded and shaped.</cd> -- <mcol><col>Molding machine</col> <it>or</it> <col>Moulding machine</col></mcol>. <sd>(a)</sd> <fld>(Woodworking)</fld> <cd>A planing machine for making moldings</cd>. <sd>(b)</sd> <fld>(Founding)</fld> <cd>A machine to assist in making molds for castings.</cd> -- <mcol><col>Molding mill</col> <it>or</it> <col>Moulding mill</col></mcol>, <cd>a mill for shaping timber.</cd> -- <mcol><col>Molding sand</col> <it>or</it> <col>Moulding sand</col></mcol> <fld>(Founding)</fld>, <cd>a kind of sand containing clay, used in making molds.</cd></cs></p>
+<p><cs><mcol><col>Molding board</col> <or/ <col>Moulding board</col></mcol>. <sd>(a)</sd> <cd>See <cref>Follow board</cref>, under <er>Follow</er>, <pos>v. t.</pos></cd> <sd>(b)</sd> <cd>A board on which bread or pastry is kneaded and shaped.</cd> -- <mcol><col>Molding machine</col> <or/ <col>Moulding machine</col></mcol>. <sd>(a)</sd> <fld>(Woodworking)</fld> <cd>A planing machine for making moldings</cd>. <sd>(b)</sd> <fld>(Founding)</fld> <cd>A machine to assist in making molds for castings.</cd> -- <mcol><col>Molding mill</col> <or/ <col>Moulding mill</col></mcol>, <cd>a mill for shaping timber.</cd> -- <mcol><col>Molding sand</col> <or/ <col>Moulding sand</col></mcol> <fld>(Founding)</fld>, <cd>a kind of sand containing clay, used in making molds.</cd></cs></p>
 </entry>
 
 <entry main-word="Moldwarp" source="1913 Webster">
@@ -29346,7 +29346,7 @@ Is lucky and happy and good and gay.</q></p>
 </entry>
 
 <entry main-word="Monism" source="1913 Webster">
-<p><hw>Mon"ism</hw> <pr>(m<ocr/n"<icr/z'm <it>or</it> m<omac/"n<icr/z'm)</pr>, <pos>n.</pos> <ety>[From Gr. <grk>mo`nos</grk> single.]</ety> <sn>1.</sn> <fld>(Metaph.)</fld> <def>That doctrine which refers all phenomena to a single ultimate constituent or agent; -- the opposite of <contr>dualism</contr>.</def></p>
+<p><hw>Mon"ism</hw> <pr>(m<ocr/n"<icr/z'm <or/ m<omac/"n<icr/z'm)</pr>, <pos>n.</pos> <ety>[From Gr. <grk>mo`nos</grk> single.]</ety> <sn>1.</sn> <fld>(Metaph.)</fld> <def>That doctrine which refers all phenomena to a single ultimate constituent or agent; -- the opposite of <contr>dualism</contr>.</def></p>
 
 <p><note><hand/ The doctrine has been held in three generic forms: matter and its phenomena have been explained as a modification of mind, involving an idealistic <xex>monism</xex>; or mind has been explained by and resolved into matter, giving a materialistic <xex>monism</xex>; or, thirdly, matter, mind, and their phenomena have been held to be manifestations or modifications of some one substance, like the substance of Spinoza, or a supposed unknown something of some evolutionists, which is capable of an objective and subjective aspect.</note></p>
 
@@ -32219,7 +32219,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Morpheus" source="1913 Webster">
-<p><hw>Mor"pheus</hw> <pr>(m<ocir/r"f<umac/s <it>or</it> m<ocir/r"f<esl/*<ucr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Morfey`s</grk> prop., the fashioner or molder, because of the shapes he calls up before the sleeper, fr. <grk>morfh`</grk> form, shape.]</ety> <fld>(Class. Myth.)</fld> <def>The god of dreams.</def></p>
+<p><hw>Mor"pheus</hw> <pr>(m<ocir/r"f<umac/s <or/ m<ocir/r"f<esl/*<ucr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Morfey`s</grk> prop., the fashioner or molder, because of the shapes he calls up before the sleeper, fr. <grk>morfh`</grk> form, shape.]</ety> <fld>(Class. Myth.)</fld> <def>The god of dreams.</def></p>
 </entry>
 
 <entry main-word="Morphew" source="1913 Webster">
@@ -32520,7 +32520,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 
 <p><sn>2.</sn> <ety>[F. <ets>mortier</ets>, fr. L. <ets>mortarium</ets> mortar (for trituarating).]</ety> <fld>(Mil.)</fld> <def>A short piece of ordnance, used for throwing bombs, carcasses, shells, etc., at high angles of elevation, as 45<deg/, and even higher; -- so named from its resemblance in shape to the utensil above described.</def></p>
 
-<p><cs><col>Mortar bed</col> <fld>(Mil.)</fld>, <cd>a framework of wood and iron, suitably hollowed out to receive the breech and trunnions of a mortar.</cd> -- <mcol><col>Mortar boat</col> <it>or</it> <col>Mortar vessel</col></mcol> <fld>(Naut.)</fld>, <cd>a boat strongly built and adapted to carrying a mortar or mortars for bombarding; a bomb ketch.</cd> -- <col>Mortar piece</col>, <cd>a mortar.</cd> <mark>[Obs.]</mark> <au>Shak.</au></cs></p>
+<p><cs><col>Mortar bed</col> <fld>(Mil.)</fld>, <cd>a framework of wood and iron, suitably hollowed out to receive the breech and trunnions of a mortar.</cd> -- <mcol><col>Mortar boat</col> <or/ <col>Mortar vessel</col></mcol> <fld>(Naut.)</fld>, <cd>a boat strongly built and adapted to carrying a mortar or mortars for bombarding; a bomb ketch.</cd> -- <col>Mortar piece</col>, <cd>a mortar.</cd> <mark>[Obs.]</mark> <au>Shak.</au></cs></p>
 </entry>
 
 <entry main-word="Mortar" source="1913 Webster">
@@ -32859,7 +32859,7 @@ There 's nothing serious in <qex>mortality</qex>.</q> <rj><qau>Shak.</qau></rj><
 
 <p><note><hand/ <xex>Moss</xex> is used with participles in the composition of words which need no special explanation; as, <xex>moss</xex>-capped, <xex>moss</xex>-clad, <xex>moss</xex>-covered, <xex>moss</xex>-grown, etc.</note></p>
 
-<p><cs><col>Black moss</col>. <cd>See under <er>Black</er>, and <er>Tillandsia</er>.</cd> -- <col>Bog moss</col>. <cd>See <er>Sphagnum</er>.</cd> -- <col>Feather moss</col>, <cd>any moss branched in a feathery manner, esp. several species of the genus <gen>Hypnum</gen>.</cd> -- <mcol><col>Florida moss</col>, <col>Long moss</col>, <it>or</it> <col>Spanish moss</col></mcol>. <cd>See <er>Tillandsia</er>.</cd> -- <col>Iceland moss</col>, <cd>a lichen. See <er>Iceland Moss</er>.</cd> -- <col>Irish moss</col>, <cd>a seaweed. See <er>Carrageen</er>.</cd> -- <col>Moss agate</col> <fld>(Min.)</fld>, <cd>a variety of agate, containing brown, black, or green mosslike or dendritic markings, due in part to oxide of manganese. Called also <altname>Mocha stone</altname>.</cd> -- <col>Moss animal</col> <fld>(Zool.)</fld>, <cd>a bryozoan.</cd> -- <col>Moss berry</col> <fld>(Bot.)</fld>, <cd>the small cranberry (<spn>Vaccinium Oxycoccus</spn>).</cd> -- <col>Moss campion</col> <fld>(Bot.)</fld>, <cd>a kind of mosslike catchfly (<spn>Silene acaulis</spn>), with mostly purplish flowers, found on the highest mountains of Europe and America, and within the Arctic circle.</cd> -- <col>Moss land</col>, <cd>land produced accumulation of aquatic plants, forming peat bogs of more or less consistency, as the water is grained off or retained in its pores.</cd> -- <col>Moss pink</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Phlox</gen> (<spn>Phlox subulata</spn>), growing in patches on dry rocky hills in the Middle United States, and often cultivated for its handsome flowers.</cd> <au>Gray.</au> -- <col>Moss rose</col> <fld>(Bot.)</fld>, <cd>a variety of rose having a mosslike growth on the stalk and calyx.  It is said to be derived from the Provence rose.</cd> -- <col>Moss rush</col> <fld>(Bot.)</fld>, <cd>a rush of the genus <gen>Juncus</gen> (<spn>Juncus squarrosus</spn>).</cd> -- <col>Scale moss</col>. <cd>See <er>Hepatica</er>.</cd></cs></p>
+<p><cs><col>Black moss</col>. <cd>See under <er>Black</er>, and <er>Tillandsia</er>.</cd> -- <col>Bog moss</col>. <cd>See <er>Sphagnum</er>.</cd> -- <col>Feather moss</col>, <cd>any moss branched in a feathery manner, esp. several species of the genus <gen>Hypnum</gen>.</cd> -- <mcol><col>Florida moss</col>, <col>Long moss</col>, <or/ <col>Spanish moss</col></mcol>. <cd>See <er>Tillandsia</er>.</cd> -- <col>Iceland moss</col>, <cd>a lichen. See <er>Iceland Moss</er>.</cd> -- <col>Irish moss</col>, <cd>a seaweed. See <er>Carrageen</er>.</cd> -- <col>Moss agate</col> <fld>(Min.)</fld>, <cd>a variety of agate, containing brown, black, or green mosslike or dendritic markings, due in part to oxide of manganese. Called also <altname>Mocha stone</altname>.</cd> -- <col>Moss animal</col> <fld>(Zool.)</fld>, <cd>a bryozoan.</cd> -- <col>Moss berry</col> <fld>(Bot.)</fld>, <cd>the small cranberry (<spn>Vaccinium Oxycoccus</spn>).</cd> -- <col>Moss campion</col> <fld>(Bot.)</fld>, <cd>a kind of mosslike catchfly (<spn>Silene acaulis</spn>), with mostly purplish flowers, found on the highest mountains of Europe and America, and within the Arctic circle.</cd> -- <col>Moss land</col>, <cd>land produced accumulation of aquatic plants, forming peat bogs of more or less consistency, as the water is grained off or retained in its pores.</cd> -- <col>Moss pink</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Phlox</gen> (<spn>Phlox subulata</spn>), growing in patches on dry rocky hills in the Middle United States, and often cultivated for its handsome flowers.</cd> <au>Gray.</au> -- <col>Moss rose</col> <fld>(Bot.)</fld>, <cd>a variety of rose having a mosslike growth on the stalk and calyx.  It is said to be derived from the Provence rose.</cd> -- <col>Moss rush</col> <fld>(Bot.)</fld>, <cd>a rush of the genus <gen>Juncus</gen> (<spn>Juncus squarrosus</spn>).</cd> -- <col>Scale moss</col>. <cd>See <er>Hepatica</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Moss" source="1913 Webster">
@@ -33449,7 +33449,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 </entry>
 
 <entry main-word="Motor car" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Motor car</hw>, <it>or</it> <hw>Mo"tor*car`</hw> }</mhw>, <pos>n.</pos> <sn>1.</sn> <def>An automobile, locomobile, or locomotive designed to run and be steered on a street or roadway; esp., an automobile specially designed for passengers and propelled by an internal combustion engine.</def><br/
+<p><mhw>{ <hw>Motor car</hw>, <or/ <hw>Mo"tor*car`</hw> }</mhw>, <pos>n.</pos> <sn>1.</sn> <def>An automobile, locomobile, or locomotive designed to run and be steered on a street or roadway; esp., an automobile specially designed for passengers and propelled by an internal combustion engine.</def><br/
 <syn><b>Syn. --</b> car, auto, automobile, machine.</syn></p>
 
 <p><sn>2.</sn>  <fld>(Elec. Railroads)</fld> <def>Any car containing motors for propulsion.</def> <mark>[U. S.]</mark></p>
@@ -33470,7 +33470,7 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 </entry>
 
 <entry main-word="motorcycle" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>mo"tor*cy`cle</hw>, <it>or</it>  <hw>mo"tor cy`cle</hw> }</mhw>, <pos>n.</pos> <def>A two-wheeled vehicle having a motor attached so as to be self-propelled.  In common usage, a <ex>motorcycle</ex> is of heavier construction with larger wheels, a more powerful motor, and a higher maximum speed than a <er>motorbike</er>.</def> <note>A motorcycle may have a small appended compartment called a <part>sidecar</part>, supported by a third wheel, which can carry a passenger.</note></p>
+<p><mhw>{ <hw>mo"tor*cy`cle</hw>, <or/  <hw>mo"tor cy`cle</hw> }</mhw>, <pos>n.</pos> <def>A two-wheeled vehicle having a motor attached so as to be self-propelled.  In common usage, a <ex>motorcycle</ex> is of heavier construction with larger wheels, a more powerful motor, and a higher maximum speed than a <er>motorbike</er>.</def> <note>A motorcycle may have a small appended compartment called a <part>sidecar</part>, supported by a third wheel, which can carry a passenger.</note></p>
 
 <p><note>In Great Britain as of 1913 the term <xex>motor cycle</xex> was treated by statute (<au>3 Ed VII. c. 36</au>) as limited to motor cars (self-propelled vehicles) designed to travel on not more than three wheels, and weighing unladen (that is, without water, fuel, or accumulators necessary for propulsion) not more than three hundred weight (336 lbs.).</note></p>
 </entry>
@@ -33777,7 +33777,7 @@ Make fair deductions, see to what they <qex>mount</qex>.</q> <rj><qau>Pope.</qau
 
 <p><q>The high, the <qex>mountain</qex> majesty of worth.</q> <rj><qau>Byron.</qau></rj></p>
 
-<p><cs><col>Mountain antelope</col> <fld>(Zool.)</fld>, <cd>the goral.</cd> -- <col>Mountain ash</col> <fld>(Bot.)</fld>, <cd>an ornamental tree, the <spn>Pyrus Americana</spn> (or <spn>Sorbus Americana</spn>), producing beautiful bunches of red berries. Its leaves are pinnate, and its flowers white, growing in fragrant clusters. The European species is the <spn>Pyrus aucuparia</spn>, or rowan tree.</cd> -- <col>Mountain barometer</col>, <cd>a portable barometer, adapted for safe transportation, used in measuring the heights of mountains.</cd> -- <col>Mountain beaver</col> <fld>(Zool.)</fld>, <cd>the sewellel.</cd> -- <col>Mountain blue</col> <fld>(Min.)</fld>, <cd>blue carbonate of copper; azurite.</cd> -- <col>Mountain cat</col> <fld>(Zool.)</fld>, <cd>the catamount. See <er>Catamount</er>.</cd> -- <col>Mountain chain</col>, <cd>a series of contiguous mountain ranges, generally in parallel or consecutive lines or curves.</cd> -- <col>Mountain cock</col> <fld>(Zool.)</fld>, <cd>capercailzie. See <er>Capercailzie</er>.</cd> -- <col>Mountain cork</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, resembling cork in its texture.</cd> -- <col>Mountain crystal</col>. <cd>See under <er>Crystal</er>.</cd> -- <col>Mountain damson</col> <fld>(Bot.)</fld>, <cd>a large tree of the genus <gen>Simaruba</gen> (<spn>Simaruba amarga</spn>) growing in the West Indies, which affords a bitter tonic and astringent, sometimes used in medicine.</cd> -- <col>Mountain dew</col>, <cd>Scotch whisky, so called because often illicitly distilled among the mountains.</cd> <mark>[Humorous]</mark> -- <col>Mountain ebony</col> <fld>(Bot.)</fld>, <cd>a small leguminous tree (<spn>Bauhinia variegata</spn>) of the East and West Indies; -- so called because of its dark wood. The bark is used medicinally and in tanning.</cd> -- <col>Mountain flax</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, having very fine fibers; amianthus. See <er>Amianthus</er>.</cd> -- <col>Mountain fringe</col> <fld>(Bot.)</fld>, <cd>climbing fumitory. See under <er>Fumitory</er>.</cd> -- <col>Mountain goat</col>. <fld>(Zool.)</fld> <cd>See <er>Mazama</er>.</cd> -- <col>Mountain green</col>. <fld>(Min.)</fld> <sd>(a)</sd> <cd>Green malachite, or carbonate of copper</cd>. <sd>(b)</sd> <cd>See <cref>Green earth</cref>, under <er>Green</er>, <pos>a.</pos></cd> -- <col>Mountain holly</col> <fld>(Bot.)</fld>, <cd>a branching shrub (<spn>Nemopanthes Canadensis</spn>), having smooth oblong leaves and red berries.  It is found in the Northern United States.</cd> -- <col>Mountain laurel</col> <fld>(Bot.)</fld>, <cd>an American shrub (<spn>Kalmia latifolia</spn>) with glossy evergreen leaves and showy clusters of rose-colored or white flowers.  The foliage is poisonous.  Called also <altname>American laurel</altname>, <altname>ivy bush</altname>, and <altname>calico bush</altname>.  See <er>Kalmia</er>.</cd> -- <col>Mountain leather</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, resembling leather in its texture.</cd> -- <col>Mountain licorice</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Trifolium</gen> (<spn>Trifolium Alpinum</spn>).</cd> -- <col>Mountain limestone</col> <fld>(Geol.)</fld>, <cd>a series of marine limestone strata below the coal measures, and above the old red standstone of Great Britain.  See <xex>Chart</xex> of <er>Geology</er>.</cd> -- <col>Mountain linnet</col> <fld>(Zool.)</fld>, <cd>the twite.</cd> -- <col>Mountain magpie</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The yaffle, or green woodpecker</cd>. <sd>(b)</sd> <cd>The European gray shrike.</cd> -- <col>Mountain mahogany</col> <fld>(Bot.)</fld> <cd>See under <er>Mahogany</er>.</cd> -- <col>Mountain meal</col> <fld>(Min.)</fld>, <cd>a light powdery variety of calcite, occurring as an efflorescence.</cd> -- <col>Mountain milk</col> <fld>(Min.)</fld>, <cd>a soft spongy variety of carbonate of lime.</cd> -- <col>Mountain mint</col>. <fld>(Bot.)</fld> <cd>See <er>Mint</er>.</cd> -- <col>Mountain ousel</col> <fld>(Zool.)</fld>, <cd>the ring ousel; -- called also <altname>mountain thrush</altname> and <altname>mountain colley</altname>.  See <er>Ousel</er>.</cd> -- <mcol><col>Mountain pride</col>, <it>or</it> <col>Mountain green</col></mcol> <fld>(Bot.)</fld>, <cd>a tree of Jamaica (<spn>Spathelia simplex</spn>), which has an unbranched palmlike stem, and a terminal cluster of large, pinnate leaves.</cd> -- <col>Mountain quail</col> <fld>(Zool.)</fld>, <cd>the plumed partridge (<spn>Oreortyx pictus</spn>) of California.  It has two long, slender, plumelike feathers on the head.  The throat and sides are chestnut; the belly is brown with transverse bars of black and white; the neck and breast are dark gray.</cd> -- <col>Mountain range</col>, <cd>a series of mountains closely related in position and direction.</cd> -- <col>Mountain rice</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>An upland variety of rice, grown without irrigation, in some parts of Asia, Europe, and the United States</cd>. <sd>(b)</sd> <cd>An American genus of grasses (<gen>Oryzopsis</gen>).</cd> -- <col>Mountain rose</col> <fld>(Bot.)</fld>, <cd>a species of rose with solitary flowers, growing in the mountains of Europe (<spn>Rosa alpina</spn>).</cd> -- <col>Mountain soap</col> <fld>(Min.)</fld>, <cd>a soft earthy mineral, of a brownish color, used in crayon painting; saxonite.</cd> -- <col>Mountain sorrel</col> <fld>(Bot.)</fld>, <cd>a low perennial plant (<spn>Oxyria digyna</spn> with rounded kidney-form leaves, and small greenish flowers, found in the White Mountains of New Hampshire, and in high northern latitudes.</cd> <au>Gray.</au> -- <col>Mountain sparrow</col> <fld>(Zool.)</fld>, <cd>the European tree sparrow.</cd> -- <col>Mountain spinach</col>. <fld>(Bot.)</fld> <cd>See <er>Orach</er>.</cd> -- <col>Mountain tobacco</col> <fld>(Bot.)</fld>, <cd>a composite plant (<spn>Arnica montana</spn>) of Europe; called also <altname>leopard's bane</altname>.</cd> -- <col>Mountain witch</col> <fld>(Zool.)</fld>, <cd>a ground pigeon of Jamaica, of the genus <gen>Geotrygon</gen>.</cd></cs></p>
+<p><cs><col>Mountain antelope</col> <fld>(Zool.)</fld>, <cd>the goral.</cd> -- <col>Mountain ash</col> <fld>(Bot.)</fld>, <cd>an ornamental tree, the <spn>Pyrus Americana</spn> (or <spn>Sorbus Americana</spn>), producing beautiful bunches of red berries. Its leaves are pinnate, and its flowers white, growing in fragrant clusters. The European species is the <spn>Pyrus aucuparia</spn>, or rowan tree.</cd> -- <col>Mountain barometer</col>, <cd>a portable barometer, adapted for safe transportation, used in measuring the heights of mountains.</cd> -- <col>Mountain beaver</col> <fld>(Zool.)</fld>, <cd>the sewellel.</cd> -- <col>Mountain blue</col> <fld>(Min.)</fld>, <cd>blue carbonate of copper; azurite.</cd> -- <col>Mountain cat</col> <fld>(Zool.)</fld>, <cd>the catamount. See <er>Catamount</er>.</cd> -- <col>Mountain chain</col>, <cd>a series of contiguous mountain ranges, generally in parallel or consecutive lines or curves.</cd> -- <col>Mountain cock</col> <fld>(Zool.)</fld>, <cd>capercailzie. See <er>Capercailzie</er>.</cd> -- <col>Mountain cork</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, resembling cork in its texture.</cd> -- <col>Mountain crystal</col>. <cd>See under <er>Crystal</er>.</cd> -- <col>Mountain damson</col> <fld>(Bot.)</fld>, <cd>a large tree of the genus <gen>Simaruba</gen> (<spn>Simaruba amarga</spn>) growing in the West Indies, which affords a bitter tonic and astringent, sometimes used in medicine.</cd> -- <col>Mountain dew</col>, <cd>Scotch whisky, so called because often illicitly distilled among the mountains.</cd> <mark>[Humorous]</mark> -- <col>Mountain ebony</col> <fld>(Bot.)</fld>, <cd>a small leguminous tree (<spn>Bauhinia variegata</spn>) of the East and West Indies; -- so called because of its dark wood. The bark is used medicinally and in tanning.</cd> -- <col>Mountain flax</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, having very fine fibers; amianthus. See <er>Amianthus</er>.</cd> -- <col>Mountain fringe</col> <fld>(Bot.)</fld>, <cd>climbing fumitory. See under <er>Fumitory</er>.</cd> -- <col>Mountain goat</col>. <fld>(Zool.)</fld> <cd>See <er>Mazama</er>.</cd> -- <col>Mountain green</col>. <fld>(Min.)</fld> <sd>(a)</sd> <cd>Green malachite, or carbonate of copper</cd>. <sd>(b)</sd> <cd>See <cref>Green earth</cref>, under <er>Green</er>, <pos>a.</pos></cd> -- <col>Mountain holly</col> <fld>(Bot.)</fld>, <cd>a branching shrub (<spn>Nemopanthes Canadensis</spn>), having smooth oblong leaves and red berries.  It is found in the Northern United States.</cd> -- <col>Mountain laurel</col> <fld>(Bot.)</fld>, <cd>an American shrub (<spn>Kalmia latifolia</spn>) with glossy evergreen leaves and showy clusters of rose-colored or white flowers.  The foliage is poisonous.  Called also <altname>American laurel</altname>, <altname>ivy bush</altname>, and <altname>calico bush</altname>.  See <er>Kalmia</er>.</cd> -- <col>Mountain leather</col> <fld>(Min.)</fld>, <cd>a variety of asbestus, resembling leather in its texture.</cd> -- <col>Mountain licorice</col> <fld>(Bot.)</fld>, <cd>a plant of the genus <gen>Trifolium</gen> (<spn>Trifolium Alpinum</spn>).</cd> -- <col>Mountain limestone</col> <fld>(Geol.)</fld>, <cd>a series of marine limestone strata below the coal measures, and above the old red standstone of Great Britain.  See <xex>Chart</xex> of <er>Geology</er>.</cd> -- <col>Mountain linnet</col> <fld>(Zool.)</fld>, <cd>the twite.</cd> -- <col>Mountain magpie</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>The yaffle, or green woodpecker</cd>. <sd>(b)</sd> <cd>The European gray shrike.</cd> -- <col>Mountain mahogany</col> <fld>(Bot.)</fld> <cd>See under <er>Mahogany</er>.</cd> -- <col>Mountain meal</col> <fld>(Min.)</fld>, <cd>a light powdery variety of calcite, occurring as an efflorescence.</cd> -- <col>Mountain milk</col> <fld>(Min.)</fld>, <cd>a soft spongy variety of carbonate of lime.</cd> -- <col>Mountain mint</col>. <fld>(Bot.)</fld> <cd>See <er>Mint</er>.</cd> -- <col>Mountain ousel</col> <fld>(Zool.)</fld>, <cd>the ring ousel; -- called also <altname>mountain thrush</altname> and <altname>mountain colley</altname>.  See <er>Ousel</er>.</cd> -- <mcol><col>Mountain pride</col>, <or/ <col>Mountain green</col></mcol> <fld>(Bot.)</fld>, <cd>a tree of Jamaica (<spn>Spathelia simplex</spn>), which has an unbranched palmlike stem, and a terminal cluster of large, pinnate leaves.</cd> -- <col>Mountain quail</col> <fld>(Zool.)</fld>, <cd>the plumed partridge (<spn>Oreortyx pictus</spn>) of California.  It has two long, slender, plumelike feathers on the head.  The throat and sides are chestnut; the belly is brown with transverse bars of black and white; the neck and breast are dark gray.</cd> -- <col>Mountain range</col>, <cd>a series of mountains closely related in position and direction.</cd> -- <col>Mountain rice</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>An upland variety of rice, grown without irrigation, in some parts of Asia, Europe, and the United States</cd>. <sd>(b)</sd> <cd>An American genus of grasses (<gen>Oryzopsis</gen>).</cd> -- <col>Mountain rose</col> <fld>(Bot.)</fld>, <cd>a species of rose with solitary flowers, growing in the mountains of Europe (<spn>Rosa alpina</spn>).</cd> -- <col>Mountain soap</col> <fld>(Min.)</fld>, <cd>a soft earthy mineral, of a brownish color, used in crayon painting; saxonite.</cd> -- <col>Mountain sorrel</col> <fld>(Bot.)</fld>, <cd>a low perennial plant (<spn>Oxyria digyna</spn> with rounded kidney-form leaves, and small greenish flowers, found in the White Mountains of New Hampshire, and in high northern latitudes.</cd> <au>Gray.</au> -- <col>Mountain sparrow</col> <fld>(Zool.)</fld>, <cd>the European tree sparrow.</cd> -- <col>Mountain spinach</col>. <fld>(Bot.)</fld> <cd>See <er>Orach</er>.</cd> -- <col>Mountain tobacco</col> <fld>(Bot.)</fld>, <cd>a composite plant (<spn>Arnica montana</spn>) of Europe; called also <altname>leopard's bane</altname>.</cd> -- <col>Mountain witch</col> <fld>(Zool.)</fld>, <cd>a ground pigeon of Jamaica, of the genus <gen>Geotrygon</gen>.</cd></cs></p>
 </entry>
 
 <entry main-word="Mountaineer" source="1913 Webster">
@@ -34132,7 +34132,7 @@ And ev'n the pavements were with <qex>mourning</qex> hid.</q> <rj><qau>Dryden.</
 <p><q>Counterfeit sad looks,<br/
 Make <qex>mouths</qex> upon me when I turn my back.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><cs><mcol><col>Down at the mouth</col> <it>or</it> <col>Down in the mouth</col></mcol>, <cd>chapfallen; of dejected countenance; depressed; discouraged.</cd> <mark>[Obs. or Colloq.]</mark> -- <col>Mouth friend</col>, <cd>one who professes friendship insincerely.</cd> <au>Shak.</au> -- <col>Mouth glass</col>, <cd>a small mirror for inspecting the mouth or teeth.</cd> -- <col>Mouth honor</col>, <cd>honor given in words, but not felt.</cd> <au>Shak.</au> -- <col>Mouth organ</col>. <fld>(Mus.)</fld> <sd>(a)</sd> <cd>Pan's pipes. See <er>Pandean</er>.</cd> <sd>(b)</sd> <cd>An harmonicon.</cd> -- <col>Mouth pipe</col>, <cd>an organ pipe with a lip or plate to cut the escaping air and make a sound.</cd> -- <col>To stop the mouth</col>, <cd>to silence or be silent; to put to shame; to confound.</cd> -- <col>To put one's foot in one's mouth</col>, <cd>to say something which causes one embarrassment.</cd> -- <col>To run off at the mouth</col>, <cd>to speak excessively.</cd> -- <col>To talk out of both sides of one's mouth</col>, <cd>to say things which are contradictory.</cd></cs></p>
+<p source="1913 Webster;;PJC"><cs><mcol><col>Down at the mouth</col> <or/ <col>Down in the mouth</col></mcol>, <cd>chapfallen; of dejected countenance; depressed; discouraged.</cd> <mark>[Obs. or Colloq.]</mark> -- <col>Mouth friend</col>, <cd>one who professes friendship insincerely.</cd> <au>Shak.</au> -- <col>Mouth glass</col>, <cd>a small mirror for inspecting the mouth or teeth.</cd> -- <col>Mouth honor</col>, <cd>honor given in words, but not felt.</cd> <au>Shak.</au> -- <col>Mouth organ</col>. <fld>(Mus.)</fld> <sd>(a)</sd> <cd>Pan's pipes. See <er>Pandean</er>.</cd> <sd>(b)</sd> <cd>An harmonicon.</cd> -- <col>Mouth pipe</col>, <cd>an organ pipe with a lip or plate to cut the escaping air and make a sound.</cd> -- <col>To stop the mouth</col>, <cd>to silence or be silent; to put to shame; to confound.</cd> -- <col>To put one's foot in one's mouth</col>, <cd>to say something which causes one embarrassment.</cd> -- <col>To run off at the mouth</col>, <cd>to speak excessively.</cd> -- <col>To talk out of both sides of one's mouth</col>, <cd>to say things which are contradictory.</cd></cs></p>
 
 <p><q><qex>The mouth</qex> of them that speak lies shall be <qex>stopped</qex>.</q> <rj><qau>Ps. lxiii. 11.</qau></rj></p>
 
@@ -35015,7 +35015,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="muesli" source="WordNet 1.5">
-<p><hw>mues"li</hw> <pr>(m<umac/s"l<esl/ <it>or</it> m<umac/z"l<esl/)</pr>  <pos>n.</pos> <def>A mixture of untoasted dry cereals, nuts, and fruits, eaten mostly as a breakfast cereal; -- of Swiss origin.</def></p>
+<p><hw>mues"li</hw> <pr>(m<umac/s"l<esl/ <or/ m<umac/z"l<esl/)</pr>  <pos>n.</pos> <def>A mixture of untoasted dry cereals, nuts, and fruits, eaten mostly as a breakfast cereal; -- of Swiss origin.</def></p>
 </entry>
 
 <entry main-word="muezzin" source="1913 Webster;;WordNet 1.5">
@@ -36457,7 +36457,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 
 <p><sn>3.</sn> <fld>(Law)</fld> <def>A record; the evidences or writings whereby a man is enabled to defend the title to his estate; title deeds and papers.</def>  <rj><au>Blount.</au></rj></p>
 
-<p><cs><mcol><col>Muniment room</col> <it>or</it> <col>Muniment house</col></mcol>, <cd>that room in a cathedral, castle, or other public building, which is used for keeping the records, charters, seals, deeds, and the like.</cd>  <au>Gwilt.</au></cs></p>
+<p><cs><mcol><col>Muniment room</col> <or/ <col>Muniment house</col></mcol>, <cd>that room in a cathedral, castle, or other public building, which is used for keeping the records, charters, seals, deeds, and the like.</cd>  <au>Gwilt.</au></cs></p>
 </entry>
 
 <entry main-word="Munite" source="1913 Webster">
@@ -37268,7 +37268,7 @@ Is fit for treasons, stratagems, and spoils.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Musical" source="1913 Webster">
 <p><hw>Mu"sic*al</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>musical</ets>.]</ety> <def>Of or pertaining to music; having the qualities of music; or the power of producing music; devoted to music; melodious; harmonious; <as>as, <ex>musical</ex> proportion; a <ex>musical</ex> voice; <ex>musical</ex> instruments; a <ex>musical</ex> sentence; <ex>musical</ex> persons.</as></def></p>
 
-<p><cs><mcol><col>Musical box</col>, <it>or</it> <col>Music box</col></mcol>, <cd>a box or case containing apparatus moved by clockwork so as to play certain tunes automatically.  The apparatus may be driven by a wind-up spring mechanism or by batteries.</cd> -- <col>Musical fish</col> <fld>(Zool.)</fld>, <cd>any fish which utters sounds under water, as the drumfish, grunt, gizzard shad, etc.</cd> -- <col>Musical glasses</col>, <cd>glass goblets or bowls so tuned and arranged that when struck, or rubbed, they produce musical notes.  Cf. <er>Harmonica</er>, <snr>1</snr>.</cd></cs></p>
+<p><cs><mcol><col>Musical box</col>, <or/ <col>Music box</col></mcol>, <cd>a box or case containing apparatus moved by clockwork so as to play certain tunes automatically.  The apparatus may be driven by a wind-up spring mechanism or by batteries.</cd> -- <col>Musical fish</col> <fld>(Zool.)</fld>, <cd>any fish which utters sounds under water, as the drumfish, grunt, gizzard shad, etc.</cd> -- <col>Musical glasses</col>, <cd>glass goblets or bowls so tuned and arranged that when struck, or rubbed, they produce musical notes.  Cf. <er>Harmonica</er>, <snr>1</snr>.</cd></cs></p>
 </entry>
 
 <entry main-word="Musical" source="1913 Webster">

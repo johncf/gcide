@@ -82,7 +82,7 @@ Your sad tires in a mile-<qex>a</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Aam" source="1913 Webster">
-<p><par/<hw>Aam</hw> <pr>(<add/m <it>or</it> <aum/m)</pr>, <pos>n.</pos> <ety>[D. <ets>aam</ets>, fr. LL. <ets>ama</ets>; cf. L. <ets>hama</ets> a water bucket, Gr. <?/]</ety> <def>A Dutch and German measure of liquids, varying in different cities, being at Amsterdam about 41 wine gallons, at Antwerp 36<frac12/, at Hamburg 38<frac14/.</def> <altsp>[Written also <asp>Aum</asp> and <asp>Awm</asp>.]</altsp></p>
+<p><par/<hw>Aam</hw> <pr>(<add/m <or/ <aum/m)</pr>, <pos>n.</pos> <ety>[D. <ets>aam</ets>, fr. LL. <ets>ama</ets>; cf. L. <ets>hama</ets> a water bucket, Gr. <?/]</ety> <def>A Dutch and German measure of liquids, varying in different cities, being at Amsterdam about 41 wine gallons, at Antwerp 36<frac12/, at Hamburg 38<frac14/.</def> <altsp>[Written also <asp>Aum</asp> and <asp>Awm</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Aard-vark" source="1913 Webster;;WordNet 1.5">
@@ -2052,7 +2052,7 @@ Caught at the hilt, as to <qex>abolish</qex> him.</q> <rj><qau>Tennyson.</qau></
 </entry>
 
 <entry main-word="Abraham-man" source="1913 Webster">
-<p><mhw><hw>A"bra*ham-man`</hw> <pr>(<?/)</pr> <it>or</it> <hw>A"bram-man`</hw></mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Possibly in allusion to the parable of the beggar Lazarus in Luke xvi. <au>Murray (New Eng. Dict. ).</au>]</ety> <def>One of a set of vagabonds who formerly roamed through England, feigning lunacy for the sake of obtaining alms.</def>  <rj><au>Nares.</au></rj></p>
+<p><mhw><hw>A"bra*ham-man`</hw> <pr>(<?/)</pr> <or/ <hw>A"bram-man`</hw></mhw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Possibly in allusion to the parable of the beggar Lazarus in Luke xvi. <au>Murray (New Eng. Dict. ).</au>]</ety> <def>One of a set of vagabonds who formerly roamed through England, feigning lunacy for the sake of obtaining alms.</def>  <rj><au>Nares.</au></rj></p>
 
 <p><cs><col>To sham Abraham</col>, <cd>to feign sickness.</cd> <au>Goldsmith.</au></cs></p>
 </entry>
@@ -2100,7 +2100,7 @@ Caught at the hilt, as to <qex>abolish</qex> him.</q> <rj><qau>Tennyson.</qau></
 </entry>
 
 <entry main-word="Abraum" source="1913 Webster">
-<p><mhw><hw>A*braum"</hw> <it>or</it> <hw>A*braum" salts</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Ger., fr. <ets>abr<aum/umen</ets> to remove.]</ety> <def>A red ocher used to darken mahogany and for making chloride of potassium.</def></p>
+<p><mhw><hw>A*braum"</hw> <or/ <hw>A*braum" salts</hw> <pr>(<?/)</pr></mhw>, <pos>n.</pos> <ety>[Ger., fr. <ets>abr<aum/umen</ets> to remove.]</ety> <def>A red ocher used to darken mahogany and for making chloride of potassium.</def></p>
 </entry>
 
 <entry main-word="Abraxas" source="1913 Webster">
@@ -2911,7 +2911,7 @@ To punish bodies for the soul's offense.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Abstracted; absent in mind.</def> <ldquo/<xex>Abstract</xex>, as in a trance.<rdquo/  <rj><au>Milton.</au></rj></p>
 
-<p><cs><col>An abstract idea</col> <fld>(Metaph.)</fld>, <cd>an idea separated from a complex object, or from other ideas which naturally accompany it; as the solidity of marble when contemplated apart from its color or figure.</cd> -- <col>Abstract terms</col>, <cd>those which express abstract ideas, as beauty, whiteness, roundness, without regarding any object in which they exist; or <xex>abstract terms</xex> are the names of orders, genera or species of things, in which there is a combination of similar qualities.</cd> -- <col>Abstract numbers</col> <fld>(Math.)</fld>, <cd>numbers used without application to things, as 6, 8, 10; but when applied to any thing, as 6 feet, 10 men, they become concrete.</cd> -- <mcol><col>Abstract mathematics</col> <it>or</it> <col>Pure mathematics</col></mcol>. <cd>See <er>Mathematics</er>.</cd></cs></p>
+<p><cs><col>An abstract idea</col> <fld>(Metaph.)</fld>, <cd>an idea separated from a complex object, or from other ideas which naturally accompany it; as the solidity of marble when contemplated apart from its color or figure.</cd> -- <col>Abstract terms</col>, <cd>those which express abstract ideas, as beauty, whiteness, roundness, without regarding any object in which they exist; or <xex>abstract terms</xex> are the names of orders, genera or species of things, in which there is a combination of similar qualities.</cd> -- <col>Abstract numbers</col> <fld>(Math.)</fld>, <cd>numbers used without application to things, as 6, 8, 10; but when applied to any thing, as 6 feet, 10 men, they become concrete.</cd> -- <mcol><col>Abstract mathematics</col> <or/ <col>Pure mathematics</col></mcol>. <cd>See <er>Mathematics</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Abstract" source="1913 Webster">
@@ -3922,7 +3922,7 @@ Such words as Heaven alone is fit to hear.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><note><hand/ In modern law, <xex>proposal</xex> and <xex>acceptance</xex> are the constituent elements into which all contracts are resolved.</note></p>
 
-<p><cs><mcol><col>acceptance of a bill of exchange</col>, <col>acceptance of a check</col>, <col>acceptance of a draft</col>, <it>or</it> <col>acceptance of an order</col></mcol>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
+<p><cs><mcol><col>acceptance of a bill of exchange</col>, <col>acceptance of a check</col>, <col>acceptance of a draft</col>, <or/ <col>acceptance of an order</col></mcol>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
 
 <p><sn>6.</sn> <def>Meaning; acceptation.</def> <mark>[Obs.]</mark></p>
 
@@ -4342,7 +4342,7 @@ Endamaged by the Elians.</q> <rj><qau>Chapman.</qau></rj></p>
 </entry>
 
 <entry main-word="Accolade" source="1913 Webster">
-<p><hw>Ac`co*lade"</hw> <pr>(<acr/k`k<osl/*l<amac/d" <it>or</it> <acr/k`k<osl/*l<adot/d"; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>accolade</ets>, It. <ets>accolata</ets>, fr. <ets>accollare</ets> to embrace; L. <ets>ad</ets> + <ets>collum</ets> neck.]</ety> <sn>1.</sn> <def>A ceremony formerly used in conferring knighthood, consisting of an embrace, and a slight blow on the shoulders with the flat blade of a sword.</def></p>
+<p><hw>Ac`co*lade"</hw> <pr>(<acr/k`k<osl/*l<amac/d" <or/ <acr/k`k<osl/*l<adot/d"; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>accolade</ets>, It. <ets>accolata</ets>, fr. <ets>accollare</ets> to embrace; L. <ets>ad</ets> + <ets>collum</ets> neck.]</ety> <sn>1.</sn> <def>A ceremony formerly used in conferring knighthood, consisting of an embrace, and a slight blow on the shoulders with the flat blade of a sword.</def></p>
 
 <p><sn>2.</sn> <fld>(Mus.)</fld> <def>A brace used to join two or more staves.</def></p>
 </entry>
@@ -7056,7 +7056,7 @@ The burial ground, <qex>God's acre</qex>.</q> <rj><qau>Longfellow.</qau></rj></p
 </entry>
 
 <entry main-word="Acroter" source="1913 Webster">
-<p><hw>Ac"ro*ter</hw> <pr>(<acr/k`r<osl/*t<etil/r <it>or</it> <adot/*kr<omac/*t<etil/r)</pr>, <pos>n.</pos> <ety>[F. <ets>acrot<egrave/re</ets>. See <er>Acroterium</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Acroterium</er>.</def></p>
+<p><hw>Ac"ro*ter</hw> <pr>(<acr/k`r<osl/*t<etil/r <or/ <adot/*kr<omac/*t<etil/r)</pr>, <pos>n.</pos> <ety>[F. <ets>acrot<egrave/re</ets>. See <er>Acroterium</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Acroterium</er>.</def></p>
 </entry>
 
 <entry main-word="Acroterial" source="1913 Webster">
@@ -7164,7 +7164,7 @@ Could <qex>act</qex> extortion and the worst of crimes.</q> <rj><qau>Cowper.</qa
 
 <p><q>To show the world how Garrick did not <qex>act</qex>.</q> <rj><qau>Cowper.</qau></rj></p>
 
-<p><cs><mcol><col>To act as</col> <it>or</it> <col>To act for</col></mcol>, <cd>to do the work of; to serve as.</cd> -- <col>To act on</col>, <cd>to regulate one's conduct according to.</cd> -- <col>To act up to</col>, <cd>to equal in action; to fulfill in practice; <as>as, he has <ex>acted up to</ex> his engagement or his advantages</as>.</cd><-- to act up, to misbehave --></cs></p>
+<p><cs><mcol><col>To act as</col> <or/ <col>To act for</col></mcol>, <cd>to do the work of; to serve as.</cd> -- <col>To act on</col>, <cd>to regulate one's conduct according to.</cd> -- <col>To act up to</col>, <cd>to equal in action; to fulfill in practice; <as>as, he has <ex>acted up to</ex> his engagement or his advantages</as>.</cd><-- to act up, to misbehave --></cs></p>
 </entry>
 
 <entry main-word="Actable" source="1913 Webster">
@@ -8133,7 +8133,7 @@ False fugitive, and to thy speed <qex>add</qex> wings.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="Addax" source="1913 Webster">
-<p><hw>Ad"dax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>One of the largest African antelopes (<spn>Hippotragusnasomaculatus</spn> <it>or</it> <spn>Oryx nasomaculatus</spn>).</def></p>
+<p><hw>Ad"dax</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Native name.]</ety> <fld>(Zool.)</fld> <def>One of the largest African antelopes (<spn>Hippotragusnasomaculatus</spn> <or/ <spn>Oryx nasomaculatus</spn>).</def></p>
 
 <p><note><hand/ It is now believed to be the <altname>Strepsiceros</altname> (twisted horn) of the ancients. By some it is thought to be the <xex>pygarg</xex> of the Bible.</note></p>
 </entry>
@@ -8163,7 +8163,7 @@ False fugitive, and to thy speed <qex>add</qex> wings.</q> <rj><qau>Milton.</qau
 <entry main-word="Adder" source="1913 Webster">
 <p><hw>Ad"der</hw>, <pos>n.</pos> <ety>[OE. <ets>addere</ets>, <ets>naddere</ets>, <ets>eddre</ets>, AS. <ets>n<ae/dre</ets>, adder, snake; akin to OS. <ets>nadra</ets>, OHG. <ets>natra</ets>, <ets>natara</ets>, Ger. <ets>natter</ets>, Goth. <ets>nadrs</ets>, Icel. <ets>na<edh/r</ets>, masc., <ets>na<edh/ra</ets>, fem.: cf. W. <ets>neidr</ets>, Gorn. <ets>naddyr</ets>, Ir. <ets>nathair</ets>, L. <ets>natrix</ets>, water snake. <ets>An adder</ets> is for <ets>a nadder</ets>.]</ety> <sn>1.</sn> <def>A serpent.</def> <mark>[Obs.]</mark> <ldquo/The <xex>eddre</xex> seide to the woman.<rdquo/  <rj><au>Wyclif. Gen. iii. 4. )</au></rj></p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small venomous serpent of the genus <gen>Vipera</gen>. The common European adder is the <spn>Vipera  berus</spn> <it>or</it> <spn>Pelias berus</spn>. The puff adders of Africa are species of <gen>Clotho</gen>.</def> <sd>(b)</sd> <def>In America, the term is commonly applied to several harmless snakes, as the <stype>milk adder</stype>, <stype>puffing adder</stype>, etc.</def> <sd>(c)</sd> <def>Same as <er>Sea Adder</er>.</def></p>
+<p><sn>2.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A small venomous serpent of the genus <gen>Vipera</gen>. The common European adder is the <spn>Vipera  berus</spn> <or/ <spn>Pelias berus</spn>. The puff adders of Africa are species of <gen>Clotho</gen>.</def> <sd>(b)</sd> <def>In America, the term is commonly applied to several harmless snakes, as the <stype>milk adder</stype>, <stype>puffing adder</stype>, etc.</def> <sd>(c)</sd> <def>Same as <er>Sea Adder</er>.</def></p>
 
 <p><note><hand/ In the sculptures the appellation is given to several venomous serpents, -- sometimes to the horned viper (<gen>Cerastles</gen>).</note></p>
 </entry>
@@ -10921,7 +10921,7 @@ With titles blown from <qex>adulation</qex>?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Advertisement" source="1913 Webster">
-<p><hw>Ad*ver"tise*ment</hw> <pr>(<acr/d*v<etil/r"t<icr/z*m<eit/nt <it>or</it> <acr/d`v<etil/r*t<imac/z"m<eit/nt; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>avertisement</ets>, formerly also spelled <ets>advertissement</ets>, a warning, giving notice, fr. <ets>avertir</ets>.]</ety> <sn>1.</sn> <def>The act of informing or notifying; notification.</def> <mark>[Archaic]</mark></p>
+<p><hw>Ad*ver"tise*ment</hw> <pr>(<acr/d*v<etil/r"t<icr/z*m<eit/nt <or/ <acr/d`v<etil/r*t<imac/z"m<eit/nt; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>avertisement</ets>, formerly also spelled <ets>advertissement</ets>, a warning, giving notice, fr. <ets>avertir</ets>.]</ety> <sn>1.</sn> <def>The act of informing or notifying; notification.</def> <mark>[Archaic]</mark></p>
 
 <p><q>An <qex>advertisement</qex> of danger.</q> <rj><qau>Bp. Burnet.</qau></rj></p>
 
@@ -13042,7 +13042,7 @@ On hostile ground, none daring my <qex>affront</qex>.</q> <rj><qau>Milton.</qau>
 <entry main-word="African" source="1913 Webster">
 <p><hw>Af"ri*can</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L. <ets>Africus</ets>, <ets>Africanus</ets>, fr. <ets>Afer</ets> African.]</ety> <def>Of or pertaining to Africa.</def></p>
 
-<p><cs><col>African hemp</col>, <cd>a fiber prepared from the leaves of the <spn>Sanseviera Guineensis</spn>, a plant found in Africa and India.</cd> -- <col>African marigold</col>, <cd>a tropical American plant (<spn>Tagetes erecta</spn>).</cd> -- <mcol><col>African oak</col> <it>or</it> <col>African teak</col></mcol>, <cd>a timber furnished by <spn>Oldfieldia Africana</spn>, used in ship building.</cd></cs></p>
+<p><cs><col>African hemp</col>, <cd>a fiber prepared from the leaves of the <spn>Sanseviera Guineensis</spn>, a plant found in Africa and India.</cd> -- <col>African marigold</col>, <cd>a tropical American plant (<spn>Tagetes erecta</spn>).</cd> -- <mcol><col>African oak</col> <or/ <col>African teak</col></mcol>, <cd>a timber furnished by <spn>Oldfieldia Africana</spn>, used in ship building.</cd></cs></p>
 
 <p><cs><col>African violet</col> <cd></cd>. --  <col>African-American</col>, <cd>see <er>African-American</er>.</cd></cs></p>
 </entry>
@@ -13344,7 +13344,7 @@ On hostile ground, none daring my <qex>affront</qex>.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Aga" source="1913 Webster">
-<p><mhw><par/<hw>A*ga"</hw> or <par/<hw>A*gha"</hw> <pr>(<adot/*g<aum/" <it>or</it> <amac/"g<adot/)</pr></mhw>, <pos>n.</pos> <ety>[Turk. <ets>agh<amac/</ets> a great lord, chief master.]</ety> <def>In Turkey, a commander or chief officer. It is used also as a title of respect.</def></p>
+<p><mhw><par/<hw>A*ga"</hw> or <par/<hw>A*gha"</hw> <pr>(<adot/*g<aum/" <or/ <amac/"g<adot/)</pr></mhw>, <pos>n.</pos> <ety>[Turk. <ets>agh<amac/</ets> a great lord, chief master.]</ety> <def>In Turkey, a commander or chief officer. It is used also as a title of respect.</def></p>
 </entry>
 
 <entry main-word="Again" source="1913 Webster">
@@ -13651,7 +13651,7 @@ Holds its warped mirror to a gaping <qex>age</qex>.</q> <rj><qau>C. Sprague.</qa
 
 <p><sn>2.</sn> <def>Belonging to old age.</def> <ldquo/<xex>Aged</xex> cramps.<rdquo/  <rj><au>Shak.</au></rj></p>
 
-<p><sn>3.</sn> <pr>(<amac/"j<ecr/d <it>or</it> <amac/jd)</pr> <def>Having a certain age; at the age of; having lived; <as>as, a man <ex>aged</ex> forty years</as>.</def></p>
+<p><sn>3.</sn> <pr>(<amac/"j<ecr/d <or/ <amac/jd)</pr> <def>Having a certain age; at the age of; having lived; <as>as, a man <ex>aged</ex> forty years</as>.</def></p>
 </entry>
 
 <entry main-word="age-old" source="WordNet 1.5">
@@ -13779,7 +13779,7 @@ Holds its warped mirror to a gaping <qex>age</qex>.</q> <rj><qau>C. Sprague.</qa
 </entry>
 
 <entry main-word="Ageratum" source="1913 Webster">
-<p><par/<hw>A*ger"a*tum</hw> <pr>(<adot/*j<ecr/r"<adot/*t<ucr/m <it>or</it> <acr/j`<etil/r*<amac/"t<ucr/m)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'agh`raton</grk> a sort of plant; <grk>'a</grk> priv. + <grk>gh`ras</grk> old age.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, one species of which (<spn>Ageratum Mexicanum</spn>) has lavender-blue flowers in dense clusters.</def></p>
+<p><par/<hw>A*ger"a*tum</hw> <pr>(<adot/*j<ecr/r"<adot/*t<ucr/m <or/ <acr/j`<etil/r*<amac/"t<ucr/m)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'agh`raton</grk> a sort of plant; <grk>'a</grk> priv. + <grk>gh`ras</grk> old age.]</ety> <fld>(Bot.)</fld> <def>A genus of plants, one species of which (<spn>Ageratum Mexicanum</spn>) has lavender-blue flowers in dense clusters.</def></p>
 </entry>
 
 <entry main-word="Aggeneration" source="1913 Webster">
@@ -16891,7 +16891,7 @@ Above the shiny Cassiopeia's chair.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Aleppo boil" source="AS;;Webster 1913 Suppl.">
-<p><mhw>{ <hw>A*lep"po boil</hw>, <hw>A*lep"po but"ton</hw>, <it>or</it> <hw>A*lep"po e"vil</hw>  }</mhw>. <fld>(Med.)</fld> <def>Same as <er>Aden ulcer</er>.</def></p>
+<p><mhw>{ <hw>A*lep"po boil</hw>, <hw>A*lep"po but"ton</hw>, <or/ <hw>A*lep"po e"vil</hw>  }</mhw>. <fld>(Med.)</fld> <def>Same as <er>Aden ulcer</er>.</def></p>
 </entry>
 
 <entry main-word="Aleppo grass" source="Webster 1913 Suppl.">
@@ -17897,7 +17897,7 @@ That, like a wounded snake, drags its slow length along.</q> <rj><qau>Pope.</qau
 <p><q>A damsel lay deploring<br/
 <qex>All</qex> on a rock reclined.</q> <rj><qau>Gay.</qau></rj></p>
 
-<p><cs><mcol><col>All to</col>, <it>or</it>  <col>All-to</col></mcol>. <cd>In such phrases as <ldquo/<xex>all to</xex> rent,<rdquo/ <ldquo/<xex>all to break</xex>,<rdquo/ <ldquo/<xex>all-to</xex> frozen,<rdquo/ etc., which are of frequent occurrence in our old authors, the <xex>all</xex> and the <xex>to</xex> have commonly been regarded as forming a compound adverb, equivalent in meaning to <xex>entirely</xex>, <xex>completely</xex>, <xex>altogether</xex>. But the sense of entireness lies wholly in the word <xex>all</xex> (as it does in <ldquo/<xex>all</xex> forlorn,<rdquo/ and similar expressions), and the <xex>to</xex> properly belongs to the following word, being a kind of intensive prefix (orig. meaning <xex>asunder</xex> and answering to the LG. <xex>ter-</xex>, HG. <xex>zer-</xex>). It is frequently to be met with in old books, used without the <xex>all</xex>. Thus Wyclif says, <ldquo/The vail of the temple was <xex>to rent</xex>:<rdquo/ and of Judas, <ldquo/He was hanged and <xex>to-burst</xex> the middle:<rdquo/ <it>i. e.</it>, burst in two, or asunder.</cd> -- <col>All along</col>. <cd>See under <er>Along</er>.</cd> -- <col>All and some</col>, <cd>individually and collectively, one and all.</cd> <mark>[Obs.]</mark> <ldquo/Displeased <xex>all and some</xex>.<rdquo/ <au>Fairfax.</au> -- <col>All but</col>. <sd>(a)</sd> <cd>Scarcely; not even.</cd> <mark>[Obs.]</mark> <au>Shak.</au> <sd>(b)</sd> <cd>Almost; nearly.</cd> <ldquo/The fine arts were <xex>all but</xex> proscribed.<rdquo/ <au>Macaulay.</au> -- <col>All hollow</col>, <cd>entirely, completely; <as>as, to beat any one <ex>all hollow</ex></as>.</cd> <mark>[Low]</mark> -- <col>All one</col>, <cd>the same thing in effect; that is, wholly the same thing.</cd> -- <col>All over</col>, <cd>over the whole extent; thoroughly; wholly; <as>as, she is her mother <ex>all over</ex></as>.</cd> <mark>[Colloq.]</mark> -- <col>All the better</col>, <cd>wholly the better; that is, better by the whole difference.</cd> -- <col>All the same</col>, <cd>nevertheless.</cd>  <ldquo/There they [certain phenomena] remain rooted <xex>all the same</xex>, whether we recognize them or not.<rdquo/ <au>J. C. Shairp.</au> <ldquo/But Rugby is a very nice place <xex>all the same</xex>.<rdquo/ <au>T. Arnold.</au> -- See also under <er>All</er>, <pos>n.</pos></cs></p>
+<p><cs><mcol><col>All to</col>, <or/  <col>All-to</col></mcol>. <cd>In such phrases as <ldquo/<xex>all to</xex> rent,<rdquo/ <ldquo/<xex>all to break</xex>,<rdquo/ <ldquo/<xex>all-to</xex> frozen,<rdquo/ etc., which are of frequent occurrence in our old authors, the <xex>all</xex> and the <xex>to</xex> have commonly been regarded as forming a compound adverb, equivalent in meaning to <xex>entirely</xex>, <xex>completely</xex>, <xex>altogether</xex>. But the sense of entireness lies wholly in the word <xex>all</xex> (as it does in <ldquo/<xex>all</xex> forlorn,<rdquo/ and similar expressions), and the <xex>to</xex> properly belongs to the following word, being a kind of intensive prefix (orig. meaning <xex>asunder</xex> and answering to the LG. <xex>ter-</xex>, HG. <xex>zer-</xex>). It is frequently to be met with in old books, used without the <xex>all</xex>. Thus Wyclif says, <ldquo/The vail of the temple was <xex>to rent</xex>:<rdquo/ and of Judas, <ldquo/He was hanged and <xex>to-burst</xex> the middle:<rdquo/ <it>i. e.</it>, burst in two, or asunder.</cd> -- <col>All along</col>. <cd>See under <er>Along</er>.</cd> -- <col>All and some</col>, <cd>individually and collectively, one and all.</cd> <mark>[Obs.]</mark> <ldquo/Displeased <xex>all and some</xex>.<rdquo/ <au>Fairfax.</au> -- <col>All but</col>. <sd>(a)</sd> <cd>Scarcely; not even.</cd> <mark>[Obs.]</mark> <au>Shak.</au> <sd>(b)</sd> <cd>Almost; nearly.</cd> <ldquo/The fine arts were <xex>all but</xex> proscribed.<rdquo/ <au>Macaulay.</au> -- <col>All hollow</col>, <cd>entirely, completely; <as>as, to beat any one <ex>all hollow</ex></as>.</cd> <mark>[Low]</mark> -- <col>All one</col>, <cd>the same thing in effect; that is, wholly the same thing.</cd> -- <col>All over</col>, <cd>over the whole extent; thoroughly; wholly; <as>as, she is her mother <ex>all over</ex></as>.</cd> <mark>[Colloq.]</mark> -- <col>All the better</col>, <cd>wholly the better; that is, better by the whole difference.</cd> -- <col>All the same</col>, <cd>nevertheless.</cd>  <ldquo/There they [certain phenomena] remain rooted <xex>all the same</xex>, whether we recognize them or not.<rdquo/ <au>J. C. Shairp.</au> <ldquo/But Rugby is a very nice place <xex>all the same</xex>.<rdquo/ <au>T. Arnold.</au> -- See also under <er>All</er>, <pos>n.</pos></cs></p>
 </entry>
 
 <entry main-word="All" source="1913 Webster">
@@ -18323,7 +18323,7 @@ Is set apart for <qex>All Fools' Day</qex>.</q> <rj><qau>Poor Robin's Almanack (
 <entry main-word="All fours" source="1913 Webster">
 <p><hw>All` fours"</hw> <ety>[formerly, <asp>All four</asp>.]</ety> <def>All four legs of a quadruped; or the two legs and two arms of a person.</def></p>
 
-<p><cs><mcol><col>To be</col>, <col>go</col>, <it>or</it> <col>run</col>, <col>on all fours</col></mcol> (Fig.), <cd>to be on the same footing; to correspond (<xex>with</xex>) exactly; to be alike in all the circumstances to be considered.</cd>  <ldquo/This example <xex>is on all fours</xex> with the other.<rdquo/  <ldquo/No simile can <xex>go on all fours</xex>.<rdquo/  <au>Macaulay.</au></cs></p>
+<p><cs><mcol><col>To be</col>, <col>go</col>, <or/ <col>run</col>, <col>on all fours</col></mcol> (Fig.), <cd>to be on the same footing; to correspond (<xex>with</xex>) exactly; to be alike in all the circumstances to be considered.</cd>  <ldquo/This example <xex>is on all fours</xex> with the other.<rdquo/  <ldquo/No simile can <xex>go on all fours</xex>.<rdquo/  <au>Macaulay.</au></cs></p>
 </entry>
 
 <entry main-word="All hail" source="1913 Webster">
@@ -19483,7 +19483,7 @@ And with so firm affection were <qex>allied</qex>.</q> <rj><qau>Spenser.</qau></
 
 <p><note><hand/ The adjective <xex>alone</xex> commonly follows its noun.</note></p>
 
-<p><cs><mcol><col>To let alone</col> <it>or</it>  <col>To leave alone</col></mcol>, <cd>to abstain from interfering with or molesting; to suffer to remain in its present state.</cd></cs></p>
+<p><cs><mcol><col>To let alone</col> <or/  <col>To leave alone</col></mcol>, <cd>to abstain from interfering with or molesting; to suffer to remain in its present state.</cd></cs></p>
 </entry>
 
 <entry main-word="Alone" source="1913 Webster">
@@ -20905,7 +20905,7 @@ Of much <qex>amazement</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Ambary" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Am*ba"ry</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it>  <hw>Ambary hemp</hw>  }</mhw>. <ety>[Hind. <ets>amb<amac/r<amac/</ets>, <ets>amb<amac/r<imac/</ets>.]</ety> <def>A valuable East Indian fiber plant (<spn>Hibiscus cannabinus</spn>), or its fiber, which is used throughout India for making ropes, cordage, and a coarse canvas and sackcloth; -- called also <altname>brown Indian hemp</altname>.</def></p>
+<p><mhw>{ <hw>Am*ba"ry</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/  <hw>Ambary hemp</hw>  }</mhw>. <ety>[Hind. <ets>amb<amac/r<amac/</ets>, <ets>amb<amac/r<imac/</ets>.]</ety> <def>A valuable East Indian fiber plant (<spn>Hibiscus cannabinus</spn>), or its fiber, which is used throughout India for making ropes, cordage, and a coarse canvas and sackcloth; -- called also <altname>brown Indian hemp</altname>.</def></p>
 </entry>
 
 <entry main-word="Ambassade" source="1913 Webster">
@@ -22191,7 +22191,7 @@ Of Heaven.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Gum ammoniac" source="1913 Webster;;AS">
-<p><mhw><hw>Am*mo"ni*ac</hw> <pr>(<?/)</pr> (<it>or</it> <hw>Gum` am*mo"ni*ac</hw>)</mhw>, <pos>n.</pos> <ety>[L. <ets>Ammoniacum</ets>, Gr. <grk>'ammoniako`n</grk> a resinous gum, said to distill from a tree near the temple of Jupiter <ets>Ammon</ets>; cf. F. <ets>ammoniac</ets>. See <er>Ammonite</er>.]</ety> <fld>(Med.)</fld> <def>The concrete juice (gum resin) of an umbelliferous plant, the <spn>Dorema ammoniacum</spn>. It is brought chiefly from Iran in the form of yellowish tears, which occur singly, or are aggregated into masses. It has a peculiar smell, and a nauseous, sweet taste, followed by a bitter one. It is inflammable, partially soluble in water and in alcohol, and is used in medicine as an expectorant and resolvent, and for the formation of certain plasters.</def></p>
+<p><mhw><hw>Am*mo"ni*ac</hw> <pr>(<?/)</pr> (<or/ <hw>Gum` am*mo"ni*ac</hw>)</mhw>, <pos>n.</pos> <ety>[L. <ets>Ammoniacum</ets>, Gr. <grk>'ammoniako`n</grk> a resinous gum, said to distill from a tree near the temple of Jupiter <ets>Ammon</ets>; cf. F. <ets>ammoniac</ets>. See <er>Ammonite</er>.]</ety> <fld>(Med.)</fld> <def>The concrete juice (gum resin) of an umbelliferous plant, the <spn>Dorema ammoniacum</spn>. It is brought chiefly from Iran in the form of yellowish tears, which occur singly, or are aggregated into masses. It has a peculiar smell, and a nauseous, sweet taste, followed by a bitter one. It is inflammable, partially soluble in water and in alcohol, and is used in medicine as an expectorant and resolvent, and for the formation of certain plasters.</def></p>
 </entry>
 
 <entry main-word="Ammoniacal fermentation" source="Webster 1913 Suppl.">
@@ -23388,7 +23388,7 @@ To run <qex>amuck</qex>, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj></
 <entry main-word="Amyloid" source="1913 Webster">
 <p><mhw>{ <hw>Am"y*loid</hw> <pr>(<acr/m"<icr/*loid)</pr>, <hw>Am`y*loid"al</hw> <pr>(<acr/m`<icr/*loid"<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>amylum</ets> starch + <ets>-oid</ets>.]</ety> <def>Resembling or containing amyl; starchlike.</def> <mark>[Outdated]</mark></p>
 
-<p source="1913 Webster;;AS"><cs><col>Amyloid degeneration</col> <fld>(Med.)</fld>, <cd>Same as <er>amyloidosis</er>; -- called also <altname>waxy degeneration</altname> <it>or</it>  <altname>lardaceous degeneration</altname>.</cd></cs></p>
+<p source="1913 Webster;;AS"><cs><col>Amyloid degeneration</col> <fld>(Med.)</fld>, <cd>Same as <er>amyloidosis</er>; -- called also <altname>waxy degeneration</altname> <or/  <altname>lardaceous degeneration</altname>.</cd></cs></p>
 </entry>
 
 <entry main-word="amyloid" source="AS">
@@ -25980,7 +25980,7 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Angostura" source="1913 Webster;;WordNet 1.5">
-<p><mhw><hw>An`gos*tu"ra</hw>, <hw>An`gos*tu"ra bark"</hw></mhw> <pr>(<aum/<nsm/`g<ocr/s*t<oomac/"r<adot/ b<aum/rk`)</pr>. <ety>[From <etsep>Angostura</etsep>, in Venezuela.]</ety> <def>A bitter aromatic bark, obtained from a South American tree of the rue family (<spn>Galipea cusparia</spn>, <it>or</it> <spn>Galipea officinalis</spn>).  It is used used as a tonic, in medicines, liqueurs and bitters.</def>  <rj><au>U. S. Disp.</au></rj></p>
+<p><mhw><hw>An`gos*tu"ra</hw>, <hw>An`gos*tu"ra bark"</hw></mhw> <pr>(<aum/<nsm/`g<ocr/s*t<oomac/"r<adot/ b<aum/rk`)</pr>. <ety>[From <etsep>Angostura</etsep>, in Venezuela.]</ety> <def>A bitter aromatic bark, obtained from a South American tree of the rue family (<spn>Galipea cusparia</spn>, <or/ <spn>Galipea officinalis</spn>).  It is used used as a tonic, in medicines, liqueurs and bitters.</def>  <rj><au>U. S. Disp.</au></rj></p>
 </entry>
 
 <entry main-word="Angoumois moth" source="1913 Webster">
@@ -32732,7 +32732,7 @@ That should <qex>applaud</qex> again.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><note><ex>Apple</ex> is used either adjectively or in combination; as, <ex>apple</ex> paper or <ex>apple</ex>-paper, <ex>apple</ex>-shaped, <ex>apple</ex> blossom, <ex>apple</ex> dumpling, <ex>apple</ex> pudding.</note></p>
 
-<p><cs><col>Apple blight</col>, <cd>an aphid which injures apple trees. See <er>Blight</er>, <pos>n.</pos></cd> -- <col>Apple borer</col> <fld>(Zool.)</fld>, <cd>a coleopterous insect (<spn>Saperda candida</spn> <it>or</it> <spn>Saperda bivittata</spn>), the larva of which bores into the trunk of the apple tree and pear tree.</cd> -- <col>Apple brandy</col>, <cd>brandy made from apples.</cd> -- <col>Apple butter</col>, <cd>a sauce made of apples stewed down in cider.</cd> <au>Bartlett.</au> -- <col>Apple corer</col>, <cd>an instrument for removing the cores from apples.</cd> -- <col>Apple fly</col> <fld>(Zool.)</fld>, <cd>any dipterous insect, the larva of which burrows in apples. Apple flies belong to the genera <gen>Drosophila</gen> and <gen>Trypeta</gen>.</cd> -- <col>Apple midge</col> <fld>(Zool.)</fld> <cd>a small dipterous insect (<spn>Sciara mali</spn>), the larva of which bores in apples.</cd> -- <col>Apple of the eye</col>, <cd>the pupil.</cd> -- <col>Apple of discord</col>, <cd>a subject of contention and envy, so called from the mythological golden apple, inscribed <ldquo/For the fairest,<rdquo/ which was thrown into an assembly of the gods by Eris, the goddess of discord. It was contended for by Juno, Minerva, and Venus, and was adjudged to the latter.</cd> -- <mcol><col>Apple of love</col>, or <col>Love apple</col></mcol>, <cd>the tomato (<spn>Lycopersicum esculentum</spn>).</cd> -- <col>Apple of Peru</col>, <cd>a large coarse herb (<spn>Nicandra physaloides</spn>) bearing pale blue flowers, and a bladderlike fruit inclosing a dry berry.</cd> -- <col>Apples of Sodom</col>, <cd>a fruit described by ancient writers as externally of fair appearance but dissolving into smoke and ashes when plucked; Dead Sea apples. The name is often given to the fruit of <spn>Solanum Sodom<ae/um</spn>, a prickly shrub with fruit not unlike a small yellow tomato.</cd> -- <col>Apple sauce</col>, <cd>stewed apples.</cd> <mark>[U. S.]</mark> -- <mcol><col>Apple snail</col> or <col>Apple shell</col></mcol> <fld>(Zool.)</fld>, <cd>a fresh-water, operculated, spiral shell of the genus <gen>Ampullaria</gen>.</cd> -- <col>Apple tart</col>, <cd>a tart containing apples.</cd> -- <col>Apple tree</col>, <cd>a tree which naturally bears apples. See <er>Apple, 2.</er></cd> -- <col>Apple wine</col>, <cd>cider.</cd> -- <col>Apple worm</col> <fld>(Zool.)</fld>, <cd>the larva of a small moth (<spn>Carpocapsa pomonella</spn>) which burrows in the interior of apples. See <er>Codling moth</er>.</cd> -- <col>Dead Sea Apple</col>. <sd>(a)</sd> <pluf>pl.</pluf> <cd>Apples of Sodom.  Also <mark>Fig.</mark></cd>  <ldquo/To seek the <xex>Dead Sea apples</xex> of politics.<rdquo/ <au>S. B. Griffin.</au> <sd>(b)</sd> <cd>A kind of gallnut coming from Arabia. See <er>Gallnut</er>.</cd></cs></p>
+<p><cs><col>Apple blight</col>, <cd>an aphid which injures apple trees. See <er>Blight</er>, <pos>n.</pos></cd> -- <col>Apple borer</col> <fld>(Zool.)</fld>, <cd>a coleopterous insect (<spn>Saperda candida</spn> <or/ <spn>Saperda bivittata</spn>), the larva of which bores into the trunk of the apple tree and pear tree.</cd> -- <col>Apple brandy</col>, <cd>brandy made from apples.</cd> -- <col>Apple butter</col>, <cd>a sauce made of apples stewed down in cider.</cd> <au>Bartlett.</au> -- <col>Apple corer</col>, <cd>an instrument for removing the cores from apples.</cd> -- <col>Apple fly</col> <fld>(Zool.)</fld>, <cd>any dipterous insect, the larva of which burrows in apples. Apple flies belong to the genera <gen>Drosophila</gen> and <gen>Trypeta</gen>.</cd> -- <col>Apple midge</col> <fld>(Zool.)</fld> <cd>a small dipterous insect (<spn>Sciara mali</spn>), the larva of which bores in apples.</cd> -- <col>Apple of the eye</col>, <cd>the pupil.</cd> -- <col>Apple of discord</col>, <cd>a subject of contention and envy, so called from the mythological golden apple, inscribed <ldquo/For the fairest,<rdquo/ which was thrown into an assembly of the gods by Eris, the goddess of discord. It was contended for by Juno, Minerva, and Venus, and was adjudged to the latter.</cd> -- <mcol><col>Apple of love</col>, or <col>Love apple</col></mcol>, <cd>the tomato (<spn>Lycopersicum esculentum</spn>).</cd> -- <col>Apple of Peru</col>, <cd>a large coarse herb (<spn>Nicandra physaloides</spn>) bearing pale blue flowers, and a bladderlike fruit inclosing a dry berry.</cd> -- <col>Apples of Sodom</col>, <cd>a fruit described by ancient writers as externally of fair appearance but dissolving into smoke and ashes when plucked; Dead Sea apples. The name is often given to the fruit of <spn>Solanum Sodom<ae/um</spn>, a prickly shrub with fruit not unlike a small yellow tomato.</cd> -- <col>Apple sauce</col>, <cd>stewed apples.</cd> <mark>[U. S.]</mark> -- <mcol><col>Apple snail</col> or <col>Apple shell</col></mcol> <fld>(Zool.)</fld>, <cd>a fresh-water, operculated, spiral shell of the genus <gen>Ampullaria</gen>.</cd> -- <col>Apple tart</col>, <cd>a tart containing apples.</cd> -- <col>Apple tree</col>, <cd>a tree which naturally bears apples. See <er>Apple, 2.</er></cd> -- <col>Apple wine</col>, <cd>cider.</cd> -- <col>Apple worm</col> <fld>(Zool.)</fld>, <cd>the larva of a small moth (<spn>Carpocapsa pomonella</spn>) which burrows in the interior of apples. See <er>Codling moth</er>.</cd> -- <col>Dead Sea Apple</col>. <sd>(a)</sd> <pluf>pl.</pluf> <cd>Apples of Sodom.  Also <mark>Fig.</mark></cd>  <ldquo/To seek the <xex>Dead Sea apples</xex> of politics.<rdquo/ <au>S. B. Griffin.</au> <sd>(b)</sd> <cd>A kind of gallnut coming from Arabia. See <er>Gallnut</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Apple" source="1913 Webster">
@@ -33854,7 +33854,7 @@ First thy obedience.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Apron" source="1913 Webster">
-<p><hw>A"pron</hw> <pr>(<amac/"p<ucr/rn <it>or</it> <amac/"pr<ucr/n; 277)</pr>, <pos>n.</pos> <ety>[OE. <ets>napron</ets>, OF. <ets>naperon</ets>, F. <ets>napperon</ets>, dim. of OF. <ets>nape</ets>, F. <ets>nappe</ets>, cloth, tablecloth, LL. <ets>napa</ets>, fr. L. <ets>mappa</ets>, napkin, table napkin. See <er>Map</er>.]</ety> <sn>1.</sn> <def>An article of dress, of cloth, leather, or other stuff, worn on the fore part of the body, to keep the clothes clean, to defend them from injury, or as a covering. It is commonly tied at the waist by strings.</def></p>
+<p><hw>A"pron</hw> <pr>(<amac/"p<ucr/rn <or/ <amac/"pr<ucr/n; 277)</pr>, <pos>n.</pos> <ety>[OE. <ets>napron</ets>, OF. <ets>naperon</ets>, F. <ets>napperon</ets>, dim. of OF. <ets>nape</ets>, F. <ets>nappe</ets>, cloth, tablecloth, LL. <ets>napa</ets>, fr. L. <ets>mappa</ets>, napkin, table napkin. See <er>Map</er>.]</ety> <sn>1.</sn> <def>An article of dress, of cloth, leather, or other stuff, worn on the fore part of the body, to keep the clothes clean, to defend them from injury, or as a covering. It is commonly tied at the waist by strings.</def></p>
 
 <p><sn>2.</sn> <def>Something which by its shape or use suggests an apron;</def> <specif>as,</specif> <sd>(a)</sd> <def>The fat skin covering the belly of a goose or duck.</def> <mark>[Prov. Eng.]</mark> <au>Halliwell.</au> <sd>(b)</sd> <def>A piece of leather, or other material, to be spread before a person riding on an outside seat of a vehicle, to defend him from the rain, snow, or dust; a boot.</def>  <ldquo/The weather being too hot for the <xex>apron</xex>.<rdquo/ <au>Hughes.</au> <sd>(c)</sd> <fld>(Gun.)</fld> <def>A leaden plate that covers the vent of a cannon.</def> <sd>(d)</sd> <fld>(Shipbuilding)</fld> <def>A piece of carved timber, just above the foremost end of the keel.</def> <au>Totten.</au> <sd>(e)</sd> <def>A platform, or flooring of plank, at the entrance of a dock, against which the dock gates are shut.</def> <sd>(f)</sd> <def>A flooring of plank before a dam to cause the water to make a gradual descent.</def> <sd>(g)</sd> <fld>(Mech.)</fld> <def>The piece that holds the cutting tool of a planer.</def> <sd>(h)</sd> <fld>(Plumbing)</fld> <def>A strip of lead which leads the drip of a wall into a gutter; a flashing.</def> <sd>(i)</sd> <fld>(Zool.)</fld> <def>The infolded abdomen of a crab.</def></p>
 </entry>
@@ -33880,7 +33880,7 @@ First thy obedience.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Apron string" source="1913 Webster">
 <p><hw>A"pron string`</hw> <pr>(<?/)</pr>. <def>The string of an apron.</def></p>
 
-<p><cs><mcol><col>To be tied to a wife's apron strings</col>  <it>or</it> <col>To be tied to a mother's apron strings</col></mcol>, <cd>to be unduly controlled by a wife or mother.</cd></cs></p>
+<p><cs><mcol><col>To be tied to a wife's apron strings</col>  <or/ <col>To be tied to a mother's apron strings</col></mcol>, <cd>to be unduly controlled by a wife or mother.</cd></cs></p>
 
 <p><q>He was so made that he could not submit <qex>to be tied to the apron strings</qex> even of the best of wives.</q> <rj><qau>Macaulay.</qau></rj></p>
 </entry>
@@ -36539,7 +36539,7 @@ Bold without caution, without honors proud.</q> <rj><qau>Falconer.</qau></rj></p
 </entry>
 
 <entry main-word="Ariel" source="1913 Webster">
-<p><mhw><hw>A"ri*el</hw> <pr>(<?/)</pr>, <pos>n.</pos>, or <hw>A"ri*el ga*zelle"</hw> <pr>(<?/)</pr></mhw>. <ety>[Ar. <ets>aryil</ets>, <ets>ayyil</ets>, stag.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A variety of the gazelle (<spn>Antilope dorcas</spn>, <it>or</it>  <spn>Gazella, dorcas</spn>), found in Arabia and adjacent countries.</def> <sd>(b)</sd> <def>A squirrel-like Australian marsupial, a species of <gen>Petaurus</gen>.</def> <sd>(c)</sd> <def>A beautiful Brazilian toucan <spn>Ramphastos ariel</spn>).</def></p>
+<p><mhw><hw>A"ri*el</hw> <pr>(<?/)</pr>, <pos>n.</pos>, or <hw>A"ri*el ga*zelle"</hw> <pr>(<?/)</pr></mhw>. <ety>[Ar. <ets>aryil</ets>, <ets>ayyil</ets>, stag.]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A variety of the gazelle (<spn>Antilope dorcas</spn>, <or/  <spn>Gazella, dorcas</spn>), found in Arabia and adjacent countries.</def> <sd>(b)</sd> <def>A squirrel-like Australian marsupial, a species of <gen>Petaurus</gen>.</def> <sd>(c)</sd> <def>A beautiful Brazilian toucan <spn>Ramphastos ariel</spn>).</def></p>
 </entry>
 
 <entry main-word="Ariel" source="Webster 1913 Suppl.">
@@ -36888,7 +36888,7 @@ I know you will not lose him.</q> <rj><qau>Two N. Kins.</qau></rj></p>
 </entry>
 
 <entry main-word="Armada" source="1913 Webster">
-<p><hw>Ar*ma"da</hw> <pr>(<aum/r*m<amac/"d<adot/ <it>or</it> <aum/r*m<aum/"d<adot/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>armada</ets>, L. as if <ets>armata</ets> (sc. <ets>classic</ets> fleet), fr. <ets>armatus</ets>, p. p. of <ets>armare</ets>. See <er>Arm</er>, <pos>v. t.</pos> <er>Army</er>.]</ety> <def>A fleet of armed ships; a squadron. Specifically, the Spanish fleet which was sent to assail England, <sc>a. d.</sc> 1558.</def></p>
+<p><hw>Ar*ma"da</hw> <pr>(<aum/r*m<amac/"d<adot/ <or/ <aum/r*m<aum/"d<adot/)</pr>, <pos>n.</pos> <ety>[Sp. <ets>armada</ets>, L. as if <ets>armata</ets> (sc. <ets>classic</ets> fleet), fr. <ets>armatus</ets>, p. p. of <ets>armare</ets>. See <er>Arm</er>, <pos>v. t.</pos> <er>Army</er>.]</ety> <def>A fleet of armed ships; a squadron. Specifically, the Spanish fleet which was sent to assail England, <sc>a. d.</sc> 1558.</def></p>
 </entry>
 
 <entry main-word="Armadillidiidae" source="WordNet 1.5">
@@ -37675,7 +37675,7 @@ Of yesterday's <qex>arrear</qex>.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><q>I have a large <qex>arrear</qex> of letters to write.</q> <rj><qau>J. D. Forbes.</qau></rj></p>
 
-<p><cs><mcol><col>In arrear</col> <it>or</it>  <col>In arrears</col></mcol>, <cd>behind; backward; behindhand; in debt.</cd></cs></p>
+<p><cs><mcol><col>In arrear</col> <or/  <col>In arrears</col></mcol>, <cd>behind; backward; behindhand; in debt.</cd></cs></p>
 </entry>
 
 <entry main-word="Arrearage" source="1913 Webster">
@@ -38156,7 +38156,7 @@ Sharp sleet of <qex>arrowy</qex> showers.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Arsine" source="1913 Webster">
-<p><hw>Ar"sine</hw> <pr>(<aum/r"s<icr/n <it>or</it> -s<emac/n)</pr>, <pos>n.</pos> <ety>[From <er>Arsenic</er>.]</ety> <fld>(Chem.)</fld> <def>A compound of arsenic and hydrogen, <chform>AsH3</chform>, a colorless and exceedingly poisonous gas, having an odor like garlic; arseniureted hydrogen.</def></p>
+<p><hw>Ar"sine</hw> <pr>(<aum/r"s<icr/n <or/ -s<emac/n)</pr>, <pos>n.</pos> <ety>[From <er>Arsenic</er>.]</ety> <fld>(Chem.)</fld> <def>A compound of arsenic and hydrogen, <chform>AsH3</chform>, a colorless and exceedingly poisonous gas, having an odor like garlic; arseniureted hydrogen.</def></p>
 </entry>
 
 <entry main-word="Arsis" source="1913 Webster">
@@ -38227,7 +38227,7 @@ Sharp sleet of <qex>arrowy</qex> showers.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><cs><col>Art and part</col> <fld>(Scots Law)</fld>, <cd>share or concern by aiding and abetting a criminal in the perpetration of a crime, whether by advice or by assistance in the execution; complicity.</cd></cs></p>
 
-<p><note><hand/ The <xex>arts</xex> are divided into various classes. <col>The useful arts</col>, <col>The mechanical arts</col>, <it>or</it> <col>The industrial arts</col> are those in which the hands and body are more concerned than the mind; as in making clothes and utensils. These are called <xex>trades</xex>.  <col>The fine arts</col> are those which have primarily to do with imagination and taste, and are applied to the production of what is beautiful. They include poetry, music, painting, engraving, sculpture, and architecture; but the term is often confined to painting, sculpture, and architecture. <col>The liberal arts</col> (<xex>artes liberales</xex>, the higher arts, which, among the Romans, only freemen were permitted to pursue) were, in the Middle Ages, these seven branches of learning, -- grammar, logic, rhetoric, arithmetic, geometry, music, and astronomy. In modern times the <xex>liberal arts</xex> include the sciences, philosophy, history, etc., which compose the course of academical or collegiate education. Hence, degrees in the <xex>arts</xex>; master and bachelor of <xex>arts</xex>.</note></p>
+<p><note><hand/ The <xex>arts</xex> are divided into various classes. <col>The useful arts</col>, <col>The mechanical arts</col>, <or/ <col>The industrial arts</col> are those in which the hands and body are more concerned than the mind; as in making clothes and utensils. These are called <xex>trades</xex>.  <col>The fine arts</col> are those which have primarily to do with imagination and taste, and are applied to the production of what is beautiful. They include poetry, music, painting, engraving, sculpture, and architecture; but the term is often confined to painting, sculpture, and architecture. <col>The liberal arts</col> (<xex>artes liberales</xex>, the higher arts, which, among the Romans, only freemen were permitted to pursue) were, in the Middle Ages, these seven branches of learning, -- grammar, logic, rhetoric, arithmetic, geometry, music, and astronomy. In modern times the <xex>liberal arts</xex> include the sciences, philosophy, history, etc., which compose the course of academical or collegiate education. Hence, degrees in the <xex>arts</xex>; master and bachelor of <xex>arts</xex>.</note></p>
 
 <p><q>In America, literature and the elegant <qex>arts</qex> must grow up side by side with the coarser plants of daily necessity.</q> <rj><qau>Irving.</qau></rj></p>
 
@@ -38267,7 +38267,7 @@ Sharp sleet of <qex>arrowy</qex> showers.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Artemisia" source="1913 Webster">
-<p><hw>Ar`te*mi"si*a</hw> <pr>(<aum/rt<esl/"m<icr/zh"<icr/*<adot/ <it>or</it> <aum/rt<esl/"m<icr/sh"<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>Artemisia</ets>, Gr. <grk>'Artemisi`a</grk>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants including the plants called mugwort, southernwood, and wormwood. Of these <spn>Artemisia absinthium</spn>, or common wormwood, is well known, and <spn>Artemisia tridentata</spn> is the sage brush of the Rocky Mountain region.</def></p>
+<p><hw>Ar`te*mi"si*a</hw> <pr>(<aum/rt<esl/"m<icr/zh"<icr/*<adot/ <or/ <aum/rt<esl/"m<icr/sh"<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>Artemisia</ets>, Gr. <grk>'Artemisi`a</grk>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants including the plants called mugwort, southernwood, and wormwood. Of these <spn>Artemisia absinthium</spn>, or common wormwood, is well known, and <spn>Artemisia tridentata</spn> is the sage brush of the Rocky Mountain region.</def></p>
 </entry>
 
 <entry main-word="arteria" source="WordNet 1.5">
@@ -39021,7 +39021,7 @@ Heaven's easy, <qex>artless</qex>, unencumbered plan!</q> <rj><qau>Cowper.</qau>
 </entry>
 
 <entry main-word="Aryan" source="1913 Webster">
-<p><hw>Ar"yan</hw> <pr>(<aum/r"y<ait/n <it>or</it> <acr/r"<icr/*<ait/n)</pr>, <pos>n.</pos> <ety>[Skr. <ets><amac/rya</ets> excellent, honorable; akin to the name of the country <ets>Iran</ets>, and perh. to <ets>Erin</ets>, <ets>Ireland</ets>, and the early name of this people, at least in Asia.]</ety> <sn>1.</sn> <def>One of a primitive people supposed to have lived in prehistoric times, in Central Asia, east of the Caspian Sea, and north of the Hindu Kush and Paropamisan Mountains, and to have been the stock from which sprang the Hindu, Persian, Greek, Latin, Celtic, Teutonic, Slavonic, and other races; one of that ethnological division of mankind called also Indo-European or Indo-Germanic.</def></p>
+<p><hw>Ar"yan</hw> <pr>(<aum/r"y<ait/n <or/ <acr/r"<icr/*<ait/n)</pr>, <pos>n.</pos> <ety>[Skr. <ets><amac/rya</ets> excellent, honorable; akin to the name of the country <ets>Iran</ets>, and perh. to <ets>Erin</ets>, <ets>Ireland</ets>, and the early name of this people, at least in Asia.]</ety> <sn>1.</sn> <def>One of a primitive people supposed to have lived in prehistoric times, in Central Asia, east of the Caspian Sea, and north of the Hindu Kush and Paropamisan Mountains, and to have been the stock from which sprang the Hindu, Persian, Greek, Latin, Celtic, Teutonic, Slavonic, and other races; one of that ethnological division of mankind called also Indo-European or Indo-Germanic.</def></p>
 
 <p><sn>2.</sn> <def>The language of the original Aryans.</def>
 <altsp>[Written also <asp>Arian</asp>.]</altsp></p>
@@ -39030,7 +39030,7 @@ Heaven's easy, <qex>artless</qex>, unencumbered plan!</q> <rj><qau>Cowper.</qau>
 </entry>
 
 <entry main-word="Aryan" source="1913 Webster">
-<p><hw>Ar"yan</hw> <pr>(<aum/r"y<ait/n <it>or</it> <acr/r"<icr/*<ait/n)</pr>, <pos>a.</pos> <def>Of or pertaining to the people called Aryans; Indo-European; Indo-Germanic; <as>as, the <ex>Aryan</ex> stock, the <ex>Aryan</ex> languages</as>.</def></p>
+<p><hw>Ar"yan</hw> <pr>(<aum/r"y<ait/n <or/ <acr/r"<icr/*<ait/n)</pr>, <pos>a.</pos> <def>Of or pertaining to the people called Aryans; Indo-European; Indo-Germanic; <as>as, the <ex>Aryan</ex> stock, the <ex>Aryan</ex> languages</as>.</def></p>
 </entry>
 
 <entry main-word="Aryanize" source="1913 Webster">
@@ -39087,7 +39087,7 @@ Heaven's easy, <qex>artless</qex>, unencumbered plan!</q> <rj><qau>Cowper.</qau>
 
 <p><sn>10.</sn> <def>Expressing a wish.</def> <mark>[Obs.]</mark> <ldquo/<xex>As</xex> have,<rdquo/ <note><it>i. e.</it>, may he have.</note>  <rj><au>Chaucer.</au></rj></p>
 
-<p><cs><col>As . . as</col>. <cd>See <cref>So . . as</cref>, under <er>So</er>.</cd> -- <col>As far as</col>, <cd>to the extent or degree.</cd> <ldquo/<xex>As far as</xex> can be ascertained.<rdquo/ <au>Macaulay.</au> -- <col>As far forth as</col>, <cd>as far as.</cd>  <mark>[Obs.]</mark> <au>Chaucer.</au> -- <mcol><col>As for</col>, <it>or</it>  <col>As to</col></mcol>, <cd>in regard to; with respect to.</cd> -- <col>As good as</col>, <cd>not less than; not falling short of.</cd> -- <col>As good as one's word</col>, <cd>faithful to a promise.</cd> -- <mcol><col>As if</col>, or <col>As though</col></mcol>, <cd>of the same kind, or in the same condition or manner, that it would be if.</cd> -- <col>As it were</col> (as if it were), <cd>a qualifying phrase used to apologize for or to relieve some expression which might be regarded as inappropriate or incongruous; in a manner.</cd> -- <col>As now</col>, <cd>just now.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>As swythe</col>, <cd>as quickly as possible.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>As well</col>, <cd>also; too; besides.</cd> <au>Addison.</au> -- <col>As well as</col>, <cd>equally with, no less than.</cd>  <ldquo/I have understanding <xex>as well as</xex> you.<rdquo/ <au>Job xii. 3.</au> -- <col>As yet</col>, <cd>until now; up to or at the present time; still; now.</cd></cs></p>
+<p><cs><col>As . . as</col>. <cd>See <cref>So . . as</cref>, under <er>So</er>.</cd> -- <col>As far as</col>, <cd>to the extent or degree.</cd> <ldquo/<xex>As far as</xex> can be ascertained.<rdquo/ <au>Macaulay.</au> -- <col>As far forth as</col>, <cd>as far as.</cd>  <mark>[Obs.]</mark> <au>Chaucer.</au> -- <mcol><col>As for</col>, <or/  <col>As to</col></mcol>, <cd>in regard to; with respect to.</cd> -- <col>As good as</col>, <cd>not less than; not falling short of.</cd> -- <col>As good as one's word</col>, <cd>faithful to a promise.</cd> -- <mcol><col>As if</col>, or <col>As though</col></mcol>, <cd>of the same kind, or in the same condition or manner, that it would be if.</cd> -- <col>As it were</col> (as if it were), <cd>a qualifying phrase used to apologize for or to relieve some expression which might be regarded as inappropriate or incongruous; in a manner.</cd> -- <col>As now</col>, <cd>just now.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>As swythe</col>, <cd>as quickly as possible.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au> -- <col>As well</col>, <cd>also; too; besides.</cd> <au>Addison.</au> -- <col>As well as</col>, <cd>equally with, no less than.</cd>  <ldquo/I have understanding <xex>as well as</xex> you.<rdquo/ <au>Job xii. 3.</au> -- <col>As yet</col>, <cd>until now; up to or at the present time; still; now.</cd></cs></p>
 </entry>
 
 <entry main-word="As" source="1913 Webster">
@@ -39728,7 +39728,7 @@ Heaven's easy, <qex>artless</qex>, unencumbered plan!</q> <rj><qau>Cowper.</qau>
 
 <p><q>The lip of <qex>ashes</qex>, and the cheek of flame.</q> <rj><qau>Byron.</qau></rj></p>
 
-<p><cs><mcol><col>In dust and ashes</col>, <col>In sackcloth and ashes</col></mcol>, <cd>with humble expression of grief or repentance; -- from the method of mourning in Eastern lands.</cd> -- <mcol><col>Volcanic ashes</col>, <it>or</it>  <col>Volcanic ash</col></mcol>, <cd>the loose, earthy matter, or small fragments of stone or lava, ejected by volcanoes.</cd></cs></p>
+<p><cs><mcol><col>In dust and ashes</col>, <col>In sackcloth and ashes</col></mcol>, <cd>with humble expression of grief or repentance; -- from the method of mourning in Eastern lands.</cd> -- <mcol><col>Volcanic ashes</col>, <or/  <col>Volcanic ash</col></mcol>, <cd>the loose, earthy matter, or small fragments of stone or lava, ejected by volcanoes.</cd></cs></p>
 </entry>
 
 <entry main-word="Ash-fire" source="1913 Webster">
@@ -42906,7 +42906,7 @@ And yet methinks I have <qex>astronomy</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Atelets sauce" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>A`te*lets" sauce</hw> <pr>(?)</pr> <it>or</it>  <par/<hw>Sauce` aux ha`te*lets"</hw> <pr>(?)</pr> }</mhw>. <ety>[F. <ets>h<acirc/telet</ets> skewer.]</ety> <def>A sauce (such as egg and bread crumbs) used for covering bits of meat, small birds, or fish, strung on skewers for frying.</def></p>
+<p><mhw>{ <hw>A`te*lets" sauce</hw> <pr>(?)</pr> <or/  <par/<hw>Sauce` aux ha`te*lets"</hw> <pr>(?)</pr> }</mhw>. <ety>[F. <ets>h<acirc/telet</ets> skewer.]</ety> <def>A sauce (such as egg and bread crumbs) used for covering bits of meat, small birds, or fish, strung on skewers for frying.</def></p>
 </entry>
 
 <entry main-word="Atelier" source="1913 Webster">
@@ -45405,7 +45405,7 @@ Without a priestly curse or boding sound.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Auk" source="1913 Webster">
-<p><hw>Auk</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>alk</ets>; akin to Dan. <ets>alke</ets>, Icel. & Sw. <ets>alka</ets>.]</ety> <fld>(Zool.)</fld> <def>A name given to various species of arctic sea birds of the family <fam>Alcid<ae/</fam>. The great auk, now extinct, is <spn>Alca impennis</spn> (<it>or</it>  <spn>Plautus impennis</spn>) . The razor-billed auk is <spn>Alca torda</spn>.  See <er>Puffin</er>, <er>Guillemot</er>, and <er>Murre</er>.</def></p>
+<p><hw>Auk</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Prov. E. <ets>alk</ets>; akin to Dan. <ets>alke</ets>, Icel. & Sw. <ets>alka</ets>.]</ety> <fld>(Zool.)</fld> <def>A name given to various species of arctic sea birds of the family <fam>Alcid<ae/</fam>. The great auk, now extinct, is <spn>Alca impennis</spn> (<or/  <spn>Plautus impennis</spn>) . The razor-billed auk is <spn>Alca torda</spn>.  See <er>Puffin</er>, <er>Guillemot</er>, and <er>Murre</er>.</def></p>
 </entry>
 
 <entry main-word="Aukward" source="1913 Webster">
@@ -45751,7 +45751,7 @@ Without a priestly curse or boding sound.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Aurochs" source="1913 Webster">
-<p><hw>Au"rochs</hw> <pr>(<add/"r<ocr/ks)</pr>, <pos>n.</pos> <ety>[G. <ets>auerochs</ets>, OHG. <ets><umac/rohso</ets>; <ets><umac/r</ets> (cf. AS. <ets><umac/r</ets>) + <ets>ohso</ets> ox, G. <ets>ochs</ets>. Cf. <er>Owre</er>, <er>Ox</er>.]</ety> <fld>(Zool.)</fld> <def>The European bison (<spn>Bison bonasus</spn>, <it>or</it> <spn>Bison Europ<ae/us</spn>), once widely distributed, but now nearly extinct, except where protected in the Lithuanian forests, and perhaps in the Caucasus. It is distinct from the Urus of C<ae/sar, with which it has often been confused.</def></p>
+<p><hw>Au"rochs</hw> <pr>(<add/"r<ocr/ks)</pr>, <pos>n.</pos> <ety>[G. <ets>auerochs</ets>, OHG. <ets><umac/rohso</ets>; <ets><umac/r</ets> (cf. AS. <ets><umac/r</ets>) + <ets>ohso</ets> ox, G. <ets>ochs</ets>. Cf. <er>Owre</er>, <er>Ox</er>.]</ety> <fld>(Zool.)</fld> <def>The European bison (<spn>Bison bonasus</spn>, <or/ <spn>Bison Europ<ae/us</spn>), once widely distributed, but now nearly extinct, except where protected in the Lithuanian forests, and perhaps in the Caucasus. It is distinct from the Urus of C<ae/sar, with which it has often been confused.</def></p>
 </entry>
 
 <entry main-word="Aurocyanide" source="1913 Webster">
@@ -47162,7 +47162,7 @@ In Vallombrosa.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Avaunt" source="1913 Webster">
-<p><hw>A*vaunt"</hw> <pr>(<adot/*v<add/nt" <it>or</it> <adot/*v<aum/nt")</pr>, <pos>interj.</pos> <ety>[F. <ets>avant</ets> forward, fr. L. <ets>ab</ets> + <ets>ante</ets> before. Cf. <er>Avant</er>, <er>Advance</er>.]</ety> <def>Begone; depart; -- a word of contempt or abhorrence, equivalent to the phrase <ldquo/Get thee gone.<rdquo/</def></p>
+<p><hw>A*vaunt"</hw> <pr>(<adot/*v<add/nt" <or/ <adot/*v<aum/nt")</pr>, <pos>interj.</pos> <ety>[F. <ets>avant</ets> forward, fr. L. <ets>ab</ets> + <ets>ante</ets> before. Cf. <er>Avant</er>, <er>Advance</er>.]</ety> <def>Begone; depart; -- a word of contempt or abhorrence, equivalent to the phrase <ldquo/Get thee gone.<rdquo/</def></p>
 </entry>
 
 <entry main-word="Avaunt" source="1913 Webster">
@@ -48577,7 +48577,7 @@ Draws him <qex>awry</qex>, enslaved.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>6.</sn> <fld>(Fine Arts)</fld> <def>The primary or secondary central line of any design.</def></p>
 
-<p><cs><col>Anticlinal axis</col> <fld>(Geol.)</fld>, <cd>a line or ridge from which the strata slope downward on the two opposite sides.</cd> -- <col>Synclinal axis</col>, <cd>a line from which the strata slope upward in opposite directions, so as to form a valley.</cd> -- <col>Axis cylinder</col> <fld>(Anat.)</fld>, <cd>the neuraxis or essential, central substance of a nerve fiber; -- called also <altname>axis band</altname>, <altname>axial fiber</altname>, and <altname>cylinder axis</altname>.</cd> -- <col>Axis in peritrochio</col>, <cd>the wheel and axle, one of the mechanical powers.</cd> -- <col>Axis of a curve</col> <fld>(Geom.)</fld>, <cd>a straight line which bisects a system of parallel chords of a curve; called a <stype>principal axis</stype>, when cutting them at right angles, in which case it divides the curve into two symmetrical portions, as in the parabola, which has one such axis, the ellipse, which has two, or the circle, which has an infinite number. The two axes of the ellipse are the <stype>major axis</stype> and the <stype>minor axis</stype>, and the two axes of the hyperbola are the <stype>transverse axis</stype> and the <stype>conjugate axis</stype>.</cd>  -- <col>Axis of a lens</col>, <cd>the straight line passing through its center and perpendicular to its surfaces.</cd> -- <mcol><col>Axis of a microscope</col> <it>or</it> <col>Axis of a telescope</col></mcol>, <cd>the straight line with which coincide the axes of the several lenses which compose it.</cd> -- <col>Axes of co<oum/rdinates in a plane</col>, <cd>two straight lines intersecting each other, to which points are referred for the purpose of determining their relative position: they are either rectangular or oblique.</cd> -- <col>Axes of co<oum/rdinates in space</col>, <cd>the three straight lines in which the co<oum/rdinate planes intersect each other.</cd> -- <col>Axis of a balance</col>, <cd>that line about which it turns.</cd> -- <col>Axis of oscillation</col>, <cd>of a pendulum, a right line passing through the center about which it vibrates, and perpendicular to the plane of vibration.</cd> -- <col>Axis of polarization</col>, <cd>the central line around which the prismatic rings or curves are arranged.</cd> <au>Brewster.</au> -- <col>Axis of revolution</col> <fld>(Descriptive Geom.)</fld>, <cd>a straight line about which some line or plane is revolved, so that the several points of the line or plane shall describe circles with their centers in the fixed line, and their planes perpendicular to it, the line describing a surface of revolution, and the plane a solid of revolution.</cd> -- <col>Axis of symmetry</col> <fld>(Geom.)</fld>, <cd>any line in a plane figure which divides the figure into two such parts that one part, when folded over along the axis, shall coincide with the other part.</cd> -- <mcol><col>Axis of the</col> <col>equator, ecliptic, horizon</col> (or other circle considered with reference to the sphere on which it lies)</mcol>, <cd>the diameter of the sphere which is perpendicular to the plane of the circle.</cd> <au>Hutton.</au> -- <col>Axis of the Ionic capital</col> <fld>(Arch.)</fld>, <cd>a line passing perpendicularly through the middle of the eye of the volute.</cd> -- <col>Neutral axis</col> <fld>(Mech.)</fld>, <cd>the line of demarcation between the horizontal elastic forces of tension and compression, exerted by the fibers in any cross section of a girder.</cd> -- <col>Optic axis of a crystal</col>, <cd>the direction in which a ray of transmitted light suffers no double refraction. All crystals, not of the isometric system, are either <xex>uniaxial</xex> or <xex>biaxial</xex>.</cd> -- <mcol><col>Optic axis</col>, <col>Visual axis</col></mcol> <fld>(Opt.)</fld>, <cd>the straight line passing through the center of the pupil, and perpendicular to the surface of the eye.</cd> -- <col>Radical axis of two circles</col> <fld>(Geom.)</fld>, <cd>the straight line perpendicular to the line joining their centers and such that the tangents from any point of it to the two circles shall be equal to each other.</cd> -- <col>Spiral axis</col> <fld>(Arch.)</fld>, <cd>the axis of a twisted column drawn spirally in order to trace the circumvolutions without.</cd> -- <mcol><col>Axis of abscissas</col> and <col>Axis of ordinates</col></mcol>. <cd>See <er>Abscissa</er>.</cd></cs></p>
+<p><cs><col>Anticlinal axis</col> <fld>(Geol.)</fld>, <cd>a line or ridge from which the strata slope downward on the two opposite sides.</cd> -- <col>Synclinal axis</col>, <cd>a line from which the strata slope upward in opposite directions, so as to form a valley.</cd> -- <col>Axis cylinder</col> <fld>(Anat.)</fld>, <cd>the neuraxis or essential, central substance of a nerve fiber; -- called also <altname>axis band</altname>, <altname>axial fiber</altname>, and <altname>cylinder axis</altname>.</cd> -- <col>Axis in peritrochio</col>, <cd>the wheel and axle, one of the mechanical powers.</cd> -- <col>Axis of a curve</col> <fld>(Geom.)</fld>, <cd>a straight line which bisects a system of parallel chords of a curve; called a <stype>principal axis</stype>, when cutting them at right angles, in which case it divides the curve into two symmetrical portions, as in the parabola, which has one such axis, the ellipse, which has two, or the circle, which has an infinite number. The two axes of the ellipse are the <stype>major axis</stype> and the <stype>minor axis</stype>, and the two axes of the hyperbola are the <stype>transverse axis</stype> and the <stype>conjugate axis</stype>.</cd>  -- <col>Axis of a lens</col>, <cd>the straight line passing through its center and perpendicular to its surfaces.</cd> -- <mcol><col>Axis of a microscope</col> <or/ <col>Axis of a telescope</col></mcol>, <cd>the straight line with which coincide the axes of the several lenses which compose it.</cd> -- <col>Axes of co<oum/rdinates in a plane</col>, <cd>two straight lines intersecting each other, to which points are referred for the purpose of determining their relative position: they are either rectangular or oblique.</cd> -- <col>Axes of co<oum/rdinates in space</col>, <cd>the three straight lines in which the co<oum/rdinate planes intersect each other.</cd> -- <col>Axis of a balance</col>, <cd>that line about which it turns.</cd> -- <col>Axis of oscillation</col>, <cd>of a pendulum, a right line passing through the center about which it vibrates, and perpendicular to the plane of vibration.</cd> -- <col>Axis of polarization</col>, <cd>the central line around which the prismatic rings or curves are arranged.</cd> <au>Brewster.</au> -- <col>Axis of revolution</col> <fld>(Descriptive Geom.)</fld>, <cd>a straight line about which some line or plane is revolved, so that the several points of the line or plane shall describe circles with their centers in the fixed line, and their planes perpendicular to it, the line describing a surface of revolution, and the plane a solid of revolution.</cd> -- <col>Axis of symmetry</col> <fld>(Geom.)</fld>, <cd>any line in a plane figure which divides the figure into two such parts that one part, when folded over along the axis, shall coincide with the other part.</cd> -- <mcol><col>Axis of the</col> <col>equator, ecliptic, horizon</col> (or other circle considered with reference to the sphere on which it lies)</mcol>, <cd>the diameter of the sphere which is perpendicular to the plane of the circle.</cd> <au>Hutton.</au> -- <col>Axis of the Ionic capital</col> <fld>(Arch.)</fld>, <cd>a line passing perpendicularly through the middle of the eye of the volute.</cd> -- <col>Neutral axis</col> <fld>(Mech.)</fld>, <cd>the line of demarcation between the horizontal elastic forces of tension and compression, exerted by the fibers in any cross section of a girder.</cd> -- <col>Optic axis of a crystal</col>, <cd>the direction in which a ray of transmitted light suffers no double refraction. All crystals, not of the isometric system, are either <xex>uniaxial</xex> or <xex>biaxial</xex>.</cd> -- <mcol><col>Optic axis</col>, <col>Visual axis</col></mcol> <fld>(Opt.)</fld>, <cd>the straight line passing through the center of the pupil, and perpendicular to the surface of the eye.</cd> -- <col>Radical axis of two circles</col> <fld>(Geom.)</fld>, <cd>the straight line perpendicular to the line joining their centers and such that the tangents from any point of it to the two circles shall be equal to each other.</cd> -- <col>Spiral axis</col> <fld>(Arch.)</fld>, <cd>the axis of a twisted column drawn spirally in order to trace the circumvolutions without.</cd> -- <mcol><col>Axis of abscissas</col> and <col>Axis of ordinates</col></mcol>. <cd>See <er>Abscissa</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Axle" source="1913 Webster">
@@ -48622,7 +48622,7 @@ The steadfast earth.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Axminster" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Ax"min*ster</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Axminster carpet</hw>  }</mhw>. <sd>(a)</sd> <ety>[More fully <ets>chenille Axminster</ets>.]</ety> <def>A variety of Turkey carpet, woven by machine or, when more than 27 inches wide, on a hand loom, and consisting of strips of worsted chenille so colored as to produce a pattern on a stout jute backing. It has a fine soft pile. So called from <etsep>Axminster</etsep>, England, where it was formerly (1755 -- 1835) made.</def> <sd>(b)</sd> <def>A similar but cheaper machine-made carpet, resembling moquette in construction and appearance, but finer and of better material.</def></p>
+<p><mhw>{ <hw>Ax"min*ster</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Axminster carpet</hw>  }</mhw>. <sd>(a)</sd> <ety>[More fully <ets>chenille Axminster</ets>.]</ety> <def>A variety of Turkey carpet, woven by machine or, when more than 27 inches wide, on a hand loom, and consisting of strips of worsted chenille so colored as to produce a pattern on a stout jute backing. It has a fine soft pile. So called from <etsep>Axminster</etsep>, England, where it was formerly (1755 -- 1835) made.</def> <sd>(b)</sd> <def>A similar but cheaper machine-made carpet, resembling moquette in construction and appearance, but finer and of better material.</def></p>
 </entry>
 
 <entry main-word="Axolotl" source="1913 Webster">

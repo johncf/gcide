@@ -122,7 +122,7 @@ Her infant's thrilling kiss.</q> <rj><qau>Keble.</qau></rj></p>
 </entry>
 
 <entry main-word="Eagle" source="1913 Webster">
-<p><hw>Ea"gle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>egle</ets>, F. <ets>aigle</ets>, fr. L. <ets>aquila</ets>; prob. named from its color, fr. <ets>aquilus</ets> dark-colored, brown; cf. Lith. <ets>aklas</ets> blind.  Cf. <er>Aquiline</er>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>Any large, rapacious bird of the Falcon family, esp. of the genera <gen>Aquila</gen> and <gen>Hali<ae/etus</gen>.  The eagle is remarkable for strength, size, graceful figure, keenness of vision, and extraordinary flight.  The most noted species are the golden eagle (<spn>Aquila chrysa<eum/tus</spn>); the imperial eagle of Europe (<spn>Aquila mogilnik</spn> <it>or</it> <spn>Aquila imperialis</spn>); the American bald eagle (<spn>Hali<ae/etus leucocephalus</spn>); the European sea eagle (<spn>Hali<ae/etus albicilla</spn>); and the great harpy eagle (<spn>Thrasaetus harpyia</spn>).  The figure of the eagle, as the king of birds, is commonly used as an heraldic emblem, and also for standards and emblematic devices.  See <er>Bald eagle</er>, <er>Harpy</er>, and <er>Golden eagle</er>.</def></p>
+<p><hw>Ea"gle</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>egle</ets>, F. <ets>aigle</ets>, fr. L. <ets>aquila</ets>; prob. named from its color, fr. <ets>aquilus</ets> dark-colored, brown; cf. Lith. <ets>aklas</ets> blind.  Cf. <er>Aquiline</er>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>Any large, rapacious bird of the Falcon family, esp. of the genera <gen>Aquila</gen> and <gen>Hali<ae/etus</gen>.  The eagle is remarkable for strength, size, graceful figure, keenness of vision, and extraordinary flight.  The most noted species are the golden eagle (<spn>Aquila chrysa<eum/tus</spn>); the imperial eagle of Europe (<spn>Aquila mogilnik</spn> <or/ <spn>Aquila imperialis</spn>); the American bald eagle (<spn>Hali<ae/etus leucocephalus</spn>); the European sea eagle (<spn>Hali<ae/etus albicilla</spn>); and the great harpy eagle (<spn>Thrasaetus harpyia</spn>).  The figure of the eagle, as the king of birds, is commonly used as an heraldic emblem, and also for standards and emblematic devices.  See <er>Bald eagle</er>, <er>Harpy</er>, and <er>Golden eagle</er>.</def></p>
 
 <p><sn>2.</sn> <def>A gold coin of the United States, of the value of ten dollars.</def></p>
 
@@ -632,7 +632,7 @@ And guides the planets in their course.</q> <rj><qau>S. Rogers.</qau></rj></p>
 
 <p><note><hand/ <xex>Earth</xex> is used either adjectively or in combination to form compound words; as, <xex>earth</xex> apple or <xex>earth</xex>-apple; <xex>earth</xex> metal or <xex>earth</xex>-metal; <xex>earth</xex> closet or <xex>earth</xex>-closet.</note></p>
 
-<p><cs><mcol><col>Adamic earth</col>, <col>Bitter earth</col>, <col>Bog earth</col>, <col>Chian earth</col></mcol>, <cd>etc. See under <er>Adamic</er>, <er>Bitter</er>, etc.</cd> -- <col>Alkaline earths</col>. <cd>See under <er>Alkaline</er>.</cd> -- <col>Earth apple</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A potato.</cd> <sd>(b)</sd> <cd>A cucumber.</cd> -- <col>Earth auger</col>, <cd>a form of auger for boring into the ground; -- called also <altname>earth borer</altname>.</cd> -- <col>Earth bath</col>, <cd>a bath taken by immersing the naked body in earth for healing purposes.</cd> -- <col>Earth battery</col> <fld>(Physics)</fld>, <cd>a voltaic battery the elements of which are buried in the earth to be acted on by its moisture.</cd> -- <col>Earth chestnut</col>, <cd>the pignut.</cd> -- <col>Earth closet</col>, <cd>a privy or commode provided with dry earth or a similar substance for covering and deodorizing the f<ae/cal discharges.</cd> -- <col>Earth dog</col> <fld>(Zo<oum/l.)</fld>, <cd>a dog that will dig in the earth, or enter holes of foxes, etc.</cd> -- <mcol><col>Earth hog</col>, <col>Earth pig</col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>the aard-vark.</cd> -- <col>Earth hunger</col>, <cd>an intense desire to own land, or, in the case of nations, to extend their domain.</cd> -- <col>Earth light</col> <fld>(Astron.)</fld>, <cd>the light reflected by the earth, as upon the moon, and corresponding to moonlight; -- called also <altname>earth shine</altname>.</cd> <au>Sir J. Herschel.</au> -- <col>Earth metal</col>. <cd>See 1st <er>Earth</er>, <snr>7</snr>. <fld>(Chem.)</fld></cd> -- <col>Earth oil</col>, <cd>petroleum.</cd> -- <mcol><col>Earth pillars</col> <it>or</it> <col>Earth pyramids</col></mcol> <fld>(Geol.)</fld>, <cd>high pillars or pyramids of earth, sometimes capped with a single stone, found in Switzerland.</cd> <au>Lyell.</au> -- <col>Earth pitch</col> <fld>(Min.)</fld>, <cd>mineral tar, a kind of asphaltum.</cd> -- <col>Earth quadrant</col>, <cd>a fourth of the earth's circumference.</cd> -- <col>Earth table</col> <fld>(Arch.)</fld>, <cd>the lowest course of stones visible in a building; the ground table.</cd> -- <col>On earth</col>, <cd>an intensive expression, oftenest used in questions and exclamations; <as>as, What <ex>on earth</ex> shall I do? Nothing <ex>on earth</ex> will satisfy him</as>.</cd> <mark>[Colloq.]</mark></cs></p>
+<p><cs><mcol><col>Adamic earth</col>, <col>Bitter earth</col>, <col>Bog earth</col>, <col>Chian earth</col></mcol>, <cd>etc. See under <er>Adamic</er>, <er>Bitter</er>, etc.</cd> -- <col>Alkaline earths</col>. <cd>See under <er>Alkaline</er>.</cd> -- <col>Earth apple</col>. <fld>(Bot.)</fld> <sd>(a)</sd> <cd>A potato.</cd> <sd>(b)</sd> <cd>A cucumber.</cd> -- <col>Earth auger</col>, <cd>a form of auger for boring into the ground; -- called also <altname>earth borer</altname>.</cd> -- <col>Earth bath</col>, <cd>a bath taken by immersing the naked body in earth for healing purposes.</cd> -- <col>Earth battery</col> <fld>(Physics)</fld>, <cd>a voltaic battery the elements of which are buried in the earth to be acted on by its moisture.</cd> -- <col>Earth chestnut</col>, <cd>the pignut.</cd> -- <col>Earth closet</col>, <cd>a privy or commode provided with dry earth or a similar substance for covering and deodorizing the f<ae/cal discharges.</cd> -- <col>Earth dog</col> <fld>(Zo<oum/l.)</fld>, <cd>a dog that will dig in the earth, or enter holes of foxes, etc.</cd> -- <mcol><col>Earth hog</col>, <col>Earth pig</col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>the aard-vark.</cd> -- <col>Earth hunger</col>, <cd>an intense desire to own land, or, in the case of nations, to extend their domain.</cd> -- <col>Earth light</col> <fld>(Astron.)</fld>, <cd>the light reflected by the earth, as upon the moon, and corresponding to moonlight; -- called also <altname>earth shine</altname>.</cd> <au>Sir J. Herschel.</au> -- <col>Earth metal</col>. <cd>See 1st <er>Earth</er>, <snr>7</snr>. <fld>(Chem.)</fld></cd> -- <col>Earth oil</col>, <cd>petroleum.</cd> -- <mcol><col>Earth pillars</col> <or/ <col>Earth pyramids</col></mcol> <fld>(Geol.)</fld>, <cd>high pillars or pyramids of earth, sometimes capped with a single stone, found in Switzerland.</cd> <au>Lyell.</au> -- <col>Earth pitch</col> <fld>(Min.)</fld>, <cd>mineral tar, a kind of asphaltum.</cd> -- <col>Earth quadrant</col>, <cd>a fourth of the earth's circumference.</cd> -- <col>Earth table</col> <fld>(Arch.)</fld>, <cd>the lowest course of stones visible in a building; the ground table.</cd> -- <col>On earth</col>, <cd>an intensive expression, oftenest used in questions and exclamations; <as>as, What <ex>on earth</ex> shall I do? Nothing <ex>on earth</ex> will satisfy him</as>.</cd> <mark>[Colloq.]</mark></cs></p>
 </entry>
 
 <entry main-word="Earth" source="1913 Webster">
@@ -1220,7 +1220,7 @@ Have <qex>eat</qex> our substance.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To make one's way slowly.</def></p>
 
-<p><cs><mcol><col>To eat</col>, <col>To eat in</col> <it>or</it> <col>To eat into</col></mcol>, <cd>to make way by corrosion; to gnaw; to consume.</cd> <ldquo/A sword laid by, which <xex>eats into</xex> itself.<rdquo/ <au>Byron.</au> -- <col>To eat to windward</col> <fld>(Naut.)</fld>, <cd>to keep the course when closehauled with but little steering; -- said of a vessel.</cd></cs></p>
+<p><cs><mcol><col>To eat</col>, <col>To eat in</col> <or/ <col>To eat into</col></mcol>, <cd>to make way by corrosion; to gnaw; to consume.</cd> <ldquo/A sword laid by, which <xex>eats into</xex> itself.<rdquo/ <au>Byron.</au> -- <col>To eat to windward</col> <fld>(Naut.)</fld>, <cd>to keep the course when closehauled with but little steering; -- said of a vessel.</cd></cs></p>
 </entry>
 
 <entry main-word="Eatable" source="1913 Webster">
@@ -1537,7 +1537,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 
 <p><q>He shines <qex>eccentric</qex>, like a comet's blaze.</q> <rj><qau>Savage.</qau></rj></p>
 
-<p source=""><cs><col>Eccentric anomaly</col>. <fld>(Astron.)</fld> <cd>See <er>Anomaly</er>.</cd> -- <col>Eccentric chuck</col> <fld>(Mach.)</fld>, <cd>a lathe chuck so constructed that the work held by it may be altered as to its center of motion, so as to produce combinations of eccentric combinations of eccentric circles.</cd> -- <col>Eccentric gear</col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>The whole apparatus, strap, and other parts, by which the motion of an eccentric is transmitted, as in the steam engine.</cd> <sd>(b)</sd> <cd>A cogwheel set to turn about an eccentric axis used to give variable rotation.</cd> -- <mcol><col>Eccentric hook</col> <it>or</it> <col>Eccentric  gab</col></mcol>, <cd>a hook-shaped journal box on the end of an eccentric rod, opposite the strap.</cd> -- <col>Eccentric rod</col>, <cd>the rod that connects an eccentric strap with any part to be acted upon by the eccentric.</cd> -- <mcol><col>Eccentric sheave</col>, <it>or</it> <col>Eccentric pulley</col></mcol>, <cd>an eccentric.</cd> -- <col>Eccentric strap</col>, <cd>the ring, operating as a journal box, that encircles and receives motion from an eccentric; -- called also <altname>eccentric hoop</altname>.</cd></cs></p>
+<p source=""><cs><col>Eccentric anomaly</col>. <fld>(Astron.)</fld> <cd>See <er>Anomaly</er>.</cd> -- <col>Eccentric chuck</col> <fld>(Mach.)</fld>, <cd>a lathe chuck so constructed that the work held by it may be altered as to its center of motion, so as to produce combinations of eccentric combinations of eccentric circles.</cd> -- <col>Eccentric gear</col>. <fld>(Mach.)</fld> <sd>(a)</sd> <cd>The whole apparatus, strap, and other parts, by which the motion of an eccentric is transmitted, as in the steam engine.</cd> <sd>(b)</sd> <cd>A cogwheel set to turn about an eccentric axis used to give variable rotation.</cd> -- <mcol><col>Eccentric hook</col> <or/ <col>Eccentric  gab</col></mcol>, <cd>a hook-shaped journal box on the end of an eccentric rod, opposite the strap.</cd> -- <col>Eccentric rod</col>, <cd>the rod that connects an eccentric strap with any part to be acted upon by the eccentric.</cd> -- <mcol><col>Eccentric sheave</col>, <or/ <col>Eccentric pulley</col></mcol>, <cd>an eccentric.</cd> -- <col>Eccentric strap</col>, <cd>the ring, operating as a journal box, that encircles and receives motion from an eccentric; -- called also <altname>eccentric hoop</altname>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Irregular; anomalous; singular; odd; peculiar; erratic; idiosyncratic; strange; whimsical.</syn></p>
 </entry>
@@ -2450,7 +2450,7 @@ Blasted with <qex>ecstasy</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Edam" source="Webster 1913 Suppl.">
-<p><mhw><hw>E"dam</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Edam cheese</hw></mhw>. <def>A mild Dutch pressed cheese of yellow color and fine flavor, made in balls weighing three or four pounds, and usually colored crimson outside; -- so called from the village of <etsep>Edam,</etsep> near Amsterdam. Also, cheese of the same type, wherever made.</def></p>
+<p><mhw><hw>E"dam</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Edam cheese</hw></mhw>. <def>A mild Dutch pressed cheese of yellow color and fine flavor, made in balls weighing three or four pounds, and usually colored crimson outside; -- so called from the village of <etsep>Edam,</etsep> near Amsterdam. Also, cheese of the same type, wherever made.</def></p>
 </entry>
 
 <entry main-word="edaphosaurus" source="WordNet 1.5">
@@ -2635,7 +2635,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>I must <qex>edge</qex> up on a point of wind.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><cs><mcol><col>To edge away</col> <it>or</it> <col>To edge off</col></mcol> <fld>(Naut.)</fld>, <cd>to increase the distance gradually from the shore, vessel, or other object.</cd> -- <col>To edge down</col> <fld>(Naut.)</fld>, <cd>to approach by slow degrees, as when a sailing vessel approaches an object in an oblique direction from the windward.</cd> -- <col>To edge in</col>, <cd>to get in edgewise; to get in by degrees.</cd> -- <col>To edge in with</col>, <cd>as with a coast or vessel <fld>(Naut.)</fld>, to advance gradually, but not directly, toward it.</cd></cs></p>
+<p><cs><mcol><col>To edge away</col> <or/ <col>To edge off</col></mcol> <fld>(Naut.)</fld>, <cd>to increase the distance gradually from the shore, vessel, or other object.</cd> -- <col>To edge down</col> <fld>(Naut.)</fld>, <cd>to approach by slow degrees, as when a sailing vessel approaches an object in an oblique direction from the windward.</cd> -- <col>To edge in</col>, <cd>to get in edgewise; to get in by degrees.</cd> -- <col>To edge in with</col>, <cd>as with a coast or vessel <fld>(Naut.)</fld>, to advance gradually, but not directly, toward it.</cd></cs></p>
 </entry>
 
 <entry main-word="Edgebone" source="1913 Webster">
@@ -3122,7 +3122,7 @@ That troop with majesty.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>9.</sn> <pluf>pl.</pluf> <def>Goods; movables; personal estate; -- sometimes used to embrace real as well as personal property; <as>as, the people escaped from the town with their <ex>effects</ex></as>.</def></p>
 
-<p source=""><cs><col>For effect</col>, <cd>for an exaggerated impression or excitement.</cd> -- <col>In effect</col>, <cd>in fact; in substance. See <snr>8</snr>, above.</cd> -- <mcol><col>Of no effect</col>, <col>Of none effect</col>, <col>To no effect</col>, <it>or</it> <col>Without effect</col></mcol>, <cd>destitute of results, validity, force, and the like; vain; fruitless.</cd>  <ldquo/Making the word of God <xex>of none effect</xex> through your tradition.<rdquo/ <au>Mark vii. 13.</au> <ldquo/All my study be <xex>to no effect</xex>.<rdquo/ <au>Shak.</au> -- <col>To give effect to</col>, <cd>to make valid; to carry out in practice; to push to its results.</cd> -- <col>To take effect</col>, <cd>to become operative, to accomplish aims.</cd>  <rj><au>Shak.</au></rj>
+<p source=""><cs><col>For effect</col>, <cd>for an exaggerated impression or excitement.</cd> -- <col>In effect</col>, <cd>in fact; in substance. See <snr>8</snr>, above.</cd> -- <mcol><col>Of no effect</col>, <col>Of none effect</col>, <col>To no effect</col>, <or/ <col>Without effect</col></mcol>, <cd>destitute of results, validity, force, and the like; vain; fruitless.</cd>  <ldquo/Making the word of God <xex>of none effect</xex> through your tradition.<rdquo/ <au>Mark vii. 13.</au> <ldquo/All my study be <xex>to no effect</xex>.<rdquo/ <au>Shak.</au> -- <col>To give effect to</col>, <cd>to make valid; to carry out in practice; to push to its results.</cd> -- <col>To take effect</col>, <cd>to become operative, to accomplish aims.</cd>  <rj><au>Shak.</au></rj>
 </cs></p>
 
 <p><syn><b>Syn.</b> -- <er>Effect</er>, <er>Consequence</er>, <er>Result</er>.</syn>  <usage>These words indicate things which arise out of some antecedent, or follow as a consequent. <xex>Effect</xex>, which may be regarded as the generic term, denotes that which springs directly from something which can properly be termed a cause. A <xex>consequence</xex> is more remote, not being strictly caused, nor yet a mere sequence, but following out of and following indirectly, or in the train of events, something on which it truly depends.  A <xex>result</xex> is still more remote and variable, like the rebound of an elastic body which falls in very different directions. We may foresee the <xex>effects</xex> of a measure, may conjecture its <xex>consequences</xex>, but can rarely discover its final <xex>results</xex>.</usage></p>
@@ -3423,7 +3423,7 @@ The day thou eatest thereof, . . . thou shalt die.</q> <rj><qau>Milton.</qau></r
 <entry main-word="Effigy" source="1913 Webster">
 <p><hw>Ef"fi*gy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Effigies</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>effigies</ets>, fr. <ets>effingere</ets> to form, fashion; <ets>ex</ets> + <ets>fingere</ets> to form, shape, devise. See <er>Feign</er>.]</ety> <def>The image, likeness, or representation of a person, whether a full figure, or a part; an imitative figure; -- commonly applied to sculptured likenesses, as those on monuments, or to those of the heads of princes on coins and medals, sometimes applied to portraits.</def></p>
 
-<p><cs><mcol><col>To burn in effigy</col>, <it>or</it> <col>To hang in effigy</col></mcol>, <cd>to burn or to hang an image or picture of a person, as a token of public odium.</cd></cs></p>
+<p><cs><mcol><col>To burn in effigy</col>, <or/ <col>To hang in effigy</col></mcol>, <cd>to burn or to hang an image or picture of a person, as a token of public odium.</cd></cs></p>
 </entry>
 
 <entry main-word="Efflagitate" source="1913 Webster">
@@ -4359,7 +4359,7 @@ Barred over us, prohibit all <qex>egress</qex>.</q> <rj><qau>Milton.</qau></rj><
 </entry>
 
 <entry main-word="Either" source="1913 Webster">
-<p><hw>Ei"ther</hw> <pr>(<emac/"<th/<etil/r <it>or</it> <imac/"<th/<etil/r; 277)</pr>, <pos>a. & pron.</pos> <ety>[OE. <ets>either</ets>, <ets>aither</ets>, AS. <ets><aemac/g<edh/er</ets>, <ets><aemac/ghw<ae/<edh/er</ets> (akin to OHG. <ets><emac/ogiwedar</ets>, MHG. <ets>iegeweder</ets>); <ets><amac/</ets> + <ets>ge</ets> + <ets>hw<ae/<edh/er</ets> whether. See <er>Each</er>, and <er>Whether</er>, and cf. <er>Or</er>, <ets>conj</ets>.]</ety> <sn>1.</sn> <def>One of two; the one or the other; -- properly used of two things, but sometimes of a larger number, for <xex>any one</xex>.</def></p>
+<p><hw>Ei"ther</hw> <pr>(<emac/"<th/<etil/r <or/ <imac/"<th/<etil/r; 277)</pr>, <pos>a. & pron.</pos> <ety>[OE. <ets>either</ets>, <ets>aither</ets>, AS. <ets><aemac/g<edh/er</ets>, <ets><aemac/ghw<ae/<edh/er</ets> (akin to OHG. <ets><emac/ogiwedar</ets>, MHG. <ets>iegeweder</ets>); <ets><amac/</ets> + <ets>ge</ets> + <ets>hw<ae/<edh/er</ets> whether. See <er>Each</er>, and <er>Whether</er>, and cf. <er>Or</er>, <ets>conj</ets>.]</ety> <sn>1.</sn> <def>One of two; the one or the other; -- properly used of two things, but sometimes of a larger number, for <xex>any one</xex>.</def></p>
 
 <p><q>Lepidus flatters both,<br/
 Of both is flattered; but he neither loves,<br/
@@ -4610,7 +4610,7 @@ Of famous London town.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Elaine" source="1913 Webster">
-<p><mhw>{ <hw>E*la"ine</hw> <pr>(?)</pr>, <it>or</it> <hw>E*la"in</hw>  }</mhw>, <pos>n.</pos> <ety>[Gr. <?/ olive oil, oil, from <?/ the olive tree: cf. F. <ets><eacute/la<ium/ne</ets>.]</ety> <fld>(Chem.)</fld> <def>Same as <er>Olein</er>.</def></p>
+<p><mhw>{ <hw>E*la"ine</hw> <pr>(?)</pr>, <or/ <hw>E*la"in</hw>  }</mhw>, <pos>n.</pos> <ety>[Gr. <?/ olive oil, oil, from <?/ the olive tree: cf. F. <ets><eacute/la<ium/ne</ets>.]</ety> <fld>(Chem.)</fld> <def>Same as <er>Olein</er>.</def></p>
 </entry>
 
 <entry main-word="Elaiodic" source="1913 Webster">
@@ -5150,7 +5150,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p source="1913 Webster;;PJC"><sn>4.</sn> <def>Dependent on choice; that can be refused; <as>as, an <ex>elective</ex> college course</as>.  Opposite of <ant>required</ant> or <ant>mandatory</ant>.</def></p>
 
-<p><cs><mcol><col>Elective affinity</col> <it>or</it> <col>Elective attraction</col></mcol> <fld>(Chem.)</fld>, <cd>a tendency to unite with certain things; chemism.</cd></cs></p>
+<p><cs><mcol><col>Elective affinity</col> <or/ <col>Elective attraction</col></mcol> <fld>(Chem.)</fld>, <cd>a tendency to unite with certain things; chemism.</cd></cs></p>
 </entry>
 
 <entry main-word="Elective" source="1913 Webster">
@@ -5230,7 +5230,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p source="WordNet 1.5"><sn>4.</sn> <def>powered by electricity; <as>as, <ex>electrical</ex> appliances; an <ex>electric</ex> toothbrush; an <ex>electric</ex> automobile</as>.</def></p>
 
-<p><cs><mcol><col>Electric atmosphere</col>, <it>or</it>  <col>Electric aura</col></mcol>. <cd>See under <er>Aura</er>.</cd> -- <col>Electrical battery</col>. <cd>See <er>Battery</er>.</cd> -- <col>Electrical brush</col>. <cd>See under <er>Brush</er>.</cd> -- <col>Electric cable</col>. <cd>See <cref>Telegraph cable</cref>, under <er>Telegraph</er>.</cd> -- <col>Electric candle</col>. <cd>See under <er>Candle</er>.</cd> -- <col>Electric cat</col> <fld>(Zo<oum/l.)</fld>, <cd>one of three or more large species of African catfish of the genus <gen>Malapterurus</gen> (esp. <spn>M. electricus</spn> of the Nile). They have a large electrical organ and are able to give powerful shocks; -- called also <altname>sheathfish</altname>.</cd> -- <col>Electric clock</col>. <cd>See under <er>Clock</er>, and see <er>Electro-chronograph</er>.</cd> -- <col>Electric current</col>, <cd>a current or stream of electricity traversing a closed circuit formed of conducting substances, or passing by means of conductors from one body to another which is in a different electrical state.</cd> -- <mcol><col>Electric eel</col>, <it>or</it>  <col>Electrical eel</col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>a South American eel-like fresh-water fish of the genus <gen>Gymnotus</gen> (<spn>G. electricus</spn>), from two to five feet in length, capable of giving a violent electric shock. See <er>Gymnotus</er>.</cd> -- <col>Electrical fish</col> <fld>(Zo<oum/l.)</fld>, <cd>any fish which has an electrical organ by means of which it can give an electrical shock. The best known kinds are the <stype>torpedo</stype>, the <stype>gymnotus</stype>, or <stype>electrical eel</stype>, and the <stype>electric cat</stype>. See <er>Torpedo</er>, and <er>Gymnotus</er>.</cd> -- <col>Electric fluid</col>, <cd>the supposed matter of electricity; lightning.</cd> <mark>[archaic]</mark> -- <col>Electrical image</col> <fld>(Elec.)</fld>, <cd>a collection of electrical points regarded as forming, by an analogy with optical phenomena, an image of certain other electrical points, and used in the solution of electrical problems.</cd> <au>Sir W. Thomson.</au> --  <mcol><col>Electric machine</col>, <it>or</it>   <col>Electrical machine</col></mcol>, <cd>an apparatus for generating, collecting, or exciting, electricity, as by friction.</cd> -- <col>Electric motor</col>. <cd>See <er>Electro-motor</er>, <snr>2</snr>.</cd> -- <col>Electric osmose</col>. <fld>(Physics)</fld> <cd>See under <er>Osmose</er>.</cd> -- <col>Electric pen</col>, <cd>a hand pen for making perforated stencils for multiplying writings. It has a puncturing needle driven at great speed by a very small magneto-electric engine on the penhandle.</cd> -- <col>Electric railway</col>, <cd>a railway in which the machinery for moving the cars is driven by an electric current.</cd> -- <col>Electric ray</col> <fld>(Zo<oum/l.)</fld>, <cd>the torpedo.</cd> -- <col>Electric telegraph</col>. <cd>See <er>Telegraph</er>.</cd></cs></p>
+<p><cs><mcol><col>Electric atmosphere</col>, <or/  <col>Electric aura</col></mcol>. <cd>See under <er>Aura</er>.</cd> -- <col>Electrical battery</col>. <cd>See <er>Battery</er>.</cd> -- <col>Electrical brush</col>. <cd>See under <er>Brush</er>.</cd> -- <col>Electric cable</col>. <cd>See <cref>Telegraph cable</cref>, under <er>Telegraph</er>.</cd> -- <col>Electric candle</col>. <cd>See under <er>Candle</er>.</cd> -- <col>Electric cat</col> <fld>(Zo<oum/l.)</fld>, <cd>one of three or more large species of African catfish of the genus <gen>Malapterurus</gen> (esp. <spn>M. electricus</spn> of the Nile). They have a large electrical organ and are able to give powerful shocks; -- called also <altname>sheathfish</altname>.</cd> -- <col>Electric clock</col>. <cd>See under <er>Clock</er>, and see <er>Electro-chronograph</er>.</cd> -- <col>Electric current</col>, <cd>a current or stream of electricity traversing a closed circuit formed of conducting substances, or passing by means of conductors from one body to another which is in a different electrical state.</cd> -- <mcol><col>Electric eel</col>, <or/  <col>Electrical eel</col></mcol> <fld>(Zo<oum/l.)</fld>, <cd>a South American eel-like fresh-water fish of the genus <gen>Gymnotus</gen> (<spn>G. electricus</spn>), from two to five feet in length, capable of giving a violent electric shock. See <er>Gymnotus</er>.</cd> -- <col>Electrical fish</col> <fld>(Zo<oum/l.)</fld>, <cd>any fish which has an electrical organ by means of which it can give an electrical shock. The best known kinds are the <stype>torpedo</stype>, the <stype>gymnotus</stype>, or <stype>electrical eel</stype>, and the <stype>electric cat</stype>. See <er>Torpedo</er>, and <er>Gymnotus</er>.</cd> -- <col>Electric fluid</col>, <cd>the supposed matter of electricity; lightning.</cd> <mark>[archaic]</mark> -- <col>Electrical image</col> <fld>(Elec.)</fld>, <cd>a collection of electrical points regarded as forming, by an analogy with optical phenomena, an image of certain other electrical points, and used in the solution of electrical problems.</cd> <au>Sir W. Thomson.</au> --  <mcol><col>Electric machine</col>, <or/   <col>Electrical machine</col></mcol>, <cd>an apparatus for generating, collecting, or exciting, electricity, as by friction.</cd> -- <col>Electric motor</col>. <cd>See <er>Electro-motor</er>, <snr>2</snr>.</cd> -- <col>Electric osmose</col>. <fld>(Physics)</fld> <cd>See under <er>Osmose</er>.</cd> -- <col>Electric pen</col>, <cd>a hand pen for making perforated stencils for multiplying writings. It has a puncturing needle driven at great speed by a very small magneto-electric engine on the penhandle.</cd> -- <col>Electric railway</col>, <cd>a railway in which the machinery for moving the cars is driven by an electric current.</cd> -- <col>Electric ray</col> <fld>(Zo<oum/l.)</fld>, <cd>the torpedo.</cd> -- <col>Electric telegraph</col>. <cd>See <er>Telegraph</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Electric" source="1913 Webster">
@@ -5258,7 +5258,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><sn>2.</sn> <def>any of several phenomena associated with the accumulation or movement of electrically charged particles within material bodies, classified as <stype>static electricity</stype> and <stype>electric current</stype>.  Static electricity is often observed in everyday life, when it causes certain materials to cling together; when sufficient static charge is accumulated, an <ex>electric current</ex> may pass through the air between two charged bodies, and is observed as a visible spark; when the spark passes from a human body to another object it may be felt as a mild to strong painful sensation.  Electricity in the form of electric current is put to many practical uses in electrical and electronic devices.  Lightning is also known to be a form of electric current passing between clouds and the ground, or between two clouds.   Electric currents may produce heat, light, concussion, and often chemical changes when passed between objects or through any imperfectly conducting substance or space. Accumulation of electrical charge or generation of a voltage differnce between two parts of a complex object may be caused by any of a variety of disturbances of molecular equilibrium, whether from a chemical, physical, or mechanical, cause.  Electric current in metals and most other solid coductors is carried by the movement of electrons from one part of the metal to another.  In ionic solutions and in semiconductors, other types of movement of charged particles may be responsible for the observed electrical current.</def></p>
 
-<p source="1913 Webster"><note><hand/ Electricity is manifested under following different forms: (<it>a</it>) <col>Statical electricity</col>, called also <mcol><col>Frictional electricity</col> <it>or</it> <col>Common electricity</col></mcol>, electricity in the condition of a stationary charge, in which the disturbance is produced by friction, as of glass, amber, etc., or by induction. (<it>b</it>) <col>Dynamical electricity</col>, called also <col>Voltaic electricity</col>, electricity in motion, or as a current produced by chemical decomposition, as by means of a voltaic battery, or by mechanical action, as by dynamo-electric machines. (<it>c</it>) <col>Thermoelectricity</col>, in which the disturbing cause is heat (attended possibly with some chemical action).  It is developed by uniting two pieces of unlike metals in a bar, and then heating the bar unequally. (<it>d</it>) <col>Atmospheric electricity</col>, any condition of electrical disturbance in the atmosphere or clouds, due to some or all of the above mentioned causes. (<it>e</it>) <col>Magnetic electricity</col>, electricity developed by the action of magnets. (<it>f</it>)  <col>Positive electricity</col>, the electricity that appears at the positive pole or anode of a battery, or that is produced by friction of glass; -- called also <altname>vitreous electricity</altname>.  (<it>g</it>) <col>Negative electricity</col>, the electricity that appears at the negative pole or cathode, or is produced by the friction of resinous substance; -- called also <xex>resinous electricity</xex>. (<it>h</it>) <col>Organic electricity</col>, that which is developed in organic structures, either animal or vegetable, the phrase <xex>animal electricity</xex> being much more common.</note></p>
+<p source="1913 Webster"><note><hand/ Electricity is manifested under following different forms: (<it>a</it>) <col>Statical electricity</col>, called also <mcol><col>Frictional electricity</col> <or/ <col>Common electricity</col></mcol>, electricity in the condition of a stationary charge, in which the disturbance is produced by friction, as of glass, amber, etc., or by induction. (<it>b</it>) <col>Dynamical electricity</col>, called also <col>Voltaic electricity</col>, electricity in motion, or as a current produced by chemical decomposition, as by means of a voltaic battery, or by mechanical action, as by dynamo-electric machines. (<it>c</it>) <col>Thermoelectricity</col>, in which the disturbing cause is heat (attended possibly with some chemical action).  It is developed by uniting two pieces of unlike metals in a bar, and then heating the bar unequally. (<it>d</it>) <col>Atmospheric electricity</col>, any condition of electrical disturbance in the atmosphere or clouds, due to some or all of the above mentioned causes. (<it>e</it>) <col>Magnetic electricity</col>, electricity developed by the action of magnets. (<it>f</it>)  <col>Positive electricity</col>, the electricity that appears at the positive pole or anode of a battery, or that is produced by friction of glass; -- called also <altname>vitreous electricity</altname>.  (<it>g</it>) <col>Negative electricity</col>, the electricity that appears at the negative pole or cathode, or is produced by the friction of resinous substance; -- called also <xex>resinous electricity</xex>. (<it>h</it>) <col>Organic electricity</col>, that which is developed in organic structures, either animal or vegetable, the phrase <xex>animal electricity</xex> being much more common.</note></p>
 
 <p source="1913 Webster"><sn>3.</sn> <def>The science which studies the phenomena and laws of electricity; electrical science.</def></p>
 
@@ -5676,7 +5676,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 </entry>
 
 <entry main-word="Electropoion" source="Webster 1913 Suppl.">
-<p><mhw><par/<hw>E*lec`tro*poi"on</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Electropoion fluid</hw></mhw>. <ety>[NL.; <ets>electro-</ets> + Gr. <grk>poiw^n</grk>, p. pr. of <grk>poiei^n</grk> to make.]</ety> <fld>(Elec.)</fld> <def>An exciting and depolarizing acid solution used in certain cells or batteries, as the Grenet battery. Electropoion is best prepared by mixing one gallon of concentrated sulphuric acid diluted with three gallons of water, with a solution of six pounds of potassium bichromate in two gallons of boiling water. It should be used cold.</def></p>
+<p><mhw><par/<hw>E*lec`tro*poi"on</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Electropoion fluid</hw></mhw>. <ety>[NL.; <ets>electro-</ets> + Gr. <grk>poiw^n</grk>, p. pr. of <grk>poiei^n</grk> to make.]</ety> <fld>(Elec.)</fld> <def>An exciting and depolarizing acid solution used in certain cells or batteries, as the Grenet battery. Electropoion is best prepared by mixing one gallon of concentrated sulphuric acid diluted with three gallons of water, with a solution of six pounds of potassium bichromate in two gallons of boiling water. It should be used cold.</def></p>
 </entry>
 
 <entry main-word="Electro-polar" source="1913 Webster">
@@ -5900,7 +5900,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 </entry>
 
 <entry main-word="Eleme figs" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>El"e*me figs`</hw>, <it>or</it>  <hw>El"e*mi figs`</hw>  }</mhw> <pr>(<ecr/l"<esl/*m<icr/)</pr>. <ety>[Turk. <ets>eleme</ets> anything which has been sifted and freed from dust or broken parts.]</ety> <def>A kind of figs of superior quality.</def></p>
+<p><mhw>{ <hw>El"e*me figs`</hw>, <or/  <hw>El"e*mi figs`</hw>  }</mhw> <pr>(<ecr/l"<esl/*m<icr/)</pr>. <ety>[Turk. <ets>eleme</ets> anything which has been sifted and freed from dust or broken parts.]</ety> <def>A kind of figs of superior quality.</def></p>
 </entry>
 
 <entry main-word="Element" source="1913 Webster">
@@ -6904,7 +6904,7 @@ What dust we dote on when 't is man we love.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Elrich" source="1913 Webster">
-<p><mhw>{ <hw>El"rich</hw> <pr>(?)</pr> <it>or</it> <hw>El"ritch</hw>  }</mhw>, <pos>a.</pos> <def>Ghastly; preternatural. Same as <er>Eldritch</er>.</def> <mark>[Scot. & Local, Eng.]</mark></p>
+<p><mhw>{ <hw>El"rich</hw> <pr>(?)</pr> <or/ <hw>El"ritch</hw>  }</mhw>, <pos>a.</pos> <def>Ghastly; preternatural. Same as <er>Eldritch</er>.</def> <mark>[Scot. & Local, Eng.]</mark></p>
 </entry>
 
 <entry main-word="Else" source="1913 Webster">
@@ -8305,7 +8305,7 @@ All full of fresshe flowers, white and red.</q> <rj><qau>Chaucer.</qau></rj></p>
 <entry main-word="Embryonic" source="1913 Webster">
 <p><hw>Em`bry*on"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Biol.)</fld> <def>Of or pertaining to an embryo; embryonal; rudimentary.</def></p>
 
-<p><cs><mcol><col>Embryonic sac</col> <it>or</it> <col>Embryonic vesicle</col></mcol> <fld>(Bot.)</fld>, <cd>the vesicle within which the embryo is developed in the ovule; -- sometimes called also <altname>amnios sac</altname>, and <altname>embryonal sac</altname>.</cd></cs></p>
+<p><cs><mcol><col>Embryonic sac</col> <or/ <col>Embryonic vesicle</col></mcol> <fld>(Bot.)</fld>, <cd>the vesicle within which the embryo is developed in the ovule; -- sometimes called also <altname>amnios sac</altname>, and <altname>embryonal sac</altname>.</cd></cs></p>
 </entry>
 
 <entry main-word="Embryoniferous" source="1913 Webster">
@@ -8419,7 +8419,7 @@ All full of fresshe flowers, white and red.</q> <rj><qau>Chaucer.</qau></rj></p>
 <entry main-word="Emerald" source="1913 Webster">
 <p><hw>Em"er*ald</hw>, <pos>a.</pos> <def>Of a rich green color, like that of the emerald.</def> <ldquo/<xex>Emerald</xex> meadows.<rdquo/  <rj><au>Byron.</au></rj></p>
 
-<p><cs><col>Emerald fish</col> <fld>(Zo<oum/l.)</fld>, <cd>a fish of the Gulf of Mexico (<spn>Gobionellus oceanicus</spn>), remarkable for the brilliant green and blue color of the base of the tongue; -- whence the name; -- called also <altname>esmeralda</altname>.</cd> -- <col>Emerald green</col>, <cd>a very durable pigment, of a vivid light green color, made from the arseniate of copper; green bice; Scheele's green; -- also used adjectively; <as>as, <ex>emerald green</ex> crystals</as>.</cd> -- <col>Emerald Isle</col>, <cd>a name given to Ireland on account of the brightness of its verdure.</cd> -- <mcol><col>Emerald spodumene</col>, <it>or</it> <col>Lithia emerald</col></mcol>. <fld>(Min.)</fld> <cd>See <er>Hiddenite</er>.</cd> -- <col>Emerald nickel</col>. <fld>(Min.)</fld> <cd>See <er>Zaratite</er>.</cd></cs></p>
+<p><cs><col>Emerald fish</col> <fld>(Zo<oum/l.)</fld>, <cd>a fish of the Gulf of Mexico (<spn>Gobionellus oceanicus</spn>), remarkable for the brilliant green and blue color of the base of the tongue; -- whence the name; -- called also <altname>esmeralda</altname>.</cd> -- <col>Emerald green</col>, <cd>a very durable pigment, of a vivid light green color, made from the arseniate of copper; green bice; Scheele's green; -- also used adjectively; <as>as, <ex>emerald green</ex> crystals</as>.</cd> -- <col>Emerald Isle</col>, <cd>a name given to Ireland on account of the brightness of its verdure.</cd> -- <mcol><col>Emerald spodumene</col>, <or/ <col>Lithia emerald</col></mcol>. <fld>(Min.)</fld> <cd>See <er>Hiddenite</er>.</cd> -- <col>Emerald nickel</col>. <fld>(Min.)</fld> <cd>See <er>Zaratite</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Emeraldine" source="1913 Webster">
@@ -8510,7 +8510,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj></p>
 <entry main-word="Emery" source="1913 Webster">
 <p><hw>Em"er*y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/meri</ets>, earlier <ets><eacute/meril</ets>, It. <ets>smeriglio</ets>, fr. Gr. <?/, <?/, <?/, cf. <?/ to wipe; perh. akin to E. <ets>smear</ets>.  Cf. <er>Emeril</er>.]</ety> <fld>(Min.)</fld> <def>Corundum in the form of grains or powder, used in the arts for grinding and polishing hard substances. Native emery is mixed with more or less magnetic iron. See the Note under <er>Corundum</er>.</def></p>
 
-<p><cs><col>Emery board</col>, <cd>cardboard pulp mixed with emery and molded into convenient.</cd> -- <mcol><col>Emery cloth</col> <it>or</it> <col>Emery paper</col></mcol>, <cd>cloth or paper on which the powder of emery is spread and glued for scouring and polishing.</cd> -- <col>Emery wheel</col>, <cd>a wheel containing emery, or having a surface of emery.  In machine shops, it is sometimes called a <altname>buff wheel</altname>, and by the manufacturers of cutlery, a <altname>glazer</altname>.</cd></cs></p>
+<p><cs><col>Emery board</col>, <cd>cardboard pulp mixed with emery and molded into convenient.</cd> -- <mcol><col>Emery cloth</col> <or/ <col>Emery paper</col></mcol>, <cd>cloth or paper on which the powder of emery is spread and glued for scouring and polishing.</cd> -- <col>Emery wheel</col>, <cd>a wheel containing emery, or having a surface of emery.  In machine shops, it is sometimes called a <altname>buff wheel</altname>, and by the manufacturers of cutlery, a <altname>glazer</altname>.</cd></cs></p>
 </entry>
 
 <entry main-word="Emesis" source="1913 Webster">
@@ -8534,7 +8534,7 @@ On all <qex>emergencies</qex> that rose.</q> <rj><qau>Swift.</qau></rj></p>
 </entry>
 
 <entry main-word="Emeu" source="1913 Webster">
-<p><mhw>{ <hw>E"meu</hw>, <it>or</it> <hw>E"mew</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>See <er>Emu</er>.</def></p>
+<p><mhw>{ <hw>E"meu</hw>, <or/ <hw>E"mew</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <fld>(Zo<oum/l.)</fld> <def>See <er>Emu</er>.</def></p>
 </entry>
 
 <entry main-word="emeute" source="1913 Webster">
@@ -12101,7 +12101,7 @@ You got it from her.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Engaging" source="1913 Webster">
 <p><hw>En*ga"ging</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Tending to draw the attention or affections; attractive; <as>as, <ex>engaging</ex> manners or address</as>.</def> -- <wordforms><wf>En*ga"ging*ly</wf>, <pos>adv.</pos> -- <wf>En*ga"ging*ness</wf>, <pos>n.</pos></wordforms></p>
 
-<p><cs><mcol><col>Engaging and disengaging gear</col> <it>or</it> <col>Engaging and disengaging machinery</col></mcol>, <cd>that in which, or by means of which, one part is alternately brought into gear or out of gear with another part, as occasion may require.</cd></cs></p>
+<p><cs><mcol><col>Engaging and disengaging gear</col> <or/ <col>Engaging and disengaging machinery</col></mcol>, <cd>that in which, or by means of which, one part is alternately brought into gear or out of gear with another part, as occasion may require.</cd></cs></p>
 </entry>
 
 <entry main-word="Engallant" source="1913 Webster">
@@ -12304,7 +12304,7 @@ Motion to all.</q> <rj><qau>Decker.</qau></rj></p>
 
 <p><sn>4.</sn> <fld>(Billiards)</fld> <def>A twist or spinning motion given to a ball in striking it that influences the direction it will take after touching a cushion or another ball.</def></p>
 
-<p><cs><mcol><col>The King's English</col> <it>or</it> <col>The Queen's English</col></mcol>. <cd>See under <er>King</er>.</cd></cs></p>
+<p><cs><mcol><col>The King's English</col> <or/ <col>The Queen's English</col></mcol>. <cd>See under <er>King</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="English" source="1913 Webster">
@@ -12820,7 +12820,7 @@ He did <qex>engrave</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>It will <qex>enlarge</qex> us from all restraints.</q> <rj><qau>Barrow.</qau></rj></p>
 
-<p source=""><cs><col>Enlarging hammer</col>, <cd>a hammer with a slightly rounded face of large diameter; -- used by gold beaters.</cd> <au>Knight.</au> -- <mcol><col>To enlarge an order</col> <it>or</it> <col>To enlarge a rule</col></mcol> <fld>(Law)</fld>, <cd>to extend the time for complying with it.</cd> <au>Abbott.</au> -- <col>To enlarge one's self</col>, <cd>to give free vent to speech; to spread out discourse.</cd> <ldquo/They <xex>enlarged</xex> themselves on this subject.<rdquo/ <au>Clarendon.</au> -- <col>To enlarge the heart</col>, <cd>to make free, liberal, and charitable.</cd></cs></p>
+<p source=""><cs><col>Enlarging hammer</col>, <cd>a hammer with a slightly rounded face of large diameter; -- used by gold beaters.</cd> <au>Knight.</au> -- <mcol><col>To enlarge an order</col> <or/ <col>To enlarge a rule</col></mcol> <fld>(Law)</fld>, <cd>to extend the time for complying with it.</cd> <au>Abbott.</au> -- <col>To enlarge one's self</col>, <cd>to give free vent to speech; to spread out discourse.</cd> <ldquo/They <xex>enlarged</xex> themselves on this subject.<rdquo/ <au>Clarendon.</au> -- <col>To enlarge the heart</col>, <cd>to make free, liberal, and charitable.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To increase; extend; expand; spread; amplify; augment; magnify. See <er>Increase</er>.</syn></p>
 </entry>
@@ -13957,7 +13957,7 @@ Shall <qex>enter</qex> heaven, long absent.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Entering edge" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>En"ter*ing edge</hw>, <it>or</it>  <hw>En"trant edge</hw>  }</mhw>. <def>same as <er>Advancing edge</er>.</def></p>
+<p><mhw>{ <hw>En"ter*ing edge</hw>, <or/  <hw>En"trant edge</hw>  }</mhw>. <def>same as <er>Advancing edge</er>.</def></p>
 </entry>
 
 <entry main-word="Enteritis" source="1913 Webster">
@@ -15477,7 +15477,7 @@ Put me against a wall.</q> <rj><qau>J. Fletcher.</qau></rj></p>
 <entry main-word="Epact" source="1913 Webster">
 <p><hw>E"pact</hw> <pr>(<emac/"p<acr/kt)</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/pacte</ets>, fr. Gr. <grk>'epakto`s</grk> brought on or in, added, fr. <grk>'epa`gein</grk> to bring on or in; <grk>'epi`</grk> on, in + <grk>'a`gein</grk> to bring or lead. See <er>Epi-</er>, and <er>Act</er>.]</ety> <fld>(Chron.)</fld> <def>The moon's age at the beginning of the calendar year, or the number of days by which the last new moon has preceded the beginning of the year.</def></p>
 
-<p><cs><col>Annual epact</col>, <cd>the excess of the solar year over the lunar year, -- being eleven days.</cd> -- <mcol><col>Menstrual epact</col>, <it>or</it> <col>Monthly epact</col></mcol>, <cd>the excess of a calendar month over a lunar.</cd></cs></p>
+<p><cs><col>Annual epact</col>, <cd>the excess of the solar year over the lunar year, -- being eleven days.</cd> -- <mcol><col>Menstrual epact</col>, <or/ <col>Monthly epact</col></mcol>, <cd>the excess of a calendar month over a lunar.</cd></cs></p>
 </entry>
 
 <entry main-word="Epagoge" source="1913 Webster">
@@ -15614,7 +15614,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Ephah" source="1913 Webster">
-<p><mhw>{ <hw>E"phah</hw> <pr>(?)</pr>, <it>or</it> <hw>E"pha</hw>}</mhw>, <pos>n.</pos> <ety>[Heb. '<emac/ph<amac/h.]</ety> <def>A Hebrew dry measure, supposed to be equal to two pecks and five quarts.  Ten ephahs make one homer.</def></p>
+<p><mhw>{ <hw>E"phah</hw> <pr>(?)</pr>, <or/ <hw>E"pha</hw>}</mhw>, <pos>n.</pos> <ety>[Heb. '<emac/ph<amac/h.]</ety> <def>A Hebrew dry measure, supposed to be equal to two pecks and five quarts.  Ten ephahs make one homer.</def></p>
 </entry>
 
 <entry main-word="Ephemera" source="1913 Webster">
@@ -16676,7 +16676,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Epistolographic" source="1913 Webster">
 <p><hw>E*pis`to*lo*graph"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <?/: cf. F. <ets><eacute/pistolographique</ets>.]</ety> <def>Pertaining to the writing of letters; used in writing letters; epistolary.</def></p>
 
-<p><cs><mcol><col>Epistolographic character of writing</col> <it>or</it> <col>Epistolographic mode of writing</col></mcol>, <cd>the same as <cref>Demotic character</cref>. See under <er>Demotic</er>.</cd></cs></p>
+<p><cs><mcol><col>Epistolographic character of writing</col> <or/ <col>Epistolographic mode of writing</col></mcol>, <cd>the same as <cref>Demotic character</cref>. See under <er>Demotic</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Epistolography" source="">
@@ -16922,7 +16922,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 </entry>
 
 <entry main-word="Epoch" source="1913 Webster">
-<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <it>or</it> <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epochh`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`chein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`chein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
+<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <or/ <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epochh`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`chein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`chein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
 
 <p><q>In divers ages, . . . divers <qex>epochs</qex> of time were used.</q> <rj><qau>Usher.</qau></rj></p>
 
@@ -17018,7 +17018,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 </entry>
 
 <entry main-word="Epsom salts" source="1913 Webster">
-<p><mhw>{ <hw>Ep"som salts`</hw> <it>or</it> <hw>Ep"som salt`</hw> <pr>(?)</pr> }</mhw>. <fld>(Med.)</fld> <def>Sulphate of magnesia having cathartic qualities; -- originally prepared by boiling down the mineral waters at <etsep>Epsom</etsep>, England, -- whence the name; afterwards prepared from sea water; but now from certain minerals, as from siliceous hydrate of magnesia.</def></p>
+<p><mhw>{ <hw>Ep"som salts`</hw> <or/ <hw>Ep"som salt`</hw> <pr>(?)</pr> }</mhw>. <fld>(Med.)</fld> <def>Sulphate of magnesia having cathartic qualities; -- originally prepared by boiling down the mineral waters at <etsep>Epsom</etsep>, England, -- whence the name; afterwards prepared from sea water; but now from certain minerals, as from siliceous hydrate of magnesia.</def></p>
 </entry>
 
 <entry main-word="Epulary" source="1913 Webster">
@@ -17259,7 +17259,7 @@ And ruled in just <qex>equation</qex> with the night.</q> <rj><qau>Rowe.</qau></
 
 <p><sn>3.</sn> <fld>(Astron.)</fld> <def>A quantity to be applied in computing the mean place or other element of a celestial body; that is, any one of the several quantities to be added to, or taken from, its position as calculated on the hypothesis of a mean uniform motion, in order to find its true position as resulting from its actual and unequal motion.</def></p>
 
-<p><cs><col>Absolute equation</col>. <cd>See under <er>Absolute</er>.</cd> -- <mcol><col>Equation box</col>, <it>or</it> <col>Equational box</col></mcol>, <cd>a system of differential gearing used in spinning machines for regulating the twist of the yarn. It resembles gearing used in equation clocks for showing apparent time.</cd> -- <col>Equation of the center</col> <fld>(Astron.)</fld>, <cd>the difference between the place of a planet as supposed to move uniformly in a circle, and its place as moving in an ellipse.</cd> -- <col>Equations of condition</col> <fld>(Math.)</fld>, <cd>equations formed for deducing the true values of certain quantities from others on which they depend, when different sets of the latter, as given by observation, would yield different values of the quantities sought, and the number of equations that may be found is greater than the number of unknown quantities.</cd> -- <col>Equation of a curve</col> <fld>(Math.)</fld>, <cd>an equation which expresses the relation between the co<oum/rdinates of every point in the curve.</cd> -- <col>Equation of equinoxes</col> <fld>(Astron.)</fld>, <cd>the difference between the mean and apparent places of the equinox.</cd> -- <col>Equation of payments</col> <fld>(Arith.)</fld>, <cd>the process of finding the mean time of payment of several sums due at different times.</cd> -- <col>Equation of time</col> <fld>(Astron.)</fld>, <cd>the difference between mean and apparent time, or between the time of day indicated by the sun, and that by a perfect clock going uniformly all the year round.</cd> -- <mcol><col>Equation clock</col> <it>or</it> <col>Equation watch</col></mcol>, <cd>a timepiece made to exhibit the differences between mean solar and apparent solar time.</cd> <au>Knight.</au> -- <col>Normal equation</col>. <cd>See under <er>Normal</er>.</cd> -- <col>Personal equation</col> <fld>(Astron.)</fld>, <cd>the difference between an observed result and the true qualities or peculiarities in the observer; particularly the difference, in an average of a large number of observation, between the instant when an observer notes a phenomenon, as the transit of a star, and the assumed instant of its actual occurrence; or, relatively, the difference between these instants as noted by two observers. It is usually only a fraction of a second; -- sometimes applied loosely to differences of judgment or method occasioned by temperamental qualities of individuals.</cd> -- <col>Theory of equations</col> <fld>(Math.)</fld>, <cd>the branch of algebra that treats of the properties of a single algebraic equation of any degree containing one unknown quantity.</cd></cs></p>
+<p><cs><col>Absolute equation</col>. <cd>See under <er>Absolute</er>.</cd> -- <mcol><col>Equation box</col>, <or/ <col>Equational box</col></mcol>, <cd>a system of differential gearing used in spinning machines for regulating the twist of the yarn. It resembles gearing used in equation clocks for showing apparent time.</cd> -- <col>Equation of the center</col> <fld>(Astron.)</fld>, <cd>the difference between the place of a planet as supposed to move uniformly in a circle, and its place as moving in an ellipse.</cd> -- <col>Equations of condition</col> <fld>(Math.)</fld>, <cd>equations formed for deducing the true values of certain quantities from others on which they depend, when different sets of the latter, as given by observation, would yield different values of the quantities sought, and the number of equations that may be found is greater than the number of unknown quantities.</cd> -- <col>Equation of a curve</col> <fld>(Math.)</fld>, <cd>an equation which expresses the relation between the co<oum/rdinates of every point in the curve.</cd> -- <col>Equation of equinoxes</col> <fld>(Astron.)</fld>, <cd>the difference between the mean and apparent places of the equinox.</cd> -- <col>Equation of payments</col> <fld>(Arith.)</fld>, <cd>the process of finding the mean time of payment of several sums due at different times.</cd> -- <col>Equation of time</col> <fld>(Astron.)</fld>, <cd>the difference between mean and apparent time, or between the time of day indicated by the sun, and that by a perfect clock going uniformly all the year round.</cd> -- <mcol><col>Equation clock</col> <or/ <col>Equation watch</col></mcol>, <cd>a timepiece made to exhibit the differences between mean solar and apparent solar time.</cd> <au>Knight.</au> -- <col>Normal equation</col>. <cd>See under <er>Normal</er>.</cd> -- <col>Personal equation</col> <fld>(Astron.)</fld>, <cd>the difference between an observed result and the true qualities or peculiarities in the observer; particularly the difference, in an average of a large number of observation, between the instant when an observer notes a phenomenon, as the transit of a star, and the assumed instant of its actual occurrence; or, relatively, the difference between these instants as noted by two observers. It is usually only a fraction of a second; -- sometimes applied loosely to differences of judgment or method occasioned by temperamental qualities of individuals.</cd> -- <col>Theory of equations</col> <fld>(Math.)</fld>, <cd>the branch of algebra that treats of the properties of a single algebraic equation of any degree containing one unknown quantity.</cd></cs></p>
 </entry>
 
 <entry main-word="Equator" source="1913 Webster">
@@ -17267,7 +17267,7 @@ And ruled in just <qex>equation</qex> with the night.</q> <rj><qau>Rowe.</qau></
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>The great circle of the celestial sphere, coincident with the plane of the earth's equator; -- so called because when the sun is in it, the days and nights are of equal length; hence called also the <altname>equinoctial</altname>, and on maps, globes, etc., the <altname>equinoctial line</altname>.</def></p>
 
-<p><cs><mcol><col>Equator of the sun</col> <it>or</it> <col>Equator of a planet</col></mcol> <fld>(Astron.)</fld>, <cd>the great circle whose plane passes through through the center of the body, and is perpendicular to its axis of revolution.</cd> -- <col>Magnetic equator</col>. <cd>See <er>Aclinic</er>.</cd></cs></p>
+<p><cs><mcol><col>Equator of the sun</col> <or/ <col>Equator of a planet</col></mcol> <fld>(Astron.)</fld>, <cd>the great circle whose plane passes through through the center of the body, and is perpendicular to its axis of revolution.</cd> -- <col>Magnetic equator</col>. <cd>See <er>Aclinic</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Equatorial" source="1913 Webster">
@@ -17983,7 +17983,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="Ere" source="1913 Webster">
-<p><hw>Ere</hw> <pr>(<amac/r <it>or</it> <acir/r; 277)</pr>, <pos>prep. & adv.</pos> <ety>[AS. <ets><aemac/r</ets>, prep., adv., & conj.; akin to OS., OFries., & OHG. <ets><emac/r</ets>, G. <ets>eher</ets>, D. <ets>eer</ets>, Icel. <ets><amac/r</ets>, Goth. <ets>air</ets>.  <root/204.  Cf. <er>Early</er>, <er>Erst</er>, <er>Or</er>, <pos>adv.</pos>]</ety> <sn>1.</sn> <def>Before; sooner than.</def> <mark>[Archaic or Poetic]</mark></p>
+<p><hw>Ere</hw> <pr>(<amac/r <or/ <acir/r; 277)</pr>, <pos>prep. & adv.</pos> <ety>[AS. <ets><aemac/r</ets>, prep., adv., & conj.; akin to OS., OFries., & OHG. <ets><emac/r</ets>, G. <ets>eher</ets>, D. <ets>eer</ets>, Icel. <ets><amac/r</ets>, Goth. <ets>air</ets>.  <root/204.  Cf. <er>Early</er>, <er>Erst</er>, <er>Or</er>, <pos>adv.</pos>]</ety> <sn>1.</sn> <def>Before; sooner than.</def> <mark>[Archaic or Poetic]</mark></p>
 
 <p><q>Myself was stirring <qex>ere</qex> the break of day.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -18728,7 +18728,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>8.</sn> <fld>(Baseball)</fld> <def>A fault of a player of the side in the field which results in failure to put out a player on the other side, or gives him an unearned base.</def></p>
 
-<p source=""><cs><mcol><col>Law of error</col>, <it>or</it> <col>Law of frequency of error</col></mcol> <fld>(Mensuration)</fld>, <cd>the law which expresses the relation between the magnitude of an error and the frequency with which that error will be committed in making a large number of careful measurements of a quantity.</cd> -- <col>Probable error</col>. <fld>(Mensuration)</fld> <cd>See under <er>Probable</er>.</cd> -- <col>Writ of error</col> <fld>(Law)</fld>, <cd>an original writ, which lies after judgment in an action at law, in a court of record, to correct some alleged error in the proceedings, or in the judgment of the court.</cd>  <rj><au>Bouvier. Burrill.</au></rj></cs></p>
+<p source=""><cs><mcol><col>Law of error</col>, <or/ <col>Law of frequency of error</col></mcol> <fld>(Mensuration)</fld>, <cd>the law which expresses the relation between the magnitude of an error and the frequency with which that error will be committed in making a large number of careful measurements of a quantity.</cd> -- <col>Probable error</col>. <fld>(Mensuration)</fld> <cd>See under <er>Probable</er>.</cd> -- <col>Writ of error</col> <fld>(Law)</fld>, <cd>an original writ, which lies after judgment in an action at law, in a court of record, to correct some alleged error in the proceedings, or in the judgment of the court.</cd>  <rj><au>Bouvier. Burrill.</au></rj></cs></p>
 
 <p><syn><b>Syn.</b> -- Mistake; fault; blunder; failure; fallacy; delusion; hallucination; sin. See <er>Blunder</er>.</syn></p>
 </entry>
@@ -19471,7 +19471,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 </entry>
 
 <entry main-word="Eskar" source="1913 Webster">
-<p><mhw>{ <hw>Es"kar</hw> <pr>(?)</pr>, <it>or</it> <hw>Es"ker</hw> <pr>(<ecr/s"k<etil/r)</pr> }</mhw>, <pos>n.</pos> <fld>(Geol.)</fld> <def>See <er>Eschar</er>.</def></p>
+<p><mhw>{ <hw>Es"kar</hw> <pr>(?)</pr>, <or/ <hw>Es"ker</hw> <pr>(<ecr/s"k<etil/r)</pr> }</mhw>, <pos>n.</pos> <fld>(Geol.)</fld> <def>See <er>Eschar</er>.</def></p>
 </entry>
 
 <entry main-word="Eskimo" source="1913 Webster">
@@ -19881,7 +19881,7 @@ Than courage.</q> <rj><qau>Denham.</qau></rj></p>
 </entry>
 
 <entry main-word="Essoin" source="1913 Webster">
-<p><mhw>{ <hw>Es*soin"</hw> <pr>(?)</pr> <it>or</it> <hw>Es*soign</hw>  }</mhw>, <pos>n.</pos> <ety>[OF. <ets>essoine</ets>, <ets>essoigne</ets>, F. <ets>exoine</ets>, L. <ets>essonia</ets>, <ets>exonia</ets>; pref. <ets>ex-</ets> (L. <ets>ex</ets> from) + <ets>sunnis</ets>, <ets>sunnia</ets>, <ets>sonia</ets>, hindrance, excuse.  Cf. Icel. <ets>syn</ets> refusal, <ets>synja</ets> to deny, refuse, Goth. <ets>sunja</ets> truth, <ets>sunj<omac/n</ets> to justify, OS. <ets>sunnea</ets> impediment, OHG. <ets>sunna</ets>.]</ety> <sn>1.</sn> <fld>(Eng. Law)</fld> <def>An excuse for not appearing in court at the return of process; the allegation of an excuse to the court.</def></p>
+<p><mhw>{ <hw>Es*soin"</hw> <pr>(?)</pr> <or/ <hw>Es*soign</hw>  }</mhw>, <pos>n.</pos> <ety>[OF. <ets>essoine</ets>, <ets>essoigne</ets>, F. <ets>exoine</ets>, L. <ets>essonia</ets>, <ets>exonia</ets>; pref. <ets>ex-</ets> (L. <ets>ex</ets> from) + <ets>sunnis</ets>, <ets>sunnia</ets>, <ets>sonia</ets>, hindrance, excuse.  Cf. Icel. <ets>syn</ets> refusal, <ets>synja</ets> to deny, refuse, Goth. <ets>sunja</ets> truth, <ets>sunj<omac/n</ets> to justify, OS. <ets>sunnea</ets> impediment, OHG. <ets>sunna</ets>.]</ety> <sn>1.</sn> <fld>(Eng. Law)</fld> <def>An excuse for not appearing in court at the return of process; the allegation of an excuse to the court.</def></p>
 
 <p><sn>2.</sn> <def>Excuse; exemption.</def> <mark>[Obs.]</mark></p>
 
@@ -20475,7 +20475,7 @@ As what I think might be, but what I know.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Etern" source="1913 Webster">
-<p><mhw>{ <hw>E*tern"</hw> <it>or</it> <hw>E*terne"</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[OF. <ets>eterne</ets>, L. <ets>aeternus</ets>, for <ets>aeviturnus</ets>, fr. <ets>aevum</ets> age. See <er>Age</er>, and cf. <er>Eternal</er>.]</ety> <def>Eternal.</def> <mark>[Poetic]</mark>  <rj><au>Shak.</au></rj></p>
+<p><mhw>{ <hw>E*tern"</hw> <or/ <hw>E*terne"</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[OF. <ets>eterne</ets>, L. <ets>aeternus</ets>, for <ets>aeviturnus</ets>, fr. <ets>aevum</ets> age. See <er>Age</er>, and cf. <er>Eternal</er>.]</ety> <def>Eternal.</def> <mark>[Poetic]</mark>  <rj><au>Shak.</au></rj></p>
 
 <p><q>Built up to <qex>eterne</qex> significance.</q> <rj><qau>Mrs. Browning.</qau></rj></p>
 </entry>
@@ -22742,7 +22742,7 @@ Illustrious <qex>evidence</qex>, example high.</q> <rj><qau>Milton.</qau></rj></
 
 <p><sn>3.</sn> <fld>(Law)</fld> <def>That which is legally submitted to competent tribunal, as a means of ascertaining the truth of any alleged matter of fact under investigation before it; means of making proof; -- the latter, strictly speaking, not being synonymous with <xex>evidence</xex>, but rather the effect of it.</def>  <rj><au>Greenleaf.</au></rj></p>
 
-<p source=""><cs><mcol><col>Circumstantial evidence</col>, <col>Conclusive evidence</col>, etc.</mcol> <cd>See under <er>Circumstantial</er>, <er>Conclusive</er>, etc.</cd> -- <mcol><col>Crown's evidence</col>, <col>King's evidence</col>, <it>or</it> <col>Queen's evidence</col></mcol>, <cd>evidence for the crown, in English courts; equivalent to <altname>state's evidence</altname> in American courts.</cd> <mark>[Eng.]</mark> -- <col>State's evidence</col>, <cd>evidence for the government or the people.</cd> <mark>[U. S. ]</mark> -- <mcol><col>To turn King's evidence</col> <col>To turn Queen's evidence</col>, <it>or</it> <col>To turn State's evidence</col></mcol>, <cd>to confess a crime and give evidence against one's accomplices.</cd></cs></p>
+<p source=""><cs><mcol><col>Circumstantial evidence</col>, <col>Conclusive evidence</col>, etc.</mcol> <cd>See under <er>Circumstantial</er>, <er>Conclusive</er>, etc.</cd> -- <mcol><col>Crown's evidence</col>, <col>King's evidence</col>, <or/ <col>Queen's evidence</col></mcol>, <cd>evidence for the crown, in English courts; equivalent to <altname>state's evidence</altname> in American courts.</cd> <mark>[Eng.]</mark> -- <col>State's evidence</col>, <cd>evidence for the government or the people.</cd> <mark>[U. S. ]</mark> -- <mcol><col>To turn King's evidence</col> <col>To turn Queen's evidence</col>, <or/ <col>To turn State's evidence</col></mcol>, <cd>to confess a crime and give evidence against one's accomplices.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Testimony; proof. See <er>Testimony</er>.</syn></p>
 </entry>
@@ -23384,7 +23384,7 @@ Of more <qex>exalted</qex> mind.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>He neglected the studies, . . . stood low at the <qex>examinations</qex>.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p source=""><cs><mcol><col>Examination in chief</col>, <it>or</it>  <col>Direct examination</col></mcol> <fld>(Law)</fld>, <cd>that examination which is made of a witness by a party calling him.</cd> -- <col>Cross-examination</col>, <cd>that made by the opposite party.</cd> -- <mcol><col>Re<eum/xamination</col>, <it>or</it> <col>Re-direct examination</col></mcol>, <fld>(Law)</fld> <cd>that questioning of a witness at trial made by the party calling the witness, after, and upon matters arising out of, the cross-examination; also called informally <altname>re-direct</altname>.</cd></cs></p>
+<p source=""><cs><mcol><col>Examination in chief</col>, <or/  <col>Direct examination</col></mcol> <fld>(Law)</fld>, <cd>that examination which is made of a witness by a party calling him.</cd> -- <col>Cross-examination</col>, <cd>that made by the opposite party.</cd> -- <mcol><col>Re<eum/xamination</col>, <or/ <col>Re-direct examination</col></mcol>, <fld>(Law)</fld> <cd>that questioning of a witness at trial made by the party calling the witness, after, and upon matters arising out of, the cross-examination; also called informally <altname>re-direct</altname>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Search; inquiry; investigation; research; scrutiny; inquisition; inspection; exploration.</syn></p>
 </entry>
@@ -24154,7 +24154,7 @@ Is to <qex>exchange</qex> one misery with another.</q> <rj><qau>Shak.</qau></rj>
 
 <p><sn>2.</sn> <def>The department of state having charge of the collection and management of the royal revenue. <mark>[Eng.]</mark> Hence, the treasury; and, colloquially, pecuniary possessions in general; <as>as, the company's <ex>exchequer</ex> is low</as>.</def></p>
 
-<p><cs><col>Barons of the exchequer</col>. <cd>See under <er>Baron</er>.</cd> -- <col>Chancellor of the exchequer</col>. <cd>See under <er>Chancellor</er>.</cd> -- <mcol><col>Exchequer bills</col> <it>or</it> <col>Exchequer bonds</col></mcol> <fld>(Eng.)</fld>, <cd>bills of money, or promissory bills, issued from the exchequer by authority of Parliament; a species of paper currency emitted under the authority of the government, and bearing interest.</cd></cs></p>
+<p><cs><col>Barons of the exchequer</col>. <cd>See under <er>Baron</er>.</cd> -- <col>Chancellor of the exchequer</col>. <cd>See under <er>Chancellor</er>.</cd> -- <mcol><col>Exchequer bills</col> <or/ <col>Exchequer bonds</col></mcol> <fld>(Eng.)</fld>, <cd>bills of money, or promissory bills, issued from the exchequer by authority of Parliament; a species of paper currency emitted under the authority of the government, and bearing interest.</cd></cs></p>
 </entry>
 
 <entry main-word="Exchequer" source="1913 Webster">
@@ -26364,7 +26364,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source="PJC"><sn>9.</sn> <def>an <cref>expansion joint</cref>.  See below.</def> <mark>[Colloq. or jargon]</mark></p>
 
-<p><cs><col>Expansion curve</col>, <cd>a curve the co<oum/rdinates of which show the relation between the pressure and volume of expanding gas or vapor; esp. <fld>(Steam engine)</fld>, that part of an indicator diagram which shows the declining pressure of the steam as it expands in the cylinder.</cd> -- <col>Expansion gear</col> <fld>(Steam Engine)</fld>. <cd>a cut-off gear. See <xex>Illust.</xex> of <er>Link motion</er>.</cd> -- <mcol><col>Automatic expansion gear</col> <it>or</it> <col>Automatic cut-off</col></mcol>, <cd>one that is regulated by the governor, and varies the supply of steam to the engine with the demand for power.</cd> -- <mcol><col>Fixed expansion gear</col>, <it>or</it> <col>Fixed cut-off</col></mcol>, <cd>one that always operates at the same fixed point of the stroke.</cd> -- <mcol><col>Expansion joint</col>, <it>or</it> <col>Expansion coupling</col></mcol> <fld>(Mech. & Engin.)</fld>, <cd>a yielding joint or coupling for so uniting parts of a machine or structure that expansion, as by heat, is prevented from causing injurious strains;</cd> <specif>as:</specif> <sd>(a)</sd> <cd>A slide or set of rollers, at the end of bridge truss, to support it but allow end play.</cd> <sd>(b)</sd> <cd>A telescopic joint in a steam pipe, to permit one part of the pipe to slide within the other.</cd> <sd>(c)</sd> <cd>A clamp for holding a locomotive frame to the boiler while allowing lengthwise motion.</cd> <sd>(d)</sd> <cd>a strip of compressible material placed at intervals between blocks of poured concrete, as in roads or sidewalks.</cd> -- <col>Expansion valve</col> <fld>(Steam Engine)</fld>, <cd>a cut-off valve, to shut off steam from the cylinder before the end of each stroke.</cd></cs></p>
+<p><cs><col>Expansion curve</col>, <cd>a curve the co<oum/rdinates of which show the relation between the pressure and volume of expanding gas or vapor; esp. <fld>(Steam engine)</fld>, that part of an indicator diagram which shows the declining pressure of the steam as it expands in the cylinder.</cd> -- <col>Expansion gear</col> <fld>(Steam Engine)</fld>. <cd>a cut-off gear. See <xex>Illust.</xex> of <er>Link motion</er>.</cd> -- <mcol><col>Automatic expansion gear</col> <or/ <col>Automatic cut-off</col></mcol>, <cd>one that is regulated by the governor, and varies the supply of steam to the engine with the demand for power.</cd> -- <mcol><col>Fixed expansion gear</col>, <or/ <col>Fixed cut-off</col></mcol>, <cd>one that always operates at the same fixed point of the stroke.</cd> -- <mcol><col>Expansion joint</col>, <or/ <col>Expansion coupling</col></mcol> <fld>(Mech. & Engin.)</fld>, <cd>a yielding joint or coupling for so uniting parts of a machine or structure that expansion, as by heat, is prevented from causing injurious strains;</cd> <specif>as:</specif> <sd>(a)</sd> <cd>A slide or set of rollers, at the end of bridge truss, to support it but allow end play.</cd> <sd>(b)</sd> <cd>A telescopic joint in a steam pipe, to permit one part of the pipe to slide within the other.</cd> <sd>(c)</sd> <cd>A clamp for holding a locomotive frame to the boiler while allowing lengthwise motion.</cd> <sd>(d)</sd> <cd>a strip of compressible material placed at intervals between blocks of poured concrete, as in roads or sidewalks.</cd> -- <col>Expansion valve</col> <fld>(Steam Engine)</fld>, <cd>a cut-off valve, to shut off steam from the cylinder before the end of each stroke.</cd></cs></p>
 </entry>
 
 <entry main-word="Expansive" source="1913 Webster">
@@ -26405,7 +26405,7 @@ My mortified spirit.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Ex parte" source="1913 Webster">
 <p><par/<hw>Ex` par"te</hw> <pr>(?)</pr>. <ety>[L. See <er>Ex-</er>, and <er>Part</er>.]</ety> <def>Upon or from one side only; one-sided; partial; <as>as, an <ex>ex parte</ex> statement</as>.</def></p>
 
-<p><cs><col>Ex parte application</col>, <cd>one made without notice or opportunity to oppose.</cd> -- <col>Ex parte council</col>, <cd>one that assembles at the request of only one of the parties in dispute.</cd> -- <mcol><col>Ex parte hearing</col> <it>or</it> <col>Ex parte evidence</col></mcol> <fld>(Law)</fld>, <cd>that which is had or taken by one side or party in the absence of the other.  Hearings before grand juries, and affidavits, are <ex>ex parte</ex>.</cd>  <rj><au>Wharton's Law Dict.</au>  <au>Burrill.</au></rj></cs></p>
+<p><cs><col>Ex parte application</col>, <cd>one made without notice or opportunity to oppose.</cd> -- <col>Ex parte council</col>, <cd>one that assembles at the request of only one of the parties in dispute.</cd> -- <mcol><col>Ex parte hearing</col> <or/ <col>Ex parte evidence</col></mcol> <fld>(Law)</fld>, <cd>that which is had or taken by one side or party in the absence of the other.  Hearings before grand juries, and affidavits, are <ex>ex parte</ex>.</cd>  <rj><au>Wharton's Law Dict.</au>  <au>Burrill.</au></rj></cs></p>
 </entry>
 
 <entry main-word="Expatiate" source="1913 Webster">
@@ -27606,7 +27606,7 @@ Hath been most sound.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Ex post facto" source="">
-<p><mhw>{ <par/<hw>Ex" post` fac"to</hw>, <it>or</it> <par/<hw>Ex" post`fac"to</hw> <pr>(<ecr/ks" p<omac/st" f<acr/k"t<osl/)</pr> }</mhw>. <ety>[L., from what is done afterwards.]</ety> <fld>(Law)</fld> <def>From or by an after act, or thing done afterward; in consequence of a subsequent act; retrospective.</def></p>
+<p><mhw>{ <par/<hw>Ex" post` fac"to</hw>, <or/ <par/<hw>Ex" post`fac"to</hw> <pr>(<ecr/ks" p<omac/st" f<acr/k"t<osl/)</pr> }</mhw>. <ety>[L., from what is done afterwards.]</ety> <fld>(Law)</fld> <def>From or by an after act, or thing done afterward; in consequence of a subsequent act; retrospective.</def></p>
 
 <p source="1913 Webster"><-- note "after enactment" probably should read after-enactment. sic. -->
 <cs><col>Ex post facto law</col>, <cd>a law which operates by after enactment. The phrase is popularly applied to any law, civil or criminal, which is enacted with a retrospective effect, and with intention to produce that effect; but in its true application, as employed in American law, it relates only to crimes, and signifies a law which retroacts, by way of criminal punishment, upon that which was not a crime before its passage, or which raises the grade of an offense, or renders an act punishable in a more severe manner that it was when committed. <xex>Ex post facto laws</xex> are held to be contrary to the fundamental principles of a free government, and the States are prohibited from passing such laws by the Constitution of the United States.</cd>  <rj><au>Burrill.</au>  <au>Kent.</au></rj></cs></p>
@@ -27962,7 +27962,7 @@ Than breath or pen can give <qex>expressure</qex> to.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Expurgate" source="1913 Webster">
-<p><hw>Ex"pur*gate</hw> <pr>(<ecr/ks"p<ucr/r*g<amac/t <it>or</it> <ecr/ks*p<ucir/r"g<amac/t; 277)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Expurgated</conjf> <pr>(<ecr/ks`p<ucr/r*g<amac/"t<ecr/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Expurgating</conjf> <pr>(<ecr/ks`p<ucr/r*g<amac/"t<icr/ng)</pr>.]</vmorph> <ety>[L. <ets>expurgatus</ets>, p. p. of <ets>expurgare</ets> to purge, purify; <ets>ex</ets> out, from + <ets>purgare</ets> to cleanse, purify, purge. See <er>Purge</er>, and cf. <er>Spurge</er>.]</ety> <def>To purify; to clear from anything noxious, offensive, or erroneous; to cleanse; to purge; <as>as, to <ex>expurgate</ex> a book</as>.</def></p>
+<p><hw>Ex"pur*gate</hw> <pr>(<ecr/ks"p<ucr/r*g<amac/t <or/ <ecr/ks*p<ucir/r"g<amac/t; 277)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Expurgated</conjf> <pr>(<ecr/ks`p<ucr/r*g<amac/"t<ecr/d)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Expurgating</conjf> <pr>(<ecr/ks`p<ucr/r*g<amac/"t<icr/ng)</pr>.]</vmorph> <ety>[L. <ets>expurgatus</ets>, p. p. of <ets>expurgare</ets> to purge, purify; <ets>ex</ets> out, from + <ets>purgare</ets> to cleanse, purify, purge. See <er>Purge</er>, and cf. <er>Spurge</er>.]</ety> <def>To purify; to clear from anything noxious, offensive, or erroneous; to cleanse; to purge; <as>as, to <ex>expurgate</ex> a book</as>.</def></p>
 </entry>
 
 <entry main-word="expurgated" source="WordNet 1.5">
@@ -30011,14 +30011,14 @@ Among young gallants.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 </entry>
 
 <entry main-word="Eyne" source="1913 Webster">
-<p><mhw>{ <hw>Eyne</hw> <pr>(?)</pr>, <it>or</it> <hw>Ey"en</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>Plural of <xex>eye</xex>; -- now obsolete, or used only in poetry.</def>  <rj><au>Shak.</au></rj></p>
+<p><mhw>{ <hw>Eyne</hw> <pr>(?)</pr>, <or/ <hw>Ey"en</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <def>Plural of <xex>eye</xex>; -- now obsolete, or used only in poetry.</def>  <rj><au>Shak.</au></rj></p>
 
 <p><q>With such a plaintive gaze their <qex>eyne</qex><br/
 Are fastened upwardly on mine.</q> <rj><qau>Mrs. Browning.</qau></rj></p>
 </entry>
 
 <entry main-word="Eyot" source="1913 Webster">
-<p><hw>Ey"ot</hw> <pr>(<imac/"<ocr/t <it>or</it> <amac/t)</pr>, <pos>n.</pos> <ety>[<ets>Ey</ets> (AS. <ets><imac/g</ets> or Icel. <ets>ey</ets>) + F. dim. termination <ets>-ot</ets>; cf. AS. <ets><imac/geo<edh/</ets>.  See <er>Island</er>, and cf. <er>Ait</er>.]</ety> <def>A little island in a river or lake. See <er>Ait</er>.</def> <altsp>[Written also <asp>ait</asp>, <asp>ayt</asp>, <asp>ey</asp>, <asp>eyet</asp>, and <asp>eyght</asp>.]</altsp>  <rj><au>Blackstone.</au></rj></p>
+<p><hw>Ey"ot</hw> <pr>(<imac/"<ocr/t <or/ <amac/t)</pr>, <pos>n.</pos> <ety>[<ets>Ey</ets> (AS. <ets><imac/g</ets> or Icel. <ets>ey</ets>) + F. dim. termination <ets>-ot</ets>; cf. AS. <ets><imac/geo<edh/</ets>.  See <er>Island</er>, and cf. <er>Ait</er>.]</ety> <def>A little island in a river or lake. See <er>Ait</er>.</def> <altsp>[Written also <asp>ait</asp>, <asp>ayt</asp>, <asp>ey</asp>, <asp>eyet</asp>, and <asp>eyght</asp>.]</altsp>  <rj><au>Blackstone.</au></rj></p>
 </entry>
 
 <entry main-word="Eyr" source="1913 Webster">

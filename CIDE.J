@@ -70,7 +70,7 @@
 <entry main-word="Jabiru" source="1913 Webster">
 <p><hw>Jab"i*ru</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Braz. <ets>jabir<uacute/</ets>, <ets>jabur<uacute/</ets>.]</ety> <fld>(Zool.)</fld> <def>One of several large wading birds of the genera <gen>Mycteria</gen> and <gen>Xenorhynchus</gen>, allied to the storks in form and habits.</def></p>
 
-<p><note><hand/ The American jabiru (<spn>Mycteria Americana</spn>) is white, with the head and neck black and nearly bare of feathers. The East Indian and Australian (<spn>Xenorhynchus Australis</spn>) has the neck, head, and back covered with glossy, dark green feathers, changing on the head to purple. The African jabiru (<spn>Mycteria Senegalensis</spn> <it>or</it> <spn>Ephippiorhynchus, Senegalensis</spn>) has the neck, head, wing coverts, and tail, black, and is called also <stype>saddle-billed stork</stype>.</note></p>
+<p><note><hand/ The American jabiru (<spn>Mycteria Americana</spn>) is white, with the head and neck black and nearly bare of feathers. The East Indian and Australian (<spn>Xenorhynchus Australis</spn>) has the neck, head, and back covered with glossy, dark green feathers, changing on the head to purple. The African jabiru (<spn>Mycteria Senegalensis</spn> <or/ <spn>Ephippiorhynchus, Senegalensis</spn>) has the neck, head, wing coverts, and tail, black, and is called also <stype>saddle-billed stork</stype>.</note></p>
 </entry>
 
 <entry main-word="Jaborandi" source="1913 Webster">
@@ -514,7 +514,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 <entry main-word="Jacquard" source="1913 Webster">
 <p><hw>Jac*quard"</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to, or invented by, <etsep>Jacquard</etsep>, a French mechanician, who died in 1834.</def></p>
 
-<p><cs><mcol><col>Jacquard apparatus</col> <it>or</it> <col>Jacquard arrangement</col></mcol>, <cd>a device applied to looms for weaving figured goods, consisting of mechanism controlled by a chain of variously perforated cards, which cause the warp threads to be lifted in the proper succession for producing the required figure.</cd> -- <col>Jacquard card</col>, <cd>one of the perforated cards of a Jacquard apparatus.</cd> -- <col>Jacquard loom</col>, <cd>a loom with Jacquard apparatus.</cd></cs></p>
+<p><cs><mcol><col>Jacquard apparatus</col> <or/ <col>Jacquard arrangement</col></mcol>, <cd>a device applied to looms for weaving figured goods, consisting of mechanism controlled by a chain of variously perforated cards, which cause the warp threads to be lifted in the proper succession for producing the required figure.</cd> -- <col>Jacquard card</col>, <cd>one of the perforated cards of a Jacquard apparatus.</cd> -- <col>Jacquard loom</col>, <cd>a loom with Jacquard apparatus.</cd></cs></p>
 </entry>
 
 <entry main-word="Jacqueminot" source="1913 Webster">
@@ -775,7 +775,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj></p>
 
 <p><q>This <qex>jail</qex> I count the house of liberty.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><cs><col>Jail delivery</col>, <cd>the release of prisoners from jail, either legally or by violence.</cd> -- <col>Jail delivery commission</col>. <cd>See under <er>Gaol</er>.</cd> -- <col>Jail fever</col> <fld>(Med.)</fld>, <cd>typhus fever, or a disease resembling it, generated in jails and other places crowded with people; -- called also <altname>hospital fever</altname>, and <altname>ship fever</altname>.</cd> -- <mcol><col>Jail liberties</col>, <it>or</it> <col>Jail limits</col></mcol>, <cd>a space or district around a jail within which an imprisoned debtor was, on certain conditions, allowed to go at large.</cd> <au>Abbott.</au> -- <col>Jail lock</col>, <cd>a peculiar form of padlock; -- called also <altname>Scandinavian lock</altname>.</cd></cs></p>
+<p><cs><col>Jail delivery</col>, <cd>the release of prisoners from jail, either legally or by violence.</cd> -- <col>Jail delivery commission</col>. <cd>See under <er>Gaol</er>.</cd> -- <col>Jail fever</col> <fld>(Med.)</fld>, <cd>typhus fever, or a disease resembling it, generated in jails and other places crowded with people; -- called also <altname>hospital fever</altname>, and <altname>ship fever</altname>.</cd> -- <mcol><col>Jail liberties</col>, <or/ <col>Jail limits</col></mcol>, <cd>a space or district around a jail within which an imprisoned debtor was, on certain conditions, allowed to go at large.</cd> <au>Abbott.</au> -- <col>Jail lock</col>, <cd>a peculiar form of padlock; -- called also <altname>Scandinavian lock</altname>.</cd></cs></p>
 </entry>
 
 <entry main-word="Jail" source="1913 Webster">
@@ -1226,7 +1226,7 @@ From rock and from <qex>jag</qex>.</q> <rj><qau>Shelley.</qau></rj></p>
 <entry main-word="Japan" source="1913 Webster">
 <p><hw>Ja*pan"</hw>, <pos>a.</pos> <def>Of or pertaining to Japan, or to the lacquered work of that country; <as>as, <ex>Japan</ex> ware</as>.</def></p>
 
-<p><cs><col>Japan allspice</col> <fld>(Bot.)</fld>, <cd>a spiny shrub from Japan (<spn>Chimonanthus fragrans</spn>), related to the Carolina allspice.</cd> -- <col>Japan black</col> <fld>(Chem.)</fld>, <cd>a quickly drying black lacquer or varnish, consisting essentially of asphaltum dissolved in naphtha or turpentine, and used for coating ironwork; -- called also <altname>Brunswick black</altname>, <altname>Japan lacquer</altname>, or simply <altname>Japan</altname>.</cd> -- <col>Japan camphor</col>, <cd>ordinary camphor brought from China or Japan, as distinguished from the rare variety called <contr>borneol</contr> or <contr>Borneo camphor</contr>.</cd> -- <mcol><col>Japan clover</col>, <it>or</it> <col>Japan pea</col></mcol> <fld>(Bot.)</fld>, <cd>a cloverlike plant (<spn>Lespedeza striata</spn>) from Eastern Asia, useful for fodder, first noticed in the Southern United States about 1860, but now become very common.  During the Civil War it was called variously <altname>Yankee clover</altname> and <altname>Rebel clover</altname>.</cd> -- <col>Japan earth</col>. <cd>See <er>Catechu</er>.</cd> -- <col>Japan ink</col>, <cd>a kind of writing ink, of a deep, glossy black when dry.</cd> -- <col>Japan varnish</col>, <cd>a varnish prepared from the milky juice of the <spn>Rhus vernix</spn>, a small Japanese tree related to the poison sumac.</cd></cs></p>
+<p><cs><col>Japan allspice</col> <fld>(Bot.)</fld>, <cd>a spiny shrub from Japan (<spn>Chimonanthus fragrans</spn>), related to the Carolina allspice.</cd> -- <col>Japan black</col> <fld>(Chem.)</fld>, <cd>a quickly drying black lacquer or varnish, consisting essentially of asphaltum dissolved in naphtha or turpentine, and used for coating ironwork; -- called also <altname>Brunswick black</altname>, <altname>Japan lacquer</altname>, or simply <altname>Japan</altname>.</cd> -- <col>Japan camphor</col>, <cd>ordinary camphor brought from China or Japan, as distinguished from the rare variety called <contr>borneol</contr> or <contr>Borneo camphor</contr>.</cd> -- <mcol><col>Japan clover</col>, <or/ <col>Japan pea</col></mcol> <fld>(Bot.)</fld>, <cd>a cloverlike plant (<spn>Lespedeza striata</spn>) from Eastern Asia, useful for fodder, first noticed in the Southern United States about 1860, but now become very common.  During the Civil War it was called variously <altname>Yankee clover</altname> and <altname>Rebel clover</altname>.</cd> -- <col>Japan earth</col>. <cd>See <er>Catechu</er>.</cd> -- <col>Japan ink</col>, <cd>a kind of writing ink, of a deep, glossy black when dry.</cd> -- <col>Japan varnish</col>, <cd>a varnish prepared from the milky juice of the <spn>Rhus vernix</spn>, a small Japanese tree related to the poison sumac.</cd></cs></p>
 </entry>
 
 <entry main-word="Japan" source="1913 Webster">
@@ -1477,7 +1477,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Jasmine" source="1913 Webster">
 <p><hw>Jas"mine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>jasmin</ets>, Sp. <ets>jazmin</ets>, Ar. <ets>y<amac/sm<imac/n</ets>, Pers. <ets>y<amac/sm<imac/n</ets>; cf. It. <ets>gesmino</ets>, <ets>gelsomino</ets>.  Cf. <er>Jessamine</er>.]</ety> <fld>(Bot.)</fld> <def>A shrubby plant of the genus <gen>Jasminum</gen>, bearing flowers of a peculiarly fragrant odor. The <spn>Jasminum officinale</spn>, common in the south of Europe, bears white flowers. The Arabian jasmine is <spn>Jasminum Sambac</spn>, and, with <spn>Jasminum angustifolia</spn>, comes from the East Indies.  The yellow false jasmine in the <spn>Gelseminum sempervirens</spn> (see <er>Gelsemium</er>). Several other plants are called <ex>jasmine</ex> in the West Indies, as species of <gen>Calotropis</gen> and <gen>Faramea</gen>.</def> <altsp>[Written also  <asp>jessamine</asp>.]</altsp></p>
 
-<p><cs><mcol><col>Cape jasmine</col>, <it>or</it> <col>Cape jessamine</col></mcol>, <cd>the <spn>Gardenia florida</spn>, a shrub with fragrant white flowers, a native of China, and hardy in the Southern United States.</cd></cs></p>
+<p><cs><mcol><col>Cape jasmine</col>, <or/ <col>Cape jessamine</col></mcol>, <cd>the <spn>Gardenia florida</spn>, a shrub with fragrant white flowers, a native of China, and hardy in the Southern United States.</cd></cs></p>
 </entry>
 
 <entry main-word="Jason" source="WordNet 1.5">
@@ -1497,7 +1497,7 @@ Their watches on unto mine eyes.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Jasper" source="1913 Webster">
-<p><hw>Jas"per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>jaspre</ets>, <ets>jaspe</ets>, OF. <ets>jaspre</ets>, <ets>jaspe</ets>, F. <ets>jaspe</ets>, L. <ets>iaspis</ets>, Gr. <?/; cf. Per. <ets>yashp</ets>, <ets>yashf</ets>, Ar. <ets>yashb</ets>, <ets>yasb</ets>, <ets>yasf</ets>, Heb. <ets>y<amac/shpheh</ets>.  Cf. <er>Diaper</er>.]</ety> <fld>(Min.)</fld> <def>An opaque, impure variety of quartz, of red, yellow, and other dull colors, breaking with a smooth surface. It admits of a high polish, and is used for vases, seals, snuff boxes, etc.  When the colors are in stripes or bands, it is called <stype>striped jasper</stype> <it>or</it> <stype>banded jasper</stype>. The Egyptian pebble is a brownish yellow jasper.</def></p>
+<p><hw>Jas"per</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>jaspre</ets>, <ets>jaspe</ets>, OF. <ets>jaspre</ets>, <ets>jaspe</ets>, F. <ets>jaspe</ets>, L. <ets>iaspis</ets>, Gr. <?/; cf. Per. <ets>yashp</ets>, <ets>yashf</ets>, Ar. <ets>yashb</ets>, <ets>yasb</ets>, <ets>yasf</ets>, Heb. <ets>y<amac/shpheh</ets>.  Cf. <er>Diaper</er>.]</ety> <fld>(Min.)</fld> <def>An opaque, impure variety of quartz, of red, yellow, and other dull colors, breaking with a smooth surface. It admits of a high polish, and is used for vases, seals, snuff boxes, etc.  When the colors are in stripes or bands, it is called <stype>striped jasper</stype> <or/ <stype>banded jasper</stype>. The Egyptian pebble is a brownish yellow jasper.</def></p>
 
 <p><cs><col>Jasper opal</col>, <cd>a yellow variety of opal resembling jasper.</cd> -- <col>Jasper ware</col>, <cd>a delicate kind of earthenware invented by <person>Josiah Wedgwood</person>. It is usually white, but is capable of receiving color.</cd></cs></p>
 </entry>
@@ -2109,7 +2109,7 @@ Only for spite at me.</q> <rj><qau>H. Taylor.</qau></rj></p>
 </entry>
 
 <entry main-word="Jequirity" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Je*quir"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Je*quir"i*ty bean`</hw> }</mhw>. <ety>[Prob. fr. a native name.]</ety> <fld>(Bot.)</fld> <def>The seed of the wild licorice (<spn>Abrus precatorius</spn>) used by the people of India for beads in rosaries and necklaces, as a standard weight, etc.; -- called also <altname>jumble bead</altname>.</def></p>
+<p><mhw>{ <hw>Je*quir"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Je*quir"i*ty bean`</hw> }</mhw>. <ety>[Prob. fr. a native name.]</ety> <fld>(Bot.)</fld> <def>The seed of the wild licorice (<spn>Abrus precatorius</spn>) used by the people of India for beads in rosaries and necklaces, as a standard weight, etc.; -- called also <altname>jumble bead</altname>.</def></p>
 </entry>
 
 <entry main-word="Jerboa" source="1913 Webster">
@@ -2596,7 +2596,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj></p>
 </entry>
 
 <entry main-word="Jew" source="1913 Webster">
-<p><hw>Jew</hw> <pr>(j<umac/ <it>or</it> j<udd/; 277)</pr>, <pos>n.</pos> <ety>[OF. <ets>Juis</ets>, pl., F. <ets>Juif</ets>, L. <ets>Judaeus</ets>, Gr. <grk>'Ioydai^os</grk>, fr. <grk>'Ioydai`a</grk> the country of the Jews, Judea, fr. Heb. <ets>Y<ecr/h<umac/d<amac/h</ets> Judah, son of Jacob.  Cf. <er>Judaic</er>.]</ety> <sn>1.</sn> <def>Originally, one belonging to the tribe or kingdom of Judah; after the return from the Babylonish captivity, any member of the new state; a Hebrew; an Israelite.</def></p>
+<p><hw>Jew</hw> <pr>(j<umac/ <or/ j<udd/; 277)</pr>, <pos>n.</pos> <ety>[OF. <ets>Juis</ets>, pl., F. <ets>Juif</ets>, L. <ets>Judaeus</ets>, Gr. <grk>'Ioydai^os</grk>, fr. <grk>'Ioydai`a</grk> the country of the Jews, Judea, fr. Heb. <ets>Y<ecr/h<umac/d<amac/h</ets> Judah, son of Jacob.  Cf. <er>Judaic</er>.]</ety> <sn>1.</sn> <def>Originally, one belonging to the tribe or kingdom of Judah; after the return from the Babylonish captivity, any member of the new state; a Hebrew; an Israelite.</def></p>
 
 <p source="PJC"><sn>2.</sn> <def>An adherent of Judaism.</def></p>
 
@@ -2604,11 +2604,11 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj></p>
 </entry>
 
 <entry main-word="Jew" source="PJC">
-<p><hw>Jew</hw> <pr>(j<umac/ <it>or</it> j<oomac/)</pr>, <pos>a.</pos>  <def>Of or pertaining to Jews; Jewish; -- usually considered offensive.</def> <mark>[offensive]</mark> </p>
+<p><hw>Jew</hw> <pr>(j<umac/ <or/ j<oomac/)</pr>, <pos>a.</pos>  <def>Of or pertaining to Jews; Jewish; -- usually considered offensive.</def> <mark>[offensive]</mark> </p>
 </entry>
 
 <entry main-word="Jew" source="PJC">
-<p><mhw><hw>Jew</hw>, <hw>Jew down</hw></mhw> <pr>(j<umac/ <it>or</it> j<oomac/)</pr>, <pos>v. t.</pos>  <def>To bargain down (a person) in price; <as>as, I <ex>jewed</ex> him <ex>down</ex> to ten dollars</as>.</def> <mark>[offensive]</mark></p>
+<p><mhw><hw>Jew</hw>, <hw>Jew down</hw></mhw> <pr>(j<umac/ <or/ j<oomac/)</pr>, <pos>v. t.</pos>  <def>To bargain down (a person) in price; <as>as, I <ex>jewed</ex> him <ex>down</ex> to ten dollars</as>.</def> <mark>[offensive]</mark></p>
 </entry>
 
 <entry main-word="Jew-baiter" source="WordNet 1.5">
@@ -2621,7 +2621,7 @@ Calm and sweet repose.</q>  <rj><qau>S. Baring-Gould.</qau></rj></p>
 </entry>
 
 <entry main-word="Jewel" source="1913 Webster">
-<p><hw>Jew"el</hw> <pr>(j<umac/"<ecr/l <it>or</it> j<udd/"<ecr/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>juel</ets>, <ets>jowel</ets>, OF. <ets>jouel</ets>, <ets>juel</ets>, <ets>joiel</ets>, F. <ets>joyau</ets>, dim. of OF. <ets>joie</ets> joy, jewel, F. joie joy. See <er>Joy</er>.]</ety></p>
+<p><hw>Jew"el</hw> <pr>(j<umac/"<ecr/l <or/ j<udd/"<ecr/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>juel</ets>, <ets>jowel</ets>, OF. <ets>jouel</ets>, <ets>juel</ets>, <ets>joiel</ets>, F. <ets>joyau</ets>, dim. of OF. <ets>joie</ets> joy, jewel, F. joie joy. See <er>Joy</er>.]</ety></p>
 
 <p><sn>1.</sn> <def>An ornament of dress usually made of a precious metal, and having enamel or precious stones as a part of its design.</def></p>
 
@@ -2649,17 +2649,17 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Jeweler" source="1913 Webster">
-<p><hw>Jew"el*er</hw> <pr>(j<umac/"<ecr/l*l<etil/r <it>or</it> j<udd/"<ecr/l*l<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>joaillier</ets>.]</ety> <def>One who makes, or deals in, jewels, precious stones, and similar ornaments.</def> <altsp>[Written also <asp>jeweller</asp>.]</altsp></p>
+<p><hw>Jew"el*er</hw> <pr>(j<umac/"<ecr/l*l<etil/r <or/ j<udd/"<ecr/l*l<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>joaillier</ets>.]</ety> <def>One who makes, or deals in, jewels, precious stones, and similar ornaments.</def> <altsp>[Written also <asp>jeweller</asp>.]</altsp></p>
 
 <p><cs><col>Jeweler's gold</col>. <cd>See under <er>Gold</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Jewellery" source="1913 Webster">
-<p><hw>Jew"el*ler*y</hw> <pr>(j<umac/"<ecr/l*l<etil/r*r<ycr/ <it>or</it> j<udd/"<ecr/l*l<etil/r*r<ycr/)</pr>, <pos>n.</pos> <def>See <er>Jewelry</er>.</def> <mark>[Chiefly Brit.]</mark>  <rj><au>Burke.</au></rj></p>
+<p><hw>Jew"el*ler*y</hw> <pr>(j<umac/"<ecr/l*l<etil/r*r<ycr/ <or/ j<udd/"<ecr/l*l<etil/r*r<ycr/)</pr>, <pos>n.</pos> <def>See <er>Jewelry</er>.</def> <mark>[Chiefly Brit.]</mark>  <rj><au>Burke.</au></rj></p>
 </entry>
 
 <entry main-word="Jewelry" source="1913 Webster">
-<p><hw>Jew"el*ry</hw> <pr>(j<umac/"<ecr/l*r<ycr/ <it>or</it> j<udd/"<ecr/l*r<ycr/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>joaillerie</ets>.]</ety></p>
+<p><hw>Jew"el*ry</hw> <pr>(j<umac/"<ecr/l*r<ycr/ <or/ j<udd/"<ecr/l*r<ycr/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>joaillerie</ets>.]</ety></p>
 
 <p><sn>1.</sn> <def>The art or trade of a jeweler.</def>  <rj><au>Cotgrave.</au></rj></p>
 
@@ -2890,7 +2890,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj></
 </entry>
 
 <entry main-word="Jigger" source="1913 Webster">
-<p><hw>Jig"ger</hw> <pr>(j<icr/g"g<etil/r)</pr>, <pos>n.</pos> <ety>[A corrupt. of <ets>chigre</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A species of flea (<spn>Tunga penetrans</spn>, <it>or</it> <spn>Sarcopsylla penetrans</spn>, <it>or</it>  <spn>Pulex penetrans</spn>), which burrows beneath the skin; called also <altname>jigger flea</altname>. See <er>Chigoe</er>.</def></p>
+<p><hw>Jig"ger</hw> <pr>(j<icr/g"g<etil/r)</pr>, <pos>n.</pos> <ety>[A corrupt. of <ets>chigre</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A species of flea (<spn>Tunga penetrans</spn>, <or/ <spn>Sarcopsylla penetrans</spn>, <or/  <spn>Pulex penetrans</spn>), which burrows beneath the skin; called also <altname>jigger flea</altname>. See <er>Chigoe</er>.</def></p>
 
 <p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of several species of small red mites (esp. <spn>Tetranychus irritans</spn> and <spn>Tetranychus Americanus</spn>) of the family <fam>Trombiculidae</fam>, which, in the larval or leptus stage, burrow beneath the skin of man and various animals, causing great annoyance.  Also called <altname>chigger</altname>.</def> <mark>[Southern U. S.]</mark></p>
 </entry>
@@ -3736,7 +3736,7 @@ Must glove this hand.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>A <qex>joint</qex> burden laid upon us all.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><cs><col>Joint committee</col> <fld>(Parliamentary Practice)</fld>, <cd>a committee composed of members of the two houses of a legislative body, for the appointment of which concurrent resolutions of the two houses are necessary.</cd> <au>Cushing.</au> -- <mcol><col>Joint meeting</col>, <it>or</it> <col>Joint session</col></mcol>, <cd>the meeting or session of two distinct bodies as one; <as>as, a <ex>joint meeting</ex> of committees representing different corporations; a <ex>joint session</ex> of both branches of a State legislature to chose a United States senator.</as></cd> <ldquo/Such <ex>joint meeting</ex> shall not be dissolved until the electoral votes are all counted and the result declared.<rdquo/ <au>Joint Rules of Congress, U. S.</au> -- <col>Joint resolution</col> <fld>(Parliamentary Practice)</fld>, <cd>a resolution adopted concurrently by the two branches of a legislative body.</cd> <ldquo/By the constitution of the United States and the rules of the two houses, no absolute distinction is made between bills and <xex>joint resolutions</xex>.<rdquo/ <au>Barclay (Digest).</au> -- <col>Joint rule</col> <fld>(Parliamentary Practice)</fld>, <cd>a rule of proceeding adopted by the concurrent action of both branches of a legislative assembly.</cd> <ldquo/Resolved, by the House of Representatives (the Senate concurring), that the sixteenth and seventeenth <xex>joint rules</xex> be suspended for the remainder of the session.<rdquo/ <au>Journal H. of R., U. S.</au> -- <col>Joint and several</col> <fld>(Law)</fld>, <cd>a phrase signifying that the debt, credit, obligation, etc., to which it is applied is held in such a way that the parties in interest are engaged both together and individually thus a <xex>joint and several</xex> debt is one for which all the debtors may be sued together or either of them individually; used especially in the phrase <ecol><b>joint and several liability</b></ecol>.</cd> -- <col>Joint stock</col>, <cd>stock held in company.</cd> -- <col>Joint-stock company</col> <fld>(Law)</fld>, <cd>a species of partnership, consisting generally of a large number of members, having a capital divided, or agreed to be divided, into shares, the shares owned by any member being usually transferable without the consent of the rest.</cd> -- <col>Joint tenancy</col> <fld>(Law)</fld>, <cd>a tenure by two or more persons of estate by unity of interest, title, time, and possession, under which the survivor takes the whole.</cd> <au>Blackstone.</au> -- <col>Joint tenant</col> <fld>(Law)</fld>, <cd>one who holds an estate by joint tenancy.  Contrassted with <contr>tenant in common</contr>.</cd></cs></p>
+<p><cs><col>Joint committee</col> <fld>(Parliamentary Practice)</fld>, <cd>a committee composed of members of the two houses of a legislative body, for the appointment of which concurrent resolutions of the two houses are necessary.</cd> <au>Cushing.</au> -- <mcol><col>Joint meeting</col>, <or/ <col>Joint session</col></mcol>, <cd>the meeting or session of two distinct bodies as one; <as>as, a <ex>joint meeting</ex> of committees representing different corporations; a <ex>joint session</ex> of both branches of a State legislature to chose a United States senator.</as></cd> <ldquo/Such <ex>joint meeting</ex> shall not be dissolved until the electoral votes are all counted and the result declared.<rdquo/ <au>Joint Rules of Congress, U. S.</au> -- <col>Joint resolution</col> <fld>(Parliamentary Practice)</fld>, <cd>a resolution adopted concurrently by the two branches of a legislative body.</cd> <ldquo/By the constitution of the United States and the rules of the two houses, no absolute distinction is made between bills and <xex>joint resolutions</xex>.<rdquo/ <au>Barclay (Digest).</au> -- <col>Joint rule</col> <fld>(Parliamentary Practice)</fld>, <cd>a rule of proceeding adopted by the concurrent action of both branches of a legislative assembly.</cd> <ldquo/Resolved, by the House of Representatives (the Senate concurring), that the sixteenth and seventeenth <xex>joint rules</xex> be suspended for the remainder of the session.<rdquo/ <au>Journal H. of R., U. S.</au> -- <col>Joint and several</col> <fld>(Law)</fld>, <cd>a phrase signifying that the debt, credit, obligation, etc., to which it is applied is held in such a way that the parties in interest are engaged both together and individually thus a <xex>joint and several</xex> debt is one for which all the debtors may be sued together or either of them individually; used especially in the phrase <ecol><b>joint and several liability</b></ecol>.</cd> -- <col>Joint stock</col>, <cd>stock held in company.</cd> -- <col>Joint-stock company</col> <fld>(Law)</fld>, <cd>a species of partnership, consisting generally of a large number of members, having a capital divided, or agreed to be divided, into shares, the shares owned by any member being usually transferable without the consent of the rest.</cd> -- <col>Joint tenancy</col> <fld>(Law)</fld>, <cd>a tenure by two or more persons of estate by unity of interest, title, time, and possession, under which the survivor takes the whole.</cd> <au>Blackstone.</au> -- <col>Joint tenant</col> <fld>(Law)</fld>, <cd>one who holds an estate by joint tenancy.  Contrassted with <contr>tenant in common</contr>.</cd></cs></p>
 </entry>
 
 <entry main-word="Joint" source="1913 Webster">
@@ -4199,7 +4199,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Mach.)</fld> <def>That portion of a rotating piece, as a shaft, axle, spindle, etc., which turns in a bearing or box. See <xex>Illust.</xex> of <er>Axle box</er>.</def></p>
 
-<p><cs><mcol><col>Journal box</col>, <it>or</it> <col>Journal bearing</col></mcol> <fld>(Mach.)</fld> <cd>the carrier of a journal; the box in which the journal of a shaft, axle, or pin turns.</cd></cs></p>
+<p><cs><mcol><col>Journal box</col>, <or/ <col>Journal bearing</col></mcol> <fld>(Mach.)</fld> <cd>the carrier of a journal; the box in which the journal of a shaft, axle, or pin turns.</cd></cs></p>
 </entry>
 
 <entry main-word="journalese" source="WordNet 1.5">
@@ -4295,7 +4295,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Joust" source="1913 Webster;;PJC">
-<p><hw>Joust</hw> <pr>(joust <it>or</it> j<ucr/st; 277)</pr>, <pos>v. i.</pos> <ety>[OE. <ets>justen</ets>, <ets>jousten</ets>, OF. <ets>jouster</ets>, <ets>jouster</ets>, <ets>joster</ets>, F. <ets>jouter</ets>, fr. L. <ets>juxta</ets> near to, nigh, from the root of <ets>jungere</ets> to join. See <er>Join</er>, and cf. <er>Jostle</er>.]</ety> <sn>1.</sn> <def>To engage in mock combat on horseback, as two knights in the lists; to tilt.</def> <altsp>[Written also <asp>just</asp>.]</altsp></p>
+<p><hw>Joust</hw> <pr>(joust <or/ j<ucr/st; 277)</pr>, <pos>v. i.</pos> <ety>[OE. <ets>justen</ets>, <ets>jousten</ets>, OF. <ets>jouster</ets>, <ets>jouster</ets>, <ets>joster</ets>, F. <ets>jouter</ets>, fr. L. <ets>juxta</ets> near to, nigh, from the root of <ets>jungere</ets> to join. See <er>Join</er>, and cf. <er>Jostle</er>.]</ety> <sn>1.</sn> <def>To engage in mock combat on horseback, as two knights in the lists; to tilt.</def> <altsp>[Written also <asp>just</asp>.]</altsp></p>
 
 <p source="1913 Webster"><q>For the whole army to <qex>joust</qex> and tourney.</q> <rj><qau>Holland.</qau></rj></p>
 
@@ -4381,7 +4381,7 @@ Hath finished half his <qex>journey</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Jowl" source="1913 Webster">
-<p><hw>Jowl</hw> <pr>(joul <it>or</it> j<omac/l)</pr>, <pos>n.</pos> <ety>[For older <ets>chole</ets>, <ets>chaul</ets>, AS. <ets>ceaft</ets> jaw.  Cf. <er>Chaps</er>.]</ety> <def>The cheek; the jaw.</def> <altsp>[Written also <asp>jole</asp>, <asp>choule</asp>, <asp>chowle</asp>, and <asp>geoule</asp>.]</altsp></p>
+<p><hw>Jowl</hw> <pr>(joul <or/ j<omac/l)</pr>, <pos>n.</pos> <ety>[For older <ets>chole</ets>, <ets>chaul</ets>, AS. <ets>ceaft</ets> jaw.  Cf. <er>Chaps</er>.]</ety> <def>The cheek; the jaw.</def> <altsp>[Written also <asp>jole</asp>, <asp>choule</asp>, <asp>chowle</asp>, and <asp>geoule</asp>.]</altsp></p>
 
 <p><cs><col>Cheek by jowl</col>, <cd>with the cheeks close together; side by side; in close proximity.</cd> <ldquo/I will go with thee <xex>cheek by jole</xex>.<rdquo/ <au>Shak.</au>  <ldquo/ Sits <xex>cheek by jowl</xex>.<rdquo/  <rj><au>Dryden.</au></rj></cs></p>
 </entry>
@@ -6147,7 +6147,7 @@ To them by faith imputed, they may find<br/
 <qex>Justification</qex> toward God, and peace<br/
 Of conscience.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><sn>4.</sn> <fld>(Print.)</fld> <def>Adjustment of type (in printing), or of the final spacing of printed text, by spacing it so as to make it exactly fill a line, or line up at one edge of the allotted portion of the printed page; adjustment of a cut so as to hold it in the right place; also, the leads, quads, etc., used for making such adjustment; <as>as, left <ex>justification</ex> is the most common format for simple letters, but left <it>and</it> right <ex>justification</ex> is typically used in books</as>.</def></p>
+<p><sn>4.</sn> <fld>(Print.)</fld> <def>Adjustment of type (in printing), or of the final spacing of printed text, by spacing it so as to make it exactly fill a line, or line up at one edge of the allotted portion of the printed page; adjustment of a cut so as to hold it in the right place; also, the leads, quads, etc., used for making such adjustment; <as>as, left <ex>justification</ex> is the most common format for simple letters, but left <and/ right <ex>justification</ex> is typically used in books</as>.</def></p>
 </entry>
 
 <entry main-word="Justificative" source="1913 Webster">

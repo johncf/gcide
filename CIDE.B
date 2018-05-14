@@ -595,7 +595,7 @@ If this should blast in proof.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>A <qex>bak</qex> to walken inne by daylight.</q> <rj><qau>Chaucer.</qau></rj></p>
 
-<p><cs><col>Behind one's back</col>, <cd>when one is absent; without one's knowledge; <as>as, to ridicule a person <ex>behind his back</ex></as>.</cd> -- <mcol><col>Full back</col>, <col>Half back</col>, <col>Quarter back</col></mcol> <fld>(Football)</fld>, <cd>players stationed behind those in the front line.</cd> -- <mcol><col>To be on one's back</col> <it>or</it> <col>To lie on one's back</col></mcol>, <cd>to be helpless.</cd> -- <mcol><col>To put one's back up</col> <it>or</it> <col>to get one's back up</col></mcol>, <cd>to assume an attitude of obstinate resistance (from the action of a cat when attacked).</cd> <mark>[Colloq.]</mark> -- <col>To see the back of</col>, <cd>to get rid of.</cd>  -- <col>To turn the back</col>, <cd>to go away; to flee.</cd> -- <col>To turn the back on one</col>, <cd>to forsake or neglect him.</cd></cs></p>
+<p><cs><col>Behind one's back</col>, <cd>when one is absent; without one's knowledge; <as>as, to ridicule a person <ex>behind his back</ex></as>.</cd> -- <mcol><col>Full back</col>, <col>Half back</col>, <col>Quarter back</col></mcol> <fld>(Football)</fld>, <cd>players stationed behind those in the front line.</cd> -- <mcol><col>To be on one's back</col> <or/ <col>To lie on one's back</col></mcol>, <cd>to be helpless.</cd> -- <mcol><col>To put one's back up</col> <or/ <col>to get one's back up</col></mcol>, <cd>to assume an attitude of obstinate resistance (from the action of a cat when attacked).</cd> <mark>[Colloq.]</mark> -- <col>To see the back of</col>, <cd>to get rid of.</cd>  -- <col>To turn the back</col>, <cd>to go away; to flee.</cd> -- <col>To turn the back on one</col>, <cd>to forsake or neglect him.</cd></cs></p>
 </entry>
 
 <entry main-word="Back" source="1913 Webster">
@@ -1321,7 +1321,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 </entry>
 
 <entry main-word="bacteremia" source="WordNet 1.5">
-<p><hw>bac`ter*e"mi*a</hw> <pr>(b<acr/k*t<emac/r*<emac/"m<emac/*<adot/ <it>or</it> b<acr/k`t<ucr/*r<emac/"m<emac/*<adot/)</pr>, <pos>n.</pos> <def>The presence of bacteria in the blood.</def><br/
+<p><hw>bac`ter*e"mi*a</hw> <pr>(b<acr/k*t<emac/r*<emac/"m<emac/*<adot/ <or/ b<acr/k`t<ucr/*r<emac/"m<emac/*<adot/)</pr>, <pos>n.</pos> <def>The presence of bacteria in the blood.</def><br/
 <syn><b>Syn. --</b> bacteriemia.</syn></p>
 </entry>
 
@@ -1512,7 +1512,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 </entry>
 
 <entry main-word="Badger" source="1913 Webster">
-<p><hw>Badg"er</hw>, <pos>n.</pos> <ety>[OE. <ets>bageard</ets>, prob. fr. <ets>badge</ets> + <ets>-ard</ets>, in reference to the white mark on its forehead. See <er>Badge</er>,<pos>n.</pos>]</ety> <sn>1.</sn> <def>A carnivorous quadruped of the genus <gen>Meles</gen> or of an allied genus.  It is a burrowing animal, with short, thick legs, and long claws on the fore feet.  One species (<spn>Meles meles</spn> <it>or</it> <spn>Meles vulgaris</spn>), called also <altname>brock</altname>, inhabits the north of Europe and Asia; another species (<spn>Taxidea taxus</spn> <it>or</it> <spn>Taxidea Americana</spn> <it>or</it> <spn>Taxidea Labradorica</spn>) inhabits the northern parts of North America.  See <er>Teledu</er>.</def></p>
+<p><hw>Badg"er</hw>, <pos>n.</pos> <ety>[OE. <ets>bageard</ets>, prob. fr. <ets>badge</ets> + <ets>-ard</ets>, in reference to the white mark on its forehead. See <er>Badge</er>,<pos>n.</pos>]</ety> <sn>1.</sn> <def>A carnivorous quadruped of the genus <gen>Meles</gen> or of an allied genus.  It is a burrowing animal, with short, thick legs, and long claws on the fore feet.  One species (<spn>Meles meles</spn> <or/ <spn>Meles vulgaris</spn>), called also <altname>brock</altname>, inhabits the north of Europe and Asia; another species (<spn>Taxidea taxus</spn> <or/ <spn>Taxidea Americana</spn> <or/ <spn>Taxidea Labradorica</spn>) inhabits the northern parts of North America.  See <er>Teledu</er>.</def></p>
 
 <p><sn>2.</sn> <def>A brush made of badgers' hair, used by artists.</def></p>
 
@@ -1550,7 +1550,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 </entry>
 
 <entry main-word="Badiaga" source="1913 Webster">
-<p><par/<hw>Bad`i*a"ga</hw> <pr>(b<acr/d`<icr/<amac/"g<adot/ <it>or</it> b<adot/d*y<aum/"g<adot/)</pr>, <pos>n.</pos> <ety>[Russ. <ets>badiaga</ets>.]</ety> <fld>(Zool.)</fld> <def>A fresh-water sponge <gen>(Spongilla)</gen>, common in the north of Europe, the powder of which is used to take away the livid marks of bruises.</def></p>
+<p><par/<hw>Bad`i*a"ga</hw> <pr>(b<acr/d`<icr/<amac/"g<adot/ <or/ b<adot/d*y<aum/"g<adot/)</pr>, <pos>n.</pos> <ety>[Russ. <ets>badiaga</ets>.]</ety> <fld>(Zool.)</fld> <def>A fresh-water sponge <gen>(Spongilla)</gen>, common in the north of Europe, the powder of which is used to take away the livid marks of bruises.</def></p>
 </entry>
 
 <entry main-word="Badian" source="1913 Webster">
@@ -2637,7 +2637,7 @@ Into the burning lake their <qex>baleful</qex> streams.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Balister" source="1913 Webster">
-<p><hw>Bal"is*ter</hw> <pr>(b<acr/l"<icr/s*t<etil/r <it>or</it> b<adot/*l<icr/s"t<etil/r)</pr>, <pos>n.</pos> <ety>[OF. <ets>balestre</ets>. See <er>Ballista</er>.]</ety> <def>A crossbow.</def> <mark>[Obs.]</mark>  <rj><au>Blount.</au></rj></p>
+<p><hw>Bal"is*ter</hw> <pr>(b<acr/l"<icr/s*t<etil/r <or/ b<adot/*l<icr/s"t<etil/r)</pr>, <pos>n.</pos> <ety>[OF. <ets>balestre</ets>. See <er>Ballista</er>.]</ety> <def>A crossbow.</def> <mark>[Obs.]</mark>  <rj><au>Blount.</au></rj></p>
 </entry>
 
 <entry main-word="Balistidae" source="WordNet 1.5">
@@ -2902,7 +2902,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Ballet" source="1913 Webster">
-<p><par/<hw>Bal"let`</hw> <pr>(b<acr/l"l<asl/` <it>or</it> b<acr/l"l<ecr/t; 277)</pr>, <pos>n.</pos> <ety>[F., a dim. of <ets>bal</ets> dance. See 2d <er>Ball</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>An artistic dance performed as a theatrical entertainment, or an interlude, by a number of persons, usually women. Sometimes, a scene accompanied by pantomime and dancing.</def></p>
+<p><par/<hw>Bal"let`</hw> <pr>(b<acr/l"l<asl/` <or/ b<acr/l"l<ecr/t; 277)</pr>, <pos>n.</pos> <ety>[F., a dim. of <ets>bal</ets> dance. See 2d <er>Ball</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>An artistic dance performed as a theatrical entertainment, or an interlude, by a number of persons, usually women. Sometimes, a scene accompanied by pantomime and dancing.</def></p>
 
 <p><sn>2.</sn> <def>The company of persons who perform the ballet.</def></p>
 
@@ -2944,7 +2944,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Ballister" source="1913 Webster">
-<p><hw>Bal"lis*ter</hw> <pr>(b<acr/l"l<icr/s*t<etil/r <it>or</it> b<acr/l*l<icr/s"t<etil/r)</pr>, <pos>n.</pos> <ety>[L. <ets>ballista</ets>. Cf. <er>Balister</er>.]</ety> <def>A crossbow.</def> <mark>[Obs.]</mark></p>
+<p><hw>Bal"lis*ter</hw> <pr>(b<acr/l"l<icr/s*t<etil/r <or/ b<acr/l*l<icr/s"t<etil/r)</pr>, <pos>n.</pos> <ety>[L. <ets>ballista</ets>. Cf. <er>Balister</er>.]</ety> <def>A crossbow.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Ballistic" source="1913 Webster">
@@ -3062,7 +3062,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Ballotade" source="1913 Webster">
-<p><hw>Bal"lo*tade`</hw> <pr>(b<acr/l"l<osl/*t<aum/d` <it>or</it> b<acr/l"l<osl/*t<amac/d`)</pr>, <pos>n.</pos> <ety>[F. <ets>ballottade</ets>, fr. <ets>ballotter</ets> to toss. See <er>Ballot</er>, <pos>v. i.</pos>]</ety> <fld>(Man.)</fld> <def>A leap of a horse, as between two pillars, or upon a straight line, so that when his four feet are in the air, he shows only the shoes of his hind feet, without jerking out.</def></p>
+<p><hw>Bal"lo*tade`</hw> <pr>(b<acr/l"l<osl/*t<aum/d` <or/ b<acr/l"l<osl/*t<amac/d`)</pr>, <pos>n.</pos> <ety>[F. <ets>ballottade</ets>, fr. <ets>ballotter</ets> to toss. See <er>Ballot</er>, <pos>v. i.</pos>]</ety> <fld>(Man.)</fld> <def>A leap of a horse, as between two pillars, or upon a straight line, so that when his four feet are in the air, he shows only the shoes of his hind feet, without jerking out.</def></p>
 </entry>
 
 <entry main-word="Ballotage" source="PJC;;Webster 1913 Suppl.">
@@ -3228,7 +3228,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Balotade" source="1913 Webster">
-<p><hw>Bal"o*tade`</hw> <pr>(b<acr/l"l<osl/*t<aum/d` <it>or</it> b<acr/l"l<osl/*t<amac/d`)</pr>, <pos>n.</pos> <def>See <er>Ballotade</er>.</def></p>
+<p><hw>Bal"o*tade`</hw> <pr>(b<acr/l"l<osl/*t<aum/d` <or/ b<acr/l"l<osl/*t<amac/d`)</pr>, <pos>n.</pos> <def>See <er>Ballotade</er>.</def></p>
 </entry>
 
 <entry main-word="Balsa" source="1913 Webster">
@@ -3254,17 +3254,17 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Balsamation" source="1913 Webster">
-<p><hw>Bal`sam*a"tion</hw> <pr>(b<add/l`s<ait/m*<amac/"sh<ucr/n <it>or</it> b<acr/l`s<ait/m*<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of imparting balsamic properties.</def></p>
+<p><hw>Bal`sam*a"tion</hw> <pr>(b<add/l`s<ait/m*<amac/"sh<ucr/n <or/ b<acr/l`s<ait/m*<amac/"sh<ucr/n)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of imparting balsamic properties.</def></p>
 
 <p><sn>2.</sn> <def>The art or process of embalming.</def></p>
 </entry>
 
 <entry main-word="Balsamic" source="1913 Webster">
-<p><mhw>{ <hw>Bal*sam"ic</hw> <pr>(b<add/l*s<acr/m"<icr/k <it>or</it> b<acr/l*s<acr/m"<icr/k; 277)</pr>, <hw>Bal*sam"ic*al</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>balsamique</ets>.]</ety> <def>Having the qualities of balsam; containing, or resembling, balsam; soft; mitigative; soothing; restorative.</def></p>
+<p><mhw>{ <hw>Bal*sam"ic</hw> <pr>(b<add/l*s<acr/m"<icr/k <or/ b<acr/l*s<acr/m"<icr/k; 277)</pr>, <hw>Bal*sam"ic*al</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <ety>[Cf. F. <ets>balsamique</ets>.]</ety> <def>Having the qualities of balsam; containing, or resembling, balsam; soft; mitigative; soothing; restorative.</def></p>
 </entry>
 
 <entry main-word="Balsamiferous" source="1913 Webster">
-<p><hw>Bal`sam*if"er*ous</hw> <pr>(b<add/l`s<ait/m*<icr/f"<etil/r*<ucr/s <it>or</it> b<acr/l`s<ait/m*<icr/f"<etil/r*<ucr/s)</pr>, <pos>a.</pos> <ety>[<ets>Balsam</ets> + <ets>-ferous</ets>.]</ety> <def>Producing balsam.</def></p>
+<p><hw>Bal`sam*if"er*ous</hw> <pr>(b<add/l`s<ait/m*<icr/f"<etil/r*<ucr/s <or/ b<acr/l`s<ait/m*<icr/f"<etil/r*<ucr/s)</pr>, <pos>a.</pos> <ety>[<ets>Balsam</ets> + <ets>-ferous</ets>.]</ety> <def>Producing balsam.</def></p>
 </entry>
 
 <entry main-word="Balsaminaceae" source="WordNet 1.5">
@@ -3588,7 +3588,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Bandit" source="1913 Webster">
-<p><hw>Ban"dit</hw> <pr>(b<acr/n"d<icr/t)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bandits</plw> <pr>(b<acr/n"d<icr/ts)</pr>, <it>or</it> <plw>Banditti</plw> <pr>(b<acr/n*d<icr/t"t<icr/)</pr>.</plu> <ety>[It. <ets>bandito</ets> outlaw, p. p. of <ets>bandire</ets> to proclaim, to banish, to proscribe, LL. <ets>bandire</ets>, <ets>bannire</ets>. See <er>Ban</er> an edict, and cf. <er>Banish</er>.]</ety> <def>An outlaw; a brigand.</def></p>
+<p><hw>Ban"dit</hw> <pr>(b<acr/n"d<icr/t)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bandits</plw> <pr>(b<acr/n"d<icr/ts)</pr>, <or/ <plw>Banditti</plw> <pr>(b<acr/n*d<icr/t"t<icr/)</pr>.</plu> <ety>[It. <ets>bandito</ets> outlaw, p. p. of <ets>bandire</ets> to proclaim, to banish, to proscribe, LL. <ets>bandire</ets>, <ets>bannire</ets>. See <er>Ban</er> an edict, and cf. <er>Banish</er>.]</ety> <def>An outlaw; a brigand.</def></p>
 
 <p><q>No savage fierce, <qex>bandit</qex>, or mountaineer.</q> <rj><qau>Milton.</qau></rj></p>
 
@@ -3814,7 +3814,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="Banian" source="1913 Webster">
-<p><hw>Ban"ian</hw> <pr>(b<acr/n"y<ait/n <it>or</it> b<acr/n*y<acr/n"; 277)</pr>, <pos>n.</pos> <ety>[Skr. <ets>banij</ets> merchant. The tree was so named by the English, because used as a market place by the merchants.]</ety> <sn>1.</sn> <def>A Hindu trader, merchant, cashier, or money changer.</def>  <altsp>[Written also <asp>banyan</asp>.]</altsp></p>
+<p><hw>Ban"ian</hw> <pr>(b<acr/n"y<ait/n <or/ b<acr/n*y<acr/n"; 277)</pr>, <pos>n.</pos> <ety>[Skr. <ets>banij</ets> merchant. The tree was so named by the English, because used as a market place by the merchants.]</ety> <sn>1.</sn> <def>A Hindu trader, merchant, cashier, or money changer.</def>  <altsp>[Written also <asp>banyan</asp>.]</altsp></p>
 
 <p><sn>2.</sn> <def>A man's loose gown, like that worn by the Banians.</def></p>
 
@@ -4254,7 +4254,7 @@ I would not taste thy treasonous offer.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Banyan" source="1913 Webster">
-<p><hw>Ban"yan</hw> <pr>(b<acr/n"y<ait/n <it>or</it> b<acr/n*y<acr/n")</pr>, <pos>n.</pos> <ety>[See <er>Banian</er>.]</ety> <fld>(Bot.)</fld> <def>A tree of the same genus as the common fig, and called the Indian fig (<spn>Ficus Indica</spn>), whose branches send shoots to the ground, which take root and become additional trunks, until it may be the tree covers some acres of ground and is able to shelter thousands of men.</def></p>
+<p><hw>Ban"yan</hw> <pr>(b<acr/n"y<ait/n <or/ b<acr/n*y<acr/n")</pr>, <pos>n.</pos> <ety>[See <er>Banian</er>.]</ety> <fld>(Bot.)</fld> <def>A tree of the same genus as the common fig, and called the Indian fig (<spn>Ficus Indica</spn>), whose branches send shoots to the ground, which take root and become additional trunks, until it may be the tree covers some acres of ground and is able to shelter thousands of men.</def></p>
 </entry>
 
 <entry main-word="Banzai" source="Webster 1913 Suppl.">
@@ -4262,7 +4262,7 @@ I would not taste thy treasonous offer.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Baobab" source="1913 Webster">
-<p><hw>Ba"o*bab</hw> <pr>(b<amac/"<osl/*b<acr/b <it>or</it> b<aum/"<osl/*b<acr/b)</pr>, <pos>n.</pos> <ety>[The native name.]</ety> <fld>(Bot.)</fld> <def>A gigantic African tree (<spn>Adansonia digitata</spn>), also naturalized in India. See <er>Adansonia</er>.</def></p>
+<p><hw>Ba"o*bab</hw> <pr>(b<amac/"<osl/*b<acr/b <or/ b<aum/"<osl/*b<acr/b)</pr>, <pos>n.</pos> <ety>[The native name.]</ety> <fld>(Bot.)</fld> <def>A gigantic African tree (<spn>Adansonia digitata</spn>), also naturalized in India. See <er>Adansonia</er>.</def></p>
 </entry>
 
 <entry main-word="Baphomet" source="1913 Webster">
@@ -4657,7 +4657,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Barbed" source="1913 Webster">
-<p><hw>Barbed</hw> <pr>(b<aum/rbd <it>or</it> b<aum/rb"<ecr/d)</pr>, <pos>a.</pos> <ety>[See 4th <er>Barb</er>.]</ety> <def>Accoutered with defensive armor; -- said of a horse. See <er>Barded</er> (which is the proper form.)</def>  <rj><au>Sir W. Raleigh.</au></rj></p>
+<p><hw>Barbed</hw> <pr>(b<aum/rbd <or/ b<aum/rb"<ecr/d)</pr>, <pos>a.</pos> <ety>[See 4th <er>Barb</er>.]</ety> <def>Accoutered with defensive armor; -- said of a horse. See <er>Barded</er> (which is the proper form.)</def>  <rj><au>Sir W. Raleigh.</au></rj></p>
 </entry>
 
 <entry main-word="Barbed" source="1913 Webster">
@@ -4765,7 +4765,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Barbizon school" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Bar`bi`zon" school</hw>, <it>or</it> <hw>Bar`bi`son" school</hw>, <pr>(?)</pr> }</mhw>. <fld>(Painting)</fld> <def>A French school of the middle of the 19th century centering in the village of Barbizon near the forest of Fontainebleau. Its members went straight to nature in disregard of academic tradition, treating their subjects faithfully and with poetic feeling for color, light, and atmosphere. It is exemplified, esp. in landscapes, by Corot, Rousseau, Daubigny, Jules Dupr<eacute/, and Diaz. Associated with them are certain painters of animals, as Troyon and Jaque, and of peasant life, as Millet and Jules Breton.</def></p>
+<p><mhw>{ <hw>Bar`bi`zon" school</hw>, <or/ <hw>Bar`bi`son" school</hw>, <pr>(?)</pr> }</mhw>. <fld>(Painting)</fld> <def>A French school of the middle of the 19th century centering in the village of Barbizon near the forest of Fontainebleau. Its members went straight to nature in disregard of academic tradition, treating their subjects faithfully and with poetic feeling for color, light, and atmosphere. It is exemplified, esp. in landscapes, by Corot, Rousseau, Daubigny, Jules Dupr<eacute/, and Diaz. Associated with them are certain painters of animals, as Troyon and Jaque, and of peasant life, as Millet and Jules Breton.</def></p>
 </entry>
 
 <entry main-word="Barble" source="1913 Webster">
@@ -6640,7 +6640,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Basset" source="1913 Webster">
-<p><hw>Bas"set</hw> <pr>(b<acr/s"s<ecr/t <it>or</it> b<acr/s*s<ecr/t")</pr>, <pos>n.</pos> <ety>[F. <ets>bassette</ets>, fr. It. <ets>bassetta</ets>.  Cf. <er>Basso</er>.]</ety> <def>A game at cards, resembling the modern faro, said to have been invented at Venice.</def></p>
+<p><hw>Bas"set</hw> <pr>(b<acr/s"s<ecr/t <or/ b<acr/s*s<ecr/t")</pr>, <pos>n.</pos> <ety>[F. <ets>bassette</ets>, fr. It. <ets>bassetta</ets>.  Cf. <er>Basso</er>.]</ety> <def>A game at cards, resembling the modern faro, said to have been invented at Venice.</def></p>
 
 <p><q>Some dress, some dance, some play, not to forget<br/
 Your piquet parties, and your dear <qex>basset</qex>.</q> <rj><qau>Rowe.</qau></rj></p>
@@ -6835,7 +6835,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="Bastile" source="1913 Webster">
-<p><mhw>{ <hw>Bas*tile"</hw> <hw>Bas*tille"</hw> }</mhw> <pr>(b<adot/s*t<emac/l" <it>or</it> b<adot/s"t<esl/l; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>bastille</ets> fortress, OF. <ets>bastir</ets> to build, F. <ets>b<acir/tir</ets>.]</ety></p>
+<p><mhw>{ <hw>Bas*tile"</hw> <hw>Bas*tille"</hw> }</mhw> <pr>(b<adot/s*t<emac/l" <or/ b<adot/s"t<esl/l; 277)</pr>, <pos>n.</pos> <ety>[F. <ets>bastille</ets> fortress, OF. <ets>bastir</ets> to build, F. <ets>b<acir/tir</ets>.]</ety></p>
 
 <p><sn>1.</sn> <fld>(Feud. Fort.)</fld> <def>A tower or an elevated work, used for the defense, or in the siege, of a fortified place.</def></p>
 
@@ -6898,7 +6898,7 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="Basyle" source="1913 Webster">
-<p><hw>Bas"yle</hw> <pr>(b<acr/s"<icr/l <it>or</it> b<amac/s"<icr/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ba`sis</grk> base + <grk>"y`lh</grk> wood. See <er>-yl</er>.]</ety> <fld>(Chem.)</fld> <def>A positive or nonacid constituent of compound, either elementary, or, if compound, performing the functions of an element.</def></p>
+<p><hw>Bas"yle</hw> <pr>(b<acr/s"<icr/l <or/ b<amac/s"<icr/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ba`sis</grk> base + <grk>"y`lh</grk> wood. See <er>-yl</er>.]</ety> <fld>(Chem.)</fld> <def>A positive or nonacid constituent of compound, either elementary, or, if compound, performing the functions of an element.</def></p>
 </entry>
 
 <entry main-word="Basylous" source="1913 Webster">
@@ -7294,7 +7294,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Batman" source="1913 Webster">
-<p><hw>Bat"man</hw> <pr>(b<add/"m<ait/n <it>or</it> b<acr/t"m<ait/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Batmen</plw> <pr>(b<acr/t"m<eit/n)</pr>.</plu> <ety>[F. <ets>b<acir/t</ets> packsaddle + E. <ets>man</ets>. Cf. <er>Bathorse</er>.]</ety> <def>A man who has charge of a bathorse and his load.</def>  <rj><au>Macaulay.</au></rj></p>
+<p><hw>Bat"man</hw> <pr>(b<add/"m<ait/n <or/ b<acr/t"m<ait/n)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Batmen</plw> <pr>(b<acr/t"m<eit/n)</pr>.</plu> <ety>[F. <ets>b<acir/t</ets> packsaddle + E. <ets>man</ets>. Cf. <er>Bathorse</er>.]</ety> <def>A man who has charge of a bathorse and his load.</def>  <rj><au>Macaulay.</au></rj></p>
 </entry>
 
 <entry main-word="Batoidei" source="1913 Webster">
@@ -7671,7 +7671,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Batule" source="1913 Webster">
-<p><hw>Bat"ule</hw> <pr>(b<acr/t"<umac/l <it>or</it> b<adot/*t<oomac/l")</pr>, <pos>n.</pos> <def>A springboard in a circus or gymnasium; -- called also <altname>batule board</altname>.</def></p>
+<p><hw>Bat"ule</hw> <pr>(b<acr/t"<umac/l <or/ b<adot/*t<oomac/l")</pr>, <pos>n.</pos> <def>A springboard in a circus or gymnasium; -- called also <altname>batule board</altname>.</def></p>
 </entry>
 
 <entry main-word="Batz" source="1913 Webster">
@@ -9021,7 +9021,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>7.</sn> <def>A cheat or swindler of the lowest grade; -- often emphasized by <xex>dead</xex>; <as>as, a <ex>dead beat</ex></as>; also, <altname>deadbeat</altname>.</def> <mark>[Low]</mark></p>
 
-<p><cs><col>Beat of drum</col> <fld>(Mil.)</fld>, <cd>a succession of strokes varied, in different ways, for particular purposes, as to regulate a march, to call soldiers to their arms or quarters, to direct an attack, or retreat, etc.</cd> -- <mcol><col>Beat of a watch</col>, <it>or</it> <col>Beat of a clock</col></mcol>, <cd>the stroke or sound made by the action of the escapement.  A clock is <xex>in beat</xex> or out <xex>of beat</xex>, according as the stroke is at equal or unequal intervals.</cd></cs></p>
+<p><cs><col>Beat of drum</col> <fld>(Mil.)</fld>, <cd>a succession of strokes varied, in different ways, for particular purposes, as to regulate a march, to call soldiers to their arms or quarters, to direct an attack, or retreat, etc.</cd> -- <mcol><col>Beat of a watch</col>, <or/ <col>Beat of a clock</col></mcol>, <cd>the stroke or sound made by the action of the escapement.  A clock is <xex>in beat</xex> or out <xex>of beat</xex>, according as the stroke is at equal or unequal intervals.</cd></cs></p>
 </entry>
 
 <entry main-word="Beat" source="1913 Webster">
@@ -9310,7 +9310,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Bebeerine" source="1913 Webster">
-<p><mhw>{ <hw>Be*bee"rine</hw>, <it>or</it>  <hw>Be*bi"rine</hw>  }</mhw> <pr>(b<esl/*b<emac/"r<icr/n <it>or</it> -r<emac/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An alkaloid got from the bark of the <prodby>bebeeru</prodby>, or green heart of Guiana (<spn>Nectandra Rodi<oe/i</spn>). It is a tonic, antiperiodic, and febrifuge, and is used in medicine as a substitute for quinine.</def> <altsp>[Written also <asp>bibirine</asp>.]</altsp></p>
+<p><mhw>{ <hw>Be*bee"rine</hw>, <or/  <hw>Be*bi"rine</hw>  }</mhw> <pr>(b<esl/*b<emac/"r<icr/n <or/ -r<emac/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>An alkaloid got from the bark of the <prodby>bebeeru</prodby>, or green heart of Guiana (<spn>Nectandra Rodi<oe/i</spn>). It is a tonic, antiperiodic, and febrifuge, and is used in medicine as a substitute for quinine.</def> <altsp>[Written also <asp>bibirine</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="bebeeru" source="Webster 1913 Suppl.">
@@ -10034,7 +10034,7 @@ Struck out the mute creation at a heat.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>3.</sn> <pluf>pl.</pluf> <ety>[Prob. fr. AS. <ets>be<aacute/h</ets> ring, fr. <ets>b<?/gan</ets> to bend. See 1st <er>Bow</er>.]</ety> <fld>(Naut.)</fld> <def>Pieces of hard wood bolted to the sides of the bowsprit, to reeve the fore-topmast stays through; -- called also <altname>bee blocks</altname>.</def></p>
 
-<p><cs><col>Bee beetle</col> <fld>(Zool.)</fld>, <cd>a beetle (<spn>Trichodes apiarius</spn>) parasitic in beehives.</cd> -- <col>Bee bird</col> <fld>(Zool.)</fld>, <cd>a bird that eats the honeybee, as the European flycatcher, and the American kingbird.</cd> -- <col>Bee flower</col> <fld>(Bot.)</fld>, <cd>an orchidaceous plant of the genus <gen>Ophrys</gen> (<spn>Ophrys apifera</spn>), whose flowers have some resemblance to bees, flies, and other insects.</cd> -- <col>Bee fly</col> <fld>(Zool.)</fld>, <cd>a two winged fly of the family <fam>Bombyliid<ae/</fam>. Some species, in the larval state, are parasitic upon bees.</cd> -- <col>Bee garden</col>, <cd>a garden or inclosure to set beehives in ; an apiary.</cd> <au>Mortimer.</au> -- <col>Bee glue</col>, <cd>a soft, unctuous matter, with which bees cement the combs to the hives, and close up the cells; -- called also <altname>propolis</altname>.</cd> -- <col>Bee hawk</col> <fld>(Zool.)</fld>, <cd>the honey buzzard.</cd> -- <col>Bee killer</col> <fld>(Zool.)</fld>, <cd>a large two-winged fly of the family <fam>Asilid<ae/</fam> (esp. <spn>Trupanea apivora</spn>) which feeds upon the honeybee. See <er>Robber fly</er>.</cd> -- <col>Bee louse</col> <fld>(Zool.)</fld>, <cd>a minute, wingless, dipterous insect (<spn>Braula c<ae/ca</spn>) parasitic on hive bees.</cd> -- <col>Bee martin</col> <fld>(Zool.)</fld>, <cd>the kingbird (<spn>Tyrannus Carolinensis</spn>) which occasionally feeds on bees.</cd> -- <col>Bee moth</col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Galleria cereana</spn>) whose larv<ae/ feed on honeycomb, occasioning great damage in beehives.</cd> -- <col>Bee wolf</col> <fld>(Zool.)</fld>, <cd>the larva of the bee beetle. See Illust. of <cref>Bee beetle</cref>.</cd> -- <mcol><col>To have a bee in the head</col> <it>or</it>  <col>To have a bee in the bonnet</col></mcol>. <sd>(a)</sd> <cd>To be choleric.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>To be restless or uneasy.</cd> <au>B. Jonson.</au> <sd>(c)</sd> <cd>To be full of fancies; to be a little crazy.</cd> <ldquo/She's whiles crack-brained, and <xex>has a bee in her head</xex>.<rdquo/ <au>Sir W. Scott.</au></cs></p>
+<p><cs><col>Bee beetle</col> <fld>(Zool.)</fld>, <cd>a beetle (<spn>Trichodes apiarius</spn>) parasitic in beehives.</cd> -- <col>Bee bird</col> <fld>(Zool.)</fld>, <cd>a bird that eats the honeybee, as the European flycatcher, and the American kingbird.</cd> -- <col>Bee flower</col> <fld>(Bot.)</fld>, <cd>an orchidaceous plant of the genus <gen>Ophrys</gen> (<spn>Ophrys apifera</spn>), whose flowers have some resemblance to bees, flies, and other insects.</cd> -- <col>Bee fly</col> <fld>(Zool.)</fld>, <cd>a two winged fly of the family <fam>Bombyliid<ae/</fam>. Some species, in the larval state, are parasitic upon bees.</cd> -- <col>Bee garden</col>, <cd>a garden or inclosure to set beehives in ; an apiary.</cd> <au>Mortimer.</au> -- <col>Bee glue</col>, <cd>a soft, unctuous matter, with which bees cement the combs to the hives, and close up the cells; -- called also <altname>propolis</altname>.</cd> -- <col>Bee hawk</col> <fld>(Zool.)</fld>, <cd>the honey buzzard.</cd> -- <col>Bee killer</col> <fld>(Zool.)</fld>, <cd>a large two-winged fly of the family <fam>Asilid<ae/</fam> (esp. <spn>Trupanea apivora</spn>) which feeds upon the honeybee. See <er>Robber fly</er>.</cd> -- <col>Bee louse</col> <fld>(Zool.)</fld>, <cd>a minute, wingless, dipterous insect (<spn>Braula c<ae/ca</spn>) parasitic on hive bees.</cd> -- <col>Bee martin</col> <fld>(Zool.)</fld>, <cd>the kingbird (<spn>Tyrannus Carolinensis</spn>) which occasionally feeds on bees.</cd> -- <col>Bee moth</col> <fld>(Zool.)</fld>, <cd>a moth (<spn>Galleria cereana</spn>) whose larv<ae/ feed on honeycomb, occasioning great damage in beehives.</cd> -- <col>Bee wolf</col> <fld>(Zool.)</fld>, <cd>the larva of the bee beetle. See Illust. of <cref>Bee beetle</cref>.</cd> -- <mcol><col>To have a bee in the head</col> <or/  <col>To have a bee in the bonnet</col></mcol>. <sd>(a)</sd> <cd>To be choleric.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>To be restless or uneasy.</cd> <au>B. Jonson.</au> <sd>(c)</sd> <cd>To be full of fancies; to be a little crazy.</cd> <ldquo/She's whiles crack-brained, and <xex>has a bee in her head</xex>.<rdquo/ <au>Sir W. Scott.</au></cs></p>
 </entry>
 
 <entry main-word="beebalm" source="WordNet 1.5">
@@ -15270,7 +15270,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Bezant" source="1913 Webster">
 <p><hw>Be*zant"</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[See <er>Byzant</er>.]</ety> <sn>1.</sn> <def>A gold coin of Byzantium or Constantinople, varying in weight and value, usually (those current in England) between a sovereign and a half sovereign. There were also white or silver bezants.</def> <altsp>[Written also <asp>besant</asp>, <asp>byzant</asp>, etc.]</altsp></p>
 
-<p><sn>2.</sn> <fld>(Her.)</fld> <def>A circle in <it>or</it>, i. e., gold, representing the gold coin called <xex>bezant</xex>.</def>  <rj><au>Burke.</au></rj></p>
+<p><sn>2.</sn> <fld>(Her.)</fld> <def>A circle in <or/, i. e., gold, representing the gold coin called <xex>bezant</xex>.</def>  <rj><au>Burke.</au></rj></p>
 
 <p><sn>3.</sn> <def>A decoration of a flat surface, as of a band or belt, representing circular disks lapping one upon another.</def></p>
 </entry>
@@ -15872,7 +15872,7 @@ Is like a blasted sapling withered up.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Bickford fuse" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Bick"ford fuse</hw> <it>or</it> <hw>Bick"ford fuze</hw>, <it>or</it> <hw>Bickford match</hw> <pr>(?)</pr> }</mhw>. <def>A fuse used in blasting, consisting of a long cylinder of explosive material inclosed in a varnished wrapping of rope or hose. It burns from 2 to 4 feet a minute.</def></p>
+<p><mhw>{ <hw>Bick"ford fuse</hw> <or/ <hw>Bick"ford fuze</hw>, <or/ <hw>Bickford match</hw> <pr>(?)</pr> }</mhw>. <def>A fuse used in blasting, consisting of a long cylinder of explosive material inclosed in a varnished wrapping of rope or hose. It burns from 2 to 4 feet a minute.</def></p>
 </entry>
 
 <entry main-word="Bicolligate" source="1913 Webster">
@@ -16418,7 +16418,7 @@ That <qex>bide</qex> the pelting of this pitiless storm.</q> <rj><qau>Shak.</qau
 </entry>
 
 <entry main-word="Bighorn" source="1913 Webster">
-<p><hw>Big"horn`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Rocky Mountain sheep (<spn>Ovis montana</spn> <it>or</it> <spn>Caprovis montana</spn>); called also <altname>bighorn sheep</altname>.</def></p>
+<p><hw>Big"horn`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The Rocky Mountain sheep (<spn>Ovis montana</spn> <or/ <spn>Caprovis montana</spn>); called also <altname>bighorn sheep</altname>.</def></p>
 </entry>
 
 <entry main-word="Bight" source="1913 Webster">
@@ -16915,7 +16915,7 @@ Worse than the mutines in the <qex>bilboes</qex>.</q> <rj><qau>Shak.</qau></rj><
 </entry>
 
 <entry main-word="Billfish" source="1913 Webster">
-<p><hw>Bill"fish`</hw> <pr>(b<icr/l"f<icr/sh`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A name applied to several distinct fishes</def>: <sd>(a)</sd> <def>The garfish (<spn>Tylosurus longirostris</spn>, <it>or</it>  <spn>Belone longirostris</spn>) and allied species.</def> <sd>(b)</sd> <def>The saury, a slender fish of the Atlantic coast (<spn>Scomberesox saurus</spn>).</def> <sd>(c)</sd> <def>The <spn>Tetrapturus albidus</spn>, a large oceanic species related to the swordfish; the spearfish.</def> <sd>(d)</sd> <def>The American fresh-water garpike (<spn>Lepidosteus osseus</spn>).</def></p>
+<p><hw>Bill"fish`</hw> <pr>(b<icr/l"f<icr/sh`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A name applied to several distinct fishes</def>: <sd>(a)</sd> <def>The garfish (<spn>Tylosurus longirostris</spn>, <or/  <spn>Belone longirostris</spn>) and allied species.</def> <sd>(b)</sd> <def>The saury, a slender fish of the Atlantic coast (<spn>Scomberesox saurus</spn>).</def> <sd>(c)</sd> <def>The <spn>Tetrapturus albidus</spn>, a large oceanic species related to the swordfish; the spearfish.</def> <sd>(d)</sd> <def>The American fresh-water garpike (<spn>Lepidosteus osseus</spn>).</def></p>
 </entry>
 
 <entry main-word="billfold" source="PJC">
@@ -17011,7 +17011,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
 <entry main-word="Billycock" source="1913 Webster">
-<p><mhw>{ <hw>Bil"ly*cock</hw> <pr>(?)</pr>, <pos>n.</pos>, <it>or</it> <hw>Bil"ly*cock hat`</hw> <pr>(?)</pr> }</mhw>. <ety>[Perh. from <ets>bully</ets> + <ets>cock</ets>; that is, cocked like the hats of the bullies.]</ety> <def>A round, low-crowned felt hat; a wideawake.</def> <ldquo/The undignified <xex>billycocks</xex> and pantaloons of the West.<rdquo/  <rj><au>B. H. Chamberlain.</au></rj></p>
+<p><mhw>{ <hw>Bil"ly*cock</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Bil"ly*cock hat`</hw> <pr>(?)</pr> }</mhw>. <ety>[Perh. from <ets>bully</ets> + <ets>cock</ets>; that is, cocked like the hats of the bullies.]</ety> <def>A round, low-crowned felt hat; a wideawake.</def> <ldquo/The undignified <xex>billycocks</xex> and pantaloons of the West.<rdquo/  <rj><au>B. H. Chamberlain.</au></rj></p>
 
 <p source="Webster 1913 Suppl."><q>Little acquiesced, and Ransome disguised him in a beard, and a loose set of clothes, and a <qex>billicock hat</qex>.</q>  <rj><qau>Charles Reade.</qau></rj></p>
 </entry>
@@ -17040,7 +17040,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
 <entry main-word="Bilobate" source="1913 Webster">
-<p><hw>Bi*lo"bate</hw> <pr>(b<isl/*l<omac/"b<asl/t <it>or</it> b<imac/"l<osl/*b<asl/t)</pr>, <pos>a.</pos> <ety>[Pref. <ets>bi-</ets> + <ets>lobate</ets>.]</ety> <def>Divided into two lobes or segments.</def></p>
+<p><hw>Bi*lo"bate</hw> <pr>(b<isl/*l<omac/"b<asl/t <or/ b<imac/"l<osl/*b<asl/t)</pr>, <pos>a.</pos> <ety>[Pref. <ets>bi-</ets> + <ets>lobate</ets>.]</ety> <def>Divided into two lobes or segments.</def></p>
 </entry>
 
 <entry main-word="bilobated" source="WordNet 1.5">
@@ -18040,7 +18040,7 @@ In danger shall not tarry.</q> <rj><qau>Campbell.</qau></rj></p>
 </entry>
 
 <entry main-word="Bird cage" source="1913 Webster">
-<p><mhw>{ <hw>Bird" cage"</hw>, <hw>bird-cage</hw>, <it>or</it>  <hw>Bird"cage`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A cage for confining birds.</def></p>
+<p><mhw>{ <hw>Bird" cage"</hw>, <hw>bird-cage</hw>, <or/  <hw>Bird"cage`</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A cage for confining birds.</def></p>
 </entry>
 
 <entry main-word="Birdcall" source="1913 Webster">
@@ -18125,7 +18125,7 @@ A more tenacious mass of clammy juice.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Bird of paradise" source="1913 Webster">
 <p><hw>Bird" of par"a*dise</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <def>The name of several very beautiful birds of the genus <gen>Paradisea</gen> and allied genera, inhabiting New Guinea and the adjacent islands. The males have brilliant colors, elegant plumes, and often remarkable tail feathers.</def></p>
 
-<p source=""><note><hand/ The <stype>Great emerald</stype> (<spn>Paradisea apoda</spn>) and the <stype>Lesser emerald</stype> (<spn>Paradisea minor</spn>) furnish many of the plumes used as ornaments by ladies; the <stype>Red bird of paradise</stype> is <spn>Paradisea rubra</spn> <it>or</it>  <spn>Paradisea sanguinea</spn>; the <stype>Golden bird of paradise</stype> is <spn>Parotia aurea</spn> <it>or</it> <spn>Parotia sexsetacea</spn>; the <stype>King bird of paradise</stype> is <spn>Cincinnurus regius</spn>.</p>
+<p source=""><note><hand/ The <stype>Great emerald</stype> (<spn>Paradisea apoda</spn>) and the <stype>Lesser emerald</stype> (<spn>Paradisea minor</spn>) furnish many of the plumes used as ornaments by ladies; the <stype>Red bird of paradise</stype> is <spn>Paradisea rubra</spn> <or/  <spn>Paradisea sanguinea</spn>; the <stype>Golden bird of paradise</stype> is <spn>Parotia aurea</spn> <or/ <spn>Parotia sexsetacea</spn>; the <stype>King bird of paradise</stype> is <spn>Cincinnurus regius</spn>.</p>
 
 <p>The name is also applied to the longer-billed birds of another related group (<fam>Epimachin<ae/</fam>) from the same region. The <stype>Twelve-wired bird of paradise</stype> (<spn>Seleucides alba</spn>) is one of these. See <er>Paradise bird</er>, and Note under <er>Apod</er>.</note></p>
 </entry>
@@ -18176,7 +18176,7 @@ A more tenacious mass of clammy juice.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Bird's nest" source="1913 Webster">
-<p><mhw>{ <hw>Bird's" nest`</hw>, <it>or</it>  <hw>Bird's-nest</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The nest in which a bird lays eggs and hatches her young.</def></p>
+<p><mhw>{ <hw>Bird's" nest`</hw>, <or/  <hw>Bird's-nest</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The nest in which a bird lays eggs and hatches her young.</def></p>
 
 <p><sn>2.</sn> <fld>(Cookery)</fld> <def>The nest of a small swallow (<spn>Collocalia nidifica</spn> and several allied species), of China and the neighboring countries, which is mixed with soups.</def></p>
 
@@ -19920,11 +19920,11 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj></p>
 
 <p><q> The <qex>blacksmith</qex> may forge what he pleases.</q> <rj><qau>Howell.</qau></rj></p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>A fish of the Pacific coast (<spn>Chromis punctipinnis</spn>, <it>or</it>  <spn>Heliastes punctipinnis</spn>), of a blackish color.</def></p>
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>A fish of the Pacific coast (<spn>Chromis punctipinnis</spn>, <or/  <spn>Heliastes punctipinnis</spn>), of a blackish color.</def></p>
 </entry>
 
 <entry main-word="Black snake" source="1913 Webster">
-<p><mhw>{ <hw>Black" snake`</hw> <pr>(sn<amac/k)</pr> <it>or</it>  <hw>Black"snake</hw>  }</mhw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A snake of a black color, of which two species are common in the United States, the <spn>Bascanium constrictor</spn>, or racer, sometimes six feet long, and the <spn>Scotophis Alleghaniensis</spn>, seven or eight feet long.</def></p>
+<p><mhw>{ <hw>Black" snake`</hw> <pr>(sn<amac/k)</pr> <or/  <hw>Black"snake</hw>  }</mhw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A snake of a black color, of which two species are common in the United States, the <spn>Bascanium constrictor</spn>, or racer, sometimes six feet long, and the <spn>Scotophis Alleghaniensis</spn>, seven or eight feet long.</def></p>
 
 <p><note><hand/ The name is also applied to various other black serpents, as <spn>Natrix atra</spn> of Jamaica.</note></p>
 </entry>
@@ -19944,7 +19944,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj></p>
 <entry main-word="Blacktail" source="1913 Webster">
 <p><hw>Black"tail`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[<ets>Black</ets> + <ets>tail</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A fish; the ruff or pope.</def></p>
 
-<p><sn>2.</sn> <fld>(Zool.)</fld> <def>The black-tailed deer (<spn>Cervus Columbianus</spn> <it>or</it>  <spn>Cariacus Columbianus</spn>) of California and Oregon; also, the mule deer of the Rocky Mountains. See <er>Mule deer</er>.</def></p>
+<p><sn>2.</sn> <fld>(Zool.)</fld> <def>The black-tailed deer (<spn>Cervus Columbianus</spn> <or/  <spn>Cariacus Columbianus</spn>) of California and Oregon; also, the mule deer of the Rocky Mountains. See <er>Mule deer</er>.</def></p>
 </entry>
 
 <entry main-word="Blackthorn" source="1913 Webster">
@@ -19971,7 +19971,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj></p>
 </entry>
 
 <entry main-word="Black wash" source="1913 Webster">
-<p><mhw>{ <hw>Black" wash`</hw> <pr>(bl<acr/k"w<ocr/sh)</pr> <it>or</it>  <hw>Black"wash</hw>  }</mhw>, <pos>n.</pos> <sn>1.</sn> <fld>(Med.)</fld> <def>A lotion made by mixing calomel and lime water.</def></p>
+<p><mhw>{ <hw>Black" wash`</hw> <pr>(bl<acr/k"w<ocr/sh)</pr> <or/  <hw>Black"wash</hw>  }</mhw>, <pos>n.</pos> <sn>1.</sn> <fld>(Med.)</fld> <def>A lotion made by mixing calomel and lime water.</def></p>
 
 <p><sn>2.</sn> <def>A wash that blackens, as opposed to <contr>whitewash</contr>; hence, figuratively, calumny.</def></p>
 
@@ -20011,7 +20011,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Anything inflated, empty, or unsound.</def> <ldquo/To swim with <xex>bladders</xex> of philosophy.<rdquo/  <rj><au>Rochester.</au></rj></p>
 
-<p><cs><mcol><col>Bladder nut</col>, <it>or</it>  <col>Bladder tree</col></mcol> <fld>(Bot.)</fld>, <cd>a genus of plants (<spn>Staphylea</spn>) with bladderlike seed pods.</cd> -- <col>Bladder pod</col> <fld>(Bot.)</fld>, <cd>a genus of low herbs (<spn>Vesicaria</spn>) with inflated seed pods.</cd> -- <col>Bladdor senna</col> <fld>(Bot.)</fld>, <cd>a genus of shrubs (<spn>Colutea</spn>), with membranaceous, inflated pods.</cd> -- <col>Bladder worm</col> <fld>(Zool.)</fld>, <cd>the larva of any species of tapeworm (<gen>T<ae/nia</gen>), found in the flesh or other parts of animals. See <er>Measle</er>, <er>Cysticercus</er>.</cd> -- <col>Bladder wrack</col> <fld>(Bot.)</fld>, <cd>the common black rock weed of the seacoast (<spn>Fucus nodosus</spn> and <spn>Fucus vesiculosus</spn>) -- called also <altname>bladder tangle</altname>. See <er>Wrack</er>.</cd></cs></p>
+<p><cs><mcol><col>Bladder nut</col>, <or/  <col>Bladder tree</col></mcol> <fld>(Bot.)</fld>, <cd>a genus of plants (<spn>Staphylea</spn>) with bladderlike seed pods.</cd> -- <col>Bladder pod</col> <fld>(Bot.)</fld>, <cd>a genus of low herbs (<spn>Vesicaria</spn>) with inflated seed pods.</cd> -- <col>Bladdor senna</col> <fld>(Bot.)</fld>, <cd>a genus of shrubs (<spn>Colutea</spn>), with membranaceous, inflated pods.</cd> -- <col>Bladder worm</col> <fld>(Zool.)</fld>, <cd>the larva of any species of tapeworm (<gen>T<ae/nia</gen>), found in the flesh or other parts of animals. See <er>Measle</er>, <er>Cysticercus</er>.</cd> -- <col>Bladder wrack</col> <fld>(Bot.)</fld>, <cd>the common black rock weed of the seacoast (<spn>Fucus nodosus</spn> and <spn>Fucus vesiculosus</spn>) -- called also <altname>bladder tangle</altname>. See <er>Wrack</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Bladder" source="1913 Webster">
@@ -20383,7 +20383,7 @@ Her office they prescribed.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>7.</sn> <def>Absolute; downright; unmixed; <as>as, <ex>blank</ex> terror</as>.</def></p>
 
-<p><cs><col>Blank bar</col> <fld>(Law)</fld>, <cd>a plea put in to oblige the plaintiff in an action of trespass to assign the certain place where the trespass was committed; -- called also <altname>common bar</altname>.</cd> -- <col>Blank cartridge</col>, <cd>a cartridge containing no ball.</cd> -- <col>Blank deed</col>. <cd>See <er>Deed</er>.</cd> -- <mcol><col>Blank door</col>, <it>or</it>  <col>Blank window</col></mcol> <fld>(Arch.)</fld>, <cd>a depression in a wall of the size of a door or window, either for symmetrical effect, or for the more convenient insertion of a door or window at a future time, should it be needed.</cd> -- <col>Blank indorsement</col> <fld>(Law)</fld>, <cd>an indorsement which omits the name of the person in whose favor it is made; it is usually made by simply writing the name of the indorser on the back of the bill.</cd> -- <col>Blank line</col> <fld>(Print.)</fld>, <cd>a vacant space of the breadth of a line, on a printed page; a line of quadrats.</cd> -- <col>Blank tire</col> <fld>(Mech.)</fld>, <cd>a tire without a flange.</cd> -- <col>Blank tooling</col>. <cd>See <cref>Blind tooling</cref>, under <er>Blind</er>.</cd> -- <col>Blank verse</col>. <cd>See under <er>Verse</er>.</cd> -- <col>Blank wall</col>, <cd>a wall in which there is no opening; a dead wall.</cd></cs></p>
+<p><cs><col>Blank bar</col> <fld>(Law)</fld>, <cd>a plea put in to oblige the plaintiff in an action of trespass to assign the certain place where the trespass was committed; -- called also <altname>common bar</altname>.</cd> -- <col>Blank cartridge</col>, <cd>a cartridge containing no ball.</cd> -- <col>Blank deed</col>. <cd>See <er>Deed</er>.</cd> -- <mcol><col>Blank door</col>, <or/  <col>Blank window</col></mcol> <fld>(Arch.)</fld>, <cd>a depression in a wall of the size of a door or window, either for symmetrical effect, or for the more convenient insertion of a door or window at a future time, should it be needed.</cd> -- <col>Blank indorsement</col> <fld>(Law)</fld>, <cd>an indorsement which omits the name of the person in whose favor it is made; it is usually made by simply writing the name of the indorser on the back of the bill.</cd> -- <col>Blank line</col> <fld>(Print.)</fld>, <cd>a vacant space of the breadth of a line, on a printed page; a line of quadrats.</cd> -- <col>Blank tire</col> <fld>(Mech.)</fld>, <cd>a tire without a flange.</cd> -- <col>Blank tooling</col>. <cd>See <cref>Blind tooling</cref>, under <er>Blind</er>.</cd> -- <col>Blank verse</col>. <cd>See under <er>Verse</er>.</cd> -- <col>Blank wall</col>, <cd>a wall in which there is no opening; a dead wall.</cd></cs></p>
 </entry>
 
 <entry main-word="Blank" source="1913 Webster">
@@ -20475,7 +20475,7 @@ To cry, <ldquo/Hold, hold!<rdquo/</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Blanket mortgage" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Blanket mortgage</hw> <it>or</it>  <hw>Blanket policy</hw>  }</mhw>. <def>One that covers a group or class of things or properties instead of one or more things mentioned individually, as where a mortgage secures various debts as a group, or subjects a group or class of different pieces of property to one general lien.</def></p>
+<p><mhw>{ <hw>Blanket mortgage</hw> <or/  <hw>Blanket policy</hw>  }</mhw>. <def>One that covers a group or class of things or properties instead of one or more things mentioned individually, as where a mortgage secures various debts as a group, or subjects a group or class of different pieces of property to one general lien.</def></p>
 </entry>
 
 <entry main-word="Blanket stitch" source="Webster 1913 Suppl.">
@@ -21724,7 +21724,7 @@ That they may stumble on, and deeper fall.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>8.</sn> <fld>(Hort.)</fld> <def>Abortive; failing to produce flowers or fruit; <as>as, <ex>blind</ex> buds; <ex>blind</ex> flowers</as>.</def></p>
 
-<p><cs><col>Blind alley</col>, <cd>an alley closed at one end; a <xex>cul-de-sac</xex>.</cd> -- <col>Blind axle</col>, <cd>an axle which turns but does not communicate motion.</cd> <au>Knight.</au> -- <col>Blind beetle</col>, <cd>one of the insects apt to fly against people, esp. at night.</cd> -- <col>Blind cat</col> <fld>(Zool.)</fld>, <cd>a species of catfish (<spn>Gronias nigrolabris</spn>), nearly destitute of eyes, living in caverns in Pennsylvania.</cd> -- <col>Blind coal</col>, <cd>coal that burns without flame; anthracite coal.</cd> <au>Simmonds.</au> -- <mcol><col>Blind door</col>, <col>Blind window</col></mcol>, <cd>an imitation of a door or window, without an opening for passage or light. See <cref>Blank door</cref> <it>or</it> <cref>Blank window</cref>, under <er>Blank</er>, <pos>a.</pos></cd> -- <col>Blind level</col> <fld>(Mining)</fld>, <cd>a level or drainage gallery which has a vertical shaft at each end, and acts as an inverted siphon.</cd> <au>Knight.</au> -- <col>Blind nettle</col> <fld>(Bot.)</fld>, <cd>dead nettle. See <cref>Dead nettle</cref>, under <er>Dead</er>.</cd> -- <col>Blind shell</col> <fld>(Gunnery)</fld>, <cd>a shell containing no charge, or one that does not explode.</cd> -- <col>Blind side</col>, <cd>the side which is most easily assailed; a weak or unguarded side; the side on which one is least able or disposed to see danger.</cd> <au>Swift.</au> -- <col>Blind snake</col> <fld>(Zool.)</fld>, <cd>a small, harmless, burrowing snake, of the family <fam>Typhlopid<ae/</fam>, with rudimentary eyes.</cd> -- <col>Blind spot</col> <fld>(Anat.)</fld>, <cd>the point in the retina of the eye where the optic nerve enters, and which is insensible to light.</cd> -- <col>Blind tooling</col>, <cd>in bookbinding and leather work, the indented impression of heated tools, without gilding; -- called also <altname>blank tooling</altname>, and <altname>blind blocking</altname>.</cd> -- <col>Blind wall</col>, <cd>a wall without an opening; a blank wall.</cd></cs></p>
+<p><cs><col>Blind alley</col>, <cd>an alley closed at one end; a <xex>cul-de-sac</xex>.</cd> -- <col>Blind axle</col>, <cd>an axle which turns but does not communicate motion.</cd> <au>Knight.</au> -- <col>Blind beetle</col>, <cd>one of the insects apt to fly against people, esp. at night.</cd> -- <col>Blind cat</col> <fld>(Zool.)</fld>, <cd>a species of catfish (<spn>Gronias nigrolabris</spn>), nearly destitute of eyes, living in caverns in Pennsylvania.</cd> -- <col>Blind coal</col>, <cd>coal that burns without flame; anthracite coal.</cd> <au>Simmonds.</au> -- <mcol><col>Blind door</col>, <col>Blind window</col></mcol>, <cd>an imitation of a door or window, without an opening for passage or light. See <cref>Blank door</cref> <or/ <cref>Blank window</cref>, under <er>Blank</er>, <pos>a.</pos></cd> -- <col>Blind level</col> <fld>(Mining)</fld>, <cd>a level or drainage gallery which has a vertical shaft at each end, and acts as an inverted siphon.</cd> <au>Knight.</au> -- <col>Blind nettle</col> <fld>(Bot.)</fld>, <cd>dead nettle. See <cref>Dead nettle</cref>, under <er>Dead</er>.</cd> -- <col>Blind shell</col> <fld>(Gunnery)</fld>, <cd>a shell containing no charge, or one that does not explode.</cd> -- <col>Blind side</col>, <cd>the side which is most easily assailed; a weak or unguarded side; the side on which one is least able or disposed to see danger.</cd> <au>Swift.</au> -- <col>Blind snake</col> <fld>(Zool.)</fld>, <cd>a small, harmless, burrowing snake, of the family <fam>Typhlopid<ae/</fam>, with rudimentary eyes.</cd> -- <col>Blind spot</col> <fld>(Anat.)</fld>, <cd>the point in the retina of the eye where the optic nerve enters, and which is insensible to light.</cd> -- <col>Blind tooling</col>, <cd>in bookbinding and leather work, the indented impression of heated tools, without gilding; -- called also <altname>blank tooling</altname>, and <altname>blind blocking</altname>.</cd> -- <col>Blind wall</col>, <cd>a wall without an opening; a blank wall.</cd></cs></p>
 </entry>
 
 <entry main-word="Blind" source="1913 Webster">
@@ -21986,7 +21986,7 @@ Full and perfect is.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A vesicatory; a plaster of Spanish flies, or other matter, applied to raise a blister.</def>  <rj><au>Dunglison.</au></rj></p>
 
-<p><cs><col>Blister beetle</col>, <cd>a beetle used to raise blisters, esp. the <spn>Lytta vesicatoria</spn> (<it>or</it> <spn>Cantharis vesicatoria</spn>), called <altname>Cantharis</altname> or <altname>Spanish fly</altname> by druggists. See <er>Cantharis</er>.</cd> -- <col>Blister fly</col>, <cd>a blister beetle.</cd> -- <col>Blister plaster</col>, <cd>a plaster designed to raise a blister; -- usually made of Spanish flies.</cd> -- <col>Blister steel</col>, <cd>crude steel formed from wrought iron by cementation; -- so called because of its blistered surface. Called also <altname>blistered steel</altname>.</cd> -- <col>Blood blister</col>. <cd>See under <er>Blood</er>.</cd></cs></p>
+<p><cs><col>Blister beetle</col>, <cd>a beetle used to raise blisters, esp. the <spn>Lytta vesicatoria</spn> (<or/ <spn>Cantharis vesicatoria</spn>), called <altname>Cantharis</altname> or <altname>Spanish fly</altname> by druggists. See <er>Cantharis</er>.</cd> -- <col>Blister fly</col>, <cd>a blister beetle.</cd> -- <col>Blister plaster</col>, <cd>a plaster designed to raise a blister; -- usually made of Spanish flies.</cd> -- <col>Blister steel</col>, <cd>crude steel formed from wrought iron by cementation; -- so called because of its blistered surface. Called also <altname>blistered steel</altname>.</cd> -- <col>Blood blister</col>. <cd>See under <er>Blood</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Blister" source="1913 Webster">
@@ -23319,7 +23319,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>The ladies were very <qex>blue</qex> and well informed.</q> <rj><qau>Thackeray.</qau></rj></p>
 
-<p><cs><col>Blue asbestus</col>. <cd>See <er>Crocidolite</er>.</cd> -- <col>Blue black</col>, <cd>of, or having, a very dark blue color, almost black.</cd> -- <col>Blue blood</col>. <cd>See under <er>Blood</er>.</cd> -- <col>Blue buck</col> <fld>(Zool.)</fld>, <cd>a small South African antelope (<spn>Cephalophus pygm<ae/us</spn>); also applied to a larger species (<spn><AE/goceras leucoph<ae/us</spn>); the blaubok.</cd> -- <col>Blue cod</col> <fld>(Zool.)</fld>, <cd>the buffalo cod.</cd> -- <col>Blue crab</col> <fld>(Zool.)</fld>, <cd>the common edible crab of the Atlantic coast of the United States (<spn>Callinectes hastatus</spn>).</cd> -- <col>Blue curls</col> <fld>(Bot.)</fld>, <cd>a common plant (<spn>Trichostema dichotomum</spn>), resembling pennyroyal, and hence called also <altname>bastard pennyroyal</altname>.</cd> -- <col>Blue devils</col>, <cd>apparitions supposed to be seen by persons suffering with <cref>delirium tremens</cref>; hence, very low spirits.</cd>  <ldquo/Can Gumbo shut the hall door upon <xex>blue devils</xex>, or lay them all in a red sea of claret?<rdquo/ <au>Thackeray.</au> -- <col>Blue gage</col>. <cd>See under <er>Gage</er>, a plum.</cd> -- <col>Blue gum</col>, <cd>an Australian myrtaceous tree (<spn>Eucalyptus globulus</spn>), of the loftiest proportions, now cultivated in tropical and warm temperate regions for its timber, and as a protection against malaria. The essential oil is beginning to be used in medicine. The timber is very useful. See <er>Eucalyptus</er>.</cd> -- <mcol><col>Blue jack</col>, <col>Blue stone</col></mcol>, <cd>blue vitriol; sulphate of copper.</cd> -- <col>Blue jacket</col>, <cd>a man-of war's man; a sailor wearing a naval uniform.</cd> -- <col>Blue jaundice</col>. <cd>See under <er>Jaundice</er>.</cd> -- <col>Blue laws</col>, <cd>a name first used in the eighteenth century to describe certain supposititious laws of extreme rigor reported to have been enacted in New Haven; hence, any puritanical laws.</cd> <mark>[U. S.]</mark> -- <col>Blue light</col>, <cd>a composition which burns with a brilliant blue flame; -- used in pyrotechnics and as a night signal at sea, and in military operations.</cd> -- <col>Blue mantle</col> <fld>(Her.)</fld>, <cd>one of the four pursuivants of the English college of arms; -- so called from the color of his official robes.</cd> -- <col>Blue mass</col>, <cd>a preparation of mercury from which is formed the blue pill.</cd> <au>McElrath.</au> -- <mcol><col>Blue mold</col> <it>or</it> <col>Blue mould</col></mcol>, <cd>the blue fungus (<spn>Aspergillus glaucus</spn>) which grows on cheese.</cd> <au>Brande & C.</au> -- <col>Blue Monday</col>, <sd>(a)</sd> <cd>a Monday following a Sunday of dissipation, or itself given to dissipation (as the Monday before Lent).</cd> <sd>(b)</sd> <cd>a Monday considered as depressing because it is a workday in contrast to the relaxation of the weekend.</cd> -- <col>Blue ointment</col> <fld>(Med.)</fld>, <cd>mercurial ointment.</cd> -- <col>Blue Peter</col> <fld>(British Marine)</fld>, <cd>a blue flag with a white square in the center, used as a signal for sailing, to recall boats, etc. It is a corruption of <ets>blue repeater</ets>, one of the British signal flags.</cd> -- <col>Blue pill</col>. <fld>(Med.)</fld> <sd>(a)</sd> <cd>A pill of prepared mercury, used as an aperient, etc.</cd> <sd>(b)</sd> <cd>Blue mass.</cd> -- <col>Blue ribbon</col>. <sd>(a)</sd> <cd>The ribbon worn by members of the order of the Garter; -- hence, a member of that order.</cd> <sd>(b)</sd> <cd>Anything the attainment of which is an object of great ambition; a distinction; a prize.</cd> <ldquo/These [scholarships] were the <au>blue ribbon</au> of the college.<rdquo/ <au>Farrar.</au> <sd>(c)</sd> <cd>The distinctive badge of certain temperance or total abstinence organizations, as of the <au>Blue ribbon</au> Army.</cd> -- <col>Blue ruin</col>, <cd>utter ruin; also, gin.</cd> <mark>[Eng. Slang]</mark> <au>Carlyle.</au> -- <col>Blue spar</col> <fld>(Min.)</fld>, <cd>azure spar; lazulite. See <er>Lazulite</er>.</cd> -- <col>Blue thrush</col> <fld>(Zool.)</fld>, <cd>a European and Asiatic thrush (<spn>Petrocossyphus cyaneas</spn>).</cd> -- <col>Blue verditer</col>. <cd>See <er>Verditer</er>.</cd> -- <col>Blue vitriol</col> <fld>(Chem.)</fld>, <cd>sulphate of copper, a violet blue crystallized salt, used in electric batteries, calico printing, etc.</cd> -- <col>Blue water</col>, <cd>the open ocean.</cd> -- <col>To look blue</col>, <cd>to look disheartened or dejected.</cd> -- <col>True blue</col>, <cd>genuine and thorough; not modified, nor mixed; not spurious; specifically, of uncompromising Presbyterianism, blue being the color adopted by the Covenanters.</cd></p>
+<p><cs><col>Blue asbestus</col>. <cd>See <er>Crocidolite</er>.</cd> -- <col>Blue black</col>, <cd>of, or having, a very dark blue color, almost black.</cd> -- <col>Blue blood</col>. <cd>See under <er>Blood</er>.</cd> -- <col>Blue buck</col> <fld>(Zool.)</fld>, <cd>a small South African antelope (<spn>Cephalophus pygm<ae/us</spn>); also applied to a larger species (<spn><AE/goceras leucoph<ae/us</spn>); the blaubok.</cd> -- <col>Blue cod</col> <fld>(Zool.)</fld>, <cd>the buffalo cod.</cd> -- <col>Blue crab</col> <fld>(Zool.)</fld>, <cd>the common edible crab of the Atlantic coast of the United States (<spn>Callinectes hastatus</spn>).</cd> -- <col>Blue curls</col> <fld>(Bot.)</fld>, <cd>a common plant (<spn>Trichostema dichotomum</spn>), resembling pennyroyal, and hence called also <altname>bastard pennyroyal</altname>.</cd> -- <col>Blue devils</col>, <cd>apparitions supposed to be seen by persons suffering with <cref>delirium tremens</cref>; hence, very low spirits.</cd>  <ldquo/Can Gumbo shut the hall door upon <xex>blue devils</xex>, or lay them all in a red sea of claret?<rdquo/ <au>Thackeray.</au> -- <col>Blue gage</col>. <cd>See under <er>Gage</er>, a plum.</cd> -- <col>Blue gum</col>, <cd>an Australian myrtaceous tree (<spn>Eucalyptus globulus</spn>), of the loftiest proportions, now cultivated in tropical and warm temperate regions for its timber, and as a protection against malaria. The essential oil is beginning to be used in medicine. The timber is very useful. See <er>Eucalyptus</er>.</cd> -- <mcol><col>Blue jack</col>, <col>Blue stone</col></mcol>, <cd>blue vitriol; sulphate of copper.</cd> -- <col>Blue jacket</col>, <cd>a man-of war's man; a sailor wearing a naval uniform.</cd> -- <col>Blue jaundice</col>. <cd>See under <er>Jaundice</er>.</cd> -- <col>Blue laws</col>, <cd>a name first used in the eighteenth century to describe certain supposititious laws of extreme rigor reported to have been enacted in New Haven; hence, any puritanical laws.</cd> <mark>[U. S.]</mark> -- <col>Blue light</col>, <cd>a composition which burns with a brilliant blue flame; -- used in pyrotechnics and as a night signal at sea, and in military operations.</cd> -- <col>Blue mantle</col> <fld>(Her.)</fld>, <cd>one of the four pursuivants of the English college of arms; -- so called from the color of his official robes.</cd> -- <col>Blue mass</col>, <cd>a preparation of mercury from which is formed the blue pill.</cd> <au>McElrath.</au> -- <mcol><col>Blue mold</col> <or/ <col>Blue mould</col></mcol>, <cd>the blue fungus (<spn>Aspergillus glaucus</spn>) which grows on cheese.</cd> <au>Brande & C.</au> -- <col>Blue Monday</col>, <sd>(a)</sd> <cd>a Monday following a Sunday of dissipation, or itself given to dissipation (as the Monday before Lent).</cd> <sd>(b)</sd> <cd>a Monday considered as depressing because it is a workday in contrast to the relaxation of the weekend.</cd> -- <col>Blue ointment</col> <fld>(Med.)</fld>, <cd>mercurial ointment.</cd> -- <col>Blue Peter</col> <fld>(British Marine)</fld>, <cd>a blue flag with a white square in the center, used as a signal for sailing, to recall boats, etc. It is a corruption of <ets>blue repeater</ets>, one of the British signal flags.</cd> -- <col>Blue pill</col>. <fld>(Med.)</fld> <sd>(a)</sd> <cd>A pill of prepared mercury, used as an aperient, etc.</cd> <sd>(b)</sd> <cd>Blue mass.</cd> -- <col>Blue ribbon</col>. <sd>(a)</sd> <cd>The ribbon worn by members of the order of the Garter; -- hence, a member of that order.</cd> <sd>(b)</sd> <cd>Anything the attainment of which is an object of great ambition; a distinction; a prize.</cd> <ldquo/These [scholarships] were the <au>blue ribbon</au> of the college.<rdquo/ <au>Farrar.</au> <sd>(c)</sd> <cd>The distinctive badge of certain temperance or total abstinence organizations, as of the <au>Blue ribbon</au> Army.</cd> -- <col>Blue ruin</col>, <cd>utter ruin; also, gin.</cd> <mark>[Eng. Slang]</mark> <au>Carlyle.</au> -- <col>Blue spar</col> <fld>(Min.)</fld>, <cd>azure spar; lazulite. See <er>Lazulite</er>.</cd> -- <col>Blue thrush</col> <fld>(Zool.)</fld>, <cd>a European and Asiatic thrush (<spn>Petrocossyphus cyaneas</spn>).</cd> -- <col>Blue verditer</col>. <cd>See <er>Verditer</er>.</cd> -- <col>Blue vitriol</col> <fld>(Chem.)</fld>, <cd>sulphate of copper, a violet blue crystallized salt, used in electric batteries, calico printing, etc.</cd> -- <col>Blue water</col>, <cd>the open ocean.</cd> -- <col>To look blue</col>, <cd>to look disheartened or dejected.</cd> -- <col>True blue</col>, <cd>genuine and thorough; not modified, nor mixed; not spurious; specifically, of uncompromising Presbyterianism, blue being the color adopted by the Covenanters.</cd></p>
 
 <p source="PJC">-- <col>Big Blue</col>, <cd>the International Business Machines corporation.</cd> <mark>[Wall Street slang.]</mark></cs></p>
 
@@ -25085,7 +25085,7 @@ Of treacherous earth, subsiding where they tread.</q> <rj><qau>R. Jago.</qau></r
 
 <p><q>Artists have abandoned their <qex>Bohemian</qex> manners and customs nowadays.</q> <rj><qau>W. Black.</qau></rj></p>
 
-<p><cs><mcol><col>Bohemian chatterer</col>, <it>or</it>  <col>Bohemian waxwing</col></mcol> <fld>(Zool.)</fld>, <cd>a small bird of Europe and America (<spn>Ampelis garrulus</spn>); the waxwing.</cd> -- <col>Bohemian glass</col>, <cd>a variety of hard glass of fine quality, made in Bohemia. It is of variable composition, containing usually silica, lime, and potash, rarely soda, but no lead. It is often remarkable for beauty of color.</cd></cs></p>
+<p><cs><mcol><col>Bohemian chatterer</col>, <or/  <col>Bohemian waxwing</col></mcol> <fld>(Zool.)</fld>, <cd>a small bird of Europe and America (<spn>Ampelis garrulus</spn>); the waxwing.</cd> -- <col>Bohemian glass</col>, <cd>a variety of hard glass of fine quality, made in Bohemia. It is of variable composition, containing usually silica, lime, and potash, rarely soda, but no lead. It is often remarkable for beauty of color.</cd></cs></p>
 </entry>
 
 <entry main-word="Bohemian" source="1913 Webster">
@@ -25858,7 +25858,7 @@ And oft out of a bush doth <qex>bolt</qex>.</q> <rj><qau>Drayton.</qau></rj></p>
 </entry>
 
 <entry main-word="Bombast" source="1913 Webster">
-<p><hw>Bom"bast</hw> <pr>(b<ocr/m"b<adot/st <it>or</it> b<ucr/m"b<adot/st; 277)</pr>, <pos>n.</pos> <ety>[OF. <ets>bombace</ets> cotton, LL. <ets>bombax</ets> cotton, <ets>bombasium</ets> a doublet of cotton; hence, padding, wadding, fustian. See <er>Bombazine</er>.]</ety> <sn>1.</sn> <def>Originally, cotton, or cotton wool.</def> <mark>[Obs.]</mark></p>
+<p><hw>Bom"bast</hw> <pr>(b<ocr/m"b<adot/st <or/ b<ucr/m"b<adot/st; 277)</pr>, <pos>n.</pos> <ety>[OF. <ets>bombace</ets> cotton, LL. <ets>bombax</ets> cotton, <ets>bombasium</ets> a doublet of cotton; hence, padding, wadding, fustian. See <er>Bombazine</er>.]</ety> <sn>1.</sn> <def>Originally, cotton, or cotton wool.</def> <mark>[Obs.]</mark></p>
 
 <p><q>A candle with a wick of <qex>bombast</qex>.</q> <rj><qau>Lupton.</qau></rj></p>
 
@@ -25883,13 +25883,13 @@ Horribly stuffed with epithets of war.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Bombast" source="1913 Webster">
-<p><hw>Bom*bast"</hw> <pr>(b<ocr/m*b<adot/st" <it>or</it> b<ucr/m*b<adot/st")</pr>, <pos>v. t.</pos> <def>To swell or fill out; to pad; to inflate.</def> <mark>[Obs.]</mark></p>
+<p><hw>Bom*bast"</hw> <pr>(b<ocr/m*b<adot/st" <or/ b<ucr/m*b<adot/st")</pr>, <pos>v. t.</pos> <def>To swell or fill out; to pad; to inflate.</def> <mark>[Obs.]</mark></p>
 
 <p><q>Not <qex>bombasted</qex> with words vain ticklish ears to feed.</q> <rj><qau>Drayton.</qau></rj></p>
 </entry>
 
 <entry main-word="Bombastic" source="1913 Webster">
-<p><mhw>{ <hw>Bom*bas"tic</hw> <pr>(b<ocr/m*b<adot/s"t<icr/k <it>or</it> b<ucr/m*b<adot/s"t<icr/k)</pr>, <hw>Bom*bas"tic*al</hw>  }</mhw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Characterized by bombast; high-sounding; inflated.</def> -- <wordforms><wf>Bom*bas"tic*al*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><mhw>{ <hw>Bom*bas"tic</hw> <pr>(b<ocr/m*b<adot/s"t<icr/k <or/ b<ucr/m*b<adot/s"t<icr/k)</pr>, <hw>Bom*bas"tic*al</hw>  }</mhw> <pr>(<?/)</pr>, <pos>a.</pos> <def>Characterized by bombast; high-sounding; inflated.</def> -- <wordforms><wf>Bom*bas"tic*al*ly</wf>, <pos>adv.</pos></wordforms></p>
 
 <p><q>A theatrical, <qex>bombastic</qex>, windy phraseology.</q> <rj><qau>Burke.</qau></rj></p>
 
@@ -26111,7 +26111,7 @@ According to my <qex>bond</qex>, nor more nor less.</q> <rj><qau>Shak.</qau></rj
 
 <p source="Webster 1913 Suppl."><q>The Africander <qex>Bond</qex>, a league or association appealing to African, but practically to Boer, patriotism.</q>  <rj><qau>James Bryce.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><cs><col>Arbitration bond</col>. <cd>See under <er>Arbitration</er>.</cd> -- <col>Bond creditor</col> <fld>(Law)</fld>, <cd>a creditor whose debt is secured by a bond.</cd> <au>Blackstone.</au> -- <col>covalent bond</col>, <cd>an attractive force between two atoms of a molecule generated by the merging of an electron orbital of each atom into a combined orbital in the molecule.  Such bonds vary in strength, but in molecules of substances typically encountered in human experience (as, water or alcohol) they are sufficiently strong to persist and maintain the identity and integrity of the molecule over appreciable periods of time.  Each such bond satisfies one unit of <er>valence</er> for each of the atoms thus bonded.  Contrasted with <cref>hydrogen bond</cref>, which is weaker and does not satisfy the valence of either atom involved.</cd> -- <mcol><col>double bond</col>, <col>triple bond</col></mcol>, <cd>a <isa><cref>covalent bond</cref></isa> which involves the merging of orbitals of two (or three) electrons on each of the two connected atoms, thus satisfying two (or three) units of valence on each of the bonded atoms.  When two carbon atoms are thus bonded, the bond (and the compound) are said to be <it>unsaturated</it>.</cd> -- <col>Bond debt</col> <fld>(Law)</fld>, <cd>a debt contracted under the obligation of a bond.</cd> <au>Burrows.</au> -- <col>hydrogen bond</col>, <cd>a non-covalent bond between hydrogen and another atom, usually oxygen or nitrogen.  It does not involve the sharing of electrons between the bonded atoms, and therefore does not satisfy the valence of either atom.  Hydrogen bonds are weak (ca. 5 kcal/mol) and may be frequently broken and reformed in solution at room temperature.</cd> -- <mcol><col>Bond of a slate</col> <it>or</it> <col>lap of a slate</col></mcol>, <cd>the distance between the top of one slate and the bottom or drip of the second slate above, i. e., the space which is covered with three thicknesses; also, the distance between the nail of the under slate and the lower edge of the upper slate.</cd> -- <col>Bond timber</col>, <cd>timber worked into a wall to tie or strengthen it longitudinally.</cd></cs></p>
+<p source="1913 Webster;;PJC"><cs><col>Arbitration bond</col>. <cd>See under <er>Arbitration</er>.</cd> -- <col>Bond creditor</col> <fld>(Law)</fld>, <cd>a creditor whose debt is secured by a bond.</cd> <au>Blackstone.</au> -- <col>covalent bond</col>, <cd>an attractive force between two atoms of a molecule generated by the merging of an electron orbital of each atom into a combined orbital in the molecule.  Such bonds vary in strength, but in molecules of substances typically encountered in human experience (as, water or alcohol) they are sufficiently strong to persist and maintain the identity and integrity of the molecule over appreciable periods of time.  Each such bond satisfies one unit of <er>valence</er> for each of the atoms thus bonded.  Contrasted with <cref>hydrogen bond</cref>, which is weaker and does not satisfy the valence of either atom involved.</cd> -- <mcol><col>double bond</col>, <col>triple bond</col></mcol>, <cd>a <isa><cref>covalent bond</cref></isa> which involves the merging of orbitals of two (or three) electrons on each of the two connected atoms, thus satisfying two (or three) units of valence on each of the bonded atoms.  When two carbon atoms are thus bonded, the bond (and the compound) are said to be <it>unsaturated</it>.</cd> -- <col>Bond debt</col> <fld>(Law)</fld>, <cd>a debt contracted under the obligation of a bond.</cd> <au>Burrows.</au> -- <col>hydrogen bond</col>, <cd>a non-covalent bond between hydrogen and another atom, usually oxygen or nitrogen.  It does not involve the sharing of electrons between the bonded atoms, and therefore does not satisfy the valence of either atom.  Hydrogen bonds are weak (ca. 5 kcal/mol) and may be frequently broken and reformed in solution at room temperature.</cd> -- <mcol><col>Bond of a slate</col> <or/ <col>lap of a slate</col></mcol>, <cd>the distance between the top of one slate and the bottom or drip of the second slate above, i. e., the space which is covered with three thicknesses; also, the distance between the nail of the under slate and the lower edge of the upper slate.</cd> -- <col>Bond timber</col>, <cd>timber worked into a wall to tie or strengthen it longitudinally.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Chains; fetters; captivity; imprisonment.</syn></p>
 </entry>
@@ -27753,7 +27753,7 @@ Bright over Europe bursts the <qex>boreal</qex> morn.</q> <rj><qau>Thomson.</qau
 
 <p><sn>2.</sn> <def>The collective body of citizens or inhabitants of a borough; <as>as, the <ex>borough</ex> voted to lay a tax</as>.</def></p>
 
-<p><cs><mcol><col>Close borough</col>, <it>or</it>  <col>Pocket borough</col></mcol>, <cd>a borough having the right of sending a member to Parliament, whose nomination is in the hands of a single person.</cd> -- <col>Rotten borough</col>, <cd>a name given to any borough which, at the time of the passage of the Reform Bill of 1832, contained but few voters, yet retained the privilege of sending a member to Parliament.</cd></cs></p>
+<p><cs><mcol><col>Close borough</col>, <or/  <col>Pocket borough</col></mcol>, <cd>a borough having the right of sending a member to Parliament, whose nomination is in the hands of a single person.</cd> -- <col>Rotten borough</col>, <cd>a name given to any borough which, at the time of the passage of the Reform Bill of 1832, contained but few voters, yet retained the privilege of sending a member to Parliament.</cd></cs></p>
 </entry>
 
 <entry main-word="Borough" source="1913 Webster">
@@ -28297,7 +28297,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Both" source="1913 Webster">
 <p><hw>Both</hw>, <pos>conj.</pos> <def>As well; not only; equally.</def></p>
 
-<p><note><xex>Both</xex> precedes the first of two co<oum/rdinate words or phrases, and is followed by <it>and</it> before the other, <xex>both</xex> . . . <it>and</it> . . . ; as well the one as the other; not only this, but also that; equally the former and the latter. It is also sometimes followed by more than two co<oum/rdinate words, connected by <it>and</it> expressed or understood.</note></p>
+<p><note><xex>Both</xex> precedes the first of two co<oum/rdinate words or phrases, and is followed by <and/ before the other, <xex>both</xex> . . . <and/ . . . ; as well the one as the other; not only this, but also that; equally the former and the latter. It is also sometimes followed by more than two co<oum/rdinate words, connected by <and/ expressed or understood.</note></p>
 
 <p><q>To judge <qex>both</qex> quick and dead.</q> <rj><qau>Milton.</qau></rj></p>
 
@@ -29616,7 +29616,7 @@ And lock the doors of mine unlucky <qex>bower</qex>.</q> <rj><qau>Gascoigne.</qa
 </entry>
 
 <entry main-word="Bower bird" source="1913 Webster">
-<p><hw>Bow"er bird`</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <def>An Australian bird (<spn>Ptilonorhynchus violaceus</spn> <it>or</it> <spn>Ptilonorhynchus holosericeus</spn>), allied to the starling.  The male constructs singular bowers or playhouses of twigs and decorates them with bright-colored objects to attract females; the satin bird.</def></p>
+<p><hw>Bow"er bird`</hw> <pr>(<?/)</pr>. <fld>(Zool.)</fld> <def>An Australian bird (<spn>Ptilonorhynchus violaceus</spn> <or/ <spn>Ptilonorhynchus holosericeus</spn>), allied to the starling.  The male constructs singular bowers or playhouses of twigs and decorates them with bright-colored objects to attract females; the satin bird.</def></p>
 
 <p><note><hand/ The name is also applied to other related birds of the same region, having similar habits; as, the <stype>spotted bower bird</stype> (<spn>Chalmydodera maculata</spn>), and the regent bird (<spn>Sericulus melinus</spn>).</note></p>
 </entry>
@@ -29942,7 +29942,7 @@ Damning the poor, his tripple-bolted <qex>box</qex>.</q> <rj><qau>J. Warton.</qa
 
 <p><note><hand/ <xex>Box</xex> is much used adjectively or in composition; as <xex>box</xex> lid, <xex>box</xex> maker, <xex>box</xex> circle, etc.; also with modifying substantives; as money <xex>box</xex>, letter <xex>box</xex>, band<xex>box</xex>, hat<xex>box</xex> or hat <xex>box</xex>, snuff <xex>box</xex> or snuff<xex>box</xex>.</note></p>
 
-<p><cs><col>Box beam</col> <fld>(Arch.)</fld>, <cd>a beam made of metal plates so as to have the form of a long box.</cd> -- <col>Box car</col> <fld>(Railroads)</fld>, <cd>a freight car covered with a roof and inclosed on the sides to protect its contents.</cd> -- <col>Box chronometer</col>, <cd>a ship's chronometer, mounted in gimbals, to preserve its proper position.</cd> -- <col>Box coat</col>, <cd>a thick overcoat for driving; sometimes with a heavy cape to carry off the rain.</cd> -- <col>Box coupling</col>, <cd>a metal collar uniting the ends of shafts or other parts in machinery.</cd> -- <col>Box crab</col> <fld>(Zool.)</fld>, <cd>a crab of the genus <gen>Calappa</gen>, which, when at rest with the legs retracted, resembles a box.</cd> -- <col>Box drain</col> <fld>(Arch.)</fld>, <cd>a drain constructed with upright sides, and with flat top and bottom.</cd> -- <col>Box girder</col> <fld>(Arch.)</fld>, <cd>a box beam.</cd> -- <col>Box groove</col> <fld>(Metal Working)</fld>, <cd>a closed groove between two rolls, formed by a collar on one roll fitting between collars on another.</cd>  <au>R. W. Raymond.</au> -- <col>Box metal</col>, an alloy of copper and tin, or of zinc, lead, and antimony, for the bearings of journals, etc. -- <col>Box plait</col>, <cd>a plait that doubles both to the right and the left.</cd> -- <col>Box turtle</col> <it>or</it>  <col>Box tortoise</col> <fld>(Zool.)</fld>, <cd>a land tortoise or turtle of the genera <gen>Cistudo</gen> and <gen>Emys</gen>; -- so named because it can withdraw entirely within its shell, which can be closed by hinged joints in the lower shell. Also, humorously, an exceedingly reticent person.</cd>  <au>Emerson.</au> -- <col>In a box</col>, <cd>in a perplexity or an embarrassing position; in difficulty.</cd> <mark>(Colloq.)</mark> -- <col>In the wrong box</col>, <cd>out of one's place; out of one's element; awkwardly situated.</cd> <mark>(Colloq.)</mark>  <au>Ridley (1554)</au></cs></p>
+<p><cs><col>Box beam</col> <fld>(Arch.)</fld>, <cd>a beam made of metal plates so as to have the form of a long box.</cd> -- <col>Box car</col> <fld>(Railroads)</fld>, <cd>a freight car covered with a roof and inclosed on the sides to protect its contents.</cd> -- <col>Box chronometer</col>, <cd>a ship's chronometer, mounted in gimbals, to preserve its proper position.</cd> -- <col>Box coat</col>, <cd>a thick overcoat for driving; sometimes with a heavy cape to carry off the rain.</cd> -- <col>Box coupling</col>, <cd>a metal collar uniting the ends of shafts or other parts in machinery.</cd> -- <col>Box crab</col> <fld>(Zool.)</fld>, <cd>a crab of the genus <gen>Calappa</gen>, which, when at rest with the legs retracted, resembles a box.</cd> -- <col>Box drain</col> <fld>(Arch.)</fld>, <cd>a drain constructed with upright sides, and with flat top and bottom.</cd> -- <col>Box girder</col> <fld>(Arch.)</fld>, <cd>a box beam.</cd> -- <col>Box groove</col> <fld>(Metal Working)</fld>, <cd>a closed groove between two rolls, formed by a collar on one roll fitting between collars on another.</cd>  <au>R. W. Raymond.</au> -- <col>Box metal</col>, an alloy of copper and tin, or of zinc, lead, and antimony, for the bearings of journals, etc. -- <col>Box plait</col>, <cd>a plait that doubles both to the right and the left.</cd> -- <col>Box turtle</col> <or/  <col>Box tortoise</col> <fld>(Zool.)</fld>, <cd>a land tortoise or turtle of the genera <gen>Cistudo</gen> and <gen>Emys</gen>; -- so named because it can withdraw entirely within its shell, which can be closed by hinged joints in the lower shell. Also, humorously, an exceedingly reticent person.</cd>  <au>Emerson.</au> -- <col>In a box</col>, <cd>in a perplexity or an embarrassing position; in difficulty.</cd> <mark>(Colloq.)</mark> -- <col>In the wrong box</col>, <cd>out of one's place; out of one's element; awkwardly situated.</cd> <mark>(Colloq.)</mark>  <au>Ridley (1554)</au></cs></p>
 </entry>
 
 <entry main-word="Box" source="1913 Webster">
@@ -30308,7 +30308,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="brach" source="1913 Webster;;Century Dict. 1906">
-<p><mhw><hw>brach</hw>, <hw>brache</hw></mhw> <pr>(br<acr/k <it>or</it> br<acr/ch)</pr>, <pos>n.</pos> <ety>[OE.  <ets>brache</ets> a kind of scenting hound or setting dog, OF. <ets>brache</ets>, F. <ets>braque</ets>, fr. OHG. <ets>braccho</ets>, G. <ets>bracke</ets>; related to Sw. <ets>brack</ets> a dog that hunts by scent; possibly akin to E. <ets>fragrant</ets>, fr. L. <ets>fragrare</ets> to smell.]</ety> <def>A bitch of the hound kind.  See also <er>bratchet</er>.</def>  <rj><au>Shak.</au></rj>  <altsp>[Also spelled <asp>bratch</asp> when pronounced <pr>(br<acr/ch)</pr>.]</altsp></p>
+<p><mhw><hw>brach</hw>, <hw>brache</hw></mhw> <pr>(br<acr/k <or/ br<acr/ch)</pr>, <pos>n.</pos> <ety>[OE.  <ets>brache</ets> a kind of scenting hound or setting dog, OF. <ets>brache</ets>, F. <ets>braque</ets>, fr. OHG. <ets>braccho</ets>, G. <ets>bracke</ets>; related to Sw. <ets>brack</ets> a dog that hunts by scent; possibly akin to E. <ets>fragrant</ets>, fr. L. <ets>fragrare</ets> to smell.]</ety> <def>A bitch of the hound kind.  See also <er>bratchet</er>.</def>  <rj><au>Shak.</au></rj>  <altsp>[Also spelled <asp>bratch</asp> when pronounced <pr>(br<acr/ch)</pr>.]</altsp></p>
 
 <p source="Century Dict. 1906"><q>A sow pig by chance sucked a <qex>brach</qex>, and when she was grown would miraculously hunt all manner of deer.</q> <rj><qau>Burton (Anatomy of Melancholy).</qau></rj></p>
 </entry>
@@ -30823,7 +30823,7 @@ Marry that will, I live and die a maid.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><cs><col>To have on the brain</col>, <cd>to have constantly in one's thoughts, as a sort of monomania.</cd> <mark>[Low]</mark> -- <col>no-brainer</col> <cd>a decision requiring little or no thought; an obvious choice.</cd></cs> <mark>[slang]</mark> </p>
 
-<p><cs><mcol><col>Brain box</col> <it>or</it>  <col>Brain case</col></mcol>, <cd>the bony or cartilaginous case inclosing the brain.</cd> -- <mcol><col>Brain coral</col>, <col>Brain stone coral</col></mcol> <fld>(Zool.)</fld>, <cd>a massive reef-building coral having the surface covered by ridges separated by furrows so as to resemble somewhat the surface of the brain, esp. such corals of the genera <gen>M<ae/andrina</gen> and <gen>Diploria</gen>.</cd> -- <col>Brain fag</col> <fld>(Med.)</fld>, <cd>brain weariness. See <er>Cerebropathy</er>.</cd> -- <col>Brain fever</col> <fld>(Med.)</fld>, <cd>fever in which the brain is specially affected; any acute cerebral affection attended by fever.</cd> -- <col>Brain sand</col>, <cd>calcareous matter found in the pineal gland.</cd></cs></p>
+<p><cs><mcol><col>Brain box</col> <or/  <col>Brain case</col></mcol>, <cd>the bony or cartilaginous case inclosing the brain.</cd> -- <mcol><col>Brain coral</col>, <col>Brain stone coral</col></mcol> <fld>(Zool.)</fld>, <cd>a massive reef-building coral having the surface covered by ridges separated by furrows so as to resemble somewhat the surface of the brain, esp. such corals of the genera <gen>M<ae/andrina</gen> and <gen>Diploria</gen>.</cd> -- <col>Brain fag</col> <fld>(Med.)</fld>, <cd>brain weariness. See <er>Cerebropathy</er>.</cd> -- <col>Brain fever</col> <fld>(Med.)</fld>, <cd>fever in which the brain is specially affected; any acute cerebral affection attended by fever.</cd> -- <col>Brain sand</col>, <cd>calcareous matter found in the pineal gland.</cd></cs></p>
 </entry>
 
 <entry main-word="Brain" source="1913 Webster">
@@ -31003,7 +31003,7 @@ To shelter thee from tempest and from rain.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>12.</sn> <def>An ancient instrument of torture.</def>  <rj><au>Holinshed.</au></rj></p>
 
-<p><cs><col>Air brake</col>. <cd>See <er>Air brake</er>, in the Vocabulary.</cd> -- <mcol><col>Brake beam</col> <it>or</it>  <col>Brake bar</col></mcol>, <cd>the beam that connects the brake blocks of opposite wheels.</cd> -- <col>Brake block</col>. <sd>(a)</sd> <cd>The part of a brake holding the brake shoe.</cd> <sd>(b)</sd> <cd>A brake shoe.</cd> -- <mcol><col>Brake shoe</col> or <col>Brake rubber</col></mcol>, <cd>the part of a brake against which the wheel rubs.</cd> -- <col>Brake wheel</col>, <cd>a wheel on the platform or top of a car by which brakes are operated.</cd> -- <col>Continuous brake</col> . <cd>See under <er>Continuous</er>.</cd></cs></p>
+<p><cs><col>Air brake</col>. <cd>See <er>Air brake</er>, in the Vocabulary.</cd> -- <mcol><col>Brake beam</col> <or/  <col>Brake bar</col></mcol>, <cd>the beam that connects the brake blocks of opposite wheels.</cd> -- <col>Brake block</col>. <sd>(a)</sd> <cd>The part of a brake holding the brake shoe.</cd> <sd>(b)</sd> <cd>A brake shoe.</cd> -- <mcol><col>Brake shoe</col> or <col>Brake rubber</col></mcol>, <cd>the part of a brake against which the wheel rubs.</cd> -- <col>Brake wheel</col>, <cd>a wheel on the platform or top of a car by which brakes are operated.</cd> -- <col>Continuous brake</col> . <cd>See under <er>Continuous</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Brakeman" source="1913 Webster">
@@ -32239,7 +32239,7 @@ Attracts all fees, and little lawyers <qex>breaks</qex>.</q> <rj><qau>Dryden.</q
 
 <p><note>With an immediate object: --</note></p>
 
-<p><cs><col>To break the back</col>. <sd>(a)</sd> <cd>To dislocate the backbone; hence, to disable totally.</cd> <sd>(b)</sd> <cd>To get through the worst part of; <as>as, to <ex>break the back</ex> of a difficult undertaking</as>.</cd> -- <col>To break bulk</col>, <cd>to destroy the entirety of a load by removing a portion of it; to begin to unload; also, to transfer in detail, as from boats to cars.</cd> -- <col>To break a code</col> <cd>to discover a method to convert coded messages into the original understandable text.</cd> -- <col>To break cover</col>, <cd>to burst forth from a protecting concealment, as game when hunted.</cd> -- <mcol><col>To break a deer</col> <it>or</it> <col>To break a stag</col></mcol>, <cd>to cut it up and apportion the parts among those entitled to a share.</cd> -- <col>To break fast</col>, <cd>to partake of food after abstinence. See <er>Breakfast</er>.</cd> -- <col>To break ground</col>. <sd>(a)</sd> <cd>To open the earth as for planting; to commence excavation, as for building, siege operations, and the like; <as>as, to <ex>break ground</ex> for a foundation, a canal, or a railroad</as>.</cd> <sd>(b)</sd> <cd>Fig.: To begin to execute any plan.</cd> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>To release the anchor from the bottom.</cd> -- <col>To break the heart</col>, <cd>to crush or overwhelm (one) with grief.</cd> -- <col>To break a house</col> <fld>(Law)</fld>, <cd>to remove or set aside with violence and a felonious intent any part of a house or of the fastenings provided to secure it.</cd> -- <col>To break the ice</col>, <cd>to get through first difficulties; to overcome obstacles and make a beginning; to introduce a subject.</cd> -- <col>To break jail</col>, <cd>to escape from confinement in jail, usually by forcible means.</cd> -- <col>To break a jest</col>, <cd>to utter a jest.</cd> <ldquo/Patroclus . . . the livelong day <xex>breaks</xex> scurril jests.<rdquo/  <au>Shak.</au> -- <col>To break joints</col>, <cd>to lay or arrange bricks, shingles, etc., so that the joints in one course shall not coincide with those in the preceding course.</cd> -- <col>To break a lance</col>, <cd>to engage in a tilt or contest.</cd> -- <col>To break the neck</col>, <cd>to dislocate the joints of the neck.</cd> -- <col>To break no squares</col>, <cd>to create no trouble.</cd> <mark>[Obs.]</mark> -- <mcol><col>To break a path</col>, <col>road</col>, etc.,</mcol> <cd>to open a way through obstacles by force or labor.</cd> -- <col>To break upon a wheel</col>, <cd>to execute or torture, as a criminal by stretching him upon a wheel, and breaking his limbs with an iron bar; -- a mode of punishment formerly employed in some countries.</cd> -- <col>To break wind</col>, <cd>to give vent to wind from the anus.</cd></cs></p>
+<p><cs><col>To break the back</col>. <sd>(a)</sd> <cd>To dislocate the backbone; hence, to disable totally.</cd> <sd>(b)</sd> <cd>To get through the worst part of; <as>as, to <ex>break the back</ex> of a difficult undertaking</as>.</cd> -- <col>To break bulk</col>, <cd>to destroy the entirety of a load by removing a portion of it; to begin to unload; also, to transfer in detail, as from boats to cars.</cd> -- <col>To break a code</col> <cd>to discover a method to convert coded messages into the original understandable text.</cd> -- <col>To break cover</col>, <cd>to burst forth from a protecting concealment, as game when hunted.</cd> -- <mcol><col>To break a deer</col> <or/ <col>To break a stag</col></mcol>, <cd>to cut it up and apportion the parts among those entitled to a share.</cd> -- <col>To break fast</col>, <cd>to partake of food after abstinence. See <er>Breakfast</er>.</cd> -- <col>To break ground</col>. <sd>(a)</sd> <cd>To open the earth as for planting; to commence excavation, as for building, siege operations, and the like; <as>as, to <ex>break ground</ex> for a foundation, a canal, or a railroad</as>.</cd> <sd>(b)</sd> <cd>Fig.: To begin to execute any plan.</cd> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>To release the anchor from the bottom.</cd> -- <col>To break the heart</col>, <cd>to crush or overwhelm (one) with grief.</cd> -- <col>To break a house</col> <fld>(Law)</fld>, <cd>to remove or set aside with violence and a felonious intent any part of a house or of the fastenings provided to secure it.</cd> -- <col>To break the ice</col>, <cd>to get through first difficulties; to overcome obstacles and make a beginning; to introduce a subject.</cd> -- <col>To break jail</col>, <cd>to escape from confinement in jail, usually by forcible means.</cd> -- <col>To break a jest</col>, <cd>to utter a jest.</cd> <ldquo/Patroclus . . . the livelong day <xex>breaks</xex> scurril jests.<rdquo/  <au>Shak.</au> -- <col>To break joints</col>, <cd>to lay or arrange bricks, shingles, etc., so that the joints in one course shall not coincide with those in the preceding course.</cd> -- <col>To break a lance</col>, <cd>to engage in a tilt or contest.</cd> -- <col>To break the neck</col>, <cd>to dislocate the joints of the neck.</cd> -- <col>To break no squares</col>, <cd>to create no trouble.</cd> <mark>[Obs.]</mark> -- <mcol><col>To break a path</col>, <col>road</col>, etc.,</mcol> <cd>to open a way through obstacles by force or labor.</cd> -- <col>To break upon a wheel</col>, <cd>to execute or torture, as a criminal by stretching him upon a wheel, and breaking his limbs with an iron bar; -- a mode of punishment formerly employed in some countries.</cd> -- <col>To break wind</col>, <cd>to give vent to wind from the anus.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To dispart; rend; tear; shatter; batter; violate; infringe; demolish; destroy; burst; dislocate.</syn></p>
 </entry>
@@ -32835,7 +32835,7 @@ Are excellent in making ladies trip.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Brede" source="1913 Webster">
-<p><mhw>{ <hw>Brede</hw>, <it>or</it>  <hw>Breede</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Breadth.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><mhw>{ <hw>Brede</hw>, <or/  <hw>Breede</hw>  }</mhw> <pr>(<?/)</pr>, <pos>n.</pos> <def>Breadth.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Brede" source="1913 Webster">
@@ -32845,7 +32845,7 @@ Are excellent in making ladies trip.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Breech" source="1913 Webster">
-<p><hw>Breech</hw> <pr>(br<emac/ch <it>or</it> br<icr/ch; 277)</pr>, <pos>n.</pos> <ety>[See <er>Breeches</er>.]</ety> <sn>1.</sn> <def>The lower part of the body behind; the buttocks.</def></p>
+<p><hw>Breech</hw> <pr>(br<emac/ch <or/ br<icr/ch; 277)</pr>, <pos>n.</pos> <ety>[See <er>Breeches</er>.]</ety> <sn>1.</sn> <def>The lower part of the body behind; the buttocks.</def></p>
 
 <p><sn>2.</sn> <def>Breeches.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 
@@ -32881,7 +32881,7 @@ Are excellent in making ladies trip.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Breechcloth" source="1913 Webster">
-<p><hw>Breech"cloth`</hw> <pr>(br<emac/ch"kl<ocr/th` <it>or</it> br<icr/ch"kl<ocr/th`; 115)</pr>, <pos>n.</pos> <def>A cloth worn around the breech.</def></p>
+<p><hw>Breech"cloth`</hw> <pr>(br<emac/ch"kl<ocr/th` <or/ br<icr/ch"kl<ocr/th`; 115)</pr>, <pos>n.</pos> <def>A cloth worn around the breech.</def></p>
 </entry>
 
 <entry main-word="breechclout" source="WordNet 1.5">
@@ -33703,7 +33703,7 @@ Round about the <qex>bridestake</qex>.</q> <rj><qau>B. Jonson.</qau></rj></p>
 
 <p><sn>5.</sn> <def>A low wall or vertical partition in the fire chamber of a furnace, for deflecting flame, etc.; -- usually called a <altname>bridge wall</altname>.</def></p>
 
-<p><cs><col>Aqueduct bridge</col>. <cd>See <er>Aqueduct</er>.</cd> -- <mcol><col>Asses' bridge</col>, <col>Bascule bridge</col>, <col>Bateau bridge</col></mcol>. <cd>See under <er>Ass</er>, <er>Bascule</er>, <er>Bateau</er>.</cd> -- <col>Bridge of a steamer</col> <fld>(Naut.)</fld>, <cd>a narrow platform across the deck, above the rail, for the convenience of the officer in charge of the ship; in paddlewheel vessels it connects the paddle boxes.</cd> -- <col>Bridge of the nose</col>, <cd>the upper, bony part of the nose.</cd> -- <col>Cantalever bridge</col>. <cd>See under <er>Cantalever</er>.</cd> -- <col>Draw bridge</col>. <cd>See <er>Drawbridge</er>.</cd> -- <col>Flying bridge</col>, <cd>a temporary bridge suspended or floating, as for the passage of armies; also, a floating structure connected by a cable with an anchor or pier up stream, and made to pass from bank to bank by the action of the current or other means.</cd> -- <mcol><col>Girder bridge</col> <it>or</it> <col>Truss bridge</col></mcol>, <cd>a bridge formed by girders, or by trusses resting upon abutments or piers.</cd> -- <col>Lattice bridge</col>, <cd>a bridge formed by lattice girders.</cd> -- <mcol><col>Pontoon bridge</col>, <col>Ponton bridge</col></mcol>. <cd>See under <er>Pontoon</er>.</cd> -- <col>Skew bridge</col>, <cd>a bridge built obliquely from bank to bank, as sometimes required in railway engineering.</cd> -- <col>Suspension bridge</col>. <cd>See under <er>Suspension</er>.</cd> -- <col>Trestle bridge</col>, <cd>a bridge formed of a series of short, simple girders resting on trestles.</cd> -- <col>Tubular bridge</col>, <cd>a bridge in the form of a hollow trunk or rectangular tube, with cellular walls made of iron plates riveted together, as the Britannia bridge over the Menai Strait, and the Victoria bridge at Montreal.</cd> -- <col>Wheatstone's bridge</col> <fld>(Elec.)</fld>, <cd>a device for the measurement of resistances, so called because the balance between the resistances to be measured is indicated by the absence of a current in a certain wire forming a bridge or connection between two points of the apparatus; -- invented by Sir Charles <etsep>Wheatstone</etsep>.</cd></cs></p>
+<p><cs><col>Aqueduct bridge</col>. <cd>See <er>Aqueduct</er>.</cd> -- <mcol><col>Asses' bridge</col>, <col>Bascule bridge</col>, <col>Bateau bridge</col></mcol>. <cd>See under <er>Ass</er>, <er>Bascule</er>, <er>Bateau</er>.</cd> -- <col>Bridge of a steamer</col> <fld>(Naut.)</fld>, <cd>a narrow platform across the deck, above the rail, for the convenience of the officer in charge of the ship; in paddlewheel vessels it connects the paddle boxes.</cd> -- <col>Bridge of the nose</col>, <cd>the upper, bony part of the nose.</cd> -- <col>Cantalever bridge</col>. <cd>See under <er>Cantalever</er>.</cd> -- <col>Draw bridge</col>. <cd>See <er>Drawbridge</er>.</cd> -- <col>Flying bridge</col>, <cd>a temporary bridge suspended or floating, as for the passage of armies; also, a floating structure connected by a cable with an anchor or pier up stream, and made to pass from bank to bank by the action of the current or other means.</cd> -- <mcol><col>Girder bridge</col> <or/ <col>Truss bridge</col></mcol>, <cd>a bridge formed by girders, or by trusses resting upon abutments or piers.</cd> -- <col>Lattice bridge</col>, <cd>a bridge formed by lattice girders.</cd> -- <mcol><col>Pontoon bridge</col>, <col>Ponton bridge</col></mcol>. <cd>See under <er>Pontoon</er>.</cd> -- <col>Skew bridge</col>, <cd>a bridge built obliquely from bank to bank, as sometimes required in railway engineering.</cd> -- <col>Suspension bridge</col>. <cd>See under <er>Suspension</er>.</cd> -- <col>Trestle bridge</col>, <cd>a bridge formed of a series of short, simple girders resting on trestles.</cd> -- <col>Tubular bridge</col>, <cd>a bridge in the form of a hollow trunk or rectangular tube, with cellular walls made of iron plates riveted together, as the Britannia bridge over the Menai Strait, and the Victoria bridge at Montreal.</cd> -- <col>Wheatstone's bridge</col> <fld>(Elec.)</fld>, <cd>a device for the measurement of resistances, so called because the balance between the resistances to be measured is indicated by the absence of a current in a certain wire forming a bridge or connection between two points of the apparatus; -- invented by Sir Charles <etsep>Wheatstone</etsep>.</cd></cs></p>
 </entry>
 
 <entry main-word="Bridge" source="1913 Webster">
@@ -34766,7 +34766,7 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 </entry>
 
 <entry main-word="Broadbill" source="1913 Webster">
-<p><hw>Broad"bill`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>A wild duck (<spn>Aythya marila</spn>, <it>or</it> <spn>Fuligula marila</spn>), which appears in large numbers on the eastern coast of the United States, in autumn; -- called also <altname>bluebill</altname>, <altname>blackhead</altname>, <altname>raft duck</altname>, and <altname>scaup duck</altname>. See <er>Scaup duck</er>.</def></p>
+<p><hw>Broad"bill`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Zool.)</fld> <def>A wild duck (<spn>Aythya marila</spn>, <or/ <spn>Fuligula marila</spn>), which appears in large numbers on the eastern coast of the United States, in autumn; -- called also <altname>bluebill</altname>, <altname>blackhead</altname>, <altname>raft duck</altname>, and <altname>scaup duck</altname>. See <er>Scaup duck</er>.</def></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>The shoveler. See <er>Shoveler</er>.</def></p>
 </entry>
@@ -35034,7 +35034,7 @@ He bravely <qex>broached</qex> his boiling bloody breast.</q> <rj><qau>Shak.</qa
 </entry>
 
 <entry main-word="Brocken specter" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Brock"en spec"ter</hw> <it>or</it>  <hw>Brock"en spec"tre</hw> <pr>(?)</pr> }</mhw>. <ety>[Trans. of G. <ets>Brockengespenst</ets>.]</ety> <def>A mountain specter (which see), esp. that observed on the Brocken, in the Harz Mountains.</def></p>
+<p><mhw>{ <hw>Brock"en spec"ter</hw> <or/  <hw>Brock"en spec"tre</hw> <pr>(?)</pr> }</mhw>. <ety>[Trans. of G. <ets>Brockengespenst</ets>.]</ety> <def>A mountain specter (which see), esp. that observed on the Brocken, in the Harz Mountains.</def></p>
 </entry>
 
 <entry main-word="Brocket" source="1913 Webster">
@@ -35342,7 +35342,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj></
 </entry>
 
 <entry main-word="Bromide paper" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Bromide paper</hw> <it>or</it> <hw>Bromid paper</hw>}</mhw>. <fld>(Photog.)</fld> <def>A sensitized paper coated with gelatin impregnated with bromide of silver, used in contact printing and in enlarging.</def></p>
+<p><mhw>{ <hw>Bromide paper</hw> <or/ <hw>Bromid paper</hw>}</mhw>. <fld>(Photog.)</fld> <def>A sensitized paper coated with gelatin impregnated with bromide of silver, used in contact printing and in enlarging.</def></p>
 </entry>
 
 <entry main-word="Bromidic" source="WordNet 1.5">
@@ -35538,7 +35538,7 @@ And tricks belonging unto <qex>brokery</qex>.</q> <rj><qau>Marlowe.</qau></rj></
 
 <p><q>Imbrowned with native <qex>bronze</qex>, lo! Henley stands.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p><cs><col>Aluminium bronze</col>. <cd>See under <er>Aluminium</er>.</cd> -- <col>Bronze age</col>, <cd>an age of the world which followed the stone age, and was characterized by the use of implements and ornaments of copper or bronze.</cd> -- <col>Bronze powder</col>, <cd>a metallic powder, used with size or in combination with painting, to give the appearance of bronze, gold, or other metal, to any surface.</cd> -- <mcol><col>Phosphor bronze</col> <and/ <col>Silicious bronze</col> <it>or</it> <col>Silicium bronze</col></mcol> <cd>are made by adding phosphorus and silicon respectively to ordinary bronze, and are characterized by great tenacity.</cd></cs></p>
+<p><cs><col>Aluminium bronze</col>. <cd>See under <er>Aluminium</er>.</cd> -- <col>Bronze age</col>, <cd>an age of the world which followed the stone age, and was characterized by the use of implements and ornaments of copper or bronze.</cd> -- <col>Bronze powder</col>, <cd>a metallic powder, used with size or in combination with painting, to give the appearance of bronze, gold, or other metal, to any surface.</cd> -- <mcol><col>Phosphor bronze</col> <and/ <col>Silicious bronze</col> <or/ <col>Silicium bronze</col></mcol> <cd>are made by adding phosphorus and silicon respectively to ordinary bronze, and are characterized by great tenacity.</cd></cs></p>
 </entry>
 
 <entry main-word="Bronze" source="1913 Webster">
@@ -36958,7 +36958,7 @@ The moss-covered <qex>bucket</qex>, which hung in the well.</q> <rj><qau>Wordswo
 <entry main-word="Buckeye" source="1913 Webster">
 <p><hw>Buck"eye`</hw> <pr>(b<ucr/k"<imac/`)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Bot.)</fld> <def>A name given to several American trees and shrubs of the same genus (<gen><AE/sculus</gen>) as the horse chestnut.</def></p>
 
-<p><cs><mcol><col>The Ohio buckeye</col>, <it>or</it>  <col>Fetid buckeye</col></mcol>, <cd>is <spn>Aesculus glabra</spn>.</cd> -- <col>Red buckeye</col> <cd>is <spn>Aesculus Pavia</spn>.</cd> -- <col>Small buckeye</col> <cd>is <spn>Aesculus paviflora</spn>.</cd> -- <mcol><col>Sweet buckeye</col>, <it>or</it>  <col>Yellow buckeye</col></mcol>, <cd>is <spn>Aesculus flava</spn>.</cd></cs></p>
+<p><cs><mcol><col>The Ohio buckeye</col>, <or/  <col>Fetid buckeye</col></mcol>, <cd>is <spn>Aesculus glabra</spn>.</cd> -- <col>Red buckeye</col> <cd>is <spn>Aesculus Pavia</spn>.</cd> -- <col>Small buckeye</col> <cd>is <spn>Aesculus paviflora</spn>.</cd> -- <mcol><col>Sweet buckeye</col>, <or/  <col>Yellow buckeye</col></mcol>, <cd>is <spn>Aesculus flava</spn>.</cd></cs></p>
 
 <p><sn>2.</sn> <def>A cant name for a native or resident of Ohio.</def> <mark>[U.S.]</mark></p>
 
@@ -37391,7 +37391,7 @@ That made him reel.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>6.</sn> <fld>(Zool.)</fld> <def>The buffalo fish. See <er>Buffalofish</er>, below.</def></p>
 
-<p><cs><col>Buffalo berry</col> <fld>(Bot.)</fld>, <cd>a shrub of the Upper Missouri (<spn>Sherherdia argentea</spn>) with acid edible red berries.</cd> -- <col>Buffalo bird</col> <fld>(Zool.)</fld>, <cd>an African bird of the genus <gen>Buphaga</gen>, of two species. These birds perch upon buffaloes and cattle, in search of parasites.</cd> -- <col>Buffalo bug</col>, <cd>the carpet beetle. See under <er>Carpet</er>.</cd> -- <col>Buffalo chips</col>, <cd>dry dung of the buffalo, or bison, used for fuel.</cd> <mark>[U.S.]</mark> -- <col>Buffalo clover</col> <fld>(Bot.)</fld>, <cd>a kind of clover (<spn>Trifolium reflexum</spn> and <spn>Trifoliumsoloniferum</spn>) found in the ancient grazing grounds of the American bison.</cd> -- <col>Buffalo cod</col> <fld>(Zool.)</fld>, <cd>a large, edible, marine fish (<spn>Ophiodon elongatus</spn>) of the northern Pacific coast; -- called also <altname>blue cod</altname>, and <altname>cultus cod</altname>.</cd> --  <mcol><col>Buffalo fly</col>, <it>or</it>  <col>Buffalo gnat</col></mcol> <fld>(Zool.)</fld>, <cd>a small dipterous insect of the genus <gen>Simulium</gen>, allied to the black fly of the North. It is often extremely abundant in the lower part of the Mississippi valley and does great injury to domestic animals, often killing large numbers of cattle and horses. In Europe the Columbatz fly is a species with similar habits.</cd> -- <col>Buffalo grass</col> <fld>(Bot.)</fld>, <cd>a species of short, sweet grass (<spn>Buchlo<eum/ dactyloides</spn>), from two to four inches high, covering the prairies on which the buffaloes, or bisons, feed.</cd> <mark>[U.S.]</mark> -- <col>Buffalo nut</col> <fld>(Bot.)</fld>, <cd>the oily and drupelike fruit of an American shrub (<spn>Pyrularia oleifera</spn>); also, the shrub itself; oilnut.</cd> -- <col>Buffalo robe</col>, <cd>the skin of the bison of North America, prepared with the hair on; -- much used as a lap robe in sleighs.</cd></cs></p>
+<p><cs><col>Buffalo berry</col> <fld>(Bot.)</fld>, <cd>a shrub of the Upper Missouri (<spn>Sherherdia argentea</spn>) with acid edible red berries.</cd> -- <col>Buffalo bird</col> <fld>(Zool.)</fld>, <cd>an African bird of the genus <gen>Buphaga</gen>, of two species. These birds perch upon buffaloes and cattle, in search of parasites.</cd> -- <col>Buffalo bug</col>, <cd>the carpet beetle. See under <er>Carpet</er>.</cd> -- <col>Buffalo chips</col>, <cd>dry dung of the buffalo, or bison, used for fuel.</cd> <mark>[U.S.]</mark> -- <col>Buffalo clover</col> <fld>(Bot.)</fld>, <cd>a kind of clover (<spn>Trifolium reflexum</spn> and <spn>Trifoliumsoloniferum</spn>) found in the ancient grazing grounds of the American bison.</cd> -- <col>Buffalo cod</col> <fld>(Zool.)</fld>, <cd>a large, edible, marine fish (<spn>Ophiodon elongatus</spn>) of the northern Pacific coast; -- called also <altname>blue cod</altname>, and <altname>cultus cod</altname>.</cd> --  <mcol><col>Buffalo fly</col>, <or/  <col>Buffalo gnat</col></mcol> <fld>(Zool.)</fld>, <cd>a small dipterous insect of the genus <gen>Simulium</gen>, allied to the black fly of the North. It is often extremely abundant in the lower part of the Mississippi valley and does great injury to domestic animals, often killing large numbers of cattle and horses. In Europe the Columbatz fly is a species with similar habits.</cd> -- <col>Buffalo grass</col> <fld>(Bot.)</fld>, <cd>a species of short, sweet grass (<spn>Buchlo<eum/ dactyloides</spn>), from two to four inches high, covering the prairies on which the buffaloes, or bisons, feed.</cd> <mark>[U.S.]</mark> -- <col>Buffalo nut</col> <fld>(Bot.)</fld>, <cd>the oily and drupelike fruit of an American shrub (<spn>Pyrularia oleifera</spn>); also, the shrub itself; oilnut.</cd> -- <col>Buffalo robe</col>, <cd>the skin of the bison of North America, prepared with the hair on; -- much used as a lap robe in sleighs.</cd></cs></p>
 </entry>
 
 <entry main-word="buffalofish" source="WordNet 1.5">
@@ -38222,7 +38222,7 @@ And the bright <qex>Bull</qex> receives him.</q> <rj><qau>Thomson.</qau></rj></p
 </entry>
 
 <entry main-word="Bullfinch" source="1913 Webster">
-<p><hw>Bull"finch`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A bird of the genus <gen>Pyrrhula</gen> and other related genera, especially the <spn>Pyrrhula vulgaris</spn> <it>or</it> <spn>Pyrrhula rubicilla</spn>, a bird of Europe allied to the grosbeak, having the breast, cheeks, and neck, red.</def></p>
+<p><hw>Bull"finch`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A bird of the genus <gen>Pyrrhula</gen> and other related genera, especially the <spn>Pyrrhula vulgaris</spn> <or/ <spn>Pyrrhula rubicilla</spn>, a bird of Europe allied to the grosbeak, having the breast, cheeks, and neck, red.</def></p>
 
 <p><note><hand/ As a cage bird it is highly valued for its remarkable power of learning to whistle correctly various musical airs.</note></p>
 
@@ -39101,9 +39101,9 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Buoy" source="1913 Webster">
-<p><hw>Buoy</hw> <pr>(bwoi <it>or</it> boi; 277)</pr>, <pos>n.</pos> <ety>[D. <ets>boei</ets> buoy, fetter, fr. OF. <ets>boie</ets>, <ets>buie</ets>, chain, fetter, F. <ets>bou<eacute/e</ets> a buoy, from L. <ets>boia</ets>. <ldquo/<ets>Boiae</ets> genus vinculorum tam ferreae quam ligneae.<rdquo/ <au>Festus.</au> So called because chained to its place.]</ety> <fld>(Naut.)</fld> <def>A float; esp. a floating object moored to the bottom, to mark a channel or to point out the position of something beneath the water, as an anchor, shoal, rock, etc.</def></p>
+<p><hw>Buoy</hw> <pr>(bwoi <or/ boi; 277)</pr>, <pos>n.</pos> <ety>[D. <ets>boei</ets> buoy, fetter, fr. OF. <ets>boie</ets>, <ets>buie</ets>, chain, fetter, F. <ets>bou<eacute/e</ets> a buoy, from L. <ets>boia</ets>. <ldquo/<ets>Boiae</ets> genus vinculorum tam ferreae quam ligneae.<rdquo/ <au>Festus.</au> So called because chained to its place.]</ety> <fld>(Naut.)</fld> <def>A float; esp. a floating object moored to the bottom, to mark a channel or to point out the position of something beneath the water, as an anchor, shoal, rock, etc.</def></p>
 
-<p><cs><col>Anchor buoy</col>, <cd>a buoy attached to, or marking the position of, an anchor.</cd> -- <col>Bell buoy</col>, <cd>a large buoy on which a bell is mounted, to be rung by the motion of the waves.</cd> -- <col>Breeches buoy</col>. <cd>See under <er>Breeches</er>.</cd> -- <col>Cable buoy</col>, <cd>an empty cask employed to buoy up the cable in rocky anchorage.</cd> -- <col>Can buoy</col>, <cd>a hollow buoy made of sheet or boiler iron, usually conical or pear-shaped.</cd> -- <col>Life buoy</col>, <cd>a float intended to support persons who have fallen into the water, until a boat can be dispatched to save them.</cd> -- <mcol><col>Nut buoy</col> <it>or</it> <col>Nun buoy</col></mcol>, <cd>a buoy large in the middle, and tapering nearly to a point at each end.</cd> -- <col>To stream the buoy</col>, <cd>to let the anchor buoy fall by the ship's side into the water, before letting go the anchor.</cd> -- <col>Whistling buoy</col>, <cd>a buoy fitted with a whistle that is blown by the action of the waves.</cd></cs></p>
+<p><cs><col>Anchor buoy</col>, <cd>a buoy attached to, or marking the position of, an anchor.</cd> -- <col>Bell buoy</col>, <cd>a large buoy on which a bell is mounted, to be rung by the motion of the waves.</cd> -- <col>Breeches buoy</col>. <cd>See under <er>Breeches</er>.</cd> -- <col>Cable buoy</col>, <cd>an empty cask employed to buoy up the cable in rocky anchorage.</cd> -- <col>Can buoy</col>, <cd>a hollow buoy made of sheet or boiler iron, usually conical or pear-shaped.</cd> -- <col>Life buoy</col>, <cd>a float intended to support persons who have fallen into the water, until a boat can be dispatched to save them.</cd> -- <mcol><col>Nut buoy</col> <or/ <col>Nun buoy</col></mcol>, <cd>a buoy large in the middle, and tapering nearly to a point at each end.</cd> -- <col>To stream the buoy</col>, <cd>to let the anchor buoy fall by the ship's side into the water, before letting go the anchor.</cd> -- <col>Whistling buoy</col>, <cd>a buoy fitted with a whistle that is blown by the action of the waves.</cd></cs></p>
 </entry>
 
 <entry main-word="Buoy" source="1913 Webster">
@@ -39796,7 +39796,7 @@ And pleased by novelty in spite of sense.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Burnet" source="1913 Webster">
 <p><hw>Bur"net</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>burnet</ets> burnet; also, brownish (the plant perh. being named from its color), fr. F. <ets>brunet</ets>, dim. of <ets>brun</ets> brown; cf. OF. <ets>brunete</ets> a sort of flower. See <er>Brunette</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of perennial herbs (<gen>Poterium</gen>); especially, <spn>Poterium Sanguisorba</spn>, the common, or garden, burnet.</def></p>
 
-<p><cs><col>Burnet moth</col> <fld>(Zool.)</fld>, <cd>in England, a handsome moth (<spn>Zyg<ae/na filipendula</spn>), with crimson spots on the wings.</cd> -- <col>Burnet saxifrage</col>. <fld>(Bot.)</fld> <cd>See <er>Saxifrage</er>.</cd> -- <col>Canadian burnet</col>, <cd>a marsh plant (<spn>Poterium Canadensis</spn>).</cd> -- <mcol><col>Great burnet</col>, <col>Wild burnet</col></mcol>, <cd><spn>Poterium oficinalis</spn> (<it>or</it> <spn>Sanguisorba oficinalis</spn>).</cd></cs></p>
+<p><cs><col>Burnet moth</col> <fld>(Zool.)</fld>, <cd>in England, a handsome moth (<spn>Zyg<ae/na filipendula</spn>), with crimson spots on the wings.</cd> -- <col>Burnet saxifrage</col>. <fld>(Bot.)</fld> <cd>See <er>Saxifrage</er>.</cd> -- <col>Canadian burnet</col>, <cd>a marsh plant (<spn>Poterium Canadensis</spn>).</cd> -- <mcol><col>Great burnet</col>, <col>Wild burnet</col></mcol>, <cd><spn>Poterium oficinalis</spn> (<or/ <spn>Sanguisorba oficinalis</spn>).</cd></cs></p>
 </entry>
 
 <entry main-word="Burnettize" source="1913 Webster">
@@ -40225,7 +40225,7 @@ In this I <qex>bury</qex> all unkindness, Cassius.</q> <rj><qau>Shak.</qau></rj>
 
 <p><sn>5.</sn> <fld>(Hunting)</fld> <def>The tail, or brush, of a fox.</def></p>
 
-<p><cs><col>To beat about the bush</col>, <cd>to approach anything in a round-about manner, instead of coming directly to it; -- a metaphor taken from hunting.</cd> -- <col>Bush bean</col> <fld>(Bot.)</fld>, <cd>a variety of bean which is low and requires no support (<spn>Phaseolus vulgaris</spn>, variety <varn>nanus</varn>). See <er>Bean</er>, <snr>1</snr>.</cd> -- <mcol><col>Bush buck</col>, <it>or</it> <col>Bush goat</col></mcol> <fld>(Zool.)</fld>, <cd>a beautiful South African antelope (<spn>Tragelaphus sylvaticus</spn>); -- so called because found mainly in wooden localities. The name is also applied to other species.</cd> -- <col>Bush cat</col> <fld>(Zool.)</fld>, <cd>the serval. See <er>Serval</er>.</cd> -- <col>Bush chat</col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Pratincola</gen>, of the Thrush family.</cd> -- <col>Bush dog</col>. <fld>(Zool.)</fld> <cd>See <er>Potto</er>.</cd> -- <col>Bush hammer</col>. <cd>See <er>Bushhammer</er> in the Vocabulary.</cd> -- <col>Bush harrow</col> <fld>(Agric.)</fld> <cd>See under <er>Harrow</er>.</cd> -- <col>Bush hog</col> <fld>(Zool.)</fld>, <cd>a South African wild hog (<spn>Potamoch<oe/rus Africanus</spn>); -- called also <altname>bush pig</altname>, and <altname>water hog</altname>.</cd> -- <col>Bush master</col> <fld>(Zool.)</fld>, <cd>a venomous snake (<spn>Lachesis mutus</spn>) of Guinea; -- called also <altname>surucucu</altname>.</cd> -- <col>Bush pea</col> <fld>(Bot.)</fld>, <cd>a variety of pea that needs to be bushed.</cd> -- <col>Bush shrike</col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Thamnophilus</gen>, and allied genera; -- called also <altname>batarg</altname>. Many species inhabit tropical America.</cd> -- <col>Bush tit</col> <fld>(Zool.)</fld>, <cd>a small bird of the genus <gen>Psaltriparus</gen>, allied to the titmouse. <spn>Psaltriparus minimus</spn> inhabits California.</cd></cs></p>
+<p><cs><col>To beat about the bush</col>, <cd>to approach anything in a round-about manner, instead of coming directly to it; -- a metaphor taken from hunting.</cd> -- <col>Bush bean</col> <fld>(Bot.)</fld>, <cd>a variety of bean which is low and requires no support (<spn>Phaseolus vulgaris</spn>, variety <varn>nanus</varn>). See <er>Bean</er>, <snr>1</snr>.</cd> -- <mcol><col>Bush buck</col>, <or/ <col>Bush goat</col></mcol> <fld>(Zool.)</fld>, <cd>a beautiful South African antelope (<spn>Tragelaphus sylvaticus</spn>); -- so called because found mainly in wooden localities. The name is also applied to other species.</cd> -- <col>Bush cat</col> <fld>(Zool.)</fld>, <cd>the serval. See <er>Serval</er>.</cd> -- <col>Bush chat</col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Pratincola</gen>, of the Thrush family.</cd> -- <col>Bush dog</col>. <fld>(Zool.)</fld> <cd>See <er>Potto</er>.</cd> -- <col>Bush hammer</col>. <cd>See <er>Bushhammer</er> in the Vocabulary.</cd> -- <col>Bush harrow</col> <fld>(Agric.)</fld> <cd>See under <er>Harrow</er>.</cd> -- <col>Bush hog</col> <fld>(Zool.)</fld>, <cd>a South African wild hog (<spn>Potamoch<oe/rus Africanus</spn>); -- called also <altname>bush pig</altname>, and <altname>water hog</altname>.</cd> -- <col>Bush master</col> <fld>(Zool.)</fld>, <cd>a venomous snake (<spn>Lachesis mutus</spn>) of Guinea; -- called also <altname>surucucu</altname>.</cd> -- <col>Bush pea</col> <fld>(Bot.)</fld>, <cd>a variety of pea that needs to be bushed.</cd> -- <col>Bush shrike</col> <fld>(Zool.)</fld>, <cd>a bird of the genus <gen>Thamnophilus</gen>, and allied genera; -- called also <altname>batarg</altname>. Many species inhabit tropical America.</cd> -- <col>Bush tit</col> <fld>(Zool.)</fld>, <cd>a small bird of the genus <gen>Psaltriparus</gen>, allied to the titmouse. <spn>Psaltriparus minimus</spn> inhabits California.</cd></cs></p>
 </entry>
 
 <entry main-word="Bush" source="1913 Webster">

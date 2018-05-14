@@ -26,7 +26,7 @@
 </entry>
 
 <entry main-word="Y" source="1913 Webster">
-<p><hw>Y</hw> <pr>(w<imac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Y's</plw> <pr>(w<imac/z)</pr> <it>or</it> <plw>Ys</plw>.</plu> <def>Something shaped like the letter <universbold>Y</universbold>; a forked piece resembling in form the letter <universbold>Y</universbold>.</def>  <specif>Specifically:</specif> <sd>(a)</sd> <def>One of the forked holders for supporting the telescope of a leveling instrument, or the axis of a theodolite; a wye.</def>  <sd>(b)</sd> <def>A forked or bifurcated pipe fitting.</def>  <sd>(c)</sd> <fld>(Railroads)</fld> <def>A portion of track consisting of two diverging tracks connected by a cross track.</def></p>
+<p><hw>Y</hw> <pr>(w<imac/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Y's</plw> <pr>(w<imac/z)</pr> <or/ <plw>Ys</plw>.</plu> <def>Something shaped like the letter <universbold>Y</universbold>; a forked piece resembling in form the letter <universbold>Y</universbold>.</def>  <specif>Specifically:</specif> <sd>(a)</sd> <def>One of the forked holders for supporting the telescope of a leveling instrument, or the axis of a theodolite; a wye.</def>  <sd>(b)</sd> <def>A forked or bifurcated pipe fitting.</def>  <sd>(c)</sd> <fld>(Railroads)</fld> <def>A portion of track consisting of two diverging tracks connected by a cross track.</def></p>
 
 <p><cs><col>Y level</col> <fld>(Surv.)</fld>, <cd>an instrument for measuring differences of level by means of a telescope resting in <universbold>Y</universbold>'s.</cd> -- <col>Y moth</col> <fld>(Zool.)</fld>, <cd>a handsome European noctuid moth <spn>Plusia gamma</spn>) which has a bright, silvery mark, shaped like the letter <universbold>Y</universbold>, on each of the fore wings. Its larva, which is green with five dorsal white species, feeds on the cabbage, turnip, bean, etc. Called also <altname>gamma moth</altname>, and <altname>silver Y</altname>.</cd></cs></p>
 </entry>
@@ -36,7 +36,7 @@
 </entry>
 
 <entry main-word="Y-" source="1913 Webster">
-<p><mhw>{ <hw>Y-</hw> <pr>(?)</pr>, <it>or</it> <hw>I-</hw>  }</mhw>. <ety>[OE. <ets>y-</ets>, <ets>i-</ets>, AS. <ets>ge-</ets>, akin to D. & G. <ets>ge-</ets>, OHG. <ets>gi-</ets>, <ets>ga-</ets>, Goth. <ets>ga-</ets>, and perhaps to Latin <ets>con</ets>-; originally meaning, together.  Cf. <er>Com-</er>, <er>Aware</er>, <er>Enough</er>, <er>Handiwork</er>, <er>Ywis</er>.]</ety> <def>A prefix of obscure meaning, originally used with verbs, adverbs, adjectives, nouns, and pronouns. In the Middle English period, it was little employed except with verbs, being chiefly used with past participles, though occasionally with the infinitive.  <xex>Ycleped</xex>, or <xex>yclept</xex>, is perhaps the only word not entirely obsolete which shows this use.</def></p>
+<p><mhw>{ <hw>Y-</hw> <pr>(?)</pr>, <or/ <hw>I-</hw>  }</mhw>. <ety>[OE. <ets>y-</ets>, <ets>i-</ets>, AS. <ets>ge-</ets>, akin to D. & G. <ets>ge-</ets>, OHG. <ets>gi-</ets>, <ets>ga-</ets>, Goth. <ets>ga-</ets>, and perhaps to Latin <ets>con</ets>-; originally meaning, together.  Cf. <er>Com-</er>, <er>Aware</er>, <er>Enough</er>, <er>Handiwork</er>, <er>Ywis</er>.]</ety> <def>A prefix of obscure meaning, originally used with verbs, adverbs, adjectives, nouns, and pronouns. In the Middle English period, it was little employed except with verbs, being chiefly used with past participles, though occasionally with the infinitive.  <xex>Ycleped</xex>, or <xex>yclept</xex>, is perhaps the only word not entirely obsolete which shows this use.</def></p>
 
 <p><q>That no wight mighte it see neither <qex>y</qex>heere.</q> <rj><qau>Chaucer.</qau></rj></p>
 
@@ -134,7 +134,7 @@
 </entry>
 
 <entry main-word="Yajur-Veda" source="1913 Webster">
-<p><par/<hw>Yaj"ur-Ve"da</hw> <pr>(y<adot/j"<ucir/r-v<amac/`d<adot/ <it>or</it> y<adot/j"<ucir/r-v<emac/`d<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yajur-v<emac/da</ets>.]</ety> <def>See <er>Veda</er>.</def></p>
+<p><par/<hw>Yaj"ur-Ve"da</hw> <pr>(y<adot/j"<ucir/r-v<amac/`d<adot/ <or/ y<adot/j"<ucir/r-v<emac/`d<adot/)</pr>, <pos>n.</pos> <ety>[Skr. <ets>yajur-v<emac/da</ets>.]</ety> <def>See <er>Veda</er>.</def></p>
 </entry>
 
 <entry main-word="Yak" source="1913 Webster">
@@ -301,7 +301,7 @@ Destroyed hath the green in every <qex>yerd</qex>.</q> <rj><qau>Chaucer.</qau></
 
 <p source="Webster 1913 Suppl."><sn>7.</sn> <fld>(Zool.)</fld> <def>A place where moose or deer herd together in winter for pasture, protection, etc.</def></p>
 
-<p><cs><mcol><col>Golden Yard</col>, <it>or</it> <col>Yard and Ell</col></mcol> <fld>(Astron.)</fld>, <cd>a popular name of the three stars in the belt of Orion.</cd> -- <col>Under yard</col> [<it>i. e.</it>, under the rod], <cd>under contract.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs></p>
+<p><cs><mcol><col>Golden Yard</col>, <or/ <col>Yard and Ell</col></mcol> <fld>(Astron.)</fld>, <cd>a popular name of the three stars in the belt of Orion.</cd> -- <col>Under yard</col> [<it>i. e.</it>, under the rod], <cd>under contract.</cd> <mark>[Obs.]</mark> <au>Chaucer.</au></cs></p>
 </entry>
 
 <entry main-word="Yard" source="1913 Webster">
@@ -655,7 +655,7 @@ In heaven <qex>ycleped</qex> Euphrosyne.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <pluf>pl.</pluf> <def>Age, or old age; <as>as, a man in <ex>years</ex></as>.</def>  <rj><au>Shak.</au></rj></p>
 
-<p><cs><col>Anomalistic year</col>, <cd>the time of the earth's revolution from perihelion to perihelion again, which is 365 days, 6 hours, 13 minutes, and 48 seconds.</cd> -- <col>A year's mind</col> <fld>(Eccl.)</fld>, <cd>a commemoration of a deceased person, as by a Mass, a year after his death.  Cf. <cref>A month's mind</cref>, under <er>Month</er>.</cd> -- <col>Bissextile year</col>. <cd>See <er>Bissextile</er>.</cd> -- <col>Canicular year</col>. <cd>See under <er>Canicular</er>.</cd> -- <col>Civil year</col>, <cd>the year adopted by any nation for the computation of time.</cd> -- <col>Common lunar year</col>, <cd>the period of 12 lunar months, or 354 days.</cd> -- <col>Common year</col>, <cd>each year of 365 days, as distinguished from <xex>leap year</xex>.</cd> -- <mcol><col>Embolismic year</col>, <it>or</it> <col>Intercalary lunar year</col></mcol>, <cd>the period of 13 lunar months, or 384 days.</cd> -- <col>Fiscal year</col> <fld>(Com.)</fld>, <cd>the year by which accounts are reckoned, or the year between one annual time of settlement, or balancing of accounts, and another.</cd> -- <col>Great year</col>. <cd>See <cref>Platonic year</cref>, under <er>Platonic</er>.</cd> -- <mcol><col>Gregorian year</col>, <col>Julian year</col></mcol>. <cd>See under <er>Gregorian</er>, and <er>Julian</er>.</cd> -- <col>Leap year</col>. <cd>See <er>Leap year</er>, in the Vocabulary.</cd> -- <col>Lunar astronomical year</col>, <cd>the period of 12 lunar synodical months, or 354 days, 8 hours, 48 minutes, 36 seconds.</cd> -- <col>Lunisolar year</col>. <cd>See under <er>Lunisolar</er>.</cd> -- <col>Periodical year</col>. <cd>See <cref>Anomalistic year</cref>, above.</cd> -- <mcol><col>Platonic year</col>, <col>Sabbatical year</col></mcol>. <cd>See under <er>Platonic</er>, and <er>Sabbatical</er>.</cd> -- <col>Sidereal year</col>, <cd>the time in which the sun, departing from any fixed star, returns to the same. This is 365 days, 6 hours, 9 minutes, and 9.3 seconds.</cd> -- <col>Tropical year</col>. <cd>See under <er>Tropical</er>.</cd> -- <col>Year and a day</col> <fld>(O. Eng. Law)</fld>, <cd>a time to be allowed for an act or an event, in order that an entire year might be secured beyond all question.</cd> <au>Abbott.</au> -- <col>Year of grace</col>, <cd>any year of the Christian era; Anno Domini; <sc>A. D.</sc> or <sc>a. d.</sc></cd></cs></p>
+<p><cs><col>Anomalistic year</col>, <cd>the time of the earth's revolution from perihelion to perihelion again, which is 365 days, 6 hours, 13 minutes, and 48 seconds.</cd> -- <col>A year's mind</col> <fld>(Eccl.)</fld>, <cd>a commemoration of a deceased person, as by a Mass, a year after his death.  Cf. <cref>A month's mind</cref>, under <er>Month</er>.</cd> -- <col>Bissextile year</col>. <cd>See <er>Bissextile</er>.</cd> -- <col>Canicular year</col>. <cd>See under <er>Canicular</er>.</cd> -- <col>Civil year</col>, <cd>the year adopted by any nation for the computation of time.</cd> -- <col>Common lunar year</col>, <cd>the period of 12 lunar months, or 354 days.</cd> -- <col>Common year</col>, <cd>each year of 365 days, as distinguished from <xex>leap year</xex>.</cd> -- <mcol><col>Embolismic year</col>, <or/ <col>Intercalary lunar year</col></mcol>, <cd>the period of 13 lunar months, or 384 days.</cd> -- <col>Fiscal year</col> <fld>(Com.)</fld>, <cd>the year by which accounts are reckoned, or the year between one annual time of settlement, or balancing of accounts, and another.</cd> -- <col>Great year</col>. <cd>See <cref>Platonic year</cref>, under <er>Platonic</er>.</cd> -- <mcol><col>Gregorian year</col>, <col>Julian year</col></mcol>. <cd>See under <er>Gregorian</er>, and <er>Julian</er>.</cd> -- <col>Leap year</col>. <cd>See <er>Leap year</er>, in the Vocabulary.</cd> -- <col>Lunar astronomical year</col>, <cd>the period of 12 lunar synodical months, or 354 days, 8 hours, 48 minutes, 36 seconds.</cd> -- <col>Lunisolar year</col>. <cd>See under <er>Lunisolar</er>.</cd> -- <col>Periodical year</col>. <cd>See <cref>Anomalistic year</cref>, above.</cd> -- <mcol><col>Platonic year</col>, <col>Sabbatical year</col></mcol>. <cd>See under <er>Platonic</er>, and <er>Sabbatical</er>.</cd> -- <col>Sidereal year</col>, <cd>the time in which the sun, departing from any fixed star, returns to the same. This is 365 days, 6 hours, 9 minutes, and 9.3 seconds.</cd> -- <col>Tropical year</col>. <cd>See under <er>Tropical</er>.</cd> -- <col>Year and a day</col> <fld>(O. Eng. Law)</fld>, <cd>a time to be allowed for an act or an event, in order that an entire year might be secured beyond all question.</cd> <au>Abbott.</au> -- <col>Year of grace</col>, <cd>any year of the Christian era; Anno Domini; <sc>A. D.</sc> or <sc>a. d.</sc></cd></cs></p>
 </entry>
 
 <entry main-word="year 2000 bug" source="PJC">
@@ -833,7 +833,7 @@ This ilke servant anon right out <qex>yede</qex>.</q> <rj><qau>Chaucer.</qau></r
 </entry>
 
 <entry main-word="Yeldrin" source="1913 Webster">
-<p><mhw>{<hw>Yel"drin</hw> <pr>(?)</pr> <it>or</it> <hw>Yel"drine</hw>  }</mhw>, <pos>n.</pos> <ety>[Cf. <er>Yellow</er>.]</ety> <fld>(Zool.)</fld> <def>The yellow-hammer; -- called also <altname>yeldrock</altname>, and <altname>yoldrin</altname>.</def>  <mark>[Prov. Eng.]</mark></p>
+<p><mhw>{<hw>Yel"drin</hw> <pr>(?)</pr> <or/ <hw>Yel"drine</hw>  }</mhw>, <pos>n.</pos> <ety>[Cf. <er>Yellow</er>.]</ety> <fld>(Zool.)</fld> <def>The yellow-hammer; -- called also <altname>yeldrock</altname>, and <altname>yoldrin</altname>.</def>  <mark>[Prov. Eng.]</mark></p>
 </entry>
 
 <entry main-word="Yelk" source="1913 Webster">
@@ -1434,7 +1434,7 @@ And the gods <qex>yield</qex> you for 't.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>God <qex>yield</qex> thee, and God thank ye.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 
-<p><cs><mcol><col>To yield the breath</col>, <col>To yield the breath up</col>, <col>To yield the ghost</col>, <col>To yield the ghost up</col>, <col>To yield up the ghost</col>, <it>or</it> <col>To yield the life</col></mcol>, <cd>to die; to expire; -- similar to <cref>To give up the ghost</cref>.</cd></p>
+<p><cs><mcol><col>To yield the breath</col>, <col>To yield the breath up</col>, <col>To yield the ghost</col>, <col>To yield the ghost up</col>, <col>To yield up the ghost</col>, <or/ <col>To yield the life</col></mcol>, <cd>to die; to expire; -- similar to <cref>To give up the ghost</cref>.</cd></p>
 
 <p><q>One calmly <qex>yields</qex> his willing <qex>breath</qex>.</q> <rj><qau>Keble.</qau></rj>
 </cs></p>
@@ -1721,7 +1721,7 @@ The conqueror are quickly broke.</q> <rj><qau>Hudibras.</qau></rj></p>
 </entry>
 
 <entry main-word="Yolk" source="1913 Webster">
-<p><hw>Yolk</hw> <pr>(y<omac/lk <it>or</it> y<omac/k; 277)</pr>, <pos>n.</pos> <ety>[OE. <ets>yolke</ets>, <ets>yelke</ets>, <ets><yogh/olke</ets>, <ets><yogh/elke</ets>, AS. <ets>geoloca</ets>, <ets>geoleca</ets>, fr. <ets>geolu</ets> yellow.  See <er>Yellow</er>.]</ety> <altsp>[Written also <asp>yelk</asp>.]</altsp></p>
+<p><hw>Yolk</hw> <pr>(y<omac/lk <or/ y<omac/k; 277)</pr>, <pos>n.</pos> <ety>[OE. <ets>yolke</ets>, <ets>yelke</ets>, <ets><yogh/olke</ets>, <ets><yogh/elke</ets>, AS. <ets>geoloca</ets>, <ets>geoleca</ets>, fr. <ets>geolu</ets> yellow.  See <er>Yellow</er>.]</ety> <altsp>[Written also <asp>yelk</asp>.]</altsp></p>
 
 <p><sn>1.</sn> <def>The yellow part of an egg; the vitellus.</def></p>
 
@@ -2250,7 +2250,7 @@ Would suffer him to spend his <qex>youth</qex> at home.</q> <rj><qau>Shak.</qau>
 <p><q>And at each pause they kiss; was never seen such rule<br/
 In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.</qau></rj></p>
 
-<p><cs><mcol><col>Yule block</col>, <it>or</it> <col>Yule log</col></mcol>, <cd>a large log of wood formerly put on the hearth on Christmas eve, as the foundation of the fire. It was brought in with much ceremony.</cd> -- <col>Yule clog</col>, <cd>the yule log.</cd>  <rj><au>Halliwell. W. Irving.</au></rj>
+<p><cs><mcol><col>Yule block</col>, <or/ <col>Yule log</col></mcol>, <cd>a large log of wood formerly put on the hearth on Christmas eve, as the foundation of the fire. It was brought in with much ceremony.</cd> -- <col>Yule clog</col>, <cd>the yule log.</cd>  <rj><au>Halliwell. W. Irving.</au></rj>
 </cs></p>
 </entry>
 

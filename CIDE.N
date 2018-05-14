@@ -254,7 +254,7 @@
 
 <p><sn>4.</sn> <def>To spike, as a cannon.</def> <mark>[Obs.]</mark>  <rj><au>Crabb.</au></rj></p>
 
-<p><cs><mcol><col>To nail an assertion</col> <it>or</it> <col>To nail a lie</col></mcol>, etc., <cd>to detect and expose it, so as to put a stop to its currency; -- an expression probably derived from the former practice of shopkeepers, who were accustomed to nail bad or counterfeit pieces of money to the counter.</cd></cs></p>
+<p><cs><mcol><col>To nail an assertion</col> <or/ <col>To nail a lie</col></mcol>, etc., <cd>to detect and expose it, so as to put a stop to its currency; -- an expression probably derived from the former practice of shopkeepers, who were accustomed to nail bad or counterfeit pieces of money to the counter.</cd></cs></p>
 </entry>
 
 <entry main-word="Nailbrush" source="1913 Webster">
@@ -730,7 +730,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Naphtha" source="1913 Webster">
-<p><hw>Naph"tha</hw> <pr>(n<acr/f"th<adot/ <it>or</it> n<acr/p"th<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>naphtha</ets>, Gr. <grk>na`fqa</grk>, fr.Ar. <ets>nafth</ets>, <ets>nifth</ets>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>The complex mixture of volatile, liquid, inflammable hydrocarbons, occurring naturally, and usually called <altname>crude petroleum</altname>, <altname>mineral oil</altname>, or <altname>rock oil</altname>.</def>  <specif>Specifically:</specif> <def>That portion of the distillate obtained in the refinement of petroleum which is intermediate between the lighter gasoline and the heavier benzine, and has a specific gravity of about 0.7, -- used as a solvent for varnishes, as a carburetant, illuminant, etc.</def></p>
+<p><hw>Naph"tha</hw> <pr>(n<acr/f"th<adot/ <or/ n<acr/p"th<adot/)</pr>, <pos>n.</pos> <ety>[L. <ets>naphtha</ets>, Gr. <grk>na`fqa</grk>, fr.Ar. <ets>nafth</ets>, <ets>nifth</ets>.]</ety> <sn>1.</sn> <fld>(Chem.)</fld> <def>The complex mixture of volatile, liquid, inflammable hydrocarbons, occurring naturally, and usually called <altname>crude petroleum</altname>, <altname>mineral oil</altname>, or <altname>rock oil</altname>.</def>  <specif>Specifically:</specif> <def>That portion of the distillate obtained in the refinement of petroleum which is intermediate between the lighter gasoline and the heavier benzine, and has a specific gravity of about 0.7, -- used as a solvent for varnishes, as a carburetant, illuminant, etc.</def></p>
 
 <p><sn>2.</sn> <fld>(Chem.)</fld> <def>One of several volatile inflammable liquids obtained by the distillation of certain carbonaceous materials and resembling the naphtha from petroleum; <as>as, <ex>Boghead naphtha</ex>, from Boghead coal (obtained at <ex>Boghead</ex>, Scotland); <ex>crude naphtha</ex>, or <ex>light oil</ex>, from coal tar; <ex>wood naphtha</ex>, from wood, etc.</as></def></p>
 
@@ -778,7 +778,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Naphthide" source="1913 Webster">
-<p><hw>Naph"thide</hw> <pr>(n<acr/f"th<icr/d <it>or</it> n<acr/f"th<imac/d)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A compound of naphthalene or its radical with a metallic element; <as>as, mercuric <ex>naphthide</ex></as>.</def></p>
+<p><hw>Naph"thide</hw> <pr>(n<acr/f"th<icr/d <or/ n<acr/f"th<imac/d)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A compound of naphthalene or its radical with a metallic element; <as>as, mercuric <ex>naphthide</ex></as>.</def></p>
 </entry>
 
 <entry main-word="Naphthoic" source="1913 Webster">
@@ -974,7 +974,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Narcotine" source="1913 Webster">
-<p><hw>Nar"co*tine</hw> <pr>(n<aum/r"k<osl/*t<icr/n <it>or</it> n<aum/r"k<osl/*t<emac/n)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>narcotine</ets>.  Cf. <er>Cotarnine</er>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid found in opium, and extracted as a white crystalline substance, tasteless and less poisonous than morphine; -- called also <altname>narcotia</altname>.</def></p>
+<p><hw>Nar"co*tine</hw> <pr>(n<aum/r"k<osl/*t<icr/n <or/ n<aum/r"k<osl/*t<emac/n)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>narcotine</ets>.  Cf. <er>Cotarnine</er>.]</ety> <fld>(Chem.)</fld> <def>An alkaloid found in opium, and extracted as a white crystalline substance, tasteless and less poisonous than morphine; -- called also <altname>narcotia</altname>.</def></p>
 </entry>
 
 <entry main-word="Narcotinic" source="1913 Webster">
@@ -1695,7 +1695,7 @@ Shall yield us, pregnant with infernal flame.</q> <rj><qau>Milton.</qau></rj></p
 
 <p><sn>3.</sn> <fld>(Astrol.)</fld> <def>A representation of the positions of the heavenly bodies as the moment of one's birth, supposed to indicate one's future destinies; a horoscope.</def></p>
 
-<p><cs><col>The Nativity</col>, <cd>the birth or birthday of Christ; Christmas day.</cd> -- <mcol><col>To cast one's nativity</col> <it>or</it> <col>To calculate one's nativity</col></mcol> <fld>(Astrol.)</fld>, <cd>to find out and represent the position of the heavenly bodies at the time of one's birth.</cd></cs></p>
+<p><cs><col>The Nativity</col>, <cd>the birth or birthday of Christ; Christmas day.</cd> -- <mcol><col>To cast one's nativity</col> <or/ <col>To calculate one's nativity</col></mcol> <fld>(Astrol.)</fld>, <cd>to find out and represent the position of the heavenly bodies at the time of one's birth.</cd></cs></p>
 </entry>
 
 <entry main-word="Natka" source="1913 Webster">
@@ -1772,7 +1772,7 @@ He wants the <qex>natural</qex> touch.</q> <rj><qau>Shak.</qau></rj></p>
 <br/
 <q>It should be borne in mind that the <qex>natural system</qex> of botany is natural only in the constitution of its genera, tribes, orders, etc., and in its grand divisions.</q> <rj><qau>Gray.</qau></rj><br/
 <br/
-  -- <mcol><col>Natural theology</col>, <it>or</it> <col>Natural religion</col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, <snr>3</snr>. -- <col>Natural vowel</col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd></cs></p>
+  -- <mcol><col>Natural theology</col>, <or/ <col>Natural religion</col></mcol>, <cd>that part of theological science which treats of those evidences of the existence and attributes of the Supreme Being which are exhibited in nature; -- distinguished from <contr>revealed religion</contr>.</cd> See Quotation under <er>Natural</er>, <pos>a.</pos>, <snr>3</snr>. -- <col>Natural vowel</col>, <cd>the vowel sound heard in <xex>urn</xex>, <xex>furl</xex>, <xex>sir</xex>, <xex>her</xex>, etc.; -- so called as being uttered in the easiest open position of the mouth organs. See <cref>Neutral vowel</cref>, under <er>Neutral</er> and <xex>Guide to Pronunciation</xex>, <sect/ 17.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- See <er>Native</er>.</syn></p>
 </entry>
@@ -3518,7 +3518,7 @@ So much as frown on you.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>I shall show what this image of God in man is, <qex>negatively</qex>, by showing wherein it does not consist, and positively, by showing wherein it does consist.</q> <rj><qau>South.</qau></rj></p>
 
-<p><cs><mcol><col>Negatively charged</col> <it>or</it> <col>Negatively electrified</col></mcol> <fld>(Elec.)</fld>, <cd>having a charge of the kind of electricity called <ex>negative</ex>, as does the electron.</cd></cs></p>
+<p><cs><mcol><col>Negatively charged</col> <or/ <col>Negatively electrified</col></mcol> <fld>(Elec.)</fld>, <cd>having a charge of the kind of electricity called <ex>negative</ex>, as does the electron.</cd></cs></p>
 </entry>
 
 <entry main-word="Negativeness" source="1913 Webster">
@@ -3875,7 +3875,7 @@ No more shall be the <qex>neighbor</qex> to my counsel.</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Neither" source="1913 Webster">
-<p><hw>Nei"ther</hw> <pr>(n<emac/"<th/<etil/r <it>or</it> n<imac/"<th/<etil/r; 277)</pr>, <pos>a.</pos> <ety>[OE. <ets>neither</ets>, <ets>nother</ets>, <ets>nouther</ets>, AS. <ets>n<amac/w<edh/er</ets>, <ets>n<amac/hwae<edh/er</ets>; <ets>n<amac/</ets> never, not + <ets>hwae<edh/er</ets> whether.  The word has followed the form of <ets>either</ets>.  See <er>No</er>, and <er>Whether</er>, and cf. <er>Neuter</er>, <er>Nor</er>.]</ety> <def>Not either; not the one or the other.</def></p>
+<p><hw>Nei"ther</hw> <pr>(n<emac/"<th/<etil/r <or/ n<imac/"<th/<etil/r; 277)</pr>, <pos>a.</pos> <ety>[OE. <ets>neither</ets>, <ets>nother</ets>, <ets>nouther</ets>, AS. <ets>n<amac/w<edh/er</ets>, <ets>n<amac/hwae<edh/er</ets>; <ets>n<amac/</ets> never, not + <ets>hwae<edh/er</ets> whether.  The word has followed the form of <ets>either</ets>.  See <er>No</er>, and <er>Whether</er>, and cf. <er>Neuter</er>, <er>Nor</er>.]</ety> <def>Not either; not the one or the other.</def></p>
 
 <p><q>Which of them shall I take?<br/
 Both? one? or <qex>neither</qex>? <qex>Neither</qex> can be enjoyed,<br/
@@ -3950,7 +3950,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 </entry>
 
 <entry main-word="nematocide" source="PJC">
-<p><hw>nem"a*to*cide</hw> <pr>(n<ecr/m"<adot/*t<osl/*s<imac/d <it>or</it> n<icr/*m<acr/t"<osl/*s<imac/d)</pr>, <pos>n.</pos> <def>A substance that kills nematodes, especially one used in medicine or to kill plant pathogens.</def> <altsp>[Also spelled <asp>nematicide</asp>.]</altsp></p>
+<p><hw>nem"a*to*cide</hw> <pr>(n<ecr/m"<adot/*t<osl/*s<imac/d <or/ n<icr/*m<acr/t"<osl/*s<imac/d)</pr>, <pos>n.</pos> <def>A substance that kills nematodes, especially one used in medicine or to kill plant pathogens.</def> <altsp>[Also spelled <asp>nematicide</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Nematocyst" source="1913 Webster">
@@ -5707,7 +5707,7 @@ Begins, but endeth <qex>nevermore</qex>.</q> <rj><qau>Longfellow.</qau></rj></p>
 
 <p><q><qex>New</qex> from her sickness to that northern air.</q> <rj><qau>Dryden.</qau></rj></p>
 
-<p><cs><col>New birth</col>. <cd>See under <er>Birth</er>.</cd> -- <mcol><col>New Church</col>, <it>or</it> <col>New Jerusalem Church</col></mcol>, <cd>the church holding the doctrines taught by <person>Emanuel Swedenborg</person>. See <er>Swedenborgian</er>.</cd> -- <col>New heart</col> <fld>(Theol.)</fld>, <cd>a heart or character changed by the power of God, so as to be governed by new and holy motives.</cd> -- <col>New land</col>, <cd>land cleared and cultivated for the first time.</cd> -- <col>New light</col>. <fld>(Zool.)</fld> <cd>See <er>Crappie</er>.</cd> -- <col>New moon</col>. <sd>(a)</sd> <cd>The moon in its first quarter, or when it first appears after being invisible.</cd> <sd>(b)</sd> <cd>The day when the new moon is first seen; the first day of the lunar month, which was a holy day among the Jews.</cd> <au>2 Kings iv. 23.</au> -- <col>New Red Sandstone</col> <fld>(Geol.)</fld>, <cd>an old name for the formation immediately above the coal measures or strata, now divided into the <part>Permian</part> and <part>Trias</part>.</cd> See <er>Sandstone</er>. -- <col>New style</col>. <cd>See <er>Style</er>.</cd> -- <col>New testament</col>. <cd>See under <er>Testament</er>.</cd> -- <col>New world</col>, <cd>the land of the Western Hemisphere; -- so called because not known to the inhabitants of the Eastern Hemisphere until recent times.</cd></cs></p>
+<p><cs><col>New birth</col>. <cd>See under <er>Birth</er>.</cd> -- <mcol><col>New Church</col>, <or/ <col>New Jerusalem Church</col></mcol>, <cd>the church holding the doctrines taught by <person>Emanuel Swedenborg</person>. See <er>Swedenborgian</er>.</cd> -- <col>New heart</col> <fld>(Theol.)</fld>, <cd>a heart or character changed by the power of God, so as to be governed by new and holy motives.</cd> -- <col>New land</col>, <cd>land cleared and cultivated for the first time.</cd> -- <col>New light</col>. <fld>(Zool.)</fld> <cd>See <er>Crappie</er>.</cd> -- <col>New moon</col>. <sd>(a)</sd> <cd>The moon in its first quarter, or when it first appears after being invisible.</cd> <sd>(b)</sd> <cd>The day when the new moon is first seen; the first day of the lunar month, which was a holy day among the Jews.</cd> <au>2 Kings iv. 23.</au> -- <col>New Red Sandstone</col> <fld>(Geol.)</fld>, <cd>an old name for the formation immediately above the coal measures or strata, now divided into the <part>Permian</part> and <part>Trias</part>.</cd> See <er>Sandstone</er>. -- <col>New style</col>. <cd>See <er>Style</er>.</cd> -- <col>New testament</col>. <cd>See under <er>Testament</er>.</cd> -- <col>New world</col>, <cd>the land of the Western Hemisphere; -- so called because not known to the inhabitants of the Eastern Hemisphere until recent times.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Novel; recent; fresh; modern. See <er>Novel</er>.</syn></p>
 </entry>
@@ -6296,7 +6296,7 @@ Have <qex>nicked</qex> his captainship.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="nickel-and-dime" source="PJC">
-<p><hw>nick"el-and-dime"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>nickel-and-dimed</conjf> <it>or</it> <conjf>nickeled-and-dimed</conjf> <pr>(#)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>nickel-and-diming</conjf> <it>or</it> <conjf>nickeling-and-diming</conjf>.]</vmorph> <sn>1.</sn> <def>To harass or annoy with petty demands or for trivial reasons;</def> <specif>specifically,</specif> <def>to insist on minor concessions in a negotiation.</def></p>
+<p><hw>nick"el-and-dime"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>nickel-and-dimed</conjf> <or/ <conjf>nickeled-and-dimed</conjf> <pr>(#)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>nickel-and-diming</conjf> <or/ <conjf>nickeling-and-diming</conjf>.]</vmorph> <sn>1.</sn> <def>To harass or annoy with petty demands or for trivial reasons;</def> <specif>specifically,</specif> <def>to insist on minor concessions in a negotiation.</def></p>
 
 <p><sn>2.</sn> <def>To weaken or impair gradually or by small steps; <as>as, to be <ex>nickel-and-dimed</ex> into bankruptcy by the operating overhead</as>.</def> <mark>[informal]</mark></p>
 </entry>
@@ -11126,7 +11126,7 @@ Vouchsafed or sought.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A projecting end or beak at the front of an object; a snout; a nozzle; a spout; <as>as, the <ex>nose</ex> of a bellows; the <ex>nose</ex> of a teakettle.</as></def></p>
 
-<p source="1913 Webster;;PJC"><cs><col>Nose bit</col> <fld>(Carp.)</fld>, <cd>a bit similar to a gouge bit, but having a cutting edge on one side of its boring end.</cd> -- <col>Nose hammer</col> <fld>(Mach.)</fld>, <cd>a frontal hammer.</cd> -- <col>Nose hole</col> <fld>(Glass Making)</fld>, <cd>a small opening in a furnace, before which a globe of crown glass is held and kept soft at the beginning of the flattening process.</cd> -- <col>Nose key</col> <fld>(Carp.)</fld>, <cd>a fox wedge.</cd> -- <col>Nose leaf</col> <fld>(Zool.)</fld>, <cd>a thin, broad, membranous fold of skin on the nose of many species of bats.  It varies greatly in size and form.</cd> -- <col>Nose of wax</col>, <mark>(fig.)</mark>, <cd>a person who is pliant and easily influenced.</cd> <ldquo/A <xex>nose of wax</xex> to be turned every way.<rdquo/ <au>Massinger</au> -- <col>Nose piece</col>, <cd>the nozzle of a pipe, hose, bellows, etc.; the end piece of a microscope body, to which an objective is attached.</cd> -- <mcol><col>To hold one's nose to the grindstone</col>, <col>To put one's nose to the grindstone</col>, <it>or</it> <col>To bring one's nose to the grindstone</col></mcol>. <cd>See under <er>Grindstone</er>.</cd> -- <col>To lead by the nose</col>, <cd>to lead at pleasure, or to cause to follow submissively; to lead blindly, as a person leads a beast.</cd> <au>Shak.</au> -- <col>To put one's nose out of joint</col>, <cd>to humiliate one's pride, esp. by supplanting one in the affections of another.</cd> <mark>[Slang]</mark> -- <col>To thrust one's nose into</col>, <cd>to meddle officiously in.</cd> -- <col>To wipe one's nose of</col>, <cd>to deprive of; to rob.</cd> <mark>[Slang]</mark> -- <col>on the nose</col>, <sd>(a)</sd> <cd>exactly, accurately.</cd> <sd>(b)</sd> <fld>(racing)</fld> <cd>to win, as opposed to <contr>to place</contr> or <contr>to show</contr>.</cd></cs></p>
+<p source="1913 Webster;;PJC"><cs><col>Nose bit</col> <fld>(Carp.)</fld>, <cd>a bit similar to a gouge bit, but having a cutting edge on one side of its boring end.</cd> -- <col>Nose hammer</col> <fld>(Mach.)</fld>, <cd>a frontal hammer.</cd> -- <col>Nose hole</col> <fld>(Glass Making)</fld>, <cd>a small opening in a furnace, before which a globe of crown glass is held and kept soft at the beginning of the flattening process.</cd> -- <col>Nose key</col> <fld>(Carp.)</fld>, <cd>a fox wedge.</cd> -- <col>Nose leaf</col> <fld>(Zool.)</fld>, <cd>a thin, broad, membranous fold of skin on the nose of many species of bats.  It varies greatly in size and form.</cd> -- <col>Nose of wax</col>, <mark>(fig.)</mark>, <cd>a person who is pliant and easily influenced.</cd> <ldquo/A <xex>nose of wax</xex> to be turned every way.<rdquo/ <au>Massinger</au> -- <col>Nose piece</col>, <cd>the nozzle of a pipe, hose, bellows, etc.; the end piece of a microscope body, to which an objective is attached.</cd> -- <mcol><col>To hold one's nose to the grindstone</col>, <col>To put one's nose to the grindstone</col>, <or/ <col>To bring one's nose to the grindstone</col></mcol>. <cd>See under <er>Grindstone</er>.</cd> -- <col>To lead by the nose</col>, <cd>to lead at pleasure, or to cause to follow submissively; to lead blindly, as a person leads a beast.</cd> <au>Shak.</au> -- <col>To put one's nose out of joint</col>, <cd>to humiliate one's pride, esp. by supplanting one in the affections of another.</cd> <mark>[Slang]</mark> -- <col>To thrust one's nose into</col>, <cd>to meddle officiously in.</cd> -- <col>To wipe one's nose of</col>, <cd>to deprive of; to rob.</cd> <mark>[Slang]</mark> -- <col>on the nose</col>, <sd>(a)</sd> <cd>exactly, accurately.</cd> <sd>(b)</sd> <fld>(racing)</fld> <cd>to win, as opposed to <contr>to place</contr> or <contr>to show</contr>.</cd></cs></p>
 </entry>
 
 <entry main-word="Nose" source="1913 Webster">
@@ -11357,7 +11357,7 @@ Have made another choice.</q> <rj><qau>B. Jonson.</qau></rj></p>
 
 <p><q>The question is, may I do it, or may I <qex>not</qex> do it?</q> <rj><qau>Bp. Sanderson.</qau></rj></p>
 
-<p><cs><mcol><col>Not . . . but</col>, <it>or</it> <col>Not but</col></mcol>, <cd>only.</cd> <mark>[Obs. or Colloq.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
+<p><cs><mcol><col>Not . . . but</col>, <or/ <col>Not but</col></mcol>, <cd>only.</cd> <mark>[Obs. or Colloq.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
 </entry>
 
 <entry main-word="Notabilia" source="1913 Webster">
@@ -11573,7 +11573,7 @@ No <qex>note</qex> at all of our being absent hence.</q> <rj><qau>Shak.</qau></r
 
 <p><sn>6.</sn> <def>To set down in musical characters.</def></p>
 
-<p><cs><mcol><col>To note a bill</col> <it>or</it> <col>To note a draft</col></mcol>, <cd>to record on the back of it a refusal of acceptance, as the ground of a protest, which is done officially by a notary.</cd></cs></p>
+<p><cs><mcol><col>To note a bill</col> <or/ <col>To note a draft</col></mcol>, <cd>to record on the back of it a refusal of acceptance, as the ground of a protest, which is done officially by a notary.</cd></cs></p>
 </entry>
 
 <entry main-word="Notebook" source="1913 Webster">
@@ -12672,7 +12672,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj></p>
 </entry>
 
 <entry main-word="nucleic acid" source="PJC;;WordNet 1.5">
-<p><hw>nu*cle"ic ac"id</hw> <pr>(n<oomac/*kl<amac/"<icr/k <acr/s"<icr/d <it>or</it> n<oomac/*kl<emac/"<icr/k)</pr>, <pos>n.</pos> <fld>(Chem., Biochem., Genetics)</fld> <def>A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units.</def> <note>The <ex>nucleic acids</ex> are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell.  The two natural types of nucleic adic are <styp><er>ribonucleic acid</er></styp> (RNA) and <styp><er>deoxyribonucleic acid</er></styp> (DNA).</note></p>
+<p><hw>nu*cle"ic ac"id</hw> <pr>(n<oomac/*kl<amac/"<icr/k <acr/s"<icr/d <or/ n<oomac/*kl<emac/"<icr/k)</pr>, <pos>n.</pos> <fld>(Chem., Biochem., Genetics)</fld> <def>A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units.</def> <note>The <ex>nucleic acids</ex> are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell.  The two natural types of nucleic adic are <styp><er>ribonucleic acid</er></styp> (RNA) and <styp><er>deoxyribonucleic acid</er></styp> (DNA).</note></p>
 </entry>
 
 <entry main-word="Nucleiform" source="1913 Webster">
@@ -13290,7 +13290,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj></p>
 </entry>
 
 <entry main-word="nun" source="PJC">
-<p><hw>nun</hw> <pr>(n<oocr/n <it>or</it> n<oomac/n)</pr>, <pos>n.</pos> <def>The 14th letter of the Hebrew alphabet, corresponding in pronunciation to <it>n</it>.</def></p>
+<p><hw>nun</hw> <pr>(n<oocr/n <or/ n<oomac/n)</pr>, <pos>n.</pos> <def>The 14th letter of the Hebrew alphabet, corresponding in pronunciation to <it>n</it>.</def></p>
 </entry>
 
 <entry main-word="nun" source="PJC">
@@ -13348,7 +13348,7 @@ Breathless with adoration.</q> <rj><qau>Wordsworth.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Oral; not written.</def></p>
 
-<p><cs><mcol><col>Nuncupative will</col> <it>or</it> <col>Nuncupative testament</col></mcol>, <cd>a will or testament made by word of mouth only, before witnesses, as by a soldier or seaman, and depending on oral testimony for proof.</cd>  <rj><au>Blackstone.</au></rj>
+<p><cs><mcol><col>Nuncupative will</col> <or/ <col>Nuncupative testament</col></mcol>, <cd>a will or testament made by word of mouth only, before witnesses, as by a soldier or seaman, and depending on oral testimony for proof.</cd>  <rj><au>Blackstone.</au></rj>
 </cs></p>
 </entry>
 
@@ -13448,7 +13448,7 @@ We two have sworn shall come.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>4.</sn> <fld>(Zool.)</fld> <sd>(a)</sd> <def>A peculiar larva of certain trematodes which produces cercariae by asexual reproduction. See <er>Cercaria</er>, and <er>Redia</er>.</def> <sd>(b)</sd> <def>Either one of the nurse sharks.</def></p>
 
-<p><cs><col>Nurse shark</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A large arctic shark (<spn>Somniosus microcephalus</spn>), having small teeth and feeble jaws; -- called also <altname>sleeper shark</altname>, and <altname>ground shark</altname>.</cd> <sd>(b)</sd> <cd>A large shark (<spn>Ginglymostoma cirratum</spn>), native of the West Indies and Gulf of Mexico, having the dorsal fins situated behind the ventral fins.</cd> -- <mcol><col>To put to nurse</col>, <it>or</it> <col>To put out to nurse</col></mcol>, <cd>to send away to be nursed; to place in the care of a nurse.</cd> -- <mcol><col>Wet nurse</col>, <col>Dry nurse</col></mcol>. <cd>See <er>Wet nurse</er>, and <er>Dry nurse</er>, in the Vocabulary.</cd></cs></p>
+<p><cs><col>Nurse shark</col>. <fld>(Zool.)</fld> <sd>(a)</sd> <cd>A large arctic shark (<spn>Somniosus microcephalus</spn>), having small teeth and feeble jaws; -- called also <altname>sleeper shark</altname>, and <altname>ground shark</altname>.</cd> <sd>(b)</sd> <cd>A large shark (<spn>Ginglymostoma cirratum</spn>), native of the West Indies and Gulf of Mexico, having the dorsal fins situated behind the ventral fins.</cd> -- <mcol><col>To put to nurse</col>, <or/ <col>To put out to nurse</col></mcol>, <cd>to send away to be nursed; to place in the care of a nurse.</cd> -- <mcol><col>Wet nurse</col>, <col>Dry nurse</col></mcol>. <cd>See <er>Wet nurse</er>, and <er>Dry nurse</er>, in the Vocabulary.</cd></cs></p>
 </entry>
 
 <entry main-word="Nurse" source="1913 Webster">
@@ -13637,7 +13637,7 @@ Round and more round, o'er all the sea of heads.</q> <rj><qau>Pope.</qau></rj></
 
 <p><note><hand/ This fruit is a nearly spherical drupe, of the size of a pear, of a yellowish color without and almost white within. This opens into two nearly equal longitudinal valves, inclosing the nut surrounded by its aril, which is <xex>mace</xex>.  The nutmeg is an aromatic, very grateful to the taste and smell, and much used in cookery.  Other species of <gen>Myristica</gen> yield nutmegs of inferior quality.</note></p>
 
-<p><cs><mcol><col>American nutmeg</col>, <col>Calabash nutmeg</col>, <it>or</it> <col>Jamaica nutmeg</col></mcol>, <cd>the fruit of a tropical shrub (<spn>Monodora Myristica</spn>).  It is about the size of an orange, and contains many aromatic seeds imbedded in pulp.</cd> -- <col>Brazilian nutmeg</col>, <cd>the fruit of a lauraceous tree, <spn>Cryptocarya moschata</spn>.</cd> -- <col>California nutmeg</col>, <cd>a tree of the Yew family (<spn>Torreya Californica</spn>), growing in the Western United States, and having a seed which resembles a nutmeg in appearance, but is strongly impregnated with turpentine.</cd> -- <col>Clove nutmeg</col>, <cd>the <spn>Ravensara aromatica</spn>, a lauraceous tree of Madagascar. The foliage is used as a spice, but the seed is acrid and caustic.</cd> -- <col>Jamaica nutmeg</col>. <cd>See American nutmeg (above).</cd> -- <col>Nutmeg bird</col> <fld>(Zool.)</fld>, <cd>an Indian finch (<spn>Munia punctularia</spn>).</cd> -- <col>Nutmeg butter</col>, <cd>a solid oil extracted from the nutmeg by expression.</cd> -- <col>Nutmeg flower</col> <fld>(Bot.)</fld>, <cd>a ranunculaceous herb (<spn>Nigella sativa</spn>) with small black aromatic seeds, which are used medicinally and for excluding moths from furs and clothing.</cd> -- <col>Nutmeg liver</col> <fld>(Med.)</fld>, <cd>a name applied to the liver, when, as the result of heart or lung disease, it undergoes congestion and pigmentation about the central veins of its lobules, giving it an appearance resembling that of a nutmeg.</cd> -- <col>Nutmeg melon</col> <fld>(Bot.)</fld>, <cd>a small variety of muskmelon of a rich flavor.</cd> -- <col>Nutmeg pigeon</col> <fld>(Zool.)</fld>, <cd>any one of several species of pigeons of the genus <gen>Myristicivora</gen>, native of the East Indies and Australia.  The color is usually white, or cream-white, with black on the wings and tail.</cd> -- <col>Nutmeg wood</col> <fld>(Bot.)</fld>, <cd>the wood of the Palmyra palm.</cd> -- <col>Peruvian nutmeg</col>, <cd>the aromatic seed of a South American tree (<spn>Laurelia sempervirens</spn>).</cd> -- <col>Plume nutmeg</col> <fld>(Bot.)</fld>, <cd>a spicy tree of Australia (<spn>Atherosperma moschata</spn>).</cd></cs></p>
+<p><cs><mcol><col>American nutmeg</col>, <col>Calabash nutmeg</col>, <or/ <col>Jamaica nutmeg</col></mcol>, <cd>the fruit of a tropical shrub (<spn>Monodora Myristica</spn>).  It is about the size of an orange, and contains many aromatic seeds imbedded in pulp.</cd> -- <col>Brazilian nutmeg</col>, <cd>the fruit of a lauraceous tree, <spn>Cryptocarya moschata</spn>.</cd> -- <col>California nutmeg</col>, <cd>a tree of the Yew family (<spn>Torreya Californica</spn>), growing in the Western United States, and having a seed which resembles a nutmeg in appearance, but is strongly impregnated with turpentine.</cd> -- <col>Clove nutmeg</col>, <cd>the <spn>Ravensara aromatica</spn>, a lauraceous tree of Madagascar. The foliage is used as a spice, but the seed is acrid and caustic.</cd> -- <col>Jamaica nutmeg</col>. <cd>See American nutmeg (above).</cd> -- <col>Nutmeg bird</col> <fld>(Zool.)</fld>, <cd>an Indian finch (<spn>Munia punctularia</spn>).</cd> -- <col>Nutmeg butter</col>, <cd>a solid oil extracted from the nutmeg by expression.</cd> -- <col>Nutmeg flower</col> <fld>(Bot.)</fld>, <cd>a ranunculaceous herb (<spn>Nigella sativa</spn>) with small black aromatic seeds, which are used medicinally and for excluding moths from furs and clothing.</cd> -- <col>Nutmeg liver</col> <fld>(Med.)</fld>, <cd>a name applied to the liver, when, as the result of heart or lung disease, it undergoes congestion and pigmentation about the central veins of its lobules, giving it an appearance resembling that of a nutmeg.</cd> -- <col>Nutmeg melon</col> <fld>(Bot.)</fld>, <cd>a small variety of muskmelon of a rich flavor.</cd> -- <col>Nutmeg pigeon</col> <fld>(Zool.)</fld>, <cd>any one of several species of pigeons of the genus <gen>Myristicivora</gen>, native of the East Indies and Australia.  The color is usually white, or cream-white, with black on the wings and tail.</cd> -- <col>Nutmeg wood</col> <fld>(Bot.)</fld>, <cd>the wood of the Palmyra palm.</cd> -- <col>Peruvian nutmeg</col>, <cd>the aromatic seed of a South American tree (<spn>Laurelia sempervirens</spn>).</cd> -- <col>Plume nutmeg</col> <fld>(Bot.)</fld>, <cd>a spicy tree of Australia (<spn>Atherosperma moschata</spn>).</cd></cs></p>
 </entry>
 
 <entry main-word="Nutmegged" source="1913 Webster">
@@ -13750,7 +13750,7 @@ To draw <qex>nutrition</qex>, propagate, and rot.</q> <rj><qau>Pope.</qau></rj><
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A shell of the genus Nucula.</def></p>
 
-<p><cs><mcol><col>To be in a nutshell</col> <it>or</it> <col>To lie in a nutshell</col></mcol>, <cd>to be within a small compass; to admit of very brief or simple determination or statement.</cd> <ldquo/The remedy <xex>lay in a nutshell</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></p>
+<p><cs><mcol><col>To be in a nutshell</col> <or/ <col>To lie in a nutshell</col></mcol>, <cd>to be within a small compass; to admit of very brief or simple determination or statement.</cd> <ldquo/The remedy <xex>lay in a nutshell</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></p>
 
 <p source="PJC">-- <col>in a nutshell</col> <cd>in a summarized and very abbreviated form; -- of statments, descriptions, reports, and other communications; <as>as, to describe the convention <ex>in a nutshell</ex></as>.</cd></cs></p>
 </entry>
