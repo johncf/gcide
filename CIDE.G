@@ -13377,27 +13377,27 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><cs><col>As good as</col>. <cd>See under <er>As</er>.</cd> -- <col>For good</col>, <or/ <col>For good and all</col>, <cd>completely and finally; fully; truly.</cd></p>
 
-<p source=""><q>The good woman never died after this, till she came to die <qex>for good and all</qex>.</q> <rj><qau>L'Estrange.</qau></rj></p>
+<p><q>The good woman never died after this, till she came to die <qex>for good and all</qex>.</q> <rj><qau>L'Estrange.</qau></rj></p>
 
 <p>-- <col>Good breeding</col>, <cd>polite or polished manners, formed by education; a polite education.</cd></p>
 
-<p source=""><q>Distinguished by good humor and <qex>good breeding</qex>.</q> <rj><qau>Macaulay.</qau></rj></p>
+<p><q>Distinguished by good humor and <qex>good breeding</qex>.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p source="">-- <col>Good cheap</col>, <cd>literally, good bargain; reasonably cheap.</cd></p>
+<p>-- <col>Good cheap</col>, <cd>literally, good bargain; reasonably cheap.</cd></p>
 
 <p>-- <col>Good consideration</col> <fld>(Law)</fld>. <sd>(a)</sd> <cd>A consideration of blood or of natural love and affection.</cd> <au>Blackstone.</au> <sd>(b)</sd> <cd>A valuable consideration, or one which will sustain a contract.</cd> -- <col>Good fellow</col>, <cd>a person of companionable qualities.</cd> <mark>[Familiar]</mark> -- <col>Good folk</col>, or <col>Good people</col>, <cd>fairies; brownies; pixies, etc.</cd> <mark>[Colloq. Eng. & Scot.]</mark> -- <col>Good for nothing</col>. <sd>(a)</sd> <cd>Of no value; useless; worthless.</cd> <sd>(b)</sd> <cd>Used substantively, an idle, worthless person.</cd></p>
 
-<p source=""><q>My father always said I was born to be a <qex>good for nothing</qex>.</q> <rj><qau>Ld. Lytton.</qau></rj></p>
+<p><q>My father always said I was born to be a <qex>good for nothing</qex>.</q> <rj><qau>Ld. Lytton.</qau></rj></p>
 
 <p>-- <col>Good Friday</col>, <cd>the Friday of Holy Week, kept in some churches as a fast, in memoory of our Savior's passion or suffering; the anniversary of the crucifixion.</cd> -- <col>Good humor</col>, <or/ <col>Good-humor</col>, <cd>a cheerful or pleasant temper or state of mind.</cd> -- <col>Good humor man</col>, <cd>a travelling vendor who sells <trademark>Good Humor</trademark> ice-cream (or some similar ice-cream) from a small refrigerated truck; he usually drives slowly through residential neighborhoods in summertime, loudly playing some distinctive recorded music to announce his presence.</cd> <mark>[U. S.]</mark> -- <col>Good nature</col>, <or/ <col>Good-nature</col>, <cd>habitual kindness or mildness of temper or disposition; amiability; state of being in good humor.</cd></p>
 
 <p><q>The <qex>good nature</qex> and generosity which belonged to his character.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p source=""><q>The young count's <qex>good nature</qex> and easy persuadability were among his best characteristics.</q> <rj><qau>Hawthorne.</qau></rj></p>
+<p><q>The young count's <qex>good nature</qex> and easy persuadability were among his best characteristics.</q> <rj><qau>Hawthorne.</qau></rj></p>
 
 <p>-- <col>Good people</col>. <cd>See <cref>Good folk</cref> (above).</cd> -- <col>Good speed</col>, <cd>good luck; good success; godspeed; -- an old form of wishing success. See <er>Speed</er>.</cd> -- <col>Good turn</col>, <cd>an act of kidness; a favor.</cd> -- <col>Good will</col>. <sd>(a)</sd> <cd>Benevolence; well wishing; kindly feeling.</cd> <sd>(b)</sd> <fld>(Law)</fld> <cd>The custom of any trade or business; the tendency or inclination of persons, old customers and others, to resort to an established place of business; the advantage accruing from tendency or inclination.</cd></p>
 
-<p source=""><q>The <qex>good will</qex> of a trade is nothing more than the probability that the old customers will resort to the old place.</q> <rj><qau>Lord Eldon.</qau></rj></p>
+<p><q>The <qex>good will</qex> of a trade is nothing more than the probability that the old customers will resort to the old place.</q> <rj><qau>Lord Eldon.</qau></rj></p>
 
 <p>-- <col>In good time</col>. <sd>(a)</sd> <cd>Promptly; punctually; opportunely; not too soon nor too late.</cd> <sd>(b)</sd> <fld>(Mus.)</fld> <cd>Correctly; in proper time.</cd> -- <col>To hold good</col>, <cd>to remain true or valid; to be operative; to remain in force or effect; as, his promise <xex>holds good</xex>; the condition still <xex>holds good</xex>.</cd> -- <col>To make good</col>, <cd>to fulfill; to establish; to maintain; to supply (a defect or deficiency); to indemmify; to prove or verify (an accusation); to prove to be blameless; to clear; to vindicate.</cd></p>
 
@@ -13407,7 +13407,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>I . . . would by combat <qex>make</qex> her <qex>good</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p source=""><q>Convenient numbers <qex>to make good</qex> the city.</q> <rj><qau>Shak.</qau></rj></p>
+<p><q>Convenient numbers <qex>to make good</qex> the city.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p>-- <col>To think good</col>, <cd>to approve; to be pleased or satisfied with; to consider expedient or proper.</cd></p>
 
