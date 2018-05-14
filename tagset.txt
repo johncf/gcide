@@ -621,6 +621,17 @@ Tag           Font         Meaning and Description
                            from additional sentences appended to the first
                            sentence of a definition. (multi-para)
 
+<oneof>       *            Used alongside <col> tag. Text in one of the <col>
+                           tags inside <oneof> may be used in conjunction with
+                           adjacent <col> tags to make a whole collacation.
+                           E.g.: <col>God </col><oneof><col>you</col>
+                           (<col>him</col>, <or/ <col>me</col>,
+                           etc.)</oneof><col> see</col> to indicate "God you
+                           see", "God him see", and "God me see". It is
+                           better to have the opening and closing <oneof>
+                           tags to have no spaces between the adjacent closing
+                           and opening <col> tags.
+
 <plu>         *            Plural.  The "plural" segment starts with a "pl."
                            which is italicised, but in this segment is not
                            otherwise marked as italicised.  Other words
