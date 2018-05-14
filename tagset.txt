@@ -621,16 +621,8 @@ Tag           Font         Meaning and Description
                            from additional sentences appended to the first
                            sentence of a definition. (multi-para)
 
-<oneof>       *            Used alongside <col> tag. Text in one of the <col>
-                           tags inside <oneof> may be used in conjunction with
-                           adjacent <col> tags to make a whole collacation.
-                           E.g.: <col>God </col><oneof><col>you</col>
-                           (<col>him</col>, <or/ <col>me</col>,
-                           etc.)</oneof><col> see</col> to indicate "God you
-                           see", "God him see", and "God me see". It is
-                           better to have the opening and closing <oneof>
-                           tags to have no spaces between the adjacent closing
-                           and opening <col> tags.
+<oneof>       *            Used alongside or inside <col> tag.
+                           See the section on <oneof> tag below.
 
 <plu>         *            Plural.  The "plural" segment starts with a "pl."
                            which is italicised, but in this segment is not
@@ -1086,10 +1078,25 @@ Tag           Font         Meaning and Description
                            below the level of species in living organism
                            systematic names.  Duplicative variant of <var>.
 
+* <oneof> tag usage
 
-
-Local Variables:
-mode: Outline
-coding: utf-8
-fill-column: 76
-End:
+It may be used alongside <col> as follows:
+
+- <col>To be hand </col><oneof><col>and glove</col>, <or/ <col>in glove</col>,</oneof><col> with</col>
+- <col>To </col><oneof><col>lift</col>, <or/ <col>put forth</col>,</oneof><col> the hand against</col>
+
+When used alongside, it is better to leave no space in between the <oneof> and adjacent <col> tag(s).
+
+It may also be used inside <col> if any one of the words inside it can be a
+replacement for the whole thing (ignoring punctuations, brackets, and <or/):
+
+- <col><oneof>Drawing, <or/ Ruling,</oneof> pen</col>
+- <col>The Debatable <oneof>Land <or/ Ground</oneof></col>
+- <col>Cloud on <oneof>a (<or/ the)</oneof> title</col>
+
+Note: The first two examples would be *incorrect* to be written as:
+
+- <col>To be hand <oneof>and glove, <or/ in glove,</oneof> with</col>
+- <col>To <oneof>lift, <or/ put forth,</oneof> the hand against</col>
+
+because there are multiple words inside <oneof> and each one of which *cannot* replace the whole.

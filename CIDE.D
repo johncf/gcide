@@ -4214,7 +4214,7 @@ Refreshment.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Debatable" source="1913 Webster">
 <p><hw>De*bat"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. OF. <ets>debatable</ets>. See <er>Debate</er>.]</ety> <def>Liable to be debated; disputable; subject to controversy or contention; open to question or dispute; <as>as, a <ex>debatable</ex> question</as>.</def></p>
 
-<p><cs><col>The Debatable </col><oneof><col>Land</col> <or/ <col>Ground</col></oneof>, <cd>a tract of land between the Esk and the Sark, claimed by both England and Scotland; the Batable Ground.</cd></cs></p>
+<p><cs><col>The Debatable <oneof>Land <or/ Ground</oneof></col>, <cd>a tract of land between the Esk and the Sark, claimed by both England and Scotland; the Batable Ground.</cd></cs></p>
 </entry>
 
 <entry main-word="Debate" source="1913 Webster">

@@ -2397,7 +2397,7 @@ And asks if it be time to rise.</q> <rj><qau>Swift.</qau></rj></p>
 <entry main-word="Gar" source="1913 Webster">
 <p><hw>Gar</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Prob. AS. <ets>g<amac/r</ets> dart, spear, lance. The name is applied to the fish on account of its long and slender body and pointed head.  Cf. <er>Goad</er>, <er>Gore</er>, <pos>v.</pos>]</ety> <fld>(Zool.)</fld> <sd>(a)</sd> <def>Any slender marine fish of the genera <gen>Belone</gen> and <gen>Tylosurus</gen>. See <er>Garfish</er>.</def> <sd>(b)</sd> <def>The gar pike. See <cref>Alligator gar</cref> (under <er>Alligator</er>), and <cref>Gar pike</cref>.</def></p>
 
-<p><cs><mcol><col>Gar pike</col>, <or/ <col>Garpike</col></mcol> <fld>(Zool.)</fld>, <cd>a large, elongated ganoid fish of the genus <gen>Lepidosteus</gen>, of several species, inhabiting the lakes and rivers of temperate and tropical America.</cd></cs></p>
+<p><cs><col>Gar pike</col>, <or/ <col>Garpike</col> <fld>(Zool.)</fld>, <cd>a large, elongated ganoid fish of the genus <gen>Lepidosteus</gen>, of several species, inhabiting the lakes and rivers of temperate and tropical America.</cd></cs></p>
 </entry>
 
 <entry main-word="Gar" source="1913 Webster">
@@ -13375,7 +13375,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>A <qex>good</qex> name is better than precious ointment.</q> <rj><qau>Eccl. vii. 1.</qau></rj></p>
 
-<p><cs><col>As good as</col>. <cd>See under <er>As</er>.</cd> -- <mcol><col>For good</col>, <or/ <col>For good and all</col></mcol>, <cd>completely and finally; fully; truly.</cd></p>
+<p><cs><col>As good as</col>. <cd>See under <er>As</er>.</cd> -- <col>For good</col>, <or/ <col>For good and all</col>, <cd>completely and finally; fully; truly.</cd></p>
 
 <p source=""><q>The good woman never died after this, till she came to die <qex>for good and all</qex>.</q> <rj><qau>L'Estrange.</qau></rj></p>
 
@@ -13385,11 +13385,11 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p source="">-- <col>Good cheap</col>, <cd>literally, good bargain; reasonably cheap.</cd></p>
 
-<p>-- <col>Good consideration</col> <fld>(Law)</fld>. <sd>(a)</sd> <cd>A consideration of blood or of natural love and affection.</cd> <au>Blackstone.</au> <sd>(b)</sd> <cd>A valuable consideration, or one which will sustain a contract.</cd> -- <col>Good fellow</col>, <cd>a person of companionable qualities.</cd> <mark>[Familiar]</mark> -- <mcol><col>Good folk</col>, or <col>Good people</col></mcol>, <cd>fairies; brownies; pixies, etc.</cd> <mark>[Colloq. Eng. & Scot.]</mark> -- <col>Good for nothing</col>. <sd>(a)</sd> <cd>Of no value; useless; worthless.</cd> <sd>(b)</sd> <cd>Used substantively, an idle, worthless person.</cd></p>
+<p>-- <col>Good consideration</col> <fld>(Law)</fld>. <sd>(a)</sd> <cd>A consideration of blood or of natural love and affection.</cd> <au>Blackstone.</au> <sd>(b)</sd> <cd>A valuable consideration, or one which will sustain a contract.</cd> -- <col>Good fellow</col>, <cd>a person of companionable qualities.</cd> <mark>[Familiar]</mark> -- <col>Good folk</col>, or <col>Good people</col>, <cd>fairies; brownies; pixies, etc.</cd> <mark>[Colloq. Eng. & Scot.]</mark> -- <col>Good for nothing</col>. <sd>(a)</sd> <cd>Of no value; useless; worthless.</cd> <sd>(b)</sd> <cd>Used substantively, an idle, worthless person.</cd></p>
 
 <p source=""><q>My father always said I was born to be a <qex>good for nothing</qex>.</q> <rj><qau>Ld. Lytton.</qau></rj></p>
 
-<p>-- <col>Good Friday</col>, <cd>the Friday of Holy Week, kept in some churches as a fast, in memoory of our Savior's passion or suffering; the anniversary of the crucifixion.</cd> -- <mcol><col>Good humor</col>, <or/ <col>Good-humor</col></mcol>, <cd>a cheerful or pleasant temper or state of mind.</cd> -- <col>Good humor man</col>, <cd>a travelling vendor who sells <trademark>Good Humor</trademark> ice-cream (or some similar ice-cream) from a small refrigerated truck; he usually drives slowly through residential neighborhoods in summertime, loudly playing some distinctive recorded music to announce his presence.</cd> <mark>[U. S.]</mark> -- <mcol><col>Good nature</col>, <or/ <col>Good-nature</col></mcol>, <cd>habitual kindness or mildness of temper or disposition; amiability; state of being in good humor.</cd></p>
+<p>-- <col>Good Friday</col>, <cd>the Friday of Holy Week, kept in some churches as a fast, in memoory of our Savior's passion or suffering; the anniversary of the crucifixion.</cd> -- <col>Good humor</col>, <or/ <col>Good-humor</col>, <cd>a cheerful or pleasant temper or state of mind.</cd> -- <col>Good humor man</col>, <cd>a travelling vendor who sells <trademark>Good Humor</trademark> ice-cream (or some similar ice-cream) from a small refrigerated truck; he usually drives slowly through residential neighborhoods in summertime, loudly playing some distinctive recorded music to announce his presence.</cd> <mark>[U. S.]</mark> -- <col>Good nature</col>, <or/ <col>Good-nature</col>, <cd>habitual kindness or mildness of temper or disposition; amiability; state of being in good humor.</cd></p>
 
 <p><q>The <qex>good nature</qex> and generosity which belonged to his character.</q> <rj><qau>Macaulay.</qau></rj></p>
 
@@ -13433,7 +13433,7 @@ Stream in the air.</q> <rj><qau>Milton.</qau></rj></p>
 Are, by the laws of Venice, confiscate<br/
 Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><cs><mcol><col>Dress goods</col>, <col>Dry goods</col>, etc.</mcol> <cd>See in the Vocabulary.</cd> -- <col>Goods engine</col>, <cd>a freight locomotive.</cd> <mark>[Eng.]</mark> -- <col>Goods train</col>, <cd>a freight train.</cd> <mark>[Eng.]</mark> -- <col>Goods wagon</col>, <cd>a freight car <mark>[Eng.]</mark> See the Note under <er>Car</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs></p>
+<p><cs><col>Dress goods</col>, <col>Dry goods</col>, etc. <cd>See in the Vocabulary.</cd> -- <col>Goods engine</col>, <cd>a freight locomotive.</cd> <mark>[Eng.]</mark> -- <col>Goods train</col>, <cd>a freight train.</cd> <mark>[Eng.]</mark> -- <col>Goods wagon</col>, <cd>a freight car <mark>[Eng.]</mark> See the Note under <er>Car</er>, <pos>n.</pos>, <snr>2</snr>.</cd></cs></p>
 </entry>
 
 <entry main-word="Good" source="1913 Webster">

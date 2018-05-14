@@ -31163,7 +31163,7 @@ Will not be <qex>rubbed</qex> nor stopped.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>To move or pass with difficulty; <as>as, to <ex>rub</ex> through woods, as huntsmen; to <ex>rub</ex> through the world</as>.</def></p>
 
-<p><cs><mcol><col>To rub along</col> or <col>on</col></mcol>, <cd>to go on with difficulty; <as>as, they manage, with strict economy, <ex>to rub along</ex></as>.</cd> <mark>[Colloq.]</mark></cs></p>
+<p><cs><col>To rub <oneof>along <or/ on</oneof></col>, <cd>to go on with difficulty; <as>as, they manage, with strict economy, <ex>to rub along</ex></as>.</cd> <mark>[Colloq.]</mark></cs></p>
 </entry>
 
 <entry main-word="Rub" source="1913 Webster">

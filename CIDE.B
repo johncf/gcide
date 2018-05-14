@@ -25378,7 +25378,7 @@ And <qex>boileth</qex> meate for them all.</q> <rj><qau>Gower.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A bolus; a dose.</def>  <rj><au>Coleridge.</au></rj></p>
 
-<p><cs><col>Armenian bole</col>. <cd>See under <er>Armenian</er>.</cd> -- <mcol><col>Bole Armoniac</col>, or <col>Armoniak</col></mcol>, <cd>Armenian bole.</cd> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
+<p><cs><col>Armenian bole</col>. <cd>See under <er>Armenian</er>.</cd> -- <col>Bole <oneof>Armoniac, <or/ Armoniak</oneof></col>, <cd>Armenian bole.</cd> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></cs></p>
 </entry>
 
 <entry main-word="Bolection" source="1913 Webster">
@@ -29583,7 +29583,7 @@ Were wont to rive steel plates and helmets hew.</q> <rj><qau>Spenser.</qau></rj>
 <entry main-word="Bower" source="1913 Webster">
 <p><hw>Bow"er</hw> <pr>(bou"<etil/r)</pr>, <pos>n.</pos> <ety>[G. <ets>bauer</ets> a peasant. So called from the figure sometimes used for the knave in cards. See <er>Boor</er>.]</ety> <def>One of the two highest cards in the pack commonly used in the game of euchre.</def></p>
 
-<p><cs><col>Right bower</col>, <cd>the knave of the trump suit, the highest card (except the <ldquo/Joker<rdquo/) in the game.</cd> -- <col>Left bower</col>, <cd>the knave of the other suit of the same color as the trump, being the next to the right bower in value.</cd> -- <mcol><col>Best bower</col> or <col>Joker</col></mcol>, <cd>in some forms of euchre and some other games, an extra card sometimes added to the pack, which takes precedence of all others as the highest card.</cd></cs></p>
+<p><cs><col>Right bower</col>, <cd>the knave of the trump suit, the highest card (except the <ldquo/Joker<rdquo/) in the game.</cd> -- <col>Left bower</col>, <cd>the knave of the other suit of the same color as the trump, being the next to the right bower in value.</cd> -- <col>Best bower</col> or <col>Joker</col>, <cd>in some forms of euchre and some other games, an extra card sometimes added to the pack, which takes precedence of all others as the highest card.</cd></cs></p>
 </entry>
 
 <entry main-word="Bower" source="1913 Webster">

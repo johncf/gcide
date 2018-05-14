@@ -5217,7 +5217,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Malt" source="1913 Webster">
 <p><hw>Malt</hw>, <pos>a.</pos> <def>Relating to, containing, or made with, malt.</def></p>
 
-<p><cs><col>Malt liquor</col>, <cd>an alcoholic liquor, as beer, ale, porter, etc., prepared by fermenting an infusion of malt.</cd> -- <col>Malt dust</col>, <cd>fine particles of malt, or of the grain used in making malt; -- used as a fertilizer.</cd> <ldquo/ <xex>Malt dust</xex> consists chiefly of the infant radicle separated from the grain.<rdquo/ <au>Sir H. Davy.</au> -- <col>Malt floor</col>, <cd>a floor for drying malt.</cd> -- <mcol><col>Malt house</col>, <or/ <col>Malthouse</col></mcol>, <cd>a house in which malt is made.</cd> -- <col>Malt kiln</col>, <cd>a heated chamber for drying malt.</cd></cs></p>
+<p><cs><col>Malt liquor</col>, <cd>an alcoholic liquor, as beer, ale, porter, etc., prepared by fermenting an infusion of malt.</cd> -- <col>Malt dust</col>, <cd>fine particles of malt, or of the grain used in making malt; -- used as a fertilizer.</cd> <ldquo/ <xex>Malt dust</xex> consists chiefly of the infant radicle separated from the grain.<rdquo/ <au>Sir H. Davy.</au> -- <col>Malt floor</col>, <cd>a floor for drying malt.</cd> -- <col>Malt house</col>, <or/ <col>Malthouse</col>, <cd>a house in which malt is made.</cd> -- <col>Malt kiln</col>, <cd>a heated chamber for drying malt.</cd></cs></p>
 </entry>
 
 <entry main-word="Malt" source="1913 Webster">
