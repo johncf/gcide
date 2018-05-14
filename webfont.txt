@@ -186,13 +186,13 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <umac/      umacr       \=u             ū   u       u macron
 <ymac/                  \=y             ȳ   y       y macron
 <aemac/                 \=\ae           ǣ   ae      ae ligature macron
-<oomac/                 \={oo}          ꝏ̄   oo      oo ligature macron
+<oomac/                 \={oo}          o͞o  oo      oo macron
 <acr/       abreve      \u{a}           ă   a       a breve
 <ecr/                   \u{e}           ĕ   e       e breve
 <icr/                   \u{i}           ĭ   i       i breve
 <ocr/                   \u{o}           ŏ   o       o breve
 <ucr/       ubreve      \u{u}           ŭ   u       u breve
-<oocr/                  \u{oo}          ꝏ̃   oo      oo breve
+<oocr/                  \u{oo}          o͝o  oo      oo breve
 <ocar/                  \v{o}           ǒ   o       o hacek
 <asl/                                   ā̇   a       a "semilong" (see Diacritics)
 <esl/                                   ē̇   e       e "semilong"
@@ -206,11 +206,14 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <rsdot/                                 ṛ   r       r with a dot below
 <tsdot/                                 ṭ   t       Sanskrit/Tamil t dot
 <usdot/                                 ụ   u       u with a dot below
+<add/                                   a̤   a       a with two dots below
+<udd/                                   ṳ   u       u with two dots below
 <nsm/                                   ṉ   n       "n sub-macron"
 <frac12/                                ½   1/2     one-half
 <frac14/                                ¼   1/4     one-quarter
 <frac13/                                ⅓   1/3     one-third
 <frac23/                                ⅔   2/3     two-thirds
+<fracAxB/                                   A/B     where A and B are integers
 <?/                                     �   (?)     Place-holder for illegible character
 <hand/                                  ☞   ->      pointing hand (printer's "fist")
 <deg/       deg                         °           degree sign
