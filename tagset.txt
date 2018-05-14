@@ -1080,19 +1080,24 @@ Tag           Font         Meaning and Description
 
 * <oneof> tag usage
 
-It may be used alongside <col> as follows:
+It may be used alongside <col> or <ecol> as follows:
 
 - <col>To be hand </col><oneof><col>and glove</col>, <or/ <col>in glove</col>,</oneof><col> with</col>
 - <col>To </col><oneof><col>lift</col>, <or/ <col>put forth</col>,</oneof><col> the hand against</col>
 
 When used alongside, it is better to leave no space in between the <oneof> and adjacent <col> tag(s).
 
-It may also be used inside <col> if any one of the words inside it can be a
-replacement for the whole thing (ignoring punctuations, brackets, and <or/):
+It may also be used inside <col> or <ecol> if any one of the words inside it
+can be a replacement for the whole thing (ignoring punctuations, brackets, as
+well as separator entities such as <or/ or <and/):
 
-- <col><oneof>Drawing, <or/ Ruling,</oneof> pen</col>
 - <col>The Debatable <oneof>Land <or/ Ground</oneof></col>
+- <col>To <oneof>be, go, <or/ run,</oneof> on all fours</col>
 - <col>Cloud on <oneof>a (<or/ the)</oneof> title</col>
+- <col><oneof>Shoulder, Pectoral, <and/ Pelvic,</oneof> girdle</col>
+- <col><oneof>King's, <or/ Queen's</oneof> counsel</col>
+- <col><oneof>Analytical <or/ co<oum/rdinate</oneof> geometry</col>
+- <ecol>Constantinian <oneof>symbol, <or/ monogram</oneof></ecol>
 
 Note: The first two examples would be *incorrect* to be written as:
 

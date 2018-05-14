@@ -3726,7 +3726,7 @@ Profaneness, filthiness, <qex>abusiveness</qex>.</q> <rj><qau>Herbert.</qau></rj
 
 <p><q>A period of social improvement, or of intellectual advancement, contains within itself a principle of <qex>acceleration</qex>.</q> <rj><qau>I. Taylor.</qau></rj></p>
 
-<p><cs><fld>(Astr. & Physics.)</fld> <col>Acceleration of the moon</col>, <cd>the increase of the moon's mean motion in its orbit, in consequence of which its period of revolution is now shorter than in ancient times.</cd> -- <mcol><col>Acceleration</col> and <col>retardation of the tides</col></mcol>. <cd>See <cref>Priming of the tides</cref>, under <er>Priming</er>.</cd> -- <col>Diurnal acceleration of the fixed stars</col>, <cd>the amount by which their apparent diurnal motion exceeds that of the sun, in consequence of which they daily come to the meridian of any place about three minutes fifty-six seconds of solar time earlier than on the day preceding.</cd> -- <col>Acceleration of the planets</col>, <cd>the increasing velocity of their motion, in proceeding from the apogee to the perigee of their orbits.</cd></cs></p>
+<p><cs><fld>(Astr. & Physics.)</fld> <col>Acceleration of the moon</col>, <cd>the increase of the moon's mean motion in its orbit, in consequence of which its period of revolution is now shorter than in ancient times.</cd> -- <col><oneof>Acceleration <and/ retardation</oneof> of the tides</col>. <cd>See <cref>Priming of the tides</cref>, under <er>Priming</er>.</cd> -- <col>Diurnal acceleration of the fixed stars</col>, <cd>the amount by which their apparent diurnal motion exceeds that of the sun, in consequence of which they daily come to the meridian of any place about three minutes fifty-six seconds of solar time earlier than on the day preceding.</cd> -- <col>Acceleration of the planets</col>, <cd>the increasing velocity of their motion, in proceeding from the apogee to the perigee of their orbits.</cd></cs></p>
 </entry>
 
 <entry main-word="Accelerative" source="1913 Webster">
@@ -3922,7 +3922,7 @@ Such words as Heaven alone is fit to hear.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><note><hand/ In modern law, <xex>proposal</xex> and <xex>acceptance</xex> are the constituent elements into which all contracts are resolved.</note></p>
 
-<p><cs><mcol><col>acceptance of a bill of exchange</col>, <col>acceptance of a check</col>, <col>acceptance of a draft</col>, <or/ <col>acceptance of an order</col></mcol>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
+<p><cs><col>Acceptance of a bill of exchange</col>, <col>Acceptance of a <oneof>check <or/ draft</oneof></col>, <col>Acceptance of an order</col>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
 
 <p><sn>6.</sn> <def>Meaning; acceptation.</def> <mark>[Obs.]</mark></p>
 
@@ -8968,7 +8968,7 @@ Free <qex>adit</qex>.</q> <rj><qau>Tennyson.</qau></rj></p>
 <entry main-word="Adjacent" source="1913 Webster">
 <p><hw>Ad*ja"cent</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[L. <ets>adjacens</ets>, <ets>-centis</ets>, p. pr. of <ets>adjacere</ets> to lie near; <ets>ad</ets> + <ets>jac<emac/re</ets> to lie: cf. F. <ets>adjacent</ets>.]</ety> <def>Lying near, close, or contiguous; neighboring; bordering on; <as>as, a field <ex>adjacent</ex> to the highway</as>.</def> <ldquo/The <xex>adjacent</xex> forest.<rdquo/  <rj><au>B. Jonson.</au></rj></p>
 
-<p><cs><mcol><col>Adjacent</col> or <col>contiguous angle</col></mcol>. <fld>(Geom.)</fld> <cd>See <er>Angle</er>.</cd></cs></p>
+<p><cs><col><oneof>Adjacent <or/ contiguous</oneof> angle</col>. <fld>(Geom.)</fld> <cd>See <er>Angle</er>.</cd></cs></p>
 
 <p source=""><syn><b>Syn.</b> -- Adjoining; contiguous; near.</syn> <usage> -- <er>Adjacent</er>, <er>Adjoining</er>, <er>Contiguous</er>. Things are <xex>adjacent</xex> when they lie close each other, not necessary in actual contact; <as>as, <ex>adjacent</ex> fields, <ex>adjacent</ex> villages, etc.</as> </p>
 
@@ -13156,7 +13156,7 @@ On hostile ground, none daring my <qex>affront</qex>.</q> <rj><qau>Milton.</qau>
 
 <p><sn>8.</sn> <def>In imitation of; in conformity with; after the manner of; <as>as, to make a thing <ex>after</ex> a model; a picture <ex>after</ex> Rubens; the boy takes <ex>after</ex> his father.</as></def></p>
 
-<p><cs><mcol><col>To name</col> or <col>call after</col></mcol>, <cd>to name like and reference to.</cd></cs></p>
+<p><cs><col>To <oneof>name, <or/ call,</oneof> after</col>, <cd>to name like and reference to.</cd></cs></p>
 
 <p><q>Our eldest son was <qex>named</qex> George <qex>after</qex> his uncle.</q> <rj><qau>Goldsmith.</qau></rj></p>
 
@@ -18321,7 +18321,7 @@ Is set apart for <qex>All Fools' Day</qex>.</q> <rj><qau>Poor Robin's Almanack (
 <entry main-word="All fours" source="1913 Webster">
 <p><hw>All` fours"</hw> <ety>[formerly, <asp>All four</asp>.]</ety> <def>All four legs of a quadruped; or the two legs and two arms of a person.</def></p>
 
-<p><cs><mcol><col>To be</col>, <col>go</col>, <or/ <col>run</col>, <col>on all fours</col></mcol> (Fig.), <cd>to be on the same footing; to correspond (<xex>with</xex>) exactly; to be alike in all the circumstances to be considered.</cd>  <ldquo/This example <xex>is on all fours</xex> with the other.<rdquo/  <ldquo/No simile can <xex>go on all fours</xex>.<rdquo/  <au>Macaulay.</au></cs></p>
+<p><cs><col>To <oneof>be, go, <or/ run,</oneof> on all fours</col> (Fig.), <cd>to be on the same footing; to correspond (<xex>with</xex>) exactly; to be alike in all the circumstances to be considered.</cd>  <ldquo/This example <xex>is on all fours</xex> with the other.<rdquo/  <ldquo/No simile can <xex>go on all fours</xex>.<rdquo/  <au>Macaulay.</au></cs></p>
 </entry>
 
 <entry main-word="All hail" source="1913 Webster">
@@ -24025,20 +24025,18 @@ To run <qex>amuck</qex>, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj></
 </entry>
 
 <entry main-word="Analytic" source="1913 Webster">
-<p><mhw>{ <hw>An`a*lyt"ic</hw> <pr>(<?/)</pr>, <hw>An`a*lyt"ic*al</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/: cf. F. <ets>analytique</ets>. See <er>Analysis</er>.]</ety> <def>Of or pertaining to analysis; resolving into elements or constituent parts; <as>as, an <ex>analytical</ex> experiment</as>; -- opposed to <contr>synthetic</contr>.</def></p>
+<p><mhw>{ <hw>An`a*lyt"ic</hw> <pr>(<?/)</pr>, <hw>An`a*lyt"ic*al</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/: cf. F. <ets>analytique</ets>. See <er>Analysis</er>.]</ety> <def>Of or pertaining to analysis; resolving into elements or constituent parts; <as>as, an <ex>analytical</ex> experiment; <ex>analytic</ex> reasoning</as>; -- opposed to <contr>synthetic</contr>.</def></p>
+
+<p><cs><col><oneof>Analytical <or/ co<oum/rdinate</oneof> geometry</col>. <cd>See under <er>Geometry</er>.</cd> -- <col>Analytic language</col>, <cd>a noninflectional language or one not characterized by grammatical endings.</cd> -- <col>Analytical table</col> <fld>(Nat. Hist.)</fld>, <cd>a table in which the characteristics of the species or other groups are arranged so as to facilitate the determination of their names.</cd></cs></p>
 </entry>
 
 <entry main-word="analytical" source="WordNet 1.5">
-<p><hw>analytical</hw> <pos>adj.</pos> <sn>1.</sn>  <def>of or pertaining to analysis (definition 2).</def></p>
+<p><hw>analytical</hw> <pos>a.</pos> <p><sn>1.</sn>  <fld>(Logic)</fld> <def>of a proposition; necessarily true independent of fact or experience, such as <ldquo/all spinsters are unmarried<rdquo/.  Opposite of <ant>synthetic</ant>.</def> <see>Also See: <er>a priori</er>, <er>deductive,</er> <er>logical</er>.</see></p>
 
-<p><sn>2.</sn>  <fld>(Logic)</fld> <def>of a proposition; necessarily true independent of fact or experience, such as <ldquo/all spinsters are unmarried<rdquo/.  Opposite of <ant>synthetic</ant>.</def> <see>Also See: <er>a priori</er>, <er>deductive,</er> <er>logical</er>.</see></p>
-
-<p><sn>3.</sn> <fr>1</fr>  <def>exercising or involving careful analytical evaluations; <as>as, <ex>analytic</ex> reasoning; an <ex>analytical</ex> discussion</as>.</def><br/
+<p><sn>2.</sn> <fr>1</fr>  <def>exercising or involving careful analytical evaluations; <as>as, <ex>analytic</ex> reasoning; an <ex>analytical</ex> discussion</as>.</def><br/
 <syn><b>Syn. --</b> appraising(prenominal), evaluative.</syn></p>
 
-<p><sn>4.</sn> <def>capable of or given to analyzing; -- of people.</def> <illu>an <ex>analytical</ex> mind</illu></p>
-
-<p source="1913 Webster"><cs><mcol><col>Analytical geometry</col> or <col>co<oum/rdinate geometry</col></mcol>. <cd>See under <er>Geometry</er>.</cd> -- <col>Analytic language</col>, <cd>a noninflectional language or one not characterized by grammatical endings.</cd> -- <col>Analytical table</col> <fld>(Nat. Hist.)</fld>, <cd>a table in which the characteristics of the species or other groups are arranged so as to facilitate the determination of their names.</cd></cs></p>
+<p><sn>3.</sn> <def>capable of or given to analyzing; -- of people.</def> <illu>an <ex>analytical</ex> mind</illu></p>
 </entry>
 
 <entry main-word="Analytically" source="1913 Webster">
@@ -26202,7 +26200,7 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Anharmonic" source="1913 Webster">
 <p><hw>An`har*mon"ic</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[F. <ets>anharmonique</ets>, fr. Gr. <grk>'an</grk> priv. + <?/ harmonic.]</ety> <fld>(Math.)</fld> <def>Not harmonic.</def></p>
 
-<p><cs><mcol>The <col>anharmonic function</col> or <col>anharmonic ratio</col></mcol> of four points <xex>abcd</xex> on a straight line is <cd>the quantity <mathex>(<ratio>ac/ad</ratio>):(<ratio>bc/bd</ratio>)</mathex>, where the segments are to be regarded as plus or minus, according to the order of the letters.</cd></cs></p>
+<p><note>The <ecol>anharmonic <oneof>function <or/ ratio</oneof></ecol> of four points <xex>abcd</xex> on a straight line is the quantity <mathex><fract>ac/ad</fract>:<fract>bc/bd</fract></mathex>, where the segments are to be regarded as plus or minus, according to the order of the letters.</note></p>
 </entry>
 
 <entry main-word="Anhelation" source="1913 Webster">
@@ -43566,7 +43564,7 @@ Betwixt the Duke of Gloucester and your brothers.</q> <rj><qau>Shak.</qau></rj><
 
 <p><sn>2.</sn> <def>Melancholic or hypohondriac; atrabilious; -- from the supposed predominance of black bile, to the influence of which the ancients attributed hypochondria, melancholy, and mania.</def></p>
 
-<p><cs><mcol><col>Atrabiliary arteries</col>, <col>capsules</col>, and <col>veins</col></mcol> <fld>(Anat.)</fld>, <cd>those pertaining to the kidney; -- called also <xex>renal</xex> arteries, capsules, and veins.</cd></cs></p>
+<p><cs><col>Atrabiliary arteries, capsules, and veins</col> <fld>(Anat.)</fld>, <cd>those pertaining to the kidney; -- called also <xex>renal</xex> arteries, capsules, and veins.</cd></cs></p>
 </entry>
 
 <entry main-word="Atrabilious" source="1913 Webster">

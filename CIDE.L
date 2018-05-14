@@ -1037,8 +1037,6 @@ I think it <qex>lacks</qex> of twelve.</q> <rj><qau>Shak.</qau></rj></p>
 
 <entry main-word="Lactam" source="1913 Webster">
 <p><hw>Lac"tam</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Lact</ets>one + <ets>ami</ets>do.]</ety> <fld>(Chem.)</fld> <def>One of a series of anhydrides of an amido type, analogous to the lactones, as oxindol; a cyclic amide.</def></p>
-
-<p source="PJC"><cs><mcol><col>beta-lactam</col> <or/ <col><beta/-lactam</col></mcol>, <sd>(a)</sd> <cd>a lactam in which the amide bond is contained within a four-membered ring, which includes the amide nitrogen and the carbonyl carbon.</cd> <sd>(b)</sd> <cd>an antibiotic containing a beta-lactam, such as a <stype>penicillin</stype>, <stype>cephalosporin</stype>, or <stype>carbapenem</stype>; also called a <altname>beta-lactam antibiotic</altname>.</cd> <mark>[informal, laboratory slang]</mark></cs></p>
 </entry>
 
 <entry main-word="Lactamic" source="1913 Webster">

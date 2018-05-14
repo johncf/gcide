@@ -24744,7 +24744,7 @@ With a bare <qex>bodkin</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>5.</sn> <def>A kind of pin used by women to fasten the hair.</def></p>
 
-<p><cs><mcol><col>To sit</col>, <col>ride</col>, or <col>travel bodkin</col></mcol>, <cd>to sit closely wedged between two persons.</cd> <mark>[Colloq.]</mark>  <rj><au>Thackeray.</au></rj></cs></p>
+<p><cs><col>To <oneof>sit, ride, <or/ travel</oneof> bodkin</col>, <cd>to sit closely wedged between two persons.</cd> <mark>[Colloq.]</mark>  <rj><au>Thackeray.</au></rj></cs></p>
 </entry>
 
 <entry main-word="Bodkin" source="1913 Webster">

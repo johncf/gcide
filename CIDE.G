@@ -8496,7 +8496,7 @@ Hung at his girdle, white as morn<eacute/ milk.</q> <rj><qau>Chaucer.</qau></rj>
 
 <p><sn>5.</sn> <fld>(Zool.)</fld> <def>The clitellus of an earthworm.</def></p>
 
-<p><cs><col>Girdle bone</col> <fld>(Anat.)</fld>, <cd>the sphenethmoid. See under <er>Sphenethmoid</er>.</cd> -- <col>Girdle wheel</col>, <cd>a spinning wheel.</cd> -- <col>Sea girdle</col> <fld>(Zool.)</fld>, <cd>a ctenophore. See <cref>Venus's girdle</cref>, under <er>Venus</er>.</cd> -- <mcol><col>Shoulder</col>, <col>Pectoral</col>, <and/ <col>Pelvic</col>, <col>girdle</col></mcol>. <fld>(Anat.)</fld> <cd>See under <er>Pectoral</er>, and <er>Pelvic</er>.</cd> -- <col>To have under the girdle</col>, <cd>to have bound to one, that is, in subjection.</cd></cs></p>
+<p><cs><col>Girdle bone</col> <fld>(Anat.)</fld>, <cd>the sphenethmoid. See under <er>Sphenethmoid</er>.</cd> -- <col>Girdle wheel</col>, <cd>a spinning wheel.</cd> -- <col>Sea girdle</col> <fld>(Zool.)</fld>, <cd>a ctenophore. See <cref>Venus's girdle</cref>, under <er>Venus</er>.</cd> -- <col><oneof>Shoulder, Pectoral, <and/ Pelvic,</oneof> girdle</col>. <fld>(Anat.)</fld> <cd>See under <er>Pectoral</er>, and <er>Pelvic</er>.</cd> -- <col>To have under the girdle</col>, <cd>to have bound to one, that is, in subjection.</cd></cs></p>
 </entry>
 
 <entry main-word="Girdle" source="1913 Webster">

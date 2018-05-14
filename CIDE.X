@@ -434,7 +434,7 @@
 </entry>
 
 <entry main-word="XP" source="Webster 1913 Suppl.">
-<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <col>Constantinian symbol</col>, or <col>monogram</col>. See <er>Labarum</er>.</def></p>
+<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <ecol>Constantinian <oneof>symbol, <or/ monogram</oneof></ecol>. See <er>Labarum</er>.</def></p>
 </entry>
 
 <entry main-word="x-rated" source="PJC">
