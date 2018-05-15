@@ -18654,7 +18654,7 @@ Shall I be frighted when a madman stares?</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Irregular; changeable.</def> <ldquo/<xex>Erratic</xex> fever.<rdquo/  <rj><au>Harvey.</au></rj></p>
 
-<p><cs><mcol><col>Erratic blocks</col>, <col>gravel, etc.</col></mcol> <fld>(Geol.)</fld>, <cd>masses of stone which have been transported from their original resting places by the agency of water, ice, or other causes.</cd> -- <col>Erratic phenomena</col>, <cd>the phenomena which relate to transported materials on the earth's surface.</cd></cs></p>
+<p><cs><col>Erratic <oneof>blocks, gravel,</oneof></col> etc. <fld>(Geol.)</fld>, <cd>masses of stone which have been transported from their original resting places by the agency of water, ice, or other causes.</cd> -- <col>Erratic phenomena</col>, <cd>the phenomena which relate to transported materials on the earth's surface.</cd></cs></p>
 </entry>
 
 <entry main-word="Erratic" source="1913 Webster">

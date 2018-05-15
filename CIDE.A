@@ -3922,7 +3922,7 @@ Such words as Heaven alone is fit to hear.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><note><hand/ In modern law, <xex>proposal</xex> and <xex>acceptance</xex> are the constituent elements into which all contracts are resolved.</note></p>
 
-<p><cs><col>Acceptance of a bill of exchange</col>, <col>Acceptance of a <oneof>check <or/ draft</oneof></col>, <col>Acceptance of an order</col>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
+<p><cs><col>Acceptance of a <oneof><c>bill of exchange</c>, <c>check</c>, <or/ <c>draft</c></oneof></col>, <col>Acceptance of an order</col>, <cd>is an engagement to pay it according to the terms. This engagement is usually made by writing the word <ldquo/accepted<rdquo/ across the face of the bill.</cd>  <col>Acceptance of goods</col>, <cd>under the statute of frauds, is an intelligent acceptance by a party knowing the nature of the transaction.</cd></cs></p>
 
 <p><sn>6.</sn> <def>Meaning; acceptation.</def> <mark>[Obs.]</mark></p>
 
@@ -24027,7 +24027,7 @@ To run <qex>amuck</qex>, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj></
 <entry main-word="Analytic" source="1913 Webster">
 <p><mhw>{ <hw>An`a*lyt"ic</hw> <pr>(<?/)</pr>, <hw>An`a*lyt"ic*al</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/: cf. F. <ets>analytique</ets>. See <er>Analysis</er>.]</ety> <def>Of or pertaining to analysis; resolving into elements or constituent parts; <as>as, an <ex>analytical</ex> experiment; <ex>analytic</ex> reasoning</as>; -- opposed to <contr>synthetic</contr>.</def></p>
 
-<p><cs><col><oneof>Analytical <or/ co<oum/rdinate</oneof> geometry</col>. <cd>See under <er>Geometry</er>.</cd> -- <col>Analytic language</col>, <cd>a noninflectional language or one not characterized by grammatical endings.</cd> -- <col>Analytical table</col> <fld>(Nat. Hist.)</fld>, <cd>a table in which the characteristics of the species or other groups are arranged so as to facilitate the determination of their names.</cd></cs></p>
+<p><cs><col><oneof><c>Analytical</c> <or/ <c>co<oum/rdinate</c></oneof> geometry</col>. <cd>See under <er>Geometry</er>.</cd> -- <col>Analytic language</col>, <cd>a noninflectional language or one not characterized by grammatical endings.</cd> -- <col>Analytical table</col> <fld>(Nat. Hist.)</fld>, <cd>a table in which the characteristics of the species or other groups are arranged so as to facilitate the determination of their names.</cd></cs></p>
 </entry>
 
 <entry main-word="analytical" source="WordNet 1.5">
