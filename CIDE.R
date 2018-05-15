@@ -3229,12 +3229,11 @@ The whirring chariot.</q> <rj><qau>Chapman.</qau></rj></p>
 </entry>
 
 <entry main-word="Rape" source="1913 Webster">
-<p><hw>Rape</hw>, <pos>n.</pos> <ety>[Akin to <ets>rap</ets> to snatch, but confused with L. <ets>rapere</ets>. See <er>Rap</er> to snatch.]</ety> <sn>1.</sn> <def>The act of seizing and carrying away by force; violent seizure; robbery.</def><-- [Rare] --></p>
+<p><hw>Rape</hw>, <pos>n.</pos> <ety>[Akin to <ets>rap</ets> to snatch, but confused with L. <ets>rapere</ets>. See <er>Rap</er> to snatch.]</ety> <sn>1.</sn> <def>The act of seizing and carrying away by force; violent seizure; robbery.</def></p>
 
 <p><q>And ruined orphans of thy <qex>rapes</qex> complain.</q> <rj><qau>Sandys.</qau></rj></p>
 
-<p><sn>2.</sn> <fld>(Law)</fld> <def>Sexual connection with a woman without her consent. See <cref>Age of consent</cref>, under <er>Consent</er>, <pos>n.</pos></def>
-<-- (b) Any sexual intercourse forced on a person, whether male or female (also called forcible rape, or sexual assault, and sometimes, as a euphemism, criminal assault); Any sexual intercourse performed with a person who is under the age of consent, whether male or female, is <cref>statutory rape</cref>. --></p>
+<p><sn>2.</sn> <fld>(Law)</fld> <sd>(a)</sd> <def>Sexual connection with a woman without her consent. See <cref>Age of consent</cref>, under <er>Consent</er>, <pos>n.</pos></def> <extra source="PJC"><sd>(b)</sd> <def>Sexual intercourse forced on a person, whether male or female (also called <altname>sexual assault</altname>). Any sexual activity performed with a person who is under the age of consent, is <ecol>statutory rape</ecol>.</def></extra></p>
 
 <p><sn>3.</sn> <def>That which is snatched away.</def> <mark>[Obs.]</mark></p>
 

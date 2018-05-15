@@ -2968,8 +2968,8 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <syn><b>Syn. --</b> kinesthesis, kinaesthesis, kinesthesia, kinaesthesia, muscle sense, sense of movement.</syn></p>
 </entry>
 
-<entry main-word="kinetic" source="1913 Webster">
-<p><hw>ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/*n<ecr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def></p>
+<entry main-word="Kinetic" source="1913 Webster">
+<p><hw>Ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/-)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def></p>
 
 <p><cs><col>Kinetic energy</col>. <cd>See <er>Energy</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs></p>
 </entry>

@@ -6910,13 +6910,13 @@ White and polished very smoothly.</q> <rj><qau>Longfellow.</qau></rj></p>
 
 <p><sn>1.</sn> <def>A large stick; a club; specifically, a piece of wood with one end thicker or broader than the other, used in playing baseball, cricket, etc.</def></p>
 
-<p source="Webster 1913 Suppl."><sn>2.</sn> <def>In badminton, tennis, and similar games, a racket.</def></p>
+<p><sn>2.</sn> <fld>(Mining)</fld> <def>Shale or bituminous shale.</def>  <rj><au>Kirwan.</au></rj></p>
 
 <p><sn>3.</sn> <def>A sheet of cotton used for filling quilts or comfortables; batting.</def></p>
 
-<p source="1913 Webster;;PJC"><sn>4.</sn> <def>A part of a brick with one whole end; a brickbat.</def></p>
+<p><sn>4.</sn> <def>A part of a brick with one whole end. <extra source="JCF">See <er>Brickbat</er>.</extra></def></p>
 
-<p><sn>5.</sn> <fld>(Mining)</fld> <def>Shale or bituminous shale.</def>  <rj><au>Kirwan.</au></rj></p>
+<p source="Webster 1913 Suppl."><sn>5.</sn> <def>In badminton, tennis, and similar games, a racket.</def></p>
 
 <p source="Webster 1913 Suppl."><sn>6.</sn>  <def>A stroke; a sharp blow.</def> <mark>[Colloq. or Slang]</mark></p>
 
@@ -17000,10 +17000,10 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 <p><mhw>{ <hw>Bill"post`er</hw> <pr>(<?/)</pr>, <hw>Bill"stick"er</hw> <pr>(<?/)</pr>, }</mhw> <pos>n.</pos> <def>One whose occupation is to post handbills or posters in public places.</def></p>
 </entry>
 
-<entry main-word="Billy" source="1913 Webster;;PJC">
-<p><hw>Bil"ly</hw> <pr>(<?/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A club; esp., a policeman's club.  Also called <altname>billy club</altname></def></p>
+<entry main-word="Billy" source="1913 Webster">
+<p><hw>Bil"ly</hw> <pr>(b<icr/l"l<ycr/)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A club; esp., a policeman's club. <extra source="PJC">Also called <altname>billy club</altname>.</extra></def></p>
 
-<p source="1913 Webster"><sn>2.</sn> <fld>(Wool Manuf.)</fld> <def>A slubbing or roving machine.</def></p>
+<p><sn>2.</sn> <fld>(Wool Manuf.)</fld> <def>A slubbing or roving machine.</def></p>
 </entry>
 
 <entry main-word="Billycock" source="1913 Webster">

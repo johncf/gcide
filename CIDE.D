@@ -39188,8 +39188,8 @@ That, like a wounded snake, <qex>drags</qex> its slow length along.</q> <rj><qau
 <p><hw>Drag"o*man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dragomans</plw> <pr>(#)</pr>.</plu> <ety>[From F. <ets>dragoman</ets>, or Sp. <ets>dragoman</ets>, or It. <ets>dragomanno</ets>; all fr. LGr. <?/, Ar. <ets>tarjum<amac/n</ets>, from the same source as E. <ets>targum</ets>.  Cf. <er>Drogman</er>, <er>Truchman</er>.]</ety> <def>An interpreter; -- so called in the Levant and other parts of the East.</def></p>
 </entry>
 
-<entry main-word="dragon" source="1913 Webster">
-<p><hw>drag"on</hw> <pr>(dr<acr/g"<ucr/n)</pr>, <pos>n.</pos> <ety>[F. <ets>dragon</ets>, L. <ets>draco</ets>, fr. Gr. <grk>dra`kwn</grk>, prob. fr. <grk>de`rkesqai</grk>, <grk>dra`kein</grk>, to look (akin to Skr. <ets>dar<cced/</ets> to see), and so called from its terrible eyes.  Cf. <er>Drake</er> a dragon, <er>Dragoon</er>.]</ety> <sn>1.</sn> <fld>(Myth.)</fld> <def>A fabulous animal, generally represented as a monstrous winged serpent or lizard, with a crested head and enormous claws, and regarded as very powerful and ferocious.</def></p>
+<entry main-word="Dragon" source="1913 Webster">
+<p><hw>Drag"on</hw> <pr>(dr<acr/g"<ucr/n)</pr>, <pos>n.</pos> <ety>[F. <ets>dragon</ets>, L. <ets>draco</ets>, fr. Gr. <grk>dra`kwn</grk>, prob. fr. <grk>de`rkesqai</grk>, <grk>dra`kein</grk>, to look (akin to Skr. <ets>dar<cced/</ets> to see), and so called from its terrible eyes.  Cf. <er>Drake</er> a dragon, <er>Dragoon</er>.]</ety> <sn>1.</sn> <fld>(Myth.)</fld> <def>A fabulous animal, generally represented as a monstrous winged serpent or lizard, with a crested head and enormous claws, and regarded as very powerful and ferocious.</def></p>
 
 <p><q>The <qex>dragons</qex> which appear in early paintings and sculptures are invariably representations of a winged crocodile.</q> <rj><qau>Fairholt.</qau></rj></p>
 
