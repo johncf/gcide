@@ -17194,7 +17194,7 @@ Where they were wont to do.</q> <rj><qau>Coleridge.</qau></rj></p>
 
 <p><q>The word must cousin be to the <qex>working</qex>.</q> <rj><qau>Chaucer.</qau></rj></p>
 
-<p><cs><col>Working beam</col>. <cd>See <er>Beam</er>, <pos>n.</pos> 10.</cd> -- <col>Working class</col>, <cd>the class of people who are engaged in manual labor, or are dependent upon it for support; laborers; operatives; -- chiefly used in the plural.</cd> -- <col>Working day</col>. <cd>See under <er>Day</er>, <pos>n.</pos></cd> -- <col>Working drawing</col>, <cd>a drawing, as of the whole or part of a structure, machine, etc., made to a scale, and intended to be followed by the workmen. Working drawings are either <xex>general</xex> or <xex>detail</xex> drawings.</cd> -- <col>Working house</col>, <cd>a house where work is performed; a workhouse.</cd> -- <col>Working point</col> <fld>(Mach.)</fld>, <cd>that part of a machine at which the effect required; the point where the useful work is done.</cd></cs></p>
+<p><cs><col>Working beam</col>. <cd>See <er>Beam</er>, <pos>n.</pos>, <snr>10</snr>.</cd> -- <col>Working class</col>, <cd>the class of people who are engaged in manual labor, or are dependent upon it for support; laborers; operatives; -- chiefly used in the plural.</cd> -- <col>Working day</col>. <cd>See under <er>Day</er>, <pos>n.</pos></cd> -- <col>Working drawing</col>, <cd>a drawing, as of the whole or part of a structure, machine, etc., made to a scale, and intended to be followed by the workmen. Working drawings are either <xex>general</xex> or <xex>detail</xex> drawings.</cd> -- <col>Working house</col>, <cd>a house where work is performed; a workhouse.</cd> -- <col>Working point</col> <fld>(Mach.)</fld>, <cd>that part of a machine at which the effect required; the point where the useful work is done.</cd></cs></p>
 </entry>
 
 <entry main-word="Working-day" source="1913 Webster">
@@ -17457,7 +17457,7 @@ Your color faded.</q> <rj><qau>Herbert.</qau></rj></p>
 
 <p><q>They . . . <qex>wormed</qex> things out of me that I had no desire to tell.</q> <rj><qau>Dickens.</qau></rj></p>
 
-<p><sn>2.</sn> <def>To clean by means of a worm; to draw a wad or cartridge from, as a firearm.  See <er>Worm</er>, <pos>n.</pos> 5 <sdr>(b)</sdr>.</def></p>
+<p><sn>2.</sn> <def>To clean by means of a worm; to draw a wad or cartridge from, as a firearm.  See <er>Worm</er>, <pos>n.</pos> <snr>5</snr> <sdr>(b)</sdr>.</def></p>
 
 <p><sn>3.</sn> <def>To cut the worm, or lytta, from under the tongue of, as a dog, for the purpose of checking a disposition to gnaw. The operation was formerly supposed to guard against canine madness.</def></p>
 

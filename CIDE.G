@@ -15301,7 +15301,7 @@ and subordinate stages.</q> <rj><qau>Tatham.</qau></rj></p>
 </entry>
 
 <entry main-word="Grafting" source="1913 Webster">
-<p><hw>Graft"ing</hw> <pos>n.</pos> 1. <fld>(Hort.)</fld> The act, art, or process of inserting grafts.</p>
+<p><hw>Graft"ing</hw> <pos>n.</pos> <sn>1.</sn> <fld>(Hort.)</fld> The act, art, or process of inserting grafts.</p>
 
 <p><sn>2.</sn> <fld>(Naut.)</fld> <def>The act or method of weaving a cover for a ring, rope end, etc.</def></p>
 

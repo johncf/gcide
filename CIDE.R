@@ -3249,7 +3249,7 @@ Shall they revive! nor death her <qex>rapes</qex> restore.</q> <rj><qau>Sandys.<
 <entry main-word="Rape" source="1913 Webster">
 <p><hw>Rape</hw>, <pos>v. t.</pos> <sn>1.</sn> <def>To commit rape upon; to ravish.</def></p>
 
-<p source="PJC"><sn>2.</sn> <mark>(Fig., Colloq.)</mark> <def>To perform an action causing results harmful or very unpleasant to a person or thing; <as>as, women <ex>raped</ex> first by their assailants, and then by the Justice system.</as>  Corresponds to 2nd <er>rape</er>, <pos>n.</pos> 5.</def></p>
+<p source="PJC"><sn>2.</sn> <mark>(Fig., Colloq.)</mark> <def>To perform an action causing results harmful or very unpleasant to a person or thing; <as>as, women <ex>raped</ex> first by their assailants, and then by the Justice system.</as>  Corresponds to 2nd <er>rape</er>, <pos>n.</pos>, <snr>5</snr>.</def></p>
 
 <p><cs><col>To rape and ren</col>. <cd>See under <er>Rap</er>, <pos>v. t.</pos>, to snatch.</cd></cs></p>
 </entry>
@@ -12112,7 +12112,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>5.</sn> <def>A lid, stopper, or sliding plate, in a furnace, stove, etc., for regulating the admission of air to the fuel; also, an arrangement containing dampers or shutters, as in the floor or wall of a room or passage, or in a chimney, for admitting or excluding heated air, or for regulating ventilation.</def></p>
 
-<p><sn>6.</sn> <fld>(Print.)</fld> <sd>(a)</sd> <def>The inner part of the mold in which types are cast.</def> <sd>(b)</sd> <def>The correspondence of pages, columns, or lines on the opposite or reverse sides of the sheet.</def> <sd>(c)</sd> <def>The correspondence or adjustment of the several impressions in a design which is printed in parts, as in chromolithographic printing, or in the manufacture of paper hangings. See <er>Register</er>, <pos>v. i.</pos> 2.</def></p>
+<p><sn>6.</sn> <fld>(Print.)</fld> <sd>(a)</sd> <def>The inner part of the mold in which types are cast.</def> <sd>(b)</sd> <def>The correspondence of pages, columns, or lines on the opposite or reverse sides of the sheet.</def> <sd>(c)</sd> <def>The correspondence or adjustment of the several impressions in a design which is printed in parts, as in chromolithographic printing, or in the manufacture of paper hangings. See <er>Register</er>, <pos>v. i.</pos>, <snr>2</snr>.</def></p>
 
 <p><sn>7.</sn> <fld>(Mus.)</fld> <sd>(a)</sd> <def>The compass of a voice or instrument; a specified portion of the compass of a voice, or a series of vocal tones of a given compass; <as>as, the upper, middle, or lower <ex>register</ex>; the soprano <ex>register</ex>; the tenor <ex>register</ex></as>.</def></p>
 

@@ -7031,7 +7031,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj></p
 
 <p><sn>6.</sn> <fld>(Masonry)</fld> <def>That end of a stone or brick which is presented outward.</def>  <rj><au>Knight.</au></rj></p>
 
-<p><cs><col>Heading course</col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> 3 <sdr>(a)</sdr>.</cd> -- <col>Heading joint</col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs></p>
+<p><cs><col>Heading course</col> <fld>(Arch.)</fld>, <cd>a course consisting only of headers. See <er>Header</er>, <pos>n.</pos> <snr>3</snr> <sdr>(a)</sdr>.</cd> -- <col>Heading joint</col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>A joint, as of two or more boards, etc., at right angles to the grain of the wood.</cd> <sd>(b)</sd> <fld>(Masonry)</fld> <cd>A joint between two roussoirs in the same course.</cd></cs></p>
 </entry>
 
 <entry main-word="head-in-the-clouds" source="WordNet 1.5">

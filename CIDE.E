@@ -22259,7 +22259,7 @@ Answered <qex>evasive</qex> of the sly request.</q> <rj><qau>Pope.</qau></rj></p
 </entry>
 
 <entry main-word="Even" source="1913 Webster">
-<p><hw>E"ven</hw> <pr>(<emac/v"'n)</pr> <pos>n.</pos> <ety>[OE. <ets>eve</ets>, <ets>even</ets>, <ets>efen</ets>, <ets><ae/fen</ets>. AS. <ets><aemac/fen</ets>; akin to OS. <ets><amac/band</ets>, OFries, <ets><amac/vend</ets>, D. <ets>avond</ets>, OHG. <ets><amac/band</ets>, Icel. <ets>aptan</ets>, Sw. <ets>afton</ets>, Dan. <ets>aften</ets>; of unknown origin.  Cf. <er>Eve</er>, <er>Evening</er>.]</ety> <def>Evening. See <er>Eve</er>, <pos>n.</pos> 1.</def> <mark>[Poetic.]</mark>  <rj><au>Shak.</au></rj></p>
+<p><hw>E"ven</hw> <pr>(<emac/v"'n)</pr> <pos>n.</pos> <ety>[OE. <ets>eve</ets>, <ets>even</ets>, <ets>efen</ets>, <ets><ae/fen</ets>. AS. <ets><aemac/fen</ets>; akin to OS. <ets><amac/band</ets>, OFries, <ets><amac/vend</ets>, D. <ets>avond</ets>, OHG. <ets><amac/band</ets>, Icel. <ets>aptan</ets>, Sw. <ets>afton</ets>, Dan. <ets>aften</ets>; of unknown origin.  Cf. <er>Eve</er>, <er>Evening</er>.]</ety> <def>Evening. See <er>Eve</er>, <pos>n.</pos>, <snr>1</snr>.</def> <mark>[Poetic.]</mark>  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Even" source="1913 Webster">

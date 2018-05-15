@@ -2971,7 +2971,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="kinetic" source="1913 Webster">
 <p><hw>ki*net"ic</hw> <pr>(k<icr/*n<ecr/t"<icr/k <or/ k<isl/*n<ecr/t"<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>kinhtiko`s</grk>, from <grk>kinei^n</grk> to move.]</ety> <fld>(Physics)</fld> <def>Moving or causing motion; motory; active, as opposed to latent.</def></p>
 
-<p><cs><col>Kinetic energy</col>. <cd>See <er>Energy</er>, <pos>n.</pos> 4.</cd></cs></p>
+<p><cs><col>Kinetic energy</col>. <cd>See <er>Energy</er>, <pos>n.</pos>, <snr>4</snr>.</cd></cs></p>
 </entry>
 
 <entry main-word="kinetics" source="1913 Webster">

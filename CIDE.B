@@ -17006,10 +17006,6 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 <p source="1913 Webster"><sn>2.</sn> <fld>(Wool Manuf.)</fld> <def>A slubbing or roving machine.</def></p>
 </entry>
 
-<entry main-word="Billy club" source="PJC">
-<p><hw>Bil"ly club`</hw>, <pos>n.</pos> <def>see <er>billy</er>, <pos>n.</pos> 1.</def></p>
-</entry>
-
 <entry main-word="Billycock" source="1913 Webster">
 <p><mhw>{ <hw>Bil"ly*cock</hw> <pr>(?)</pr>, <pos>n.</pos>, <or/ <hw>Bil"ly*cock hat`</hw> <pr>(?)</pr> }</mhw>. <ety>[Perh. from <ets>bully</ets> + <ets>cock</ets>; that is, cocked like the hats of the bullies.]</ety> <def>A round, low-crowned felt hat; a wideawake.</def> <ldquo/The undignified <xex>billycocks</xex> and pantaloons of the West.<rdquo/  <rj><au>B. H. Chamberlain.</au></rj></p>
 
@@ -32323,7 +32319,7 @@ Set forth with numerous <qex>breaks</qex> and dashes.</q> <rj><qau>Swift.</qau><
 
 <p><sn>6.</sn> <def>A large four-wheeled carriage, having a straight body and calash top, with the driver's seat in front and the footman's behind.</def></p>
 
-<p><sn>7.</sn> <def>A device for checking motion, or for measuring friction. See <er>Brake</er>, <pos>n.</pos> 9 & 10.</def></p>
+<p><sn>7.</sn> <def>A device for checking motion, or for measuring friction. See <er>Brake</er>, <pos>n.</pos>, <snr>9</snr> & <snr>10</snr>.</def></p>
 
 <p><sn>8.</sn> <fld>(Teleg.)</fld> <def>See <er>Commutator</er>.</def></p>
 </entry>
@@ -33528,7 +33524,7 @@ On that which <qex>breeds</qex> between them.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Brickbat" source="1913 Webster">
-<p><hw>Brick"bat`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A piece or fragment of a brick. See 1st <er>Bat</er>, <pos>n.</pos> 4.</def>  <rj><au>Bacon.</au></rj></p>
+<p><hw>Brick"bat`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A piece or fragment of a brick. See 1st <er>Bat</er>, <snr>4</snr>.</def>  <rj><au>Bacon.</au></rj></p>
 </entry>
 
 <entry main-word="Brickellia" source="WordNet 1.5">
