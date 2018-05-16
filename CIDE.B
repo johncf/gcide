@@ -1176,7 +1176,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>4.</sn> <def>an accumulation, overflow, or reverse flow (in traffic or a liquid flow system) caused by a stoppage or other malfunction.</def></p>
 
-<p><sn>5.</sn> <fld>(Computers)</fld> <def>A copy of a program or data from a computer onto a data-storage medium, usually one that may be removed to safe storage at a distance from the computer; it is used to preserve data for use in the contingency that the original data on the computer may be lost or become unusable.  A backup that is removed from the building housing the computer system (to provide protection against loss of data in a disastrous event such as a fire) is called <styp><ecol>off-site backup</ecol></styp>.  Also used attributively; <as>as, <ex>backup</ex> copy</as>.</def></p>
+<p><sn>5.</sn> <fld>(Computers)</fld> <def>A copy of a program or data from a computer onto a data-storage medium, usually one that may be removed to safe storage at a distance from the computer; it is used to preserve data for use in the contingency that the original data on the computer may be lost or become unusable.  A backup that is removed from the building housing the computer system (to provide protection against loss of data in a disastrous event such as a fire) is called <stypec>off-site backup</stypec>.  Also used attributively; <as>as, <ex>backup</ex> copy</as>.</def></p>
 
 <p><sn>6.</sn> <fld>(Computers)</fld> <def>The act or process of creating a backup{5}; <as>as, they performed a full system <ex>backup</ex> every weekend</as>.</def></p>
 </entry>
@@ -1372,7 +1372,7 @@ Works edited by Ellis, Spedding, and Heath (7 vols. 1857); Life by Spedding
 </entry>
 
 <entry main-word="bacteriophage" source="PJC">
-<p><hw>bacteriophage</hw> <pos>n. sing. & pl.</pos> <def>a virus which infects bacteria; -- also colloquially called <altname>phage</altname> in laboratory jargon.</def> <note>Bacteriophages are of many varieties, generally specific for one or a narrow range of bacterial species, and almost every bacterium is susceptible to at least one bacteriophage.  They may have DNA or RNA as their genetic component.  Certain types of bacteriophage, called <styp><col>temperate bacteriophage</col></styp>, may infect but not kill their host bacteria, residing in and replicating either as a plasmid or integrated into the host genome.  Under certain conditions, a resident temperate phage may become induced to multiply rapidly and vegetatively, killing and lysing its host bacterium, and producing multiple progeny.  The <stype>lambda phage</stype> of <spn>Eschericia coli</spn>, much studied in biochemical and genetic research, is of the temperate type.</note></p>
+<p><hw>bacteriophage</hw> <pos>n. sing. & pl.</pos> <def>a virus which infects bacteria; -- also colloquially called <altname>phage</altname> in laboratory jargon.</def> <note>Bacteriophages are of many varieties, generally specific for one or a narrow range of bacterial species, and almost every bacterium is susceptible to at least one bacteriophage.  They may have DNA or RNA as their genetic component.  Certain types of bacteriophage, called <stypec>temperate bacteriophage</stypec>, may infect but not kill their host bacteria, residing in and replicating either as a plasmid or integrated into the host genome.  Under certain conditions, a resident temperate phage may become induced to multiply rapidly and vegetatively, killing and lysing its host bacterium, and producing multiple progeny.  The <stype>lambda phage</stype> of <spn>Eschericia coli</spn>, much studied in biochemical and genetic research, is of the temperate type.</note></p>
 </entry>
 
 <entry main-word="bacteriophagic" source="WordNet 1.5">
@@ -2958,7 +2958,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 </entry>
 
 <entry main-word="ballistic missile" source="PJC">
-<p><hw>bal*lis"tic mis`sile</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A rocket-propelled missile of long range which is guided only during the powered portion of its flight, which usually takes only a small part of the total flight time; -- contrasted with <contr>guided missile</contr>.</def> <note>Ballistic missiles are sometimes referred to by their range, such as an <styp><col>intercontinental ballistic missile</col></styp> (<stype>ICBM</stype>) or an <styp><col>intermediate range ballistic missile</col></styp> (<stype>IRBM</stype>).</note></p>
+<p><hw>bal*lis"tic mis`sile</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A rocket-propelled missile of long range which is guided only during the powered portion of its flight, which usually takes only a small part of the total flight time; -- contrasted with <contr>guided missile</contr>.</def> <note>Ballistic missiles are sometimes referred to by their range, such as an <stypec>intercontinental ballistic missile</stypec> (<stype>ICBM</stype>) or an <stypec>intermediate range ballistic missile</stypec> (<stype>IRBM</stype>).</note></p>
 </entry>
 
 <entry main-word="Ballistics" source="1913 Webster">
@@ -19985,7 +19985,7 @@ For warriors that delight in blood.</q> <rj><qau>Hudibras.</qau></rj></p>
 </entry>
 
 <entry main-word="blackwater" source="PJC;;WordNet 1.5">
-<p><hw>black"wa*ter</hw> <pos>n.</pos> <def>any of several human or animal diseases characterized by dark urine resulting from rapid breakdown of red blood cells; -- used especially of <styp><col>blackwater fever</col></styp>, a severe form of malaria caused by the blood parasite <spn>Plasmodium falciparum</spn>.</def></p>
+<p><hw>black"wa*ter</hw> <pos>n.</pos> <def>any of several human or animal diseases characterized by dark urine resulting from rapid breakdown of red blood cells; -- used especially of <stypec>blackwater fever</stypec>, a severe form of malaria caused by the blood parasite <spn>Plasmodium falciparum</spn>.</def></p>
 </entry>
 
 <entry main-word="Blackwood" source="1913 Webster">

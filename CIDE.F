@@ -13837,7 +13837,7 @@ He <qex>flashes</qex> into one gross crime or other.</q> <rj><qau>Shak.</qau></r
 <entry main-word="flashback" source="WordNet 1.5">
 <p><hw>flashback</hw> <pos>n.</pos> <sn>1.</sn> <def>a transition (in literary or theatrical works or films) to an earlier event or scene; also, the scene thus introduced.</def></p>
 
-<p source="PJC"><sn>2.</sn> <def>An unusually vivid recollection of a prior experience, often one that is traumatic, such as scenes from combat or a criminal assault, or induced by hallucinogenic drugs such as LSD; when accompanied by hallucinations it is called <styp><ecol>flashback hallucinosis</ecol></styp>.</def></p>
+<p source="PJC"><sn>2.</sn> <def>An unusually vivid recollection of a prior experience, often one that is traumatic, such as scenes from combat or a criminal assault, or induced by hallucinogenic drugs such as LSD; when accompanied by hallucinations it is called <stypec>flashback hallucinosis</stypec>.</def></p>
 </entry>
 
 <entry main-word="flashbulb" source="WordNet 1.5">
@@ -23491,7 +23491,7 @@ Is eaten by the canker ere it blow.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Forwarder" source="1913 Webster">
 <p><hw>For"ward*er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who forwards or promotes; a promoter.</def>  <rj><au>Udall.</au></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>2.</sn> <def>One who sends forward anything;</def> <specif>specifically</specif>, <fld>(Com.)</fld> <def>one who transmits goods; a forwarding merchant, such as a <styp><ecol>freight forwarder</ecol></styp>.</def></p>
+<p source="1913 Webster;;PJC"><sn>2.</sn> <def>One who sends forward anything;</def> <specif>specifically</specif>, <fld>(Com.)</fld> <def>one who transmits goods; a forwarding merchant, such as a <stypec>freight forwarder</stypec>.</def></p>
 
 <p><sn>3.</sn> <fld>(Bookbinding)</fld> <def>One employed in forwarding.</def></p>
 </entry>

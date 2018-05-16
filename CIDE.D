@@ -24386,7 +24386,7 @@ Is <qex>disacquainted</qex> never.</q> <rj><qau>Herrick.</qau></rj></p>
 <entry main-word="Disappearing" source="">
 <p><hw>Dis`ap*pear"ing</hw>, <def><pos>p. pr. & vb. n.</pos> of <er>Disappear</er>.</def></p>
 
-<p source="Webster 1913 Suppl."><cs><col>Disappearing carriage</col> <fld>(Ordnance)</fld>, <cd>a carriage for heavy coast guns on which the gun is raised above the parapet for firing and upon discharge is lowered behind the parapet for protection. The standard type of disappearing carriage in the coast artillery of the United States army is the <styp><ecol>Buffington-Crozier carriage</ecol></styp>, in which the gun trunnions are secured at the upper and after ends of a pair of heavy levers, at the lower ends of which is attached a counterweight of lead. The levers are pivoted at their middle points, which are, with the top carriage, permitted restrained motion along the slightly inclined chassis rails. The counterweight is held in place by a pawl and ratchet. When the gun is loaded the pawl is released and the counterweight sinks, raising the gun to the firing position above the parapet. The recoil following the discharge returns the gun to the loading position, the counterweight rising until the pawl engages the ratchet.</cd></cs></p>
+<p source="Webster 1913 Suppl."><cs><col>Disappearing carriage</col> <fld>(Ordnance)</fld>, <cd>a carriage for heavy coast guns on which the gun is raised above the parapet for firing and upon discharge is lowered behind the parapet for protection. The standard type of disappearing carriage in the coast artillery of the United States army is the <stypec>Buffington-Crozier carriage</stypec>, in which the gun trunnions are secured at the upper and after ends of a pair of heavy levers, at the lower ends of which is attached a counterweight of lead. The levers are pivoted at their middle points, which are, with the top carriage, permitted restrained motion along the slightly inclined chassis rails. The counterweight is held in place by a pawl and ratchet. When the gun is loaded the pawl is released and the counterweight sinks, raising the gun to the firing position above the parapet. The recoil following the discharge returns the gun to the loading position, the counterweight rising until the pawl engages the ratchet.</cd></cs></p>
 </entry>
 
 <entry main-word="Disappendency" source="1913 Webster">
@@ -43752,7 +43752,7 @@ To blush like a banner bathed in slaughter.</q> <rj><qau>Percival.</qau></rj></p
 </entry>
 
 <entry main-word="Dumpy level" source="Webster 1913 Suppl.">
-<p><hw>Dump"y lev"el</hw>. <fld>(Surv.)</fld> <def>A level having a short telescope (hence its name) rigidly fixed to a table capable only of rotatory movement in a horizontal plane. The telescope is usually an inverting one. It is sometimes called the <altname><col>Troughton level</col></altname>, from the name of the inventor, and a variety improved by one Gavatt is known as the <stype><col>Gavatt level</col></stype>.</def></p>
+<p><hw>Dump"y lev"el</hw>. <fld>(Surv.)</fld> <def>A level having a short telescope (hence its name) rigidly fixed to a table capable only of rotatory movement in a horizontal plane. The telescope is usually an inverting one. It is sometimes called the <altname><col>Troughton level</col></altname>, from the name of the inventor, and a variety improved by one Gavatt is known as the <stypec>Gavatt level</stypec>.</def></p>
 </entry>
 
 <entry main-word="Dumuzi" source="WordNet 1.5">

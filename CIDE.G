@@ -18465,7 +18465,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj></p>
 </entry>
 
 <entry main-word="Griffon" source="Webster 1913 Suppl.">
-<p><hw>Grif"fon</hw> <pr>(gr<icr/f"f<ocr/n)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One of a European breed of rough-coated dogs, somewhat taller than the setter and of a grizzly liver color. They are used in hunting game birds. The <styp><ecol>Brussels griffon</ecol></styp> is a very small, wiry-coated, short-nosed pet dog of Belgian origin.</def></p>
+<p><hw>Grif"fon</hw> <pr>(gr<icr/f"f<ocr/n)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One of a European breed of rough-coated dogs, somewhat taller than the setter and of a grizzly liver color. They are used in hunting game birds. The <stypec>Brussels griffon</stypec> is a very small, wiry-coated, short-nosed pet dog of Belgian origin.</def></p>
 </entry>
 
 <entry main-word="Grig" source="1913 Webster">
