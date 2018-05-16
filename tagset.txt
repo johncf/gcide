@@ -83,10 +83,6 @@ Tag           Font         Description
                            for the entire list!  The "un-" words should
                            be indexed as headwords.
 
-<ct>          bold         Same as <colf>, a font similar to that used in
-                           collocations.  However, this tag is used in a
-                           table and could be set to a different font.
-
 <h2>          *            HTML tag -- second largest heading font.
                            (used thrice)
 

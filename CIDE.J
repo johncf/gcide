@@ -2704,23 +2704,22 @@ Of rich and exquisite form.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><pre><tt>
 <sc>Months of the Jewish Year</sc>.
- 1 <colf>Tishri</colf> . . . . . . 30
- 2 <colf>Heshvan</colf> . . . . .  29 (<it>r. & d</it>.)
-                                or 30 (<it>p</it>.)
- 3 <colf>Kislev</colf> . . . . . . 29 (<it>d</it>.) or
-                                   30 (<it>r. & p</it>.)
- 4 <colf>Tebet</colf> . . . . . .  29
- 5 <colf>Shebat</colf> . . . . . . 30
- 6 <colf>Adar</colf> . . . . . . . 29 or
-                                   30 (<it>l</it>.)
- -- <colf>Veadar</colf> . . . . .  29
-    (<it>occuring only in leap years</it>)
- 7 <colf>Nisan</colf> . . . . . . .30
- 8 <colf>Ivar</colf> . . . . . . ..29
- 9 <colf>Sivan</colf> . . . . . . .30
-10 <colf>Tammux</colf> . . . . . . 29
-11 <colf>Ab</colf> . . . . . . . . 30
-12 <colf>Elul</colf> . . . . . . ..29
+ 1 <b>Tishri</b> . . . . . . 30
+ 2 <b>Heshvan</b>  . . . . . 29 (<it>r. & d</it>.) or
+                             30 (<it>p</it>.)
+ 3 <b>Kislev</b> . . . . . . 29 (<it>d</it>.) or
+                             30 (<it>r. & p</it>.)
+ 4 <b>Tebet</b>  . . . . . . 29
+ 5 <b>Shebat</b> . . . . . . 30
+ 6 <b>Adar</b> . . . . . . . 29 or
+                             30 (<it>l</it>.)
+ - <b>Veadar</b> . . . . . . 29 (<it>occuring only in leap years</it>)
+ 7 <b>Nisan</b>  . . . . . . 30
+ 8 <b>Ivar</b> . . . . . . . 29
+ 9 <b>Sivan</b>  . . . . . . 30
+10 <b>Tammux</b> . . . . . . 29
+11 <b>Ab</b> . . . . . . . . 30
+12 <b>Elul</b> . . . . . . . 29
 
 <sc>Jewish Year</sc>       <sc>a. d.</sc>
 -----------------------------------------------------------
