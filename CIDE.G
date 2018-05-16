@@ -16449,118 +16449,115 @@ To <qex>grapple</qex> with the house of Lancaster.</q> <rj><qau>Shak.</qau></rj>
 
 <p source="PJC"><sn>5.</sn> <def>Marijuana.</def> <mark>[Slang]</mark></p>
 
-<p source=""><note><hand/ The following list includes most of the grasses of the United States of special interest, except cereals.  Many of these terms will be found with definitions in the Vocabulary. See Illustrations in Appendix.</note></p>
+<p><note><hand/ The following list includes most of the grasses of the United States of special interest, except cereals.  Many of these terms will be found with definitions in the Vocabulary. See <xex>Illustrations</xex> in Appendix.</note></p>
 
-<p source=""><stypec>Barnyard grass</stypec>, <cd>for hay. South. <spn>Panicum Grus-galli</spn>.</cd></p>
+<p><stypec>Barnyard grass</stypec>, <cd>for hay. South. <spn>Panicum Grus-galli</spn>.</cd></p>
 
-<p source=""><stypec>Bent</stypec>, <cd>pasture and hay. <gen>Agrostis</gen>, several species.</cd></p>
+<p><stypec>Bent</stypec>, <cd>pasture and hay. <gen>Agrostis</gen>, several species.</cd></p>
 
-<p source=""><stypec>Bermuda grass</stypec>, <cd>pasture. South. <spn>Cynodon Dactylon</spn>.</cd></p>
+<p><stypec>Bermuda grass</stypec>, <cd>pasture. South. <spn>Cynodon Dactylon</spn>.</cd></p>
 
-<p source=""><stypec>Black bent</stypec>. <cd>Same as <cref>Switch grass</cref> (below).</cd></p>
+<p><stypec>Black bent</stypec>. <cd>Same as <cref>Switch grass</cref> (below).</cd></p>
 
-<p source=""><stypec>Blue bent</stypec>, <cd>hay. North and West. <spn>Andropogon provincialis</spn>.</cd></p>
+<p><stypec>Blue bent</stypec>, <cd>hay. North and West. <spn>Andropogon provincialis</spn>.</cd></p>
 
-<p source=""><stypec>Blue grass</stypec>, <cd>pasture. <spn>Poa compressa</spn>.</cd></p>
+<p><stypec>Blue grass</stypec>, <cd>pasture. <spn>Poa compressa</spn>.</cd></p>
 
-<p source=""><stypec>Blue joint</stypec>, <cd>hay. Northwest. <spn>Aqropyrum glaucum</spn>.</cd></p>
+<p><stypec>Blue joint</stypec>, <cd>hay. Northwest. <spn>Aqropyrum glaucum</spn>.</cd></p>
 
-<p source=""><stypec>Buffalo grass</stypec>, grazing. Rocky Mts., etc. <sd>(a)</sd> <cd><spn>Buchlo<eum/ dectyloides</spn></cd>. <sd>(b)</sd> <cd>Same as <cref>Grama grass</cref> (below).</cd>
-<-- here spelled "gramma" in original --></p>
+<p><stypec>Buffalo grass</stypec>, grazing. Rocky Mts., etc. <sd>(a)</sd> <cd><spn>Buchlo<eum/ dectyloides</spn></cd>. <sd>(b)</sd> <cd>Same as <cref>Grama grass</cref> (below).</cd></p>
 
-<p source=""><stypec>Bunch grass</stypec>, <cd>grazing. Far West. <gen>Eriocoma</gen>, <gen>Festuca</gen>, <gen>Stips</gen>, etc.</cd></p>
+<p><stypec>Bunch grass</stypec>, <cd>grazing. Far West. <gen>Eriocoma</gen>, <gen>Festuca</gen>, <gen>Stips</gen>, etc.</cd></p>
 
-<p source=""><stypec>Chess</stypec>, <or/ <stypec>Cheat</stypec>, <cd>a weed. <spn>Bromus secalinus</spn>, etc.</cd></p>
+<p><stypec>Chess</stypec>, <or/ <stypec>Cheat</stypec>, <cd>a weed. <spn>Bromus secalinus</spn>, etc.</cd></p>
 
-<p source=""><stypec>Couch grass</stypec>. <cd>Same as <spn>Quick grass</spn> (below).</cd></p>
+<p><stypec>Couch grass</stypec>. <cd>Same as <spn>Quick grass</spn> (below).</cd></p>
 
-<p source=""><stypec>Crab grass</stypec>, <sd>(a)</sd> <cd>Hay, in South. A weed, in North. <spn>Panicum sanguinale</spn>.</cd> <sd>(b)</sd> <cd>Pasture and hay. South. <spn>Eleusine Indica</spn>.</cd></p>
+<p><stypec>Crab grass</stypec>, <sd>(a)</sd> <cd>Hay, in South. A weed, in North. <spn>Panicum sanguinale</spn>.</cd> <sd>(b)</sd> <cd>Pasture and hay. South. <spn>Eleusine Indica</spn>.</cd></p>
 
-<p source=""><stypec>Darnel</stypec> <sd>(a)</sd> <cd>Bearded, a noxious weed. <spn>Lolium temulentum</spn>.</cd> <sd>(b)</sd> <cd>Common. Same as <spn>Rye grass</spn> (below).</cd></p>
+<p><stypec>Darnel</stypec> <sd>(a)</sd> <cd>Bearded, a noxious weed. <spn>Lolium temulentum</spn>.</cd> <sd>(b)</sd> <cd>Common. Same as <spn>Rye grass</spn> (below).</cd></p>
 
-<p source=""><stypec>Drop seed</stypec>, <cd>fair for forage and hay. <gen>Muhlenbergia</gen>, several species.</cd></p>
+<p><stypec>Drop seed</stypec>, <cd>fair for forage and hay. <gen>Muhlenbergia</gen>, several species.</cd></p>
 
-<p source=""><stypec>English grass</stypec>. <cd>Same as <xex>Redtop</xex> (below).</cd></p>
+<p><stypec>English grass</stypec>. <cd>Same as <xex>Redtop</xex> (below).</cd></p>
 
-<p source=""><stypec>Fowl meadow grass</stypec>. <sd>(a)</sd> <cd>Pasture and hay. <spn>Poa serotina</spn>.</cd> <sd>(b)</sd> <cd>Hay, on moist land. <spn>Gryceria nervata</spn>.</cd></p>
+<p><stypec>Fowl meadow grass</stypec>. <sd>(a)</sd> <cd>Pasture and hay. <spn>Poa serotina</spn>.</cd> <sd>(b)</sd> <cd>Hay, on moist land. <spn>Gryceria nervata</spn>.</cd></p>
 
-<p source=""><stypec>Gama grass</stypec>, <cd>cut fodder. South. <spn>Tripsacum dactyloides</spn>.</cd></p>
+<p><stypec>Gama grass</stypec>, <cd>cut fodder. South. <spn>Tripsacum dactyloides</spn>.</cd></p>
 
-<p source=""><-- spelled here (as in modern dictionaries) "Grama" in original, but references are to "gramma" -->
-<stypec>Grama grass</stypec>, <cd>grazing. West and Pacific slope. <spn>Bouteloua oligostachya</spn>, etc.</cd></p>
+<p><stypec>Grama grass</stypec>, <cd>grazing. West and Pacific slope. <spn>Bouteloua oligostachya</spn>, etc.</cd></p>
 
-<p source=""><stypec>Great bunch grass</stypec>, <cd>pasture and hay. Far West. <spn>Festuca scabrella</spn>.</cd></p>
+<p><stypec>Great bunch grass</stypec>, <cd>pasture and hay. Far West. <spn>Festuca scabrella</spn>.</cd></p>
 
-<p source=""><stypec>Guinea grass</stypec>, <cd>hay. South. <spn>Panicum jumentorum</spn>.</cd></p>
+<p><stypec>Guinea grass</stypec>, <cd>hay. South. <spn>Panicum jumentorum</spn>.</cd></p>
 
-<p source=""><stypec>Herd's grass</stypec>, <cd>in New England <xex>Timothy</xex>, in Pennsylvania and South <xex>Redtop</xex>.</cd></p>
+<p><stypec>Herd's grass</stypec>, <cd>in New England <xex>Timothy</xex>, in Pennsylvania and South <xex>Redtop</xex>.</cd></p>
 
-<p source=""><stypec>Indian grass</stypec>. <cd>Same as <cref>Wood grass</cref> (below).</cd></p>
+<p><stypec>Indian grass</stypec>. <cd>Same as <cref>Wood grass</cref> (below).</cd></p>
 
-<p source=""><stypec>Italian rye grass</stypec>, <cd>forage and hay. <spn>Lolium Italicum</spn>.</cd></p>
+<p><stypec>Italian rye grass</stypec>, <cd>forage and hay. <spn>Lolium Italicum</spn>.</cd></p>
 
-<p source=""><stypec>Johnson grass</stypec>, <cd>grazing and hay. South and Southwest. <spn>Sorghum Halepense</spn>.</cd></p>
+<p><stypec>Johnson grass</stypec>, <cd>grazing and hay. South and Southwest. <spn>Sorghum Halepense</spn>.</cd></p>
 
-<p source=""><stypec>Kentucky blue grass</stypec>, <cd>pasture. <spn>Poa pratensis</spn>.</cd></p>
+<p><stypec>Kentucky blue grass</stypec>, <cd>pasture. <spn>Poa pratensis</spn>.</cd></p>
 
-<p source=""><stypec>Lyme grass</stypec>, <cd>coarse hay. South. <gen>Elymus</gen>, several species.</cd></p>
+<p><stypec>Lyme grass</stypec>, <cd>coarse hay. South. <gen>Elymus</gen>, several species.</cd></p>
 
-<p source=""><stypec>Manna grass</stypec>, <cd>pasture and hay. <gen>Glyceria</gen>, several species.</cd></p>
+<p><stypec>Manna grass</stypec>, <cd>pasture and hay. <gen>Glyceria</gen>, several species.</cd></p>
 
-<p source=""><stypec>Meadow fescue</stypec>, <cd>pasture and hay. <spn>Festuca elatior</spn>.</cd></p>
+<p><stypec>Meadow fescue</stypec>, <cd>pasture and hay. <spn>Festuca elatior</spn>.</cd></p>
 
-<p source=""><stypec>Meadow foxtail</stypec>, <cd>pasture, hay, lawn. North. <spn>Alopecurus pratensis</spn>.</cd></p>
+<p><stypec>Meadow foxtail</stypec>, <cd>pasture, hay, lawn. North. <spn>Alopecurus pratensis</spn>.</cd></p>
 
-<p source=""><stypec>Meadow grass</stypec>, <cd>pasture, hay, lawn. <gen>Poa</gen>, several species.</cd></p>
+<p><stypec>Meadow grass</stypec>, <cd>pasture, hay, lawn. <gen>Poa</gen>, several species.</cd></p>
 
-<p source=""><stypec>Mesquite grass</stypec>, <or/ <stypec>Muskit grass</stypec>. <cd>Same as <cref>Grama grass</cref> (above).</cd>
-<-- here spelled "gramma" in original --></p>
+<p><stypec>Mesquite grass</stypec>, <or/ <stypec>Muskit grass</stypec>. <cd>Same as <cref>Grama grass</cref> (above).</cd></p>
 
-<p source=""><stypec>Nimble Will</stypec>, <cd>a kind of drop seed. <spn>Muhlenbergia diffsa</spn>.</cd></p>
+<p><stypec>Nimble Will</stypec>, <cd>a kind of drop seed. <spn>Muhlenbergia diffsa</spn>.</cd></p>
 
-<p source=""><stypec>Orchard grass</stypec>, <cd>pasture and hay. <spn>Dactylis glomerata</spn>.</cd></p>
+<p><stypec>Orchard grass</stypec>, <cd>pasture and hay. <spn>Dactylis glomerata</spn>.</cd></p>
 
-<p source=""><stypec>Porcupine grass</stypec>, <cd>troublesome to sheep. Northwest. <spn>Stipa spartea</spn>.</cd></p>
+<p><stypec>Porcupine grass</stypec>, <cd>troublesome to sheep. Northwest. <spn>Stipa spartea</spn>.</cd></p>
 
-<p source=""><stypec>Quaking grass</stypec>, <cd>ornamental. <spn>Briza media</spn> and <spn>maxima</spn>.</cd></p>
+<p><stypec>Quaking grass</stypec>, <cd>ornamental. <spn>Briza media</spn> and <spn>maxima</spn>.</cd></p>
 
-<p source=""><stypec>Quitch</stypec>, or <stypec>Quick</stypec>, <stypec>grass</stypec> etc., <cd>a weed. <spn>Agropyrum repens</spn>.</cd></p>
+<p><stypec><oneof>Quitch, <or/ Quick,</oneof> grass</stypec> etc., <cd>a weed. <spn>Agropyrum repens</spn>.</cd></p>
 
-<p source=""><stypec>Ray grass</stypec>. <cd>Same as <cref>Rye grass</cref> (below).</cd></p>
+<p><stypec>Ray grass</stypec>. <cd>Same as <cref>Rye grass</cref> (below).</cd></p>
 
-<p source=""><stypec>Redtop</stypec>, <cd>pasture and hay. <spn>Agrostis vulgaris</spn>.</cd></p>
+<p><stypec>Redtop</stypec>, <cd>pasture and hay. <spn>Agrostis vulgaris</spn>.</cd></p>
 
-<p source=""><stypec>Red-topped buffalo grass</stypec>, <cd>forage. Northwest. <spn>Poa tenuifolia</spn>.</cd></p>
+<p><stypec>Red-topped buffalo grass</stypec>, <cd>forage. Northwest. <spn>Poa tenuifolia</spn>.</cd></p>
 
-<p source=""><stypec>Reed canary grass</stypec>, <cd>of slight value. <spn>Phalaris arundinacea</spn>.</cd></p>
+<p><stypec>Reed canary grass</stypec>, <cd>of slight value. <spn>Phalaris arundinacea</spn>.</cd></p>
 
-<p source=""><stypec>Reed meadow grass</stypec>, <cd>hay. North. <spn>Glyceria aquatica</spn>.</cd></p>
+<p><stypec>Reed meadow grass</stypec>, <cd>hay. North. <spn>Glyceria aquatica</spn>.</cd></p>
 
-<p source=""><stypec>Ribbon grass</stypec>, <cd>a striped leaved form of <cref>Reed canary grass</cref>.</cd></p>
+<p><stypec>Ribbon grass</stypec>, <cd>a striped leaved form of <cref>Reed canary grass</cref>.</cd></p>
 
-<p source=""><stypec>Rye grass</stypec>, <cd>pasture, hay. <spn>Lolium perenne</spn>, <it>var.</it></cd></p>
+<p><stypec>Rye grass</stypec>, <cd>pasture, hay. <spn>Lolium perenne</spn>, <it>var.</it></cd></p>
 
-<p source=""><stypec>Seneca grass</stypec>, <cd>fragrant basket work, etc. North. <spn>Hierochloa borealis</spn>.</cd></p>
+<p><stypec>Seneca grass</stypec>, <cd>fragrant basket work, etc. North. <spn>Hierochloa borealis</spn>.</cd></p>
 
-<p source=""><stypec>Sesame grass</stypec>. <cd>Same as <cref>Gama grass</cref> (above).</cd></p>
+<p><stypec>Sesame grass</stypec>. <cd>Same as <cref>Gama grass</cref> (above).</cd></p>
 
-<p source=""><stypec>Sheep's fescue</stypec>, <cd>sheep pasture, native in Northern Europe and Asia. <spn>Festuca ovina</spn>.</cd></p>
+<p><stypec>Sheep's fescue</stypec>, <cd>sheep pasture, native in Northern Europe and Asia. <spn>Festuca ovina</spn>.</cd></p>
 
-<p source=""><stypec>Small reed grass</stypec>, <cd>meadow pasture and hay. North. <spn>Deyeuxia Canadensis</spn>.</cd></p>
+<p><stypec>Small reed grass</stypec>, <cd>meadow pasture and hay. North. <spn>Deyeuxia Canadensis</spn>.</cd></p>
 
-<p source=""><stypec>Spear grass</stypec>, <cd>Same as <cref>Meadow grass</cref> (above).</cd></p>
+<p><stypec>Spear grass</stypec>, <cd>Same as <cref>Meadow grass</cref> (above).</cd></p>
 
-<p source=""><stypec>Squirrel-tail grass</stypec>, <cd>troublesome to animals. Seacoast and Northwest. <spn>Hordeum jubatum</spn>.</cd></p>
+<p><stypec>Squirrel-tail grass</stypec>, <cd>troublesome to animals. Seacoast and Northwest. <spn>Hordeum jubatum</spn>.</cd></p>
 
-<p source=""><stypec>Switch grass</stypec>, <cd>hay, cut young. <spn>Panicum virgatum</spn>.</cd></p>
+<p><stypec>Switch grass</stypec>, <cd>hay, cut young. <spn>Panicum virgatum</spn>.</cd></p>
 
-<p source=""><stypec>Timothy</stypec>, <cd>cut young, the best of hay. North. <spn>Phleum pratense</spn>.</cd></p>
+<p><stypec>Timothy</stypec>, <cd>cut young, the best of hay. North. <spn>Phleum pratense</spn>.</cd></p>
 
-<p source=""><stypec>Velvet grass</stypec>, <cd>hay on poor soil. South. <spn>Holcus lanatus</spn>.</cd></p>
+<p><stypec>Velvet grass</stypec>, <cd>hay on poor soil. South. <spn>Holcus lanatus</spn>.</cd></p>
 
-<p source=""><stypec>Vernal grass</stypec>, <cd>pasture, hay, lawn. <spn>Anthoxanthum odoratum</spn>.</cd></p>
+<p><stypec>Vernal grass</stypec>, <cd>pasture, hay, lawn. <spn>Anthoxanthum odoratum</spn>.</cd></p>
 
-<p source=""><stypec>Wire grass</stypec>, <cd>valuable in pastures. <spn>Poa compressa</spn>.</cd></p>
+<p><stypec>Wire grass</stypec>, <cd>valuable in pastures. <spn>Poa compressa</spn>.</cd></p>
 
 <p><stypec>Wood grass</stypec>, <stypec>Indian grass</stypec>, <cd>hay. <spn>Chrysopogon nutans</spn>.</cd></p>
 
