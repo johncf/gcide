@@ -7317,7 +7317,7 @@ A little ceased, but recommenced.</q> <rj><qau>Tennyson.</qau></rj></p>
 <p><q>Subdue and cool the <qex>ferment</qex> of desire.</q> <rj><qau>Rogers.</qau></rj></p>
 
 <p><q>the nation is in a <qex>ferment</qex>.</q> <rj><qau>Walpole.</qau></rj>
-<-- <col><b>in a ferment</b></col> <cd>in a state of agitation, applied to human groups.</cd> --></p>
+<-- <col>in a ferment</col> <cd>in a state of agitation, applied to human groups.</cd> --></p>
 
 <p><sn>3.</sn> <def>A gentle internal motion of the constituent parts of a fluid; fermentation.</def> <mark>[R.]</mark></p>
 

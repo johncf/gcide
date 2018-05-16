@@ -2936,7 +2936,7 @@ In <qex>ranks</qex> and squadrons and right form of war.</q> <rj><qau>Shak.</qau
 
 <p><sn>6.</sn> <def>Elevated grade or standing; high degree; high social position; distinction; eminence; <as>as, a man of <ex>rank</ex></as>.</def></p>
 
-<p><cs><col>Rank and file</col>. <sd>(a)</sd> <fld>(Mil.)</fld> <cd>The whole body of common soldiers, including also corporals. In a more extended sense, it includes sergeants also, excepting the noncommissioned staff.</cd><-- analogously, the lowest ranking members of any organization --> <sd>(b)</sd> <cd>See under 1st <er>File</er>.</cd> -- <col>The ranks</col>, <cd>the order or grade of common soldiers; <as>as, to reduce a noncommissioned officer to <ex>the ranks</ex></as>.</cd> -- <col>To fill the ranks</col>, <cd>to supply the whole number, or a competent number.</cd> -- <col>To take rank of</col>, <cd>to have precedence over, or to have the right of taking a higher place than.</cd></cs><-- <col><b>pull rank</b></col>, to insist on one's own prerogative or plan of action, by right of a higher rank than that of one suggesting a different plan --></p>
+<p><cs><col>Rank and file</col>. <sd>(a)</sd> <fld>(Mil.)</fld> <cd>The whole body of common soldiers, including also corporals. In a more extended sense, it includes sergeants also, excepting the noncommissioned staff.</cd><-- analogously, the lowest ranking members of any organization --> <sd>(b)</sd> <cd>See under 1st <er>File</er>.</cd> -- <col>The ranks</col>, <cd>the order or grade of common soldiers; <as>as, to reduce a noncommissioned officer to <ex>the ranks</ex></as>.</cd> -- <col>To fill the ranks</col>, <cd>to supply the whole number, or a competent number.</cd> -- <col>To take rank of</col>, <cd>to have precedence over, or to have the right of taking a higher place than.</cd></cs><-- <col>pull rank</col>, to insist on one's own prerogative or plan of action, by right of a higher rank than that of one suggesting a different plan --></p>
 </entry>
 
 <entry main-word="Rank" source="1913 Webster">
@@ -24805,7 +24805,7 @@ Mine errands on the Scottish side.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 <p><sn>4.</sn> <fld>(Surg.)</fld> <def>To overlap (each other); -- said of bones or fractured fragments.</def></p>
 
 <p><cs><col>To ride a hobby</col>, <cd>to have some favorite occupation or subject of talk.</cd> -- <col>To ride and tie</col>, <cd>to take turn with another in labor and rest; -- from the expedient adopted by two persons with one horse, one of whom <xex>rides</xex> the animal a certain distance, and then <xex>ties</xex> him for the use of the other, who is coming up on foot.</cd> <au>Fielding.</au> -- <col>To ride down</col>. <sd>(a)</sd> <cd>To ride over; to trample down in riding; to overthrow by riding against; <as>as, <ex>to ride down</ex> an enemy</as></cd>. <sd>(b)</sd> <fld>(Naut.)</fld> <cd>To bear down, as on a halyard when hoisting a sail.</cd> -- <col>To ride out</col> <fld>(Naut.)</fld>, <cd>to keep safe afloat during (a storm) while riding at anchor or when hove to on the open sea; <as>as, <ex>to ride out</ex> the gale</as>.</cd></cs>
-<-- <col><b>to ride the lightning</b></col>, (Colloq.) <cd>to be executed by electrocution in an electric chair.</cd> --></p>
+<-- <col>to ride the lightning</col>, (Colloq.) <cd>to be executed by electrocution in an electric chair.</cd> --></p>
 </entry>
 
 <entry main-word="Ride" source="1913 Webster">
@@ -27581,7 +27581,7 @@ Supplants their footsteps.</q> <rj><qau>J. Philips .</qau></rj></p>
 <p><sn>7.</sn> <fld>(Mach.)</fld> <def>Same as <er>Rock shaft</er>.</def></p>
 
 <p><cs><col>Rocker arm</col> <fld>(Mach.)</fld>, <cd>an arm borne by a rock shaft.</cd></cs>
-<-- <col><b>To be off one's rocker</b></col>, <cd>to be insane.</cd> --></p>
+<-- <col>To be off one's rocker</col>, <cd>to be insane.</cd> --></p>
 </entry>
 
 <entry main-word="Rockered" source="1913 Webster">
@@ -32449,7 +32449,7 @@ In all respects by me.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>4.</sn> <def>A rotating cask or box in which small articles are smoothed or polished by friction against each other.</def></p>
 
-<p><-- <col><b>rumble seat</b></col>, <cd>a seat in the rear of an automobile, outside the passenger cabin, which folds out from the body.</cd> --></p>
+<p><-- <col>rumble seat</col>, <cd>a seat in the rear of an automobile, outside the passenger cabin, which folds out from the body.</cd> --></p>
 </entry>
 
 <entry main-word="Rumble" source="1913 Webster">

@@ -2819,7 +2819,7 @@ Of battle.</q> <rj><qau>Milton.</qau></rj></p>
 
 <entry main-word="Editorial" source="1913 Webster">
 <p><hw>Ed`i*to"ri*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to an editor; written or sanctioned by an editor; <as>as, <ex>editorial</ex> labors; <ex>editorial</ex> remarks.</as></def>
-<-- <col><b>editorial content</b></col> --></p>
+<-- <col>editorial content</col> --></p>
 </entry>
 
 <entry main-word="Editorial" source="1913 Webster">
