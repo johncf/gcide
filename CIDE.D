@@ -21477,8 +21477,8 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Dight"er</hw> <pr>(?)</pr>, <pos>n.</pos> <def>One who dights.</def> <mark>[Obs.]</mark></p>
 </entry>
 
-<entry main-word="digit" source="1913 Webster">
-<p><hw>dig"it</hw> <pr>(d<icr/j"<icr/t)</pr>, <pos>n.</pos> <ety>[L. <ets>digitus</ets> finger; prob. akin to Gr. <grk>da`ktylos</grk>, of uncertain origin; possibly akin to E. <ets>toe</ets>.  Cf. <er>Dactyl</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of the terminal divisions of a limb appendage; a finger or toe.</def></p>
+<entry main-word="Digit" source="1913 Webster">
+<p><hw>Dig"it</hw> <pr>(d<icr/j"<icr/t)</pr>, <pos>n.</pos> <ety>[L. <ets>digitus</ets> finger; prob. akin to Gr. <grk>da`ktylos</grk>, of uncertain origin; possibly akin to E. <ets>toe</ets>.  Cf. <er>Dactyl</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>One of the terminal divisions of a limb appendage; a finger or toe.</def></p>
 
 <p><q>The ruminants have the <ldquo/cloven foot,<rdquo/ <it>i. e.</it>, two hoofed <qex>digits</qex> on each foot.</q> <rj><qau>Owen.</qau></rj></p>
 
@@ -21488,31 +21488,27 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><note><hand/ By some authorities the symbol 0 is not included with the <xex>digits</xex>.</note></p>
 
-<p><sn>4.</sn> <fld>(Anat.)</fld> <def>One twelfth part of the diameter of the sun or moon; -- a term used to express the quantity of an eclipse; <as>as, an eclipse of eight <ex>digits</ex> is one which hides two thirds of the diameter of the disk</as>.</def></p>
+<p><sn>4.</sn> <fld>(Astron.)</fld> <def>One twelfth part of the diameter of the sun or moon; -- a term used to express the quantity of an eclipse; <as>as, an eclipse of eight <ex>digits</ex> is one which hides two thirds of the diameter of the disk</as>.</def></p>
 </entry>
 
-<entry main-word="digit" source="1913 Webster">
-<p><hw>dig"it</hw>, <pos>v. t.</pos> <def>To point at or out with the finger.</def> <mark>[R.]</mark></p>
+<entry main-word="Digit" source="1913 Webster">
+<p><hw>Dig"it</hw>, <pos>v. t.</pos> <def>To point at or out with the finger.</def> <mark>[R.]</mark></p>
 </entry>
 
-<entry main-word="digital" source="1913 Webster">
-<p><hw>dig"i*tal</hw> <pr>(d<icr/j"<icr/*t<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>digitals</ets>.]</ety> <sn>1.</sn> <def>Of or pertaining to the fingers; done with the fingers; <as>as, <ex>digital</ex> compression; <ex>digital</ex> examination.</as></def></p>
+<entry main-word="Digital" source="1913 Webster">
+<p><hw>Dig"i*tal</hw> <pr>(d<icr/j"<icr/*t<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>digitalis</ets>.]</ety> <sn>1.</sn> <def>Of or pertaining to the fingers, or to digits; done with the fingers; <as>as, <ex>digital</ex> compression; <ex>digital</ex> examination.</as></def></p>
 
-<p source="PJC"><sn>2.</sn> <def>of or pertaining to digits{3}; expressed in digits{3}, or using <ex>digits{3}</ex>; <as>as, a <ex>digital</ex> display; a <ex>digital</ex> clock</as>.</def></p>
+<p source="Wiktionary"><sn>2.</sn> <def>Property of representing values as discrete numbers rather than a continuous spectrum; <as>as, a <ex>digital</ex> clock</as>; -- opposed to <ant>analog</ant>.</def></p>
 
-<p source="PJC"><sn>3.</sn> <fld>(Computers)</fld> <def>performing internal logical and arithmetic operations by means of digits, usually represented as binary numbers.  Contrasted to <contr>analog</contr>, wherein variables are represented as coninuous physical quantities such as voltages or the position of a pointer on a continuous scale; <as>as, a <ex>digital</ex> computer</as>.</def></p>
-
-<p source="PJC"><note><hand/  In digital computers, physical quantities in analog form, such as images, sounds, distances, voltages, etc., must first be converted to an internal digital representation before calculations can be performed on them.  The conversion may be done by the data enterer, by approximation, in the case of numerical values, or by analog-to-digital conversion in the case of light or sound intensities.  The latter case uses special equipment to convert the physical impulses into a digital value, using a pre-defined encoding system.</note></p>
+<p source="Wiktionary"><sn>3.</sn> <def>Of or relating to computers; <as>as, <ex>digital</ex> payment systems are replacing cash transactions</as>.</def></p>
 </entry>
 
-<entry main-word="digital computer" source="PJC;;WordNet 1.5">
-<p><hw>digital computer</hw> <pos>n.</pos> <sn>1.</sn> <fld>(Computers)</fld> <def>a computer that represents information by numerical digits with a fixed number of values; -- most commonly each piece of information is internally represented in binary code, as an array of <er>bits</er>, which are information units each of which can take only two values.  The possible values of each <er>bit</er> are conventionally represented as the numbers 1 or 0.</def>  <note>The bits of information are usually further organized, maniplulated, and discussed as <er>nybbles</er> (4 bits, rarely used), <er>bytes</er> (8 bits, most commonly used), or <er>words</er> (from 16 to 128 bits, and in the future probably more).  A <er>word</er> is usually defined as the number of bits that are processed at one time by the central procesor unit.</note><br/
-<syn><b>Syn. --</b> .</syn></p>
+<entry main-word="digital computer" source="WordNet 1.5;;JCF">
+<p><hw>digital computer</hw> <pos>n.</pos> <fld>(Computers)</fld> <def>a computer that represents information in discrete values; -- most commonly, information is represented in binary, as an sequence of <xex>bits</xex>, which are units of information that can take one of two possible values -- 0 or 1.</def></p>
 </entry>
 
-<entry main-word="digitalin" source="1913 Webster;;PJC">
-<p><hw>dig"i*ta`lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>digitaline</ets>.]</ety> <sd>(a)</sd> <fld>(Medicine, Pharmacy)</fld> <def>Any one of several extracts of foxglove (<gen>Digitalis</gen>), as the <ldquo/French extract,<rdquo/ the <ldquo/German extract,<rdquo/ etc., which differ among themselves in composition and properties.  Both <spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn> have been used to prepare such extracts.</def> <sd>(b)</sd> <fld>(Chem.)</fld> <def>the distinctive chemical substance, a <isa>steroid glycoside</isa>, which is the essential ingredient of the extracts of <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C36H56O14</chform>), and is a 3-substituted diglucoside of a steroid.  It is a powerful cardiac stimulant and is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,16<beta/)-3-[6-Deoxy-4-O-<beta/-D-glucopyranosyl-3-O-methyl-<beta/-D-galactopyranosyl)oxy]-14,16-dihyroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitoxin</er> and <er>digoxin</er> are also extracted from the foxglove.  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol>cardiac glycosides</ecol></isa>.</def> <au>MI11</au><br/
-<syn><b>Syn. --</b> digitalinum verum, Diginorgin, Schmiedeberg's digitalin, digitalis, digitalis glycoside.</syn></p>
+<entry main-word="Digitalin" source="1913 Webster">
+<p><hw>Dig"i*ta`lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>digitaline</ets>.]</ety> <sd>(a)</sd> <fld>(Med.)</fld> <def>Any one of several extracts of foxglove (<gen>Digitalis</gen>), as the <ldquo/French extract,<rdquo/ the <ldquo/German extract,<rdquo/ etc., which differ among themselves in composition and properties.</def> <sd>(b)</sd> <fld>(Chem.)</fld> <def>A supposedly distinct vegetable principle as the essential ingredient of the extracts. It is white, crystalline substance, and is regarded as a glucoside. <extra source="PJC">It is a powerful cardiac stimulant and is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.</extra></def></p>
 </entry>
 
 <entry main-word="Digitalis" source="1913 Webster">
@@ -21522,23 +21518,11 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="digitalisation" source="WordNet 1.5">
-<p><hw>digitalisation</hw> <pos>n.</pos> <def>same as <er>digitalization</er>.</def><br/
-<syn><b>Syn. --</b> digitalization.</syn></p>
+<p><hw>digitalisation</hw> <pos>n.</pos> <sn>1.</sn> <def>The administration of digitalis for the treatment of certain heart disorders.</def> <altsp>[Written also <asp>digitalization</asp>.]</altsp></p>
 </entry>
 
-<entry main-word="digitalization" source="WordNet 1.5">
-<p><hw>digitalization</hw> <pos>n.</pos> <sn>1.</sn> <def>the administration of digitalis for the treatment of certain heart disorders.</def><br/
-<syn><b>Syn. --</b> digitalisation.</syn></p>
-
-<p source="PJC"><sn>2.</sn> <def>the effect produced by the administraation of dititalis.</def></p>
-</entry>
-
-<entry main-word="digitalize" source="WordNet 1.5">
-<p><hw>digitalize</hw> <pos>v. t.</pos> <sn>1.</sn> <def>to record digitally, <it>e. g.</it> on digital tape or compact disks.</def><br/
-<syn><b>Syn. --</b> digitize.</syn></p>
-
-<p source="PJC"><sn>2.</sn> <def>to convert from a non-digital form (such as a voltage or an image or an analog recording) to a digital{2} form, for storage or transmission.</def><br/
-<syn><b>Syn. --</b> digitize.</syn></p>
+<entry main-word="digitalize" source="JCF">
+<p><hw>digitalize</hw> <pos>v. t.</pos> <def>Same as <er>digitize</er>, <snr>2</snr>.</def></p>
 </entry>
 
 <entry main-word="Digitaria" source="WordNet 1.5">
@@ -21546,12 +21530,12 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 <syn><b>Syn. --</b> genus <gen>Digitaria</gen>.</syn></p>
 </entry>
 
-<entry main-word="digitate" source="">
-<p><hw>dig"i*tate</hw> <pr>(?)</pr>, <pos>v. t.</pos> <ety>[LL. <ets>digitatus</ets>, p. p. of <ets>digitare</ets>, fr. L. <ets>digitus</ets>. See <er>Digit</er>.]</ety> <def>To point out as with the finger.</def> <mark>[R.]</mark>  <rj><au>Robinson (Eudoxa).</au></rj></p>
+<entry main-word="Digitate" source="1913 Webster">
+<p><hw>Dig"i*tate</hw> <pr>(d<icr/j"<icr/*t<amac/t)</pr>, <pos>v. t.</pos> <ety>[LL. <ets>digitatus</ets>, p. p. of <ets>digitare</ets>, fr. L. <ets>digitus</ets>. See <er>Digit</er>.]</ety> <def>To point out as with the finger.</def> <mark>[R.]</mark>  <rj><au>Robinson (Eudoxa).</au></rj></p>
 </entry>
 
 <entry main-word="Digitate" source="1913 Webster">
-<p><mhw>{ <hw>Dig"i*tate</hw> <pr>(?)</pr>, <hw>Dig"i*ta`ted</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[L. <ets>digitatus</ets> having fingers.]</ety> <fld>(Bot.)</fld> <def>Having several leaflets arranged, like the fingers of the hand, at the extremity of a stem or petiole. Also, in general, characterized by digitation.</def> -- <wordforms><wf>Dig"i*tate*ly</wf> <pr>(#)</pr>, <pos>adv.</pos></wordforms></p>
+<p><mhw>{ <hw>Dig"i*tate</hw> <pr>(d<icr/j"<icr/*t<asl/t)</pr>, <hw>Dig"i*ta`ted</hw> <pr>(-t<asl/`t<ecr/d)</pr> }</mhw>, <pos>a.</pos> <ety>[L. <ets>digitatus</ets> having fingers.]</ety> <fld>(Bot.)</fld> <def>Having several leaflets arranged, like the fingers of the hand, at the extremity of a stem or petiole. Also, in general, characterized by digitation.</def> -- <wordforms><wf>Dig"i*tate*ly</wf> <pr>(-t<asl/`t*l<ycr/)</pr>, <pos>adv.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Digitation" source="1913 Webster">
@@ -21574,18 +21558,16 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Dig`i*ti*par"tite</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>digitus</ets> finger + <ets>partite</ets>.]</ety> <fld>(Bot.)</fld> <def>Parted like the fingers.</def></p>
 </entry>
 
-<entry main-word="digitize" source="">
-<p><hw>dig"i*tize</hw> <pr>(d<icr/j"<icr/*t<imac/z)</pr>, <pos>v. t.</pos> <ety>[<ets>Digit</ets> + <ets>-ize</ets>.]</ety> <sn>1.</sn> <def>To finger; <as>as, to <ex>digitize</ex> a pen</as>.</def> <mark>[R.]</mark>  <rj><au>Sir T. Browne.</au></rj></p>
+<entry main-word="Digitize" source="1913 Webster">
+<p><hw>Dig"i*tize</hw> <pr>(d<icr/j"<icr/*t<imac/z)</pr>, <pos>v. t.</pos> <ety>[<ets>Digit</ets> + <ets>-ize</ets>.]</ety> <sn>1.</sn> <def>To finger; <as>as, to <ex>digitize</ex> a pen</as>.</def> <mark>[R.]</mark>  <rj><au>Sir T. Browne.</au></rj></p>
 
-<p source="PJC"><sn>2.</sn> <fld>(Computers)</fld> <def>To convert (information, a signal, an image) into a form expressible in numbers or in binary notation.  The original signal before <ex>digitization</ex> is usually in <er>analog</er> form.</def>  <note><ex>Digitization</ex> allows convenient storage, accurate reproduction, modification and other manipulations by digital computers.</note></p>
+<p source="Wiktionary"><sn>2.</sn> <fld>(Computers)</fld> <def>To represent something (such as an image or sound) as a structured sequence of binary digits.</def></p>
+
+<p source="Wiktionary"><sn>3.</sn> <def>To quantize a continuous or analog value; to convert it into a discrete value.</def></p>
 </entry>
 
 <entry main-word="Digitorium" source="1913 Webster">
 <p><hw>Dig`i*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>digitus</ets> a finger.]</ety> <def>A small dumb keyboard used by pianists for exercising the fingers; -- called also <altname>dumb piano</altname>.</def></p>
-</entry>
-
-<entry main-word="digitoxin" source="PJC">
-<p><hw>dig`i*tox"in</hw> <pr>(d<icr/j`<icr/*t<ocr/k"s<icr/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>.  It is a white, crystalline substance (<chform>C41H64O13</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-14-hydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol>cardiac glycoside</ecol></isa> group.</def> <au>MI11</au></p>
 </entry>
 
 <entry main-word="Digitule" source="1913 Webster">
