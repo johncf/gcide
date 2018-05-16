@@ -13695,7 +13695,7 @@ His corrigible neck?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Windowpane" source="1913 Webster">
-<p><hw>Win"dow*pane`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Arch.)</fld> <def>See <er>Pane</er>, <pos>n.</pos>, (3) <sd>b</sd>.</def>  <altsp>[In this sense, written also <asp>window pane</asp>.]</altsp></p>
+<p><hw>Win"dow*pane`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Arch.)</fld> <def>See <er>Pane</er>, <pos>n.</pos>, <snr>3</snr> <sdr>(b)</sdr>.</def>  <altsp>[In this sense, written also <asp>window pane</asp>.]</altsp></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>A thin, spotted American turbot (<spn>Pleuronectes maculatus</spn>) remarkable for its translucency. It is not valued as a food fish. Called also <altname>spotted turbot</altname>, <altname>daylight</altname>, <altname>spotted sand flounder</altname>, and <altname>water flounder</altname>.</def></p>
 </entry>

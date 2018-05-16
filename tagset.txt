@@ -617,7 +617,7 @@ Tag           Font         Meaning and Description
                            from additional sentences appended to the first
                            sentence of a definition. (multi-para)
 
-<oneof>       plain        Used inside <col> or <ecol> tags.
+<oneof>       plain        Mostly used within <col> or <ecol> tags.
                            See the section on <oneof> tag below.
 
 <c>           inherit      Choice. Used only within <oneof>
@@ -1080,7 +1080,7 @@ Tag           Font         Meaning and Description
 
 * <oneof> tag usage
 
-It may be used inside <col> or <ecol> as follows:
+Mostly within <col> or <ecol> as follows:
 
 - <col>To be hand <oneof><c>and glove</c>, <or/ <c>in glove</c>,</oneof> with</col>
 - <col>To <oneof><c>lift</c>, <or/ <c>put forth</c>,</oneof> the hand against</col>

@@ -37689,7 +37689,7 @@ Of plagues.</q> <rj><qau>Marston.</qau></rj></p>
 <p source="WordNet 1.5"><sn>5.</sn> <def>raising the stakes in a game, such as a card game or backgammon, by a factor of 2.</def><br/
 <syn><b>Syn. --</b> double.</syn></p>
 
-<p><cs><mcol><col>Doubling a cape</col>, <col>promontory</col></mcol>, <cd>etc. <fld>(Naut.)</fld>, sailing around or passing beyond a cape, promontory, etc.</cd></cs></p>
+<p><cs><col>Doubling a <oneof>cape, promontory,</oneof></col> etc. <cd><fld>(Naut.)</fld>, sailing around or passing beyond a cape, promontory, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Doubloon" source="1913 Webster">

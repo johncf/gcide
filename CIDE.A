@@ -812,7 +812,7 @@ Like a fat squab upon a Chinese fan.</q> <rj><qau>Cowper.</qau></rj></p>
 <entry main-word="Abecedarian" source="1913 Webster">
 <p><mhw>{ <hw>A`be*ce*da"ri*an</hw>, <hw>A`be*ce"da*ry</hw> <pr>(<?/)</pr>, }</mhw> <pos>a.</pos> <def>Pertaining to, or formed by, the letters of the alphabet; alphabetic; hence, rudimentary.</def></p>
 
-<p><cs><mcol><col>Abecedarian psalms</col>, <col>hymns</col></mcol>, <cd>etc., compositions in which (like the 119th psalm in Hebrew) distinct portions or verses commence with successive letters of the alphabet.</cd>  <rj><au>Hook.</au></rj></cs></p>
+<p><cs><col>Abecedarian <oneof>psalms, hymns</oneof></col>, etc., <cd>compositions in which (like the 119th psalm in Hebrew) distinct portions or verses commence with successive letters of the alphabet.</cd>  <rj><au>Hook.</au></rj></cs></p>
 </entry>
 
 <entry main-word="Abecedary" source="1913 Webster">
@@ -4916,7 +4916,7 @@ And wisdom falls before exterior grace.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><sn>4.</sn> <def>To credit; to vouch for or consider (some one) as doing something, or (something) as belonging to some one.</def></p>
 
-<p><cs><mcol><col>To accredit</col> (one) <col>with</col> (something)</mcol>, <cd>to attribute something to him; <as>as, Mr. Clay was <ex>accredited with</ex> these views; they <ex>accredit</ex> him <ex>with</ex> a wise saying</as>.</cd></cs></p>
+<p><cs><col>To accredit <plain>(one)</plain> with <plain>(something)</plain></col>, <cd>to attribute something to him; <as>as, Mr. Clay was <ex>accredited with</ex> these views; they <ex>accredit</ex> him <ex>with</ex> a wise saying</as>.</cd></cs></p>
 </entry>
 
 <entry main-word="Accreditation" source="1913 Webster">
@@ -13170,7 +13170,7 @@ On hostile ground, none daring my <qex>affront</qex>.</q> <rj><qau>Milton.</qau>
 
 <p><q>He takes greatness of kingdoms according to bulk and currency, and not <qex>after</qex> their intrinsic value.</q> <rj><qau>Bacon.</qau></rj></p>
 
-<p><cs><col>After all</col>, <cd>when everything has been considered; upon the whole.</cd> -- <col>After</col> (with the same noun preceding and following), as, wave <xex>after</xex> wave, day <xex>after</xex> day, several or many (waves, etc.) <cd>successively.</cd> -- <col>One after another</col>, <cd>successively.</cd> -- <col>To be after</col>, <cd>to be in pursuit of in order to reach or get; <as>as, he is <ex>after</ex> money</as>.</cd></cs></p>
+<p><cs><col>After all</col>, <cd>when everything has been considered; upon the whole.</cd> -- <col><plain>(thing)</plain> after <plain>(thing)</plain></col> (with the same noun preceding and following), as, wave <xex>after</xex> wave, day <xex>after</xex> day, <cd>several or many (waves, etc.) successively.</cd> -- <col>One after another</col>, <cd>successively.</cd> -- <col>To be after</col>, <cd>to be in pursuit of in order to reach or get; <as>as, he is <ex>after</ex> money</as>.</cd></cs></p>
 </entry>
 
 <entry main-word="After" source="1913 Webster">
@@ -22242,7 +22242,7 @@ Of Heaven.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Any stock of missiles, literal or figurative.</def></p>
 
-<p><cs><mcol><col>Ammunition bread</col>, <col>shoes</col>, etc.</mcol>, <cd>such as are contracted for by government, and supplied to the soldiers.</cd> <mark>[Eng.]</mark></cs></p>
+<p><cs><col>Ammunition <oneof>bread, shoes</oneof></col>, etc., <cd>such as are contracted for by government, and supplied to the soldiers.</cd> <mark>[Eng.]</mark></cs></p>
 </entry>
 
 <entry main-word="Ammunition" source="1913 Webster">
@@ -24013,7 +24013,7 @@ To run <qex>amuck</qex>, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj></
 
 <p><sn>6.</sn> <fld>(Nat. Hist.)</fld> <def>The process of ascertaining the name of a species, or its place in a system of classification, by means of an analytical table or key.</def></p>
 
-<p><cs><mcol><col>Ultimate</col>, <col>Proximate</col>, <col>Qualitative</col>, <col>Quantitative</col>, and <col>Volumetric analysis</col></mcol>. <fld>(Chem.)</fld> <cd>See under <er>Ultimate</er>, <er>Proximate</er>, <er>Qualitative</er>, etc.</cd></cs></p>
+<p><cs><col><oneof>Ultimate, Proximate, Qualitative, Quantitative, <and/ Volumetric</oneof> analysis</col>. <fld>(Chem.)</fld> <cd>See under <er>Ultimate</er>, <er>Proximate</er>, <er>Qualitative</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Analysis of variance" source="PJC">
@@ -25707,7 +25707,7 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>A fisher next his trembling <qex>angle</qex> bears.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p><cs><col>Acute angle</col>, <cd>one less than a right angle, or less than 90<deg/.</cd> -- <mcol><col>Adjacent</col> or <col>Contiguous angles</col></mcol>, <cd>such as have one leg common to both angles.</cd> -- <col>Alternate angles</col>. <cd>See <er>Alternate</er>.</cd> -- <col>Angle bar</col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>An upright bar at the angle where two faces of a polygonal or bay window meet.</cd> <au>Knight.</au> <sd>(b)</sd> <fld>(Mach.)</fld> <cd>Same as <er>Angle iron</er>.</cd> -- <col>Angle bead</col> <fld>(Arch.)</fld>, <cd>a bead worked on or fixed to the angle of any architectural work, esp. for protecting an angle of a wall.</cd> -- <mcol><col>Angle brace</col>, <col>Angle tie</col></mcol> <fld>(Carp.)</fld>, <cd>a brace across an interior angle of a wooden frame, forming the hypothenuse and securing the two side pieces together.</cd> <au>Knight.</au> -- <col>Angle iron</col> <fld>(Mach.)</fld>, <cd>a rolled bar or plate of iron having one or more angles, used for forming the corners, or connecting or sustaining the sides of an iron structure to which it is riveted.</cd> -- <col>Angle leaf</col> <fld>(Arch.)</fld>, <cd>a detail in the form of a leaf, more or less conventionalized, used to decorate and sometimes to strengthen an angle.</cd> -- <col>Angle meter</col>, <cd>an instrument for measuring angles, esp. for ascertaining the dip of strata.</cd> -- <col>Angle shaft</col> <fld>(Arch.)</fld>, <cd>an enriched angle bead, often having a capital or base, or both.</cd> -- <col>Curvilineal angle</col>, <cd>one formed by two curved lines.</cd> -- <col>External angles</col>, <cd>angles formed by the sides of any right-lined figure, when the sides are produced or lengthened.</cd> -- <col>Facial angle</col>. <cd>See under <er>Facial</er>.</cd> -- <col>Internal angles</col>, <cd>those which are within any right-lined figure.</cd> -- <col>Mixtilineal angle</col>, <cd>one formed by a right line with a curved line.</cd> -- <col>Oblique angle</col>, <cd>one acute or obtuse, in opposition to a <xex>right angle</xex>.</cd> -- <col>Obtuse angle</col>, <cd>one greater than a right angle, or more than 90<deg/.</cd> -- <col>Optic angle</col>. <cd>See under <er>Optic</er>.</cd> -- <mcol><col>Rectilineal</col> or <col>Right-lined angle</col></mcol>, <cd>one formed by two right lines.</cd> -- <col>Right angle</col>, <cd>one formed by a right line falling on another perpendicularly, or an angle of 90<deg/ (measured by a quarter circle).</cd> -- <col>Solid angle</col>, <cd>the figure formed by the meeting of three or more plane angles at one point.</cd> -- <col>Spherical angle</col>, <cd>one made by the meeting of two arcs of great circles, which mutually cut one another on the surface of a globe or sphere.</cd> -- <col>Visual angle</col>, <cd>the angle formed by two rays of light, or two straight lines drawn from the extreme points of an object to the center of the eye.</cd> -- <mcol><col>For Angles of commutation</col>, <col>draught</col>, <col>incidence</col>, <col>reflection</col>, <col>refraction</col>, <col>position</col>, <col>repose</col>, <col>fraction</col></mcol>, <cd>see <er>Commutation</er>, <er>Draught</er>, <er>Incidence</er>, <er>Reflection</er>, <er>Refraction</er>, etc.</cd></cs></p>
+<p><cs><col>Acute angle</col>, <cd>one less than a right angle, or less than 90<deg/.</cd> -- <col><oneof>Adjacent <or/ Contiguous</oneof> angles</col>, <cd>such as have one leg common to both angles.</cd> -- <col>Alternate angles</col>. <cd>See <er>Alternate</er>.</cd> -- <col>Angle bar</col>. <sd>(a)</sd> <fld>(Carp.)</fld> <cd>An upright bar at the angle where two faces of a polygonal or bay window meet.</cd> <au>Knight.</au> <sd>(b)</sd> <fld>(Mach.)</fld> <cd>Same as <er>Angle iron</er>.</cd> -- <col>Angle bead</col> <fld>(Arch.)</fld>, <cd>a bead worked on or fixed to the angle of any architectural work, esp. for protecting an angle of a wall.</cd> -- <col>Angle brace</col>, <col>Angle tie</col> <fld>(Carp.)</fld>, <cd>a brace across an interior angle of a wooden frame, forming the hypothenuse and securing the two side pieces together.</cd> <au>Knight.</au> -- <col>Angle iron</col> <fld>(Mach.)</fld>, <cd>a rolled bar or plate of iron having one or more angles, used for forming the corners, or connecting or sustaining the sides of an iron structure to which it is riveted.</cd> -- <col>Angle leaf</col> <fld>(Arch.)</fld>, <cd>a detail in the form of a leaf, more or less conventionalized, used to decorate and sometimes to strengthen an angle.</cd> -- <col>Angle meter</col>, <cd>an instrument for measuring angles, esp. for ascertaining the dip of strata.</cd> -- <col>Angle shaft</col> <fld>(Arch.)</fld>, <cd>an enriched angle bead, often having a capital or base, or both.</cd> -- <col>Curvilineal angle</col>, <cd>one formed by two curved lines.</cd> -- <col>External angles</col>, <cd>angles formed by the sides of any right-lined figure, when the sides are produced or lengthened.</cd> -- <col>Facial angle</col>. <cd>See under <er>Facial</er>.</cd> -- <col>Internal angles</col>, <cd>those which are within any right-lined figure.</cd> -- <col>Mixtilineal angle</col>, <cd>one formed by a right line with a curved line.</cd> -- <col>Oblique angle</col>, <cd>one acute or obtuse, in opposition to a <xex>right angle</xex>.</cd> -- <col>Obtuse angle</col>, <cd>one greater than a right angle, or more than 90<deg/.</cd> -- <col>Optic angle</col>. <cd>See under <er>Optic</er>.</cd> -- <col><oneof>Rectilineal <or/ Right-lined</oneof> angle</col>, <cd>one formed by two right lines.</cd> -- <col>Right angle</col>, <cd>one formed by a right line falling on another perpendicularly, or an angle of 90<deg/ (measured by a quarter circle).</cd> -- <col>Solid angle</col>, <cd>the figure formed by the meeting of three or more plane angles at one point.</cd> -- <col>Spherical angle</col>, <cd>one made by the meeting of two arcs of great circles, which mutually cut one another on the surface of a globe or sphere.</cd> -- <col>Visual angle</col>, <cd>the angle formed by two rays of light, or two straight lines drawn from the extreme points of an object to the center of the eye.</cd> -- For <col>Angles of <oneof>commutation, draught, incidence, reflection, refraction, position, repose, fraction</oneof></col>, <cd>see <er>Commutation</er>, <er>Draught</er>, <er>Incidence</er>, <er>Reflection</er>, <er>Refraction</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Angle" source="1913 Webster">
@@ -27459,7 +27459,7 @@ And all her various objects of delight<br/
 
 <p><sn>2.</sn> <fld>(Astron.)</fld> <def>Pertaining to the anomaly, or angular distance of a planet from its perihelion.</def></p>
 
-<p><cs><col>Anomalistic month</col>. <cd>See under <er>Month</er>.</cd> -- <col>Anomalistic revolution</col>, <cd>the period in which a planet or satellite goes through the complete cycles of its changes of anomaly, or from any point in its elliptic orbit to the same again.</cd> -- <mcol><col>Anomalistic</col>, or <col>Periodical year</col></mcol>. <cd>See under <er>Year</er>.</cd></cs></p>
+<p><cs><col>Anomalistic month</col>. <cd>See under <er>Month</er>.</cd> -- <col>Anomalistic revolution</col>, <cd>the period in which a planet or satellite goes through the complete cycles of its changes of anomaly, or from any point in its elliptic orbit to the same again.</cd> -- <col><oneof>Anomalistic, <or/ Periodical,</oneof> year</col>. <cd>See under <er>Year</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Anomalistically" source="1913 Webster">
@@ -37103,7 +37103,7 @@ I know you will not lose him.</q> <rj><qau>Two N. Kins.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Steel or iron covering, whether of ships or forts, protecting them from the fire of artillery.</def></p>
 
-<p><cs><col>Coat armor</col>, <cd>the escutcheon of a person or family, with its several charges and other furniture, as mantling, crest, supporters, motto, etc.</cd> -- <col>Submarine</col>, <cd>a water-tight dress or covering for a diver. See under <er>Submarine</er>.</cd></cs></p>
+<p><cs><col>Coat armor</col>, <cd>the escutcheon of a person or family, with its several charges and other furniture, as mantling, crest, supporters, motto, etc.</cd> -- <col>Submarine armor</col>, <cd>a water-tight dress or covering for a diver. See under <er>Submarine</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Armoracia" source="WordNet 1.5">
@@ -38737,7 +38737,7 @@ Lives in these touches, livelier than life.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Cultivated; not indigenous; not of spontaneous growth; <as>as, <ex>artificial</ex> grasses</as>.</def>  <rj><au>Gibbon.</au></rj></p>
 
-<p><cs><col>Artificial arguments</col> <fld>(Rhet.)</fld>, <cd>arguments invented by the speaker, in distinction from laws, authorities, and the like, which are called <xex>inartificial</xex> arguments or proofs.</cd> <au>Johnson.</au> -- <col>Artificial classification</col> <fld>(Science)</fld>, <cd>an arrangement based on superficial characters, and not expressing the true natural relations species; as, <ldquo/the <xex>artificial</xex> system<rdquo/ in botany, which is the same as the Linn<ae/an system.</cd> -- <col>Artificial horizon</col>. <cd>See under <er>Horizon</er></cd>. <col>Artificial light</col>, <cd>any light other than that which proceeds from the heavenly bodies.</cd> -- <col>Artificial lines</col>, <cd>lines on a sector or scale, so contrived as to represent the logarithmic sines and tangents, which, by the help of the line of numbers, solve, with tolerable exactness, questions in trigonometry, navigation, etc.</cd> -- <col>Artificial numbers</col>, <cd>logarithms.</cd> -- <col>Artificial person</col> <fld>(Law)</fld>. <cd>See under <er>Person</er>.</cd> -- <mcol><col>Artificial sines</col>, <col>tangents</col>, etc.</mcol>, <cd>the same as logarithms of the natural sines, tangents, etc.</cd> <au>Hutton.</au></cs></p>
+<p><cs><col>Artificial arguments</col> <fld>(Rhet.)</fld>, <cd>arguments invented by the speaker, in distinction from laws, authorities, and the like, which are called <xex>inartificial</xex> arguments or proofs.</cd> <au>Johnson.</au> -- <col>Artificial classification</col> <fld>(Science)</fld>, <cd>an arrangement based on superficial characters, and not expressing the true natural relations species; as, <ldquo/the <xex>artificial</xex> system<rdquo/ in botany, which is the same as the Linn<ae/an system.</cd> -- <col>Artificial horizon</col>. <cd>See under <er>Horizon</er></cd>. <col>Artificial light</col>, <cd>any light other than that which proceeds from the heavenly bodies.</cd> -- <col>Artificial lines</col>, <cd>lines on a sector or scale, so contrived as to represent the logarithmic sines and tangents, which, by the help of the line of numbers, solve, with tolerable exactness, questions in trigonometry, navigation, etc.</cd> -- <col>Artificial numbers</col>, <cd>logarithms.</cd> -- <col>Artificial person</col> <fld>(Law)</fld>. <cd>See under <er>Person</er>.</cd> -- <col>Artificial <oneof>sines, tangents,</oneof></col> etc., <cd>the same as logarithms of the natural sines, tangents, etc.</cd> <au>Hutton.</au></cs></p>
 </entry>
 
 <entry main-word="Artificiality" source="1913 Webster">
@@ -44629,7 +44629,7 @@ Enforce <qex>attention</qex> like deep harmony.</q> <rj><qau>Shak.</qau></rj></p
 
 <p>(3.) <stypec>Capillary attraction</stypec>, attraction causing a liquid to rise, in capillary tubes or interstices, above its level outside, as in very small glass tubes, or a sponge, or any porous substance, when one end is inserted in the liquid. It is a special case of cohesive attraction.</p>
 
-<p>(4.) <stypec>Chemical attraction</stypec>, or <stypec>affinity</stypec>, that peculiar force which causes elementary atoms, or groups of atoms, to unite to form molecules.</note></p>
+<p>(4.) <stypec>Chemical <oneof>attraction, <or/ affinity</oneof></stypec>, that peculiar force which causes elementary atoms, or groups of atoms, to unite to form molecules.</note></p>
 
 <p><sn>2.</sn> <def>The act or property of attracting; the effect of the power or operation of attraction.</def>  <rj><au>Newton.</au></rj></p>
 
@@ -48666,7 +48666,7 @@ The steadfast earth.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>For his mercies <qex>aye</qex> endure.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p><cs><mcol><col>For aye</col>, <col>always</col></mcol><cd>; forever; eternally.</cd></cs></p>
+<p><cs><col>For aye</col>, <cd>always; forever; eternally.</cd></cs></p>
 </entry>
 
 <entry main-word="Aye-aye" source="1913 Webster">
