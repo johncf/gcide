@@ -22117,7 +22117,7 @@ But for the end it works to.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Dilleniaceae" source="WordNet 1.5">
-<p><hw>Dilleniaceae</hw> <pos>n.</pos> <def>a natural family of chiefly tropical shrubs and trees and climbers having leathery leaves or flattened leaflike stems, including the genera <styp><gen>Dillenia</gen></styp> and <styp><gen>Hibbertia</gen></styp>.</def><br/
+<p><hw>Dilleniaceae</hw> <pos>n.</pos> <def>a natural family of chiefly tropical shrubs and trees and climbers having leathery leaves or flattened leaflike stems, including the genera <gen>Dillenia</gen> and <gen>Hibbertia</gen>.</def><br/
 <syn><b>Syn. --</b> family <fam>Dilleniaceae</fam>.</syn></p>
 </entry>
 
@@ -37271,7 +37271,7 @@ Of arms imagined in your lonely cell.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><q>In catching of <qex>dotterels</qex> we see how the foolish bird playeth the ape in gestures.</q> <rj><qau>Bacon.</qau></rj></p>
 
-<p><note><hand/  The ringed dotterel (or ring plover) is <stype><spn>Charadrius hiaticula</spn></stype>.</note></p>
+<p><note><hand/  The ringed dotterel (or ring plover) is <spn>Charadrius hiaticula</spn>.</note></p>
 
 <p><sn>2.</sn> <def>A silly fellow; a dupe; a gull.</def>  <rj><au>Barrow.</au></rj></p>
 </entry>

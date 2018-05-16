@@ -2133,7 +2133,7 @@ As e'er demolished a pye fortification.</q> <rj><qau>Massinger.</qau></rj></p>
 <p><hw>Ta*man"du</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Sp., from the native name: cf. F. <ets>tamandua</ets>.]</ety> <fld>(Zool.)</fld> <def>A small ant-eater (<spn>Tamandua tetradactyla</spn>) native of the tropical parts of South America.</def></p>
 
 <p><note><hand/ It has five toes on the fore feet, an elongated snout, small ears, and short woolly hair. Its tail is stout and hairy at the base, tapering, and covered with minute scales, and is somewhat prehensile at the end. Called also <altname>tamandua</altname>, <altname>little ant-bear</altname>, <altname>fourmilier</altname>, and <altname>cagouare</altname>.
-    The collared, or striped, tamandu (<stype><spn>Tamandua bivittata</spn></stype>) is considered a distinct species by some writers, but by others is regarded as only a variety.</note></p>
+    The collared, or striped, tamandu (<spn>Tamandua bivittata</spn>) is considered a distinct species by some writers, but by others is regarded as only a variety.</note></p>
 </entry>
 
 <entry main-word="Tamanoir" source="1913 Webster">
@@ -15192,7 +15192,7 @@ And often reaches, and his <qex>thrusts</qex> renews.</q> <rj><qau>Dryden.</qau>
 <entry main-word="Thuja" source="1913 Webster">
 <p><par/<hw>Thu"ja</hw> <pr>(th<umac/"j<adot/)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qyi`a</grk> an African tree with sweet-smelling wood.]</ety> <fld>(Bot.)</fld> <def>A genus of evergreen trees, thickly branched, remarkable for the distichous arrangement of their branches, and having scalelike, closely imbricated, or compressed leaves.</def> <altsp>[Written also <asp>thuya</asp>.]</altsp> See <er>Thyine wood</er>.</p>
 
-<p><note><hand/ <spn>Thuja occidentalis</spn> is the <stype><spn>Arbor vitae</spn></stype> of the Eastern and Northern United States. <spn>Thuja gigantea</spn> of North-western America is a very large tree, there called <stype>red cedar</stype>, and <stype>canoe cedar</stype>, and furnishes a useful timber.</note></p>
+<p><note><hand/ <spn>Thuja occidentalis</spn> is the <spn>Arbor vitae</spn> of the Eastern and Northern United States. <spn>Thuja gigantea</spn> of North-western America is a very large tree, there called <stype>red cedar</stype>, and <stype>canoe cedar</stype>, and furnishes a useful timber.</note></p>
 </entry>
 
 <entry main-word="thujone" source="PJC">

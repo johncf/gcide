@@ -1144,7 +1144,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="backswimmer" source="PJC;;WordNet 1.5">
-<p><hw>back"swim`mer</hw> <pos>n.</pos> <def>any of numerous predaceous aquatic insects of the family <fam>Notonectidae</fam> (such as <styp><spn>Notonecta undulata</spn></styp>) that swim on their backs and may inflict painful bites; -- also called <altname>boat bug</altname>.</def> <au>[RHUD]</au></p>
+<p><hw>back"swim`mer</hw> <pos>n.</pos> <def>any of numerous predaceous aquatic insects of the family <fam>Notonectidae</fam> (such as <spn>Notonecta undulata</spn>) that swim on their backs and may inflict painful bites; -- also called <altname>boat bug</altname>.</def> <au>[RHUD]</au></p>
 </entry>
 
 <entry main-word="back-to-back" source="WordNet 1.5">
@@ -6297,7 +6297,7 @@ The <qex>bargain</qex> of your faith.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Basidiomycota" source="PJC;;Webster 1913 Suppl.">
-<p><par/<hw>Ba*sid`i*o*my*co"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Bot.)</fld> <ety>[NL., fr. NL. & E. <ets>basidium</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large subdivision of the kingdom <it>Fungi</it> coextensive with the phylum <phylum>Basidiomycetes</phylum>, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc.  Among the classes of the Basidiomycota are: <styp><class>Gasteromycetes</class></styp> (puffballs); <styp><class>Tiliomycetes</class></styp> (comprising the orders <ord>Ustilaginales</ord> (smuts) and <ord>Uredinales</ord> (rusts)); and <styp><class>Hymenomycetes</class></styp> (mushrooms; toadstools; agarics; bracket fungi).</def> <note>In the 1913 Webster, the Basidiomycetes were defined as "co<oum/rdinate with the <phylum>Ascomycetes</phylum>", and other fungal phyla (the <phylum>Zygomycota</phylum> and <phylum>Deuteromycota</phylum>) were not mentioned.</note><br/
+<p><par/<hw>Ba*sid`i*o*my*co"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <fld>(Bot.)</fld> <ety>[NL., fr. NL. & E. <ets>basidium</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large subdivision of the kingdom <it>Fungi</it> coextensive with the phylum <phylum>Basidiomycetes</phylum>, characterized by having the spores borne on a basidium. It embraces those fungi best known to the public, such as mushrooms, toadstools, etc.  Among the classes of the Basidiomycota are: <class>Gasteromycetes</class> (puffballs); <class>Tiliomycetes</class> (comprising the orders <ord>Ustilaginales</ord> (smuts) and <ord>Uredinales</ord> (rusts)); and <class>Hymenomycetes</class> (mushrooms; toadstools; agarics; bracket fungi).</def> <note>In the 1913 Webster, the Basidiomycetes were defined as "co<oum/rdinate with the <phylum>Ascomycetes</phylum>", and other fungal phyla (the <phylum>Zygomycota</phylum> and <phylum>Deuteromycota</phylum>) were not mentioned.</note><br/
 <syn><b>Syn. --</b> Basidiomycota, subdivision Basidiomycota, subdivision Basidiomycotina.</syn></p>
 </entry>
 
@@ -36592,14 +36592,13 @@ Take every <qex>brutish</qex> shape it can devise.</q> <rj><qau>Leigh Hunt.</qau
 </entry>
 
 <entry main-word="Bryopsida" source="WordNet 1.5">
-<p><hw>Bryopsida</hw> <pos>n.</pos> <def>the class of plants comprising the true mosses, having leafy rather than thalloid gametophytes; it comprises the orders <ord>Andreaeales</ord>; <ord>Bryales</ord>; <ord>Dicranales</ord>; <ord>Eubryales</ord>; and <ord>Sphagnales</ord>.</def><br/
-<syn><b>Syn. --</b> class <class>Bryopsida</class>, Musci, class <class>Musci</class>.</syn></p>
+<p><hw>Bryopsida</hw> <pos>n.</pos> <def>the class of plants comprising the true mosses, having leafy rather than thalloid gametophytes; it comprises the orders <ord>Andreaeales</ord>; <ord>Bryales</ord>; <ord>Dicranales</ord>; <ord>Eubryales</ord>; and <ord>Sphagnales</ord>.</def></p>
 </entry>
 
 <entry main-word="Bryozoa" source="1913 Webster">
 <p><par/<hw>Bry`o*zo"a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ moss + <?/ animal.]</ety> <fld>(Zool.)</fld> <def>A class of Molluscoidea, including minute animals which by budding form compound colonies; -- called also <altname>Polyzoa</altname>.</def></p>
 
-<p><note><hand/ They are often coralike in form and appearance, each small cell containing an individual zooid. Other species grow in delicate, flexible, branched forms, resembling moss, whence the name. Some are found in fresh water, but most are marine. The three principal divisions are <stype><spn>Ectoprocta</spn></stype>, <stype><spn>Entoprocta</spn></stype>, and <stype><spn>Pterobranchia</spn></stype>. See <er>Cyclostoma</er>, <er>Chilostoma</er>, and <er>Phylactolema</er>.</note></p>
+<p><note><hand/ They are often coralike in form and appearance, each small cell containing an individual zooid. Other species grow in delicate, flexible, branched forms, resembling moss, whence the name. Some are found in fresh water, but most are marine. The three principal divisions are <spn>Ectoprocta</spn>, <spn>Entoprocta</spn>, and <spn>Pterobranchia</spn>. See <er>Cyclostoma</er>, <er>Chilostoma</er>, and <er>Phylactolema</er>. <mark>[Outdated]</mark></note></p>
 </entry>
 
 <entry main-word="Bryozoan" source="1913 Webster">

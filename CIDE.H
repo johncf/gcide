@@ -6473,7 +6473,7 @@ Was by a mousing owl <qex>hawked</qex> at and killed.</q> <rj><qau>Shak.</qau></
 
 <p source="1913 Webster"><caption>Tobacco Hawk Moth (<spn>Macrosila Carolina</spn>), and its Larva, the Tobacco Worm.</caption></p>
 
-<p source="1913 Webster"><note><hand/ The larvae of several species of hawk moths feed on grapevines.  The elm-tree hawk moth is <styp><spn>Ceratomia Amyntor</spn></styp>.</note></p>
+<p source="1913 Webster"><note><hand/ The larvae of several species of hawk moths feed on grapevines.  The elm-tree hawk moth is <spn>Ceratomia Amyntor</spn>.</note></p>
 </entry>
 
 <entry main-word="hawk's-beard" source="WordNet 1.5">

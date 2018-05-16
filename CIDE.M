@@ -8235,7 +8235,7 @@ Which <qex>marred</qex> all his borrowed visage.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Marasmius" source="WordNet 1.5">
-<p><hw>Marasmius</hw> <pos>prop. n.</pos> <def>A genus of chiefly small white-spored mushrooms, including the <styp><spn>Marasmius oreades</spn></styp>, the mushroon that grow in a <er>fairy ring</er>.</def><br/
+<p><hw>Marasmius</hw> <pos>prop. n.</pos> <def>A genus of chiefly small white-spored mushrooms, including the <spn>Marasmius oreades</spn>, the mushroon that grow in a <er>fairy ring</er>.</def><br/
 <syn><b>Syn. --</b> genus <gen>Marasmius</gen>.</syn></p>
 </entry>
 
@@ -35472,7 +35472,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mullet" source="1913 Webster">
-<p><hw>Mul"let</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>molet</ets>, <ets>mulet</ets>, F. <ets>mulet</ets>, fr. L. <ets>mullus</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous fishes of the genus Mugil; -- called also <altname>gray mullets</altname>. They are found on the coasts of both continents, and are highly esteemed as food. Among the most valuable species are <styp><spn>Mugil capito</spn></styp> of Europe, and <styp><spn>Mugil cephalus</spn></styp> which occurs both on the European and American coasts.</def></p>
+<p><hw>Mul"let</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>molet</ets>, <ets>mulet</ets>, F. <ets>mulet</ets>, fr. L. <ets>mullus</ets>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any one of numerous fishes of the genus Mugil; -- called also <altname>gray mullets</altname>. They are found on the coasts of both continents, and are highly esteemed as food. Among the most valuable species are <spn>Mugil capito</spn> of Europe, and <spn>Mugil cephalus</spn> which occurs both on the European and American coasts.</def></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any species of the genus <gen>Mullus</gen>, or family <fam>Mullidae</fam>; called also <altname>red mullet</altname>, and <altname>surmullet</altname>, esp. the plain surmullet (<spn>Mullus barbatus</spn>), and the striped surmullet (<spn>Mullus surmulletus</spn>) of Southern Europe.  The former is the mullet of the Romans. It is noted for the brilliancy of its colors. See <er>Surmullet</er>.</def></p>
 
