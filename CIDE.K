@@ -4750,7 +4750,7 @@ Tie up the <qex>knocker</qex>; say I'm sick, I'm dead.</q> <rj><qau>Pope.</qau><
 </entry>
 
 <entry main-word="knockout drops" source="PJC;;Webster 1913 Suppl.">
-<p><mhw><hw>knockout drops</hw>, <hw>knock-out drops</hw></mhw> <pos>n. pl.</pos> <def>Drops of any drug, used to a person to fall asleep or become unconscious or stupefied for the purpose of robbery, etc.; they are usually mixed into a drink so that the person consuming it does so unknowingly.  One compound used for this purpose is <styp><er>chloral hydrate</er></styp>.</def> <mark>[Slang, U. S.]</mark></p>
+<p><mhw><hw>knockout drops</hw>, <hw>knock-out drops</hw></mhw> <pos>n. pl.</pos> <def>Drops of any drug, used to a person to fall asleep or become unconscious or stupefied for the purpose of robbery, etc.; they are usually mixed into a drink so that the person consuming it does so unknowingly.  One compound used for this purpose is <stype><er>chloral hydrate</er></stype>.</def> <mark>[Slang, U. S.]</mark></p>
 </entry>
 
 <entry main-word="Knockstone" source="1913 Webster">

@@ -17609,7 +17609,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
 <entry main-word="Bioluminescence" source="PJC">
-<p><hw>Bi"o*lu`mi*nes"cence</hw> <pr>(b<imac/"<osl/*l<oomac/`m<icr/*n<ecr/s"<eit/ns)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bi`os</grk> life + <ets>luminescence</ets>.]</ety> <def>a type of <er>luminescence</er> produced by biological or biochemical processes, such as a glowworm glow or the action of luciferase on luciferin.  A well-known example is that of <styp><er>firefly luminescence</er></styp>.  See also <er>luciferin</er>.</def></p>
+<p><hw>Bi"o*lu`mi*nes"cence</hw> <pr>(b<imac/"<osl/*l<oomac/`m<icr/*n<ecr/s"<eit/ns)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bi`os</grk> life + <ets>luminescence</ets>.]</ety> <def>a type of <er>luminescence</er> produced by biological or biochemical processes, such as a glowworm glow or the action of luciferase on luciferin.  A well-known example is that of <stype><er>firefly luminescence</er></stype>.  See also <er>luciferin</er>.</def></p>
 </entry>
 
 <entry main-word="Biolytic" source="1913 Webster">
@@ -27415,7 +27415,7 @@ And go the fools among.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Borassus" source="WordNet 1.5">
-<p><hw>Borassus</hw> <pos>n.</pos> <def>a genus of palm trees including the <styp><er>palmyra</er></styp> (<spn>Borassus flabellifer</spn>, formerly <spn>Borassus flabelliformis</spn>).</def><br/
+<p><hw>Borassus</hw> <pos>n.</pos> <def>a genus of palm trees including the <stype><er>palmyra</er></stype> (<spn>Borassus flabellifer</spn>, formerly <spn>Borassus flabelliformis</spn>).</def><br/
 <syn><b>Syn. --</b> genus <gen>Borassus</gen>.</syn></p>
 </entry>
 

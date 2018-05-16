@@ -12668,7 +12668,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj></p>
 </entry>
 
 <entry main-word="nucleic acid" source="PJC;;WordNet 1.5">
-<p><hw>nu*cle"ic ac"id</hw> <pr>(n<oomac/*kl<amac/"<icr/k <acr/s"<icr/d <or/ n<oomac/*kl<emac/"<icr/k)</pr>, <pos>n.</pos> <fld>(Chem., Biochem., Genetics)</fld> <def>A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units.</def> <note>The <ex>nucleic acids</ex> are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell.  The two natural types of nucleic adic are <styp><er>ribonucleic acid</er></styp> (RNA) and <styp><er>deoxyribonucleic acid</er></styp> (DNA).</note></p>
+<p><hw>nu*cle"ic ac"id</hw> <pr>(n<oomac/*kl<amac/"<icr/k <acr/s"<icr/d <or/ n<oomac/*kl<emac/"<icr/k)</pr>, <pos>n.</pos> <fld>(Chem., Biochem., Genetics)</fld> <def>A natural or synthetic polymer consisting of chains of ribonucleotide or deoxyribonucleotide units.</def> <note>The <ex>nucleic acids</ex> are vital constituents of all living cells, carrying the genetic information propagated between generations, and, while a cell is alive, having a continued function in coding for the amino acid sequence of proteins being synthesized by the cell.  The two natural types of nucleic adic are <stype><er>ribonucleic acid</er></stype> (RNA) and <stype><er>deoxyribonucleic acid</er></stype> (DNA).</note></p>
 </entry>
 
 <entry main-word="Nucleiform" source="1913 Webster">

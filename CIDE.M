@@ -9255,7 +9255,7 @@ The world's collected wealth.</q> <rj><qau>Southey.</qau></rj></p>
 </entry>
 
 <entry main-word="Markov chain" source="PJC">
-<p><hw>Mark"ov chain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>A random process (<isa>Markov process</isa>) in which the probabilities of discrete states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached.  It differs from the more general Markov process in that the states of a <ex>Markov chain</ex> are discrete rather than continuous. Certain physical processes, such as diffusion of a molecule in a fluid, are modelled as a <ex>Markov chain</ex>.  See also <styp><er>random walk</er></styp>.</def> <altsp>[Also spelled <asp>Markoff chain</asp>.]</altsp></p>
+<p><hw>Mark"ov chain</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[after <person>A. A. <etsep>Markov</etsep></person>, Russian mathematician, b. 1856, d. 1922.]</ety> <fld>(Statistics)</fld> <def>A random process (<isa>Markov process</isa>) in which the probabilities of discrete states in a series depend only on the properties of the immediately preceding state or the next preceeding state, independent of the path by which the preceding state was reached.  It differs from the more general Markov process in that the states of a <ex>Markov chain</ex> are discrete rather than continuous. Certain physical processes, such as diffusion of a molecule in a fluid, are modelled as a <ex>Markov chain</ex>.  See also <stype><er>random walk</er></stype>.</def> <altsp>[Also spelled <asp>Markoff chain</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Markov process" source="PJC">
@@ -14871,7 +14871,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj></p>
 </entry>
 
 <entry main-word="melamine resin" source="PJC">
-<p><hw>melamine resin</hw> <hw>melamine-fromaldehyde methanal resin</hw> <pos>n.</pos> <def>A thermosetting plastic formed by the reaction of melamine and formaldehyde.  It is used for molding and for preparing laminated sheets used to surface counter tops, walls, and furniture.  The commercially marketed <styp><er>Formica</er></styp> (TM) is one type of melamine resin.</def></p>
+<p><hw>melamine resin</hw> <hw>melamine-fromaldehyde methanal resin</hw> <pos>n.</pos> <def>A thermosetting plastic formed by the reaction of melamine and formaldehyde.  It is used for molding and for preparing laminated sheets used to surface counter tops, walls, and furniture.  The commercially marketed <stype><er>Formica</er></stype> (TM) is one type of melamine resin.</def></p>
 </entry>
 
 <entry main-word="Melampode" source="1913 Webster">
@@ -26357,7 +26357,7 @@ Wot be <qex>misvalued</qex> both of old and young.</q> <rj><qau>W. Browne.</qau>
 </entry>
 
 <entry main-word="Mite" source="1913 Webster">
-<p><hw>Mite</hw> <pr>(m<imac/t)</pr>, <pos>n.</pos> <ety>[AS. <ets>m<imac/te</ets> mite (in sense 1); akin to LG. <ets>mite</ets>, D. <ets>mijt</ets>, G. <ets>miete</ets>, OHG. <ets>m<imac/za</ets>; cf. Goth. <ets>maitan</ets> to cut.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A minute arachnid, of the order <ord>Acarina</ord>, of which there are many species; <as>as, the <styp>dust <ex>mite</ex></styp>, <styp>cheese <ex>mite</ex></styp>, <styp>sugar <ex>mite</ex></styp>, <styp>harvest <ex>mite</ex></styp>, <styp>three-toed spider <ex>mite</ex></styp>, etc.</as> See <er>Acarina</er>.</def></p>
+<p><hw>Mite</hw> <pr>(m<imac/t)</pr>, <pos>n.</pos> <ety>[AS. <ets>m<imac/te</ets> mite (in sense 1); akin to LG. <ets>mite</ets>, D. <ets>mijt</ets>, G. <ets>miete</ets>, OHG. <ets>m<imac/za</ets>; cf. Goth. <ets>maitan</ets> to cut.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A minute arachnid, of the order <ord>Acarina</ord>, of which there are many species; <as>as, the <stype>dust <ex>mite</ex></stype>, <stype>cheese <ex>mite</ex></stype>, <stype>sugar <ex>mite</ex></stype>, <stype>harvest <ex>mite</ex></stype>, <stype>three-toed spider <ex>mite</ex></stype>, etc.</as> See <er>Acarina</er>.</def></p>
 
 <p><sn>2.</sn> <ety>[D. <ets>mijt</ets>; prob. the same word.]</ety> <def>A small coin formerly circulated in England, rated at about a third of a farthing.  The name is also applied to a small coin used in Palestine in the time of Christ.</def></p>
 
@@ -26542,7 +26542,7 @@ Wot be <qex>misvalued</qex> both of old and young.</q> <rj><qau>W. Browne.</qau>
 <entry main-word="Mitt" source="1913 Webster">
 <p><hw>Mitt</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Abbrev. fr. <ets>mitten</ets>.]</ety> <sn>1.</sn> <def>A mitten; also, a covering for the wrist and hand and not for the fingers, usually worn by women.</def></p>
 
-<p source="PJC"><sn>2.</sn> <fld>(Baseball)</fld> <def>A large glove, usually made of leather or similar material, with differing degrees of padding and usually some form of webbing in the large space between the thumb insert and the insert for the index finger; a baseball glove.  It is used to assist in catching the baseball.  The <styp>catcher's <ex>mitt</ex></styp> has more padding and less webbing.</def></p>
+<p source="PJC"><sn>2.</sn> <fld>(Baseball)</fld> <def>A large glove, usually made of leather or similar material, with differing degrees of padding and usually some form of webbing in the large space between the thumb insert and the insert for the index finger; a baseball glove.  It is used to assist in catching the baseball.  The <stype>catcher's <ex>mitt</ex></stype> has more padding and less webbing.</def></p>
 
 <p source="PJC"><sn>3.</sn> <def>A hand; -- used mostly in slang expressions; <as>as, keep your <ex>mitts</ex> off my box of chocolates!</as></def></p>
 </entry>

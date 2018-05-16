@@ -22583,7 +22583,7 @@ Forever, and forever farewell, Cassius.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <def>(With the definite article) The Eternal Being; God.</def></p>
 
-<p><sn>3.</sn> <fld>(Bot.)</fld> <def>A plant whose flowers may be dried without losing their form or color, <as>as, the <styp>pearly <ex>everlasting</ex></styp> (<spn>Anaphalis margaritacea</spn>), the <stype>immortelle</stype> (<spn>Xeranthemum anuum</spn>) of the French, the cudweeds, etc.</as></def></p>
+<p><sn>3.</sn> <fld>(Bot.)</fld> <def>A plant whose flowers may be dried without losing their form or color, <as>as, the <stype>pearly <ex>everlasting</ex></stype> (<spn>Anaphalis margaritacea</spn>), the <stype>immortelle</stype> (<spn>Xeranthemum anuum</spn>) of the French, the cudweeds, etc.</as></def></p>
 
 <p><sn>4.</sn> <def>A cloth fabric for shoes, etc. See <er>Lasting</er>.</def></p>
 </entry>

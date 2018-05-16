@@ -2488,7 +2488,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 
 <p source="1913 Webster"><q>Ages elapsed ere Homer's <qex>lamp</qex> appeared.</q> <rj><qau>Cowper.</qau></rj></p>
 
-<p><sn>3.</sn> <fld>(Elec.)</fld> <def>A device or mechanism for producing light by electricity, usually having a glass bulb or tube containing the light-emitting element.  Most lamps belong to one of two categories, the <styp><cref>Incandescent lamp</cref></styp> (See under <er>Incandescent</er>) or the <stype>fluorescent lamp</stype>.  However, see also <styp><cref>arc lamp</cref></styp>, below.</def></p>
+<p><sn>3.</sn> <fld>(Elec.)</fld> <def>A device or mechanism for producing light by electricity, usually having a glass bulb or tube containing the light-emitting element.  Most lamps belong to one of two categories, the <stype><cref>Incandescent lamp</cref></stype> (See under <er>Incandescent</er>) or the <stype>fluorescent lamp</stype>.  However, see also <stype><cref>arc lamp</cref></stype>, below.</def></p>
 
 <p source="PJC"><sn>4.</sn> <def>A device that emits radiant energy in the form of heat, infrared, or ultraviolet rays; <as>as, a <ex>heat</ex> lamp</as>.</def></p>
 
@@ -22628,7 +22628,7 @@ Never to hope again.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Luciferin" source="PJC">
-<p><hw>Lu*cif"er*in</hw> <pr>(l<oomac/*s<icr/f"<etil/r*<icr/n)</pr>, <pos>n.</pos> <fld>(Biochem.)</fld> <def>any of several substances found in luminescent organisms (such as the firefly, <spn>Photinus pyralis</spn>) which, when oxidized, produces an almost heatless light.  It was first isolated from fireflies, and is the source of the firefly luminescence.  See also <styp><er>firefly luciferin</er></styp></def></p>
+<p><hw>Lu*cif"er*in</hw> <pr>(l<oomac/*s<icr/f"<etil/r*<icr/n)</pr>, <pos>n.</pos> <fld>(Biochem.)</fld> <def>any of several substances found in luminescent organisms (such as the firefly, <spn>Photinus pyralis</spn>) which, when oxidized, produces an almost heatless light.  It was first isolated from fireflies, and is the source of the firefly luminescence.  See also <stype><er>firefly luciferin</er></stype></def></p>
 </entry>
 
 <entry main-word="Luciferase" source="PJC">
