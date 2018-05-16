@@ -5617,7 +5617,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj></p>
 </entry>
 
 <entry main-word="Teetotum" source="1913 Webster">
-<p><hw>Tee*to"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[For T-<ets>totum</ets>. It was used for playing games of chance, and was four-sided, one side having the letter <b>T</b> on it, standing for Latin <ets>totum</ets> all, meaning, take all that is staked, whence the name. The other three sides each had a letter indicating an English or Latin word; as <b>P</b> meaning put down, <b>N</b> nothing or L. <ets>nil</ets>, <b>H</b> half. See <er>Total</er>.]</ety> <def>A child's toy, somewhat resembling a top, and twirled by the fingers.</def></p>
+<p><hw>Tee*to"tum</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[For T-<ets>totum</ets>. It was used for playing games of chance, and was four-sided, one side having the letter T on it, standing for Latin <ets>totum</ets> all, meaning, take all that is staked, whence the name. The other three sides each had a letter indicating an English or Latin word; as P meaning put down, N nothing or L. <ets>nil</ets>, H half. See <er>Total</er>.]</ety> <def>A child's toy, somewhat resembling a top, and twirled by the fingers.</def></p>
 
 <p><q>The staggerings of the gentleman . . . were like those of a <qex>teetotum</qex> nearly spent.</q> <rj><qau>Dickens.</qau></rj></p>
 </entry>

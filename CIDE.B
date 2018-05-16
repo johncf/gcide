@@ -36287,21 +36287,21 @@ Amid the lists our hero takes his stand.</q> <rj><qau>T. Warton.</qau></rj></p>
 
 <p><sn>5.</sn> <def>A thicket of shrubs or small trees; the shrubs and small trees in a wood; underbrush.</def></p>
 
-<p source="PJC;;Webster 1913 Suppl."><sn>6.</sn> <def>land covered with brush{5}; in Australia, a dense growth of vegetation in good soil, including shrubs and trees, mostly small.</def></p>
+<p><sn>6.</sn> <fld>(Elec.)</fld> <def>A bundle of flexible wires or thin plates of metal, used to conduct an electrical current to or from the commutator of a dynamo, electric motor, or similar apparatus.</def></p>
 
-<p><sn>7.</sn> <fld>(Elec.)</fld> <def>A bundle of flexible wires or thin plates of metal, used to conduct an electrical current to or from the commutator of a dynamo, electric motor, or similar apparatus.</def></p>
-
-<p><sn>8.</sn> <def>The act of brushing; <as>as, to give one's clothes a <ex>brush</ex></as>; a rubbing or grazing with a quick motion; a light touch; <as>as, we got a <ex>brush</ex> from the wheel as it passed</as>.</def></p>
+<p><sn>7.</sn> <def>The act of brushing; <as>as, to give one's clothes a <ex>brush</ex></as>; a rubbing or grazing with a quick motion; a light touch; <as>as, we got a <ex>brush</ex> from the wheel as it passed</as>.</def></p>
 
 <p><q>[As leaves] have with one winter's <qex>brush</qex><br/
 Fell from their boughts.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><sn>9.</sn> <def>A skirmish; a slight encounter; a shock or collision; <as>as, to have a <ex>brush</ex> with an enemy; a <ex>brush</ex> with the law</as>.</def></p>
+<p><sn>8.</sn> <def>A skirmish; a slight encounter; a shock or collision; <as>as, to have a <ex>brush</ex> with an enemy; a <ex>brush</ex> with the law</as>.</def></p>
 
 <p><q>Let grow thy sinews till their knots be strong,<br/
 And tempt not yet the <qex>brushes</qex> of the war.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><sn>10.</sn> <def>A short contest, or trial, of speed.</def></p>
+<p><sn>9.</sn> <def>A short contest, or trial, of speed.</def></p>
+
+<p source="Webster 1913 Suppl."><sn>10.</sn> <def>In Australia, a dense growth of vegetation in good soil, including shrubs and trees, mostly small.</def></p>
 
 <p><q>Let us enjoy a <qex>brush</qex> across the country.</q> <rj><qau>Cornhill Mag.</qau></rj></p>
 
