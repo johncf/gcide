@@ -875,7 +875,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source="PJC"><sn>6.</sn> <def>The set of conditions that precede and affect an action, such as the social and historical precedents for the event, as well as the general background{5}; <as>as, against the <ex>background</ex> of their expulsion by the Serbs, the desire of Kosovars for vengeance is understandable though regrettable</as>.</def></p>
 
-<p source="PJC"><sn>7.</sn> <fld>(Science)</fld> <def>The signals that may be detected by a measurement which are not due to the phenomenon being studied, and tend to make the measurement uncertain to a greater or lesser degree.</def> <specif>Specifically:</specif> <fld>(Physics)</fld> <def>Electronic noise present in a system using electronic measuring instrument or in a telecommunications system, which may hide and which must be differentiated from the desired signal; also called <ecol><b>background noise</b></ecol> or <altname>noise</altname>.</def></p>
+<p source="PJC"><sn>7.</sn> <fld>(Science)</fld> <def>The signals that may be detected by a measurement which are not due to the phenomenon being studied, and tend to make the measurement uncertain to a greater or lesser degree.</def> <specif>Specifically:</specif> <fld>(Physics)</fld> <def>Electronic noise present in a system using electronic measuring instrument or in a telecommunications system, which may hide and which must be differentiated from the desired signal; also called <ecol>background noise</ecol> or <altname>noise</altname>.</def></p>
 
 <p source="PJC"><sn>8.</sn> <fld>(Journalism)</fld> <def>An agreement between a journalist and an interviewee that the name of the interviewee will not be quoted in any publication, although the substance of the remarks may be reported; -- often used in the phrase <ldquo/on background<rdquo/.  Compare <cref>deep background</cref>.</def></p>
 
@@ -1176,7 +1176,7 @@ Appeared to me.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>4.</sn> <def>an accumulation, overflow, or reverse flow (in traffic or a liquid flow system) caused by a stoppage or other malfunction.</def></p>
 
-<p><sn>5.</sn> <fld>(Computers)</fld> <def>A copy of a program or data from a computer onto a data-storage medium, usually one that may be removed to safe storage at a distance from the computer; it is used to preserve data for use in the contingency that the original data on the computer may be lost or become unusable.  A backup that is removed from the building housing the computer system (to provide protection against loss of data in a disastrous event such as a fire) is called <styp><ecol><b>off-site backup</b></ecol></styp>.  Also used attributively; <as>as, <ex>backup</ex> copy</as>.</def></p>
+<p><sn>5.</sn> <fld>(Computers)</fld> <def>A copy of a program or data from a computer onto a data-storage medium, usually one that may be removed to safe storage at a distance from the computer; it is used to preserve data for use in the contingency that the original data on the computer may be lost or become unusable.  A backup that is removed from the building housing the computer system (to provide protection against loss of data in a disastrous event such as a fire) is called <styp><ecol>off-site backup</ecol></styp>.  Also used attributively; <as>as, <ex>backup</ex> copy</as>.</def></p>
 
 <p><sn>6.</sn> <fld>(Computers)</fld> <def>The act or process of creating a backup{5}; <as>as, they performed a full system <ex>backup</ex> every weekend</as>.</def></p>
 </entry>
@@ -3748,7 +3748,7 @@ Ne ever for rebuke or blame of any <qex>balkt</qex>.</q></p>
 
 <p><sn>2.</sn> <def>The loud sound produced by a sudden concussion or explosion.</def></p>
 
-<p source="PJC"><sn>3.</sn> <def>A surge of pleasure; a thrill; -- usually used in the phrase <ecol><b>get a bang out of</b></ecol>; <as>as, I always get a <ex>bang</ex> out of watching an ice skater do a quadruple jump</as>.</def> <mark>[informal]</mark> <br/
+<p source="PJC"><sn>3.</sn> <def>A surge of pleasure; a thrill; -- usually used in the phrase <ecol>get a bang out of</ecol>; <as>as, I always get a <ex>bang</ex> out of watching an ice skater do a quadruple jump</as>.</def> <mark>[informal]</mark> <br/
 <syn><b>Syn. --</b> kick{5}.</syn></p>
 
 <p source="PJC"><sn>4.</sn> <fld>(Printing & Computers)</fld> <def>An exclamation point; -- used in verbal descriptions of text, in printing and in computer technology; <as>as, his email address is tom <ex>bang</ex> stanford dot edu (i.e. tom!stanford.edu)</as>.</def> <mark>[slang]</mark></p>
@@ -4693,7 +4693,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><cs><col>Barber's itch</col>. <cd>See under <er>Itch</er>.</cd></cs></p>
 
-<p><note><hand/ Formerly the barber practiced some offices of surgery, such as letting blood and pulling teeth.  Hence such terms as <ecol><b>barber surgeon</b></ecol> (old form <col>barber chirurgeon</col>), <col>barber surgery</col>, etc.</note></p>
+<p><note><hand/ Formerly the barber practiced some offices of surgery, such as letting blood and pulling teeth.  Hence such terms as <ecol>barber surgeon</ecol> (old form <col>barber chirurgeon</col>), <col>barber surgery</col>, etc.</note></p>
 </entry>
 
 <entry main-word="Barber" source="1913 Webster">
@@ -8209,7 +8209,7 @@ The <qex>beacon</qex> of the wise.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Bead" source="1913 Webster">
 <p><hw>Bead</hw> <pr>(b<emac/d)</pr>, <pos>n.</pos> <ety>[OE. <ets>bede</ets> prayer, prayer bead, AS. <ets>bed</ets>, <ets>gebed</ets>, prayer; akin to D. <ets>bede</ets>, G. <ets>bitte</ets>, AS. <ets>biddan</ets>, to ask, bid, G. <ets>bitten</ets> to ask, and perh. to Gr. <grk>pei`qein</grk> to persuade, L. <ets>fidere</ets> to trust.  Beads are used by the Roman Catholics to count their prayers, one bead being dropped down a string every time a prayer is said.  Cf. Sp. <ets>cuenta</ets> bead, fr. <ets>contar</ets> to count.  See <er>Bid</er>, in <ets>to bid beads</ets>, and <er>Bide</er>.]</ety> <sn>1.</sn> <def>A prayer.</def> <mark>[Obs.]</mark></p>
 
-<p><sn>2.</sn> <def>A little perforated ball, to be strung on a thread, and worn for ornament; or used in a rosary for counting prayers, as by Roman Catholics and Muslims, whence the phrases <ecol><b>to tell beads</b></ecol>, <col>to be at one's beads</col>, <col>to bid beads</col>, etc., meaning, to be at prayer.</def></p>
+<p><sn>2.</sn> <def>A little perforated ball, to be strung on a thread, and worn for ornament; or used in a rosary for counting prayers, as by Roman Catholics and Muslims, whence the phrases <ecol>to tell beads</ecol>, <col>to be at one's beads</col>, <col>to bid beads</col>, etc., meaning, to be at prayer.</def></p>
 
 <p><sn>3.</sn> <def>Any small globular body</def>; as, <sd>(a)</sd> <def>A bubble in spirits.</def> <sd>(b)</sd> <def>A drop of sweat or other liquid.</def>  <ldquo/Cold <xex>beads</xex> of midnight dew.<rdquo/ <au>Wordsworth.</au> <sd>(c)</sd> <def>A small knob of metal on a firearm, used for taking aim (whence the expression <xex>to draw a bead</xex>, for, to take aim).</def> <sd>(d)</sd> <fld>(Arch.)</fld> <def>A small molding of rounded surface, the section being usually an arc of a circle.  It may be continuous, or broken into short embossments.</def> <sd>(e)</sd> <fld>(Chem.)</fld> <def>A glassy drop of molten flux, as borax or microcosmic salt, used as a solvent and color test for several mineral earths and oxides, as of iron, manganese, etc., before the blowpipe; <as>as, the borax <ex>bead</ex>; the iron <ex>bead</ex>, etc.</as></def></p>
 
@@ -23492,7 +23492,7 @@ The flesh fly <qex>blow</qex> my mouth.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="blue jeans" source="1913 Webster">
-<p><hw>blue" jeans`</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>a tight-fitting trousers made of blue denim or a similar fabric, designed originally to serve as inexpensive durable workclothes, and often having metal rivets for reinforcement.  They have become very popular as casual wear for all age groups, and more expensive and more carefully styled and tailored versions called <ecol><b>designer jeans</b></ecol>have also become popular among girls and women.</def><br/
+<p><hw>blue" jeans`</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <def>a tight-fitting trousers made of blue denim or a similar fabric, designed originally to serve as inexpensive durable workclothes, and often having metal rivets for reinforcement.  They have become very popular as casual wear for all age groups, and more expensive and more carefully styled and tailored versions called <ecol>designer jeans</ecol>have also become popular among girls and women.</def><br/
 <syn><b>Syn. --</b> jeans, Levis.</syn></p>
 </entry>
 

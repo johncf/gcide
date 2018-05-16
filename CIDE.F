@@ -1122,7 +1122,7 @@ Shall grieve him, if I <qex>fail</qex> not.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Fail" source="1913 Webster">
-<p><hw>Fail</hw>, <pos>n.</pos> <ety>[OF. <ets>faille</ets>, from <ets>failir</ets>. See <er>Fail</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>Miscarriage; failure; deficiency; fault; -- mostly superseded by <altname>failure</altname> or <altname>failing</altname>, except in the phrase <ecol><b>without fail</b></ecol>.</def> <ldquo/His highness' <xex>fail</xex> of issue.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Fail</hw>, <pos>n.</pos> <ety>[OF. <ets>faille</ets>, from <ets>failir</ets>. See <er>Fail</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>Miscarriage; failure; deficiency; fault; -- mostly superseded by <altname>failure</altname> or <altname>failing</altname>, except in the phrase <ecol>without fail</ecol>.</def> <ldquo/His highness' <xex>fail</xex> of issue.<rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><sn>2.</sn> <def>Death; decease.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 </entry>
@@ -12288,7 +12288,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A process by which certain coral polyps, echinoderms, annelids, etc., spontaneously subdivide, each individual thus forming two or more new ones. See <er>Strobilation</er>.</def></p>
 
-<p source="PJC"><sn>4.</sn> <fld>(Physics)</fld> <def>The act or process of disintegration of an atomic nucleus into two or more smaller pieces; called also <ecol><b>nuclear fission</b></ecol>.  The process may be spontaneous or induced by capture of neutrons or other smaller nuclei, and usually proceeds with evolution of energy.</def></p>
+<p source="PJC"><sn>4.</sn> <fld>(Physics)</fld> <def>The act or process of disintegration of an atomic nucleus into two or more smaller pieces; called also <ecol>nuclear fission</ecol>.  The process may be spontaneous or induced by capture of neutrons or other smaller nuclei, and usually proceeds with evolution of energy.</def></p>
 </entry>
 
 <entry main-word="fissionable" source="PJC">
@@ -13858,7 +13858,7 @@ He <qex>flashes</qex> into one gross crime or other.</q> <rj><qau>Shak.</qau></r
 <entry main-word="flashback" source="WordNet 1.5">
 <p><hw>flashback</hw> <pos>n.</pos> <sn>1.</sn> <def>a transition (in literary or theatrical works or films) to an earlier event or scene; also, the scene thus introduced.</def></p>
 
-<p source="PJC"><sn>2.</sn> <def>An unusually vivid recollection of a prior experience, often one that is traumatic, such as scenes from combat or a criminal assault, or induced by hallucinogenic drugs such as LSD; when accompanied by hallucinations it is called <styp><ecol><b>flashback hallucinosis</b></ecol></styp>.</def></p>
+<p source="PJC"><sn>2.</sn> <def>An unusually vivid recollection of a prior experience, often one that is traumatic, such as scenes from combat or a criminal assault, or induced by hallucinogenic drugs such as LSD; when accompanied by hallucinations it is called <styp><ecol>flashback hallucinosis</ecol></styp>.</def></p>
 </entry>
 
 <entry main-word="flashbulb" source="WordNet 1.5">
@@ -23512,7 +23512,7 @@ Is eaten by the canker ere it blow.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Forwarder" source="1913 Webster">
 <p><hw>For"ward*er</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who forwards or promotes; a promoter.</def>  <rj><au>Udall.</au></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>2.</sn> <def>One who sends forward anything;</def> <specif>specifically</specif>, <fld>(Com.)</fld> <def>one who transmits goods; a forwarding merchant, such as a <styp><ecol><b>freight forwarder</b></ecol></styp>.</def></p>
+<p source="1913 Webster;;PJC"><sn>2.</sn> <def>One who sends forward anything;</def> <specif>specifically</specif>, <fld>(Com.)</fld> <def>one who transmits goods; a forwarding merchant, such as a <styp><ecol>freight forwarder</ecol></styp>.</def></p>
 
 <p><sn>3.</sn> <fld>(Bookbinding)</fld> <def>One employed in forwarding.</def></p>
 </entry>
@@ -24257,7 +24257,7 @@ As you shall see.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Foursome" source="Webster 1913 Suppl.">
-<p><hw>Four"some</hw>, <pos>n.</pos> <sn>1.</sn> <fld>(Golf)</fld> <def>A game between four players, with two on each side and each side playing but one ball, the partners striking alternately.  It is called a <ecol><b>mixed foursome</b></ecol> when each side consists of a man and a woman.</def></p>
+<p><hw>Four"some</hw>, <pos>n.</pos> <sn>1.</sn> <fld>(Golf)</fld> <def>A game between four players, with two on each side and each side playing but one ball, the partners striking alternately.  It is called a <ecol>mixed foursome</ecol> when each side consists of a man and a woman.</def></p>
 
 <p source="PJC"><sn>2.</sn> <def>A group of four people or objects; <as>as, we need another player to make a <ex>foursome</ex> for bridge</as>.</def></p>
 </entry>
@@ -25143,7 +25143,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Frank" source="1913 Webster;;PJC">
-<p><hw>Frank</hw>, <pos>n.</pos> <ety>[See <er>Frank</er>, <pos>a.</pos>]</ety> <def>The privilege of sending letters or other mail matter, free of postage, or without charge; also, the sign, mark, or signature denoting that a letter or other mail matter is to go free of postage.  Called also the <altname><ecol><b>franking privilege</b></ecol></altname>.</def></p>
+<p><hw>Frank</hw>, <pos>n.</pos> <ety>[See <er>Frank</er>, <pos>a.</pos>]</ety> <def>The privilege of sending letters or other mail matter, free of postage, or without charge; also, the sign, mark, or signature denoting that a letter or other mail matter is to go free of postage.  Called also the <altname><ecol>franking privilege</ecol></altname>.</def></p>
 
 <p source="1913 Webster"><q>I have said so much, that, if I had not a <qex>frank</qex>, I must burn my letter and begin again.</q>  <rj><qau>Cowper.</qau></rj></p>
 </entry>
@@ -27125,7 +27125,7 @@ Are <qex>friendly</qex> met.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A border or edging secured at one edge and left free at the other, usually fluted or crimped like a very narrow flounce.</def></p>
 
-<p source="PJC"><sn>3.</sn> <specif>Hence:</specif> <def>Something superfluous, such as an ornament, or an additional function on a device or in a system not essential to the basic operation. -- Commonly used in the phrase <ecol><b>no frills</b></ecol>, used adjectively to indicate a fully functional but economical device or service; <as>as, an economical no-<ex>frills</ex> airline</as>.</def></p>
+<p source="PJC"><sn>3.</sn> <specif>Hence:</specif> <def>Something superfluous, such as an ornament, or an additional function on a device or in a system not essential to the basic operation. -- Commonly used in the phrase <ecol>no frills</ecol>, used adjectively to indicate a fully functional but economical device or service; <as>as, an economical no-<ex>frills</ex> airline</as>.</def></p>
 </entry>
 
 <entry main-word="frilled" source="1913 Webster">

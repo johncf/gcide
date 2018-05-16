@@ -2798,7 +2798,7 @@ For <qex>garnish</qex> this, and that for use.</q> <rj><qau>Prior.</qau></rj></p
 <entry main-word="Garnishee" source="1913 Webster">
 <p><hw>Gar`nish*ee"</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Law)</fld> <def>One who is garnished; a person upon whom garnishment has been served in a suit by a creditor against a debtor, such person holding property belonging to the debtor, or owing him money.</def></p>
 
-<p><note><hand/ The order by which warning is made is called a <ecol><b>garnishee order</b></ecol>.</note></p>
+<p><note><hand/ The order by which warning is made is called a <ecol>garnishee order</ecol>.</note></p>
 </entry>
 
 <entry main-word="Garnishee" source="1913 Webster">
@@ -3147,7 +3147,7 @@ To scare the fowl from fruit.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Gasoline engine" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Gas"o*line en"gine</hw>, <or/ <hw>Gas"o*lene en"gine</hw>  }</mhw>. <fld>(Mach.)</fld> <def>A kind of internal-combustion engine; -- in British countries called usually <altname><ecol><b>petrol engine</b></ecol></altname>.</def></p>
+<p><mhw>{ <hw>Gas"o*line en"gine</hw>, <or/ <hw>Gas"o*lene en"gine</hw>  }</mhw>. <fld>(Mach.)</fld> <def>A kind of internal-combustion engine; -- in British countries called usually <altname><ecol>petrol engine</ecol></altname>.</def></p>
 </entry>
 
 <entry main-word="Gasometer" source="">
@@ -18468,7 +18468,7 @@ On wigwam log, and tree, and stone.</q> <rj><qau>Whittier.</qau></rj></p>
 </entry>
 
 <entry main-word="Griffon" source="Webster 1913 Suppl.">
-<p><hw>Grif"fon</hw> <pr>(gr<icr/f"f<ocr/n)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One of a European breed of rough-coated dogs, somewhat taller than the setter and of a grizzly liver color. They are used in hunting game birds. The <styp><ecol><b>Brussels griffon</b></ecol></styp> is a very small, wiry-coated, short-nosed pet dog of Belgian origin.</def></p>
+<p><hw>Grif"fon</hw> <pr>(gr<icr/f"f<ocr/n)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>One of a European breed of rough-coated dogs, somewhat taller than the setter and of a grizzly liver color. They are used in hunting game birds. The <styp><ecol>Brussels griffon</ecol></styp> is a very small, wiry-coated, short-nosed pet dog of Belgian origin.</def></p>
 </entry>
 
 <entry main-word="Grig" source="1913 Webster">
@@ -21469,7 +21469,7 @@ To avoid <qex>gullage</qex>, sir, by such a creature?</q> <rj><qau>B. Jonson</qa
 </entry>
 
 <entry main-word="gumball" source="PJC">
-<p><hw>gum"ball`</hw> <pr>(g<ucr/m"b<add/l)</pr>, <pos>n.</pos> <def>A piece of chewing gum in the shape of a ball, usually covered with a colored glaze of sugar.  They are often sold in a small, special-purpose coin-operated vending machine called a <ecol><b>gumball machine</b></ecol>.</def></p>
+<p><hw>gum"ball`</hw> <pr>(g<ucr/m"b<add/l)</pr>, <pos>n.</pos> <def>A piece of chewing gum in the shape of a ball, usually covered with a colored glaze of sugar.  They are often sold in a small, special-purpose coin-operated vending machine called a <ecol>gumball machine</ecol>.</def></p>
 </entry>
 
 <entry main-word="Gumbo" source="1913 Webster">

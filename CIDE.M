@@ -3131,7 +3131,7 @@ What a <qex>maidenly</qex> man-at-arms are you become !</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="mailing list" source="PJC;;WordNet 1.5">
-<p><hw>mailing list</hw> <pos>n.</pos> <def>A list of names and addresses to which advertising, solicitations of money, or other materials material sent in large quantities is mailed; -- it is usually used by comercial or charitable organizations.  Mailing lists are often sold by organizations to other organizations, and are frequently used for <ecol><b>targeted mailing</b></ecol>, i. e., mailing to groups of people who are more likely htan the general population to respond as desired to the message in the mail.</def></p>
+<p><hw>mailing list</hw> <pos>n.</pos> <def>A list of names and addresses to which advertising, solicitations of money, or other materials material sent in large quantities is mailed; -- it is usually used by comercial or charitable organizations.  Mailing lists are often sold by organizations to other organizations, and are frequently used for <ecol>targeted mailing</ecol>, i. e., mailing to groups of people who are more likely htan the general population to respond as desired to the message in the mail.</def></p>
 </entry>
 
 <entry main-word="maillot" source="WordNet 1.5">
@@ -3411,7 +3411,7 @@ Believest so <qex>main</qex> to our success, I bring.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="main sequence" source="PJC">
-<p><hw>main" se`quence</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Astronomy)</fld> <def>That region on a two-dimensional graph of luminosity versus temperature for stars (the <ecol><b>Herzsprung-Russel diagram</b></ecol>), which runs from high temperature and high luminosity to low temperature and low luminosity, in which most of the stars (plotted as points on the diagram) are found.  A normal star such as the earth's sun will spend most of its time over billions of years within this region of temperature and luminosity, as it progressively converts more of its original hydrogen into heavier elements.  After the hydrogen is consumed, a star may become a <er>red giant</er> or evolve into other types of star not within the <ex>main sequence</ex> region.</def></p>
+<p><hw>main" se`quence</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Astronomy)</fld> <def>That region on a two-dimensional graph of luminosity versus temperature for stars (the <ecol>Herzsprung-Russel diagram</ecol>), which runs from high temperature and high luminosity to low temperature and low luminosity, in which most of the stars (plotted as points on the diagram) are found.  A normal star such as the earth's sun will spend most of its time over billions of years within this region of temperature and luminosity, as it progressively converts more of its original hydrogen into heavier elements.  After the hydrogen is consumed, a star may become a <er>red giant</er> or evolve into other types of star not within the <ex>main sequence</ex> region.</def></p>
 </entry>
 
 <entry main-word="mainsheet" source="1913 Webster">
@@ -8730,7 +8730,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj></p>
 </entry>
 
 <entry main-word="Margaryize" source="Webster 1913 Suppl.">
-<p><hw>Mar"ga*ry*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>-ized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>-izing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[(J. J. Lloyd) <etsep>Margary</etsep>, inventor of the process + <ets>-ize</ets>.]</ety> <def>To impregnate (wood) with a preservative solution of copper sulphate (often called <ecol><b>Mar"ga*ry's flu"id</b></ecol> <pr>(-r<icr/z)</pr>).</def></p>
+<p><hw>Mar"ga*ry*ize</hw> <pr>(?)</pr>, <pos>v. t.</pos>  <vmorph>[<pos>imp. & p. p.</pos> <conjf>-ized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>-izing</conjf> <pr>(?)</pr>.]</vmorph> <ety>[(J. J. Lloyd) <etsep>Margary</etsep>, inventor of the process + <ets>-ize</ets>.]</ety> <def>To impregnate (wood) with a preservative solution of copper sulphate (often called <ecol>Mar"ga*ry's flu"id</ecol> <pr>(-r<icr/z)</pr>).</def></p>
 </entry>
 
 <entry main-word="Margate fish" source="1913 Webster">
@@ -14451,7 +14451,7 @@ Suspicions, reconcilements, wars.</q> <rj><qau>W. Walsh.</qau></rj></p>
 <entry main-word="Meerschaum" source="1913 Webster">
 <p><hw>Meer"schaum</hw> <pr>(m<emac/r"sh<add/m; 277)</pr>, <pos>n.</pos> <ety>[G., lit., sea foam; <ets>meer</ets> sea + <ets>schaum</ets> foam; but it perh. is a corruption of the Tartaric name <ets>myrsen</ets>.  Cf. <er>Mere</er> a lake, and <er>Scum</er>.]</ety> <sn>1.</sn> <fld>(Min.)</fld> <def>A fine white claylike mineral, soft, and light enough when in dry masses to float in water.  It is a hydrous silicate of magnesia, and is obtained chiefly in Asia Minor.  It is manufacturd into tobacco pipes, cigar holders, etc. Also called <altname>sepiolite</altname>.</def></p>
 
-<p><sn>2.</sn> <def>A tobacco pipe made of this mineral; a <ecol><b>meerschaum pipe</b></ecol>.</def></p>
+<p><sn>2.</sn> <def>A tobacco pipe made of this mineral; a <ecol>meerschaum pipe</ecol>.</def></p>
 </entry>
 
 <entry main-word="Meet" source="1913 Webster">
@@ -19205,7 +19205,7 @@ Figured quite o'er with burning <qex>meteors</qex>.</q> <rj><qau>Shak.</qau></rj
 
 <p><sn>3.</sn> <fld>(Nat. Hist.)</fld> <def>Classification; a mode or system of classifying natural objects according to certain common characteristics; <as>as, the <ex>method</ex> of Theophrastus; the <ex>method</ex> of Ray; the Linnaean <ex>method</ex>.</as></def></p>
 
-<p source="PJC"><sn>4.</sn> <def>A technique used in acting in which the actor tries to identify with the individual personality of the specific character being portrayed, so as to provide a realistic rendering of the character's role.  Also called <altname>the Method</altname>, <altname>method acting</altname>, the <ecol><b>Stanislavsky Method</b></ecol> or <altname>Stanislavsky System</altname>.</def></p>
+<p source="PJC"><sn>4.</sn> <def>A technique used in acting in which the actor tries to identify with the individual personality of the specific character being portrayed, so as to provide a realistic rendering of the character's role.  Also called <altname>the Method</altname>, <altname>method acting</altname>, the <ecol>Stanislavsky Method</ecol> or <altname>Stanislavsky System</altname>.</def></p>
 
 <p><syn><b>Syn.</b> -- Order; system; rule; regularity; way; manner; mode; course; process; means.</syn> <usage> -- <er>Method</er>, <er>Mode</er>, <er>Manner</er>. <xex>Method</xex> implies arrangement; <xex>mode</xex>, mere action or existence. <xex>Method</xex> is a way of reaching a given end by a <xex>series</xex> of acts which tend to secure it; <xex>mode</xex> relates to a single action, or to the form which a series of acts, viewed as a whole, exhibits. <xex>Manner</xex> is literally the <xex>handling</xex> of a thing, and has a wider sense, embracing both <xex>method</xex> and <xex>mode</xex>. An instructor may adopt a good <xex>method</xex> of teaching to write; the scholar may acquire a bad <xex>mode</xex> of holding his pen; the <xex>manner</xex> in which he is corrected will greatly affect his success or failure.</usage></p>
 </entry>
@@ -22360,7 +22360,7 @@ Into a manly stride.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <mark>(Fig.)</mark>: <def>A rich source of wealth or other good.</def>  <rj><au>Shak.</au></rj></p>
 
-<p source="PJC"><sn>4.</sn> <fld>(Mil.)</fld> <def>An explosive device placed concealed in a location, on land or at sea, where an enemy vehicle or enemy personnel may pass through, having a triggering mechanism which detects people or vehicles, and which will explode and kill or maim personnel or destroy or damage vehicles.  A mine placed at sea (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{2} <sd>(a)</sd>) is also called an <ecol><b>marine mine</b></ecol> and <ecol><b>underwater mine</b></ecol> and sometimes called a <styp><ecol><b>floating mine</b></ecol></styp>, even though it may be anchored to the floor of the sea and not actually float freely.  A mine placed on land (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{3}), usually buried, is called a <ecol><b>land mine</b></ecol>.</def></p>
+<p source="PJC"><sn>4.</sn> <fld>(Mil.)</fld> <def>An explosive device placed concealed in a location, on land or at sea, where an enemy vehicle or enemy personnel may pass through, having a triggering mechanism which detects people or vehicles, and which will explode and kill or maim personnel or destroy or damage vehicles.  A mine placed at sea (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{2} <sd>(a)</sd>) is also called an <ecol>marine mine</ecol> and <ecol>underwater mine</ecol> and sometimes called a <styp><ecol>floating mine</ecol></styp>, even though it may be anchored to the floor of the sea and not actually float freely.  A mine placed on land (formerly called a <altname>torpedo</altname>, see <er>torpedo</er>{3}), usually buried, is called a <ecol>land mine</ecol>.</def></p>
 
 <p><cs><col>Mine dial</col>, <cd>a form of magnetic compass used by miners.</cd> -- <col>Mine pig</col>, <cd>pig iron made wholly from ore; in distinction from <contr>cinder pig</contr>, which is made from ore mixed with forge or mill cinder.</cd> -- <col>gold mine</col> <sd>(a)</sd> <cd>a mine where gold is obtained.</cd> <sd>(b)</sd> <mark>(Fig.)</mark> <cd>a rich source of wealth or other good; same as <er>Mine</er>, <snr>3</snr>.</cd></cs>  <rj><au>Raymond.</au></rj></p>
 </entry>
@@ -27158,7 +27158,7 @@ And our vain blows malicious <qex>mockery</qex>.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="mockingbird" source="WordNet 1.5">
-<p><mhw><hw>mockingbird</hw>, <hw>mocking bird</hw></mhw> <pos>n.</pos> <fld>(Zool.)</fld>, <def>A long-tailed gray-and-white songbird of North America (<spn>Mimus polyglottos</spn>), remarkable for its exact imitations of the notes of other birds. Its back is gray; the tail and wings are blackish, with a white patch on each wing; the outer tail feathers are partly white.  Originally its range was confined mostly to the southern states, but by late 19th century it had migrated as far north as New York.  The name is also applied to other members of thee same and related genera, found in Mexico, Central America, and the West Indies, such as the <ecol><b>blue mockingbird</b></ecol> of Mexico, <spn>Melanotis caerulescens</spn>.</def><br/
+<p><mhw><hw>mockingbird</hw>, <hw>mocking bird</hw></mhw> <pos>n.</pos> <fld>(Zool.)</fld>, <def>A long-tailed gray-and-white songbird of North America (<spn>Mimus polyglottos</spn>), remarkable for its exact imitations of the notes of other birds. Its back is gray; the tail and wings are blackish, with a white patch on each wing; the outer tail feathers are partly white.  Originally its range was confined mostly to the southern states, but by late 19th century it had migrated as far north as New York.  The name is also applied to other members of thee same and related genera, found in Mexico, Central America, and the West Indies, such as the <ecol>blue mockingbird</ecol> of Mexico, <spn>Melanotis caerulescens</spn>.</def><br/
 <syn><b>Syn. --</b> mocker, <spn>Mimus polyglottos</spn> .</syn></p>
 </entry>
 

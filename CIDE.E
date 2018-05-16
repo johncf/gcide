@@ -5672,7 +5672,7 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 </entry>
 
 <entry main-word="electroplating" source="1913 Webster;;PJC">
-<p><hw>e*lec"tro*pla`ting</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The art or process of depositing a coating (commonly) of silver, gold, or nickel on an inferior metal, by means of an electric current.  The metal to be deposited on an article is usually used as the anode and the article to be plated as the cathode, in an electrolyte solution in which the plating metal is the cation.  The process is conducted in a tank called an <ecol><b>electroplating bath</b></ecol>, which holds the electrolyte solution.</def></p>
+<p><hw>e*lec"tro*pla`ting</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The art or process of depositing a coating (commonly) of silver, gold, or nickel on an inferior metal, by means of an electric current.  The metal to be deposited on an article is usually used as the anode and the article to be plated as the cathode, in an electrolyte solution in which the plating metal is the cation.  The process is conducted in a tank called an <ecol>electroplating bath</ecol>, which holds the electrolyte solution.</def></p>
 </entry>
 
 <entry main-word="Electropoion" source="Webster 1913 Suppl.">
@@ -15104,7 +15104,7 @@ I stood <qex>entranced</qex>, and had no room for thought.</q> <rj><qau>Dryden.<
 
 <p source=""><sn>4.</sn> <fld>(Geom.)</fld> <def>A curve or surface which is tangent to each member of a system of curves or surfaces, the form and position of the members of the system being allowed to vary according to some continuous law. Thus, any curve is the <xex>envelope</xex> of its tangents.</def></p>
 
-<p source="PJC"><sn>4.</sn> <def>A set of limits for the performance capabilities of some type of machine, originally used to refer to aircraft; -- it is often described graphically as a two-dimensional graph of a function showing the maximum of one performance variable as a function of another.  Now it is also used metaphorically to refer to capabilities of any system in general, including human organizations, esp. in the phrase <ecol><b>push the envelope</b></ecol>.  It is used to refer to the maximum performance available at the current state of the technology, and therefore refers to a class of machines in general, not a specific machine.</def></p>
+<p source="PJC"><sn>4.</sn> <def>A set of limits for the performance capabilities of some type of machine, originally used to refer to aircraft; -- it is often described graphically as a two-dimensional graph of a function showing the maximum of one performance variable as a function of another.  Now it is also used metaphorically to refer to capabilities of any system in general, including human organizations, esp. in the phrase <ecol>push the envelope</ecol>.  It is used to refer to the maximum performance available at the current state of the technology, and therefore refers to a class of machines in general, not a specific machine.</def></p>
 
 <p><cs><col>push the envelope</col>  <cd>to increase the capability of some type of machine or system; -- usually by technological development.</cd></cs></p>
 </entry>
@@ -17740,7 +17740,7 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>A combining unit, whether an atom, a radical, or a molecule; <as>as, in acid salt two or more <ex>equivalents</ex> of acid unite with one or more <ex>equivalents</ex> of base</as>.</def></p>
 
-<p source="1913 Webster;;PJC"><cs><col>Mechanical equivalent of heat</col> <fld>(Physics)</fld>, <cd>originally defined as the number of units of work which the unit of heat can perform, equivalent to the mechanical energy which must be expended to raise the temperature of a pound of water one degree Fahrenheit; later this value was defined as one <altname>British thermal unit</altname> (B.t.u).  Its value was found by <persfn>Joule</persfn> to be 772 foot pounds; later measurements give the value as 777.65 foot-pounds, equivalent to 107.5 kg-meters.  This value was originally called <ecol><b>Joule's equivalent</b></ecol>, but the modern Joule is defined differently, being 10<exp>7</exp> ergs.  The B.t.u. is now given as 1,054.35 absolute Joules, and therefore 1 calorie (the amount of heat needed to raise one gram of water one degree centigrade) is <ex>equivalent</ex> to 4.186 Joules.</cd></cs></p>
+<p source="1913 Webster;;PJC"><cs><col>Mechanical equivalent of heat</col> <fld>(Physics)</fld>, <cd>originally defined as the number of units of work which the unit of heat can perform, equivalent to the mechanical energy which must be expended to raise the temperature of a pound of water one degree Fahrenheit; later this value was defined as one <altname>British thermal unit</altname> (B.t.u).  Its value was found by <persfn>Joule</persfn> to be 772 foot pounds; later measurements give the value as 777.65 foot-pounds, equivalent to 107.5 kg-meters.  This value was originally called <ecol>Joule's equivalent</ecol>, but the modern Joule is defined differently, being 10<exp>7</exp> ergs.  The B.t.u. is now given as 1,054.35 absolute Joules, and therefore 1 calorie (the amount of heat needed to raise one gram of water one degree centigrade) is <ex>equivalent</ex> to 4.186 Joules.</cd></cs></p>
 
 <p source="1913 Webster;;PJC"><note><hand/  The original definition of the Mechanical equivalent of heat in the 1913 Webster was as below.  The difference between foot pounds and kilogram-meters ("on the centigrade scale") is puzzling as it should be a factor of 7.23, and the figure given for kilogram-meters may be a mistaken misinterpretation of the report. -- PJC:<br/
 <br/
@@ -20614,7 +20614,7 @@ Shall be <qex>eternized</qex> in all age to come.</q> <rj><qau>Shak.</qau></rj><
 
 <p source="1913 Webster"><sn>2.</sn> <def>Supposed matter above the air; the air itself.</def></p>
 
-<p><sn>3.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A light, volatile, mobile, inflammable liquid, <chform>(C2H5)2O</chform>, of a characteristic aromatic odor, obtained by the distillation of alcohol with sulphuric acid, and hence called also <altname>sulphuric ether</altname>.  It is a powerful solvent of fats, resins, and pyroxylin, but finds its chief use as an an<ae/sthetic. Commonly called <altname>ethyl ether</altname> to distinguish it from other ethers, and also <altname>ethyl oxide</altname>.</def> <sd>(b)</sd> <def>Any similar compound in which an oxygen atom is bound to two different carbon atoms, each of which is part of an organic radical; <as>as, amyl <ex>ether</ex>; valeric <ex>ether</ex>; methyl ethyl <ex>ether</ex>.  The general formular for an ether is <chform>ROR<prime/</chform>, in which R and R<prime/ are organic radicals which may be of similar or different structure.  If R and R<prime/ are different parts of the same organic radical, the structure forms a <ecol><b>cyclic ether</b></ecol>.</as></def></p>
+<p><sn>3.</sn> <fld>(Chem.)</fld> <sd>(a)</sd> <def>A light, volatile, mobile, inflammable liquid, <chform>(C2H5)2O</chform>, of a characteristic aromatic odor, obtained by the distillation of alcohol with sulphuric acid, and hence called also <altname>sulphuric ether</altname>.  It is a powerful solvent of fats, resins, and pyroxylin, but finds its chief use as an an<ae/sthetic. Commonly called <altname>ethyl ether</altname> to distinguish it from other ethers, and also <altname>ethyl oxide</altname>.</def> <sd>(b)</sd> <def>Any similar compound in which an oxygen atom is bound to two different carbon atoms, each of which is part of an organic radical; <as>as, amyl <ex>ether</ex>; valeric <ex>ether</ex>; methyl ethyl <ex>ether</ex>.  The general formular for an ether is <chform>ROR<prime/</chform>, in which R and R<prime/ are organic radicals which may be of similar or different structure.  If R and R<prime/ are different parts of the same organic radical, the structure forms a <ecol>cyclic ether</ecol>.</as></def></p>
 
 <p source="1913 Webster"><cs><mcol><col>Complex ether</col>, <col>Mixed ether</col></mcol> <fld>(Chem.)</fld>, <cd>an ether in which the ether oxygen is attached to two radicals having different structures; as, ethyl methyl ether, <chform>C2H5.O.CH3</chform>.</cd> -- <col>Compound ether</col> <fld>(Chem.)</fld>, <cd>an ethereal salt or a salt of some hydrocarbon as the base; an ester.</cd> -- <col>Ether engine</col> <fld>(Mach.)</fld>, <cd>a condensing engine like a steam engine, but operated by the vapor of ether instead of by steam.</cd></cs></p>
 </entry>
@@ -21815,7 +21815,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="eutectic" source="WordNet 1.5">
-<p><hw>eutectic</hw> <pr>(<umac/*t<ecr/k"t<icr/k)</pr>, <pos>n.</pos> <def>a mixture of substances having a composition providing the minimum melting point ofr mixtures of those substances.  Called also a <ecol><b>eutectic mixture</b></ecol>.</def><br/
+<p><hw>eutectic</hw> <pr>(<umac/*t<ecr/k"t<icr/k)</pr>, <pos>n.</pos> <def>a mixture of substances having a composition providing the minimum melting point ofr mixtures of those substances.  Called also a <ecol>eutectic mixture</ecol>.</def><br/
 <syn><b>Syn. --</b> eutectic mixture.</syn></p>
 </entry>
 
@@ -27717,7 +27717,7 @@ The <qex>express</qex> resemblance of the gods.</q> <rj><qau>Milton.</qau></rj><
 <p source="PJC"><sn>5.</sn> <def>a railway train or bus for transporting passengers or goods with speed and punctuality; a train or bus that does not stop at certain stations.  Contrasted to <contr>local</contr>; <as>as, take the <ex>express</ex> to get there faster</as>.</def><br/
 <syn><b>Syn. --</b> express train.</syn></p>
 
-<p><cs><col>Express office</col>, <cd>an office where packages for an express are received or delivered.</cd> -- <col>Express train</col>, <cd>a railway train (such as a subway train) that does not stop at certain stations, but only at stations designated <ecol><b>express stops</b></ecol>.</cd></cs></p>
+<p><cs><col>Express office</col>, <cd>an office where packages for an express are received or delivered.</cd> -- <col>Express train</col>, <cd>a railway train (such as a subway train) that does not stop at certain stations, but only at stations designated <ecol>express stops</ecol>.</cd></cs></p>
 </entry>
 
 <entry main-word="Express" source="1913 Webster">

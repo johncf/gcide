@@ -2443,7 +2443,7 @@ When he would he shall have <qex>nay</qex>.</q> <rj><qau>Old Prov.</qau></rj></p
 </entry>
 
 <entry main-word="Neanderthal" source="Webster 1913 Suppl.;;WordNet 1.5">
-<p><hw>Ne*an"der*thal`</hw> <pr>(?)</pr>, <pos>prop. a.</pos> <sn>1.</sn> <fld>(Anthropol.)</fld> <def>Of, pertaining to, or named from, the Neanderthal, a valley in the Rhine Province, in which were found parts of a skeleton of an early type of man.  The skull is characterized by extreme dolichocephaly, flat, retreating forehead, with closed frontal sutures, and enormous superciliary ridges.  The cranial capacity is estimated at about 1,220 cubic centimeters, being about midway between that of the <gen>Pithecanthropus</gen> and modern man.</def>  <specif>Hence,</specif> <def>pertaining to or designating the <ecol><b>Neanderthal race</b></ecol>, or <ecol><b>Neanderthal man</b></ecol>, a species of extinct robust humans, believed to have been widespread in the Middle Paleolithic in Europe and western Asia; <as>as, a <ex>Neanderthal</ex> skull</as>.</def><br/
+<p><hw>Ne*an"der*thal`</hw> <pr>(?)</pr>, <pos>prop. a.</pos> <sn>1.</sn> <fld>(Anthropol.)</fld> <def>Of, pertaining to, or named from, the Neanderthal, a valley in the Rhine Province, in which were found parts of a skeleton of an early type of man.  The skull is characterized by extreme dolichocephaly, flat, retreating forehead, with closed frontal sutures, and enormous superciliary ridges.  The cranial capacity is estimated at about 1,220 cubic centimeters, being about midway between that of the <gen>Pithecanthropus</gen> and modern man.</def>  <specif>Hence,</specif> <def>pertaining to or designating the <ecol>Neanderthal race</ecol>, or <ecol>Neanderthal man</ecol>, a species of extinct robust humans, believed to have been widespread in the Middle Paleolithic in Europe and western Asia; <as>as, a <ex>Neanderthal</ex> skull</as>.</def><br/
 <syn><b>Syn. --</b> Neanderthalian.</syn></p>
 
 <p source="PJC"><sn>2.</sn> <def>Similar to or reminiscent of a neanderthal human; troglodytic; primitive and uncultured.</def></p>
@@ -5755,7 +5755,7 @@ Begins, but endeth <qex>nevermore</qex>.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="Newel" source="1913 Webster">
-<p><hw>New"el</hw> <pr>(n<umac/"<ecr/l)</pr>, <pos>n.</pos> <ety>[OF. <ets>nual</ets>, F. <ets>noyau</ets> sone, of fruit, <ets>noyau d'escaler</ets> newel, fr. L. <ets>nucalis</ets> like a nut, fr. <ets>nux</ets>, <ets>nucis</ets>, nut.  Cf. <er>Nowel</er> the inner wall of a mold, <er>Nucleus</er>.]</ety> <fld>(Arch.)</fld> <def>The upright post about which the steps of a circular staircase wind; hence, in stairs having straight flights, the principal post at the foot of a staircase, or the secondary ones at the landings.  Also called <ecol><b>newel post</b></ecol>.  See <cref>Hollow newel</cref>, under <er>Hollow</er>.</def></p>
+<p><hw>New"el</hw> <pr>(n<umac/"<ecr/l)</pr>, <pos>n.</pos> <ety>[OF. <ets>nual</ets>, F. <ets>noyau</ets> sone, of fruit, <ets>noyau d'escaler</ets> newel, fr. L. <ets>nucalis</ets> like a nut, fr. <ets>nux</ets>, <ets>nucis</ets>, nut.  Cf. <er>Nowel</er> the inner wall of a mold, <er>Nucleus</er>.]</ety> <fld>(Arch.)</fld> <def>The upright post about which the steps of a circular staircase wind; hence, in stairs having straight flights, the principal post at the foot of a staircase, or the secondary ones at the landings.  Also called <ecol>newel post</ecol>.  See <cref>Hollow newel</cref>, under <er>Hollow</er>.</def></p>
 </entry>
 
 <entry main-word="newest" source="WordNet 1.5">
@@ -11633,7 +11633,7 @@ No <qex>note</qex> at all of our being absent hence.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="nother" source="PJC">
-<p><hw>noth"er</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Other; -- variant spelling used mostly in the phrase <ecol><b>a whole nother</b></ecol> (i. e., a completely different), as though formed by splitting the word <ldquo/another<rdquo/.</def></p>
+<p><hw>noth"er</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Other; -- variant spelling used mostly in the phrase <ecol>a whole nother</ecol> (i. e., a completely different), as though formed by splitting the word <ldquo/another<rdquo/.</def></p>
 </entry>
 
 <entry main-word="Nothing" source="1913 Webster">
@@ -12599,7 +12599,7 @@ Come to give sober judgment of new plays?</q> <rj><qau>Garrick.</qau></rj></p>
 </entry>
 
 <entry main-word="nuclear magnetic resonance" source="PJC">
-<p><hw>nu"cle*ar mag*net"ic res"on*ance</hw> <pos>n.</pos> <fld>(Physics)</fld>  <def>The specific absorption and re-emission of electromagnetic radiation at characteristic wavelengths by atomic nuclei in a magnetic field.  It is abbreviated <abbr>NMR</abbr>.  The wavelength of the radiation absorbed depends on the type of nucleus, the intensity of the magnetic field, and the local chemical environment in which the nucleus resides.  It is the latter effect (called the <ecol><b>chemical shift</b></ecol>), by which atoms of specific elements in different chemical compounds show a different resonance frequency, which gives rise to the greatest utility of this phenomenon in analyzing the chemical structure of substances.  Similar effects of the chemical environment permit the discrimination of different types of living tissue by virtue of their different chemical composition, thus permitting utilization of the phenomenon in medical diagnostic instruments, especially for <er>magnetic resonance imaging</er>.</def></p>
+<p><hw>nu"cle*ar mag*net"ic res"on*ance</hw> <pos>n.</pos> <fld>(Physics)</fld>  <def>The specific absorption and re-emission of electromagnetic radiation at characteristic wavelengths by atomic nuclei in a magnetic field.  It is abbreviated <abbr>NMR</abbr>.  The wavelength of the radiation absorbed depends on the type of nucleus, the intensity of the magnetic field, and the local chemical environment in which the nucleus resides.  It is the latter effect (called the <ecol>chemical shift</ecol>), by which atoms of specific elements in different chemical compounds show a different resonance frequency, which gives rise to the greatest utility of this phenomenon in analyzing the chemical structure of substances.  Similar effects of the chemical environment permit the discrimination of different types of living tissue by virtue of their different chemical composition, thus permitting utilization of the phenomenon in medical diagnostic instruments, especially for <er>magnetic resonance imaging</er>.</def></p>
 </entry>
 
 <entry main-word="Nuclear physics" source="PJC">

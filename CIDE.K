@@ -2149,7 +2149,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><sn>4.</sn> <def>The recoil of a musket or other firearm, when discharged.</def></p>
 
-<p source="PJC"><sn>5.</sn> <def>A surge of pleasure; a thrill; -- usually used in the phrase <ecol><b>get a kick out of</b></ecol>; <as>as, I always get a <ex>kick</ex> out of watching an ice skater do a quadruple jump</as>.</def> <mark>[informal]</mark> <br/
+<p source="PJC"><sn>5.</sn> <def>A surge of pleasure; a thrill; -- usually used in the phrase <ecol>get a kick out of</ecol>; <as>as, I always get a <ex>kick</ex> out of watching an ice skater do a quadruple jump</as>.</def> <mark>[informal]</mark> <br/
 <syn><b>Syn. --</b> bang{3}.</syn></p>
 </entry>
 
@@ -2623,7 +2623,7 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="kilter" source="1913 Webster;;PJC">
-<p><hw>kil"ter</hw> <pr>(k<icr/l"t<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. Gael. & Ir. <ets>cealt</ets> clothes, Gael. <ets>cealltair</ets> spear, castle, cause, Prov. E. <ets>kilter</ets> tool, instrument.  Cf. <er>Kilt</er>.]</ety> <def>Regular order or proper condition.  Same as <er>kelter</er>, but <er>kilter</er> is the more common spelling in the U. S.  Used chiefly in the phrase <ecol><b>out of kilter</b></ecol>, meaning out of order or irregular in some manner.</def> <altsp>[Also spelled <asp>kelter</asp>.]</altsp></p>
+<p><hw>kil"ter</hw> <pr>(k<icr/l"t<etil/r)</pr>, <pos>n.</pos> <ety>[Cf. Gael. & Ir. <ets>cealt</ets> clothes, Gael. <ets>cealltair</ets> spear, castle, cause, Prov. E. <ets>kilter</ets> tool, instrument.  Cf. <er>Kilt</er>.]</ety> <def>Regular order or proper condition.  Same as <er>kelter</er>, but <er>kilter</er> is the more common spelling in the U. S.  Used chiefly in the phrase <ecol>out of kilter</ecol>, meaning out of order or irregular in some manner.</def> <altsp>[Also spelled <asp>kelter</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Kilting" source="1913 Webster">

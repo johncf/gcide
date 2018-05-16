@@ -12236,7 +12236,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lief" source="1913 Webster">
-<p><hw>Lief</hw>, <pos>adv.</pos> <def>Gladly; willingly; freely; -- now used only in the phrases, <ecol><b>had as lief</b></ecol>, and <ecol><b>would as lief</b></ecol>; <as>as, I had, or would, as <ex>lief</ex> go as not</as>.</def></p>
+<p><hw>Lief</hw>, <pos>adv.</pos> <def>Gladly; willingly; freely; -- now used only in the phrases, <ecol>had as lief</ecol>, and <ecol>would as lief</ecol>; <as>as, I had, or would, as <ex>lief</ex> go as not</as>.</def></p>
 
 <p><q>All women <qex>liefest</qex> would<br/
 Be sovereign of man's love.</q> <rj><qau>Gower.</qau></rj></p>
@@ -12331,7 +12331,7 @@ And he, he reverenced his <qex>liege</qex> lady there.</q> <rj><qau>Tennyson.</q
 </entry>
 
 <entry main-word="Lieu" source="1913 Webster">
-<p><hw>Lieu</hw> <pr>(l<umac/)</pr>, <pos>n.</pos> <ety>[F., OF. also <ets>liu</ets>, <ets>leu</ets>, <ets>lou</ets>, fr. L. <ets>locus</ets> place. See <er>Local</er>, <er>Locus</er>.]</ety> <def>Place; room; stead; -- used only in the phrase <ecol><b>in lieu of</b></ecol>, that is, <xex>instead of</xex>.</def></p>
+<p><hw>Lieu</hw> <pr>(l<umac/)</pr>, <pos>n.</pos> <ety>[F., OF. also <ets>liu</ets>, <ets>leu</ets>, <ets>lou</ets>, fr. L. <ets>locus</ets> place. See <er>Local</er>, <er>Locus</er>.]</ety> <def>Place; room; stead; -- used only in the phrase <ecol>in lieu of</ecol>, that is, <xex>instead of</xex>.</def></p>
 
 <p><q>The plan of extortion had been adopted in <qex>lieu</qex> of the scheme of confiscation.</q> <rj><qau>Burke.</qau></rj></p>
 </entry>
@@ -14023,7 +14023,7 @@ With open eyes, and we must take the chance.</q> <rj><qau>Tennyson.</qau></rj></
 </entry>
 
 <entry main-word="limelight" source="Webster 1913 Suppl.">
-<p><hw>lime"light`</hw>, <pos>n.</pos> <fld>(Theat.)</fld> <def>That part of the stage upon which the limelight is cast, usually where the most important action is progressing or where the leading player or players are placed and upon which the attention of the spectators is therefore concentrated.</def>  <specif>Hence,</specif> <def>a conspicuous position before the public; the center of public attention; -- used mostly in the phrase <ecol><b>in the limelight</b></ecol>; <as>as, politicians who are never happy except in the <ex>limelight</ex></as>.</def></p>
+<p><hw>lime"light`</hw>, <pos>n.</pos> <fld>(Theat.)</fld> <def>That part of the stage upon which the limelight is cast, usually where the most important action is progressing or where the leading player or players are placed and upon which the attention of the spectators is therefore concentrated.</def>  <specif>Hence,</specif> <def>a conspicuous position before the public; the center of public attention; -- used mostly in the phrase <ecol>in the limelight</ecol>; <as>as, politicians who are never happy except in the <ex>limelight</ex></as>.</def></p>
 </entry>
 
 <entry main-word="limen" source="PJC">
@@ -14772,7 +14772,7 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p source="PJC"><sn>3.</sn> <fld>(Football)</fld> <def>A player whose position is in the first (forward) line, as opposed to a <contr>back</contr>; one who plays on the line of scrimmage.</def> <specif>specifically:</specif> <def>a center, guard, or tackle.</def></p>
 
-<p><sn>4.</sn> <def>A ladies' man who is especially adept at inventing effective introductory phrases (<ecol><b>pick-up lines</b></ecol>) to gain a woman's attention.</def> <mark>[Colloq.]</mark></p>
+<p><sn>4.</sn> <def>A ladies' man who is especially adept at inventing effective introductory phrases (<ecol>pick-up lines</ecol>) to gain a woman's attention.</def> <mark>[Colloq.]</mark></p>
 
 <p source="WordNet 1.5"><sn>5.</sn> <def>the position of a player on a football team who is stationed on the line of scrimmage.</def> <wns>[wns=4]</wns></p>
 </entry>

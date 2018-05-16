@@ -4550,7 +4550,7 @@ Of <qex>hardiness</qex> is mother.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Hardy" source="1913 Webster">
-<p><hw>Har"dy</hw>, <pos>n.</pos> <def>A blacksmith's fuller or chisel, having a square shank for insertion into a square hole in an anvil, called the <ecol><b>hardy hole</b></ecol>.</def></p>
+<p><hw>Har"dy</hw>, <pos>n.</pos> <def>A blacksmith's fuller or chisel, having a square shank for insertion into a square hole in an anvil, called the <ecol>hardy hole</ecol>.</def></p>
 </entry>
 
 <entry main-word="Hare" source="1913 Webster">
@@ -21926,7 +21926,7 @@ Environ'd me about, and <qex>howled</qex> in my ears.</q> <rj><qau>Shak.</qau></
 
 <p source="PJC"><sn>8.</sn> <def>The central location within which activities tend to concentrate, or from which activities radiate outward; a focus of activity.</def></p>
 
-<p source="PJC"><sn>9.</sn> <specif>Hence:</specif> <fld>(Aeronautics)</fld> <def>A large airport used as a central transfer station for an airline, permitting economic air transportation between remote locations by directing travellers through the hub, often changing planes at the hub, and thus keeping the seat occupancy rate on the airplanes high.  The <ex>hub</ex> together with the <ecol><b>feeder lines</b></ecol> from remote locations constitute the so-called <col>hub and spoke system</col> of commercial air passenger transportation.  A commercial airline may have more than one such <ex>hub</ex>.</def></p>
+<p source="PJC"><sn>9.</sn> <specif>Hence:</specif> <fld>(Aeronautics)</fld> <def>A large airport used as a central transfer station for an airline, permitting economic air transportation between remote locations by directing travellers through the hub, often changing planes at the hub, and thus keeping the seat occupancy rate on the airplanes high.  The <ex>hub</ex> together with the <ecol>feeder lines</ecol> from remote locations constitute the so-called <col>hub and spoke system</col> of commercial air passenger transportation.  A commercial airline may have more than one such <ex>hub</ex>.</def></p>
 
 <p source="PJC"><sn>10.</sn> <def>The city of Boston, Massachusetts referred to locally by the nickname <altname>The Hub</altname>.</def></p>
 

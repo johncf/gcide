@@ -652,7 +652,7 @@ She, I'll swear, hath corns.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Daira" source="Webster 1913 Suppl.">
-<p><par/<hw>Da"<ium/*ra</hw> <pr>(d<aum/"<esl/*r<aum/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>daire</ets> circuit, department, fr. Ar. <ets>da<ium/rah</ets> circle.]</ety> <def>Any of several valuable estates of the Egyptian khedive or his family. The most important are the <ecol><b>Da"i*ra Sa"ni*eh</b></ecol> <pr>(s<aum/"n<icr/*<ecr/)</pr>, or <ecol><b>Da"i*ra Sa"ni*yeh</b></ecol>, and the <ecol><b>Da"i*ra Khas"sa</b></ecol>, administered by the khedive's European bondholders, and known collectively as <ecol><b>the Daira</b></ecol>, or the <ecol><b>Daira estates</b></ecol>.</def></p>
+<p><par/<hw>Da"<ium/*ra</hw> <pr>(d<aum/"<esl/*r<aum/)</pr>, <pos>n.</pos> <ety>[Turk. <ets>daire</ets> circuit, department, fr. Ar. <ets>da<ium/rah</ets> circle.]</ety> <def>Any of several valuable estates of the Egyptian khedive or his family. The most important are the <ecol>Da"i*ra Sa"ni*eh</ecol> <pr>(s<aum/"n<icr/*<ecr/)</pr>, or <ecol>Da"i*ra Sa"ni*yeh</ecol>, and the <ecol>Da"i*ra Khas"sa</ecol>, administered by the khedive's European bondholders, and known collectively as <ecol>the Daira</ecol>, or the <ecol>Daira estates</ecol>.</def></p>
 </entry>
 
 <entry main-word="Dairy" source="1913 Webster">
@@ -993,7 +993,7 @@ With dead men hurt behind, and cowards.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Damara" source="Webster 1913 Suppl.">
-<p><hw>Da*ma"ra</hw> <pr>(d<aum/*m<aum/"r<aum/)</pr>, <pos>n.</pos> <ety>[The name is supposed to be from Hottentot <ets>dama</ets> vanquished.]</ety> <def>A native of Damaraland, German Southwest Africa. The Damaras include an important and warlike Bantu tribe, and the <ecol><b>Hill Damaras</b></ecol>, who are Hottentots and mixed breeds hostile to the Bantus.</def></p>
+<p><hw>Da*ma"ra</hw> <pr>(d<aum/*m<aum/"r<aum/)</pr>, <pos>n.</pos> <ety>[The name is supposed to be from Hottentot <ets>dama</ets> vanquished.]</ety> <def>A native of Damaraland, German Southwest Africa. The Damaras include an important and warlike Bantu tribe, and the <ecol>Hill Damaras</ecol>, who are Hottentots and mixed breeds hostile to the Bantus.</def></p>
 </entry>
 
 <entry main-word="Damascene" source="1913 Webster">
@@ -3327,7 +3327,7 @@ They dance in mists, and <qex>dazzle</qex> with surprise.</q> <rj><qau>Dryden.</
 <entry main-word="Deacon" source="1913 Webster">
 <p><hw>Dea"con</hw> <pr>(d<emac/"k'n)</pr>, <pos>v. t.</pos> <sn>1.</sn> <def>To read aloud each line of (a psalm or hymn) before singing it, -- usually with <ptcl>off</ptcl>.</def> <mark>[Colloq. New. Eng.]</mark> See <er>Line</er>, <pos>v. t.</pos></p>
 
-<p><note><hand/ The expression is derived from a former custom in the Congregational churches of New England. It was part of the office of a deacon to read aloud the psalm given out, one line at a time, the congregation singing each line as soon as read; -- called, also, <ecol><b>lining out the psalm</b></ecol>.</note></p>
+<p><note><hand/ The expression is derived from a former custom in the Congregational churches of New England. It was part of the office of a deacon to read aloud the psalm given out, one line at a time, the congregation singing each line as soon as read; -- called, also, <ecol>lining out the psalm</ecol>.</note></p>
 
 <p source="Webster 1913 Suppl."><sn>2.</sn>  <def>With humorous reference to hypocritical posing: To pack (fruit or vegetables) with the finest specimens on top; to alter slyly the boundaries of (land); to adulterate or doctor (an article to be sold), etc.</def> <mark>[Colloq., U. S.]</mark></p>
 </entry>
@@ -6266,7 +6266,7 @@ His weary wagon to the western vale.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p source="PJC"><sn>4.</sn> <def>a return to a normal, more relaxed state after a period of intense stress, psychological pressure, or urgent activity; -- of people.</def></p>
 
-<p source="PJC"><sn>5.</sn> <fld>(Computers)</fld> <def>the process of converting digitally encoded data from a more compact (compressed) form to its original, larger size.</def> <note>The process of compression and decompression may completely recover all of the original data (called <ecol><b>lossless compression</b></ecol>), or may lose some of the original data in order to achieve higher degress of compression (<ecol><b>lossy compression</b></ecol>).  The latter is used especially with images or video data, which may be of very large size relative to text, and for which small changes may be imperceptible to the human eye.  The <er>JPEG</er> data compression format is a lossy format.</note></p>
+<p source="PJC"><sn>5.</sn> <fld>(Computers)</fld> <def>the process of converting digitally encoded data from a more compact (compressed) form to its original, larger size.</def> <note>The process of compression and decompression may completely recover all of the original data (called <ecol>lossless compression</ecol>), or may lose some of the original data in order to achieve higher degress of compression (<ecol>lossy compression</ecol>).  The latter is used especially with images or video data, which may be of very large size relative to text, and for which small changes may be imperceptible to the human eye.  The <er>JPEG</er> data compression format is a lossy format.</note></p>
 </entry>
 
 <entry main-word="Deconcentrate" source="1913 Webster">
@@ -14816,7 +14816,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 <entry main-word="Derrick" source="1913 Webster">
 <p><hw>Der"rick</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Orig., a gallows, from a hangman named <ets>Derrick</ets>. The name is of Dutch origin; D. <ets>Diederik</ets>, <ets>Dierryk</ets>, prop. meaning, chief of the people; cf. AS. <ets>pe<oacute/dric</ets>, E. <ets>Theodoric</ets>, G. <ets>Dietrich</ets>. See <er>Dutch</er>, and <er>Rich</er>.]</ety> <sn>1.</sn> <def>A mast, spar, or tall frame, supported at the top by stays or guys, and usually pivoted at the base, with suitable tackle for hoisting heavy weights, such as stones in building.</def></p>
 
-<p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <fld>(Mining)</fld> <def>The pyramidal structure or tower over a deep drill hole, such as that of an oil well (also called an <ecol><b>oil derrick</b></ecol>).</def></p>
+<p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <fld>(Mining)</fld> <def>The pyramidal structure or tower over a deep drill hole, such as that of an oil well (also called an <ecol>oil derrick</ecol>).</def></p>
 
 <p><cs><col>Derrick crane</col>, <cd>a combination of the derrick and the crane, having facility for hoisting and also for swinging the load horizontally.</cd></cs></p>
 </entry>
@@ -14848,7 +14848,7 @@ And to his mates thus in <qex>derision</qex> called.</q> <rj><qau>Milton.</qau><
 
 <p source="Webster 1913 Suppl."><sn>2.</sn> <def>One of the fanatical followers of the Mahdi, in the Sudan, in the 1880's.</def></p>
 
-<p source="PJC"><sn>3.</sn> <def>in modern times, a member of an ascetic Muslim sect notable for its devotional exercises, which include energetic chanting or shouting and rhythmic bodily movement, such as whirling, leading to a trance-like state or ecstasy.  From these exercises the phrase <ecol><b>whirling dervish</b></ecol> is derived.</def></p>
+<p source="PJC"><sn>3.</sn> <def>in modern times, a member of an ascetic Muslim sect notable for its devotional exercises, which include energetic chanting or shouting and rhythmic bodily movement, such as whirling, leading to a trance-like state or ecstasy.  From these exercises the phrase <ecol>whirling dervish</ecol> is derived.</def></p>
 
 <p source="PJC"><sn>4.</sn> <def>figuratively, a person who whirls or engages in frenzied activity reminiscent of the dervish{3} dancing.</def></p>
 </entry>
@@ -18515,7 +18515,7 @@ Went and watered all the ground.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Dexter" source="Webster 1913 Suppl.">
-<p><hw>Dex"ter</hw>, <pos>n.</pos> <ety>[Prob. so named after the original breeder.]</ety> <def>One of a breed of small hardy cattle originating from the Kerry breed of Ireland, valuable both for beef and milk. They are usually chiefly black, sometimes red, and somewhat resemble a small shorthorn in build. Called also <altname><ecol><b>Dexter Kerry</b></ecol></altname>.</def></p>
+<p><hw>Dex"ter</hw>, <pos>n.</pos> <ety>[Prob. so named after the original breeder.]</ety> <def>One of a breed of small hardy cattle originating from the Kerry breed of Ireland, valuable both for beef and milk. They are usually chiefly black, sometimes red, and somewhat resemble a small shorthorn in build. Called also <altname><ecol>Dexter Kerry</ecol></altname>.</def></p>
 </entry>
 
 <entry main-word="Dexterical" source="1913 Webster">
@@ -20040,7 +20040,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p source="Webster 1913 Suppl."><sn>3.</sn> <def>A hat; esp., in U. S., a stiff hat or derby; in Eng., a straw hat.</def> <mark>[Slang]</mark></p>
 
-<p source="Webster 1913 Suppl."><sn>4.</sn>  <sd>(a)</sd> <def>A seat for the driver (In a carriage); -- called also <ecol><b>dickey box</b></ecol> or <ecol><b>dickie seat</b></ecol>.</def> <sd>(b)</sd> <def>A seat at the back for servants.</def></p>
+<p source="Webster 1913 Suppl."><sn>4.</sn>  <sd>(a)</sd> <def>A seat for the driver (In a carriage); -- called also <ecol>dickey box</ecol> or <ecol>dickie seat</ecol>.</def> <sd>(b)</sd> <def>A seat at the back for servants.</def></p>
 
 <p source="Webster 1913 Suppl."><sn>5.</sn>  <def>One of various animals</def>; <specif>specif.:</specif> <sd>(a)</sd> <def>A donkey.</def> <sd>(b)</sd> <def>Any small bird; -- called also <altname>dickeybird</altname> or <altname>dickey bird</altname>.</def> <mark>[Colloq.]</mark> <sd>(c)</sd> <def>The hedge sparrow.</def> <mark>[Dial. Eng.]</mark> <sd>(d)</sd> <def>The haddock.</def></p>
 </entry>
@@ -21511,7 +21511,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="digitalin" source="1913 Webster;;PJC">
-<p><hw>dig"i*ta`lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>digitaline</ets>.]</ety> <sd>(a)</sd> <fld>(Medicine, Pharmacy)</fld> <def>Any one of several extracts of foxglove (<gen>Digitalis</gen>), as the <ldquo/French extract,<rdquo/ the <ldquo/German extract,<rdquo/ etc., which differ among themselves in composition and properties.  Both <spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn> have been used to prepare such extracts.</def> <sd>(b)</sd> <fld>(Chem.)</fld> <def>the distinctive chemical substance, a <isa>steroid glycoside</isa>, which is the essential ingredient of the extracts of <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C36H56O14</chform>), and is a 3-substituted diglucoside of a steroid.  It is a powerful cardiac stimulant and is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,16<beta/)-3-[6-Deoxy-4-O-<beta/-D-glucopyranosyl-3-O-methyl-<beta/-D-galactopyranosyl)oxy]-14,16-dihyroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitoxin</er> and <er>digoxin</er> are also extracted from the foxglove.  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au><br/
+<p><hw>dig"i*ta`lin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>digitaline</ets>.]</ety> <sd>(a)</sd> <fld>(Medicine, Pharmacy)</fld> <def>Any one of several extracts of foxglove (<gen>Digitalis</gen>), as the <ldquo/French extract,<rdquo/ the <ldquo/German extract,<rdquo/ etc., which differ among themselves in composition and properties.  Both <spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn> have been used to prepare such extracts.</def> <sd>(b)</sd> <fld>(Chem.)</fld> <def>the distinctive chemical substance, a <isa>steroid glycoside</isa>, which is the essential ingredient of the extracts of <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C36H56O14</chform>), and is a 3-substituted diglucoside of a steroid.  It is a powerful cardiac stimulant and is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/,16<beta/)-3-[6-Deoxy-4-O-<beta/-D-glucopyranosyl-3-O-methyl-<beta/-D-galactopyranosyl)oxy]-14,16-dihyroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitoxin</er> and <er>digoxin</er> are also extracted from the foxglove.  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol>cardiac glycosides</ecol></isa>.</def> <au>MI11</au><br/
 <syn><b>Syn. --</b> digitalinum verum, Diginorgin, Schmiedeberg's digitalin, digitalis, digitalis glycoside.</syn></p>
 </entry>
 
@@ -21585,7 +21585,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="digitoxin" source="PJC">
-<p><hw>dig`i*tox"in</hw> <pr>(d<icr/j`<icr/*t<ocr/k"s<icr/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>.  It is a white, crystalline substance (<chform>C41H64O13</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-14-hydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycoside</b></ecol></isa> group.</def> <au>MI11</au></p>
+<p><hw>dig`i*tox"in</hw> <pr>(d<icr/j`<icr/*t<ocr/k"s<icr/n)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>A <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>.  It is a white, crystalline substance (<chform>C41H64O13</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  Chemically it is <chname>(3<beta/,5<beta/)-3-[(O-2,6-Dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-O-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl-(1<rarr/4)-2,6-dideoxy-<beta/-D-ribo-hexopyranosyl)oxy]-14-hydroxy-card-20(22)-enolide</chname>.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol>cardiac glycoside</ecol></isa> group.</def> <au>MI11</au></p>
 </entry>
 
 <entry main-word="Digitule" source="1913 Webster">
@@ -21688,7 +21688,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="digoxin" source="PJC">
-<p><hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol><b>cardiac glycosides</b></ecol></isa>.</def> <au>MI11</au></p>
+<p><hw>di*gox"in</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Chem.)</fld> <def>a <isa>steroid glycoside</isa>, one of the cardiotonic chemical substances which is extracted from the <prodby>foxglove</prodby>. It is a white, crystalline substance (<chform>C41H64O14</chform>), and is a 3-substituted triglucoside of a steroid, related structurally to digitalin and digitoxin.  It is used as a cardiotonic for treatment of certain heart conditions, such as congestive heart failure.  The related compounds <er>digitalin</er> and <er>digoxin</er> are also extracted from the foxglove (<spn>Digitalis lanata</spn> and <spn>Digitalis purpurea</spn>).  The class of steroid glycosides having cardiotonic properties are refered to as the <isa><ecol>cardiac glycosides</ecol></isa>.</def> <au>MI11</au></p>
 </entry>
 
 <entry main-word="Digram" source="1913 Webster">
@@ -24405,7 +24405,7 @@ Is <qex>disacquainted</qex> never.</q> <rj><qau>Herrick.</qau></rj></p>
 <entry main-word="Disappearing" source="">
 <p><hw>Dis`ap*pear"ing</hw>, <def><pos>p. pr. & vb. n.</pos> of <er>Disappear</er>.</def></p>
 
-<p source="Webster 1913 Suppl."><cs><col>Disappearing carriage</col> <fld>(Ordnance)</fld>, <cd>a carriage for heavy coast guns on which the gun is raised above the parapet for firing and upon discharge is lowered behind the parapet for protection. The standard type of disappearing carriage in the coast artillery of the United States army is the <styp><ecol><b>Buffington-Crozier carriage</b></ecol></styp>, in which the gun trunnions are secured at the upper and after ends of a pair of heavy levers, at the lower ends of which is attached a counterweight of lead. The levers are pivoted at their middle points, which are, with the top carriage, permitted restrained motion along the slightly inclined chassis rails. The counterweight is held in place by a pawl and ratchet. When the gun is loaded the pawl is released and the counterweight sinks, raising the gun to the firing position above the parapet. The recoil following the discharge returns the gun to the loading position, the counterweight rising until the pawl engages the ratchet.</cd></cs></p>
+<p source="Webster 1913 Suppl."><cs><col>Disappearing carriage</col> <fld>(Ordnance)</fld>, <cd>a carriage for heavy coast guns on which the gun is raised above the parapet for firing and upon discharge is lowered behind the parapet for protection. The standard type of disappearing carriage in the coast artillery of the United States army is the <styp><ecol>Buffington-Crozier carriage</ecol></styp>, in which the gun trunnions are secured at the upper and after ends of a pair of heavy levers, at the lower ends of which is attached a counterweight of lead. The levers are pivoted at their middle points, which are, with the top carriage, permitted restrained motion along the slightly inclined chassis rails. The counterweight is held in place by a pawl and ratchet. When the gun is loaded the pawl is released and the counterweight sinks, raising the gun to the firing position above the parapet. The recoil following the discharge returns the gun to the loading position, the counterweight rising until the pawl engages the ratchet.</cd></cs></p>
 </entry>
 
 <entry main-word="Disappendency" source="1913 Webster">
@@ -27747,7 +27747,7 @@ From top of honor to <qex>disgrace's</qex> feet?</q> <rj><qau>Shak.</qau></rj></
 
 <p source="PJC"><sn>6.</sn> <def>anything with a discoid and concave shape, like that of a dish.</def></p>
 
-<p source="PJC"><sn>7.</sn> <def>an electronic device with a concave reflecting surface which focuses reflected radio waves to or from a point, used as a receiving or transmitting antenna; also called <altname><ecol><b>dish antenna</b></ecol></altname>.  The dish is often shaped as a paraboloid so as to achieve a high sensitivity and enable reception of weak signals when used as a receiving antenna, or to focus transmitted signals into a narrow beam when used as a transmitting antenna.</def><br/
+<p source="PJC"><sn>7.</sn> <def>an electronic device with a concave reflecting surface which focuses reflected radio waves to or from a point, used as a receiving or transmitting antenna; also called <altname><ecol>dish antenna</ecol></altname>.  The dish is often shaped as a paraboloid so as to achieve a high sensitivity and enable reception of weak signals when used as a receiving antenna, or to focus transmitted signals into a narrow beam when used as a transmitting antenna.</def><br/
 <syn><b>Syn. --</b> dish aerial, dish antenna, saucer.</syn></p>
 
 <p source="PJC;;WordNet 1.5"><sn>8.</sn> <def>a very attractive woman or young lady, especaially one sexually attractive; -- sometimes considered offensive and sexist; <as>as, the departmental secretary is quite a <ex>dish</ex></as>.</def> <mark>[slang]</mark><br/
@@ -29970,7 +29970,7 @@ The poisonous damp of night <qex>disponge</qex> upon me.</q> <rj><qau>Shak.</qau
 </entry>
 
 <entry main-word="disposable income" source="PJC">
-<p><hw>dis*pos"a*ble in"come</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Economics)</fld>  <def>that portion of income which is available for spending on discretionary purchases; for individuals, it is usually calculated as total income less taxes.  <ecol><b>National disposable income</b></ecol>, which is the disposable income of all individuals and businesses, is calculated as total national income minus taxes plus transfer payments.</def> <au>Dornbusch and Fischer (Macroeconomics)</au></p>
+<p><hw>dis*pos"a*ble in"come</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Economics)</fld>  <def>that portion of income which is available for spending on discretionary purchases; for individuals, it is usually calculated as total income less taxes.  <ecol>National disposable income</ecol>, which is the disposable income of all individuals and businesses, is calculated as total national income minus taxes plus transfer payments.</def> <au>Dornbusch and Fischer (Macroeconomics)</au></p>
 </entry>
 
 <entry main-word="Disposal" source="1913 Webster">
@@ -35802,7 +35802,7 @@ I spake to you for your comfort.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source="PJC"><sn>7.</sn> <fld>(Physics)</fld> <def>a region within a ferromagnetic material, composed of a number of atoms whose magnetic poles are pointed in the same direction, and which may move together in a coordinated manner when disturbed, as by heating.  The direction of polarity of adjacent domains may be different, but may be aligned by a strong external magnetic field.</def></p>
 
-<p source="PJC"><sn>8.</sn> <fld>(Computers)</fld> <def>an address within the internet computer network, which may be a single computer, a network of computers, or one of a number of accounts on a multiuser computer.  The domain specifies the location (host computer) to which communications on the internet are directed.  Each domain has a corresponding 32-bit number usually represented by four numbers separated by periods, as <examp>128.32.282.56</examp>.  Each domain may also have an alphabetical name, usually composed of a name plus an extension separated by a period, as <examp>worldsoul.org</examp>; the alphabetical name is referred to as a <ecol><b>domain name</b></ecol>.</def></p>
+<p source="PJC"><sn>8.</sn> <fld>(Computers)</fld> <def>an address within the internet computer network, which may be a single computer, a network of computers, or one of a number of accounts on a multiuser computer.  The domain specifies the location (host computer) to which communications on the internet are directed.  Each domain has a corresponding 32-bit number usually represented by four numbers separated by periods, as <examp>128.32.282.56</examp>.  Each domain may also have an alphabetical name, usually composed of a name plus an extension separated by a period, as <examp>worldsoul.org</examp>; the alphabetical name is referred to as a <ecol>domain name</ecol>.</def></p>
 
 <p source="PJC"><sn>9.</sn> <fld>(Immunology)</fld> <def>the three-dimensional structure within an immunoglobulin which is formed by one of the homology regions of a heavy or light chain.</def> <au>Dict. Sci. Tech.</au></p>
 
@@ -39858,7 +39858,7 @@ Or thou <qex>draw</qex> beauty and not feel its power?</q> <rj><qau>Prior.</qau>
 
 <p><sn>8.</sn> <def>To become contracted; to shrink.</def> <ldquo/To <xex>draw</xex> into less room.<rdquo/  <rj><au>Bacon.</au></rj></p>
 
-<p><sn>9.</sn> <def>To move; to come or go; literally, to draw one's self; -- with prepositions and adverbs; as, to <xex>draw away</xex>, to move off, esp. in racing, to get in front; to obtain the lead or increase it; to <ecol><b>draw back</b></ecol>, to retreat; to <ecol><b>draw level</b></ecol>, to move up even (with another); to come up to or overtake another; to <ecol><b>draw off</b></ecol>, to retire or retreat; to <ecol><b>draw on</b></ecol>, to advance; to <ecol><b>draw up</b></ecol>, to form in array; to <ecol><b>draw near</b></ecol>, <ecol><b>draw nigh</b></ecol>, or <ecol><b>draw towards</b></ecol>, to approach; to <ecol><b>draw together</b></ecol>, to come together, to collect.</def></p>
+<p><sn>9.</sn> <def>To move; to come or go; literally, to draw one's self; -- with prepositions and adverbs; as, to <xex>draw away</xex>, to move off, esp. in racing, to get in front; to obtain the lead or increase it; to <ecol>draw back</ecol>, to retreat; to <ecol>draw level</ecol>, to move up even (with another); to come up to or overtake another; to <ecol>draw off</ecol>, to retire or retreat; to <ecol>draw on</ecol>, to advance; to <ecol>draw up</ecol>, to form in array; to <ecol>draw near</ecol>, <ecol>draw nigh</ecol>, or <ecol>draw towards</ecol>, to approach; to <ecol>draw together</ecol>, to come together, to collect.</def></p>
 
 <p><sn>10.</sn> <def>To make a draft or written demand for payment of money deposited or due; -- usually with <xex>on</xex> or <xex>upon</xex>.</def></p>
 
