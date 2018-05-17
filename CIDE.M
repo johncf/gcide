@@ -35330,7 +35330,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 <p source="WordNet 1.5"><sn>5.</sn> <def>A slipper that has no fitting around the heel.</def><br/
 <syn><b>Syn. --</b> mules, scuff, scuffs.</syn></p>
 
-<p><cs><col>Mule armadillo</col> <fld>(Zool.)</fld>, <cd>a long-eared armadillo <fld>(Tatusia hybrida)</fld>, native of Buenos Ayres; -- called also <altname>mulita</altname>. See <xex>Illust.</xex> under <er>Armadillo</er>.</cd> -- <col>Mule deer</col> <fld>(Zool.)</fld>, <cd>a large deer (<spn>Cervus macrotis</spn> syn. <spn>Cariacus macrotis</spn>) of the Western United States.  The name refers to its long ears.</cd> -- <col>Mule pulley</col> <fld>(Mach.)</fld>, <cd>an idle pulley for guiding a belt which transmits motion between shafts that are not parallel.</cd> -- <col>Mule twist</col>, <cd>cotton yarn in cops, as spun on a mule; -- in distinction from yarn spun on a throstle frame.</cd></cs></p>
+<p><cs><col>Mule armadillo</col> <fld>(Zool.)</fld>, <cd>a long-eared armadillo (<spn>Tatusia hybrida</spn>), native of Buenos Ayres; -- called also <altname>mulita</altname>. See <xex>Illust.</xex> under <er>Armadillo</er>.</cd> -- <col>Mule deer</col> <fld>(Zool.)</fld>, <cd>a large deer (<spn>Cervus macrotis</spn> syn. <spn>Cariacus macrotis</spn>) of the Western United States.  The name refers to its long ears.</cd> -- <col>Mule pulley</col> <fld>(Mach.)</fld>, <cd>an idle pulley for guiding a belt which transmits motion between shafts that are not parallel.</cd> -- <col>Mule twist</col>, <cd>cotton yarn in cops, as spun on a mule; -- in distinction from yarn spun on a throstle frame.</cd></cs></p>
 </entry>
 
 <entry main-word="Mule-jenny" source="1913 Webster">

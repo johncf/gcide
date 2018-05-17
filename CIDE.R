@@ -26429,7 +26429,7 @@ Robbing a <qex>ripper</qex> of his fish.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 
 <p><sn>2.</sn> <def>A little wave or undulation; a sound such as is made by little waves; <as>as, a <ex>ripple</ex> of laughter</as>.</def></p>
 
-<p><cs><col>Ripple grass</col>. <fld>(Bot.)</fld> <cd>See <er>Ribwort</er>.</cd> -- <col>Ripple marks</col>, <cd>a system of parallel ridges on sand, produced by wind, by the current of a steam, or by the agitation of wind waves; also <fld>(Geol.)</fld>, a system of parallel ridges on the surface of a sandstone stratum.</cd></cs></p>
+<p><cs><col>Ripple grass</col>. <fld>(Bot.)</fld> <cd>See <er>Ribwort</er>.</cd> -- <col>Ripple marks</col>, <cd>a system of parallel ridges on sand, produced by wind, by the current of a steam, or by the agitation of wind waves;</cd> <specif>also</specif> <fld>(Geol.)</fld>, <cd>a system of parallel ridges on the surface of a sandstone stratum.</cd></cs></p>
 </entry>
 
 <entry main-word="Ripple-marked" source="1913 Webster">
@@ -29299,7 +29299,7 @@ Upon our houses' thatch.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>There's <qex>rosemary</qex>, that's for remembrance.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><cs><col>Marsh rosemary</col>. <sd>(a)</sd> <cd>A little shrub <fld>(Andromeda polifolia)</fld> growing in cold swamps and having leaves like those of the rosemary</cd>. <sd>(b)</sd> <cd>See under <er>Marsh</er>.</cd> -- <col>Rosemary pine</col>, <cd>the loblolly pine. See under <er>Loblolly</er>.</cd></cs></p>
+<p><cs><col>Marsh rosemary</col>. <sd>(a)</sd> <cd>A little shrub (<spn>Andromeda polifolia</spn>) growing in cold swamps and having leaves like those of the rosemary</cd>. <sd>(b)</sd> <cd>See under <er>Marsh</er>.</cd> -- <col>Rosemary pine</col>, <cd>the loblolly pine. See under <er>Loblolly</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Rosen" source="1913 Webster">
