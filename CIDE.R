@@ -28639,7 +28639,7 @@ Showered roses, which the morn repaired.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Mining.)</fld> <def>The surface or bed of rock immediately overlying a bed of coal or a flat vein.</def></p>
 
-<p><cs><mcol><col>Bell roof</col>, <col>French roof</col></mcol>, <cd>etc. <fld>(Arch.)</fld> See under <er>Bell</er>, <er>French</er>, etc.</cd> -- <col>Flat roof</col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>A roof actually horizontal and level, as in some Oriental buildings</cd>. <sd>(b)</sd> <cd>A roof nearly horizontal, constructed of such material as allows the water to run off freely from a very slight inclination.</cd> -- <col>Roof plate</col>. <fld>(Arch.)</fld> <cd>See <er>Plate</er>, <pos>n.</pos>, <snr>10</snr>.</cd></cs></p>
+<p><cs><col>Bell roof</col>, <col>French roof</col>, etc. <fld>(Arch.)</fld> <cd>See under <er>Bell</er>, <er>French</er>, etc.</cd> -- <col>Flat roof</col>. <fld>(Arch.)</fld> <sd>(a)</sd> <cd>A roof actually horizontal and level, as in some Oriental buildings</cd>. <sd>(b)</sd> <cd>A roof nearly horizontal, constructed of such material as allows the water to run off freely from a very slight inclination.</cd> -- <col>Roof plate</col>. <fld>(Arch.)</fld> <cd>See <er>Plate</er>, <pos>n.</pos>, <snr>10</snr>.</cd></cs></p>
 </entry>
 
 <entry main-word="Roof" source="1913 Webster">

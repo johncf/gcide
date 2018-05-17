@@ -36518,7 +36518,7 @@ To give foreknowledge true, and certain <qex>doom</qex>.</q> <rj><qau>Fairfax.</
 </entry>
 
 <entry main-word="Door" source="1913 Webster">
-<p><hw>Door</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>dore</ets>, <ets>dure</ets>, AS. <ets>duru</ets>; akin to OS. <ets>dura</ets>, <ets>dor</ets>, D. <ets>deur</ets>, OHG. <ets>turi</ets>, door, <ets>tor</ets> gate, G. <ets>th<uum/r</ets>, <ets>thor</ets>, Icel. <ets>dyrr</ets>, Dan. <ets>d<oum/r</ets>, Sw. <ets>d<oum/rr</ets>, Goth. <ets>daur</ets>, Lith. <ets>durys</ets>, Russ. <ets>dvere</ets>, Olr. <ets>dorus</ets>, L. <ets>fores</ets>, Gr. <?/; cf. Skr. <ets>dur</ets>, <ets>dv<amac/ra</ets>. <root/246.  Cf. <er>Foreign</er>.]</ety> <sn>1.</sn> <def>An opening in the wall of a house or of an apartment, by which to go in and out; an entrance way.</def></p>
+<p><hw>Door</hw> <pr>(d<omac/r; 111)</pr>, <pos>n.</pos> <ety>[OE. <ets>dore</ets>, <ets>dure</ets>, AS. <ets>duru</ets>; akin to OS. <ets>dura</ets>, <ets>dor</ets>, D. <ets>deur</ets>, OHG. <ets>turi</ets>, door, <ets>tor</ets> gate, G. <ets>th<uum/r</ets>, <ets>thor</ets>, Icel. <ets>dyrr</ets>, Dan. <ets>d<oum/r</ets>, Sw. <ets>d<oum/rr</ets>, Goth. <ets>daur</ets>, Lith. <ets>durys</ets>, Russ. <ets>dvere</ets>, Olr. <ets>dorus</ets>, L. <ets>fores</ets>, Gr. <?/; cf. Skr. <ets>dur</ets>, <ets>dv<amac/ra</ets>. <root/246.  Cf. <er>Foreign</er>.]</ety> <sn>1.</sn> <def>An opening in the wall of a house or of an apartment, by which to go in and out; an entrance way.</def></p>
 
 <p><q>To the same end, men several paths may tread,<br/
 As many <qex>doors</qex> into one temple lead.</q> <rj><qau>Denham.</qau></rj></p>
@@ -36536,13 +36536,13 @@ That fast was locked.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><q>Martin's office is now the second <qex>door</qex> in the street.</q> <rj><qau>Arbuthnot.</qau></rj></p>
 
-<p><cs><mcol><col>Blank door</col>, <col>Blind door</col></mcol>, <cd>etc. <fld>(Arch.)</fld> See under <er>Blank</er>, <er>Blind</er>, etc.</cd> -- <mcol><col>In doors</col>, <or/ <col>Within doors</col></mcol>, <cd>within the house.</cd> -- <col>Next door to</col>, <cd>near to; bordering on.</cd></p>
+<p><cs><col>Blank door</col>, <col>Blind door</col>, etc. <fld>(Arch.)</fld> <cd>See under <er>Blank</er>, <er>Blind</er>, etc.</cd> -- <col>In doors</col>, <or/ <col>Within doors</col>, <cd>within the house.</cd> -- <col>Next door to</col>, <cd>near to; bordering on.</cd></p>
 
-<p source=""><q>A riot unpunished is but <qex>next door to</qex> a tumult.</q> <rj><qau>L'Estrange.</qau></rj></p>
+<p><q>A riot unpunished is but <qex>next door to</qex> a tumult.</q> <rj><qau>L'Estrange.</qau></rj></p>
 
-<p>-- <mcol><col>Out of doors</col>, <or/ <col>Without doors</col>, and, <mark>[colloquially]</mark>, <col>Out doors</col></mcol>, <cd>out of the house; in open air; abroad; away; lost.</cd></p>
+<p>-- <col>Out of doors</col>, <or/ <col>Without doors</col>, and, <mark>[colloquially]</mark>, <col>Out doors</col>, <cd>out of the house; in open air; abroad; away; lost.</cd></p>
 
-<p source=""><q>His imaginary title of fatherhood is <qex>out of doors</qex>.</q> <rj><qau>Locke.</qau></rj></p>
+<p><q>His imaginary title of fatherhood is <qex>out of doors</qex>.</q> <rj><qau>Locke.</qau></rj></p>
 
 <p>-- <col>To lay (a fault, misfortune, etc.) at one's door</col>, <cd>to charge one with a fault; to blame for.</cd> -- <col>To lie at one's door</col>, <cd>to be imputable or chargeable to.</cd></p>
 

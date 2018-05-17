@@ -4493,7 +4493,7 @@ He plucked, he tasted.</q> <rj><qau>Milton.</qau></rj></p>
 <p><note><hand/ A verb is a word whereby the chief action of the mind [the assertion or the denial of a proposition] finds expression.  <rj><au>Earle.</au></rj>
 </note></p>
 
-<p><cs><mcol><col>Active verb</col>, <col>Auxiliary verb</col>, <col>Neuter verb</col></mcol>, <cd>etc.  See <er>Active</er>, <er>Auxiliary</er>, <er>Neuter</er>, etc.</cd></cs></p>
+<p><cs><col>Active verb</col>, <col>Auxiliary verb</col>, <col>Neuter verb</col>, etc. <cd>See <er>Active</er>, <er>Auxiliary</er>, <er>Neuter</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Verbal" source="1913 Webster">
