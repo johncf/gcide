@@ -7065,7 +7065,7 @@ In every <qex>gesture</qex> dignity and love.</q> <rj><qau>Milton.</qau></rj></p
 <entry main-word="Gettysburg Address" source="PJC">
 <p><hw>Gettysburg Address</hw> <pos>prop. n.</pos> <def>The popular name of a speech given by <person>Abraham Lincoln</person> on <datey>November 19, 1863</datey>, on the battlefield near Gettysburg, Pennsylvania, USA, as part of a ceremony to dedicate a portion of that battlefield as a cemetary for soldiers who died fighting there.  See note below.</def></p>
 
-<p source=""><note><hand/ <b>Lincoln's Gettysburg Address</b>,<br/
+<p><note><b>Lincoln's Gettysburg Address</b>,<br/
 <br/
 Four score and seven years ago, our fathers brought forth upon this continent a new nation:  conceived in liberty, and dedicated to the proposition that all men are created equal.<br/
 <br/
