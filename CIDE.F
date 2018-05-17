@@ -1577,7 +1577,7 @@ I broke me <qex>faith</qex> with injured Palamon.</q> <rj><qau>Dryden.</qau></rj
 
 <p><q>The <qex>faith</qex> of the foregoing narrative.</q> <rj><qau>Mitford.</qau></rj></p>
 
-<p><cs><col>Act of faith</col>. <cd>See <er>Auto-da-f<eacute/</er>.</cd> -- <mcol><col>Breach of faith</col>, <col>Confession of faith</col></mcol>, <cd>etc. See under <er>Breach</er>, <er>Confession</er>, etc.</cd> -- <col>Faith cure</col>, <cd>a method or practice of treating diseases by prayer and the exercise of faith in God.</cd> -- <col>In good faith</col>, <cd>with perfect sincerity.</cd></cs>
+<p><cs><col>Act of faith</col>. <cd>See <er>Auto-da-f<eacute/</er>.</cd> -- <mcol><col>Breach of faith</col>, <col>Confession of faith</col></mcol>, etc. <cd>See under <er>Breach</er>, <er>Confession</er>, etc.</cd> -- <col>Faith cure</col>, <cd>a method or practice of treating diseases by prayer and the exercise of faith in God.</cd> -- <col>In good faith</col>, <cd>with perfect sincerity.</cd></cs>
 <-- faith healing, faith healer = faith cure. --></p>
 </entry>
 
@@ -8474,7 +8474,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>After life's fitful <qex>fever</qex> he sleeps well.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><cs><mcol><col>Brain fever</col>, <col>Continued fever</col></mcol>, <cd>etc. See under <er>Brain</er>, <er>Continued</er>, etc.</cd> -- <col>Fever and ague</col>, <cd>a form of fever recurring in paroxysms which are preceded by chills. It is of malarial origin.</cd> -- <col>Fever blister</col> <fld>(Med.)</fld>, <cd>a blister or vesicle often found about the mouth in febrile states; a variety of herpes.</cd> -- <col>Fever bush</col> <fld>(Bot.)</fld>, <cd>the wild allspice or spice bush. See <er>Spicewood</er>.</cd> -- <col>Fever powder</col>. <cd>Same as <er>Jame's powder</er>.</cd> -- <col>Fever root</col> <fld>(Bot.)</fld>, <cd>an American herb of the genus <gen>Triosteum</gen> (<spn>Triosteum perfoliatum</spn>); -- called also <altname>feverwort</altname> and <altname>horse gentian</altname>.</cd> -- <col>Fever sore</col>, <cd>a carious ulcer or necrosis.</cd> <au>Miner.</au></cs></p>
+<p><cs><mcol><col>Brain fever</col>, <col>Continued fever</col></mcol>, etc. <cd>See under <er>Brain</er>, <er>Continued</er>, etc.</cd> -- <col>Fever and ague</col>, <cd>a form of fever recurring in paroxysms which are preceded by chills. It is of malarial origin.</cd> -- <col>Fever blister</col> <fld>(Med.)</fld>, <cd>a blister or vesicle often found about the mouth in febrile states; a variety of herpes.</cd> -- <col>Fever bush</col> <fld>(Bot.)</fld>, <cd>the wild allspice or spice bush. See <er>Spicewood</er>.</cd> -- <col>Fever powder</col>. <cd>Same as <er>Jame's powder</er>.</cd> -- <col>Fever root</col> <fld>(Bot.)</fld>, <cd>an American herb of the genus <gen>Triosteum</gen> (<spn>Triosteum perfoliatum</spn>); -- called also <altname>feverwort</altname> and <altname>horse gentian</altname>.</cd> -- <col>Fever sore</col>, <cd>a carious ulcer or necrosis.</cd> <au>Miner.</au></cs></p>
 </entry>
 
 <entry main-word="Fever" source="1913 Webster">
@@ -10011,7 +10011,7 @@ Yet <qex>filed with</qex> my abilities.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>Will is an old <qex>file</qex> in spite of his smooth face.</q> <rj><qau>Thackeray.</qau></rj></p>
 
-<p><cs><mcol><col>Bastard file</col>, <col>Cross file</col></mcol>, <cd>etc. See under <er>Bastard</er>, <er>Cross</er>, etc.</cd> -- <col>Cross-cut file</col>, <cd>a file having two sets of teeth crossing obliquely.</cd> -- <col>File blank</col>, <cd>a steel blank shaped and ground ready for cutting to form a file.</cd> -- <col>File cutter</col>, <cd>a maker of files.</cd> -- <col>Second-cut file</col>, <cd>a file having teeth of a grade next finer than bastard.</cd> -- <col>Single-cut file</col>, <cd>a file having only one set of parallel teeth; a float.</cd> -- <col>Smooth file</col>, <cd>a file having teeth so fine as to make an almost smooth surface.</cd></cs></p>
+<p><cs><mcol><col>Bastard file</col>, <col>Cross file</col></mcol>, etc. <cd>See under <er>Bastard</er>, <er>Cross</er>, etc.</cd> -- <col>Cross-cut file</col>, <cd>a file having two sets of teeth crossing obliquely.</cd> -- <col>File blank</col>, <cd>a steel blank shaped and ground ready for cutting to form a file.</cd> -- <col>File cutter</col>, <cd>a maker of files.</cd> -- <col>Second-cut file</col>, <cd>a file having teeth of a grade next finer than bastard.</cd> -- <col>Single-cut file</col>, <cd>a file having only one set of parallel teeth; a float.</cd> -- <col>Smooth file</col>, <cd>a file having teeth so fine as to make an almost smooth surface.</cd></cs></p>
 </entry>
 
 <entry main-word="File" source="1913 Webster">
@@ -14570,7 +14570,7 @@ And horse collars made of's skin.</q> <rj><qau>J. Fletcher.</qau></rj></p>
 <entry main-word="Flea" source="1913 Webster">
 <p><hw>Flea</hw>, <pos>n.</pos> <ety>[OE. <ets>fle</ets>, <ets>flee</ets>, AS. <ets>fle<aacute/</ets>, <ets>fle<aacute/h</ets>; akin to D. <ets>vtoo</ets>, OHG. <ets>fl<omac/h</ets>, G. <ets>floh</ets>, Icel. <ets>fl<omac/</ets>, Russ. <ets>blocha</ets>; prob. from the root of E. <ets>flee</ets>. <root/84. See <er>Flee</er>.]</ety> <fld>(Zool.)</fld> <def>An insect belonging to the genus <gen>Pulex</gen>, of the order <ord>Aphaniptera</ord>. Fleas are destitute of wings, but have the power of leaping energetically. The bite is poisonous to most persons. The human flea (<spn>Pulex irritans</spn>), abundant in Europe, is rare in America, where the dog flea (<spn>Ctenocephalides canis</spn>, formerly <spn>Pulex canis</spn>) and the smaller cat flea (<spn>Ctenocephalides felis</spn>) take its place. See <er>Aphaniptera</er>, and <er>Dog flea</er>. See <xex>Illustration</xex> in Appendix.</def></p>
 
-<p><cs><col>A flea in the ear</col>, <cd>an unwelcome hint or unexpected reply, annoying like a flea; an irritating repulse; as, to put a <xex>flea in one's ear</xex>; to go away with <xex>a flea in one's ear</xex>.</cd> -- <mcol><col>Beach flea</col>, <col>Black flea</col></mcol>, <cd>etc. See under <er>Beach</er>, etc.</cd></cs></p>
+<p><cs><col>A flea in the ear</col>, <cd>an unwelcome hint or unexpected reply, annoying like a flea; an irritating repulse; as, to put a <xex>flea in one's ear</xex>; to go away with <xex>a flea in one's ear</xex>.</cd> -- <mcol><col>Beach flea</col>, <col>Black flea</col></mcol>, etc. <cd>See under <er>Beach</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Fleabane" source="1913 Webster">
@@ -24936,7 +24936,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 
 <p source="Webster 1913 Suppl."><sn>8.</sn> <def>In games: <sd>(a)</sd> In pool, the triangular form used in setting up the balls; also, the balls as set up, or the round of playing required to pocket them all; <as>as, to play six <ex>frames</ex> in a game of 50 points</as>. <sd>(b)</sd> In bowling, as in tenpins, one of the several innings forming a game.</def></p>
 
-<p><cs><mcol><col>Balloon frame</col>, <col>Cant frames</col></mcol>, <cd>etc. See under <er>Balloon</er>, <er>Cant</er>, etc.</cd> -- <mcol><col>Frame building</col> <or/ <col>Frame house</col>, <cd>a building of which the form and support is made of framed timbers.</cd> <mark>[U.S.]</mark> -- <col>Frame level</col></mcol>, <cd>a mason's level.</cd> -- <col>Frame saw</col>, <cd>a thin saw stretched in a frame to give it rigidity.</cd></cs></p>
+<p><cs><mcol><col>Balloon frame</col>, <col>Cant frames</col></mcol>, etc. <cd>See under <er>Balloon</er>, <er>Cant</er>, etc.</cd> -- <mcol><col>Frame building</col> <or/ <col>Frame house</col>, <cd>a building of which the form and support is made of framed timbers.</cd> <mark>[U.S.]</mark> -- <col>Frame level</col></mcol>, <cd>a mason's level.</cd> -- <col>Frame saw</col>, <cd>a thin saw stretched in a frame to give it rigidity.</cd></cs></p>
 </entry>
 
 <entry main-word="framed" source="WordNet 1.5">

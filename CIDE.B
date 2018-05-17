@@ -39785,7 +39785,7 @@ And pleased by novelty in spite of sense.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><sn>2.</sn> <def>The part of a lamp, gas fixture, etc., where the flame is produced.</def></p>
 
-<p><cs><col>Bunsen's burner</col> <fld>(Chem.)</fld>, <cd>see <er>Bunsen burner</er>.</cd> -- <mcol><col>Argand burner</col>, <col>Rose burner</col></mcol>, <cd>etc. See under <er>Argand</er>, <er>Rose</er>, etc.</cd></cs></p>
+<p><cs><col>Bunsen's burner</col> <fld>(Chem.)</fld>, <cd>see <er>Bunsen burner</er>.</cd> -- <mcol><col>Argand burner</col>, <col>Rose burner</col></mcol>, etc. <cd>See under <er>Argand</er>, <er>Rose</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Burnet" source="1913 Webster">

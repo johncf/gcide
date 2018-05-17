@@ -7312,7 +7312,7 @@ Once set on ringing, with his own <qex>weight</qex> goes.</q> <rj><qau>Shak.</qa
 
 <p><sn>8.</sn> <fld>(Mech.)</fld> <def>The resistance against which a machine acts, as opposed to the power which moves it.</def>  <mark>[Obs.]</mark></p>
 
-<p><cs><col>Atomic weight</col>. <fld>(Chem.)</fld> <cd>See under <er>Atomic</er>, and cf. <er>Element</er>.</cd> -- <mcol><col>Dead weight</col>, <col>Feather weight</col>, <col>Heavy weight</col>, <col>Light weight</col></mcol>, <cd>etc.  See under <er>Dead</er>, <er>Feather</er>, etc.</cd> -- <col>Weight of observation</col> <fld>(Astron. & Physics)</fld>, <cd>a number expressing the most probable relative value of each observation in determining the result of a series of observations of the same kind.</cd></cs></p>
+<p><cs><col>Atomic weight</col>. <fld>(Chem.)</fld> <cd>See under <er>Atomic</er>, and cf. <er>Element</er>.</cd> -- <mcol><col>Dead weight</col>, <col>Feather weight</col>, <col>Heavy weight</col>, <col>Light weight</col></mcol>, etc.  <cd>See under <er>Dead</er>, <er>Feather</er>, etc.</cd> -- <col>Weight of observation</col> <fld>(Astron. & Physics)</fld>, <cd>a number expressing the most probable relative value of each observation in determining the result of a series of observations of the same kind.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Ponderousness; gravity; heaviness; pressure; burden; load; importance; power; influence; efficacy; consequence; moment; impressiveness.</syn></p>
 </entry>
@@ -8433,7 +8433,7 @@ A man to light a candle at his lantern.</q> <rj><qau>Chaucer.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Refreshed with liquor; drunk.</def>  <mark>[Slang]</mark>  <rj><au>Prior.</au></rj></p>
 
-<p><cs><mcol><col>Wet blanket</col>, <col>Wet dock</col></mcol>, <cd>etc.  See under <er>Blanket</er>, <er>Dock</er>, etc.</cd> -- <col>Wet goods</col>, <cd>intoxicating liquors.</cd> <mark>[Slang]</mark></cs></p>
+<p><cs><mcol><col>Wet blanket</col>, <col>Wet dock</col></mcol>, etc.  <cd>See under <er>Blanket</er>, <er>Dock</er>, etc.</cd> -- <col>Wet goods</col>, <cd>intoxicating liquors.</cd> <mark>[Slang]</mark></cs></p>
 
 <p><syn><b>Syn.</b> -- Nasty; humid; damp; moist.  See <er>Nasty</er>.</syn></p>
 </entry>
@@ -17717,7 +17717,7 @@ That can my spirits to your <qex>worship</qex>.</q> <rj><qau>Shak.</qau></rj></p
 <p><q>In attitude and aspect formed to be<br/
 At once the artist's <qex>worship</qex> and despair.</q> <rj><qau>Longfellow.</qau></rj></p>
 
-<p><cs><mcol><col>Devil worship</col>, <col>Fire worship</col>, <col>Hero worship</col></mcol>, <cd>etc.  See under <er>Devil</er>, <er>Fire</er>, <er>Hero</er>, etc.</cd></cs></p>
+<p><cs><mcol><col>Devil worship</col>, <col>Fire worship</col>, <col>Hero worship</col></mcol>, etc.  <cd>See under <er>Devil</er>, <er>Fire</er>, <er>Hero</er>, etc.</cd></cs></p>
 </entry>
 
 <entry main-word="Worship" source="1913 Webster">
@@ -18949,7 +18949,7 @@ Which he disclosing read, thus as the paper spake.</q> <rj><qau>Spenser.</qau></
 
 <p><note><hand/ <xex>Writs</xex> are usually witnessed, or <xex>tested</xex>, in the name of the chief justice or principal judge of the court out of which they are issued; and those directed to a sheriff, or other ministerial officer, require him to <xex>return</xex> them on a day specified. In former English law and practice, writs in civil cases were either <xex>original</xex> or <xex>judicial</xex>; the former were issued out of the Court of Chancery, under the great seal, for the summoning of a defendant to appear, and were granted before the suit began and in order to begin the same; the latter were issued out of the court where the original was returned, after the suit was begun and during the pendency of it. <xex>Tomlins</xex>. <xex>Brande</xex>. <xex>Encyc</xex>. <xex>Brit</xex>. The term <xex>writ</xex> is supposed by Mr. Reeves to have been derived from the fact of these <xex>formulae</xex> having always been expressed in <xex>writing</xex>, being, in this respect, distinguished from the other proceedings in the ancient action, which were conducted <xex>orally</xex>.</note></p>
 
-<p><cs><mcol><col>Writ of account</col>, <col>Writ of capias</col></mcol>, <cd>etc.  See under <er>Account</er>, <er>Capias</er>, etc.</cd> -- <col>Service of a writ</col>. <cd>See under <er>Service</er>.</cd></cs></p>
+<p><cs><mcol><col>Writ of account</col>, <col>Writ of capias</col></mcol>, etc.  <cd>See under <er>Account</er>, <er>Capias</er>, etc.</cd> -- <col>Service of a writ</col>. <cd>See under <er>Service</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Writability" source="1913 Webster">

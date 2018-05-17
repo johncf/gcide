@@ -4539,7 +4539,7 @@ Fatigued and sick.</q> <rj><qau>Cowley.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Law)</fld> <def>An action at law to recover a certain specified sum of money alleged to be due.</def>  <rj><au>Burrill.</au></rj></p>
 
-<p><cs><mcol><col>Bond debt</col>, <col>Book debt</col></mcol>, <cd>etc. See under <er>Bond</er>, <er>Book</er>, etc.</cd> -- <col>Debt of nature</col>, <cd>death.</cd></cs></p>
+<p><cs><mcol><col>Bond debt</col>, <col>Book debt</col></mcol>, etc. <cd>See under <er>Bond</er>, <er>Book</er>, etc.</cd> -- <col>Debt of nature</col>, <cd>death.</cd></cs></p>
 </entry>
 
 <entry main-word="Debted" source="1913 Webster">

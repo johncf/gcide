@@ -13009,7 +13009,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><sn>9.</sn> <fld>(Math.)</fld> <def>The measure of the relation between quantities or things of the same kind; that abstract species of quantity which is capable of being expressed by figures; numerical value.</def></p>
 
-<p><cs><mcol><col>Abstract number</col>, <col>Abundant number</col>, <col>Cardinal number</col></mcol>, <cd>etc. See under <er>Abstract</er>, <er>Abundant</er>, etc.</cd> -- <col>In numbers</col>, <cd>in numbered parts; as, a book published <xex>in numbers</xex>.</cd></cs></p>
+<p><cs><mcol><col>Abstract number</col>, <col>Abundant number</col>, <col>Cardinal number</col></mcol>, etc. <cd>See under <er>Abstract</er>, <er>Abundant</er>, etc.</cd> -- <col>In numbers</col>, <cd>in numbered parts; as, a book published <xex>in numbers</xex>.</cd></cs></p>
 </entry>
 
 <entry main-word="Number" source="1913 Webster">

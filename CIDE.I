@@ -860,7 +860,7 @@ Answering his great <qex>idea</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><note><hand/ <ldquo/In England, Locke may be said to have been the first who naturalized the term in its Cartesian universality. When, in common language, employed by Milton and Dryden, after Descartes, as before him by Sidney, Spenser, Shakespeare, Hooker, etc., the meaning is Platonic.<rdquo/</note>  <rj><au>Sir W. Hamilton.</au></rj></p>
 
-<p source=""><cs><mcol><col>Abstract idea</col>, <col>Association of ideas</col></mcol>, <cd>etc. See under <er>Abstract</er>, <er>Association</er>, etc.</cd></cs></p>
+<p source=""><cs><mcol><col>Abstract idea</col>, <col>Association of ideas</col></mcol>, etc. <cd>See under <er>Abstract</er>, <er>Association</er>, etc.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Notion; conception; thought; sentiment; fancy; image; perception; impression; opinion; belief; observation; judgment; consideration; view; design; intention; purpose; plan; model; pattern.</syn> -- <usage>There is scarcely any other word which is subjected to such abusive treatment as is the word <xex>idea</xex>, in the very general and indiscriminative way in which it is employed, as it is used variously to signify almost any act, state, or content of thought.</usage></p>
 </entry>
