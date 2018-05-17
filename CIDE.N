@@ -8213,13 +8213,14 @@ To <qex>nobler</qex> poets for a <qex>nobler</qex> song.</q> <rj><qau>Dryden.</q
 <p><hw>Nock</hw>, <pos>v. t.</pos> <def>To notch; to fit to the string, as an arrow; to string, as a bow.</def>  <rj><au>Chapman.</au></rj></p>
 </entry>
 
-<entry main-word="Noctambulation" source="1913 Webster;;PJC">
-<p><hw>Noc*tam`bu*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nox</ets>, <ets>noctis</ets>, night + <ets>ambulare</ets> to walk: cf. F. <ets>noctambulation</ets>.]</ety> <def>Somnambulism; sleepwalking; walking in one's sleep.</def>  <rj><au>Quain.</au></rj></p>
+<entry main-word="Noctambulation" source="1913 Webster">
+<p><hw>Noc*tam`bu*la"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>nox</ets>, <ets>noctis</ets>, night + <ets>ambulare</ets> to walk: cf. F. <ets>noctambulation</ets>.]</ety> <def>Somnambulism; walking in sleep.</def>  <rj><au>Quain.</au></rj></p>
 </entry>
 
 <entry main-word="Noctambulism" source="1913 Webster">
-<p><hw>Noc*tam"bu*lism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Somnambulism.</def><br/
-<syn><b>Syn. --</b> sleepwalking; noctambulation.</syn></p>
+<p><hw>Noc*tam"bu*lism</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Somnambulism.</def></p>
+
+<p source="WordNet 1.5"><syn><b>Syn. --</b> sleepwalking.</syn></p>
 </entry>
 
 <entry main-word="Noctambulist" source="1913 Webster">

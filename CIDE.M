@@ -2058,9 +2058,9 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><q>She that had all <qex>magnetic</qex> force alone.</q> <rj><qau>Donne.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>5.</sn> <def>Having, susceptible to, or induced by, animal magnetism, so called; hypnotic; <as>as, a <ex>magnetic</ex> sleep</as>. See <er>Magnetism</er>.</def> <mark>[Archaic]</mark> </p>
+<p><sn>5.</sn> <def>Having, susceptible to, or induced by, animal magnetism, so called; <as>as, a <ex>magnetic</ex> sleep</as>. See <er>Magnetism</er>.</def> <mark>[Archaic]</mark> </p>
 
-<p source="1913 Webster;;PJC"><cs><mcol><col>Magnetic amplitude</col>, <col>attraction</col>, <col>dip</col>, <col>induction</col></mcol>, <cd>etc. See under <er>Amplitude</er>, <er>Attraction</er>, etc.</cd> -- <col>Magnetic battery</col>, <cd>a combination of bar or horseshoe magnets with the like poles adjacent, so as to act together with great power.</cd> -- <col>Magnetic compensator</col>, <cd>a contrivance connected with a ship's compass for compensating or neutralizing the effect of the iron of the ship upon the needle.</cd> -- <col>Magnetic curves</col>, <cd>curves indicating lines of magnetic force, as in the arrangement of iron filings between the poles of a powerful magnet.</cd> -- <col>Magnetic elements</col>. <sd>(a)</sd> <fld>(Chem. Physics)</fld> <cd>Those elements, as iron, nickel, cobalt, chromium, manganese, etc., which are capable or becoming magnetic.</cd> <sd>(b)</sd> <fld>(Physics)</fld> <cd>In respect to terrestrial magnetism, the declination, inclination, and intensity</cd>. <sd>(c)</sd> <cd>See under <er>Element</er>.</cd>  -- <col>Magnetic fluid</col>, <cd>the hypothetical fluid whose existence was formerly assumed in the explanations of the phenomena of magnetism; -- no longer considered a meaningful concept.</cd> -- <mcol><col>Magnetic iron</col>, <or/ <col>Magnetic iron ore</col></mcol>. <fld>(Min.)</fld> <cd>Same as <er>Magnetite</er>.</cd> -- <col>Magnetic needle</col>, <cd>a slender bar of steel, magnetized and suspended at its center on a sharp-pointed pivot, or by a delicate fiber, so that it may take freely the direction of the magnetic meridian.  It constitutes the essential part of a compass, such as the mariner's and the surveyor's.</cd> -- <col>Magnetic poles</col>, <cd>the two points in the opposite polar regions of the earth at which the direction of the dipping needle is vertical.</cd> -- <col>Magnetic pyrites</col>. <cd>See <er>Pyrrhotite</er>.</cd> -- <col>Magnetic storm</col> <fld>(Terrestrial Physics)</fld>, <cd>a disturbance of the earth's magnetic force characterized by great and sudden changes.</cd> -- <col>magnetic tape</col> <fld>(Electronics)</fld>, <cd>a ribbon of plastic material to which is affixed a thin layer of powder of a material which can be magnetized, such as ferrite.  Such tapes are used in various electronic devices to record fluctuating voltages, which can be used to represent sounds, images, or binary data.  Devices such as audio casette recorders, videocasette recorders, and computer data storage devices use <ex>magnetic tape</ex> as an inexpensive medium to store data.  Different magnetically susceptible materials are used in such tapes.</cd> -- <col>Magnetic telegraph</col>, <cd>a telegraph acting by means of a magnet. See <er>Telegraph</er>.</cd></cs></p>
+<p><cs><col>Magnetic <oneof>amplitude, attraction, dip, induction,</oneof></col> etc. <cd>See under <er>Amplitude</er>, <er>Attraction</er>, etc.</cd> -- <col>Magnetic battery</col>, <cd>a combination of bar or horseshoe magnets with the like poles adjacent, so as to act together with great power.</cd> -- <col>Magnetic compensator</col>, <cd>a contrivance connected with a ship's compass for compensating or neutralizing the effect of the iron of the ship upon the needle.</cd> -- <col>Magnetic curves</col>, <cd>curves indicating lines of magnetic force, as in the arrangement of iron filings between the poles of a powerful magnet.</cd> -- <col>Magnetic elements</col>. <sd>(a)</sd> <fld>(Chem. Physics)</fld> <cd>Those elements, as iron, nickel, cobalt, chromium, manganese, etc., which are capable or becoming magnetic.</cd> <sd>(b)</sd> <fld>(Physics)</fld> <cd>In respect to terrestrial magnetism, the declination, inclination, and intensity</cd>. <sd>(c)</sd> <cd>See under <er>Element</er>.</cd> -- <col>Magnetic equator</col>, <cd>the line around the equatorial parts of the earth at which there is no magnetic dip, the dipping needle being horizontal; <extra source="JCF">-- called also <altname>aclinic line</altname>.</extra></cd> -- <col>Magnetic fluid</col>, <cd>the hypothetical fluid whose existence was formerly assumed in the explanations of the phenomena of magnetism.</cd> -- <col>Magnetic iron</col>, <or/ <col>Magnetic iron ore</col>. <fld>(Min.)</fld> <cd>Same as <er>Magnetite</er>.</cd> -- <col>Magnetic needle</col>, <cd>a slender bar of steel, magnetized and suspended at its center on a sharp-pointed pivot, or by a delicate fiber, so that it may take freely the direction of the magnetic meridian.  It constitutes the essential part of a compass, such as the mariner's and the surveyor's.</cd> -- <col>Magnetic poles</col>, <cd>the two points in the opposite polar regions of the earth at which the direction of the dipping needle is vertical.</cd> -- <col>Magnetic pyrites</col>. <cd>See <er>Pyrrhotite</er>.</cd> -- <col>Magnetic storm</col> <fld>(Terrestrial Physics)</fld>, <cd>a disturbance of the earth's magnetic force characterized by great and sudden changes.</cd> -- <col>Magnetic telegraph</col>, <cd>a telegraph acting by means of a magnet. See <er>Telegraph</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Magnetic" source="1913 Webster">
@@ -2107,10 +2107,6 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="magnetic disc" source="WordNet 1.5">
 <p><mhw><hw>magnetic disc</hw>, <hw>magnetic disk</hw></mhw> <pos>n.</pos> <def>A ditical memory device consisting of a flat disk covered with a magnetic coating on which information is stored; a <stype>hard disk</stype>, <stype>floppy disk</stype>, and <stype>diskette</stype> are typically magnetic disks.</def><br/
 <syn><b>Syn. --</b> disk, disc.</syn></p>
-</entry>
-
-<entry main-word="magnetic equator" source="WordNet 1.5">
-<p><hw>magnetic equator</hw> <pos>n.</pos> <def>An imaginary line paralleling the equator where a magnetic needle has no dip, the dipping needle being horizontal; called also <altname>aclinic line</altname>.</def></p>
 </entry>
 
 <entry main-word="magnetic field" source="WordNet 1.5">
@@ -2232,8 +2228,7 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="magnetic tape" source="WordNet 1.5">
-<p><hw>magnetic tape</hw> <pos>n.</pos> <def>A long thin plastic ribbon coated with iron oxide or other ferromagnetic material, used to record audio or video signals digital data in the form of small magnetized regions on the tape; it is a common <isa>digital data storage medium</isa> for computer information.</def><br/
-<syn><b>Syn. --</b> mag tape, tape.</syn></p>
+<p><hw>magnetic tape</hw> <pos>n.</pos> <def>A long thin plastic ribbon coated with iron oxide or other ferromagnetic material, used to record audio or video signals digital data in the form of small magnetized regions on the tape; it is a common <isa>digital data storage medium</isa> for computer information.</def></p>
 </entry>
 
 <entry main-word="magnetic variation" source="WordNet 1.5">
@@ -2244,14 +2239,16 @@ The larger loadstone that, the nearer this.</q> <rj><qau>Dryden.</qau></rj></p>
 <p><hw>Mag`net*if"er*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>magnes</ets>, <ets>-etis</ets> + <ets>-ferous</ets>.]</ety> <def>Producing or conducting magnetism.</def></p>
 </entry>
 
-<entry main-word="Magnetism" source="1913 Webster;;PJC">
-<p><hw>Mag"net*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>magn<eacute/tisme</ets>.]</ety> <def>The property, quality, or state, of being magnetic; the manifestation of the force in nature which is seen in a magnet.  At one time it was believed to be separate from the electrical force, but it is now known to be intimately associated with electricity, as part of the phenomenon of <er>electromagnetism</er>.</def></p>
+<entry main-word="Magnetism" source="1913 Webster">
+<p><hw>Mag"net*ism</hw> <pr>(m<acr/g"n<ecr/t*<icr/z'm)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>magn<eacute/tisme</ets>.]</ety> <def>The property, quality, or state, of being magnetic; the manifestation of the force in nature which is seen in a magnet.</def></p>
 
-<p source="1913 Webster"><sn>2.</sn> <def>The science which treats of magnetic phenomena.</def></p>
+<p source="PJC"><note>At one time it was believed to be separate from the electrical force, but it is now known to be intimately associated with electricity, as part of the phenomenon of <er>electromagnetism</er>.</note></p>
 
-<p source="1913 Webster"><sn>3.</sn> <def>Power of attraction; power to excite the feelings and to gain the affections.</def> <ldquo/By the <xex>magnetism</xex> of interest our affections are irresistibly attracted.<rdquo/  <rj><au>Glanvill.</au></rj></p>
+<p><sn>2.</sn> <def>The science which treats of magnetic phenomena.</def></p>
 
-<p source="1913 Webster"><cs><col>Animal magnetism</col>, <cd>Same as <er>hypnotism</er>, at one time believe to be due to a force more or less analogous to magnetism, which, it was alleged, is produced in animal tissues, and passes from one body to another with or without actual contact.  The existence of such a force, and its potentiality for the cure of disease, were asserted by <persfn>Mesmer</persfn> in 1775.  His theories and methods were afterwards called <xex>mesmerism</xex>, a name which has been popularly applied to theories and claims not put forward by Mesmer himself. See <er>Mesmerism</er>, <er>Biology</er>, <er>Od</er>, <er>Hypnotism</er>.</cd> -- <col>Terrestrial magnetism</col>, <cd>the magnetic force exerted by the earth, and recognized by its effect upon magnetized needles and bars.</cd></cs></p>
+<p><sn>3.</sn> <def>Power of attraction; power to excite the feelings and to gain the affections.</def> <ldquo/By the <xex>magnetism</xex> of interest our affections are irresistibly attracted.<rdquo/  <rj><au>Glanvill.</au></rj></p>
+
+<p><cs><col>Animal magnetism</col>, <cd>a force, more or less analogous to magnetism, which, it was alleged, is produced in animal tissues, and passes from one body to another with or without actual contact.  The existence of such a force, and its potentiality for the cure of disease, were asserted by <persfn>Mesmer</persfn> in 1775. <extra source="Wikipedia">He tried persistently but without success to achieve scientific recognition of his ideas.</extra> His theories and methods were afterwards called <xex>mesmerism</xex>, a name which has been popularly applied to theories and claims not put forward by Mesmer himself. See <er>Mesmerism</er>, <er>Od</er>, <er>Hypnotism</er>.</cd> -- <col>Terrestrial magnetism</col>, <cd>the magnetic force exerted by the earth, and recognized by its effect upon magnetized needles and bars.</cd></cs></p>
 </entry>
 
 <entry main-word="Magnetist" source="1913 Webster">
@@ -17638,7 +17635,7 @@ To make him bothe game and glee.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Mesmerism" source="1913 Webster">
-<p><hw>Mes"mer*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <persfn><etsep>Mesmer</etsep></persfn>, who first brought it into notice at Vienna, about 1775: cf. F. <ets>mesm<eacute/risme</ets>.]</ety> <def>An earlier name for <altname>hypnosis</altname> or <altname>hypnotism</altname>, the art of inducing an extraordinary or abnormal state of the nervous system, in which the actor claims to control the actions, and communicate directly with the mind, of the recipient.  It is believed to be a state between sleep and wakefulness, in which a person is more susceptible to suggestion than when awake.  See <cref>Animal magnetism</cref>, under <er>Magnetism</er>.</def></p>
+<p><hw>Mes"mer*ism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <persfn><etsep>Mesmer</etsep></persfn>, who first brought it into notice at Vienna, about 1775: cf. F. <ets>mesm<eacute/risme</ets>.]</ety> <def>The art of inducing an extraordinary or abnormal state of the nervous system, in which the actor claims to control the actions, and communicate directly with the mind, of the recipient. <mark>[Outdated]</mark> See <cref>Animal magnetism</cref>, under <er>Magnetism</er>.</def></p>
 </entry>
 
 <entry main-word="Mesmerist" source="1913 Webster">

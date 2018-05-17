@@ -19696,22 +19696,22 @@ The hue of dungeons, and the suit of night.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Black"heart`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <def>A heart-shaped cherry with a very dark-colored skin.</def></p>
 </entry>
 
-<entry main-word="black-hearted" source="1913 Webster">
-<p><hw>black"-heart`ed</hw>, <pos>a.</pos> <def>Having a wicked, malignant disposition; morally bad.</def></p>
+<entry main-word="Black-hearted" source="1913 Webster">
+<p><hw>Black"-heart`ed</hw>, <pos>a.</pos> <def>Having a wicked, malignant disposition; morally bad.</def></p>
 </entry>
 
-<entry main-word="black hole" source="1913 Webster">
-<p><hw>black" hole`</hw> <pr>(<?/)</pr>. <def>A dungeon or dark cell in a prison; a military lock-up or guardroom; -- now commonly with allusion to the cell (the Black Hole) in a fort at Calcutta (called the <altname>Black Hole of Calcutta</altname>), into which 146 English prisoners were thrust by the nabob Suraja Dowla on the night of June 20, 1765, and in which 123 of the prisoners died before morning from lack of air.</def></p>
+<entry main-word="Black hole" source="1913 Webster">
+<p><hw>Black" hole`</hw> <pr>(h<omac/l`)</pr>. <def>A dungeon or dark cell in a prison; a military lock-up or guardroom; -- now commonly with allusion to the cell (the Black Hole) in a fort at Calcutta, into which 146 English prisoners were thrust by the nabob Suraja Dowla on the night of June 20, 1765, and in which 123 of the prisoners died before morning from lack of air.</def></p>
 
 <p><q>A discipline of unlimited autocracy, upheld by rods, and ferules, and the <qex>black hole</qex>.</q> <rj><qau>H. Spencer.</qau></rj></p>
 
-<p source="PJC"><sn>2.</sn> <fld>(Physics, Astron.)</fld> <def>An astronomical object whose mass is so condensed that the gravitational force does not allow anything, even light, to escape from its outer limit (the <cref>event horizon</cref>).  The existence of such objects was first proposed from theoretical considerations.  Because light cannot escape from such objects, they have not yet been detected with certainty (1998), but several "candidates" have been observed whose properties strongly suggest that they are <ex>black holes</ex>.  Some theorists suggest that the centers of many galaxies may have large black holes at their cores.  See also <er>escape velocity</er>.</def></p>
+<p source="Wiktionary"><sn>2.</sn> <fld>(Physics, Astron.)</fld> <def>A gravitationally domineering celestial body with an event horizon from which even light cannot escape; the most dense material in the universe, condensed into a singularity, usually formed by a collapsing massive star.</def></p>
 
-<p source="PJC"><sn>3.</sn> <ety>[from the astronomical <ets>black hole</ets>.]</ety> <def>a place into which things may enter, but can never emerge.</def> <mark>[Fig., Jocose]</mark> "He was so disorganized his office was a <xex>black hole</xex>."</p>
+<p source="Wiktionary"><sn>3.</sn> <def>Fig.: A void into which things disappear and/or from which nothing emerges.</def> <specif>Hence:</specif> <sd>(a)</sd> <def>A sphere of influence into which or from which communication or similar activity is precluded.</def> <sd>(b)</sd> <def>An entity which consumes time or resources without demonstrable utility.</def></p>
 </entry>
 
-<entry main-word="blacking" source="1913 Webster">
-<p><hw>black"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>Any preparation for making things black; esp. one for giving a black luster to boots and shoes, or to stoves.</def></p>
+<entry main-word="Blacking" source="1913 Webster">
+<p><hw>Black"ing</hw>, <pos>n.</pos> <sn>1.</sn> <def>Any preparation for making things black; esp. one for giving a black luster to boots and shoes, or to stoves.</def></p>
 
 <p><sn>2.</sn> <def>The act or process of making black.</def></p>
 </entry>

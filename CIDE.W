@@ -10123,7 +10123,7 @@ There was a duke that highte Theseus.</q> <rj><qau>Chaucer.</qau></rj></p>
 <entry main-word="Whimbrel" source="1913 Webster">
 <p><hw>Whim"brel</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Whimper</er>.]</ety> <fld>(Zool.)</fld> <def>Any one of several species of small curlews, especially the European species (<spn>Numenius phaeopus</spn>), called also <altname>Jack curlew</altname>, <altname>half curlew</altname>, <altname>stone curlew</altname>, and <altname>tang whaup</altname>.  See <xex>Illustration</xex> in <er>Appendix</er>.</def></p>
 
-<p><cs><mcol><col>Hudsonian</col> or, <col>Eskimo</col>, <col>whimbreal</col></mcol>, <cd>the Hudsonian curlew.</cd></cs></p>
+<p><cs><col><oneof>Hudsonian, <or/ Eskimo,</oneof> whimbreal</col>, <cd>the Hudsonian curlew.</cd></cs></p>
 </entry>
 
 <entry main-word="Whimling" source="1913 Webster">

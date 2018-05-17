@@ -9495,7 +9495,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj></p>
 <entry main-word="Heliocentric" source="1913 Webster">
 <p><mhw>{ <hw>He`li*o*cen"tric</hw> <pr>(h<emac/`l<icr/*<osl/*s<ecr/n"tr<icr/k)</pr>, <hw>He`li*o*cen"tric"al</hw> <pr>(h<emac/`l<icr/*<osl/*s<ecr/n"tr<icr/*k<ait/l)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Helio-</ets> + <ets>centric</ets>, <ets>centrical</ets>: cf. F. <ets>h<eacute/liocentrique</ets>.]</ety> <fld>(Astron.)</fld> <def>pertaining to the sun's center, or appearing to be seen from it; having, or relating to, the sun as a center; -- opposed to <contr>geocentrical</contr>.</def></p>
 
-<p><cs><col>Heliocentric parallax</col>. <cd>See under <er>Parallax</er>.</cd> -- <mcol><col>Heliocentric place</col>, <col>latitude</col>, <col>longitude</col></mcol>, <cd>etc. (of a heavenly body), the direction, latitude, longitude, etc., of the body as viewed from the sun.</cd></cs></p>
+<p><cs><col>Heliocentric parallax</col>. <cd>See under <er>Parallax</er>.</cd> -- <col>Heliocentric <oneof>place, latitude, longitude,</oneof></col> etc. (of a heavenly body), <cd>the direction, latitude, longitude, etc., of the body as viewed from the sun.</cd></cs></p>
 </entry>
 
 <entry main-word="Heliochrome" source="1913 Webster">
@@ -17586,7 +17586,7 @@ For without hearts there is no <qex>home</qex>.</q> <rj><qau>Byron.</qau></rj></
 
 <p source="Webster 1913 Suppl."><sn>3.</sn> <fld>(Games)</fld>  <def>In various games, the ultimate point aimed at in a progress; goal</def>; as: <sd>(a)</sd> <fld>(Baseball)</fld> <def>The plate at which the batter stands; same as <cref>home base</cref> and <cref>home plate</cref>.</def> <sd>(b)</sd> <fld>(Lacrosse)</fld> <def>The place of a player in front of an opponent's goal; also, the player.</def></p>
 
-<p><cs><mcol><col>Home base</col> <or/ <col>Home plate</col></mcol> <fld>(Baseball)</fld>, <cd>the base at which the batter stands when batting, and which is the last base to be reached in scoring a run.</cd> -- <mcol><col>Home farm</col>, <col>grounds</col></mcol>, etc., <cd>the farm, grounds, etc., adjacent to the residence of the owner.</cd> -- <col>Home lot</col>, <cd>an inclosed plot on which the owner's home stands.</cd> <mark>[U. S.]</mark> -- <col>Home rule</col>, <cd>rule or government of an appendent or dependent country, as to all local and internal legislation, by means of a governing power vested in the people within the country itself, in contradistinction to a government established by the dominant country; <as>as, <ex>home rule</ex> in Ireland</as>. Also used adjectively; as, <xex>home-rule</xex> members of Parliament.</cd> -- <col>Home ruler</col>, <cd>one who favors or advocates home rule.</cd> --  <col>Home stretch</col> <fld>(Sport.)</fld>, <cd>that part of a race course between the last curve and the winning post.</cd> -- <col>Home thrust</col>, <cd>a well directed or effective thrust; one that wounds in a vital part; hence, in controversy, a personal attack.</cd></cs></p>
+<p><cs><col>Home base</col>, <col>Home plate</col> <fld>(Baseball)</fld>, <cd>the base at which the batter stands when batting, and which is the last base to be reached in scoring a run.</cd> -- <col>Home <oneof>farm, grounds,</oneof></col> etc., <cd>the farm, grounds, etc., adjacent to the residence of the owner.</cd> -- <col>Home lot</col>, <cd>an inclosed plot on which the owner's home stands.</cd> <mark>[U. S.]</mark> -- <col>Home rule</col>, <cd>rule or government of an appendent or dependent country, as to all local and internal legislation, by means of a governing power vested in the people within the country itself, in contradistinction to a government established by the dominant country; <as>as, <ex>home rule</ex> in Ireland</as>. Also used adjectively; as, <xex>home-rule</xex> members of Parliament.</cd> -- <col>Home ruler</col>, <cd>one who favors or advocates home rule.</cd> --  <col>Home stretch</col> <fld>(Sport.)</fld>, <cd>that part of a race course between the last curve and the winning post.</cd> -- <col>Home thrust</col>, <cd>a well directed or effective thrust; one that wounds in a vital part; hence, in controversy, a personal attack.</cd></cs></p>
 </entry>
 
 <entry main-word="Home" source="1913 Webster">
@@ -22821,11 +22821,11 @@ Have <qex>humbled</qex> to all strokes.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Humming" source="1913 Webster">
 <p><hw>Hum"ming</hw>, <pos>n.</pos> <def>A sound like that made by bees; a low, murmuring sound; a hum.</def></p>
 
-<p><cs><col>Hummingale</col>, <cd>lively or strong ale.</cd> <au>Dryden.</au> -- <col>Humming-bird moth</col> <fld>(Zool.)</fld>, <cd>a hawk moth. See <cref>Hawk moth</cref>, under <er>Hawk</er>, the bird.</cd></cs></p>
+<p><cs><col>Humming ale</col>, <cd>lively or strong ale.</cd> <au>Dryden.</au> -- <col>Humming-bird moth</col> <fld>(Zool.)</fld>, <cd>a hawk moth. See <cref>Hawk moth</cref>, under <er>Hawk</er>, the bird.</cd></cs></p>
 </entry>
 
-<entry main-word="hummingbird" source="1913 Webster">
-<p><mhw><hw>hummingbird</hw>, <hw>humming bird</hw></mhw> <pos>n.</pos> <fld>(Zool.)</fld>, <def>any bird of the family <fam>Trochilid<ae/</fam>, of which over one hundred genera are known, including about four hundred species. They are found only in America and are most abundant in the tropics. They are mostly of very small size with long slender bills adapted to sucking nectar from flowers, and are noted for the very brilliant iridescent colors of their plumage and their peculiar habit of hovering about flowers while vibrating their wings very rapidly with a humming noise; the wings are specialized for hovering flight, but they can also dart forward and fly quite rapidly. They feed both upon the nectar of flowers and upon small insects. The common humming bird or <stype>ruby-throat</stype> of the Eastern United States is <spn>Trochilus colubris</spn>. Several other species are found in the Western United States. See <er>Calliope</er>, and <er>Ruby-throat</er>.</def></p>
+<entry main-word="Hummingbird" source="1913 Webster">
+<p><hw>Hummingbird</hw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>Any bird of the family <fam>Trochilid<ae/</fam>, of which over one hundred genera are known, including about four hundred species. They are found only in America and are most abundant in the tropics. They are mostly of very small size with long slender bills adapted to sucking nectar from flowers, and are noted for the very brilliant iridescent colors of their plumage and their peculiar habit of hovering about flowers while vibrating their wings very rapidly with a humming noise; the wings are specialized for hovering flight, but they can also dart forward and fly quite rapidly. They feed both upon the nectar of flowers and upon small insects. The common humming bird or <stype>ruby-throat</stype> of the Eastern United States is <spn>Trochilus colubris</spn>. Several other species are found in the Western United States. See <er>Calliope</er>, and <er>Ruby-throat</er>.</def></p>
 </entry>
 
 <entry main-word="Hummock" source="1913 Webster">
@@ -24477,7 +24477,7 @@ Vext the dim sea.</q> <rj><qau>Tennyson.</qau></rj></p>
 <entry main-word="Hydrocarbon" source="1913 Webster">
 <p><hw>Hy`dro*car"bon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hydro-</ets>, 2 + <ets>carbon</ets>.]</ety> <fld>(Chem.)</fld> <def>A compound containing only hydrogen and carbon, as methane, benzene, etc.; also, by extension, any of their derivatives.</def></p>
 
-<p><cs><mcol><col>Hydrocarbon burner</col>, <col>furnace</col>, <col>stove</col></mcol>, <cd>a burner, furnace, or stove with which liquid fuel, as petroleum, is used.</cd></cs></p>
+<p><cs><col>Hydrocarbon <oneof>burner, furnace, stove</oneof></col>, <cd>a burner, furnace, or stove with which liquid fuel, as petroleum, is used.</cd></cs></p>
 </entry>
 
 <entry main-word="Hydrocarbonaceous" source="1913 Webster">
@@ -26131,9 +26131,13 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Hypnosis" source="1913 Webster">
-<p><par/<hw>Hyp*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sleep.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Supervention of sleep.</def></p>
+<p><par/<hw>Hyp*no"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ sleep.]</ety> <sn>1.</sn> <fld>(Med.)</fld> <def>Supervention of sleep.</def> <mark>[Outdated]</mark></p>
 
-<p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <def>The condition of being hypnotized or the process of hypnotizing a person; hypnotism{1}.</def></p>
+<p source="Webster 1913 Suppl."><sn>2.</sn> <def>The condition of being hypnotized.</def></p>
+
+<p source="Wiktionary"><sn>3.</sn> <def>A trancelike state, artificially induced, in which a person has a heightened suggestibility, and in which suppressed memories may be experienced.</def></p>
+
+<p source="Wiktionary"><sn>4.</sn> <def>The art or skill of hypnotism.</def></p>
 </entry>
 
 <entry main-word="Hypnotic" source="1913 Webster">
@@ -26148,10 +26152,10 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj></p>
 <p><sn>2.</sn> <def>A person who exhibits the phenomena of, or is subject to, hypnotism.</def></p>
 </entry>
 
-<entry main-word="Hypnotism" source="1913 Webster;;PJC">
-<p><hw>Hyp"no*tism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ sleep: cf. F. <ets>hypnotisme</ets>.]</ety> <sn>1.</sn> <def>A form of sleep or trance, in some respects resembling somnambulism, but brought on by artificial means, in which there is an unusual suspension of some powers, and an unusual activity of others, especially a heightened susceptibility to suggestion. It is induced by an action upon the nerves, through the medium of the senses, by causing the subject to gaze steadily at a very bright object held before the eyes, or on an oscillating object, or by pressure upon certain points of the surface of the body, usually accompanied by the speaking of the hypnotist in quiet soothing tones.  Called also <altname>hypnosis</altname>.</def></p>
+<entry main-word="Hypnotism" source="1913 Webster">
+<p><hw>Hyp"no*tism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ sleep: cf. F. <ets>hypnotisme</ets>.]</ety> <sn>1.</sn> <def>A form of sleep or somnambulism brought on by artificial means, in which there is an unusual suspension of some powers, and an unusual activity of others. It is induced by an action upon the nerves, through the medium of the senses, as in persons of very feeble organization, by gazing steadily at a very bright object held up before the eyes, or by pressure upon certain points on the surface of the body.</def> <mark>[Outdated]</mark></p>
 
-<p source="PJC"><sn>2.</sn> <def>The science which deals with the induction and properties of the hypnotic state.</def></p>
+<p source="Wiktionary"><sn>2.</sn> <def>The art of inducing hypnosis. See <er>Hypnosis</er>.</def></p>
 </entry>
 
 <entry main-word="Hypnotist" source="PJC">
