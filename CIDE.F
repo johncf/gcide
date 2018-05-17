@@ -11867,7 +11867,7 @@ But <qex>firm</qex> battalion.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Firman" source="1913 Webster">
-<p><hw>Fir"man</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Firmans</plw> <pr>(#)</pr> <xex>or</xex> <pr>(#)</pr>.</plu> <ety>[Pers. <ets>ferm<amac/n</ets>.]</ety> <def>In Turkey and some other Oriental countries, a decree or mandate issued by the sovereign; a royal order or grant; -- generally given for special objects, as to a traveler to insure him protection and assistance.</def> <altsp>[Written also <asp>firmaun</asp>.]</altsp></p>
+<p><hw>Fir"man</hw> <pr>(? <or/ ?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Firmans</plw> <pr>(? <or/ ?)</pr>.</plu> <ety>[Pers. <ets>ferm<amac/n</ets>.]</ety> <def>In Turkey and some other Oriental countries, a decree or mandate issued by the sovereign; a royal order or grant; -- generally given for special objects, as to a traveler to insure him protection and assistance.</def> <altsp>[Written also <asp>firmaun</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Firmer-chisel" source="1913 Webster">

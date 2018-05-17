@@ -12610,7 +12610,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 </entry>
 
 <entry main-word="Rei" source="1913 Webster">
-<p><hw>Rei</hw> <pr>(r?)</pr>, <pos>n.</pos>;<plu><it>pl.</it> <plw>Reis</plw> <pr>(r<?/"<?/s <xex>or</xex> r<?/z)</pr>.</plu> <ety>[Pg. <ets>real</ets>, pl. <ets>reis</ets>. See <er>Real</er> a coin.]</ety> <def>A portuguese money of account, in value about one tenth of a cent.</def> <altsp>[Spelt also <asp>ree</asp>.]</altsp></p>
+<p><hw>Rei</hw> <pr>(r?)</pr>, <pos>n.</pos>;<plu><it>pl.</it> <plw>Reis</plw> <pr>(r<?/"<?/s <or/ r<?/z)</pr>.</plu> <ety>[Pg. <ets>real</ets>, pl. <ets>reis</ets>. See <er>Real</er> a coin.]</ety> <def>A portuguese money of account, in value about one tenth of a cent.</def> <altsp>[Spelt also <asp>ree</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Reichsrath" source="1913 Webster">

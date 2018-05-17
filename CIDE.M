@@ -21675,11 +21675,10 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 <p><hw>Mil*les"i*mal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>millesimus</ets>, fr. <ets>mille</ets> a thousand.]</ety> <def>Thousandth; consisting of thousandth parts; <as>as, <ex>millesimal</ex> fractions</as>.</def></p>
 </entry>
 
-<entry main-word="millet" source="">
-<p><hw>mil"let</hw> <pr>(m<icr/l"l<ecr/t)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>mil</ets>, L. <ets>milium</ets>; akin to Gr. <grk>meli`nh</grk>, AS. <ets>mil</ets>.]</ety> <fld>(Bot.)</fld> <def>The name of several cereal and forage grasses which bear an abundance of small roundish grains. The common millets of Germany and Southern Europe are <spn>Panicum miliaceum</spn>, and <spn>Setaria Italica</spn>.</def></p>
+<entry main-word="Millet" source="1913 Webster">
+<p><hw>Mil"let</hw> <pr>(m<icr/l"l<ecr/t)</pr>, <pos>n.</pos> <ety>[F., dim. of <ets>mil</ets>, L. <ets>milium</ets>; akin to Gr. <grk>meli`nh</grk>, AS. <ets>mil</ets>.]</ety> <fld>(Bot.)</fld> <def>The name of several cereal and forage grasses which bear an abundance of small roundish grains. The common millets of Germany and Southern Europe are <spn>Panicum miliaceum</spn>, and <spn>Setaria Italica</spn>.</def></p>
 
-<p source="1913 Webster"><-- all species in this note are subtypes -->
-<note><hand/ <col>Arabian millet</col> is <spn>Sorghum Halepense</spn>. -- <col>Egyptian millet</col> <or/ <col>East Indian millet</col> is <spn>Penicillaria spicata</spn>. -- <col>Indian millet</col> is <spn>Sorghum vulgare</spn>. (See under <er>Indian</er>.) -- <col>Italian millet</col> is <spn>Setaria Italica</spn>, a coarse, rank-growing annual grass, valuable for fodder when cut young, and bearing nutritive seeds; -- called also <altname>Hungarian grass</altname>. -- <col>Texas millet</col> is <spn>Panicum Texanum</spn>. -- <col>Wild millet</col>, <xex>or</xex> <col>Millet grass</col>, is <spn>Milium effusum</spn>, a tall grass growing in woods.</note></p>
+<p><note><hand/ <col>Arabian millet</col> is <spn>Sorghum Halepense</spn>. -- <col>Egyptian millet</col> <or/ <col>East Indian millet</col> is <spn>Penicillaria spicata</spn>. -- <col>Indian millet</col> is <spn>Sorghum vulgare</spn>. (See under <er>Indian</er>.) -- <col>Italian millet</col> is <spn>Setaria Italica</spn>, a coarse, rank-growing annual grass, valuable for fodder when cut young, and bearing nutritive seeds; -- called also <altname>Hungarian grass</altname>. -- <col>Texas millet</col> is <spn>Panicum Texanum</spn>. -- <col>Wild millet</col>, <or/ <col>Millet grass</col>, is <spn>Milium effusum</spn>, a tall grass growing in woods.</note></p>
 </entry>
 
 <entry main-word="mill-girl" source="WordNet 1.5">
