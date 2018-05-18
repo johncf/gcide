@@ -551,7 +551,7 @@
 </entry>
 
 <entry main-word="machine-readable" source="PJC">
-<p><hw>ma*chin"e-read"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Computers)</fld> <def>Readable by a machine;</def> <specif>especially,</specif> <def>available on a data-storage medium in a binary format that can be rapidly converted by standard input devices into data in a computer memory; <as>as, the CIDE dictionary is a <ex>machine-readable</ex> dictionary</as>.</def></p>
+<p><hw>ma*chin"e-read"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Computers)</fld> <def>Readable by a machine;</def> <specif>especially,</specif> <def>available on a data-storage medium in a binary format that can be rapidly converted by standard input devices into data in a computer memory.</def></p>
 </entry>
 
 <entry main-word="Machinery" source="1913 Webster">
@@ -7943,15 +7943,7 @@ And with vain, outward things be no more moved.</q> <rj><qau>Donne.</qau></rj></
 <entry main-word="Manx" source="1913 Webster">
 <p><hw>Manx</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Of or pertaining to the Isle of Man, or its inhabitants; <as>as, the <ex>Manx</ex> language</as>.</def></p>
 
-<p><cs><col>Manx shearwater</col> <cd>.</cd></cs></p>
-</entry>
-
-<entry main-word="Manx cat" source="WordNet 1.5">
-<p><hw>Manx cat</hw> <pos>prop. n.</pos> <fld>(Zool.)</fld>, <def>A breed of domestic cats having a rudimentary tail, containing only about three vertebrae.  It is believed to have originated on the Isle of Man.</def></p>
-</entry>
-
-<entry main-word="Manx shearwater" source="1913 Webster">
-<p><hw>Manx shearwater</hw> <pos>prop. n.</pos> <fld>(Zool.)</fld>, <def>A small black-and-white oceanic bird (<spn>Puffinus puffinus</spn>, or <spn>Puffinus anglorum</spn>), common in the Eastern North Atlantic.  Called also <altname>Manx petrel</altname>, <altname>Manx puffin</altname>.  It is avariety of <er>shearwater</er>.  It was formerly abundant in the Isle of Man.</def></p>
+<p><cs><col>Manx cat</col> <fld>(Zool.)</fld>, <cd>a breed of domestic cats having a rudimentary tail, containing only about three vertebr<ae/.</cd> <col>Manx shearwater</col> <fld>(Zool.)</fld>, <cd>an oceanic bird (<spn>Puffinus anglorum</spn>, or <spn>P. puffinus</spn>), called also <altname>Manx petrel</altname>, <altname>Manx puffin</altname>.  It was formerly abundant in the Isle of Man.</cd></cs></p>
 </entry>
 
 <entry main-word="Manx" source="1913 Webster">
@@ -26710,8 +26702,8 @@ Again in fancied safety with his kind.</q> <rj><qau>Byron.</qau></rj></p>
 <p><hw>Miz"zen</hw>, <pos>n.</pos> <fld>(Naut.)</fld> <def>The hindmost of the fore and aft sails of a three-masted vessel; also, the spanker.</def></p>
 </entry>
 
-<entry main-word="Mizzenmast" source="1913 Webster;;WordNet 1.5">
-<p><hw>Miz"zen*mast</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>the third mast from the bow in a vessel having three or more masts; the after and shorter mast of a yawl, ketch, or dandy.</def>  <note>The definition varies slightly with the dictionary; in some dictionaries it is the last mast of a three-masted vessel; in others, it is the mast after the mainmast  of a vessel of three or more masts. PJC.</note></p>
+<entry main-word="Mizzenmast" source="1913 Webster>
+<p><hw>Miz"zen*mast</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>The hindmost mast of a three-masted vessel, or of a yawl-rigged vessel; <extra source="WordNet 1.5">the after and shorter mast of a yawl, ketch, or dandy.</extra></def> <extra source="PJC"><note>The definition varies slightly with dictionary; in some dictionaries, it is the mast after the mainmast of a vessel of three or more masts.</note></extra></p>
 </entry>
 
 <entry main-word="Mizzle" source="1913 Webster">
@@ -26758,9 +26750,7 @@ And then he <qex>mizzled</qex>.</q> <rj><qau>Epigram, quoted by Wright.</qau></r
 <entry main-word="mnemonic" source="WordNet 1.5">
 <p><hw>mnemonic</hw> <pos>n.</pos> <sn>1.</sn> <def>Something used to assist the memory, as an easily remembered acronym or verse.</def></p>
 
-<p source="PJC"><sn>2.</sn> <def>An abbreviated word that resembles the full word, used so as to be easily recognized; <as>as, the CIDE uses <it>...</it> tags as <ex>mnemnonics</ex> for an italicised word or field</as>.</def></p>
-
-<p source=""><note> In basic organic chemistry class, one may learn the <ex>mnenomic</ex> <ldquo/Oh my, such good apple pie<rdquo/ to help remember the names of the dicarboxylic acids in increasing order of length, namely: oxalic, malonic, succinic, glutaric, adipic, and pimelic acids. (From L. Fieser's Organic Chemistry text).</note></p>
+<p source="PJC"><note> In basic organic chemistry class, one may learn the <ex>mnenomic</ex> <ldquo/Oh my, such good apple pie<rdquo/ to help remember the names of the dicarboxylic acids in increasing order of length, namely: oxalic, malonic, succinic, glutaric, adipic, and pimelic acids. (From L. Fieser's Organic Chemistry text).</note></p>
 </entry>
 
 <entry main-word="Mnemonician" source="1913 Webster">

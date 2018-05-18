@@ -17645,12 +17645,12 @@ jurisdiction against which the contempt is.</q> <rj><qau>Clarendon.</qau></rj></
 <p><q>The <qex>infusive</qex> force of Spirit on man.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
-<entry main-word="Infusoria" source="1913 Webster;;PJC">
-<p><par/<hw>In`fu*so"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; -- so called because found in infusions which are left exposed to the air for a time. See <er>Infuse</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Protozoa, including a large number of species, all of minute size.  Formerly, the term was applied to any microbe found in infusions of decaying organic material, but the term is now applied more specifically to one of the classes of the phylum <phylum>Ciliophora</phylum>, of ciliated protozoans.</def></p>
+<entry main-word="Infusoria" source="1913 Webster">
+<p><par/<hw>In`fu*so"ri*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; -- so called because found in infusions which are left exposed to the air for a time. See <er>Infuse</er>.]</ety> <fld>(Zool.)</fld> <def>One of the classes of Protozoa, including a large number of species, all of minute size.  <extra source="PJC">Formerly, the term was applied to any microbe found in infusions of decaying organic material, but the term is now applied more specifically to one of the classes of the phylum <phylum>Ciliophora</phylum>, of ciliated protozoans.</extra></def></p>
 
-<p source=""><note><hand/ (From 1913 dictionary): They are found in all seas, lakes, ponds, and streams, as well as in infusions of organic matter exposed to the air.  They are distinguished by having vibrating lashes or cilia, with which they obtain their food and swim about.  They are devided into the orders <ord>Flagellata</ord>, <ord>Ciliata</ord>, and <ord>Tentaculifera</ord>. See these words in the Vocabulary.</p>
+<p><note><hand/ They are found in all seas, lakes, ponds, and streams, as well as in infusions of organic matter exposed to the air.  They are distinguished by having vibrating lashes or cilia, with which they obtain their food and swim about.  They are devided into the orders <ord>Flagellata</ord>, <ord>Ciliata</ord>, and <ord>Tentaculifera</ord>. See these words in the Vocabulary.</p>
 
-<p source="1913 Webster">   Formely the term <xex>Infusoria</xex> was applied to all microscopic organisms found in water, including many minute plants, belonging to the diatoms, as well as minute animals belonging to various classes, as the Rotifera, which are worms; and the Rhizopoda, which constitute a distinct class of Protozoa. Fossil Infusoria are mostly the siliceous shells of diatoms; sometimes they are siliceous skeletons of Radiolaria, or the calcareous shells of Foraminifera.</note></p>
+<p>Formely the term <xex>Infusoria</xex> was applied to all microscopic organisms found in water, including many minute plants, belonging to the diatoms, as well as minute animals belonging to various classes, as the Rotifera, which are worms; and the Rhizopoda, which constitute a distinct class of Protozoa. Fossil Infusoria are mostly the siliceous shells of diatoms; sometimes they are siliceous skeletons of Radiolaria, or the calcareous shells of Foraminifera.</note></p>
 </entry>
 
 <entry main-word="Infusorial" source="1913 Webster">

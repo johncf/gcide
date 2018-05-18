@@ -11197,8 +11197,7 @@ To mock the <qex>lewd</qex>, as learn'd in this as they.</q> <rj><qau>Sir. J. Da
 </entry>
 
 <entry main-word="Lexicon" source="1913 Webster">
-<p><hw>Lex"i*con</hw> <pr>(l<ecr/ks"<icr/*k<ocr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>lexiko`n</grk> (sc. <grk>bibli`on</grk>), neut. of <grk>lexiko`s</grk> of or belonging to words, fr. <grk>le`xis</grk> a speaking, speech, a way of speaking, a single word or phrase, fr. <grk>le`gein</grk> to say, to speak. See <er>Legend</er>.]</ety> <def>A vocabulary, or book containing an alphabetical arrangement of the words in a language or of a considerable number of them, with the definition of each; a dictionary; especially, a dictionary of the Greek, Hebrew, or Latin language.</def>
-<-- also, a dictionary for use in computational linguistics --></p>
+<p><hw>Lex"i*con</hw> <pr>(l<ecr/ks"<icr/*k<ocr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>lexiko`n</grk> (sc. <grk>bibli`on</grk>), neut. of <grk>lexiko`s</grk> of or belonging to words, fr. <grk>le`xis</grk> a speaking, speech, a way of speaking, a single word or phrase, fr. <grk>le`gein</grk> to say, to speak. See <er>Legend</er>.]</ety> <def>A vocabulary, or book containing an alphabetical arrangement of the words in a language or of a considerable number of them, with the definition of each; a dictionary; especially, a dictionary of the Greek, Hebrew, or Latin language.</def></p>
 </entry>
 
 <entry main-word="Lexiconist" source="1913 Webster">

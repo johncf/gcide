@@ -15181,8 +15181,6 @@ Among the accursed, that <qex>withered</qex> all their strength.</q> <rj><qau>Mi
 
 <entry main-word="Withernam" source="1913 Webster">
 <p><hw>With"er*nam</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[AS. <ets>wi<edh/ern<amac/m</ets>; <ets>wi<edh/er</ets> against + <ets>n<amac/m</ets> a seizure, fr. <ets>niman</ets> to take.]</ety> <fld>(Law)</fld> <def>A second or reciprocal distress of other goods in lieu of goods which were taken by a first distress and have been eloigned; a taking by way of reprisal; -- chiefly used in the expression <xex>capias in withernam</xex>, which is the name of a writ used in connection with the action of replevin (sometimes called a <xex>writ of reprisal</xex>), which issues to a defendant in replevin when he has obtained judgment for a return of the chattels replevied, and fails to obtain them on the <xex>writ of return</xex>.</def>  <rj><au>Blackstone.</au></rj></p>
-
-<p><-- final segment of the main dictionary !! --></p>
 </entry>
 
 <entry main-word="Withe-rod" source="1913 Webster">

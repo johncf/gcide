@@ -10078,14 +10078,9 @@ His looks <qex>adorned</qex> the venerable place.</q> <rj><qau>Goldsmith.</qau><
 <p><hw>Ad*re"nal</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Pref. <ets>ad-</ets> + <ets>renal</ets>.]</ety> <fld>(Anat.)</fld> <def>Suprarenal.</def></p>
 </entry>
 
-<entry main-word="adrenaline" source="WordNet 1.5">
-<p><hw>adrenaline</hw> <pos>n.</pos> <sn>1.</sn> <def>.</def><br/
-<syn><b>Syn. --</b> epinephrine, adrenalin</syn></p>
-</entry>
-
 <entry main-word="Adrenaline" source="PJC;;Webster 1913 Suppl.">
 <p><mhw><hw>Ad*re"nal*ine</hw> <pr>(?)</pr>, <pos>n.</pos> Also <hw>Ad*re"nal*in</hw> <pr>(<?/)</pr></mhw>. <fld>(Physiol. Chem.)</fld> <def>a hormone secreted by the adrenal medulla that acts as a powerful stimulant in reponse to fear or stress; it stimulates autonomic nerve action.  It can be obtained as a crystalline substance, <chform>C9H13NO3</chform>. It is used in medicine as a vasoconstrictor (hemostatic) and cardiac stimulant, also to reduce allergic reactions and to stimulate the heart in cases of cardiac arrest.</def> <au>MI11</au><br/
-<syn><b>Syn. --</b> epinephrine; <chname>3,4-dihydroxy-1-[1-hydroxy-2-(methylamino)-ethyl]benzene</chname>.</syn></p>
+<syn><b>Syn. --</b> epinephrine.</syn></p>
 </entry>
 
 <entry main-word="adrenergic" source="WordNet 1.5">
@@ -15987,7 +15982,7 @@ Nor cheer of mind that I was wont to have.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Alalia" source="Webster 1913 Suppl.">
-<p><par/<hw>A*la"li*a</hw> <pr>()</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ priv. + <?/ a talking; cf. <?/ speechless.]</ety> <fld>(Med.)</fld> <def>Inability to utter articulate sounds, due either to paralysis of the larynx or to that form of aphasia, called <xex>motor</xex>, or <xex>ataxis</xex>, <xex>aphasia</xex>, due to loss of control of the muscles of speech.</def></p>
+<p><par/<hw>A*la"li*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ priv. + <?/ a talking; cf. <?/ speechless.]</ety> <fld>(Med.)</fld> <def>Inability to utter articulate sounds, due either to paralysis of the larynx or to that form of aphasia, called <xex>motor</xex>, or <xex>ataxis</xex>, <xex>aphasia</xex>, due to loss of control of the muscles of speech.</def></p>
 </entry>
 
 <entry main-word="Alalonga" source="1913 Webster">
@@ -23678,8 +23673,8 @@ To run <qex>amuck</qex>, and tilt at all I meet.</q> <rj><qau>Pope.</qau></rj></
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>Tending upwards; -- said of terns in which the lowest secondary segments are on the upper side of the branch of the central stem.</def>  <rj><au>D. C. Eaton.</au></rj></p>
 </entry>
 
-<entry main-word="Anemia" source="1913 Webster;;AS">
-<p><mhw><par/<hw>A*n<ae/"mi*a</hw>, <hw>A*ne"mi*a</hw></mhw> <pr>(<adot/*n<emac/"m<icr/*<adot/)</pr>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>'anaimi`a</grk>; <grk>'an</grk> priv. + <grk>a'i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which number of the red blood cells or concentration of hemoglobin decreases below that of normal.</def></p>
+<entry main-word="Anaemia" source="1913 Webster;;AS">
+<p><mhw><par/<hw>A*n<ae/"mi*a</hw> <pr>(<adot/*n<emac/"m<icr/*<adot/)</pr>, <hw>A*ne"mi*a</hw></mhw>, <pos>a.</pos> <ety>[NL., fr. Gr. <grk>'anaimi`a</grk>; <grk>'an</grk> priv. + <grk>a'i^ma</grk> blood.]</ety> <fld>(Med.)</fld> <def>A morbid condition in which number of the red blood cells or concentration of hemoglobin decreases below that of normal.</def></p>
 </entry>
 
 <entry main-word="Anaemic" source="1913 Webster">
@@ -25629,7 +25624,7 @@ Self-mettle tires him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="angioneuropathy" source="AS">
-<p><hw>an`gi*o*neu*rop"a*thy</hw> <pr>(<acr/n`j<icr/*<osl/*n<usl/*r<ocr/p"<adot/*th<ycr/)</pr>, <pos> </pos> <sn>1.</sn> <fld>(Med.)</fld> <def>Neuropathy of the neurons innervating blood vessels. Called also <altname>Angioneurosis</altname>, <altname>Vasomotor neurosis</altname>, <altname>Vasoneurosis</altname>.</def></p>
+<p><hw>an`gi*o*neu*rop"a*thy</hw> <pr>(<acr/n`j<icr/*<osl/*n<usl/*r<ocr/p"<adot/*th<ycr/)</pr>, <pos>n.</pos> <sn>1.</sn> <fld>(Med.)</fld> <def>Neuropathy of the neurons innervating blood vessels. Called also <altname>Angioneurosis</altname>, <altname>Vasomotor neurosis</altname>, <altname>Vasoneurosis</altname>.</def></p>
 
 <p><sn>2.</sn> <fld>(Med)</fld> <def>Angiopathic neuropathy.</def></p>
 </entry>
@@ -30342,11 +30337,6 @@ With all your tops, a vast <qex>antiphony</qex>.</q> <rj><qau>R. Browning.</qau>
 <entry main-word="anuran" source="WordNet 1.5">
 <p><hw>anuran</hw> <pos>n.</pos> <sn>1.</sn> <def>an amphibian of the order <ord>Anura</ord>; any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species; a frog or toad.</def><br/
 <syn><b>Syn. --</b> frog, toad, toadfrog, batrachian, salientian</syn></p>
-</entry>
-
-<entry main-word="anuran" source="PJC;;WordNet 1.5">
-<p><hw>anuran</hw> <pos>n.</pos> <def>.</def><br/
-<syn><b>Syn. --</b> batrachian, salientian</syn></p>
 </entry>
 
 <entry main-word="anuresis" source="WordNet 1.5">
@@ -39511,10 +39501,6 @@ Heaven's easy, <qex>artless</qex>, unencumbered plan!</q> <rj><qau>Cowper.</qau>
 
 <entry main-word="Ascomycetes" source="Webster 1913 Suppl.;;WordNet 1.5">
 <p><par/<hw>As`co*my*ce"tes</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL.; <ets>ascus</ets> + Gr. <?/, <?/, fungus.]</ety> <fld>(Bot.)</fld> <def>A large class of higher fungi distinguished by septate hyph<ae/, and by having their spores formed in asci, or spore sacs; the sac fungi. It comprises many orders, among which are the yeasts, molds, mildews, truffles, morels, etc.  The class is coextensive with the phylum <phylum>Ascomycota</phylum>.</def> -- <wordforms><wf>As`co*my*ce"tous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
-</entry>
-
-<entry main-word="Ascomycota" source="PJC">
-<p><hw>Ascomycota</hw> <pos>n.</pos> <def>.</def></p>
 </entry>
 
 <entry main-word="Ascomycota" source="WordNet 1.5">

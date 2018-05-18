@@ -6564,8 +6564,7 @@ Whereof this world holds record.</q> <rj><qau>Tennyson.</qau></rj></p>
 <p><q>With that a joyous <qex>fellowship</qex> issued<br/
 Of minstrels.</q> <rj><qau>Spenser.</qau></rj></p>
 
-<p><sn>5.</sn> <fld>(Eng. & Amer. Universities)</fld> <def>A foundation for the maintenance, on certain conditions, of a scholar called a fellow, who usually resides at the university.</def>
-<-- why "foundation"? stipend is more accurate now.  This use is sense 4 of this dictionary, an "endowment" --></p>
+<p><sn>5.</sn> <fld>(Eng. & Amer. Universities)</fld> <def>A foundation for the maintenance, on certain conditions, of a scholar called a fellow, who usually resides at the university.</def></p>
 
 <p><sn>6.</sn> <fld>(Arith.)</fld> <def>The rule for dividing profit and loss among partners; -- called also partnership, company, and distributive proportion.</def></p>
 
@@ -9147,8 +9146,8 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Fief</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>fief</ets>; of German origin, and the same word as E. <ets>fee</ets>. See <er>Fee</er>, and cf. <er>Feud</er>, a tief.]</ety> <fld>(Law)</fld> <def>An estate held of a superior on condition of military service; a fee; a feud. See under <er>Benefice</er>, <pos>n.</pos>, <snr>2</snr>.</def></p>
 </entry>
 
-<entry main-word="field" source="1913 Webster">
-<p><hw>field</hw> <pr>(f<emac/ld)</pr>, <pos>n.</pos> <ety>[OE. <ets>feld</ets>, <ets>fild</ets>, AS. <ets>feld</ets>; akin to D. <ets>veld</ets>, G. <ets>feld</ets>, Sw. <ets>f<aum/lt</ets>, Dan. <ets>felt</ets>, Icel. <ets>fold</ets> field of grass, AS. <ets>folde</ets> earth, land, ground, OS. <ets>folda</ets>.]</ety> <sn>1.</sn> <def>Cleared land; land suitable for tillage or pasture; cultivated ground; the open country.</def></p>
+<entry main-word="Field" source="1913 Webster">
+<p><hw>Field</hw> <pr>(f<emac/ld)</pr>, <pos>n.</pos> <ety>[OE. <ets>feld</ets>, <ets>fild</ets>, AS. <ets>feld</ets>; akin to D. <ets>veld</ets>, G. <ets>feld</ets>, Sw. <ets>f<aum/lt</ets>, Dan. <ets>felt</ets>, Icel. <ets>fold</ets> field of grass, AS. <ets>folde</ets> earth, land, ground, OS. <ets>folda</ets>.]</ety> <sn>1.</sn> <def>Cleared land; land suitable for tillage or pasture; cultivated ground; the open country.</def></p>
 
 <p><sn>2.</sn> <def>A piece of land of considerable size; esp., a piece inclosed for tillage or pasture.</def></p>
 
@@ -9160,7 +9159,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>What though the <qex>field</qex> be lost?</q> <rj><qau>Milton.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>4.</sn> <def>An open space; an extent; an expanse.</def>  <specif>Esp.:</specif> <sd>(a)</sd> <def>Any blank space or ground on which figures are drawn or projected.</def> <sd>(b)</sd> <def>The space covered by an optical instrument at one view; <as>as, wide-<ex>field</ex> binoculars</as>.</def></p>
+<p><sn>4.</sn> <def>An open space; an extent; an expanse.</def>  <specif>Esp.:</specif> <sd>(a)</sd> <def>Any blank space or ground on which figures are drawn or projected.</def> <sd>(b)</sd> <def>The space covered by an optical instrument at one view; <extra source="PJC"><as>as, wide-<ex>field</ex> binoculars</as>.</extra></def></p>
 
 <p><q>Without covering, save yon <qex>field</qex> of stars.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -9172,28 +9171,17 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>Afforded a clear <qex>field</qex> for moral experiments.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p source="PJC"><sn>7.</sn> <fld>(Sports)</fld>  <def>An open, usually flat, piece of land on which a sports contest is played; a playing field; <as>as, a football <ex>field</ex>; a baseball <ex>field</ex></as>.</def><br/
-<syn><b>Syn. --</b> playing field, athletic field, playing area.</syn></p>
+<p><sn>7.</sn> <def>A collective term for all the competitors in any outdoor contest or trial, or for all except the favorites in the betting.</def></p>
 
-<p><sn>8.</sn> <specif>Specifically:</specif> <fld>(Baseball)</fld> <def>That part of the grounds reserved for the players which is outside of the diamond; -- called also <altname>outfield</altname>.</def></p>
+<p><sn>8.</sn> <sd>(a)</sd> <fld>(Baseball)</fld> <def>That part of the grounds reserved for the players which is outside of the diamond; -- called also <altname>outfield</altname>.</def> <extra source="Wiktionary">More generally, <sd>(b)</sd> <fld>(Sports)</fld> <def>An area reserved for playing a game or race with one's physical force; <as>as, a soccer <ex>field</ex></as>.</def></extra></p>
 
-<p source="WordNet 1.6"><sn>9.</sn> <def>A geographic region (land or sea) which has some notable feature, activity or valuable resource; <as>as, the diamond <ex>fields</ex> of South Africa; an oil <ex>field</ex>; a gold <ex>field</ex>; an ice <ex>field</ex></as>.</def></p>
+<p source="Wiktionary"><sn>9.</sn> <fld>(Geol.)</fld> <def>A region containing a particular mineral; <as>as, the diamond <ex>fields</ex> of South Africa; an oil <ex>field</ex>; a gold <ex>field</ex></as>.</def></p>
 
-<p source="WordNet 1.6"><sn>10.</sn> <def>A facility having an airstrip where airplanes can take off and land; an airfield.</def><br/
-<syn><b>Syn. --</b> airfield, landing field, flying field, aerodrome.</syn></p>
+<p source="Wiktionary"><sn>10.</sn> <def>Any of certain structures serving cognition.</def> <specif>Specifically:</specif> <sd>(a)</sd> <def>A domain of study, knowledge or practice; <as>as, she was an expert in the <ex>field</ex> of Chinese history</as>.</def> <sd>(b)</sd> <def>A realm of practical, direct or natural operation, contrasted with an office, classroom, or laboratory; <as>as, <ex>field</ex>-tested; <ex>field</ex> work</as>. Also see Note below.</def> <sd>(c)</sd> <fld>(Alg.)</fld> <def>A commutative <xex>ring</xex> satisfying the <xex>field axioms</xex>. See 4th <er>Ring</er>, <pos>n.</pos>, <snr>10</snr>.</def></p>
 
-<p><sn>11.</sn> <def>A collective term for all the competitors in any outdoor contest or trial, or for all except the favorites in the betting.</def></p>
+<p source="Wiktionary"><sn>11.</sn> <fld>(Physics)</fld> <def>A physical phenomenon (such as force, potential or fluid velocity) that pervades a region; a mathematical model of such a phenomenon that associates each point and time with a scalar, vector or tensor quantity; <as>as, magnetic <ex>field</ex>; gravitational <ex>field</ex>; scalar <ex>field</ex></as>.</def></p>
 
-<p source="WordNet 1.6"><sn>12.</sn> <def>A branch of knowledge or sphere of activity; especially, a learned or professional discipline; <as>as, she's an expert in the <ex>field</ex> of geology; in what <ex>field</ex> did she get her doctorate?; they are the top company in the <ex>field</ex> of entertainment</as>.</def><br/
-<syn><b>Syn. --</b> discipline, subject, subject area, subject field, field of study, study, branch of knowledge.</syn></p>
-
-<p source="PJC"><note>  Within the master text files of this electronic dictionary, where a word is used in a specific sense in some specialized <ex>field</ex> of knowledge, that field is indicated by the tags: <fld>()</fld> preceding that sense of the word.</note></p>
-
-<p source="WordNet 1.6"><sn>13.</sn> <def>A location, usually outdoors, away from a studio or office or library or laboratory, where practical work is done or data is collected; <as>as, anthropologists do much of their work in the <ex>field</ex>; the paleontologist is in the <ex>field</ex> collecting specimens</as>.  Usually used in the phrase <col>in the field</col>.</def></p>
-
-<p source="PJC"><sn>14.</sn> <fld>(Physics)</fld> <def>The influence of a physical object, such as an electrically charged body, which is capable of exerting force on objects at a distance; also, the region of space over which such an influence is effective; <as>as, the earth's gravitational <ex>field</ex>; an electrical <ex>field</ex>; a magnetic <ex>field</ex>; a force <ex>field</ex></as>.</def></p>
-
-<p source="WordNet 1.6"><sn>15.</sn> <fld>(Math.)</fld> <def>A set of elements within which operations can be defined analagous to the operations of addition, subtraction, multiplication, and division on the real numbers; within such a set of elements addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1; a commutative division ring; <as>as, the set of all rational numbers is a <ex>field</ex></as>.</def></p>
+<p source="Wiktionary"><sn>12.</sn> <def>An airfield, airport or air base; especially, one with unpaved runways.</def></p>
 
 <p><note><hand/ <xex>Field</xex> is often used adjectively in the sense of <xex>belonging to</xex>, or <xex>used in</xex>, <xex>the fields</xex>; especially with reference to the operations and equipments of an army during a campaign away from permanent camps and fortifications. In most cases such use of the word is sufficiently clear; as, <xex>field</xex> battery; <xex>field</xex> fortification; <xex>field</xex> gun; <xex>field</xex> hospital, etc.  A <xex>field</xex> geologist, naturalist, etc., is one who makes investigations or collections out of doors.  A survey uses a <xex>field</xex> book for recording <xex>field</xex> notes, <it>i.e.</it>, measurment, observations, etc., made in <xex>field</xex> work (outdoor operations). A farmer or planter employs <xex>field</xex> hands, and may use a <xex>field</xex> roller or a <xex>field</xex> derrick. <xex>Field</xex> sports are hunting, fishing, athletic games, etc.</note></p>
 
@@ -9201,7 +9189,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Field" source="1913 Webster">
-<p><hw>Field</hw> <pr>(?)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Fielded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Fielding</conjf>.]</vmorph> <sn>1.</sn> <def>To take the field.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
+<p><hw>Field</hw> <pr>(f<emac/ld)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Fielded</conjf>; <pos>p. pr. & vb. n.</pos> <conjf>Fielding</conjf>.]</vmorph> <sn>1.</sn> <def>To take the field.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
 
 <p><sn>2.</sn> <fld>(Ball Playing)</fld> <def>To stand out in the field, ready to catch, stop, or throw the ball.</def></p>
 </entry>

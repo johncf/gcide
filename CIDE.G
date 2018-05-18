@@ -11842,8 +11842,7 @@ And felly <qex>gnarre</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Gnathostoma" source="1913 Webster">
-<p><par/<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <?/, <?/, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp><-- Modern order <ord>Cyclostomata</ord>,
-containing the lampreys and hagfishes, is now in the class of vertebrates called <class>Agnatha</class>.  The extinct ostracoderms are included in the <class>Agnatha</class>. The lampreys and hagfishes were included in the <class>marsipobranchia</class> in the 1913 dictionary.  They are now classified as an order. --></p>
+<p><par/<hw>Gna*thos"to*ma</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>gna`qos</grk> the jaw + <grk>sto`ma</grk>, <grk>-atos</grk>, the mouth.]</ety> <fld>(Zool.)</fld> <def>A comprehensive division of vertebrates, including all that have distinct jaws, in contrast with the leptocardians and marsipobranchs (<class>Cyclostoma</class> <mark>[Outdated]</mark>), which lack them.</def> <altsp>[Written also <asp>Gnathostomata</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Gnathotheca" source="1913 Webster">

@@ -32789,9 +32789,7 @@ Are excellent in making ladies trip.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>10.</sn> <fld>(Gr. Gram.)</fld> <def>A mark to indicate aspiration or its absence. See <cref>Rough breathing</cref>, <cref>Smooth breathing</cref>, below.</def></p>
 
-<p><cs><col>Breathing place</col>. <sd>(a)</sd> <cd>A pause.</cd> <ldquo/That c<ae/sura, or <xex>breathing place</xex>, in the midst of the verse.<rdquo/ <au>Sir P. Sidney.</au> <sd>(b)</sd> <cd>A vent.</cd> -- <col>Breathing time</col>, <cd>pause; relaxation.</cd> <au>Bp. Hall.</au> -- <col>Breathing while</col>, <cd>time sufficient for drawing breath; a short time.</cd> <au>Shak.</au> -- <col>Rough breathing</col> (<altname>spiritus asper</altname>) (<asper/). <cd>See 2d <er>Asper</er>, <pos>n.</pos></cd> -- <col>Smooth breathing</col> (<altname>spiritus lenis</altname>), <cd>a mark (') indicating the absence of the sound of <xex>h</xex>, as in <grk>'ie`nai</grk> (<it>ienai</it>).</cd></cs></p>
-
-<p><-- ##Note: in the Greek transliterations in this dictionary, the <xex>spiritus asper</xex> within Greek words tagged as <grk>...</grk> is indicated by a double-quote (") in front of the letter it modifies (usually, but not always, the first letter of the word).  The <ex>spiritus lenis</ex> is indicated by an apostrophe before the letter to be modified. --></p>
+<p><cs><col>Breathing place</col>. <sd>(a)</sd> <cd>A pause.</cd> <ldquo/That c<ae/sura, or <xex>breathing place</xex>, in the midst of the verse.<rdquo/ <au>Sir P. Sidney.</au> <sd>(b)</sd> <cd>A vent.</cd> -- <col>Breathing time</col>, <cd>pause; relaxation.</cd> <au>Bp. Hall.</au> -- <col>Breathing while</col>, <cd>time sufficient for drawing breath; a short time.</cd> <au>Shak.</au> -- <col>Rough breathing</col> (<altname>spiritus asper</altname>) (<asper/). <cd>See 2d <er>Asper</er>, <pos>n.</pos></cd> -- <col>Smooth breathing</col> (<altname>spiritus lenis</altname>), <cd>a mark (<rsquo/) indicating the absence of the sound of <xex>h</xex>, as in <grk>'ie`nai</grk> (<xex>ienai</xex>).</cd></cs></p>
 </entry>
 
 <entry main-word="Breathless" source="1913 Webster">

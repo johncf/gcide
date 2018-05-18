@@ -9848,14 +9848,10 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 
 <entry main-word="Vocabulary" source="1913 Webster">
 <p><hw>Vo*cab"u*la*ry</hw> <pr>(v<osl/*k<acr/b"<usl/*l<asl/*r<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Vocabularies</plw> <pr>(#)</pr>.</plu> <ety>[LL. <ets>vocabularium</ets>, <ets>vocabularius</ets>: cf. F. <ets>vocabulaire</ets>.  See <er>Vocable</er>.]</ety> <sn>1.</sn> <def>A list or collection of words arranged in alphabetical order and explained; a dictionary or lexicon, either of a whole language, a single work or author, a branch of science, or the like; a word-book.</def></p>
-</entry>
 
-<entry main-word=". . ." source="PJC">
-<p><note>The <ldquo/vocabulary<rdquo/ of this dictionary referred to within the definitions of certain collocations are those words serving as headwords for main entries, and distinguished from word combinations (<ldquo/collocations<rdquo/) which follow the main part of certain entries.  In the XML-tagged version, these headwords are marked by the tags <hw>. . .</hw>.</note></p>
+<p><sn>2.</sn> <def>A sum or stock of words employed.</def></p>
 
-<p source="1913 Webster"><sn>2.</sn> <def>A sum or stock of words employed.</def></p>
-
-<p source="1913 Webster"><q>His <qex>vocabulary</qex> seems to have been no larger than was necessary for the transaction of business.</q> <rj><qau>Macaulay.</qau></rj></p>
+<p><q>His <qex>vocabulary</qex> seems to have been no larger than was necessary for the transaction of business.</q> <rj><qau>Macaulay.</qau></rj></p>
 </entry>
 
 <entry main-word="Vocabulist" source="1913 Webster">

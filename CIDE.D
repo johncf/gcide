@@ -23668,7 +23668,7 @@ Of the defendant.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>Desdemona is <qex>directly</qex> in love with him.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><sn>7.</sn> <def>Straightway; next in order; without delay; immediately.</def> <ldquo/Will she go now to bed?' <?/<xex>Directly</xex>.<xex>'</xex><rdquo/  <rj><au>Shak.</au></rj></p>
+<p><sn>7.</sn> <def>Straightway; next in order; without delay; immediately.</def> <ldquo/ <lsquo/Will she go now to bed?<rsquo/ <lsquo/<xex>Directly.</xex><rsquo/ <rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><sn>8.</sn> <def>Immediately after; as soon as.</def></p>
 
@@ -23676,7 +23676,7 @@ Of the defendant.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><note><hand/ This use of the word is common in England, especially in colloquial speech, but it can hardly be regarded as a well-sanctioned or desirable use.</note></p>
 
-<p source=""><cs><col>Directly proportional</col> <fld>(Math.)</fld>, <cd>proportional in the order of the terms; increasing or decreasing together, and with a constant ratio; -- opposed to <contr>inversely proportional</contr>.</cd></cs></p>
+<p><cs><col>Directly proportional</col> <fld>(Math.)</fld>, <cd>proportional in the order of the terms; increasing or decreasing together, and with a constant ratio; -- opposed to <contr>inversely proportional</contr>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Immediately; forthwith; straightway; instantly; instantaneously; soon; promptly; openly; expressly.</syn>  <usage>-- <er>Directly</er>, <er>Immediately</er>, <er>Instantly</er>, <er>Instantaneously</er>. <xex>Directly</xex> denotes, without any delay or diversion of attention; <xex>immediately</xex> implies, without any interposition of other occupation; <xex>instantly</xex> implies, without any intervention of time. Hence, <ldquo/I will do it <xex>directly</xex>,<rdquo/ means, <ldquo/I will go <xex>straightway</xex> about it.<rdquo/ <ldquo/I will do it <xex>immediately</xex>,<rdquo/ means, <ldquo/I will do it as the very <xex>next</xex> thing.<rdquo/ <ldquo/I will do it <xex>instantly</xex>,<rdquo/ allows not a particle of delay. <xex>Instantaneously</xex>, like <xex>instantly</xex>, marks an interval too small to be appreciable, but commonly relates to physical causes; <as>as, the powder touched by fire <ex>instantaneously</ex> exploded</as>.</usage></p>
 </entry>
@@ -27813,16 +27813,13 @@ Wringing her hands and making piteous moan.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Dishevele" source="1913 Webster">
-<p><hw>Di*shev"ele</hw> <pr>(?)</pr>, <pos>p. p. & a.</pos> <def>Disheveled.</def> <mark>[Obs.]</mark></p>
+<p><hw>Di*shev"ele</hw> <pr>(-<ecr/l)</pr>, <pos>p. p. & a.</pos> <def>Disheveled.</def> <mark>[Obs.]</mark></p>
 
 <p><q><qex>Dishevele</qex>, save his cap, he rode all bare.</q> <rj><qau>Chaucer.</qau></rj></p>
-
-<p source="WordNet 1.5"> <pos>adj.</pos> <sn>1.</sn>  <def>; .</def><br/
-<syn><b>Syn. --</b> disheveled, ungroomed.</syn></p>
 </entry>
 
-<entry main-word="disheveled" source="1913 Webster">
-<p><mhw><hw>di*shev"eled</hw>, <hw>di*shev"elled</hw></mhw> <pr>(?)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Hanging in loose disorder; disarranged; in disarray; not made neat; -- used especially of hair or clothing; <as>as, <ex>disheveled</ex> hair</as>.</def></p>
+<entry main-word="Disheveled" source="1913 Webster">
+<p><hw>Di*shev"eled</hw> <pr>(-'ld or -<ecr/ld)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Hanging in loose disorder; disarranged; in disarray; not made neat; -- used especially of hair or clothing; <as>as, <ex>disheveled</ex> hair</as>.</def></p>
 
 <p><sn>2.</sn> <def>Having the hair in loose disorder.</def></p>
 
@@ -42215,7 +42212,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj></
 </entry>
 
 <entry main-word="Drum major" source="1913 Webster">
-<p><hw>Drum" ma"jor</hw> <pr>(?)</pr><def>.</def> <sn>1.</sn> <def>The chief or first drummer of a regiment; an instructor of drummers.</def></p>
+<p><hw>Drum" ma"jor</hw> <pr>(m<amac/"j<etil/r)</pr>. <sn>1.</sn> <def>The chief or first drummer of a regiment; an instructor of drummers.</def></p>
 
 <p><sn>2.</sn> <def>The marching leader of a military band.</def> <mark>[U.S.]</mark></p>
 
@@ -42788,13 +42785,8 @@ Other trippings to be trod.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>Duck"bill`</hw>, <pos>n.</pos> <fld>(Zool.)</fld> <def>See <cref>Duck mole</cref>, under <er>Duck</er>, <pos>n.</pos></def></p>
 </entry>
 
-<entry main-word="duck-billed" source="WordNet 1.5">
-<p><hw>duck-billed</hw> <pos>adj.</pos> <sn>1.</sn>  <def>having a beak resembling that of a duck.</def> <illu></illu><br/
-<syn><b>Syn. --</b> duckbill, duckbilled.</syn></p>
-</entry>
-
 <entry main-word="Duck-billed" source="1913 Webster">
-<p><hw>Duck"-billed`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having a bill like that of a duck; <as>as, a <ex>duck-billed</ex> dinosaur</as>.</def>.</p>
+<p><hw>Duck"-billed`</hw> <pr>(-b<icr/ld`)</pr>, <pos>a.</pos> <def>Having a bill like that of a duck; <as>as, a <ex>duck-billed</ex> dinosaur</as>.</def>.</p>
 </entry>
 
 <entry main-word="Duck-billed platypus" source="PJC">
@@ -44508,17 +44500,7 @@ The way to <qex>dusty</qex> death.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Dutchman" source="1913 Webster">
 <p><hw>Dutch"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dutchmen</plw> <pr>(<?/)</pr>.</plu> <def>A native, or one of the people, of Holland.</def></p>
 
-<p><cs><col>Dutchman's laudanum</col> <fld>(Bot.)</fld>, <cd>a West Indian passion flower (<spn>Passiflora Murucuja</spn>); also, its fruit.</cd> -- <col>Dutchman's pipe</col> <fld>(Bot.)</fld>, <cd>.</cd></cs></p>
-</entry>
-
-<entry main-word="Dutchman's breeches" source="1913 Webster;;WordNet 1.5">
-<p><mhw><hw>Dutchman's breeches</hw>, <hw>Dutchman's-breeches</hw></mhw> <pos>n.</pos> <fld>(Bot.)</fld>, <def>a delicate perennial spring-flowering herb (<spn>Dicentra cucullaria</spn>) of eastern U.S., having  peculiar double-spurred white flowers.  See <xex>Illust.</xex> of <er>Dicentra</er></def><br/
-<syn><b>Syn. --</b> <spn>Dicentra cucullaria</spn>.</syn></p>
-</entry>
-
-<entry main-word="Dutchman's-pipe" source="1913 Webster;;WordNet 1.5">
-<p><hw>Dutchman's-pipe</hw> <pos>n.</pos> <def>a hardy deciduous American vine (<spn>Aristolochia durior</spn>) having large, heart-shaped leaves and bearing brownish-purple flowers which have their calyx tubes curved like the bowl of a tobacco pipe.  Formerly classified as <spn>Aristolochia Sipho</spn>.</def><br/
-<syn><b>Syn. --</b> pipe vine, <spn>Aristolochia macrophylla</spn>, <spn>Aristolochia durior</spn>.</syn></p>
+<p><cs><col>Dutchman's breeches</col> <fld>(Bot.)</fld>, <cd>a perennial American herb (<spn>Dicentra cucullaria</spn>), with peculiar double-spurred flowers.  See <xex>Illust.</xex> of <er>Dicentra</er>.</cd> -- <col>Dutchman's laudanum</col> <fld>(Bot.)</fld>, <cd>a West Indian passion flower (<spn>Passiflora Murucuja</spn>); also, its fruit.</cd> -- <col>Dutchman's pipe</col> <fld>(Bot.)</fld>, <cd>an American twining shrub (<spn>Aristolochia Sipho</spn> <mark>[Outdated]</mark>). Its flowers have their calyx tubes curved like a tobacco pipe.</cd></cs></p>
 </entry>
 
 <entry main-word="Duteous" source="1913 Webster">

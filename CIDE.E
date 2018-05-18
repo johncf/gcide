@@ -17851,9 +17851,9 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj></p>
 </entry>
 
 <entry main-word="-er" source="1913 Webster">
-<p><hw>-er</hw> <pr>(?)</pr><def>.</def> <sn>1.</sn> <ety>[AS. <ets>-ere</ets>; akin to L. <ets>-arius</ets>.]</ety> <def>The termination of many English words, denoting <xex>the agent</xex>; -- applied either to men or things; as in hat<xex>er</xex>, farm<xex>er</xex>, heat<xex>er</xex>, grat<xex>er</xex>. At the end of names of places, <xex>-er</xex> signifies <xex>a man of the place</xex>; <as>as, London<ex>er</ex>, <it>i. e.</it>, London <xex>man</xex></as>.</def></p>
+<p><hw>-er</hw> <pr>(-<etil/r)</pr>. <sn>1.</sn> <ety>[AS. <ets>-ere</ets>; akin to L. <ets>-arius</ets>.]</ety> <def>The termination of many English words, denoting <xex>the agent</xex>; -- applied either to men or things; as in hat<xex>er</xex>, farm<xex>er</xex>, heat<xex>er</xex>, grat<xex>er</xex>. At the end of names of places, <xex>-er</xex> signifies <xex>a man of the place</xex>; <as>as, London<ex>er</ex>, <it>i. e.</it>, London <xex>man</xex></as>.</def></p>
 
-<p><sn>2.</sn> <ety>[AS. <ets>-ra</ets>; akin to G. <ets>-er</ets>, Icel. <ets>-are</ets>, <ets>-re</ets>, Goth. <ets>-iza</ets>, <ets>-<?/za</ets>, L. <ets>-ior</ets>, Gr. <?/, Skr. <ets>-<imac/yas</ets>.]</ety> <def>A suffix used to form the comparative degree of adjectives and adverbs; <as>as, warm<ex>er</ex>, soon<ex>er</ex>, lat(e)<ex>er</ex>, earl(y)i<ex>er</ex></as>.</def></p>
+<p><sn>2.</sn> <ety>[AS. <ets>-ra</ets>; akin to G. <ets>-er</ets>, Icel. <ets>-are</ets>, <ets>-re</ets>, Goth. <ets>-iza</ets>, <ets>-<omac/za</ets>, L. <ets>-ior</ets>, Gr. <grk>-iwn</grk>, Skr. <ets>-<imac/yas</ets>.]</ety> <def>A suffix used to form the comparative degree of adjectives and adverbs; <as>as, warm<ex>er</ex>, soon<ex>er</ex>, lat(e)<ex>er</ex>, earl(y)i<ex>er</ex></as>.</def></p>
 </entry>
 
 <entry main-word="Era" source="1913 Webster">
