@@ -13899,38 +13899,29 @@ That, where it seizes, all <qex>relief</qex> is vain.</q> <rj><qau>Dryden.</qau>
 </entry>
 
 <entry main-word="Religion" source="1913 Webster">
-<p><hw>Re*li"gion</hw> <pr>(r<esl/*l<icr/j"<ucr/n)</pr>, <pos>n.</pos> <ety>[F., from L. <ets>religio</ets>; cf. <ets>religens</ets> pious, revering the gods, Gr. <grk>'ale`gein</grk> to heed, have a care.  Cf. <er>Neglect</er>.]</ety> <sn>1.</sn> <def>The outward act or form by which men indicate their recognition of the existence of a god or of gods having power over their destiny, to whom obedience, service, and honor are due; the feeling or expression of human love, fear, or awe of some superhuman and overruling power, whether by profession of belief, by observance of rites and ceremonies, or by the conduct of life; a system of faith and worship; a manifestation of piety; <as>as, ethical <ex>religions</ex>; monotheistic <ex>religions</ex>; natural <ex>religion</ex>; revealed <ex>religion</ex>; the <ex>religion</ex> of the Jews; the <ex>religion</ex> of idol worshipers</as>.</def></p>
+<p><hw>Re*li"gion</hw> <pr>(r<esl/*l<icr/j"<ucr/n)</pr>, <pos>n.</pos> <ety>[F., from L. <ets>religio</ets>; cf. <ets>religens</ets> pious, revering the gods, Gr. <grk>'ale`gein</grk> to heed, have a care.  Cf. <er>Neglect</er>.]</ety></p>
 
-<p><q>An orderly life so far as others are able to observe us is now and then produced by prudential motives or by dint of habit; but without seriousness there can be no religious principle at the bottom, no course of conduct from religious motives; in a word, there can be no <qex>religion</qex>.</q> <rj><qau>Paley.</qau></rj></p>
+<p source="1828 Webster"><sn>1.</sn> <def>A belief in the being and perfections of God, in the revelation of his will to man, in man's obligation to obey his commands; and also true godliness or piety of life, with the practice of all moral duties. It therefore comprehends theology, as a system of doctrines or principles, as well as practical piety; for the practice of moral duties without a belief in a divine lawgiver is not religion.</def></p>
 
-<p><q><qex>Religion</qex> [was] not, as too often now, used as equivalent for godliness; but . . . it expressed the outer form and embodiment which the inward spirit of a true or a false devotion assumed.</q> <rj><qau>Trench.</qau></rj></p>
+<p source="1828 Webster"><sn>2.</sn> <def><xex>Religion</xex>, as distinct from <xex>theology</xex>, is godliness or real piety in practice.</def></p>
 
-<p><q><qex>Religions</qex>, by which are meant the modes of divine worship proper to different tribes, nations, or communities, and based on the belief held in common by the members of them severally.  . . .  There is no living <qex>religion</qex> without something like a doctrine.  On the other hand, a doctrine, however elaborate, does not constitute a <qex>religion</qex>.</q> <rj><qau>C. P. Tiele (Encyc. Brit.).</qau></rj></p>
+<p source="1828 Webster"><q><qex>Religion</qex> will attend you . . . as a pleasant and useful companion, in every proper place, and every temperate occupation of life.</q> <rj><qau>Buckminster.</qau></rj></p>
 
-<p><q><qex>Religion</qex> . . . means the conscious relation between man and God, and the expression of that relation in human conduct.</q> <rj><qau>J. K<oum/stlin (Schaff-Herzog Encyc.)</qau></rj></p>
+<p source="1828 Webster"><sn>3.</sn> <def><xex>Religion</xex>, as distinct from <xex>virtue</xex>, or <xex>morality</xex>, consists in the performance of the duties one owes directly to God.</def></p>
 
-<p><q>After the most straitest sect of our <qex>religion</qex> I lived a Pharisee.</q> <rj><qau>Acts xxvi. 5.</qau></rj></p>
+<p source="1828 Webster"><q>Let us with caution indulge the supposition that morality can be maintained without <qex>religion</qex>.</q> <rj><qau>Washington.</qau></rj></p>
 
-<p><q>The image of a brute, adorned<br/
-With gay <qex>religions</qex> full of pomp and gold.</q> <rj><qau>Milton.</qau></rj></p>
+<p source="1828 Webster"><sn>4.</sn> <def>Any system of faith and worship.</def></p>
 
-<p><sn>2.</sn> <def>Specifically, conformity in faith and life to the precepts inculcated in the Bible, respecting the conduct of life and duty toward God and man; the Christian faith and practice.</def> <note>This definition is from the 1913 Webster, which was edited by Noah Porter, a theologian.  His bias toward the Christion religion is evident not only in this definition, but in others as well as in the choice of quations or illustrative phrases. <it>Caveat lector</it>. - PJC</note></p>
+<p source="JCF"><note><hand/ The original entry from 1913 Webster dictionary was biased in favor of Christianity. Such parts were removed, replaced with the four definitions above, which are shortened forms of those contained in <person>Noah Webster's</person> <xex>American Dictionary of the English Language</xex> (1828); shortened in order to further reduce bias.</note></p>
 
-<p><q>Let us with caution indulge the supposition that morality can be maintained without <qex>religion</qex>.</q> <rj><qau>Washington.</qau></rj></p>
-
-<p><q><qex>Religion</qex> will attend you . . . as a pleasant and useful companion in every proper place, and every temperate occupation of life.</q> <rj><qau>Buckminster.</qau></rj></p>
-
-<p><sn>3.</sn> <fld>(R. C. Ch.)</fld> <def>A monastic or religious order subject to a regulated mode of life; the religious state; <as>as, to enter <ex>religion</ex></as>.</def>  <rj><au>Trench.</au></rj></p>
-
-<p><q>A good man was there of <qex>religion</qex>.</q> <rj><qau>Chaucer.</qau></rj></p>
-
-<p><sn>4.</sn> <def>Strictness of fidelity in conforming to any practice, as if it were an enjoined rule of conduct.</def> <mark>[R.]</mark></p>
+<p><sn>5.</sn> <def>Strictness of fidelity in conforming to any practice, as if it were an enjoined rule of conduct.</def> <mark>[R.]</mark></p>
 
 <p><q>Those parts of pleading which in ancient times might perhaps be material, but at this time are become only mere styles and forms, are still continued with much <qex>religion</qex>.</q> <rj><qau>Sir M. Hale.</qau></rj></p>
 
-<p><note><hand/ <xex>Religion</xex>, as distinguished from <xex>theology</xex>, is subjective, designating the feelings and acts of men which relate to God; while <xex>theology</xex> is objective, and denotes those ideas which man entertains respecting the God whom he worships, especially his systematized views of God. As distinguished from <xex>morality</xex>, <xex>religion</xex> denotes the influences and motives to human duty which are found in the character and will of God, while <xex>morality</xex> describes the duties to man, to which true <xex>religion</xex> always influences. As distinguished from <xex>piety</xex>, <xex>religion</xex> is a high sense of moral obligation and spirit of reverence or worship which affect the heart of man with respect to the Deity, while <xex>piety</xex>, which first expressed the feelings of a child toward a parent, is used for that filial sentiment of veneration and love which we owe to the Father of all. As distinguished from <xex>sanctity</xex>, <xex>religion</xex> is the means by which <xex>sanctity</xex> is achieved, <xex>sanctity</xex> denoting primarily that purity of heart and life which results from habitual communion with God, and a sense of his continual presence.</note></p>
+<p source="Wiktionary"><sn>6.</sn> <def>Any practice to which someone or some group is seriously devoted.</def> <ldquo/At this point, Star Trek has really become a religion.<rdquo/</p>
 
-<p><cs><col>Natural religion</col>, <cd>a religion based upon the evidences of a God and his qualities, which is supplied by natural phenomena. See <cref>Natural theology</cref>, under <er>Natural</er>.</cd> -- <col>Religion of humanity</col>, <cd>a name sometimes given to a religion founded upon positivism as a philosophical basis.</cd> -- <col>Revealed religion</col>, <cd>that which is based upon direct communication of God's will to mankind; especially, the Christian religion, based on the revelations recorded in the Old and New Testaments.</cd></cs></p>
+<p><cs><col>Natural religion</col>, <cd>a religion based upon the evidences of a God and his qualities, which is supplied by natural phenomena. See <cref>Natural theology</cref>, under <er>Natural</er>.</cd> -- <col>Religion of humanity</col>, <cd>a name sometimes given to a religion founded upon positivism as a philosophical basis.</cd></cs></p>
 </entry>
 
 <entry main-word="Religionary" source="1913 Webster">
