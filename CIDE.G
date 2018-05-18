@@ -7120,19 +7120,14 @@ But, in a larger sense, we cannot dedicate -- we cannot consecrate -- we cannot 
 
 <entry main-word="Ghana" source="PJC">
 <p><hw>Gha"na</hw> <pr>(g<aum/"n<adot/)</pr> <pos>prop. n.</pos> <def>A country in Western Africa, bordering the North Atlantic Ocean, between Cote d'Ivoire and Togo, with Burkina Faso bordering on the north, with a population of 17,698,271 (July 1996 est), and a total area of 238,540 sq km.  The government is a constitutional democracy, and the capital city is Accra.</def></p>
-
-<p><note>   It has a tropical climate, being warm and comparatively dry along the southeast coast, hot and humid in southwest and hot and dry in the north.  Its terrain is mostly low plains with a dissected plateau in the south-central area.<br/
-    The official language is English, and several African languages are spoken, including Akan, Moshi-Dagomba, Ewe, and Ga.  The population is comprised 99.8% of black Africans and 0.2% European and other nationalities.  The major tribes are:  Akan 44%, Moshi-Dagomba 16%, Ewe 13%, and Ga 8%.   The religious composition is 38% indigenous beliefs, 30% Muslim, 24% Christian and 8% others.<br/
-   The unit of currency is the new cedi; 1 new cedi (C) = 100 pesewas.  The exchange rates for the cedi were: new cedis per US$1 - 1,246.11 (September 1995), 956.71 (1994), 649.06 (1993), 437.09 (1992), 367.83 (1991).<br/
-   Navigable waterways include the Volta, Ankobra, and Tano Rivers, providing 168 km of perennial navigation for launches and lighters.</note> <au>CIA Factbook 1996</au></p>
 </entry>
 
 <entry main-word="Ghanaian" source="WordNet 1.5">
-<p><hw>Ghanaian</hw> <pos>adj.</pos> <sn>1.</sn>  <def>of or pertaining to the inhabitants of Ghana; <as>as, <ex>Ghanaian</ex> writers</as>.</def> <illu></illu><br/
-<syn><b>Syn. --</b> Ghanian, Ghanese.</syn></p>
+<p><hw>Ghanaian</hw> <pos>adj.</pos> <sn>1.</sn>  <def>of or pertaining to the inhabitants of Ghana; <as>as, <ex>Ghanaian</ex> writers</as>.</def></p>
 
-<p><sn>2.</sn> <def>of or pertaining to Ghana.</def> <illu><ex>Ghanaian</ex> cocoa production</illu><br/
-<syn><b>Syn. --</b> Ghanese, Ghanian.</syn></p>
+<p><sn>2.</sn> <def>of or pertaining to Ghana.</def> <illu><ex>Ghanaian</ex> cocoa production</illu></p>
+
+<p><syn><b>Syn. --</b> Ghanese, Ghanian.</syn></p>
 </entry>
 
 <entry main-word="Ghanese" source="WordNet 1.5">

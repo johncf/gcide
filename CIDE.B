@@ -38826,7 +38826,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="bundled-up" source="WordNet 1.5">
-<p><hw>bundled-up</hw> <pos>adj.</pos> <def>dressed warmly; <as>as, <ex>bundled-up</ex> sailors and soldiers</as>.</def> <illu></illu></p>
+<p><hw>bundled-up</hw> <pos>adj.</pos> <def>dressed warmly; <as>as, <ex>bundled-up</ex> sailors and soldiers</as>.</def></p>
 </entry>
 
 <entry main-word="bundling" source="WordNet 1.5">

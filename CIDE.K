@@ -4106,7 +4106,7 @@ The way into his mercy.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="kneecap" source="WordNet 1.5">
-<p><hw>knee"cap</hw> <pos>v. t.</pos> <def>to break the knees of, especially by shooting in the kneecap; -- often done by criminal or terrorist groups as a warning or punishment.</def> <note></note><br/
+<p><hw>knee"cap</hw> <pos>v. t.</pos> <def>to break the knees of, especially by shooting in the kneecap; -- often done by criminal or terrorist groups as a warning or punishment.</def><br/
 <syn><b>Syn. --</b> knee-cap.</syn></p>
 </entry>
 

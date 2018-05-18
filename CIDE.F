@@ -29316,11 +29316,11 @@ That stands upon the swell at <qex>full</qex> of tide.</q> <rj><qau>Shak.</qau><
 </entry>
 
 <entry main-word="full-fledged" source="WordNet 1.5">
-<p><hw>full-fledged</hw> <pos>adj.</pos> <sn>1.</sn> <def>having reached full development with fully grown adult plumage; ready to fly; -- of a bird.</def> <contr>fledgling</contr><br/
-<syn><b>Syn. --</b> fully fledged.</syn></p>
+<p><hw>full-fledged</hw> <pos>adj.</pos> <sn>1.</sn> <def>having reached full development with fully grown adult plumage; ready to fly; -- of a bird.</def> <contr>fledgling</contr></p>
 
-<p><sn>2.</sn> <def>having gained full status; -- of persons in respect to human roles; <as>as, a <ex>full-fledged</ex> lawyer; by the age of seventeen I was a full-fledged <ex>atheist</ex></as>.</def><br/
-<syn><b>Syn. --</b> fully fledged.</syn></p>
+<p><sn>2.</sn> <def>having gained full status; -- of persons in respect to human roles; <as>as, a <ex>full-fledged</ex> lawyer; by the age of seventeen I was a full-fledged <ex>atheist</ex></as>.</def></p>
+
+<p><syn><b>Syn. --</b> fully fledged.</syn></p>
 </entry>
 
 <entry main-word="Full-formed" source="1913 Webster">
@@ -29329,14 +29329,10 @@ That stands upon the swell at <qex>full</qex> of tide.</q> <rj><qau>Shak.</qau><
 <p><q>The <qex>full-formed</qex> maids of Afric.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
-<entry main-word="full-grown" source="">
-<p><hw>full-grown</hw> <pos>adj.</pos> <sn>1.</sn>  <def> .</def> <illu></illu><br/
-[]</p>
-</entry>
+<entry main-word="Full-grown" source="1913 Webster">
+<p><hw>Full"-grown`</hw> <pr>(-gr<omac/n`)</pr>, <pos>a.</pos> <def>Having reached the limits of growth; mature; <extra source="WordNet 1.5">fully developed; -- used mostly of living organisms; <as>as, A <ex>full-grown</ex> lion can easily kill an unarmed man.</as>.</extra></def> <ldquo/<xex>Full-grown</xex> wings.<rdquo/ <rj><au>Lowell.</au></rj></p>
 
-<entry main-word="Full-grown" source="1913 Webster;;WordNet 1.5">
-<p><hw>Full"-grown`</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Having reached the limits of growth; mature; fully developed; -- used mostly of living organisms; <as>as, A <ex>full-grown</ex> lion can easily kill an unarmed man.</as>.</def> <ldquo/<xex>Full-grown</xex> wings.<rdquo/ <rj><au>Lowell.</au></rj><br/
-<syn><b>Syn. --</b> adult, big, fully grown, grown, grownup.</syn></p>
+<p source="WordNet 1.5"><syn><b>Syn. --</b> adult, big, fully grown, grown, grownup.</syn></p>
 </entry>
 
 <entry main-word="Full-hearted" source="1913 Webster">

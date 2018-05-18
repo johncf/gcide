@@ -12610,7 +12610,7 @@ Some general maxims, or be right by chance.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Mayan arch" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Mayan arch</hw>, <it></it> <hw>Maya arch</hw>  }</mhw>. <def>A form of corbel arch employing regular small corbels.</def></p>
+<p><mhw>{ <hw>Mayan arch</hw>, <hw>Maya arch</hw>  }</mhw>. <def>A form of corbel arch employing regular small corbels.</def></p>
 </entry>
 
 <entry main-word="mayapple" source="WordNet 1.5">

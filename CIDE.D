@@ -23224,8 +23224,8 @@ That he moved the massy stone at length.</q> <rj><qau>Sir W. Scott.</qau></rj></
 
 <p source="PJC"><sn>2.</sn> <fld>(Biol.)</fld> <def>a cell or organism having a number of chromosomes corresponding to two copies of each chromosome; a diploid cell or organism.</def></p>
 
-<p source=""><q>A:  I'm not interested in diploids.<br/
-B: Oh, how I wish your parents had felt the same way!</q> <rj><qau></qau></rj></p>
+<p source="PJC"><q>A:  I'm not interested in diploids.<br/
+B: Oh, how I wish your parents had felt the same way!</q></p>
 </entry>
 
 <entry main-word="diploid" source="PJC">
