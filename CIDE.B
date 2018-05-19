@@ -37665,14 +37665,16 @@ As want of figure and a small estate.</q> <rj><qau>Pope.</qau></rj></p>
 <p><hw>Bug"fish`</hw> <pr>(<?/)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The menhaden.</def> <mark>[U.S.]</mark></p>
 </entry>
 
-<entry main-word="Bugger" source="1913 Webster">
-<p><hw>Bug"ger</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bougre</ets>, fr. LL. <ets>Bulgarus</ets>, a Bulgarian, and also a heretic; because the inhabitants of Bulgaria were infected with heresy. Those guilty of the crime of buggery were called <ets>heretics</ets>, because in the eyes of their adversaries there was nothing more heinous than heresy, and it was therefore thought that the origin of such a vice could only be owing to heretics.]</ety> <sn>1.</sn> <def>One guilty of buggery or unnatural vice; a sodomite.</def></p>
+<entry main-word="Bugger" source="1913 Webster;;Wiktionary">
+<p><hw>Bug"ger</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[F. <ets>bougre</ets>, fr. LL. <ets>Bulgarus</ets>, a Bulgarian, used in designation of heretics, to whom various unnatural practices and perversions such as sodomy were ascribed.]</ety> <sn>1.</sn> <def>One who commits buggery; a sodomite.</def></p>
 
-<p><sn>2.</sn> <def>A wretch; -- sometimes used humorously or in playful disparagement.</def> <mark>[Low]</mark></p>
+<p source="1913 Webster"><sn>2.</sn> <def>A wretch; -- sometimes used humorously or in playful disparagement.</def> <mark>[Low]</mark></p>
+
+<p source="Wiktionary"><sn>3.</sn> <def>A foolish or worthless person or thing; a despicable person.</def> <mark>[Pejorative, Slang]</mark></p>
 </entry>
 
 <entry main-word="Buggery" source="1913 Webster">
-<p><hw>Bug"ger*y</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>bougrerie</ets>, <ets>bogrerie</ets>, heresy. See <er>Bugger</er>.]</ety> <def>Unnatural sexual intercourse; sodomy.</def></p>
+<p><hw>Bug"ger*y</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OF. <ets>bougrerie</ets>, <ets>bogrerie</ets>, heresy. See <er>Bugger</er>.]</ety> <def>Anal sex; sodomy.</def></p>
 </entry>
 
 <entry main-word="Bugginess" source="1913 Webster">

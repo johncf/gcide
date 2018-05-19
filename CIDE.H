@@ -12852,6 +12852,20 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 <p><hw>Het`er*os"cian</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <?/ other + <?/ shadow: cf. F. <ets>h<eacute/t<eacute/roscien</ets>.]</ety> <def>One who lives either north or south of the tropics, as contrasted with one who lives on the other side of them; -- so called because at noon the shadows always fall in opposite directions (the one northward, the other southward).</def></p>
 </entry>
 
+<entry main-word="Heterosexual" source="Wiktionary">
+<p><hw>Heterosexual</hw>, <pos>a.</pos> <def>Sexually attracted primarily to other members of the opposite sex; -- as opposed to <contr>homosexual</contr>.</def></p>
+</entry>
+
+<entry main-word="Heterosexual" source="Wiktionary">
+<p><hw>Heterosexual</hw>, <pos>n.</pos> <def>A heterosexual person or organism.</def></p>
+</entry>
+
+<entry main-word="Heterosexuality" source="Wiktionary">
+<p><hw>Heterosexuality</hw>, <pos>n.</pos> <sn>1.</sn> <def>The state of being sexually and romantically attracted primarily or exclusively to persons of the opposite sex.</def></p>
+
+<p><sn>2.</sn> <def>Sexual activity with a person of the opposite sex.</def></p>
+</entry>
+
 <entry main-word="Heterosis" source="1913 Webster">
 <p><par/<hw>Het`e*ro"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/ alteration, fr. <?/ other, different.]</ety> <fld>(Rhet.)</fld> <def>A figure of speech by which one form of a noun, verb, or pronoun, and the like, is used for another, as in the sentence: <ldquo/What is life to such as <xex>me</xex>?<rdquo/</def>  <rj><au>Aytoun.</au></rj></p>
 </entry>
@@ -18446,6 +18460,24 @@ Deal out in his long <qex>homilies</qex>.</q> <rj><qau>Byron.</qau></rj></p>
 
 <entry main-word="Homopterous" source="1913 Webster">
 <p><hw>Ho*mop"ter*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <fld>(Zool.)</fld> <def>Of or pertaining to the Homoptera.</def></p>
+</entry>
+
+<entry main-word="Homosexual" source="Wiktionary">
+<p><hw>Homosexual</hw>, <pos>a.</pos> <sn>1.</sn> <def>(of a person or organism) Sexually attracted primarily to other members of the same sex; -- as opposed to <contr>heterosexual</contr>.</def></p>
+
+<p><sn>2.</sn> <def>(of a romantic or sexual act or relationship) Between two people of the same sex; <as>as, a <ex>homosexual</ex> kiss</as>.</def></p>
+
+<p><sn>3.</sn> <def>(of an object or place) Intended for or used by homosexuals, as a nightclub, a bar, etc.</def></p>
+</entry>
+
+<entry main-word="Homosexual" source="Wiktionary">
+<p><hw>Homosexual</hw>, <pos>n.</pos> <def>A person who is attracted solely or primarily to others of the same sex.</def></p>
+</entry>
+
+<entry main-word="Homosexuality" source="Wiktionary">
+<p><hw>Homosexuality</hw>, <pos>n.</pos> <sn>1.</sn> <def>The state of being sexually and romantically attracted primarily or exclusively to persons of the same sex.</def></p>
+
+<p><sn>2.</sn> <def>Sexual activity with a person of the same sex.</def></p>
 </entry>
 
 <entry main-word="Homostyled" source="1913 Webster">
