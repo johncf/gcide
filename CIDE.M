@@ -349,15 +349,7 @@
 </entry>
 
 <entry main-word="Macedon" source="WordNet 1.5">
-<p><mhw><hw>Macedon</hw>, <hw>Macedonia</hw></mhw> <pos>prop. n.</pos> <sn>1.</sn> <def>The ancient kingdom of <person>Phillip II</person> and <person>Alexander the Great</person> in the Southeastern Balkans that is now part of Greece, Bulgaria and the independent republic of Macedonia that was part of the former Yugoslavia.</def><br/
-<syn><b>Syn. --</b> Macedonia.</syn></p>
-
-<p source="PJC"><sn>2.</sn> <def>The modern republic of Macedonia, population 2,033,964, which was formerly one of the constituent republics of <country>Yugoslavia</country>.  It became independent on November 17, 1991, after a referendum held on September 9, 1991.  Its capital city is <city>Skopje</city>.  The currency is the Denar. The ethnic composition is approximately 65% Macedonians, 21.73% Albanians, 3.79 Turks, 2.56% Romanians, 2.10% Serbs, and 0.38% Vlachs.  Its language is Macedonian, which  uses the Cyrillic alphabet.  Its second largest city is <city>Bitola</city> (pop. 84,002).<br/
-    At independence in 1991 a new Constitution was adopted, which proclaimed the Republic of Macedonia a sovereign and independent state.   On april 8, 1993, the Republic of Macedonia became a member of the United Nations Organization. Due to the pressure of Greece, which was concerned about possible claims on part of its territory, it was admitted under the name of the <altname>Former Yugoslav Republic of Macedonia</altname>.<br/
-    The Republic of Macedonia is situated in the center of the the Balkan Peninsula and has a unique strategic position at the junction of the main routes which have for millenia linked the West to the Orient. It covers an area of  25,713 square killometres and borders with Bulgaria to the east, Greece to the south, Albania to the west and Serbia to the north.  With the 1913 treaty of  Bucharest, the territory of Macedonia, mainly populated with macedonians, was divided between Greece, Serbia and Bulgaria.  Vardar Macedonia (the territory of today's Republic of Macedonia) became part of the newly established Kingdom of Serbs, Croats and Slovenes - later known as the Kingdom of Yugoslavia - which existed until 1941. The larger part of Macedonia, geographically known as Aegean Macedonia, covering an area  of 34,356 sqare kilometres, was incorporated into Greece.  The territory of Pirin Macedonia (6,798 sqare kilometres) was assigned to Bulgaria.<br/
-    In World War II Macedonians started to struggle against the fascist occupiers on October 11, 1941.  The First Session of ASNOM (The Anti-Fascist Assembly of the National Liberation of Macedonia) was held on August 2, 1944.  It finally crowned the process of the historical establishment of the Macedonian state and was the basis for its soveregnity, and integrity.  Macedonia (Socialistic Republic of Macedonia) became part of Tito's Yugoslavia and remained part until independence in 1991.</def> <au>Goce Vasilevski</au></p>
-
-<p source="PJC"><sn>3.</sn> <def>A region in northern Greece with its capital at Thessalonica.</def></p>
+<p><mhw><hw>Macedon</hw>, <hw>Macedonia</hw></mhw> <pos>prop. n.</pos> <def>The ancient kingdom of <person>Phillip II</person> and <person>Alexander the Great</person> in the Southeastern Balkans that is now part of Greece, Bulgaria and the independent Republic of Macedonia that was part of the former Yugoslavia.</def></p>
 </entry>
 
 <entry main-word="Macedonian" source="1913 Webster">
@@ -9045,7 +9037,7 @@ Make tall ships carry low sails.</q> <rj><qau>Old Rhyme.</qau></rj></p>
 <entry main-word="Mark" source="1913 Webster">
 <p><hw>Mark</hw>, <pos>n.</pos> <ety>[See 2d <er>Marc</er>.]</ety> <sn>1.</sn> <def>An old weight and coin. See <er>Marc</er>.</def> <ldquo/Lend me a <xex>mark</xex>.<rdquo/  <rj><au>Chaucer.</au></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>2.</sn> <def>The unit of monetary account of the German Empire, equal to 23.8 cents of United States money (1913); the equivalent of one hundred pfennigs.  Also, a silver coin of this value.  The unit was retained by subsequent German states up to the time of the Federal Republic of Germany.  In 1995, the value was approximately 65 cents American.  In 1999 it began to be superseded by the Euro as a unit of currency in Germany and throughout much of the European union.</def></p>
+<p><sn>2.</sn> <def>The unit of monetary account of the German Empire, equal to 23.8 cents of United States money [in 1913]; the equivalent of one hundred pfennigs.  Also, a silver coin of this value.</def></p>
 </entry>
 
 <entry main-word="Mark" source="1913 Webster">
@@ -14259,10 +14251,10 @@ All these extremes; and must remove all <qex>mediums</qex>.</q> <rj><qau>Denham.
 <p><par/<hw>Me"di*us</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Medii</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. L. <ets>medius</ets> middle. See <er>Medium</er>.]</ety> <fld>(Anat.)</fld> <def>The third or middle finger; the third digit, or that which corresponds to it.</def></p>
 </entry>
 
-<entry main-word="Medjidie" source="PJC;;Webster 1913 Suppl.">
-<p><mhw>{ <hw>Me*dji"di*e</hw>, <hw>Me*dji"di*eh</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>maj<imac/dieh</ets> (prop. fem. a., fr. Ar. <ets>mej<imac/d</ets> glorious); -- so called after the sultan Abdul <etsep>Mejid</etsep>, lit., <ldquo/servant of the Glorious One,<rdquo/ i.e., of God.]</ety> <sn>1.</sn> <sd>(a)</sd> <def>A silver coin of Turkey formerly rated at twenty, but since 1880 at nineteen, piasters (about 83 cents).</def> <sd>(b)</sd> <def>A gold coin of Turkey equal (in 1913) to one hundred piastres ($4.396 or 18s. <frac34/d.); a lira, or Turkish pound.</def></p>
+<entry main-word="Medjidie" source="Webster 1913 Suppl.">
+<p><mhw>{ <hw>Me*dji"di*e</hw>, <hw>Me*dji"di*eh</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>maj<imac/dieh</ets> (prop. fem. a., fr. Ar. <ets>mej<imac/d</ets> glorious); -- so called after the sultan Abdul <etsep>Mejid</etsep>, lit., <ldquo/servant of the Glorious One,<rdquo/ i.e., of God.]</ety> <sn>1.</sn> <sd>(a)</sd> <def>A silver coin of Turkey formerly rated at twenty, but since 1880 at nineteen, piasters (about 83 cents).</def> <sd>(b)</sd> <def>A gold coin of Turkey equal to one hundred piastres ($4.396 or 18s. <frac34/d.) [in 1900]; a lira, or Turkish pound.</def></p>
 
-<p source="Webster 1913 Suppl."><sn>2.</sn>  <def>A Turkish honorary order established in 1851 by <persfn>Abdul-Mejid</persfn>, having as its badge a medallion surrounded by seven silver rays and crescents. It is often conferred on foreigners.</def></p>
+<p><sn>2.</sn>  <def>A Turkish honorary order established in 1851 by <persfn>Abdul-Mejid</persfn>, having as its badge a medallion surrounded by seven silver rays and crescents. It is often conferred on foreigners.</def></p>
 </entry>
 
 <entry main-word="Medlar" source="1913 Webster">
@@ -21876,7 +21868,7 @@ How tender 't is to love the babe that <qex>milks</qex> me.</q> <rj><qau>Shak.</
 </entry>
 
 <entry main-word="Milreis" source="1913 Webster">
-<p><hw>Mil"reis`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>mil reis</ets>, i. e., one thousand reis; <ets>mil</ets> a thousand + <ets>reis</ets>, pl. of <ets>real</ets> a rei.]</ety> <def>A Portuguese money of account rated in the treasury department of the United States at one dollar and eight cents; also, a Brazilian money of account rated at fifty-four cents and six mills (1913).</def></p>
+<p><hw>Mil"reis`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg. <ets>mil reis</ets>, i. e., one thousand reis; <ets>mil</ets> a thousand + <ets>reis</ets>, pl. of <ets>real</ets> a rei.]</ety> <def>A Portuguese money of account rated in the treasury department of the United States at one dollar and eight cents; also, a Brazilian money of account rated at fifty-four cents and six mills [in 1913].</def></p>
 </entry>
 
 <entry main-word="Milt" source="1913 Webster">
@@ -27907,7 +27899,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 </entry>
 
 <entry main-word="Mohur" source="1913 Webster">
-<p><hw>Mo"hur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Per. <ets>muhur</ets>, <ets>muhr</ets>, a gold coin, a seal, seal ring.]</ety> <def>A British Indian gold coin, of the value of fifteen silver rupees, or $7.21 (in 1913).</def>  <rj><au>Malcom.</au></rj></p>
+<p><hw>Mo"hur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Hind., fr. Per. <ets>muhur</ets>, <ets>muhr</ets>, a gold coin, a seal, seal ring.]</ety> <def>A British Indian gold coin, of the value of fifteen silver rupees, or $7.21 [in 1900].</def>  <rj><au>Malcom.</au></rj></p>
 </entry>
 
 <entry main-word="Mohurrum" source="1913 Webster">
@@ -33422,6 +33414,15 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 <p><mhw>{ <hw>Mo"tor</hw> <pr>(?)</pr>, <hw>Mo"to*ry</hw> <pr>(?)</pr>, <hw>Mo*to"ri*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[L. <ets>motorius</ets> that has motion. See <er>Motor</er>, <pos>n.</pos>]</ety> <def>Causing or setting up motion; pertaining to organs of motion; -- applied especially in physiology to those nerves or nerve fibers which only convey impressions from a nerve center to muscles, thereby causing motion.</def></p>
 </entry>
 
+<entry main-word="Motorbike" source="PJC">
+<p><hw>Mo"tor*bike`</hw>, <pos>n.</pos> <sn>1.</sn> <def>a light two-wheeled vehicle containing a motor for propulsion.  It is lighter in construction and has a lower speed than a <er>motorcycle</er>.</def></p>
+
+<p source="WordNet 1.5"><sn>2.</sn> <specif>Specifically:</specif> <def>a small motorcycle with a low frame and small weels and elevated handlebars.</def><br/
+<syn><b>Syn. --</b> minibike.</syn></p>
+
+<p><sn>3.</sn> <specif>Specifically:</specif> <def>a bicyle with a motor attached for propulsion.</def></p>
+</entry>
+
 <entry main-word="motorboat" source="WordNet 1.5">
 <p><hw>motorboat</hw> <pos>n.</pos> <def>a boat propelled by an internal-combustion engine driving propellers immersed in the water.</def><br/
 <syn><b>Syn. --</b> powerboat.</syn></p>
@@ -33443,24 +33444,13 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 <p><sn>2.</sn>  <fld>(Elec. Railroads)</fld> <def>Any car containing motors for propulsion.</def> <mark>[U. S.]</mark></p>
 </entry>
 
-<entry main-word="Motorbike" source="PJC">
-<p><hw>Mo"tor*bike`</hw>, <pos>n.</pos> <sn>1.</sn> <def>a light two-wheeled vehicle containing a motor for propulsion.  It is lighter in construction and has a lower speed than a <er>motorcycle</er>.</def></p>
-
-<p source="WordNet 1.5"><sn>2.</sn> <specif>Specifically:</specif> <def>a small motorcycle with a low frame and small weels and elevated handlebars.</def><br/
-<syn><b>Syn. --</b> minibike.</syn></p>
-
-<p><sn>3.</sn> <specif>Specifically:</specif> <def>a bicyle with a motor attached for propulsion.</def></p>
-</entry>
-
 <entry main-word="motorcoach" source="WordNet 1.5">
 <p><hw>motorcoach</hw> <pos>n.</pos> <def>a <er>motorbus</er>.</def><br/
 <syn><b>Syn. --</b> bus, autobus, coach, charabanc, double-decker, jitney, motorbus, omnibus.</syn></p>
 </entry>
 
-<entry main-word="motorcycle" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>mo"tor*cy`cle</hw>, <or/  <hw>mo"tor cy`cle</hw> }</mhw>, <pos>n.</pos> <def>A two-wheeled vehicle having a motor attached so as to be self-propelled.  In common usage, a <ex>motorcycle</ex> is of heavier construction with larger wheels, a more powerful motor, and a higher maximum speed than a <er>motorbike</er>.</def> <note>A motorcycle may have a small appended compartment called a <part>sidecar</part>, supported by a third wheel, which can carry a passenger.</note></p>
-
-<p><note>In Great Britain as of 1913 the term <xex>motor cycle</xex> was treated by statute (<au>3 Ed VII. c. 36</au>) as limited to motor cars (self-propelled vehicles) designed to travel on not more than three wheels, and weighing unladen (that is, without water, fuel, or accumulators necessary for propulsion) not more than three hundred weight (336 lbs.).</note></p>
+<entry main-word="Motor cycle" source="Webster 1913 Suppl.">
+<p><mhw>{ <hw>Motor cycle</hw>, <or/ <hw>Mo"tor*cy`cle</hw> }</mhw>, <pos>n.</pos> <def>A bicycle having a motor attached so as to be self-propelled. In Great Britain the term <xex>motor cycle</xex> is [in 1913] treated by statute (<au>3 Ed VII. c. 36</au>) as limited to motor cars (self-propelled vehicles) designed to travel on not more than three wheels, and weighing unladen (that is, without water, fuel, or accumulators necessary for propulsion) not more than three hundred weight (336 lbs.).</def></p>
 </entry>
 
 <entry main-word="motorcycle" source="WordNet 1.5">
@@ -33468,19 +33458,13 @@ attends thee, and each word, each <qex>motion</qex>, forms.</q> <rj><qau>Milton.
 <syn><b>Syn. --</b> cycle.</syn></p>
 </entry>
 
-<entry main-word="motorcycling" source="WordNet 1.5">
-<p><hw>motorcycling</hw> <pos>n.</pos> <def>The process of riding a motocycle.</def></p>
-
-<p><sn>2.</sn> <def>travel on a motorcycle.</def></p>
-</entry>
-
 <entry main-word="motorcyclist" source="PJC">
 <p><hw>mo"tor*cyc`list</hw>, <pos>n.</pos> <def>A person who rides a motorcycle.</def><br/
 <syn><b>Syn. --</b> biker, cyclist.</syn></p>
 </entry>
 
-<entry main-word="motor-driven" source="Webster 1913 Suppl.">
-<p><hw>mo`tor-driv`en</hw>, <pos>a.</pos> <fld>(Mach.)</fld> <def>Driven or actuated by a motor, esp. by an individual electric motor. An electric motor forms an integral part of many machine tools in numerous modern machine shops.</def></p>
+<entry main-word="Motor-driven" source="Webster 1913 Suppl.">
+<p><hw>Mo`tor-driv`en</hw>, <pos>a.</pos> <fld>(Mach.)</fld> <def>Driven or actuated by a motor, esp. by an individual electric motor. An electric motor forms an integral part of many machine tools in numerous modern machine shops.</def></p>
 </entry>
 
 <entry main-word="motored" source="WordNet 1.5">

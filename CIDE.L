@@ -14310,8 +14310,8 @@ Endue you with the people's voice.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Li"mous</hw> <pr>(l<imac/"m<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>limosus</ets>, fr. <ets>limus</ets> slime, mud.]</ety> <def>Muddy; slimy; thick.</def>  <rj><au>Sir T. Browne.</au></rj></p>
 </entry>
 
-<entry main-word="Limousine" source="PJC;;Webster 1913 Suppl.">
-<p><hw>Li`mou*sine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>limousine</ets> a kind of cloak, fr. <etsep>Limousin</etsep>, an old province in central France.]</ety> <def>an elongated, luxurious automobile, designed to be driven by a chauffeur and often having a glass partition between the driver's seat and the passengers' compartment behind.</def> <note>When intended for use in transporting businessmen, the limousine may be equipped with a telephone and other conveniences to permit work during travel.  Limousines are often rented for travel to and from airports, and as a luxurious perquisite on special occasions, as weddings or school prm nights.  Originally (1913) the term referred to an automobile body with seats and permanent top like a coup<eacute/, and with the top projecting over the driver and a projecting front, or an automobile with such a body.</note></p>
+<entry main-word="Limousine" source="Webster 1913 Suppl.">
+<p><hw>Li`mou*sine"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>limousine</ets> a kind of cloak, fr. <etsep>Limousin</etsep>, an old province in central France.]</ety> <def>An automobile body with seats and permanent top like a coupe, and with the top projecting over the driver and a projecting front; also an automobile with such a body.</def> <mark>[Outdated]</mark></p>
 </entry>
 
 <entry main-word="Limousine liberal" source="PJC">

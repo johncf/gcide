@@ -3151,7 +3151,7 @@ Fought on the <qex>day</qex> of Crispin Crispianus.</q> <rj><qau>Shak.</qau></rj
 </entry>
 
 <entry main-word="Dayfly" source="1913 Webster">
-<p><hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def><-- = the Mayfly? mayfly is ephemerid of order <ord>ephemeroptera</ord> [MW10]. "Mayfly" not in 1913 W. --></p>
+<p><hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def> <mark>[Outdated]</mark> <note source="PJC">Possibly referring to <xex>mayfly</xex>.</note></p>
 </entry>
 
 <entry main-word="Day-labor" source="1913 Webster">
@@ -11269,8 +11269,7 @@ Aristocrat, <qex>democrat</qex>, autocrat.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Demogorgon" source="1913 Webster">
-<p><hw>De`mo*gor"gon</hw> <pr>(d<emac/"m<osl/*g<ocir/r*g<ocr/n <or/ d<ecr/m"<osl/*g<ocir/r*g<ocr/n)</pr>, <pos>n.</pos> <ety>[First mentioned by <person>Lutatius</person>, or <person>Lactantius Placidus</person>, the scholiast on Statius, perh. fr. Gr. <grk>dai`mwn</grk> god, deity + <grk>gorgo`s</grk> fierce, terrible]</ety> <def>A mysterious, terrible, and evil divinity, regarded by some as the author of creation, by others as a great magician who was supposed to command the spirits of the lower world. See <er>Gorgon</er>.</def>
-<-- Demogorgon: etymology copied from later edition of Websters, due to page torn in 1913 ed.  PCP --></p>
+<p><hw>De`mo*gor"gon</hw> <pr>(d<emac/"m<osl/*g<ocir/r*g<ocr/n <or/ d<ecr/m"<osl/-)</pr>, <pos>n.</pos> <ety>[First mentioned by <person>Lutatius</person>, or <person>Lactantius Placidus</person>, the scholiast on Statius, prob. fr. Gr. <grk>dai`mwn</grk> god, deity + <grk>gorgo`s</grk> fierce, terrible]</ety> <def>A mysterious, terrible, and evil divinity, regarded by some as the author of creation, by others as a great magician who was supposed to command the spirits of the lower world. See <er>Gorgon</er>.</def></p>
 
 <p><q>Orcus and Ades, and the dreaded name<br/
 Of <qex>Demogorgon</qex>.</q> <rj><qau>Milton.</qau></rj></p>
@@ -38777,9 +38776,9 @@ That drove the sand along he took his way.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Drachma" source="1913 Webster">
-<p><par/<hw>Drach"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Drachmas</plw> <pr>(#)</pr>, L. <plw>Drachm<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/. See <er>Dram</er>.]</ety> <sn>1.</sn> <def>A silver coin among the ancient Greeks, having a different value in different States and at different periods. The average value of the Attic drachma is computed to have been about 19 cents (U. S. currency, ca. 1913).</def></p>
+<p><par/<hw>Drach"ma</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Drachmas</plw> <pr>(#)</pr>, L. <plw>Drachm<ae/</plw> <pr>(#)</pr>.</plu> <ety>[L., fr. Gr. <?/. See <er>Dram</er>.]</ety> <sn>1.</sn> <def>A silver coin among the ancient Greeks, having a different value in different States and at different periods. The average value of the Attic drachma is computed to have been about 19 cents [in 1900].</def></p>
 
-<p><sn>2.</sn> <def>A gold and silver coin of modern Greece worth 19.3 cents.</def></p>
+<p><sn>2.</sn> <def>A gold and silver coin of modern Greece worth 19.3 cents [in 1900].</def></p>
 
 <p><sn>3.</sn> <def>Among the ancient Greeks, a weight of about 66.5 grains; among the modern Greeks, a weight equal to a gram.</def></p>
 </entry>

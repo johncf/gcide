@@ -8116,7 +8116,7 @@ To <qex>nobler</qex> poets for a <qex>nobler</qex> song.</q> <rj><qau>Dryden.</q
 <entry main-word="Noble" source="1913 Webster">
 <p><hw>No"ble</hw>, <pos>n.</pos> <sn>1.</sn> <def>A person of rank above a commoner; a nobleman; a peer.</def></p>
 
-<p><sn>2.</sn> <def>An English money of account, and, formerly, a gold coin, of the value of 6 s. 8 d. sterling, or about $1.61 (in 1913).</def></p>
+<p><sn>2.</sn> <def>An English money of account, and, formerly, a gold coin, of the value of 6 s. 8 d. sterling, or about $1.61 [in 1913].</def></p>
 
 <p><sn>3.</sn> <fld>(Zool.)</fld> <def>A European fish; the lyrie.</def></p>
 </entry>

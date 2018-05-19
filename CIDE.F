@@ -18039,10 +18039,10 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj></p>
 <p><hw>Fly"ing le"mur</hw> <pr>(?)</pr>. <fld>(Zool.)</fld> <def>either of two nocturnal lemurlike mammals inhabiting the East Indies (<spn>Cynocephalus variegatus</spn>) or the Phillipines (<spn>Cynocephalus volans</spn>) having broad folds of skin between the fore and hind limbs on both sides of the body allowing them to make long gliding leaps; they have been classed in the separate order <ord>Dermoptera</ord>.  They are arboreal and have become rare.</def></p>
 </entry>
 
-<entry main-word="Flying squirrel" source="1913 Webster;;PJC">
-<p><hw>Fly"ing squir"rel</hw> <pr>(? or ?)</pr>. <fld>(Zool.)</fld> <def>One of a group of squirrels, of the genus <gen>Glaucomys</gen> (formerly <gen>Pteromus</gen> and <gen>Sciuropterus</gen> [1913 Webster]), especially <spn>Glaucomys volans</spn> and <spn>Glaucomys sabrinus</spn>, having parachute-like folds of skin extending from the fore to the hind legs, which enable them to make very long, gliding leaps.</def></p>
+<entry main-word="Flying squirrel" source="1913 Webster">
+<p><hw>Fly"ing squir"rel</hw> <pr>(? <or/ ?)</pr>. <fld>(Zool.)</fld> <def>One of a group of squirrels, of the genera <gen>Pteromus</gen> and <gen>Sciuropterus</gen> <mark>[Outdated]</mark>, having parachute-like folds of skin extending from the fore to the hind legs, which enable them to make very long, gliding leaps.</def></p>
 
-<p source="1913 Webster"><note><hand/ The species of Pteromys are large, with bushy tails, and inhabit southern Asia and the East Indies; those of Sciuropterus are smaller, with flat tails, and inhabit the northern parts of Europe, Asia, and America. The American species <spn>(Sciuropterus volucella)</spn> is also called Assapan. The Australian flying squirrels, or flying phalangers, are marsupials. See <cref>Flying phalanger</cref> (above).</note></p>
+<p><note><hand/ The species of Pteromys are large, with bushy tails, and inhabit southern Asia and the East Indies; those of Sciuropterus are smaller, with flat tails, and inhabit the northern parts of Europe, Asia, and America. The American species <spn>(Sciuropterus volucella)</spn> is also called Assapan. The Australian flying squirrels, or flying phalangers, are marsupials. See <cref>Flying phalanger</cref> (above).</note></p>
 </entry>
 
 <entry main-word="flyleaf" source="WordNet 1.5">
@@ -24976,7 +24976,7 @@ Whose spirits toil in <qex>frame</qex> of villainies.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Franc" source="1913 Webster">
-<p><hw>Franc</hw> <pr>(fr<acr/<nsm/k)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>franc</ets> a Franc. See <er>Frank</er>, <pos>a.</pos>]</ety> <def>A silver coin of France, and since 1795 the unit of the French monetary system. It has been adopted by Belgium and Swizerland. In 1913 it was equivalent to about nineteen cents American, or ten pence British, and is divided into 100 centimes.</def></p>
+<p><hw>Franc</hw> <pr>(fr<acr/<nsm/k)</pr>, <pos>n.</pos> <ety>[F., fr. <ets>franc</ets> a Franc. See <er>Frank</er>, <pos>a.</pos>]</ety> <def>A silver coin of France, and since 1795 the unit of the French monetary system. It has been adopted by Belgium and Swizerland. It is [in 1900] equivalent to about nineteen cents American, or ten pence British, and is divided into 100 centimes.</def></p>
 </entry>
 
 <entry main-word="Franchise" source="1913 Webster">

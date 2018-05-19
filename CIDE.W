@@ -11265,10 +11265,6 @@ The <qex>whiteness</qex> of his soul, and thus men o'er him wept.</q> <rj><qau>B
 <p><cs><col>Whitening stone</col>, <cd>a sharpening and polishing stone used by cutlers; also, a finishing grindstone of fine texture.</cd></cs></p>
 </entry>
 
-<entry main-word="White person" source="PJC;;Webster 1913 Suppl.">
-<p><hw>White person</hw>. <def>A person of the Caucasian race (<au>6 Fed. Rep. 256</au>).</def> <note>In the time of slavery in the United States <ex>white person</ex> was generally construed as a person without admixture of colored blood. In various statutes and decisions in different States since 1865 <xex>white person</xex> is construed as in effect (as of 1913): one not having any negro blood (Ark., Okla.); one having less than one eighth of negro blood (Ala., Fla., Ga., Ind., Ky., Md., Minn., Miss., Mo., N.C., S.C., Tenn., Tex.); one having less than one fourth (Mich., Neb., Ore., Va.); one having less than one half (Ohio).  Since the passage of civil rights legislation in the 1960's and 1970's, the term has little legal significance -- for some purposes, as in filling out questionnaires, a person's race is whatever the person claims it to be.</note></p>
-</entry>
-
 <entry main-word="White noise" source="PJC">
 <p><hw>White noise</hw> <pr>(?)</pr>, <pos>n.</pos> <def>a mixture or random noise sounds extending over the entire audible frequency spectrum with approximately equal intensity at all frequencies.  It is used in certain experiments, as in psychology, to prevent subjects from hearing meaningful sounds.</def></p>
 </entry>

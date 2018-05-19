@@ -5457,7 +5457,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj></p>
 </entry>
 
 <entry main-word="kopeck" source="1913 Webster">
-<p><hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin. One hundred kopecks make a rouble, worth about sixty cents [in 1910].</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp></p>
+<p><hw>ko"peck</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> Eng. <plw>kopecks</plw>, Russ. <plw>kopeek</plw>.</plu> <ety>[Russ. <ets>kopeika</ets>.]</ety> <def>A small Russian coin. One hundred kopecks make a rouble, worth about sixty cents [in 1900].</def> <altsp>[Written also <asp>kopek</asp>, <asp>copec</asp>, and <asp>copeck</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="kopje" source="Webster 1913 Suppl.;;WordNet 1.5">
@@ -5687,7 +5687,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj></p>
 </entry>
 
 <entry main-word="Krone" source="1913 Webster">
-<p><par/<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents (in 1913). See <er>Crown</er>, <pos>n.</pos>, <snr>9</snr>.</def></p>
+<p><par/<hw>Kro"ne</hw> <pr>(kr<omac/"n<asl/)</pr>, <pos>n.</pos> <ety>[Dan.]</ety> <def>A coin of Denmark, Norway, and Sweden, of the value of about twenty-eight cents [in 1913]. See <er>Crown</er>, <pos>n.</pos>, <snr>9</snr>.</def></p>
 </entry>
 
 <entry main-word="Krooman" source="1913 Webster">

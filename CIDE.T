@@ -31469,9 +31469,6 @@ Her <qex>truchman</qex>, she reports the mind's each throw.</q> <rj><qau>B. Jons
 <p><sn>6.</sn> <def>A frame on low wheels or rollers; -- used for various purposes, as for a movable support for heavy bodies.</def><-- = MW10 2nd Truck 3(c) --></p>
 
 <p source="PJC"><sn>7.</sn> <def>a motorized vehicle larger than an automobile with a compartment in front for the driver, behind which is a separate compartment for freight;</def> <specif>esp.</specif> <sd>(a)</sd> <def>such a vehicle with an inflexible body.</def> <sd>(b)</sd> <def>A vehicle with a short body and a support for attaching a trailer; -- also called a <er>tractor{4}</er>.</def> <sd>(c)</sd> <def>the combination of tractor and trailer, also called a <stype>tractor-trailer</stype> (a form of articulated vehicle); it is a common form of <ex>truck</ex>, and is used primarily for hauling freight on a highway.</def> <sd>(d)</sd> <def>a tractor with more than one trailer attached in a series.  In Australia, often referred to as a <altname>road train</altname>.</def></p>
-
-<p><-- Truck, n. 1. barter.  2. commodidites for barter or for small trade. 3. association, interaction, or connection, as in "I'll have no truck with the likes of them."  4. payment of wages in goods, rather than cash. 5. vegetable grown for market, as in truck farm. 6. small articles of little value.
-  [All from MW10.  No comparable definitions in W1913!] --></p>
 </entry>
 
 <entry main-word="Truck" source="1913 Webster">
@@ -36547,8 +36544,7 @@ Great primer . . . abcdefghijklmnopqrstuvwxyz
 </entry>
 
 <entry main-word="Typhoon" source="1913 Webster">
-<p><hw>Ty*phoon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Earlier <ets>tuffoon</ets>, <ets>tuffon</ets>, Pg. <ets>tuf<atil/o</ets>, Ar. <ets>tuf<amac/n</ets> a violent storm; probably fr. Gr. <grk>tyfw^n</grk>, <grk>tyfw^s</grk>, a violent whirlwind, that rushes upward from the earth, whirling clouds of dust (cf. <er>Typhus</er>); or perhaps from Chin. <ets>t'ai-fung</ets> a cyclonic wind.]</ety> <def>A violent whirlwind; specifically, a violent whirlwind occurring in the Chinese seas.</def>
-<-- 2. a tropical cyclone of the Chinese seas. (2 senses confounded in W1913) --></p>
+<p><hw>Ty*phoon"</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Earlier <ets>tuffoon</ets>, <ets>tuffon</ets>, Pg. <ets>tuf<atil/o</ets>, Ar. <ets>tuf<amac/n</ets> a violent storm; probably fr. Gr. <grk>tyfw^n</grk>, <grk>tyfw^s</grk>, a violent whirlwind, that rushes upward from the earth, whirling clouds of dust (cf. <er>Typhus</er>); or perhaps from Chin. <ets>t'ai-fung</ets> a cyclonic wind.]</ety> <def>A violent whirlwind; specifically, a violent whirlwind occurring in the Chinese seas.</def></p>
 </entry>
 
 <entry main-word="Typhos" source="1913 Webster">

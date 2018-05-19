@@ -1065,8 +1065,8 @@ Mazed with a <qex>yelping</qex> kennel of French curs?</q> <rj><qau>Shak.</qau><
 <p><sn>2.</sn> <def>of or pertaining to the inhabitants of Yemen; <as>as, our <ex>Yemeni</ex> guide</as>.</def></p>
 </entry>
 
-<entry main-word="Yen" source="1913 Webster;;PJC">
-<p><par/<hw>Yen</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The unit of value and account in Japan. The <ex>yen</ex> is equal to 100 <xex>sen</xex>. From Japan's adoption of the gold standard, in 1897, to about 1913 the value of the yen was about 50 cents. In 1997 and 1998 the value of the yen varied from 80 per U. S. dollar to 120 per dollar.</def></p>
+<entry main-word="Yen" source="1913 Webster">
+<p><par/<hw>Yen</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The unit of value and account in Japan. There is a gold yen (worth about 100 cents) and a silver yen (worth about 73 cents). The <ex>yen</ex> is equal to 100 <xex>sen</xex>.</def> <mark>[Outdated]</mark></p>
 </entry>
 
 <entry main-word="Yend" source="1913 Webster">

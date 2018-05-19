@@ -12621,10 +12621,10 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 <p><par/<hw>Reichs"stand`</hw> <pr>(r?ks"st?t`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <def>A free city of the former German empire.</def></p>
 </entry>
 
-<entry main-word="Reichstag" source="1913 Webster;;PJC">
-<p><par/<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people. This term is no longer (in 1997) applied to the German parliament. See also <er>Bundesrath</er>.</def></p>
+<entry main-word="Reichstag" source="1913 Webster">
+<p><par/<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people.</def> <mark>[Outdated]</mark> <extra source="PJC"><note>See also <er>Bundesrath</er>.</note></extra></def></p>
 
-<p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <mark>[Note: from the 1913 definition]</mark> <def>The national representative body of Hungary, consisting of a House of Magnates (including archdukes, peers, high officials of the Roman Catholic, Greek, and Protestant Churches, and certain other dignitaries) and a House of Representatives (in 1912 consisting of 453 members). See <er>Legislative</er>, <er>Diet</er>.</def> <mark>[archaic]</mark> </p>
+<p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <def>The national representative body of Hungary, consisting of a House of Magnates (including archdukes, peers, high officials of the Roman Catholic, Greek, and Protestant Churches, and certain other dignitaries) and a House of Representatives (in 1912 consisting of 453 members). See <er>Legislative</er>, <er>Diet</er>.</def> <mark>[Outdated]</mark></p>
 </entry>
 
 <entry main-word="Reif" source="1913 Webster">

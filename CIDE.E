@@ -5908,97 +5908,101 @@ Too soon dejected, and dejected, and too soon <qex>elate</qex>.</q> <rj><qau>Pop
 
 <p><sn>2.</sn> <def>One of the ultimate, undecomposable constituents of any kind of matter. Specifically: <fld>(Chem.)</fld> A substance which cannot be decomposed into different kinds of matter by any means at present employed; <as>as, the <ex>elements</ex> of water are oxygen and hydrogen</as>.</def></p>
 
-<p source="1913 Webster;;PJC"><note><hand/ The elements are naturally classified in several families or groups, as the group of the <xex>alkaline</xex> elements, the <xex>halogen</xex> group, and the like. They are roughly divided into two great classes, the <xex>metals</xex>, as sodium, calcium, etc., which form basic compounds, and the <xex>nonmetals</xex> or <xex>metalloids</xex>, as oxygen, sulphur, chlorine, which form acid compounds; but the distinction is only relative, and some, as arsenic, tin, aluminium, etc., form both acid and basic compounds. The essential fact regarding every element is its <xex>atomic number</xex>. When the elements are tabulated in the order of their ascending atomic numbers, the arrangement constitutes the series of the <xex>Periodic law</xex> of <person>Mendelejeff</person>. See <cref>Periodic law</cref>, under <er>Periodic</er>. This Periodic law enables us to predict the qualities of unknown elements. The number of elements known [in 1890] was about seventy-five, but the gaps in the Periodic law indicated the possibility of many more. Many of the elements with which we are familiar, as hydrogen, carbon, iron, gold, etc., have been recognized, by means of spectrum analysis, in the sun and the fixed stars. The chemical elements are now known not be simple bodies, but combinations of subatomic particles such as protons, neutrons, and electrons. In fact, the atomic number is the number of protons found in the nucleus of an atom. In formulas, the elements are designated by abbreviations of their names in Latin or New Latin, given in the table below.</note></p>
+<p source="1913 Webster;;PJC"><note><hand/ The elements are naturally classified in several families or groups, as the group of the <xex>alkaline</xex> elements, the <xex>halogen</xex> group, and the like. They are roughly divided into two great classes, the <xex>metals</xex>, as sodium, calcium, etc., which form basic compounds, and the <xex>nonmetals</xex> or <xex>metalloids</xex>, as oxygen, sulphur, chlorine, which form acid compounds; but the distinction is only relative, and some, as arsenic, tin, aluminium, etc., form both acid and basic compounds. The essential fact regarding every element is its <xex>atomic number</xex>. When the elements are tabulated in the order of their ascending atomic numbers, the arrangement constitutes the series of the <xex>Periodic law</xex> of <person>Mendelejeff</person>. See <cref>Periodic law</cref>, under <er>Periodic</er>. This Periodic law enables us to predict the qualities of unknown elements. The number of elements known [in 1900] was about seventy-five, but the gaps in the Periodic law indicated the possibility of many more. Many of the elements with which we are familiar, as hydrogen, carbon, iron, gold, etc., have been recognized, by means of spectrum analysis, in the sun and the fixed stars. The chemical elements are now known not be simple bodies, but combinations of subatomic particles such as protons, neutrons, and electrons. In fact, the atomic number is the number of protons found in the nucleus of an atom. In formulas, the elements are designated by abbreviations of their names in Latin or New Latin, given in the table below.</note></p>
 
 <p><collapse><b>The Elements</b><br/
 <pre>
-------------------------------------------------------------
-Name                   |Sym-| Atomic Weight  |
-                       |bol |  O=16  |  H=1  |
-------------------------------------------------------------
-Aluminum               | Al |  27.1  |  26.9  |
-Antimony (Stibium)     | Sb | 120    | 119.1  |
-Argon                  | A  |  39.9  |  39.6  |
-Arsenic                | As |  75    |  74.4  |
-Astatine               | At |
-Barium                 | Ba | 137.4  | 136.4  |
-Beryllium              | Be |
-Bismuth                | Bi | 208.5  | 206.9  |
-Boron                  | B  |  11    |  10.9  |
-Bromine                | Br |  79.96 |  79.36 |
-Cadmium                | Cd | 112.4  | 111.6  |
-Cesium (Caesium)       | Cs | 133    | 132    |
-Calcium                | Ca |  40    |  39.7  |
-Carbon                 | C  |  12    |  11.91 |
-Cerium                 | Ce | 140    | 139    |
-Chlorine               | Cl |  35.45 |  35.18 |
-Chromium               | Cr |  52.1  |  51.7  |
-Cobalt                 | Co |
-Columbium (now Niobium)
-Copper (Cuprum)        | Cu |
-Erbium                 | Er |
-Europium               | Eu |
-Einsteinium            | Es |
-Fermium                | Fe |
-Fluorine               | F  |
-Gadolinium             | Gd |
-Gallium                | Ga |
-Germanium              | Ge |
-Glucinum (now Beryllium)
-Gold (Aurum)           | Au |
-Helium                 | He |
-Hydrogen               | H  |
-Indium                 | In |
-Iodine                 | I  |
-Iridium                | Ir |
-Iron (Ferrum)          | Fe |
-Krypton                | Kr |
-Lanthanum              | La |
-Lead (Plumbum)         | Pb |
-Lithium                | Li |
-Magnesium              | Mg |
-Manganese              | Mn |
-Mercury (Hydrargyrum)  | Hg |
-Molybdenum             | Mo |
-Neodymium              | Nd |
-Neon                   | Ne |
-Nickel                 | Ni |
-Niobium                | Nb |
-Nitrogen               | N  |
-Osmium                 | Os |
-Oxygen                 | O  |
-Palladium              | Pd |
-Phosphorus             | P  |
-Platinum               | Pt |
-Potassium (Kalium)     | K  |
-Praseodymium           | Pr |
-Rhodium                | Rh |
-Rubidium               | Rb |
-Ruthenium              | Ru |
-Samarium               | Sa |
-Scandium               | Sc |
-Selenium               | Se |
-Silicon                | Si |
-Silver (Argentum)      | Ag |
-Sodium (Natrium)       | Na |
-Strontium              | Sr |
-Sulphur                | S  |
-Tantalum               | Ta |
-Tellurium              | Te |
-Thallium               | Tl |
-Thorium                | Th |
-Thulium                | Tu |
-Tin (Stannum)          | Sn |
-Titanium               | Ti |
-Tungsten (Wolframium)  | W  |
-Uranium                | U  |
-Vanadium               | V  |
-Xenon                  | Xe |
-Ytterbium              | Yb |
-Yttrium                | Y  |
-Zinc                   | Zn |
-Zirconium              | Zr |
-------------------------------------------------------------
+-------------------------------------------------------
+Name                                    |Sym-| Atomic |
+                                        |bol | Weight |
+-------------------------------------------------------
+<stypec>Aluminum</stypec>               | Al |  27.08 |
+<stypec>Antimony</stypec> (Stibium)     | Sb | 120.0  |
+<stypec>Argon</stypec>                  | A  |
+<stypec>Arsenic</stypec>                | As |  75.0  |
+<stypec>Astatine</stypec>               | At |
+<stypec>Barium</stypec>                 | Ba | 137.0  |
+<stypec>Beryllium</stypec>              | Be |   9.1  |
+<stypec>Bismuth</stypec>                | Bi | 207.5  |
+<stypec>Boron</stypec>                  | B  |  10.9  |
+<stypec>Bromine</stypec>                | Br |  79.8  |
+<stypec>Cadmium</stypec>                | Cd | 111.8  |
+<stypec>C<ae/sium</stypec>              | Cs | 132.6  |
+<stypec>Calcium</stypec>                | Ca |  40.0  |
+<stypec>Carbon</stypec>                 | C  |  11.97 |
+<stypec>Cerium</stypec>                 | Ce | 141.95 |
+<stypec>Chlorine</stypec>               | Cl |  35.4  |
+<stypec>Chromium</stypec>               | Cr |  52.5  |
+<stypec>Cobalt</stypec>                 | Co |  59.1  |
+<stypec>Columbium</stypec> (see Niobium)
+<stypec>Copper</stypec> (Cuprum)        | Cu |  63.3  |
+<ecol>Davyum</ecol> (not an element)
+<ecol>Didymium</ecol> (not an element)
+<stypec>Erbium</stypec>                 | Er | 165.9  |
+<stypec>Europium</stypec>               | Eu |
+<stypec>Einsteinium</stypec>            | Es |
+<stypec>Fermium</stypec>                | Fm |
+<stypec>Fluorine</stypec>               | F  |  19.0  |
+<stypec>Gadolinium</stypec>             | Gd |
+<stypec>Gallium</stypec>                | Ga |  69.9  |
+<stypec>Germanium</stypec>              | Ge |  72.3  |
+<stypec>Glucinum</stypec> (see Beryllium)
+<stypec>Gold</stypec> (Aurum)           | Au | 196.7  |
+<stypec>Helium</stypec>                 | He |
+<stypec>Holmium</stypec>                | Ho |
+<stypec>Hydrogen</stypec>               | H  |   1.0  |
+<stypec>Indium</stypec>                 | In | 113.4  |
+<stypec>Iodine</stypec>                 | I  |
+<stypec>Iridium</stypec>                | Ir |
+<stypec>Iron</stypec> (Ferrum)          | Fe |
+<stypec>Krypton</stypec>                | Kr |
+<stypec>Lanthanum</stypec>              | La |
+<stypec>Lead</stypec> (Plumbum)         | Pb |
+<stypec>Lithium</stypec>                | Li |
+<stypec>Magnesium</stypec>              | Mg |
+<stypec>Manganese</stypec>              | Mn |
+<stypec>Mercury</stypec> (Hydrargyrum)  | Hg |
+<stypec>Molybdenum</stypec>             | Mo |
+<stypec>Neodymium</stypec>              | Nd |
+<stypec>Neon</stypec>                   | Ne |
+<stypec>Nickel</stypec>                 | Ni |
+<stypec>Niobium</stypec>                | Nb |
+<stypec>Nitrogen</stypec>               | N  |
+<stypec>Osmium</stypec>                 | Os |
+<stypec>Oxygen</stypec>                 | O  |
+<stypec>Palladium</stypec>              | Pd |
+<stypec>Phosphorus</stypec>             | P  |
+<stypec>Platinum</stypec>               | Pt |
+<stypec>Potassium</stypec> (Kalium)     | K  |
+<stypec>Praseodymium</stypec>           | Pr |
+<stypec>Rhodium</stypec>                | Rh |
+<stypec>Rubidium</stypec>               | Rb |
+<stypec>Ruthenium</stypec>              | Ru |
+<stypec>Samarium</stypec>               | Sm |
+<stypec>Scandium</stypec>               | Sc |
+<stypec>Selenium</stypec>               | Se |
+<stypec>Silicon</stypec>                | Si |
+<stypec>Silver</stypec> (Argentum)      | Ag |
+<stypec>Sodium</stypec> (Natrium)       | Na |
+<stypec>Strontium</stypec>              | Sr |
+<stypec>Sulphur</stypec>                | S  |
+<stypec>Tantalum</stypec>               | Ta | 182.0  |
+<stypec>Tellurium</stypec>              | Te | 125.2  |
+<stypec>Terbium</stypec>                | Tr | 150.0  |
+<stypec>Thallium</stypec>               | Tl | 203.7  |
+<stypec>Thorium</stypec>                | Th | 232.0  |
+<stypec>Thulium</stypec>                | Tu | 170.7  |
+<stypec>Tin</stypec> (Stannum)          | Sn | 117.4  |
+<stypec>Titanium</stypec>               | Ti |  48.1  |
+<stypec>Tungsten</stypec> (Wolframium)  | W  | 183.6  |
+<stypec>Uranium</stypec>                | U  | 239.0  |
+<stypec>Vanadium</stypec>               | V  |  51.2  |
+<stypec>Xenon</stypec>                  | Xe |
+<stypec>Ytterbium</stypec>              | Yb | 173.2  |
+<stypec>Yttrium</stypec>                | Y  |  89.0  |
+<stypec>Zinc</stypec>                   | Zn |  64.9  |
+<stypec>Zirconium</stypec>              | Zr |  90.4  |
+-------------------------------------------------------
 </pre></collapse></p>
 
 <p><note>Several other elements have been announced, as holmium, vesbium, austrium, etc., but their properties, and in some cases their existence, have not yet been definitely established.</note></p>
@@ -17734,17 +17738,13 @@ By opposite attractions and desires.</q> <rj><qau>Longfellow.</qau></rj></p>
 
 <p><q>He owned that, if the Test Act were repealed, the Protestants were entitled to some <qex>equivalent</qex>.  . . . During some weeks the word <qex>equivalent</qex>, then lately imported from France, was in the mouths of all the coffeehouse orators.</q> <rj><qau>Macaulay.</qau></rj></p>
 
-<p><sn>2.</sn> <fld>(Chem.)</fld> <def>That comparative quantity by weight of an element which possesses the same chemical value as other elements, as determined by actual experiment and reference to the same standard.</def> Specifically: <sd>(a)</sd> <def>The comparative proportions by which one element replaces another in any particular compound; thus, as zinc replaces hydrogen in hydrochloric acid, their <xex>equivalents</xex> are 32.5 and 1.</def> <sd>(b)</sd> <def>The combining proportion by weight of a substance, or the number expressing this proportion, in any particular compound; <as>as, the <ex>equivalents</ex> of hydrogen and oxygen in water are respectively 1 and 8, and in hydric dioxide 1 and 16</as>.</def><-- = equivalent weight. --></p>
+<p><sn>2.</sn> <fld>(Chem.)</fld> <def>That comparative quantity by weight of an element which possesses the same chemical value as other elements, as determined by actual experiment and reference to the same standard.</def> Specifically: <sd>(a)</sd> <def>The comparative proportions by which one element replaces another in any particular compound; thus, as zinc replaces hydrogen in hydrochloric acid, their <xex>equivalents</xex> are 32.5 and 1.</def> <sd>(b)</sd> <def>The combining proportion by weight of a substance, or the number expressing this proportion, in any particular compound; <as>as, the <ex>equivalents</ex> of hydrogen and oxygen in water are respectively 1 and 8, and in hydric dioxide 1 and 16</as>.</def></p>
 
 <p><note><hand/ This term was adopted by Wollaston to avoid using the conjectural expression <xex>atomic weight</xex>, with which, however, for a time it was practically synonymous. The attempt to limit the term to the meaning of a universally comparative combining weight failed, because of the possibility of several compounds of the substances by reason of the variation in combining power which most elements exhibit. The <xex>equivalent</xex> was really identical with, or a multiple of submultiple of, the atomic weight.</note></p>
 
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>A combining unit, whether an atom, a radical, or a molecule; <as>as, in acid salt two or more <ex>equivalents</ex> of acid unite with one or more <ex>equivalents</ex> of base</as>.</def></p>
 
-<p source="1913 Webster;;PJC"><cs><col>Mechanical equivalent of heat</col> <fld>(Physics)</fld>, <cd>originally defined as the number of units of work which the unit of heat can perform, equivalent to the mechanical energy which must be expended to raise the temperature of a pound of water one degree Fahrenheit; later this value was defined as one <altname>British thermal unit</altname> (B.t.u).  Its value was found by <persfn>Joule</persfn> to be 772 foot pounds; later measurements give the value as 777.65 foot-pounds, equivalent to 107.5 kg-meters.  This value was originally called <ecol>Joule's equivalent</ecol>, but the modern Joule is defined differently, being 10<exp>7</exp> ergs.  The B.t.u. is now given as 1,054.35 absolute Joules, and therefore 1 calorie (the amount of heat needed to raise one gram of water one degree centigrade) is <ex>equivalent</ex> to 4.186 Joules.</cd></cs></p>
-
-<p source="1913 Webster;;PJC"><note><hand/  The original definition of the Mechanical equivalent of heat in the 1913 Webster was as below.  The difference between foot pounds and kilogram-meters ("on the centigrade scale") is puzzling as it should be a factor of 7.23, and the figure given for kilogram-meters may be a mistaken misinterpretation of the report. -- PJC:<br/
-<br/
-   The number of units of work which the unit of heat can perform; the mechanical energy which must be expended to raise the temperature of a unit weight of water from 0<deg/ C. to 1<deg/ C., or from 32<deg/ F. to 33<deg/ F. The term was introduced by <person>Dr. Mayer</person> of Heilbronn. Its value was found by <persfn>Joule</persfn> to be 1390 foot pounds upon the Centigrade, or 772 foot pounds upon the Fahrenheit, thermometric scale, whence it is often called <altname>Joule's equivalent</altname>, and represented by the symbol J.  This is equal to 424 kilogram meters (Centigrade scale). A more recent determination by <person>Professor Rowland</person> gives the value 426.9 kilogram meters, for the latitude of Baltimore.</note></p>
+<p><cs><col>Mechanical equivalent of heat</col> <fld>(Physics)</fld>, <cd>the number of units of work which the unit of heat can perform. <extra source="Wikipedia">It is an outdated concept that had an important part in the development and acceptance of the conservation of energy and the establishment of the science of thermodynamics in the 19th century.</extra></cd></cs></p>
 </entry>
 
 <entry main-word="Equivalent" source="1913 Webster">
@@ -21114,16 +21114,12 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <syn><b>Syn. --</b> eucalyptus, eucalyptus tree, gum tree.</syn></p>
 </entry>
 
-<entry main-word="eucalyptol" source="1913 Webster;;PJC">
-<p><hw>eu`ca*lyp*tol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>eucalyptus</ets> + L. <ets>ol</ets>eum oil.]</ety> <fld>(Chem.)</fld> <def>A volatile, terpenelike oil (<chform>C10H18O</chform>), which is the main constituent of the oil of eucalyptus.  It has cockroach repellent activity and is used as a flavoring aid in pharmaceuticals.  Chemically it is <chname>1,3,3-trimethyl-2-oxabicyclo-[2,2,2]-octane</chname>.</def> <au>MI11</au><br/
-<syn><b>Syn. --</b> cineole, cajeputol.</syn></p>
-
-<p source="PJC"><note>  In the 1913 Webster eucalytpol was defined as an oil <ldquo/consisting largely of cymene<rdquo/.  Cymene (isopropyltoluene, <chform>C10H14</chform>) differs from that of the substance currently called <ex>eucalyptol</ex>, in having an unsaturated ring and no oxygen. Para-cymene does occur in eucalyptus oil as well as some other essential oils.</note></p>
+<entry main-word="Eucalyptol" source="1913 Webster;;Wiktionary">
+<p><hw>Eu`ca*lyp*tol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>eucalyptus</ets> + L. <ets>ol</ets>eum oil.]</ety> <fld>(Chem.)</fld> <def>A natural organic compound, obtained from eucalyptus oil, used in perfumery and in the production of pharmaceuticals etc. It appears colorless in liquid form at room temperature.</def></p>
 </entry>
 
 <entry main-word="Eucalyptus" source="1913 Webster">
-<p><par/<hw>Eu`ca*lyp"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>e'y^</grk> well, good + <?/ covered. The buds of Eucalyptus have a hemispherical or conical covering, which falls off at anthesis.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees, mostly Australian. Many of them grow to an immense height, one or two species exceeding the height even of the California Sequoia.</def><br/
-<syn><b>Syn. --</b> eucalyptus tree, gum tree, eucalypt.</syn></p>
+<p><par/<hw>Eu`ca*lyp"tus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>e'y^</grk> well, good + <?/ covered. The buds of Eucalyptus have a hemispherical or conical covering, which falls off at anthesis.]</ety> <fld>(Bot.)</fld> <def>A myrtaceous genus of trees, mostly Australian. Many of them grow to an immense height, one or two species exceeding the height even of the California Sequoia.</def></p>
 
 <p><note><hand/ They have rigid, entire leaves with one edge turned toward the zenith. Most of them secrete resinous gums, whence they called <altname>gum trees</altname>, and their timber is of great value. <spn>Eucalyptus Globulus</spn> is the blue gum; <spn>E. gigantea</spn>, the stringy bark: <spn>E. amygdalina</spn>, the peppermint tree. <spn>E. Gunnii</spn>, the Tasmanian cider tree, yields a refreshing drink from wounds made in the bark in the spring. Other species yield oils, tars, acids, dyes and tans. It is said that miasmatic valleys in Algeria and Portugal, and a part of the unhealthy Roman Campagna, have been made more salubrious by planting groves of these trees.</note></p>
 </entry>
@@ -21152,9 +21148,9 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 
 <p><q>Led through the vale of tears to the region of <qex>eucharist</qex> and hallelujahs.</q> <rj><qau>South.</qau></rj></p>
 
-<p source=""><sn>2.</sn> <fld>(Eccl.)</fld> <def>The sacrament of the Lord's Supper; the solemn act of ceremony of commemorating the death of Christ, in the use of bread and wine, as the appointed emblems; the communion.</def></p>
+<p><sn>2.</sn> <fld>(Eccl.)</fld> <def>The sacrament of the Lord's Supper; the solemn act of ceremony of commemorating the death of Christ, in the use of bread and wine, as the appointed emblems; the communion.</def></p>
 
-<p source=""> -- See <er>Sacrament</er>.</p>
+<p><syn><b>Syn.</b> -- See <er>Sacrament</er>.</syn></p>
 </entry>
 
 <entry main-word="Eucharistic" source="1913 Webster">
@@ -21173,7 +21169,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu*chlo"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>e'y`chlwro`s</grk> fresh and green; <grk>e'y^</grk> well + <grk>chlwro`s</grk> pale green.]</ety> <fld>(Chem.)</fld> <def>Relating to, or consisting of, euchlorine; <as>as, <ex>euchloric</ex> gas</as>.</def>  <rj><au>Davy.</au></rj> <mark>[archaic]</mark> </p>
 </entry>
 
-<entry main-word="Euchlorine" source="">
+<entry main-word="Euchlorine" source="1913 Webster">
 <p><hw>Eu*chlo"rine</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>euchlorine</ets>. See <er>Euchloric</er>.]</ety> <fld>(Chem.)</fld> <def>A yellow or greenish yellow gas, first prepared by Davy, evolved from potassium chlorate and hydrochloric acid. It is supposed to consist of chlorine tetroxide with some free chlorine.</def></p>
 </entry>
 
