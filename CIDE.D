@@ -3151,7 +3151,7 @@ Fought on the <qex>day</qex> of Crispin Crispianus.</q> <rj><qau>Shak.</qau></rj
 </entry>
 
 <entry main-word="Dayfly" source="1913 Webster">
-<p><hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def> <mark>[Outdated]</mark> <note source="PJC">Possibly referring to <xex>mayfly</xex>.</note></p>
+<p><hw>Day"fly`</hw> <pr>(d<amac/"fl<imac/`)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>A neuropterous insect of the genus <gen>Ephemera</gen> and related genera, of many species, and inhabiting fresh water in the larval state; the ephemeral fly; -- so called because it commonly lives but one day in the winged or adult state. See <cref>Ephemeral fly</cref>, under <er>Ephemeral</er>.</def> <mark>[Outdated]</mark> <extra source="PJC"><note>Possibly referring to <xex>mayfly</xex>.</note></extra></p>
 </entry>
 
 <entry main-word="Day-labor" source="1913 Webster">

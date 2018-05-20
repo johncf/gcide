@@ -1257,7 +1257,7 @@ The cloth that had wrought.</q> <rj><qau>Percy's Reliques.</qau></rj></p>
 </entry>
 
 <entry main-word="Walk-over" source="1913 Webster">
-<p><hw>Walk"-o`ver</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In racing, the going over a course by a horse which has no competitor for the prize;</def> <specif>hence, colloquially,</specif> <def>a one-sided contest; an uncontested, or an easy, victory.</def>
+<p><hw>Walk"-o`ver</hw> <pr>(?)</pr>, <pos>n.</pos> <def>In racing, the going over a course by a horse which has no competitor for the prize;</def> <specif>hence, colloquially,</specif> <def>a one-sided contest; an uncontested, or an easy, victory.</def></p>
 </entry>
 
 <entry main-word="Walkyr" source="1913 Webster">

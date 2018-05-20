@@ -12622,7 +12622,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 </entry>
 
 <entry main-word="Reichstag" source="1913 Webster">
-<p><par/<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people.</def> <mark>[Outdated]</mark> <extra source="PJC"><note>See also <er>Bundesrath</er>.</note></extra></def></p>
+<p><par/<hw>Reichs"tag`</hw> <pr>(r?ks"t?g`)</pr>, <pos>n.</pos> <ety>[G.]</ety> <sn>1.</sn> <def>The Diet, or House of Representatives, of the German empire (and of the Weimar Republic), which was composed of members elected for a term of three years by the direct vote of the people.</def> <mark>[Outdated]</mark> <extra source="PJC"><note>See also <er>Bundesrath</er>.</note></extra></p>
 
 <p source="PJC;;Webster 1913 Suppl."><sn>2.</sn> <def>The national representative body of Hungary, consisting of a House of Magnates (including archdukes, peers, high officials of the Roman Catholic, Greek, and Protestant Churches, and certain other dignitaries) and a House of Representatives (in 1912 consisting of 453 members). See <er>Legislative</er>, <er>Diet</er>.</def> <mark>[Outdated]</mark></p>
 </entry>

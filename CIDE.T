@@ -518,7 +518,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Tabulata" source="1913 Webster">
-<p><par/<hw>Tab`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tabulatus</ets> floored.]</ety> <fld>(Zool.)</fld> <def>An artificial group of stony corals including those which have transverse septa in the calicles. The genera <gen>Pocillopora</gen> and <gen>Favosites</gen> are examples.</def>
+<p><par/<hw>Tab`u*la"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. L. <ets>tabulatus</ets> floored.]</ety> <fld>(Zool.)</fld> <def>An artificial group of stony corals including those which have transverse septa in the calicles. The genera <gen>Pocillopora</gen> and <gen>Favosites</gen> are examples.</def></p>
 </entry>
 
 <entry main-word="Tabulate" source="1913 Webster">
