@@ -9338,7 +9338,7 @@ You must divine and human rights remove.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Inch" source="1913 Webster">
 <p><hw>Inch</hw>, <pos>n.</pos> <ety>[OE. <ets>inche</ets>, <ets>unche</ets>, AS. <ets>ynce</ets>, L. <ets>uncia</ets> the twelfth part, inch, ounce. See <er>Ounce</er> a weight.]</ety></p>
 
-<p><sn>1.</sn> <def>A measure of length, the twelfth part of a foot, commonly subdivided into halves, quarters, eights, sixteenths, etc., as among mechanics. It was also formerly divided into twelve parts, called <xex>lines</xex>, and originally into three parts, called <xex>barleycorns</xex>, its length supposed to have been determined from three grains of barley placed end to end lengthwise. <rev source="JCF">It is sometimes denoted by a double prime (<dprime/); <as>as, 6<prime/ 3<dprime/ denoting 6 feet 3 inches</as>.</rev></def></p>
+<p source="1913 Webster;;JCF"><sn>1.</sn> <def>A measure of length, the twelfth part of a foot, commonly subdivided into halves, quarters, eights, sixteenths, etc., as among mechanics. It was also formerly divided into twelve parts, called <xex>lines</xex>, and originally into three parts, called <xex>barleycorns</xex>, its length supposed to have been determined from three grains of barley placed end to end lengthwise. It is sometimes denoted by a double prime (<dprime/); <as>as, 6<prime/ 3<dprime/ denoting 6 feet 3 inches</as>.</def></p>
 
 <p><note><hand/ The meter, the accepted scientific standard of length, equals 39.37 inches; the inch is equal to 2.54 centimeters. See <er>Metric system</er>, and <er>Meter</er>.</note></p>
 

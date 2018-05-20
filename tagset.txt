@@ -677,12 +677,6 @@ Tag           Font         Meaning and Description
                            headword, within quotations marked by <q>..</q>
                            tags.
 
-<rev>         *            Revision made to the original to possibly make it
-                           more up to date. This tag always contains a "source"
-                           attribute (same as that for <extra>), and usually
-                           contains an "original" attribute to indicate the
-                           content that got replaced.
-
 <sd>          italic       Subdefinition, marked (a), (b), (c), etc.  These
                            are finer distinctions of word senses, used
                            within numbered word-sense (for main entries),

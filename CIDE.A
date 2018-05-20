@@ -10432,7 +10432,7 @@ With titles blown from <qex>adulation</qex>?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Adust" source="1913 Webster">
-<p><hw>A*dust"</hw> <pr>(<acr/*d<ucr/st")</pr>, <pos>a.</pos> <ety>[L. <ets>adustus</ets>, p. p. of <ets>adurere</ets>: cf. F. <ets>aduste</ets>.]</ety> <sn>1.</sn> <def>Inflamed or scorched; <rev source="AS" original="fiery">dried or darkened by heat</rev>.</def> <ldquo/The Libyan air <xex>adust</xex>.<rdquo/ <rj><au>Milton.</au></rj></p>
+<p><hw>A*dust"</hw> <pr>(<acr/*d<ucr/st")</pr>, <pos>a.</pos> <ety>[L. <ets>adustus</ets>, p. p. of <ets>adurere</ets>: cf. F. <ets>aduste</ets>.]</ety> <sn>1.</sn> <def>Inflamed or scorched; <extra source="AS">dried or darkened by heat;</extra> fiery.</def> <ldquo/The Libyan air <xex>adust</xex>.<rdquo/ <rj><au>Milton.</au></rj></p>
 
 <p><sn>2.</sn> <def>Looking as if burnt or scorched; sunburnt.</def> <mark>[archaic]</mark></p>
 
@@ -10671,7 +10671,7 @@ With titles blown from <qex>adulation</qex>?</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>Accidentally or sparingly spontaneous in a country or district; not fully naturalized; adventive; -- applied to foreign plants.</def></p>
 
-<p><sn>4.</sn> <fld>(Med.)</fld> <def>Acquired, as diseases; <rev source="AS" original="accidental">not hereditary</rev>.</def></p>
+<p><sn>4.</sn> <fld>(Med.)</fld> <def>Acquired, as diseases; <extra source="AS">not hereditary;</extra> accidental.</def></p>
 
 <p>-- <wordforms><wf>Ad`ven*ti"tious*ly</wf>, <pos>adv.</pos> -- <wf>Ad`ven*ti"tious*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
@@ -18760,7 +18760,7 @@ I <qex>sh</qex>ope me in <qex>sh</qex>roudes as I a <qex>sh</qex>epe were.</q> <
 </entry>
 
 <entry main-word="Allotriophagy" source="1913 Webster">
-<p><hw>Al`lo*tri*oph"a*gy</hw> <pr>(<acr/l`l<osl/*tr<icr/*<ocr/f"<adot/*j<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'allo`trios</grk> strange + <grk>fagei^n</grk> to eat: cf. F. <ets>allotriophagie</ets>.]</ety> <fld>(Med.)</fld> <def>A depraved appetite; a desire for <rev source="AS" original="improper food.">non-edible food, such as clay or sand. Called also <altname>pica</altname>.</rev></def></p>
+<p><hw>Al`lo*tri*oph"a*gy</hw> <pr>(<acr/l`l<osl/*tr<icr/*<ocr/f"<adot/*j<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'allo`trios</grk> strange + <grk>fagei^n</grk> to eat: cf. F. <ets>allotriophagie</ets>.]</ety> <fld>(Med.)</fld> <def>A depraved appetite; a desire for improper food, <extra source="AS">such as clay or sand. Called also <altname>pica</altname>.</extra></def></p>
 </entry>
 
 <entry main-word="Allotrophic" source="Webster 1913 Suppl.">
@@ -27366,7 +27366,7 @@ And all her various objects of delight<br/
 </entry>
 
 <entry main-word="Anodyne" source="1913 Webster">
-<p><hw>An"o*dyne</hw> <pr>(<acr/n"<osl/*d<imac/n)</pr>, <pos>a.</pos> <ety>[L. <ets>anodynus</ets>, Gr. <?/ free from pain, stilling pain; <grk>'an</grk> priv. + <?/ pain: cf. F. <ets>anodin</ets>.]</ety> <def>Serving to assuage pain; soothing.</def></p>
+<p><hw>An"o*dyne</hw> <pr>(<acr/n"<osl/*d<imac/n)</pr>, <pos>a.</pos> <ety>[L. <ets>anodynus</ets>, Gr. <?/ free from pain, stilling pain; <grk>'an</grk> priv. + <?/ pain: cf. F. <ets>anodin</ets>.]</ety> <def>Serving to assuage pain; soothing. <extra source="JCF">Also see <er>Analgesic</er>.</extra></def></p>
 
 <p><q>The <qex>anodyne</qex> draught of oblivion.</q> <rj><qau>Burke.</qau></rj></p>
 
@@ -27972,7 +27972,7 @@ Britons must take.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Antalgic" source="1913 Webster">
-<p><hw>An*tal"gic</hw> <pr>(<acr/n*t<acr/l"j<icr/k)</pr>, <pos>a.</pos> <ety>[Pref. <ets>anti-</ets> + Gr. <grk>'a`lgos</grk> pain: cf. F. <ets>antalgique</ets>.]</ety> <fld>(Med.)</fld> <def>Alleviating pain.</def> -- <def2><pos>n.</pos> <def>A medicine to alleviate pain; an <rev source="AS" original="anodyne">analgesic</rev>.</def> <mark>[R.]</mark></def2></p>
+<p><hw>An*tal"gic</hw> <pr>(<acr/n*t<acr/l"j<icr/k)</pr>, <pos>a.</pos> <ety>[Pref. <ets>anti-</ets> + Gr. <grk>'a`lgos</grk> pain: cf. F. <ets>antalgique</ets>.]</ety> <fld>(Med.)</fld> <def>Alleviating pain.</def> -- <def2><pos>n.</pos> <def>A medicine to alleviate pain; an anodyne.</def> <mark>[R.]</mark></def2></p>
 </entry>
 
 <entry main-word="Antalkali" source="1913 Webster">
