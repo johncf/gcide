@@ -536,17 +536,11 @@ Tag           Font         Meaning and Description
 <ex>          italic       Example.  An example of usage of the headword,
                            usually found within an <as> or <note> segment.
 
-<extra>       *            Extra content that has been added to the original
-                           to possibly make it more up to date. This tag
-                           always contains a "source" attribute which
+<extra>       *            Inline extra content that has been added to the
+                           original to possibly make it more up to date. This
+                           tag always contains a "source" attribute which
                            indicates the name of the source, usually the
                            initials of the person who made the change.
-
-<fr>          *            Frequency of use, ordinal rank.  This is used for
-                           WordNet entries, in which the synonyms were
-                           ranked in order of frequency of use.  <fr>1</fr>
-                           indicates that the headword is the first word on
-                           the list of synonyms.
 
 <fu>          *            First use.  A date at or around which the first
                            use of this word in writing is recorded.  Not in

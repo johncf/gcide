@@ -17437,7 +17437,7 @@ Descends the <qex>billowy</qex> foam.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
 <entry main-word="bioassay" source="WordNet 1.5">
-<p><hw>bioassay</hw> <pos>v.</pos> <fr>1</fr> <def>to subject to a bio-assay.</def><br/
+<p><hw>bioassay</hw> <pos>v.</pos> <def>to subject to a bio-assay.</def><br/
 <syn><b>Syn. --</b> bio-assay.</syn></p>
 </entry>
 

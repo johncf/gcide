@@ -4429,7 +4429,7 @@ That were not born to die.</q> <rj><qau>Halleck.</qau></rj></p>
 </entry>
 
 <entry main-word="immunized" source="WordNet 1.5">
-<p><hw>immunized</hw> <pos>adj.</pos> <sn>1.</sn> <fr>1</fr> <fld>(Med.)</fld>  <def>rendered less susceptible (to disease) by treatment with a vaccine.</def><br/
+<p><hw>immunized</hw> <pos>adj.</pos> <sn>1.</sn> <fld>(Med.)</fld>  <def>rendered less susceptible (to disease) by treatment with a vaccine.</def><br/
 <syn><b>Syn. --</b> vaccinated.</syn></p>
 
 <p source="PJC"><sn>2.</sn> <def>rendered insusceptible.</def></p>

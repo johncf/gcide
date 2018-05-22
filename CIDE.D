@@ -5042,7 +5042,7 @@ The listless hour.</q> <rj><qau>Wordsworth.</qau></rj></p>
 </entry>
 
 <entry main-word="decelerate" source="WordNet 1.5">
-<p><hw>decelerate</hw> <pos>v. i.</pos> <sn>1.</sn> <fr>1</fr> <def>to reduce speed; <as>as, The car <ex>decelerated</ex></as>.  Opposite of <ant>accelerate</ant>.</def><br/
+<p><hw>decelerate</hw> <pos>v. i.</pos> <sn>1.</sn> <def>to reduce speed; <as>as, The car <ex>decelerated</ex></as>.  Opposite of <ant>accelerate</ant>.</def><br/
 <syn><b>Syn. --</b> slow, slow down, slow up, retard.</syn></p>
 </entry>
 

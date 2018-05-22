@@ -10390,7 +10390,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="re-equip" source="WordNet 1.5">
-<p><mhw><hw>reequip</hw>, <hw>re-equip</hw></mhw> <pos>v. t.</pos> <sn>1.</sn> <fr>1</fr> <def>to furnish with new equipment.  Forms with and without the hyphen are common.</def><br/
+<p><mhw><hw>reequip</hw>, <hw>re-equip</hw></mhw> <pos>v. t.</pos> <sn>1.</sn> <def>to furnish with new equipment.  Forms with and without the hyphen are common.</def><br/
 <syn><b>Syn. --</b> rejig.</syn></p>
 </entry>
 
