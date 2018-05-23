@@ -20132,7 +20132,7 @@ As ever in the Muses' garden <qex>bladed</qex>.</q> <rj><qau>P. Fletcher.</qau><
 </entry>
 
 <entry main-word="Blame" source="1913 Webster">
-<p><hw>Blame</hw> <pr>(bl<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blamed</conjf> <pr>(bl<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blaming</conjf>.]</vmorph> <ety>[OE. <ets>blamen</ets>, F. <ets>bl<acirc/mer</ets>, OF. <ets>blasmer</ets>, fr. L. <ets>blasphemare</ets> to blaspheme, LL. also to blame, fr. Gr. <grk>blasfhmei^n</grk> to speak ill, to slander, to blaspheme, fr. <grk>bla`sfhmos</grk> evil speaking, perh, for <grk>blapsi`fhmos</grk>; <grk>bla`psis</grk> injury (fr. <grk>bla`ptein</grk> to injure) + <grk>fh`mh</grk> a saying, fr. <grk>fa`nai</grk> to say. Cf. <er>Blaspheme</er>, and see <er>Fame</er>.]</ety></p>
+<p><hw>Blame</hw> <pr>(bl<amac/m)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Blamed</conjf> <pr>(bl<amac/md)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Blaming</conjf>.]</vmorph> <ety>[OE. <ets>blamen</ets>, F. <ets>bl<acirc/mer</ets>, OF. <ets>blasmer</ets>, fr. L. <ets>blasphemare</ets> to blaspheme, LL. also to blame, fr. Gr. <grk>blasfhmei^n</grk> to speak ill, to slander, to blaspheme, fr. <grk>bla`sfhmos</grk> evil speaking, perh, for <grk>blaji`fhmos</grk>; <grk>bla`jis</grk> injury (fr. <grk>bla`ptein</grk> to injure) + <grk>fh`mh</grk> a saying, fr. <grk>fa`nai</grk> to say. Cf. <er>Blaspheme</er>, and see <er>Fame</er>.]</ety></p>
 
 <p><sn>1.</sn> <def>To censure; to express disapprobation of; to find fault with; to reproach.</def></p>
 

@@ -29631,7 +29631,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Ipomoea" source="1913 Webster">
-<p><par/<hw>Ip`o*m<oe/"a</hw> <pr>(<icr/p`<osl/*m<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL. <ldquo/Named, according to Linn<ae/us, from Gr. <grk>'i`ps</grk>, <grk>'ipo`s</grk>, a bindweed [which it is not], and <grk>"o`moios</grk> like.<rdquo/ <au>Gray.</au>]</ety> <fld>(Bot.)</fld> <def>A genus of twining plants with showy monopetalous flowers, including the morning-glory, the sweet potato, and the cypress vine.</def></p>
+<p><par/<hw>Ip`o*m<oe/"a</hw> <pr>(<icr/p`<osl/*m<emac/"<adot/)</pr>, <pos>prop. n.</pos> <ety>[NL. <ldquo/Named, according to Linn<ae/us, from Gr. <grk>'i`j</grk>, <grk>'ipo`s</grk>, a bindweed [which it is not], and <grk>"o`moios</grk> like.<rdquo/ <au>Gray.</au>]</ety> <fld>(Bot.)</fld> <def>A genus of twining plants with showy monopetalous flowers, including the morning-glory, the sweet potato, and the cypress vine.</def></p>
 </entry>
 
 <entry main-word="Ipomoeic" source="1913 Webster">

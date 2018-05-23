@@ -10515,11 +10515,11 @@ It's fitter being sane <qex>than</qex> mad.</q> <rj><qau>R. Browning.</qau></rj>
 </entry>
 
 <entry main-word="thanatopsis" source="1913 Webster">
-<p><hw>than`a*top"sis</hw> <pr>(th<acr/n`<adot/*t<ocr/p"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>qa`natos</grk> death + <grk>'o`psis</grk> view.]</ety>  <def>A view of death; a meditation on the subject of death.</def>  <rj><au>Bryant.</au></rj></p>
+<p><hw>than`a*top"sis</hw> <pr>(th<acr/n`<adot/*t<ocr/p"s<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>qa`natos</grk> death + <grk>'o`jis</grk> view.]</ety>  <def>A view of death; a meditation on the subject of death.</def>  <rj><au>Bryant.</au></rj></p>
 </entry>
 
 <entry main-word="Thanatopsis" source="PJC">
-<p><hw>Than`a*top"sis</hw> <pr>(th<acr/n`<adot/*t<ocr/p"s<icr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>qa`natos</grk> death + <grk>'o`psis</grk> view.]</ety>  <def>The title of a poem by <person>William Cullen Bryant</person> (1794-1878), meditating on the subject of death.  One of Bryant's best-remembered poems, it was written in 1811 and was discovered and rushed to publication in 1817 (in the <it>North American Review</it>) by <persfn>Bryant's</persfn> father, originally without the poet's knowledge.  A revised version was published in 1821.  In this elegy <persfn>Bryant</persfn> reflects that death comes to all men, common and great, and that all eventually shall rest together in the "mighty sepulchre" of the earth.</def></p>
+<p><hw>Than`a*top"sis</hw> <pr>(th<acr/n`<adot/*t<ocr/p"s<icr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>qa`natos</grk> death + <grk>'o`jis</grk> view.]</ety>  <def>The title of a poem by <person>William Cullen Bryant</person> (1794-1878), meditating on the subject of death.  One of Bryant's best-remembered poems, it was written in 1811 and was discovered and rushed to publication in 1817 (in the <it>North American Review</it>) by <persfn>Bryant's</persfn> father, originally without the poet's knowledge.  A revised version was published in 1821.  In this elegy <persfn>Bryant</persfn> reflects that death comes to all men, common and great, and that all eventually shall rest together in the "mighty sepulchre" of the earth.</def></p>
 
 <p><note>The text of the poem is as follows:<br/
 <br/

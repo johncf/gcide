@@ -1956,7 +1956,7 @@ Is <qex>echoed</qex> on forever.</q> <rj><qau>Keble.</qau></rj></p>
 </entry>
 
 <entry main-word="Eclipse" source="1913 Webster">
-<p><hw>E*clipse"</hw> <pr>(<esl/*kl<icr/ps")</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/clipse</ets>, L. <ets>eclipsis</ets>, fr. Gr. <grk>'e`kleipsis</grk>, prop., a forsaking, failing, fr. <grk>'eklei`pein</grk> to leave out, forsake; <grk>'ek</grk> out + <grk>lei`pein</grk> to leave. See <er>Ex-</er>, and <er>Loan</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>An interception or obscuration of the light of the sun, moon, or other luminous body, by the intervention of some other body, either between it and the eye, or between the luminous body and that illuminated by it. A lunar eclipse is caused by the moon passing through the earth's shadow; a solar eclipse, by the moon coming between the sun and the observer. A satellite is eclipsed by entering the shadow of its primary. The obscuration of a planet or star by the moon or a planet, though of the nature of an eclipse, is called an <stype>occultation</stype>. The eclipse of a small portion of the sun by Mercury or Venus is called a <stype>transit</stype> of the planet.</def></p>
+<p><hw>E*clipse"</hw> <pr>(<esl/*kl<icr/ps")</pr>, <pos>n.</pos> <ety>[F. <ets><eacute/clipse</ets>, L. <ets>eclipsis</ets>, fr. Gr. <grk>'e`kleijis</grk>, prop., a forsaking, failing, fr. <grk>'eklei`pein</grk> to leave out, forsake; <grk>'ek</grk> out + <grk>lei`pein</grk> to leave. See <er>Ex-</er>, and <er>Loan</er>.]</ety> <sn>1.</sn> <fld>(Astron.)</fld> <def>An interception or obscuration of the light of the sun, moon, or other luminous body, by the intervention of some other body, either between it and the eye, or between the luminous body and that illuminated by it. A lunar eclipse is caused by the moon passing through the earth's shadow; a solar eclipse, by the moon coming between the sun and the observer. A satellite is eclipsed by entering the shadow of its primary. The obscuration of a planet or star by the moon or a planet, though of the nature of an eclipse, is called an <stype>occultation</stype>. The eclipse of a small portion of the sun by Mercury or Venus is called a <stype>transit</stype> of the planet.</def></p>
 
 <p><note><hand/ In ancient times, eclipses were, and among unenlightened people they still are, superstitiously regarded as forerunners of evil fortune, a sentiment of which occasional use is made in literature.</note></p>
 
@@ -6617,7 +6617,7 @@ Through provinces of thought yet unexplored.</q> <rj><qau>Young.</qau></rj></p>
 </entry>
 
 <entry main-word="Ellipse" source="1913 Webster">
-<p><hw>El*lipse"</hw> <pr>(<ecr/l*l<icr/ps")</pr>, <pos>n.</pos> <ety>[Gr. <grk>'e`lleipsis</grk>, prop., a defect, the inclination of the ellipse to the base of the cone being in defect when compared with that of the side to the base: cf. F. <ets>ellipse</ets>. See <er>Ellipsis</er>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>An oval or oblong figure, bounded by a regular curve, which corresponds to an oblique projection of a circle, or an oblique section of a cone through its opposite sides. The greatest diameter of the ellipse is the major axis, and the least diameter is the minor axis. See <cref>Conic section</cref>, under <er>Conic</er>, and cf. <er>Focus</er>.</def></p>
+<p><hw>El*lipse"</hw> <pr>(<ecr/l*l<icr/ps")</pr>, <pos>n.</pos> <ety>[Gr. <grk>'e`lleijis</grk>, prop., a defect, the inclination of the ellipse to the base of the cone being in defect when compared with that of the side to the base: cf. F. <ets>ellipse</ets>. See <er>Ellipsis</er>.]</ety> <sn>1.</sn> <fld>(Geom.)</fld> <def>An oval or oblong figure, bounded by a regular curve, which corresponds to an oblique projection of a circle, or an oblique section of a cone through its opposite sides. The greatest diameter of the ellipse is the major axis, and the least diameter is the minor axis. See <cref>Conic section</cref>, under <er>Conic</er>, and cf. <er>Focus</er>.</def></p>
 
 <p><sn>2.</sn> <fld>(Gram.)</fld> <def>Omission. See <er>Ellipsis</er>.</def></p>
 
@@ -6628,7 +6628,7 @@ The dark Earth follows wheeled in her <qex>ellipse</qex>.</q> <rj><qau>Tennyson.
 </entry>
 
 <entry main-word="Ellipsis" source="1913 Webster">
-<p><hw>El*lip"sis</hw> <pr>(<ecr/l*l<icr/p"s<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ellipses</plw> <pr>(<ecr/l*l<icr/p"s<emac/z)</pr>.</plu> <ety>[L., fr. Gr. <grk>'e`lleipsis</grk> a leaving, defect, fr. <grk>'ellei`pein</grk> to leave in, fall short; <grk>'en</grk> in + <grk>lei`pein</grk> to leave. See <er>In</er>, and <er>Loan</er>, and cf. <er>Ellipse</er>.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Omission; a figure of syntax, by which one or more words, which are obviously understood, are omitted; <as>as, the virtues I admire, for, the virtues <ex>which</ex> I admire</as>.</def></p>
+<p><hw>El*lip"sis</hw> <pr>(<ecr/l*l<icr/p"s<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ellipses</plw> <pr>(<ecr/l*l<icr/p"s<emac/z)</pr>.</plu> <ety>[L., fr. Gr. <grk>'e`lleijis</grk> a leaving, defect, fr. <grk>'ellei`pein</grk> to leave in, fall short; <grk>'en</grk> in + <grk>lei`pein</grk> to leave. See <er>In</er>, and <er>Loan</er>, and cf. <er>Ellipse</er>.]</ety> <sn>1.</sn> <fld>(Gram.)</fld> <def>Omission; a figure of syntax, by which one or more words, which are obviously understood, are omitted; <as>as, the virtues I admire, for, the virtues <ex>which</ex> I admire</as>.</def></p>
 
 <p><sn>2.</sn> <fld>(Geom.)</fld> <def>An ellipse.</def> <mark>[Obs.]</mark></p>
 
@@ -8772,7 +8772,7 @@ His fatal arrows.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Emmetropia" source="1913 Webster">
-<p><par/<hw>Em`me*tro"pi*a</hw> <pr>(<ecr/m"m<esl/*tr<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`mmetros</grk> in measure, proportioned, suitable (<grk>'en</grk> in + <grk>me`tron</grk> measure) + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, eye.]</ety> <fld>(Med.)</fld> <def>That refractive condition of the eye in which the rays of light are all brought accurately and without undue effort to a focus upon the retina; -- opposed to <contr>hypermetropia</contr>, <contr>myopia</contr>, and <contr>astigmatism</contr>.</def></p>
+<p><par/<hw>Em`me*tro"pi*a</hw> <pr>(<ecr/m"m<esl/*tr<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`mmetros</grk> in measure, proportioned, suitable (<grk>'en</grk> in + <grk>me`tron</grk> measure) + <grk>'w`j</grk>, <grk>'wpo`s</grk>, eye.]</ety> <fld>(Med.)</fld> <def>That refractive condition of the eye in which the rays of light are all brought accurately and without undue effort to a focus upon the retina; -- opposed to <contr>hypermetropia</contr>, <contr>myopia</contr>, and <contr>astigmatism</contr>.</def></p>
 </entry>
 
 <entry main-word="Emmetropic" source="1913 Webster">

@@ -14648,13 +14648,13 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj></p>
 </entry>
 
 <entry main-word="Megalops" source="1913 Webster">
-<p><hw>Meg"a*lops</hw> <pr>(m<ecr/g"<adot/*l<ocr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`gas</grk>, <grk>-a`loy</grk>, large + <grk>'w`ps</grk> eye.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>A larva, in a stage following the zoea, in the development of most crabs. In this stage the legs and abdominal appendages have appeared, the abdomen is relatively long, and the eyes are large. Also used adjectively.</def></p>
+<p><hw>Meg"a*lops</hw> <pr>(m<ecr/g"<adot/*l<ocr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>me`gas</grk>, <grk>-a`loy</grk>, large + <grk>'w`j</grk> eye.]</ety> <fld>(Zool.)</fld> <sn>1.</sn> <def>A larva, in a stage following the zoea, in the development of most crabs. In this stage the legs and abdominal appendages have appeared, the abdomen is relatively long, and the eyes are large. Also used adjectively.</def></p>
 
 <p><sn>2.</sn> <def>A large fish; the tarpum.</def></p>
 </entry>
 
 <entry main-word="megalopsychy" source="1913 Webster">
-<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>psychh`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
+<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>jychh`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
 </entry>
 
 <entry main-word="Megalosaur" source="1913 Webster">
@@ -17293,7 +17293,7 @@ Canonized, and worshiped as a saint.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Meropidan" source="1913 Webster">
-<p><hw>Me*rop"i*dan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>merops</ets> a bee-eating bird, Gr. <grk>me`rops</grk>.]</ety> <fld>(Zool.)</fld> <def>One of a family of birds (<fam>Meropidae</fam>), including the bee-eaters.</def></p>
+<p><hw>Me*rop"i*dan</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>merops</ets> a bee-eating bird, Gr. <grk>me`roj</grk>.]</ety> <fld>(Zool.)</fld> <def>One of a family of birds (<fam>Meropidae</fam>), including the bee-eaters.</def></p>
 </entry>
 
 <entry main-word="Meropodite" source="1913 Webster">

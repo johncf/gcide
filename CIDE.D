@@ -42494,7 +42494,7 @@ With hatefullest disrelish writhed their jaws.</q> <rj><qau>Milton.</qau></rj></
 </entry>
 
 <entry main-word="Dryobalanops" source="1913 Webster">
-<p><par/<hw>Dry`o*bal"a*nops</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dry^s</grk> oak + <grk>ba`lanos</grk> acorn + <grk>'o`psis</grk> appearance. The fruit remotely resembles an acorn in its cup.]</ety> <fld>(Bot.)</fld> <def>The genus to which belongs the single species <spn>Dryobalanops Camphora</spn>, a lofty resinous tree of Borneo and Sumatra, yielding Borneo camphor and camphor oil.</def></p>
+<p><par/<hw>Dry`o*bal"a*nops</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>dry^s</grk> oak + <grk>ba`lanos</grk> acorn + <grk>'o`jis</grk> appearance. The fruit remotely resembles an acorn in its cup.]</ety> <fld>(Bot.)</fld> <def>The genus to which belongs the single species <spn>Dryobalanops Camphora</spn>, a lofty resinous tree of Borneo and Sumatra, yielding Borneo camphor and camphor oil.</def></p>
 </entry>
 
 <entry main-word="drypis" source="WordNet 1.5">

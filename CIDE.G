@@ -22596,7 +22596,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 </entry>
 
 <entry main-word="Gyp" source="1913 Webster">
-<p><hw>Gyp</hw> <pr>(j<icr/p)</pr>, <pos>n.</pos> <ety>[Said to be a sportive application of Gr. <grk>gy`ps</grk> a vulture.]</ety> <def>A college servant; -- so called in Cambridge, England; at Oxford called a <altname>scout</altname>.</def> <mark>[Cant]</mark></p>
+<p><hw>Gyp</hw> <pr>(j<icr/p)</pr>, <pos>n.</pos> <ety>[Said to be a sportive application of Gr. <grk>gy`j</grk> a vulture.]</ety> <def>A college servant; -- so called in Cambridge, England; at Oxford called a <altname>scout</altname>.</def> <mark>[Cant]</mark></p>
 </entry>
 
 <entry main-word="Gypse" source="1913 Webster">
@@ -22628,7 +22628,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 </entry>
 
 <entry main-word="Gypsum" source="1913 Webster">
-<p><hw>Gyp"sum</hw> <pr>(j<icr/p"s<ucr/m)</pr>, <pos>n.</pos> <ety>[L. <ets>gypsum</ets>, Gr. <grk>gy`psos</grk>; cf.  Ar. <ets>jibs</ets> plaster, mortar, Per. <ets>jabs<imac/n</ets> lime.]</ety> <fld>(Min.)</fld> <def>A mineral consisting of the hydrous sulphate of lime (calcium). When calcined, it forms plaster of Paris.  <stype>Selenite</stype> is a transparent, crystalline variety; <stype>alabaster</stype>, a fine, white, massive variety.</def></p>
+<p><hw>Gyp"sum</hw> <pr>(j<icr/p"s<ucr/m)</pr>, <pos>n.</pos> <ety>[L. <ets>gypsum</ets>, Gr. <grk>gy`jos</grk>; cf.  Ar. <ets>jibs</ets> plaster, mortar, Per. <ets>jabs<imac/n</ets> lime.]</ety> <fld>(Min.)</fld> <def>A mineral consisting of the hydrous sulphate of lime (calcium). When calcined, it forms plaster of Paris.  <stype>Selenite</stype> is a transparent, crystalline variety; <stype>alabaster</stype>, a fine, white, massive variety.</def></p>
 </entry>
 
 <entry main-word="Gypsy" source="1913 Webster">

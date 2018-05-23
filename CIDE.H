@@ -25934,7 +25934,7 @@ Their tuneful harps.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Hyperopia" source="1913 Webster">
-<p><par/<hw>Hy`per*o"pi*a</hw> <pr>(h<imac/`p<etil/r*<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>'w`ps</grk>, <grk>'wpo`s</grk>, the eye.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- called also <altname>hypermetropia</altname>.  Cf. <er>Emmetropia</er>.</def>  -- <wordforms><wf>Hy`per*op"tic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
+<p><par/<hw>Hy`per*o"pi*a</hw> <pr>(h<imac/`p<etil/r*<omac/"p<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ype`r</grk> over + <grk>'w`j</grk>, <grk>'wpo`s</grk>, the eye.]</ety> <def>An abnormal condition of the eye in which, through shortness of the eyeball or fault of the refractive media, the rays of light come to a focus behind the retina, making vision for distant objects better than for near objects; farsightedness; -- called also <altname>hypermetropia</altname>.  Cf. <er>Emmetropia</er>.</def>  -- <wordforms><wf>Hy`per*op"tic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms><br/
 <syn><b>Syn. --</b> hypermetropia, farsightedness, longsightedness.</syn></p>
 </entry>
 

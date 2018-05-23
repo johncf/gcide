@@ -1635,7 +1635,7 @@ And takes new valor from his <qex>lady's</qex> eyes.</q> <rj><qau>Waller.</qau><
 </entry>
 
 <entry main-word="Laelaps" source="1913 Webster">
-<p><par/<hw>L<ae/"laps</hw> <pr>(l<emac/"l<acr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lai^laps</grk> a dark, furious storm.]</ety> <fld>(Paleon.)</fld> <def>A genus of huge, carnivorous, dinosaurian reptiles from the Cretaceous formation of the United States.  They had very large hind legs and tail, and are supposed to have been bipedal.  Some of the species were about eighteen feet high.</def></p>
+<p><par/<hw>L<ae/"laps</hw> <pr>(l<emac/"l<acr/ps)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>lai^laj</grk> a dark, furious storm.]</ety> <fld>(Paleon.)</fld> <def>A genus of huge, carnivorous, dinosaurian reptiles from the Cretaceous formation of the United States.  They had very large hind legs and tail, and are supposed to have been bipedal.  Some of the species were about eighteen feet high.</def></p>
 </entry>
 
 <entry main-word="Laemmergeyer" source="1913 Webster">

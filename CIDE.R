@@ -23360,7 +23360,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rhapsode" source="1913 Webster">
-<p><hw>Rhap"sode</hw> <pr>(r<acr/p"s<omac/d)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"rapsw,do`s</grk>.  See <er>Rhapsody</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>A rhapsodist.</def> <mark>[R.]</mark>  <rj><au>Grote.</au></rj></p>
+<p><hw>Rhap"sode</hw> <pr>(r<acr/p"s<omac/d)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"rajw,do`s</grk>.  See <er>Rhapsody</er>.]</ety> <fld>(Gr. Antiq.)</fld> <def>A rhapsodist.</def> <mark>[R.]</mark>  <rj><au>Grote.</au></rj></p>
 </entry>
 
 <entry main-word="Rhapsoder" source="1913 Webster">
@@ -23368,7 +23368,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rhapsodic" source="1913 Webster">
-<p><mhw>{ <hw>Rhap*sod"ic</hw> <pr>(?)</pr>, <hw>Rhap*sod"ic</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[Gr. <grk>"rapsw,diko`s</grk>: cf. F. <ets>rhapsodique</ets>.]</ety> <def>Of or pertaining to rhapsody; consisting of rhapsody; hence, confused; unconnected.</def> -- <wordforms><wf>Rhap*sod"ic*al*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><mhw>{ <hw>Rhap*sod"ic</hw> <pr>(?)</pr>, <hw>Rhap*sod"ic</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <ety>[Gr. <grk>"rajw,diko`s</grk>: cf. F. <ets>rhapsodique</ets>.]</ety> <def>Of or pertaining to rhapsody; consisting of rhapsody; hence, confused; unconnected.</def> -- <wordforms><wf>Rhap*sod"ic*al*ly</wf>, <pos>adv.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Rhapsodist" source="1913 Webster">
@@ -23394,7 +23394,7 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rhapsody" source="1913 Webster">
-<p><hw>Rhap"so*dy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhapsodies</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>rhapsodie</ets>, L.  <ets>rhapsodia</ets>, Gr. <grk>"rapsw,di`a</grk>, fr. <grk>"rapsw,do`s</grk> a rhapsodist; <grk>"ra`ptein</grk> to sew, stitch together, unite + <grk>'w,dh`</grk> a song. See <er>Ode</er>.]</ety> <sn>1.</sn> <def>A recitation or song of a rhapsodist; a portion of an epic poem adapted for recitation, or usually recited, at one time; hence, a division of the Iliad or the Odyssey; -- called also a <altname>book</altname>.</def></p>
+<p><hw>Rhap"so*dy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Rhapsodies</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>rhapsodie</ets>, L.  <ets>rhapsodia</ets>, Gr. <grk>"rajw,di`a</grk>, fr. <grk>"rajw,do`s</grk> a rhapsodist; <grk>"ra`ptein</grk> to sew, stitch together, unite + <grk>'w,dh`</grk> a song. See <er>Ode</er>.]</ety> <sn>1.</sn> <def>A recitation or song of a rhapsodist; a portion of an epic poem adapted for recitation, or usually recited, at one time; hence, a division of the Iliad or the Odyssey; -- called also a <altname>book</altname>.</def></p>
 
 <p><sn>2.</sn> <def>A disconnected series of sentences or statements composed under excitement, and without dependence or natural connection; rambling composition.</def> <ldquo/A <xex>rhapsody</xex> of words.<rdquo/ <au>Shak.</au> <ldquo/A <xex>rhapsody</xex> of tales.<rdquo/  <rj><au>Locke.</au></rj></p>
 
@@ -23923,7 +23923,7 @@ To add unto his sickness.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Rhodopsin" source="1913 Webster">
-<p><hw>Rho*dop"sin</hw> <pr>(r<osl/*d<ocr/p"s<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ro`don</grk> rose + <grk>"w`ps</grk> eye.]</ety> <fld>(Physiol.)</fld> <def>The visual purple. See under <er>Visual</er>.</def></p>
+<p><hw>Rho*dop"sin</hw> <pr>(r<osl/*d<ocr/p"s<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ro`don</grk> rose + <grk>"w`j</grk> eye.]</ety> <fld>(Physiol.)</fld> <def>The visual purple. See under <er>Visual</er>.</def></p>
 </entry>
 
 <entry main-word="Rhodosperm" source="1913 Webster">
