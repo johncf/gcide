@@ -12523,7 +12523,7 @@ Of <qex>Hesperus</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Heterocarpism" source="1913 Webster;;PJC">
-<p><hw>Het`er*o*car"pism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hetero-</ets> + Gr. <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>The power of producing two kinds of reproductive bodies, as in the <a href="images/hogpeanut.jpg">hog peanut</a> <spn>Amphicarpaea bracteata</spn> (photo by Daniel Reed (daniel@2bnthewild.com) from  http://www.2bnthewild.com), in which besides the usual pods produced from flowers above ground, there are others underground.  In the hog peanut the above-ground flowers are all creamy white or tinged with purple, as in the photo.</def></p>
+<p><hw>Het`er*o*car"pism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hetero-</ets> + Gr. <?/ fruit.]</ety> <fld>(Bot.)</fld> <def>The power of producing two kinds of reproductive bodies, as in the hog peanut (<spn>Amphicarpaea bracteata</spn>), in which besides the usual pods produced from flowers above ground, there are others underground.</def></p>
 </entry>
 
 <entry main-word="Heterocarpous" source="1913 Webster">

@@ -26957,7 +26957,7 @@ My dear Columbo, dead and gone.</q> <rj><qau>Prior.</qau></rj></p>
 <entry main-word="Moebius strip" source="PJC">
 <p><mhw><hw>Mo"bi*us strip`</hw>, <hw>M<oum/"bi*us strip`</hw>, <hw>Moe"bi*us strip`</hw></mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <person>August F. <etsep>M<oum/bius</etsep></person>, a German mathematician.]</ety> <def>A mathematical object, or a physical representation of it, which is a two-dimensional sheet with only one surface.  It is constructed or visualized as a rectangle, one end of which is held fixed while the opposite end is twisted through a 180 degree angle and joined to the fixed end.  It is a two-dimensional object that can only exist in a three-dimensional space.</def></p>
 
-<p><note>The moebius strip was the subject of a famous woodcut by <person>M. Escher</person>, published in 1963.  See <a href="images/mobius.jpg">Moebius Strip II</a>.</note></p>
+<p><note>The moebius strip was the subject of a famous woodcut by <person>M. Escher</person>, published in 1963.</note></p>
 </entry>
 
 <entry main-word="Moble" source="1913 Webster">
