@@ -342,7 +342,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichneumon" source="1913 Webster">
-<p><hw>Ich*neu"mon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., the tracker; so called because it hunts out the eggs of the crocodile, fr. <?/ to track or hunt after, fr. <grk>'i`chnos</grk> track, footstep.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any carnivorous mammal of the genus <gen>Herpestes</gen>, and family <fam>Viverrid<ae/</fam>.  Numerous species are found in Asia and Africa. The Egyptian species (<spn>Herpestes ichneumon</spn>), which ranges to Spain and Palestine, is noted for destroying the eggs and young of the crocodile as well as various snakes and lizards, and hence was considered sacred by the ancient Egyptians.  The common species of India (<spn>Herpestes griseus</spn>), known as the <stype>mongoose</stype>, has similar habits and is often domesticated. It is noted for killing the cobra.</def></p>
+<p><hw>Ich*neu"mon</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, lit., the tracker; so called because it hunts out the eggs of the crocodile, fr. <?/ to track or hunt after, fr. <grk>'i`cnos</grk> track, footstep.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>Any carnivorous mammal of the genus <gen>Herpestes</gen>, and family <fam>Viverrid<ae/</fam>.  Numerous species are found in Asia and Africa. The Egyptian species (<spn>Herpestes ichneumon</spn>), which ranges to Spain and Palestine, is noted for destroying the eggs and young of the crocodile as well as various snakes and lizards, and hence was considered sacred by the ancient Egyptians.  The common species of India (<spn>Herpestes griseus</spn>), known as the <stype>mongoose</stype>, has similar habits and is often domesticated. It is noted for killing the cobra.</def></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any hymenopterous insect of the family <fam>Ichneumonid<ae/</fam>, of which several thousand species are known, belonging to numerous genera.</def></p>
 
@@ -360,7 +360,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichnite" source="">
-<p><hw>Ich"nite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`chnos</grk> track, footstep.]</ety> <def>A fossil footprint; <as>as, the <ex>ichnites</ex> in the Triassic sandstone</as>.</def>  <rj><au>Page.</au></rj></p>
+<p><hw>Ich"nite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`cnos</grk> track, footstep.]</ety> <def>A fossil footprint; <as>as, the <ex>ichnites</ex> in the Triassic sandstone</as>.</def>  <rj><au>Page.</au></rj></p>
 </entry>
 
 <entry main-word="Ichnographic" source="1913 Webster">
@@ -368,15 +368,15 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichnography" source="1913 Webster">
-<p><hw>Ich*nog"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>'i`chnos</grk> track, footstep + <?/ to describe: cf. F. <ets>ichonographie</ets>.]</ety> <fld>(Drawing)</fld> <def>A horizontal section of a building or other object, showing its true dimensions according to a geometric scale; a ground plan; a map; also, the art of making such plans.</def></p>
+<p><hw>Ich*nog"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>'i`cnos</grk> track, footstep + <?/ to describe: cf. F. <ets>ichonographie</ets>.]</ety> <fld>(Drawing)</fld> <def>A horizontal section of a building or other object, showing its true dimensions according to a geometric scale; a ground plan; a map; also, the art of making such plans.</def></p>
 </entry>
 
 <entry main-word="Ichnolite" source="1913 Webster">
-<p><hw>Ich"no*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`chnos</grk> track, footstep + <ets>-lite</ets>.]</ety> <def>A fossil footprint; an ichnite.</def></p>
+<p><hw>Ich"no*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`cnos</grk> track, footstep + <ets>-lite</ets>.]</ety> <def>A fossil footprint; an ichnite.</def></p>
 </entry>
 
 <entry main-word="Ichnolithology" source="1913 Webster">
-<p><hw>Ich`no*li*thol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`chnos</grk> footstep + <ets>-lith + -logy</ets>.]</ety> <def>Same as <er>Ichnology</er>.</def>  <rj><au>Hitchcock.</au></rj></p>
+<p><hw>Ich`no*li*thol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`cnos</grk> footstep + <ets>-lith + -logy</ets>.]</ety> <def>Same as <er>Ichnology</er>.</def>  <rj><au>Hitchcock.</au></rj></p>
 </entry>
 
 <entry main-word="Ichnological" source="1913 Webster">
@@ -384,21 +384,21 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichnology" source="1913 Webster">
-<p><hw>Ich*nol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`chnos</grk> a footstep + <ets>-logy</ets>.]</ety> <fld>(Geol.)</fld> <def>The branch of science which treats of fossil footprints.</def></p>
+<p><hw>Ich*nol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`cnos</grk> a footstep + <ets>-logy</ets>.]</ety> <fld>(Geol.)</fld> <def>The branch of science which treats of fossil footprints.</def></p>
 </entry>
 
 <entry main-word="Ichnoscopy" source="1913 Webster">
-<p><hw>Ich*nos"co*py</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`chnos</grk> footstep + <ets>-scopy</ets>.]</ety> <def>The search for the traces of anything.</def> <mark>[R.]</mark></p>
+<p><hw>Ich*nos"co*py</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'i`cnos</grk> footstep + <ets>-scopy</ets>.]</ety> <def>The search for the traces of anything.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Ichor" source="1913 Webster">
-<p><hw>I"chor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichw`r</grk>: cf. F. <ets>ichor</ets>.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>An ethereal fluid that supplied the place of blood in the veins of the gods.</def></p>
+<p><hw>I"chor</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icw`r</grk>: cf. F. <ets>ichor</ets>.]</ety> <sn>1.</sn> <fld>(Class. Myth.)</fld> <def>An ethereal fluid that supplied the place of blood in the veins of the gods.</def></p>
 
 <p><sn>2.</sn> <def>A thin, acrid, watery discharge from an ulcer, wound, etc.</def></p>
 </entry>
 
 <entry main-word="Ichorhaemia" source="1913 Webster">
-<p><par/<hw>I`chor*h<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichw`r</grk> ichor + <?/ blood.]</ety> <fld>(Med.)</fld> <def>Infection of the blood with ichorous or putrid substances.</def></p>
+<p><par/<hw>I`chor*h<ae/"mi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icw`r</grk> ichor + <?/ blood.]</ety> <fld>(Med.)</fld> <def>Infection of the blood with ichorous or putrid substances.</def></p>
 </entry>
 
 <entry main-word="Ichorous" source="1913 Webster">
@@ -410,7 +410,7 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthin" source="1913 Webster">
-<p><hw>Ich"thin</hw> <pr>(<icr/k"th<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk> fish.]</ety> <fld>(Physiol. Chem.)</fld> <def>A nitrogenous substance resembling vitellin, present in the egg yolk of cartilaginous fishes.</def></p>
+<p><hw>Ich"thin</hw> <pr>(<icr/k"th<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk> fish.]</ety> <fld>(Physiol. Chem.)</fld> <def>A nitrogenous substance resembling vitellin, present in the egg yolk of cartilaginous fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthulin" source="1913 Webster">
@@ -418,43 +418,43 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthus" source="1913 Webster">
-<p><hw>Ich"thus</hw> <pr>(<icr/k"th<ucr/s)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>.]</ety> <def>In early Christian and ecclesiastical art, an emblematic fish, or the Greek word for <xex>fish</xex>, which combined the initials of the Greek words <grk>Ihsoy^s</grk>, <grk>Christo`s</grk>, <grk>Qeoy^ Gio`s</grk> <grk>Swth`r</grk>, Jesus, Christ, Son of God, Savior.</def></p>
+<p><hw>Ich"thus</hw> <pr>(<icr/k"th<ucr/s)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>.]</ety> <def>In early Christian and ecclesiastical art, an emblematic fish, or the Greek word for <xex>fish</xex>, which combined the initials of the Greek words <grk>Ihsoy^s</grk>, <grk>Cristo`s</grk>, <grk>Qeoy^ Gio`s</grk> <grk>Swth`r</grk>, Jesus, Christ, Son of God, Savior.</def></p>
 </entry>
 
 <entry main-word="Ichthyic" source="1913 Webster">
-<p><hw>Ich"thy*ic</hw> <pr>(<icr/k"th<icr/*<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish.]</ety> <fld>(Zool.)</fld> <def>Like, or pertaining to, fishes.</def></p>
+<p><hw>Ich"thy*ic</hw> <pr>(<icr/k"th<icr/*<icr/k)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish.]</ety> <fld>(Zool.)</fld> <def>Like, or pertaining to, fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyocol" source="1913 Webster">
-<p><mhw>{ <hw>Ich"thy*o*col</hw> <pr>(?)</pr>, <hw>Ich`thy*o*col"la</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>ichthyocolla</ets>, Gr. <?/; <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ glue: cf. F. <ets>ichthyocolle</ets>.]</ety> <def>Fish glue; isinglass; a glue prepared from the sounds of certain fishes.</def></p>
+<p><mhw>{ <hw>Ich"thy*o*col</hw> <pr>(?)</pr>, <hw>Ich`thy*o*col"la</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>ichthyocolla</ets>, Gr. <?/; <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ glue: cf. F. <ets>ichthyocolle</ets>.]</ety> <def>Fish glue; isinglass; a glue prepared from the sounds of certain fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyocoprolite" source="1913 Webster">
-<p><hw>Ich`thy*o*cop"ro*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + E. <ets>coprolite</ets>.]</ety> <fld>(Geol.)</fld> <def>Fossil dung of fishes.</def></p>
+<p><hw>Ich`thy*o*cop"ro*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + E. <ets>coprolite</ets>.]</ety> <fld>(Geol.)</fld> <def>Fossil dung of fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyodorulite" source="1913 Webster">
-<p><hw>Ich`thy*o*dor"u*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a spear + <ets>-lite</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the spiny plates found on the back and tail of certain skates.</def></p>
+<p><hw>Ich`thy*o*dor"u*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a spear + <ets>-lite</ets>.]</ety> <fld>(Zool.)</fld> <def>One of the spiny plates found on the back and tail of certain skates.</def></p>
 </entry>
 
 <entry main-word="Ichthyography" source="">
-<p><hw>Ich`thy*og"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk> + <ets>graphy</ets>: cf. F. <ets>ichthyographie</ets>.]</ety> <def>A treatise on fishes.</def></p>
+<p><hw>Ich`thy*og"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk> + <ets>graphy</ets>: cf. F. <ets>ichthyographie</ets>.]</ety> <def>A treatise on fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyoid" source="1913 Webster">
-<p><mhw>{ <hw>Ich"thy*oid</hw> <pr>(?)</pr>, <hw>Ich`thy*oid"al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/: <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>Somewhat like a fish; having some of the characteristics of fishes; -- said of some amphibians.</def></p>
+<p><mhw>{ <hw>Ich"thy*oid</hw> <pr>(?)</pr>, <hw>Ich`thy*oid"al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <?/: <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>e'i^dos</grk> form.]</ety> <fld>(Zool.)</fld> <def>Somewhat like a fish; having some of the characteristics of fishes; -- said of some amphibians.</def></p>
 </entry>
 
 <entry main-word="Ichthyol" source="Webster 1913 Suppl.">
-<p><hw>Ich"thy*ol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + (prob.) L. <ets>ol</ets>eum oil; but cf. <er>Ichthyolite</er>.]</ety> <fld>(Chem.)</fld> <def>An oily substance prepared by the dry distillation of a bituminous mineral containing fossil fishes. It is used in medicine as a remedy in some forms of skin diseases.</def></p>
+<p><hw>Ich"thy*ol</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + (prob.) L. <ets>ol</ets>eum oil; but cf. <er>Ichthyolite</er>.]</ety> <fld>(Chem.)</fld> <def>An oily substance prepared by the dry distillation of a bituminous mineral containing fossil fishes. It is used in medicine as a remedy in some forms of skin diseases.</def></p>
 </entry>
 
 <entry main-word="Ichthyolatry" source="1913 Webster">
-<p><hw>Ich`thy*ol"a*try</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ to worship.]</ety> <def>Worship of fishes, or of fish-shaped idols.</def>  <rj><au>Layard.</au></rj></p>
+<p><hw>Ich`thy*ol"a*try</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ to worship.]</ety> <def>Worship of fishes, or of fish-shaped idols.</def>  <rj><au>Layard.</au></rj></p>
 </entry>
 
 <entry main-word="Ichthyolite" source="">
-<p><hw>Ich"thy*o*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-lite</ets>.]</ety> <fld>(Paleon.)</fld> <def>A fossil fish, or fragment of a fish.</def></p>
+<p><hw>Ich"thy*o*lite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-lite</ets>.]</ety> <fld>(Paleon.)</fld> <def>A fossil fish, or fragment of a fish.</def></p>
 </entry>
 
 <entry main-word="Ichthyologic" source="1913 Webster">
@@ -466,15 +466,15 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthyology" source="1913 Webster">
-<p><hw>Ich`thy*ol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-logy</ets>: cf. F. <ets>ichthyologie</ets>.]</ety> <def>The natural history of fishes; that branch of Zoology which relates to fishes, including their structure, classification, and habits.</def></p>
+<p><hw>Ich`thy*ol"o*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-logy</ets>: cf. F. <ets>ichthyologie</ets>.]</ety> <def>The natural history of fishes; that branch of Zoology which relates to fishes, including their structure, classification, and habits.</def></p>
 </entry>
 
 <entry main-word="Ichthyomancy" source="1913 Webster">
-<p><hw>Ich"thy*o*man`cy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-mancy</ets>: cf. F. <ets>ichthyomancie</ets>.]</ety> <def>Divination by the heads or the entrails of fishes.</def></p>
+<p><hw>Ich"thy*o*man`cy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <ets>-mancy</ets>: cf. F. <ets>ichthyomancie</ets>.]</ety> <def>Divination by the heads or the entrails of fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyomorpha" source="">
-<p><par/<hw>Ich`thy*o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fish-shaped; <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>The Urodela.</def></p>
+<p><par/<hw>Ich`thy*o*mor"pha</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ fish-shaped; <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>morfh`</grk> form.]</ety> <fld>(Zool.)</fld> <def>The Urodela.</def></p>
 </entry>
 
 <entry main-word="Ichthyomorphic" source="1913 Webster">
@@ -486,23 +486,23 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthyophagous" source="1913 Webster">
-<p><hw>Ich`thy*oph"a*gous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>ichthyophagus</ets>, Gr. <?/; <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>fagei^n</grk> to eat.]</ety> <def>Eating, or subsisting on, fish.</def></p>
+<p><hw>Ich`thy*oph"a*gous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>ichthyophagus</ets>, Gr. <?/; <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>fagei^n</grk> to eat.]</ety> <def>Eating, or subsisting on, fish.</def></p>
 </entry>
 
 <entry main-word="Ichthyophagy" source="1913 Webster">
-<p><hw>Ich`thy*oph"a*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqyofagi`a</grk>: cf. F. <ets>ichthyophagie</ets>.]</ety> <def>The practice of eating, or living upon, fish.</def></p>
+<p><hw>Ich`thy*oph"a*gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqyofagi`a</grk>: cf. F. <ets>ichthyophagie</ets>.]</ety> <def>The practice of eating, or living upon, fish.</def></p>
 </entry>
 
 <entry main-word="Ichthyophthalmite" source="1913 Webster">
-<p><hw>Ich`thy*oph*thal"mite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ eye.]</ety> <def>See <er>Apophyllite</er>.</def> <mark>[R.]</mark></p>
+<p><hw>Ich`thy*oph*thal"mite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ eye.]</ety> <def>See <er>Apophyllite</er>.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Ichthyophthira" source="1913 Webster">
-<p><par/<hw>Ich`thy*oph*thi"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a louse.]</ety> <fld>(Zool.)</fld> <def>A division of copepod crustaceans, including numerous species parasitic on fishes.</def></p>
+<p><par/<hw>Ich`thy*oph*thi"ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a louse.]</ety> <fld>(Zool.)</fld> <def>A division of copepod crustaceans, including numerous species parasitic on fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyopsida" source="1913 Webster">
-<p><par/<hw>Ich`thy*op"si*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ appearance.]</ety> <fld>(Zool.)</fld> <def>A grand division of the Vertebrata, including the Amphibia and Fishes.</def></p>
+<p><par/<hw>Ich`thy*op"si*da</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ appearance.]</ety> <fld>(Zool.)</fld> <def>A grand division of the Vertebrata, including the Amphibia and Fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyopterygia" source="1913 Webster">
@@ -510,11 +510,11 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthyopterygium" source="1913 Webster">
-<p><par/<hw>Ich`thy*op`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The typical limb, or lateral fin, of fishes.</def></p>
+<p><par/<hw>Ich`thy*op`te*ryg"i*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ a fin.]</ety> <fld>(Anat.)</fld> <def>The typical limb, or lateral fin, of fishes.</def></p>
 </entry>
 
 <entry main-word="Ichthyornis" source="1913 Webster">
-<p><par/<hw>Ich`thy*or"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of toothed birds found in the American Cretaceous formation. It is remarkable for having biconcave vertebr<ae/, and sharp, conical teeth set in sockets. Its wings were well developed. It is the type of the order <ord>Odontotorm<ae/</ord>.</def></p>
+<p><par/<hw>Ich`thy*or"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ bird.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of toothed birds found in the American Cretaceous formation. It is remarkable for having biconcave vertebr<ae/, and sharp, conical teeth set in sockets. Its wings were well developed. It is the type of the order <ord>Odontotorm<ae/</ord>.</def></p>
 </entry>
 
 <entry main-word="Ichthyosaur" source="1913 Webster">
@@ -530,11 +530,11 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthyosaurus" source="1913 Webster">
-<p><par/<hw>Ich`thy*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ichthyosauri</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of marine reptiles; -- so named from their short, biconcave vertebr<ae/, resembling those of fishes. Several species, varying in length from ten to thirty feet, are known from the Liassic, O<oum/litic, and Cretaceous formations.</def></p>
+<p><par/<hw>Ich`thy*o*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Ichthyosauri</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <grk>say^ros</grk> a lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of marine reptiles; -- so named from their short, biconcave vertebr<ae/, resembling those of fishes. Several species, varying in length from ten to thirty feet, are known from the Liassic, O<oum/litic, and Cretaceous formations.</def></p>
 </entry>
 
 <entry main-word="Ichthyosis" source="1913 Webster">
-<p><par/<hw>Ich`thy*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> fish.]</ety> <fld>(Med.)</fld> <def>A disease in which the skin is thick, rough, and scaly; -- called also <altname>fishskin</altname>.</def> -- <wordforms><wf>Ich`thy*ot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
+<p><par/<hw>Ich`thy*o"sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk> fish.]</ety> <fld>(Med.)</fld> <def>A disease in which the skin is thick, rough, and scaly; -- called also <altname>fishskin</altname>.</def> -- <wordforms><wf>Ich`thy*ot"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Ichthyotomist" source="1913 Webster">
@@ -542,11 +542,11 @@ In keen | <qex>iam-</qex> | <qex>bics</qex>, but | mild an- | agram.</q> <rj><qa
 </entry>
 
 <entry main-word="Ichthyotomy" source="1913 Webster">
-<p><hw>Ich`thy*ot"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ichqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ to cut.]</ety> <def>The anatomy or dissection of fishes.</def> <mark>[R.]</mark></p>
+<p><hw>Ich`thy*ot"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'icqy`s</grk>, <grk>-y`os</grk>, a fish + <?/ to cut.]</ety> <def>The anatomy or dissection of fishes.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Ichthys" source="1913 Webster">
-<p><par/<hw>Ich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'ichqy`s</grk> a fish.]</ety> <def>Same as <er>Ichthus</er>.</def></p>
+<p><par/<hw>Ich"thys</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'icqy`s</grk> a fish.]</ety> <def>Same as <er>Ichthus</er>.</def></p>
 </entry>
 
 <entry main-word="Icicle" source="1913 Webster">
@@ -31228,7 +31228,7 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Ischiadic" source="1913 Webster">
-<p><hw>Is`chi*ad"ic</hw> <pr>(<icr/s`k<icr/*<acr/d"<icr/k)</pr>, <pos>a.</pos> <ety>[L. <ets>ischiadicus</ets>, Gr. <grk>'ischiadoko`s</grk>, fr. <grk>'ischi`on</grk> the hip joint, hip or loin.  Cf. <er>Sciatic</er>.]</ety> <fld>(Anat.)</fld> <def>Ischial.</def> <mark>[R.]</mark></p>
+<p><hw>Is`chi*ad"ic</hw> <pr>(<icr/s`k<icr/*<acr/d"<icr/k)</pr>, <pos>a.</pos> <ety>[L. <ets>ischiadicus</ets>, Gr. <grk>'isciadoko`s</grk>, fr. <grk>'isci`on</grk> the hip joint, hip or loin.  Cf. <er>Sciatic</er>.]</ety> <fld>(Anat.)</fld> <def>Ischial.</def> <mark>[R.]</mark></p>
 
 <p><cs><mcol><col>Ischiadic passion</col> <or/ <col>Ischiadic disease</col></mcol> <fld>(Med.)</fld>, <cd>a rheumatic or neuralgic affection of some part about the hip joint; -- called also <altname>sciatica</altname>.</cd></cs></p>
 </entry>
@@ -31248,17 +31248,17 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Ischiocerite" source="">
-<p><hw>Is`chi*o*ce"rite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ischi`on</grk> the hip + <grk>ke`ras</grk> a horn.]</ety> <fld>(Zool.)</fld> <def>The third joint or the antenn<ae/ of the Crustacea.</def></p>
+<p><hw>Is`chi*o*ce"rite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'isci`on</grk> the hip + <grk>ke`ras</grk> a horn.]</ety> <fld>(Zool.)</fld> <def>The third joint or the antenn<ae/ of the Crustacea.</def></p>
 </entry>
 
 <entry main-word="Ischion" source="1913 Webster">
-<p><mhw>{ <par/<hw>Is"chi*on</hw> <pr>(?)</pr>, <par/<hw>Is"chi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L., Gr. <grk>'ischi`on</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The ventral and posterior of the three principal bones composing either half of the pelvis; seat bone; the huckle bone.</def></p>
+<p><mhw>{ <par/<hw>Is"chi*on</hw> <pr>(?)</pr>, <par/<hw>Is"chi*um</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L., Gr. <grk>'isci`on</grk>.]</ety> <sn>1.</sn> <fld>(Anat.)</fld> <def>The ventral and posterior of the three principal bones composing either half of the pelvis; seat bone; the huckle bone.</def></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the pleur<ae/ of insects.</def></p>
 </entry>
 
 <entry main-word="Ischiopodite" source="1913 Webster">
-<p><hw>Is`chi*op"o*dite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'ischi`on</grk> the hip joint + <?/, <?/, foot.]</ety> <fld>(Zool.)</fld> <def>The third joint of the typical appendages of Crustacea.</def></p>
+<p><hw>Is`chi*op"o*dite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'isci`on</grk> the hip joint + <?/, <?/, foot.]</ety> <fld>(Zool.)</fld> <def>The third joint of the typical appendages of Crustacea.</def></p>
 </entry>
 
 <entry main-word="Ischiorectal" source="1913 Webster">

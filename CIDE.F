@@ -8795,7 +8795,7 @@ Of pale and bloodless emulation.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Fibrochondrosteal" source="1913 Webster">
-<p><hw>Fi`bro*chon*dros"te*al</hw> <pr>(f<imac/`br<osl/*k<ocr/n*dr<ocr/s"t<esl/*<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>fibra</ets> a fiber + gr. <grk>cho`ndros</grk> cartilage + <grk>'oste`on</grk> bone.]</ety> <fld>(Anat.)</fld> <def>Partly fibrous, partly cartilaginous, and partly osseous.</def>  <rj><au>St. George Mivart.</au></rj></p>
+<p><hw>Fi`bro*chon*dros"te*al</hw> <pr>(f<imac/`br<osl/*k<ocr/n*dr<ocr/s"t<esl/*<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>fibra</ets> a fiber + gr. <grk>co`ndros</grk> cartilage + <grk>'oste`on</grk> bone.]</ety> <fld>(Anat.)</fld> <def>Partly fibrous, partly cartilaginous, and partly osseous.</def>  <rj><au>St. George Mivart.</au></rj></p>
 </entry>
 
 <entry main-word="fibroid" source="1913 Webster">
@@ -25458,7 +25458,7 @@ The armed ships.</q> <rj><qau>Fairfax.</qau></rj></p>
 </entry>
 
 <entry main-word="Fray" source="1913 Webster">
-<p><hw>Fray</hw>, <pos>v. t.</pos> <ety>[OF. <ets>freier</ets>, <ets>fraier</ets>, <ets>froier</ets>, to rub. L. <ets>fricare</ets>; cf. <ets>friare</ets> to crumble, E. <ets>friable</ets>; perh. akin to Gr. <grk>chri`ein</grk> to anoint, <grk>chri^sma</grk> an anointing, Skr. <ets>gh<rsdot/sh</ets> to rub, scratch.  Cf. <er>Friction</er>.]</ety> <def>To rub; to wear off, or wear into shreds, by rubbing; to fret, as cloth; <as>as, a deer is said to <ex>fray</ex> her head</as>.</def></p>
+<p><hw>Fray</hw>, <pos>v. t.</pos> <ety>[OF. <ets>freier</ets>, <ets>fraier</ets>, <ets>froier</ets>, to rub. L. <ets>fricare</ets>; cf. <ets>friare</ets> to crumble, E. <ets>friable</ets>; perh. akin to Gr. <grk>cri`ein</grk> to anoint, <grk>cri^sma</grk> an anointing, Skr. <ets>gh<rsdot/sh</ets> to rub, scratch.  Cf. <er>Friction</er>.]</ety> <def>To rub; to wear off, or wear into shreds, by rubbing; to fret, as cloth; <as>as, a deer is said to <ex>fray</ex> her head</as>.</def></p>
 </entry>
 
 <entry main-word="Fray" source="1913 Webster">

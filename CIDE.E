@@ -1709,7 +1709,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echidna" source="1913 Webster">
-<p><par/<hw>E*chid"na</hw> <pr>(<esl/*k<icr/d"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a viper, adder, Gr. <grk>'e`chidna</grk>.]</ety> <sn>1.</sn> <fld>(Gr. Myth.)</fld> <def>A monster, half maid and half serpent.</def></p>
+<p><par/<hw>E*chid"na</hw> <pr>(<esl/*k<icr/d"n<adot/)</pr>, <pos>n.</pos> <ety>[L., a viper, adder, Gr. <grk>'e`cidna</grk>.]</ety> <sn>1.</sn> <fld>(Gr. Myth.)</fld> <def>A monster, half maid and half serpent.</def></p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of <ord>Monotremata</ord> found in Australia, Tasmania, and New Guinea. They are toothless and covered with spines; -- called also <altname>porcupine ant-eater</altname>, and <altname>Australian ant-eater</altname>.</def></p>
 </entry>
@@ -1753,7 +1753,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echinococcus" source="1913 Webster">
-<p><par/<hw>E*chi`no*coc"cus</hw> <pr>(<ecr/*k<imac/"n<osl/*k<ocr/k*k)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>ko`kkos</grk> grain, seed, berry. So called because forming little granular bodies, each armed with hooklets and disposed upon the inner wall of the hydatid cysts.]</ety> <fld>(Zo<oum/l.)</fld> <def>A parasite of man and of many domestic and wild animals, forming compound cysts or tumors (called hydatid cysts) in various organs, but especially in the liver and lungs, which often cause death. It is the larval stage of the <spn>T<ae/nia echinococcus</spn>, a small tapeworm peculiar to the dog.  The adult form is not found in man.</def></p>
+<p><par/<hw>E*chi`no*coc"cus</hw> <pr>(<ecr/*k<imac/"n<osl/*k<ocr/k*k)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'eci^nos</grk> hedgehog, sea urchin + <grk>ko`kkos</grk> grain, seed, berry. So called because forming little granular bodies, each armed with hooklets and disposed upon the inner wall of the hydatid cysts.]</ety> <fld>(Zo<oum/l.)</fld> <def>A parasite of man and of many domestic and wild animals, forming compound cysts or tumors (called hydatid cysts) in various organs, but especially in the liver and lungs, which often cause death. It is the larval stage of the <spn>T<ae/nia echinococcus</spn>, a small tapeworm peculiar to the dog.  The adult form is not found in man.</def></p>
 </entry>
 
 <entry main-word="echinocyte" source="PJC">
@@ -1769,7 +1769,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echinodermata" source="1913 Webster">
-<p><par/<hw>E*chi`no*der"ma*ta</hw> <pr>(<esl/*k<imac/`n<osl/*d<etil/r"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> hedgehog, sea urchin + <grk>de`rma</grk>, <grk>-atos</grk>, skin.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the grand divisions of the animal kingdom. By many writers it was formerly included in the Radiata.</def> <altsp>[Written also <asp>Echinoderma</asp>.]</altsp></p>
+<p><par/<hw>E*chi`no*der"ma*ta</hw> <pr>(<esl/*k<imac/`n<osl/*d<etil/r"m<adot/*t<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'eci^nos</grk> hedgehog, sea urchin + <grk>de`rma</grk>, <grk>-atos</grk>, skin.]</ety> <fld>(Zo<oum/l.)</fld> <def>One of the grand divisions of the animal kingdom. By many writers it was formerly included in the Radiata.</def> <altsp>[Written also <asp>Echinoderma</asp>.]</altsp></p>
 
 <p><note><hand/ The species usually have an exterior calcareous skeleton, or shell, made of many pieces, and often covered with spines, to which the name. They may be star-shaped, cylindrical, disk-shaped, or more or less spherical. The body consists of several similar parts (<xex>spheromeres</xex>) repeated symmetrically around a central axis, at one end of which the mouth is situated. They generally have suckers for locomotion. The group includes the following classes: Crinoidea, Asterioidea, Ophiuroidea, Echinoidea, and Holothurioidea. See these words in the Vocabulary, and also <er>Ambulacrum</er>.</note></p>
 </entry>
@@ -1787,7 +1787,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echinozoa" source="1913 Webster">
-<p><par/<hw>E*chi`no*zo"a</hw> <pr>(<esl/*k<imac/`n<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'echi^nos</grk> an echinus + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>The Echinodermata.</def></p>
+<p><par/<hw>E*chi`no*zo"a</hw> <pr>(<esl/*k<imac/`n<osl/*z<omac/"<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>'eci^nos</grk> an echinus + <grk>zw^,on</grk> an animal.]</ety> <fld>(Zo<oum/l.)</fld> <def>The Echinodermata.</def></p>
 </entry>
 
 <entry main-word="Echinulate" source="1913 Webster">
@@ -1796,7 +1796,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echinus" source="1913 Webster">
-<p><par/<hw>E*chi"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echini</plw> <pr>(#)</pr>.</plu> <ety>[L., a hedgehog, sea urchin, Gr. <grk>'echi^nos</grk>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>A hedgehog.</def></p>
+<p><par/<hw>E*chi"nus</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echini</plw> <pr>(#)</pr>.</plu> <ety>[L., a hedgehog, sea urchin, Gr. <grk>'eci^nos</grk>.]</ety> <sn>1.</sn> <fld>(Zo<oum/l.)</fld> <def>A hedgehog.</def></p>
 
 <p><sn>2.</sn> <fld>(Zo<oum/l.)</fld> <def>A genus of echinoderms, including the common edible sea urchin of Europe.</def></p>
 
@@ -1804,11 +1804,11 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echiuroidea" source="1913 Webster">
-<p><par/<hw>Ech`i*u*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>echiurus</ets>, the name of one genus (Gr. <grk>'e`chis</grk> an adder + <grk>o'yra`</grk> tail) + <ets>-oid</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A division of Annelida which includes the genus <gen>Echiurus</gen> and allies. They are often classed among the Gephyrea, and called the <altname>armed Gephyreans</altname>.</def></p>
+<p><par/<hw>Ech`i*u*roi"de*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. <ets>echiurus</ets>, the name of one genus (Gr. <grk>'e`cis</grk> an adder + <grk>o'yra`</grk> tail) + <ets>-oid</ets>.]</ety> <fld>(Zo<oum/l.)</fld> <def>A division of Annelida which includes the genus <gen>Echiurus</gen> and allies. They are often classed among the Gephyrea, and called the <altname>armed Gephyreans</altname>.</def></p>
 </entry>
 
 <entry main-word="Echo" source="1913 Webster">
-<p><hw>Ech"o</hw> <pr>(<ecr/k"<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echoes</plw> <pr>(<ecr/k"<omac/z)</pr>.</plu> <ety>[L. <ets>echo</ets>, Gr. <grk>'hchw`</grk> echo, sound, akin to <grk>'hchh`</grk>, <grk>'h^chos</grk>, sound, noise; cf. Skr. <ets>v<amac/<cced/</ets> to sound, bellow; perh. akin to E. <ets>voice</ets>: cf. F. <ets><eacute/cho</ets>.]</ety> <sn>1.</sn> <def>A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound.</def></p>
+<p><hw>Ech"o</hw> <pr>(<ecr/k"<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echoes</plw> <pr>(<ecr/k"<omac/z)</pr>.</plu> <ety>[L. <ets>echo</ets>, Gr. <grk>'hcw`</grk> echo, sound, akin to <grk>'hc`</grk>, <grk>'h^cos</grk>, sound, noise; cf. Skr. <ets>v<amac/<cced/</ets> to sound, bellow; perh. akin to E. <ets>voice</ets>: cf. F. <ets><eacute/cho</ets>.]</ety> <sn>1.</sn> <def>A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound.</def></p>
 
 <p><q>The babbling <qex>echo</qex> mocks the hounds.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -10112,7 +10112,7 @@ His turret crest and sleek <qex>enameled</qex> neck.</q> <rj><qau>Milton.</qau><
 </entry>
 
 <entry main-word="Encephalopathy" source="1913 Webster">
-<p><hw>En*ceph`a*lop"a*thy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'egke`falos</grk> the brain + <grk>pa`schein</grk>, <grk>paqei^n</grk>, to suffer.]</ety> <fld>(Med.)</fld> <def>Any disease or symptoms of disease referable to disorders of the brain; <as>as, lead <ex>encephalopathy</ex>, the cerebral symptoms attending chronic lead poisoning</as>.</def></p>
+<p><hw>En*ceph`a*lop"a*thy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>'egke`falos</grk> the brain + <grk>pa`scein</grk>, <grk>paqei^n</grk>, to suffer.]</ety> <fld>(Med.)</fld> <def>Any disease or symptoms of disease referable to disorders of the brain; <as>as, lead <ex>encephalopathy</ex>, the cerebral symptoms attending chronic lead poisoning</as>.</def></p>
 </entry>
 
 <entry main-word="Encephalos" source="1913 Webster">
@@ -10278,7 +10278,7 @@ Him needeth sure a golden pen, I ween.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Enchyma" source="1913 Webster">
-<p><par/<hw>En"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`gchyma</grk> an infusion; <grk>'en</grk> in + <grk>chei^n</grk> to pour.]</ety> <fld>(Biol.)</fld> <def>The primitive formative juice, from which the tissues, particularly the cellular tissue, are formed.</def></p>
+<p><par/<hw>En"chy*ma</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>'e`gcyma</grk> an infusion; <grk>'en</grk> in + <grk>cei^n</grk> to pour.]</ety> <fld>(Biol.)</fld> <def>The primitive formative juice, from which the tissues, particularly the cellular tissue, are formed.</def></p>
 </entry>
 
 <entry main-word="Encincture" source="1913 Webster">
@@ -16272,7 +16272,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Epimachus" source="1913 Webster">
-<p><par/<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`machos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`chh</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def></p>
+<p><par/<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`macos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`c</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def></p>
 </entry>
 
 <entry main-word="Epimera" source="1913 Webster">
@@ -16926,7 +16926,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 </entry>
 
 <entry main-word="Epoch" source="1913 Webster">
-<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <or/ <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epochh`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`chein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`chein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
+<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <or/ <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epoc`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`cein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`cein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
 
 <p><q>In divers ages, . . . divers <qex>epochs</qex> of time were used.</q> <rj><qau>Usher.</qau></rj></p>
 
@@ -21140,11 +21140,11 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 </entry>
 
 <entry main-word="Eucharis" source="1913 Webster">
-<p><par/<hw>Eu"cha*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>eucharis</ets> agreeable, Gr. <grk>e'y`charis</grk> See <er>Eucharist</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of South American amaryllidaceous plants with large and beautiful white blossoms.</def></p>
+<p><par/<hw>Eu"cha*ris</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>eucharis</ets> agreeable, Gr. <grk>e'y`caris</grk> See <er>Eucharist</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of South American amaryllidaceous plants with large and beautiful white blossoms.</def></p>
 </entry>
 
 <entry main-word="Eucharist" source="1913 Webster">
-<p><hw>Eu"cha*rist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>eucharistia</ets>, Gr. <grk>e'ycharisti`a</grk>, lit., a giving of thanks; <grk>e'y^</grk> + <grk>cha`ris</grk> favor, grace, thanks; akin to <grk>chai`rein</grk> to rejoice, and prob. to <ets>yearn</ets>: cf. F. <ets>eucharistie</ets>.]</ety> <sn>1.</sn> <def>The act of giving thanks; thanksgiving.</def> <mark>[Obs.]</mark></p>
+<p><hw>Eu"cha*rist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>eucharistia</ets>, Gr. <grk>e'ycaristi`a</grk>, lit., a giving of thanks; <grk>e'y^</grk> + <grk>ca`ris</grk> favor, grace, thanks; akin to <grk>cai`rein</grk> to rejoice, and prob. to <ets>yearn</ets>: cf. F. <ets>eucharistie</ets>.]</ety> <sn>1.</sn> <def>The act of giving thanks; thanksgiving.</def> <mark>[Obs.]</mark></p>
 
 <p><q>Led through the vale of tears to the region of <qex>eucharist</qex> and hallelujahs.</q> <rj><qau>South.</qau></rj></p>
 
@@ -21166,7 +21166,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 </entry>
 
 <entry main-word="Euchloric" source="1913 Webster">
-<p><hw>Eu*chlo"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>e'y`chlwro`s</grk> fresh and green; <grk>e'y^</grk> well + <grk>chlwro`s</grk> pale green.]</ety> <fld>(Chem.)</fld> <def>Relating to, or consisting of, euchlorine; <as>as, <ex>euchloric</ex> gas</as>.</def>  <rj><au>Davy.</au></rj> <mark>[archaic]</mark> </p>
+<p><hw>Eu*chlo"ric</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>e'y`clwro`s</grk> fresh and green; <grk>e'y^</grk> well + <grk>clwro`s</grk> pale green.]</ety> <fld>(Chem.)</fld> <def>Relating to, or consisting of, euchlorine; <as>as, <ex>euchloric</ex> gas</as>.</def>  <rj><au>Davy.</au></rj> <mark>[archaic]</mark> </p>
 </entry>
 
 <entry main-word="Euchlorine" source="1913 Webster">

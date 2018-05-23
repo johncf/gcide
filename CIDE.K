@@ -1214,7 +1214,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Keloid" source="Webster 1913 Suppl.">
-<p><hw>Ke"loid</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Also spelled <asp>cheloid</asp>.]</altsp> <ety>[F. <ets>k<eacute/lo<ium/de</ets>, from Gr. <grk>chhlh`</grk> crab's claw + <ets>-oid</ets>: cf. F. <ets>k<eacute/lo<ium/de</ets>, <ets>ch<eacute/lo<ium/de</ets>.]</ety>  <fld>(Med.)</fld> <def>Applied to a variety of tumor forming hard, flat, irregular excrescences upon the skin, or to keloid scar tissue.</def></p>
+<p><hw>Ke"loid</hw> <pr>(?)</pr>, <pos>a.</pos> <altsp>[Also spelled <asp>cheloid</asp>.]</altsp> <ety>[F. <ets>k<eacute/lo<ium/de</ets>, from Gr. <grk>clh`</grk> crab's claw + <ets>-oid</ets>: cf. F. <ets>k<eacute/lo<ium/de</ets>, <ets>ch<eacute/lo<ium/de</ets>.]</ety>  <fld>(Med.)</fld> <def>Applied to a variety of tumor forming hard, flat, irregular excrescences upon the skin, or to keloid scar tissue.</def></p>
 </entry>
 
 <entry main-word="Keloid" source="Webster 1913 Suppl.">
@@ -2571,7 +2571,7 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Kilogram" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Kil"o*gram</hw> <pr>(?)</pr>, <hw>Kil"o*gramme</hw>  }</mhw>, <pos>n.</pos> <ety>[F. <ets>kilogramme</ets>; pref. <ets>kilo-</ets> (fr. Gr. <grk>chi`lioi</grk> a thousand ) + <ets>gramme.</ets> See 3d <er>Gram</er>.]</ety> <def>A measure of mass and weight, being a thousand grams, equal to 2.2046226 pounds avoirdupois (15,432.34 grains).  It is nearly equal to the mass of a cubic decimeter of distilled water at the temperature of maximum density, or 39<deg/ Fahrenheit.  See 3rd <er>gram</er>.</def></p>
+<p><mhw>{ <hw>Kil"o*gram</hw> <pr>(?)</pr>, <hw>Kil"o*gramme</hw>  }</mhw>, <pos>n.</pos> <ety>[F. <ets>kilogramme</ets>; pref. <ets>kilo-</ets> (fr. Gr. <grk>ci`lioi</grk> a thousand ) + <ets>gramme.</ets> See 3d <er>Gram</er>.]</ety> <def>A measure of mass and weight, being a thousand grams, equal to 2.2046226 pounds avoirdupois (15,432.34 grains).  It is nearly equal to the mass of a cubic decimeter of distilled water at the temperature of maximum density, or 39<deg/ Fahrenheit.  See 3rd <er>gram</er>.</def></p>
 </entry>
 
 <entry main-word="Kilogrammeter" source="Webster 1913 Suppl.">
@@ -5677,7 +5677,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj></p>
 </entry>
 
 <entry main-word="Kritarchy" source="1913 Webster">
-<p><hw>Kri"tarch*y</hw> <pr>(kr<imac/"t<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>krith`s</grk> judge + <grk>'archh`</grk> beginning, government.]</ety> <def>The rule of the judges over Israel.</def></p>
+<p><hw>Kri"tarch*y</hw> <pr>(kr<imac/"t<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>krith`s</grk> judge + <grk>'arc`</grk> beginning, government.]</ety> <def>The rule of the judges over Israel.</def></p>
 
 <p><q>Samson, Jephthah, Gideon, and other heroes of the <qex>kritarchy</qex>.</q> <rj><qau>Southey.</qau></rj></p>
 </entry>

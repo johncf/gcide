@@ -394,7 +394,7 @@
 </entry>
 
 <entry main-word="Machaerodus" source="1913 Webster">
-<p><mhw>{ <par/<hw>Ma*chae"ro*dus</hw> <pr>(m<adot/*k<emac/"r<osl/*d<ucr/s)</pr>, <par/<hw>Ma*chai"ro*dus</hw> <pr>(m<adot/*k<imac/"r<osl/*d<ucr/s)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ma`chaira</grk> dagger + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct mammals allied to the cats, and having in the upper jaw canine teeth of remarkable size and strength; -- hence called <altname>saber-toothed tigers</altname>.</def></p>
+<p><mhw>{ <par/<hw>Ma*chae"ro*dus</hw> <pr>(m<adot/*k<emac/"r<osl/*d<ucr/s)</pr>, <par/<hw>Ma*chai"ro*dus</hw> <pr>(m<adot/*k<imac/"r<osl/*d<ucr/s)</pr>, }</mhw> <pos>n.</pos> <ety>[NL., fr. Gr. <grk>ma`caira</grk> dagger + <grk>'odoy`s</grk> tooth.]</ety> <fld>(Paleon.)</fld> <def>A genus of extinct mammals allied to the cats, and having in the upper jaw canine teeth of remarkable size and strength; -- hence called <altname>saber-toothed tigers</altname>.</def></p>
 </entry>
 
 <entry main-word="Machete" source="1913 Webster">
@@ -466,7 +466,7 @@
 </entry>
 
 <entry main-word="Machine" source="1913 Webster">
-<p><hw>Ma*chine"</hw> <pr>(m<adot/*sh<emac/n")</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>machina</ets> machine, engine, device, trick, Gr. <grk>mhchanh`</grk>, from <grk>mh^chos</grk> means, expedient.  Cf. <er>Mechanic</er>.]</ety> <sn>1.</sn> <def>In general, any combination of bodies so connected that their relative motions are constrained, and by means of which force and motion may be transmitted and modified, as a screw and its nut, or a lever arranged to turn about a fulcrum or a pulley about its pivot, etc.; especially, a construction, more or less complex, consisting of a combination of moving parts, or simple mechanical elements, as wheels, levers, cams, etc., with their supports and connecting framework, calculated to constitute a prime mover, or to receive force and motion from a prime mover or from another machine, and transmit, modify, and apply them to the production of some desired mechanical effect or work, as weaving by a loom, or the excitation of electricity by an electrical machine.</def></p>
+<p><hw>Ma*chine"</hw> <pr>(m<adot/*sh<emac/n")</pr>, <pos>n.</pos> <ety>[F., fr. L. <ets>machina</ets> machine, engine, device, trick, Gr. <grk>mhcanh`</grk>, from <grk>mh^cos</grk> means, expedient.  Cf. <er>Mechanic</er>.]</ety> <sn>1.</sn> <def>In general, any combination of bodies so connected that their relative motions are constrained, and by means of which force and motion may be transmitted and modified, as a screw and its nut, or a lever arranged to turn about a fulcrum or a pulley about its pivot, etc.; especially, a construction, more or less complex, consisting of a combination of moving parts, or simple mechanical elements, as wheels, levers, cams, etc., with their supports and connecting framework, calculated to constitute a prime mover, or to receive force and motion from a prime mover or from another machine, and transmit, modify, and apply them to the production of some desired mechanical effect or work, as weaving by a loom, or the excitation of electricity by an electrical machine.</def></p>
 
 <p><note><hand/ The term <xex>machine</xex> is most commonly applied to such pieces of mechanism as are used in the industrial arts, for mechanically shaping, dressing, and combining materials for various purposes, as in the manufacture of cloth, etc.  Where the effect is chemical, or other than mechanical, the contrivance is usually denominated an <xex>apparatus</xex> or <xex>device</xex>, not a machine; as, a <xex>bleaching apparatus</xex>.  Many large, powerful, or specially important pieces of mechanism are called <xex>engines</xex>; as, a <xex>steam engine</xex>, <xex>fire engine</xex>, <xex>graduating engine</xex>, etc.  Although there is no well-settled distinction between the terms <xex>engine</xex> and machine among practical men, there is a tendency to restrict the application of the former to contrivances in which the operating part is not distinct from the motor.</note></p>
 
@@ -4099,7 +4099,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Malachite" source="1913 Webster">
-<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <grk>mala`chh</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
+<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <grk>mala`c</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
 
 <p><note><hand/ <xex>Green malachite</xex>, or malachite proper, admits of a high polish, and is sometimes used for ornamental work. <xex>Blue malachite</xex>, or azurite, is a related species of a deep blue color.</note></p>
 
@@ -5057,7 +5057,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Mallow" source="1913 Webster">
-<p><mhw>{ <hw>Mal"low</hw> <pr>(?)</pr>, <hw>Mal"lows</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[OE. <ets>malwe</ets>, AS. <ets>mealwe</ets>, fr. L. <ets>malva</ets>, akin to Gr. <grk>mala`chh</grk>; cf. <grk>mala`ssein</grk> to soften, <grk>malako`s</grk> soft. Named either from its softening or relaxing properties, or from its soft downy leaves.  Cf. <er>Mauve</er>, <er>Malachite</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants (<gen>Malva</gen>) having mucilaginous qualities. See <er>Malvaceous</er>.</def></p>
+<p><mhw>{ <hw>Mal"low</hw> <pr>(?)</pr>, <hw>Mal"lows</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[OE. <ets>malwe</ets>, AS. <ets>mealwe</ets>, fr. L. <ets>malva</ets>, akin to Gr. <grk>mala`c</grk>; cf. <grk>mala`ssein</grk> to soften, <grk>malako`s</grk> soft. Named either from its softening or relaxing properties, or from its soft downy leaves.  Cf. <er>Mauve</er>, <er>Malachite</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants (<gen>Malva</gen>) having mucilaginous qualities. See <er>Malvaceous</er>.</def></p>
 
 <p><note><hand/ The flowers of the common mallow (<spn>Malva sylvestris</spn>) are used in medicine. The dwarf mallow (<spn>Malva rotundifolia</spn>) is a common weed, and its flattened, dick-shaped fruits are called <xex>cheeses</xex> by children.  Tree mallow (<spn>Malva Mauritiana</spn> and <spn>Lavatera arborea</spn>), musk mallow (<spn>Malva moschata</spn>), rose mallow or hollyhock, and curled mallow (<spn>Malva crispa</spn>), are less commonly seen.</note></p>
 
@@ -11399,7 +11399,7 @@ Dare <qex>mate</qex> a sounder man than Surrey can be.</q> <rj><qau>Shak.</qau><
 </entry>
 
 <entry main-word="Mateotechny" source="1913 Webster">
-<p><hw>Ma`te*o*tech"ny</hw> <pr>(m<amac/`t<esl/*<osl/*t<ecr/k"n<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mataiotechni`a</grk>; <grk>ma`taios</grk> vain + <grk>te`chnh</grk> art, science.]</ety> <def>Any unprofitable science.</def> <mark>[Obs.]</mark></p>
+<p><hw>Ma`te*o*tech"ny</hw> <pr>(m<amac/`t<esl/*<osl/*t<ecr/k"n<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mataiotecni`a</grk>; <grk>ma`taios</grk> vain + <grk>te`cnh</grk> art, science.]</ety> <def>Any unprofitable science.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Mater" source="1913 Webster">
@@ -13521,7 +13521,7 @@ Down to a hidden sea.</q>  <rj><qau>Coleridge.</qau></rj></p>
 </entry>
 
 <entry main-word="Mechanic" source="1913 Webster">
-<p><hw>Me*chan"ic</hw> <pr>(m<esl/*k<acr/n"<icr/k)</pr>, <pos>a.</pos> <ety>[F. <ets>m<eacute/canique</ets>, L. <ets>mechanicus</ets>, Gr. <grk>mhchaniko`s</grk>, fr. <grk>mhchanh`</grk> a machine. See <er>Machine</er>.]</ety> <sn>1.</sn> <def>Having to do with the application of the laws of motion in the art of constructing or making things; of or pertaining to mechanics; mechanical; <as>as, the <ex>mechanic</ex> arts</as>.</def> <ldquo/These <xex>mechanic</xex> philosophers.<rdquo/  <rj><au>Ray.</au></rj></p>
+<p><hw>Me*chan"ic</hw> <pr>(m<esl/*k<acr/n"<icr/k)</pr>, <pos>a.</pos> <ety>[F. <ets>m<eacute/canique</ets>, L. <ets>mechanicus</ets>, Gr. <grk>mhcaniko`s</grk>, fr. <grk>mhcanh`</grk> a machine. See <er>Machine</er>.]</ety> <sn>1.</sn> <def>Having to do with the application of the laws of motion in the art of constructing or making things; of or pertaining to mechanics; mechanical; <as>as, the <ex>mechanic</ex> arts</as>.</def> <ldquo/These <xex>mechanic</xex> philosophers.<rdquo/  <rj><au>Ray.</au></rj></p>
 
 <p><q><qex>Mechanic</qex> slaves,<br/
 With greasy aprons, rules, and hammers.</q> <rj><qau>Shak.</qau></rj></p>
@@ -13629,7 +13629,7 @@ Descend to a <qex>mechanic</qex> dialect.</q> <rj><qau>Roscommon.</qau></rj></p>
 </entry>
 
 <entry main-word="Mechanograph" source="1913 Webster">
-<p><hw>Mech"an*o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mhchanh`</grk> machine + <ets>-graph</ets>.]</ety> <def>One of a number of copies of anything multiplied mechanically.</def></p>
+<p><hw>Mech"an*o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mhcanh`</grk> machine + <ets>-graph</ets>.]</ety> <def>One of a number of copies of anything multiplied mechanically.</def></p>
 </entry>
 
 <entry main-word="Mechanographic" source="1913 Webster">
@@ -13647,7 +13647,7 @@ Descend to a <qex>mechanic</qex> dialect.</q> <rj><qau>Roscommon.</qau></rj></p>
 </entry>
 
 <entry main-word="Mechanurgy" source="1913 Webster">
-<p><hw>Mech"an*ur`gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mhchanh`</grk> machine + the root of <?/ work.]</ety> <def>That branch of science which treats of moving machines.</def></p>
+<p><hw>Mech"an*ur`gy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>mhcanh`</grk> machine + the root of <?/ work.]</ety> <def>That branch of science which treats of moving machines.</def></p>
 </entry>
 
 <entry main-word="Mechitarist" source="1913 Webster">
@@ -14654,7 +14654,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj></p>
 </entry>
 
 <entry main-word="megalopsychy" source="1913 Webster">
-<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>jychh`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
+<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>jyc`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
 </entry>
 
 <entry main-word="Megalosaur" source="1913 Webster">
@@ -15006,7 +15006,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Melanochroic" source="1913 Webster">
-<p><hw>Mel`a*no*chro"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>melana`chroos</grk>; <grk>me`las</grk>, <grk>-anos</grk>, black + <grk>chroa`</grk> color.]</ety> <def>Having a dark complexion; of or pertaining to the Melanochroi.</def></p>
+<p><hw>Mel`a*no*chro"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>melana`croos</grk>; <grk>me`las</grk>, <grk>-anos</grk>, black + <grk>croa`</grk> color.]</ety> <def>Having a dark complexion; of or pertaining to the Melanochroi.</def></p>
 </entry>
 
 <entry main-word="Melanochroite" source="1913 Webster">
@@ -25830,7 +25830,7 @@ His end of being on earth, and <qex>mission</qex> high.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="mist" source="1913 Webster">
-<p><hw>mist</hw> <pr>(m<icr/st)</pr>, <pos>n.</pos> <ety>[AS. <ets>mist</ets>; akin to D. & Sw. <ets>mist</ets>, Icel. <ets>mistr</ets>, G. <ets>mist</ets> dung, Goth. <ets>ma<iacute/hstus</ets>, AS. <ets>m<imac/gan</ets> to make water, Icel. <ets>m<imac/ga</ets>, Lith. <ets>migla</ets> mist, Russ. <ets>mgla</ets>, L. <ets>mingere</ets>, <ets>meiere</ets>, to make water, Gr. <grk>'omichei^n</grk> to make water, <grk>'omi`chlh</grk> mist, Skr. <ets>mih</ets> to make water, n., a mist <ets>m<emac/gha</ets> cloud.  <root/102.  Cf. <er>Misle</er>, <er>Mizzle</er>, <er>Mixen</er>.]</ety> <sn>1.</sn> <def>Visible watery vapor suspended in the atmosphere, at or near the surface of the earth; fog.</def></p>
+<p><hw>mist</hw> <pr>(m<icr/st)</pr>, <pos>n.</pos> <ety>[AS. <ets>mist</ets>; akin to D. & Sw. <ets>mist</ets>, Icel. <ets>mistr</ets>, G. <ets>mist</ets> dung, Goth. <ets>ma<iacute/hstus</ets>, AS. <ets>m<imac/gan</ets> to make water, Icel. <ets>m<imac/ga</ets>, Lith. <ets>migla</ets> mist, Russ. <ets>mgla</ets>, L. <ets>mingere</ets>, <ets>meiere</ets>, to make water, Gr. <grk>'omicei^n</grk> to make water, <grk>'omi`clh</grk> mist, Skr. <ets>mih</ets> to make water, n., a mist <ets>m<emac/gha</ets> cloud.  <root/102.  Cf. <er>Misle</er>, <er>Mizzle</er>, <er>Mixen</er>.]</ety> <sn>1.</sn> <def>Visible watery vapor suspended in the atmosphere, at or near the surface of the earth; fog.</def></p>
 
 <p><sn>2.</sn> <def>Coarse, watery vapor, floating or falling in visible particles, approaching the form of rain; <as>as, Scotch <ex>mist</ex></as>.</def></p>
 
@@ -30248,7 +30248,7 @@ Is lucky and happy and good and gay.</q></p>
 </entry>
 
 <entry main-word="Monostich" source="1913 Webster">
-<p><hw>Mon"o*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, from <?/ consisting of one verse; <grk>mo`nos</grk> single + <grk>sti`chos</grk> line, verse.]</ety> <def>A composition consisting of one verse only.</def></p>
+<p><hw>Mon"o*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/, from <?/ consisting of one verse; <grk>mo`nos</grk> single + <grk>sti`cos</grk> line, verse.]</ety> <def>A composition consisting of one verse only.</def></p>
 </entry>
 
 <entry main-word="Monostichous" source="1913 Webster">
@@ -35291,7 +35291,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mule" source="1913 Webster">
-<p><hw>Mule</hw> <pr>(m<umac/l)</pr>, <pos>n.</pos> <ety>[F., a she-mule, L. <ets>mula</ets>, fem. of <ets>mulus</ets>; cf. Gr. <grk>my`klos</grk>, <grk>mychlo`s</grk>.  Cf. AS. <ets>m<umac/l</ets>, fr. L. <ets>mulus</ets>.  Cf. <er>Mulatto</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A hybrid animal; specifically, one generated between an ass and a mare.  Sometimes the term is applied to the offspring of a horse and a she-ass, but that hybrid is more properly termed a <contr>hinny</contr>.  See <er>Hinny</er>.</def></p>
+<p><hw>Mule</hw> <pr>(m<umac/l)</pr>, <pos>n.</pos> <ety>[F., a she-mule, L. <ets>mula</ets>, fem. of <ets>mulus</ets>; cf. Gr. <grk>my`klos</grk>, <grk>myclo`s</grk>.  Cf. AS. <ets>m<umac/l</ets>, fr. L. <ets>mulus</ets>.  Cf. <er>Mulatto</er>.]</ety> <sn>1.</sn> <fld>(Zool.)</fld> <def>A hybrid animal; specifically, one generated between an ass and a mare.  Sometimes the term is applied to the offspring of a horse and a she-ass, but that hybrid is more properly termed a <contr>hinny</contr>.  See <er>Hinny</er>.</def></p>
 
 <p><note><hand/ Mules are much used as draught animals.  They are hardy, and proverbial for stubbornness.</note></p>
 
@@ -38191,7 +38191,7 @@ And <qex>mutual</qex> love.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mycothrix" source="1913 Webster">
-<p><par/<hw>Myc"o*thrix</hw> <pr>(m<imac/k"<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. (spurious) <grk>my`khs</grk> mucus (L. <ets>mucus</ets>) + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Biol.)</fld> <def>The chain of micrococci formed by the division of the micrococci in multiplication.</def></p>
+<p><par/<hw>Myc"o*thrix</hw> <pr>(m<imac/k"<osl/*thr<icr/ks)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. (spurious) <grk>my`khs</grk> mucus (L. <ets>mucus</ets>) + <grk>qri`x</grk>, <grk>trico`s</grk>, hair.]</ety> <fld>(Biol.)</fld> <def>The chain of micrococci formed by the division of the micrococci in multiplication.</def></p>
 </entry>
 
 <entry main-word="Mycteria" source="WordNet 1.5">

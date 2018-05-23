@@ -572,23 +572,23 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Tachhydrite" source="1913 Webster">
-<p><hw>Tach*hy"drite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tachy`s</grk> quick + <grk>"y`dwr</grk> water.  So named from its ready deliquescence.]</ety> <fld>(Min.)</fld> <def>A hydrous chloride of calcium and magnesium occurring in yellowish masses which rapidly deliquesce upon exposure.  It is found in the salt mines at <city>Stassfurt</city>.</def></p>
+<p><hw>Tach*hy"drite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tacy`s</grk> quick + <grk>"y`dwr</grk> water.  So named from its ready deliquescence.]</ety> <fld>(Min.)</fld> <def>A hydrous chloride of calcium and magnesium occurring in yellowish masses which rapidly deliquesce upon exposure.  It is found in the salt mines at <city>Stassfurt</city>.</def></p>
 </entry>
 
 <entry main-word="Tachina" source="1913 Webster">
-<p><par/<hw>Tach"i*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tachinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>tachino`s</grk>, for <grk>tachy`s</grk> swift.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Diptera belonging to <gen>Tachina</gen> and allied genera.  Their larvae are external parasites of other insects.</def></p>
+<p><par/<hw>Tach"i*na</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tachinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <grk>tacino`s</grk>, for <grk>tacy`s</grk> swift.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Diptera belonging to <gen>Tachina</gen> and allied genera.  Their larvae are external parasites of other insects.</def></p>
 </entry>
 
 <entry main-word="Tachistoscope" source="Webster 1913 Suppl.">
-<p><hw>Ta*chis"to*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`chistos</grk>, superl. of <grk>tachy`s</grk> swift + <ets>-scope</ets>.]</ety> <fld>(Physiol.)</fld> <def>An apparatus for exposing briefly to view a screen bearing letters or figures.  It is used in studying the range of attention, or the power of distinguishing separate objects in a single impression.</def></p>
+<p><hw>Ta*chis"to*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`cistos</grk>, superl. of <grk>tacy`s</grk> swift + <ets>-scope</ets>.]</ety> <fld>(Physiol.)</fld> <def>An apparatus for exposing briefly to view a screen bearing letters or figures.  It is used in studying the range of attention, or the power of distinguishing separate objects in a single impression.</def></p>
 </entry>
 
 <entry main-word="Tachograph" source="Webster 1913 Suppl.">
-<p><hw>Tach"o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`chos</grk> speed + <ets>-graph</ets>.]</ety> <def>A recording or registering tachometer; also, its autographic record.</def></p>
+<p><hw>Tach"o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`cos</grk> speed + <ets>-graph</ets>.]</ety> <def>A recording or registering tachometer; also, its autographic record.</def></p>
 </entry>
 
 <entry main-word="Tachometer" source="1913 Webster">
-<p><hw>Ta*chom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`chos</grk> swiftness, speed (fr. <grk>tachy`s</grk> quick) + <ets>-meter</ets>: cf. F. <ets>tachom<egrave/tre</ets>.]</ety> <def>An instrument for measuring the velocity, or indicating changes in the velocity, of a moving body or substance.</def> Specifically: --</p>
+<p><hw>Ta*chom"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ta`cos</grk> swiftness, speed (fr. <grk>tacy`s</grk> quick) + <ets>-meter</ets>: cf. F. <ets>tachom<egrave/tre</ets>.]</ety> <def>An instrument for measuring the velocity, or indicating changes in the velocity, of a moving body or substance.</def> Specifically: --</p>
 
 <p><sd>(a)</sd> <def>An instrument for measuring the velocity of running water in a river or canal, consisting of a wheel with inclined vanes, which is turned by the current.  The rotations of the wheel are recorded by clockwork.</def></p>
 
@@ -602,11 +602,11 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Tachydidaxy" source="1913 Webster">
-<p><hw>Tach"y*di*dax`y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tachy`s</grk> quick + <grk>di`daxis</grk> teaching.]</ety> <def>A short or rapid method of instructing.</def> <mark>[R.]</mark></p>
+<p><hw>Tach"y*di*dax`y</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tacy`s</grk> quick + <grk>di`daxis</grk> teaching.]</ety> <def>A short or rapid method of instructing.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Tachyglossa" source="1913 Webster">
-<p><par/<hw>Tach`y*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tachy`s</grk> quick + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of monotremes which comprises the spiny ant-eaters of Australia and New Guinea. See <xex>Illust.</xex> under <er>Echidna</er>.</def></p>
+<p><par/<hw>Tach`y*glos"sa</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tacy`s</grk> quick + <grk>glw^ssa</grk> tongue.]</ety> <fld>(Zool.)</fld> <def>A division of monotremes which comprises the spiny ant-eaters of Australia and New Guinea. See <xex>Illust.</xex> under <er>Echidna</er>.</def></p>
 </entry>
 
 <entry main-word="Tachygraph" source="Webster 1913 Suppl.">
@@ -622,11 +622,11 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Tachygraphy" source="1913 Webster">
-<p><hw>Ta*chyg"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tachy`s</grk> quick + <ets>-graphy</ets>: cf. F. <ets>tachygraphie</ets>.]</ety> <def>The art or practice of rapid writing; shorthand writing; stenography.</def>  <rj><au>I. Taylor (The Alphabet).</au></rj></p>
+<p><hw>Ta*chyg"ra*phy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tacy`s</grk> quick + <ets>-graphy</ets>: cf. F. <ets>tachygraphie</ets>.]</ety> <def>The art or practice of rapid writing; shorthand writing; stenography.</def>  <rj><au>I. Taylor (The Alphabet).</au></rj></p>
 </entry>
 
 <entry main-word="Tachylyte" source="1913 Webster">
-<p><hw>Tach"y*lyte</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tachy`s</grk> quick + <grk>ly`ein</grk> to dissolve.]</ety> <fld>(Min.)</fld> <def>A vitreous form of basalt; -- so called because decomposable by acids and readily fusible.</def></p>
+<p><hw>Tach"y*lyte</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tacy`s</grk> quick + <grk>ly`ein</grk> to dissolve.]</ety> <fld>(Min.)</fld> <def>A vitreous form of basalt; -- so called because decomposable by acids and readily fusible.</def></p>
 </entry>
 
 <entry main-word="Tachymeter" source="Webster 1913 Suppl.">
@@ -640,7 +640,7 @@ To which our God himself is moon and sun.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Tachyscope" source="Webster 1913 Suppl.">
-<p><hw>Tach"y*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tachy`s</grk> quick + <ets>-scope</ets>.]</ety> <def>An early form of animated-picture machine, devised in 1889 by <person>Otto Ansch<uum/tz</person> of <city>Berlin</city>, in which the chronophotographs were mounted upon the periphery of a rotating wheel.</def></p>
+<p><hw>Tach"y*scope</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tacy`s</grk> quick + <ets>-scope</ets>.]</ety> <def>An early form of animated-picture machine, devised in 1889 by <person>Otto Ansch<uum/tz</person> of <city>Berlin</city>, in which the chronophotographs were mounted upon the periphery of a rotating wheel.</def></p>
 </entry>
 
 <entry main-word="Tacit" source="1913 Webster">
@@ -834,7 +834,7 @@ And bring thee cords made like a <qex>tackled</qex> stair.</q> <rj><qau>Shak.</q
 </entry>
 
 <entry main-word="Tactics" source="1913 Webster">
-<p><hw>Tac"tics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>taktika`</grk> pl., and <grk>taktikh`</grk> (sc. <grk>te`chnh</grk>) sing., fr. <grk>taktiko`s</grk> fit for ordering or arranging, fr. <grk>ta`ssein</grk>, <grk>ta`ttein</grk>, to put in order, to arrange: cf. F. <ets>tactique</ets>.]</ety> <sn>1.</sn> <def>The science and art of disposing military and naval forces in order for battle, and performing military and naval evolutions. It is divided into <xex>grand tactics</xex>, or the tactics of battles, and <xex>elementary tactics</xex>, or the tactics of instruction.</def></p>
+<p><hw>Tac"tics</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>taktika`</grk> pl., and <grk>taktikh`</grk> (sc. <grk>te`cnh</grk>) sing., fr. <grk>taktiko`s</grk> fit for ordering or arranging, fr. <grk>ta`ssein</grk>, <grk>ta`ttein</grk>, to put in order, to arrange: cf. F. <ets>tactique</ets>.]</ety> <sn>1.</sn> <def>The science and art of disposing military and naval forces in order for battle, and performing military and naval evolutions. It is divided into <xex>grand tactics</xex>, or the tactics of battles, and <xex>elementary tactics</xex>, or the tactics of instruction.</def></p>
 
 <p><sn>2.</sn> <def>Hence, any system or method of procedure.</def></p>
 </entry>
@@ -4394,7 +4394,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj></p>
 </entry>
 
 <entry main-word="Tauromachy" source="1913 Webster">
-<p><hw>Tau*rom"a*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tayromachi`a</grk>; <grk>tay^ros</grk> bull + <grk>ma`chh</grk> fight.]</ety> <def>Bullfighting.</def></p>
+<p><hw>Tau*rom"a*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tayromaci`a</grk>; <grk>tay^ros</grk> bull + <grk>ma`c</grk> fight.]</ety> <def>Bullfighting.</def></p>
 </entry>
 
 <entry main-word="Taurus" source="1913 Webster">
@@ -5758,7 +5758,7 @@ Thou sank'st alone.</q> <rj><qau>M. Arnold.</qau></rj></p>
 </entry>
 
 <entry main-word="Telechirograph" source="Webster 1913 Suppl.">
-<p><hw>Tel`e*chi"ro*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>th^le</grk> far + <grk>chei`r</grk>, <grk>cheiro`s</grk>, hand + <ets>-graph</ets>.]</ety> <def>An instrument for  telegraphically transmitting and receiving handwritten messages, as photographically by a beam of light from a mirror.</def></p>
+<p><hw>Tel`e*chi"ro*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>th^le</grk> far + <grk>cei`r</grk>, <grk>ceiro`s</grk>, hand + <ets>-graph</ets>.]</ety> <def>An instrument for  telegraphically transmitting and receiving handwritten messages, as photographically by a beam of light from a mirror.</def></p>
 </entry>
 
 <entry main-word="Teledu" source="1913 Webster">
@@ -9680,7 +9680,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Tetrachotomous" source="1913 Webster">
-<p><hw>Tet`ra*chot"o*mous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>te`tracha</grk> in four parts + <grk>te`mnein</grk> to cut.]</ety> <fld>(Bot.)</fld> <def>Having a division by fours; separated into four parts or series, or into series of fours.</def></p>
+<p><hw>Tet`ra*chot"o*mous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>te`traca</grk> in four parts + <grk>te`mnein</grk> to cut.]</ety> <fld>(Bot.)</fld> <def>Having a division by fours; separated into four parts or series, or into series of fours.</def></p>
 </entry>
 
 <entry main-word="Tetracid" source="1913 Webster">
@@ -9746,7 +9746,7 @@ Under your <qex>testy</qex> humor?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Tetradrachm" source="1913 Webster">
-<p><mhw>{ <hw>Tet"ra*drachm</hw> <pr>(?)</pr>, <par/<hw>Tet`ra*drach"ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>tetradrachma</ets>, fr. Gr. <grk>tetra`drachmon</grk>; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>drachmh`</grk> drachm, drachma.]</ety> <def>A silver coin among the ancient Greeks, of the value of four drachms.</def> <note>The Attic <ex>tetradrachm</ex> was equal to 3s. 3d. sterling, or about 76 cents.</note></p>
+<p><mhw>{ <hw>Tet"ra*drachm</hw> <pr>(?)</pr>, <par/<hw>Tet`ra*drach"ma</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>tetradrachma</ets>, fr. Gr. <grk>tetra`dracmon</grk>; <grk>te`tra-</grk> (see <er>Tetra-</er>) + <grk>dracmh`</grk> drachm, drachma.]</ety> <def>A silver coin among the ancient Greeks, of the value of four drachms.</def> <note>The Attic <ex>tetradrachm</ex> was equal to 3s. 3d. sterling, or about 76 cents.</note></p>
 </entry>
 
 <entry main-word="Tetradymite" source="1913 Webster">
@@ -13878,7 +13878,7 @@ And to be under man's governance.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Thrall" source="1913 Webster">
-<p><hw>Thrall</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>thral</ets>, <ets><thorn/ral</ets>, Icel. <ets><thorn/r<ae/ll</ets>, perhaps through AS. <ets><thorn/r<aemac/l</ets>; akin to Sw. <ets>tr<aum/l</ets>, Dan. <ets>tr<ae/l</ets>, and probably to AS. <ets><thorn/r<ae/gian</ets> to run, Goth. <ets><thorn/ragjan</ets>, Gr. <grk>tre`chein</grk>; cf. OHG. <ets>dregil</ets>, <ets>drigil</ets>, a servant.]</ety> <sn>1.</sn> <def>A slave; a bondman.</def>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Thrall</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>thral</ets>, <ets><thorn/ral</ets>, Icel. <ets><thorn/r<ae/ll</ets>, perhaps through AS. <ets><thorn/r<aemac/l</ets>; akin to Sw. <ets>tr<aum/l</ets>, Dan. <ets>tr<ae/l</ets>, and probably to AS. <ets><thorn/r<ae/gian</ets> to run, Goth. <ets><thorn/ragjan</ets>, Gr. <grk>tre`cein</grk>; cf. OHG. <ets>dregil</ets>, <ets>drigil</ets>, a servant.]</ety> <sn>1.</sn> <def>A slave; a bondman.</def>  <rj><au>Chaucer.</au></rj></p>
 
 <p><q>Gurth, the born <qex>thrall</qex> of Cedric.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 
@@ -15678,7 +15678,7 @@ In autumn <qex>thwarts</qex> the night.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Thymiatechny" source="1913 Webster">
-<p><hw>Thym"i*a*tech`ny</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ incense + <grk>te`chnh</grk> art.]</ety> <fld>(Med.)</fld> <def>The art of employing perfumes in medicine.</def> <mark>[R.]</mark>  <rj><au>Dunglison.</au></rj></p>
+<p><hw>Thym"i*a*tech`ny</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ incense + <grk>te`cnh</grk> art.]</ety> <fld>(Med.)</fld> <def>The art of employing perfumes in medicine.</def> <mark>[R.]</mark>  <rj><au>Dunglison.</au></rj></p>
 </entry>
 
 <entry main-word="Thymic" source="1913 Webster">
@@ -23258,7 +23258,7 @@ Of <qex>tracing</qex> word, and line by line.</q> <rj><qau>Denham.</qau></rj></p
 </entry>
 
 <entry main-word="Trachea" source="1913 Webster">
-<p><hw>Tra"che*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tracheae</plw> <pr>(#)</pr>.</plu> <ety>[NL.,from L. <ets>trachia</ets>, Gr.  <grk>trachei^a</grk>  (sc. <?/ windpipe), from <?/ rough, rugged: cf. F. <ets>trach<eacute/e</ets>.]</ety></p>
+<p><hw>Tra"che*a</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Tracheae</plw> <pr>(#)</pr>.</plu> <ety>[NL.,from L. <ets>trachia</ets>, Gr.  <grk>tracei^a</grk>  (sc. <?/ windpipe), from <?/ rough, rugged: cf. F. <ets>trach<eacute/e</ets>.]</ety></p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>The windpipe. See <xex>Illust.</xex> of <er>Lung</er>.</def></p>
 
@@ -27651,7 +27651,7 @@ Her silver stream.</q> <rj><qau>W. Browne.</qau></rj></p>
 </entry>
 
 <entry main-word="Tress" source="1913 Webster">
-<p><hw>Tress</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>tresse</ets>, OF. <ets>trece</ets>, F. <ets>tresse</ets>, LL. <ets>tricia</ets>, fr. Gr. <grk>tri`cha</grk> threefold, because a tress is usually formed by interlacing three pieces; akin to <grk>trei^s</grk> three. See <er>Three</er>.]</ety> <sn>1.</sn> <def>A braid, knot, or curl, of hair; a ringlet.</def></p>
+<p><hw>Tress</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>tresse</ets>, OF. <ets>trece</ets>, F. <ets>tresse</ets>, LL. <ets>tricia</ets>, fr. Gr. <grk>tri`ca</grk> threefold, because a tress is usually formed by interlacing three pieces; akin to <grk>trei^s</grk> three. See <er>Three</er>.]</ety> <sn>1.</sn> <def>A braid, knot, or curl, of hair; a ringlet.</def></p>
 
 <p><q>Her yellow hair was braided in a <qex>tress</qex>.</q> <rj><qau>Chaucer.</qau></rj></p>
 
@@ -28190,11 +28190,11 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichiasis" source="1913 Webster">
-<p><par/<hw>Tri*chi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Med.)</fld> <def>A disease of the eye, in which the eyelashes, being turned in upon the eyeball, produce constant irritation by the motion of the lids.</def></p>
+<p><par/<hw>Tri*chi"a*sis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <?/, fr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair.]</ety> <fld>(Med.)</fld> <def>A disease of the eye, in which the eyelashes, being turned in upon the eyeball, produce constant irritation by the motion of the lids.</def></p>
 </entry>
 
 <entry main-word="Trichina" source="1913 Webster">
-<p><par/<hw>Tri*chi"na</hw> <pr>(-n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trichinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ hairy, made of hair, fr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Zool.)</fld> <def>A small, slender nematoid worm (<spn>Trichina spiralis</spn>) which, in the larval state, is parasitic, often in immense numbers, in the voluntary muscles of man, the hog, and many other animals. When insufficiently cooked meat containing the larvae is swallowed by man, they are liberated and rapidly become adult, pair, and the ovoviviparous females produce in a short time large numbers of young which find their way into the muscles, either directly, or indirectly by means of the blood. Their presence in the muscles and the intestines in large numbers produces trichinosis.</def></p>
+<p><par/<hw>Tri*chi"na</hw> <pr>(-n<adot/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Trichinae</plw> <pr>(#)</pr>.</plu> <ety>[NL., fr. Gr. <?/ hairy, made of hair, fr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair.]</ety> <fld>(Zool.)</fld> <def>A small, slender nematoid worm (<spn>Trichina spiralis</spn>) which, in the larval state, is parasitic, often in immense numbers, in the voluntary muscles of man, the hog, and many other animals. When insufficiently cooked meat containing the larvae is swallowed by man, they are liberated and rapidly become adult, pair, and the ovoviviparous females produce in a short time large numbers of young which find their way into the muscles, either directly, or indirectly by means of the blood. Their presence in the muscles and the intestines in large numbers produces trichinosis.</def></p>
 </entry>
 
 <entry main-word="Trichiniasis" source="1913 Webster">
@@ -28236,7 +28236,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichiurus" source="1913 Webster">
-<p><par/<hw>Trich`i*u"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the hairtails. See <er>Hairtail</er>.</def></p>
+<p><par/<hw>Trich`i*u"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, a hair + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A genus of fishes comprising the hairtails. See <er>Hairtail</er>.</def></p>
 </entry>
 
 <entry main-word="Trichloride" source="1913 Webster">
@@ -28244,15 +28244,15 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichobranchia" source="1913 Webster">
-<p><par/<hw>Trich`o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <ets>branchia</ets>.]</ety> <fld>(Zool.)</fld> <def>The gill of a crustacean in which the branchial filaments are slender and cylindrical, as in the crawfishes.</def></p>
+<p><par/<hw>Trich`o*bran"chi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair + <ets>branchia</ets>.]</ety> <fld>(Zool.)</fld> <def>The gill of a crustacean in which the branchial filaments are slender and cylindrical, as in the crawfishes.</def></p>
 </entry>
 
 <entry main-word="Trichocyst" source="1913 Webster">
-<p><hw>Trich"o*cyst</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <?/ bag.]</ety> <fld>(Zool.)</fld> <def>A lasso cell.</def></p>
+<p><hw>Trich"o*cyst</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, a hair + <?/ bag.]</ety> <fld>(Zool.)</fld> <def>A lasso cell.</def></p>
 </entry>
 
 <entry main-word="Trichogyne" source="1913 Webster">
-<p><hw>Trich"o*gyne</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>The slender, hairlike cell which receives the fertilizing particles, or antherozoids, in red seaweeds.</def> -- <wordforms><wf>Trich`o*gyn"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
+<p><hw>Trich"o*gyne</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair + <?/ woman, female.]</ety> <fld>(Bot.)</fld> <def>The slender, hairlike cell which receives the fertilizing particles, or antherozoids, in red seaweeds.</def> -- <wordforms><wf>Trich`o*gyn"ic</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Trichomanes" source="1913 Webster">
@@ -28268,7 +28268,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichophore" source="1913 Webster">
-<p><hw>Trich"o*phore</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <grk>fe`rein</grk> to bear.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The special cell in red algae which produces or bears a trichogyne. See <xex>Illust.</xex> of <er>Trichogyne</er>.</def></p>
+<p><hw>Trich"o*phore</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair + <grk>fe`rein</grk> to bear.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>The special cell in red algae which produces or bears a trichogyne. See <xex>Illust.</xex> of <er>Trichogyne</er>.</def></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>One of the saclike organs from which the setae of annelids arise.</def></p>
 
@@ -28280,7 +28280,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichoptera" source="1913 Webster">
-<p><par/<hw>Tri*chop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, a hair + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Neuroptera usually having the wings covered with minute hairs. It comprises the caddice flies, and is considered by some to be a distinct order.</def></p>
+<p><par/<hw>Tri*chop"te*ra</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, a hair + <?/ wing.]</ety> <fld>(Zool.)</fld> <def>A suborder of Neuroptera usually having the wings covered with minute hairs. It comprises the caddice flies, and is considered by some to be a distinct order.</def></p>
 </entry>
 
 <entry main-word="Trichopteran" source="1913 Webster">
@@ -28296,7 +28296,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichoscolices" source="1913 Webster">
-<p><par/<hw>Trich`o*scol"i*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>tri`x</grk>, <grk>tricho`s</grk>, hair + <grk>skw`lhx</grk> a worm.]</ety> <fld>(Zool.)</fld> <def>An extensive group of wormlike animals characterized by being more or less covered with cilia.</def></p>
+<p><par/<hw>Trich`o*scol"i*ces</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., from Gr. <grk>tri`x</grk>, <grk>trico`s</grk>, hair + <grk>skw`lhx</grk> a worm.]</ety> <fld>(Zool.)</fld> <def>An extensive group of wormlike animals characterized by being more or less covered with cilia.</def></p>
 </entry>
 
 <entry main-word="Trichotomous" source="1913 Webster">
@@ -28304,7 +28304,7 @@ To wreathe his shield.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
 
 <entry main-word="Trichotomy" source="1913 Webster">
-<p><hw>Tri*chot"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`cha</grk> threefold, in three parts + <grk>te`mnein</grk> to cut or divide: cf. F. <ets>trichotomie</ets>.]</ety> <def>Division into three parts.</def></p>
+<p><hw>Tri*chot"o*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tri`ca</grk> threefold, in three parts + <grk>te`mnein</grk> to cut or divide: cf. F. <ets>trichotomie</ets>.]</ety> <def>Division into three parts.</def></p>
 </entry>
 
 <entry main-word="Trichroic" source="1913 Webster">
@@ -30514,7 +30514,7 @@ All nations of the <qex>triumphed</qex> word.</q> <rj><qau>Massinger.</qau></rj>
 </entry>
 
 <entry main-word="Troche" source="1913 Webster">
-<p><hw>Tro"che</hw> <pr>(tr<omac/"k<emac/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>trocho`s</grk> anything round or circular, a wheel, properly, a runner, fr. <grk>tre`chein</grk> to run.  Cf. <er>Trochee</er>.]</ety> <fld>(Pharm.)</fld> <def>A medicinal tablet or lozenge; strictly, one of circular form.</def></p>
+<p><hw>Tro"che</hw> <pr>(tr<omac/"k<emac/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>troco`s</grk> anything round or circular, a wheel, properly, a runner, fr. <grk>tre`cein</grk> to run.  Cf. <er>Trochee</er>.]</ety> <fld>(Pharm.)</fld> <def>A medicinal tablet or lozenge; strictly, one of circular form.</def></p>
 </entry>
 
 <entry main-word="Trochee" source="1913 Webster">
@@ -36216,7 +36216,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Tychism" source="Webster 1913 Suppl.">
-<p><hw>Ty"chism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ty`chh</grk> fortune, chance + <ets>-ism</ets>.]</ety> <def>Any theory which conceives chance as an objective reality; esp., a theory of evolution which considers that variation may be purely fortuitous.</def></p>
+<p><hw>Ty"chism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ty`c</grk> fortune, chance + <ets>-ism</ets>.]</ety> <def>Any theory which conceives chance as an objective reality; esp., a theory of evolution which considers that variation may be purely fortuitous.</def></p>
 </entry>
 
 <entry main-word="Tychonic" source="1913 Webster">

@@ -421,7 +421,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Rachialgia" source="1913 Webster">
-<p><par/<hw>Ra`chi*al"gi*a</hw> <pr>(r<amac/`k<icr/*<acr/l"j<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> backbone + <grk>'a`lgos</grk> pain.]</ety> <fld>(Med.)</fld> <def>A painful affection of the spine; especially, <stype>Pott's disease</stype>; also, formerly, lead colic.</def></p>
+<p><par/<hw>Ra`chi*al"gi*a</hw> <pr>(r<amac/`k<icr/*<acr/l"j<icr/*<adot/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`cis</grk> backbone + <grk>'a`lgos</grk> pain.]</ety> <fld>(Med.)</fld> <def>A painful affection of the spine; especially, <stype>Pott's disease</stype>; also, formerly, lead colic.</def></p>
 </entry>
 
 <entry main-word="Rachidian" source="1913 Webster">
@@ -437,7 +437,7 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Rachis" source="1913 Webster">
-<p><par/<hw>Ra"chis</hw> <pr>(r<amac/"k<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rachises</plw> <pr>(r<amac/"k<icr/s*<ecr/z)</pr>, L. <plw>Rachides</plw> <pr>(r<acr/k"<icr/*d<emac/z)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ra`chis</grk>, <grk>-ios</grk>.]</ety> <altsp>[Written also <asp>rhachis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine; the vertebral column.</def></p>
+<p><par/<hw>Ra"chis</hw> <pr>(r<amac/"k<icr/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> E. <plw>Rachises</plw> <pr>(r<amac/"k<icr/s*<ecr/z)</pr>, L. <plw>Rachides</plw> <pr>(r<acr/k"<icr/*d<emac/z)</pr>.</plu> <ety>[NL., fr. Gr. <grk>"ra`cis</grk>, <grk>-ios</grk>.]</ety> <altsp>[Written also <asp>rhachis</asp>.]</altsp> <sn>1.</sn> <fld>(Anat.)</fld> <def>The spine; the vertebral column.</def></p>
 
 <p><sn>2.</sn> <fld>(Bot. & Zool.)</fld> <def>Same as <er>Rhachis</er>.</def></p>
 </entry>
@@ -447,13 +447,13 @@ Fetching mad bounds.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Rachitis" source="1913 Webster">
-<p><par/<hw>Ra*chi"tis</hw> <pr>(r<adot/*k<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"rachi^tis</grk> (sc. <grk>nosos</grk>), fr. <grk>"ra`chis</grk>, <grk>-ios</grk>, the spine.]</ety> <altsp>[Written also <asp>rhachitis</asp>.]</altsp> <sn>1.</sn> <fld>(Med.)</fld> <def>Literally, inflammation of the spine, but commonly applied to the rickets. See <er>Rickets</er>.</def></p>
+<p><par/<hw>Ra*chi"tis</hw> <pr>(r<adot/*k<imac/"t<icr/s)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"raci^tis</grk> (sc. <grk>nosos</grk>), fr. <grk>"ra`cis</grk>, <grk>-ios</grk>, the spine.]</ety> <altsp>[Written also <asp>rhachitis</asp>.]</altsp> <sn>1.</sn> <fld>(Med.)</fld> <def>Literally, inflammation of the spine, but commonly applied to the rickets. See <er>Rickets</er>.</def></p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A disease which produces abortion in the fruit or seeds.</def>  <rj><au>Henslow.</au></rj></p>
 </entry>
 
 <entry main-word="Rachitome" source="1913 Webster">
-<p><hw>Ra"chi*tome</hw> <pr>(r<amac/"k<icr/*t<omac/m)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <grk>"ra`chis</grk>, <grk>-ios</grk>, the spine + <grk>te`mnein</grk> to cut.]</ety> <def>A dissecting instrument for opening the spinal canal.</def> <altsp>[Written also <asp>rachiotome</asp>.]</altsp></p>
+<p><hw>Ra"chi*tome</hw> <pr>(r<amac/"k<icr/*t<omac/m)</pr>, <pos>n.</pos> <ety>[F., fr. Gr. <grk>"ra`cis</grk>, <grk>-ios</grk>, the spine + <grk>te`mnein</grk> to cut.]</ety> <def>A dissecting instrument for opening the spinal canal.</def> <altsp>[Written also <asp>rachiotome</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Racial" source="1913 Webster">
@@ -1716,7 +1716,7 @@ The moonlight <qex>raid</qex>, the morning fight.</q> <rj><qau>Sir W. Scott.</qa
 </entry>
 
 <entry main-word="Rain" source="1913 Webster">
-<p><hw>Rain</hw> <pr>(r<amac/n)</pr>, <pos>n.</pos> <ety>[OE. <ets>rein</ets>, AS. <ets>regen</ets>; akin to OFries. <ets>rein</ets>, D. & G. <ets>regen</ets>, OS. & OHG. <ets>regan</ets>, Icel., Dan., & Sw. <ets>regn</ets>, Goth. <ets>rign</ets>, and prob. to L. <ets>rigare</ets> to water, to wet; cf. Gr. <grk>bre`chein</grk> to wet, to rain.]</ety> <def>Water falling in drops from the clouds; the descent of water from the clouds in drops.</def></p>
+<p><hw>Rain</hw> <pr>(r<amac/n)</pr>, <pos>n.</pos> <ety>[OE. <ets>rein</ets>, AS. <ets>regen</ets>; akin to OFries. <ets>rein</ets>, D. & G. <ets>regen</ets>, OS. & OHG. <ets>regan</ets>, Icel., Dan., & Sw. <ets>regn</ets>, Goth. <ets>rign</ets>, and prob. to L. <ets>rigare</ets> to water, to wet; cf. Gr. <grk>bre`cein</grk> to wet, to rain.]</ety> <def>Water falling in drops from the clouds; the descent of water from the clouds in drops.</def></p>
 
 <p><q><qex>Rain</qex> is water by the heat of the sun divided into very small parts ascending in the air, till, encountering the cold, it be condensed into clouds, and descends in drops.</q> <rj><qau>Ray.</qau></rj></p>
 
@@ -23288,11 +23288,11 @@ Thy merited <qex>reward</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rhachilla" source="1913 Webster">
-<p><par/<hw>Rha*chil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`chis</grk> the spine.]</ety> <fld>(Bot.)</fld> <def>A branch of inflorescence; the zigzag axis on which the florets are arranged in the spikelets of grasses.</def></p>
+<p><par/<hw>Rha*chil"la</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ra`cis</grk> the spine.]</ety> <fld>(Bot.)</fld> <def>A branch of inflorescence; the zigzag axis on which the florets are arranged in the spikelets of grasses.</def></p>
 </entry>
 
 <entry main-word="Rhachiodont" source="1913 Webster">
-<p><hw>Rha"chi*o*dont</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"ra`chis</grk>, <grk>-ios</grk>, the spine + <?/<?/<?/, <?/<?/<?/, a tooth.]</ety> <fld>(Zool.)</fld> <def>Having gular teeth formed by a peculiar modification of the inferior spines of some of the vertebrae, as certain South African snakes (<gen>Dasypeltis</gen>) which swallow birds' eggs and use these gular teeth to crush them.</def></p>
+<p><hw>Rha"chi*o*dont</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"ra`cis</grk>, <grk>-ios</grk>, the spine + <?/<?/<?/, <?/<?/<?/, a tooth.]</ety> <fld>(Zool.)</fld> <def>Having gular teeth formed by a peculiar modification of the inferior spines of some of the vertebrae, as certain South African snakes (<gen>Dasypeltis</gen>) which swallow birds' eggs and use these gular teeth to crush them.</def></p>
 </entry>
 
 <entry main-word="Rhachis" source="1913 Webster">
@@ -24130,27 +24130,27 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 </entry>
 
 <entry main-word="Rhynchobdellea" source="1913 Webster">
-<p><par/<hw>Rhyn`chob*del"le*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <?/<?/<?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A suborder of leeches including those that have a protractile proboscis, without jaws. Clepsine is the type.</def></p>
+<p><par/<hw>Rhyn`chob*del"le*a</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout + <?/<?/<?/ a leech.]</ety> <fld>(Zool.)</fld> <def>A suborder of leeches including those that have a protractile proboscis, without jaws. Clepsine is the type.</def></p>
 </entry>
 
 <entry main-word="Rhynchocephala" source="1913 Webster">
-<p><par/<hw>Rhyn`cho*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles having biconcave vertebrae, immovable quadrate bones, and many other peculiar osteological characters. Hatteria is the only living genus, but numerous fossil genera are known, some of which are among the earliest of reptiles. See <er>Hatteria</er>. Called also <altname>Rhynchocephalia</altname>.</def></p>
+<p><par/<hw>Rhyn`cho*ceph"a*la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout + <grk>kefalh`</grk> head.]</ety> <fld>(Zool.)</fld> <def>An order of reptiles having biconcave vertebrae, immovable quadrate bones, and many other peculiar osteological characters. Hatteria is the only living genus, but numerous fossil genera are known, some of which are among the earliest of reptiles. See <er>Hatteria</er>. Called also <altname>Rhynchocephalia</altname>.</def></p>
 </entry>
 
 <entry main-word="Rhynchocoela" source="1913 Webster">
-<p><par/<hw>Rhyn`cho*coe"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>koi`los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Nemertina</er>.</def> -- <wordforms><wf>Rhyn`cho*coe"lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
+<p><par/<hw>Rhyn`cho*coe"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout + <grk>koi`los</grk> hollow.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Nemertina</er>.</def> -- <wordforms><wf>Rhyn`cho*coe"lous</wf> <pr>(#)</pr>, <pos>a.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Rhyncholite" source="1913 Webster">
-<p><hw>Rhyn"cho*lite</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ry`gchos</grk> snout, beak + <ets>-lie</ets>: cf. F. <ets>rhyncholithe</ets>.]</ety> <fld>(Paleon.)</fld> <def>A fossil cephalopod beak.</def></p>
+<p><hw>Rhyn"cho*lite</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"ry`gcos</grk> snout, beak + <ets>-lie</ets>: cf. F. <ets>rhyncholithe</ets>.]</ety> <fld>(Paleon.)</fld> <def>A fossil cephalopod beak.</def></p>
 </entry>
 
 <entry main-word="Rhynchonella" source="1913 Webster">
-<p><par/<hw>Rhyn`cho*nel"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which some species are still living, while many are found fossil.</def></p>
+<p><par/<hw>Rhyn`cho*nel"la</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>A genus of brachiopods of which some species are still living, while many are found fossil.</def></p>
 </entry>
 
 <entry main-word="Rhynchophora" source="1913 Webster">
-<p><par/<hw>Rhyn*choph"o*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout + <grk>fe`rein</grk> to carry.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having a snoutlike head; the snout beetles, curculios, or weevils.</def></p>
+<p><par/<hw>Rhyn*choph"o*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout + <grk>fe`rein</grk> to carry.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having a snoutlike head; the snout beetles, curculios, or weevils.</def></p>
 </entry>
 
 <entry main-word="Rhynchophore" source="1913 Webster">
@@ -24158,7 +24158,7 @@ Who <qex>rhymed</qex> for hire, and patronized for pride.</q> <rj><qau>Pope.</qa
 </entry>
 
 <entry main-word="Rhynchota" source="1913 Webster">
-<p><par/<hw>Rhyn*cho"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gchos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hemiptera</er>.</def> <altsp>[Written also <asp>Rhyncota</asp>.]</altsp></p>
+<p><par/<hw>Rhyn*cho"ta</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"ry`gcos</grk> snout.]</ety> <fld>(Zool.)</fld> <def>Same as <er>Hemiptera</er>.</def> <altsp>[Written also <asp>Rhyncota</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Rhyolite" source="1913 Webster">

@@ -4604,7 +4604,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Decachord" source="1913 Webster">
-<p><mhw>{ <hw>Dec"a*chord</hw> <pr>(?)</pr>, <hw>Dec`a*chor"don</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>deka`chordos</grk> tenstringed; <grk>de`ka</grk> ten + <grk>chordh`</grk> a string.]</ety> <sn>1.</sn> <def>An ancient Greek musical instrument of ten strings, resembling the harp.</def></p>
+<p><mhw>{ <hw>Dec"a*chord</hw> <pr>(?)</pr>, <hw>Dec`a*chor"don</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Gr. <grk>deka`cordos</grk> tenstringed; <grk>de`ka</grk> ten + <grk>cordh`</grk> a string.]</ety> <sn>1.</sn> <def>An ancient Greek musical instrument of ten strings, resembling the harp.</def></p>
 
 <p><sn>2.</sn> <def>Something consisting of ten parts.</def>  <rj><au>W. Watson.</au></rj></p>
 </entry>
@@ -4847,7 +4847,7 @@ And thankfully rest <qex>debtor</qex> for the first.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Decastich" source="1913 Webster">
-<p><hw>Dec"a*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>deca-</ets> + Gr. <grk>sti`chos</grk> a row, a line of writing, a verse.]</ety> <def>A poem consisting of ten lines.</def></p>
+<p><hw>Dec"a*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pref. <ets>deca-</ets> + Gr. <grk>sti`cos</grk> a row, a line of writing, a verse.]</ety> <def>A poem consisting of ten lines.</def></p>
 </entry>
 
 <entry main-word="Decastyle" source="1913 Webster">
@@ -10751,7 +10751,7 @@ Pope Innocent, I do <qex>demand</qex> of thee.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Demarch" source="1913 Webster">
-<p><hw>De*march</hw> <pr>(d<emac/"m<aum/rk)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dh`marchos</grk>; <grk>dh^mos</grk> people + <grk>'a`rchein</grk> to rule.]</ety> <def>A chief or ruler of a deme or district in Greece.</def></p>
+<p><hw>De*march</hw> <pr>(d<emac/"m<aum/rk)</pr>, <pos>n.</pos> <ety>[Gr. <grk>dh`marcos</grk>; <grk>dh^mos</grk> people + <grk>'a`rcein</grk> to rule.]</ety> <def>A chief or ruler of a deme or district in Greece.</def></p>
 </entry>
 
 <entry main-word="Demarkation" source="1913 Webster">
@@ -19288,7 +19288,7 @@ The universal <qex>dialect</qex> of the world.</q> <rj><qau>South.</qau></rj></p
 </entry>
 
 <entry main-word="Diapason" source="1913 Webster">
-<p><hw>Di`a*pa"son</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>diapasw^n</grk> (<it>i. e.</it>, <grk>"h dia` pasw^n chordw^n symfoni`a</grk> the concord of the first and last notes, the octave); <grk>dia`</grk> through + <grk>pasw^n</grk>, gen. pl. of <grk>pa^s</grk> all: cf. F. <ets>diapason</ets>.  Cf. <er>Panacea</er>.]</ety> <sn>1.</sn> <fld>(Gr. Mus.)</fld> <def>The octave, or interval which includes all the tones of the diatonic scale.  Compare <er>disdiapason</er>.</def></p>
+<p><hw>Di`a*pa"son</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>diapasw^n</grk> (<it>i. e.</it>, <grk>"h dia` pasw^n cordw^n symfoni`a</grk> the concord of the first and last notes, the octave); <grk>dia`</grk> through + <grk>pasw^n</grk>, gen. pl. of <grk>pa^s</grk> all: cf. F. <ets>diapason</ets>.  Cf. <er>Panacea</er>.]</ety> <sn>1.</sn> <fld>(Gr. Mus.)</fld> <def>The octave, or interval which includes all the tones of the diatonic scale.  Compare <er>disdiapason</er>.</def></p>
 
 <p><sn>2.</sn> <def>Concord, as of notes an octave apart; harmony.</def></p>
 
@@ -19828,7 +19828,7 @@ With in wrought flowers.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Dichlamydeous" source="1913 Webster">
-<p><hw>Di`chla*myd"e*ous</hw> <pr>(d<imac/`kl<adot/*m<icr/d"<esl/*<ucr/s)</pr>, <pos>a.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>chlamy`s</grk>, <grk>chlamy`dos</grk>, a cloak.]</ety> <fld>(Bot.)</fld> <def>Having two coverings, a calyx and a corolla.</def></p>
+<p><hw>Di`chla*myd"e*ous</hw> <pr>(d<imac/`kl<adot/*m<icr/d"<esl/*<ucr/s)</pr>, <pos>a.</pos> <ety>[Gr. <grk>di-</grk> = <grk>di`s-</grk> twice + <grk>clamy`s</grk>, <grk>clamy`dos</grk>, a cloak.]</ety> <fld>(Bot.)</fld> <def>Having two coverings, a calyx and a corolla.</def></p>
 </entry>
 
 <entry main-word="Dichloride" source="1913 Webster">
@@ -21725,7 +21725,7 @@ That it will live engraven in my face.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Dike" source="1913 Webster">
-<p><hw>Dike</hw> <pr>(d<imac/)</pr>, <pos>n.</pos> <ety>[OE. <ets>dic</ets>, <ets>dike</ets>, <ets>diche</ets>, ditch, AS. <ets>d<imac/c</ets> dike, ditch; akin to D. <ets>dijk</ets> dike, G. <ets>deich</ets>, and prob. <ets>teich</ets> pond, Icel. <ets>d<imac/ki</ets> dike, ditch, Dan. <ets>dige</ets>; perh. akin to Gr. <grk>tei^chos</grk> (for <grk>qei^chos</grk>) wall, and even E. <ets>dough</ets>; or perh. to Gr. <grk>ti^fos</grk> pool, marsh.  Cf. <er>Ditch</er>.]</ety> <sn>1.</sn> <def>A ditch; a channel for water made by digging.</def></p>
+<p><hw>Dike</hw> <pr>(d<imac/)</pr>, <pos>n.</pos> <ety>[OE. <ets>dic</ets>, <ets>dike</ets>, <ets>diche</ets>, ditch, AS. <ets>d<imac/c</ets> dike, ditch; akin to D. <ets>dijk</ets> dike, G. <ets>deich</ets>, and prob. <ets>teich</ets> pond, Icel. <ets>d<imac/ki</ets> dike, ditch, Dan. <ets>dige</ets>; perh. akin to Gr. <grk>tei^cos</grk> (for <grk>qei^cos</grk>) wall, and even E. <ets>dough</ets>; or perh. to Gr. <grk>ti^fos</grk> pool, marsh.  Cf. <er>Ditch</er>.]</ety> <sn>1.</sn> <def>A ditch; a channel for water made by digging.</def></p>
 
 <p><q>Little channels or <qex>dikes</qex> cut to every bed.</q> <rj><qau>Ray.</qau></rj></p>
 
@@ -35432,7 +35432,7 @@ They stood prepared to see the manna fall.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Dolichocephalic" source="">
-<p><mhw>{ <hw>Dol`i*cho*ce*phal"ic</hw> <pr>(d<ocr/l`<icr/*k<osl/*s<esl/*f<acr/l"<icr/k)</pr>, <hw>Dol`i*cho*ceph"a*lous</hw> <pr>(d<ocr/l`<icr/*k<osl/*s<ecr/f"<adot/*l<ucr/s)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <grk>dolicho`s</grk> long + <grk>kefalh`</grk> head.]</ety> <fld>(Anat.)</fld> <def>Having the cranium, or skull, long to its breadth; long-headed; -- opposed to <contr>brachycephalic</contr>.</def> -- <wordforms><wf>Dol`i*cho*ceph"al</wf> <pr>(#)</pr>, <pos>a. & n.</pos></wordforms></p>
+<p><mhw>{ <hw>Dol`i*cho*ce*phal"ic</hw> <pr>(d<ocr/l`<icr/*k<osl/*s<esl/*f<acr/l"<icr/k)</pr>, <hw>Dol`i*cho*ceph"a*lous</hw> <pr>(d<ocr/l`<icr/*k<osl/*s<ecr/f"<adot/*l<ucr/s)</pr>, }</mhw> <pos>a.</pos> <ety>[Gr. <grk>dolico`s</grk> long + <grk>kefalh`</grk> head.]</ety> <fld>(Anat.)</fld> <def>Having the cranium, or skull, long to its breadth; long-headed; -- opposed to <contr>brachycephalic</contr>.</def> -- <wordforms><wf>Dol`i*cho*ceph"al</wf> <pr>(#)</pr>, <pos>a. & n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Dolichocephaly" source="1913 Webster">
@@ -37880,7 +37880,7 @@ And bosomed with her.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Doughty" source="1913 Webster">
-<p><hw>Dough"ty</hw> <pr>(dou"t<ycr/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Doughtier</adjf> <pr>(dou"t<icr/*<etil/r)</pr>; <pos>superl.</pos> <adjf>Doughtiest</adjf>.]</amorph> <ety>[OE. <ets>duhti</ets>, <ets>dohti</ets>, <ets>douhti</ets>, brave, valiant, fit, useful, AS. <ets>dyhtig</ets>; akin to G. <ets>t<uum/chtig</ets>, Dan. <ets>dygtig</ets>, Sw. <ets>dygdig</ets> virtuous, and fr. AS. <ets>dugan</ets> to avail, be of use, be strong, akin to D. <ets>deugen</ets>, OHG. <ets>tugan</ets>, G. <ets>taugen</ets>, Icel. & Sw. <ets>duga</ets>, Dan. <ets>due</ets>, Goth. <ets>dugan</ets>, but of uncertain origin; cf. Skr. <ets>duh</ets> to milk, give milk, draw out, or Gr. <grk>ty`chh</grk> fortune. <root/68.]</ety> <def>Able; strong; valiant; redoubtable; <as>as, a <ex>doughty</ex> hero</as>.</def></p>
+<p><hw>Dough"ty</hw> <pr>(dou"t<ycr/)</pr>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Doughtier</adjf> <pr>(dou"t<icr/*<etil/r)</pr>; <pos>superl.</pos> <adjf>Doughtiest</adjf>.]</amorph> <ety>[OE. <ets>duhti</ets>, <ets>dohti</ets>, <ets>douhti</ets>, brave, valiant, fit, useful, AS. <ets>dyhtig</ets>; akin to G. <ets>t<uum/chtig</ets>, Dan. <ets>dygtig</ets>, Sw. <ets>dygdig</ets> virtuous, and fr. AS. <ets>dugan</ets> to avail, be of use, be strong, akin to D. <ets>deugen</ets>, OHG. <ets>tugan</ets>, G. <ets>taugen</ets>, Icel. & Sw. <ets>duga</ets>, Dan. <ets>due</ets>, Goth. <ets>dugan</ets>, but of uncertain origin; cf. Skr. <ets>duh</ets> to milk, give milk, draw out, or Gr. <grk>ty`c</grk> fortune. <root/68.]</ety> <def>Able; strong; valiant; redoubtable; <as>as, a <ex>doughty</ex> hero</as>.</def></p>
 
 <p><q>Sir Thopas wex [grew] a <qex>doughty</qex> swain.</q> <rj><qau>Chaucer.</qau></rj></p>
 
@@ -39306,7 +39306,7 @@ Filled the capacious deep and formed the main.</q> <rj><qau>Roscommon.</qau></rj
 </entry>
 
 <entry main-word="Dram" source="1913 Webster">
-<p><hw>Dram</hw> <pr>(dr<acr/m)</pr>, <pos>n.</pos> <ety>[OF. <ets>drame</ets>, F. <ets>drachme</ets>, L. <ets>drachma</ets>, drachm, drachma, fr. Gr. <grk>drachmh`</grk>, prop., a handful, fr. <grk>dra`ssesqai</grk> to grasp.  Cf. <er>Drachm</er>, <er>Drachma</er>.]</ety> <sn>1.</sn> <def>A weight; in <xex>Apothecaries' weight</xex>, one eighth part of an ounce, or sixty grains; in <xex>Avoirdupois weight</xex>, one sixteenth part of an ounce, or 27.34375 grains.</def></p>
+<p><hw>Dram</hw> <pr>(dr<acr/m)</pr>, <pos>n.</pos> <ety>[OF. <ets>drame</ets>, F. <ets>drachme</ets>, L. <ets>drachma</ets>, drachm, drachma, fr. Gr. <grk>dracmh`</grk>, prop., a handful, fr. <grk>dra`ssesqai</grk> to grasp.  Cf. <er>Drachm</er>, <er>Drachma</er>.]</ety> <sn>1.</sn> <def>A weight; in <xex>Apothecaries' weight</xex>, one eighth part of an ounce, or sixty grains; in <xex>Avoirdupois weight</xex>, one sixteenth part of an ounce, or 27.34375 grains.</def></p>
 
 <p><sn>2.</sn> <def>A minute quantity; a mite.</def></p>
 
@@ -41395,7 +41395,7 @@ And in a little while our lips are dumb.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Dromedary" source="1913 Webster">
-<p><hw>Drom"e*da*ry</hw> <pr>(dr<ucr/m"<esl/*d<asl/*r<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dromedaries</plw> <pr>(-r<icr/z)</pr>.</plu> <ety>[F. <ets>dromadaire</ets>, LL. <ets>dromedarius</ets>, fr. L. <ets>dromas</ets> (sc. <ets>camelus</ets>), fr. Gr. <grk>droma`s</grk> running, from <grk>dramei^n</grk>, used as aor. of <grk>tre`chein</grk> to run; cf. Skr. <ets>dram</ets> to run.]</ety> <fld>(Zool.)</fld> <def>The Arabian camel (<spn>Camelus dromedarius</spn>), having one hump or protuberance on the back, in distinction from the <contr>Bactrian camel</contr>, which has two humps.</def></p>
+<p><hw>Drom"e*da*ry</hw> <pr>(dr<ucr/m"<esl/*d<asl/*r<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Dromedaries</plw> <pr>(-r<icr/z)</pr>.</plu> <ety>[F. <ets>dromadaire</ets>, LL. <ets>dromedarius</ets>, fr. L. <ets>dromas</ets> (sc. <ets>camelus</ets>), fr. Gr. <grk>droma`s</grk> running, from <grk>dramei^n</grk>, used as aor. of <grk>tre`cein</grk> to run; cf. Skr. <ets>dram</ets> to run.]</ety> <fld>(Zool.)</fld> <def>The Arabian camel (<spn>Camelus dromedarius</spn>), having one hump or protuberance on the back, in distinction from the <contr>Bactrian camel</contr>, which has two humps.</def></p>
 
 <p source=""><note><hand/ In Arabia and Egypt the name is restricted to the better breeds of this species of camel. See <er>Deloul</er>.</note></p>
 </entry>

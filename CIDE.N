@@ -2044,7 +2044,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Naumachy" source="1913 Webster">
-<p><hw>Nau"ma*chy</hw> <pr>(n<add/"m<adot/*k<ycr/)</pr>, <pos>n.</pos> <ety>[L. <ets>naumachia</ets>, Gr. <grk>naymachi`a</grk>; <grk>nay^s</grk> ship + <grk>ma`chh</grk> fight, battle, <grk>ma`chesqai</grk> to fight.]</ety> <sn>1.</sn> <def>A naval battle; esp., a mock sea fight put on by the ancient Romans.</def></p>
+<p><hw>Nau"ma*chy</hw> <pr>(n<add/"m<adot/*k<ycr/)</pr>, <pos>n.</pos> <ety>[L. <ets>naumachia</ets>, Gr. <grk>naymaci`a</grk>; <grk>nay^s</grk> ship + <grk>ma`c</grk> fight, battle, <grk>ma`cesqai</grk> to fight.]</ety> <sn>1.</sn> <def>A naval battle; esp., a mock sea fight put on by the ancient Romans.</def></p>
 
 <p><sn>2.</sn> <fld>(Rom. Antiq.)</fld> <def>A show or spectacle representing a sea fight; also, a place for such exhibitions.</def></p>
 </entry>
@@ -2171,11 +2171,11 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Navarch" source="1913 Webster">
-<p><hw>Na"varch</hw> <pr>(n<amac/"v<aum/rk)</pr>, <pos>n.</pos> <ety>[L. <ets>navarchus</ets>, Gr. <grk>nay`archo`s</grk>; <grk>nay^s</grk> ship + <grk>'archo`s</grk> chief.]</ety> <fld>(Gr. Antiq.)</fld> <def>The commander of a fleet.</def>  <rj><au>Mitford.</au></rj></p>
+<p><hw>Na"varch</hw> <pr>(n<amac/"v<aum/rk)</pr>, <pos>n.</pos> <ety>[L. <ets>navarchus</ets>, Gr. <grk>nay`arco`s</grk>; <grk>nay^s</grk> ship + <grk>'arco`s</grk> chief.]</ety> <fld>(Gr. Antiq.)</fld> <def>The commander of a fleet.</def>  <rj><au>Mitford.</au></rj></p>
 </entry>
 
 <entry main-word="navarchy" source="1913 Webster">
-<p><hw>na"varch*y</hw> <pr>(n<amac/"v<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>nayarchi`a</grk>.]</ety> <def>Nautical skill or experience.</def> <mark>[Obs.]</mark>  <rj><au>Sir W. Petty.</au></rj></p>
+<p><hw>na"varch*y</hw> <pr>(n<amac/"v<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>nayarci`a</grk>.]</ety> <def>Nautical skill or experience.</def> <mark>[Obs.]</mark>  <rj><au>Sir W. Petty.</au></rj></p>
 </entry>
 
 <entry main-word="Navarino" source="WordNet 1.5">
@@ -2194,7 +2194,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Nave" source="1913 Webster">
-<p><hw>Nave</hw>, <pos>n.</pos> <ety>[F. <ets>nef</ets>, fr. L. <ets>navis</ets> ship, to which the church was often likened; akin to Gr. <grk>nay`archo`s</grk>, Skr. n<amac/us, and perh. to AS. <ets>naca</ets> boat, G. <ets>nachen</ets>, Icel. <ets>n<oum/kkvi</ets>; cf. L. <ets>nare</ets> to swim, float.  Cf. <er>Nausea</er>, <er>Nautical</er>, <er>Naval</er>.]</ety> <fld>(Arch.)</fld> <def>The middle or body of a church, extending from the transepts to the principal entrances, or, if there are no transepts, from the choir to the principal entrance, but not including the aisles.</def></p>
+<p><hw>Nave</hw>, <pos>n.</pos> <ety>[F. <ets>nef</ets>, fr. L. <ets>navis</ets> ship, to which the church was often likened; akin to Gr. <grk>nay`arco`s</grk>, Skr. n<amac/us, and perh. to AS. <ets>naca</ets> boat, G. <ets>nachen</ets>, Icel. <ets>n<oum/kkvi</ets>; cf. L. <ets>nare</ets> to swim, float.  Cf. <er>Nausea</er>, <er>Nautical</er>, <er>Naval</er>.]</ety> <fld>(Arch.)</fld> <def>The middle or body of a church, extending from the transepts to the principal entrances, or, if there are no transepts, from the choir to the principal entrance, but not including the aisles.</def></p>
 </entry>
 
 <entry main-word="Navel" source="1913 Webster">
@@ -8474,7 +8474,7 @@ Ready with every <qex>nod</qex> to tumble down.</q> <rj><qau>Shak.</qau></rj></p
 </entry>
 
 <entry main-word="Noematachograph" source="1913 Webster">
-<p><hw>No*e`ma*tach"o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>no`hma</grk> the understanding + <grk>ta`chos</grk> swiftness + <ets>-graph</ets>.]</ety> <def>An instrument for determining and registering the duration of more or less complex operations of the mind.</def>  <rj><au>Dunglison.</au></rj></p>
+<p><hw>No*e`ma*tach"o*graph</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>no`hma</grk> the understanding + <grk>ta`cos</grk> swiftness + <ets>-graph</ets>.]</ety> <def>An instrument for determining and registering the duration of more or less complex operations of the mind.</def>  <rj><au>Dunglison.</au></rj></p>
 </entry>
 
 <entry main-word="Noematic" source="1913 Webster">

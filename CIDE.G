@@ -6938,7 +6938,7 @@ In every <qex>gesture</qex> dignity and love.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Get" source="1913 Webster">
-<p><hw>Get</hw> <pr>(g<ecr/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Got</conjf> <pr>(g<ocr/t)</pr> (<mark>Obs.</mark> <conjf>Gat</conjf> <pr>(g<acr/t)</pr>); <pos>p. p.</pos> <conjf>Got</conjf> (<mark>Obsolescent</mark> <conjf>Gotten</conjf> <pr>(g<ocr/t"t'n)</pr>); <pos>p. pr. & vb. n.</pos> <conjf>Getting</conjf>.]</vmorph> <ety>[OE. <ets>geten</ets>, AS. <ets>gitan</ets>, <ets>gietan</ets> (in comp.); akin to Icel. <ets>geta</ets>, Goth. bi<ets>gitan</ets> to find, L. pre<ets>hendere</ets> to seize, take, Gr. <grk>chanda`nein</grk> to hold, contain.  Cf. <er>Comprehend</er>, <er>Enterprise</er>, <er>Forget</er>, <er>Impregnable</er>, <er>Prehensile</er>.]</ety> <sn>1.</sn> <def>To procure; to obtain; to gain possession of; to acquire; to earn; to obtain as a price or reward; to come by; to win, by almost any means; <as>as, to <ex>get</ex> favor by kindness; to <ex>get</ex> wealth by industry and economy; to <ex>get</ex> land by purchase, etc.</as></def></p>
+<p><hw>Get</hw> <pr>(g<ecr/t)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Got</conjf> <pr>(g<ocr/t)</pr> (<mark>Obs.</mark> <conjf>Gat</conjf> <pr>(g<acr/t)</pr>); <pos>p. p.</pos> <conjf>Got</conjf> (<mark>Obsolescent</mark> <conjf>Gotten</conjf> <pr>(g<ocr/t"t'n)</pr>); <pos>p. pr. & vb. n.</pos> <conjf>Getting</conjf>.]</vmorph> <ety>[OE. <ets>geten</ets>, AS. <ets>gitan</ets>, <ets>gietan</ets> (in comp.); akin to Icel. <ets>geta</ets>, Goth. bi<ets>gitan</ets> to find, L. pre<ets>hendere</ets> to seize, take, Gr. <grk>canda`nein</grk> to hold, contain.  Cf. <er>Comprehend</er>, <er>Enterprise</er>, <er>Forget</er>, <er>Impregnable</er>, <er>Prehensile</er>.]</ety> <sn>1.</sn> <def>To procure; to obtain; to gain possession of; to acquire; to earn; to obtain as a price or reward; to come by; to win, by almost any means; <as>as, to <ex>get</ex> favor by kindness; to <ex>get</ex> wealth by industry and economy; to <ex>get</ex> land by purchase, etc.</as></def></p>
 
 <p><sn>2.</sn> <def>Hence, with <xex>have</xex> and <xex>had</xex>, to come into or be in possession of; to have.</def>  <rj><au>Johnson.</au></rj></p>
 
@@ -12020,7 +12020,7 @@ And felly <qex>gnarre</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Go" source="1913 Webster">
-<p><hw>Go</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Went</conjf> <pr>(w<ecr/nt)</pr>; <pos>p. p.</pos> <conjf>Gone</conjf> <pr>(g<ocr/n; 115)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Going</conjf>. <xex>Went</xex> comes from the AS, <xex>wendan</xex>. See <er>Wend</er>, <pos>v. i.</pos>]</vmorph> <ety>[OE. <ets>gan</ets>, <ets>gon</ets>, AS. <ets>g<amac/n</ets>, akin to D. <ets>gaan</ets>, G. <ets>gehn</ets>, <ets>gehen</ets>, OHG. <ets>g<emac/n</ets>, <ets>g<amac/n</ets>, SW. <ets>g<aring/</ets>, Dan. <ets>gaae</ets>; cf. Gr. <grk>kicha`nai</grk> to reach, overtake, Skr. <ets>h<amac/</ets> to go, AS. <ets>gangan</ets>, and E. <ets>gang</ets>. The past tense in AS., <ets>eode</ets>, is from the root <ets>i</ets> to go, as is also Goth. <ets>iddja</ets> went. <root/47<it>a</it>.  Cf. <er>Gang</er>, <pos>v. i.</pos>, <er>Wend</er>.]</ety>  <sn>1.</sn> <def>To pass from one place to another; to be in motion; to be in a state not motionless or at rest; to proceed; to advance; to make progress; -- used, in various applications, of the movement of both animate and inanimate beings, by whatever means, and also of the movements of the mind; also figuratively applied.</def></p>
+<p><hw>Go</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Went</conjf> <pr>(w<ecr/nt)</pr>; <pos>p. p.</pos> <conjf>Gone</conjf> <pr>(g<ocr/n; 115)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Going</conjf>. <xex>Went</xex> comes from the AS, <xex>wendan</xex>. See <er>Wend</er>, <pos>v. i.</pos>]</vmorph> <ety>[OE. <ets>gan</ets>, <ets>gon</ets>, AS. <ets>g<amac/n</ets>, akin to D. <ets>gaan</ets>, G. <ets>gehn</ets>, <ets>gehen</ets>, OHG. <ets>g<emac/n</ets>, <ets>g<amac/n</ets>, SW. <ets>g<aring/</ets>, Dan. <ets>gaae</ets>; cf. Gr. <grk>kica`nai</grk> to reach, overtake, Skr. <ets>h<amac/</ets> to go, AS. <ets>gangan</ets>, and E. <ets>gang</ets>. The past tense in AS., <ets>eode</ets>, is from the root <ets>i</ets> to go, as is also Goth. <ets>iddja</ets> went. <root/47<it>a</it>.  Cf. <er>Gang</er>, <pos>v. i.</pos>, <er>Wend</er>.]</ety>  <sn>1.</sn> <def>To pass from one place to another; to be in motion; to be in a state not motionless or at rest; to proceed; to advance; to make progress; -- used, in various applications, of the movement of both animate and inanimate beings, by whatever means, and also of the movements of the mind; also figuratively applied.</def></p>
 
 <p><sn>2.</sn> <def>To move upon the feet, or step by step; to walk; also, to walk step by step, or leisurely.</def></p>
 
@@ -13683,7 +13683,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Goose" source="1913 Webster">
-<p><hw>Goose</hw> <pr>(g<oomac/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Geese</plw> <pr>(g<emac/s)</pr>.</plu> <ety>[OE. <ets>gos</ets>, AS. <ets>g<omac/s</ets>, pl. <ets>g<emac/s</ets>; akin to D. & G. <ets>gans</ets>, Icel. <ets>g<amac/s</ets>, Dan. <ets>gaas</ets>, Sw. <ets>g<aring/s</ets>, Russ. <ets>guse</ets>. OIr. <ets>geiss</ets>, L. <ets>anser</ets>, for <ets>hanser</ets>, Gr. <grk>chh`n</grk>, Skr. <ets>ha<msdot/sa</ets>. <root/233.  Cf. <er>Gander</er>, <er>Gannet</er>, <er>Ganza</er>, <er>Gosling</er>.]</ety> <fld>(Zool.)</fld></p>
+<p><hw>Goose</hw> <pr>(g<oomac/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Geese</plw> <pr>(g<emac/s)</pr>.</plu> <ety>[OE. <ets>gos</ets>, AS. <ets>g<omac/s</ets>, pl. <ets>g<emac/s</ets>; akin to D. & G. <ets>gans</ets>, Icel. <ets>g<amac/s</ets>, Dan. <ets>gaas</ets>, Sw. <ets>g<aring/s</ets>, Russ. <ets>guse</ets>. OIr. <ets>geiss</ets>, L. <ets>anser</ets>, for <ets>hanser</ets>, Gr. <grk>c`n</grk>, Skr. <ets>ha<msdot/sa</ets>. <root/233.  Cf. <er>Gander</er>, <er>Gannet</er>, <er>Ganza</er>, <er>Gosling</er>.]</ety> <fld>(Zool.)</fld></p>
 
 <p><sn>1.</sn> <def>Any large web-footen bird of the subfamily <fam>Anserin<ae/</fam>, and belonging to <gen>Anser</gen>, <gen>Branta</gen>, <gen>Chen</gen>, and several allied genera. See <er>Anseres</er>.</def></p>
 
@@ -14821,7 +14821,7 @@ Thy <qex>gory</qex> locks at me.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Grace" source="1913 Webster">
-<p><hw>Grace</hw> <pr>(gr<amac/s)</pr>, <pos>n.</pos> <ety>[F. <ets>gr<acir/ce</ets>, L. <ets>gratia</ets>, from <ets>gratus</ets> beloved, dear, agreeable; perh. akin to Gr. <?/ to rejoice, <grk>cha`ris</grk> favor, grace, Skr. <ets>hary</ets> to desire, and E. yearn.  Cf. <er>Grateful</er>, <er>Gratis</er>.]</ety> <sn>1.</sn> <def>The exercise of love, kindness, mercy, favor; disposition to benefit or serve another; favor bestowed or privilege conferred.</def></p>
+<p><hw>Grace</hw> <pr>(gr<amac/s)</pr>, <pos>n.</pos> <ety>[F. <ets>gr<acir/ce</ets>, L. <ets>gratia</ets>, from <ets>gratus</ets> beloved, dear, agreeable; perh. akin to Gr. <?/ to rejoice, <grk>ca`ris</grk> favor, grace, Skr. <ets>hary</ets> to desire, and E. yearn.  Cf. <er>Grateful</er>, <er>Gratis</er>.]</ety> <sn>1.</sn> <def>The exercise of love, kindness, mercy, favor; disposition to benefit or serve another; favor bestowed or privilege conferred.</def></p>
 
 <p><q>To bow and sue for <qex>grace</qex><br/
 With suppliant knee.</q> <rj><qau>Milton.</qau></rj></p>
@@ -22317,7 +22317,7 @@ Who, while she <qex>guzzles</qex>, chats the doctor's praise.</q> <rj><qau>Rosco
 </entry>
 
 <entry main-word="Gymnasiarch" source="1913 Webster">
-<p><hw>Gym*na"si*arch</hw> <pr>(j<icr/m*n<amac/"z<icr/*<aum/rk)</pr>, <pos>n.</pos> <ety>[L. <ets>gymnasiarchus</ets>, Gr. <grk>gymnasi`archos</grk>; <grk>gymna`sion</grk> + <grk>'a`rchein</grk> to govern:  cf. F. <ets>gymnasiarque</ets>.]</ety> <fld>(Gr. Antiq.)</fld> <def>An Athenian officer who superintended the gymnasia, and provided the oil and other necessaries at his own expense.</def></p>
+<p><hw>Gym*na"si*arch</hw> <pr>(j<icr/m*n<amac/"z<icr/*<aum/rk)</pr>, <pos>n.</pos> <ety>[L. <ets>gymnasiarchus</ets>, Gr. <grk>gymnasi`arcos</grk>; <grk>gymna`sion</grk> + <grk>'a`rcein</grk> to govern:  cf. F. <ets>gymnasiarque</ets>.]</ety> <fld>(Gr. Antiq.)</fld> <def>An Athenian officer who superintended the gymnasia, and provided the oil and other necessaries at his own expense.</def></p>
 </entry>
 
 <entry main-word="Gymnasium" source="1913 Webster">
@@ -22382,7 +22382,7 @@ Of <qex>gymnic</qex> artists, wrestlers, riders, runners?</q> <rj><qau>Milton.</
 </entry>
 
 <entry main-word="Gymnochroa" source="1913 Webster">
-<p><par/<hw>Gym*noch"ro*a</hw> <pr>(j<icr/m*n<ocr/k"r<osl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>chro`a</grk> skin, body.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea including the hydra. See <er>Hydra</er>.</def></p>
+<p><par/<hw>Gym*noch"ro*a</hw> <pr>(j<icr/m*n<ocr/k"r<osl/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>gymno`s</grk> naked + <grk>cro`a</grk> skin, body.]</ety> <fld>(Zool.)</fld> <def>A division of Hydroidea including the hydra. See <er>Hydra</er>.</def></p>
 </entry>
 
 <entry main-word="Gymnocladus" source="1913 Webster">

@@ -2695,7 +2695,7 @@ And grieved to find herself decayed so soon.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Lance" source="1913 Webster">
-<p><hw>Lance</hw> <pr>(l<acr/ns)</pr>, <pos>n.</pos> <ety>[OE. <ets>lance</ets>, F. <ets>lance</ets>, <ets>fr</ets>. L. <ets>lancea</ets>; cf. Gr. <grk>lo`gchh</grk>.  Cf. <er>Launch</er>.]</ety> <sn>1.</sn> <def>A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen, and often decorated with a small flag; also, a spear or harpoon used by whalers and fishermen.</def></p>
+<p><hw>Lance</hw> <pr>(l<acr/ns)</pr>, <pos>n.</pos> <ety>[OE. <ets>lance</ets>, F. <ets>lance</ets>, <ets>fr</ets>. L. <ets>lancea</ets>; cf. Gr. <grk>lo`gc</grk>.  Cf. <er>Launch</er>.]</ety> <sn>1.</sn> <def>A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen, and often decorated with a small flag; also, a spear or harpoon used by whalers and fishermen.</def></p>
 
 <p><q>A braver soldier never couched <qex>lance</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -8922,7 +8922,7 @@ Nothing is <qex>legible</qex> but the name alone.</q> <rj><qau>Longfellow.</qau>
 </entry>
 
 <entry main-word="Leiotrichi" source="1913 Webster">
-<p><par/<hw>Lei*ot"ri*chi</hw> <pr>(-k<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei^os</grk> smooth + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Anthropol.)</fld> <def>The division of mankind which embraces the smooth-haired races.</def></p>
+<p><par/<hw>Lei*ot"ri*chi</hw> <pr>(-k<imac/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lei^os</grk> smooth + <grk>qri`x</grk>, <grk>trico`s</grk>, hair.]</ety> <fld>(Anthropol.)</fld> <def>The division of mankind which embraces the smooth-haired races.</def></p>
 </entry>
 
 <entry main-word="Leiotrichous" source="1913 Webster">
@@ -10538,7 +10538,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 </entry>
 
 <entry main-word="Leucopathy" source="1913 Webster">
-<p><hw>Leu*cop"a*thy</hw> <pr>(l<usl/*k<ocr/p"<adot/*th<ycr/)</pr>, <pos>n.</pos> <ety>[<ets>Leuco-</ets> + Gr. <grk>pa`schein</grk>, <grk>paqei^n</grk> to suffer.]</ety> <def>The state of an albino, or of a white child of black parents.</def></p>
+<p><hw>Leu*cop"a*thy</hw> <pr>(l<usl/*k<ocr/p"<adot/*th<ycr/)</pr>, <pos>n.</pos> <ety>[<ets>Leuco-</ets> + Gr. <grk>pa`scein</grk>, <grk>paqei^n</grk> to suffer.]</ety> <def>The state of an albino, or of a white child of black parents.</def></p>
 </entry>
 
 <entry main-word="Leucophane" source="1913 Webster">
@@ -11912,7 +11912,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lichen" source="1913 Webster">
-<p><hw>Li"chen</hw> <pr>(l<imac/"k<ecr/n; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>leichh`n</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>One of a class of cellular, flowerless plants, (technically called <altname>Lichenes</altname>), having no distinction of leaf and stem, usually of scaly, expanded, frond-like forms, but sometimes erect or pendulous and variously branched. They derive their nourishment from the air, and generate by means of spores. The species are very widely distributed, and form irregular spots or patches, usually of a greenish or yellowish color, upon rocks, trees, and various bodies, to which they adhere with great tenacity. They are often improperly called <altname>rock moss</altname> or <altname>tree moss</altname>.</def></p>
+<p><hw>Li"chen</hw> <pr>(l<imac/"k<ecr/n; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>leic`n</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>One of a class of cellular, flowerless plants, (technically called <altname>Lichenes</altname>), having no distinction of leaf and stem, usually of scaly, expanded, frond-like forms, but sometimes erect or pendulous and variously branched. They derive their nourishment from the air, and generate by means of spores. The species are very widely distributed, and form irregular spots or patches, usually of a greenish or yellowish color, upon rocks, trees, and various bodies, to which they adhere with great tenacity. They are often improperly called <altname>rock moss</altname> or <altname>tree moss</altname>.</def></p>
 
 <p><note><hand/ A favorite modern theory of lichens (called after its inventor the <xex>Schwendener hypothesis</xex>), is that they are not autonomous plants, but that they consist of ascigerous fungi, parasitic on alg<ae/. Each lichen is composed of white filaments and green, or greenish, rounded cells, and it is argued that the two are of different nature, the one living at the expense of the other. See <er>Hyph<ae/</er>, and <er>Gonidia</er>.</note></p>
 
@@ -11982,7 +11982,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lick" source="1913 Webster">
-<p><hw>Lick</hw> <pr>(l<icr/k)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Licked</conjf> <pr>(l<icr/kt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Licking</conjf>.]</vmorph> <ety>[AS. <ets>liccian</ets>; akin to OS. <ets>likk<omac/n</ets>, D. <ets>likken</ets>, OHG. <ets>lecch<omac/n</ets>, G. <ets>lecken</ets>, Goth. <ets>bi-laig<omac/n</ets>, Russ. <ets>lizate</ets>, L. <ets>lingere</ets>, Gr. <grk>lei`chein</grk> , Skr. <ets>lih</ets>, <ets>rih</ets>. <root/121.  Cf. <er>Lecher</er>, <er>Relish</er>.]</ety> <sn>1.</sn> <def>To draw or pass the tongue over; <as>as, a dog <ex>licks</ex> his master's hand</as>.</def>  <rj><au>Addison.</au></rj></p>
+<p><hw>Lick</hw> <pr>(l<icr/k)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Licked</conjf> <pr>(l<icr/kt)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Licking</conjf>.]</vmorph> <ety>[AS. <ets>liccian</ets>; akin to OS. <ets>likk<omac/n</ets>, D. <ets>likken</ets>, OHG. <ets>lecch<omac/n</ets>, G. <ets>lecken</ets>, Goth. <ets>bi-laig<omac/n</ets>, Russ. <ets>lizate</ets>, L. <ets>lingere</ets>, Gr. <grk>lei`cein</grk> , Skr. <ets>lih</ets>, <ets>rih</ets>. <root/121.  Cf. <er>Lecher</er>, <er>Relish</er>.]</ety> <sn>1.</sn> <def>To draw or pass the tongue over; <as>as, a dog <ex>licks</ex> his master's hand</as>.</def>  <rj><au>Addison.</au></rj></p>
 
 <p><sn>2.</sn> <def>To lap; to take in with the tongue; <as>as, a dog or cat <ex>licks</ex> milk</as>.</def>  <rj><au>Shak.</au></rj></p>
 
@@ -12126,7 +12126,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lie" source="1913 Webster">
-<p><hw>Lie</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Lay</conjf> <pr>(l<amac/)</pr>; <pos>p. p.</pos> <conjf>Lain</conjf> <pr>(l<amac/n)</pr>, (<conjf>Lien</conjf> <pr>(l<imac/"<ecr/n)</pr>, <mark>Obs.</mark>); <pos>p. pr. & vb. n.</pos> <conjf>Lying</conjf>.]</vmorph> <ety>[OE. <ets>lien</ets>, <ets>liggen</ets>, AS. <ets>licgan</ets>; akin to D. <ets>liggen</ets>, OHG. <ets>ligen</ets>, <ets>licken</ets>, G. <ets>liegen</ets>, Icel. <ets>liggja</ets>, Sw. <ets>ligga</ets>, Dan. <ets>ligge</ets>, Goth.  <ets>ligan</ets>, Russ. <ets>lejate</ets>, L. <ets>lectus</ets> bed, Gr. <grk>le`chos</grk> bed, <grk>le`xasqai</grk> to lie.  Cf. <er>Lair</er>, <er>Law</er>, <er>Lay</er>, <pos>v. t.</pos>, <er>Litter</er>, <er>Low</er>, <pos>adj.</pos>]</ety> <sn>1.</sn> <def>To rest extended on the ground, a bed, or any support; to be, or to put one's self, in an horizontal position, or nearly so; to be prostate; to be stretched out; -- often with <ptcl>down</ptcl>, when predicated of living creatures; <as>as, the book <ex>lies</ex> on the table; the snow <ex>lies</ex> on the roof; he <ex>lies</ex> in his coffin.</as></def></p>
+<p><hw>Lie</hw>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Lay</conjf> <pr>(l<amac/)</pr>; <pos>p. p.</pos> <conjf>Lain</conjf> <pr>(l<amac/n)</pr>, (<conjf>Lien</conjf> <pr>(l<imac/"<ecr/n)</pr>, <mark>Obs.</mark>); <pos>p. pr. & vb. n.</pos> <conjf>Lying</conjf>.]</vmorph> <ety>[OE. <ets>lien</ets>, <ets>liggen</ets>, AS. <ets>licgan</ets>; akin to D. <ets>liggen</ets>, OHG. <ets>ligen</ets>, <ets>licken</ets>, G. <ets>liegen</ets>, Icel. <ets>liggja</ets>, Sw. <ets>ligga</ets>, Dan. <ets>ligge</ets>, Goth.  <ets>ligan</ets>, Russ. <ets>lejate</ets>, L. <ets>lectus</ets> bed, Gr. <grk>le`cos</grk> bed, <grk>le`xasqai</grk> to lie.  Cf. <er>Lair</er>, <er>Law</er>, <er>Lay</er>, <pos>v. t.</pos>, <er>Litter</er>, <er>Low</er>, <pos>adj.</pos>]</ety> <sn>1.</sn> <def>To rest extended on the ground, a bed, or any support; to be, or to put one's self, in an horizontal position, or nearly so; to be prostate; to be stretched out; -- often with <ptcl>down</ptcl>, when predicated of living creatures; <as>as, the book <ex>lies</ex> on the table; the snow <ex>lies</ex> on the roof; he <ex>lies</ex> in his coffin.</as></def></p>
 
 <p><q>The watchful traveler . . . <br/
 <qex>Lay</qex> down again, and closed his weary eyes.</q> <rj><qau>Dryden.</qau></rj></p>
@@ -12827,7 +12827,7 @@ His absent beams, has <qex>lighted</qex> up the sky.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Light" source="1913 Webster">
-<p><hw>Light</hw>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Lighter</adjf> <pr>(l<imac/t"<etil/r)</pr>; <pos>superl.</pos> <adjf>Lightest</adjf>.]</amorph> <ety>[OE. <ets>light</ets>, <ets>liht</ets>, AS. <ets>l<imac/ht</ets>, <ets>le<iacute/ht</ets>; akin to D. <ets>ligt</ets>, G. <ets>leicht</ets>, OHG. <ets>l<imac/hti</ets>, Icel. <ets>l<emac/ttr</ets>, Dan. <ets>let</ets>, Sw. <ets>l<aum/tt</ets>, Goth. <ets>leihts</ets>, and perh. to L. <ets>levis</ets> (cf. <er>Levity</er>), Gr. <grk>'elachy`s</grk> small, Skr. <ets>laghu</ets> light. <root/125.]</ety> <sn>1.</sn> <def>Having little, or comparatively little, weight; not tending to be the center of gravity with force; not heavy.</def></p>
+<p><hw>Light</hw>, <pos>a.</pos> <amorph>[<pos>Compar.</pos> <adjf>Lighter</adjf> <pr>(l<imac/t"<etil/r)</pr>; <pos>superl.</pos> <adjf>Lightest</adjf>.]</amorph> <ety>[OE. <ets>light</ets>, <ets>liht</ets>, AS. <ets>l<imac/ht</ets>, <ets>le<iacute/ht</ets>; akin to D. <ets>ligt</ets>, G. <ets>leicht</ets>, OHG. <ets>l<imac/hti</ets>, Icel. <ets>l<emac/ttr</ets>, Dan. <ets>let</ets>, Sw. <ets>l<aum/tt</ets>, Goth. <ets>leihts</ets>, and perh. to L. <ets>levis</ets> (cf. <er>Levity</er>), Gr. <grk>'elacy`s</grk> small, Skr. <ets>laghu</ets> light. <root/125.]</ety> <sn>1.</sn> <def>Having little, or comparatively little, weight; not tending to be the center of gravity with force; not heavy.</def></p>
 
 <p><q>These weights did not exert their natural gravity, . . . insomuch that I could not guess which was <qex>light</qex> or heavy whilst I held them in my hand.</q> <rj><qau>Addison.</qau></rj></p>
 
@@ -15488,7 +15488,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lipochrin" source="1913 Webster">
-<p><hw>Lip"o*chrin</hw> <pr>(l<icr/p"<osl/*kr<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>li`pos</grk> fat + <grk>chro`a</grk> color.]</ety> <fld>(Physiol. Chem.)</fld> <def>A yellow coloring matter, soluble in ether, contained in the small round fat drops in the retinal epithelium cells. It is best obtained from the eyes of frogs.</def></p>
+<p><hw>Lip"o*chrin</hw> <pr>(l<icr/p"<osl/*kr<icr/n)</pr>, <pos>n.</pos> <ety>[Gr. <grk>li`pos</grk> fat + <grk>cro`a</grk> color.]</ety> <fld>(Physiol. Chem.)</fld> <def>A yellow coloring matter, soluble in ether, contained in the small round fat drops in the retinal epithelium cells. It is best obtained from the eyes of frogs.</def></p>
 </entry>
 
 <entry main-word="Lipogram" source="1913 Webster">
@@ -16390,7 +16390,7 @@ Of all our fortunes.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lithochromics" source="1913 Webster">
-<p><hw>Lith`o*chro"mics</hw> <pr>(-kr<omac/"m<icr/ks)</pr>, <pos>n.</pos> <ety>[<ets>Litho-</ets> + Gr. <grk>chrw^ma</grk> color.]</ety> <def>The art of printing colored pictures on canvas from oil paintings on stone.</def></p>
+<p><hw>Lith`o*chro"mics</hw> <pr>(-kr<omac/"m<icr/ks)</pr>, <pos>n.</pos> <ety>[<ets>Litho-</ets> + Gr. <grk>crw^ma</grk> color.]</ety> <def>The art of printing colored pictures on canvas from oil paintings on stone.</def></p>
 </entry>
 
 <entry main-word="Lithoclast" source="1913 Webster">
@@ -18953,7 +18953,7 @@ These about phrases forced by ceremony.</q> <rj><qau>Marston.</qau></rj></p>
 </entry>
 
 <entry main-word="Logic" source="1913 Webster">
-<p><hw>Log"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>logike</ets>, F. <ets>logique</ets>, L. <ets>logica</ets>, <ets>logice</ets>, Gr. <grk>logikh`</grk> (sc. <grk>te`chnh</grk>), fr. <grk>logiko`s</grk> belonging to speaking or reason, fr. <grk>lo`gos</grk> speech, reason, <grk>le`gein</grk> to say, speak.  See <er>Legend</er>.]</ety> <sn>1.</sn> <def>The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning.</def></p>
+<p><hw>Log"ic</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>logike</ets>, F. <ets>logique</ets>, L. <ets>logica</ets>, <ets>logice</ets>, Gr. <grk>logikh`</grk> (sc. <grk>te`cnh</grk>), fr. <grk>logiko`s</grk> belonging to speaking or reason, fr. <grk>lo`gos</grk> speech, reason, <grk>le`gein</grk> to say, speak.  See <er>Legend</er>.]</ety> <sn>1.</sn> <def>The science or art of exact reasoning, or of pure and formal thought, or of the laws according to which the processes of pure thinking should be conducted; the science of the formation and application of general notions; the science of generalization, judgment, classification, reasoning, and systematic arrangement; the science of correct reasoning.</def></p>
 
 <p><q><qex>Logic</qex> is the science of the laws of thought, as thought; that is, of the necessary conditions to which thought, considered in itself, is subject.</q> <rj><qau>Sir W. Hamilton.</qau></rj></p>
 
@@ -20566,7 +20566,7 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lophobranch" source="1913 Webster">
-<p><hw>Loph"o*branch</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>lofia`</grk>  crest or tuft + <grk>bra`gchion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>Of or pertaining to the <ord>Lophobranchii</ord>.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Lophobranchii</ord>.</def></def2></p>
+<p><hw>Loph"o*branch</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>lofia`</grk>  crest or tuft + <grk>bra`gcion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>Of or pertaining to the <ord>Lophobranchii</ord>.</def> -- <def2><pos>n.</pos> <def>One of the <ord>Lophobranchii</ord>.</def></def2></p>
 </entry>
 
 <entry main-word="Lophobranchiate" source="1913 Webster">
@@ -20574,7 +20574,7 @@ The eye of Reason may pry in upon us.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lophobranchii" source="1913 Webster">
-<p><par/<hw>Loph`o*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lo`fos</grk> a crest or tuft + <grk>bra`gchion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, having the gills arranged in tufts on the branchial arches, as the Hippocampus and pipefishes.</def></p>
+<p><par/<hw>Loph`o*bran"chi*i</hw> <pr>(?)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>lo`fos</grk> a crest or tuft + <grk>bra`gcion</grk> gill.]</ety> <fld>(Zool.)</fld> <def>An order of teleostean fishes, having the gills arranged in tufts on the branchial arches, as the Hippocampus and pipefishes.</def></p>
 </entry>
 
 <entry main-word="Lophophore" source="1913 Webster">
@@ -24463,11 +24463,11 @@ That <qex>lute</qex> and flute fantastic tenderness.</q> <rj><qau>Tennyson.</qau
 </entry>
 
 <entry main-word="Lychnis" source="1913 Webster">
-<p><par/<hw>Lych"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of red flower, Gr. <grk>lychni`s</grk>; cf. <grk>ly`chnos</grk> a lamp.]</ety> <fld>(Bot.)</fld> <def>A genus of Old World plants belonging to the Pink family (<fam>Caryophyllace<ae/</fam>).  Most of the species have brilliantly colored flowers and cottony leaves, which may have anciently served as wicks for lamps.  The botanical name is in common use for the garden species.  The corn cockle (<spn>Lychnis Githago</spn>) is a common weed in wheat fields.</def></p>
+<p><par/<hw>Lych"nis</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., a kind of red flower, Gr. <grk>lycni`s</grk>; cf. <grk>ly`cnos</grk> a lamp.]</ety> <fld>(Bot.)</fld> <def>A genus of Old World plants belonging to the Pink family (<fam>Caryophyllace<ae/</fam>).  Most of the species have brilliantly colored flowers and cottony leaves, which may have anciently served as wicks for lamps.  The botanical name is in common use for the garden species.  The corn cockle (<spn>Lychnis Githago</spn>) is a common weed in wheat fields.</def></p>
 </entry>
 
 <entry main-word="Lychnobite" source="1913 Webster">
-<p><hw>Lych"no*bite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ly`chnos</grk> a lamp + <grk>bi`os</grk> life.]</ety> <def>One who labors at night and sleeps in the day.</def></p>
+<p><hw>Lych"no*bite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ly`cnos</grk> a lamp + <grk>bi`os</grk> life.]</ety> <def>One who labors at night and sleeps in the day.</def></p>
 </entry>
 
 <entry main-word="Lychnoscope" source="1913 Webster">

@@ -399,7 +399,7 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 </entry>
 
 <entry main-word="Bacchanalia" source="1913 Webster">
-<p><par/<hw>Bac`cha*na"li*a</hw> <pr>(b<acr/k`k<adot/*n<amac/"l<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>Bacchanal</ets> a place devoted to Bacchus; in the pl. <ets>Bacchanalia</ets> a feast of Bacchus, fr. <ets>Bacchus</ets> the god of wine, Gr. <grk>Ba`kchos</grk>.]</ety></p>
+<p><par/<hw>Bac`cha*na"li*a</hw> <pr>(b<acr/k`k<adot/*n<amac/"l<icr/*<adot/)</pr>, <pos>n. pl.</pos> <ety>[L. <ets>Bacchanal</ets> a place devoted to Bacchus; in the pl. <ets>Bacchanalia</ets> a feast of Bacchus, fr. <ets>Bacchus</ets> the god of wine, Gr. <grk>Ba`kcos</grk>.]</ety></p>
 
 <p><sn>1.</sn> <fld>(Myth.)</fld> <def>A feast or an orgy in honor of Bacchus.</def></p>
 
@@ -441,16 +441,16 @@ Toyed with his locks, looked <qex>babies in his eyes</qex>.</q> <rj><qau>Heywood
 </entry>
 
 <entry main-word="Bacchic" source="1913 Webster;;WordNet 1.5">
-<p><mhw>{ <hw>Bac"chic</hw> <pr>(<?/)</pr>, <hw>Bac"chic*al</hw> <pr>(<?/)</pr> }</mhw>, <pos>a.</pos> <ety>[L. <ets>Bacchicus</ets>, Gr. <grk>Bakchiko`s</grk>.]</ety> <def>Of or relating to Bacchus; hence, jovial, or riotous, with intoxication; riotously drunken; -- used of revelrous gatherings.</def><br/
+<p><mhw>{ <hw>Bac"chic</hw> <pr>(<?/)</pr>, <hw>Bac"chic*al</hw> <pr>(<?/)</pr> }</mhw>, <pos>a.</pos> <ety>[L. <ets>Bacchicus</ets>, Gr. <grk>Bakciko`s</grk>.]</ety> <def>Of or relating to Bacchus; hence, jovial, or riotous, with intoxication; riotously drunken; -- used of revelrous gatherings.</def><br/
 <syn><b>Syn. --</b> bacchanalian, bacchanal, bibulous, carousing, drunken(prenominal), orgiastic, riotous</syn></p>
 </entry>
 
 <entry main-word="Bacchius" source="1913 Webster">
-<p><par/<hw>Bac*chi"us</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bacchii</plw>  <pr>(<?/)</pr>.</plu> <ety>[L. <ets>Bacchius</ets> pes, Gr. <grk>"o Bakchei^os</grk> (sc. <grk>poy`s</grk> foot).]</ety> <fld>(Pros.)</fld> <def>A metrical foot composed of a short syllable and two long ones; according to some, two long and a short.</def></p>
+<p><par/<hw>Bac*chi"us</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Bacchii</plw>  <pr>(<?/)</pr>.</plu> <ety>[L. <ets>Bacchius</ets> pes, Gr. <grk>"o Bakcei^os</grk> (sc. <grk>poy`s</grk> foot).]</ety> <fld>(Pros.)</fld> <def>A metrical foot composed of a short syllable and two long ones; according to some, two long and a short.</def></p>
 </entry>
 
 <entry main-word="Bacchus" source="1913 Webster">
-<p><hw>Bac"chus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Ba`kchos</grk>.]</ety> <fld>(Myth.)</fld> <def>The god of wine, son of <persfn>Jupiter</persfn> and <persfn>Semele</persfn>.</def></p>
+<p><hw>Bac"chus</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>Ba`kcos</grk>.]</ety> <fld>(Myth.)</fld> <def>The god of wine, son of <persfn>Jupiter</persfn> and <persfn>Semele</persfn>.</def></p>
 </entry>
 
 <entry main-word="Bacciferous" source="1913 Webster">
@@ -7304,7 +7304,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Batrachia" source="1913 Webster">
-<p><par/<hw>Ba*tra"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>batra`cheios</grk> belonging to a frog, fr. <grk>ba`trachos</grk> frog.]</ety> <fld>(Zool.)</fld> <def>The order of amphibians which includes the frogs and toads; the Anura. Sometimes the word is used in a wider sense as equivalent to Amphibia.</def></p>
+<p><par/<hw>Ba*tra"chi*a</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>batra`ceios</grk> belonging to a frog, fr. <grk>ba`tracos</grk> frog.]</ety> <fld>(Zool.)</fld> <def>The order of amphibians which includes the frogs and toads; the Anura. Sometimes the word is used in a wider sense as equivalent to Amphibia.</def></p>
 </entry>
 
 <entry main-word="Batrachian" source="1913 Webster">
@@ -7316,11 +7316,11 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Batrachomyomachy" source="1913 Webster">
-<p><hw>Bat`ra*cho*my*om"a*chy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>batrachomyomachi`a</grk>; <grk>ba`trachos</grk> frog + <grk>my^s</grk> mouse + <grk>ma`chh</grk> battle.]</ety> <def>The battle between the frogs and mice; -- a Greek parody on the Iliad, of uncertain authorship.</def></p>
+<p><hw>Bat`ra*cho*my*om"a*chy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>batracomyomaci`a</grk>; <grk>ba`tracos</grk> frog + <grk>my^s</grk> mouse + <grk>ma`c</grk> battle.]</ety> <def>The battle between the frogs and mice; -- a Greek parody on the Iliad, of uncertain authorship.</def></p>
 </entry>
 
 <entry main-word="Batrachophagous" source="1913 Webster">
-<p><hw>Bat`ra*choph"a*gous</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>ba`trachos</grk> frog + <grk>fagei^n</grk> to eat.]</ety> <def>Feeding on frogs.</def>  <rj><au>Quart. Rev.</au></rj></p>
+<p><hw>Bat`ra*choph"a*gous</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>ba`tracos</grk> frog + <grk>fagei^n</grk> to eat.]</ety> <def>Feeding on frogs.</def>  <rj><au>Quart. Rev.</au></rj></p>
 </entry>
 
 <entry main-word="bats" source="PJC">
@@ -30350,11 +30350,11 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachycatalectic" source="1913 Webster">
-<p><hw>Brach`y*cat`a*lec"tic</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>brachy`s</grk> short + <?/ to leave off; cf. <?/ incomplete.]</ety> <fld>(Gr. & Last. Pros.)</fld> <def>A verse wanting two syllables at its termination.</def></p>
+<p><hw>Brach`y*cat`a*lec"tic</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>bracy`s</grk> short + <?/ to leave off; cf. <?/ incomplete.]</ety> <fld>(Gr. & Last. Pros.)</fld> <def>A verse wanting two syllables at its termination.</def></p>
 </entry>
 
 <entry main-word="Brachycephalic" source="1913 Webster">
-<p><mhw>{ <hw>Brach`y*ce*phal"ic</hw> <pr>(<?/)</pr>, <hw>Brach`y*ceph"a*lous</hw> <pr>(<?/)</pr> }</mhw>, <pos>a.</pos> <ety>[Gr. <grk>brachy`s</grk> short + <?/ head.]</ety> <fld>(Anat.)</fld> <def>Having the skull short in proportion to its breadth; shortheaded; -- in distinction from <contr>dolichocephalic</contr>.</def></p>
+<p><mhw>{ <hw>Brach`y*ce*phal"ic</hw> <pr>(<?/)</pr>, <hw>Brach`y*ceph"a*lous</hw> <pr>(<?/)</pr> }</mhw>, <pos>a.</pos> <ety>[Gr. <grk>bracy`s</grk> short + <?/ head.]</ety> <fld>(Anat.)</fld> <def>Having the skull short in proportion to its breadth; shortheaded; -- in distinction from <contr>dolichocephalic</contr>.</def></p>
 </entry>
 
 <entry main-word="Brachycephaly" source="1913 Webster">
@@ -30362,11 +30362,11 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachyceral" source="1913 Webster">
-<p><hw>Bra*chyc"er*al</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>brachy`s</grk> short + <grk>ke`ras</grk> horn.]</ety> <fld>(Zool.)</fld> <def>Having short antenn<ae/, as certain insects.</def></p>
+<p><hw>Bra*chyc"er*al</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>bracy`s</grk> short + <grk>ke`ras</grk> horn.]</ety> <fld>(Zool.)</fld> <def>Having short antenn<ae/, as certain insects.</def></p>
 </entry>
 
 <entry main-word="Brachydiagonal" source="1913 Webster">
-<p><hw>Brach`y*di*ag"o*nal</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>brachy`s</grk> short + E. <ets>diagonal</ets>.]</ety> <def>Pertaining to the shorter diagonal, as of a rhombic prism.</def></p>
+<p><hw>Brach`y*di*ag"o*nal</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>bracy`s</grk> short + E. <ets>diagonal</ets>.]</ety> <def>Pertaining to the shorter diagonal, as of a rhombic prism.</def></p>
 
 <p><cs><col>Brachydiagonal axis</col>, <cd>the shorter lateral axis of an orthorhombic crystal.</cd></cs></p>
 </entry>
@@ -30376,7 +30376,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachydome" source="1913 Webster">
-<p><hw>Brach`y*dome</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>brachy`s</grk> short + E. <ets>dome</ets>.]</ety> <fld>(Crystallog.)</fld> <def>A dome parallel to the shorter lateral axis. See <er>Dome</er>.</def></p>
+<p><hw>Brach`y*dome</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bracy`s</grk> short + E. <ets>dome</ets>.]</ety> <fld>(Crystallog.)</fld> <def>A dome parallel to the shorter lateral axis. See <er>Dome</er>.</def></p>
 </entry>
 
 <entry main-word="Brachygrapher" source="1913 Webster">
@@ -30386,19 +30386,19 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachygraphy" source="1913 Webster">
-<p><hw>Bra*chyg"ra*phy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>brachy`s</grk> short + <ets>-graphy</ets>: cf. F. <ets>brachygraphie</ets>.]</ety> <def>Stenography.</def>  <rj><au>B. Jonson.</au></rj></p>
+<p><hw>Bra*chyg"ra*phy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bracy`s</grk> short + <ets>-graphy</ets>: cf. F. <ets>brachygraphie</ets>.]</ety> <def>Stenography.</def>  <rj><au>B. Jonson.</au></rj></p>
 </entry>
 
 <entry main-word="Brachylogy" source="1913 Webster">
-<p><hw>Bra*chyl"o*gy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ : <grk>brachy`s</grk> short + <?/ discourse: cf. F. <ets>brachylogie</ets>.]</ety> <fld>(Rhet.)</fld> <def>Conciseness of expression; brevity.</def></p>
+<p><hw>Bra*chyl"o*gy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <?/ : <grk>bracy`s</grk> short + <?/ discourse: cf. F. <ets>brachylogie</ets>.]</ety> <fld>(Rhet.)</fld> <def>Conciseness of expression; brevity.</def></p>
 </entry>
 
 <entry main-word="Brachypinacoid" source="1913 Webster">
-<p><hw>Brach`y*pin"a*coid</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>brachy`s</grk> short + E. <ets>pinacoid</ets>.]</ety> <fld>(Crytallog.)</fld> <def>A plane of an orthorhombic crystal which is parallel both to the vertical axis and to the shorter lateral (brachydiagonal) axis.</def></p>
+<p><hw>Brach`y*pin"a*coid</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>bracy`s</grk> short + E. <ets>pinacoid</ets>.]</ety> <fld>(Crytallog.)</fld> <def>A plane of an orthorhombic crystal which is parallel both to the vertical axis and to the shorter lateral (brachydiagonal) axis.</def></p>
 </entry>
 
 <entry main-word="Brachyptera" source="1913 Webster">
-<p><par/<hw>Bra*chyp"te*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ short-winged; <grk>brachy`s</grk> short + <?/ feather, wing.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having short wings; the rove beetles.</def></p>
+<p><par/<hw>Bra*chyp"te*ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <?/ short-winged; <grk>bracy`s</grk> short + <?/ feather, wing.]</ety> <fld>(Zool.)</fld> <def>A group of Coleoptera having short wings; the rove beetles.</def></p>
 </entry>
 
 <entry main-word="Brachypteres" source="1913 Webster">
@@ -30410,7 +30410,7 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachystochrone" source="1913 Webster">
-<p><hw>Bra*chys"to*chrone</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Incorrect for <ets>brachistochrone</ets>, fr. Gr. <grk>bra`chistos</grk> shortest (superl. of <grk>brachy`s</grk> short) + <?/ time : cf. F. <ets>brachistochrone</ets>. ]</ety> <fld>(Math.)</fld> <def>A curve, in which a body, starting from a given point, and descending solely by the force of gravity, will reach another given point in a shorter time than it could by any other path. This <xex>curve of quickest descent</xex>, as it is sometimes called, is, in a vacuum, the same as the <altname>cycloid</altname>.</def></p>
+<p><hw>Bra*chys"to*chrone</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Incorrect for <ets>brachistochrone</ets>, fr. Gr. <grk>bra`cistos</grk> shortest (superl. of <grk>bracy`s</grk> short) + <?/ time : cf. F. <ets>brachistochrone</ets>. ]</ety> <fld>(Math.)</fld> <def>A curve, in which a body, starting from a given point, and descending solely by the force of gravity, will reach another given point in a shorter time than it could by any other path. This <xex>curve of quickest descent</xex>, as it is sometimes called, is, in a vacuum, the same as the <altname>cycloid</altname>.</def></p>
 </entry>
 
 <entry main-word="brachytactyly" source="WordNet 1.5">
@@ -30419,11 +30419,11 @@ Some squeaking Cleopatra <qex>boy</qex> my greatness.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Brachytypous" source="1913 Webster">
-<p><hw>Brach"y*ty`pous</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>brachy`s</grk> short + <?/ stamp, form.]</ety> <fld>(Min.)</fld> <def>Of a short form.</def></p>
+<p><hw>Brach"y*ty`pous</hw> <pr>(<?/)</pr>, <pos>a.</pos> <ety>[Gr. <grk>bracy`s</grk> short + <?/ stamp, form.]</ety> <fld>(Min.)</fld> <def>Of a short form.</def></p>
 </entry>
 
 <entry main-word="Brachyura" source="1913 Webster">
-<p><par/<hw>Brach`y*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>brachy`s</grk> short + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of decapod Crustacea, including the common crabs, characterized by a small and short abdomen, which is bent up beneath the large cephalo-thorax. <altsp>[Also spelt <asp>Brachyoura</asp>.]</altsp> See <er>Crab</er>, and <xex>Illustration</xex> in Appendix.</def></p>
+<p><par/<hw>Brach`y*u"ra</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>bracy`s</grk> short + <grk>o'yra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A group of decapod Crustacea, including the common crabs, characterized by a small and short abdomen, which is bent up beneath the large cephalo-thorax. <altsp>[Also spelt <asp>Brachyoura</asp>.]</altsp> See <er>Crab</er>, and <xex>Illustration</xex> in Appendix.</def></p>
 </entry>
 
 <entry main-word="Brachyural" source="1913 Webster">
@@ -30787,7 +30787,7 @@ Marry that will, I live and die a maid.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Brain" source="1913 Webster">
-<p><hw>Brain</hw> <pr>(br<amac/n)</pr>, <pos>n.</pos> <ety>[OE. <ets>brain</ets>, <ets>brein</ets>, AS. <ets>bragen</ets>, <ets>br<ae/gen</ets>; akin to LG. <ets>br<aum/gen</ets>, <ets>bregen</ets>, D. <ets>brein</ets>, and perh. to Gr. <grk>bre`gma</grk>, <grk>brechmo`s</grk>, the upper part of head, if <beta/ = <phi/. <root/95.]</ety></p>
+<p><hw>Brain</hw> <pr>(br<amac/n)</pr>, <pos>n.</pos> <ety>[OE. <ets>brain</ets>, <ets>brein</ets>, AS. <ets>bragen</ets>, <ets>br<ae/gen</ets>; akin to LG. <ets>br<aum/gen</ets>, <ets>bregen</ets>, D. <ets>brein</ets>, and perh. to Gr. <grk>bre`gma</grk>, <grk>brecmo`s</grk>, the upper part of head, if <beta/ = <phi/. <root/95.]</ety></p>
 
 <p><sn>1.</sn> <fld>(Anat.)</fld> <def>The whitish mass of soft matter (the center of the nervous system, and the seat of consciousness and volition) which is inclosed in the cartilaginous or bony cranium of vertebrate animals. It is simply the anterior termination of the spinal cord, and is developed from three embryonic vesicles, whose cavities are connected with the central canal of the cord; the cavities of the vesicles become the central cavities, or ventricles, and the walls thicken unequally and become the three segments, the fore-, mid-, and hind-brain.</def></p>
 
@@ -33810,7 +33810,7 @@ Round about the <qex>bridestake</qex>.</q> <rj><qau>B. Jonson.</qau></rj></p>
 </entry>
 
 <entry main-word="Brief" source="1913 Webster">
-<p><hw>Brief</hw> <pr>(br<emac/f)</pr>, <pos>a.</pos> <ety>[OE. <ets>bref</ets>, F. <ets>brief</ets>, <ets>bref</ets>, fr. L. <ets>brevis</ets>; akin to Gr. <grk>brachy`s</grk> short, and perh. to Skr. <ets>barh</ets> to tear. Cf. <er>Breve</er>.]</ety> <sn>1.</sn> <def>Short in duration.</def></p>
+<p><hw>Brief</hw> <pr>(br<emac/f)</pr>, <pos>a.</pos> <ety>[OE. <ets>bref</ets>, F. <ets>brief</ets>, <ets>bref</ets>, fr. L. <ets>brevis</ets>; akin to Gr. <grk>bracy`s</grk> short, and perh. to Skr. <ets>barh</ets> to tear. Cf. <er>Breve</er>.]</ety> <sn>1.</sn> <def>Short in duration.</def></p>
 
 <p><q>How <qex>brief</qex> the life of man.</q> <rj><qau>Shak.</qau></rj></p>
 

@@ -618,7 +618,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Haemachrome" source="1913 Webster">
-<p><hw>Haem"a*chrome</hw> <pr>(h<ecr/m"<adot/*kr<omac/m <or/ h<emac/"m<adot/-)</pr>, <pos>n.</pos> <ety>[<ets>Haema-</ets> + Gr. <grk>chrw^ma</grk> color.]</ety> <fld>(Physiol. Chem.)</fld> <def>Hematin.</def></p>
+<p><hw>Haem"a*chrome</hw> <pr>(h<ecr/m"<adot/*kr<omac/m <or/ h<emac/"m<adot/-)</pr>, <pos>n.</pos> <ety>[<ets>Haema-</ets> + Gr. <grk>crw^ma</grk> color.]</ety> <fld>(Physiol. Chem.)</fld> <def>Hematin.</def></p>
 </entry>
 
 <entry main-word="Haemacyanin" source="1913 Webster">
@@ -684,7 +684,7 @@ Than such a Roman.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Haematachometer" source="1913 Webster">
-<p><hw>Haem`a*ta*chom"e*ter</hw> <pr>(-t<adot/*k<ocr/m"<esl/*t<etil/r)</pr>, <pos>n.</pos> <ety>[<ets>Haema-</ets> + Gr. <grk>tachy`s</grk> swift + <ets>-meter</ets>.]</ety> <fld>(Physiol.)</fld> <def>A form of apparatus (somewhat different from the <xex>hemadrometer</xex>) for measuring the velocity of the blood.</def></p>
+<p><hw>Haem`a*ta*chom"e*ter</hw> <pr>(-t<adot/*k<ocr/m"<esl/*t<etil/r)</pr>, <pos>n.</pos> <ety>[<ets>Haema-</ets> + Gr. <grk>tacy`s</grk> swift + <ets>-meter</ets>.]</ety> <fld>(Physiol.)</fld> <def>A form of apparatus (somewhat different from the <xex>hemadrometer</xex>) for measuring the velocity of the blood.</def></p>
 </entry>
 
 <entry main-word="Haematachometry" source="1913 Webster">
@@ -1217,7 +1217,7 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Hail" source="1913 Webster">
-<p><hw>Hail</hw> <pr>(h<amac/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>hail</ets>, <ets>ha<yogh/el</ets>, AS. <ets>h<ae/gel</ets>, <ets>hagol</ets>; akin to D., G., Dan., & Sw. <ets>hagel</ets>; Icel. <ets>hagl</ets>; cf. Gr. <grk>ka`chlhx</grk> pebble.]</ety> <def>Small roundish masses of ice precipitated from the clouds, where they are formed by the congelation of vapor. The separate masses or grains are called <part>hailstones</part>.</def></p>
+<p><hw>Hail</hw> <pr>(h<amac/l)</pr>, <pos>n.</pos> <ety>[OE. <ets>hail</ets>, <ets>ha<yogh/el</ets>, AS. <ets>h<ae/gel</ets>, <ets>hagol</ets>; akin to D., G., Dan., & Sw. <ets>hagel</ets>; Icel. <ets>hagl</ets>; cf. Gr. <grk>ka`clhx</grk> pebble.]</ety> <def>Small roundish masses of ice precipitated from the clouds, where they are formed by the congelation of vapor. The separate masses or grains are called <part>hailstones</part>.</def></p>
 
 <p><q>Thunder mixed with <qex>hail</qex>,<br/
 <qex>Hail</qex> mixed with fire, must rend the Egyptian sky.</q>  <rj><qau>Milton.</qau></rj></p>
@@ -1949,7 +1949,7 @@ In rhombs, and wedges, and <qex>half-moons</qex>, and wings.</q> <rj><qau>Milton
 </entry>
 
 <entry main-word="Halichondriae" source="1913 Webster">
-<p><par/<hw>Hal`i*chon"dri*ae</hw> <pr>(h<acr/l`<icr/*k<ocr/n"dr<icr/*<emac/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>cho`ndros</grk> cartilage.]</ety> <fld>(Zool.)</fld> <def>An order of sponges, having simple siliceous spicules and keratose fibers; -- called also <altname>Keratosilicoidea</altname>.</def></p>
+<p><par/<hw>Hal`i*chon"dri*ae</hw> <pr>(h<acr/l`<icr/*k<ocr/n"dr<icr/*<emac/)</pr>, <pos>prop. n. pl.</pos> <ety>[NL., fr. Gr. <grk>"a`ls</grk>, <grk>"alo`s</grk>, sea + <grk>co`ndros</grk> cartilage.]</ety> <fld>(Zool.)</fld> <def>An order of sponges, having simple siliceous spicules and keratose fibers; -- called also <altname>Keratosilicoidea</altname>.</def></p>
 </entry>
 
 <entry main-word="Halicore" source="1913 Webster">
@@ -2277,7 +2277,7 @@ That <qex>haloed</qex> round his saintly brow.</q> <rj><qau>Southey.</qau></rj><
 </entry>
 
 <entry main-word="Halotrichite" source="1913 Webster">
-<p><hw>Hal*o*tri"chite</hw> <pr>(h<acr/l*<osl/*tr<imac/"k<imac/t)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"a`ls</grk> sea + <grk>qri`x</grk>, <grk>tricho`s</grk>, hair.]</ety> <fld>(Min.)</fld> <def>An iron alum occurring in silky fibrous aggregates of a yellowish white color.</def></p>
+<p><hw>Hal*o*tri"chite</hw> <pr>(h<acr/l*<osl/*tr<imac/"k<imac/t)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"a`ls</grk> sea + <grk>qri`x</grk>, <grk>trico`s</grk>, hair.]</ety> <fld>(Min.)</fld> <def>An iron alum occurring in silky fibrous aggregates of a yellowish white color.</def></p>
 </entry>
 
 <entry main-word="Haloxyline" source="1913 Webster">
@@ -2688,7 +2688,7 @@ From the twin soul that <qex>halves</qex> their own.</q> <rj><qau>M. Arnold.</qa
 </entry>
 
 <entry main-word="Hammochrysos" source="1913 Webster">
-<p><par/<hw>Ham`mo*chry"sos</hw> <pr>(h<acr/m`m<osl/*kr<imac/"s<ocr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ammo`chrysos</grk>; <grk>"a`mmos</grk>, <grk>'a`mmos</grk>, sand + <grk>chryso`s</grk> gold.]</ety> <def>A stone with spangles of gold color in it.</def></p>
+<p><par/<hw>Ham`mo*chry"sos</hw> <pr>(h<acr/m`m<osl/*kr<imac/"s<ocr/s)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>"ammo`crysos</grk>; <grk>"a`mmos</grk>, <grk>'a`mmos</grk>, sand + <grk>cryso`s</grk> gold.]</ety> <def>A stone with spangles of gold color in it.</def></p>
 </entry>
 
 <entry main-word="Hammock" source="1913 Webster">
@@ -9499,7 +9499,7 @@ A thousand rills their mazy progress take.</q> <rj><qau>Gray.</qau></rj></p>
 </entry>
 
 <entry main-word="Heliochrome" source="1913 Webster">
-<p><hw>He"li*o*chrome</hw> <pr>(h<emac/"l<icr/*<osl/*kr<omac/m)</pr>, <pos>n.</pos> <ety>[<ets>Helio-</ets> + Gr. <grk>chrw^ma</grk> color.]</ety> <def>A photograph in colors.</def><-- now, just color photograph -->  <rj><au>R. Hunt.</au></rj></p>
+<p><hw>He"li*o*chrome</hw> <pr>(h<emac/"l<icr/*<osl/*kr<omac/m)</pr>, <pos>n.</pos> <ety>[<ets>Helio-</ets> + Gr. <grk>crw^ma</grk> color.]</ety> <def>A photograph in colors.</def><-- now, just color photograph -->  <rj><au>R. Hunt.</au></rj></p>
 </entry>
 
 <entry main-word="Heliochromic" source="1913 Webster">
@@ -10195,7 +10195,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Hemachate" source="1913 Webster">
-<p><hw>Hem"a*chate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>haemachates</ets>; Gr. <grk>a"i^ma</grk> blood + <grk>'acha`ths</grk> agate.]</ety> <fld>(Min.)</fld> <def>A species of agate, sprinkled with spots of red jasper.</def></p>
+<p><hw>Hem"a*chate</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>haemachates</ets>; Gr. <grk>a"i^ma</grk> blood + <grk>'aca`ths</grk> agate.]</ety> <fld>(Min.)</fld> <def>A species of agate, sprinkled with spots of red jasper.</def></p>
 </entry>
 
 <entry main-word="Hemachrome" source="1913 Webster">
@@ -10615,7 +10615,7 @@ Was <qex>hemmed</qex> with golden fringe.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Hemistich" source="1913 Webster">
-<p><hw>Hem"i*stich</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[L. <ets>hemistichium</ets>, Gr. <grk>"hmisti`chion</grk>; <grk>"hmi-</grk> half + <grk>sti`chos</grk> row, line, verse: cf. F. <ets>h<eacute/mistiche</ets>.]</ety> <def>Half a poetic verse or line, or a verse or line not completed.</def></p>
+<p><hw>Hem"i*stich</hw> <pr>(?; 277)</pr>, <pos>n.</pos> <ety>[L. <ets>hemistichium</ets>, Gr. <grk>"hmisti`cion</grk>; <grk>"hmi-</grk> half + <grk>sti`cos</grk> row, line, verse: cf. F. <ets>h<eacute/mistiche</ets>.]</ety> <def>Half a poetic verse or line, or a verse or line not completed.</def></p>
 </entry>
 
 <entry main-word="Hemistichal" source="1913 Webster">
@@ -11131,7 +11131,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Heptachord" source="1913 Webster">
-<p><hw>Hep"ta*chord</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"epta`chordos</grk> seven-stringed; <grk>"epta`</grk> seven + <grk>chordh`</grk> chord: cf. F. <ets>heptacorde</ets>. See <er>Seven</er>, and <er>Chord</er>.]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <sd>(a)</sd> <def>A system of seven sounds.</def> <sd>(b)</sd> <def>A lyre with seven chords.</def></p>
+<p><hw>Hep"ta*chord</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>"epta`cordos</grk> seven-stringed; <grk>"epta`</grk> seven + <grk>cordh`</grk> chord: cf. F. <ets>heptacorde</ets>. See <er>Seven</er>, and <er>Chord</er>.]</ety> <sn>1.</sn> <fld>(Anc. Mus.)</fld> <sd>(a)</sd> <def>A system of seven sounds.</def> <sd>(b)</sd> <def>A lyre with seven chords.</def></p>
 
 <p><sn>2.</sn> <fld>(Anc. Poet.)</fld> <def>A composition sung to the sound of seven chords or tones.</def>  <rj><au>Moore (Encyc. of Music).</au></rj></p>
 </entry>
@@ -11217,7 +11217,7 @@ On bookes and on learning he it spente.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>
 
 <entry main-word="Heptastich" source="1913 Webster">
-<p><hw>Hep"ta*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hepta-</ets> + Gr. <grk>sti`chos</grk> line, verse.]</ety> <fld>(Pros.)</fld> <def>A composition consisting of seven lines or verses.</def></p>
+<p><hw>Hep"ta*stich</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Hepta-</ets> + Gr. <grk>sti`cos</grk> line, verse.]</ety> <fld>(Pros.)</fld> <def>A composition consisting of seven lines or verses.</def></p>
 </entry>
 
 <entry main-word="Heptateuch" source="1913 Webster">
@@ -13179,7 +13179,7 @@ Nothing be- | fore and | nothing be- | hind but the | sky and the | ocean.</q> <
 </entry>
 
 <entry main-word="Hexastich" source="1913 Webster">
-<p><mhw>{ <hw>Hex"a*stich</hw> <pr>(?)</pr>, <par/<hw>Hex*as"ti*chon</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>hexastichus</ets> of six rows, lines, or verses, Gr. <?/; <grk>"e`x</grk> six + <grk>sti`chos</grk> row, line, verse.]</ety> <def>A poem consisting of six verses or lines.</def></p>
+<p><mhw>{ <hw>Hex"a*stich</hw> <pr>(?)</pr>, <par/<hw>Hex*as"ti*chon</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>hexastichus</ets> of six rows, lines, or verses, Gr. <?/; <grk>"e`x</grk> six + <grk>sti`cos</grk> row, line, verse.]</ety> <def>A poem consisting of six verses or lines.</def></p>
 </entry>
 
 <entry main-word="Hexastyle" source="1913 Webster">
@@ -13594,7 +13594,7 @@ Where truth is <qex>hid</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Hierarchy" source="1913 Webster">
-<p><hw>Hi"er*arch`y</hw> <pr>(h<imac/"<etil/r*<aum/rk`<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hierarchies</plw> <pr>(h<imac/"<etil/r*<aum/rk`<icr/z)</pr>.</plu> <ety>[Gr. <grk>'ierarchi`a</grk>: cf. F. <ets>hi<eacute/rarchie</ets>.]</ety> <sn>1.</sn> <def>Dominion or authority in sacred things.</def></p>
+<p><hw>Hi"er*arch`y</hw> <pr>(h<imac/"<etil/r*<aum/rk`<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Hierarchies</plw> <pr>(h<imac/"<etil/r*<aum/rk`<icr/z)</pr>.</plu> <ety>[Gr. <grk>'ierarci`a</grk>: cf. F. <ets>hi<eacute/rarchie</ets>.]</ety> <sn>1.</sn> <def>Dominion or authority in sacred things.</def></p>
 
 <p><sn>2.</sn> <def>A body of officials disposed organically in ranks and orders each subordinate to the one above it; a body of ecclesiastical rulers.</def></p>
 
@@ -17409,7 +17409,7 @@ Upon the barren <qex>hollows</qex>.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Holotricha" source="1913 Webster">
-<p><par/<hw>Ho*lot"ri*cha</hw> <pr>(h<osl/*l<ocr/t"r<icr/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>qri`x</grk>, <grk>tricho`s</grk>, a hair.]</ety> <fld>(Zool.)</fld> <def>A group of ciliated Infusoria, having cilia all over the body.</def></p>
+<p><par/<hw>Ho*lot"ri*cha</hw> <pr>(h<osl/*l<ocr/t"r<icr/*k<adot/)</pr>, <pos>n. pl.</pos> <ety>[NL., fr. Gr. <grk>"o`los</grk> whole + <grk>qri`x</grk>, <grk>trico`s</grk>, a hair.]</ety> <fld>(Zool.)</fld> <def>A group of ciliated Infusoria, having cilia all over the body.</def></p>
 </entry>
 
 <entry main-word="Holour" source="">

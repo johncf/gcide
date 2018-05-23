@@ -92,7 +92,7 @@
 </entry>
 
 <entry main-word="Xanthochroic" source="1913 Webster">
-<p><hw>Xan`tho*chro"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xantho-</ets> + Gr. <grk>chro`a</grk> color.]</ety> <fld>(Ethnol.)</fld> <def>Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.</def></p>
+<p><hw>Xan`tho*chro"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[<ets>Xantho-</ets> + Gr. <grk>cro`a</grk> color.]</ety> <fld>(Ethnol.)</fld> <def>Having a yellowish or fair complexion; of or pertaining to the Xanthochroi.</def></p>
 </entry>
 
 <entry main-word="Xanthochroid" source="Webster 1913 Suppl.">
@@ -230,11 +230,11 @@
 </entry>
 
 <entry main-word="Xenodochium" source="1913 Webster">
-<p><par/<hw>Xen`o*do*chi"um</hw> <pr>(z<ecr/n`<osl/*d<osl/*k<imac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>xenodochium</ets> a building for the reception of strangers, Gr. <grk>xenodochei^on</grk> .]</ety> <sd>(a)</sd> <fld>(Class. Antiq.)</fld> <def>A house for the reception of strangers.</def>  <sd>(b)</sd> <def>In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also <altname>Xenodocheion</altname>.]</def></p>
+<p><par/<hw>Xen`o*do*chi"um</hw> <pr>(z<ecr/n`<osl/*d<osl/*k<imac/"<ucr/m)</pr>, <pos>n.</pos> <ety>[LL., fr. L. <ets>xenodochium</ets> a building for the reception of strangers, Gr. <grk>xenodocei^on</grk> .]</ety> <sd>(a)</sd> <fld>(Class. Antiq.)</fld> <def>A house for the reception of strangers.</def>  <sd>(b)</sd> <def>In the Middle Ages, a room in a monastery for the reception and entertainment of strangers and pilgrims, and for the relief of paupers. [Called also <altname>Xenodocheion</altname>.]</def></p>
 </entry>
 
 <entry main-word="Xenodochy" source="1913 Webster">
-<p><hw>Xe*nod"o*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xenodochi`a</grk>.]</ety> <def>Reception of strangers; hospitality.</def>  <mark>[R.]</mark></p>
+<p><hw>Xe*nod"o*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>xenodoci`a</grk>.]</ety> <def>Reception of strangers; hospitality.</def>  <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Xenon" source="PJC;;Webster 1913 Suppl.">
@@ -434,7 +434,7 @@
 </entry>
 
 <entry main-word="XP" source="Webster 1913 Suppl.">
-<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CHRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <ecol>Constantinian <oneof>symbol, <or/ monogram</oneof></ecol>. See <er>Labarum</er>.</def></p>
+<p><hw>XP</hw> <pr>(?)</pr>. <ety>[Belongs here in appearance only.]</ety> <def>The first two letters of the Greek word <grk>CRISTOS</grk>, Christ; -- an abbreviation used with the letters separate or, oftener, in a monogram, often inclosed in a circle, as a symbol or emblem of Christ. It use as an emblem was introduced by Constantine the Great, whence it is known as the <ecol>Constantinian <oneof>symbol, <or/ monogram</oneof></ecol>. See <er>Labarum</er>.</def></p>
 </entry>
 
 <entry main-word="x-rated" source="PJC">
