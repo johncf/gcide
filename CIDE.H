@@ -10962,7 +10962,7 @@ Of woe and sorrow.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Henotic" source="1913 Webster">
-<p><hw>He*not"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"enwtiko`s</grk>, fr. <grk>"enou^n</grk> to unite, fr. <grk>e"i^s</grk> one.]</ety> <def>Harmonizing; irenic.</def>  <rj><au>Gladstone.</au></rj></p>
+<p><hw>He*not"ic</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>"enwtiko`s</grk>, fr. <grk>"enoy^n</grk> to unite, fr. <grk>e"i^s</grk> one.]</ety> <def>Harmonizing; irenic.</def>  <rj><au>Gladstone.</au></rj></p>
 </entry>
 
 <entry main-word="henpeck" source="1913 Webster;;PJC">

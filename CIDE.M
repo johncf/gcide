@@ -15050,7 +15050,7 @@ Sees fleets and armies in the sky.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Melanure" source="1913 Webster">
-<p><hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>'oura`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sdr>(a)</sdr>.</def></p>
+<p><hw>Mel"a*nure</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL. <ets>melanurus</ets>, fr. Gr. <grk>me`las</grk>, <grk>me`lanos</grk>, black + <grk>'oyra`</grk> tail.]</ety> <fld>(Zool.)</fld> <def>A small fish of the Mediterranean; a gilthead. See <er>Gilthead</er> <sdr>(a)</sdr>.</def></p>
 </entry>
 
 <entry main-word="Melanuric" source="1913 Webster">
@@ -32121,7 +32121,7 @@ Nor man nor fiend hath fallen so far.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Morosaurus" source="1913 Webster">
-<p><par/<hw>Mo`ro*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mw^ros</grk> stupid + <grk>sau^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large herbivorous dinosaurs, found in Jurassic strata in America.</def></p>
+<p><par/<hw>Mo`ro*sau"rus</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>mw^ros</grk> stupid + <grk>say^ros</grk> lizard.]</ety> <fld>(Paleon.)</fld> <def>An extinct genus of large herbivorous dinosaurs, found in Jurassic strata in America.</def></p>
 </entry>
 
 <entry main-word="Morose" source="1913 Webster">

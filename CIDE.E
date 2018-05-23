@@ -6205,7 +6205,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Eleutheromania" source="1913 Webster">
-<p><par/<hw>E*leu`ther*o*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr.  <grk>'eleu`qeros</grk> free + E. <ets>mania</ets>.]</ety> <def>A mania or frantic zeal for freedom.</def> <mark>[R.]</mark>  <rj><au>Carlyle.</au></rj></p>
+<p><par/<hw>E*leu`ther*o*ma"ni*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr.  <grk>'eley`qeros</grk> free + E. <ets>mania</ets>.]</ety> <def>A mania or frantic zeal for freedom.</def> <mark>[R.]</mark>  <rj><au>Carlyle.</au></rj></p>
 </entry>
 
 <entry main-word="Eleutheromaniac" source="1913 Webster">
@@ -6213,7 +6213,7 @@ Most bloody, fiery, and most terrible.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Eleuthero-petalous" source="1913 Webster">
-<p><hw>E*leu`ther*o-pet"al*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'eleu`qeros</grk> free + E. <ets>petal</ets>.]</ety> <fld>(Bot.)</fld> <def>Having the petals free, that is, entirely separate from each other; -- said of both plant and flower.</def></p>
+<p><hw>E*leu`ther*o-pet"al*ous</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Gr. <grk>'eley`qeros</grk> free + E. <ets>petal</ets>.]</ety> <fld>(Bot.)</fld> <def>Having the petals free, that is, entirely separate from each other; -- said of both plant and flower.</def></p>
 </entry>
 
 <entry main-word="Elevate" source="1913 Webster">

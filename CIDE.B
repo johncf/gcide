@@ -36710,7 +36710,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Bubo" source="1913 Webster">
-<p><hw>Bu"bo</hw> <pr>(b<umac/"b<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Buboes</plw> <pr>(-b<osl/z)</pr>.</plu> <ety>[LL. <ets>bubo</ets> the groin, a swelling in the groin, Gr. <grk>boubw`n</grk>.]</ety> <fld>(Med.)</fld> <def>An inflammation, with enlargement, of a lymphatic gland, esp. in the groin, as in syphilis.</def></p>
+<p><hw>Bu"bo</hw> <pr>(b<umac/"b<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Buboes</plw> <pr>(-b<osl/z)</pr>.</plu> <ety>[LL. <ets>bubo</ets> the groin, a swelling in the groin, Gr. <grk>boybw`n</grk>.]</ety> <fld>(Med.)</fld> <def>An inflammation, with enlargement, of a lymphatic gland, esp. in the groin, as in syphilis.</def></p>
 </entry>
 
 <entry main-word="Bubonic" source="1913 Webster">
@@ -36722,7 +36722,7 @@ Even in the cannon's mouth.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Bubonocele" source="1913 Webster">
-<p><hw>Bu*bon"o*cele</hw> <pr>(b<usl/*b<ocr/n"<osl/*s<emac/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>boubw`n</grk> groin + <?/ tumor: cf. F. <ets>bubonoc<egrave/le</ets>.]</ety> <fld>(Med.)</fld> <def>An inguinal hernia; esp. that incomplete variety in which the hernial pouch descends only as far as the groin, forming a swelling there like a bubo.</def></p>
+<p><hw>Bu*bon"o*cele</hw> <pr>(b<usl/*b<ocr/n"<osl/*s<emac/l)</pr>, <pos>n.</pos> <ety>[Gr. <grk>boybw`n</grk> groin + <?/ tumor: cf. F. <ets>bubonoc<egrave/le</ets>.]</ety> <fld>(Med.)</fld> <def>An inguinal hernia; esp. that incomplete variety in which the hernial pouch descends only as far as the groin, forming a swelling there like a bubo.</def></p>
 </entry>
 
 <entry main-word="Bubukle" source="1913 Webster">
@@ -40933,7 +40933,7 @@ That's the <qex>butt end</qex> of a mother's blessing.</q> <rj><qau>Shak.</qau><
 </entry>
 
 <entry main-word="Butter" source="1913 Webster">
-<p><hw>But"ter</hw> <pr>(b<ucr/t"t<etil/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>botere</ets>, <ets>butter</ets>, AS. <ets>butere</ets>, fr. L. <ets>butyrum</ets>, Gr. <grk>boy`turon</grk>; either fr. <grk>boy`s</grk> ox, cow + <grk>turo`s</grk> cheese; or, perhaps, of Scythian origin. Cf. <er>Cow</er>.]</ety> <sn>1.</sn> <def>An oily, unctuous substance obtained from cream or milk by churning.</def></p>
+<p><hw>But"ter</hw> <pr>(b<ucr/t"t<etil/r)</pr>, <pos>n.</pos> <ety>[OE. <ets>botere</ets>, <ets>butter</ets>, AS. <ets>butere</ets>, fr. L. <ets>butyrum</ets>, Gr. <grk>boy`tyron</grk>; either fr. <grk>boy`s</grk> ox, cow + <grk>tyro`s</grk> cheese; or, perhaps, of Scythian origin. Cf. <er>Cow</er>.]</ety> <sn>1.</sn> <def>An oily, unctuous substance obtained from cream or milk by churning.</def></p>
 
 <p><sn>2.</sn> <def>Any substance resembling butter in degree of consistence, or other qualities, especially, in old chemistry, the chlorides, as <xex>butter of antimony</xex>, sesquichloride of antimony; also, certain concrete fat oils remaining nearly solid at ordinary temperatures, as <xex>butter of cacao</xex>, <xex>vegetable butter</xex>, <xex>shea butter</xex>.</def></p>
 

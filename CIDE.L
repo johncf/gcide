@@ -4561,7 +4561,7 @@ To <qex>lard</qex> with wit thy hungry Epsom prose.</q> <rj><qau>Dryden.</qau></
 </entry>
 
 <entry main-word="Lascivious" source="1913 Webster">
-<p><hw>Las*civ"i*ous</hw> <pr>(l<acr/s*s<icr/v"<icr/*<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>lascivia</ets> wantonness, fr. <ets>lascivus</ets> wanton; cf. Gr. <grk>la`stauros</grk> lecherous, <grk>lh^n</grk> to wish, Skr. <ets>lash</ets> to desire.]</ety> <sn>1.</sn> <def>Wanton; lewd; lustful; <as>as, <ex>lascivious</ex> men; <ex>lascivious</ex> desires.</as></def>  <rj><au>Milton.</au></rj></p>
+<p><hw>Las*civ"i*ous</hw> <pr>(l<acr/s*s<icr/v"<icr/*<ucr/s)</pr>, <pos>a.</pos> <ety>[L. <ets>lascivia</ets> wantonness, fr. <ets>lascivus</ets> wanton; cf. Gr. <grk>la`stayros</grk> lecherous, <grk>lh^n</grk> to wish, Skr. <ets>lash</ets> to desire.]</ety> <sn>1.</sn> <def>Wanton; lewd; lustful; <as>as, <ex>lascivious</ex> men; <ex>lascivious</ex> desires.</as></def>  <rj><au>Milton.</au></rj></p>
 
 <p><sn>2.</sn> <def>Tending to produce voluptuous or lewd emotions.</def></p>
 

@@ -10918,11 +10918,11 @@ The man's the gowd [gold] for <qex>a'that</qex>.</q> <rj><qau>Burns.</qau></rj><
 </entry>
 
 <entry main-word="thaumaturgus" source="1913 Webster">
-<p><par/<hw>thau`ma*tur"gus</hw> <pr>(th<add/`m<adot/*t<ucir/r"g<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qaymatourgo`s</grk> wonder-working; <grk>qay^ma</grk> a wonder + <grk>'e`rgon</grk> work.]</ety> <def>A miracle worker; -- a title given by the Roman Catholics to some saints.</def></p>
+<p><par/<hw>thau`ma*tur"gus</hw> <pr>(th<add/`m<adot/*t<ucir/r"g<ucr/s)</pr>, <pos>n.</pos> <ety>[NL., from Gr. <grk>qaymatoyrgo`s</grk> wonder-working; <grk>qay^ma</grk> a wonder + <grk>'e`rgon</grk> work.]</ety> <def>A miracle worker; -- a title given by the Roman Catholics to some saints.</def></p>
 </entry>
 
 <entry main-word="thaumaturgy" source="1913 Webster">
-<p><hw>thau"ma*tur`gy</hw> <pr>(th<add/`m<adot/*t<ucir/r"j<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>qaymatourgi`a</grk>.]</ety> <def>The act or art of performing something wonderful; magic; legerdemain.</def>  <rj><au>T. Warton.</au></rj></p>
+<p><hw>thau"ma*tur`gy</hw> <pr>(th<add/`m<adot/*t<ucir/r"j<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>qaymatoyrgi`a</grk>.]</ety> <def>The act or art of performing something wonderful; magic; legerdemain.</def>  <rj><au>T. Warton.</au></rj></p>
 </entry>
 
 <entry main-word="thave" source="1913 Webster">
