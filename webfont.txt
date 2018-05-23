@@ -499,68 +499,74 @@ by the capitalized versions of the letters shown here.
  Greek letter     transliteration
 --------------    ---------------
 α   alpha           a
+Α   Alpha           A
 β   beta            b
+Β   Beta            B
 γ   gamma           g
 Γ   Gamma           G
 δ   delta           d
 Δ   Delta           D
 ε   epsilon         e
+Ε   Epsilon         E
 ζ   zeta            z
+Ζ   Zeta            Z
 η   eta             h
-θ   theta           q    [1]
+Η   Eta             H
+θ   theta           q   [1]
 Θ   Theta           Q
 ι   iota            i
+Ι   Iota            I
 κ   kappa           k
+Κ   Kappa           K
 λ   lambda          l
 Λ   Lambda          L
 μ   mu              m
+Μ   Mu              M
 ν   nu              n
+Ν   Nu              N
 ξ   xi              x
 Ξ   Xi              X
 ο   omicron         o
+Ο   Omicron         O
 π   pi              p
 Π   Pi              P
 ρ   rho             r
-σ,ς sigma           s    [2]
+Ρ   Rho             R
+σ,ς sigma           s   [2]
 Σ   Sigma           S
 τ   tau             t
-υ   upsilon         u,y  [3]
+Τ   Tau             T
+υ   upsilon         y
+Υ   Upsilon         Y
 φ   phi             f
 Φ   Phi             F
-χ   chi             ch   [4]
-ψ   psi             ps   [5]
-Ψ   Psi             PS
+χ   chi             c
+Χ   Chi             C
+ψ   psi             j   [3]
+Ψ   Psi             J
 ω   omega           w
 Ω   Omega           W
-ϝ   digamma         v    [6]
+ϝ   digamma         v   [4]
 
 ---
-[1] "th" was used in some earier sections, but was changed due to potential
-confusion with the tau+eta combination, as in λυτήριος
-(<grk>lyth`rios</grk>, at "lyterian") or ποιητής (<grk>poihth`s</grk>, at
-"maker").
+[1] Formerly, 'th' was used, but changed due to ambiguity.
 [2] Final sigma is not distinguished here from middle sigma, but when
-isolated, use <sigmat/ ("terminal sigma") for the final form.
-[3] Both y and u are used interchangeably in this edition.
-[4] "c" is always followed by "h", so the "h" component is not confusable
-with eta.  Applications must first convert "ch" before converting "h", or at
-least verify that an "h" to be converted has no preceding "c".
-[5] This usage is theoretically confusable with pi-sigma, but that
-[6] Archaic letter; only used once.
+    isolated, use <sigmat/ ("terminal sigma") for the final form.
+[3] Formerly, 'ps' was used, but changed for better clarity.
+[4] Archaic letter; only used once.
 
-Roman "j" is unused.  Roman "u" is occasionally used instead of "y" to
-represent upsilon.
+Roman "u" is unused.
 
----------------------------------
- Combining     Unicode    Example
------------    -------    -------
-' (pre)        U+0313     ἀ
-" (pre)        U+0314     ἁ
-`              U+0301     ά
-~              U+0300     ὰ
-^              U+0342     ᾶ
-,              U+0345     ᾳ
-:              U+0308     ї
+------------------------------------------------
+Combining      Transcript     Unicode    Example
+-----------    ----------     -------    -------
+S. lenis       ' (pre)        U+0313     ἀ
+S. asper       " (pre)        U+0314     ἁ
+acute          `              U+0301     ά
+grave          ~              U+0300     ὰ
+circumflex     ^              U+0342     ᾶ
+iota sub.      ,              U+0345     ᾳ
+diaeresis      :              U+0308     ї
 
 Examples:
 
