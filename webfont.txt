@@ -152,7 +152,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <OE/        OElig       \OE             Œ   OE      OE ligature
 <cced/      ccedil      \c{c}           ç   c       c cedilla
 <aring/     aring       \aa             å   a       a ring above
-<uring/     aring       \aa             ů   u       u ring above
+<uring/                                 ů   u       u ring above
 <aacute/    aacute      \'a             á   a       a acute
 <eacute/    eacute      \'e             é   e       e acute
 <iacute/    iacute      \'i             í   i       i acute
@@ -175,23 +175,23 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <oum/       ouml        \"o             ö   o       o umlaut (diaeresis)
 <uum/       uuml        \"u             ü   u       u umlaut (diaeresis)
 <atil/      atilde      \~a             ã   a       a tilde
-<etil/      etilde      \~e             ẽ   e       e tilde
+<etil/                  \~e             ẽ   e       e tilde
 <ltil/                  \~l             l̃   l       l tilde
 <mtil/                  \~m             m̃   m       m tilde
 <ntil/      ntilde      \~n             ñ   n       n tilde
-<amac/      amacr       \=a             ā   a       a macron
-<emac/      emacr       \=e             ē   e       e macron
-<imac/      imacr       \=i             ī   i       i macron
-<omac/      omacr       \=o             ō   o       o macron
-<umac/      umacr       \=u             ū   u       u macron
+<amac/                  \=a             ā   a       a macron
+<emac/                  \=e             ē   e       e macron
+<imac/                  \=i             ī   i       i macron
+<omac/                  \=o             ō   o       o macron
+<umac/                  \=u             ū   u       u macron
 <ymac/                  \=y             ȳ   y       y macron
 <aemac/                 \=\ae           ǣ   ae      ae ligature macron
 <oomac/                 \={oo}          o͞o  oo      oo macron
-<acr/       abreve      \u{a}           ă   a       a breve
+<acr/                   \u{a}           ă   a       a breve
 <ecr/                   \u{e}           ĕ   e       e breve
 <icr/                   \u{i}           ĭ   i       i breve
 <ocr/                   \u{o}           ŏ   o       o breve
-<ucr/       ubreve      \u{u}           ŭ   u       u breve
+<ucr/                   \u{u}           ŭ   u       u breve
 <oocr/                  \u{oo}          o͝o  oo      oo breve
 <ocar/                  \v{o}           ǒ   o       o hacek
 <asl/                                   ā̇   a       a "semilong" (see Diacritics)
@@ -223,10 +223,9 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <rdquo/     rdquo       ''              ”   "       close double quote
 <lsquo/     lsquo       `               ‘   '       left single quote
 <rsquo/     rsquo       '               ’   '       right single quote
-<par/                                   ‖   ||      vertical double bar
 <sect/      sect        \S              §   S       section mark
-<sharp/     sharp                       ♯   #       musical sharp
-<flat/      flat                        ♭   *       musical flat
+<sharp/                                 ♯   #       musical sharp
+<flat/                                  ♭   *       musical flat
 <pound/     pound       \pounds         £   *       pound sign (British)
 -                       -               -   -       hyphen-minus (ascii)
 *                                       ‐   -       hyphen
@@ -235,16 +234,16 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <mdash/     mdash       ---             —   --      em dash
 *                                       ―   --      horizontal bar (a.k.a quot. dash)
 <th/                                    t͟h  th      th ligature (to indicate dh sound)
-<par/       par                         ‖   ||      double vertical bar
-<cre/       ssmile      \u{}            ⌣   u       crescent (see info below)
+<par/                                   ‖   ||      double vertical bar
+<cre/                   \u{}            ⌣   u       crescent (see info below)
 <edh/       edh                         ð   th      small eth
 <thorn/     thorn                       þ   th      small thorn
 <yogh/                                  ȝ   y       small yogh
 <divide/    divide      $\div$          ÷   /       division sign
 <times/     times       $\times$        ×   *       multiplication sign
 *           ap          $\approx$       ≈   ~=      "double tilde"
-<rarr/                  \leftarrow      →   >       right arrow (in chem. eq.)
-<middot/                                ·   *       light middle dot
+<rarr/      rarr        \leftarrow      →   >       right arrow (in chem. eq.)
+<middot/    middot                      ·   *       light middle dot
 <root/      radic       $\surd$         √   /       root sign
 <alpha/     alpha                       α   a       small Greek letter alpha
 <beta/      beta                        β   b       small Greek letter beta
@@ -273,7 +272,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <sigmat/    sigmaf                      ς   s       small Greek letter terminal sigma
 <SIGMA/     Sigma                       Σ   S       capital Greek letter sigma
 <tau/       tau                         τ   t       small Greek letter tau
-<upsilon/   upsilon                     υ   y       small Greek letter upsilon
+<upsilon/   upsilon                     υ   u       small Greek letter upsilon
 <phi/       phi                         φ   f       small Greek letter phi
 <PHI/       Phi                         Φ   F       capital Greek letter phi
 <chi/       chi                         χ   ch      small Greek letter chi
@@ -288,8 +287,8 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
                                                     syllable division indicator)
 <asterism/                              ⁂   *       asterism (three asterisks arranged
                                                     in a triangle)
-<cflex/                                 ˆ   ^       circumflex
-<srtil/                                 ˜   ~       small/raised tilde
+<cflex/     circ                        ˆ   ^       circumflex
+<srtil/     tilde                       ˜   ~       small/raised tilde
 <invbre/                                 ̑   ^       inverted breve
 <bacc/                                  ˈ   "       bold accent (outside <pr> <hw> etc.)
 <lacc/                                  ˌ   `       light accent (outside <pr> <hw> etc.)
@@ -476,7 +475,7 @@ Some examples of the combined forms (aspirant + accent):
    'a~ -- ἂ
    'a^ -- ἆ
    "a` -- ἄ
-   "a~ -- ἂ,
+   "a~ -- ἂ
    "a~ -- ἃ
 
 ** Iota subscriptum
@@ -509,27 +508,38 @@ by the capitalized versions of the letters shown here.
 α   alpha           a
 β   beta            b
 γ   gamma           g
+Γ   Gamma           G
 δ   delta           d
+Δ   Delta           D
 ε   epsilon         e
 ζ   zeta            z
 η   eta             h
 θ   theta           q    [1]
+Θ   Theta           Q
 ι   iota            i
 κ   kappa           k
 λ   lambda          l
+Λ   Lambda          L
 μ   mu              m
 ν   nu              n
 ξ   xi              x
+Ξ   Xi              X
 ο   omicron         o
 π   pi              p
+Π   Pi              P
 ρ   rho             r
 σ,ς sigma           s    [2]
+Σ   Sigma           S
 τ   tau             t
-υ   upsilon         y,u  [3]
+υ   upsilon         u,y  [3]
 φ   phi             f
+Φ   Phi             F
 χ   chi             ch   [4]
 ψ   psi             ps   [5]
+Ψ   Psi             PS
 ω   omega           w
+Ω   Omega           W
+ϝ   digamma         v    [6]
 
 ---
 [1] "th" was used in some earier sections, but was changed due to potential
@@ -543,10 +553,21 @@ isolated, use <sigmat/ ("terminal sigma") for the final form.
 with eta.  Applications must first convert "ch" before converting "h", or at
 least verify that an "h" to be converted has no preceding "c".
 [5] This usage is theoretically confusable with pi-sigma, but that
-combination seems never to occur.
+[6] Archaic letter; only used once.
 
-Roman "j" and "v" are unused.  Roman "u" is occasionally used instead of "y"
-to represent upsilon.
+Roman "j" is unused.  Roman "u" is occasionally used instead of "y" to
+represent upsilon.
+
+---------------------------------
+ Combining     Unicode    Example
+-----------    -------    -------
+' (pre)        U+0313     ἀ
+" (pre)        U+0314     ἁ
+`              U+0301     ά
+~              U+0300     ὰ
+^              U+0342     ᾶ
+,              U+0345     ᾳ
+:              U+0308     ї
 
 Examples:
 
