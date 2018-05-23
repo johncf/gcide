@@ -1496,7 +1496,7 @@ The thistle springs, to which the lily <qex>yields</qex>?</q> <rj><qau>Pope.</qa
 </entry>
 
 <entry main-word="Yin" source="1913 Webster">
-<p><hw>Yin</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Chinese weight of 2<frac23/ pounds.</def></p>
+<p><hw>Yin</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A Chinese weight of 2<frac:2_3/ pounds.</def></p>
 </entry>
 
 <entry main-word="Yin" source="PJC">

@@ -209,11 +209,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <add/                                   a̤   a       a with two dots below
 <udd/                                   ṳ   u       u with two dots below
 <nsm/                                   ṉ   n       "n sub-macron"
-<frac12/                                ½   1/2     one-half
-<frac14/                                ¼   1/4     one-quarter
-<frac13/                                ⅓   1/3     one-third
-<frac23/                                ⅔   2/3     two-thirds
-<fracAxB/                                   A/B     where A and B are integers
+<frac:A_B/                                  A/B     where A and B are integers
 <?/                                     �   (?)     Place-holder for illegible character
 <hand/                                  ☞   ->      pointing hand (printer's "fist")
 <deg/       deg                         °           degree sign
@@ -245,6 +241,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <rarr/      rarr        \leftarrow      →   >       right arrow (in chem. eq.)
 <middot/    middot                      ·   *       light middle dot
 <root/      radic       $\surd$         √   /       root sign
+<cuberoot/                              ∛   3/      cube root sign
 <alpha/     alpha                       α   a       small Greek letter alpha
 <beta/      beta                        β   b       small Greek letter beta
 <gamma/     gamma                       γ   g       small Greek letter gamma
@@ -321,11 +318,7 @@ decimal  hex    char  definition
   148    94     ö     <oum/ o "umlaut", used mostly in "coöperation,
                       Zoöl." and in pronunciations
   164    a4     ñ     <ntil/ Spanish "enye"
-  166    a6     ⅔     <frac23/ two-thirds (fraction)
-  167    a7     ⅓     <frac13/ one-third (fraction)
   169    a9     ˝     <dprime/ double-prime, or seconds of arc or time
-  171    ab     ½     <frac12/ one-half, as in the original IBM set
-  172    ac     ¼     <frac14/ one-fourth (fraction)
   176    b0           <?/ = (reverse-video question mark), used
                       to represent an uncodable or illegible character
   180    b4     ´     long verticle double-headed arrow (a reference mark)

@@ -1610,7 +1610,7 @@ Sworn foes to sense and law.</q> <rj><qau>Cowper.</qau></rj></p>
 <entry main-word="Vanishing" source="1913 Webster">
 <p><hw>Van"ish*ing</hw> <pr>(?)</pr>, <def><pos>a. & n.</pos> from <er>Vanish</er>, <pos>v.</pos></def></p>
 
-<p><cs><col>Vanishing fraction</col> <fld>(Math.)</fld>, <cd>a fraction which reduces to the form <frac00/ for a particular value of the variable which enters it, usually in consequence of the existence of a common factor in both terms of the fraction, which factor becomes 0 for this particular value of the variable.</cd> <au>Math. Dict.</au> -- <col>Vanishing line</col> <fld>(Persp.)</fld>, <cd>the intersection of the parallel of any original plane and the picture; one of the lines converging to the vanishing point.</cd> -- <col>Vanishing point</col> <fld>(Persp.)</fld>, <cd>the point to which all parallel lines in the same plane tend in the representation.</cd> <au>Gwilt.</au> -- <col>Vanishing stress</col> <fld>(Phon.)</fld>, <cd>stress of voice upon the closing portion of a syllable.</cd> <au>Rush.</au></cs></p>
+<p><cs><col>Vanishing fraction</col> <fld>(Math.)</fld>, <cd>a fraction which reduces to the form <frac:0_0/ for a particular value of the variable which enters it, usually in consequence of the existence of a common factor in both terms of the fraction, which factor becomes 0 for this particular value of the variable.</cd> <au>Math. Dict.</au> -- <col>Vanishing line</col> <fld>(Persp.)</fld>, <cd>the intersection of the parallel of any original plane and the picture; one of the lines converging to the vanishing point.</cd> -- <col>Vanishing point</col> <fld>(Persp.)</fld>, <cd>the point to which all parallel lines in the same plane tend in the representation.</cd> <au>Gwilt.</au> -- <col>Vanishing stress</col> <fld>(Phon.)</fld>, <cd>stress of voice upon the closing portion of a syllable.</cd> <au>Rush.</au></cs></p>
 </entry>
 
 <entry main-word="Vanishment" source="1913 Webster">
@@ -10538,7 +10538,7 @@ The earth and scattered bones.</q> <rj><qau>J. Webster.</qau></rj></p>
 </entry>
 
 <entry main-word="Volt" source="1913 Webster">
-<p><hw>Volt</hw>, <pos>n.</pos> <ety>[After Alessandro <ets>Volta</ets>, the Italian electrician.]</ety> <fld>(Elec.)</fld> <def>The unit of electro-motive force; -- defined by the International Electrical Congress in 1893 and by United States Statute as, that electro-motive force which steadily applied to a conductor whose resistance is one ohm will produce a current of one amp<egrave/re. It is practically equivalent to <frac1000x1434/ the electro-motive force of a standard Clark's cell at a temperature of 15<deg/ C.</def></p>
+<p><hw>Volt</hw>, <pos>n.</pos> <ety>[After Alessandro <ets>Volta</ets>, the Italian electrician.]</ety> <fld>(Elec.)</fld> <def>The unit of electro-motive force; -- defined by the International Electrical Congress in 1893 and by United States Statute as, that electro-motive force which steadily applied to a conductor whose resistance is one ohm will produce a current of one amp<egrave/re. It is practically equivalent to <frac:1000_1434/ the electro-motive force of a standard Clark's cell at a temperature of 15<deg/ C.</def></p>
 </entry>
 
 <entry main-word="Volta" source="1913 Webster">

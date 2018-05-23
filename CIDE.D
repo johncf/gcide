@@ -5395,7 +5395,7 @@ Betwixt ourselves let us <qex>decide</qex> it then.</q> <rj><qau>Shak.</qau></rj
 <entry main-word="Decimal" source="1913 Webster">
 <p><hw>Dec"i*mal</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F. <ets>d<eacute/cimal</ets> (cf. LL. <ets>decimalis</ets>), fr. L. <ets>decimus</ets> tenth, fr. <ets>decem</ets> ten. See <er>Ten</er>, and cf. <er>Dime</er>.]</ety> <def>Of or pertaining to decimals; numbered or proceeding by tens; having a tenfold increase or decrease, each unit being ten times the unit next smaller; <as>as, <ex>decimal</ex> notation; a <ex>decimal</ex> coinage.</as></def></p>
 
-<p><cs><col>Decimal arithmetic</col>, <cd>the common arithmetic, in which numeration proceeds by tens.</cd> -- <col>Decimal fraction</col>, <cd>a fraction in which the denominator is some power of 10, as <frac2x10/, <frac25x100/, and is usually not expressed, but is signified by a point placed at the left hand of the numerator, as .2, .25.</cd> -- <col>Decimal point</col>, <cd>a dot or full stop at the left of a decimal fraction. The figures at the left of the point represent units or whole numbers, as 1.05.</cd></cs></p>
+<p><cs><col>Decimal arithmetic</col>, <cd>the common arithmetic, in which numeration proceeds by tens.</cd> -- <col>Decimal fraction</col>, <cd>a fraction in which the denominator is some power of 10, as <frac:2_10/, <frac:25_100/, and is usually not expressed, but is signified by a point placed at the left hand of the numerator, as .2, .25.</cd> -- <col>Decimal point</col>, <cd>a dot or full stop at the left of a decimal fraction. The figures at the left of the point represent units or whole numbers, as 1.05.</cd></cs></p>
 </entry>
 
 <entry main-word="Decimal" source="1913 Webster">
@@ -12164,7 +12164,7 @@ Natives, or <qex>denizens</qex>, of blest abodes.</q> <rj><qau>Dryden.</qau></rj
 
 <p><sn>2.</sn> <fld>(Arith.)</fld> <def>That number placed below the line in common fractions which shows into how many parts the integer or unit is divided.</def></p>
 
-<p><note><hand/ Thus, in <frac35/, 5 is the <xex>denominator</xex>, showing that the integer is divided into five parts; and the numerator, 3, shows how many parts are taken.</note></p>
+<p><note><hand/ Thus, in <frac:3_5/, 5 is the <xex>denominator</xex>, showing that the integer is divided into five parts; and the numerator, 3, shows how many parts are taken.</note></p>
 
 <p><sn>3.</sn> <fld>(Alg.)</fld> <def>That part of any expression under a fractional form which is situated below the horizontal line signifying division.</def></p>
 
@@ -25423,7 +25423,7 @@ Our friendship 's an end.</q> <rj><qau>Addison.</qau></rj></p>
 </entry>
 
 <entry main-word="Discolith" source="1913 Webster">
-<p><hw>Dis"co*lith</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a round plate + <ets>-lith</ets>.]</ety> <fld>(Biol.)</fld> <def>One of a species of coccoliths, having an oval discoidal body, with a thick strongly refracting rim, and a thinner central portion. One of them measures about <frac1x50000/ of an inch in its longest diameter.</def></p>
+<p><hw>Dis"co*lith</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ a round plate + <ets>-lith</ets>.]</ety> <fld>(Biol.)</fld> <def>One of a species of coccoliths, having an oval discoidal body, with a thick strongly refracting rim, and a thinner central portion. One of them measures about <frac:1_50000/ of an inch in its longest diameter.</def></p>
 </entry>
 
 <entry main-word="Discolor" source="1913 Webster">
@@ -40112,7 +40112,7 @@ Wherein doth sit the <qex>dread</qex> and fear of kings.</q> <rj><qau>Shak.</qau
 <entry main-word="Dreadnought" source="Webster 1913 Suppl.">
 <p><hw>Dread"nought`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <mark>(Capitalized)</mark> <def>A British battleship, completed in 1906 -- 1907, having an armament consisting of ten 12-inch guns mounted in turrets, and of twenty-four 12-pound quick-fire guns for protection against torpedo boats. This was the first battleship of the type characterized by a main armament of big guns all of the same caliber. She had a displacement of 17,900 tons at load draft, and a speed of 21 knots per hour.</def></p>
 
-<p><sn>2.</sn>  <def>Any battleship having its main armament entirely of big guns all of one caliber. Since the Dreadnought was built, the caliber of the heaviest guns has increased from 12 in. to 13<frac12/ in., 14 in., and 15 in., and the displacement of the largest batteships from 18,000 tons to 30,000 tons and upwards. The term <stype>superdreadnought</stype> is popularly applied to battleships with such increased displacement and gun caliber.</def>  <altsp>[Also spelled <asp>dreadnaught</asp>.]</altsp></p>
+<p><sn>2.</sn>  <def>Any battleship having its main armament entirely of big guns all of one caliber. Since the Dreadnought was built, the caliber of the heaviest guns has increased from 12 in. to 13<frac:1_2/ in., 14 in., and 15 in., and the displacement of the largest batteships from 18,000 tons to 30,000 tons and upwards. The term <stype>superdreadnought</stype> is popularly applied to battleships with such increased displacement and gun caliber.</def>  <altsp>[Also spelled <asp>dreadnaught</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Dream" source="1913 Webster">

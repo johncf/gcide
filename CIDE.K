@@ -1280,7 +1280,7 @@ A sacrifice to bring.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Kelvin" source="PJC">
-<p><hw>Kel"vin</hw> <pr>(k<ecr/l"v<icr/n)</pr>, <pos>n.</pos> <ety>[from Lord <ets>Kelvin</ets>, English physicist.]</ety> <def>The SI unit of temperature, defined as being 1/273.16 of the triple point of water; abbreviated <abbr>K</abbr>.  The melting point of water at 760 mm pressure is 273.15 Kelvins, and the boiling point 373.15 Kelvins.  One degree Kelvin is equal to one degree Centigrade, and <frac95/ degrees Fahrenheit.</def></p>
+<p><hw>Kel"vin</hw> <pr>(k<ecr/l"v<icr/n)</pr>, <pos>n.</pos> <ety>[from Lord <ets>Kelvin</ets>, English physicist.]</ety> <def>The SI unit of temperature, defined as being 1/273.16 of the triple point of water; abbreviated <abbr>K</abbr>.  The melting point of water at 760 mm pressure is 273.15 Kelvins, and the boiling point 373.15 Kelvins.  One degree Kelvin is equal to one degree Centigrade, and <frac:9_5/ degrees Fahrenheit.</def></p>
 </entry>
 
 <entry main-word="Kemb" source="1913 Webster">

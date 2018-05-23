@@ -2553,7 +2553,7 @@ And still it <qex>neared</qex>, and <qex>neared</qex>.</q> <rj><qau>Coleridge.</
 <entry main-word="Near beer" source="Webster 1913 Suppl.">
 <p><hw>Near beer</hw>. <def>Any of various malt liquors (see <xex>Citation</xex> below).</def></p>
 
-<p><q><qex>Near beer</qex> is a term of common currency used to designate all that class of malt liquors which contain so little alcohol (usually less than <frac12/ per cent) that they will not produce intoxication, though drunk to excess, and includes in its meaning all malt liquors which are not within the purview of the general prohibition law.</q>  <rj><qau>Cambell v. City of Thomasville, Georgia Appeal Records, 6 212.</qau></rj></p>
+<p><q><qex>Near beer</qex> is a term of common currency used to designate all that class of malt liquors which contain so little alcohol (usually less than <frac:1_2/ per cent) that they will not produce intoxication, though drunk to excess, and includes in its meaning all malt liquors which are not within the purview of the general prohibition law.</q>  <rj><qau>Cambell v. City of Thomasville, Georgia Appeal Records, 6 212.</qau></rj></p>
 </entry>
 
 <entry main-word="nearby" source="WordNet 1.5">
@@ -13133,7 +13133,7 @@ Dead perfection; no more.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><sn>2.</sn> <fld>(Math.)</fld> <def>The term in a fraction which indicates the number of fractional units that are taken.</def></p>
 
-<p><note><hand/ In a vulgar fraction the numerator is written above a line; thus, in the fraction <frac59/ (five ninths) 5 is the numerator; in a decimal fraction it is the number which follows the decimal point. See <er>Fraction</er>.</note></p>
+<p><note><hand/ In a vulgar fraction the numerator is written above a line; thus, in the fraction <frac:5_9/ (five ninths) 5 is the numerator; in a decimal fraction it is the number which follows the decimal point. See <er>Fraction</er>.</note></p>
 </entry>
 
 <entry main-word="Numeric" source="1913 Webster">

@@ -14252,7 +14252,7 @@ All these extremes; and must remove all <qex>mediums</qex>.</q> <rj><qau>Denham.
 </entry>
 
 <entry main-word="Medjidie" source="Webster 1913 Suppl.">
-<p><mhw>{ <hw>Me*dji"di*e</hw>, <hw>Me*dji"di*eh</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>maj<imac/dieh</ets> (prop. fem. a., fr. Ar. <ets>mej<imac/d</ets> glorious); -- so called after the sultan Abdul <etsep>Mejid</etsep>, lit., <ldquo/servant of the Glorious One,<rdquo/ i.e., of God.]</ety> <sn>1.</sn> <sd>(a)</sd> <def>A silver coin of Turkey formerly rated at twenty, but since 1880 at nineteen, piasters (about 83 cents).</def> <sd>(b)</sd> <def>A gold coin of Turkey equal to one hundred piastres ($4.396 or 18s. <frac34/d.) [in 1900]; a lira, or Turkish pound.</def></p>
+<p><mhw>{ <hw>Me*dji"di*e</hw>, <hw>Me*dji"di*eh</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Turk. <ets>maj<imac/dieh</ets> (prop. fem. a., fr. Ar. <ets>mej<imac/d</ets> glorious); -- so called after the sultan Abdul <etsep>Mejid</etsep>, lit., <ldquo/servant of the Glorious One,<rdquo/ i.e., of God.]</ety> <sn>1.</sn> <sd>(a)</sd> <def>A silver coin of Turkey formerly rated at twenty, but since 1880 at nineteen, piasters (about 83 cents).</def> <sd>(b)</sd> <def>A gold coin of Turkey equal to one hundred piastres ($4.396 or 18s. <frac:3_4/d.) [in 1900]; a lira, or Turkish pound.</def></p>
 
 <p><sn>2.</sn>  <def>A Turkish honorary order established in 1851 by <persfn>Abdul-Mejid</persfn>, having as its badge a medallion surrounded by seven silver rays and crescents. It is often conferred on foreigners.</def></p>
 </entry>
@@ -21052,14 +21052,14 @@ But wanting rest, will also want of <qex>might</qex>?</q> <rj><qau>Spenser.</qau
 </entry>
 
 <entry main-word="mil" source="WordNet 1.5">
-<p><hw>mil</hw> <pos>n.</pos> <sn>1.</sn> <def>an obsolete monetary unit of Cyprus equal in value to <frac1x1000/ of a pound.</def></p>
+<p><hw>mil</hw> <pos>n.</pos> <sn>1.</sn> <def>an obsolete monetary unit of Cyprus equal in value to <frac:1_1000/ of a pound.</def></p>
 
-<p><sn>2.</sn> <def>a unit of length equal to <frac1x1000/ inch, used especially in measuring the thickness of sheets of materials.</def></p>
+<p><sn>2.</sn> <def>a unit of length equal to <frac:1_1000/ inch, used especially in measuring the thickness of sheets of materials.</def></p>
 
 <p><sn>3.</sn> <def>one milliliter; -- used mostly in informal speech.</def> <mark>[laboratory slang]</mark><br/
 <syn><b>Syn. --</b> milliliter, millilitre, ml, cubic centimeter, cubic centimetre, cc.</syn></p>
 
-<p><sn>4.</sn> <def>a unit of angular size equal to <frac1x6400/ of 360 degrees; -- it is used especially in artillery ranging.</def><br/
+<p><sn>4.</sn> <def>a unit of angular size equal to <frac:1_6400/ of 360 degrees; -- it is used especially in artillery ranging.</def><br/
 <syn><b>Syn. --</b> mil.</syn></p>
 </entry>
 
@@ -27233,7 +27233,7 @@ And our vain blows malicious <qex>mockery</qex>.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="Model" source="1913 Webster">
-<p><hw>Mod"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>mod<egrave/le</ets>, It. <ets>modello</ets>, fr. (assumed) L. <ets>modellus</ets>, fr. <ets>modulus</ets> a small measure, dim. of <ets>modus</ets>. See <er>Mode</er>, and cf. <er>Module</er>.]</ety> <sn>1.</sn> <def>A miniature representation of a thing, with the several parts in due proportion; sometimes, a facsimile of the same size; <as>as, a <frac1x100/ scale <ex>model</ex> of the B-52 bomber</as>.</def></p>
+<p><hw>Mod"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>mod<egrave/le</ets>, It. <ets>modello</ets>, fr. (assumed) L. <ets>modellus</ets>, fr. <ets>modulus</ets> a small measure, dim. of <ets>modus</ets>. See <er>Mode</er>, and cf. <er>Module</er>.]</ety> <sn>1.</sn> <def>A miniature representation of a thing, with the several parts in due proportion; sometimes, a facsimile of the same size; <as>as, a <frac:1_100/ scale <ex>model</ex> of the B-52 bomber</as>.</def></p>
 
 <p><q>In charts, in maps, and eke in <qex>models</qex> made.</q> <rj><qau>Gascoigne.</qau></rj></p>
 
@@ -27861,7 +27861,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 </entry>
 
 <entry main-word="Mohammedan year" source="Webster 1913 Suppl.">
-<p><hw>Mohammedan year</hw> <pos>prop. n.</pos> <def>The year used by Muslims, consisting of twelve lunar months without intercalation, so that they retrograde through all the seasons in about 32<frac12/ years.  The Mohammedan era begins with the year 622 <sc>a. d.</sc>, the first day of the Mohammedan year 1332 being Nov. 30, 1913, according to the Gregorian calendar.</def></p>
+<p><hw>Mohammedan year</hw> <pos>prop. n.</pos> <def>The year used by Muslims, consisting of twelve lunar months without intercalation, so that they retrograde through all the seasons in about 32<frac:1_2/ years.  The Mohammedan era begins with the year 622 <sc>a. d.</sc>, the first day of the Mohammedan year 1332 being Nov. 30, 1913, according to the Gregorian calendar.</def></p>
 </entry>
 
 <entry main-word="Mohawk" source="1913 Webster">

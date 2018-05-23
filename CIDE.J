@@ -2903,7 +2903,7 @@ A precious cunning, in the late Protector?</q> <rj><qau>Beau. & Fl.</qau></rj></
 
 <p><sn>4.</sn> <def>A pendulum rolling machine for slicking or graining leather; same as <er>Jack</er>, <snr>4</snr> <sdr>(i)</sdr>.</def></p>
 
-<p source="PJC"><sn>5.</sn> <def>A small glass or measuring vessel holding 1<frac12/ ounces (45 ml), used mostly for measuring liquor or drinking whiskey; also, the quantity of liquid held in a jigger.</def></p>
+<p source="PJC"><sn>5.</sn> <def>A small glass or measuring vessel holding 1<frac:1_2/ ounces (45 ml), used mostly for measuring liquor or drinking whiskey; also, the quantity of liquid held in a jigger.</def></p>
 
 <p source="PJC"><sn>6.</sn> <def>A <er>thingamajig</er>.</def> <mark>[Colloq.]</mark></p>
 

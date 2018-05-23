@@ -289,7 +289,7 @@ She'll with the <qex>labor</qex> end.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>6.</sn> <fld>(Naut.)</fld> <def>The pitching or tossing of a vessel which results in the straining of timbers and rigging.</def></p>
 
-<p source=""><sn>7.</sn> <ety>[Sp.]</ety> <def>A measure of land in Mexico and Texas, equivalent to an area of 177<frac17/ acres.</def>  <rj><au>Bartlett.</au></rj></p>
+<p source=""><sn>7.</sn> <ety>[Sp.]</ety> <def>A measure of land in Mexico and Texas, equivalent to an area of 177<frac:1_7/ acres.</def>  <rj><au>Bartlett.</au></rj></p>
 
 <p source="Webster 1913 Suppl."><sn>8.</sn> <fld>(Mining.)</fld>  <def>A stope or set of stopes.</def> <mark>[Sp. Amer.]</mark></p>
 
@@ -11072,7 +11072,7 @@ As <qex>levels</qex> with her breeding.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Levy" source="1913 Webster">
-<p><hw>Lev"y</hw> <pr>(-<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Levies</plw> <pr>(-<icr/z)</pr>.</plu> <ety>[A contr. of <ets>elevenpence</ets> or <ets>elevenpenny bit</ets>.]</ety> <def>A name formerly given in Pennsylvania, Maryland, and Virginia to the Spanish real of one eighth of a dollar (or 12<frac12/ cents), valued at eleven pence when the dollar was rated at 7s. 6d.</def></p>
+<p><hw>Lev"y</hw> <pr>(-<ycr/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Levies</plw> <pr>(-<icr/z)</pr>.</plu> <ety>[A contr. of <ets>elevenpence</ets> or <ets>elevenpenny bit</ets>.]</ety> <def>A name formerly given in Pennsylvania, Maryland, and Virginia to the Spanish real of one eighth of a dollar (or 12<frac:1_2/ cents), valued at eleven pence when the dollar was rated at 7s. 6d.</def></p>
 </entry>
 
 <entry main-word="Levy" source="1913 Webster">
@@ -22905,7 +22905,7 @@ He beats thee 'gainst the odds.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Lug" source="1913 Webster">
 <p><hw>Lug</hw>, <pos>n.</pos> <ety>[Etymol. uncertain.]</ety> <sn>1.</sn> <def>A rod or pole.</def> <mark>[Prov. Eng.]</mark>  <rj><au>Wright.</au></rj></p>
 
-<p><sn>2.</sn> <def>A measure of length, being 16<frac12/ feet; a rod, pole, or perch.</def> <mark>[Obs.]</mark> <ldquo/ Eight <xex>lugs</xex> of ground.<rdquo/  <rj><au>Spenser.</au></rj></p>
+<p><sn>2.</sn> <def>A measure of length, being 16<frac:1_2/ feet; a rod, pole, or perch.</def> <mark>[Obs.]</mark> <ldquo/ Eight <xex>lugs</xex> of ground.<rdquo/  <rj><au>Spenser.</au></rj></p>
 
 <p><cs><mcol><col>Chimney lug</col>, <or/ <col>Lug pole</col></mcol>, <cd>a pole on which a kettle is hung over the fire, either in a chimney or in the open air.</cd> <mark>[Local, U.S.]</mark>  <rj><au>Whittier.</au></rj></cs></p>
 </entry>
@@ -23365,7 +23365,7 @@ Are of imagination all compact.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lunation" source="1913 Webster">
-<p><hw>Lu*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Lunated</er>.]</ety> <def>The period of a synodic revolution of the moon, or the time from one new moon to the next; varying in length, at different times, from about 29<frac14/ to 29<frac56/ days, the average length being 29 d., 12h., 44m., 2.9s.</def></p>
+<p><hw>Lu*na"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Lunated</er>.]</ety> <def>The period of a synodic revolution of the moon, or the time from one new moon to the next; varying in length, at different times, from about 29<frac:1_4/ to 29<frac:5_6/ days, the average length being 29 d., 12h., 44m., 2.9s.</def></p>
 </entry>
 
 <entry main-word="Lunch" source="1913 Webster;;PJC">

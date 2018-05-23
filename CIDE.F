@@ -10935,7 +10935,7 @@ With gradual conscience to a perfect night.</q> <rj><qau>Browning.</qau></rj></p
 
 <p><sn>3.</sn> <def>The proportion of pure silver or gold in jewelry, bullion, or coins.</def></p>
 
-<p><note><hand/ The fineness of United States coin is nine tenths, that of English gold coin is eleven twelfths, and that of English silver coin is <frac925x1000/.</note></p>
+<p><note><hand/ The fineness of United States coin is nine tenths, that of English gold coin is eleven twelfths, and that of English silver coin is <frac:925_1000/.</note></p>
 
 <p><sn>4.</sn> <def>Keenness or sharpness; <as>as, the <ex>fineness</ex> of a needle's point, or of the edge of a blade</as>.</def></p>
 </entry>
@@ -11390,7 +11390,7 @@ Of utmost hope!</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Fippenny bit" source="1913 Webster">
 <p><hw>Fip"pen*ny bit`</hw> <pr>(? <or/ ?)</pr>. <ety>[Corruption of <ets>five penny bit</ets>.]</ety> <def>The Spanish half real, or one sixteenth of a dollar, -- so called in Pennsylvania and the adjacent States.</def> <mark>[Obs.]</mark></p>
 
-<p><note><hand/ Before the act of Congress, Feb. 21, 1857, caused the adoption of decimal coins and the withdrawal of foreign coinage from circulation, this coin passed currently for 6<frac14/ cents, and was called in New England a <xex>fourpence ha'penny</xex> or <xex>fourpence</xex>; in New York a <xex>sixpence</xex>; in Pennsylvania, Virginia, etc., a <xex>fip</xex>; and in Louisiana, a <xex>picayune</xex>.</note></p>
+<p><note><hand/ Before the act of Congress, Feb. 21, 1857, caused the adoption of decimal coins and the withdrawal of foreign coinage from circulation, this coin passed currently for 6<frac:1_4/ cents, and was called in New England a <xex>fourpence ha'penny</xex> or <xex>fourpence</xex>; in New York a <xex>sixpence</xex>; in Pennsylvania, Virginia, etc., a <xex>fip</xex>; and in Louisiana, a <xex>picayune</xex>.</note></p>
 </entry>
 
 <entry main-word="Fipple" source="1913 Webster">
@@ -18272,7 +18272,7 @@ Is fixed upon her now forevermore.</q> <rj><qau>Trench.</qau></rj></p>
 </entry>
 
 <entry main-word="Fodder" source="1913 Webster">
-<p><hw>Fod"der</hw> <pr>(f<ocr/d"d<etil/r)</pr>, <pos>n.</pos> <ety>[See 1st <er>Fother</er>.]</ety> <def>A weight by which lead and some other metals were formerly sold, in England, varying from 19<frac12/ to 24 cwt.; a fother.</def> <mark>[Obs.]</mark></p>
+<p><hw>Fod"der</hw> <pr>(f<ocr/d"d<etil/r)</pr>, <pos>n.</pos> <ety>[See 1st <er>Fother</er>.]</ety> <def>A weight by which lead and some other metals were formerly sold, in England, varying from 19<frac:1_2/ to 24 cwt.; a fother.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Fodder" source="1913 Webster">
@@ -24598,7 +24598,7 @@ To pluck the speckled <qex>foxgloves</qex> from their stem.</q> <rj><qau>W. Brow
 
 <p><sn>3.</sn> <fld>(Arith. or Alg.)</fld> <def>One or more aliquot parts of a unit or whole number; an expression for a definite portion of a unit or magnitude.</def></p>
 
-<p><cs><mcol><col>Common fraction</col>, <or/ <col>Vulgar fraction</col></mcol>, <cd>a fraction in which the number of equal parts into which the integer is supposed to be divided is indicated by figures or letters, called the <xex>denominator</xex>, written below a line, over which is the <xex>numerator</xex>, indicating the number of these parts included in the fraction; as <frac12/, one half, <frac25/, two fifths.</cd> -- <col>Complex fraction</col>, <cd>a fraction having a fraction or mixed number in the numerator or denominator, or in both.</cd> <au>Davies & Peck.</au> -- <col>Compound fraction</col>, <cd>a fraction of a fraction; two or more fractions connected by <xex>of</xex>.</cd> -- <mcol><col>Continued fraction</col>, <col>Decimal fraction</col>, <col>Partial fraction</col>, etc.</mcol> <cd>See under <er>Continued</er>, <er>Decimal</er>, <er>Partial</er>, etc.</cd> -- <col>Improper fraction</col>, <cd>a fraction in which the numerator is greater than the denominator.</cd> -- <col>Proper fraction</col>, <cd>a fraction in which the numerator is less than the denominator.</cd></cs></p>
+<p><cs><mcol><col>Common fraction</col>, <or/ <col>Vulgar fraction</col></mcol>, <cd>a fraction in which the number of equal parts into which the integer is supposed to be divided is indicated by figures or letters, called the <xex>denominator</xex>, written below a line, over which is the <xex>numerator</xex>, indicating the number of these parts included in the fraction; as <frac:1_2/, one half, <frac:2_5/, two fifths.</cd> -- <col>Complex fraction</col>, <cd>a fraction having a fraction or mixed number in the numerator or denominator, or in both.</cd> <au>Davies & Peck.</au> -- <col>Compound fraction</col>, <cd>a fraction of a fraction; two or more fractions connected by <xex>of</xex>.</cd> -- <mcol><col>Continued fraction</col>, <col>Decimal fraction</col>, <col>Partial fraction</col>, etc.</mcol> <cd>See under <er>Continued</er>, <er>Decimal</er>, <er>Partial</er>, etc.</cd> -- <col>Improper fraction</col>, <cd>a fraction in which the numerator is greater than the denominator.</cd> -- <col>Proper fraction</col>, <cd>a fraction in which the numerator is less than the denominator.</cd></cs></p>
 </entry>
 
 <entry main-word="Fraction" source="1913 Webster">

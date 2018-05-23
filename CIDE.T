@@ -1761,7 +1761,7 @@ Under the hawthorn in the dale.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>Rowing vessel whose burden does not exceed five hundred <qex>talents</qex>.</q> <rj><qau>Jowett (Thucid.).</qau></rj></p>
 
-<p><sn>2.</sn> <def>Among the Hebrews, a weight and denomination of money. For silver it was equivalent to 3,000 shekels, and in weight was equal to about 93<frac34/ lbs. avoirdupois; as a denomination of silver, it has been variously estimated at from <pound/340 to <pound/396 sterling, or about $1,645 to $1,916 (ca. 1900).  For gold it was equal to 10,000 gold shekels.</def></p>
+<p><sn>2.</sn> <def>Among the Hebrews, a weight and denomination of money. For silver it was equivalent to 3,000 shekels, and in weight was equal to about 93<frac:3_4/ lbs. avoirdupois; as a denomination of silver, it has been variously estimated at from <pound/340 to <pound/396 sterling, or about $1,645 to $1,916 (ca. 1900).  For gold it was equal to 10,000 gold shekels.</def></p>
 
 <p><sn>3.</sn> <def>Inclination; will; disposition; desire.</def> <mark>[Obs.]</mark></p>
 
@@ -12181,7 +12181,7 @@ And Enid started waking.</q> <rj><qau>Tennyson.</qau></rj></p>
 
 <p><note><hand/ The <xex>thermometer</xex> usually consists of a glass tube of capillary bore, terminating in a bulb, and containing mercury or alcohol, which expanding or contracting according to the temperature to which it is exposed, indicates the degree of heat or cold by the amount of space occupied, as shown by the position of the top of the liquid column on a graduated scale. See <er>Centigrade</er>, <er>Fahrenheit</er>, and <er>R<eacute/aumur</er>.</p>
 
-<p>    To reduce degrees Fahrenheit to degrees Centigrade, subtract 32<deg/ and multiply by <frac59/; to reduce degrees Centigrade to degrees Fahrenheit, multiply by <frac95/ and add 32<deg/.</note></p>
+<p>    To reduce degrees Fahrenheit to degrees Centigrade, subtract 32<deg/ and multiply by <frac:5_9/; to reduce degrees Centigrade to degrees Fahrenheit, multiply by <frac:9_5/ and add 32<deg/.</note></p>
 
 <p><cs><mcol><col>Air thermometer</col>, <col>Balance thermometer</col></mcol>, etc. <cd>See under <er>Air</er>, <er>Balance</er>, etc.</cd> -- <col>Metallic thermometer</col>, <cd>a form of thermometer indicating changes of temperature by the expansion or contraction of rods or strips of metal.</cd> -- <mcol><col>Register thermometer</col>, <or/ <col>Self-registering thermometer</col></mcol>, <cd>a thermometer that registers the maximum and minimum of temperature occurring in the interval of time between two consecutive settings of the instrument.  A common form contains a bit of steel wire to be pushed before the column and left at the point of maximum temperature, or a slide of enamel, which is drawn back by the liquid, and left within it at the point of minimum temperature.</cd></cs></p>
 </entry>
@@ -31352,7 +31352,7 @@ Do breed unnatural <qex>troubles</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="Troy" source="1913 Webster">
 <p><hw>Troy</hw> <pr>(?)</pr>, <pos>n.</pos> <def>Troy weight.</def></p>
 
-<p><cs><col>Troy weight</col>, <cd>the weight which gold and silver, jewels, and the like, are weighed. It was so named from <etsep>Troyes</etsep>, in France, where it was first adopted in Europe. The troy ounce is supposed to have been brought from Cairo during the crusades. In this weight the pound is divided into 12 ounces, the ounce into 20 pennyweights, and the pennyweight into 24 grains; hence, the troy ounce contains 480 grains, and the troy pound contains 5760 grains. The avoirdupois pound contains 7000 troy grains; so that 175 pounds troy equal 144 pounds avoirdupois, or 1 pound troy = 0.82286 of a pound avoirdupois, and 1 ounce troy = 1<frac17x175/ or 1.09714 ounce avoirdupois. Troy weight when divided, the pound into 12 ounces, the ounce into 8 drams, the dram into 3 scruples, and the scruple into 20 grains, is called <xex>apothecaries' weight</xex>, used in weighing medicines, etc. In the standard weights of the United States, the troy ounce is divided decimally down to the <frac1x10000/ part.</cd></cs></p>
+<p><cs><col>Troy weight</col>, <cd>the weight which gold and silver, jewels, and the like, are weighed. It was so named from <etsep>Troyes</etsep>, in France, where it was first adopted in Europe. The troy ounce is supposed to have been brought from Cairo during the crusades. In this weight the pound is divided into 12 ounces, the ounce into 20 pennyweights, and the pennyweight into 24 grains; hence, the troy ounce contains 480 grains, and the troy pound contains 5760 grains. The avoirdupois pound contains 7000 troy grains; so that 175 pounds troy equal 144 pounds avoirdupois, or 1 pound troy = 0.82286 of a pound avoirdupois, and 1 ounce troy = 1<frac:17_175/ or 1.09714 ounce avoirdupois. Troy weight when divided, the pound into 12 ounces, the ounce into 8 drams, the dram into 3 scruples, and the scruple into 20 grains, is called <xex>apothecaries' weight</xex>, used in weighing medicines, etc. In the standard weights of the United States, the troy ounce is divided decimally down to the <frac:1_10000/ part.</cd></cs></p>
 </entry>
 
 <entry main-word="Troyounce" source="1913 Webster">

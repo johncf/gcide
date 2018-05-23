@@ -19456,7 +19456,7 @@ Wrought in a sad sincerity.</q> <rj><qau>Emerson.</qau></rj></p>
 </entry>
 
 <entry main-word="grosz" source="WordNet 1.5">
-<p><hw>grosz</hw> <pos>n.</pos> <pr>(gr<omac/sh)</pr> <plu><plw>groszy</plw> <pr>(gr<omac/sh"<emac/)</pr></plu> <def>a Polish monetary unit, equal to <frac1x100/ of a zloty.</def></p>
+<p><hw>grosz</hw> <pos>n.</pos> <pr>(gr<omac/sh)</pr> <plu><plw>groszy</plw> <pr>(gr<omac/sh"<emac/)</pr></plu> <def>a Polish monetary unit, equal to <frac:1_100/ of a zloty.</def></p>
 </entry>
 
 <entry main-word="Grot" source="1913 Webster">

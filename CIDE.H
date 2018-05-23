@@ -1213,7 +1213,7 @@ Comes to him, where in gore he lay insteeped.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Haikwan tael" source="Webster 1913 Suppl.">
-<p><hw>Haikwan tael</hw>. <def>A Chinese weight (<frac1x10/ catty) equivalent to 1<frac13/ oz. or 37.801 g.</def></p>
+<p><hw>Haikwan tael</hw>. <def>A Chinese weight (<frac:1_10/ catty) equivalent to 1<frac:1_3/ oz. or 37.801 g.</def></p>
 </entry>
 
 <entry main-word="Hail" source="1913 Webster">
@@ -8734,7 +8734,7 @@ Is <qex>heavened</qex> in the hush of purple hills.</q> <rj><qau>G. Massey.</qau
 </entry>
 
 <entry main-word="Hectoliter" source="">
-<p><mhw>{ <hw>Hec"to*li`ter</hw>, <hw>Hec"to*li`tre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>hectolitre</ets>, fr. Gr. <?/ hundred + F. <ets>litre</ets> a liter.]</ety> <def>A measure of liquids, containing a hundred liters; equal to a tenth of a cubic meter, nearly 26<frac12/ gallons of wine measure, or 22.0097 imperial gallons. As a dry measure, it contains ten decaliters, or about 2<frac56/ Winchester bushels.</def></p>
+<p><mhw>{ <hw>Hec"to*li`ter</hw>, <hw>Hec"to*li`tre</hw>  }</mhw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>hectolitre</ets>, fr. Gr. <?/ hundred + F. <ets>litre</ets> a liter.]</ety> <def>A measure of liquids, containing a hundred liters; equal to a tenth of a cubic meter, nearly 26<frac:1_2/ gallons of wine measure, or 22.0097 imperial gallons. As a dry measure, it contains ten decaliters, or about 2<frac:5_6/ Winchester bushels.</def></p>
 </entry>
 
 <entry main-word="Hectometer" source="1913 Webster">
@@ -9110,7 +9110,7 @@ Nor <qex>heel</qex> the high lavolt.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Heer" source="1913 Webster">
-<p><hw>Heer</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[Etymol. uncertain.]</ety> <def>A yarn measure of six hundred yards or <frac1x24/ of a spindle. See <er>Spindle</er>.</def></p>
+<p><hw>Heer</hw> <pr>(?)</pr>, <pos>n.</pos><ety>[Etymol. uncertain.]</ety> <def>A yarn measure of six hundred yards or <frac:1_24/ of a spindle. See <er>Spindle</er>.</def></p>
 </entry>
 
 <entry main-word="Heer" source="1913 Webster">
@@ -16560,7 +16560,7 @@ And all their <qex>hoggery</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj></p>
 </entry>
 
 <entry main-word="Hogshead" source="1913 Webster">
-<p><hw>Hogs"head</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>okshoofd</ets>; akin to Sw. <ets>oxhufvud</ets>, Dan. <ets>oxehoved</ets>, G. <ets>oxhoft</ets>; apparently meaning orig., ox head, but it is not known why this name was given.  Cf. <er>Ox</er>, <er>Head</er>.]</ety> <sn>1.</sn> <def>An English measure of capacity, containing 63 wine gallons, or about 52<frac12/ imperial gallons; a half pipe.</def></p>
+<p><hw>Hogs"head</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[D. <ets>okshoofd</ets>; akin to Sw. <ets>oxhufvud</ets>, Dan. <ets>oxehoved</ets>, G. <ets>oxhoft</ets>; apparently meaning orig., ox head, but it is not known why this name was given.  Cf. <er>Ox</er>, <er>Head</er>.]</ety> <sn>1.</sn> <def>An English measure of capacity, containing 63 wine gallons, or about 52<frac:1_2/ imperial gallons; a half pipe.</def></p>
 
 <p><note><hand/ The London hogshead of beer was 54 beer gallons, the London hogshead of ale was 48 ale gallons. Elsewhere in England the ale and beer hogsheads held 51 gallons. These measures are no longer in use, except for cider.</note></p>
 

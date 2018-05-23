@@ -28439,7 +28439,7 @@ With strange <qex>invention</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>Opposite in nature and effect; -- said with reference to any two operations, which, when both are performed in succession upon any quantity, reproduce that quantity; <as>as, multiplication is the <ex>inverse</ex> operation to division</as>. The symbol of an inverse operation is the symbol of the direct operation with <sups>-1</sups> as an index. Thus <fexp>sin<sups>-1</sups> x</fexp> means the arc or angle whose sine is <it>x</it>.</def></p>
 
-<p><cs><col>Inverse figures</col> <fld>(Geom.)</fld>, <cd>two figures, such that each point of either figure is inverse to a corresponding point in the order figure.</cd> -- <col>Inverse points</col> <fld>(Geom.)</fld>, <cd>two points lying on a line drawn from the center of a fixed circle or sphere, and so related that the product of their distances from the center of the circle or sphere is equal to the square of the radius.</cd> -- <mcol><col>Inverse ratio</col>, <or/  <col>Reciprocal ratio</col></mcol> <fld>(Math.)</fld>, <cd>the ratio of the reciprocals of two quantities.</cd> -- <mcol><col>Inverse proportion</col>, <or/  <col>Reciprocal proportion</col></mcol>, <cd>an equality between a direct ratio and a reciprocal ratio; thus, <mathex>4 : 2 : : <frac13/ : <frac16/</mathex>, or 4 : 2 : : 3 : 6, <xex>inversely</xex>.</cd></cs></p>
+<p><cs><col>Inverse figures</col> <fld>(Geom.)</fld>, <cd>two figures, such that each point of either figure is inverse to a corresponding point in the order figure.</cd> -- <col>Inverse points</col> <fld>(Geom.)</fld>, <cd>two points lying on a line drawn from the center of a fixed circle or sphere, and so related that the product of their distances from the center of the circle or sphere is equal to the square of the radius.</cd> -- <mcol><col>Inverse ratio</col>, <or/  <col>Reciprocal ratio</col></mcol> <fld>(Math.)</fld>, <cd>the ratio of the reciprocals of two quantities.</cd> -- <mcol><col>Inverse proportion</col>, <or/  <col>Reciprocal proportion</col></mcol>, <cd>an equality between a direct ratio and a reciprocal ratio; thus, <mathex>4 : 2 : : <frac:1_3/ : <frac:1_6/</mathex>, or 4 : 2 : : 3 : 6, <xex>inversely</xex>.</cd></cs></p>
 </entry>
 
 <entry main-word="Inverse" source="1913 Webster">
@@ -30035,7 +30035,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 </entry>
 
 <entry main-word="Iron Gate" source="PJC">
-<p><mhw><hw>I"ron Gate"</hw>, <hw>The I"ron Gates"</hw></mhw> <pr>(?)</pr>, <pos>prop. n.</pos>  <def>A famous gorge, about 1<frac12/ miles long, cut by the Danube in the Carpathian mountains near the intersection of Hungary, Serbia, and Rumania.</def></p>
+<p><mhw><hw>I"ron Gate"</hw>, <hw>The I"ron Gates"</hw></mhw> <pr>(?)</pr>, <pos>prop. n.</pos>  <def>A famous gorge, about 1<frac:1_2/ miles long, cut by the Danube in the Carpathian mountains near the intersection of Hungary, Serbia, and Rumania.</def></p>
 </entry>
 
 <entry main-word="Iron-gray" source="1913 Webster">
