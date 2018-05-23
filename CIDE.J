@@ -4155,8 +4155,8 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>Joul</hw> <pr>(joul)</pr>, <pos>v. t.</pos> <def>See <er>Jowl</er>.</def></p>
 </entry>
 
-<entry main-word="joule" source="1913 Webster;;PJC">
-<p><hw>joule</hw> <pr>(j<oomac/l)</pr>, <pos>n.</pos> <ety>[From the distinguished English physicist, <person>James Prescott <etsep>Joule</etsep></person> (1818-1889).]</ety> <fld>(Physics.)</fld> <def>A unit of work which is equal to 10<exp>7</exp> ergs (the unit of work in the C. G. S. system of units), and is equivalent to one watt-second, the energy expended in one second by an electric current of one ampere in a resistance of one ohm; also called the <altname>absolute joule</altname>.  It is abbreviated <abbr>J</abbr> or <abbr>j</abbr>.  The <stype>international joule</stype> is slightly larger, being 1.000167 times the absolute joule.  The absolute <ex>joule</ex> is approximately equal to 0.737562 foot pounds, 0.239006 gram-calories (small calories),  and 3.72506 x 10<exp>-7</exp> horsepower-hours, and 0.000948451 B.t.u.</def>  <au>HCP61</au></p>
+<entry main-word="Joule" source="1913 Webster;;Wiktionary">
+<p><hw>Joule</hw> <pr>(j<oomac/l)</pr>, <pos>n.</pos> <ety>[From the distinguished English physicist, <person>James Prescott <etsep>Joule</etsep></person> (1818-1889).]</ety> <fld>(Physics)</fld> <def>In the International System of Units, the derived unit of energy, work and heat; the work required to exert a force of one newton for a distance of one metre. Also equal to the energy of one watt of power for a duration of one second.</def></p>
 
 <p source="1913 Webster"><cs><col>Joule's equivalent</col>. <cd>See under <er>Equivalent</er>, <pos>n.</pos></cd></cs></p>
 </entry>
@@ -4170,7 +4170,7 @@ One <qex>jot</qex> of ceremony.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Joule's law" source="Webster 1913 Suppl.">
-<p><hw>Joule's law</hw>. <sn>1.</sn> <fld>(Elec.)</fld> <def>The law that the rate at which heat is produced in any part of an electric circuit is measured by the product of the square of the current times the resistance of that part of the circuit. If the current (<it>i</it>) is constant for an interval of time (<it>t</it>), the energy (<it>H</it>) in heat units equals <mathex>i<exp>2</exp>Rt</mathex>, <it>R</it> being resistance.</def></p>
+<p><hw>Joule's law</hw>. <sn>1.</sn> <fld>(Elec.)</fld> <def>The law that the rate at which heat is produced in any part of an electric circuit is measured by the product of the square of the current times the resistance of that part of the circuit. If the current (<mathex>i</mathex>) is constant for an interval of time (<mathex>t</mathex>), the energy (<mathex>H</mathex>) in heat units equals <mathex>i<exp>2</exp>Rt</mathex>, <mathex>R</mathex> being resistance.</def></p>
 
 <p><sn>2.</sn> <fld>(Thermodynamics)</fld> <def>The law that there is no change of temperature when a gas expands without doing external work and without receiving or rejecting heat.</def></p>
 </entry>

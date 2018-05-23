@@ -18,7 +18,7 @@
 -->
 
 <entry main-word="V" source="1913 Webster">
-<p><hw>V</hw> <pr>(v<emac/)</pr>. <sn>1.</sn> <def>V, the twenty-second letter of the English alphabet, is a vocal consonant. V and U are only varieties of the same character, U being the cursive form, while V is better adapted for engraving, as in stone. The two letters were formerly used indiscriminately, and till a comparatively recent date words containing them were often classed together in dictionaries and other books of reference (see <er>U</er>). The letter V is from the Latin alphabet, where it was used both as a consonant (about like English <it>w</it>) and as a vowel. The Latin derives it from a form (V) of the Greek vowel <UPSILON/ (see <er>Y</er>), this Greek letter being either from the same Semitic letter as the digamma <universbold>F</universbold> (see <er>F</er>), or else added by the Greeks to the alphabet which they took from the Semitic. Etymologically <xex>v</xex> is most nearly related to <xex>u</xex>, <xex>w</xex>, <xex>f</xex>, <xex>b</xex>, <xex>p</xex>; as in <xex>v</xex>ine, <xex>w</xex>ine; a<xex>v</xex>oirdupois, ha<xex>b</xex>it, ha<xex>v</xex>e; sa<xex>f</xex>e, sa<xex>v</xex>e; tro<xex>v</xex>er, trou<xex>b</xex>adour, tro<xex>p</xex>e. See U, F, etc.</def></p>
+<p><hw>V</hw> <pr>(v<emac/)</pr>. <sn>1.</sn> <def>V, the twenty-second letter of the English alphabet, is a vocal consonant. V and U are only varieties of the same character, U being the cursive form, while V is better adapted for engraving, as in stone. The two letters were formerly used indiscriminately, and till a comparatively recent date words containing them were often classed together in dictionaries and other books of reference (see <er>U</er>). The letter V is from the Latin alphabet, where it was used both as a consonant (about like English <xex>w</xex>) and as a vowel. The Latin derives it from a form (V) of the Greek vowel <UPSILON/ (see <er>Y</er>), this Greek letter being either from the same Semitic letter as the digamma <universbold>F</universbold> (see <er>F</er>), or else added by the Greeks to the alphabet which they took from the Semitic. Etymologically <xex>v</xex> is most nearly related to <xex>u</xex>, <xex>w</xex>, <xex>f</xex>, <xex>b</xex>, <xex>p</xex>; as in <xex>v</xex>ine, <xex>w</xex>ine; a<xex>v</xex>oirdupois, ha<xex>b</xex>it, ha<xex>v</xex>e; sa<xex>f</xex>e, sa<xex>v</xex>e; tro<xex>v</xex>er, trou<xex>b</xex>adour, tro<xex>p</xex>e. See U, F, etc.</def></p>
 
 <p>See <xex>Guide to Pronunciation</xex>, <sect/ 265; also <sect/<sect/ 155, 169, 178-179, etc.</p>
 
@@ -2014,11 +2014,11 @@ Another, sighing, <qex>vapor</qex> forth his soul.</q> <rj><qau>B. Jonson.</qau>
 <entry main-word="Variable" source="1913 Webster">
 <p><hw>Va"ri*a*ble</hw>, <pos>n.</pos> <sn>1.</sn> <def>That which is variable; that which varies, or is subject to change.</def></p>
 
-<p><sn>2.</sn> <fld>(Math.)</fld> <def>A quantity which may increase or decrease; a quantity which admits of an infinite number of values in the same expression; a variable quantity; <as>as, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, <it>x</it> and <it>y</it> are <ex>variables</ex></as>.</def></p>
+<p><sn>2.</sn> <fld>(Math.)</fld> <def>A quantity which may increase or decrease; a quantity which admits of an infinite number of values in the same expression; a variable quantity; <as>as, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, <mathex>x</mathex> and <mathex>y</mathex> are <ex>variables</ex></as>.</def></p>
 
 <p><sn>3.</sn> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A shifting wind, or one that varies in force.</def> <sd>(b)</sd> <pluf>pl.</pluf> <def>Those parts of the sea where a steady wind is not expected, especially the parts between the trade-wind belts.</def></p>
 
-<p><cs><col>Independent variable</col> <fld>(Math.)</fld>, <cd>that one of two or more variables, connected with each other in any way whatever, to which changes are supposed to be given at will. <as>Thus, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, if arbitrary changes are supposed to be given to <it>x</it>, then <it>x</it> is the <ex>independent variable</ex>, and <it>y</it> is called a <it>function</it> of <it>x</it>.</as>  There may be two or more independent variables in an equation or problem.   Cf. <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs></p>
+<p><cs><col>Independent variable</col> <fld>(Math.)</fld>, <cd>that one of two or more variables, connected with each other in any way whatever, to which changes are supposed to be given at will. <as>Thus, in the equation <mathex>x<exp>2</exp> - y<exp>2</exp> = R<exp>2</exp></mathex>, if arbitrary changes are supposed to be given to <mathex>x</mathex>, then <mathex>x</mathex> is the <ex>independent variable</ex>, and <mathex>y</mathex> is called a <xex>function</xex> of <mathex>x</mathex>.</as>  There may be two or more independent variables in an equation or problem.   Cf. <cref>Dependent variable</cref>, under <er>Dependent</er>.</cd></cs></p>
 </entry>
 
 <entry main-word="Variableness" source="1913 Webster">
@@ -2514,9 +2514,7 @@ Nor silver <qex>vases</qex> took the forming mold.</q> <rj><qau>Pope.</qau></rj>
 
 <p><sn>2.</sn> <fld>(Arch.)</fld> <sd>(a)</sd> <def>A vessel similar to that described in the first definition above, or the representation of one in a solid block of stone, or the like, used for an ornament, as on a terrace or in a garden. See <xex>Illust.</xex> of <er>Niche</er>.</def> <sd>(b)</sd> <def>The body, or naked ground, of the Corinthian and Composite capital; -- called also <altname>tambour</altname>, and <altname>drum</altname>.</def></p>
 
-<p source="1913 Webster;;PJC"><note><hand/ Until the time of Walker (1791), <ex>vase</ex> was made to rhyme with <xex>base</xex>, <xex>case</xex>, etc., and it is still commonly so pronounced in the United States.  Walker made it to rhyme with <xex>phrase</xex>, <xex>maze</xex>, etc.  Of modern English practice, <person>Mr. A. J. Ellis</person> (1874) says: <ldquo/<xex>Vase</xex> has four pronunciations in English: <pr><it>v<add/z</it></pr>, which I most commonly say, is going out of use, <pr><it>v<aum/z</it></pr> I hear most frequently, <pr><it>v<amac/z</it></pr> very rarely, and <pr><it>v<amac/s</it></pr> I only know from Cull's marking.  On the analogy of <xex>case</xex>, however, it should be the regular sound.<rdquo/<br/
-  The Merriam-Webster's 10th Colletgiate Dictionary says:  <ldquo/U. S. oftenest v<amac/s; Canada usu. and U. S. also v<amac/z; Canada also & U. S. sometimes v<aum/z.<rdquo/<br/
-   One wit has noted that <ldquo/a v<aum/z is a v<amac/z that costs more than $100.<rdquo/, suggesting that the former is considered a higher-class pronunciation.</note></p>
+<p><note><hand/ Until the time of Walker (1791), <ex>vase</ex> was made to rhyme with <xex>base</xex>, <xex>case</xex>, etc., and it is still commonly so pronounced in the United States.  Walker made it to rhyme with <xex>phrase</xex>, <xex>maze</xex>, etc.  Of modern English practice, <person>Mr. A. J. Ellis</person> (1874) says: <ldquo/<xex>Vase</xex> has four pronunciations in English: <pr><it>v<add/z</it></pr>, which I most commonly say, is going out of use, <pr><it>v<aum/z</it></pr> I hear most frequently, <pr><it>v<amac/z</it></pr> very rarely, and <pr><it>v<amac/s</it></pr> I only know from Cull's marking.  On the analogy of <xex>case</xex>, however, it should be the regular sound.<rdquo/</p>
 
 <p><sn>3.</sn> <fld>(Bot.)</fld> <def>The calyx of a plant.</def></p>
 </entry>
@@ -7158,7 +7156,7 @@ Repassed, and <qex>viewless</qex> mixed with common air.</q> <rj><qau>Pope.</qau
 </entry>
 
 <entry main-word="Vigesimo-quarto" source="1913 Webster">
-<p><hw>Vi*ges"i*mo-quar"to</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-tos</plw> <pr>(<?/)</pr>.</plu> <def>A book composed of sheets each of which is folded into twenty-four leaves; hence, indicating more or less definitely a size of book so made; -- usually written <it>24mo</it>, or <it>24<deg/</it>.</def></p>
+<p><hw>Vi*ges"i*mo-quar"to</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-tos</plw> <pr>(<?/)</pr>.</plu> <def>A book composed of sheets each of which is folded into twenty-four leaves; hence, indicating more or less definitely a size of book so made; -- usually written <xex>24mo</xex>, or <xex>24<deg/</xex>.</def></p>
 </entry>
 
 <entry main-word="Vigil" source="1913 Webster">
@@ -9243,7 +9241,7 @@ Nowhere so clear, sharpened his <qex>visual</qex> ray.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="vitamin K1" source="PJC;;WordNet 1.5">
-<p><hw>vitamin K1</hw> <pos>n.</pos> <def>one of the two K vitamins, (<chform>C31H46O2</chform>).  It is fat-soluble and occurs naturally as the <it>trans</it> isomer. Chemically it is <chname>2-methyl-3-phytyl-1,4,-naphthoquinone</chname>.</def><br/
+<p><hw>vitamin K1</hw> <pos>n.</pos> <def>one of the two K vitamins, (<chform>C31H46O2</chform>).  It is fat-soluble and occurs naturally as the <it>trans</it> isomer.</def><br/
 <syn><b>Syn. --</b> phylloquinone, phytonadione, antihemorrhagic vitamin.</syn>.</p>
 </entry>
 
@@ -11304,9 +11302,9 @@ Firm to their plighted faith.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Vowel" source="1913 Webster">
-<p><hw>Vow"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>voyelle</ets>, or an OF. form without <it>y</it>, L. <ets>vocalis</ets> (sc. <ets>littera</ets>), from <ets>vocalis</ets> sounding, from <ets>vox</ets>, <ets>vocis</ets>, a voice, sound.  See <er>Vocal</er>.]</ety> <fld>(Phon.)</fld> <def>A vocal, or sometimes a whispered, sound modified by resonance in the oral passage, the peculiar resonance in each case giving to each several vowel its distinctive character or quality as a sound of speech; -- distinguished from a <contr>consonant</contr> in that the latter, whether made with or without vocality, derives its character in every case from some kind of obstructive action by the mouth organs. Also, a letter or character which represents such a sound.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 5, 146-149.</def></p>
+<p><hw>Vow"el</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>voyelle</ets>, or an OF. form without <xex>y</xex>, L. <ets>vocalis</ets> (sc. <ets>littera</ets>), from <ets>vocalis</ets> sounding, from <ets>vox</ets>, <ets>vocis</ets>, a voice, sound.  See <er>Vocal</er>.]</ety> <fld>(Phon.)</fld> <def>A vocal, or sometimes a whispered, sound modified by resonance in the oral passage, the peculiar resonance in each case giving to each several vowel its distinctive character or quality as a sound of speech; -- distinguished from a <contr>consonant</contr> in that the latter, whether made with or without vocality, derives its character in every case from some kind of obstructive action by the mouth organs. Also, a letter or character which represents such a sound.  See <xex>Guide to Pronunciation</xex>, <sect/<sect/ 5, 146-149.</def></p>
 
-<p><note><hand/ In the English language, the written vowels are <it>a</it>, <it>e</it>, <it>i</it>, <it>o</it>, <it>u</it>, and sometimes <it>w</it> and <it>y.</it> The spoken vowels are much more numerous.</note></p>
+<p><note><hand/ In the English language, the written vowels are <xex>a</xex>, <xex>e</xex>, <xex>i</xex>, <xex>o</xex>, <xex>u</xex>, and sometimes <xex>w</xex> and <xex>y</xex>. The spoken vowels are much more numerous.</note></p>
 
 <p><cs><col>Close vowel</col>. <cd>See under <er>Close</er>, <pos>a.</pos></cd> -- <col>Vowel point</col>. <cd>See under <er>Point</er>, <pos>n.</pos></cd></cs></p>
 </entry>

@@ -17169,7 +17169,7 @@ Conveyed thy meaning mild.</q> <rj><qau>Emerson.</qau></rj></p>
 
 <p><sn>3.</sn> <def>Evenness; uniformity; <as>as, an <ex>equality</ex> of surface</as>.</def></p>
 
-<p><sn>4.</sn> <fld>(Math.)</fld> <def>Exact agreement between two expressions or magnitudes with respect to quantity; -- denoted by the symbol =; thus, <mathex>a = x</mathex> signifies that <it>a</it> contains the same number and kind of units of measure that <it>x</it> does.</def></p>
+<p><sn>4.</sn> <fld>(Math.)</fld> <def>Exact agreement between two expressions or magnitudes with respect to quantity; -- denoted by the symbol =; thus, <mathex>a = x</mathex> signifies that <mathex>a</mathex> contains the same number and kind of units of measure that <mathex>x</mathex> does.</def></p>
 
 <p><cs><col>Confessional equality</col>. <cd>See under <er>Confessional</er>.</cd></cs></p>
 </entry>

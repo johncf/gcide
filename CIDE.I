@@ -5106,7 +5106,7 @@ Without <qex>impeachment</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Impedance" source="Webster 1913 Suppl.">
-<p><hw>Im*ped"ance</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Impede</ets> + <ets>-ance</ets>.]</ety> <fld>(Elec.)</fld> <def>The apparent resistance in an electric circuit to the flow of an alternating current, analogous to the actual electrical resistance to a direct current, being the ratio of electromotive force to the current. It is equal to <mathex><root>R<exp>2</exp> + X<exp>2</exp></root></mathex>, where <it>R</it> = ohmic resistance, <it>X</it> = reactance. For an inductive circuit, <mathex>X = 2<pi/fL</mathex>, where <it>f</it> = frequency and <it>L</it> = self-inductance; for a circuit with capacity <mathex>X = 1 <divide/ 2<pi/fC</mathex>, where <it>C</it> = capacity.</def></p>
+<p><hw>Im*ped"ance</hw> <pr>(?)</pr>, <pos>n.</pos>  <ety>[<ets>Impede</ets> + <ets>-ance</ets>.]</ety> <fld>(Elec.)</fld> <def>The apparent resistance in an electric circuit to the flow of an alternating current, analogous to the actual electrical resistance to a direct current, being the ratio of electromotive force to the current. It is equal to <mathex><root>R<exp>2</exp> + X<exp>2</exp></root></mathex>, where <mathex>R =</mathex> ohmic resistance, <mathex>X =</mathex> reactance. For an inductive circuit, <mathex>X = 2<pi/fL</mathex>, where <mathex>f =</mathex> frequency and <mathex>L =</mathex> self-inductance; for a circuit with capacity <mathex>X = 1 <divide/ 2<pi/fC</mathex>, where <mathex>C =</mathex> capacity.</def></p>
 </entry>
 
 <entry main-word="Impede" source="1913 Webster">
@@ -22949,7 +22949,7 @@ By their <qex>rebellion</qex> from the books of life.</q> <rj><qau>Milton.</qau>
 <entry main-word="Integer" source="1913 Webster">
 <p><hw>In"te*ger</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>integer</ets> untouched, whole, entire. See <er>Entire</er>.]</ety> <def>A complete entity; a whole number, in contradistinction to a fraction or a mixed number.</def></p>
 
-<p><cs><col>Complex integer</col> <fld>(Theory of Numbers)</fld>, <cd>an expression of the form <mathex>a + b<root/-1</mathex>, where <it>a</it> and <it>b</it> are real integers.</cd></cs></p>
+<p><cs><col>Complex integer</col> <fld>(Theory of Numbers)</fld>, <cd>an expression of the form <mathex>a + b<root/-1</mathex>, where <mathex>a</mathex> and <mathex>b</mathex> are real integers.</cd></cs></p>
 </entry>
 
 <entry main-word="Integrability" source="1913 Webster">

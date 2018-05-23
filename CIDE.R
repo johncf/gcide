@@ -7144,7 +7144,7 @@ Life offered, or soon beg to lay it down.</q> <rj><qau>Milton.</qau></rj></p>
 
 <p><q>Corruption is a <qex>reciprocal</qex> to generation.</q> <rj><qau>Bacon.</qau></rj></p>
 
-<p><sn>2.</sn> <fld>(Arith. & Alg.)</fld> <def>The quotient arising from dividing unity by any quantity; thus <frac:1_4/ is the <xex>reciprocal</xex> of 4; <fract>1/(a + b)</fract> is the <xex>reciprocal</xex> of <mathex>a + b</mathex>. The <xex>reciprocal</xex> of a fraction is the fraction inverted, or the denominator divided by the numerator.</def></p>
+<p><sn>2.</sn> <fld>(Arith. & Alg.)</fld> <def>The quotient arising from dividing unity by any quantity; thus <frac:1_4/ is the <xex>reciprocal</xex> of 4; <fract>1/a + b</fract> is the <xex>reciprocal</xex> of <mathex>a + b</mathex>. The <xex>reciprocal</xex> of a fraction is the fraction inverted, or the denominator divided by the numerator.</def></p>
 </entry>
 
 <entry main-word="Reciprocality" source="1913 Webster">
@@ -22455,7 +22455,7 @@ The ugly view of his deformed crimes.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><sn>3.</sn> <fld>(Chem.)</fld> <def>To change back. See <er>Revert</er>, <pos>v. i.</pos></def></p>
 
-<p><cs><col>To revert a series</col> <fld>(Alg.)</fld>, <cd>to treat a series, as <mathex>y = a + bx + cx<exp>2</exp>  + etc.</mathex>, where one variable <it>y</it> is expressed in powers of a second variable <it>x</it>, so as to find therefrom the second variable <it>x</it>, expressed in a series arranged in powers of <it>y</it>.</cd></cs></p>
+<p><cs><col>To revert a series</col> <fld>(Alg.)</fld>, <cd>to treat a series, as <mathex>y = a + bx + cx<exp>2</exp> + etc.</mathex>, where one variable <mathex>y</mathex> is expressed in powers of a second variable <mathex>x</mathex>, so as to find therefrom the second variable <mathex>x</mathex>, expressed in a series arranged in powers of <mathex>y</mathex>.</cd></cs></p>
 </entry>
 
 <entry main-word="Revert" source="1913 Webster">

@@ -8340,7 +8340,7 @@ Therefore every tree is combustible, -</p>
 
 <p><note><hand/ The pillar part frequently tapers downward, or is narrowest at the base. <xex>Terms</xex> rudely carved were formerly used for landmarks or boundaries. <au>Gwilt.</au></note></p>
 
-<p><sn>9.</sn> <fld>(Alg.)</fld> <def>A member of a compound quantity; <as>as, <it>a</it> or <it>b</it> in <mathex>a + b</mathex>; <it>ab</it> or <it>cd</it> in <mathex>ab - cd</mathex></as>.</def></p>
+<p><sn>9.</sn> <fld>(Alg.)</fld> <def>A member of a compound quantity; <as>as, <mathex>a</mathex> or <mathex>b</mathex> in <mathex>a + b</mathex>; <mathex>ab</mathex> or <mathex>cd</mathex> in <mathex>ab - cd</mathex></as>.</def></p>
 
 <p><sn>10.</sn> <pluf>pl.</pluf> <fld>(Med.)</fld> <def>The menses.</def></p>
 
@@ -25937,7 +25937,7 @@ That all your hopes are fled.</q> <rj><qau>Doddridge.</qau></rj></p>
 <p><q>Things base and vile, holding no quantity,<br/
 Love can <qex>transpose</qex> to form and dignity.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p><sn>3.</sn> <fld>(Alg.)</fld> <def>To bring, as any term of an equation, from one side over to the other, without destroying the equation; thus, if <mathex>a + b = c</mathex>, and we make <mathex>a = c - b</mathex>, then <it>b</it> is said to be <xex>transposed</xex>.</def></p>
+<p><sn>3.</sn> <fld>(Alg.)</fld> <def>To bring, as any term of an equation, from one side over to the other, without destroying the equation; thus, if <mathex>a + b = c</mathex>, and we make <mathex>a = c - b</mathex>, then <mathex>b</mathex> is said to be <xex>transposed</xex>.</def></p>
 
 <p><sn>4.</sn> <fld>(Gram.)</fld> <def>To change the natural order of, as words.</def></p>
 
@@ -29796,7 +29796,7 @@ They had not time to take a steady sight.</q> <rj><qau>Dryden.</qau></rj></p>
 <entry main-word="Triplicate" source="1913 Webster">
 <p><hw>Trip"li*cate</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[L. <ets>triplicatus</ets>, p. p. of <ets>triplicare</ets> to triple, treble; <ets>tri-</ets> (see <er>Tri-</er>) + <ets>plicare</ets> to fold. See <er>Ply</er>, <pos>v. t.</pos>]</ety> <def>Made thrice as much; threefold; tripled.</def></p>
 
-<p><cs><col>Triplicate ratio</col> <fld>(Math.)</fld>, <cd>the ratio of the cubes of two quantities; thus, the <xex>triplicate ratio</xex> of <it>a</it> to <it>b</it> is <mathex>a<exp>3</exp>: b<exp>3</exp></mathex>.</cd></cs></p>
+<p><cs><col>Triplicate ratio</col> <fld>(Math.)</fld>, <cd>the ratio of the cubes of two quantities; thus, the <xex>triplicate ratio</xex> of <mathex>a</mathex> to <mathex>b</mathex> is <mathex>a<exp>3</exp> : b<exp>3</exp></mathex>.</cd></cs></p>
 </entry>
 
 <entry main-word="Triplicate" source="1913 Webster">

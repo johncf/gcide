@@ -22230,7 +22230,7 @@ Through words and things, a <qex>dim</qex> and perilous way.</q> <rj><qau>Wordsw
 
 <p><sn>3.</sn> <fld>(Math.)</fld> <def>The degree of manifoldness of a quantity; <as>as, time is quantity having one <ex>dimension</ex>; volume has three <ex>dimensions</ex>, relative to extension.</as></def></p>
 
-<p><sn>4.</sn> <fld>(Alg.)</fld> <def>A literal factor, as numbered in characterizing a term. The term <xex>dimensions</xex> forms with the cardinal numbers a phrase equivalent to <xex>degree</xex> with the ordinal; thus, <mathex><it>a<exp>2</exp>b<exp>2</exp>c</it></mathex> is a term of five <xex>dimensions</xex>, or of the fifth degree.</def></p>
+<p><sn>4.</sn> <fld>(Alg.)</fld> <def>A literal factor, as numbered in characterizing a term. The term <xex>dimensions</xex> forms with the cardinal numbers a phrase equivalent to <xex>degree</xex> with the ordinal; thus, <mathex>a<exp>2</exp>b<exp>2</exp>c</mathex> is a term of five <xex>dimensions</xex>, or of the fifth degree.</def></p>
 
 <p source=""><sn>5.</sn> <pluf>pl.</pluf> <fld>(Phys.)</fld> <def>The manifoldness with which the fundamental units of time, length, and mass are involved in determining the units of other physical quantities.</def> <note>Thus, since the unit of velocity varies directly as the unit of length and inversely as the unit of time, the <ex>dimensions</ex> of velocity are said to be <mathex>length <divide/ time</mathex>; the <ex>dimensions</ex> of work are <mathex>mass <times/ (length)<exp>2</exp> <divide/ (time)<exp>2</exp></mathex>; the <ex>dimensions</ex> of density are <mathex>mass <divide/ (length)<exp>3</exp></mathex>.</note></p>
 
