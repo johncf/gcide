@@ -570,7 +570,7 @@ diaeresis      :              U+0308     ї
 
 Examples:
 
-<grk>'archai:`zein</grk>   ἀρχαῒζειν
+<grk>'arcai:`zein</grk>    ἀρχαῒζειν
 <grk>zw^,on</grk>          ζῷον
 <grk>o'i^nos</grk>         οἶνος
 <grk>"ydra`rgyros</grk>    ὑδράργυρος

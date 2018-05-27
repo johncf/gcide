@@ -138,7 +138,7 @@
 </entry>
 
 <entry main-word="Dacotahs" source="1913 Webster">
-<p><hw>Da*co"tahs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Dacotan</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Dacotas</er>.</def>  <rj><au>Longfellow.</au></rj></p>
+<p><hw>Da*co"tahs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Dacotan</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Dacotas</er>.</def>  <rj><au>Longfellow.</au></rj></p>
 </entry>
 
 <entry main-word="Dacron" source="WordNet 1.5">
@@ -739,7 +739,7 @@ She, I'll swear, hath corns.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Dakotas" source="1913 Webster">
-<p><hw>Da*ko"tas</hw> <pr>(?)</pr>, <pos>n. pl</pos>.; <sing>sing. <singw>Dacota</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>An extensive race or stock of Indians, including many tribes, mostly dwelling west of the Mississippi River; -- also, in part, called <altname>Sioux</altname>.</def> <altsp>[Written also <asp>Dacotahs</asp>.]</altsp></p>
+<p><hw>Da*ko"tas</hw> <pr>(?)</pr>, <pos>n. pl</pos>.; <sing><it>sing.</it> <singw>Dacota</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>An extensive race or stock of Indians, including many tribes, mostly dwelling west of the Mississippi River; -- also, in part, called <altname>Sioux</altname>.</def> <altsp>[Written also <asp>Dacotahs</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Dal" source="1913 Webster">
@@ -9490,7 +9490,7 @@ Of the <qex>delapsed</qex> crown from Philip.</q> <rj><qau>Drayton.</qau></rj></
 </entry>
 
 <entry main-word="Delawares" source="1913 Webster">
-<p><hw>Del"a*wares</hw> <pr>(d<ecr/l"<adot/*w<acir/rz)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Delaware</singw>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians formerly inhabiting the valley of the Delaware River, but now mostly located in the Indian Territory.</def></p>
+<p><hw>Del"a*wares</hw> <pr>(d<ecr/l"<adot/*w<acir/rz)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Delaware</singw>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians formerly inhabiting the valley of the Delaware River, but now mostly located in the Indian Territory.</def></p>
 </entry>
 
 <entry main-word="Delay" source="1913 Webster">
@@ -21369,7 +21369,7 @@ The senate's courtesy?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Diggers" source="1913 Webster">
-<p><hw>Dig"gers</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Digger</singw></sing>. <fld>(Ethnol.)</fld> <def>A degraded tribe of California Indians; -- so called from their practice of digging roots for food.</def></p>
+<p><hw>Dig"gers</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Digger</singw></sing>. <fld>(Ethnol.)</fld> <def>A degraded tribe of California Indians; -- so called from their practice of digging roots for food.</def></p>
 </entry>
 
 <entry main-word="Digging" source="1913 Webster">
@@ -44760,7 +44760,7 @@ are said to have <qex>dwindled</qex> into factious clubs.</q> <rj><qau>Swift.</q
 </entry>
 
 <entry main-word="Dyaks" source="1913 Webster">
-<p><hw>Dy"aks</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Dyak</singw>.</sing> <fld>(Ethnol.)</fld> <def>The aboriginal and most numerous inhabitants of Borneo. They are partially civilized, but retain many barbarous practices.</def></p>
+<p><hw>Dy"aks</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Dyak</singw>.</sing> <fld>(Ethnol.)</fld> <def>The aboriginal and most numerous inhabitants of Borneo. They are partially civilized, but retain many barbarous practices.</def></p>
 </entry>
 
 <entry main-word="Dyas" source="1913 Webster">

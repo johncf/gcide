@@ -1401,7 +1401,7 @@ That with his singing <qex>walled</qex> that city.</q> <rj><qau>Chaucer.</qau></
 </entry>
 
 <entry main-word="Walloons" source="1913 Webster">
-<p><hw>Wal*loons"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Walloon</singw> <pr>(<?/)</pr></sing>. <ety>[Cf. F. <ets>wallon</ets>.]</ety> <def>A Romanic people inhabiting that part of Belgium which comprises the provinces of Hainaut, Namur, Li<eacute/ge, and Luxembourg, and about one third of Brabant; also, the language spoken by this people. Used also adjectively.</def>  <mark>[Written also Wallons.]</mark> <ldquo/A base <xex>Walloon</xex> . . . thrust Talbot with a spear.<rdquo/  <rj><au>Shak.</au></rj></p>
+<p><hw>Wal*loons"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Walloon</singw> <pr>(<?/)</pr></sing>. <ety>[Cf. F. <ets>wallon</ets>.]</ety> <def>A Romanic people inhabiting that part of Belgium which comprises the provinces of Hainaut, Namur, Li<eacute/ge, and Luxembourg, and about one third of Brabant; also, the language spoken by this people. Used also adjectively.</def>  <mark>[Written also Wallons.]</mark> <ldquo/A base <xex>Walloon</xex> . . . thrust Talbot with a spear.<rdquo/  <rj><au>Shak.</au></rj></p>
 
 <p><cs><col>Walloon guard</col>, <cd>the bodyguard of the Spanish monarch; -- so called because formerly consisting of Walloons.</cd></cs></p>
 </entry>
@@ -5665,7 +5665,7 @@ When ill is chanced?</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="We" source="1913 Webster">
-<p><hw>We</hw> <pr>(w<emac/)</pr>, <pos>pron.</pos>; <mord><pos>pl.</pos> of I.</mord> <nmorph>[<pos>poss.</pos> <decf>Our</decf> <pr>(our)</pr> or <decf>Ours</decf> <pr>(ourz)</pr>; <pos>obj.</pos> <decf>Us</decf> <pr>(<ucr/s)</pr>.  See <er>I</er>.]</nmorph> <ety>[As. <ets>w<emac/</ets>; akin to OS. <ets>w<imac/</ets>, OFries. & LG. <ets>wi</ets>, D. <ets>wij</ets>, G. <ets>wir</ets>, Icel. <ets>v<emac/r</ets>, Sw. & Dan. <ets>vi</ets>, Goth. <ets>weis</ets>, Skr. <ets>vayam</ets>. <root/190.]</ety> <def>The plural nominative case of the pronoun of the first person; the word with which a person in speaking or writing denotes a number or company of which he is one, as the subject of an action expressed by a verb.</def></p>
+<p><hw>We</hw> <pr>(w<emac/)</pr>, <pos>pron.</pos>; <mord><pos>pl.</pos> of <er>I</er>.</mord> <nmorph>[<pos>poss.</pos> <decf>Our</decf> <pr>(our)</pr> or <decf>Ours</decf> <pr>(ourz)</pr>; <pos>obj.</pos> <decf>Us</decf> <pr>(<ucr/s)</pr>.  See <er>I</er>.]</nmorph> <ety>[As. <ets>w<emac/</ets>; akin to OS. <ets>w<imac/</ets>, OFries. & LG. <ets>wi</ets>, D. <ets>wij</ets>, G. <ets>wir</ets>, Icel. <ets>v<emac/r</ets>, Sw. & Dan. <ets>vi</ets>, Goth. <ets>weis</ets>, Skr. <ets>vayam</ets>. <root/190.]</ety> <def>The plural nominative case of the pronoun of the first person; the word with which a person in speaking or writing denotes a number or company of which he is one, as the subject of an action expressed by a verb.</def></p>
 
 <p><note><hand/ <xex>We</xex> is frequently used to express men in general, including the speaker. <xex>We</xex> is also often used by individuals, as authors, editors, etc., in speaking of themselves, in order to avoid the appearance of egotism in the too frequent repetition of the pronoun <xex>I</xex>. The plural style is also in use among kings and other sovereigns, and is said to have been begun by King John of England. Before that time, monarchs used the singular number in their edicts. The German and the French sovereigns followed the example of King John in <sc>a. d.</sc> 1200.</note></p>
 </entry>
@@ -8130,7 +8130,7 @@ My most sweet <qex>wench</qex>, and gifts to boot.</q> <rj><qau>Chapman.</qau></
 </entry>
 
 <entry main-word="Wends" source="1913 Webster">
-<p><hw>Wends</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Wend</singw></sing>. <fld>(Ethnol.)</fld> <def>A Slavic tribe which once occupied the northern and eastern parts of Germany, of which a small remnant exists.</def></p>
+<p><hw>Wends</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Wend</singw></sing>. <fld>(Ethnol.)</fld> <def>A Slavic tribe which once occupied the northern and eastern parts of Germany, of which a small remnant exists.</def></p>
 </entry>
 
 <entry main-word="Wene" source="1913 Webster">
@@ -12065,7 +12065,7 @@ Was taken with a <qex>why-not</qex> in the lurch.</q> <rj><qau>Hudibras.</qau></
 </entry>
 
 <entry main-word="Wichitas" source="1913 Webster">
-<p><hw>Wich"i*tas</hw> <pr>(w<icr/ch"<icr/*t<add/z)</pr>, <pos>prop. n. pl.</pos>; <sing>sing. <singw>Wichita</singw> <pr>(w<icr/ch"<icr/*t<add/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians native of the region between the Arkansas and Red rivers. They are related to the Pawnees.  See <er>Pawnees</er>.</def></p>
+<p><hw>Wich"i*tas</hw> <pr>(w<icr/ch"<icr/*t<add/z)</pr>, <pos>prop. n. pl.</pos>; <sing><it>sing.</it> <singw>Wichita</singw> <pr>(w<icr/ch"<icr/*t<add/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians native of the region between the Arkansas and Red rivers. They are related to the Pawnees.  See <er>Pawnees</er>.</def></p>
 </entry>
 
 <entry main-word="wick" source="1913 Webster">
@@ -14064,7 +14064,7 @@ And tips you, the freeman, a <qex>wink</qex>.</q> <rj><qau>Swift.</qau></rj></p>
 </entry>
 
 <entry main-word="Winnebagoes" source="1913 Webster">
-<p><hw>Win`ne*ba"goes</hw> <pr>(?)</pr>, <pos>n.</pos>; <sing>sing. <singw>Winnebago</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of North American Indians who originally occupied the region about Green Bay, Lake Michigan, but were driven back from the lake and nearly exterminated in 1640 by the IIlinnois.</def></p>
+<p><hw>Win`ne*ba"goes</hw> <pr>(?)</pr>, <pos>n.</pos>; <sing><it>sing.</it> <singw>Winnebago</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of North American Indians who originally occupied the region about Green Bay, Lake Michigan, but were driven back from the lake and nearly exterminated in 1640 by the IIlinnois.</def></p>
 </entry>
 
 <entry main-word="Winner" source="1913 Webster">
@@ -19355,7 +19355,7 @@ If the dear host's neck were <qex>wried</qex>.</q> <rj><qau>R. Browning.</qau></
 </entry>
 
 <entry main-word="Wyandots" source="1913 Webster">
-<p><hw>Wy`an*dots"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Wyandot</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Hurons</er>.</def>  <altsp>[Written also <asp>Wyandottes</asp>, and <asp>Yendots</asp>.]</altsp></p>
+<p><hw>Wy`an*dots"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Wyandot</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Hurons</er>.</def>  <altsp>[Written also <asp>Wyandottes</asp>, and <asp>Yendots</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Wych-elm" source="1913 Webster">

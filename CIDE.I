@@ -29615,7 +29615,7 @@ Their crowns, <qex>inwove</qex> with amaranth and gold.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Iowas" source="1913 Webster">
-<p><hw>I"o*was</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Iowa</singw>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians which formerly occupied the region now included in the State of Iowa.</def></p>
+<p><hw>I"o*was</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Iowa</singw>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians which formerly occupied the region now included in the State of Iowa.</def></p>
 </entry>
 
 <entry main-word="Ipecac" source="1913 Webster">

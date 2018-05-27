@@ -34903,7 +34903,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Tuscaroras" source="1913 Webster">
-<p><hw>Tus`ca*ro"ras</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Tuscarora</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of North American Indians formerly living on the Neuse and Tar rivers in North Carolina. They were conquered in 1713, after which the remnant of the tribe joined the Five Nations, thus forming the Six Nations. See <cref>Six Nations</cref>, under <er>Six</er>.</def></p>
+<p><hw>Tus`ca*ro"ras</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Tuscarora</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of North American Indians formerly living on the Neuse and Tar rivers in North Carolina. They were conquered in 1713, after which the remnant of the tribe joined the Five Nations, thus forming the Six Nations. See <cref>Six Nations</cref>, under <er>Six</er>.</def></p>
 </entry>
 
 <entry main-word="Tusche" source="Webster 1913 Suppl.">

@@ -3941,7 +3941,7 @@ And the wild water <qex>lapping</qex> on the crag.</q> <rj><qau>Tennyson.</qau><
 </entry>
 
 <entry main-word="Lapps" source="1913 Webster">
-<p><hw>Lapps</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing.  <singw>Lapp</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A branch of the Mongolian race, now living in the northern parts of Norway, Sweden, and the adjacent parts of Russia.</def></p>
+<p><hw>Lapps</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it>  <singw>Lapp</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A branch of the Mongolian race, now living in the northern parts of Norway, Sweden, and the adjacent parts of Russia.</def></p>
 </entry>
 
 <entry main-word="Lapsable" source="1913 Webster">
@@ -10431,7 +10431,7 @@ But to her mother Nature all her care she <qex>lets</qex>.</q> <rj><qau>Spenser.
 </entry>
 
 <entry main-word="Letts" source="1913 Webster">
-<p><hw>Letts</hw> <pr>(l<ecr/ts)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Lett</singw> <pr>(l<ecr/t)</pr></sing>. <fld>(Ethnol.)</fld> <def>An Indo-European people, allied to the Lithuanians and Old Prussians, and inhabiting a part of the Baltic provinces of Russia.</def></p>
+<p><hw>Letts</hw> <pr>(l<ecr/ts)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Lett</singw> <pr>(l<ecr/t)</pr></sing>. <fld>(Ethnol.)</fld> <def>An Indo-European people, allied to the Lithuanians and Old Prussians, and inhabiting a part of the Baltic provinces of Russia.</def></p>
 </entry>
 
 <entry main-word="Lettuce" source="1913 Webster">
@@ -14777,7 +14777,7 @@ In all his <qex>lineaments</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="linemen" source="WordNet 1.5">
-<p><hw>linemen</hw> <pos>n. pl.</pos> <sing><singw>lineman</singw></sing>. <def>the football players who line up on the line of scrimmage.</def> <wnote>WN hypen is odd for this def.</wnote></p>
+<p><hw>linemen</hw> <pos>n. pl.</pos> <sing><it>sing.</it> <singw>lineman</singw>.</sing> <def>the football players who line up on the line of scrimmage.</def> <wnote>WN hypen is odd for this def.</wnote></p>
 </entry>
 
 <entry main-word="Linen" source="1913 Webster">
@@ -15414,7 +15414,7 @@ Have <qex>lipped</qex> and trembled kissing.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lipans" source="1913 Webster">
-<p><hw>Li*pans"</hw> <pr>(l<esl/*p<aum/nz")</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Lipan</singw> <pr>(l<esl/*p<aum/n")</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of North American Indians, inhabiting the northern part of Mexico. They belong to the Tinneh stock, and are closely related to the Apaches.</def></p>
+<p><hw>Li*pans"</hw> <pr>(l<esl/*p<aum/nz")</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Lipan</singw> <pr>(l<esl/*p<aum/n")</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of North American Indians, inhabiting the northern part of Mexico. They belong to the Tinneh stock, and are closely related to the Apaches.</def></p>
 </entry>
 
 <entry main-word="Liparian" source="1913 Webster">
@@ -21384,7 +21384,7 @@ The <qex>lot</qex> of man -- to suffer and to die.</q> <rj><qau>Pope.</qau></rj>
 </entry>
 
 <entry main-word="Loups" source="1913 Webster">
-<p><hw>Loups</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing.  <singw>Loup</singw>.</sing> <ety>[F., prop., a wolf.]</ety> <fld>(Ethnol.)</fld> <def>The Pawnees, a tribe of North American Indians whose principal totem was the wolf.</def></p>
+<p><hw>Loups</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it>  <singw>Loup</singw>.</sing> <ety>[F., prop., a wolf.]</ety> <fld>(Ethnol.)</fld> <def>The Pawnees, a tribe of North American Indians whose principal totem was the wolf.</def></p>
 </entry>
 
 <entry main-word="Lour" source="1913 Webster">

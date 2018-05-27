@@ -1088,7 +1088,7 @@ In them [kings], and <qex>radiate</qex> like the sun at noon.</q> <rj><qau>Howel
 </entry>
 
 <entry main-word="Radioli" source="1913 Webster">
-<p><par/<hw>Ra*di"o*li</hw> <pr>(r<adot/*d<imac/"<osl/*l<imac/)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Radiolus</singw> <pr>(r<adot/*d<imac/"<osl/*l<ucr/s)</pr></sing>. <ety>[NL., dim. of L. <ets>radius</ets> radius: cf. L. <ets>radiolus</ets> a feeble sunbeam.]</ety> <fld>(Zool.)</fld> <def>The barbs of the radii of a feather; barbules.</def></p>
+<p><par/<hw>Ra*di"o*li</hw> <pr>(r<adot/*d<imac/"<osl/*l<imac/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Radiolus</singw> <pr>(r<adot/*d<imac/"<osl/*l<ucr/s)</pr></sing>. <ety>[NL., dim. of L. <ets>radius</ets> radius: cf. L. <ets>radiolus</ets> a feeble sunbeam.]</ety> <fld>(Zool.)</fld> <def>The barbs of the radii of a feather; barbules.</def></p>
 </entry>
 
 <entry main-word="Radiolite" source="1913 Webster">
@@ -14628,7 +14628,7 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remiges" source="1913 Webster">
-<p><par/<hw>Rem"i*ges</hw> <pr>(r?m"?*j?z)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Remex</singw>. (r<?/"m<?/ks)</sing>. <ety>[L. <ets>remex</ets>, <ets>-igis</ets>, an oarsman.]</ety> <fld>(Zool.)</fld> <def>The quill feathers of the wings of a bird.</def></p>
+<p><par/<hw>Rem"i*ges</hw> <pr>(r?m"?*j?z)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Remex</singw>. (r<?/"m<?/ks)</sing>. <ety>[L. <ets>remex</ets>, <ets>-igis</ets>, an oarsman.]</ety> <fld>(Zool.)</fld> <def>The quill feathers of the wings of a bird.</def></p>
 </entry>
 
 <entry main-word="Remigrate" source="1913 Webster">

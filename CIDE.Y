@@ -156,7 +156,7 @@
 </entry>
 
 <entry main-word="Yakoots" source="1913 Webster">
-<p><hw>Ya*koots"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Yakoot</singw> <pr>(<?/)</pr></sing>.<def> <fld>(Ethnol.)</fld> A nomadic Mongolian tribe native of Northern Siberia, and supposed to be of Turkish stock. They are mainly pastoral in their habits.</def>  <altsp>[Written also <asp>Yakuts</asp>.]</altsp></p>
+<p><hw>Ya*koots"</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Yakoot</singw> <pr>(<?/)</pr></sing>.<def> <fld>(Ethnol.)</fld> A nomadic Mongolian tribe native of Northern Siberia, and supposed to be of Turkish stock. They are mainly pastoral in their habits.</def>  <altsp>[Written also <asp>Yakuts</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Yaksha" source="1913 Webster">
@@ -2263,7 +2263,7 @@ In any place but here, at bonfire, or at <qex>Yule</qex>.</q> <rj><qau>Drayton.<
 </entry>
 
 <entry main-word="Yumas" source="1913 Webster">
-<p><hw>Yu"mas</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Yuma</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians native of Arizona and the adjacent parts of Mexico and California. They are agricultural, and cultivate corn, wheat, barley, melons, etc.</def></p>
+<p><hw>Yu"mas</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Yuma</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians native of Arizona and the adjacent parts of Mexico and California. They are agricultural, and cultivate corn, wheat, barley, melons, etc.</def></p>
 
 <p><note><hand/ The a wider sense, the term sometimes includes the Mohaves and other allied tribes.</note></p>
 </entry>

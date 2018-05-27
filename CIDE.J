@@ -6266,7 +6266,7 @@ And <qex>justify</qex> the ways of God to men.</q> <rj><qau>Milton.</qau></rj></
 </entry>
 
 <entry main-word="Jutes" source="1913 Webster">
-<p><hw>Jutes</hw> <pr>(j<umac/ts)</pr>, <pos>prop. n. pl.</pos> <sing>sing. <singw>Jute</singw></sing>. <fld>(Ethnol.)</fld> <def>Jutlanders; one of the Low German tribes, a portion of which settled in Kent, England, in the 5th century.</def></p>
+<p><hw>Jutes</hw> <pr>(j<umac/ts)</pr>, <pos>prop. n. pl.</pos> <sing><it>sing.</it> <singw>Jute</singw></sing>. <fld>(Ethnol.)</fld> <def>Jutlanders; one of the Low German tribes, a portion of which settled in Kent, England, in the 5th century.</def></p>
 </entry>
 
 <entry main-word="Jutlander" source="1913 Webster">

@@ -1044,7 +1044,7 @@ I can not name; 't is <qex>nameless</qex> woe,I wot.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Narragansetts" source="1913 Webster">
-<p><hw>Nar`ra*gan"setts</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing>sing. <singw>Narragansett</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians who formerly inhabited the shores of Narragansett Bay.</def></p>
+<p><hw>Nar`ra*gan"setts</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing><it>sing.</it> <singw>Narragansett</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians who formerly inhabited the shores of Narragansett Bay.</def></p>
 </entry>
 
 <entry main-word="narrate" source="1913 Webster">
@@ -2155,7 +2155,7 @@ All will be <qex>naught</qex> else.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Navajoes" source="1913 Webster">
-<p><hw>Na"va*joes</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Navajo</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians inhabiting New Mexico and Arizona, allied to the Apaches. They are now largely engaged in agriculture.</def></p>
+<p><hw>Na"va*joes</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Navajo</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians inhabiting New Mexico and Arizona, allied to the Apaches. They are now largely engaged in agriculture.</def></p>
 </entry>
 
 <entry main-word="Naval" source="1913 Webster">
@@ -3730,7 +3730,7 @@ Is God's ambassador.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Negritos" source="1913 Webster">
-<p><hw>Ne*gri"tos</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing <singw>Negrito</singw> <pr>(<?/)</pr></sing>. <ety>[Sp., dim. of <ets>negro</ets> black.]</ety> <fld>(Ethnol.)</fld> <def>A degraded Papuan race, inhabiting Luzon and some of the other east Indian Islands.  They resemble negroes, but are smaller in size.  They are mostly nomads.</def></p>
+<p><hw>Ne*gri"tos</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Negrito</singw> <pr>(<?/)</pr></sing>. <ety>[Sp., dim. of <ets>negro</ets> black.]</ety> <fld>(Ethnol.)</fld> <def>A degraded Papuan race, inhabiting Luzon and some of the other east Indian Islands.  They resemble negroes, but are smaller in size.  They are mostly nomads.</def></p>
 </entry>
 
 <entry main-word="Negro" source="1913 Webster">
@@ -6008,7 +6008,7 @@ Was <qex>next</qex> her side; in order sat the rest.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Nez Perces" source="1913 Webster;;PJC">
-<p><par/<hw>Nez" Per`c<eacute/s"</hw> <pr>(?)</pr>, <pluf>pl.</pluf>; <sing>sing. <singw>Nez Perc<eacute/</singw> <pr>(<?/)</pr></sing>. <ety>[F., pierced noses.]</ety> <fld>(Ethnol.)</fld> <def>A tribe of Indians, in the late 1800's mostly inhabiting Idaho.  They were involved under <person>Chief Joseph</person>, in the last major battle of the Indian wars, attempting to resist being moved to a reservation.</def></p>
+<p><par/<hw>Nez" Per`c<eacute/s"</hw> <pr>(?)</pr>, <pluf>pl.</pluf>; <sing><it>sing.</it> <singw>Nez Perc<eacute/</singw> <pr>(<?/)</pr></sing>. <ety>[F., pierced noses.]</ety> <fld>(Ethnol.)</fld> <def>A tribe of Indians, in the late 1800's mostly inhabiting Idaho.  They were involved under <person>Chief Joseph</person>, in the last major battle of the Indian wars, attempting to resist being moved to a reservation.</def></p>
 </entry>
 
 <entry main-word="Ngina" source="1913 Webster">

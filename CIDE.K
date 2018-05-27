@@ -2158,7 +2158,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Kickapoos" source="1913 Webster">
-<p><hw>Kick`a*poos"</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing>sing. <singw>Kickapoo</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians which formerly occupied the region of Northern Illinois, allied in language to the Sacs and Foxes.</def></p>
+<p><hw>Kick`a*poos"</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing><it>sing.</it> <singw>Kickapoo</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians which formerly occupied the region of Northern Illinois, allied in language to the Sacs and Foxes.</def></p>
 </entry>
 
 <entry main-word="kickback" source="PJC">
@@ -3289,7 +3289,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Kioways" source="1913 Webster">
-<p><hw>Ki"o*ways`</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Kioway</singw> <pr>(<?/)</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians distantly related to the Shoshones.  They formerly inhabited the region about the head waters of the North Platte.</def></p>
+<p><hw>Ki"o*ways`</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Kioway</singw> <pr>(<?/)</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians distantly related to the Shoshones.  They formerly inhabited the region about the head waters of the North Platte.</def></p>
 </entry>
 
 <entry main-word="Kip" source="1913 Webster">
@@ -3734,7 +3734,7 @@ Trail and twine and clasp and <qex>kiss</qex>.</q> <rj><qau>Tennyson.</qau></rj>
 </entry>
 
 <entry main-word="Klamaths" source="1913 Webster">
-<p><hw>Kla"maths</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing>sing. <singw>Klamath</singw></sing> <fld>(Ethnol.)</fld> <def>A collective name for the Indians of several tribes formerly living along the Klamath river, in California and Oregon, but now restricted to a reservation at Klamath Lake; -- called also <altname>Clamets</altname> and <altname>Hamati</altname>.</def></p>
+<p><hw>Kla"maths</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing><it>sing.</it> <singw>Klamath</singw></sing> <fld>(Ethnol.)</fld> <def>A collective name for the Indians of several tribes formerly living along the Klamath river, in California and Oregon, but now restricted to a reservation at Klamath Lake; -- called also <altname>Clamets</altname> and <altname>Hamati</altname>.</def></p>
 </entry>
 
 <entry main-word="Klansman" source="WordNet 1.5">

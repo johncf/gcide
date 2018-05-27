@@ -11335,7 +11335,7 @@ Of utmost hope!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Finns" source="1913 Webster">
-<p><hw>Finns</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Finn</singw></sing>. <fld>(Ethnol.)</fld> <sd>(a)</sd> <def>Natives of Finland; Finlanders.</def> <sd>(b)</sd> <def>A branch of the Mongolian race, inhabiting Northern and Eastern Europe, including the Magyars, Bulgarians, Permians, Lapps, and Finlanders.</def> <altsp>[Written also <asp>Fins</asp>.]</altsp></p>
+<p><hw>Finns</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Finn</singw></sing>. <fld>(Ethnol.)</fld> <sd>(a)</sd> <def>Natives of Finland; Finlanders.</def> <sd>(b)</sd> <def>A branch of the Mongolian race, inhabiting Northern and Eastern Europe, including the Magyars, Bulgarians, Permians, Lapps, and Finlanders.</def> <altsp>[Written also <asp>Fins</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Finny" source="1913 Webster">
@@ -15667,7 +15667,7 @@ Do 'twixt their fingers <qex>flip</qex> their cherry stones.</q> <rj><qau>W. Bro
 </entry>
 
 <entry main-word="flippers" source="WordNet 1.5">
-<p><hw>flippers</hw> <pos>n.</pos> <sing><singw>flipper</singw></sing> <ety>[By analogy with <ets>flipper</ets>[W13(1)], the limb of an aquatic animal used for locomotion]</ety>  <def>A type of shoe with a paddle-like front extending well beyond the end of the toe, used an aid in swimming (especially underwater).</def> <note>They are typically of rubber-like material, and are not worn when walking on land.</note><br/
+<p><hw>flippers</hw> <pos>n.</pos> <sing><it>sing.</it> <singw>flipper</singw>.</sing> <ety>[By analogy with <ets>flipper</ets>, the limb of an aquatic animal used for locomotion]</ety>  <def>A type of shoe with a paddle-like front extending well beyond the end of the toe, used an aid in swimming (especially underwater).</def> <note>They are typically of rubber-like material, and are not worn when walking on land.</note><br/
 <syn><b>Syn. --</b> fin, fins.</syn></p>
 </entry>
 
@@ -19403,7 +19403,7 @@ By him for whom these shames ye underwent.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Foolahs" source="1913 Webster">
-<p><hw>Foo"lahs`</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Foolah</singw></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Fulahs</er>.</def></p>
+<p><hw>Foo"lahs`</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Foolah</singw></sing>. <fld>(Ethnol.)</fld> <def>Same as <er>Fulahs</er>.</def></p>
 </entry>
 
 <entry main-word="fool around" source="PJC">
@@ -28982,7 +28982,7 @@ air.</q> <rj><qau>Carlyle.</qau></rj></p>
 </entry>
 
 <entry main-word="Fulahs" source="1913 Webster">
-<p><mhw><hw>Fu"lahs`</hw>, <hw>Foo"lahs`</hw>, <hw>Fu"la*ni</hw></mhw> <pr>(<?/)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Fulah</singw>, <singw>Foolah</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A peculiar African race of uncertain origin, but distinct from the negro tribes, inhabiting an extensive region of Western Soudan. Their color is brown or yellowish bronze. They are Muslims. Called also <altname>Fellatahs</altname>, <altname>Foulahs</altname>, and <altname>Fellani</altname>. Fulah and Fulani are also used adjectively; <as>as, <ex>Fulah</ex> or <ex>Fulani</ex> empire, tribes, language</as>.</def></p>
+<p><mhw><hw>Fu"lahs`</hw>, <hw>Foo"lahs`</hw>, <hw>Fu"la*ni</hw></mhw> <pr>(<?/)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Fulah</singw>, <singw>Foolah</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A peculiar African race of uncertain origin, but distinct from the negro tribes, inhabiting an extensive region of Western Soudan. Their color is brown or yellowish bronze. They are Muslims. Called also <altname>Fellatahs</altname>, <altname>Foulahs</altname>, and <altname>Fellani</altname>. Fulah and Fulani are also used adjectively; <as>as, <ex>Fulah</ex> or <ex>Fulani</ex> empire, tribes, language</as>.</def></p>
 </entry>
 
 <entry main-word="Fulani" source="PJC">

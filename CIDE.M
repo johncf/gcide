@@ -4065,7 +4065,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Mala" source="1913 Webster">
-<p><par/<hw>Ma"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>pl. of <singw>Malum</singw>.</sing> <ety>[L.]</ety> <def>Evils; wrongs; offenses against right and law.</def></p>
+<p><par/<hw>Ma"la</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <mord><pos>pl.</pos> of <er>Malum</er>.</mord> <ety>[L.]</ety> <def>Evils; wrongs; offenses against right and law.</def></p>
 
 <p><cs><col>Mala in se</col> <ety>[L.]</ety> <fld>(Law)</fld>, <cd>offenses which are such from their own nature, at common law, irrespective of statute.</cd> -- <col>Mala prohibita</col> <ety>[L.]</ety> <fld>(Law)</fld>, <cd>offenses prohibited by statute, as distinguished from <contr>mala in se</contr>, which are offenses at common law.</cd></cs></p>
 </entry>
@@ -4225,7 +4225,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Malagasy" source="1913 Webster">
-<p><hw>Mal`a*gas"y</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <def>A native or natives of Madagascar; also (<singf>sing</singf>.), the language.</def></p>
+<p><hw>Mal`a*gas"y</hw> <pr>(?)</pr>, <pos>n. sing. & pl.</pos> <def>A native or natives of Madagascar; also (<singf>sing.</singf>), the language.</def></p>
 </entry>
 
 <entry main-word="Malagasy Republic" source="PJC">
@@ -16186,7 +16186,7 @@ Revenge upon the cardinal.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Meninges" source="1913 Webster">
-<p><hw>Me*nin"ges</hw> <pr>(m<esl/*n<icr/n"j<emac/z)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Meninx</singw> <pr>(m<esl/*n<icr/<nsm/ks")</pr></sing>. <ety>[NL., fr. Gr. <grk>mh^nigx</grk>, <grk>mh^niggos</grk>, a membrane.]</ety> <fld>(Anat.)</fld> <def>The three membranes that envelop the brain and spinal cord; the pia mater, dura mater, and arachnoid membrane.</def></p>
+<p><hw>Me*nin"ges</hw> <pr>(m<esl/*n<icr/n"j<emac/z)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Meninx</singw> <pr>(m<esl/*n<icr/<nsm/ks")</pr></sing>. <ety>[NL., fr. Gr. <grk>mh^nigx</grk>, <grk>mh^niggos</grk>, a membrane.]</ety> <fld>(Anat.)</fld> <def>The three membranes that envelop the brain and spinal cord; the pia mater, dura mater, and arachnoid membrane.</def></p>
 </entry>
 
 <entry main-word="Meningitis" source="1913 Webster">
@@ -19790,7 +19790,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 </entry>
 
 <entry main-word="Miamis" source="1913 Webster">
-<p><hw>Mi*a"mis</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Miami</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians that formerly occupied the country between the Wabash and Maumee rivers.</def></p>
+<p><hw>Mi*a"mis</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Miami</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Indians that formerly occupied the country between the Wabash and Maumee rivers.</def></p>
 </entry>
 
 <entry main-word="Miargyrite" source="1913 Webster">
@@ -19909,7 +19909,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 </entry>
 
 <entry main-word="Micmacs" source="1913 Webster">
-<p><hw>Mic"macs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Micmac</singw> <pr>(<?/)</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians inhabiting Nova Scotia and New Brunswick.</def> <altsp>[Written also <asp>Mikmaks</asp>.]</altsp></p>
+<p><hw>Mic"macs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Micmac</singw> <pr>(<?/)</pr>.</sing> <fld>(Ethnol.)</fld> <def>A tribe of Indians inhabiting Nova Scotia and New Brunswick.</def> <altsp>[Written also <asp>Mikmaks</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Mico" source="1913 Webster">
@@ -20177,7 +20177,7 @@ And shifts his rustic winter robe.</q> <rj><qau>Turbervile.</qau></rj></p>
 </entry>
 
 <entry main-word="Micronesians" source="1913 Webster">
-<p><hw>Mi`cro*ne"sians</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Micronesian</singw></sing>. <fld>(Ethnol.)</fld> <def>A dark race inhabiting the Micronesian Islands. They are supposed to be a mixed race, derived from Polynesians and Papuans.</def></p>
+<p><hw>Mi`cro*ne"sians</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Micronesian</singw></sing>. <fld>(Ethnol.)</fld> <def>A dark race inhabiting the Micronesian Islands. They are supposed to be a mixed race, derived from Polynesians and Papuans.</def></p>
 </entry>
 
 <entry main-word="Micronometer" source="1913 Webster">
@@ -27613,7 +27613,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 </entry>
 
 <entry main-word="Modocs" source="1913 Webster">
-<p><hw>Mo"docs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Modoc</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of warlike Indians formerly inhabiting Northern California. They are nearly extinct.</def></p>
+<p><hw>Mo"docs</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Modoc</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of warlike Indians formerly inhabiting Northern California. They are nearly extinct.</def></p>
 </entry>
 
 <entry main-word="Modular" source="1913 Webster">
@@ -27871,7 +27871,7 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 </entry>
 
 <entry main-word="Mohicans" source="1913 Webster">
-<p><hw>Mo*hi"cans</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing>sing. <singw>Mohican</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Lenni-Lenape Indians who formerly inhabited Western Connecticut and Eastern New York.</def> <altsp>[Written also <asp>Mohegans</asp>.]</altsp></p>
+<p><hw>Mo*hi"cans</hw> <pr>(?)</pr>, <pos>prop. n. pl.</pos>; <sing><it>sing.</it> <singw>Mohican</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A tribe of Lenni-Lenape Indians who formerly inhabited Western Connecticut and Eastern New York.</def> <altsp>[Written also <asp>Mohegans</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Moho" source="1913 Webster">
@@ -37361,7 +37361,7 @@ Is fit for treasons, stratagems, and spoils.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Muskogees" source="1913 Webster">
-<p><hw>Mus*ko"gees</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing>sing. <singw>Muskogee</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A powerful tribe of North American Indians that formerly occupied the region of Georgia, Florida, and Alabama.  They constituted a large part of the Creek confederacy.</def> <altsp>[Written also <asp>Muscogees</asp>.]</altsp></p>
+<p><hw>Mus*ko"gees</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Muskogee</singw> <pr>(<?/)</pr></sing>. <fld>(Ethnol.)</fld> <def>A powerful tribe of North American Indians that formerly occupied the region of Georgia, Florida, and Alabama.  They constituted a large part of the Creek confederacy.</def> <altsp>[Written also <asp>Muscogees</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Muskrat" source="1913 Webster;;PJC">

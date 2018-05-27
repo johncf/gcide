@@ -23546,7 +23546,7 @@ That a Scot may have <qex>humor</qex>, I'd almost said wit.</q> <rj><qau>Goldsmi
 </entry>
 
 <entry main-word="Hurons" source="1913 Webster">
-<p><hw>Hu"rons</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singf>Huron</singf>.</sing> <fld>(Ethnol.)</fld> <def>A powerful and warlike tribe of North American Indians of the Algonquin stock. They formerly occupied the country between Lakes Huron, Erie, and Ontario, but were nearly exterminated by the Five Nations about 1650.</def></p>
+<p><hw>Hu"rons</hw> <pr>(?)</pr>, <pos>n. pl.</pos>; <sing><it>sing.</it> <singw>Huron</singw>.</sing> <fld>(Ethnol.)</fld> <def>A powerful and warlike tribe of North American Indians of the Algonquin stock. They formerly occupied the country between Lakes Huron, Erie, and Ontario, but were nearly exterminated by the Five Nations about 1650.</def></p>
 </entry>
 
 <entry main-word="Hurr" source="1913 Webster">
