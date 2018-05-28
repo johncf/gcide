@@ -16842,7 +16842,7 @@ Cramped under worse than South-sea-isle taboo.</q> <rj><qau>Tennyson.</qau></rj>
 </entry>
 
 <entry main-word="Tilly-vally" source="1913 Webster">
-<p><hw>Til"ly-val`ly</hw> <pr>(?)</pr>, <pos>interj., adv., or a.</pos> <def>A word of unknown origin and signification, formerly used as expressive of contempt, or when anything said was rejected as trifling or impertinent.</def> <altsp>[Written also <asp>tille-vally</asp>, <asp>tilly-fally</asp>, <asp>tille-fally</asp>, and otherwise.]</altsp>  <rj><au>Shak.</au></rj></p>
+<p><hw>Til"ly-val`ly</hw> <pr>(?)</pr>, <pos>interj., adv., <or/ a.</pos> <def>A word of unknown origin and signification, formerly used as expressive of contempt, or when anything said was rejected as trifling or impertinent.</def> <altsp>[Written also <asp>tille-vally</asp>, <asp>tilly-fally</asp>, <asp>tille-fally</asp>, and otherwise.]</altsp>  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Tilmus" source="1913 Webster">

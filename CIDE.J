@@ -168,7 +168,7 @@ There 's many a gentle person made a <qex>Jack</qex>.</q> <rj><qau>Shak.</qau></
 
 <p><sn>11.</sn> <def>The knave of a suit of playing cards.</def></p>
 
-<p source="PJC"><sn>12.</sn> <pluf>(pl.)</pluf> <def>A game played with small (metallic, with tetrahedrally oriented spikes) objects (the jacks(1950+), formerly jackstones) that are tossed, caught, picked up, and arranged on a horizontal surface in various patterns; in the modern American game, the movements are accompanied by tossing or bouncing a rubber ball on the horizontal surface supporting the jacks. same as <altname>jackstones</altname>.</def></p>
+<p source="PJC"><sn>12.</sn> (<pluf>pl.</pluf>) <def>A game played with small (metallic, with tetrahedrally oriented spikes) objects (the jacks(1950+), formerly jackstones) that are tossed, caught, picked up, and arranged on a horizontal surface in various patterns; in the modern American game, the movements are accompanied by tossing or bouncing a rubber ball on the horizontal surface supporting the jacks. same as <altname>jackstones</altname>.</def></p>
 
 <p source="PJC"><sn>13.</sn>  <def>Money.</def> <mark>[slang]</mark></p>
 
@@ -1816,9 +1816,9 @@ Are of the adder.</q> <rj><qau>Shak.</qau></rj></p>
 <entry main-word="jean" source="1913 Webster">
 <p><hw>jean</hw> <pr>(j<amac/n)</pr>, <pos>n.</pos> <ety>[Prob. named from <ets>Genoa</ets>. See <er>Jane</er>.]</ety> <sn>1.</sn> <def>A twilled cotton cloth.</def></p>
 
-<p source="PJC"><sn>2.</sn> <pluf>(pl.)</pluf> <pr>(j<emac/nz)</pr>, <def>Same as <er>blue jeans</er>.</def></p>
+<p source="PJC"><sn>2.</sn> (<pluf>pl.</pluf>) <pr>(j<emac/nz)</pr>, <def>Same as <er>blue jeans</er>.</def></p>
 
-<p source="PJC"><sn>3.</sn> <pluf>(pl.)</pluf> <pr>(j<emac/nz)</pr>, <def>Pants made of different fabrics, resembling <er>blue jeans</er>.</def></p>
+<p source="PJC"><sn>3.</sn> (<pluf>pl.</pluf>) <pr>(j<emac/nz)</pr>, <def>Pants made of different fabrics, resembling <er>blue jeans</er>.</def></p>
 
 <p><cs><col>Satin jean</col>, <cd>a kind of jean woven smooth and glossy, after the manner of satin.</cd></cs></p>
 </entry>
@@ -4926,7 +4926,7 @@ The fits o' the season.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>3.</sn> <def>A prison; a jail; a lockup.</def> <mark>[Slang]</mark>  <rj><au>Gay.</au></rj></p>
 
-<p source="PJC"><sn>4.</sn> <pluf>(pl.)</pluf> <def>A woman's breasts; <as>as, nice <ex>jugs</ex></as>.</def> <mark>[vulgar slang]</mark></p>
+<p source="PJC"><sn>4.</sn> (<pluf>pl.</pluf>) <def>A woman's breasts; <as>as, nice <ex>jugs</ex></as>.</def> <mark>[vulgar slang]</mark></p>
 </entry>
 
 <entry main-word="Jug" source="1913 Webster">

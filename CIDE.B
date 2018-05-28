@@ -28255,7 +28255,7 @@ You'll find it wholesome.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Both" source="1913 Webster">
-<p><hw>Both</hw> <pr>(b<omac/th)</pr>, <pos>a. or pron.</pos> <ety>[OE. <ets>bothe</ets>, <ets>ba<thorn/e</ets>, fr. Icel. <ets>b<amac/<edh/ir</ets>; akin to Dan. <ets>baade</ets>, Sw. <ets>b<aring/da</ets>, Goth. <ets>baj<omac/<thorn/s</ets>, OHG. <ets>beid<emac/</ets>, <ets>b<emac/d<emac/</ets>, G. & D. <ets>beide</ets>, also AS. <ets>begen</ets>, <ets>b<amac/</ets>, <ets>b<umac/</ets>, Goth. <ets>bai</ets>, and Gr. <grk>'a`mfw</grk>, L. <ets>ambo</ets>, Lith. <ets>ab<agrave/</ets>, OSlav. <ets>oba</ets>, Skr. <ets>ubha</ets>. <root/310. Cf. <er>Amb-</er>.]</ety> <def>The one and the other; the two; the pair, without exception of either.</def></p>
+<p><hw>Both</hw> <pr>(b<omac/th)</pr>, <pos>a. <or/ pron.</pos> <ety>[OE. <ets>bothe</ets>, <ets>ba<thorn/e</ets>, fr. Icel. <ets>b<amac/<edh/ir</ets>; akin to Dan. <ets>baade</ets>, Sw. <ets>b<aring/da</ets>, Goth. <ets>baj<omac/<thorn/s</ets>, OHG. <ets>beid<emac/</ets>, <ets>b<emac/d<emac/</ets>, G. & D. <ets>beide</ets>, also AS. <ets>begen</ets>, <ets>b<amac/</ets>, <ets>b<umac/</ets>, Goth. <ets>bai</ets>, and Gr. <grk>'a`mfw</grk>, L. <ets>ambo</ets>, Lith. <ets>ab<agrave/</ets>, OSlav. <ets>oba</ets>, Skr. <ets>ubha</ets>. <root/310. Cf. <er>Amb-</er>.]</ety> <def>The one and the other; the two; the pair, without exception of either.</def></p>
 
 <p><note><hand/ It is generally used adjectively with nouns; as, both horses ran away; but with pronouns, and often with nous, it is used substantively, and followed by <xex>of</xex>.</note></p>
 
@@ -29426,7 +29426,7 @@ For wheresoe'er she turned her face, they <qex>bowed</qex>.</q> <rj><qau>Dryden.
 
 <p><sn>8.</sn> <fld>(Naut.)</fld> <def>A rude sort of quadrant formerly used for taking the sun's altitude at sea.</def></p>
 
-<p><sn>9.</sn> <fld>(Saddlery)</fld> <pos>sing. or pl.</pos> <def>Two pieces of wood which form the arched forward part of a saddletree.</def></p>
+<p><sn>9.</sn> <fld>(Saddlery)</fld> <pos>sing. <or/ pl.</pos> <def>Two pieces of wood which form the arched forward part of a saddletree.</def></p>
 
 <p><cs><col>Bow bearer</col> <fld>(O. Eng. Law)</fld>, <cd>an under officer of the forest who looked after trespassers.</cd> -- <col>Bow drill</col>, <cd>a drill worked by a bow and string.</cd> -- <col>Bow instrument</col> <fld>(Mus.)</fld>, <cd>any stringed instrument from which the tones are produced by the bow.</cd> -- <col>Bow window</col> <fld>(Arch.)</fld> <cd>See <er>Bay window</er>.</cd> -- <col>To draw a long bow</col>, <cd>to lie; to exaggerate.</cd> <mark>[Colloq.]</mark></cs></p>
 </entry>
