@@ -30151,9 +30151,7 @@ But with the <qex>tedious</qex> sight of woes decays.</q> <rj><qau>Dryden.</qau>
 </entry>
 
 <entry main-word="Ironstone" source="1913 Webster">
-<p><hw>I"ron*stone`</hw> <pr>(?)</pr>, <sn>1.</sn> <pos>n.</pos> <def>A hard, earthy ore of iron.</def></p>
-
-<p source="PJC"><sn>2.</sn> <def><cref>ironstone china</cref>.</def></p>
+<p><hw>I"ron*stone`</hw> <pr>(?)</pr>, <pos>n.</pos> <def>A hard, earthy ore of iron.</def></p>
 
 <p><cs><col>Clay ironstone</col>. <cd>See under <er>Clay</er>.</cd> -- <col>Ironstone china</col>, <cd>a hard white pottery, first made in England during the 18th century.</cd></cs></p>
 </entry>

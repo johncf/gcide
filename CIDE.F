@@ -13320,7 +13320,7 @@ As plain as <qex>fizzling</qex>.</q> <rj><qau>B. Jonson.</qau></rj></p>
 <entry main-word="Flambe" source="Webster 1913 Suppl.">
 <p><par/<hw>Flam`b<eacute/"</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[F., p.p. of <ets>flamber</ets> to singe, pass (a thing) through flame. Cf. <er>Flambeau</er>.]</ety> <sn>1.</sn> <fld>(Ceramics)</fld> <def>Decorated by glaze splashed or irregularly spread upon the surface, or apparently applied at the top and allowed to run down the sides; -- said of pieces of Chinese porcelain.</def></p>
 
-<p source="PJC"><sn>2.</sn> <pos>a.</pos> <ety>[F., p.p. of <ets>flamber</ets> to singe, pass (a thing) through flame.]</ety> <fld>(Cooking)</fld> <def>Dipped in or covered with a flammable liqueur and set afire when served; -- usually used postpositively; <as>as, cherries <ex>flambe</ex></as>.</def></p>
+<p source="PJC"><sn>2.</sn> <fld>(Cooking)</fld> <def>Dipped in or covered with a flammable liqueur and set afire when served; -- usually used postpositively; <as>as, cherries <ex>flambe</ex></as>.</def></p>
 </entry>
 
 <entry main-word="Flambeau" source="1913 Webster">

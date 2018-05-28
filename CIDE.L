@@ -18389,11 +18389,9 @@ and dimension, and that they have nothing to do with grosser <qex>locality</qex>
 </entry>
 
 <entry main-word="Lockup" source="1913 Webster">
-<p><hw>Lock"up`</hw> <pr>(?)</pr>, <sn>1.</sn> <pos>n.</pos> <def>A place where persons under arrest are temporarily locked up; a watchhouse; a jail.</def></p>
+<p><hw>Lock"up`</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A place where persons under arrest are temporarily locked up; a watchhouse; a jail.</def></p>
 
-<p source="PJC"><sn>2.</sn> <def>The act or state of temporary imprisonment in a lockup{1}.</def></p>
-
-<p source="PJC"><sn>3.</sn> <def>A malfunction in a machine having moving parts, such that the moving part cannot move; a seizure.</def></p>
+<p source="PJC"><sn>2.</sn> <def>A malfunction in a machine having moving parts, such that the moving part cannot move; a seizure.</def></p>
 </entry>
 
 <entry main-word="Lock washer" source="1913 Webster">
