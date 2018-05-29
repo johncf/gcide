@@ -1808,7 +1808,7 @@ Claspest the limits of morality!</q> <rj><qau>Shelley.</qau></rj></p>
 </entry>
 
 <entry main-word="Echo" source="1913 Webster">
-<p><hw>Ech"o</hw> <pr>(<ecr/k"<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echoes</plw> <pr>(<ecr/k"<omac/z)</pr>.</plu> <ety>[L. <ets>echo</ets>, Gr. <grk>'hcw`</grk> echo, sound, akin to <grk>'hc`</grk>, <grk>'h^cos</grk>, sound, noise; cf. Skr. <ets>v<amac/<cced/</ets> to sound, bellow; perh. akin to E. <ets>voice</ets>: cf. F. <ets><eacute/cho</ets>.]</ety> <sn>1.</sn> <def>A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound.</def></p>
+<p><hw>Ech"o</hw> <pr>(<ecr/k"<osl/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Echoes</plw> <pr>(<ecr/k"<omac/z)</pr>.</plu> <ety>[L. <ets>echo</ets>, Gr. <grk>'hcw`</grk> echo, sound, akin to <grk>'hch`</grk>, <grk>'h^cos</grk>, sound, noise; cf. Skr. <ets>v<amac/<cced/</ets> to sound, bellow; perh. akin to E. <ets>voice</ets>: cf. F. <ets><eacute/cho</ets>.]</ety> <sn>1.</sn> <def>A sound reflected from an opposing surface and repeated to the ear of a listener; repercussion of sound; repetition of a sound.</def></p>
 
 <p><q>The babbling <qex>echo</qex> mocks the hounds.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -16272,7 +16272,7 @@ Just law, indeed, but more exceeding love!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Epimachus" source="1913 Webster">
-<p><par/<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`macos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`c</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def></p>
+<p><par/<hw>E*pim"a*chus</hw> <pr>(<esl/*p<icr/m"<adot/*k<ucr/s)</pr>, <pos>prop. n.</pos> <ety>[NL., fr. Gr. <grk>'epi`macos</grk> equipped for battle; <grk>'epi`</grk> for + <grk>ma`ch</grk> battle.]</ety> <fld>(Zo<oum/l.)</fld> <def>A genus of highly ornate and brilliantly colored birds of Australia, allied to the birds of Paradise.</def></p>
 </entry>
 
 <entry main-word="Epimera" source="1913 Webster">
@@ -16926,7 +16926,7 @@ Not one, but all mankind's <qex>epitome</qex>.</q> <rj><qau>Dryden.</qau></rj></
 </entry>
 
 <entry main-word="Epoch" source="1913 Webster">
-<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <or/ <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epoc`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`cein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`cein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
+<p><hw>Ep"och</hw> <pr>(<ecr/p"<ocr/k <or/ <emac/"p<ocr/k; 277)</pr>, <pos>n.</pos> <ety>[LL. <ets>epocha</ets>, Gr. <grk>'epoch`</grk> check, stop, an epoch of a star, an historical epoch, fr. <grk>'epe`cein</grk> to hold on, check; <grk>'epi`</grk> upon + <grk>'e`cein</grk> to have, hold; akin to Skr. <ets>sah</ets> to overpower, Goth. <ets>sigis</ets> victory, AS. <ets>sigor</ets>, <ets>sige</ets>, G. <ets>sieg</ets>: cf. F. <ets><eacute/poque</ets>. See <er>Scheme</er>.]</ety> <sn>1.</sn> <def>A fixed point of time, established in history by the occurrence of some grand or remarkable event; a point of time marked by an event of great subsequent influence; <as>as, the <ex>epoch</ex> of the creation; the birth of Christ was the <ex>epoch</ex> which gave rise to the Christian era.</as></def></p>
 
 <p><q>In divers ages, . . . divers <qex>epochs</qex> of time were used.</q> <rj><qau>Usher.</qau></rj></p>
 

@@ -540,20 +540,22 @@ by the capitalized versions of the letters shown here.
 Υ   Upsilon         Y
 φ   phi             f
 Φ   Phi             F
-χ   chi             c
+χ   chi             c   [3]
 Χ   Chi             C
-ψ   psi             j   [3]
+ψ   psi             j   [4]
 Ψ   Psi             J
 ω   omega           w
 Ω   Omega           W
-ϝ   digamma         v   [4]
+ϝ   digamma         v   [5]
 
 ---
 [1] Formerly, 'th' was used, but changed due to ambiguity.
 [2] Final sigma is not distinguished here from middle sigma, but when
     isolated, use <sigmat/ ("terminal sigma") for the final form.
-[3] Formerly, 'ps' was used, but changed for better clarity.
-[4] Archaic letter; only used once.
+[3] Formerly, 'ch' was used, but changed due to ambiguity. Likely to be
+    still not fully disambiguated.
+[4] Formerly, 'ps' was used, but changed for better clarity.
+[5] Archaic letter; only used once.
 
 Roman "u" is unused.
 

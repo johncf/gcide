@@ -2695,7 +2695,7 @@ And grieved to find herself decayed so soon.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Lance" source="1913 Webster">
-<p><hw>Lance</hw> <pr>(l<acr/ns)</pr>, <pos>n.</pos> <ety>[OE. <ets>lance</ets>, F. <ets>lance</ets>, <ets>fr</ets>. L. <ets>lancea</ets>; cf. Gr. <grk>lo`gc</grk>.  Cf. <er>Launch</er>.]</ety> <sn>1.</sn> <def>A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen, and often decorated with a small flag; also, a spear or harpoon used by whalers and fishermen.</def></p>
+<p><hw>Lance</hw> <pr>(l<acr/ns)</pr>, <pos>n.</pos> <ety>[OE. <ets>lance</ets>, F. <ets>lance</ets>, <ets>fr</ets>. L. <ets>lancea</ets>; cf. Gr. <grk>lo`gch</grk>.  Cf. <er>Launch</er>.]</ety> <sn>1.</sn> <def>A weapon of war, consisting of a long shaft or handle and a steel blade or head; a spear carried by horsemen, and often decorated with a small flag; also, a spear or harpoon used by whalers and fishermen.</def></p>
 
 <p><q>A braver soldier never couched <qex>lance</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -11912,7 +11912,7 @@ Himself the primrose path of dalliance treads.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Lichen" source="1913 Webster">
-<p><hw>Li"chen</hw> <pr>(l<imac/"k<ecr/n; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>leic`n</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>One of a class of cellular, flowerless plants, (technically called <altname>Lichenes</altname>), having no distinction of leaf and stem, usually of scaly, expanded, frond-like forms, but sometimes erect or pendulous and variously branched. They derive their nourishment from the air, and generate by means of spores. The species are very widely distributed, and form irregular spots or patches, usually of a greenish or yellowish color, upon rocks, trees, and various bodies, to which they adhere with great tenacity. They are often improperly called <altname>rock moss</altname> or <altname>tree moss</altname>.</def></p>
+<p><hw>Li"chen</hw> <pr>(l<imac/"k<ecr/n; 277)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <grk>leich`n</grk>.]</ety> <sn>1.</sn> <fld>(Bot.)</fld> <def>One of a class of cellular, flowerless plants, (technically called <altname>Lichenes</altname>), having no distinction of leaf and stem, usually of scaly, expanded, frond-like forms, but sometimes erect or pendulous and variously branched. They derive their nourishment from the air, and generate by means of spores. The species are very widely distributed, and form irregular spots or patches, usually of a greenish or yellowish color, upon rocks, trees, and various bodies, to which they adhere with great tenacity. They are often improperly called <altname>rock moss</altname> or <altname>tree moss</altname>.</def></p>
 
 <p><note><hand/ A favorite modern theory of lichens (called after its inventor the <xex>Schwendener hypothesis</xex>), is that they are not autonomous plants, but that they consist of ascigerous fungi, parasitic on alg<ae/. Each lichen is composed of white filaments and green, or greenish, rounded cells, and it is argued that the two are of different nature, the one living at the expense of the other. See <er>Hyph<ae/</er>, and <er>Gonidia</er>.</note></p>
 

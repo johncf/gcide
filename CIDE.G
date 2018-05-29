@@ -13683,7 +13683,7 @@ Unto the state of Venice.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Goose" source="1913 Webster">
-<p><hw>Goose</hw> <pr>(g<oomac/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Geese</plw> <pr>(g<emac/s)</pr>.</plu> <ety>[OE. <ets>gos</ets>, AS. <ets>g<omac/s</ets>, pl. <ets>g<emac/s</ets>; akin to D. & G. <ets>gans</ets>, Icel. <ets>g<amac/s</ets>, Dan. <ets>gaas</ets>, Sw. <ets>g<aring/s</ets>, Russ. <ets>guse</ets>. OIr. <ets>geiss</ets>, L. <ets>anser</ets>, for <ets>hanser</ets>, Gr. <grk>c`n</grk>, Skr. <ets>ha<msdot/sa</ets>. <root/233.  Cf. <er>Gander</er>, <er>Gannet</er>, <er>Ganza</er>, <er>Gosling</er>.]</ety> <fld>(Zool.)</fld></p>
+<p><hw>Goose</hw> <pr>(g<oomac/s)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Geese</plw> <pr>(g<emac/s)</pr>.</plu> <ety>[OE. <ets>gos</ets>, AS. <ets>g<omac/s</ets>, pl. <ets>g<emac/s</ets>; akin to D. & G. <ets>gans</ets>, Icel. <ets>g<amac/s</ets>, Dan. <ets>gaas</ets>, Sw. <ets>g<aring/s</ets>, Russ. <ets>guse</ets>. OIr. <ets>geiss</ets>, L. <ets>anser</ets>, for <ets>hanser</ets>, Gr. <grk>ch`n</grk>, Skr. <ets>ha<msdot/sa</ets>. <root/233.  Cf. <er>Gander</er>, <er>Gannet</er>, <er>Ganza</er>, <er>Gosling</er>.]</ety> <fld>(Zool.)</fld></p>
 
 <p><sn>1.</sn> <def>Any large web-footen bird of the subfamily <fam>Anserin<ae/</fam>, and belonging to <gen>Anser</gen>, <gen>Branta</gen>, <gen>Chen</gen>, and several allied genera. See <er>Anseres</er>.</def></p>
 

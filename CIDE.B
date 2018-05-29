@@ -7316,7 +7316,7 @@ The place its honor for the person's sake.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Batrachomyomachy" source="1913 Webster">
-<p><hw>Bat`ra*cho*my*om"a*chy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>batracomyomaci`a</grk>; <grk>ba`tracos</grk> frog + <grk>my^s</grk> mouse + <grk>ma`c</grk> battle.]</ety> <def>The battle between the frogs and mice; -- a Greek parody on the Iliad, of uncertain authorship.</def></p>
+<p><hw>Bat`ra*cho*my*om"a*chy</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>batracomyomaci`a</grk>; <grk>ba`tracos</grk> frog + <grk>my^s</grk> mouse + <grk>ma`ch</grk> battle.]</ety> <def>The battle between the frogs and mice; -- a Greek parody on the Iliad, of uncertain authorship.</def></p>
 </entry>
 
 <entry main-word="Batrachophagous" source="1913 Webster">

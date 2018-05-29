@@ -5677,7 +5677,7 @@ With clubs and clouted shoon.</q> <rj><qau>Hayward.</qau></rj></p>
 </entry>
 
 <entry main-word="Kritarchy" source="1913 Webster">
-<p><hw>Kri"tarch*y</hw> <pr>(kr<imac/"t<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>krith`s</grk> judge + <grk>'arc`</grk> beginning, government.]</ety> <def>The rule of the judges over Israel.</def></p>
+<p><hw>Kri"tarch*y</hw> <pr>(kr<imac/"t<aum/rk*<ycr/)</pr>, <pos>n.</pos> <ety>[Gr. <grk>krith`s</grk> judge + <grk>'arch`</grk> beginning, government.]</ety> <def>The rule of the judges over Israel.</def></p>
 
 <p><q>Samson, Jephthah, Gideon, and other heroes of the <qex>kritarchy</qex>.</q> <rj><qau>Southey.</qau></rj></p>
 </entry>

@@ -4394,7 +4394,7 @@ Imprints the secret bias of the soul.</q> <rj><qau>Akenside.</qau></rj></p>
 </entry>
 
 <entry main-word="Tauromachy" source="1913 Webster">
-<p><hw>Tau*rom"a*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tayromaci`a</grk>; <grk>tay^ros</grk> bull + <grk>ma`c</grk> fight.]</ety> <def>Bullfighting.</def></p>
+<p><hw>Tau*rom"a*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>tayromaci`a</grk>; <grk>tay^ros</grk> bull + <grk>ma`ch</grk> fight.]</ety> <def>Bullfighting.</def></p>
 </entry>
 
 <entry main-word="Taurus" source="1913 Webster">
@@ -36216,7 +36216,7 @@ That thou began'st to <qex>twist</qex> so fine a story?</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Tychism" source="Webster 1913 Suppl.">
-<p><hw>Ty"chism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ty`c</grk> fortune, chance + <ets>-ism</ets>.]</ety> <def>Any theory which conceives chance as an objective reality; esp., a theory of evolution which considers that variation may be purely fortuitous.</def></p>
+<p><hw>Ty"chism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>ty`ch</grk> fortune, chance + <ets>-ism</ets>.]</ety> <def>Any theory which conceives chance as an objective reality; esp., a theory of evolution which considers that variation may be purely fortuitous.</def></p>
 </entry>
 
 <entry main-word="Tychonic" source="1913 Webster">

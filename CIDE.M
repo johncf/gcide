@@ -4099,7 +4099,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Malachite" source="1913 Webster">
-<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <grk>mala`c</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
+<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <grk>mala`ch</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
 
 <p><note><hand/ <xex>Green malachite</xex>, or malachite proper, admits of a high polish, and is sometimes used for ornamental work. <xex>Blue malachite</xex>, or azurite, is a related species of a deep blue color.</note></p>
 
@@ -5057,7 +5057,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Mallow" source="1913 Webster">
-<p><mhw>{ <hw>Mal"low</hw> <pr>(?)</pr>, <hw>Mal"lows</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[OE. <ets>malwe</ets>, AS. <ets>mealwe</ets>, fr. L. <ets>malva</ets>, akin to Gr. <grk>mala`c</grk>; cf. <grk>mala`ssein</grk> to soften, <grk>malako`s</grk> soft. Named either from its softening or relaxing properties, or from its soft downy leaves.  Cf. <er>Mauve</er>, <er>Malachite</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants (<gen>Malva</gen>) having mucilaginous qualities. See <er>Malvaceous</er>.</def></p>
+<p><mhw>{ <hw>Mal"low</hw> <pr>(?)</pr>, <hw>Mal"lows</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[OE. <ets>malwe</ets>, AS. <ets>mealwe</ets>, fr. L. <ets>malva</ets>, akin to Gr. <grk>mala`ch</grk>; cf. <grk>mala`ssein</grk> to soften, <grk>malako`s</grk> soft. Named either from its softening or relaxing properties, or from its soft downy leaves.  Cf. <er>Mauve</er>, <er>Malachite</er>.]</ety> <fld>(Bot.)</fld> <def>A genus of plants (<gen>Malva</gen>) having mucilaginous qualities. See <er>Malvaceous</er>.</def></p>
 
 <p><note><hand/ The flowers of the common mallow (<spn>Malva sylvestris</spn>) are used in medicine. The dwarf mallow (<spn>Malva rotundifolia</spn>) is a common weed, and its flattened, dick-shaped fruits are called <xex>cheeses</xex> by children.  Tree mallow (<spn>Malva Mauritiana</spn> and <spn>Lavatera arborea</spn>), musk mallow (<spn>Malva moschata</spn>), rose mallow or hollyhock, and curled mallow (<spn>Malva crispa</spn>), are less commonly seen.</note></p>
 
@@ -14654,7 +14654,7 @@ From the fierce prince.</q> <rj><qau>Rowe.</qau></rj></p>
 </entry>
 
 <entry main-word="megalopsychy" source="1913 Webster">
-<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>jyc`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
+<p><hw>meg`a*lop"sy*chy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[<ets>Megalo-</ets> + Gr. <grk>jych`</grk> soul, mind.]</ety> <def>Greatness of soul.</def> <mark>[Obs. & R.]</mark></p>
 </entry>
 
 <entry main-word="Megalosaur" source="1913 Webster">
