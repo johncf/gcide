@@ -192,6 +192,7 @@ Webfont     ISO 8879    TeX             Uc  ASCII   Description
 <icr/                   \u{i}           ĭ   i       i breve
 <ocr/                   \u{o}           ŏ   o       o breve
 <ucr/                   \u{u}           ŭ   u       u breve
+<ycr/                   \u{y}           y̆   y       y breve
 <oocr/                  \u{oo}          o͝o  oo      oo breve
 <ocar/                  \v{o}           ǒ   o       o hacek
 <asl/                                   ā̇   a       a "semilong" (see Diacritics)
