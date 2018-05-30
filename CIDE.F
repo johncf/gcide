@@ -11371,7 +11371,7 @@ Of utmost hope!</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Fiord" source="1913 Webster">
-<p><par/<hw>Fiord</hw> <pr>(fy<?/rd; <it>i</it> or <it>y</it> consonant, <sect/ 272)</pr>, <pos>n.</pos> <ety>[Dan. & Norw. <ets>fiord</ets>. See <er>Frith</er>.]</ety> <def>A narrow inlet of the sea, penetrating between high banks or rocks, as on the coasts of Norway and Alaska.</def> <altsp>[Written also <asp>fjord</asp>.]</altsp></p>
+<p><par/<hw>Fiord</hw> <pr>(fy<?/rd; <iit/ or <it>y</it> consonant, <sect/ 272)</pr>, <pos>n.</pos> <ety>[Dan. & Norw. <ets>fiord</ets>. See <er>Frith</er>.]</ety> <def>A narrow inlet of the sea, penetrating between high banks or rocks, as on the coasts of Norway and Alaska.</def> <altsp>[Written also <asp>fjord</asp>.]</altsp></p>
 </entry>
 
 <entry main-word="Fiorin" source="1913 Webster">
@@ -11636,7 +11636,7 @@ representing the heavenly <qex>fires</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Fireman" source="1913 Webster">
-<p><hw>Fire"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Firemen</plw> <pr>(-m<it>e</it>n)</pr>.</plu> <sn>1.</sn> <def>A man whose business is to extinguish fires in towns; a member of a fire company.</def></p>
+<p><hw>Fire"man</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Firemen</plw> <pr>(-m<eit/n)</pr>.</plu> <sn>1.</sn> <def>A man whose business is to extinguish fires in towns; a member of a fire company.</def></p>
 
 <p><sn>2.</sn> <def>A man who tends the fires, as of a steam engine; a stocker.</def></p>
 </entry>

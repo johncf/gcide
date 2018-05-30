@@ -5990,7 +5990,7 @@ As he had <qex>kyked</qex> on the newe moon.</q> <rj><qau>Chaucer.</qau></rj></p
 </entry>
 
 <entry main-word="Kythe" source="1913 Webster">
-<p><mhw>{ <hw>Kythe</hw>, <hw>Kithe</hw> <pr>(k<imac/<th/)</pr> }</mhw>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Kydde</conjf>, <conjf>Kidde</conjf> <pr>(k<icr/d"d<it>e</it>)</pr>; <pos>p. p.</pos> <conjf>Kythed</conjf> <pr>(?)</pr>, Kid; <pos>p. pr. & vb. n.</pos> <conjf>Kything</conjf>.]</vmorph> <ety>[OE. <ets>kythen</ets>, <ets>kithen</ets>, <ets>cu<edh/en</ets>, to make known, AS. <ets>c<ymac/<edh/an</ets>, fr. <ets>c<umac/<edh/</ets> known. <root/45.  See <er>Uncouth</er>, <er>Can</er> to be able, and cf. <er>Kith</er>.]</ety> <def>To make known; to manifest; to show; to declare.</def> <mark>[Obs. or Scot.]</mark></p>
+<p><mhw>{ <hw>Kythe</hw>, <hw>Kithe</hw> <pr>(k<imac/<th/)</pr> }</mhw>, <pos>v. t.</pos> <vmorph>[<pos>imp.</pos> <conjf>Kydde</conjf>, <conjf>Kidde</conjf> <pr>(k<icr/d"d<eit/)</pr>; <pos>p. p.</pos> <conjf>Kythed</conjf> <pr>(?)</pr>, Kid; <pos>p. pr. & vb. n.</pos> <conjf>Kything</conjf>.]</vmorph> <ety>[OE. <ets>kythen</ets>, <ets>kithen</ets>, <ets>cu<edh/en</ets>, to make known, AS. <ets>c<ymac/<edh/an</ets>, fr. <ets>c<umac/<edh/</ets> known. <root/45.  See <er>Uncouth</er>, <er>Can</er> to be able, and cf. <er>Kith</er>.]</ety> <def>To make known; to manifest; to show; to declare.</def> <mark>[Obs. or Scot.]</mark></p>
 
 <p><q>For gentle hearte <qex>kytheth</qex> gentilesse.</q> <rj><qau>Chaucer.</qau></rj></p>
 </entry>

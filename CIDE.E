@@ -26851,7 +26851,7 @@ Their arms <qex>experience</qex>, and for sea prepare.</q> <rj><qau>Harte.</qau>
 </entry>
 
 <entry main-word="Experiencer" source="1913 Webster">
-<p><hw>Ex*pe"ri*en*cer</hw> <pr>(-<it>e</it>n-s?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who experiences.</def></p>
+<p><hw>Ex*pe"ri*en*cer</hw> <pr>(-<eit/n-s?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who experiences.</def></p>
 
 <p><sn>2.</sn> <def>An experimenter.</def> <mark>[Obs.]</mark>  <rj><au>Sir. K. Digby.</au></rj></p>
 </entry>

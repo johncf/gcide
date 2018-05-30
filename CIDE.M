@@ -16625,7 +16625,7 @@ Of me more must be heard of.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Mercenarian" source="1913 Webster">
-<p><hw>Mer`ce*na"ri*an</hw> <pr>(-<it>a</it>n)</pr>, <pos>n.</pos> <def>A mercenary.</def> <mark>[Obs.]</mark></p>
+<p><hw>Mer`ce*na"ri*an</hw> <pr>(-<ait/n)</pr>, <pos>n.</pos> <def>A mercenary.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Mercenarily" source="1913 Webster">

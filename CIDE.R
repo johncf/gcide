@@ -8402,11 +8402,11 @@ Is like the sun's; but not, like his, <qex>recoverable</qex>.</q> <rj><qau>Shak.
 </entry>
 
 <entry main-word="Recreancy" source="1913 Webster">
-<p><hw>Rec"re*an*cy</hw> <pr>(-<it>a</it>n*s?)</pr>, <pos>n.</pos> <def>The quality or state of being recreant.</def></p>
+<p><hw>Rec"re*an*cy</hw> <pr>(-<ait/n*s?)</pr>, <pos>n.</pos> <def>The quality or state of being recreant.</def></p>
 </entry>
 
 <entry main-word="Recreant" source="1913 Webster">
-<p><hw>Rec"re*ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[OF., cowardly, fr. <ets>recroire</ets>, <ets>recreire</ets>, to forsake, leave, tire, discourage, regard as conquered, LL. <ets>recredere se</ets> to declare one's self conquered in combat; hence, those are called <ets>recrediti</ets> or <ets>recreanti</ets> who are considered infamous; L. pref. <ets>re-</ets> again, back + <ets>credere</ets> to believe, to be of opinion; hence, originally, to disavow one's opinion. See <er>Creed</er>.]</ety> <sn>1.</sn> <def>Crying for mercy, as a combatant in the trial by battle; yielding; cowardly; mean-spirited; craven.</def> <ldquo/This <xex>recreant</xex> knight.<rdquo/  <rj><au>Spenser.</au></rj></p>
+<p><hw>Rec"re*ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[OF., cowardly, fr. <ets>recroire</ets>, <ets>recreire</ets>, to forsake, leave, tire, discourage, regard as conquered, LL. <ets>recredere se</ets> to declare one's self conquered in combat; hence, those are called <ets>recrediti</ets> or <ets>recreanti</ets> who are considered infamous; L. pref. <ets>re-</ets> again, back + <ets>credere</ets> to believe, to be of opinion; hence, originally, to disavow one's opinion. See <er>Creed</er>.]</ety> <sn>1.</sn> <def>Crying for mercy, as a combatant in the trial by battle; yielding; cowardly; mean-spirited; craven.</def> <ldquo/This <xex>recreant</xex> knight.<rdquo/  <rj><au>Spenser.</au></rj></p>
 
 <p><sn>2.</sn> <def>Apostate; false; unfaithful.</def></p>
 
@@ -8461,17 +8461,17 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Recrement" source="1913 Webster">
-<p><hw>Rec"re*ment</hw> <pr>(r?k"r?*m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[L. <ets>recrementum</ets>; pref. <ets>re-</ets> re- + <ets>cernere</ets>, <ets>cretum</ets>, to separate, sift: cf. F. <ets>r<eacute/cr<eacute/ment</ets>.]</ety> <sn>1.</sn> <def>Superfluous matter separated from that which is useful; dross; scoria; <as>as, the <ex>recrement</ex> of ore</as>.</def></p>
+<p><hw>Rec"re*ment</hw> <pr>(r?k"r?*m<eit/nt)</pr>, <pos>n.</pos> <ety>[L. <ets>recrementum</ets>; pref. <ets>re-</ets> re- + <ets>cernere</ets>, <ets>cretum</ets>, to separate, sift: cf. F. <ets>r<eacute/cr<eacute/ment</ets>.]</ety> <sn>1.</sn> <def>Superfluous matter separated from that which is useful; dross; scoria; <as>as, the <ex>recrement</ex> of ore</as>.</def></p>
 
 <p><sn>2.</sn> <fld>(Med.)</fld> <sd>(a)</sd> <def>Excrement.</def> <mark>[Obs.]</mark> <sd>(a)</sd> <def>A substance secreted from the blood and again absorbed by it.</def></p>
 </entry>
 
 <entry main-word="Recremental" source="1913 Webster">
-<p><hw>Rec`re*men"tal</hw> <pr>(-m?n"t<it>a</it>l)</pr>, <pos>a.</pos> <def>Recrementitious.</def></p>
+<p><hw>Rec`re*men"tal</hw> <pr>(-m?n"t<ait/l)</pr>, <pos>a.</pos> <def>Recrementitious.</def></p>
 </entry>
 
 <entry main-word="Recrementitial" source="1913 Webster">
-<p><hw>Rec`re*men*ti"tial</hw> <pr>(-m?n*t?sh"<it>a</it>l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/cr<eacute/mentitiel</ets>.]</ety> <fld>(Med.)</fld> <def>Of the nature of a recrement. See <er>Recrement</er>, <snr>2</snr> <sdr>(b)</sdr>.</def> <ldquo/<xex>Recrementitial</xex> fluids.<rdquo/  <rj><au>Dunglison.</au></rj></p>
+<p><hw>Rec`re*men*ti"tial</hw> <pr>(-m?n*t?sh"<ait/l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/cr<eacute/mentitiel</ets>.]</ety> <fld>(Med.)</fld> <def>Of the nature of a recrement. See <er>Recrement</er>, <snr>2</snr> <sdr>(b)</sdr>.</def> <ldquo/<xex>Recrementitial</xex> fluids.<rdquo/  <rj><au>Dunglison.</au></rj></p>
 </entry>
 
 <entry main-word="Recrementitious" source="1913 Webster">
@@ -8521,7 +8521,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Recrudescence" source="1913 Webster">
-<p><mhw>{ <hw>Re`cru*des"cence</hw> <pr>(r?`kr?*d?s"s<it>e</it>ns)</pr>, <hw>Re`cru*des`cen*cy</hw> <pr>(-d?s"s<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>recrudescence</ets>.]</ety></p>
+<p><mhw>{ <hw>Re`cru*des"cence</hw> <pr>(r?`kr?*d?s"s<eit/ns)</pr>, <hw>Re`cru*des`cen*cy</hw> <pr>(-d?s"s<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>recrudescence</ets>.]</ety></p>
 
 <p><sn>1.</sn> <def>The state or condition of being recrudescent.</def></p>
 
@@ -8531,7 +8531,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Recrudescent" source="1913 Webster">
-<p><hw>Re`cru*des"cent</hw> <pr>(-s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recrudescens</ets>, <ets>-entis</ets>, p. pr. of <ets>recrudescere</ets> to become raw again; pref. <ets>re-</ets> re- + <ets>crudescere</ets> to become hard or raw: cf. F. <ets>recrudescent</ets>.]</ety> <sn>1.</sn> <def>Growing raw, sore, or painful again.</def></p>
+<p><hw>Re`cru*des"cent</hw> <pr>(-s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recrudescens</ets>, <ets>-entis</ets>, p. pr. of <ets>recrudescere</ets> to become raw again; pref. <ets>re-</ets> re- + <ets>crudescere</ets> to become hard or raw: cf. F. <ets>recrudescent</ets>.]</ety> <sn>1.</sn> <def>Growing raw, sore, or painful again.</def></p>
 
 <p><sn>2.</sn> <def>Breaking out again after temporary abatement or supression; <as>as, a <ex>recrudescent</ex> epidemic</as>.</def></p>
 </entry>
@@ -8577,7 +8577,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectal" source="1913 Webster">
-<p><hw>Rec"tal</hw> <pr>(r?k"t<it>a</it>l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to the rectum; in the region of the rectum.</def></p>
+<p><hw>Rec"tal</hw> <pr>(r?k"t<ait/l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to the rectum; in the region of the rectum.</def></p>
 </entry>
 
 <entry main-word="Rectangle" source="1913 Webster">
@@ -8651,7 +8651,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectilineal" source="1913 Webster">
-<p><mhw>{ <hw>Rec`ti*lin"e*al</hw> <pr>(-l?n"?*<it>a</it>l)</pr>, <hw>Rec`ti*lin"e*ar</hw> <pr>(-l?n"?*?r)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>lineal</ets>, <ets>linear</ets>.]</ety> <def>Straight; consisting of a straight line or lines; bounded by straight lines; <as>as, a <ex>rectineal</ex> angle; a <ex>rectilinear</ex> figure or course.</as></def> -- <wordforms><wf>Rec`ti*lin"e*al*ly</wf>, <pos>adv.</pos> -- <wf>Rec`ti*lin"e*ar*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><mhw>{ <hw>Rec`ti*lin"e*al</hw> <pr>(-l?n"?*<ait/l)</pr>, <hw>Rec`ti*lin"e*ar</hw> <pr>(-l?n"?*?r)</pr>, }</mhw> <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>lineal</ets>, <ets>linear</ets>.]</ety> <def>Straight; consisting of a straight line or lines; bounded by straight lines; <as>as, a <ex>rectineal</ex> angle; a <ex>rectilinear</ex> figure or course.</as></def> -- <wordforms><wf>Rec`ti*lin"e*al*ly</wf>, <pos>adv.</pos> -- <wf>Rec`ti*lin"e*ar*ly</wf>, <pos>adv.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Rectilinearity" source="1913 Webster">
@@ -8671,11 +8671,11 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectirostral" source="1913 Webster">
-<p><hw>Rec`ti*ros"tral</hw> <pr>(r?k`t?*r?s"tr<it>a</it>l)</pr>, <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>rostral</ets>.]</ety> <fld>(Zool.)</fld> <def>Having a straight beak.</def></p>
+<p><hw>Rec`ti*ros"tral</hw> <pr>(r?k`t?*r?s"tr<ait/l)</pr>, <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>rostral</ets>.]</ety> <fld>(Zool.)</fld> <def>Having a straight beak.</def></p>
 </entry>
 
 <entry main-word="Rectiserial" source="1913 Webster">
-<p><hw>Rec`ti*se"ri*al</hw> <pr>(-s?"r?*<it>a</it>l)</pr>, <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>serial</ets>.]</ety> <fld>(Bot.)</fld> <def>Arranged in exactly vertical ranks, as the leaves on stems of many kinds; -- opposed to <xex>curviserial</xex>.</def></p>
+<p><hw>Rec`ti*se"ri*al</hw> <pr>(-s?"r?*<ait/l)</pr>, <pos>a.</pos> <ety>[<ets>Recti-</ets> +  <ets>serial</ets>.]</ety> <fld>(Bot.)</fld> <def>Arranged in exactly vertical ranks, as the leaves on stems of many kinds; -- opposed to <xex>curviserial</xex>.</def></p>
 </entry>
 
 <entry main-word="Rectitis" source="1913 Webster">
@@ -8721,7 +8721,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectoral" source="1913 Webster">
-<p><hw>Rec"tor*al</hw> <pr>(-<it>a</it>l)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>rectoral</ets>.]</ety> <def>Pertaining to a rector or governor.</def></p>
+<p><hw>Rec"tor*al</hw> <pr>(-<ait/l)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>rectoral</ets>.]</ety> <def>Pertaining to a rector or governor.</def></p>
 </entry>
 
 <entry main-word="Rectorate" source="1913 Webster">
@@ -8735,7 +8735,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectorial" source="1913 Webster">
-<p><hw>Rec*to"ri*al</hw> <pr>(r?k*t?"r?*<it>a</it>l)</pr>, <pos>a.</pos> <def>Pertaining to a rector or a rectory; rectoral.</def>  <rj><au>Shipley.</au></rj></p>
+<p><hw>Rec*to"ri*al</hw> <pr>(r?k*t?"r?*<ait/l)</pr>, <pos>a.</pos> <def>Pertaining to a rector or a rectory; rectoral.</def>  <rj><au>Shipley.</au></rj></p>
 </entry>
 
 <entry main-word="Rectorship" source="1913 Webster">
@@ -8755,11 +8755,11 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectovaginal" source="1913 Webster">
-<p><hw>Rec`to*vag"i*nal</hw> <pr>(r?k`t?*v?j"?*n<it>a</it>l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to both the rectum and the vagina.</def></p>
+<p><hw>Rec`to*vag"i*nal</hw> <pr>(r?k`t?*v?j"?*n<ait/l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to both the rectum and the vagina.</def></p>
 </entry>
 
 <entry main-word="Recto-vesical" source="1913 Webster">
-<p><hw>Rec`to-ves"i*cal</hw> <pr>(-v?s"?*k<it>a</it>l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to both the rectum and the bladder.</def></p>
+<p><hw>Rec`to-ves"i*cal</hw> <pr>(-v?s"?*k<ait/l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Of or pertaining to both the rectum and the bladder.</def></p>
 </entry>
 
 <entry main-word="Rectress" source="1913 Webster">
@@ -8789,7 +8789,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Recule" source="1913 Webster">
-<p><mhw>{ <hw>Re*cule"</hw> <pr>(r?*k?l")</pr>, <hw>Re*cule"ment</hw> <pr>(-m<it>e</it>nt)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>reculement</ets>.]</ety> <def>Recoil.</def> <mark>[Obs.]</mark></p>
+<p><mhw>{ <hw>Re*cule"</hw> <pr>(r?*k?l")</pr>, <hw>Re*cule"ment</hw> <pr>(-m<eit/nt)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>reculement</ets>.]</ety> <def>Recoil.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Recumb" source="1913 Webster">
@@ -8797,15 +8797,15 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Recumbence" source="1913 Webster">
-<p><hw>Re*cum"bence</hw> <pr>(r?*k?m"b<it>e</it>ns)</pr>, <pos>n.</pos> <def>The act of leaning, resting, or reclining; the state of being recumbent.</def></p>
+<p><hw>Re*cum"bence</hw> <pr>(r?*k?m"b<eit/ns)</pr>, <pos>n.</pos> <def>The act of leaning, resting, or reclining; the state of being recumbent.</def></p>
 </entry>
 
 <entry main-word="Recumbency" source="1913 Webster">
-<p><hw>Re*cum"ben*cy</hw> <pr>(-b<it>e</it>n*s?)</pr>, <pos>n.</pos> <def>Recumbence.</def></p>
+<p><hw>Re*cum"ben*cy</hw> <pr>(-b<eit/n*s?)</pr>, <pos>n.</pos> <def>Recumbence.</def></p>
 </entry>
 
 <entry main-word="Recumbent" source="1913 Webster">
-<p><hw>Re*cum"bent</hw> <pr>(-b<it>e</it>t)</pr>, <pos>a.</pos> <ety>[L. <ets>recumbens</ets>, <ets>-entis</ets>, p. pr. of <ets>recumbere</ets>. See <er>Recumb</er>, <er>Incumbent</er>.]</ety> <def>Leaning; reclining; lying; <as>as, the <ex>recumbent</ex> posture of the Romans at their meals</as>. Hence, figuratively; Resting; inactive; idle.</def> -- <wordforms><wf>Re*cum"bent*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><hw>Re*cum"bent</hw> <pr>(-b<eit/t)</pr>, <pos>a.</pos> <ety>[L. <ets>recumbens</ets>, <ets>-entis</ets>, p. pr. of <ets>recumbere</ets>. See <er>Recumb</er>, <er>Incumbent</er>.]</ety> <def>Leaning; reclining; lying; <as>as, the <ex>recumbent</ex> posture of the Romans at their meals</as>. Hence, figuratively; Resting; inactive; idle.</def> -- <wordforms><wf>Re*cum"bent*ly</wf>, <pos>adv.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Recuperable" source="1913 Webster">
@@ -8875,13 +8875,13 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 </entry>
 
 <entry main-word="Recurrence" source="1913 Webster">
-<p><mhw>{ <hw>Re*cur"rence</hw> <pr>(r?*k?r"r<it>e</it>ns)</pr>, <hw>Re*cur"ren*cy</hw> <pr>(-r<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/currence</ets>.]</ety> <def>The act of recurring, or state of being recurrent; return; resort; recourse.</def></p>
+<p><mhw>{ <hw>Re*cur"rence</hw> <pr>(r?*k?r"r<eit/ns)</pr>, <hw>Re*cur"ren*cy</hw> <pr>(-r<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/currence</ets>.]</ety> <def>The act of recurring, or state of being recurrent; return; resort; recourse.</def></p>
 
 <p><q>I shall insensibly go on from a rare to a frequent <qex>recurrence</qex> to the dangerous preparations.</q> <rj><qau>I. Taylor.</qau></rj></p>
 </entry>
 
 <entry main-word="Recurrent" source="1913 Webster">
-<p><hw>Re*cur"rent</hw> <pr>(-r<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recurrens</ets>, <ets>-entis</ets>, p. pr. of <ets>recurrere</ets>: cf.F. <ets>r<eacute/current</ets>. See <er>Recur</er>.]</ety> <sn>1.</sn> <def>Returning from time to time; recurring; <as>as, <ex>recurrent</ex> pains</as>.</def></p>
+<p><hw>Re*cur"rent</hw> <pr>(-r<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recurrens</ets>, <ets>-entis</ets>, p. pr. of <ets>recurrere</ets>: cf.F. <ets>r<eacute/current</ets>. See <er>Recur</er>.]</ety> <sn>1.</sn> <def>Returning from time to time; recurring; <as>as, <ex>recurrent</ex> pains</as>.</def></p>
 
 <p><sn>2.</sn> <fld>(Anat.)</fld> <def>Running back toward its origin; <as>as, a <ex>recurrent</ex> nerve or artery</as>.</def></p>
 
@@ -8889,7 +8889,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 </entry>
 
 <entry main-word="Recursant" source="1913 Webster">
-<p><hw>Re*cur"sant</hw> <pr>(r?*k?r"s<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recursans</ets>, <ets>-antis</ets>, p. pr. of <ets>recursare</ets> to run back, v. freq. of <ets>recurrere</ets>. See <er>Recure</er>.]</ety> <fld>(Her.)</fld> <def>Displayed with the back toward the spectator; -- said especially of an eagle.</def></p>
+<p><hw>Re*cur"sant</hw> <pr>(r?*k?r"s<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>recursans</ets>, <ets>-antis</ets>, p. pr. of <ets>recursare</ets> to run back, v. freq. of <ets>recurrere</ets>. See <er>Recure</er>.]</ety> <fld>(Her.)</fld> <def>Displayed with the back toward the spectator; -- said especially of an eagle.</def></p>
 </entry>
 
 <entry main-word="Recursion" source="1913 Webster">
@@ -8925,7 +8925,7 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 </entry>
 
 <entry main-word="Recurvirostral" source="1913 Webster">
-<p><hw>Re*cur`vi*ros"tral</hw> <pr>(-tr<it>a</it>l)</pr>, <pos>a.</pos> <ety>[See <er>Recurviroster</er>.]</ety> <fld>(Zool.)</fld> <def>Having the beak bent upwards.</def></p>
+<p><hw>Re*cur`vi*ros"tral</hw> <pr>(-tr<ait/l)</pr>, <pos>a.</pos> <ety>[See <er>Recurviroster</er>.]</ety> <fld>(Zool.)</fld> <def>Having the beak bent upwards.</def></p>
 </entry>
 
 <entry main-word="Recurvity" source="1913 Webster">
@@ -8937,11 +8937,11 @@ Might avail his sickness to <qex>recure</qex>.</q> <rj><qau>Lydgate.</qau></rj><
 </entry>
 
 <entry main-word="Recusancy" source="1913 Webster">
-<p><hw>Re*cu"san*cy</hw> <pr>(r?*k?"z<it>a</it>n*s? <or/ r?k"?-)</pr>, <pos>n.</pos> <def>The state of being recusant; nonconformity.</def>  <rj><au>Coke.</au></rj></p>
+<p><hw>Re*cu"san*cy</hw> <pr>(r?*k?"z<ait/n*s? <or/ r?k"?-)</pr>, <pos>n.</pos> <def>The state of being recusant; nonconformity.</def>  <rj><au>Coke.</au></rj></p>
 </entry>
 
 <entry main-word="Recusant" source="1913 Webster">
-<p><hw>Re*cu"sant</hw> <pr>(-z<it>a</it>t; 277)</pr>, <pos>a.</pos><ety>[L. <ets>recusans</ets>, <ets>-antis</ets>, p. pr. of <ets>recure</ets> to refuse, to oject to; pref. <ets>re-</ets> re + <ets>causa</ets> a cause, pretext: cf. F. <ets>r<eacute/cusant</ets>. See <er>Cause</er>, and cf. <er>Ruse</er>.]</ety> <def>Obstinate in refusal; specifically, in English history, refusing to acknowledge the supremacy of the king in the churc, or to conform to the established rites of the church; <as>as, a <ex>recusant</ex> lord</as>.</def></p>
+<p><hw>Re*cu"sant</hw> <pr>(-z<ait/t; 277)</pr>, <pos>a.</pos><ety>[L. <ets>recusans</ets>, <ets>-antis</ets>, p. pr. of <ets>recure</ets> to refuse, to oject to; pref. <ets>re-</ets> re + <ets>causa</ets> a cause, pretext: cf. F. <ets>r<eacute/cusant</ets>. See <er>Cause</er>, and cf. <er>Ruse</er>.]</ety> <def>Obstinate in refusal; specifically, in English history, refusing to acknowledge the supremacy of the king in the churc, or to conform to the established rites of the church; <as>as, a <ex>recusant</ex> lord</as>.</def></p>
 
 <p><q>It stated him to have placed his son in the household of the Countess of Derby, a <qex>recusant</qex> papist.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
@@ -9227,7 +9227,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Redeliverance" source="1913 Webster">
-<p><hw>Re`de*liv"er*ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <def>A second deliverance.</def></p>
+<p><hw>Re`de*liv"er*ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <def>A second deliverance.</def></p>
 </entry>
 
 <entry main-word="Redelivery" source="1913 Webster">
@@ -9384,7 +9384,7 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Redient" source="1913 Webster">
-<p><hw>Re"di*ent</hw> <pr>(r?"d?-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>rediens</ets>, p. pr. of <ets>redire</ets> to return; pref. <ets>red-</ets>  + <ets>ire</ets> to go.]</ety> <def>Returning.</def> <mark>[R.]</mark></p>
+<p><hw>Re"di*ent</hw> <pr>(r?"d?-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>rediens</ets>, p. pr. of <ets>redire</ets> to return; pref. <ets>red-</ets>  + <ets>ire</ets> to go.]</ety> <def>Returning.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Redif" source="Webster 1913 Suppl.">
@@ -9518,11 +9518,11 @@ Man's mortal crime?</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Redolence" source="1913 Webster">
-<p><mhw>{ <hw>Red"o*lence</hw> <pr>(r?d"?*l<it>e</it>ns)</pr>, <hw>Red"o*len*cy</hw> <pr>(-l<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The quality of being redolent; sweetness of scent; pleasant odor; fragrance.</def></p>
+<p><mhw>{ <hw>Red"o*lence</hw> <pr>(r?d"?*l<eit/ns)</pr>, <hw>Red"o*len*cy</hw> <pr>(-l<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The quality of being redolent; sweetness of scent; pleasant odor; fragrance.</def></p>
 </entry>
 
 <entry main-word="Redolent" source="1913 Webster">
-<p><hw>Red"o*lent</hw> <pr>(-l<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>redolens</ets>, <ets>-entis</ets>, p. pr. of <ets>redolere</ets> to emit a scent, diffuse an odor; pref. <ets>red-</ets>, <ets>re-</ets>, re- + <ets>olere</ets> to emit a smell. See <er>Odor</er>.]</ety> <def>Diffusing odor or fragrance; spreading sweet scent; scented; odorous; smelling; -- usually followed by <xex>of</xex>.</def>  <ldquo/Honey <xex>redolent</xex> of spring.<rdquo/ <au>Dryden.</au> -- <wordforms><wf>Red"o*lent*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><hw>Red"o*lent</hw> <pr>(-l<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>redolens</ets>, <ets>-entis</ets>, p. pr. of <ets>redolere</ets> to emit a scent, diffuse an odor; pref. <ets>red-</ets>, <ets>re-</ets>, re- + <ets>olere</ets> to emit a smell. See <er>Odor</er>.]</ety> <def>Diffusing odor or fragrance; spreading sweet scent; scented; odorous; smelling; -- usually followed by <xex>of</xex>.</def>  <ldquo/Honey <xex>redolent</xex> of spring.<rdquo/ <au>Dryden.</au> -- <wordforms><wf>Red"o*lent*ly</wf>, <pos>adv.</pos></wordforms></p>
 
 <p><q>Gales . . . <qex>redolent</qex> of joy and youth.</q> <rj><qau>Gray.</qau></rj></p>
 </entry>
@@ -9662,7 +9662,7 @@ Of those whom fate pursues and wants oppress.</q> <rj><qau>Dryden.</qau></rj></p
 </entry>
 
 <entry main-word="Redressal" source="1913 Webster">
-<p><hw>Re*dress"al</hw> <pr>(r?*dr?s"<it>a</it>l)</pr>, <pos>n.</pos> <def>Redress.</def></p>
+<p><hw>Re*dress"al</hw> <pr>(r?*dr?s"<ait/l)</pr>, <pos>n.</pos> <def>Redress.</def></p>
 </entry>
 
 <entry main-word="Redresser" source="1913 Webster">
@@ -9682,11 +9682,11 @@ Of those whom fate pursues and wants oppress.</q> <rj><qau>Dryden.</qau></rj></p
 </entry>
 
 <entry main-word="Redressment" source="1913 Webster">
-<p><hw>Re*dress"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>redressement</ets>.]</ety> <def>The act of redressing; redress.</def>  <rj><au>Jefferson.</au></rj></p>
+<p><hw>Re*dress"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>redressement</ets>.]</ety> <def>The act of redressing; redress.</def>  <rj><au>Jefferson.</au></rj></p>
 </entry>
 
 <entry main-word="Red-riband" source="1913 Webster">
-<p><hw>Red"-rib`and</hw> <pr>(r?d"r?b`<it>a</it>nd)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The European red band fish, or fireflame. See <er>Rend fish</er>.</def></p>
+<p><hw>Red"-rib`and</hw> <pr>(r?d"r?b`<ait/nd)</pr>, <pos>n.</pos> <fld>(Zool.)</fld> <def>The European red band fish, or fireflame. See <er>Rend fish</er>.</def></p>
 </entry>
 
 <entry main-word="Redroot" source="1913 Webster">
@@ -9800,11 +9800,11 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Reducement" source="1913 Webster">
-<p><hw>Re*duce"ment</hw> <pr>(r?*d?s"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Reduction.</def>  <rj><au>Milton.</au></rj></p>
+<p><hw>Re*duce"ment</hw> <pr>(r?*d?s"m<eit/nt)</pr>, <pos>n.</pos> <def>Reduction.</def>  <rj><au>Milton.</au></rj></p>
 </entry>
 
 <entry main-word="Reducent" source="1913 Webster">
-<p><hw>Re*du"cent</hw> <pr>(r?*d?"s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reducens</ets>, p. pr. of <ets>reducere</ets>.]</ety> <def>Tending to reduce.</def> -- <def2><pos>n.</pos> <def>A reducent agent.</def></def2></p>
+<p><hw>Re*du"cent</hw> <pr>(r?*d?"s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reducens</ets>, p. pr. of <ets>reducere</ets>.]</ety> <def>Tending to reduce.</def> -- <def2><pos>n.</pos> <def>A reducent agent.</def></def2></p>
 </entry>
 
 <entry main-word="Reducer" source="1913 Webster">
@@ -9876,7 +9876,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Redundance" source="1913 Webster">
-<p><mhw>{ <hw>Re*dun"dance</hw> <pr>(r?*d?n"d<it>a</it>ns)</pr>, <hw>Re*dun"dan*cy</hw> <pr>(-d<it>a</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>redundantia</ets>: cf. F. <ets>redondance</ets>.]</ety></p>
+<p><mhw>{ <hw>Re*dun"dance</hw> <pr>(r?*d?n"d<ait/ns)</pr>, <hw>Re*dun"dan*cy</hw> <pr>(-d<ait/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>redundantia</ets>: cf. F. <ets>redondance</ets>.]</ety></p>
 
 <p><sn>1.</sn> <def>The quality or state of being redundant; superfluity; superabundance; excess.</def></p>
 
@@ -9888,7 +9888,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Redundant" source="1913 Webster">
-<p><hw>Re*dun"dant</hw> <pr>(-d<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>redundans</ets>, <ets>-antis</ets>, p. pr. of <ets>redundare</ets>: cf. F. <ets>redondant</ets>. See <er>Redound</er>.]</ety> <sn>1.</sn> <def>Exceeding what is natural or necessary; superabundant; exuberant; <as>as, a <ex>redundant</ex> quantity of bile or food</as>.</def></p>
+<p><hw>Re*dun"dant</hw> <pr>(-d<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>redundans</ets>, <ets>-antis</ets>, p. pr. of <ets>redundare</ets>: cf. F. <ets>redondant</ets>. See <er>Redound</er>.]</ety> <sn>1.</sn> <def>Exceeding what is natural or necessary; superabundant; exuberant; <as>as, a <ex>redundant</ex> quantity of bile or food</as>.</def></p>
 
 <p><q>Notwithstanding the <qex>redundant</qex> oil in fishes, they do not increase fat so much as flesh.</q> <rj><qau>Arbuthnot.</qau></rj></p>
 
@@ -9900,7 +9900,7 @@ And equal to <qex>reduce</qex> me to my dust.</q> <rj><qau>Milton.</qau></rj></p
 </entry>
 
 <entry main-word="Redundantly" source="1913 Webster">
-<p><hw>Re*dun"dant*ly</hw> <pr>(r?*d?n"d<it>a</it>nt*l?)</pr>, <pos>adv.</pos> <def>In a refundant manner.</def></p>
+<p><hw>Re*dun"dant*ly</hw> <pr>(r?*d?n"d<ait/nt*l?)</pr>, <pos>adv.</pos> <def>In a refundant manner.</def></p>
 </entry>
 
 <entry main-word="Reduplicate" source="1913 Webster">
@@ -10245,7 +10245,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reemergence" source="1913 Webster">
-<p><hw>Re`e*mer"gence</hw> <pr>(-m?r"j<it>e</it>ns)</pr>, <pos>n.</pos> <def>Act of reemerging.</def></p>
+<p><hw>Re`e*mer"gence</hw> <pr>(-m?r"j<eit/ns)</pr>, <pos>n.</pos> <def>Act of reemerging.</def></p>
 </entry>
 
 <entry main-word="re-emphasise" source="WordNet 1.5">
@@ -10272,7 +10272,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reenactment" source="1913 Webster">
-<p><hw>Re`en*act"ment</hw> <pr>(-?kt"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The enacting or passing of a law a second time; the renewal of a law.</def></p>
+<p><hw>Re`en*act"ment</hw> <pr>(-?kt"m<eit/nt)</pr>, <pos>n.</pos> <def>The enacting or passing of a law a second time; the renewal of a law.</def></p>
 </entry>
 
 <entry main-word="Reencourage" source="1913 Webster">
@@ -10302,7 +10302,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reenforcement" source="1913 Webster">
-<p><hw>Re`en*force"ment</hw> <pr>(r?`?n*f?rs"m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of reenforcing, or the state of being reenforced.</def></p>
+<p><hw>Re`en*force"ment</hw> <pr>(r?`?n*f?rs"m<eit/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of reenforcing, or the state of being reenforced.</def></p>
 
 <p><sn>2.</sn> <def>That which reenforces; additional force; especially, additional troops or force to augment the strength of any army, or ships to strengthen a navy or fleet.</def></p>
 
@@ -10314,7 +10314,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reengagement" source="1913 Webster">
-<p><hw>Re`en*gage"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>A renewed or repeated engagement.</def></p>
+<p><hw>Re`en*gage"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>A renewed or repeated engagement.</def></p>
 </entry>
 
 <entry main-word="Reengrave" source="1913 Webster">
@@ -10326,7 +10326,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reenjoyment" source="1913 Webster">
-<p><hw>Re`en*joy"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Renewed enjoyment.</def></p>
+<p><hw>Re`en*joy"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Renewed enjoyment.</def></p>
 </entry>
 
 <entry main-word="Reenkindle" source="1913 Webster">
@@ -10338,7 +10338,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reenlistment" source="1913 Webster">
-<p><hw>Re`en*list"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>A renewed enlistment.</def></p>
+<p><hw>Re`en*list"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>A renewed enlistment.</def></p>
 </entry>
 
 <entry main-word="Reenslave" source="1913 Webster">
@@ -10368,7 +10368,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reenthronement" source="1913 Webster">
-<p><hw>Re`en*throne"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>A second enthroning.</def></p>
+<p><hw>Re`en*throne"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>A second enthroning.</def></p>
 </entry>
 
 <entry main-word="Reentrance" source="1913 Webster">
@@ -10462,7 +10462,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Reexperience" source="1913 Webster">
-<p><hw>Re`ex*pe"ri*ence</hw> <pr>(-p?`r?-<it>e</it>ns)</pr>, <pos>n.</pos> <def>A renewed or repeated experience.</def></p>
+<p><hw>Re`ex*pe"ri*ence</hw> <pr>(-p?`r?-<eit/ns)</pr>, <pos>n.</pos> <def>A renewed or repeated experience.</def></p>
 </entry>
 
 <entry main-word="re-explain" source="WordNet 1.5">
@@ -10514,7 +10514,7 @@ Soon dried, and on the <qex>reeking</qex> moisture fed.</q> <rj><qau>Milton.</qa
 </entry>
 
 <entry main-word="Refashionment" source="1913 Webster">
-<p><hw>Re*fash"ion*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of refashioning, or the state of being refashioned.</def> <mark>[R.]</mark>  <rj><au>Leigh Hunt.</au></rj></p>
+<p><hw>Re*fash"ion*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of refashioning, or the state of being refashioned.</def> <mark>[R.]</mark>  <rj><au>Leigh Hunt.</au></rj></p>
 </entry>
 
 <entry main-word="Refasten" source="1913 Webster">
@@ -10597,7 +10597,7 @@ The earth regard as of that whole a part.</q> <rj><qau>Blackmore.</qau></rj></p>
 </entry>
 
 <entry main-word="Reference" source="1913 Webster">
-<p><hw>Ref"er*ence</hw> <pr>(r?f"?r-<it>e</it>ns)</pr>, <pos>n.</pos> <ety>[See <er>Refer</er>.]</ety> <sn>1.</sn> <def>The act of referring, or the state of being referred; <as>as, <ex>reference</ex> to a chart for guidance</as>.</def></p>
+<p><hw>Ref"er*ence</hw> <pr>(r?f"?r-<eit/ns)</pr>, <pos>n.</pos> <ety>[See <er>Refer</er>.]</ety> <sn>1.</sn> <def>The act of referring, or the state of being referred; <as>as, <ex>reference</ex> to a chart for guidance</as>.</def></p>
 
 <p><sn>2.</sn> <def>That which refers to something; a specific direction of the attention; <as>as, a <ex>reference</ex> in a text-book</as>.</def></p>
 
@@ -10631,11 +10631,11 @@ The earth regard as of that whole a part.</q> <rj><qau>Blackmore.</qau></rj></p>
 </entry>
 
 <entry main-word="Referential" source="1913 Webster">
-<p><hw>Ref`er*en"tial</hw> <pr>(-sh<it>a</it>l)</pr>, <pos>a.</pos> <def>Containing a reference; pointing to something out of itself; <as>as, notes for <ex>referential</ex> use</as>.</def> -- <wordforms><wf>Ref`er*en"tial*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><hw>Ref`er*en"tial</hw> <pr>(-sh<ait/l)</pr>, <pos>a.</pos> <def>Containing a reference; pointing to something out of itself; <as>as, notes for <ex>referential</ex> use</as>.</def> -- <wordforms><wf>Ref`er*en"tial*ly</wf>, <pos>adv.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Referment" source="1913 Webster">
-<p><hw>Re*fer"ment</hw> <pr>(r?*f?r"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of referring; reference.</def>  <rj><au>Laud.</au></rj></p>
+<p><hw>Re*fer"ment</hw> <pr>(r?*f?r"m<eit/nt)</pr>, <pos>n.</pos> <def>The act of referring; reference.</def>  <rj><au>Laud.</au></rj></p>
 </entry>
 
 <entry main-word="Re-ferment" source="1913 Webster">
@@ -10700,7 +10700,7 @@ How the wit brightens! How the style <qex>refines</qex>!</q> <rj><qau>Pope.</qau
 </entry>
 
 <entry main-word="Refinement" source="1913 Webster">
-<p><hw>Re*fine"ment</hw> <pr>(r?*f?n"m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>raffinement</ets>.]</ety> <sn>1.</sn> <def>The act of refining, or the state of being refined; <as>as, the <ex>refinement</ex> or metals; <ex>refinement</ex> of ideas.</as></def></p>
+<p><hw>Re*fine"ment</hw> <pr>(r?*f?n"m<eit/nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>raffinement</ets>.]</ety> <sn>1.</sn> <def>The act of refining, or the state of being refined; <as>as, the <ex>refinement</ex> or metals; <ex>refinement</ex> of ideas.</as></def></p>
 
 <p><q>The more bodies are of kin to spirit in subtilty and <qex>refinement</qex>, the more diffusive are they.</q> <rj><qau>Norris.</qau></rj></p>
 
@@ -10732,7 +10732,7 @@ How the wit brightens! How the style <qex>refines</qex>!</q> <rj><qau>Pope.</qau
 </entry>
 
 <entry main-word="Refitment" source="1913 Webster">
-<p><hw>Re*fit"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of refitting, or the state of being refitted.</def></p>
+<p><hw>Re*fit"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of refitting, or the state of being refitted.</def></p>
 </entry>
 
 <entry main-word="Refix" source="1913 Webster">
@@ -10790,7 +10790,7 @@ As by the sea <qex>reflected</qex> is the sun.</q> <rj><qau>Young.</qau></rj></p
 </entry>
 
 <entry main-word="Reflectent" source="1913 Webster">
-<p><hw>Re*flect"ent</hw> <pr>(r?*fl?kt"<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reflectens</ets>, p. pr. of <ets>reflectere</ets>. See <er>Reflect</er>.]</ety> <sn>1.</sn> <def>Bending or flying back; reflected.</def> <ldquo/The ray descendent, and the ray <xex>reflectent</xex> flying with so great a speed.<rdquo/  <rj><au>Sir K. Digby.</au></rj></p>
+<p><hw>Re*flect"ent</hw> <pr>(r?*fl?kt"<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reflectens</ets>, p. pr. of <ets>reflectere</ets>. See <er>Reflect</er>.]</ety> <sn>1.</sn> <def>Bending or flying back; reflected.</def> <ldquo/The ray descendent, and the ray <xex>reflectent</xex> flying with so great a speed.<rdquo/  <rj><au>Sir K. Digby.</au></rj></p>
 
 <p><sn>2.</sn> <def>Reflecting; <as>as, a <ex>reflectent</ex> body</as>.</def>  <rj><au>Sir K. Digby.</au></rj></p>
 </entry>
@@ -10947,7 +10947,7 @@ The <qex>reflex</qex> of a human face.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Reflorescence" source="1913 Webster">
-<p><hw>Re`flo*res"cence</hw> <pr>(r?`fl?*r?s"s<it>e</it>ns)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A blossoming anew of a plant after it has apparently ceased blossoming for the season.</def></p>
+<p><hw>Re`flo*res"cence</hw> <pr>(r?`fl?*r?s"s<eit/ns)</pr>, <pos>n.</pos> <fld>(Bot.)</fld> <def>A blossoming anew of a plant after it has apparently ceased blossoming for the season.</def></p>
 </entry>
 
 <entry main-word="Reflourish" source="1913 Webster">
@@ -10967,11 +10967,11 @@ The <qex>reflex</qex> of a human face.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Refluence" source="1913 Webster">
-<p><mhw>{ <hw>Ref"lu*ence</hw> <pr>(r?f"l?-<it>e</it>ns)</pr>, <hw>Ref"lu*en*cy</hw> <pr>(-<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The quality of being refluent; a flowing back.</def></p>
+<p><mhw>{ <hw>Ref"lu*ence</hw> <pr>(r?f"l?-<eit/ns)</pr>, <hw>Ref"lu*en*cy</hw> <pr>(-<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The quality of being refluent; a flowing back.</def></p>
 </entry>
 
 <entry main-word="Refluent" source="1913 Webster">
-<p><hw>Ref"lu*ent</hw> <pr>(-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refluens</ets>, p. pr. of <ets>refluere</ets> to flow back; pref. <ets>re-</ets> re- + <ets>fluere</ets> to flow. See <er>Flurent</er>.]</ety> <def>Flowing back; returning; ebbing.</def>  <rj><au>Cowper.</au></rj></p>
+<p><hw>Ref"lu*ent</hw> <pr>(-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refluens</ets>, p. pr. of <ets>refluere</ets> to flow back; pref. <ets>re-</ets> re- + <ets>fluere</ets> to flow. See <er>Flurent</er>.]</ety> <def>Flowing back; returning; ebbing.</def>  <rj><au>Cowper.</au></rj></p>
 
 <p><q>And <qex>refluent</qex> through the pass of fear<br/
 The battle's tide was poured.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
@@ -11071,7 +11071,7 @@ Shall with a fierce <qex>reflux</qex> on me redound.</q> <rj><qau>Milton.</qau><
 </entry>
 
 <entry main-word="Reformalize" source="1913 Webster">
-<p><hw>Re*form"al*ize</hw> <pr>(r?*f?rm"<it>a</it>l*?z)</pr>, <pos>v. i.</pos> <def>To affect reformation; to pretend to correctness.</def> <mark>[R.]</mark></p>
+<p><hw>Re*form"al*ize</hw> <pr>(r?*f?rm"<ait/l*?z)</pr>, <pos>v. i.</pos> <def>To affect reformation; to pretend to correctness.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Reformation" source="1913 Webster">
@@ -11280,7 +11280,7 @@ Most disobedient and <qex>refractory</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Refrainment" source="1913 Webster">
-<p><hw>Re*frain"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Act of refraining.</def> <mark>[R.]</mark></p>
+<p><hw>Re*frain"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Act of refraining.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Reframe" source="1913 Webster">
@@ -11337,7 +11337,7 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Refreshment" source="1913 Webster">
-<p><hw>Re*fresh"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[CF. OF. <ets>refreschissement</ets>, F. <ets>rafra<icir/chissement</ets>.]</ety> <sn>1.</sn> <def>The act of refreshing, or the state of being refreshed; restoration of strength, spirit, vigor, or liveliness; relief after suffering; new life or animation after depression.</def></p>
+<p><hw>Re*fresh"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[CF. OF. <ets>refreschissement</ets>, F. <ets>rafra<icir/chissement</ets>.]</ety> <sn>1.</sn> <def>The act of refreshing, or the state of being refreshed; restoration of strength, spirit, vigor, or liveliness; relief after suffering; new life or animation after depression.</def></p>
 
 <p><sn>2.</sn> <def>That which refreshes; means of restoration or reanimation; especially, an article of food or drink.</def></p>
 </entry>
@@ -11359,7 +11359,7 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Refrigerant" source="1913 Webster">
-<p><hw>Re*frig"er*ant</hw> <pr>(r?*fr?j"?r-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refrigerans</ets>, p. pr. of <ets>refrigerare</ets>: cf. F. <ets>r<eacute/frig<eacute/rant</ets>. See <er>Refrigerate</er>.]</ety> <def>Cooling; allaying heat or fever.</def>  <rj><au>Bacon.</au></rj></p>
+<p><hw>Re*frig"er*ant</hw> <pr>(r?*fr?j"?r-<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refrigerans</ets>, p. pr. of <ets>refrigerare</ets>: cf. F. <ets>r<eacute/frig<eacute/rant</ets>. See <er>Refrigerate</er>.]</ety> <def>Cooling; allaying heat or fever.</def>  <rj><au>Bacon.</au></rj></p>
 </entry>
 
 <entry main-word="Refrigerant" source="1913 Webster">
@@ -11399,11 +11399,11 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Refringency" source="1913 Webster">
-<p><hw>Re*frin"gen*cy</hw> <pr>(r?*fr?n"j<it>e</it>n*s?)</pr>, <pos>n.</pos> <def>The power possessed by a substance to refract a ray; <as>as, different substances have different <ex>refringencies</ex></as>.</def>  <rj><au>Nichol.</au></rj></p>
+<p><hw>Re*frin"gen*cy</hw> <pr>(r?*fr?n"j<eit/n*s?)</pr>, <pos>n.</pos> <def>The power possessed by a substance to refract a ray; <as>as, different substances have different <ex>refringencies</ex></as>.</def>  <rj><au>Nichol.</au></rj></p>
 </entry>
 
 <entry main-word="Refringent" source="1913 Webster">
-<p><hw>Re*frin"gent</hw> <pr>(-j<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refringens</ets>, p. pr. of <ets>refringere</ets>. See <er>Refract</er>.]</ety> <def>Pertaining to, or possessing, refringency; refractive; refracting; <as>as, a <ex>refringent</ex> prism of spar</as>.</def>  <rj><au>Nichol.</au></rj></p>
+<p><hw>Re*frin"gent</hw> <pr>(-j<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>refringens</ets>, p. pr. of <ets>refringere</ets>. See <er>Refract</er>.]</ety> <def>Pertaining to, or possessing, refringency; refractive; refracting; <as>as, a <ex>refringent</ex> prism of spar</as>.</def>  <rj><au>Nichol.</au></rj></p>
 </entry>
 
 <entry main-word="Reft" source="1913 Webster">
@@ -11455,7 +11455,7 @@ Was to send him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Refulgence" source="1913 Webster">
-<p><mhw>{ <hw>Re*ful"gence</hw> <pr>(r?*f?l"j<it>e</it>ns)</pr>, <hw>Re*ful"gen*cy</hw> <pr>(-j<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>refulgentia</ets>. See <er>Refulgent</er>.]</ety> <def>The quality of being refulgent; brilliancy; splender; radiance.</def></p>
+<p><mhw>{ <hw>Re*ful"gence</hw> <pr>(r?*f?l"j<eit/ns)</pr>, <hw>Re*ful"gen*cy</hw> <pr>(-j<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>refulgentia</ets>. See <er>Refulgent</er>.]</ety> <def>The quality of being refulgent; brilliancy; splender; radiance.</def></p>
 </entry>
 
 <entry main-word="Refulgent" source="1913 Webster">
@@ -11485,7 +11485,7 @@ Was to send him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Refundment" source="1913 Webster">
-<p><hw>Re*fund"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of refunding; also, that which is refunded.</def> <mark>[R.]</mark>  <rj><au>Lamb.</au></rj></p>
+<p><hw>Re*fund"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of refunding; also, that which is refunded.</def> <mark>[R.]</mark>  <rj><au>Lamb.</au></rj></p>
 </entry>
 
 <entry main-word="Refurbish" source="1913 Webster">
@@ -11497,7 +11497,7 @@ Was to send him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Refurnishment" source="1913 Webster">
-<p><hw>Re*fur"nish*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of refurnishing, or state of being refurnished.</def></p>
+<p><hw>Re*fur"nish*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of refurnishing, or state of being refurnished.</def></p>
 
 <p><q>The <qex>refurnishment</qex> was in a style richer than before.</q> <rj><qau>L. Wallace.</qau></rj></p>
 </entry>
@@ -11507,7 +11507,7 @@ Was to send him.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Refusal" source="1913 Webster">
-<p><hw>Re*fus"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of refusing; denial of anything demanded, solicited, or offered for acceptance.</def></p>
+<p><hw>Re*fus"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of refusing; denial of anything demanded, solicited, or offered for acceptance.</def></p>
 
 <p><q>Do they not seek occasion of new quarrels,<br/
 On my <qex>refusal</qex>, to distress me more?</q> <rj><qau>Milton.</qau></rj></p>
@@ -11579,7 +11579,7 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Refutal" source="1913 Webster">
-<p><hw>Re*fut"al</hw> <pr>(r?*f?t"<it>a</it>l)</pr>, <pos>n.</pos> <def>Act of refuting; refutation.</def></p>
+<p><hw>Re*fut"al</hw> <pr>(r?*f?t"<ait/l)</pr>, <pos>n.</pos> <def>Act of refuting; refutation.</def></p>
 </entry>
 
 <entry main-word="Refutation" source="1913 Webster">
@@ -11663,11 +11663,11 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Regalian" source="1913 Webster">
-<p><hw>Re*ga"li*an</hw> <pr>(-<it>a</it>n)</pr>, <pos>a.</pos> <def>Pertaining to regalia; pertaining to the royal insignia or prerogatives.</def>  <rj><au>Hallam.</au></rj></p>
+<p><hw>Re*ga"li*an</hw> <pr>(-<ait/n)</pr>, <pos>a.</pos> <def>Pertaining to regalia; pertaining to the royal insignia or prerogatives.</def>  <rj><au>Hallam.</au></rj></p>
 </entry>
 
 <entry main-word="Regalism" source="1913 Webster">
-<p><hw>Re"gal*ism</hw> <pr>(r?"g<it>a</it>l*?z'm)</pr>, <pos>n.</pos> <def>The doctrine of royal prerogative or supremacy.</def> <mark>[R.]</mark>  <rj><au>Cardinal Manning.</au></rj></p>
+<p><hw>Re"gal*ism</hw> <pr>(r?"g<ait/l*?z'm)</pr>, <pos>n.</pos> <def>The doctrine of royal prerogative or supremacy.</def> <mark>[R.]</mark>  <rj><au>Cardinal Manning.</au></rj></p>
 </entry>
 
 <entry main-word="Regality" source="1913 Webster">
@@ -11683,7 +11683,7 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Regally" source="1913 Webster">
-<p><hw>Re"gal*ly</hw> <pr>(r?"g<it>a</it>l*l?)</pr>, <pos>adv.</pos> <def>In a regal or royal manner.</def></p>
+<p><hw>Re"gal*ly</hw> <pr>(r?"g<ait/l*l?)</pr>, <pos>adv.</pos> <def>In a regal or royal manner.</def></p>
 </entry>
 
 <entry main-word="Regard" source="1913 Webster">
@@ -11779,7 +11779,7 @@ An indistinct <qex>regard</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regardant" source="1913 Webster">
-<p><hw>Re*gard"ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F. <ets>regardant</ets>, fr. <ets>regarder</ets>. See <er>Regard</er>, <pos>v. t.</pos>]</ety> <altsp>[Written also <asp>regardant</asp>.]</altsp> <sn>1.</sn> <def>Looking behind; looking backward watchfully.</def></p>
+<p><hw>Re*gard"ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[F. <ets>regardant</ets>, fr. <ets>regarder</ets>. See <er>Regard</er>, <pos>v. t.</pos>]</ety> <altsp>[Written also <asp>regardant</asp>.]</altsp> <sn>1.</sn> <def>Looking behind; looking backward watchfully.</def></p>
 
 <p><q>[He] turns thither his <qex>regardant</qex> eye.</q> <rj><qau>Southey.</qau></rj></p>
 
@@ -11841,11 +11841,11 @@ An indistinct <qex>regard</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regence" source="1913 Webster">
-<p><hw>Re"gence</hw> <pr>(r?"j<it>e</it>ns)</pr>, <pos>n.</pos> <def>Rule.</def> <mark>[Obs.]</mark>  <rj><au>Hudibras.</au></rj></p>
+<p><hw>Re"gence</hw> <pr>(r?"j<eit/ns)</pr>, <pos>n.</pos> <def>Rule.</def> <mark>[Obs.]</mark>  <rj><au>Hudibras.</au></rj></p>
 </entry>
 
 <entry main-word="Regency" source="1913 Webster">
-<p><hw>Re"gen*cy</hw> <pr>(r?*j<it>e</it>n*s?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Regencies</plw> <pr>(-s<?/z)</pr>.</plu> <ety>[CF. F. <ets>r<eacute/gence</ets>, LL. <ets>regentia</ets>. See <er>Regent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>The office of ruler; rule; authority; government.</def></p>
+<p><hw>Re"gen*cy</hw> <pr>(r?*j<eit/n*s?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Regencies</plw> <pr>(-s<?/z)</pr>.</plu> <ety>[CF. F. <ets>r<eacute/gence</ets>, LL. <ets>regentia</ets>. See <er>Regent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>The office of ruler; rule; authority; government.</def></p>
 
 <p><sn>2.</sn> <def>Especially, the office, jurisdiction, or dominion of a regent or vicarious ruler, or of a body of regents; deputed or vicarious government.</def>  <rj><au>Sir W. Temple.</au></rj></p>
 
@@ -11922,7 +11922,7 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regent" source="1913 Webster">
-<p><hw>Re"gent</hw> <pr>(r?"j<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>regens</ets>, <ets>-entis</ets>, p. pr. of <ets>regere</ets> to rule: cf. F. <ets>r<eacute/gent</ets>. See <er>Regiment</er>.]</ety> <sn>1.</sn> <def>Ruling; governing; regnant.</def> <ldquo/Some other active <xex>regent</xex> principle . . . which we call the soul.<rdquo/  <rj><au>Sir M. Hale.</au></rj></p>
+<p><hw>Re"gent</hw> <pr>(r?"j<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>regens</ets>, <ets>-entis</ets>, p. pr. of <ets>regere</ets> to rule: cf. F. <ets>r<eacute/gent</ets>. See <er>Regiment</er>.]</ety> <sn>1.</sn> <def>Ruling; governing; regnant.</def> <ldquo/Some other active <xex>regent</xex> principle . . . which we call the soul.<rdquo/  <rj><au>Sir M. Hale.</au></rj></p>
 
 <p><sn>2.</sn> <def>Exercising vicarious authority.</def>  <rj><au>Milton.</au></rj></p>
 
@@ -11972,7 +11972,7 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regian" source="1913 Webster">
-<p><hw>Re"gi*an</hw> <pr>(r?"j?-<it>a</it>n)</pr>, <pos>n.</pos> <ety>[L. <ets>regius</ets> regal.]</ety> <def>An upholder of kingly authority; a royalist.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj></p>
+<p><hw>Re"gi*an</hw> <pr>(r?"j?-<ait/n)</pr>, <pos>n.</pos> <ety>[L. <ets>regius</ets> regal.]</ety> <def>An upholder of kingly authority; a royalist.</def> <mark>[Obs.]</mark>  <rj><au>Fuller.</au></rj></p>
 </entry>
 
 <entry main-word="Regible" source="1913 Webster">
@@ -12024,7 +12024,7 @@ Doth with a twofold vigor lift me up.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regiment" source="1913 Webster">
-<p><hw>Reg"i*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/giment</ets> a regiment of men, OF. also government, L. <ets>regimentum</ets> government, fr. <ets>regere</ets> to guide, rule. See <er>Regimen</er>.]</ety> <sn>1.</sn> <def>Government; mode of ruling; rule; authority; regimen.</def> <mark>[Obs.]</mark> <au>Spenser.</au> <ldquo/<xex>Regiment</xex> of health.<rdquo/ <au>Bacon.</au></p>
+<p><hw>Reg"i*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/giment</ets> a regiment of men, OF. also government, L. <ets>regimentum</ets> government, fr. <ets>regere</ets> to guide, rule. See <er>Regimen</er>.]</ety> <sn>1.</sn> <def>Government; mode of ruling; rule; authority; regimen.</def> <mark>[Obs.]</mark> <au>Spenser.</au> <ldquo/<xex>Regiment</xex> of health.<rdquo/ <au>Bacon.</au></p>
 
 <p><q>But what are kings, when <qex>regiment</qex> is gone,<br/
 But perfect shadows in a sunshine day?</q> <rj><qau>Marlowe.</qau></rj></p>
@@ -12061,11 +12061,11 @@ But perfect shadows in a sunshine day?</q> <rj><qau>Marlowe.</qau></rj></p>
 </entry>
 
 <entry main-word="Regimentals" source="1913 Webster">
-<p><hw>Reg`i*men"tals</hw> <pr>(-t<it>a</it>lz)</pr>, <pos>n. pl.</pos> <fld>(Mil.)</fld> <def>The uniform worn by the officers and soldiers of a regiment; military dress; -- formerly used in the singular in the same sense.</def>  <rj><au>Colman.</au></rj></p>
+<p><hw>Reg`i*men"tals</hw> <pr>(-t<ait/lz)</pr>, <pos>n. pl.</pos> <fld>(Mil.)</fld> <def>The uniform worn by the officers and soldiers of a regiment; military dress; -- formerly used in the singular in the same sense.</def>  <rj><au>Colman.</au></rj></p>
 </entry>
 
 <entry main-word="Regiminal" source="1913 Webster">
-<p><hw>Re*gim"i*nal</hw> <pr>(r?*j?m"?*n<it>a</it>l)</pr>, <pos>a.</pos> <def>Of or relating to regimen; <as>as, <ex>regiminal</ex> rules</as>.</def></p>
+<p><hw>Re*gim"i*nal</hw> <pr>(r?*j?m"?*n<ait/l)</pr>, <pos>a.</pos> <def>Of or relating to regimen; <as>as, <ex>regiminal</ex> rules</as>.</def></p>
 </entry>
 
 <entry main-word="Region" source="1913 Webster">
@@ -12091,7 +12091,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regional" source="1913 Webster">
-<p><hw>Re"gion*al</hw> <pr>(-<it>a</it>l)</pr>, <pos>a.</pos> <def>Of or pertaining to a particular region; sectional.</def></p>
+<p><hw>Re"gion*al</hw> <pr>(-<ait/l)</pr>, <pos>a.</pos> <def>Of or pertaining to a particular region; sectional.</def></p>
 </entry>
 
 <entry main-word="Regious" source="1913 Webster">
@@ -12151,7 +12151,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Registrant" source="1913 Webster">
-<p><hw>Reg"is*trant</hw> <pr>(-tr<it>a</it>nt)</pr>, <pos>n.</pos> <ety>[L.  <ets>registrans</ets>, p. pr.]</ety> <def>One who registers; esp., one who , by virtue of securing an official registration, obtains a certain right or title of possession, as to a trade-mark.</def></p>
+<p><hw>Reg"is*trant</hw> <pr>(-tr<ait/nt)</pr>, <pos>n.</pos> <ety>[L.  <ets>registrans</ets>, p. pr.]</ety> <def>One who registers; esp., one who , by virtue of securing an official registration, obtains a certain right or title of possession, as to a trade-mark.</def></p>
 </entry>
 
 <entry main-word="Registrar" source="1913 Webster">
@@ -12199,7 +12199,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reglement" source="1913 Webster">
-<p><hw>Re"gle*ment</hw> <pr>(r?g"'l*m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/glement</ets>, fr. <ets>r<eacute/gler</ets>, L. <ets>regulare</ets>. See <er>Regulate</er>.]</ety> <def>Regulation.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re"gle*ment</hw> <pr>(r?g"'l*m<eit/nt)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/glement</ets>, fr. <ets>r<eacute/gler</ets>, L. <ets>regulare</ets>. See <er>Regulate</er>.]</ety> <def>Regulation.</def> <mark>[Obs.]</mark></p>
 
 <p><q>The reformation and <qex>reglement</qex> of usury.</q> <rj><qau>Bacon.</qau></rj></p>
 </entry>
@@ -12223,15 +12223,15 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regnal" source="1913 Webster">
-<p><hw>Reg"nal</hw> <pr>(r?g"n<it>a</it>l)</pr>, <pos>a.</pos> <ety>[L. <ets>regnum</ets> reign.]</ety> <def>Of or pertaining to the reign of a monarch; <as>as, <ex>regnal</ex> years</as>.</def></p>
+<p><hw>Reg"nal</hw> <pr>(r?g"n<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>regnum</ets> reign.]</ety> <def>Of or pertaining to the reign of a monarch; <as>as, <ex>regnal</ex> years</as>.</def></p>
 </entry>
 
 <entry main-word="Regnancy" source="1913 Webster">
-<p><hw>Reg"nan*cy</hw> <pr>(-n<it>a</it>n*s?)</pr>, <pos>n.</pos> <def>The condition or quality of being regnant; sovereignty; rule.</def>  <rj><au>Coleridge.</au></rj></p>
+<p><hw>Reg"nan*cy</hw> <pr>(-n<ait/n*s?)</pr>, <pos>n.</pos> <def>The condition or quality of being regnant; sovereignty; rule.</def>  <rj><au>Coleridge.</au></rj></p>
 </entry>
 
 <entry main-word="Regnant" source="1913 Webster">
-<p><hw>Reg"nant</hw> <pr>(-n<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>regnans</ets>, <ets>-antis</ets>, p. pr. of <ets>regnare</ets> to reign: cf. F <ets>r<eacute/gnant</ets>. See <er>Reign</er>.]</ety> <sn>1.</sn> <def>Exercising regal authority; reigning; <as>as, a queen <ex>regnant</ex></as>.</def></p>
+<p><hw>Reg"nant</hw> <pr>(-n<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>regnans</ets>, <ets>-antis</ets>, p. pr. of <ets>regnare</ets> to reign: cf. F <ets>r<eacute/gnant</ets>. See <er>Reign</er>.]</ety> <sn>1.</sn> <def>Exercising regal authority; reigning; <as>as, a queen <ex>regnant</ex></as>.</def></p>
 
 <p><sn>2.</sn> <def>Having the chief power; ruling; predominant; prevalent.</def> <ldquo/A traitor to the vices <xex>regnant</xex>.<rdquo/  <rj><au>Swift.</au></rj></p>
 </entry>
@@ -12301,7 +12301,7 @@ Doth rend the <qex>region</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regredience" source="1913 Webster">
-<p><hw>Re*gre"di*ence</hw> <pr>(r?*gr?"d?-<it>e</it>ns)</pr>, <pos>n.</pos> <def>A going back; a retrogression; a return.</def> <mark>[R.]</mark>  <rj><au>Herrick.</au></rj></p>
+<p><hw>Re*gre"di*ence</hw> <pr>(r?*gr?"d?-<eit/ns)</pr>, <pos>n.</pos> <def>A going back; a retrogression; a return.</def> <mark>[R.]</mark>  <rj><au>Herrick.</au></rj></p>
 </entry>
 
 <entry main-word="Regreet" source="1913 Webster">
@@ -12388,7 +12388,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 </entry>
 
 <entry main-word="Reguardant" source="1913 Webster">
-<p><hw>Re*guard"ant</hw> <pr>(r?*g?rd"<it>a</it>nt)</pr>, <pos>a.</pos> <fld>(Her.)</fld> <def>Same as <er>Regardant</er>.</def></p>
+<p><hw>Re*guard"ant</hw> <pr>(r?*g?rd"<ait/nt)</pr>, <pos>a.</pos> <fld>(Her.)</fld> <def>Same as <er>Regardant</er>.</def></p>
 </entry>
 
 <entry main-word="Reguerdon" source="1913 Webster">
@@ -12552,7 +12552,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 </entry>
 
 <entry main-word="Rehearsal" source="1913 Webster">
-<p><hw>Re*hears"al</hw> <pr>(r?*h?rs"<it>a</it>)</pr>, <pos>n.</pos> <def>The act of rehearsing; recital; narration; repetition; specifically, a private recital, performance, or season of practice, in preparation for a public exhibition or exercise.</def>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Re*hears"al</hw> <pr>(r?*h?rs"<ait/)</pr>, <pos>n.</pos> <def>The act of rehearsing; recital; narration; repetition; specifically, a private recital, performance, or season of practice, in preparation for a public exhibition or exercise.</def>  <rj><au>Chaucer.</au></rj></p>
 
 <p><q>In <qex>rehearsal</qex> of our Lord's Prayer.</q> <rj><qau>Hooker.</qau></rj></p>
 
@@ -12640,7 +12640,7 @@ Saw nothing to <qex>regret</qex>, or there to fear.</q> <rj><qau>Pope.</qau></rj
 </entry>
 
 <entry main-word="Reiglement" source="1913 Webster">
-<p><hw>Rei"gle*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[See <er>Reglement</er>.]</ety> <def>Rule; regulation.</def> <mark>[Obs.]</mark>  <rj><au>Bacon. Jer. Taylor.</au></rj></p>
+<p><hw>Rei"gle*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[See <er>Reglement</er>.]</ety> <def>Rule; regulation.</def> <mark>[Obs.]</mark>  <rj><au>Bacon. Jer. Taylor.</au></rj></p>
 </entry>
 
 <entry main-word="Reign" source="1913 Webster">
@@ -12724,7 +12724,7 @@ Of heaven, of ocean, and deep hell beneath.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Reimbursement" source="1913 Webster">
-<p><hw>Re`im*burse"ment</hw> <pr>(-b?rs"m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>rembursement</ets>.]</ety> <def>The act reimbursing.</def>  <rj><au>A. Hamilton.</au></rj></p>
+<p><hw>Re`im*burse"ment</hw> <pr>(-b?rs"m<eit/nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>rembursement</ets>.]</ety> <def>The act reimbursing.</def>  <rj><au>A. Hamilton.</au></rj></p>
 </entry>
 
 <entry main-word="Reimburser" source="1913 Webster">
@@ -12772,7 +12772,7 @@ Of heaven, of ocean, and deep hell beneath.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Reimprisonment" source="1913 Webster">
-<p><hw>Re`im*pris"on*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of reimprisoning, or the state of being reimprisoned.</def></p>
+<p><hw>Re`im*pris"on*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of reimprisoning, or the state of being reimprisoned.</def></p>
 </entry>
 
 <entry main-word="Rein" source="1913 Webster">
@@ -12859,7 +12859,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reinforcement" source="1913 Webster">
-<p><hw>Re`in*force"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>See <er>Reenforcement</er>.</def></p>
+<p><hw>Re`in*force"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>See <er>Reenforcement</er>.</def></p>
 </entry>
 
 <entry main-word="Reinfund" source="1913 Webster">
@@ -12929,7 +12929,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reinstatement" source="1913 Webster">
-<p><hw>Re`in*state"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of reinstating; the state of being reinstated; re<?/stablishment.</def></p>
+<p><hw>Re`in*state"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of reinstating; the state of being reinstated; re<?/stablishment.</def></p>
 </entry>
 
 <entry main-word="Reinstation" source="1913 Webster">
@@ -12941,7 +12941,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reinsurance" source="1913 Webster">
-<p><hw>Re`in*sur"ance</hw> <pr>(-sh?r"<it>a</it>ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Insurance a second time or again; renewed insurance.</def></p>
+<p><hw>Re`in*sur"ance</hw> <pr>(-sh?r"<ait/ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Insurance a second time or again; renewed insurance.</def></p>
 
 <p><sn>2.</sn> <def>A contract by which an insurer is insured wholly or in part against the risk he has incurred in insuring somebody else. See <er>Reassurance</er>.</def></p>
 </entry>
@@ -13003,7 +13003,7 @@ Be <qex>reined</qex> again to temperance.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reinvestment" source="1913 Webster">
-<p><hw>Re`in*vest"ment</hw> <pr>(-v?st"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of investing anew; a second or repeated investment.</def></p>
+<p><hw>Re`in*vest"ment</hw> <pr>(-v?st"m<eit/nt)</pr>, <pos>n.</pos> <def>The act of investing anew; a second or repeated investment.</def></p>
 </entry>
 
 <entry main-word="Reinvigorate" source="1913 Webster">
@@ -13135,7 +13135,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Rejectment" source="1913 Webster">
-<p><hw>Re*ject"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Act of rejecting; matter rejected, or thrown away.</def>  <rj><au>Eaton.</au></rj></p>
+<p><hw>Re*ject"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Act of rejecting; matter rejected, or thrown away.</def>  <rj><au>Eaton.</au></rj></p>
 </entry>
 
 <entry main-word="Rejoice" source="1913 Webster">
@@ -13165,7 +13165,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Rejoicement" source="1913 Webster">
-<p><hw>Re*joice"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Rejoicing.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re*joice"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Rejoicing.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Rejoicer" source="1913 Webster">
@@ -13267,7 +13267,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Rejuvenescence" source="1913 Webster">
-<p><hw>Re*ju`ve*nes"cence</hw> <pr>(-n?s"s<it>e</it>ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A renewing of youth; the state of being or growing young again.</def></p>
+<p><hw>Re*ju`ve*nes"cence</hw> <pr>(-n?s"s<eit/ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>A renewing of youth; the state of being or growing young again.</def></p>
 
 <p><sn>2.</sn> <fld>(Bot.)</fld> <def>A method of cell formation in which the entire protoplasm of an old cell escapes by rupture of the cell wall, and then develops a new cell wall. It is seen sometimes in the formation of zoospores, etc.</def></p>
 </entry>
@@ -13277,7 +13277,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Rejuvenescent" source="1913 Webster">
-<p><hw>Re*ju`ve*nes"cent</hw> <pr>(-s<it>e</it>nt)</pr>, <pos>a.</pos> <def>Becoming, or causing to become, rejuvenated; rejuvenating.</def></p>
+<p><hw>Re*ju`ve*nes"cent</hw> <pr>(-s<eit/nt)</pr>, <pos>a.</pos> <def>Becoming, or causing to become, rejuvenated; rejuvenating.</def></p>
 </entry>
 
 <entry main-word="Rejuvenize" source="1913 Webster">
@@ -13289,7 +13289,7 @@ Than this; which to <qex>reiterate</qex> were sin.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Rekne" source="1913 Webster">
-<p><hw>Rek"ne</hw> <pr>(r?k"n<it>e</it>)</pr>, <pos>v. t.</pos> <def>To reckon.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Rek"ne</hw> <pr>(r?k"n<eit/)</pr>, <pos>v. t.</pos> <def>To reckon.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Relade" source="1913 Webster">
@@ -13418,7 +13418,7 @@ Of father, son, and brother, first were known.</q> <rj><qau>Milton.</qau></rj></
 </entry>
 
 <entry main-word="Relational" source="1913 Webster">
-<p><hw>Re*la"tion*al</hw> <pr>(r?-l?"sh?n-<it>a</it>l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having relation or kindred; related.</def></p>
+<p><hw>Re*la"tion*al</hw> <pr>(r?-l?"sh?n-<ait/l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Having relation or kindred; related.</def></p>
 
 <p><q>We might be tempted to take these two nations for <qex>relational stems</qex>.</q> <rj><qau>Tooke.</qau></rj></p>
 
@@ -13532,7 +13532,7 @@ And governed with a looser rein.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Relaxant" source="1913 Webster">
-<p><hw>Re*lax"ant</hw> <pr>(r?-l?ks"<it>a</it>nt)</pr>, <pos>n.</pos> <ety>[L. <ets>relaxans</ets>, p. pr. of <ets>relaxare</ets>.]</ety> <fld>(Med.)</fld> <def>A medicine that relaxes; a laxative.</def></p>
+<p><hw>Re*lax"ant</hw> <pr>(r?-l?ks"<ait/nt)</pr>, <pos>n.</pos> <ety>[L. <ets>relaxans</ets>, p. pr. of <ets>relaxare</ets>.]</ety> <fld>(Med.)</fld> <def>A medicine that relaxes; a laxative.</def></p>
 </entry>
 
 <entry main-word="Relaxation" source="1913 Webster">
@@ -13624,7 +13624,7 @@ And governed with a looser rein.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Releasement" source="1913 Webster">
-<p><hw>Re*lease"ment</hw> <pr>(r?-l?s"m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of releasing, as from confinement or obligation.</def>  <rj><au>Milton.</au></rj></p>
+<p><hw>Re*lease"ment</hw> <pr>(r?-l?s"m<eit/nt)</pr>, <pos>n.</pos> <def>The act of releasing, as from confinement or obligation.</def>  <rj><au>Milton.</au></rj></p>
 </entry>
 
 <entry main-word="Releaser" source="1913 Webster">
@@ -13709,7 +13709,7 @@ Thus will persist, <qex>relentless</qex> in his ire.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Relevance" source="1913 Webster">
-<p><mhw>{ <hw>Rel"e*vance</hw> <pr>(r?l"?*v<it>a</it>ns)</pr>, <hw>Rel"e*van*cy</hw> <pr>(-v<it>a</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <sn>1.</sn> <def>The quality or state of being relevant; pertinency; applicability.</def></p>
+<p><mhw>{ <hw>Rel"e*vance</hw> <pr>(r?l"?*v<ait/ns)</pr>, <hw>Rel"e*van*cy</hw> <pr>(-v<ait/n*s?)</pr>, }</mhw> <pos>n.</pos> <sn>1.</sn> <def>The quality or state of being relevant; pertinency; applicability.</def></p>
 
 <p><q>Its answer little meaning, little <qex>relevancy</qex> bore.</q> <rj><qau>Poe.</qau></rj></p>
 
@@ -13717,7 +13717,7 @@ Thus will persist, <qex>relentless</qex> in his ire.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Relevant" source="1913 Webster">
-<p><hw>Rel"e*vant</hw> <pr>(-v<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F. <ets>relevant</ets>, p. pr. of <ets>relever</ets> to raise again, to relieve. See <er>Relieve</er>.]</ety> <sn>1.</sn> <def>Relieving; lending aid or support.</def> <mark>[R.]</mark>  <rj><au>Pownall.</au></rj></p>
+<p><hw>Rel"e*vant</hw> <pr>(-v<ait/nt)</pr>, <pos>a.</pos> <ety>[F. <ets>relevant</ets>, p. pr. of <ets>relever</ets> to raise again, to relieve. See <er>Relieve</er>.]</ety> <sn>1.</sn> <def>Relieving; lending aid or support.</def> <mark>[R.]</mark>  <rj><au>Pownall.</au></rj></p>
 
 <p><sn>2.</sn> <def>Bearing upon, or properly applying to, the case in hand; pertinent; applicable.</def></p>
 
@@ -13751,7 +13751,7 @@ Thus will persist, <qex>relentless</qex> in his ire.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Reliance" source="1913 Webster">
-<p><hw>Re*li"ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[From <er>Rely</er>.]</ety> <sn>1.</sn> <def>The act of relying, or the condition or quality of being reliant; dependence; confidence; trust; repose of mind upon what is deemed sufficient support or authority.</def></p>
+<p><hw>Re*li"ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <ety>[From <er>Rely</er>.]</ety> <sn>1.</sn> <def>The act of relying, or the condition or quality of being reliant; dependence; confidence; trust; repose of mind upon what is deemed sufficient support or authority.</def></p>
 
 <p><q>In <qex>reliance</qex> on promises which proved to be of very little value.</q> <rj><qau>Macaulay.</qau></rj></p>
 
@@ -13759,7 +13759,7 @@ Thus will persist, <qex>relentless</qex> in his ire.</q> <rj><qau>Dryden.</qau><
 </entry>
 
 <entry main-word="Reliant" source="1913 Webster">
-<p><hw>Re*li"ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <def>Having, or characterized by, reliance; confident; trusting.</def></p>
+<p><hw>Re*li"ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <def>Having, or characterized by, reliance; confident; trusting.</def></p>
 </entry>
 
 <entry main-word="Relic" source="1913 Webster">
@@ -13872,7 +13872,7 @@ That, where it seizes, all <qex>relief</qex> is vain.</q> <rj><qau>Dryden.</qau>
 </entry>
 
 <entry main-word="Relievement" source="1913 Webster">
-<p><hw>Re*lieve"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of relieving, or the state of being relieved; relief; release.</def> <mark>[Archaic.]</mark></p>
+<p><hw>Re*lieve"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of relieving, or the state of being relieved; relief; release.</def> <mark>[Archaic.]</mark></p>
 </entry>
 
 <entry main-word="Reliever" source="1913 Webster">
@@ -13999,7 +13999,7 @@ The sun, that looks upon his worshiper.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Relinquent" source="1913 Webster">
-<p><hw>Re*lin"quent</hw> <pr>(r?-l?n"kw<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>relinquens</ets>, p. pr. of <ets>relinqquere</ets>. See <er>Relinquish</er>.]</ety> <def>Relinquishing.</def> <mark>[R.]</mark></p>
+<p><hw>Re*lin"quent</hw> <pr>(r?-l?n"kw<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>relinquens</ets>, p. pr. of <ets>relinqquere</ets>. See <er>Relinquish</er>.]</ety> <def>Relinquishing.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Relinquent" source="1913 Webster">
@@ -14025,7 +14025,7 @@ The sun, that looks upon his worshiper.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Relinquishment" source="1913 Webster">
-<p><hw>Re*lin"quish*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of relinquishing.</def></p>
+<p><hw>Re*lin"quish*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of relinquishing.</def></p>
 </entry>
 
 <entry main-word="Reliquary" source="1913 Webster">
@@ -14144,7 +14144,7 @@ Life grows insipid, and has lost its <qex>relish</qex>.</q> <rj><qau>Addison.</q
 </entry>
 
 <entry main-word="Relucent" source="1913 Webster">
-<p><hw>Re*lu"cent</hw> <pr>(r?-l?"s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>relucens</ets>, p. pr. <ets>relucere</ets>. See <er>Lucent</er>.]</ety> <def>Reflecting light; shining; glittering; glistening; bright; luminous; splendid.</def></p>
+<p><hw>Re*lu"cent</hw> <pr>(r?-l?"s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>relucens</ets>, p. pr. <ets>relucere</ets>. See <er>Lucent</er>.]</ety> <def>Reflecting light; shining; glittering; glistening; bright; luminous; splendid.</def></p>
 
 <p><q>Gorgeous banners to the sun expand<br/
 Their streaming volumes of <qex>relucent</qex> gold.</q> <rj><qau>Glover.</qau></rj></p>
@@ -14157,7 +14157,7 @@ Their streaming volumes of <qex>relucent</qex> gold.</q> <rj><qau>Glover.</qau><
 </entry>
 
 <entry main-word="Reluctance" source="1913 Webster">
-<p><mhw>{ <hw>Re*luc"tance</hw> <pr>(r?-l?k"t<it>a</it>ns)</pr>, <hw>Re*luc"tan*cy</hw> <pr>(-t<it>a</it>n-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[See <er>Reluctant</er>.]</ety> <sn>1.</sn> <def>The state or quality of being reluctant; repugnance; aversion of mind; unwillingness; -- often followed by an infinitive, or by <xex>to</xex> and a noun, formerly sometimes by <xex>against</xex>.</def> <ldquo/Tempering the severity of his looks with a <xex>reluctance</xex> to the action.<rdquo/  <rj><au>Dryden.</au></rj><br/
+<p><mhw>{ <hw>Re*luc"tance</hw> <pr>(r?-l?k"t<ait/ns)</pr>, <hw>Re*luc"tan*cy</hw> <pr>(-t<ait/n-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[See <er>Reluctant</er>.]</ety> <sn>1.</sn> <def>The state or quality of being reluctant; repugnance; aversion of mind; unwillingness; -- often followed by an infinitive, or by <xex>to</xex> and a noun, formerly sometimes by <xex>against</xex>.</def> <ldquo/Tempering the severity of his looks with a <xex>reluctance</xex> to the action.<rdquo/  <rj><au>Dryden.</au></rj><br/
 <syn><b>Syn.</b> -- See <er>Dislike</er>.</syn></p>
 
 <p><q>He had some <qex>reluctance</qex> to obey the summons.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
@@ -14169,7 +14169,7 @@ Her helpless innocence I doom to die.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Reluctant" source="1913 Webster">
-<p><hw>Re*luc"tant</hw> <pr>(-t<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reluctans</ets>, <ets>-antis</ets>, p. pr. of <ets>reluctari</ets>. See <er>Reluct</er>.]</ety> <sn>1.</sn> <def>Striving against; opposed in desire; unwilling; disinclined; loth.</def></p>
+<p><hw>Re*luc"tant</hw> <pr>(-t<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reluctans</ets>, <ets>-antis</ets>, p. pr. of <ets>reluctari</ets>. See <er>Reluct</er>.]</ety> <sn>1.</sn> <def>Striving against; opposed in desire; unwilling; disinclined; loth.</def></p>
 
 <p><q><qex>Reluctant</qex>, but in vain.</q> <rj><qau>Milton.</qau></rj></p>
 
@@ -14310,17 +14310,17 @@ After a voyage.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remandment" source="1913 Webster">
-<p><hw>Re*mand"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>A remand.</def></p>
+<p><hw>Re*mand"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>A remand.</def></p>
 </entry>
 
 <entry main-word="Remanence" source="1913 Webster">
-<p><mhw>{ <hw>Rem"a*nence</hw> <pr>(r?m"?*n<it>e</it>ns)</pr>, <hw>Rem"a*nen*cy</hw> <pr>(-n<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. OF. <ets>remanence</ets>, LL. <ets>remanentia</ets>, fr. L. <ets>remanens</ets>. See <er>Remanent</er>, <pos>a.</pos>]</ety> <def>The state of being remanent; continuance; permanence.</def> <mark>[R.]</mark>  <rj><au>Jer. Taylor.</au></rj></p>
+<p><mhw>{ <hw>Rem"a*nence</hw> <pr>(r?m"?*n<eit/ns)</pr>, <hw>Rem"a*nen*cy</hw> <pr>(-n<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. OF. <ets>remanence</ets>, LL. <ets>remanentia</ets>, fr. L. <ets>remanens</ets>. See <er>Remanent</er>, <pos>a.</pos>]</ety> <def>The state of being remanent; continuance; permanence.</def> <mark>[R.]</mark>  <rj><au>Jer. Taylor.</au></rj></p>
 
 <p><q>The <qex>remanence</qex> of the will in the fallen spirit.</q> <rj><qau>Coleridge.</qau></rj></p>
 </entry>
 
 <entry main-word="Remanent" source="1913 Webster">
-<p><hw>Rem"a*nent</hw> <pr>(-n<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[See <er>Remanent</er>, <pos>a.</pos>]</ety> <def>That which remains; a remnant; a residue.</def></p>
+<p><hw>Rem"a*nent</hw> <pr>(-n<eit/nt)</pr>, <pos>n.</pos> <ety>[See <er>Remanent</er>, <pos>a.</pos>]</ety> <def>That which remains; a remnant; a residue.</def></p>
 </entry>
 
 <entry main-word="Remanent" source="1913 Webster">
@@ -14431,7 +14431,7 @@ Beneath the visiting moon.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remeant" source="1913 Webster">
-<p><hw>Re"me*ant</hw> <pr>(r<?/"m<?/*<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remeans</ets>, <ets>-antis</ets>, p. pr. of <ets>remeare</ets> to go or come back.]</ety> <def>Coming back; returning.</def> <mark>[R.]</mark> <ldquo/Like the <xex>remeant</xex> sun.<rdquo/  <rj><au>C. Kingsley.</au></rj></p>
+<p><hw>Re"me*ant</hw> <pr>(r<?/"m<?/*<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remeans</ets>, <ets>-antis</ets>, p. pr. of <ets>remeare</ets> to go or come back.]</ety> <def>Coming back; returning.</def> <mark>[R.]</mark> <ldquo/Like the <xex>remeant</xex> sun.<rdquo/  <rj><au>C. Kingsley.</au></rj></p>
 </entry>
 
 <entry main-word="Remeasure" source="1913 Webster">
@@ -14452,7 +14452,7 @@ The way they came, their steps <qex>remeasured</qex> right.</q> <rj><qau>Fairfax
 </entry>
 
 <entry main-word="Remedial" source="1913 Webster">
-<p><hw>Re*me"di*al</hw> <pr>(-<it>a</it>l)</pr>, <pos>a.</pos> <ety>[L. <ets>remedialis</ets>.]</ety> <def>Affording a remedy; intended for a remedy, or for the removal or abatement of an evil; <as>as, <ex>remedial</ex> treatment</as>.</def></p>
+<p><hw>Re*me"di*al</hw> <pr>(-<ait/l)</pr>, <pos>a.</pos> <ety>[L. <ets>remedialis</ets>.]</ety> <def>Affording a remedy; intended for a remedy, or for the removal or abatement of an evil; <as>as, <ex>remedial</ex> treatment</as>.</def></p>
 
 <p><q>Statutes are declaratory or <qex>remedial</qex>.</q> <rj><qau>Blackstone.</qau></rj></p>
 
@@ -14552,7 +14552,7 @@ And something over to <qex>remember</qex> me by.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="Remembrance" source="1913 Webster">
-<p><hw>Re*mem"brance</hw> <pr>(-br<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[OF. <ets>remembrance</ets>.]</ety></p>
+<p><hw>Re*mem"brance</hw> <pr>(-br<ait/ns)</pr>, <pos>n.</pos> <ety>[OF. <ets>remembrance</ets>.]</ety></p>
 
 <p><sn>1.</sn> <def>The act of remembering; a holding in mind, or bringing to mind; recollection.</def></p>
 
@@ -14584,7 +14584,7 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remembrancer" source="1913 Webster">
-<p><hw>Re*mem"bran*cer</hw> <pr>(-br<it>a</it>n-s?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, serves to bring to, or keep in, mind; a memento; a memorial; a reminder.</def></p>
+<p><hw>Re*mem"bran*cer</hw> <pr>(-br<ait/n-s?r)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who, or that which, serves to bring to, or keep in, mind; a memento; a memorial; a reminder.</def></p>
 
 <p><q>Premature consiolation is but the <qex>remembrancer</qex> of sorrow.</q> <rj><qau>Goldsmith.</qau></rj></p>
 
@@ -14606,7 +14606,7 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remenant" source="1913 Webster">
-<p><hw>Rem"e*nant</hw> <pr>(r?m"?-n<it>a</it>nt)</pr>, <pos>n.</pos> <def>A remnant.</def> <mark>[Obs.]</mark></p>
+<p><hw>Rem"e*nant</hw> <pr>(r?m"?-n<ait/nt)</pr>, <pos>n.</pos> <def>A remnant.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Remercie" source="1913 Webster">
@@ -14654,7 +14654,7 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Reminiscence" source="1913 Webster">
-<p><hw>Rem`i*nis"cence</hw> <pr>(r?m`?-n?s"s<it>e</it>ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/miniscence</ets>, L. <ets>reminiscentia</ets>.]</ety> <sn>1.</sn> <def>The act or power of recalling past experience; the state of being reminiscent; remembrance; memory.</def></p>
+<p><hw>Rem`i*nis"cence</hw> <pr>(r?m`?-n?s"s<eit/ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/miniscence</ets>, L. <ets>reminiscentia</ets>.]</ety> <sn>1.</sn> <def>The act or power of recalling past experience; the state of being reminiscent; remembrance; memory.</def></p>
 
 <p><q>The other part of memory, called <qex>reminiscence</qex>, which is the retrieving of a thing at present forgot, or but confusedly remembered.</q> <rj><qau>South.</qau></rj></p>
 
@@ -14666,21 +14666,21 @@ Ere my <qex>remembrance</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Reminiscency" source="1913 Webster">
-<p><hw>Rem`i*nis"cen*cy</hw> <pr>(-s<it>e</it>n-s?)</pr>, <pos>n.</pos> <def>Reminiscence.</def> <mark>[Obs.]</mark></p>
+<p><hw>Rem`i*nis"cen*cy</hw> <pr>(-s<eit/n-s?)</pr>, <pos>n.</pos> <def>Reminiscence.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Reminiscent" source="1913 Webster">
-<p><hw>Rem`i*nis"cent</hw> <pr>(-s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reminiscens</ets>, <ets>-entis</ets>, p. pr. of <ets>reminisci</ets> to recall to mind, to recollect; pref. <ets>re-</ets> re + a word akin to <ets>mens</ets> mind, <ets>memini</ets> I remember. See <er>Mind</er>.]</ety> <def>Recalling to mind, or capable of recalling to mind; having remembrance; reminding one of something.</def></p>
+<p><hw>Rem`i*nis"cent</hw> <pr>(-s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reminiscens</ets>, <ets>-entis</ets>, p. pr. of <ets>reminisci</ets> to recall to mind, to recollect; pref. <ets>re-</ets> re + a word akin to <ets>mens</ets> mind, <ets>memini</ets> I remember. See <er>Mind</er>.]</ety> <def>Recalling to mind, or capable of recalling to mind; having remembrance; reminding one of something.</def></p>
 
 <p><q>Some other of existence of which we have been previously conscious, and are now <qex>reminiscent</qex>.</q> <rj><qau>Sir W. Hamilton.</qau></rj></p>
 </entry>
 
 <entry main-word="Reminiscent" source="1913 Webster">
-<p><hw>Rem`i*nis"cent</hw> <pr>(r?m`?-n?s"s<it>e</it>nt)</pr>, <pos>n.</pos> <def>One who is addicted to indulging, narrating, or recording reminiscences.</def></p>
+<p><hw>Rem`i*nis"cent</hw> <pr>(r?m`?-n?s"s<eit/nt)</pr>, <pos>n.</pos> <def>One who is addicted to indulging, narrating, or recording reminiscences.</def></p>
 </entry>
 
 <entry main-word="Reminiscential" source="1913 Webster">
-<p><hw>Rem`i*nis*cen"tial</hw> <pr>(-n?s-s?n"sh<it>a</it>l)</pr>, <pos>a.</pos> <def>Of or pertaining to reminiscence, or remembrance.</def>  <rj><au>Sir T. Browne.</au></rj></p>
+<p><hw>Rem`i*nis*cen"tial</hw> <pr>(-n?s-s?n"sh<ait/l)</pr>, <pos>a.</pos> <def>Of or pertaining to reminiscence, or remembrance.</def>  <rj><au>Sir T. Browne.</au></rj></p>
 </entry>
 
 <entry main-word="Remiped" source="1913 Webster">
@@ -14805,17 +14805,17 @@ Will gain thee no <qex>remission</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remitment" source="1913 Webster">
-<p><hw>Re*mit"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of remitting, or the state of being remitted; remission.</def></p>
+<p><hw>Re*mit"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of remitting, or the state of being remitted; remission.</def></p>
 
 <p><q>Disavowing the <qex>remitment</qex> of Claudius.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remittal" source="1913 Webster">
-<p><hw>Re*mit"tal</hw> <pr>(-t<it>a</it>l)</pr>, <pos>n.</pos> <def>A remitting; a giving up; surrender; <as>as, the <ex>remittal</ex> of the first fruits</as>.</def>  <rj><au>Swift.</au></rj></p>
+<p><hw>Re*mit"tal</hw> <pr>(-t<ait/l)</pr>, <pos>n.</pos> <def>A remitting; a giving up; surrender; <as>as, the <ex>remittal</ex> of the first fruits</as>.</def>  <rj><au>Swift.</au></rj></p>
 </entry>
 
 <entry main-word="Remittance" source="1913 Webster">
-<p><hw>Re*mit"tance</hw> <pr>(r?-m?t"t<it>a</it>ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of transmitting money, bills, or the like, esp. to a distant place, as in satisfaction of a demand, or in discharge of an obligation.</def></p>
+<p><hw>Re*mit"tance</hw> <pr>(r?-m?t"t<ait/ns)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of transmitting money, bills, or the like, esp. to a distant place, as in satisfaction of a demand, or in discharge of an obligation.</def></p>
 
 <p><sn>2.</sn> <def>The sum or thing remitted.</def>  <rj><au>Addison.</au></rj></p>
 </entry>
@@ -14825,7 +14825,7 @@ Will gain thee no <qex>remission</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remittent" source="1913 Webster">
-<p><hw>Re*mit"tent</hw> <pr>(r?-m?t"t<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remittens</ets>, p. pr. : cf. F. <ets>r<eacute/mittent</ets>.]</ety> <def>Remitting; characterized by remission; having remissions.</def></p>
+<p><hw>Re*mit"tent</hw> <pr>(r?-m?t"t<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remittens</ets>, p. pr. : cf. F. <ets>r<eacute/mittent</ets>.]</ety> <def>Remitting; characterized by remission; having remissions.</def></p>
 
 <p><cs><col>Remittent fever</col> <fld>(Med.)</fld>, <cd>a fever in which the symptoms temporarily abate at regular intervals, but do not wholly cease. See <altname>Malarial fever</altname>, under <er>Malarial</er>.</cd></cs></p>
 </entry>
@@ -14849,7 +14849,7 @@ Will gain thee no <qex>remission</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Remnant" source="1913 Webster">
-<p><hw>Rem"nant</hw> <pr>(r?m"n<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[OF. <ets>remanant</ets>, p. pr. of <ets>remanoir</ets>, <ets>remaindre</ets>. See <er>Remanent</er>, <er>Remain</er>.]</ety> <def>Remaining; yet left.</def> <mark>[R.]</mark> <ldquo/Because of the <xex>remnant</xex> dregs of his disease.<rdquo/  <rj><au>Fuller.</au></rj></p>
+<p><hw>Rem"nant</hw> <pr>(r?m"n<ait/nt)</pr>, <pos>a.</pos> <ety>[OF. <ets>remanant</ets>, p. pr. of <ets>remanoir</ets>, <ets>remaindre</ets>. See <er>Remanent</er>, <er>Remain</er>.]</ety> <def>Remaining; yet left.</def> <mark>[R.]</mark> <ldquo/Because of the <xex>remnant</xex> dregs of his disease.<rdquo/  <rj><au>Fuller.</au></rj></p>
 
 <p><q>And quiet dedicate her <qex>remnant</qex> life<br/
 To the just duties of an humble wife.</q> <rj><qau>Prior.</qau></rj></p>
@@ -14899,7 +14899,7 @@ To tire your patience.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Remollient" source="1913 Webster">
-<p><hw>Re*mol"lient</hw> <pr>(r?-m?l"y<it>e</it>nt <or/  -l?-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remolliens</ets>, p. pr. of <ets>remollire</ets> to mollify: cf. F. <ets>r<eacute/mollient</ets>. See <er>Mollient</er>.]</ety> <def>Mollifying; softening.</def> <mark>[R.]</mark></p>
+<p><hw>Re*mol"lient</hw> <pr>(r?-m?l"y<eit/nt <or/  -l?-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remolliens</ets>, p. pr. of <ets>remollire</ets> to mollify: cf. F. <ets>r<eacute/mollient</ets>. See <er>Mollient</er>.]</ety> <def>Mollifying; softening.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Remonetization" source="1913 Webster">
@@ -14911,7 +14911,7 @@ To tire your patience.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Remonstrance" source="1913 Webster">
-<p><hw>Re*mon"strance</hw> <pr>(-m?n"str<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>remonstrance</ets>, F. <ets>remonstrance</ets>. See <er>Remonstrate</er>.]</ety> <sn>1.</sn> <def>The act of remonstrating</def>; as: <sd>(a)</sd> <def>A pointing out; manifestation; proof; demonstration.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re*mon"strance</hw> <pr>(-m?n"str<ait/ns)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>remonstrance</ets>, F. <ets>remonstrance</ets>. See <er>Remonstrate</er>.]</ety> <sn>1.</sn> <def>The act of remonstrating</def>; as: <sd>(a)</sd> <def>A pointing out; manifestation; proof; demonstration.</def> <mark>[Obs.]</mark></p>
 
 <p><q>You may marvel why I . . . would not rather<br/
 Make rash <qex>remonstrance</qex> of my hidden power<br/
@@ -14923,7 +14923,7 @@ Than let him be so lost.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remonstrant" source="1913 Webster">
-<p><hw>Re*mon"strant</hw> <pr>(-str<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[LL. <ets>remonstranc</ets>, <ets>-antis</ets>, p. pr. of <ets>remonstrare</ets>: cf. OF. <ets>remonstrant</ets>, F. <ets>remontrant</ets>.]</ety> <def>Inclined or tending to remonstrate; expostulatory; urging reasons in opposition to something.</def></p>
+<p><hw>Re*mon"strant</hw> <pr>(-str<ait/nt)</pr>, <pos>a.</pos> <ety>[LL. <ets>remonstranc</ets>, <ets>-antis</ets>, p. pr. of <ets>remonstrare</ets>: cf. OF. <ets>remonstrant</ets>, F. <ets>remontrant</ets>.]</ety> <def>Inclined or tending to remonstrate; expostulatory; urging reasons in opposition to something.</def></p>
 </entry>
 
 <entry main-word="Remonstrant" source="1913 Webster">
@@ -14961,11 +14961,11 @@ Than let him be so lost.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remontant" source="1913 Webster">
-<p><hw>Re*mon"tant</hw> <pr>(-t<it>a</it>nt)</pr>, <pos>a.</pos><ety>[F.]</ety> <fld>(Hort.)</fld> <def>Rising again; -- applied to a class of roses which bloom more than once in a season; the hybrid perpetual roses, of which the Jacqueminot is a well-known example.</def></p>
+<p><hw>Re*mon"tant</hw> <pr>(-t<ait/nt)</pr>, <pos>a.</pos><ety>[F.]</ety> <fld>(Hort.)</fld> <def>Rising again; -- applied to a class of roses which bloom more than once in a season; the hybrid perpetual roses, of which the Jacqueminot is a well-known example.</def></p>
 </entry>
 
 <entry main-word="Remontoir" source="1913 Webster">
-<p><par/<hw>Re*mon`toir"</hw> <pr>(r<it>e</it>-m<er>?n</er>"tw?r"; E. r?-m?n"tw?r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Horology)</fld> <def>See under <er>Escapement</er>.</def></p>
+<p><par/<hw>Re*mon`toir"</hw> <pr>(r<eit/-m<er>?n</er>"tw?r"; E. r?-m?n"tw?r)</pr>, <pos>n.</pos> <ety>[F.]</ety> <fld>(Horology)</fld> <def>See under <er>Escapement</er>.</def></p>
 </entry>
 
 <entry main-word="Remora" source="1913 Webster">
@@ -14993,7 +14993,7 @@ Than let him be so lost.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remordency" source="1913 Webster">
-<p><hw>Re*mord"en*cy</hw> <pr>(-<it>e</it>n*s?)</pr>, <pos>n.</pos> <def>Remorse; compunction; compassion.</def> <mark>[Obs.]</mark>  <rj><au>Killingbeck.</au></rj></p>
+<p><hw>Re*mord"en*cy</hw> <pr>(-<eit/n*s?)</pr>, <pos>n.</pos> <def>Remorse; compunction; compassion.</def> <mark>[Obs.]</mark>  <rj><au>Killingbeck.</au></rj></p>
 </entry>
 
 <entry main-word="Remorse" source="1913 Webster">
@@ -15076,7 +15076,7 @@ Is practice only.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Removal" source="1913 Webster">
-<p><hw>Re*mov"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <def>The act of removing, or the state of being removed.</def></p>
+<p><hw>Re*mov"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <def>The act of removing, or the state of being removed.</def></p>
 </entry>
 
 <entry main-word="Remove" source="1913 Webster">
@@ -15149,7 +15149,7 @@ I can not taint with fear.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Remugient" source="1913 Webster">
-<p><hw>Re*mu"gi*ent</hw> <pr>(r?-m?"j?-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remugiens</ets>, p. pr. of <ets>remugire</ets>. See <er>Mugient</er>.]</ety> <def>Rebellowing.</def>  <rj><au>Dr. H. More.</au></rj></p>
+<p><hw>Re*mu"gi*ent</hw> <pr>(r?-m?"j?-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>remugiens</ets>, p. pr. of <ets>remugire</ets>. See <er>Mugient</er>.]</ety> <def>Rebellowing.</def>  <rj><au>Dr. H. More.</au></rj></p>
 </entry>
 
 <entry main-word="Remunerable" source="1913 Webster">
@@ -15204,7 +15204,7 @@ Her fate <qex>remurmur</qex> to the silver flood.</q> <rj><qau>Pope.</qau></rj><
 </entry>
 
 <entry main-word="Renaissant" source="1913 Webster">
-<p><hw>Re*nais"sant</hw> <pr>(r?-n?s"s<it>a</it>nt)</pr>, <pos>a.</pos> <def>Of or pertaining to the Renaissance.</def></p>
+<p><hw>Re*nais"sant</hw> <pr>(r?-n?s"s<ait/nt)</pr>, <pos>a.</pos> <def>Of or pertaining to the Renaissance.</def></p>
 </entry>
 
 <entry main-word="Renal" source="1913 Webster">
@@ -15218,7 +15218,7 @@ Her fate <qex>remurmur</qex> to the silver flood.</q> <rj><qau>Pope.</qau></rj><
 </entry>
 
 <entry main-word="Renal-portal" source="1913 Webster">
-<p><hw>Re"nal-por`tal</hw> <pr>(r?"n<it>a</it>l-p?r"t<it>a</it>l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Both renal and portal. See <er>Portal</er>.</def></p>
+<p><hw>Re"nal-por`tal</hw> <pr>(r?"n<ait/l-p?r"t<ait/l)</pr>, <pos>a.</pos> <fld>(Anat.)</fld> <def>Both renal and portal. See <er>Portal</er>.</def></p>
 </entry>
 
 <entry main-word="Rename" source="1913 Webster">
@@ -15234,7 +15234,7 @@ Her fate <qex>remurmur</qex> to the silver flood.</q> <rj><qau>Pope.</qau></rj><
 </entry>
 
 <entry main-word="Renascence" source="1913 Webster">
-<p><hw>Re*nas"cence</hw> <pr>(r?-n?s"s<it>e</it>ns)</pr>, <pos>n.</pos> <ety>[See <er>Renascent</er>, and cf. <er>Renaissance</er>.]</ety> <sn>1.</sn> <def>The state of being renascent.</def></p>
+<p><hw>Re*nas"cence</hw> <pr>(r?-n?s"s<eit/ns)</pr>, <pos>n.</pos> <ety>[See <er>Renascent</er>, and cf. <er>Renaissance</er>.]</ety> <sn>1.</sn> <def>The state of being renascent.</def></p>
 
 <p><q>Read the Ph<oe/nix, and see how the single image of <qex>renascence</qex> is varied.</q> <rj><qau>Coleridge.</qau></rj></p>
 
@@ -15244,11 +15244,11 @@ Her fate <qex>remurmur</qex> to the silver flood.</q> <rj><qau>Pope.</qau></rj><
 </entry>
 
 <entry main-word="Renascency" source="1913 Webster">
-<p><hw>Re*nas"cen*cy</hw> <pr>(-s<it>e</it>n-s?)</pr>, <pos>n.</pos> <def>State of being renascent.</def></p>
+<p><hw>Re*nas"cen*cy</hw> <pr>(-s<eit/n-s?)</pr>, <pos>n.</pos> <def>State of being renascent.</def></p>
 </entry>
 
 <entry main-word="Renascent" source="1913 Webster">
-<p><hw>Re*nas"cent</hw> <pr>(-s<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>renascens</ets>, p. pr. of <ets>renasci</ets> to be born again; pref. <ets>re-</ets> re- + <ets>nasci</ets> to be born. See <er>Nascent</er>.]</ety> <sn>1.</sn> <def>Springing or rising again into being; being born again, or reproduced.</def></p>
+<p><hw>Re*nas"cent</hw> <pr>(-s<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>renascens</ets>, p. pr. of <ets>renasci</ets> to be born again; pref. <ets>re-</ets> re- + <ets>nasci</ets> to be born. See <er>Nascent</er>.]</ety> <sn>1.</sn> <def>Springing or rising again into being; being born again, or reproduced.</def></p>
 
 <p><sn>2.</sn> <def>See <er>Renaissant</er>.</def></p>
 </entry>
@@ -15503,7 +15503,7 @@ That did <qex>renew</qex> old Aeson.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Renewal" source="1913 Webster">
-<p><hw>Re*new"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <def>The act of renewing, or the state of being renewed; <as>as, the <ex>renewal</ex> of a treaty</as>.</def></p>
+<p><hw>Re*new"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <def>The act of renewing, or the state of being renewed; <as>as, the <ex>renewal</ex> of a treaty</as>.</def></p>
 </entry>
 
 <entry main-word="Renewedly" source="1913 Webster">
@@ -15539,19 +15539,19 @@ That did <qex>renew</qex> old Aeson.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Renitence" source="1913 Webster">
-<p><mhw>{ <hw>Re*ni"tence</hw> <pr>(r?-n?"t<it>e</it>ns)</pr>, <hw>Re*ni"ten*cy</hw> <pr>(-t<it>e</it>-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/nitence</ets>.]</ety> <def>The state or quality of being renitent; resistance; reluctance.</def>  <rj><au>Sterne.</au></rj></p>
+<p><mhw>{ <hw>Re*ni"tence</hw> <pr>(r?-n?"t<eit/ns)</pr>, <hw>Re*ni"ten*cy</hw> <pr>(-t<eit/-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/nitence</ets>.]</ety> <def>The state or quality of being renitent; resistance; reluctance.</def>  <rj><au>Sterne.</au></rj></p>
 
 <p><q>We find a <qex>renitency</qex> in ourselves to ascribe life and irritability to the cold and motionless fibers of plants.</q> <rj><qau>E. Darwin.</qau></rj></p>
 </entry>
 
 <entry main-word="Renitent" source="1913 Webster">
-<p><hw>Re*ni"tent</hw> <pr>(-t<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>renitens</ets>, <ets>-entis</ets>, p. pr. of <ets>renit</ets> to strive or struggle against, resist; pref. <ets>re-</ets> re- + <ets>niti</ets> to struggle or strive: cf. F. <ets>r<eacute/nitent</ets>.]</ety> <sn>1.</sn> <def>Resisting pressure or the effect of it; acting against impulse by elastic force.</def> <ldquo/[Muscles] soft and yet <xex>renitent</xex>.<rdquo/  <rj><au>Ray.</au></rj></p>
+<p><hw>Re*ni"tent</hw> <pr>(-t<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>renitens</ets>, <ets>-entis</ets>, p. pr. of <ets>renit</ets> to strive or struggle against, resist; pref. <ets>re-</ets> re- + <ets>niti</ets> to struggle or strive: cf. F. <ets>r<eacute/nitent</ets>.]</ety> <sn>1.</sn> <def>Resisting pressure or the effect of it; acting against impulse by elastic force.</def> <ldquo/[Muscles] soft and yet <xex>renitent</xex>.<rdquo/  <rj><au>Ray.</au></rj></p>
 
 <p><sn>2.</sn> <def>Persistently opposed.</def></p>
 </entry>
 
 <entry main-word="Renne" source="1913 Webster">
-<p><hw>Ren"ne</hw> <pr>(r?n"n<it>e</it>)</pr>, <pos>v. t.</pos> <def>To plunder; -- only in the phrase <ldquo/to rape and <xex>renne</xex>.<rdquo/ See under <er>Rap</er>, <pos>v. t.</pos>, to snatch.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Ren"ne</hw> <pr>(r?n"n<eit/)</pr>, <pos>v. t.</pos> <def>To plunder; -- only in the phrase <ldquo/to rape and <xex>renne</xex>.<rdquo/ See under <er>Rap</er>, <pos>v. t.</pos>, to snatch.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Renne" source="1913 Webster">
@@ -15636,7 +15636,7 @@ By one rebellious act <qex>renounces</qex> to my blood.</q> <rj><qau>Dryden.</qa
 </entry>
 
 <entry main-word="Renouncement" source="1913 Webster">
-<p><hw>Re*nounce"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>renoncement</ets>.]</ety> <def>The act of disclaiming or rejecting; renunciation.</def>  <rj><au>Shak.</au></rj></p>
+<p><hw>Re*nounce"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>renoncement</ets>.]</ety> <def>The act of disclaiming or rejecting; renunciation.</def>  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Renouncer" source="1913 Webster">
@@ -15661,11 +15661,11 @@ Of winter.</q> <rj><qau>Thomson.</qau></rj></p>
 </entry>
 
 <entry main-word="Renovel" source="1913 Webster">
-<p><hw>Re*nov"el</hw> <pr>(r?-n?v"<it>e</it>l)</pr>, <pos>v. t.</pos> <ety>[F. <ets>renouveler</ets> to renew.]</ety> <def>To renew; to renovate.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Re*nov"el</hw> <pr>(r?-n?v"<eit/l)</pr>, <pos>v. t.</pos> <ety>[F. <ets>renouveler</ets> to renew.]</ety> <def>To renew; to renovate.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Renovelance" source="1913 Webster">
-<p><hw>Re*nov"el*ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <def>Renewal.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Re*nov"el*ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <def>Renewal.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Renowme" source="1913 Webster">
@@ -15723,7 +15723,7 @@ Of whom so often I have heard <qex>renown</qex>.</q> <rj><qau>Shak.</qau></rj></
 </entry>
 
 <entry main-word="Rensselaerite" source="1913 Webster">
-<p><hw>Rens"se*laer*ite</hw> <pr>(r?ns"s<it>e</it>-l?r-?t)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>A soft, compact variety of talc,, being an altered pyroxene. It is often worked in a lathe into inkstands and other articles.</def></p>
+<p><hw>Rens"se*laer*ite</hw> <pr>(r?ns"s<eit/-l?r-?t)</pr>, <pos>n.</pos> <fld>(Min.)</fld> <def>A soft, compact variety of talc,, being an altered pyroxene. It is often worked in a lathe into inkstands and other articles.</def></p>
 </entry>
 
 <entry main-word="Rent" source="1913 Webster">
@@ -15789,7 +15789,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Rental" source="1913 Webster">
-<p><hw>Rent"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <ety>[LL. <ets>rentale</ets>, fr. <ets>renta</ets>. See <er>Rent</er> income.]</ety> <sn>1.</sn> <def>A schedule, account, or list of rents, with the names of the tenants, etc.; a rent roll.</def></p>
+<p><hw>Rent"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <ety>[LL. <ets>rentale</ets>, fr. <ets>renta</ets>. See <er>Rent</er> income.]</ety> <sn>1.</sn> <def>A schedule, account, or list of rents, with the names of the tenants, etc.; a rent roll.</def></p>
 
 <p><sn>2.</sn> <def>A sum total of rents; <as>as, an estate that yields a <ex>rental</ex> of ten thousand dollars a year</as>.</def></p>
 </entry>
@@ -15843,7 +15843,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Renversement" source="1913 Webster">
-<p><hw>Ren*verse"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A reversing.</def> <mark>[Obs.]</mark></p>
+<p><hw>Ren*verse"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[F.]</ety> <def>A reversing.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Renvoy" source="1913 Webster">
@@ -15891,7 +15891,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Reorganization" source="1913 Webster">
-<p><hw>Re*or`gan*i*za"tion</hw> <pr>(-g<it>a</it>n-?-z?"sh?n)</pr>, <pos>n.</pos> <def>The act of reorganizing; a reorganized existence; <as>as, <ex>reorganization</ex> of the troops</as>.</def></p>
+<p><hw>Re*or`gan*i*za"tion</hw> <pr>(-g<ait/n-?-z?"sh?n)</pr>, <pos>n.</pos> <def>The act of reorganizing; a reorganized existence; <as>as, <ex>reorganization</ex> of the troops</as>.</def></p>
 </entry>
 
 <entry main-word="re-organize" source="1913 Webster;;WordNet 1.5">
@@ -15900,7 +15900,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Reorient" source="1913 Webster">
-<p><hw>Re*o"ri*ent</hw> <pr>(r?-?"r?-<it>e</it>nt)</pr>, <pos>a.</pos> <def>Rising again.</def> <mark>[R.]</mark></p>
+<p><hw>Re*o"ri*ent</hw> <pr>(r?-?"r?-<eit/nt)</pr>, <pos>a.</pos> <def>Rising again.</def> <mark>[R.]</mark></p>
 
 <p><q>The life <qex>reorient</qex> out of dust.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
@@ -15938,7 +15938,7 @@ And liv'd, just as you see I do.</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Repaganize" source="1913 Webster">
-<p><hw>Re*pa"gan*ize</hw> <pr>(r?-p?"g<it>a</it>n-?z)</pr>, <pos>v. t.</pos> <def>To paganize anew; to bring back to paganism.</def></p>
+<p><hw>Re*pa"gan*ize</hw> <pr>(r?-p?"g<ait/n-?z)</pr>, <pos>v. t.</pos> <def>To paganize anew; to bring back to paganism.</def></p>
 </entry>
 
 <entry main-word="Repaid" source="1913 Webster">
@@ -16078,7 +16078,7 @@ Hear but the youngster's <qex>repartee</qex>.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Repassant" source="1913 Webster">
-<p><hw>Re*pas"sant</hw> <pr>(r?-p?s"s<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>repassant</ets>, p. pr.]</ety> <fld>(Her.)</fld> <def>Counterpassant.</def></p>
+<p><hw>Re*pas"sant</hw> <pr>(r?-p?s"s<ait/nt)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>repassant</ets>, p. pr.]</ety> <fld>(Her.)</fld> <def>Counterpassant.</def></p>
 </entry>
 
 <entry main-word="Repast" source="1913 Webster">
@@ -16135,7 +16135,7 @@ In such a place, such sum or sums.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Repayment" source="1913 Webster">
-<p><hw>Re*pay"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of repaying; reimbursement.</def>  <rj><au>Jer. Taylor.</au></rj></p>
+<p><hw>Re*pay"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of repaying; reimbursement.</def>  <rj><au>Jer. Taylor.</au></rj></p>
 
 <p><sn>2.</sn> <def>The money or other thing repaid.</def></p>
 </entry>
@@ -16181,7 +16181,7 @@ To expel him thence.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Repealment" source="1913 Webster">
-<p><hw>Re*peal"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Recall, as from banishment.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re*peal"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Recall, as from banishment.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Repeat" source="1913 Webster">
@@ -16247,11 +16247,11 @@ Us to abolish.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Repellence" source="1913 Webster">
-<p><mhw>{ <hw>Re*pel"lence</hw> <pr>(-l<it>e</it>ns)</pr>, <hw>Re*pel"len*cy</hw> <pr>(-l<it>e</it>n-s?)</pr>, }</mhw> <pos>n.</pos> <def>The principle of repulsion; the quality or capacity of repelling; repulsion.</def></p>
+<p><mhw>{ <hw>Re*pel"lence</hw> <pr>(-l<eit/ns)</pr>, <hw>Re*pel"len*cy</hw> <pr>(-l<eit/n-s?)</pr>, }</mhw> <pos>n.</pos> <def>The principle of repulsion; the quality or capacity of repelling; repulsion.</def></p>
 </entry>
 
 <entry main-word="Repellent" source="1913 Webster">
-<p><hw>Re*pel"lent</hw> <pr>(-l<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>repellens</ets>, <ets>-entis</ets>, p. pr. ]</ety> <def>Driving back; able or tending to repel.</def></p>
+<p><hw>Re*pel"lent</hw> <pr>(-l<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>repellens</ets>, <ets>-entis</ets>, p. pr. ]</ety> <def>Driving back; able or tending to repel.</def></p>
 </entry>
 
 <entry main-word="Repellent" source="1913 Webster">
@@ -16402,7 +16402,7 @@ With pity; of that pity then <qex>repents</qex>.</q> <rj><qau>Dryden.</qau></rj>
 </entry>
 
 <entry main-word="Reperusal" source="1913 Webster">
-<p><hw>Re`pe*rus"al</hw> <pr>(r?`p?-r?z"<it>a</it>l)</pr>, <pos>n.</pos> <def>A second or repeated perusal.</def></p>
+<p><hw>Re`pe*rus"al</hw> <pr>(r?`p?-r?z"<ait/l)</pr>, <pos>n.</pos> <def>A second or repeated perusal.</def></p>
 </entry>
 
 <entry main-word="Reperuse" source="1913 Webster">
@@ -16430,7 +16430,7 @@ With pity; of that pity then <qex>repents</qex>.</q> <rj><qau>Dryden.</qau></rj>
 </entry>
 
 <entry main-word="Repetitional" source="1913 Webster">
-<p><mhw>{ <hw>Rep`e*ti"tion*al</hw> <pr>(-<it>a</it>l)</pr>. <hw>Rep`e*ti"tion*a*ry</hw> <pr>(-?-r?)</pr> }</mhw>, <pos>a.</pos> <def>Of the nature of, or containing, repetition.</def> <mark>[R.]</mark></p>
+<p><mhw>{ <hw>Rep`e*ti"tion*al</hw> <pr>(-<ait/l)</pr>. <hw>Rep`e*ti"tion*a*ry</hw> <pr>(-?-r?)</pr> }</mhw>, <pos>a.</pos> <def>Of the nature of, or containing, repetition.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Repetitioner" source="1913 Webster">
@@ -16513,7 +16513,7 @@ To serve mere engines to the ruling mind?</q> <rj><qau>Pope.</qau></rj></p>
 </entry>
 
 <entry main-word="Replacement" source="1913 Webster">
-<p><hw>Re*place"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of replacing.</def></p>
+<p><hw>Re*place"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of replacing.</def></p>
 
 <p><sn>2.</sn> <fld>(Crystallog.)</fld> <def>The removal of an edge or an angle by one or more planes.</def></p>
 </entry>
@@ -16569,7 +16569,7 @@ The most <qex>replenished</qex> sweet work of nature.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Replenishment" source="1913 Webster">
-<p><hw>Re*plen"ish*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of replenishing, or the state of being replenished.</def></p>
+<p><hw>Re*plen"ish*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of replenishing, or the state of being replenished.</def></p>
 
 <p><sn>2.</sn> <def>That which replenishes; supply.</def>  <rj><au>Cowper.</au></rj></p>
 </entry>
@@ -16645,7 +16645,7 @@ The most <qex>replenished</qex> sweet work of nature.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Replicant" source="1913 Webster">
-<p><hw>Rep"li*cant</hw> <pr>(r?p"l?-k<it>a</it>nt)</pr>, <pos>n.</pos> <def>One who replies.</def></p>
+<p><hw>Rep"li*cant</hw> <pr>(r?p"l?-k<ait/nt)</pr>, <pos>n.</pos> <def>One who replies.</def></p>
 </entry>
 
 <entry main-word="Replicate" source="1913 Webster">
@@ -16806,7 +16806,7 @@ To give me hearing what I shall <qex>reply</qex>.</q> <rj><qau>Shak.</qau></rj><
 </entry>
 
 <entry main-word="Reposance" source="1913 Webster">
-<p><hw>Re*pos"ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <def>Reliance.</def> <mark>[Obs.]</mark>  <rj><au>John Hall.</au></rj></p>
+<p><hw>Re*pos"ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <def>Reliance.</def> <mark>[Obs.]</mark>  <rj><au>John Hall.</au></rj></p>
 </entry>
 
 <entry main-word="Repose" source="1913 Webster">
@@ -17005,11 +17005,11 @@ She forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Representance" source="1913 Webster">
-<p><hw>Rep`re*sent"ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <def>Representation; likeness.</def> <mark>[Obs.]</mark>  <rj><au>Donne.</au></rj></p>
+<p><hw>Rep`re*sent"ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <def>Representation; likeness.</def> <mark>[Obs.]</mark>  <rj><au>Donne.</au></rj></p>
 </entry>
 
 <entry main-word="Representant" source="1913 Webster">
-<p><hw>Rep`re*sent"ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>repr<?/sentant</ets>.]</ety> <def>Appearing or acting for another; representing.</def></p>
+<p><hw>Rep`re*sent"ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>repr<?/sentant</ets>.]</ety> <def>Appearing or acting for another; representing.</def></p>
 </entry>
 
 <entry main-word="Representant" source="1913 Webster">
@@ -17083,7 +17083,7 @@ She forms imaginations, aery shapes.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Representment" source="1913 Webster">
-<p><hw>Rep`re*sent"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Representation.</def> <mark>[Obs.]</mark></p>
+<p><hw>Rep`re*sent"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Representation.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Repress" source="1913 Webster">
@@ -17142,7 +17142,7 @@ Thou couldst <qex>repress</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Reprieval" source="1913 Webster">
-<p><hw>Re*priev"al</hw> <pr>(r?-pr?v"<it>a</it>l)</pr>, <pos>n.</pos> <def>Reprieve.</def>  <rj><au>Overbury.</au></rj></p>
+<p><hw>Re*priev"al</hw> <pr>(r?-pr?v"<ait/l)</pr>, <pos>n.</pos> <def>Reprieve.</def>  <rj><au>Overbury.</au></rj></p>
 </entry>
 
 <entry main-word="Reprieve" source="1913 Webster">
@@ -17209,7 +17209,7 @@ ll I forget to love, and learn to grieve.</q> <rj><qau>Denham.</qau></rj></p>
 </entry>
 
 <entry main-word="Reprisal" source="1913 Webster">
-<p><hw>Re*pris"al</hw> <pr>(r?-priz"<it>a</it>l)</pr>, <pos>n.</pos> <ety>[F. <ets>repr<?/saille</ets>, It.  <ets>ripresaglia</ets>, <ets>rappresaglia</ets>, LL. <ets>reprensaliae</ets>, fr. L. <ets>reprehendere</ets>, <ets>reprehensum</ets>. See <er>Reprehend</er>, <er>Reprise</er>.]</ety> <sn>1.</sn> <def>The act of taking from an enemy by way of retaliation or indemnity.</def></p>
+<p><hw>Re*pris"al</hw> <pr>(r?-priz"<ait/l)</pr>, <pos>n.</pos> <ety>[F. <ets>repr<?/saille</ets>, It.  <ets>ripresaglia</ets>, <ets>rappresaglia</ets>, LL. <ets>reprensaliae</ets>, fr. L. <ets>reprehendere</ets>, <ets>reprehensum</ets>. See <er>Reprehend</er>, <er>Reprise</er>.]</ety> <sn>1.</sn> <def>The act of taking from an enemy by way of retaliation or indemnity.</def></p>
 
 <p><q>Debatable ground, on which incursions and <qex>reprisals</qex> continued to take place.</q> <rj><qau>Macaulay.</qau></rj></p>
 
@@ -17336,7 +17336,7 @@ That he hath breathed in my dishonor here.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reprobance" source="1913 Webster">
-<p><hw>Rep"ro*bance</hw> <pr>(-b<it>a</it>ns)</pr>, <pos>n.</pos> <def>Reprobation.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
+<p><hw>Rep"ro*bance</hw> <pr>(-b<ait/ns)</pr>, <pos>n.</pos> <def>Reprobation.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 </entry>
 
 <entry main-word="Reprobate" source="1913 Webster">
@@ -17455,7 +17455,7 @@ By spirits <qex>reprobate</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Re proval" source="1913 Webster">
-<p><hw>Re prov"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <def>Reproof.</def>  <rj><au>Sir P. Sidney.</au></rj></p>
+<p><hw>Re prov"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <def>Reproof.</def>  <rj><au>Sir P. Sidney.</au></rj></p>
 </entry>
 
 <entry main-word="Reprove" source="1913 Webster">
@@ -17499,7 +17499,7 @@ Prove disobedient, and, <qex>reproved</qex>, retort,<br/
 </entry>
 
 <entry main-word="Reptant" source="1913 Webster">
-<p><hw>Rep"tant</hw> <pr>(r?p"t<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reptans</ets>, <ets>-antis</ets>, p. pr. of <ets>reptare</ets>, v. intens. from <ets>repere</ets> to creep. See <er>Reptile</er>.]</ety></p>
+<p><hw>Rep"tant</hw> <pr>(r?p"t<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>reptans</ets>, <ets>-antis</ets>, p. pr. of <ets>reptare</ets>, v. intens. from <ets>repere</ets> to creep. See <er>Reptile</er>.]</ety></p>
 
 <p><sn>1.</sn> <fld>(Bot.)</fld> <def>Same as <er>Repent</er>.</def></p>
 
@@ -17551,7 +17551,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 </entry>
 
 <entry main-word="Reptilian" source="1913 Webster">
-<p><hw>Rep*til"i*an</hw> <pr>(-<it>a</it>n)</pr>, <pos>a.</pos> <def>Belonging to the reptiles.</def></p>
+<p><hw>Rep*til"i*an</hw> <pr>(-<ait/n)</pr>, <pos>a.</pos> <def>Belonging to the reptiles.</def></p>
 
 <p><cs><col>Reptilian age</col> <fld>(Geol.)</fld>, <cd>that part of geological time comprising the Triassic, Jurassic, and Cretaceous periods, and distinguished as that era in which the class of reptiles attained its highest expansion; -- called also the <altname>Secondary</altname> or <altname>Mezozoic</altname> age.</cd></cs></p>
 </entry>
@@ -17574,7 +17574,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 </entry>
 
 <entry main-word="Republican" source="1913 Webster">
-<p><hw>Re*pub"lic*an</hw> <pr>(-l?-k<it>a</it>n)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/publicain</ets>.]</ety> <sn>1.</sn> <def>Of or pertaining to a republic.</def></p>
+<p><hw>Re*pub"lic*an</hw> <pr>(-l?-k<ait/n)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/publicain</ets>.]</ety> <sn>1.</sn> <def>Of or pertaining to a republic.</def></p>
 
 <p><q>The Roman emperors were <qex>republican</qex> magistrates named by the senate.</q> <rj><qau>Macaulay.</qau></rj></p>
 
@@ -17584,7 +17584,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 </entry>
 
 <entry main-word="Republican" source="1913 Webster">
-<p><hw>Re*pub"lic*an</hw> <pr>(r?-p?b"l?-k<it>a</it>n)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who favors or prefers a republican form of government.</def></p>
+<p><hw>Re*pub"lic*an</hw> <pr>(r?-p?b"l?-k<ait/n)</pr>, <pos>n.</pos> <sn>1.</sn> <def>One who favors or prefers a republican form of government.</def></p>
 
 <p><sn>2.</sn> <fld>(U.S.Politics)</fld> <def>A member of the Republican party.</def></p>
 
@@ -17666,7 +17666,7 @@ Will tread aside, and let the <qex>reptile</qex> live.</q> <rj><qau>Cowper.</qau
 </entry>
 
 <entry main-word="Repugnance" source="1913 Webster">
-<p><mhw>{ <hw>Re*pug"nance</hw> <pr>(-n<it>a</it>ns)</pr>, <hw>Re*pug"nan*cy</hw> <pr>(-n<it>a</it>n-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>r<eacute/pugnance</ets>, L. <ets>repugnantia</ets>.]</ety> <def>The state or condition of being repugnant; opposition; contrariety; especially, a strong instinctive antagonism; aversion; reluctance; unwillingness, as of mind, passions, principles, qualities, and the like.</def></p>
+<p><mhw>{ <hw>Re*pug"nance</hw> <pr>(-n<ait/ns)</pr>, <hw>Re*pug"nan*cy</hw> <pr>(-n<ait/n-s?)</pr>, }</mhw> <pos>n.</pos> <ety>[F. <ets>r<eacute/pugnance</ets>, L. <ets>repugnantia</ets>.]</ety> <def>The state or condition of being repugnant; opposition; contrariety; especially, a strong instinctive antagonism; aversion; reluctance; unwillingness, as of mind, passions, principles, qualities, and the like.</def></p>
 
 <p><q>That which causes us to lose most of our time is the <qex>repugnance</qex> which we naturally have to labor.</q> <rj><qau>Dryden.</qau></rj></p>
 
@@ -17677,7 +17677,7 @@ Without <qex>repugnancy</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Repugnant" source="1913 Webster">
-<p><hw>Re*pug"nant</hw> <pr>(-n<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/pugnant</ets>, or L. <ets>repugnans</ets>, <ets>-antis</ets>, p. pr. of <ets>repugnare</ets>. See <er>Repugn</er>.]</ety> <def>Disposed to fight against; hostile; at war with; being at variance; contrary; inconsistent; refractory; disobedient; also, distasteful in a high degree; offensive; -- usually followed by <xex>to</xex>, rarely and less properly by <xex>with</xex>; <as>as, all rudeness was <ex>repugnant</ex> to her nature</as>.</def></p>
+<p><hw>Re*pug"nant</hw> <pr>(-n<ait/nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/pugnant</ets>, or L. <ets>repugnans</ets>, <ets>-antis</ets>, p. pr. of <ets>repugnare</ets>. See <er>Repugn</er>.]</ety> <def>Disposed to fight against; hostile; at war with; being at variance; contrary; inconsistent; refractory; disobedient; also, distasteful in a high degree; offensive; -- usually followed by <xex>to</xex>, rarely and less properly by <xex>with</xex>; <as>as, all rudeness was <ex>repugnant</ex> to her nature</as>.</def></p>
 
 <p><q>[His sword] <qex>repugnant</qex> to command.</q> <rj><qau>Shak.</qau></rj></p>
 
@@ -17924,7 +17924,7 @@ What you <qex>require</qex> of him?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Requirement" source="1913 Webster">
-<p><hw>Re*quire"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of requiring; demand; requisition.</def></p>
+<p><hw>Re*quire"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of requiring; demand; requisition.</def></p>
 
 <p><sn>2.</sn> <def>That which is required; an imperative or authoritative command; an essential condition; something needed or necessary; a need.</def></p>
 
@@ -17992,7 +17992,7 @@ What you <qex>require</qex> of him?</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Requital" source="1913 Webster">
-<p><hw>Re*quit"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <ety>[From <er>Requite</er>.]</ety> <def>The act of requiting; also, that which requites; return, good or bad, for anything done; in a good sense, compensation; recompense; <as>as, the <ex>requital</ex> of services</as>; in a bad sense, retaliation, or punishment; <as>as, the <ex>requital</ex> of evil deeds</as>.</def></p>
+<p><hw>Re*quit"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <ety>[From <er>Requite</er>.]</ety> <def>The act of requiting; also, that which requites; return, good or bad, for anything done; in a good sense, compensation; recompense; <as>as, the <ex>requital</ex> of services</as>; in a bad sense, retaliation, or punishment; <as>as, the <ex>requital</ex> of evil deeds</as>.</def></p>
 
 <p><q>No merit their aversion can remove,<br/
 Nor ill <qex>requital</qex> can efface their love.</q> <rj><qau>Waller.</qau></rj></p>
@@ -18012,7 +18012,7 @@ That call fame on such gentle acts as these.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Requitement" source="1913 Webster">
-<p><hw>Re*quite"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Requital</def> <mark>[Obs.]</mark>  <rj><au>E. Hall.</au></rj></p>
+<p><hw>Re*quite"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Requital</def> <mark>[Obs.]</mark>  <rj><au>E. Hall.</au></rj></p>
 </entry>
 
 <entry main-word="Requiter" source="1913 Webster">
@@ -18123,7 +18123,7 @@ That call fame on such gentle acts as these.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rescindment" source="1913 Webster">
-<p><hw>Re*scind"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of rescinding; rescission.</def></p>
+<p><hw>Re*scind"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of rescinding; rescission.</def></p>
 </entry>
 
 <entry main-word="Rescission" source="1913 Webster">
@@ -18311,7 +18311,7 @@ Rather than have false Proteus <qex>rescue</qex> me.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Resemblance" source="1913 Webster">
-<p><hw>Re*sem"blance</hw> <pr>(-bl<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>ressemblance</ets>. See <er>Resemble</er>.]</ety> <sn>1.</sn> <def>The quality or state of resembling; likeness; similitude; similarity.</def></p>
+<p><hw>Re*sem"blance</hw> <pr>(-bl<ait/ns)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>ressemblance</ets>. See <er>Resemble</er>.]</ety> <sn>1.</sn> <def>The quality or state of resembling; likeness; similitude; similarity.</def></p>
 
 <p><q>One main end of poetry and painting is to please; they bear a great <qex>resemblance</qex> to each other.</q> <rj><qau>Dryden.</qau></rj></p>
 
@@ -18327,7 +18327,7 @@ Rather than have false Proteus <qex>rescue</qex> me.</q> <rj><qau>Shak.</qau></r
 </entry>
 
 <entry main-word="Resemblant" source="1913 Webster">
-<p><hw>Re*sem"blant</hw> <pr>(-bl<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F., a . and p. pr. fr. <ets>ressembler</ets> to resemble. See <er>Resemble</er>.]</ety> <def>Having or exhibiting resemblance; resembling.</def> <mark>[R.]</mark>  <rj><au>Gower.</au></rj></p>
+<p><hw>Re*sem"blant</hw> <pr>(-bl<ait/nt)</pr>, <pos>a.</pos> <ety>[F., a . and p. pr. fr. <ets>ressembler</ets> to resemble. See <er>Resemble</er>.]</ety> <def>Having or exhibiting resemblance; resembling.</def> <mark>[R.]</mark>  <rj><au>Gower.</au></rj></p>
 </entry>
 
 <entry main-word="Resemble" source="1913 Webster">
@@ -18400,7 +18400,7 @@ He did <qex>resemble</qex> to his lady bright.</q> <rj><qau>Spenser.</qau></rj><
 </entry>
 
 <entry main-word="Resentiment" source="1913 Webster">
-<p><hw>Re*sent"i*ment</hw> <pr>(-?-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Resentment.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re*sent"i*ment</hw> <pr>(-?-m<eit/nt)</pr>, <pos>n.</pos> <def>Resentment.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Resentingly" source="1913 Webster">
@@ -18414,7 +18414,7 @@ He did <qex>resemble</qex> to his lady bright.</q> <rj><qau>Spenser.</qau></rj><
 </entry>
 
 <entry main-word="Resentment" source="1913 Webster">
-<p><hw>Re*sent"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <ety>[F. <ets>ressentiment</ets>.]</ety> <sn>1.</sn> <def>The act of resenting.</def></p>
+<p><hw>Re*sent"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[F. <ets>ressentiment</ets>.]</ety> <sn>1.</sn> <def>The act of resenting.</def></p>
 
 <p><sn>2.</sn> <def>The state of holding something in the mind as a subject of contemplation, or of being inclined to reflect upon something; a state of consciousness; conviction; feeling; impression.</def> <mark>[Obs.]</mark></p>
 
@@ -18445,7 +18445,7 @@ Or exercise their spite in human woe?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Reservance" source="1913 Webster">
-<p><hw>Re*serv"ance</hw> <pr>(r?-z?rv"<it>a</it>ns)</pr>, <pos>n.</pos> <def>Reservation.</def> <mark>[R.]</mark></p>
+<p><hw>Re*serv"ance</hw> <pr>(r?-z?rv"<ait/ns)</pr>, <pos>n.</pos> <def>Reservation.</def> <mark>[R.]</mark></p>
 </entry>
 
 <entry main-word="Reservation" source="1913 Webster">
@@ -18617,7 +18617,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Resettlement" source="1913 Webster">
-<p><hw>Re*set"tle*ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>Act of settling again, or state of being settled again; <as>as, the <ex>resettlement</ex> of lees</as>.</def></p>
+<p><hw>Re*set"tle*ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>Act of settling again, or state of being settled again; <as>as, the <ex>resettlement</ex> of lees</as>.</def></p>
 
 <p><q>The <qex>resettlement</qex> of my discomposed soul.</q> <rj><qau>Norris.</qau></rj></p>
 </entry>
@@ -18635,7 +18635,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Reshipment" source="1913 Webster">
-<p><hw>Re*ship"ment</hw> <pr>(-m<it>e</it>nt)</pr>, <pos>n.</pos> <def>The act of reshipping; also, that which is reshipped.</def></p>
+<p><hw>Re*ship"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <def>The act of reshipping; also, that which is reshipped.</def></p>
 </entry>
 
 <entry main-word="Reshipper" source="1913 Webster">
@@ -18643,11 +18643,11 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Resiance" source="1913 Webster">
-<p><hw>Res`i*ance</hw> <pr>(r?z"?-<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[LL. <ets>reseantia</ets>, <?/<?/ OF. <ets>reseance</ets>.]</ety> <def>Residence; abode.</def> <mark>[Obs.]</mark>  <rj><au>Bacon.</au></rj></p>
+<p><hw>Res`i*ance</hw> <pr>(r?z"?-<ait/ns)</pr>, <pos>n.</pos> <ety>[LL. <ets>reseantia</ets>, <?/<?/ OF. <ets>reseance</ets>.]</ety> <def>Residence; abode.</def> <mark>[Obs.]</mark>  <rj><au>Bacon.</au></rj></p>
 </entry>
 
 <entry main-word="Resiant" source="1913 Webster">
-<p><hw>Res"i*ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[OF. <ets>reseant</ets>, <ets>resseant</ets>, L. <ets>residens</ets>. See <er>Resident</er>.]</ety> <def>Resident; present in a place.</def> <mark>[Obs.]</mark></p>
+<p><hw>Res"i*ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[OF. <ets>reseant</ets>, <ets>resseant</ets>, L. <ets>residens</ets>. See <er>Resident</er>.]</ety> <def>Resident; present in a place.</def> <mark>[Obs.]</mark></p>
 
 <p><q>In which her kingdom's throne is chiefly <qex>resiant</qex>.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
@@ -18673,7 +18673,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residence" source="1913 Webster">
-<p><hw>Res"i*dence</hw> <pr>(r?z"?-d<it>e</it>ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/sidence</ets>. See <er>Resident</er>.]</ety> <sn>1.</sn> <def>The act or fact of residing, abiding, or dwelling in a place for some continuance of time; <as>as, the <ex>residence</ex> of an American in France or Italy for a year</as>.</def></p>
+<p><hw>Res"i*dence</hw> <pr>(r?z"?-d<eit/ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/sidence</ets>. See <er>Resident</er>.]</ety> <sn>1.</sn> <def>The act or fact of residing, abiding, or dwelling in a place for some continuance of time; <as>as, the <ex>residence</ex> of an American in France or Italy for a year</as>.</def></p>
 
 <p><q>The confessor had often made considerable <qex>residences</qex> in Normandy.</q> <rj><qau>Sir M. Hale.</qau></rj></p>
 
@@ -18699,13 +18699,13 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residency" source="1913 Webster">
-<p><hw>Res"i*den*cy</hw> <pr>(-d<it>e</it>n-s?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Residence.</def> <mark>[Obsoles.]</mark></p>
+<p><hw>Res"i*den*cy</hw> <pr>(-d<eit/n-s?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>Residence.</def> <mark>[Obsoles.]</mark></p>
 
 <p><sn>2.</sn> <def>A political agency at a native court in British India, held by an officer styled the Resident; also, a Dutch commercial colony or province in the East Indies.</def></p>
 </entry>
 
 <entry main-word="Resident" source="1913 Webster">
-<p><hw>Res"i*dent</hw> <pr>(-d<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/sident</ets>, L. <ets>residens</ets>, <ets>-entis</ets>, p. pr. of <ets>residere</ets>. See <er>Reside</er>.]</ety> <sn>1.</sn> <def>Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate; -- opposed to <ant>nonresident</ant>; <as>as, <ex>resident</ex> in the city or in the country</as>.</def></p>
+<p><hw>Res"i*dent</hw> <pr>(-d<eit/nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/sident</ets>, L. <ets>residens</ets>, <ets>-entis</ets>, p. pr. of <ets>residere</ets>. See <er>Reside</er>.]</ety> <sn>1.</sn> <def>Dwelling, or having an abode, in a place for a continued length of time; residing on one's own estate; -- opposed to <ant>nonresident</ant>; <as>as, <ex>resident</ex> in the city or in the country</as>.</def></p>
 
 <p><sn>2.</sn> <def>Fixed; stable; certain.</def> <mark>[Obs.]</mark> <ldquo/Stable and <xex>resident</xex> like a rock.<rdquo/  <rj><au>Jer. TAylor.</au></rj></p>
 
@@ -18723,7 +18723,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residential" source="1913 Webster">
-<p><hw>Res`i*den""tial</hw> <pr>(-d?n"sh<it>a</it>l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to a residence or residents; <as>as, <ex>residential</ex> trade; a <ex>residential</ex> part of town</as>.</def></p>
+<p><hw>Res`i*den""tial</hw> <pr>(-d?n"sh<ait/l)</pr>, <pos>a.</pos> <sn>1.</sn> <def>Of or pertaining to a residence or residents; <as>as, <ex>residential</ex> trade; a <ex>residential</ex> part of town</as>.</def></p>
 
 <p><sn>2.</sn> <def>Residing; residentiary.</def> <mark>[R.]</mark></p>
 </entry>
@@ -18747,7 +18747,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residentship" source="1913 Webster">
-<p><hw>Res"i*dent*ship</hw> <pr>(r?z"?-d<it>e</it>nt-sh?p)</pr>, <pos>n.</pos> <def>The office or condition of a resident.</def></p>
+<p><hw>Res"i*dent*ship</hw> <pr>(r?z"?-d<eit/nt-sh?p)</pr>, <pos>n.</pos> <def>The office or condition of a resident.</def></p>
 </entry>
 
 <entry main-word="Resider" source="1913 Webster">
@@ -18755,7 +18755,7 @@ Left all <qex>reserve</qex>, and all the sex, behind.</q> <rj><qau>Prior.</qau><
 </entry>
 
 <entry main-word="Residual" source="1913 Webster">
-<p><hw>Re*sid"u*al</hw> <pr>(r?-z?d"?-<it>a</it>l)</pr>, <pos>a.</pos> <ety>[See <er>Residue</er>.]</ety> <def>Pertaining to a residue; remaining after a part is taken.</def></p>
+<p><hw>Re*sid"u*al</hw> <pr>(r?-z?d"?-<ait/l)</pr>, <pos>a.</pos> <ety>[See <er>Residue</er>.]</ety> <def>Pertaining to a residue; remaining after a part is taken.</def></p>
 
 <p><cs><col>Residual air</col> <fld>(Physiol.)</fld>, <cd>that portion of air contained in the lungs which can not be expelled even by the most violent expiratory effort. It amounts to from 75 to 100 cubic inches.  Cf. <cref>Supplemental air</cref>, under <er>Supplemental</er>.</cd> -- <col>Residual error</col>. <fld>(Mensuration)</fld> <cd>See <er>Error</er>, <snr>6</snr> <sdr>(b)</sdr>.</cd> -- <col>Residual figure</col> <fld>(Geom.)</fld>, <cd>the figure which remains after a less figure has been taken from a greater one.</cd> -- <col>Residual magnetism</col> <fld>(Physics)</fld>, <cd>remanent magnetism. See under <er>Remanent</er>.</cd> -- <col>Residual product</col>, <cd>a by product, as cotton waste from a cotton mill, coke and coal tar from gas works, etc.</cd> -- <col>Residual quantity</col> <fld>(Alg.)</fld>, <cd>a binomial quantity the two parts of which are connected by the negative sign, as <mathex>a-b</mathex>.</cd> -- <col>Residual root</col> <fld>(Alg.)</fld>, <cd>the root of a residual quantity, as <mathex><root/(a-b)</mathex>.</cd></cs></p>
 </entry>
@@ -18879,7 +18879,7 @@ Sincere, though prudent; constant, yet <qex>resigned</qex>.</q> <rj><qau>Pope.</
 </entry>
 
 <entry main-word="Resilient" source="1913 Webster">
-<p><hw>Re*sil"i*ent</hw> <pr>(-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resiliens</ets>, p. pr.]</ety> <def>Leaping back; rebounding; recoiling.</def></p>
+<p><hw>Re*sil"i*ent</hw> <pr>(-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resiliens</ets>, p. pr.]</ety> <def>Leaping back; rebounding; recoiling.</def></p>
 </entry>
 
 <entry main-word="Resilition" source="1913 Webster">
@@ -18943,7 +18943,7 @@ Sincere, though prudent; constant, yet <qex>resigned</qex>.</q> <rj><qau>Pope.</
 </entry>
 
 <entry main-word="Resipiscence" source="1913 Webster">
-<p><hw>Res`i*pis"cence</hw> <pr>(r?s`?-p?s"s<it>e</it>ns)</pr>, <pos>n.</pos> <ety>[L. <ets>resipiscentia</ets>, from <ets>resipiscere</ets> to recover one's senses: cf. F. <ets>r<eacute/sipiscence</ets>.]</ety> <def>Wisdom derived from severe experience; hence, repentance.</def> <mark>[R.]</mark>  <rj><au>Bp. Montagu.</au></rj></p>
+<p><hw>Res`i*pis"cence</hw> <pr>(r?s`?-p?s"s<eit/ns)</pr>, <pos>n.</pos> <ety>[L. <ets>resipiscentia</ets>, from <ets>resipiscere</ets> to recover one's senses: cf. F. <ets>r<eacute/sipiscence</ets>.]</ety> <def>Wisdom derived from severe experience; hence, repentance.</def> <mark>[R.]</mark>  <rj><au>Bp. Montagu.</au></rj></p>
 </entry>
 
 <entry main-word="Resist" source="1913 Webster">
@@ -18977,7 +18977,7 @@ Whom we <qex>resist</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Resistance" source="1913 Webster">
-<p><hw>Re*sist"ance</hw> <pr>(-<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/sistance</ets>, LL. <ets>resistentia</ets>, fr. <ets>resistens</ets>, <ets>-entis</ets>, p. pr. See <er>Resist</er>.]</ety> <sn>1.</sn> <def>The act of resisting; opposition, passive or active.</def></p>
+<p><hw>Re*sist"ance</hw> <pr>(-<ait/ns)</pr>, <pos>n.</pos> <ety>[F. <ets>r<eacute/sistance</ets>, LL. <ets>resistentia</ets>, fr. <ets>resistens</ets>, <ets>-entis</ets>, p. pr. See <er>Resist</er>.]</ety> <sn>1.</sn> <def>The act of resisting; opposition, passive or active.</def></p>
 
 <p><q>When King Demetrius saw that . . . no <qex>resistance</qex> was made against him, he sent away all his forces.</q> <rj><qau>1. Macc. xi. 38.</qau></rj></p>
 
@@ -18997,7 +18997,7 @@ Whom we <qex>resist</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Resistant" source="1913 Webster">
-<p><hw>Re*sist"ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/sistant</ets>: cf. L. <ets>resistens</ets>. See <er>Resist</er>.]</ety> <def>Making resistance; resisting.</def> -- <def2><pos>n.</pos> <def>One who, or that which, resists.</def></def2>  <rj><au>Bp. Pearson.</au></rj></p>
+<p><hw>Re*sist"ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[F. <ets>r<eacute/sistant</ets>: cf. L. <ets>resistens</ets>. See <er>Resist</er>.]</ety> <def>Making resistance; resisting.</def> -- <def2><pos>n.</pos> <def>One who, or that which, resists.</def></def2>  <rj><au>Bp. Pearson.</au></rj></p>
 </entry>
 
 <entry main-word="Resister" source="1913 Webster">
@@ -19228,7 +19228,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 </entry>
 
 <entry main-word="Resolvent" source="1913 Webster">
-<p><hw>Re*solv"ent</hw> <pr>(-<it>e</it>nt)</pr>, <pos>a.</pos> <def>Having power to resolve; causing solution; solvent.</def></p>
+<p><hw>Re*solv"ent</hw> <pr>(-<eit/nt)</pr>, <pos>a.</pos> <def>Having power to resolve; causing solution; solvent.</def></p>
 </entry>
 
 <entry main-word="Resolvent" source="1913 Webster">
@@ -19248,7 +19248,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 </entry>
 
 <entry main-word="Resonance" source="1913 Webster">
-<p><hw>Res"o*nance</hw> <pr>(r?z"?-n<it>a</it>ns)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/sonance</ets>, L. <ets>resonantia</ets> an echo.]</ety> <sn>1.</sn> <def>The act of resounding; the quality or state of being resonant.</def></p>
+<p><hw>Res"o*nance</hw> <pr>(r?z"?-n<ait/ns)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/sonance</ets>, L. <ets>resonantia</ets> an echo.]</ety> <sn>1.</sn> <def>The act of resounding; the quality or state of being resonant.</def></p>
 
 <p><sn>2.</sn> <fld>(Acoustics)</fld> <def>A prolongation or increase of any sound, either by reflection, as in a cavern or apartment the walls of which are not distant enough to return a distinct echo, or by the production of vibrations in other bodies, as a sounding-board, or the bodies of musical instruments.</def></p>
 
@@ -19260,11 +19260,11 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 </entry>
 
 <entry main-word="Resonancy" source="1913 Webster">
-<p><hw>Res"o*nan*cy</hw> <pr>(-n<it>a</it>n-s?)</pr>, <pos>n.</pos> <def>Resonance.</def></p>
+<p><hw>Res"o*nan*cy</hw> <pr>(-n<ait/n-s?)</pr>, <pos>n.</pos> <def>Resonance.</def></p>
 </entry>
 
 <entry main-word="Resonant" source="1913 Webster">
-<p><hw>Res"o*nant</hw> <pr>(-n<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resonans</ets>, p. pr. of <ets>resonare</ets> to resound: cf. F. <ets>r<eacute/sonnant</ets>. See <er>Resound</er>.]</ety> <sn>1.</sn> <def>Returning, or capable of returning, sound; fitted to resound; resounding; echoing back.</def></p>
+<p><hw>Res"o*nant</hw> <pr>(-n<ait/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resonans</ets>, p. pr. of <ets>resonare</ets> to resound: cf. F. <ets>r<eacute/sonnant</ets>. See <er>Resound</er>.]</ety> <sn>1.</sn> <def>Returning, or capable of returning, sound; fitted to resound; resounding; echoing back.</def></p>
 
 <p><q>Through every hour of the golden morning, the streets were <qex>resonant</qex> with female parties of young and old.</q> <rj><qau>De Quincey.</qau></rj></p>
 
@@ -19290,7 +19290,7 @@ And Rome attends her fate from our <qex>resolves</qex>.</q> <rj><qau>Addison.</q
 </entry>
 
 <entry main-word="Resorbent" source="1913 Webster">
-<p><hw>Re*sorb"ent</hw> <pr>(-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resorbens</ets>, p. pr. of <ets>resorbere</ets>.]</ety> <def>Swallowing up.</def>  <rj><au>Wodhull.</au></rj></p>
+<p><hw>Re*sorb"ent</hw> <pr>(-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resorbens</ets>, p. pr. of <ets>resorbere</ets>.]</ety> <def>Swallowing up.</def>  <rj><au>Wodhull.</au></rj></p>
 </entry>
 
 <entry main-word="Resorcin" source="1913 Webster">
@@ -19499,7 +19499,7 @@ Private <qex>respects</qex> must yield.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Respectant" source="1913 Webster">
-<p><hw>Re*spect"ant</hw> <pr>(-<it>a</it>nt)</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>respecter</ets>. See <er>Respect</er>.]</ety> <fld>(Her.)</fld> <def>Placed so as to face one another; -- said of animals.</def></p>
+<p><hw>Re*spect"ant</hw> <pr>(-<ait/nt)</pr>, <pos>a.</pos> <ety>[F., p. pr. of <ets>respecter</ets>. See <er>Respect</er>.]</ety> <fld>(Her.)</fld> <def>Placed so as to face one another; -- said of animals.</def></p>
 </entry>
 
 <entry main-word="Respecter" source="1913 Webster">
@@ -19612,7 +19612,7 @@ And vengeance to the wicked.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Respirational" source="1913 Webster">
-<p><hw>Res`pi*ra"tion*al</hw> <pr>(r?s`p?*r?"sh?n-<it>a</it>l)</pr>, <pos>a.</pos> <def>Of or pertaining to respiration; <as>as, <ex>respirational</ex> difficulties</as>.</def></p>
+<p><hw>Res`pi*ra"tion*al</hw> <pr>(r?s`p?*r?"sh?n-<ait/l)</pr>, <pos>a.</pos> <def>Of or pertaining to respiration; <as>as, <ex>respirational</ex> difficulties</as>.</def></p>
 </entry>
 
 <entry main-word="Respirative" source="1913 Webster">
@@ -19675,7 +19675,7 @@ The clear air for a while.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Resplendence" source="1913 Webster">
-<p><mhw>{ <hw>Re*splen"dence</hw> <pr>(r?*spl?n"d<it>e</it>ns)</pr>, <hw>Re*splen"den*cy</hw> <pr>(-d<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>resplendentia</ets>.]</ety> <def>The quality or state of being resplendent; brilliant luster; vivid brightness; splendor.</def></p>
+<p><mhw>{ <hw>Re*splen"dence</hw> <pr>(r?*spl?n"d<eit/ns)</pr>, <hw>Re*splen"den*cy</hw> <pr>(-d<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <ety>[L. <ets>resplendentia</ets>.]</ety> <def>The quality or state of being resplendent; brilliant luster; vivid brightness; splendor.</def></p>
 
 <p><q>Son! thou in whom my glory I behold<br/
 In full <qex>resplendence</qex>, heir of all my might.</q> <rj><qau>Milton.</qau></rj></p>
@@ -19684,13 +19684,13 @@ In full <qex>resplendence</qex>, heir of all my might.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="Resplendent" source="1913 Webster">
-<p><hw>Re*splen"dent</hw> <pr>(-d<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resplendens</ets>, <ets>-entis</ets>, p. pr. of <ets>resplendere</ets> to shine brightly; pref. <ets>re-</ets> re- + <ets>splendere</ets> to shine. See <er>Splendid</er>.]</ety> <def>Shining with brilliant luster; very bright.</def> -- <wordforms><wf>Re*splen"dent*ly</wf>, <pos>adv.</pos></wordforms></p>
+<p><hw>Re*splen"dent</hw> <pr>(-d<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>resplendens</ets>, <ets>-entis</ets>, p. pr. of <ets>resplendere</ets> to shine brightly; pref. <ets>re-</ets> re- + <ets>splendere</ets> to shine. See <er>Splendid</er>.]</ety> <def>Shining with brilliant luster; very bright.</def> -- <wordforms><wf>Re*splen"dent*ly</wf>, <pos>adv.</pos></wordforms></p>
 
 <p><q>With royal arras and <qex>resplendent</qex> gold.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Resplendishant" source="1913 Webster">
-<p><hw>Re*splen"dish*ant</hw> <pr>(-d?sh*<it>a</it>nt)</pr>, <pos>a.</pos> <def>Resplendent; brilliant.</def> <mark>[R. & Obs.]</mark>  <rj><au>Fabyan.</au></rj></p>
+<p><hw>Re*splen"dish*ant</hw> <pr>(-d?sh*<ait/nt)</pr>, <pos>a.</pos> <def>Resplendent; brilliant.</def> <mark>[R. & Obs.]</mark>  <rj><au>Fabyan.</au></rj></p>
 </entry>
 
 <entry main-word="Resplendishing" source="1913 Webster">
@@ -19732,14 +19732,14 @@ In full <qex>resplendence</qex>, heir of all my might.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="Respondence" source="1913 Webster">
-<p><mhw>{ <hw>Re*spond"ence</hw> <pr>(-<it>?</it>ns)</pr>, <hw>Re*spond"en*cy</hw> <pr>(-<it>e</it>n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The act of responding; the state of being respondent; an answering.</def>  <rj><au>A. Chalmers.</au></rj></p>
+<p><mhw>{ <hw>Re*spond"ence</hw> <pr>(-<it>?</it>ns)</pr>, <hw>Re*spond"en*cy</hw> <pr>(-<eit/n*s?)</pr>, }</mhw> <pos>n.</pos> <def>The act of responding; the state of being respondent; an answering.</def>  <rj><au>A. Chalmers.</au></rj></p>
 
 <p><q>The angelical soft trembling voice made<br/
 To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="Respondent" source="1913 Webster">
-<p><hw>Re*spond"ent</hw> <pr>(-<it>e</it>nt)</pr>, <pos>a.</pos> <ety>[L. <ets>respondens</ets>, p. pr. of <ets>respondere</ets>.]</ety> <def>Disposed or expected to respond; answering; according; corresponding.</def></p>
+<p><hw>Re*spond"ent</hw> <pr>(-<eit/nt)</pr>, <pos>a.</pos> <ety>[L. <ets>respondens</ets>, p. pr. of <ets>respondere</ets>.]</ety> <def>Disposed or expected to respond; answering; according; corresponding.</def></p>
 
 <p><q>Wealth <qex>respondent</qex> to payment and contributions.</q> <rj><qau>Bacon.</qau></rj></p>
 </entry>
@@ -19753,7 +19753,7 @@ To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qa
 </entry>
 
 <entry main-word="Responsal" source="1913 Webster">
-<p><hw>Re*spon"sal</hw> <pr>(r?*sp?n"s<it>a</it>l)</pr>, <pos>a.</pos> <def>Answerable.</def> <mark>[Obs.]</mark></p>
+<p><hw>Re*spon"sal</hw> <pr>(r?*sp?n"s<ait/l)</pr>, <pos>a.</pos> <def>Answerable.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Responsal" source="1913 Webster">
@@ -19811,7 +19811,7 @@ To the instruments divine <qex>respondence</qex> meet.</q> <rj><qau>Spenser.</qa
 </entry>
 
 <entry main-word="Responsorial" source="1913 Webster">
-<p><hw>Re`spon*so"ri*al</hw> <pr>(r?`sp?n*s?"r?-<it>a</it>l)</pr>, <pos>a.</pos> <def>Responsory; antiphonal.</def>  <rj><au>J. H. Newman.</au></rj></p>
+<p><hw>Re`spon*so"ri*al</hw> <pr>(r?`sp?n*s?"r?-<ait/l)</pr>, <pos>a.</pos> <def>Responsory; antiphonal.</def>  <rj><au>J. H. Newman.</au></rj></p>
 </entry>
 
 <entry main-word="Responsory" source="1913 Webster">
@@ -20107,7 +20107,7 @@ All needful rites, to <qex>rest</qex> my wandering shade.</q> <rj><qau>Dryden.</
 </entry>
 
 <entry main-word="Restoral" source="1913 Webster">
-<p><hw>Re*stor"al</hw> <pr>(-<it>a</it>l)</pr>, <pos>n.</pos> <def>Restoration.</def> <mark>[Obs.]</mark>  <rj><au>Barrow.</au></rj></p>
+<p><hw>Re*stor"al</hw> <pr>(-<ait/l)</pr>, <pos>n.</pos> <def>Restoration.</def> <mark>[Obs.]</mark>  <rj><au>Barrow.</au></rj></p>
 </entry>
 
 <entry main-word="Restoration" source="1913 Webster">
