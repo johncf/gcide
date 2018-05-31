@@ -568,7 +568,7 @@ Hath left me <qex>gaged</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Gainable" source="1913 Webster">
-<p><hw>Gain"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>gagnable</ets>. See <er>Gain</er>, <pos>v. t.</pos>]</ety> <def>Capable of being obtained or reached.</def>  <rj><au>Sherwood.</au></rj></p>
+<p><hw>Gain"a*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>gagnable</ets>. See <er>Gain</er>, <pos>v. t.</pos>]</ety> <def>Capable of being obtained or reached.</def>  <rj><au>Sherwood.</au></rj></p>
 </entry>
 
 <entry main-word="Gainage" source="1913 Webster">

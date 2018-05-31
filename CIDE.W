@@ -2014,7 +2014,7 @@ Only for <qex>wantonness</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Wapp" source="1913 Webster">
-<p><hw>Wapp</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. Prov. E. <ets>wap</ets> to wrap up.]</ety> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A fair-leader.</def>  <sd>(b)</sd> <def>A rope with wall knots in it with which the shrouds are set taut.</def></p>
+<p><hw>Wapp</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Prov. E. <ets>wap</ets> to wrap up.]</ety> <fld>(Naut.)</fld> <sd>(a)</sd> <def>A fair-leader.</def>  <sd>(b)</sd> <def>A rope with wall knots in it with which the shrouds are set taut.</def></p>
 </entry>
 
 <entry main-word="Wappato" source="1913 Webster">

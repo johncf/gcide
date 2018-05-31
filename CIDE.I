@@ -3358,7 +3358,7 @@ In nectared lavers strewed with asphodel.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Imbosk" source="1913 Webster">
-<p><hw>Im*bosk"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imbosked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imbosking</conjf>.]</vmorph> <ety>[CF. It. <ets>imboscare</ets> to imbosk, <ets>imboscarsi</ets> to retire into a wood; pref. <ets>im-</ets> in + <ets>bosco</ets> wood. See <er>Boscage</er>, and cf. <er>Ambush</er>.]</ety> <def>To conceal, as in bushes; to hide.</def> <mark>[Obs.]</mark>  <rj><au>Shelton.</au></rj></p>
+<p><hw>Im*bosk"</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Imbosked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Imbosking</conjf>.]</vmorph> <ety>[Cf. It. <ets>imboscare</ets> to imbosk, <ets>imboscarsi</ets> to retire into a wood; pref. <ets>im-</ets> in + <ets>bosco</ets> wood. See <er>Boscage</er>, and cf. <er>Ambush</er>.]</ety> <def>To conceal, as in bushes; to hide.</def> <mark>[Obs.]</mark>  <rj><au>Shelton.</au></rj></p>
 </entry>
 
 <entry main-word="Imbosk" source="1913 Webster">
@@ -16718,7 +16718,7 @@ By light of the <qex>inflamed</qex> fleet.</q> <rj><qau>Chapman.</qau></rj></p>
 </entry>
 
 <entry main-word="Inflammable" source="1913 Webster">
-<p><hw>In*flam"ma*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>inflammable</ets>.]</ety> <sn>1.</sn> <def>Capable of being easily set fire; easily enkindled; combustible; <as>as, <ex>inflammable</ex> oils or spirits</as>.</def></p>
+<p><hw>In*flam"ma*ble</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>inflammable</ets>.]</ety> <sn>1.</sn> <def>Capable of being easily set fire; easily enkindled; combustible; <as>as, <ex>inflammable</ex> oils or spirits</as>.</def></p>
 
 <p><sn>2.</sn> <def>Excitable; irritable; irascible; easily provoked; <as>as, an <ex>inflammable</ex> temper</as>.</def></p>
 

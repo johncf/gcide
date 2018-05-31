@@ -14951,7 +14951,7 @@ May serve to <qex>better</qex> us and worse our foes.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Bevel" source="1913 Webster">
-<p><hw>Bev"el</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[C. F. <ets>biveau</ets>, earlier <ets>buveau</ets>, Sp. <ets>baivel</ets>; of unknown origin. Cf. <er>Bevile</er>.]</ety> <sn>1.</sn> <def>Any angle other than a right angle; the angle which one surface makes with another when they are not at right angles; the slant or inclination of such surface; <as>as, to give a <ex>bevel</ex> to the edge of a table or a stone slab; the <ex>bevel</ex> of a piece of timber</as>.</def></p>
+<p><hw>Bev"el</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>biveau</ets>, earlier <ets>buveau</ets>, Sp. <ets>baivel</ets>; of unknown origin. Cf. <er>Bevile</er>.]</ety> <sn>1.</sn> <def>Any angle other than a right angle; the angle which one surface makes with another when they are not at right angles; the slant or inclination of such surface; <as>as, to give a <ex>bevel</ex> to the edge of a table or a stone slab; the <ex>bevel</ex> of a piece of timber</as>.</def></p>
 
 <p><sn>2.</sn> <def>An instrument consisting of two rules or arms, jointed together at one end, and opening to any angle, for adjusting the surfaces of work to the same or a given inclination; -- called also a <altname>bevel square</altname>.</def>  <rj><au>Gwilt.</au></rj></p>
 </entry>
@@ -34189,7 +34189,7 @@ His heaven commences ere world be past.</q> <rj><qau>Goldsmith.</qau></rj></p>
 </entry>
 
 <entry main-word="Brills" source="1913 Webster">
-<p><hw>Brills</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[CF. G. <ets>brille</ets> spectacles, D. <ets>bril</ets>, fr. L. <ets>berillus</ets>. See <er>Brilliant</er>.]</ety> <def>The hair on the eyelids of a horse.</def>  <rj><au>Bailey.</au></rj></p>
+<p><hw>Brills</hw> <pr>(<?/)</pr>, <pos>n. pl.</pos> <ety>[Cf. G. <ets>brille</ets> spectacles, D. <ets>bril</ets>, fr. L. <ets>berillus</ets>. See <er>Brilliant</er>.]</ety> <def>The hair on the eyelids of a horse.</def>  <rj><au>Bailey.</au></rj></p>
 </entry>
 
 <entry main-word="Brim" source="1913 Webster">
@@ -35738,7 +35738,7 @@ Crouch to the wicked ten?</q> <rj><qau>Macaulay.</qau></rj></p>
 </entry>
 
 <entry main-word="Brose" source="1913 Webster">
-<p><hw>Brose</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[CF. Gael. <ets>brothas</ets>. Cf. <er>Brewis</er>, <er>Broth</er>.]</ety> <def>Pottage made by pouring some boiling liquid on meal (esp. oatmeal), and stirring it. It is called beef <xex>brose</xex>, water <xex>brose</xex>, etc., according to the name of the liquid (beef broth, hot water, etc.) used.</def> <mark>[Scot.]</mark></p>
+<p><hw>Brose</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Cf. Gael. <ets>brothas</ets>. Cf. <er>Brewis</er>, <er>Broth</er>.]</ety> <def>Pottage made by pouring some boiling liquid on meal (esp. oatmeal), and stirring it. It is called beef <xex>brose</xex>, water <xex>brose</xex>, etc., according to the name of the liquid (beef broth, hot water, etc.) used.</def> <mark>[Scot.]</mark></p>
 </entry>
 
 <entry main-word="Brotel" source="1913 Webster">
@@ -35756,7 +35756,7 @@ Crouch to the wicked ten?</q> <rj><qau>Macaulay.</qau></rj></p>
 </entry>
 
 <entry main-word="Brothel" source="1913 Webster">
-<p><hw>Broth"el</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>brothel</ets>, <ets>brodel</ets>, <ets>brethel</ets>, a prostitute, a worthless fellow, fr. AS. <ets>ber<oacute/<edh/an</ets> to ruin, destroy; cf. AS. <ets>bre<oacute/tan</ets> to break, and E. <ets>brittle</ets>. The term <ets>brothel house</ets> was confused with <ets>bordel</ets> brothel. CF. <er>Bordel</er>.]</ety> <def>A house of lewdness or ill fame; a house frequented by prostitutes; a bawdyhouse.</def></p>
+<p><hw>Broth"el</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[OE. <ets>brothel</ets>, <ets>brodel</ets>, <ets>brethel</ets>, a prostitute, a worthless fellow, fr. AS. <ets>ber<oacute/<edh/an</ets> to ruin, destroy; cf. AS. <ets>bre<oacute/tan</ets> to break, and E. <ets>brittle</ets>. The term <ets>brothel house</ets> was confused with <ets>bordel</ets> brothel. Cf. <er>Bordel</er>.]</ety> <def>A house of lewdness or ill fame; a house frequented by prostitutes; a bawdyhouse.</def></p>
 </entry>
 
 <entry main-word="Brotheler" source="1913 Webster">

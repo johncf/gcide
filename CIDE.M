@@ -4964,7 +4964,7 @@ That has a name.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Malleability" source="1913 Webster">
-<p><hw>Mal"le*a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. F.  <ets>mall<eacute/abilit<eacute/</ets>.]</ety> <def>The quality or state of being malleable; -- opposed to <contr>friability</contr> and <contr>brittleness</contr>.</def>  <rj><au>Locke.</au></rj></p>
+<p><hw>Mal"le*a*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F.  <ets>mall<eacute/abilit<eacute/</ets>.]</ety> <def>The quality or state of being malleable; -- opposed to <contr>friability</contr> and <contr>brittleness</contr>.</def>  <rj><au>Locke.</au></rj></p>
 </entry>
 
 <entry main-word="Malleable" source="1913 Webster">
@@ -28769,7 +28769,7 @@ His free will.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mona" source="1913 Webster">
-<p><par/<hw>Mo"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. Sp. & Pg. <ets>mona</ets>, fem. of <ets>mono</ets> a monkey, ape.]</ety> <fld>(Zool.)</fld> <def>A small, handsome, long-tailed West American monkey (<spn>Cercopithecus mona</spn>). The body is dark olive, with a spot of white on the haunches.</def></p>
+<p><par/<hw>Mo"na</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. & Pg. <ets>mona</ets>, fem. of <ets>mono</ets> a monkey, ape.]</ety> <fld>(Zool.)</fld> <def>A small, handsome, long-tailed West American monkey (<spn>Cercopithecus mona</spn>). The body is dark olive, with a spot of white on the haunches.</def></p>
 </entry>
 
 <entry main-word="Monachal" source="1913 Webster">
@@ -31288,7 +31288,7 @@ Before the victor cross shall fly.</q> <rj><qau>Fenton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mop" source="1913 Webster">
-<p><hw>Mop</hw>, <pos>n.</pos> <ety>[CF. W. <ets>mop</ets>, <ets>mopa</ets>, Ir. <ets>moipal</ets>, Gael. <ets>moibeal</ets>, <ets>moibean</ets>; or OF. <ets>mappe</ets> a napkin (see <er>Map</er>, <er>Napkin</er>).]</ety> <sn>1.</sn> <def>An implement for washing floors, or the like, made of a piece of cloth, or a collection of thrums, or coarse yarn, fastened to a handle.</def></p>
+<p><hw>Mop</hw>, <pos>n.</pos> <ety>[Cf. W. <ets>mop</ets>, <ets>mopa</ets>, Ir. <ets>moipal</ets>, Gael. <ets>moibeal</ets>, <ets>moibean</ets>; or OF. <ets>mappe</ets> a napkin (see <er>Map</er>, <er>Napkin</er>).]</ety> <sn>1.</sn> <def>An implement for washing floors, or the like, made of a piece of cloth, or a collection of thrums, or coarse yarn, fastened to a handle.</def></p>
 
 <p><sn>2.</sn> <def>A fair where servants are hired.</def> <mark>[Prov. Eng.]</mark></p>
 
@@ -35458,7 +35458,7 @@ Life <qex>much</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Mulley" source="1913 Webster">
-<p><mhw>{ <hw>Mul"ley</hw> <pr>(?)</pr>, <hw>Mool"ley</hw>  }</mhw>, <pos>n.</pos> <ety>[CF. Gael. <ets>maolag</ets> a hornless cow, <ets>maol</ets> bald, hornless, blunt.]</ety> <sn>1.</sn> <def>A mulley or polled animal.</def> <mark>[U. S.]</mark></p>
+<p><mhw>{ <hw>Mul"ley</hw> <pr>(?)</pr>, <hw>Mool"ley</hw>  }</mhw>, <pos>n.</pos> <ety>[Cf. Gael. <ets>maolag</ets> a hornless cow, <ets>maol</ets> bald, hornless, blunt.]</ety> <sn>1.</sn> <def>A mulley or polled animal.</def> <mark>[U. S.]</mark></p>
 
 <p><sn>2.</sn> <def>A cow.</def> <mark>[Prov. Eng.; U.S., a child's word.]</mark></p>
 
@@ -36468,7 +36468,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 </entry>
 
 <entry main-word="Muntin" source="1913 Webster">
-<p><mhw>{ <hw>Mun"tin</hw> <pr>(?)</pr>, <hw>Mun"ting</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[CF. <er>Montant</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Mullion</er>; -- especially used in joiner's work.</def></p>
+<p><mhw>{ <hw>Mun"tin</hw> <pr>(?)</pr>, <hw>Mun"ting</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[Cf. <er>Montant</er>.]</ety> <fld>(Arch.)</fld> <def>Same as <er>Mullion</er>; -- especially used in joiner's work.</def></p>
 </entry>
 
 <entry main-word="Muntjac" source="1913 Webster">
@@ -36670,7 +36670,7 @@ Butter them and sugar them and put them in your <qex>muns</qex>.</q> <rj><qau>Ol
 </entry>
 
 <entry main-word="Murmur" source="1913 Webster">
-<p><hw>Mur"mur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>murmure</ets>: cf. L. <ets>murmur</ets>.  CF. <er>Murmur</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>A low, confused, and indistinct sound, like that of running water.</def></p>
+<p><hw>Mur"mur</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>murmure</ets>: cf. L. <ets>murmur</ets>.  Cf. <er>Murmur</er>, <pos>v. i.</pos>]</ety> <sn>1.</sn> <def>A low, confused, and indistinct sound, like that of running water.</def></p>
 
 <p><sn>2.</sn> <def>A complaint half suppressed, or uttered in a low, muttering voice.</def>  <rj><au>Chaucer.</au></rj></p>
 

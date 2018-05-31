@@ -23977,7 +23977,7 @@ In all its <qex>luster</qex>, to the noonday sky.</q> <rj><qau>Addison.</qau></r
 </entry>
 
 <entry main-word="Lustless" source="1913 Webster">
-<p><hw>Lust"less</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[CF. <er>Listless</er>.]</ety> <sn>1.</sn> <def>Lacking vigor; weak; spiritless.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
+<p><hw>Lust"less</hw> <pr>(?)</pr>, <pos>a.</pos> <ety>[Cf. <er>Listless</er>.]</ety> <sn>1.</sn> <def>Lacking vigor; weak; spiritless.</def> <mark>[Obs.]</mark>  <rj><au>Spenser.</au></rj></p>
 
 <p><sn>2.</sn> <def>Free from sexual lust.</def></p>
 </entry>

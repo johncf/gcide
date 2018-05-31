@@ -29496,7 +29496,7 @@ A herd of beeves <qex>disperse</qex>.</q> <rj><qau>Cowper.</qau></rj></p>
 </entry>
 
 <entry main-word="Dispersion" source="1913 Webster">
-<p><hw>Dis*per"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. F. <ets>dispersion</ets>.]</ety> <sn>1.</sn> <def>The act or process of scattering or dispersing, or the state of being scattered or separated; <as>as, the Jews in their <ex>dispersion</ex> retained their rites and ceremonies; a great <ex>dispersion</ex> of the human family took place at the building of Babel.</as></def></p>
+<p><hw>Dis*per"sion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>dispersion</ets>.]</ety> <sn>1.</sn> <def>The act or process of scattering or dispersing, or the state of being scattered or separated; <as>as, the Jews in their <ex>dispersion</ex> retained their rites and ceremonies; a great <ex>dispersion</ex> of the human family took place at the building of Babel.</as></def></p>
 
 <p><q>The days of your slaughter and of your <qex>dispersions</qex> are accomplished.</q> <rj><qau>Jer. xxv. 34.</qau></rj></p>
 

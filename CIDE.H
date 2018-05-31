@@ -7318,7 +7318,7 @@ Or any <qex>he</qex>, the proudest of thy sort.</q> <rj><qau>Shak.</qau></rj></p
 </entry>
 
 <entry main-word="Heald" source="1913 Webster">
-<p><hw>Heald</hw> <pr>(h<emac/ld)</pr>, <pos>n.</pos> <ety>[CF. <er>Heddle</er>.]</ety> <def>A heddle.</def>  <rj><au>Ure.</au></rj></p>
+<p><hw>Heald</hw> <pr>(h<emac/ld)</pr>, <pos>n.</pos> <ety>[Cf. <er>Heddle</er>.]</ety> <def>A heddle.</def>  <rj><au>Ure.</au></rj></p>
 </entry>
 
 <entry main-word="Healer" source="1913 Webster">

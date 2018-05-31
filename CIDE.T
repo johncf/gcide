@@ -8859,7 +8859,7 @@ Of towering talents, and <qex>terrestrial</qex> aims.</q> <rj><qau>Young.</qau><
 </entry>
 
 <entry main-word="Terrier" source="1913 Webster">
-<p><hw>Ter"ri*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. L. <ets>terere</ets> to rub, to rub away, <ets>terebra</ets> a borer.]</ety> <def>An auger or borer.</def> <mark>[Obs.]</mark></p>
+<p><hw>Ter"ri*er</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. L. <ets>terere</ets> to rub, to rub away, <ets>terebra</ets> a borer.]</ety> <def>An auger or borer.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Terrier" source="1913 Webster">
@@ -15031,7 +15031,7 @@ The <qex>throws</qex> and swellings of a Roman soul.</q> <rj><qau>Addison.</qau>
 </entry>
 
 <entry main-word="Thrum" source="1913 Webster">
-<p><hw>Thrum</hw>, <pos>v. i.</pos> <ety>[CF. Icel. <ets><?/ruma</ets> to rattle, to thunder, and E. <ets>drum</ets>.]</ety> <sn>1.</sn> <def>To play rudely or monotonously on a stringed instrument with the fingers; to strum.</def></p>
+<p><hw>Thrum</hw>, <pos>v. i.</pos> <ety>[Cf. Icel. <ets><?/ruma</ets> to rattle, to thunder, and E. <ets>drum</ets>.]</ety> <sn>1.</sn> <def>To play rudely or monotonously on a stringed instrument with the fingers; to strum.</def></p>
 
 <p><sn>2.</sn> <def>Hence, to make a monotonous drumming noise; <as>as, to <ex>thrum</ex> on a table</as>.</def></p>
 </entry>
@@ -15567,7 +15567,7 @@ Hard crab tree and old iron rang.</q> <rj><qau>Hudibras.</qau></rj></p>
 </entry>
 
 <entry main-word="Thwaite" source="1913 Webster">
-<p><hw>Thwaite</hw>, <pos>n.</pos> <ety>[CF. Icel. <ets><thorn/veit</ets> a piece of land, fr. <ets><thorn/v<imac/ta</ets> to cut. See <er>Thwite</er>, and cf. <er>Doit</er>, and <er>Twaite</er> land cleared of woods.]</ety> <def>Forest land cleared, and converted to tillage; an assart.</def> <mark>[Obs. or Prov. Eng.]</mark></p>
+<p><hw>Thwaite</hw>, <pos>n.</pos> <ety>[Cf. Icel. <ets><thorn/veit</ets> a piece of land, fr. <ets><thorn/v<imac/ta</ets> to cut. See <er>Thwite</er>, and cf. <er>Doit</er>, and <er>Twaite</er> land cleared of woods.]</ety> <def>Forest land cleared, and converted to tillage; an assart.</def> <mark>[Obs. or Prov. Eng.]</mark></p>
 
 <p><note><hand/ <xex>Thwaite</xex> occurs in composition as the last element in many names of places in the north of England; as, in Ros<xex>thwaite</xex>, Stone<xex>thwaite</xex>.</note></p>
 </entry>
@@ -18614,7 +18614,7 @@ Not merely <qex>titular</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Tiza" source="1913 Webster">
-<p><hw>Ti"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. Sp. <ets>tiza</ets> whitening, a kind of chalk or pipe clay.]</ety> <fld>(Chem.)</fld> <def>See <er>Ulexite</er>.</def></p>
+<p><hw>Ti"za</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Sp. <ets>tiza</ets> whitening, a kind of chalk or pipe clay.]</ety> <fld>(Chem.)</fld> <def>See <er>Ulexite</er>.</def></p>
 </entry>
 
 <entry main-word="TLC" source="PJC">
@@ -20532,7 +20532,7 @@ To have a thankless child!</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Top" source="1913 Webster">
-<p><hw>Top</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. OD. <ets>dop</ets>, <ets>top</ets>, OHG., MNG., & dial. G. <ets>topf</ets>; perhaps akin to G. <ets>topf</ets> a pot.]</ety> <sn>1.</sn> <def>A child's toy, commonly in the form of a conoid or pear, made to spin on its point, usually by drawing off a string wound round its surface or stem, the motion being sometimes continued by means of a whip.</def></p>
+<p><hw>Top</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. OD. <ets>dop</ets>, <ets>top</ets>, OHG., MNG., & dial. G. <ets>topf</ets>; perhaps akin to G. <ets>topf</ets> a pot.]</ety> <sn>1.</sn> <def>A child's toy, commonly in the form of a conoid or pear, made to spin on its point, usually by drawing off a string wound round its surface or stem, the motion being sometimes continued by means of a whip.</def></p>
 
 <p><sn>2.</sn> <fld>(Rope Making)</fld> <def>A plug, or conical block of wood, with longitudital grooves on its surface, in which the strands of the rope slide in the process of twisting.</def></p>
 </entry>

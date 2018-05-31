@@ -8595,7 +8595,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectangular" source="1913 Webster">
-<p><hw>Rec*tan"gu*lar</hw> <pr>(r?k*t?n"g?*l?r)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>rectangulaire</ets>.]</ety> <def>Right-angled; having one or more angles of ninety degrees.</def> -- <wordforms><wf>Rec*tan"gu*lar*ly</wf> <pr>(r<?/k*t<?/n"g<?/*l<?/r*l<?/)</pr>, <pos>adv.</pos> -- <wf>Rec*tan"gu*lar*ness</wf>, <pos>n.</pos></wordforms></p>
+<p><hw>Rec*tan"gu*lar</hw> <pr>(r?k*t?n"g?*l?r)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>rectangulaire</ets>.]</ety> <def>Right-angled; having one or more angles of ninety degrees.</def> -- <wordforms><wf>Rec*tan"gu*lar*ly</wf> <pr>(r<?/k*t<?/n"g<?/*l<?/r*l<?/)</pr>, <pos>adv.</pos> -- <wf>Rec*tan"gu*lar*ness</wf>, <pos>n.</pos></wordforms></p>
 </entry>
 
 <entry main-word="Rectangularity" source="1913 Webster">
@@ -8721,7 +8721,7 @@ Turned <qex>recreant</qex> to God, ingrate and false.</q> <rj><qau>Milton.</qau>
 </entry>
 
 <entry main-word="Rectoral" source="1913 Webster">
-<p><hw>Rec"tor*al</hw> <pr>(-<ait/l)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>rectoral</ets>.]</ety> <def>Pertaining to a rector or governor.</def></p>
+<p><hw>Rec"tor*al</hw> <pr>(-<ait/l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>rectoral</ets>.]</ety> <def>Pertaining to a rector or governor.</def></p>
 </entry>
 
 <entry main-word="Rectorate" source="1913 Webster">
@@ -10913,7 +10913,7 @@ The <qex>reflex</qex> of a human face.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Reflexible" source="1913 Webster">
-<p><hw>Re*flex"i*ble</hw> <pr>(r?*fl?ks"?*b'l)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>r<eacute/flexible</ets>.]</ety> <def>Capable of being reflected, or thrown back.</def></p>
+<p><hw>Re*flex"i*ble</hw> <pr>(r?*fl?ks"?*b'l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>r<eacute/flexible</ets>.]</ety> <def>Capable of being reflected, or thrown back.</def></p>
 
 <p><q>The light of the sun consists of rays differently refrangible and <qex>reflexible</qex>.</q> <rj><qau>Cheyne.</qau></rj></p>
 </entry>
@@ -11337,7 +11337,7 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Refreshment" source="1913 Webster">
-<p><hw>Re*fresh"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[CF. OF. <ets>refreschissement</ets>, F. <ets>rafra<icir/chissement</ets>.]</ety> <sn>1.</sn> <def>The act of refreshing, or the state of being refreshed; restoration of strength, spirit, vigor, or liveliness; relief after suffering; new life or animation after depression.</def></p>
+<p><hw>Re*fresh"ment</hw> <pr>(-m<eit/nt)</pr>, <pos>n.</pos> <ety>[Cf. OF. <ets>refreschissement</ets>, F. <ets>rafra<icir/chissement</ets>.]</ety> <sn>1.</sn> <def>The act of refreshing, or the state of being refreshed; restoration of strength, spirit, vigor, or liveliness; relief after suffering; new life or animation after depression.</def></p>
 
 <p><sn>2.</sn> <def>That which refreshes; means of restoration or reanimation; especially, an article of food or drink.</def></p>
 </entry>
@@ -11391,7 +11391,7 @@ The shield of Pallas, and renew their gold.</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Refrigeratory" source="1913 Webster">
-<p><hw>Re*frig"er*a*to*ry</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-ries</plw> <pr>(-fr<?/z)</pr>.</plu> <ety>[CF. F. <ets>r<eacute/frig<eacute/ratoire</ets>.]</ety> <def>That which refrigerates or cools.</def> Specifically: <sd>(a)</sd> <def>In distillation, a vessel filled with cold water, surrounding the worm, the vapor in which is thereby condensed.</def> <sd>(b)</sd> <def>The chamber, or tank, in which ice is formed, in an ice machine.</def></p>
+<p><hw>Re*frig"er*a*to*ry</hw>, <pos>n.</pos>; <plu><it>pl.</it> <plw>-ries</plw> <pr>(-fr<?/z)</pr>.</plu> <ety>[Cf. F. <ets>r<eacute/frig<eacute/ratoire</ets>.]</ety> <def>That which refrigerates or cools.</def> Specifically: <sd>(a)</sd> <def>In distillation, a vessel filled with cold water, surrounding the worm, the vapor in which is thereby condensed.</def> <sd>(b)</sd> <def>The chamber, or tank, in which ice is formed, in an ice machine.</def></p>
 </entry>
 
 <entry main-word="Refrigerium" source="1913 Webster">
@@ -11619,7 +11619,7 @@ The meanest tool that he may chance to use.</q> <rj><qau>Herbert.</qau></rj></p>
 </entry>
 
 <entry main-word="Regal" source="1913 Webster">
-<p><hw>Re"gal</hw>, <pos>n.</pos> <ety>[F. <ets>r<eacute/gale</ets>, It. <ets>regale</ets>. CF. <er>Rigoll</er>.]</ety> <fld>(Mus.)</fld> <def>A small portable organ, played with one hand, the bellows being worked with the other, -- used in the sixteenth and seventeenth centuries.</def></p>
+<p><hw>Re"gal</hw>, <pos>n.</pos> <ety>[F. <ets>r<eacute/gale</ets>, It. <ets>regale</ets>. Cf. <er>Rigoll</er>.]</ety> <fld>(Mus.)</fld> <def>A small portable organ, played with one hand, the bellows being worked with the other, -- used in the sixteenth and seventeenth centuries.</def></p>
 </entry>
 
 <entry main-word="Regale" source="1913 Webster">
@@ -11845,7 +11845,7 @@ An indistinct <qex>regard</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Regency" source="1913 Webster">
-<p><hw>Re"gen*cy</hw> <pr>(r?*j<eit/n*s?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Regencies</plw> <pr>(-s<?/z)</pr>.</plu> <ety>[CF. F. <ets>r<eacute/gence</ets>, LL. <ets>regentia</ets>. See <er>Regent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>The office of ruler; rule; authority; government.</def></p>
+<p><hw>Re"gen*cy</hw> <pr>(r?*j<eit/n*s?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Regencies</plw> <pr>(-s<?/z)</pr>.</plu> <ety>[Cf. F. <ets>r<eacute/gence</ets>, LL. <ets>regentia</ets>. See <er>Regent</er>, <pos>a.</pos>]</ety> <sn>1.</sn> <def>The office of ruler; rule; authority; government.</def></p>
 
 <p><sn>2.</sn> <def>Especially, the office, jurisdiction, or dominion of a regent or vicarious ruler, or of a body of regents; deputed or vicarious government.</def>  <rj><au>Sir W. Temple.</au></rj></p>
 
@@ -12700,7 +12700,7 @@ Of heaven, of ocean, and deep hell beneath.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Reim" source="1913 Webster">
-<p><hw>Reim</hw> <pr>(r?m)</pr>, <pos>n.</pos> <ety>[D. <ets>riem</ets>, akin to G <ets>riemen</ets>; CF. Gr. <?/<?/<?/<?/ a towing line.]</ety> <def>A strip of oxhide, deprived of hair, and rendered pliable, -- used for twisting into ropes, etc.</def> <mark>[South Africa]</mark>  <rj><au>Simmonds.</au></rj></p>
+<p><hw>Reim</hw> <pr>(r?m)</pr>, <pos>n.</pos> <ety>[D. <ets>riem</ets>, akin to G <ets>riemen</ets>; Cf. Gr. <?/<?/<?/<?/ a towing line.]</ety> <def>A strip of oxhide, deprived of hair, and rendered pliable, -- used for twisting into ropes, etc.</def> <mark>[South Africa]</mark>  <rj><au>Simmonds.</au></rj></p>
 </entry>
 
 <entry main-word="Reimbark" source="1913 Webster">
@@ -12712,7 +12712,7 @@ Of heaven, of ocean, and deep hell beneath.</q> <rj><qau>Prior.</qau></rj></p>
 </entry>
 
 <entry main-word="Reimbursable" source="1913 Webster">
-<p><hw>Re`im*burs"a*ble</hw> <pr>(r?`?m*b?rs"?*b'l)</pr>, <pos>a.</pos> <ety>[CF. F. <ets>remboursable</ets>.]</ety> <def>Capable of being repaid; repayable.</def></p>
+<p><hw>Re`im*burs"a*ble</hw> <pr>(r?`?m*b?rs"?*b'l)</pr>, <pos>a.</pos> <ety>[Cf. F. <ets>remboursable</ets>.]</ety> <def>Capable of being repaid; repayable.</def></p>
 
 <p><q>A loan has been made of two millions of dollars, <qex>reimbursable</qex> in ten years.</q> <rj><qau>A. Hamilton.</qau></rj></p>
 </entry>
@@ -22137,7 +22137,7 @@ The voice again.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Reverberation" source="1913 Webster">
-<p><hw>Re*ver`ber*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. F. <ets>r<eacute/verb<eacute/ration</ets>.]</ety> <def>The act of reverberating; especially, the act of reflecting light or heat, or reechoing sound; <as>as, the <ex>reverberation</ex> of rays from a mirror; the <ex>reverberation</ex> of rays from a mirror; the <ex>reverberation</ex> of voices; the <ex>reverberation</ex> of heat or flame in a furnace.</as></def></p>
+<p><hw>Re*ver`ber*a"tion</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>r<eacute/verb<eacute/ration</ets>.]</ety> <def>The act of reverberating; especially, the act of reflecting light or heat, or reechoing sound; <as>as, the <ex>reverberation</ex> of rays from a mirror; the <ex>reverberation</ex> of rays from a mirror; the <ex>reverberation</ex> of voices; the <ex>reverberation</ex> of heat or flame in a furnace.</as></def></p>
 </entry>
 
 <entry main-word="Reverberative" source="1913 Webster">
@@ -25054,7 +25054,7 @@ Was <qex>rife</qex>, and perfect in may listening ear.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="Riffle" source="1913 Webster">
-<p><hw>Rif"fle</hw> <pr>(r<icr/f"f'l)</pr>, <pos>n.</pos> <ety>[CF. G. <ets>riffeln</ets>, <ets>riefeln</ets>, to groove.  Cf. <er>Rifle</er> a gun.]</ety> <sn>1.</sn> <fld>(Mining)</fld> <def>A trough or sluice having cleats, grooves, or steps across the bottom for holding quicksilver and catching particles of gold when auriferous earth is washed; also, one of the cleats, grooves, or steps in such a trough. Also called <xex>ripple</xex>.</def></p>
+<p><hw>Rif"fle</hw> <pr>(r<icr/f"f'l)</pr>, <pos>n.</pos> <ety>[Cf. G. <ets>riffeln</ets>, <ets>riefeln</ets>, to groove.  Cf. <er>Rifle</er> a gun.]</ety> <sn>1.</sn> <fld>(Mining)</fld> <def>A trough or sluice having cleats, grooves, or steps across the bottom for holding quicksilver and catching particles of gold when auriferous earth is washed; also, one of the cleats, grooves, or steps in such a trough. Also called <xex>ripple</xex>.</def></p>
 
 <p source=""><sn>2.</sn> <def>A ripple in a stream or current of water; also, a place where the water ripples, as on a shallow rapid.</def> <mark>[Local, U. S.]</mark></p>
 
@@ -25066,11 +25066,11 @@ Was <qex>rife</qex>, and perfect in may listening ear.</q> <rj><qau>Milton.</qau
 </entry>
 
 <entry main-word="Riffraff" source="1913 Webster">
-<p><hw>Riff"raff`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>rif and raf</ets> every particle, OF. <ets>rif et raf</ets>. CF. <er>Raff</er>, <ets>and 1st</ets> <er>Rifle</er>.]</ety> <def>Sweepings; refuse; the lowest order of society.</def>  <rj><au>Beau. & Fl.</au></rj></p>
+<p><hw>Riff"raff`</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[OE. <ets>rif and raf</ets> every particle, OF. <ets>rif et raf</ets>. Cf. <er>Raff</er>, <ets>and 1st</ets> <er>Rifle</er>.]</ety> <def>Sweepings; refuse; the lowest order of society.</def>  <rj><au>Beau. & Fl.</au></rj></p>
 </entry>
 
 <entry main-word="Rifle" source="1913 Webster">
-<p><hw>Ri"fle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rifled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Rifling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[F. <ets>rifler</ets> to rifle, sweep away; of uncertain origin. CF. <er>Raff</er>.]</ety> <sn>1.</sn> <def>To seize and bear away by force; to snatch away; to carry off.</def></p>
+<p><hw>Ri"fle</hw> <pr>(?)</pr>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Rifled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Rifling</conjf> <pr>(?)</pr>.]</vmorph> <ety>[F. <ets>rifler</ets> to rifle, sweep away; of uncertain origin. Cf. <er>Raff</er>.]</ety> <sn>1.</sn> <def>To seize and bear away by force; to snatch away; to carry off.</def></p>
 
 <p><q>Till time shall <qex>rifle</qex> every youthful grace.</q> <rj><qau>Pope.</qau></rj></p>
 
@@ -26464,7 +26464,7 @@ Robbing a <qex>ripper</qex> of his fish.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 </entry>
 
 <entry main-word="Rise" source="1913 Webster">
-<p><hw>Rise</hw> <pr>(r<imac/z)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Rose</conjf> <pr>(r<omac/z)</pr>; <pos>p. p.</pos> <conjf>Risen</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Rising</conjf>.]</vmorph> <ety>[AS. <ets>r<imac/san</ets>; akin to OS. <ets>r<imac/san</ets>, D. <ets>rijzen</ets>, OHG. <ets>r<imac/san</ets> to rise, fall, Icel. <ets>r<imac/sa</ets>, Goth. ur<ets>reisan</ets>, G. <ets>reise</ets> journey. CF. <er>Arise</er>, <er>Raise</er>, <er>Rear</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>To move from a lower position to a higher; to ascend; to mount up. Specifically: -- <sd>(a)</sd> To go upward by walking, climbing, flying, or any other voluntary motion; <as>as, a bird <ex>rises</ex> in the air; a fish <ex>rises</ex> to the bait</as>.</def></p>
+<p><hw>Rise</hw> <pr>(r<imac/z)</pr>, <pos>v. i.</pos> <vmorph>[<pos>imp.</pos> <conjf>Rose</conjf> <pr>(r<omac/z)</pr>; <pos>p. p.</pos> <conjf>Risen</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Rising</conjf>.]</vmorph> <ety>[AS. <ets>r<imac/san</ets>; akin to OS. <ets>r<imac/san</ets>, D. <ets>rijzen</ets>, OHG. <ets>r<imac/san</ets> to rise, fall, Icel. <ets>r<imac/sa</ets>, Goth. ur<ets>reisan</ets>, G. <ets>reise</ets> journey. Cf. <er>Arise</er>, <er>Raise</er>, <er>Rear</er>, <pos>v.</pos>]</ety> <sn>1.</sn> <def>To move from a lower position to a higher; to ascend; to mount up. Specifically: -- <sd>(a)</sd> To go upward by walking, climbing, flying, or any other voluntary motion; <as>as, a bird <ex>rises</ex> in the air; a fish <ex>rises</ex> to the bait</as>.</def></p>
 
 <p><sd>(b)</sd> <def>To ascend or float in a fluid, as gases or vapors in air, cork in water, and the like.</def></p>
 
@@ -26614,7 +26614,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Risibility" source="1913 Webster">
-<p><hw>Ris`i*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. F. <ets>risibilit<eacute/</ets>.]</ety> <def>The quality of being risible; <as>as, <ex>risibility</ex> is peculiar to the human species</as>.</def></p>
+<p><hw>Ris`i*bil"i*ty</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>risibilit<eacute/</ets>.]</ety> <def>The quality of being risible; <as>as, <ex>risibility</ex> is peculiar to the human species</as>.</def></p>
 
 <p><q>A strong and obvious disposition to <qex>risibility</qex>.</q> <rj><qau>Sir W. Scott.</qau></rj></p>
 </entry>
@@ -26672,7 +26672,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Risk" source="1913 Webster">
-<p><hw>Risk</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Risked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Risking</conjf>.]</vmorph> <ety>[CF. F. <ets>risquer</ets>. See <er>Risk</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To expose to risk, hazard, or peril; to venture; <as>as, to <ex>risk</ex> goods on board of a ship; to <ex>risk</ex> one's person in battle; to <ex>risk</ex> one's fame by a publication</as>.</def></p>
+<p><hw>Risk</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Risked</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Risking</conjf>.]</vmorph> <ety>[Cf. F. <ets>risquer</ets>. See <er>Risk</er>, <pos>n.</pos>]</ety> <sn>1.</sn> <def>To expose to risk, hazard, or peril; to venture; <as>as, to <ex>risk</ex> goods on board of a ship; to <ex>risk</ex> one's person in battle; to <ex>risk</ex> one's fame by a publication</as>.</def></p>
 
 <p><sn>2.</sn> <def>To incur the risk or danger of; <as>as, to <ex>risk</ex> a battle</as>.</def></p>
 
@@ -26730,7 +26730,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Rite" source="1913 Webster">
-<p><hw>Rite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ritus</ets>; cf. Skr. <ets>r<imac/ti</ets> a stream, a running, way, manner, <ets>ri</ets> to flow: cf. F. <ets>rit</ets>, <ets>rite</ets>. CF. <er>Rivulet</er>.]</ety> <def>The act of performing divine or solemn service, as established by law, precept, or custom; a formal act of religion or other solemn duty; a solemn observance; a ceremony; <as>as, the <ex>rites</ex> of freemasonry</as>.</def></p>
+<p><hw>Rite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>ritus</ets>; cf. Skr. <ets>r<imac/ti</ets> a stream, a running, way, manner, <ets>ri</ets> to flow: cf. F. <ets>rit</ets>, <ets>rite</ets>. Cf. <er>Rivulet</er>.]</ety> <def>The act of performing divine or solemn service, as established by law, precept, or custom; a formal act of religion or other solemn duty; a solemn observance; a ceremony; <as>as, the <ex>rites</ex> of freemasonry</as>.</def></p>
 
 <p><q>He looked with indifference on <qex>rites</qex>, names, and forms of ecclesiastical polity.</q> <rj><qau>Macaulay.</qau></rj></p>
 
@@ -26768,7 +26768,7 @@ With blackest insurrection.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Ritualist" source="1913 Webster">
-<p><hw>Rit"u*al*ist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. F. <ets>ritualiste</ets>.]</ety> <def>One skilled un, or attached to, a ritual; one who advocates or practices ritualism.</def></p>
+<p><hw>Rit"u*al*ist</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. F. <ets>ritualiste</ets>.]</ety> <def>One skilled un, or attached to, a ritual; one who advocates or practices ritualism.</def></p>
 </entry>
 
 <entry main-word="Ritualistic" source="1913 Webster">
@@ -26956,7 +26956,7 @@ The <qex>rivals</qex> of my watch, bid them make haste.</q> <rj><qau>Shak.</qau>
 </entry>
 
 <entry main-word="Rivulet" source="1913 Webster">
-<p><hw>Riv"u*let</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Earlier <ets>rivolet</ets>, It. <ets>rivoletto</ets>, a dim. fr. <ets>rivolo</ets>, L. <ets>rivulus</ets>, dim. of <ets>rivus</ets> a brook. CF. <er>Rival</er>, <er>Rite</er>.]</ety> <def>A small stream or brook; a streamlet.</def></p>
+<p><hw>Riv"u*let</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Earlier <ets>rivolet</ets>, It. <ets>rivoletto</ets>, a dim. fr. <ets>rivolo</ets>, L. <ets>rivulus</ets>, dim. of <ets>rivus</ets> a brook. Cf. <er>Rival</er>, <er>Rite</er>.]</ety> <def>A small stream or brook; a streamlet.</def></p>
 
 <p><q>By fountain or by shady <qex>rivulet</qex><br/
 He sought them.</q> <rj><qau>Milton.</qau></rj></p>
@@ -27480,7 +27480,7 @@ Is hauled about in gallantry <qex>robust</qex>.</q> <rj><qau>Thomson.</qau></rj>
 </entry>
 
 <entry main-word="Rochet" source="1913 Webster">
-<p><hw>Roch"et</hw>, <pos>n.</pos> <ety>[Probably corrupted fr. F. <ets>rouget</ets> the red gurnet, from <ets>rouge</ets> red. CF. <er>Rouge</er>.]</ety> <fld>(Zool.)</fld> <def>The red gurnard, or gurnet. See <er>Gurnard</er>.</def></p>
+<p><hw>Roch"et</hw>, <pos>n.</pos> <ety>[Probably corrupted fr. F. <ets>rouget</ets> the red gurnet, from <ets>rouge</ets> red. Cf. <er>Rouge</er>.]</ety> <fld>(Zool.)</fld> <def>The red gurnard, or gurnet. See <er>Gurnard</er>.</def></p>
 </entry>
 
 <entry main-word="Roching cask" source="1913 Webster">
@@ -28140,7 +28140,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 
 <p><sn>8.</sn> <fld>(Zool.)</fld> <def>Any insect whose larva rolls up leaves; a leaf roller. see <er>Tortrix</er>.</def></p>
 
-<p><sn>9.</sn> <ety>[CF. F. <ets>rollier</ets>.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Old World picarian birds of the family <fam>Coraciadae</fam>. The name alludes to their habit of suddenly turning over or <ldquo/tumbling<rdquo/ in flight.</def></p>
+<p><sn>9.</sn> <ety>[Cf. F. <ets>rollier</ets>.]</ety> <fld>(Zool.)</fld> <def>Any one of numerous species of Old World picarian birds of the family <fam>Coraciadae</fam>. The name alludes to their habit of suddenly turning over or <ldquo/tumbling<rdquo/ in flight.</def></p>
 
 <p><note><hand/ Many of the species are brilliantly colored. The common European species (<spn>Coracias garrula</spn>) has the head, neck, and under parts light blue varied with green, the scapulars chestnut brown, and the tail blue, green, and black. The broad-billed rollers of India and Africa belong to the genus <gen>Eurystomus</gen>, as the oriental roller (<spn>E. orientalis</spn>), and the Australian roller, or dollar bird (<spn>E. Pacificus</spn>).  The latter is dark brown on the head and neck, sea green on the back, and bright blue on the throat, base of the tail, and parts of the wings.  It has a silvery-white spot on the middle of each wing.</note></p>
 
@@ -28378,7 +28378,7 @@ The lasting <qex>roll</qex>, recording what we say.</q> <rj><qau>Prior.</qau></r
 </entry>
 
 <entry main-word="Romanticism" source="1913 Webster">
-<p><hw>Ro*man"ti*cism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. It. <ets>romanticismo</ets>, F. <ets>romantisme</ets>, <ets>romanticisme</ets>.]</ety> <def>A fondness for romantic characteristics or peculiarities; specifically, in modern literature, an aiming at romantic effects; -- applied to the productions of a school of writers who sought to revive certain medi<?/val forms and methods in opposition to the so-called classical style.</def></p>
+<p><hw>Ro*man"ti*cism</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. It. <ets>romanticismo</ets>, F. <ets>romantisme</ets>, <ets>romanticisme</ets>.]</ety> <def>A fondness for romantic characteristics or peculiarities; specifically, in modern literature, an aiming at romantic effects; -- applied to the productions of a school of writers who sought to revive certain medi<?/val forms and methods in opposition to the so-called classical style.</def></p>
 
 <p><q>He [Lessing] may be said to have begun the revolt from pseudo-classicism in poetry, and to have been thus unconsciously the founder of <qex>romanticism</qex>.</q> <rj><qau>Lowell.</qau></rj></p>
 </entry>
@@ -28425,7 +28425,7 @@ Unto my wild <qex>romaunt</qex>.</q> <rj><qau>Mrs. Browning.</qau></rj></p>
 </entry>
 
 <entry main-word="Romekin" source="1913 Webster">
-<p><hw>Rome"kin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[CF. <er>Rummer</er>.]</ety> <def>A drinking cup.</def> <altsp>[Written also <asp>romkin</asp>.]</altsp> <mark>[Obs.]</mark>  <rj><au>Halliwell.</au></rj></p>
+<p><hw>Rome"kin</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. <er>Rummer</er>.]</ety> <def>A drinking cup.</def> <altsp>[Written also <asp>romkin</asp>.]</altsp> <mark>[Obs.]</mark>  <rj><au>Halliwell.</au></rj></p>
 </entry>
 
 <entry main-word="Rome penny" source="1913 Webster">
@@ -28765,7 +28765,7 @@ Makes wing to the <qex>rooky</qex> wood.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Roomage" source="1913 Webster">
-<p><hw>Room"age</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Room</er>. CF. <er>Rummage</er>.]</ety> <def>Space; place; room.</def> <mark>[Obs.]</mark>  <rj><au>Sir H. Wotton.</au></rj></p>
+<p><hw>Room"age</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Room</er>. Cf. <er>Rummage</er>.]</ety> <def>Space; place; room.</def> <mark>[Obs.]</mark>  <rj><au>Sir H. Wotton.</au></rj></p>
 </entry>
 
 <entry main-word="Roomer" source="1913 Webster">
