@@ -4099,7 +4099,7 @@ As every plot can undermine and shake?</q> <rj><qau>Dryden.</qau></rj></p>
 </entry>
 
 <entry main-word="Malachite" source="1913 Webster">
-<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <grk>mala`ch</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
+<p><hw>Mal"a*chite</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From Gr. <grk>mala`ch</grk> a mallow, from its resembling the green color of the leaf of mallows: cf. F. <ets>malachite</ets>.  Cf. <er>Mallow</er>.]</ety> <fld>(Min.)</fld> <def>Native hydrous carbonate of copper, usually occurring in green mammillary masses with concentric fibrous structure.</def></p>
 
 <p><note><hand/ <xex>Green malachite</xex>, or malachite proper, admits of a high polish, and is sometimes used for ornamental work. <xex>Blue malachite</xex>, or azurite, is a related species of a deep blue color.</note></p>
 

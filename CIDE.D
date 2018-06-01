@@ -6242,7 +6242,7 @@ His weary wagon to the western vale.</q> <rj><qau>Spenser.</qau></rj></p>
 </entry>
 
 <entry main-word="decor" source="PJC;;WordNet 1.5">
-<p><mhw><hw>decor</hw>, <hw>d<eacute/cor</hw></mhw> <pos>n.</pos> <ety>[Fr. <ets>d<eacute/cor</ets>, fr. <ets>d<eacute/corer</ets> to decorate, fr. L <ets>decorare</ets>.  See <er>decorate</er>.]</ety>  <sn>1.</sn> <def>the layout, style, and furnishings of a livable interior.</def><br/
+<p><mhw><hw>decor</hw>, <hw>d<eacute/cor</hw></mhw> <pos>n.</pos> <ety>[F. <ets>d<eacute/cor</ets>, fr. <ets>d<eacute/corer</ets> to decorate, fr. L. <ets>decorare</ets>.  See <er>decorate</er>.]</ety>  <sn>1.</sn> <def>the layout, style, and furnishings of a livable interior.</def><br/
 <syn><b>Syn. --</b> interior decoration.</syn></p>
 
 <p source="PJC"><sn>2.</sn> <def>Decoration{2}.</def></p>
@@ -22232,13 +22232,15 @@ Through words and things, a <qex>dim</qex> and perilous way.</q> <rj><qau>Wordsw
 
 <p><sn>4.</sn> <fld>(Alg.)</fld> <def>A literal factor, as numbered in characterizing a term. The term <xex>dimensions</xex> forms with the cardinal numbers a phrase equivalent to <xex>degree</xex> with the ordinal; thus, <mathex>a<exp>2</exp>b<exp>2</exp>c</mathex> is a term of five <xex>dimensions</xex>, or of the fifth degree.</def></p>
 
-<p source=""><sn>5.</sn> <pluf>pl.</pluf> <fld>(Phys.)</fld> <def>The manifoldness with which the fundamental units of time, length, and mass are involved in determining the units of other physical quantities.</def> <note>Thus, since the unit of velocity varies directly as the unit of length and inversely as the unit of time, the <ex>dimensions</ex> of velocity are said to be <mathex>length <divide/ time</mathex>; the <ex>dimensions</ex> of work are <mathex>mass <times/ (length)<exp>2</exp> <divide/ (time)<exp>2</exp></mathex>; the <ex>dimensions</ex> of density are <mathex>mass <divide/ (length)<exp>3</exp></mathex>.</note></p>
+<p><sn>5.</sn> <pluf>pl.</pluf> <fld>(Phys.)</fld> <def>The manifoldness with which the fundamental units of time, length, and mass are involved in determining the units of other physical quantities.</def> <note>Thus, since the unit of velocity varies directly as the unit of length and inversely as the unit of time, the <ex>dimensions</ex> of velocity are said to be <mathex>length <divide/ time</mathex>; the <ex>dimensions</ex> of work are <mathex>mass <times/ (length)<exp>2</exp> <divide/ (time)<exp>2</exp></mathex>; the <ex>dimensions</ex> of density are <mathex>mass <divide/ (length)<exp>3</exp></mathex>.</note></p>
 
-<p><cs><mcol><col>Dimensional lumber</col>, <col>Dimension lumber</col>, <col>Dimension scantling</col>, <or/ <col>Dimension stock</col></mcol> <fld>(Carp.)</fld>, <cd>lumber for building, etc., cut to the sizes usually in demand, or to special sizes as ordered.</cd> -- <col>Dimension stone</col>, <cd>stone delivered from the quarry rough, but brought to such sizes as are requisite for cutting to dimensions given.</cd></cs></p>
+<p><cs><col>Dimension lumber</col>, <col>Dimension scantling</col>, <or/ <col>Dimension stock</col> <fld>(Carp.)</fld>, <cd>lumber for building, etc., cut to the sizes usually in demand, or to special sizes as ordered.</cd> -- <col>Dimension stone</col>, <cd>stone delivered from the quarry rough, but brought to such sizes as are requisite for cutting to dimensions given.</cd></cs></p>
 </entry>
 
 <entry main-word="Dimensional" source="1913 Webster">
 <p><hw>Di*men"sion*al</hw> <pr>(?)</pr>, <pos>a.</pos> <def>Pertaining to dimension.</def></p>
+
+<p source="JCF"><cs><col>Dimensional lumber</col>. <cd>Same as <cref>Dimension lumber</cref>, under <er>Dimension</er>.</cd></p>
 </entry>
 
 <entry main-word="Dimensioned" source="1913 Webster">
@@ -41508,7 +41510,7 @@ That <qex>droops</qex> his sapless branches to the ground.</q> <rj><qau>Shak.</q
 </entry>
 
 <entry main-word="Drop" source="1913 Webster">
-<p><hw>Drop</hw> <pr>(dr<ocr/p)</pr>, <pos>n.</pos> <ety>[OE. <ets>drope</ets>, AS. <ets>dropa</ets>; akin to OS. <ets>dropo</ets>, D. <ets>drop</ets>, OHG. <ets>tropo</ets>, G. <ets>tropfen</ets>, Icel. <ets>dropi</ets>, Sw. <ets>droppe</ets>; and Fr. AS. <ets>dre<oacute/pan</ets> to drip, drop; akin to OS. <ets>driopan</ets>, D. <ets>druipen</ets>, OHG. <ets>triofan</ets>, G. <ets>triefen</ets>, Icel. <ets>drj<umac/pa</ets>.  Cf. <er>Drip</er>, <er>Droop</er>.]</ety> <sn>1.</sn> <def>The quantity of fluid which falls in one small spherical mass; a liquid globule; a minim; hence, also, the smallest easily measured portion of a fluid; a small quantity; <as>as, a <ex>drop</ex> of water</as>.</def></p>
+<p><hw>Drop</hw> <pr>(dr<ocr/p)</pr>, <pos>n.</pos> <ety>[OE. <ets>drope</ets>, AS. <ets>dropa</ets>; akin to OS. <ets>dropo</ets>, D. <ets>drop</ets>, OHG. <ets>tropo</ets>, G. <ets>tropfen</ets>, Icel. <ets>dropi</ets>, Sw. <ets>droppe</ets>; and fr. AS. <ets>dre<oacute/pan</ets> to drip, drop; akin to OS. <ets>driopan</ets>, D. <ets>druipen</ets>, OHG. <ets>triofan</ets>, G. <ets>triefen</ets>, Icel. <ets>drj<umac/pa</ets>.  Cf. <er>Drip</er>, <er>Droop</er>.]</ety> <sn>1.</sn> <def>The quantity of fluid which falls in one small spherical mass; a liquid globule; a minim; hence, also, the smallest easily measured portion of a fluid; a small quantity; <as>as, a <ex>drop</ex> of water</as>.</def></p>
 
 <p><q>With minute <qex>drops</qex> from off the eaves.</q> <rj><qau>Milton.</qau></rj></p>
 

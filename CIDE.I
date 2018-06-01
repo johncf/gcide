@@ -1517,7 +1517,7 @@ As th' <qex>idol</qex> of her maker's great magnificence.</q> <rj><qau>Spenser.<
 </entry>
 
 <entry main-word="Idolatry" source="1913 Webster">
-<p><hw>I*dol"a*try</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Idolatries</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>idol<acir/trie</ets>, LL. <ets>idolatria</ets>, L. <ets>idololatria</ets>, Fr. Gr. <?/; <?/ idol + <?/ service.]</ety> <sn>1.</sn> <def>The worship of idols, images, or anything which is not God; the worship of false gods.</def></p>
+<p><hw>I*dol"a*try</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Idolatries</plw> <pr>(#)</pr>.</plu> <ety>[F. <ets>idol<acir/trie</ets>, LL. <ets>idolatria</ets>, L. <ets>idololatria</ets>, fr. Gr. <?/; <?/ idol + <?/ service.]</ety> <sn>1.</sn> <def>The worship of idols, images, or anything which is not God; the worship of false gods.</def></p>
 
 <p><q>His eye surveyed the dark <qex>idolatries</qex><br/
 Of alienated Judah.</q> <rj><qau>Milton.</qau></rj></p>
@@ -31177,8 +31177,8 @@ Hitting thy aged ear, should pierce too deep.</q> <rj><qau>Milton.</qau></rj></p
 <p><hw>Is*ag"e*lous</hw> <pr>(<imac/s*<acr/g"<ecr/*l<ucr/s)</pr>, <pos>a.</pos> <ety>[<ets>Is-</ets> + Gr. <grk>a`gelos</grk> information.]</ety> <def>Containing the same information; <as>as, <ex>isagelous</ex> sentences</as>.</def> <ldquo/The coded message and the original, though appearing entirely unlike, are completely <xex>isagelous</xex>.<rdquo/ <au>Bacon</au> <ldquo/The complementary strands have <xex>isagelous</xex> sequences.<rdquo/ <au>J. D. Watson.</au> -- <def2><hw>Is"a*gel</hw> <pos>n.</pos> <def>One of two or more objects containing the same information.</def></def2></p>
 </entry>
 
-<entry main-word="Isagoge" source="">
-<p><hw>I"sa*goge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Fr. <?/, fr. <?/ to introduce; <?/ into + <?/ to lead.]</ety> <def>An introduction.</def> <mark>[Obs.]</mark>  <rj><au>Harris.</au></rj></p>
+<entry main-word="Isagoge" source="1913 Webster">
+<p><hw>I"sa*goge</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L., fr. Gr. <?/, fr. <?/ to introduce; <?/ into + <?/ to lead.]</ety> <def>An introduction.</def> <mark>[Obs.]</mark>  <rj><au>Harris.</au></rj></p>
 </entry>
 
 <entry main-word="Isagogic" source="1913 Webster">

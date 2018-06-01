@@ -2405,16 +2405,16 @@ When he would he shall have <qex>nay</qex>.</q> <rj><qau>Old Prov.</qau></rj></p
 <p><hw>Naz"i*rite</hw> <pr>(?)</pr>, <pos>prop. n.</pos> <def>A Nazarite.</def></p>
 </entry>
 
-<entry main-word="ne" source="1913 Webster">
-<p><hw>ne</hw> <pr>(n<emac/)</pr>, <pos>adv.</pos> <ety>[AS. <ets>ne</ets>. See <er>No</er>.]</ety> <def>Not; never.</def> <mark>[Obs.]</mark></p>
+<entry main-word="Ne" source="1913 Webster">
+<p><hw>Ne</hw> <pr>(n<emac/)</pr>, <pos>adv.</pos> <ety>[AS. <ets>ne</ets>. See <er>No</er>.]</ety> <def>Not; never.</def> <mark>[Obs.]</mark></p>
 
 <p><q>He never yet no villany <qex>ne</qex> said.</q> <rj><qau>Chaucer.</qau></rj></p>
 
 <p><note><hand/ <xex>Ne</xex> was formerly used as the universal adverb of negation, and survives in certain compounds, as <xex>n</xex>ever (= <xex>ne</xex> ever) and <xex>n</xex>one (= <xex>ne</xex> one). Other combinations, now obsolete, will be found in the Vocabulary, as <xex>nad</xex>, <xex>nam</xex>, <xex>nil</xex>. See <er>Negative</er>, <snr>2</snr>.</note></p>
 </entry>
 
-<entry main-word="ne" source="1913 Webster">
-<p><hw>ne</hw>, <pos>conj.</pos> <ety>[See <er>Ne</er>, <pos>adv.</pos>]</ety> <def>Nor.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
+<entry main-word="Ne" source="1913 Webster">
+<p><hw>Ne</hw>, <pos>conj.</pos> <ety>[See <er>Ne</er>, <pos>adv.</pos>]</ety> <def>Nor.</def> <mark>[Obs.]</mark>  <rj><au>Shak.</au></rj></p>
 
 <p><q>No niggard <qex>ne</qex> no fool.</q> <rj><qau>Chaucer.</qau></rj></p>
 
@@ -4472,7 +4472,7 @@ That I should <qex>neither</qex> sell, nor give, nor lose it.</q> <rj><qau>Shak.
 </entry>
 
 <entry main-word="Nepenthe" source="1913 Webster">
-<p><hw>Ne*pen"the</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. Gr. <?/ removing all sorrow; hence, an epithet of an Egyptian drug which lulled sorrow for the day; <?/ not + <?/ sorrow, grief.]</ety> <def>A drug used by the ancients to give relief from pain and sorrow; -- by some supposed to have been opium or hasheesh.  Hence, anything soothing and comforting.</def></p>
+<p><hw>Ne*pen"the</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From Gr. <?/ removing all sorrow; hence, an epithet of an Egyptian drug which lulled sorrow for the day; <?/ not + <?/ sorrow, grief.]</ety> <def>A drug used by the ancients to give relief from pain and sorrow; -- by some supposed to have been opium or hasheesh.  Hence, anything soothing and comforting.</def></p>
 
 <p><q>Lulled with the sweet <qex>nepenthe</qex> of a court.</q> <rj><qau>Pope.</qau></rj></p>
 
@@ -7237,8 +7237,8 @@ Ay, <qex>night by night</qex>, in studying good for England.</q> <rj><qau>Shak.<
 <p><hw>Nim"mer</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Nim</er>.]</ety> <def>A thief.</def> <mark>[Obs.]</mark></p>
 </entry>
 
-<entry main-word="nin" source="1913 Webster">
-<p><hw>nin</hw> <pr>(?)</pr>. <ety>[Fr. <ets>ne in</ets>.]</ety> <def>Not in.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<entry main-word="Nin" source="1913 Webster">
+<p><hw>Nin</hw> <pr>(?)</pr>. <ety>[From <ets>ne in</ets>. See <er>Ne</er>, <pos>adv.</pos>]</ety> <def>Not in.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Nina" source="WordNet 1.5">
@@ -7588,7 +7588,7 @@ If I be such a traitress.</q> <rj><qau>Tennyson.</qau></rj></p>
 </entry>
 
 <entry main-word="Nis" source="1913 Webster">
-<p><hw>Nis</hw> <pr>(?)</pr>. <ety>[From <ets>ne is</ets>.]</ety> <def>Is not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
+<p><hw>Nis</hw> <pr>(?)</pr>. <ety>[From <ets>ne is</ets>. See <er>Ne</er>, <pos>adv.</pos>]</ety> <def>Is not.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
 <entry main-word="Nisan" source="1913 Webster">

@@ -7845,7 +7845,7 @@ That <qex>leaves</qex> the print of blood where'er it walks.</q> <rj><qau>Shak.<
 </entry>
 
 <entry main-word="Leaviness" source="1913 Webster">
-<p><hw>Leav"i*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. <er>Leaf</er>.]</ety> <def>Leafiness.</def> <mark>[Obs.]</mark></p>
+<p><hw>Leav"i*ness</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[From <er>Leaf</er>.]</ety> <def>Leafiness.</def> <mark>[Obs.]</mark></p>
 </entry>
 
 <entry main-word="Leavings" source="1913 Webster">
@@ -10126,7 +10126,7 @@ Doth <qex>lesson</qex> happier men, and shame at least the bad.</q> <rj><qau>Byr
 </entry>
 
 <entry main-word="Lester" source="Webster 1913 Suppl.">
-<p><par/<hw>Les"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., prob. fr. Fr. <ets>l'est</ets> the east.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco in the Madeira Islands.</def></p>
+<p><par/<hw>Les"ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Pg., prob. fr. F. <ets>l'est</ets> the east.]</ety> <fld>(Meteor.)</fld> <def>A dry sirocco in the Madeira Islands.</def></p>
 </entry>
 
 <entry main-word="-let" source="1913 Webster">

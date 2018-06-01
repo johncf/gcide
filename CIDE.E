@@ -19194,7 +19194,7 @@ where <it>R</it> is the radius of the celestial body and <it>g</it> is the accel
 </entry>
 
 <entry main-word="escarole" source="WordNet 1.5">
-<p><hw>escarole</hw> <pos>n.</pos> <ety>[Fr., from OFr. <ets>scariole</ets>. fr. LL. <ets>escariola</ets>, L. <ets>escarius</ets> of food, fit to eat, <ets>esca</ets> food, fr. <ets>edere</ets> to eat.]</ety> <def>a variety of endive (<spn>Cichorium endivia</spn>) often used in salads, having leaves with irregular frilled edges.</def><br/
+<p><hw>escarole</hw> <pos>n.</pos> <ety>[F., from OF. <ets>scariole</ets>. fr. LL. <ets>escariola</ets>, L. <ets>escarius</ets> of food, fit to eat, <ets>esca</ets> food, fr. <ets>edere</ets> to eat.]</ety> <def>a variety of endive (<spn>Cichorium endivia</spn>) often used in salads, having leaves with irregular frilled edges.</def><br/
 <syn><b>Syn. --</b> endive, curly endive.</syn></p>
 </entry>
 
@@ -21234,33 +21234,33 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <entry main-word="Euctical" source="1913 Webster">
 <p><hw>Euc"tic*al</hw> <pr>(?)</pr> <ety>[Gr. <?/, fr. <?/ to pray, wish.]</ety> <def>Expecting a wish; supplicatory.</def> <mark>[R.]</mark></p>
 
-<p source=""><q>Sacrifices . . . distinguished into expiatory, <qex>euctical</qex>, and eucharistical.</q> <rj><qau>Bp. Law.</qau></rj></p>
+<p><q>Sacrifices . . . distinguished into expiatory, <qex>euctical</qex>, and eucharistical.</q> <rj><qau>Bp. Law.</qau></rj></p>
 </entry>
 
-<entry main-word="Eudemon" source="">
-<p><mhw>{ <hw>Eu*de"mon</hw>, <hw>Eu*d<ae/"mon</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Gr. <grk>e'y^</grk> well, good + <?/ one's demon.]</ety> <def>A good angel.</def>  <rj><au>Southey.</au></rj></p>
+<entry main-word="Eudemon" source="1913 Webster">
+<p><mhw><hw>Eu*de"mon</hw>, <hw>Eu*d<ae/"mon</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[Gr. <grk>e'y^</grk> well, good + <?/ one's demon.]</ety> <def>A good angel.</def>  <rj><au>Southey.</au></rj></p>
 </entry>
 
-<entry main-word="Eudemonics" source="">
-<p><mhw>{ <hw>Eu`de*mon"ics</hw>, <hw>Eu`d<ae/*mon"ics</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Gr. <?/ conducive to happiness. See <er>Eudemonism</er>.]</ety> <def>That part of moral philosophy which treats of happiness; the science of happiness; -- contrasted with <contr>aretaics</contr>.</def>  <rj><au>J. Grote.</au></rj></p>
+<entry main-word="Eudemonics" source="1913 Webster">
+<p><mhw><hw>Eu`de*mon"ics</hw>, <hw>Eu`d<ae/*mon"ics</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[Gr. <?/ conducive to happiness. See <er>Eudemonism</er>.]</ety> <def>That part of moral philosophy which treats of happiness; the science of happiness; -- contrasted with <contr>aretaics</contr>.</def>  <rj><au>J. Grote.</au></rj></p>
 </entry>
 
-<entry main-word="Eudemonism" source="">
-<p><mhw>{ <hw>Eu*de"mon*ism</hw>, <hw>Eu*d<ae/"mon*ism</hw> <pr>(?)</pr> }</mhw>, <pos>n.</pos> <ety>[Gr. <?/ a thinking happy, fr, <?/ blessed with a good genius, happy; <grk>e'y^</grk> well, good + <?/ one's demon of genius. See <er>Demon</er>.]</ety> <def>That system of ethics which defines and enforces moral obligation by its relation to happiness or personal well-being.</def></p>
+<entry main-word="Eudemonism" source="1913 Webster">
+<p><mhw><hw>Eu*de"mon*ism</hw>, <hw>Eu*d<ae/"mon*ism</hw> <pr>(?)</pr></mhw>, <pos>n.</pos> <ety>[Gr. <?/ a thinking happy, fr, <?/ blessed with a good genius, happy; <grk>e'y^</grk> well, good + <?/ one's demon of genius. See <er>Demon</er>.]</ety> <def>That system of ethics which defines and enforces moral obligation by its relation to happiness or personal well-being.</def></p>
 </entry>
 
 <entry main-word="Eudemonist" source="1913 Webster">
-<p><mhw>{ <hw>Eu*de"mon*ist</hw>, <hw>Eu*d<ae/"mon*ist</hw>  }</mhw>, <pos>n.</pos> <def>One who believes in eudemonism.</def></p>
+<p><mhw><hw>Eu*de"mon*ist</hw>, <hw>Eu*d<ae/"mon*ist</hw></mhw>, <pos>n.</pos> <def>One who believes in eudemonism.</def></p>
 
-<p source=""><q>I am too much of a <qex>eud<ae/monist</qex>; I hanker too much after a state of happiness both for myself and others.</q> <rj><qau>De Quincey.</qau></rj></p>
+<p><q>I am too much of a <qex>eud<ae/monist</qex>; I hanker too much after a state of happiness both for myself and others.</q> <rj><qau>De Quincey.</qau></rj></p>
 </entry>
 
-<entry main-word="Eudemonistic" source="">
-<p><mhw>{ <hw>Eu*de`mon*is"tic</hw> , <hw>Eu*d<ae/`mon*is"tic</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <def>Of or pertaining to eudemonism.</def></p>
+<entry main-word="Eudemonistic" source="1913 Webster">
+<p><mhw><hw>Eu*de`mon*is"tic</hw> , <hw>Eu*d<ae/`mon*is"tic</hw> <pr>(?)</pr></mhw>, <pos>a.</pos> <def>Of or pertaining to eudemonism.</def></p>
 </entry>
 
 <entry main-word="Eudemonistical" source="1913 Webster">
-<p><mhw>{ <hw>Eu*de`mon*is"tic*al</hw>, <hw>Eu*d<ae/`mon*is"tic*al</hw> <pr>(?)</pr> }</mhw>, <pos>a.</pos> <def>Eudemonistic.</def></p>
+<p><mhw><hw>Eu*de`mon*is"tic*al</hw>, <hw>Eu*d<ae/`mon*is"tic*al</hw> <pr>(?)</pr></mhw>, <pos>a.</pos> <def>Eudemonistic.</def></p>
 </entry>
 
 <entry main-word="Eudialyte" source="1913 Webster">
@@ -21270,7 +21270,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <entry main-word="Eudiometer" source="1913 Webster">
 <p><hw>Eu`di*om"e*ter</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ fair, clear weather, fr. <?/ fine, clear ( said of the air or weather) + <ets>-meter</ets>: cf. F. <ets>ediom<egrave/tre</ets>.]</ety> <fld>(Chem.)</fld> <def>An instrument for the volumetric measurement of gases; -- so named because frequently used to determine the purity of the air.</def></p>
 
-<p source=""><note><hand/ It usually consists of a finely graduated and calibrated glass tube, open at one end, the bottom; and having near the top a pair of platinum wires fused in, to allow the passage of an electric spark, as the process involves the explosion and combustion of one of the ingredients to be determined. The operation is conducted in a trough of mercury, or sometimes over water.  Cf. <er>Burette</er>. <xex>Ure's eudiometer</xex> has the tube bent in the form of the letter. U.</note></p>
+<p><note><hand/ It usually consists of a finely graduated and calibrated glass tube, open at one end, the bottom; and having near the top a pair of platinum wires fused in, to allow the passage of an electric spark, as the process involves the explosion and combustion of one of the ingredients to be determined. The operation is conducted in a trough of mercury, or sometimes over water.  Cf. <er>Burette</er>. <xex>Ure's eudiometer</xex> has the tube bent in the form of the letter. U.</note></p>
 </entry>
 
 <entry main-word="Eudiometric" source="1913 Webster">
@@ -21326,7 +21326,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <-- used as an analgesic in dentistry. --></p>
 </entry>
 
-<entry main-word="Eugeny" source="">
+<entry main-word="Eugeny" source="1913 Webster">
 <p><hw>Eu"ge*ny</hw> <pr>(?)</pr>. <ety>[Gr. <?/, fr. <grk>e'ygenh`s</grk> well born; <grk>e'y^</grk> well + <?/ race.]</ety> <def>Nobleness of birth.</def> <mark>[Obs.]</mark></p>
 </entry>
 
@@ -21334,7 +21334,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><mhw>{ <hw>Eu*get"ic</hw> <pr>(?)</pr>, <hw>Eu`ge*tin"ic</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <fld>(Chem)</fld> <def>Pertaining to, or derived from, eugenol; <as>as, <ex>eugetic</ex> acid</as>.</def></p>
 </entry>
 
-<entry main-word="Eugh" source="">
+<entry main-word="Eugh" source="1913 Webster">
 <p><hw>Eugh</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Yew</er>.]</ety> <def>The yew.</def> <mark>[Obs.]</mark>  <rj><au>Dryden.</au></rj></p>
 </entry>
 
@@ -21383,14 +21383,14 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <entry main-word="Eulerian" source="1913 Webster">
 <p><hw>Eu*le"ri*an</hw> <pr>(?)</pr> <pos>a.</pos> <def>Pertaining to Euler, a German mathematician of the 18th century.</def></p>
 
-<p source=""><cs><col>Eulerian integrals</col>, <cd>certain definite integrals whose properties were first investigated by Euler.</cd></cs></p>
+<p><cs><col>Eulerian integrals</col>, <cd>certain definite integrals whose properties were first investigated by Euler.</cd></cs></p>
 </entry>
 
 <entry main-word="Eulogic" source="1913 Webster">
 <p><mhw>{ <hw>Eu*log"ic</hw> <pr>(?)</pr>, <hw>Eu*log"ic*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <ety>[See <er>Eulogy</er>.]</ety> <def>Bestowing praise of eulogy; commendatory; eulogistic.</def> <mark>[R.]</mark> -- <wordforms><wf>Eu*log"ic*al*ly</wf>, <pos>adv.</pos> <mark>[R.]</mark></wordforms></p>
 </entry>
 
-<entry main-word="Eulogist" source="">
+<entry main-word="Eulogist" source="1913 Webster">
 <p><hw>Eu"lo*gist</hw> <pr>(?)</pr> <pos>n.</pos> <def>One who eulogizes or praises; panegyrist; encomiast.</def>  <rj><au>Buckle.</au></rj></p>
 </entry>
 
@@ -21409,7 +21409,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <entry main-word="Eulogy" source="1913 Webster">
 <p><hw>Eu"lo*gy</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Eulogies</plw> <pr>(#)</pr>.</plu> <ety>[Gr. <?/, from <?/ well speaking; <grk>e'y^</grk> well + <?/ to speak.  Cf. <er>Eulogium</er>, and see <er>Legend</er>.]</ety> <def>A speech or writing in commendation of the character or services of a person; <as>as, a fitting <ex>eulogy</ex> to worth</as>.</def></p>
 
-<p source=""><q><qex>Eulogies</qex> turn into elegies.</q> <rj><qau>Spenser.</qau></rj></p>
+<p><q><qex>Eulogies</qex> turn into elegies.</q> <rj><qau>Spenser.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Encomium; praise; panegyric; applause.</syn> <usage> -- <er>Eulogy</er>, <er>Eulogium</er>, <er>Encomium</er>, <er>Panegyric</er>. The idea of praise is common to all these words. The word <xex>encomium</xex> is used of both persons and things which are the result of human action, and denotes warm praise. <xex>Eulogium</xex> and <xex>eulogy</xex> apply only to persons and are more studied and of greater length. A <xex>panegyric</xex> was originally a set speech in a full assembly of the people, and hence denotes a more formal <xex>eulogy</xex>, couched in terms of warm and continuous praise, especially as to personal character. We may bestow <xex>encomiums</xex> on any work of art, on production of genius, without reference to the performer; we bestow <xex>eulogies</xex>, or pronounce a <xex>eulogium</xex>, upon some individual distinguished for his merit public services; we pronounce a <xex>panegyric</xex> before an assembly gathered for the occasion.</usage></p>
 </entry>
@@ -21454,7 +21454,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu"no*my</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/; <grk>e'y^</grk> well + <?/ law.]</ety> <def>Equal law, or a well-adjusted constitution of government.</def> <mark>[R.]</mark>  <rj><au>Mitford.</au></rj></p>
 </entry>
 
-<entry main-word="Eunuch" source="">
+<entry main-word="Eunuch" source="1913 Webster">
 <p><hw>Eu"nuch</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[L. <ets>eunuchus</ets>, Gr. <?/, prop., keeping or guarding the couch; <?/ couch, bed, + <?/ to have, hold, keep.]</ety> <def>A male of the human species castrated; commonly, one of a class of such persons, in Oriental countries, having charge of the women's apartments. Some of them, in former times, gained high official rank.</def></p>
 </entry>
 
@@ -21482,7 +21482,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu*os"mitte</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e'y^</grk> well + <?/ a smell.]</ety> <fld>(Min.)</fld> <def>A fossil resin, so called from its strong, peculiar, pleasant odor.</def></p>
 </entry>
 
-<entry main-word="Eupathy" source="">
+<entry main-word="Eupathy" source="1913 Webster">
 <p><hw>Eu"pa*thy</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <?/ comfort, happy condition of the soul. See <er>Eu-</er>, and <er>Pathetic</er>.]</ety> <def>Right feeling.</def> <mark>[R.]</mark>  <rj><au>Harris.</au></rj></p>
 </entry>
 
@@ -21494,12 +21494,12 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu`pa*to"ri*um</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. <ets>Eupator</ets>, king of Pontus, said to have used it as a medicine.]</ety> <fld>(Bot.)</fld> <def>A genus of perennial, composite herbs including hemp agrimony, boneset, throughwort, etc.</def></p>
 </entry>
 
-<entry main-word="Eupatrid" source="">
+<entry main-word="Eupatrid" source="1913 Webster">
 <p><hw>Eu"pa*trid</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Gr. <grk>e'y^</grk> well + <?/ father.]</ety> <def>One well born, or of noble birth.</def></p>
 </entry>
 
 <entry main-word="Eupepsia" source="1913 Webster">
-<p><mhw>{ <par/<hw>Eu*pep"si*a</hw> <pr>(?)</pr>, <hw>Eu*pep"sy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>eupepsia</ets>, Fr. Gr. <?/, fr. <?/ easy of digestion; <grk>e'y^</grk> well + <?/ to cook, digest.]</ety> <fld>(Med.)</fld> <def>Soundness of the nutritive or digestive organs; good concoction or digestion; -- opposed to <contr>dyspepsia</contr>.</def></p>
+<p><mhw>{ <par/<hw>Eu*pep"si*a</hw> <pr>(?)</pr>, <hw>Eu*pep"sy</hw> <pr>(?)</pr>, }</mhw> <pos>n.</pos> <ety>[NL. <ets>eupepsia</ets>, fr. Gr. <?/, fr. <?/ easy of digestion; <grk>e'y^</grk> well + <?/ to cook, digest.]</ety> <fld>(Med.)</fld> <def>Soundness of the nutritive or digestive organs; good concoction or digestion; -- opposed to <contr>dyspepsia</contr>.</def></p>
 </entry>
 
 <entry main-word="Eupeptic" source="1913 Webster">
@@ -21513,7 +21513,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <syn><b>Syn. --</b> order <ord>Euphausiacea</ord>.</syn></p>
 </entry>
 
-<entry main-word="Euphemism" source="">
+<entry main-word="Euphemism" source="1913 Webster">
 <p><hw>Eu"phe*mism</hw> <pr>(<umac/"f<esl/*m<icr/z'm)</pr>, <pos>n.</pos> <ety>[Gr. <?/ fr. <?/ to use word of a good omen; <grk>e'y^</grk> well + <?/ to speak: cf. F. <ets>euph<eacute/misme</ets>. See <er>Fame</er>.]</ety> <fld>(Rhet.)</fld> <def>A figure in which a harsh or indelicate word or expression is softened; a way of describing an offensive thing by an inoffensive expression; a mild name for something disagreeable.</def></p>
 </entry>
 
@@ -21525,7 +21525,7 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu"phe*mize</hw> <pr>(?)</pr>, <pos>v. t. & i.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Euphemized</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Euphemizing</conjf>.]</vmorph> <ety>[Gr. <?/ .]</ety> <def>To express by a euphemism, or in delicate language; to make use of euphemistic expressions.</def></p>
 </entry>
 
-<entry main-word="Euphoniad" source="">
+<entry main-word="Euphoniad" source="1913 Webster">
 <p><hw>Eu*pho"ni*ad</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[See <er>Euphony</er>.]</ety> <fld>(Mus.)</fld> <def>An instrument in which are combined the characteristic tones of the organ and various other instruments.</def> <mark>[R.]</mark></p>
 </entry>
 
@@ -21565,11 +21565,11 @@ Natures <qex>ethereal</qex>, human, angel, man.</q> <rj><qau>Pope.</qau></rj></p
 <p><hw>Eu"pho*ny</hw> <pr>(?)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Euphonies</plw> <pr>(#)</pr>.</plu> <ety>[L. <ets>euphonia</ets>, Gr. <?/, fr. <?/ sweet-voiced; <grk>e'y^</grk> well + <?/ sound, voice; akin to <?/ to speak: cf. F. <ets>euphonie</ets>.]</ety> <def>A pleasing or sweet sound; an easy, smooth enunciation of sounds; a pronunciation of letters and syllables which is pleasing to the ear.</def></p>
 </entry>
 
-<entry main-word="Euphorbia" source="">
+<entry main-word="Euphorbia" source="1913 Webster">
 <p><par/<hw>Eu*phor"bi*a</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[NL., fr. L. <ets>euphorbea</ets>. See <er>Euphorrium</er>.]</ety> <fld>(Bot.)</fld> <def>Spurge, or bastard spurge, a genus of plants of many species, mostly shrubby, herbaceous succulents, affording an acrid, milky juice. Some of them are armed with thorns. Most of them yield powerful emetic and cathartic products.</def></p>
 </entry>
 
-<entry main-word="Euphorbiaceous" source="">
+<entry main-word="Euphorbiaceous" source="1913 Webster">
 <p><mhw>{ <hw>Eu*phor`bi*a"ceous</hw> <pr>(?)</pr>, <hw>Eu*phor"bi*al</hw> <pr>(?)</pr>, }</mhw> <pos>a.</pos> <fld>(Bot.)</fld> <def>Of, relating to, or resembling, the Euphorbia family.</def></p>
 </entry>
 
@@ -21832,7 +21832,7 @@ The visual nerve, for he had much to see.</q> <rj><qau>Milton.</qau></rj></p>
 <entry main-word="Euthanasia" source="1913 Webster">
 <p><hw>Eu`tha*na"si*a</hw> <pr>(?)</pr> <pos>n.</pos> <ety>[NL., fr. Gr. <?/; <grk>e'y^</grk> well + <?/ death, <?/, <?/, to die: cf. F. <ets>euthanasie</ets>.]</ety> <sn>1.</sn> <def>An easy death; a mode of dying to be desired.</def> <ldquo/An <xex>euthanasia</xex> of all thought.<rdquo/  <rj><au>Hazlitt.</au></rj></p>
 
-<p source=""><q>The kindest wish of my friends is <qex>euthanasia</qex>.</q> <rj><qau>Arbuthnot.</qau></rj></p>
+<p><q>The kindest wish of my friends is <qex>euthanasia</qex>.</q> <rj><qau>Arbuthnot.</qau></rj></p>
 
 <p source="PJC"><sn>2.</sn> <def>the act or process of putting to death for humane purposes; -- used to refer to the killing of animals in order to relieve or avoid pain.</def></p>
 </entry>

@@ -3992,7 +3992,7 @@ As ever in my great <qex>Taskmaster's</qex> eye.</q> <rj><qau>Milton.</qau></rj>
 </entry>
 
 <entry main-word="Tassel" source="1913 Webster">
-<p><hw>Tas"sel</hw>, <pos>n.</pos> <ety>[OE., a fastening of a mantle, OF. <ets>tassel</ets> a fastening, clasp, F. <ets>tasseau</ets> a bracket, Fr. L. <ets>taxillus</ets> a little die, dim. of <ets>talus</ets> a die of a longish shape, rounded on two sides and marked only on the other four, a knuckle bone.]</ety> <sn>1.</sn> <def>A pendent ornament, attached to the corners of cushions, to curtains, and the like, ending in a tuft of loose threads or cords.</def></p>
+<p><hw>Tas"sel</hw>, <pos>n.</pos> <ety>[OE., a fastening of a mantle, OF. <ets>tassel</ets> a fastening, clasp, F. <ets>tasseau</ets> a bracket, fr. L. <ets>taxillus</ets> a little die, dim. of <ets>talus</ets> a die of a longish shape, rounded on two sides and marked only on the other four, a knuckle bone.]</ety> <sn>1.</sn> <def>A pendent ornament, attached to the corners of cushions, to curtains, and the like, ending in a tuft of loose threads or cords.</def></p>
 
 <p><sn>2.</sn> <def>The flower or head of some plants, esp. when pendent.</def></p>
 
@@ -14472,7 +14472,7 @@ The <qex>thrifty</qex> hire I saved under your father.</q> <rj><qau>Shak.</qau><
 </entry>
 
 <entry main-word="Thrill" source="1913 Webster">
-<p><hw>Thrill</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Thrilled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Thrilling</conjf>.]</vmorph> <ety>[OE. <ets>thrillen</ets>, <ets><thorn/irlen</ets>, <ets><thorn/urlen</ets>, to pierce; all probably fr. AS. <ets><thorn/yrlian</ets>, <ets><thorn/yrelian</ets>, Fr. <ets><thorn/yrel</ets> pierced; as a noun, a hole, fr. <ets><thorn/urh</ets> through; probably akin to D. <ets>drillen</ets> to drill, to bore. <root/53. See <er>Through</er>, and cf. <er>Drill</er> to bore, <er>Nostril</er>, <er>Trill</er> to trickle.]</ety> <sn>1.</sn> <def>To perforate by a pointed instrument; to bore; to transfix; to drill.</def> <mark>[Obs.]</mark></p>
+<p><hw>Thrill</hw>, <pos>v. t.</pos> <vmorph>[<pos>imp. & p. p.</pos> <conjf>Thrilled</conjf> <pr>(?)</pr>; <pos>p. pr. & vb. n.</pos> <conjf>Thrilling</conjf>.]</vmorph> <ety>[OE. <ets>thrillen</ets>, <ets><thorn/irlen</ets>, <ets><thorn/urlen</ets>, to pierce; all probably fr. AS. <ets><thorn/yrlian</ets>, <ets><thorn/yrelian</ets>, fr. <ets><thorn/yrel</ets> pierced; as a noun, a hole, fr. <ets><thorn/urh</ets> through; probably akin to D. <ets>drillen</ets> to drill, to bore. <root/53. See <er>Through</er>, and cf. <er>Drill</er> to bore, <er>Nostril</er>, <er>Trill</er> to trickle.]</ety> <sn>1.</sn> <def>To perforate by a pointed instrument; to bore; to transfix; to drill.</def> <mark>[Obs.]</mark></p>
 
 <p><q>He pierced through his chafed chest<br/
 With <qex>thrilling</qex> point of deadly iron brand.</q> <rj><qau>Spenser.</qau></rj></p>
@@ -34929,7 +34929,7 @@ Some fresher beauty varying round.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="tushie" source="PJC">
-<p><hw>tush"ie</hw> <pr>(t<oocr/sh"<esl/)</pr>, <pos>n.</pos> <ety>[Fr. Yiddish <ets>tokhes</ets>. Ca. <fu>1960-65</fu>.]</ety> <def>The buttocks; -- a euphemism.</def></p>
+<p><hw>tush"ie</hw> <pr>(t<oocr/sh"<esl/)</pr>, <pos>n.</pos> <ety>[From Yiddish <ets>tokhes</ets>. Ca. <fu>1960-65</fu>.]</ety> <def>The buttocks; -- a euphemism.</def></p>
 </entry>
 
 <entry main-word="Tusk" source="1913 Webster">

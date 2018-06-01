@@ -1656,7 +1656,7 @@ They most must laugh.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Gambet" source="1913 Webster">
-<p><hw>Gam"bet</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Fr. <ets>gambette</ets>, or It. <ets>gambetta</ets>.]</ety> <fld>(Zool.)</fld> <def>Any bird of the genuis <xex>Totanus</xex>. See <er>Tattler</er>.</def></p>
+<p><hw>Gam"bet</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[F. <ets>gambette</ets>, or It. <ets>gambetta</ets>.]</ety> <fld>(Zool.)</fld> <def>Any bird of the genuis <xex>Totanus</xex>. See <er>Tattler</er>.</def></p>
 </entry>
 
 <entry main-word="Gambier" source="1913 Webster">
@@ -8736,33 +8736,33 @@ Lorenzo and his amorous Jessica.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><cs><col>To give away</col>, <cd>to make over to another; to transfer.</cd></p>
 
-<p source=""><q>Whatsoever we employ in charitable uses during our lives, is <qex>given away</qex> from ourselves.</q> <rj><qau>Atterbury.</qau></rj></p>
+<p><q>Whatsoever we employ in charitable uses during our lives, is <qex>given away</qex> from ourselves.</q> <rj><qau>Atterbury.</qau></rj></p>
 
 <p>-- <col>To give back</col>, <cd>to return; to restore.</cd> <au>Atterbury.</au> -- <col>To give the bag</col>, <cd>to cheat.</cd> <mark>[Obs.]</mark></p>
 
-<p source=""><q>I fear our ears have <qex>given</qex> us <qex>the bag</qex>.</q> <rj><qau>J. Webster.</qau></rj></p>
+<p><q>I fear our ears have <qex>given</qex> us <qex>the bag</qex>.</q> <rj><qau>J. Webster.</qau></rj></p>
 
 <p>-- <col>To give birth to</col>. <sd>(a)</sd> <cd>To bear or bring forth, as a child.</cd> <sd>(b)</sd> <cd>To originate; to give existence to, as an enterprise, idea.</cd> -- <col>To give chase</col>, <cd>to pursue.</cd> -- <col>To give ear to</col>. <cd>See under <er>Ear</er>.</cd> -- <col>To give forth</col>, <cd>to give out; to publish; to tell.</cd> <au>Hayward.</au> -- <col>To give ground</col>. <cd>See under <er>Ground</er>, <pos>n.</pos></cd> -- <col>To give the hand</col>, <cd>to pledge friendship or faith.</cd> -- <col>To give the hand of</col>, <cd>to espouse; to bestow in marriage.</cd> -- <col>To give the head</col>. <cd>See under <er>Head</er>, <pos>n.</pos></cd> -- <col>To give in</col>. <sd>(a)</sd> <cd>To abate; to deduct.</cd> <sd>(b)</sd> <cd>To declare; to make known; to announce; to tender; <as>as, <ex>to give in</ex> one's adhesion to a party</as>.</cd> -- <col>To give the lie to</col> <cd>(a person), to tell (him) that he lies.</cd> -- <col>To give line</col>. <cd>See under <er>Line</er>.</cd> -- <col>To give off</col>, <cd>to emit, as steam, vapor, odor, etc.</cd> -- <col>To give one's self away</col>, <cd>to make an inconsiderate surrender of one's cause, an unintentional disclosure of one's purposes, or the like.</cd> <mark>[Colloq.]</mark> -- <col>To give out</col>. <sd>(a)</sd> <cd>To utter publicly; to report; to announce or declare.</cd></p>
 
 <p><q>One that <qex>gives out</qex> himself Prince Florizel.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p source=""><q><qex>Give out</qex> you are of Epidamnum.</q> <rj><qau>Shak.</qau></rj></p>
+<p><q><qex>Give out</qex> you are of Epidamnum.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sd>(b)</sd> <cd>To send out; to emit; to distribute; as, a substance <xex>gives out</xex> steam or odors.</cd> -- <col>To give over</col>. <sd>(a)</sd> <cd>To yield completely; to quit; to abandon.</cd> <sd>(b)</sd> <cd>To despair of.</cd> <sd>(c)</sd> <cd>To addict, resign, or apply (one's self).</cd></p>
 
-<p source=""><q>The Babylonians had <qex>given</qex> themselves <qex>over</qex> to all manner of vice.</q>  <rj><qau>Grew.</qau></rj></p>
+<p><q>The Babylonians had <qex>given</qex> themselves <qex>over</qex> to all manner of vice.</q>  <rj><qau>Grew.</qau></rj></p>
 
 <p>-- <col>To give place</col>, <cd>to withdraw; to yield one's claim.</cd> -- <col>To give points</col>. <sd>(a)</sd> <cd>In games of skill, to equalize chances by conceding a certain advantage; to allow a handicap.</cd> <sd>(b)</sd> <cd>To give useful suggestions.</cd> <mark>[Colloq.]</mark> -- <col>To give rein</col>. <cd>See under <er>Rein</er>, <pos>n.</pos></cd> -- <col>To give the sack</col>. <cd>Same as <cref>To give the bag</cref>.</cd> -- <col>To give and take</col>. <sd>(a)</sd> <cd>To average gains and losses.</cd> <sd>(b)</sd> <cd>To exchange freely, as blows, sarcasms, etc.</cd> -- <col>To give time</col> <fld>(Law)</fld>, <cd>to accord extension or forbearance to a debtor.</cd> <au>Abbott.</au> -- <col>To give the time of day</col>, <cd>to salute one with the compliment appropriate to the hour, as <ldquo/good morning.<rdquo/ <ldquo/good evening<rdquo/, etc.</cd> -- <col>To give tongue</col>, <cd>in hunter's phrase, to bark; -- said of dogs.</cd> -- <col>To give up</col>. <sd>(a)</sd> <cd>To abandon; to surrender. <ldquo/Don't <xex>give up</xex> the ship.<rdquo/</cd></p>
 
-<p source=""><q>He has . . . <qex>given up</qex><br/
+<p><q>He has . . . <qex>given up</qex><br/
 For certain drops of salt, your city Rome.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sd>(b)</sd> <cd>To make public; to reveal.</cd></p>
 
-<p source=""><q>I'll not state them<br/
+<p><q>I'll not state them<br/
 By <qex>giving up</qex> their characters.</q> <rj><qau>Beau. & Fl.</qau></rj></p>
 
-<p source=""><sd>(c)</sd> <cd>(Used also reflexively.</cd>) -- <col>To give up the ghost</col>. <cd>See under <er>Ghost</er>.</cd> -- <col>To give one's self up</col>, <cd>to abandon hope; to despair; to surrender one's self.</cd> -- <col>To give way</col>. <sd>(a)</sd> <cd>To withdraw; to give place.</cd> <sd>(b)</sd> <cd>To yield to force or pressure; as, the scaffolding <xex>gave way</xex>.</cd> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>To begin to row; or to row with increased energy.</cd> <sd>(d)</sd> <fld>(Stock Exchange)</fld>. <cd>To depreciate or decline in value; as, railroad securities <xex>gave way</xex> two per cent.</cd> -- <col>To give way together</col>, <cd>to row in time; to keep stroke.</cd></cs></p>
+<p><sd>(c)</sd> <cd>(Used also reflexively.</cd>) -- <col>To give up the ghost</col>. <cd>See under <er>Ghost</er>.</cd> -- <col>To give one's self up</col>, <cd>to abandon hope; to despair; to surrender one's self.</cd> -- <col>To give way</col>. <sd>(a)</sd> <cd>To withdraw; to give place.</cd> <sd>(b)</sd> <cd>To yield to force or pressure; as, the scaffolding <xex>gave way</xex>.</cd> <sd>(c)</sd> <fld>(Naut.)</fld> <cd>To begin to row; or to row with increased energy.</cd> <sd>(d)</sd> <fld>(Stock Exchange)</fld>. <cd>To depreciate or decline in value; as, railroad securities <xex>gave way</xex> two per cent.</cd> -- <col>To give way together</col>, <cd>to row in time; to keep stroke.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- To <er>Give</er>, <er>Confer</er>, <er>Grant</er>.</syn> <usage> To <xex>give</xex> is the generic word, embracing all the rest. To <xex>confer</xex> was originally used of persons in power, who gave permanent grants or privileges; as, to <xex>confer</xex> the order of knighthood; and hence it still denotes the giving of something which might have been withheld; as, to <xex>confer</xex> a favor. To <xex>grant</xex> is to give in answer to a petition or request, or to one who is in some way dependent or inferior.</usage></p>
 </entry>
@@ -8794,23 +8794,23 @@ To rob poor market women.</q> <rj><qau>J. Webster.</qau></rj></p>
 
 <p><cs><col>To give back</col>, <cd>to recede; to retire; to retreat.</cd></p>
 
-<p source=""><q>They <qex>gave back</qex> and came no farther.</q> <rj><qau>Bunyan.</qau></rj></p>
+<p><q>They <qex>gave back</qex> and came no farther.</q> <rj><qau>Bunyan.</qau></rj></p>
 
 <p>-- <col>To give in</col>, <cd>to yield; to succumb; to acknowledge one's self beaten; to cease opposition.</cd></p>
 
 <p><q>The Scots battalion was enforced to <qex>give in</qex>.</q> <rj><qau>Hayward.</qau></rj></p>
 
-<p source=""><q>This consideration may induce a translator to <qex>give in</qex> to those general phrases.</q> <rj><qau>Pope.</qau></rj></p>
+<p><q>This consideration may induce a translator to <qex>give in</qex> to those general phrases.</q> <rj><qau>Pope.</qau></rj></p>
 
-<p>-- <col>To give off</col>, <cd>to cease; to forbear.</cd> <mark>[Obs.]</mark> <au>Locke.</au> -- <col>To give on</col> <or/ <col>To give upon</col>. <sd>(a)</sd> <cd>To rush; to fall upon.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>To have a view of; to be in sight of; to overlook; to look toward; to open upon; to front; to face.</cd> <mark>[A Gallicism: <plain>cf. Fr.</plain> donner sur.]</mark></p>
+<p>-- <col>To give off</col>, <cd>to cease; to forbear.</cd> <mark>[Obs.]</mark> <au>Locke.</au> -- <col>To give on</col> <or/ <col>To give upon</col>. <sd>(a)</sd> <cd>To rush; to fall upon.</cd> <mark>[Obs.]</mark> <sd>(b)</sd> <cd>To have a view of; to be in sight of; to overlook; to look toward; to open upon; to front; to face.</cd> <mark>[A Gallicism: <plain>cf. F.</plain> donner sur.]</mark></p>
 
 <p><q>Rooms which <qex>gave upon</qex> a pillared porch.</q> <rj><qau>Tennyson.</qau></rj></p>
 
-<p source=""><q>The gloomy staircase <qex>on</qex> which the grating <qex>gave</qex>.</q> <rj><qau>Dickens.</qau></rj></p>
+<p><q>The gloomy staircase <qex>on</qex> which the grating <qex>gave</qex>.</q> <rj><qau>Dickens.</qau></rj></p>
 
 <p>-- <col>To give out</col>. <sd>(a)</sd> <cd>To expend all one's strength.</cd> Hence: <sd>(b)</sd> <cd>To cease from exertion; to fail; to be exhausted; as, my feet being <xex>to give out</xex>; the flour has <xex>given out</xex>.</cd> -- <col>To give over</col>, <cd>to cease; to discontinue; to desist.</cd></p>
 
-<p source=""><q>It would be well for all authors, if they knew when <qex>to give over</qex>, and to desist from any further pursuits after fame.</q> <rj><qau>Addison.</qau></rj></p>
+<p><q>It would be well for all authors, if they knew when <qex>to give over</qex>, and to desist from any further pursuits after fame.</q> <rj><qau>Addison.</qau></rj></p>
 
 <p>-- <col>To give up</col>, <cd>to cease from effort; to yield; to despair; as, he would never <xex>give up</xex>.</cd></cs></p>
 </entry>
@@ -10258,7 +10258,7 @@ And with indented <qex>glides</qex> did slip away.</q> <rj><qau>Shak.</qau></rj>
 </entry>
 
 <entry main-word="Glissando" source="1913 Webster">
-<p><hw>Glis*san"do</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[As if It. = Fr. <ets>glissant</ets> sliding.]</ety> <fld>(Mus.)</fld> <def>A gliding effect; gliding.</def></p>
+<p><hw>Glis*san"do</hw> <pr>(?)</pr>, <pos>n. & a.</pos> <ety>[As if It. = F. <ets>glissant</ets> sliding.]</ety> <fld>(Mus.)</fld> <def>A gliding effect; gliding.</def></p>
 </entry>
 
 <entry main-word="Glissette" source="1913 Webster">

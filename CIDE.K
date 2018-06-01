@@ -2410,7 +2410,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj></p>
 <p><hw>Kike</hw> <pr>(k<imac/k)</pr>, <pos>v. i.</pos> <ety>[Cf. D. <ets>kijken</ets>, Sw. <ets>kika</ets>.]</ety> <def>To gaze; to stare.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
-<entry main-word="Kike" source="">
+<entry main-word="Kike" source="1913 Webster">
 <p><hw>Kike</hw> <pr>(k<icr/k)</pr>, <pos>v. t. & i.</pos> <def>To kick.</def> <mark>[Obs.]</mark>  <rj><au>Chaucer.</au></rj></p>
 </entry>
 
@@ -2457,7 +2457,7 @@ May kill a sound divine.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><q>Her lively color <qex>kill'd</qex> with deadly cares.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>3.</sn> <def>To cause to cease; to quell; to calm; to still; <as>as, in seamen's language, a shower of rain <ex>kills</ex> the wind; new sound insultation <ex>killed</ex> the loud noises from outside</as>.</def></p>
+<p><sn>3.</sn> <def>To cause to cease; to quell; to calm; to still; <as>as, in seamen's language, a shower of rain <ex>kills</ex> the wind</as>.</def></p>
 
 <p><q>Be comforted, good madam; the great rage,<br/
 You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj></p>
@@ -2468,19 +2468,19 @@ You see, is <qex>killed</qex> in him.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p source="PJC"><sn>6.</sn> <def>To cancel or forbid publication of (a report, article, etc.), after it has been written; <as>as, they <ex>killed</ex> the article after getting threats of a lawsuit</as>.</def></p>
 
-<p source=""><cs><col>To kill time</col>, <cd>to busy one's self with something which occupies the attention, or makes the time pass without tediousness.</cd></cs></p>
+<p><cs><col>To kill time</col>, <cd>to busy one's self with something which occupies the attention, or makes the time pass without tediousness.</cd></cs></p>
 
-<p source=""><syn><b>Syn.</b> -- To murder; assassinate; slay; butcher; destroy. -- To <er>Kill</er>, <er>Murder</er>, <er>Assassinate</er>. To <xex>kill</xex> does not necessarily mean any more than to deprive of life. A man may <xex>kill</xex> another by accident or in self-defense, without the imputation of guilt. To <xex>murder</xex> is to kill with malicious forethought and intention. To <xex>assassinate</xex> is to <xex>murder</xex> suddenly and by stealth. The sheriff may <xex>kill</xex> without <xex>murdering</xex>; the duelist <xex>murders</xex>, but does not <xex>assassinate</xex> his antagonist; the assassin <xex>kills</xex> and <xex>murders</xex>.</syn></p>
+<p><syn><b>Syn.</b> -- To murder; assassinate; slay; butcher; destroy. -- To <er>Kill</er>, <er>Murder</er>, <er>Assassinate</er>. To <xex>kill</xex> does not necessarily mean any more than to deprive of life. A man may <xex>kill</xex> another by accident or in self-defense, without the imputation of guilt. To <xex>murder</xex> is to kill with malicious forethought and intention. To <xex>assassinate</xex> is to <xex>murder</xex> suddenly and by stealth. The sheriff may <xex>kill</xex> without <xex>murdering</xex>; the duelist <xex>murders</xex>, but does not <xex>assassinate</xex> his antagonist; the assassin <xex>kills</xex> and <xex>murders</xex>.</syn></p>
 </entry>
 
-<entry main-word="Kill" source="">
+<entry main-word="Kill" source="Webster 1913 Suppl.">
 <p><hw>Kill</hw> <pr>(?)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of killing.</def></p>
 
-<p source="Webster 1913 Suppl."><q><ldquo/There is none like to me!<rdquo/ says the cub in the pride of his earliest <qex>kill</qex>.</q>  <rj><qau>Kipling.</qau></rj></p>
+<p><q><ldquo/There is none like to me!<rdquo/ says the cub in the pride of his earliest <qex>kill</qex>.</q>  <rj><qau>Kipling.</qau></rj></p>
 
 <p><sn>2.</sn>  <def>An animal killed in the hunt, as by a beast of prey.</def></p>
 
-<p source="Webster 1913 Suppl."><q>If ye plunder his <qex>kill</qex> from a weaker, devour not all in thy pride.</q>  <rj><qau>Kipling.</qau></rj></p>
+<p><q>If ye plunder his <qex>kill</qex> from a weaker, devour not all in thy pride.</q>  <rj><qau>Kipling.</qau></rj></p>
 </entry>
 
 <entry main-word="killable" source="WordNet 1.5">
@@ -2730,7 +2730,7 @@ Than to the wretched mortals left behind.</q> <rj><qau>Waller.</qau></rj></p>
 
 <p><sn>4.</sn> <def>Proceeding from, or characterized by, goodness, gentleness, or benevolence; <as>as, a <ex>kind</ex> act</as>.</def> <ldquo/Manners so <xex>kind</xex>, yet stately.<rdquo/  <rj><au>Tennyson.</au></rj></p>
 
-<p source=""><sn>5.</sn> <def>Gentle; tractable; easily governed; <as>as, a horse <ex>kind</ex> in harness</as>.</def></p>
+<p><sn>5.</sn> <def>Gentle; tractable; easily governed; <as>as, a horse <ex>kind</ex> in harness</as>.</def></p>
 
 <p><syn><b>Syn.</b> -- Benevolent; benign; beneficent; bounteous; gracious; propitious; generous; forbearing; indulgent; tender; humane; compassionate; good; lenient; clement; mild; gentle; bland; obliging; friendly; amicable. See <er>Obliging</er>.</syn></p>
 </entry>
@@ -2763,7 +2763,7 @@ And snows his power in variable <qex>kinds</qex> !</q> <rj><qau>Spenser.</qau></
 
 <p><cs><col>A kind of</col>, <cd>something belonging to the class of; something like to; -- said loosely or slightingly.</cd> <col>In kind</col>, <cd>in the produce or designated commodity itself, as distinguished from its value in money.</cd></cs></p>
 
-<p source=""><q>Tax on tillage was often levied <qex>in kind</qex> upon corn.</q> <rj><qau>Arbuthnot.</qau></rj></p>
+<p><q>Tax on tillage was often levied <qex>in kind</qex> upon corn.</q> <rj><qau>Arbuthnot.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Sort; species; type; class; genus; nature; style; character; breed; set.</syn></p>
 </entry>
@@ -2809,7 +2809,7 @@ And snows his power in variable <qex>kinds</qex> !</q> <rj><qau>Spenser.</qau></
 
 <p><q><qex>Kindling</qex> her undazzled eyes at the full midday beam.</q> <rj><qau>Milton.</qau></rj></p>
 
-<p source=""><q>Could swell the soul to rage, or <qex>kindle</qex> soft desire.</q> <rj><qau>Dryden.</qau></rj></p>
+<p><q>Could swell the soul to rage, or <qex>kindle</qex> soft desire.</q> <rj><qau>Dryden.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Enkindle; light; ignite; inflame; provoke; excite; arouse; stir up.</syn></p>
 </entry>
@@ -2845,10 +2845,10 @@ And snows his power in variable <qex>kinds</qex> !</q> <rj><qau>Spenser.</qau></
 <qex>kindliness</qex> of seasons.</q> <rj><qau>Whitlock.</qau></rj></p>
 </entry>
 
-<entry main-word="Kindling" source="">
+<entry main-word="Kindling" source="1913 Webster">
 <p><hw>Kin"dling</hw> <pr>(k<icr/n"dl<icr/ng)</pr>, <pos>n.</pos> <sn>1.</sn> <def>The act of causing to burn, or of exciting or inflaming the passions.</def></p>
 
-<p source="1913 Webster"><sn>2.</sn> <def>Materials, easily lighted, for starting a fire, such as small twigs or paper; -- also used in the <pluf>pl.</pluf>.</def></p>
+<p><sn>2.</sn> <def>Materials, easily lighted, for starting a fire, such as small twigs or paper; -- also used in the <pluf>pl.</pluf>.</def></p>
 </entry>
 
 <entry main-word="Kindly" source="1913 Webster">
@@ -2897,7 +2897,7 @@ To catch the nearest way.</q> <rj><qau>Shak.</qau></rj></p>
 <p><q>Unremembered acts<br/
 Of <qex>kindness</qex> and of love.</q> <rj><qau>Wordsworth.</qau></rj></p>
 
-<p source=""><sn>2.</sn> <def>A kind act; an act of good will; <as>as, to do a great <ex>kindness</ex></as>.</def></p>
+<p><sn>2.</sn> <def>A kind act; an act of good will; <as>as, to do a great <ex>kindness</ex></as>.</def></p>
 
 <p><syn><b>Syn.</b> -- Good will; benignity; grace; tenderness; compassion; humanity; clemency; mildness; gentleness; goodness; generosity; beneficence; favor.</syn></p>
 </entry>
@@ -2909,7 +2909,7 @@ Of <qex>kindness</qex> and of love.</q> <rj><qau>Wordsworth.</qau></rj></p>
 
 <p><sn>2.</sn> <def>Relatives by blood or marriage, more properly the former; relations; persons related to each other.</def></p>
 
-<p source=""><q>I think there's no man is secure<br/
+<p><q>I think there's no man is secure<br/
 But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Kin; kinsfolk; relatives; kinsmen; relations; relationship; affinity.</syn></p>
@@ -2921,8 +2921,10 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <p><q>True to the <qex>kindred</qex> points of heaven and home.</q> <rj><qau>Wordsworth.</qau></rj></p>
 </entry>
 
-<entry main-word="Kine" source="">
-<p><hw>Kine</hw> <pr>(k<imac/n)</pr>, <pos>n. pl.</pos> <ety>[For older <ets>kyen</ets>, formed like <ets>oxen</ets>, fr. AS. <ets>c<ymac/</ets>, itself pl. of <ets>c<umac/</ets> cow. See <er>Cow</er>, and cf. <er>Kee</er>, <er>Kie</er>.]</ety> <def>Cows.</def> <ldquo/A herd of fifty or sixty <xex>kine</xex>.<rdquo/  <rj><au>Milton.</au></rj></p>
+<entry main-word="Kine" source="1913 Webster">
+<p><hw>Kine</hw> <pr>(k<imac/n)</pr>, <pos>n. pl.</pos> <ety>[For older <ets>kyen</ets>, formed like <ets>oxen</ets>, fr. AS. <ets>c<ymac/</ets>, itself pl. of <ets>c<umac/</ets> cow. See <er>Cow</er>, and cf. <er>Kee</er>, <er>Kie</er>.]</ety> <def>Cows.</def> <ldquo/A herd of fifty or sixty <xex>kine</xex>.<rdquo/  <rj><au>Macaulay.</au></rj></p>
+
+<p><q>A herd of beeves, fair oxen and fair <qex>kine</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Kinematic" source="1913 Webster">
@@ -2937,7 +2939,7 @@ But the queen's <qex>kindred</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 <p><note><hand/ Kinematics forms properly an introduction to mechanics, as involving the mathematical principles which are to be applied to its data of forces.</note>  <rj><au>Nichol.</au></rj></p>
 </entry>
 
-<entry main-word="Kinepox" source="">
+<entry main-word="Kinepox" source="1913 Webster">
 <p><hw>Kine"pox`</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Med.)</fld> <def>See <er>Cowpox</er>.</def></p>
 
 <p source="1913 Webster">Kin"e*scope <pr>(<?/)</pr>, <pos>n.</pos> <def>See <er>Kinetoscope</er>.</def></p>
@@ -3073,9 +3075,9 @@ Rejoicing in the east</q> <rj><qau>Thomson.</qau></rj></p>
 <p><q>You're welcome,<br/
 Most learned reverend sir, into our <qex>kingdom</qex>.</q> <rj><qau>Shak.</qau></rj></p>
 
-<p source="1913 Webster;;PJC"><sn>3.</sn> <def>An extensive scientific division distinguished by leading or ruling characteristics; a principal division; a department; <as>as, the mineral <ex>kingdom</ex></as>.  In modern biology, the division of life into five <ex>kingdoms</ex> is widely used for classification.</def> <ldquo/The animal and vegetable <xex>kingdoms</xex>.<rdquo/ <rj><qau>Locke.</qau></rj></p>
+<p><sn>3.</sn> <def>An extensive scientific division distinguished by leading or ruling characteristics; a principal division; a department; <as>as, the mineral <ex>kingdom</ex></as>.</def>  <note source="PJC">In modern biology, the division of life into five <ex>kingdoms</ex> is widely used for classification.</note> <ldquo/The animal and vegetable <xex>kingdoms</xex>.<rdquo/ <rj><qau>Locke.</qau></rj></p>
 
-<p source=""><cs><col>Animal kingdom</col>. <cd>See under <er>Animal</er>.</cd> -- <col>Kingdom of God</col>. <sd>(a)</sd> <cd>The universe.</cd> <sd>(b)</sd> <cd>That spiritual realm of which God is the acknowledged sovereign.</cd> <sd>(c)</sd> <cd>The authority or dominion of God.</cd> -- <col>Mineral kingdom</col>. <cd>See under <er>Mineral</er>.</cd> -- <col>United Kingdom</col>. <cd>See under <er>United</er>.</cd> -- <col>Vegetable kingdom</col>. <cd>See under <er>Vegetable</er>.</cd></cs></p>
+<p><cs><col>Animal kingdom</col>. <cd>See under <er>Animal</er>.</cd> -- <col>Kingdom of God</col>. <sd>(a)</sd> <cd>The universe.</cd> <sd>(b)</sd> <cd>That spiritual realm of which God is the acknowledged sovereign.</cd> <sd>(c)</sd> <cd>The authority or dominion of God.</cd> -- <col>Mineral kingdom</col>. <cd>See under <er>Mineral</er>.</cd> -- <col>United Kingdom</col>. <cd>See under <er>United</er>.</cd> -- <col>Vegetable kingdom</col>. <cd>See under <er>Vegetable</er>.</cd></cs></p>
 
 <p><syn><b>Syn.</b> -- Realm; empire; dominion; monarchy; sovereignty; domain.</syn></p>
 </entry>
@@ -3111,7 +3113,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><sn>2.</sn> <fld>(Zool.)</fld> <def>Any one of several species of small singing birds of the genus <gen>Regulus</gen> and family <fam>Sylviid<ae/</fam>.</def></p>
 
-<p source=""><note><hand/ The golden-crowned kinglet (<spn>Regulus satrapa</spn>), and the rubycrowned kinglet (<spn>Regulus calendula</spn>), are the most common American species. The common English kinglet (<spn>Regulus cristatus</spn>) is also called <altname>golden-crested wren</altname>, <altname>moonie</altname>, and <altname>marigold finch</altname>. The kinglets are often popularly called <altname>wrens</altname>, both in America and England.</note></p>
+<p><note><hand/ The golden-crowned kinglet (<spn>Regulus satrapa</spn>), and the rubycrowned kinglet (<spn>Regulus calendula</spn>), are the most common American species. The common English kinglet (<spn>Regulus cristatus</spn>) is also called <altname>golden-crested wren</altname>, <altname>moonie</altname>, and <altname>marigold finch</altname>. The kinglets are often popularly called <altname>wrens</altname>, both in America and England.</note></p>
 </entry>
 
 <entry main-word="Kinglihood" source="1913 Webster">
@@ -3131,7 +3133,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj></p>
 
 <p><q>The <qex>kingliest</qex> kings are crowned with thorn.</q> <rj><qau>G. Massey.</qau></rj></p>
 
-<p source=""><q>Leave <qex>kingly</qex> backs to cope with <qex>kingly</qex> cares.</q> <rj><qau>Cowper.</qau></rj></p>
+<p><q>Leave <qex>kingly</qex> backs to cope with <qex>kingly</qex> cares.</q> <rj><qau>Cowper.</qau></rj></p>
 
 <p><syn><b>Syn.</b> -- Regal; royal; monarchical; imperial; august; sovereign; noble; splendid.</syn> <usage> -- <er>Kingly</er>, <er>Regal</er>. <xex>Kingly</xex> is Anglo-Saxon, and refers especially to the character of a king; <xex>regal</xex> is Latin, and now relates more to his office. The former is chiefly used of dispositions, feelings, and purposes which are <xex>kinglike</xex>; as, <xex>kingly</xex> sentiments; <xex>kingly</xex> condescension; <ldquo/ a <xex>kingly</xex> heart for enterprises.<rdquo/ <au>Sir P. Sidney.</au> The latter is oftener applied to external state, pomp, etc.; as, <xex>regal</xex> state, <xex>regal</xex> title, etc. This distinction is not observed by our early writers, but is gaining ground.</usage></p>
 </entry>
@@ -3152,7 +3154,7 @@ And batters down himself.</q> <rj><qau>Shak.</qau></rj></p>
 <p><hw>King's Bench</hw> <pr>(?)</pr> <pos>n.</pos> <fld>(Law)</fld> <def>Formerly, the highest court of common law in England; -- so called because the king used to sit there in person. It consisted of a chief justice and four puisne, or junior, justices. During the reign of a queen it was called the <altname>Queen's Bench</altname>. Its jurisdiction was transferred by the judicature acts of 1873 and 1875 to the high court of justice created by that legislation.</def></p>
 </entry>
 
-<entry main-word="Kingship" source="">
+<entry main-word="Kingship" source="1913 Webster">
 <p><hw>King"ship</hw> <pr>(?)</pr>, <pos>n.</pos> <def>The state, office, or dignity of a king; royalty.</def>  <rj><au>Landor.</au></rj></p>
 </entry>
 

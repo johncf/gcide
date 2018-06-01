@@ -4590,7 +4590,7 @@ By what we do to-night.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Barbary" source="1913 Webster">
-<p><hw>Bar"ba*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[Fr. Ar. <ets>Barbar</ets> the people of Barbary.]</ety> <def>The countries on the north coast of Africa from Egypt to the Atlantic.</def>  <specif>Hence:</specif> <def>A Barbary horse; a barb.</def> <mark>[Obs.]</mark> <specif>Also,</specif> <def>a kind of pigeon.</def></p>
+<p><hw>Bar"ba*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[From Ar. <ets>Barbar</ets> the people of Barbary.]</ety> <def>The countries on the north coast of Africa from Egypt to the Atlantic.</def>  <specif>Hence:</specif> <def>A Barbary horse; a barb.</def> <mark>[Obs.]</mark> <specif>Also,</specif> <def>a kind of pigeon.</def></p>
 
 <p><cs><col>Barbary ape</col> <fld>(Zool.)</fld>, <cd>an ape (<spn>Macacus innuus</spn>) of north Africa and Gibraltar Rock, being the only monkey inhabiting Europe.  It is very commonly trained by showmen.</cd></cs></p>
 </entry>
@@ -14505,7 +14505,7 @@ Visit her face too roughly.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Bete noire" source="1913 Webster">
-<p><par/<hw>B<ecir/te" noire"</hw> <pr>(<?/)</pr>. <ety>[Fr., lit. black beast.]</ety> <def>Something especially hated or dreaded; a bugbear.</def></p>
+<p><par/<hw>B<ecir/te" noire"</hw> <pr>(<?/)</pr>. <ety>[F., lit. black beast.]</ety> <def>Something especially hated or dreaded; a bugbear.</def></p>
 </entry>
 
 <entry main-word="beth" source="WordNet 1.5">
@@ -36411,7 +36411,7 @@ With raven's feather from unwholesome fen.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="brut" source="PJC">
-<p><hw>brut</hw> <pr>(br<oomac/t)</pr>, <pos>a.</pos> <ety>[Fr. lit. rough.]</ety> <def>very dry; -- used of wine or champagne.</def></p>
+<p><hw>brut</hw> <pr>(br<oomac/t)</pr>, <pos>a.</pos> <ety>[F., lit. rough.]</ety> <def>very dry; -- used of wine or champagne.</def></p>
 </entry>
 
 <entry main-word="Bruta" source="1913 Webster">
@@ -38653,7 +38653,7 @@ A <qex>bump</qex> as big as a young cockerel's stone.</q> <rj><qau>Shak.</qau></
 </entry>
 
 <entry main-word="Bumpkin" source="1913 Webster">
-<p><hw>Bump"kin</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[The same word as <ets>bumkin</ets>, which Cotgrave defines thus: <ldquo/<ets>Bumkin</ets>, Fr. chicambault, the luffe-block, a long and thick piece of wood, whereunto the fore-sayle and sprit-sayle are fastened, when a ship goes by the winde.<rdquo/ Hence, a clumsy man may easily have been compared to such a block of wood; cf. OD. <ets>boomken</ets> a little tree. See <er>Boom</er> a pole.]</ety> <def>An awkward, heavy country fellow; a clown; a country lout.</def> <ldquo/Bashful country <xex>bumpkins</xex>.<rdquo/  <rj><au>W. Irving.</au></rj></p>
+<p><hw>Bump"kin</hw> <pr>(<?/)</pr>, <pos>n.</pos> <ety>[The same word as <ets>bumkin</ets>, which Cotgrave defines thus: <ldquo/<ets>Bumkin</ets>, F. chicambault, the luffe-block, a long and thick piece of wood, whereunto the fore-sayle and sprit-sayle are fastened, when a ship goes by the winde.<rdquo/ Hence, a clumsy man may easily have been compared to such a block of wood; cf. OD. <ets>boomken</ets> a little tree. See <er>Boom</er> a pole.]</ety> <def>An awkward, heavy country fellow; a clown; a country lout.</def> <ldquo/Bashful country <xex>bumpkins</xex>.<rdquo/  <rj><au>W. Irving.</au></rj></p>
 </entry>
 
 <entry main-word="bumpkinly" source="PJC;;WordNet 1.5">
@@ -39462,7 +39462,7 @@ So <qex>burdensome</qex>.</q> <rj><qau>Milton.</qau></rj></p>
 </entry>
 
 <entry main-word="Burglary" source="1913 Webster">
-<p><hw>Bur"gla*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burglaries</plw> <pr>(<?/)</pr>.</plu> <ety>[Fr. <er>Burglar</er>; cf. LL. <ets>burglaria</ets>.]</ety> <fld>(Law)</fld> <def>Breaking and entering the dwelling house of another, in the nighttime, with intent to commit a felony therein, whether the felonious purpose be accomplished or not.</def>  <rj><au>Wharton.</au>  <au>Burrill.</au></rj></p>
+<p><hw>Bur"gla*ry</hw> <pr>(<?/)</pr>, <pos>n.</pos>; <plu><it>pl.</it> <plw>Burglaries</plw> <pr>(<?/)</pr>.</plu> <ety>[From <er>Burglar</er>; cf. LL. <ets>burglaria</ets>.]</ety> <fld>(Law)</fld> <def>Breaking and entering the dwelling house of another, in the nighttime, with intent to commit a felony therein, whether the felonious purpose be accomplished or not.</def>  <rj><au>Wharton.</au>  <au>Burrill.</au></rj></p>
 
 <p><note><hand/ By statute law in some of the United States, <xex>burglary</xex> includes the breaking with felonious intent into a house by day as well as by night, and into other buildings than dwelling houses. Various degrees of the crime are established.</note></p>
 </entry>

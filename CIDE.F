@@ -12385,7 +12385,7 @@ where <it>e</it> is the base for natural logarithms.  Thus this type of decay is
 </entry>
 
 <entry main-word="Fistinut" source="1913 Webster">
-<p><hw>Fis"ti*nut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Fr. <ets>fistinq</ets>, <ets>fistuq</ets>. See <er>Pistachio</er>.]</ety> <def>A pistachio nut.</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj></p>
+<p><hw>Fis"ti*nut</hw> <pr>(?)</pr>, <pos>n.</pos> <ety>[Cf. Ar. <ets>fistiq</ets>, <ets>fistuq</ets>. See <er>Pistachio</er>.]</ety> <def>A pistachio nut.</def> <mark>[Obs.]</mark>  <rj><au>Johnson.</au></rj></p>
 </entry>
 
 <entry main-word="Fistuca" source="1913 Webster">
@@ -19186,7 +19186,7 @@ To trust man on his oath or bond.</q> <rj><qau>Shak.</qau></rj></p>
 </entry>
 
 <entry main-word="Fondant" source="Webster 1913 Suppl.;;WordNet 1.5">
-<p><par/<hw>Fon"dant</hw> <pr>(f<ocr/n"d<ait/nt; Fr. f<ocir/N`d<aum/N")</pr>, <pos>n.</pos> <ety>[F., lit., melting, p. pr. of <ets>fondre</ets> to melt, L. <ets>fundere</ets>. See <er>Found</er> to cast.]</ety> <def>A kind of soft candy, made of a thick creamy sugar paste by boiling solutions to the point of crystallization, and usually molded; <as>as, cherry <ex>fondant</ex></as>.</def></p>
+<p><par/<hw>Fon"dant</hw> <pr>(f<ocr/n"d<ait/nt; F. f<ocir/N`d<aum/N")</pr>, <pos>n.</pos> <ety>[F., lit., melting, p. pr. of <ets>fondre</ets> to melt, L. <ets>fundere</ets>. See <er>Found</er> to cast.]</ety> <def>A kind of soft candy, made of a thick creamy sugar paste by boiling solutions to the point of crystallization, and usually molded; <as>as, cherry <ex>fondant</ex></as>.</def></p>
 </entry>
 
 <entry main-word="Fonde" source="1913 Webster">
