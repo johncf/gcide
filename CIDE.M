@@ -26695,7 +26695,7 @@ Again in fancied safety with his kind.</q> <rj><qau>Byron.</qau></rj></p>
 </entry>
 
 <entry main-word="Mizzenmast" source="1913 Webster">
-<p><hw>Miz"zen*mast</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>The hindmost mast of a three-masted vessel, or of a yawl-rigged vessel; <extra source="WordNet 1.5">the after and shorter mast of a yawl, ketch, or dandy.</extra></def> <extra source="PJC"><note>The definition varies slightly with dictionary; in some dictionaries, it is the mast after the mainmast of a vessel of three or more masts.</note></extra></p>
+<p><hw>Miz"zen*mast</hw> <pr>(?)</pr>, <pos>n.</pos> <fld>(Naut.)</fld> <def>The hindmost mast of a three-masted vessel, or of a yawl-rigged vessel; <extra source="WordNet 1.5">the after and shorter mast of a yawl, ketch, or dandy.</extra></def> <note source="PJC">The definition varies slightly with dictionary; in some dictionaries, it is the mast after the mainmast of a vessel of three or more masts.</note></p>
 </entry>
 
 <entry main-word="Mizzle" source="1913 Webster">
