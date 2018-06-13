@@ -27798,54 +27798,6 @@ He <qex>modifies</qex> his first severe decree.</q> <rj><qau>Dryden.</qau></rj><
 
 <entry main-word="Mohammedan calendar" source="Webster 1913 Suppl.">
 <p><hw>Mo*ham"med*an cal"en*dar</hw>. <def>The Muslim calendar, a lunar calendar reckoning from the year of the hegira (hejira), 622 <sc>a. d.</sc> Thirty of its years constitute a cycle, of which the 2d, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th, and 29th are leap years, having 355 days; the others are common, having 354 days.</def></p>
-
-<p><note>By the following tables any Mohammedan date may be changed into the Christian date, or vice versa, for the years 1900-1935 <sc>a. d.</sc><br/
-<br/
-<b>Months of the Mohammedan year.</b><br/
-<br/
-<pre><tt>
- 1 <b>Muharram</b>  . . . . . 30
- 2 <b>Safar</b> . . . . . . . 29
- 3 <b>Rabia I</b> . . . . . . 30
- 4 <b>Rabia II</b>  . . . . . 29
- 5 <b>Jumada I</b>  . . . . . 30
- 6 <b>Jumada II</b> . . . . . 29
- 7 <b>Rajab</b> . . . . . . . 30
- 8 <b>Shaban</b>  . . . . . . 29
- 9 <b>Ramadan</b> . . . . . . 30
-10 <b>Shawwal</b> . . . . . . 29
-11 <b>Zu'lkadah</b> . . . . . 30
-12 <b>Zu'lhijjah</b>  . . . . 29*
-* in leap year, 30 days</tt></pre><br/
-<br/
-<pre><tt>
-<sc>a. h.</sc> <sc>a. d.</sc>  <sc>a. h.</sc>   <sc>a. d.</sc>
---------------------------------------------------------------
-1317   begins May 12, 1899        1336*  begins  Oct.17, 1917
-1318          May  1, 1900        1337           Oct. 7, 1918
-1319*         Apr.20, 1901        1338*          Sept.26,1919
-1320          Apr.10, 1902        1339           Sept.15,1920
-1321+         Mar.30, 1903        1340           Sept.4, 1921
-1322*         Mar.18, 1904        1341*          Aug.24, 1922
-1323          Mar. 8, 1905        1342           Aug.14, 1923
-1324          Feb.25, 1906        1343           Aug. 2, 1924
-1325*         Feb.14, 1907        1344*          July 22,1925
-1326          Feb. 4, 1908        1345           July 12,1926
-1327*         Jan.23, 1909        1346*          July 1, 1927
-1328          Jan.13, 1910        1347           June 20,1928
-1329          Jan. 2, 1911        1348           June 9, 1929
-1330*         Dec.22, 1911        1349*          May 29, 1930
-1331          Dec.11, 1912        1350           May 19, 1931
-1332          Nov.30, 1913        1351++         May  7, 1932
-1333*         Nov.19, 1914        1352*          Apr.26, 1933
-1334          Nov. 9, 1915        1353           Apr.16, 1934
-1335          Oct.28, 1916        1354           Apr. 5, 1935
---------------------------------------------------------------
-* Leap year  + First year of the 45th cycle
-++ First year of the 46th cycle
-</tt></pre><br/
-<br/
-   The following general rule for finding the date of commencement of any Mohammedan year has a maximum error of a day: Multiply 970,224 by the Mohammedan year, point off six decimal places, and add 621.5774. The whole number will be the year <sc>a. d.</sc>, and the decimal multiplied by 365 will give the day of the year.</note></p>
 </entry>
 
 <entry main-word="Mohammedan Era" source="Webster 1913 Suppl.">

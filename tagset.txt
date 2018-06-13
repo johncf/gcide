@@ -123,8 +123,6 @@ Tag           Font         Description
 
 <stypec>      Bold         collocation font, and also a subtype.
 
-<tt>                       HTML tag -- teletype font (mostly with <pre>)
-
 <xex>         italic       An emphasized word or phrase.
 
 <universbold>              A squared bold font without serifs approximating

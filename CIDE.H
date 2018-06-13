@@ -14700,22 +14700,7 @@ Tells how man's daily work goes forward here.</q> <rj><qau>Trench.</qau></rj></p
 </entry>
 
 <entry main-word="Hindoo calendar" source="Webster 1913 Suppl.">
-<p><mhw>{<hw>Hin"doo calendar</hw> <or/  <hw>Hindu calendar</hw>  }</mhw>. <def>A lunisolar calendar of India, according to which the year is divided into twelve months, with an extra month inserted after every month in which two new moons occur (once in three years).</def> <note>The intercalary month has the name of the one which precedes it. The year usually commences about April 11. The months are follows:</p>
-
-<p><pre>
-Baisakh . . . . . . . . . .    April-May
-Jeth . . . . . . . . . . . . . May-June
-Asarh . . . . . . . . . . . .  June-July
-Sawan (Sarawan) . . . . . . .  July-Aug.
-Bhadon . . . . . . . . . . .   Aug.-Sept.
-Asin (Kuar). . . . . . . . . . Sept.-Oct.
-Katik (Kartik) . . . . . . . . Oct.-Nov.
-Aghan . . . . . . . . . . . .  Nov.-Dec.
-Pus . . . . . . . . . . . . .  Dec.-Jan.
-Magh . . . . . . . . . . . . . Jan.-Feb.
-Phagun (Phalgun) . . . . . . . Feb.-March
-Chait . . . . . . . . . . . .  March-April
-</pre></note></p>
+<p><mhw>{<hw>Hin"doo calendar</hw> <or/  <hw>Hindu calendar</hw>  }</mhw>. <def>A lunisolar calendar of India, according to which the year is divided into twelve months, with an extra month inserted after every month in which two new moons occur (once in three years).</def></p>
 </entry>
 
 <entry main-word="Hindooism" source="1913 Webster">

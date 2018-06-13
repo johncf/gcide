@@ -16867,13 +16867,13 @@ My father stooped, re-fathered, o'er my wound.</q> <rj><qau>Tennyson.</qau></rj>
 
 <p><cs><col>By word of mouth</col>, <cd>orally; by actual speaking.</cd> <au>Boyle.</au> -- <col>Compound word</col>. <cd>See under <er>Compound</er>, <pos>a.</pos></cd> -- <col>Good word</col>, <cd>commendation; favorable account.</cd> <ldquo/And gave the harmless fellow a <xex>good word</xex>.<rdquo/ <au>Pope.</au> -- <col>In a word</col>, <cd>briefly; to sum up.</cd> -- <col>In word</col>, <cd>in declaration; in profession.</cd>  <ldquo/Let us not love <xex>in word</xex>, . . . but in deed and in truth.<rdquo/ <au>1 John iii. 8.</au> -- <col>Nuns of the Word Incarnate</col> <fld>(R. C. Ch.)</fld>, <cd>an order of nuns founded in France in 1625, and approved in 1638. The order, which also exists in the United States, was instituted for the purpose of doing honor to the <ldquo/Mystery of the Incarnation of the Son of God.<rdquo/</cd>  -- <mcol><col>The word</col>, <or/ <col>The Word</col></mcol>. <fld>(Theol.)</fld> <sd>(a)</sd> <cd>The gospel message; esp., the Scriptures, as a revelation of God.</cd>  <ldquo/Bold to speak <xex>the word</xex> without fear.<rdquo/ <au>Phil. i. 14.</au> <sd>(b)</sd> <cd>The second person in the Trinity before his manifestation in time by the incarnation; among those who reject a Trinity of persons, some one or all of the divine attributes personified.</cd> <au>John i. 1.</au> -- <col>To eat one's words</col>, <cd>to retract what has been said.</cd> -- <col>To have the words for</col>, <cd>to speak for; to act as spokesman.</cd>  <mark>[Obs.]</mark> <ldquo/Our host <xex>hadde the wordes for</xex> us all.<rdquo/ <au>Chaucer.</au> -- <col>Word blindness</col> <fld>(Physiol.)</fld>, <cd>inability to understand printed or written words or symbols, although the person affected may be able to see quite well, speak fluently, and write correctly.</cd> <au>Landois & Stirling.</au> -- <col>Word deafness</col> <fld>(Physiol.)</fld>, <cd>inability to understand spoken words, though the person affected may hear them and other sounds, and hence is not deaf.</cd> -- <col>Word dumbness</col> <fld>(Physiol.)</fld>, <cd>inability to express ideas in verbal language, though the power of speech is unimpaired.</cd> -- <col>Word for word</col>, <cd>in the exact words; verbatim; literally; exactly; <as>as, to repeat anything <ex>word for word</ex></as>.</cd> -- <col>Word painting</col>, <cd>the act of describing an object fully and vividly by words only, so as to present it clearly to the mind, as if in a picture.</cd> -- <col>Word picture</col>, <cd>an accurate and vivid description, which presents an object clearly to the mind, as if in a picture.</cd> -- <col>Word square</col>, <cd>a series of words so arranged that they can be read vertically and horizontally with like results.</cd></cs></p>
 
-<p><note><pre><tt>
+<p><note><pre>
 H E A R T
 E M B E R
 A B U S E
 R E S I N
 T R E N T
-</tt></pre><br/
+</pre><br/
 A word square<br/
 </note></p>
 
